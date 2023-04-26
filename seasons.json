@@ -1,0 +1,1691 @@
+{
+    "patreon": {
+        "title": "Patreon",
+        "id": "patreon",
+        "episodes": [
+            {
+                "title": "Clapcast Episode 0!",
+                "slug": "clapcast-episode-0",
+                "done": true,
+                "sorting_number": 0
+            },
+            {
+                "title": "Clapcast 01: Solo and Lovin' It",
+                "slug": "clapcast-01-solo-and-lovin-it",
+                "done": true,
+                "sorting_number": 1
+            },
+            {
+                "title": "Clapcast 02: Post-Annie Recordings",
+                "slug": "clapcast-02-post-annie-recordings",
+                "done": true,
+                "sorting_number": 2
+            },
+            {
+                "title": "Clapcast 03: Please Don't Tell Disney",
+                "slug": "clapcast-03-please-don-t-tell-disney",
+                "done": true,
+                "sorting_number": 3
+            },
+            {
+                "title": "Clapcast 04: A Train To Trollh\u00e4ttan",
+                "slug": "clapcast-04-a-train-to-trollhattan",
+                "done": true,
+                "sorting_number": 4
+            },
+            {
+                "title": "Clapcast 05: Pistachio Armor",
+                "slug": "clapcast-05-pistachio-armor",
+                "done": true,
+                "sorting_number": 5
+            },
+            {
+                "title": "Clapcast 06: On Dogs and Bullfrogs",
+                "slug": "clapcast-06-on-dogs-and-bullfrogs",
+                "done": true,
+                "sorting_number": 6
+            },
+            {
+                "title": "Clapcast 07: TableFriends Lets Play Spencers Dot Com",
+                "slug": "clapcast-07-tablefriends-lets-play-spencers-dot-com",
+                "done": true,
+                "sorting_number": 7
+            },
+            {
+                "title": "Clapcast 08: Brand Loyal to Happy Cow",
+                "slug": "clapcast-08-brand-loyal-to-happy-cow",
+                "done": true,
+                "sorting_number": 8
+            },
+            {
+                "title": "Clapcast 09: Behind the Bit: Art Isn't Boring",
+                "slug": "clapcast-09-behind-the-bit-art-isn-t-boring",
+                "done": true,
+                "sorting_number": 9
+            },
+            {
+                "title": "Clapcast 10: A Clapcast of Ghosts",
+                "slug": "clapcast-10-a-clapcast-of-ghosts",
+                "done": true,
+                "sorting_number": 10
+            },
+            {
+                "title": "Clapcast 11: That's Not How Sonic Goes",
+                "slug": "clapcast-11-that-s-not-how-sonic-goes",
+                "done": true,
+                "sorting_number": 11
+            },
+            {
+                "title": "Clapcast 12: FatT Blingee Contest",
+                "slug": "clapcast-12-fatt-blingee-contest",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1l7NU790dyS15K9tGbQPeoJ5wnM2bx28NXnn5UaEyjeo"
+            },
+            {
+                "title": "Clapcast 12.5: Bluff City 10.5",
+                "slug": "clapcast-12-5-bluff-city-10-5",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1UkEopaca6q6kaKre9HTSThpUj0rU0LQGTcejBgZ0O48"
+            },
+            {
+                "title": "Clapcast 13: A Loud F*ckin' Year",
+                "slug": "clapcast-13-a-loud-f-ckin-year",
+                "done": true,
+                "sorting_number": 14
+            },
+            {
+                "title": "Clapcast 14: No Crimes on Air",
+                "slug": "clapcast-14-no-crimes-on-air",
+                "done": true,
+                "sorting_number": 15
+            },
+            {
+                "title": "Clapcast 15: Approximately Three Extra Inches of Hot Dog",
+                "slug": "clapcast-15-approximately-three-extra-inches-of-hot-dog",
+                "done": true,
+                "sorting_number": 16
+            },
+            {
+                "title": "Clapcast 16: That Glow Moment",
+                "slug": "clapcast-16-that-glow-moment",
+                "done": true,
+                "sorting_number": 17
+            },
+            {
+                "title": "Clapcast 17: Mr. Sir Papa Shells Comin' In Hot",
+                "slug": "clapcast-17-mr-sir-papa-shells-comin-in-hot",
+                "done": true,
+                "sorting_number": 18
+            },
+            {
+                "title": "Clapcast 18: Open to Big John Sponsorships",
+                "slug": "clapcast-18-open-to-big-john-sponsorships",
+                "done": true,
+                "sorting_number": 19
+            },
+            {
+                "title": "Clapcast 19 - Hot Grapey Revealed (March 2019)",
+                "slug": "clapcast-19-hot-grapey-revealed-march-2019",
+                "done": true,
+                "sorting_number": 20
+            },
+            {
+                "title": "Clapcast 20: Will Smith's Elf Ears",
+                "slug": "clapcast-20-will-smith-s-elf-ears",
+                "done": true,
+                "sorting_number": 21
+            },
+            {
+                "title": "Clapcast 21: The Community",
+                "slug": "clapcast-21-the-community",
+                "done": true,
+                "sorting_number": 22
+            },
+            {
+                "title": "Clapcast 22: Mark Roughalo",
+                "slug": "clapcast-22-mark-roughalo",
+                "done": true,
+                "sorting_number": 23
+            },
+            {
+                "title": "Clapcast 23: Beat The Heat (July 2019)",
+                "slug": "clapcast-23-beat-the-heat-july-2019",
+                "done": true,
+                "sorting_number": 24
+            },
+            {
+                "title": "Clapcast 24: Goodbye Hieron! (August 2019)",
+                "slug": "clapcast-24-goodbye-hieron-august-2019",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1Pw4RIf4U43xFVsZepudrCHC96C-iXH5bScEcWQbLBWI"
+            },
+            {
+                "title": "Clapcast 25: Slept Through the Hogs (September 2019)",
+                "slug": "clapcast-25-slept-through-the-hogs-september-2019",
+                "done": true,
+                "sorting_number": 26
+            },
+            {
+                "title": "Clapcast 26: Affordable Worry Egg (October 2019)",
+                "slug": "clapcast-26-affordable-worry-egg-october-2019",
+                "done": true,
+                "sorting_number": 27
+            },
+            {
+                "title": "Clapcast 27: Who Gets the Costco Card? (A Partizan 00 Companion Episode) (November 2019)",
+                "slug": "clapcast-27-who-gets-the-costco-card-a-partizan-00-companion-episode-november-2019",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1e2RfdldXCPorWkq7vo0BMx0TXPI_BwAXhtl1P9f6sCU"
+            },
+            {
+                "title": "Clapcast 28: Yaddle the Martian (December 2019)",
+                "slug": "clapcast-28-yaddle-the-martian-december-2019",
+                "done": true,
+                "sorting_number": 29
+            },
+            {
+                "title": "Clapcast 29: The Mole the Merrier (January 2020)",
+                "slug": "clapcast-29-the-mole-the-merrier-january-2020",
+                "done": true,
+                "sorting_number": 30
+            },
+            {
+                "title": "Clapcast 30: Trailer Spoilers (February 2020)",
+                "slug": "clapcast-30-trailer-spoilers-february-2020",
+                "done": true,
+                "sorting_number": 31
+            },
+            {
+                "title": "Clapcast 31: The Glitter Article (March 2020)",
+                "slug": "clapcast-31-the-glitter-article-march-2020",
+                "done": true,
+                "sorting_number": 32
+            },
+            {
+                "title": "Clapcast 32: Caution: Noise! (April 2020)",
+                "slug": "clapcast-32-caution-noise-april-2020",
+                "done": true,
+                "sorting_number": 33
+            },
+            {
+                "title": "Clapcast 33: Daylight Microwave Savings (May 2020)",
+                "slug": "clapcast-33-daylight-microwave-savings-may-2020",
+                "done": true,
+                "sorting_number": 34
+            },
+            {
+                "title": "Clapcast 34: The Kingdom Clapcast!!! (June 2020)",
+                "slug": "clapcast-34-the-kingdom-clapcast-june-2020",
+                "done": false,
+                "sorting_number": 35
+            },
+            {
+                "title": "Clapcast 35: The Scarlet Deceiver (July 2020)",
+                "slug": "clapcast-35-the-scarlet-deceiver-july-2020",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1EWxRJbmWmK1Rvgmx-Fa53fplsfzvqOa034Zvkk9y5BA"
+            },
+            {
+                "title": "Clapcast 36: Pratfalls By Example (August 2020)",
+                "slug": "clapcast-36-pratfalls-by-example-august-2020",
+                "done": false,
+                "sorting_number": 37
+            },
+            {
+                "title": "Clapcast 37: Pull Up! (September 2020)",
+                "slug": "clapcast-37-pull-up-september-2020",
+                "done": false,
+                "sorting_number": 38
+            },
+            {
+                "title": "Clapcast 38: Broccoli Tweets (October 2020 + Good Society Announcement!)",
+                "slug": "clapcast-38-broccoli-tweets-october-2020-good-society-announcement",
+                "done": true,
+                "sorting_number": 39
+            },
+            {
+                "title": "Clapcast 39: That's Hot Water For You! (November 2020)",
+                "slug": "clapcast-39-that-s-hot-water-for-you-november-2020",
+                "done": true,
+                "sorting_number": 40
+            },
+            {
+                "title": "Clapcast 40: Toaster Streusel (December 2020)",
+                "slug": "clapcast-40-toaster-streusel-december-2020",
+                "done": true,
+                "sorting_number": 41
+            },
+            {
+                "title": "Clapcast 41: Nightmare! (January 2021) + Quest tomorrow!",
+                "slug": "clapcast-41-nightmare-january-2021-quest-tomorrow",
+                "done": false,
+                "sorting_number": 42
+            },
+            {
+                "title": "Clapcast 42: Snack Talk (February 2021)",
+                "slug": "clapcast-42-snack-talk-february-2021",
+                "done": false,
+                "sorting_number": 43
+            },
+            {
+                "title": "Clapcast 43: A Normal Name (March 2021)",
+                "slug": "clapcast-43-a-normal-name-march-2021",
+                "done": false,
+                "sorting_number": 44
+            },
+            {
+                "title": "Clapcast 44: Two Conversations about Cat Poop (April 2021 + POSTCARD ANNOUNCEMENET!))",
+                "slug": "clapcast-44-two-conversations-about-cat-poop-april-2021-postcard-announcemenet",
+                "done": false,
+                "sorting_number": 45
+            },
+            {
+                "title": "Clapcast 45: Never Ending Pasta Math (May 2021)",
+                "slug": "clapcast-45-never-ending-pasta-math-may-2021",
+                "done": false,
+                "sorting_number": 46
+            },
+            {
+                "title": "Clapcast 46: New Italians (June 2021)",
+                "slug": "clapcast-46-new-italians-june-2021",
+                "done": false,
+                "sorting_number": 47
+            },
+            {
+                "title": "Clapcast 47: Tilting at Windmills (July 2021)",
+                "slug": "clapcast-47-tilting-at-windmills-july-2021",
+                "done": false,
+                "sorting_number": 48
+            },
+            {
+                "title": "Clapcast 48: It's Coming Home (August 2021)",
+                "slug": "clapcast-48-it-s-coming-home-august-2021",
+                "done": false,
+                "sorting_number": 49
+            },
+            {
+                "title": "Clapcast 49: Echidna Eggs (September 2021)",
+                "slug": "clapcast-49-echidna-eggs-september-2021",
+                "done": false,
+                "sorting_number": 50
+            },
+            {
+                "title": "Clapcast 50: The Most Wanted Song",
+                "slug": "clapcast-50-the-most-wanted-song",
+                "done": false,
+                "sorting_number": 51,
+                "docs_id": "1VhGav9wNZGqqwtKBIof7rmRL2WIZJK6rvntjcc78Wzo"
+            },
+            {
+                "title": "Clapcast 51: Little Eyeball Guy",
+                "slug": "clapcast-51-little-eyeball-guy",
+                "done": false,
+                "sorting_number": 52
+            },
+            {
+                "title": "Clapcast 52: Jonathan's Here",
+                "slug": "clapcast-52-jonathan-s-here",
+                "done": false,
+                "sorting_number": 53
+            },
+            {
+                "title": "Clapcast 53: Dollar Research (+Drawing Maps tonight!)",
+                "slug": "clapcast-53-dollar-research-drawing-maps-tonight",
+                "done": false,
+                "sorting_number": 54
+            },
+            {
+                "title": "Clapcast 54: Dinosaurs are Dragons",
+                "slug": "clapcast-54-dinosaurs-are-dragons",
+                "done": false,
+                "sorting_number": 55
+            },
+            {
+                "title": "Clapcast 55: His and Hers Kitchens",
+                "slug": "clapcast-55-his-and-hers-kitchens",
+                "done": false,
+                "sorting_number": 56
+            },
+            {
+                "title": "Clapcast 56: Bubbling Like Shrimp",
+                "slug": "clapcast-56-bubbling-like-shrimp",
+                "done": false,
+                "sorting_number": 57
+            },
+            {
+                "title": "Clapcast 57: Pro-Worker Quotes",
+                "slug": "clapcast-57-pro-worker-quotes",
+                "done": false,
+                "sorting_number": 58
+            },
+            {
+                "title": "Clapcast 58: Nine Deep Sea Creatures (with video)",
+                "slug": "clapcast-58-nine-deep-sea-creatures-with-video",
+                "done": false,
+                "sorting_number": 59
+            },
+            {
+                "title": "Clapcast 59: Gotta Keep Reading",
+                "slug": "clapcast-59-gotta-keep-reading",
+                "done": false,
+                "sorting_number": 60
+            },
+            {
+                "title": "Clapcast 60: Inimicus",
+                "slug": "clapcast-60-inimicus",
+                "done": false,
+                "sorting_number": 61
+            },
+            {
+                "title": "Clapcast 61: Set It and Forget It",
+                "slug": "clapcast-61-set-it-and-forget-it",
+                "done": false,
+                "sorting_number": 62
+            },
+            {
+                "title": "Clapcast 62: Neon Tetra",
+                "slug": "clapcast-62-neon-tetra",
+                "done": false,
+                "sorting_number": 63
+            },
+            {
+                "title": "Clapcast 63: Personal Submarines",
+                "slug": "clapcast-63-personal-submarines",
+                "done": false,
+                "sorting_number": 64
+            },
+            {
+                "title": "Clapcast 64: Peter's Elephantnose fish",
+                "slug": "clapcast-64-peter-s-elephantnose-fish",
+                "done": false,
+                "sorting_number": 65
+            },
+            {
+                "title": "Tips at the Table Episode 01: Let's Not Name Names (+ Huge Thanks!)",
+                "slug": "tips-at-the-table-episode-01-let-s-not-name-names-huge-thanks",
+                "done": true,
+                "sorting_number": 66
+            },
+            {
+                "title": "Tips at the Table 02: Jennifer and Todd",
+                "slug": "tips-at-the-table-02-jennifer-and-todd",
+                "done": false,
+                "sorting_number": 67
+            },
+            {
+                "title": "Tips at the Table 03: Production Chat",
+                "slug": "tips-at-the-table-03-production-chat",
+                "done": true,
+                "sorting_number": 68
+            },
+            {
+                "title": "Tips at the Table 04: Austin Walker GM Bingo",
+                "slug": "tips-at-the-table-04-austin-walker-gm-bingo",
+                "done": true,
+                "sorting_number": 69
+            },
+            {
+                "title": "Tips at the Table 05: All About Fronts!, Or: A Preview for Drawing Maps",
+                "slug": "tips-at-the-table-05-all-about-fronts-or-a-preview-for-drawing-maps",
+                "done": false,
+                "sorting_number": 70
+            },
+            {
+                "title": "Tips at the Table 06: Players Only, Baby!!",
+                "slug": "tips-at-the-table-06-players-only-baby",
+                "done": false,
+                "sorting_number": 71
+            },
+            {
+                "title": "Tips at the Table 07: Blades and Villainy",
+                "slug": "tips-at-the-table-07-blades-and-villainy",
+                "done": true,
+                "sorting_number": 72
+            },
+            {
+                "title": "Tips at the Table 08: Hookah Immersion",
+                "slug": "tips-at-the-table-08-hookah-immersion",
+                "done": true,
+                "sorting_number": 73
+            },
+            {
+                "title": "Tips at the Table 09: Flawless Combination of Words",
+                "slug": "tips-at-the-table-09-flawless-combination-of-words",
+                "done": true,
+                "sorting_number": 74
+            },
+            {
+                "title": "Tips at the Table 10: Let Me Answer This One Not As A Joke",
+                "slug": "tips-at-the-table-10-let-me-answer-this-one-not-as-a-joke",
+                "done": true,
+                "sorting_number": 75
+            },
+            {
+                "title": "Tips at the Table 11: Weekend Edition",
+                "slug": "tips-at-the-table-11-weekend-edition",
+                "done": true,
+                "sorting_number": 76
+            },
+            {
+                "title": "Tips at the Table 12: Like Diners For Frogs",
+                "slug": "tips-at-the-table-12-like-diners-for-frogs",
+                "done": true,
+                "sorting_number": 77
+            },
+            {
+                "title": "Tips at the Table 13: Spoiler Alert",
+                "slug": "tips-at-the-table-13-spoiler-alert",
+                "done": true,
+                "sorting_number": 78
+            },
+            {
+                "title": "Tips at the Table 14: August 2018",
+                "slug": "tips-at-the-table-14-august-2018",
+                "done": true,
+                "sorting_number": 79
+            },
+            {
+                "title": "Tips at the Table 15: Cheating Is Fine",
+                "slug": "tips-at-the-table-15-cheating-is-fine",
+                "done": true,
+                "sorting_number": 80
+            },
+            {
+                "title": "Tips at the Table 16: Hackers Welcome! (October)",
+                "slug": "tips-at-the-table-16-hackers-welcome-october",
+                "done": false,
+                "sorting_number": 81
+            },
+            {
+                "title": "Tips at the Table 17: Kylo Ren Logged In (November)",
+                "slug": "tips-at-the-table-17-kylo-ren-logged-in-november",
+                "done": true,
+                "sorting_number": 82
+            },
+            {
+                "title": "Tips at the Table 18: The Thing with The Thing with The Guy",
+                "slug": "tips-at-the-table-18-the-thing-with-the-thing-with-the-guy",
+                "done": false,
+                "sorting_number": 83
+            },
+            {
+                "title": "Tips at the Table 19: Queen Anne's Get Away Boots (January)",
+                "slug": "tips-at-the-table-19-queen-anne-s-get-away-boots-january",
+                "done": true,
+                "sorting_number": 84
+            },
+            {
+                "title": "Tips at the Table 20: You'd Hate My Bard",
+                "slug": "tips-at-the-table-20-you-d-hate-my-bard",
+                "done": true,
+                "sorting_number": 85
+            },
+            {
+                "title": "Tips at the Table 21: Pet Goku (March)",
+                "slug": "tips-at-the-table-21-pet-goku-march",
+                "done": true,
+                "sorting_number": 86
+            },
+            {
+                "title": "Tips at the Table 22: Improving Darth Icky (April)",
+                "slug": "tips-at-the-table-22-improving-darth-icky-april",
+                "done": true,
+                "sorting_number": 87
+            },
+            {
+                "title": "Tips at the Table 23: Who Knows Sephiroth? (May)",
+                "slug": "tips-at-the-table-23-who-knows-sephiroth-may",
+                "done": false,
+                "sorting_number": 88
+            },
+            {
+                "title": "Tips at the Table 24: No One at the Table (June 2019)",
+                "slug": "tips-at-the-table-24-no-one-at-the-table-june-2019",
+                "done": true,
+                "sorting_number": 89
+            },
+            {
+                "title": "Tips at the Table 25: High School Canon Name Generator (July 2019)",
+                "slug": "tips-at-the-table-25-high-school-canon-name-generator-july-2019",
+                "done": true,
+                "sorting_number": 90
+            },
+            {
+                "title": "Tips at the Table 26: Left Instead of Right (August 2019)",
+                "slug": "tips-at-the-table-26-left-instead-of-right-august-2019",
+                "done": true,
+                "sorting_number": 91
+            },
+            {
+                "title": "Tips at the Table 27: Sandwiches at the Table (September 2019)",
+                "slug": "tips-at-the-table-27-sandwiches-at-the-table-september-2019",
+                "done": true,
+                "sorting_number": 92
+            },
+            {
+                "title": "Tips at the Table 28: Prewritten Conquests (October 2019)",
+                "slug": "tips-at-the-table-28-prewritten-conquests-october-2019",
+                "done": true,
+                "sorting_number": 93
+            },
+            {
+                "title": "Tips at the Table 29: How Old is Too Old (November 2019)",
+                "slug": "tips-at-the-table-29-how-old-is-too-old-november-2019",
+                "done": true,
+                "sorting_number": 94
+            },
+            {
+                "title": "Tips at the Table 30: Double Ayyyou! (December 2019)",
+                "slug": "tips-at-the-table-30-double-ayyyou-december-2019",
+                "done": true,
+                "sorting_number": 95
+            },
+            {
+                "title": "Tips at the Table 31: Meat Grinder Thing (January 2019)",
+                "slug": "tips-at-the-table-31-meat-grinder-thing-january-2019",
+                "done": false,
+                "sorting_number": 96
+            },
+            {
+                "title": "Tips at the Table 32: The Point of Saw (February 2020)",
+                "slug": "tips-at-the-table-32-the-point-of-saw-february-2020",
+                "done": true,
+                "sorting_number": 97
+            },
+            {
+                "title": "Tips at the Table 33: 5% of 50 Different Topics (March 2020)",
+                "slug": "tips-at-the-table-33-5-of-50-different-topics-march-2020",
+                "done": true,
+                "sorting_number": 98
+            },
+            {
+                "title": "Tips at the Table 34: A Different Anxiety (April 2020)",
+                "slug": "tips-at-the-table-34-a-different-anxiety-april-2020",
+                "done": true,
+                "sorting_number": 99
+            },
+            {
+                "title": "Tips at the Table 35: May 2020 - Podcast",
+                "slug": "tips-at-the-table-35-may-2020-podcast",
+                "done": false,
+                "sorting_number": 100
+            },
+            {
+                "title": "Tips at the Table 36: June 2020",
+                "slug": "tips-at-the-table-36-june-2020",
+                "done": false,
+                "sorting_number": 101
+            },
+            {
+                "title": "Tips at the Table 37: Thinking About Planets & Eating a Donut (July 2020)",
+                "slug": "tips-at-the-table-37-thinking-about-planets-eating-a-donut-july-2020",
+                "done": false,
+                "sorting_number": 102
+            },
+            {
+                "title": "Tips at the Table 38: Babysitting Old Ideas (August 2020)",
+                "slug": "tips-at-the-table-38-babysitting-old-ideas-august-2020",
+                "done": false,
+                "sorting_number": 103
+            },
+            {
+                "title": "Tips at the Table 39: Hobby Burnout (September 2020)",
+                "slug": "tips-at-the-table-39-hobby-burnout-september-2020",
+                "done": false,
+                "sorting_number": 104
+            },
+            {
+                "title": "Tips at the Table 40: Fruit vs Be (October 2020)",
+                "slug": "tips-at-the-table-40-fruit-vs-be-october-2020",
+                "done": false,
+                "sorting_number": 105
+            },
+            {
+                "title": "Tips at the Table 41: Stuck on Slugs (November 2020)",
+                "slug": "tips-at-the-table-41-stuck-on-slugs-november-2020",
+                "done": false,
+                "sorting_number": 106
+            },
+            {
+                "title": "Tips at the Table 42: Your First Dream (December 2020)",
+                "slug": "tips-at-the-table-42-your-first-dream-december-2020",
+                "done": false,
+                "sorting_number": 107
+            },
+            {
+                "title": "Tips at the Table 43: Nightor and the Curtains (January 2021)",
+                "slug": "tips-at-the-table-43-nightor-and-the-curtains-january-2021",
+                "done": false,
+                "sorting_number": 108
+            },
+            {
+                "title": "Tips at the Table 44: #SylviSurprise (February 2021)",
+                "slug": "tips-at-the-table-44-sylvisurprise-february-2021",
+                "done": false,
+                "sorting_number": 109
+            },
+            {
+                "title": "Tips at the Table 45: Most Real Answer (March 2021)",
+                "slug": "tips-at-the-table-45-most-real-answer-march-2021",
+                "done": false,
+                "sorting_number": 110
+            },
+            {
+                "title": "Tips at the Table 46: A Basket of Balls (April 2021)",
+                "slug": "tips-at-the-table-46-a-basket-of-balls-april-2021",
+                "done": false,
+                "sorting_number": 111
+            },
+            {
+                "title": "Tips at the Table 47: Juggle with You (May 2021)",
+                "slug": "tips-at-the-table-47-juggle-with-you-may-2021",
+                "done": false,
+                "sorting_number": 112
+            },
+            {
+                "title": "Live at the Table 01: Downfall Audio",
+                "slug": "live-at-the-table-01-downfall-audio",
+                "done": true,
+                "sorting_number": 113
+            },
+            {
+                "title": "Live at the Table 02: Golden Sky Stories",
+                "slug": "live-at-the-table-02-golden-sky-stories",
+                "done": true,
+                "sorting_number": 114
+            },
+            {
+                "title": "Live at the Table 03: The Skeletons Archive!",
+                "slug": "live-at-the-table-03-the-skeletons-archive",
+                "done": false,
+                "sorting_number": 115
+            },
+            {
+                "title": "Live at the Table 04: October 2017 - Part 1 Misspent Youth",
+                "slug": "live-at-the-table-04-october-2017-part-1-misspent-youth",
+                "done": false,
+                "sorting_number": 116
+            },
+            {
+                "title": "Live at the Table 04:October 2017 - Part 2 Misspent Youth",
+                "slug": "live-at-the-table-04-october-2017-part-2-misspent-youth",
+                "done": false,
+                "sorting_number": 117
+            },
+            {
+                "title": "Live at the Table 05 Audio: November 2017 - Fall of Magic Pt.1",
+                "slug": "live-at-the-table-05-audio-november-2017-fall-of-magic-pt-1",
+                "done": false,
+                "sorting_number": 118
+            },
+            {
+                "title": "Live at the Table 06 Audio: December 2017 - Primetime Adventures Show & Character Creation",
+                "slug": "live-at-the-table-06-audio-december-2017-primetime-adventures-show-character-creation",
+                "done": true,
+                "sorting_number": 119
+            },
+            {
+                "title": "Live at the Table 05 Audio: January 2018 - Fall of Magic Pt. 2",
+                "slug": "live-at-the-table-05-audio-january-2018-fall-of-magic-pt-2",
+                "done": false,
+                "sorting_number": 120
+            },
+            {
+                "title": "Live at the Table 07: Feburary 2018 Audio Lady Blackbird",
+                "slug": "live-at-the-table-07-feburary-2018-audio-lady-blackbird",
+                "done": true,
+                "sorting_number": 121
+            },
+            {
+                "title": "Live at the Table 06 Audio: March 2018 - Primetime Adventures Pt. 1",
+                "slug": "live-at-the-table-06-audio-march-2018-primetime-adventures-pt-1",
+                "done": false,
+                "sorting_number": 122
+            },
+            {
+                "title": "Live at the Table 05 Audio: April 2018 - Fall of Magic: Finale",
+                "slug": "live-at-the-table-05-audio-april-2018-fall-of-magic-finale",
+                "done": true,
+                "sorting_number": 123
+            },
+            {
+                "title": "Live at the Table 08 Audio: May 2018 - Dream Askew",
+                "slug": "live-at-the-table-08-audio-may-2018-dream-askew",
+                "done": false,
+                "sorting_number": 124
+            },
+            {
+                "title": "Live at the Table 09 August 2018: Fiasco! Pt. 1",
+                "slug": "live-at-the-table-09-august-2018-fiasco-pt-1",
+                "done": true,
+                "sorting_number": 125
+            },
+            {
+                "title": "Live at the Table 09 August 2018: Fiasco! Pt. 2",
+                "slug": "live-at-the-table-09-august-2018-fiasco-pt-2",
+                "done": true,
+                "sorting_number": 126
+            },
+            {
+                "title": "Live at the Table 10 September: The Very First Episode",
+                "slug": "live-at-the-table-10-september-the-very-first-episode",
+                "done": false,
+                "sorting_number": 127,
+                "docs_id": "1RL_XKnWH5BcktCvcc5LbF0Sx5texvATE19OJ2lQyd4w"
+            },
+            {
+                "title": "Live at the Table 11 October Audio: BFF at SHUX Live Show (+Quick Update!)",
+                "slug": "live-at-the-table-11-october-audio-bff-at-shux-live-show-quick-update",
+                "done": true,
+                "sorting_number": 128
+            },
+            {
+                "title": "Live at the Table 12 November Audio: Honey Heist",
+                "slug": "live-at-the-table-12-november-audio-honey-heist",
+                "done": true,
+                "sorting_number": 129
+            },
+            {
+                "title": "Live at the Table 13 December 2018: Shooting The Moon Pt 1",
+                "slug": "live-at-the-table-13-december-2018-shooting-the-moon-pt-1",
+                "done": true,
+                "sorting_number": 130
+            },
+            {
+                "title": "Live at the Table 13 December 2018: Shooting The Moon Pt 2",
+                "slug": "live-at-the-table-13-december-2018-shooting-the-moon-pt-2",
+                "done": true,
+                "sorting_number": 131
+            },
+            {
+                "title": "Live at the Table 14 January Audio: Dialect Pt. 1",
+                "slug": "live-at-the-table-14-january-audio-dialect-pt-1",
+                "done": true,
+                "sorting_number": 132
+            },
+            {
+                "title": "Live at the Table 14 January Audio: Dialect Pt. 2",
+                "slug": "live-at-the-table-14-january-audio-dialect-pt-2",
+                "done": true,
+                "sorting_number": 133
+            },
+            {
+                "title": "Live at the Table 15: February 2019 R2S6 Armour Astir (Part 1)",
+                "slug": "live-at-the-table-15-february-2019-r2s6-armour-astir-part-1",
+                "done": true,
+                "sorting_number": 134
+            },
+            {
+                "title": "Live at the Table 15: February 2019 R2S6 Armour Astir (Part 2)",
+                "slug": "live-at-the-table-15-february-2019-r2s6-armour-astir-part-2",
+                "done": true,
+                "sorting_number": 135
+            },
+            {
+                "title": "Live at the Table 16: March 2019 R2S6 Ech0 & dusk to midnight",
+                "slug": "live-at-the-table-16-march-2019-r2s6-ech0-dusk-to-midnight",
+                "done": true,
+                "sorting_number": 136
+            },
+            {
+                "title": "Live at the Table 17: April 2019 R2S6 Beam Saber",
+                "slug": "live-at-the-table-17-april-2019-r2s6-beam-saber",
+                "done": true,
+                "sorting_number": 137
+            },
+            {
+                "title": "Live at the Table 18: May 2019 R2S6 For the Queen",
+                "slug": "live-at-the-table-18-may-2019-r2s6-for-the-queen",
+                "done": true,
+                "sorting_number": 138
+            },
+            {
+                "title": "Live at the Table 19: June 2019 R2S6 Microscope (Part 1)",
+                "slug": "live-at-the-table-19-june-2019-r2s6-microscope-part-1",
+                "done": true,
+                "sorting_number": 139
+            },
+            {
+                "title": "Live at the Table 19: June 2019 R2S6 Microscope (Part 2)",
+                "slug": "live-at-the-table-19-june-2019-r2s6-microscope-part-2",
+                "done": true,
+                "sorting_number": 140
+            },
+            {
+                "title": "Live at the Table 20: July 2019 - Audio GenCon Marielda",
+                "slug": "live-at-the-table-20-july-2019-audio-gencon-marielda",
+                "done": true,
+                "sorting_number": 141
+            },
+            {
+                "title": "Live at the Table 06: August 2019 - Primetime Adventures Pt. 2",
+                "slug": "live-at-the-table-06-august-2019-primetime-adventures-pt-2",
+                "done": true,
+                "sorting_number": 142
+            },
+            {
+                "title": "Live at the Table 21: September 2019 - Stewpot Pt. 1",
+                "slug": "live-at-the-table-21-september-2019-stewpot-pt-1",
+                "done": true,
+                "sorting_number": 143
+            },
+            {
+                "title": "Live at the Table 22: October 2019 - Anomaly Pt. 1",
+                "slug": "live-at-the-table-22-october-2019-anomaly-pt-1",
+                "done": true,
+                "sorting_number": 144
+            },
+            {
+                "title": "Live at the Table 22: October 2019 - Anomaly Pt. 2",
+                "slug": "live-at-the-table-22-october-2019-anomaly-pt-2",
+                "done": true,
+                "sorting_number": 145
+            },
+            {
+                "title": "Live at the Table 13: November 2019 - Shooting the Moon Pt. 3",
+                "slug": "live-at-the-table-13-november-2019-shooting-the-moon-pt-3",
+                "done": true,
+                "sorting_number": 146
+            },
+            {
+                "title": "Live at the Table 13: November 2019 - Shooting the Moon Pt. 4",
+                "slug": "live-at-the-table-13-november-2019-shooting-the-moon-pt-4",
+                "done": false,
+                "sorting_number": 147
+            },
+            {
+                "title": "Live at the Table 21: December 2019 - Stewpot Pt. 2",
+                "slug": "live-at-the-table-21-december-2019-stewpot-pt-2",
+                "done": true,
+                "sorting_number": 148
+            },
+            {
+                "title": "Live at the Table 23: January 2020 - Beak, Feather & Bone",
+                "slug": "live-at-the-table-23-january-2020-beak-feather-bone",
+                "done": false,
+                "sorting_number": 149
+            },
+            {
+                "title": "Live at the Table 24: February 2020 - Bell Songs",
+                "slug": "live-at-the-table-24-february-2020-bell-songs",
+                "done": true,
+                "sorting_number": 150
+            },
+            {
+                "title": "Live at the Table 24: March 2020 - Bell Songs Pt. 2",
+                "slug": "live-at-the-table-24-march-2020-bell-songs-pt-2",
+                "done": false,
+                "sorting_number": 151
+            },
+            {
+                "title": "Live at the Table 25: April 2020 - Spoken Magic",
+                "slug": "live-at-the-table-25-april-2020-spoken-magic",
+                "done": true,
+                "sorting_number": 152
+            },
+            {
+                "title": "Live at the Table 25: May 2020 - Spoken Magic Pt. 2",
+                "slug": "live-at-the-table-25-may-2020-spoken-magic-pt-2",
+                "done": true,
+                "sorting_number": 153
+            },
+            {
+                "title": "Live at the Table 26: June 2020 - The Grand Tableau Character Creation",
+                "slug": "live-at-the-table-26-june-2020-the-grand-tableau-character-creation",
+                "done": false,
+                "sorting_number": 154
+            },
+            {
+                "title": "Live at the Table 27: July 2020 - The Grand Tableau Pt. 1",
+                "slug": "live-at-the-table-27-july-2020-the-grand-tableau-pt-1",
+                "done": true,
+                "sorting_number": 155
+            },
+            {
+                "title": "Live at the Table 27: August 2020 - The Grand Tableau Pt. 2",
+                "slug": "live-at-the-table-27-august-2020-the-grand-tableau-pt-2",
+                "done": false,
+                "sorting_number": 156
+            },
+            {
+                "title": "Live at the Table 28: September 2020 - Good Society 01",
+                "slug": "live-at-the-table-28-september-2020-good-society-01",
+                "done": true,
+                "sorting_number": 157
+            },
+            {
+                "title": "Live at the Table 28: October 2020 - Good Society 02",
+                "slug": "live-at-the-table-28-october-2020-good-society-02",
+                "done": false,
+                "sorting_number": 158
+            },
+            {
+                "title": "Live at the Table 28: November 2020 - Good Society 03",
+                "slug": "live-at-the-table-28-november-2020-good-society-03",
+                "done": false,
+                "sorting_number": 159
+            },
+            {
+                "title": "Live at the Table 29: December 2020 - Quest Character Creation Pt. 2",
+                "slug": "live-at-the-table-29-december-2020-quest-character-creation-pt-2",
+                "done": false,
+                "sorting_number": 160
+            },
+            {
+                "title": "Live at the Table 30: Hawkers (January 2021)",
+                "slug": "live-at-the-table-30-hawkers-january-2021",
+                "done": false,
+                "sorting_number": 161
+            },
+            {
+                "title": "Live at the Table 31: You Can Check Out Any Time You Like, But You Can Never Leave - February 2021",
+                "slug": "live-at-the-table-31-you-can-check-out-any-time-you-like-but-you-can-never-leave-february-2021",
+                "done": true,
+                "sorting_number": 162
+            },
+            {
+                "title": "Live at the Table 32: March 2021 - augur",
+                "slug": "live-at-the-table-32-march-2021-augur",
+                "done": false,
+                "sorting_number": 163
+            },
+            {
+                "title": "Live at the Table 33: April 2021 - Thousand Year Old Vampire",
+                "slug": "live-at-the-table-33-april-2021-thousand-year-old-vampire",
+                "done": false,
+                "sorting_number": 164
+            },
+            {
+                "title": "Live at the Table 34: May 2021 - Guess Whodunit? (audio)",
+                "slug": "live-at-the-table-34-may-2021-guess-whodunit-audio",
+                "done": false,
+                "sorting_number": 165
+            },
+            {
+                "title": "Live at the Table 35: June 2021 - Something is Wrong With This House",
+                "slug": "live-at-the-table-35-june-2021-something-is-wrong-with-this-house",
+                "done": false,
+                "sorting_number": 166
+            },
+            {
+                "title": "Live at the Table 36: July 2021 - Uncover Your Story",
+                "slug": "live-at-the-table-36-july-2021-uncover-your-story",
+                "done": false,
+                "sorting_number": 167
+            },
+            {
+                "title": "Live at the Table 37: August 2021 - The Road to PALISADE: HOUNDs",
+                "slug": "live-at-the-table-37-august-2021-the-road-to-palisade-hounds",
+                "done": false,
+                "sorting_number": 168
+            },
+            {
+                "title": "Live at the Table 37: September 2021 - The Road to PALISADE: HOUNDs Pt. 2",
+                "slug": "live-at-the-table-37-september-2021-the-road-to-palisade-hounds-pt-2",
+                "done": false,
+                "sorting_number": 169
+            },
+            {
+                "title": "Live at the Table 38: October 2021 - The Road to PALISADE: Stealing the Throne",
+                "slug": "live-at-the-table-38-october-2021-the-road-to-palisade-stealing-the-throne",
+                "done": false,
+                "sorting_number": 170
+            },
+            {
+                "title": "Live at the Table 39: November 2021 - The Road to PALISADE: Last Shooting",
+                "slug": "live-at-the-table-39-november-2021-the-road-to-palisade-last-shooting",
+                "done": false,
+                "sorting_number": 171
+            },
+            {
+                "title": "Live at the Table 40: December 2021 - The Road to PALISADE: Wagon Wheel Pt. 1",
+                "slug": "live-at-the-table-40-december-2021-the-road-to-palisade-wagon-wheel-pt-1",
+                "done": false,
+                "sorting_number": 172
+            },
+            {
+                "title": "Live at the Table 41: January 2022 - The Road To PALISADE: Wagon Wheel Pt. 2",
+                "slug": "live-at-the-table-41-january-2022-the-road-to-palisade-wagon-wheel-pt-2",
+                "done": false,
+                "sorting_number": 173
+            },
+            {
+                "title": "Live at the Table 42: February 2022 - The Road to PALISADE: Wagon Wheel Pt. 3.",
+                "slug": "live-at-the-table-42-february-2022-the-road-to-palisade-wagon-wheel-pt-3",
+                "done": false,
+                "sorting_number": 174
+            },
+            {
+                "title": "Live at the Table 43: March 2022 - The Road to PALISADE: LANCER Pt. 1",
+                "slug": "live-at-the-table-43-march-2022-the-road-to-palisade-lancer-pt-1",
+                "done": false,
+                "sorting_number": 175
+            },
+            {
+                "title": "Live at the Table 44: April 2022 - The Road to PALISADE: LANCER Pt. 2",
+                "slug": "live-at-the-table-44-april-2022-the-road-to-palisade-lancer-pt-2",
+                "done": false,
+                "sorting_number": 176
+            },
+            {
+                "title": "Live at the Table 45: May 2022 - The Road to PALISADE: LANCER Pt. 3",
+                "slug": "live-at-the-table-45-may-2022-the-road-to-palisade-lancer-pt-3",
+                "done": false,
+                "sorting_number": 177
+            },
+            {
+                "title": "Live at the Table 46: June 2022 - The Road to PALISADE: Orbital Pt. 1",
+                "slug": "live-at-the-table-46-june-2022-the-road-to-palisade-orbital-pt-1",
+                "done": false,
+                "sorting_number": 178
+            },
+            {
+                "title": "Live at the Table 47: July 2022 - The Road to PALISADE: Orbital Pt. 2",
+                "slug": "live-at-the-table-47-july-2022-the-road-to-palisade-orbital-pt-2",
+                "done": false,
+                "sorting_number": 179
+            },
+            {
+                "title": "Live at the Table 48: August 2022 - The Road to PALISADE: Orbital Pt.3",
+                "slug": "live-at-the-table-48-august-2022-the-road-to-palisade-orbital-pt-3",
+                "done": false,
+                "sorting_number": 180
+            },
+            {
+                "title": "Live at the Table 49: September 2022 - The Road to PALISADE: Orbital Pt. 4",
+                "slug": "live-at-the-table-49-september-2022-the-road-to-palisade-orbital-pt-4",
+                "done": false,
+                "sorting_number": 181
+            },
+            {
+                "title": "Live at the Table 50: October 2022 - The Road to PALISADE: Orbital Pt. 5",
+                "slug": "live-at-the-table-50-october-2022-the-road-to-palisade-orbital-pt-5",
+                "done": false,
+                "sorting_number": 182
+            },
+            {
+                "title": "Live at the Table 51: November 2022 - The Road to PALISADE: Serious Reading",
+                "slug": "live-at-the-table-51-november-2022-the-road-to-palisade-serious-reading",
+                "done": false,
+                "sorting_number": 183
+            },
+            {
+                "title": "Live at the Table 52: December 2022 - The Road to PALISADE: My Way",
+                "slug": "live-at-the-table-52-december-2022-the-road-to-palisade-my-way",
+                "done": false,
+                "sorting_number": 184
+            },
+            {
+                "title": "Live at the Table 53  January 2023 - The Road to PALISADE: Upstairs Downstairs",
+                "slug": "live-at-the-table-53-january-2023-the-road-to-palisade-upstairs-downstairs",
+                "done": false,
+                "sorting_number": 185
+            },
+            {
+                "title": "Live at the Table 54 February 2023 - The Road to PALISADE: Upstairs & Downstairs",
+                "slug": "live-at-the-table-54-february-2023-the-road-to-palisade-upstairs-downstairs",
+                "done": false,
+                "sorting_number": 186
+            },
+            {
+                "title": "Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1",
+                "slug": "bluff-city-01-a-bowling-alley-a-boxer-and-a-bird-pt-1",
+                "done": true,
+                "sorting_number": 187,
+                "docs_id": "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc"
+            },
+            {
+                "title": "Bluff City 02: A Bowling Alley, A Boxer, and A Bird, Pt. 2",
+                "slug": "bluff-city-02-a-bowling-alley-a-boxer-and-a-bird-pt-2",
+                "done": true,
+                "sorting_number": 188,
+                "docs_id": "16T6ZLaQWCznOuDPkDi_1yiCX0MTSPpWX2V2X4F0vmDU"
+            },
+            {
+                "title": "Bluff City 03: The Cost of Greed Pt. 1",
+                "slug": "bluff-city-03-the-cost-of-greed-pt-1",
+                "done": true,
+                "sorting_number": 189,
+                "docs_id": "16QWcnQ-YjSzgXSVUtInMoxTqnkp1Cw66Ws7ZWyA0B7k"
+            },
+            {
+                "title": "Bluff City 04: The Cost of Greed Pt. 2",
+                "slug": "bluff-city-04-the-cost-of-greed-pt-2",
+                "done": false,
+                "sorting_number": 190,
+                "docs_id": "1UDmROiSQJMO-ivrHGihi3u0B60n8VX-VgG0ceRcvRxM"
+            },
+            {
+                "title": "Bluff City 05: There Is No Greater Love Pt. 1",
+                "slug": "bluff-city-05-there-is-no-greater-love-pt-1",
+                "done": true,
+                "sorting_number": 191,
+                "docs_id": "1tW3SCtsaH9BDelivFmaHNw1J5_0zSEHB5H6JBBvY_OY"
+            },
+            {
+                "title": "Bluff City 06: There Is No Greater Love Pt. 2",
+                "slug": "bluff-city-06-there-is-no-greater-love-pt-2",
+                "done": false,
+                "sorting_number": 192,
+                "docs_id": "14ECK6UjS27Z9UE152qiuYDhQRXJ57QO1wbaDSKiDZmM"
+            },
+            {
+                "title": "Bluff City 07: The Eighty Six Pt. 1",
+                "slug": "bluff-city-07-the-eighty-six-pt-1",
+                "done": true,
+                "sorting_number": 193,
+                "docs_id": "12sB0478RFg-MqFuv1EUDZJKqvZEYyzxJf6Kc7gCIDUk"
+            },
+            {
+                "title": "Bluff City 08: The Eighty Six Pt. 2",
+                "slug": "bluff-city-08-the-eighty-six-pt-2",
+                "done": false,
+                "sorting_number": 194
+            },
+            {
+                "title": "Bluff City 09: The Grapplers Down at Promenade Arena Pt. 1",
+                "slug": "bluff-city-09-the-grapplers-down-at-promenade-arena-pt-1",
+                "done": true,
+                "sorting_number": 195,
+                "docs_id": "1hTjTEYdjyNVv0Ffg-PBum4XQOozZphy1VUxnZ2pT7Kw"
+            },
+            {
+                "title": "Bluff City 10: The Grapplers Down at Promenade Arena Pt. 2",
+                "slug": "bluff-city-10-the-grapplers-down-at-promenade-arena-pt-2",
+                "done": true,
+                "sorting_number": 196,
+                "docs_id": "10TqDveNqT02LuRumhX4u_7DqsDVGRhiAkde23m13iog"
+            },
+            {
+                "title": "Bluff City 11: The Grapplers Down at Promenade Arena Pt. 3",
+                "slug": "bluff-city-11-the-grapplers-down-at-promenade-arena-pt-3",
+                "done": true,
+                "sorting_number": 197,
+                "docs_id": "1CN4kKfMxGpVgE6jvZcmNGFt1yP95PHSImyFWWgJujGQ"
+            },
+            {
+                "title": "Bluff City 12: When Justice Is Done Pt. 0",
+                "slug": "bluff-city-12-when-justice-is-done-pt-0",
+                "done": false,
+                "sorting_number": 198,
+                "docs_id": "10IO0x-kwtQmh6LlrbSP5gdzcoeI0g3226vmtt1iuang"
+            },
+            {
+                "title": "Bluff City 13: When Justice Is Done Pt. 1",
+                "slug": "bluff-city-13-when-justice-is-done-pt-1",
+                "done": true,
+                "sorting_number": 199,
+                "docs_id": "1USHfJOFvOUZmApqky40EL1N_vZ5kvi0rUqjr59JpkKM"
+            },
+            {
+                "title": "Bluff City 14: When Justice Is Done Pt. 2",
+                "slug": "bluff-city-14-when-justice-is-done-pt-2",
+                "done": true,
+                "sorting_number": 200,
+                "docs_id": "1E2yatII8JSIPlzpXpuB576g7gYvJ6RutVT8Zh4eLsLI"
+            },
+            {
+                "title": "Bluff City 15: When Justice Is Done Pt. 3",
+                "slug": "bluff-city-15-when-justice-is-done-pt-3",
+                "done": true,
+                "sorting_number": 201,
+                "docs_id": "19TXJ9c0o7a6uOif5gEK2VsZCISWmLJBW9xbpwvdphtM"
+            },
+            {
+                "title": "Bluff City 16: Messy Business Pt. 1",
+                "slug": "bluff-city-16-messy-business-pt-1",
+                "done": true,
+                "sorting_number": 202,
+                "docs_id": "1hF3pNyr_zrzSmxDcuvKutNCyMfxP2BeKsQim9w7_fI0"
+            },
+            {
+                "title": "Bluff City 17: Messy Business Pt. 2",
+                "slug": "bluff-city-17-messy-business-pt-2",
+                "done": true,
+                "sorting_number": 203,
+                "docs_id": "1zB1Vfvsj8Wd2iW1os2AZvdsCu-ITaLf1DP1us1EaRJU"
+            },
+            {
+                "title": "Bluff City 18: Messy Business Pt. 3",
+                "slug": "bluff-city-18-messy-business-pt-3",
+                "done": true,
+                "sorting_number": 204,
+                "docs_id": "1PcnoHSq8LY2oechzbWYSjZqMp3iFxBih2zmbu3tO-gA"
+            },
+            {
+                "title": "Bluff City 19: Messy Business Pt. 4",
+                "slug": "bluff-city-19-messy-business-pt-4",
+                "done": true,
+                "sorting_number": 205,
+                "docs_id": "1HJ65OWAbbOFwBE01-LYl8AT3O2T2xbb9WIYMWK7G05g"
+            },
+            {
+                "title": "Bluff City Season 1 Post Mortem",
+                "slug": "bluff-city-season-1-post-mortem",
+                "done": true,
+                "sorting_number": 206,
+                "docs_id": "1iMzUhGiaeqYH8bObAjgY68YerC902bYXaWk8Rx2A73k"
+            },
+            {
+                "title": "Bluff City 20: Hard Luck Pt. 1",
+                "slug": "bluff-city-20-hard-luck-pt-1",
+                "done": true,
+                "sorting_number": 207
+            },
+            {
+                "title": "Bluff City 21: Hard Luck Pt. 2",
+                "slug": "bluff-city-21-hard-luck-pt-2",
+                "done": true,
+                "sorting_number": 208
+            },
+            {
+                "title": "Bluff City 22: Hard Luck Pt. 3",
+                "slug": "bluff-city-22-hard-luck-pt-3",
+                "done": true,
+                "sorting_number": 209
+            },
+            {
+                "title": "Bluff City 23: The Moving Pictures Pt. 1",
+                "slug": "bluff-city-23-the-moving-pictures-pt-1",
+                "done": true,
+                "sorting_number": 210
+            },
+            {
+                "title": "Bluff City 24: The Moving Pictures Pt. 2",
+                "slug": "bluff-city-24-the-moving-pictures-pt-2",
+                "done": false,
+                "sorting_number": 211
+            },
+            {
+                "title": "Bluff City 25: The Moving Pictures Pt. 3",
+                "slug": "bluff-city-25-the-moving-pictures-pt-3",
+                "done": false,
+                "sorting_number": 212
+            },
+            {
+                "title": "Bluff City 26: Extracurricular: Out Of Time Pt. 0",
+                "slug": "bluff-city-26-extracurricular-out-of-time-pt-0",
+                "done": true,
+                "sorting_number": 213
+            },
+            {
+                "title": "Bluff City 27: Extracurricular: Out Of Time Pt. 1",
+                "slug": "bluff-city-27-extracurricular-out-of-time-pt-1",
+                "done": true,
+                "sorting_number": 214
+            },
+            {
+                "title": "Bluff City 28: Extracurricular: Out Of Time Pt. 2",
+                "slug": "bluff-city-28-extracurricular-out-of-time-pt-2",
+                "done": true,
+                "sorting_number": 215
+            },
+            {
+                "title": "Bluff City 29: Extracurricular: Out Of Time Pt. 3",
+                "slug": "bluff-city-29-extracurricular-out-of-time-pt-3",
+                "done": false,
+                "sorting_number": 216
+            },
+            {
+                "title": "Bluff City 30: Extracurricular: Out Of Time Pt. 4",
+                "slug": "bluff-city-30-extracurricular-out-of-time-pt-4",
+                "done": false,
+                "sorting_number": 217
+            },
+            {
+                "title": "Bluff City 31: To Be Young Near the Shore Pt. 00",
+                "slug": "bluff-city-31-to-be-young-near-the-shore-pt-00",
+                "done": false,
+                "sorting_number": 218
+            },
+            {
+                "title": "Bluff City 32: To Be Young Near the Shore Pt. 01",
+                "slug": "bluff-city-32-to-be-young-near-the-shore-pt-01",
+                "done": false,
+                "sorting_number": 219
+            },
+            {
+                "title": "Bluff City 33: To Be Young Near the Shore Pt. 02",
+                "slug": "bluff-city-33-to-be-young-near-the-shore-pt-02",
+                "done": true,
+                "sorting_number": 220
+            },
+            {
+                "title": "Bluff City 34: To Be Young Near the Shore Pt. 03",
+                "slug": "bluff-city-34-to-be-young-near-the-shore-pt-03",
+                "done": true,
+                "sorting_number": 221
+            },
+            {
+                "title": "Bluff City 35: To Be Young Near the Shore Pt. 04",
+                "slug": "bluff-city-35-to-be-young-near-the-shore-pt-04",
+                "done": false,
+                "sorting_number": 222
+            },
+            {
+                "title": "Bluff City 36: America's Playground Pt. 00",
+                "slug": "bluff-city-36-america-s-playground-pt-00",
+                "done": false,
+                "sorting_number": 223
+            },
+            {
+                "title": "Bluff City 37: America's Playground Pt. 01",
+                "slug": "bluff-city-37-america-s-playground-pt-01",
+                "done": false,
+                "sorting_number": 224
+            },
+            {
+                "title": "Bluff City 38: America's Playground Pt. 02",
+                "slug": "bluff-city-38-america-s-playground-pt-02",
+                "done": false,
+                "sorting_number": 225
+            },
+            {
+                "title": "Bluff City 39: America's Playground Pt. 03",
+                "slug": "bluff-city-39-america-s-playground-pt-03",
+                "done": false,
+                "sorting_number": 226
+            },
+            {
+                "title": "Bluff City 40: America's Playground Pt. 04",
+                "slug": "bluff-city-40-america-s-playground-pt-04",
+                "done": false,
+                "sorting_number": 227
+            },
+            {
+                "title": "Bluff City 41: America's Playground Pt. 05",
+                "slug": "bluff-city-41-america-s-playground-pt-05",
+                "done": false,
+                "sorting_number": 228
+            },
+            {
+                "title": "Bluff City 42: Engines on the Track Pt. 01",
+                "slug": "bluff-city-42-engines-on-the-track-pt-01",
+                "done": false,
+                "sorting_number": 229
+            },
+            {
+                "title": "Bluff City 43: Engines on the Track Pt. 02",
+                "slug": "bluff-city-43-engines-on-the-track-pt-02",
+                "done": false,
+                "sorting_number": 230
+            },
+            {
+                "title": "Bluff City 44: Engines on the Track Pt. 03",
+                "slug": "bluff-city-44-engines-on-the-track-pt-03",
+                "done": false,
+                "sorting_number": 231
+            },
+            {
+                "title": "Drawing Maps Audio 01: Road to Season 6 Microscope Summary",
+                "slug": "drawing-maps-audio-01-road-to-season-6-microscope-summary",
+                "done": true,
+                "sorting_number": 232
+            },
+            {
+                "title": "Drawing Maps Audio 02: Season 6 Faction Creation Pt. 1 - Government Type",
+                "slug": "drawing-maps-audio-02-season-6-faction-creation-pt-1-government-type",
+                "done": true,
+                "sorting_number": 233,
+                "docs_id": "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU"
+            },
+            {
+                "title": "Drawing Maps Audio 03: Season 6 Faction Creation Pt. 2 - Aesthetics",
+                "slug": "drawing-maps-audio-03-season-6-faction-creation-pt-2-aesthetics",
+                "done": true,
+                "sorting_number": 234
+            },
+            {
+                "title": "Drawing Maps Audio 04: Season 6 Faction Creation Pt. 3 - Corruption",
+                "slug": "drawing-maps-audio-04-season-6-faction-creation-pt-3-corruption",
+                "done": true,
+                "sorting_number": 235
+            },
+            {
+                "title": "Drawing Maps Audio 05: Season 6 Faction Creation Pt. 4 - Squads",
+                "slug": "drawing-maps-audio-05-season-6-faction-creation-pt-4-squads",
+                "done": true,
+                "sorting_number": 236
+            },
+            {
+                "title": "Drawing Maps Audio 06: Season 6 Faction Creation Pt. 5 - Regions",
+                "slug": "drawing-maps-audio-06-season-6-faction-creation-pt-5-regions",
+                "done": true,
+                "sorting_number": 237
+            },
+            {
+                "title": "Drawing Maps Audio 07: Season 6 Faction Creation Pt. 6 - Independents, NPCs, and MECHS",
+                "slug": "drawing-maps-audio-07-season-6-faction-creation-pt-6-independents-npcs-and-mechs",
+                "done": true,
+                "sorting_number": 238
+            },
+            {
+                "title": "Drawing Maps Audio 08: Season 6 Faction Creation Pt. 7 - Time and Space",
+                "slug": "drawing-maps-audio-08-season-6-faction-creation-pt-7-time-and-space",
+                "done": true,
+                "sorting_number": 239
+            },
+            {
+                "title": "Drawing Maps Audio 09: Season 6 Faction Creation Pt. 8 - Revisiting Kesh + Wrap Up",
+                "slug": "drawing-maps-audio-09-season-6-faction-creation-pt-8-revisiting-kesh-wrap-up",
+                "done": true,
+                "sorting_number": 240
+            },
+            {
+                "title": "Drawing Maps Audio 10 - January 2020 - PARTIZAN 00-04",
+                "slug": "drawing-maps-audio-10-january-2020-partizan-00-04",
+                "done": true,
+                "sorting_number": 241
+            },
+            {
+                "title": "Drawing Maps Audio 11 - February 2020 - PARTIZAN 05-08",
+                "slug": "drawing-maps-audio-11-february-2020-partizan-05-08",
+                "done": true,
+                "sorting_number": 242
+            },
+            {
+                "title": "Drawing Maps Audio 12 - March 2020",
+                "slug": "drawing-maps-audio-12-march-2020",
+                "done": true,
+                "sorting_number": 243
+            },
+            {
+                "title": "Drawing Maps 13 - April 2020",
+                "slug": "drawing-maps-13-april-2020",
+                "done": true,
+                "sorting_number": 244
+            },
+            {
+                "title": "Drawing Maps 14: May 2020 - Livestream",
+                "slug": "drawing-maps-14-may-2020-livestream",
+                "done": false,
+                "sorting_number": 245
+            },
+            {
+                "title": "Drawing Maps Audio 15: Sangfielle Characters #1: Chine - June 2020",
+                "slug": "drawing-maps-audio-15-sangfielle-characters-1-chine-june-2020",
+                "done": false,
+                "sorting_number": 246
+            },
+            {
+                "title": "Drawing Maps Audio 16: Sangfielle Characters #2: Marn - July 2020",
+                "slug": "drawing-maps-audio-16-sangfielle-characters-2-marn-july-2020",
+                "done": false,
+                "sorting_number": 247
+            },
+            {
+                "title": "Drawing Maps Audio 17: Sangfielle Characters #3: Es - August 2020",
+                "slug": "drawing-maps-audio-17-sangfielle-characters-3-es-august-2020",
+                "done": false,
+                "sorting_number": 248
+            },
+            {
+                "title": "Drawing Maps Audio 18: Sangfielle Characters #4: Virtue Mondegreen  - September 2020",
+                "slug": "drawing-maps-audio-18-sangfielle-characters-4-virtue-mondegreen-september-2020",
+                "done": false,
+                "sorting_number": 249
+            },
+            {
+                "title": "Drawing Maps Audio 19: Sangfielle Characters #5: Duvall - October 2020",
+                "slug": "drawing-maps-audio-19-sangfielle-characters-5-duvall-october-2020",
+                "done": false,
+                "sorting_number": 250
+            },
+            {
+                "title": "Drawing Maps Audio 20: Sangfielle Characters #6: Lye \"Lyke\" Lychen -November 2020",
+                "slug": "drawing-maps-audio-20-sangfielle-characters-6-lye-lyke-lychen-november-2020",
+                "done": false,
+                "sorting_number": 251
+            },
+            {
+                "title": "Drawing Maps 21: Sangfielle Characters #7: Pickman - December 2020",
+                "slug": "drawing-maps-21-sangfielle-characters-7-pickman-december-2020",
+                "done": false,
+                "sorting_number": 252
+            },
+            {
+                "title": "Drawing Maps 22: Sangfielle Characters #8: Chine and Marn Redux - January 2021",
+                "slug": "drawing-maps-22-sangfielle-characters-8-chine-and-marn-redux-january-2021",
+                "done": false,
+                "sorting_number": 253
+            },
+            {
+                "title": "Drawing Maps Audio 23: The Curse of Eastern Folly Arc - February 2021",
+                "slug": "drawing-maps-audio-23-the-curse-of-eastern-folly-arc-february-2021",
+                "done": false,
+                "sorting_number": 254
+            },
+            {
+                "title": "Drawing Maps Audio 24: The Hymn of the Mother-Beast Arc- March 2021",
+                "slug": "drawing-maps-audio-24-the-hymn-of-the-mother-beast-arc-march-2021",
+                "done": false,
+                "sorting_number": 255
+            },
+            {
+                "title": "Drawing Maps Audio 25: The Secret Ledger of Roseroot Hall Arc - April 2021",
+                "slug": "drawing-maps-audio-25-the-secret-ledger-of-roseroot-hall-arc-april-2021",
+                "done": false,
+                "sorting_number": 256
+            },
+            {
+                "title": "Drawing Maps Audio 26: The Candle Factory - May 2021",
+                "slug": "drawing-maps-audio-26-the-candle-factory-may-2021",
+                "done": false,
+                "sorting_number": 257
+            },
+            {
+                "title": "Drawing Maps Audio 27: What Happened at Bell Metal Station - June 2021",
+                "slug": "drawing-maps-audio-27-what-happened-at-bell-metal-station-june-2021",
+                "done": false,
+                "sorting_number": 258
+            },
+            {
+                "title": "Drawing Maps Audio 28: At the Gates of Sapodilla - July 2021",
+                "slug": "drawing-maps-audio-28-at-the-gates-of-sapodilla-july-2021",
+                "done": false,
+                "sorting_number": 259
+            },
+            {
+                "title": "Drawing Maps 29: The Perpetual Oratorio of Davia Pledge - August 2021",
+                "slug": "drawing-maps-29-the-perpetual-oratorio-of-davia-pledge-august-2021",
+                "done": false,
+                "sorting_number": 260
+            },
+            {
+                "title": "Drawing Maps 30: Hark! The Citadel Beneath - September 2021",
+                "slug": "drawing-maps-30-hark-the-citadel-beneath-september-2021",
+                "done": false,
+                "sorting_number": 261
+            },
+            {
+                "title": "Drawing Maps 31: Marrowcreek - October 2021",
+                "slug": "drawing-maps-31-marrowcreek-october-2021",
+                "done": false,
+                "sorting_number": 262
+            },
+            {
+                "title": "Drawing Maps 32: PALISADE Playlist",
+                "slug": "drawing-maps-32-palisade-playlist",
+                "done": false,
+                "sorting_number": 263
+            },
+            {
+                "title": "Pusher Update Catchup #1: The New Big Ship We All Live On",
+                "slug": "pusher-update-catchup-1-the-new-big-ship-we-all-live-on",
+                "done": true,
+                "sorting_number": 264,
+                "docs_id": "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA"
+            },
+            {
+                "title": "Bluff City Movie Club: The Nice Guys",
+                "slug": "bluff-city-movie-club-the-nice-guys",
+                "done": false,
+                "sorting_number": 265,
+                "docs_id": "1RVovU21JW22qU-WqOxTTIOJY3KEEs0WPy5bms31fhUk"
+            },
+            {
+                "title": "Bluff City Movie Club: Sneakers",
+                "slug": "bluff-city-movie-club-sneakers",
+                "done": false,
+                "sorting_number": 266
+            },
+            {
+                "title": "Bluff City Movie Club: Streets Of Fire",
+                "slug": "bluff-city-movie-club-streets-of-fire",
+                "done": false,
+                "sorting_number": 267,
+                "docs_id": "13J_aLd8y3GfDhwV8FN3Nc1U_PVkWnhSN3pGsN6XZgGI"
+            },
+            {
+                "title": "Pusher Media Club: Tampopo",
+                "slug": "pusher-media-club-tampopo",
+                "done": false,
+                "sorting_number": 268
+            },
+            {
+                "title": "Pusher Media Club: Fargo",
+                "slug": "pusher-media-club-fargo",
+                "done": false,
+                "sorting_number": 269,
+                "docs_id": "1w3E4dfwE5Vw7qkYdEo3n-Td4jI2H-fA-B0DLbg4BZNw"
+            },
+            {
+                "title": "Pusher Media Club: Better Call Saul",
+                "slug": "pusher-media-club-better-call-saul",
+                "done": false,
+                "sorting_number": 270
+            },
+            {
+                "title": "Pusher Media Club: Crimson Peak",
+                "slug": "pusher-media-club-crimson-peak",
+                "done": false,
+                "sorting_number": 271
+            },
+            {
+                "title": "Pusher Media Club: Spirited Away",
+                "slug": "pusher-media-club-spirited-away",
+                "done": false,
+                "sorting_number": 272,
+                "docs_id": "13a-PW5pikSf_hH99Vr3aQX2U38h8LDeKjzI1_62E_Mg"
+            },
+            {
+                "title": "Pusher Media Club: There Will Be Blood",
+                "slug": "pusher-media-club-there-will-be-blood",
+                "done": false,
+                "sorting_number": 273,
+                "docs_id": "14A3y7Zwf6riQabKRwCEdmhVvaClF6oqimY_sXVInoJA"
+            },
+            {
+                "title": "Pusher Media Club: Dracula",
+                "slug": "pusher-media-club-dracula",
+                "done": false,
+                "sorting_number": 274
+            }
+        ]
+    }
+}
