@@ -26,7 +26,7 @@ seasons = {}
 
 
 def download_doc(episode):
-    with open(f"{season['id']}/{episode['slug']}.txt", "wb") as outf, session.get(
+    with open(f"mirror/{season['id']}/{episode['slug']}.txt", "wb") as outf, session.get(
         f"https://docs.google.com/document/u/0/export?format=txt&id={episode['docs_id']}",
         stream=True,
     ) as response:
@@ -78,5 +78,5 @@ for sheet in wb.worksheets[1:]:
     seasons[season["id"]] = season
 
 
-with open("seasons.json", "w") as f:
+with open("mirror/seasons.json", "w") as f:
     json.dump(seasons, f, indent=4)
