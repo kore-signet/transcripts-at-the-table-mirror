@@ -36,7 +36,7 @@ def download_doc(episode):
 
 for sheet in wb.worksheets[1:]:
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
-    os.makedirs(season["id"], exist_ok=True)
+    os.makedirs(f"mirrors/{season['id']}", exist_ok=True)
 
     ep_i = 0
 
