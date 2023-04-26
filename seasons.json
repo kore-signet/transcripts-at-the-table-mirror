@@ -1,4 +1,4202 @@
 {
+    "autumn-in-hieron": {
+        "title": "Autumn in Hieron",
+        "id": "autumn-in-hieron",
+        "episodes": [
+            {
+                "title": "An Introduction to Friends at the Table",
+                "slug": "an-introduction-to-friends-at-the-table",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "19odgykm_oADvQNZAkwdWBCOsAVPpjAlRq9qt8ElrGN8",
+                "download": {
+                    "plain": "autumn-in-hieron/an-introduction-to-friends-at-the-table.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 00: We\u2019re Not Calling It Duckberg",
+                "slug": "autumn-in-hieron-00-were-not-calling-it-duckberg",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1xCBFsZqxr56ELVzXcpZ5nmH8bQO-rUHE66dbUEWgnA4",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-00-were-not-calling-it-duckberg.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 01: We Have Not Yet Begun To Be Pompous",
+                "slug": "autumn-in-hieron-01-we-have-not-yet-begun-to-be-pompous",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1sGQ3G9hATV_mBzrWLKPzFX2sZgdrGwIrleNBmUoC2O8",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-01-we-have-not-yet-begun-to-be-pompous.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 02: You Found Out What Was Magical",
+                "slug": "autumn-in-hieron-02-you-found-out-what-was-magical",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1tKREOydDofdyNWsEiAYGa6Oe4rdgIXvbq57f-BQoJtk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-02-you-found-out-what-was-magical.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 03: A Podcast About Listening",
+                "slug": "autumn-in-hieron-03-a-podcast-about-listening",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1_Lbd0qtfApJPfYVWj9e9mtn1yRUbOwrkyspZi-49MPM",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-03-a-podcast-about-listening.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 04: Is It Time Already?",
+                "slug": "autumn-in-hieron-04-is-it-time-already",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1bQBl-pe7V3KXu_oY4FKJatFGEuKqjHzbzGBPkAewd2c",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-04-is-it-time-already.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 05: What\u2019s a Good Name For A Ship?",
+                "slug": "autumn-in-hieron-05-whats-a-good-name-for-a-ship",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1XdbXmjv2injl8Ua7_KtpaBRzIvCsv23w269KvvV4rJs",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-05-whats-a-good-name-for-a-ship.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 06: A Bad Trip",
+                "slug": "autumn-in-hieron-06-a-bad-trip",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "112IWBUU1Yes1A7u75xKSxvGjFtcktUzW0weW0uLPvN4",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-06-a-bad-trip.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 07: Boat Party?",
+                "slug": "autumn-in-hieron-07-boat-party",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1Sw-f33rrfarmd1AX8Gmd8bENbnmdItVBCTKIqimV_Uk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-07-boat-party.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 08: On The Tip Of Your Tongue",
+                "slug": "autumn-in-hieron-08-on-the-tip-of-your-tongue",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1Qe-Za5Yq_60X2-xIINdzP3EAVXxicwAR4zzK991YhgQ",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-08-on-the-tip-of-your-tongue.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 09: I\u2019m Not Happy With This Decision At All",
+                "slug": "autumn-in-hieron-09-im-not-happy-with-this-decision-at-all",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1znte6qTjshc1vFiF7UE9H3tk1FwEcTjBsLuWWWkL0yU",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-09-im-not-happy-with-this-decision-at-all.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 10: Chekhov\u2019s Torture Elf",
+                "slug": "autumn-in-hieron-10-chekhovs-torture-elf",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1B59UxpObG0U_ky8o5YbyRC4RC2xS-a9hbzJBB-DT_Kk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-10-chekhovs-torture-elf.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 11: Like Sneaky Little Sneaks",
+                "slug": "autumn-in-hieron-11-like-sneaky-little-sneaks",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1BHXPnZty5CHuZAQwiB2019m_doof7ADB3wksa_NWzNo",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-11-like-sneaky-little-sneaks.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 12: Knowledge and Ignorance",
+                "slug": "autumn-in-hieron-12-knowledge-and-ignorance",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1OSPBC5R-8M0KoAmJfjEQS86wqdxCWQWCSGRlLklbjQI",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-12-knowledge-and-ignorance.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 13: What A Surprise",
+                "slug": "autumn-in-hieron-13-what-a-surprise",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1IpnFHplPXGH2IOEpTs9g2w-yLGTEkpH2VQuawpUUK4o",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-13-what-a-surprise.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron: Holiday Special 01: I Don\u2019t Know What\u2019s in That Box",
+                "slug": "autumn-in-hieron-holiday-special-01-i-dont-know-whats-in-that-box",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1Kz3rzwRRpSdMoIkXAIWI3hmdgOuiwUql5U_ZlBka2tE",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-holiday-special-01-i-dont-know-whats-in-that-box.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron: Holiday Special 02: I\u2019ve Killed Monsters",
+                "slug": "autumn-in-hieron-holiday-special-02-ive-killed-monsters",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1B_GSuQ42l0Y2kcxiGl0gC1cgcKekDmV4DbmGsaQOV0w",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-holiday-special-02-ive-killed-monsters.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 14: A Fire Hydrant of Divinity",
+                "slug": "autumn-in-hieron-14-a-fire-hydrant-of-divinity",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1xyHZAhhv1uaJONTXVs9r9sWvYNCCCxWv6y31zMax0wY",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-14-a-fire-hydrant-of-divinity.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 15: Have You Ever Swung A Sword At A Ghost Before?",
+                "slug": "autumn-in-hieron-15-have-you-ever-swung-a-sword-at-a-ghost-before",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1Zxf5R4YiPCyHkGneCSxnTA402GfJBfEM6I9_S3RFDD0",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-15-have-you-ever-swung-a-sword-at-a-ghost-before.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 16: Those Woods You Chose",
+                "slug": "autumn-in-hieron-16-those-woods-you-chose",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "1cnLCI-g5NAqt6Dd-IaHcNOraiKRujeZvOJY9GRqpKVI",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-16-those-woods-you-chose.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 17: As Death\u2019s Eyes Look Over The World",
+                "slug": "autumn-in-hieron-17-as-deaths-eyes-look-over-the-world",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1vptygnyKDEPUnICnnpCTpYOpZxfbPebn-st23oZ2Yro",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-17-as-deaths-eyes-look-over-the-world.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 18: Magic (Or Something) Is All Around Us",
+                "slug": "autumn-in-hieron-18-magic-or-something-is-all-around-us",
+                "done": false,
+                "sorting_number": 21,
+                "docs_id": "1WqnCE4BlWsiWBXR4z9SX6B7Q_StMaXbh6dAlPYPqdRg",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-18-magic-or-something-is-all-around-us.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 19: Violence Mulligan Mulligan",
+                "slug": "autumn-in-hieron-19-violence-mulligan-mulligan",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "10fwGxLGO0KBnB9b5p0nyqvp2YB4csJB7JFNltMOoQj0",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-19-violence-mulligan-mulligan.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 20: Do I Feel Followed?",
+                "slug": "autumn-in-hieron-20-do-i-feel-followed",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1uEEyEY0CcWKuo0pWSSXcRpbJUyO4haeiate3zYdeW4Y",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-20-do-i-feel-followed.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 21: The Storm Over Tristero",
+                "slug": "autumn-in-hieron-21-the-storm-over-tristero",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "1Q0-VP3_DdZzQ7xE9LmyK5kLi1Vqy6MTLOerdWtGwzxM",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-21-the-storm-over-tristero.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 22: Closing the Window",
+                "slug": "autumn-in-hieron-22-closing-the-window",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1F0BUHPkeX1ShpOWzxl_xr2BqbjlD4xsmHDwZLRQ_i1w",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-22-closing-the-window.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 23: Spinning Straw Out Of Gold",
+                "slug": "autumn-in-hieron-23-spinning-straw-out-of-gold",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "1xk-tRqgsn65kTy6gNplng6qYJKgNuGuLZ4BAP41c-1k",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-23-spinning-straw-out-of-gold.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 24: A Paladin is a Tool",
+                "slug": "autumn-in-hieron-24-a-paladin-is-a-tool",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1ND8ah8CTIopM97F7UsMukMD_fMdtdEuBFFCM0rL6L4s",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-24-a-paladin-is-a-tool.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 25: Work Off Your Sins",
+                "slug": "autumn-in-hieron-25-work-off-your-sins",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1HFKCMM7f74dP30FNbzBq0ZkrvX2A7cLxYwLFmXNGeDE",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-25-work-off-your-sins.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 26: Why Are You Here, Again?",
+                "slug": "autumn-in-hieron-26-why-are-you-here-again",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "1TTy0x1iYdvYoeaolRe1a_yMqxUfO7PCt9yxC925p8TE",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-26-why-are-you-here-again.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 27: The Shores of Ordenna",
+                "slug": "autumn-in-hieron-27-the-shores-of-ordenna",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1N77h8Sd1wE5ZNjVxsBlE11AcqWGuaKsh_V0MxDfmqKk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-27-the-shores-of-ordenna.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 28: A Choice About What You Believe",
+                "slug": "autumn-in-hieron-28-a-choice-about-what-you-believe",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1neSxYVTSu6T07ZtaGkoJXgBc8qCnd3XLThkuWopwehk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-28-a-choice-about-what-you-believe.txt"
+                }
+            },
+            {
+                "title": "Autumn in Hieron 29: Live Post Mortem",
+                "slug": "autumn-in-hieron-29-live-post-mortem",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1Nb73-BDfUzxYbNIDiVKGe6W-GvZNxFCfI7jHDNGtJbk",
+                "download": {
+                    "plain": "autumn-in-hieron/autumn-in-hieron-29-live-post-mortem.txt"
+                }
+            }
+        ]
+    },
+    "marielda": {
+        "title": "Marielda",
+        "id": "marielda",
+        "episodes": [
+            {
+                "title": "Marielda 01: The City of Light Pt. 1",
+                "slug": "marielda-01-the-city-of-light-pt-1",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1YNrFWHqMYMbpoPgXNusPhCQ7pw4q7-K6jDjGE4wt0Qo",
+                "download": {
+                    "plain": "marielda/marielda-01-the-city-of-light-pt-1.txt"
+                }
+            },
+            {
+                "title": "Marielda 02: The City of Light Pt. 2",
+                "slug": "marielda-02-the-city-of-light-pt-2",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1b_Wwzcd7orjAa_KkCgtHcdVJYEieQtsX6n1kq-TgW4g",
+                "download": {
+                    "plain": "marielda/marielda-02-the-city-of-light-pt-2.txt"
+                }
+            },
+            {
+                "title": "Marielda 03: The Crosstown Job Pt. 1",
+                "slug": "marielda-03-the-crosstown-job-pt-1",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1_QJyConmw9eMg3ZmRe5MexHev_vIIB7K4hqTaIv_FYQ",
+                "download": {
+                    "plain": "marielda/marielda-03-the-crosstown-job-pt-1.txt"
+                }
+            },
+            {
+                "title": "Marielda 04: The Crosstown Job Pt. 2",
+                "slug": "marielda-04-the-crosstown-job-pt-2",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1-0h-w9oQkZZWXiAtC5TYD-9grZsXyI4rv6VFKqUKgzY",
+                "download": {
+                    "plain": "marielda/marielda-04-the-crosstown-job-pt-2.txt"
+                }
+            },
+            {
+                "title": "Marielda 05: War and Azaleas",
+                "slug": "marielda-05-war-and-azaleas",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1PUocibul92TqMnoFeia5n1gVF9YNyN6QDPVsICskTho",
+                "download": {
+                    "plain": "marielda/marielda-05-war-and-azaleas.txt"
+                }
+            },
+            {
+                "title": "Marielda 06: The Valentine Affair Pt. 1",
+                "slug": "marielda-06-the-valentine-affair-pt-1",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1UFSICn5iLXzO9EEfyWXptpsiYpPM2BYsOs8So-CbLlo",
+                "download": {
+                    "plain": "marielda/marielda-06-the-valentine-affair-pt-1.txt"
+                }
+            },
+            {
+                "title": "Marielda 07: The Valentine Affair Pt. 2",
+                "slug": "marielda-07-the-valentine-affair-pt-2",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1eMyiu3G9MCwJRfvRSIsV1KrZEfsMS6Cc53kUzr4pDmw",
+                "download": {
+                    "plain": "marielda/marielda-07-the-valentine-affair-pt-2.txt"
+                }
+            },
+            {
+                "title": "Marielda 08: The Valentine Affair Pt. 3",
+                "slug": "marielda-08-the-valentine-affair-pt-3",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1rytp_f9d6JWy0z5W-HRFy1IijVWALrt6c7h4czCpZLw",
+                "download": {
+                    "plain": "marielda/marielda-08-the-valentine-affair-pt-3.txt"
+                }
+            },
+            {
+                "title": "Marielda 09: The Valentine Affair Pt. 4",
+                "slug": "marielda-09-the-valentine-affair-pt-4",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1Pt-wDU0wuksgrvTgQLMXOlI11KidU11ebi5oAZ0CF08",
+                "download": {
+                    "plain": "marielda/marielda-09-the-valentine-affair-pt-4.txt"
+                }
+            },
+            {
+                "title": "Marielda 10: Four Conversations",
+                "slug": "marielda-10-four-conversations",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1FZbTPPG_vD6f7eUTAC2jH-IoLBdbB8nneyUuzv_AZzs",
+                "download": {
+                    "plain": "marielda/marielda-10-four-conversations.txt"
+                }
+            },
+            {
+                "title": "Marielda 11: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 1",
+                "slug": "marielda-11-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-1",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1kwOiYc1-bFyOXQHgHFzyJnF4mTOcZfUnMVeADTCW_8Q",
+                "download": {
+                    "plain": "marielda/marielda-11-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-1.txt"
+                }
+            },
+            {
+                "title": "Marielda 12: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 2",
+                "slug": "marielda-12-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-2",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1TzLo8-waXbBWK4okB1KaIV5XqgrCejN95gcaZf16nnA",
+                "download": {
+                    "plain": "marielda/marielda-12-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-2.txt"
+                }
+            },
+            {
+                "title": "Marielda 13: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 3",
+                "slug": "marielda-13-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-3",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1Q-rOAsZutI01ERj5TfWUG56XNP_V8rPkuokkdgr8vrY",
+                "download": {
+                    "plain": "marielda/marielda-13-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-3.txt"
+                }
+            },
+            {
+                "title": "Marielda 14: The Killing of the King-God Samothes By The Traitor Prince Maelgwyn Pt. 4",
+                "slug": "marielda-14-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-4",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1vzWYoApFwjl4Kqahgo5uTpEdNanF23vX5Gf31uCneVo",
+                "download": {
+                    "plain": "marielda/marielda-14-the-killing-of-the-king-god-samothes-by-the-traitor-prince-maelgwyn-pt-4.txt"
+                }
+            },
+            {
+                "title": "A Message From Austin",
+                "slug": "a-message-from-austin",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1JopXR_a4qCx_g029o5Rvxmie3c1hcuq0U7eBHHTQrM4",
+                "download": {
+                    "plain": "marielda/a-message-from-austin.txt"
+                }
+            },
+            {
+                "title": "A Message From Ali",
+                "slug": "a-message-from-ali",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1YBxr-6x381QQwcjOR5Oq-57fkjJuTKgVVDPvXpVfjho",
+                "download": {
+                    "plain": "marielda/a-message-from-ali.txt"
+                }
+            }
+        ]
+    },
+    "winter-in-hieron": {
+        "title": "Winter in Hieron",
+        "id": "winter-in-hieron",
+        "episodes": [
+            {
+                "title": "Hieron: The Months of Autumn Pt 1",
+                "slug": "hieron-the-months-of-autumn-pt-1",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1TtgXIZ1xzrgV0m5BNbWgVWysfn36dJJPyniDalWhBm4",
+                "download": {
+                    "plain": "winter-in-hieron/hieron-the-months-of-autumn-pt-1.txt"
+                }
+            },
+            {
+                "title": "Hieron: The Months of Autumn Pt 2",
+                "slug": "hieron-the-months-of-autumn-pt-2",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1_V5lKB6cazOIXf08ZoevybaeZXLhTWTiWyqx-4FAQ00",
+                "download": {
+                    "plain": "winter-in-hieron/hieron-the-months-of-autumn-pt-2.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 01: An Arrow Let Loose",
+                "slug": "winter-in-hieron-01-an-arrow-let-loose",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "14-LucHUuVd1NU7XbjZnke4nnU-ON-2UmXjVH3Riem6o",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-01-an-arrow-let-loose.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 02: A Museum in the Distance",
+                "slug": "winter-in-hieron-02-a-museum-in-the-distance",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1EZKv57hcZmgUrW1IvhikuCdDbLe1WCrsMPYW5lJVfw0",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-02-a-museum-in-the-distance.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 03: You Haven\u2019t Kept Up, Have You?",
+                "slug": "winter-in-hieron-03-you-havent-kept-up-have-you",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1kTNV38eb1-Karz7FW7F9SaJlK6_tpjOLSTThC_lcNs0",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-03-you-havent-kept-up-have-you.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 04: A Combination of Notes",
+                "slug": "winter-in-hieron-04-a-combination-of-notes",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1avSyyze0bkLQ-ZY237fkdG362rjo0WUghVl2h0ieP_U",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-04-a-combination-of-notes.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 05: Blood Doesn\u2019t Run",
+                "slug": "winter-in-hieron-05-blood-doesnt-run",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1_snTsq37Yaosyi0PieAAYUnISXinW25bH0u7t2hyAgs",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-05-blood-doesnt-run.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 06: All Violence, All Brains",
+                "slug": "winter-in-hieron-06-all-violence-all-brains",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1ggW6dhmbCUlWTjocnZXeJaN0bMoywAzA3Tc0tCy_-5s",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-06-all-violence-all-brains.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron: Holiday Special 01: Homes and Promises",
+                "slug": "winter-in-hieron-holiday-special-01-homes-and-promises",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1VbyARuQZXK36bnvCbRAz7FyQzud7mEWE07V21PRsAno",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-holiday-special-01-homes-and-promises.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron: Holiday Special 02: Pits and Ladders",
+                "slug": "winter-in-hieron-holiday-special-02-pits-and-ladders",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1Vww82yf6ED_8I1pzBqIo7IZ_ZkRqo9PX8fSBg-QIzzk",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-holiday-special-02-pits-and-ladders.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 07: Two Hands",
+                "slug": "winter-in-hieron-07-two-hands",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1QY2vCWmd35MKIHYHNtdra5UtUW_I3nY-bzxCvrrA1Bw",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-07-two-hands.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 08: The Meeting House",
+                "slug": "winter-in-hieron-08-the-meeting-house",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1HZt3DRmWU3sXZkglv7NhH43wGqEALiBxbhTbC2mMBiA",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-08-the-meeting-house.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 09: Warm Assurances",
+                "slug": "winter-in-hieron-09-warm-assurances",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1IhCWjP8OcBizCujRFYeSkvarSCWrCyTq2-1h3scMh_A",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-09-warm-assurances.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 10: Fire and Blood",
+                "slug": "winter-in-hieron-10-fire-and-blood",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "17sojv27pAp-BmMF7aZwZH1wuK5FCgAlOrTu_wKlN63g",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-10-fire-and-blood.txt"
+                }
+            },
+            {
+                "title": "Takin\u2019 a Snow Day",
+                "slug": "takin-a-snow-day",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1HyFk-6dmfanuISIi3Y-oVAcUjsaq7S372SDYsgwWM24",
+                "download": {
+                    "plain": "winter-in-hieron/takin-a-snow-day.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 11: The Importance of Names",
+                "slug": "winter-in-hieron-11-the-importance-of-names",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1cu5PkmzZzzGRl9-lNPW5BcHN1NIX6u4isswZ2-Odzto",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-11-the-importance-of-names.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 12: A Chaotic Cataloging",
+                "slug": "winter-in-hieron-12-a-chaotic-cataloging",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1XCV2D_fovTWog88_its_wufIwmP-GFudsI2vHQ720SM",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-12-a-chaotic-cataloging.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 13: Rosemerrow, Oh My Rosemerrow",
+                "slug": "winter-in-hieron-13-rosemerrow-oh-my-rosemerrow",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1pfPffnk6a389u78zA3cuq0-EexlK_4N5wGpnHlug7K8",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-13-rosemerrow-oh-my-rosemerrow.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 14: What Do You Want Here?",
+                "slug": "winter-in-hieron-14-what-do-you-want-here",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1eGGx5itbO2K6MypL_IKggH3exg86qQSS_jE_p_O2aBQ",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-14-what-do-you-want-here.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 15: Settle Your Matters",
+                "slug": "winter-in-hieron-15-settle-your-matters",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "1aiAcR51Wq4visvVyV9Pz0FytlFfRnkKbdMSAxNXXB88",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-15-settle-your-matters.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 16: Is There Anyone Else?",
+                "slug": "winter-in-hieron-16-is-there-anyone-else",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1umKwazFzzIHzNulxmjT1cc2f_IiDBFemAo_yej45HyQ",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-16-is-there-anyone-else.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 17: Undelivered Resignations",
+                "slug": "winter-in-hieron-17-undelivered-resignations",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "1ANCGerxiSn6v4k1T0PLg3cwNuMPjcf5AHDLu-5XcSzI",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-17-undelivered-resignations.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 18: Try to Live Normally",
+                "slug": "winter-in-hieron-18-try-to-live-normally",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1iB-SBGuZ5wCVC5iEG--BFMCIZO5hQR1V7l3bhkoRCB8",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-18-try-to-live-normally.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 19: Make The Spring Last Forever",
+                "slug": "winter-in-hieron-19-make-the-spring-last-forever",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1rCJ8OQ1atSO23_iEOvU1R2j9YAkVT41CodJpqMMlc-g",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-19-make-the-spring-last-forever.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 20: Pulling You Further Down",
+                "slug": "winter-in-hieron-20-pulling-you-further-down",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "1uIObGIs8zbaMIy8kYmjuHMLHZpqua3XxZu1A2mwY7bE",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-20-pulling-you-further-down.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 21: The Shield of Our Will",
+                "slug": "winter-in-hieron-21-the-shield-of-our-will",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1W1M9p_c-lcvtgg8TeKiIJUMez1UepP5yXZiz_l3Zyrg",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-21-the-shield-of-our-will.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 22: A Holy Place",
+                "slug": "winter-in-hieron-22-a-holy-place",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "1zYTlyZUxnQZv2s6Obdnn92_JXyoKzdJIes9MpYAC9Kk",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-22-a-holy-place.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 23: Make the Library Smile",
+                "slug": "winter-in-hieron-23-make-the-library-smile",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1RBXGpN2VOEXx-gKN7Vf6--zATRkhkQ6pkIRBX1LNaRY",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-23-make-the-library-smile.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 24: An Open Mind",
+                "slug": "winter-in-hieron-24-an-open-mind",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1BY6FWPqBamQh4SozBm8HnOOpMjyQs4gUnu-qvWVjXpE",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-24-an-open-mind.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 25: Twenty Two Brown Birds",
+                "slug": "winter-in-hieron-25-twenty-two-brown-birds",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "1LNMAGsThH5QPFZWBq4zMjyN3OY41zIzhONTfpvPjrIY",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-25-twenty-two-brown-birds.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 26: A Shattering Note",
+                "slug": "winter-in-hieron-26-a-shattering-note",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1zIF4KGGJnMAffG7LQygtv9c_H08zsN8d3-CDXLPyh-s",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-26-a-shattering-note.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 27: A Good Metaphor",
+                "slug": "winter-in-hieron-27-a-good-metaphor",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1mExDKgviCbBJoZFnuV06NR5PouFjQp_3cPKlLRMp2OM",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-27-a-good-metaphor.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 28: What Life Looks Like",
+                "slug": "winter-in-hieron-28-what-life-looks-like",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1wBmC8Gg4pzpaqaHvj03WlrsRDovlqGxMtv2fqru2iOY",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-28-what-life-looks-like.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron 29: Slow Justice",
+                "slug": "winter-in-hieron-29-slow-justice",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "1ih9POVwqoRqpWKSNBpAnGvQh7wjP9fKfgW-OYtKkMU0",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-29-slow-justice.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage and Patreon Announcement!",
+                "slug": "twilight-mirage-and-patreon-announcement",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1-g0YFWU08vEbp2O1q4SC-Qsi_g5DKQwlaxr9DqbHj3A",
+                "download": {
+                    "plain": "winter-in-hieron/twilight-mirage-and-patreon-announcement.txt"
+                }
+            },
+            {
+                "title": "Winter in Hieron & Marielda Post Mortem",
+                "slug": "winter-in-hieron-marielda-post-mortem",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "10a5kH5BbSFsxldgGK6YPT_-21H5-UUouBMNlHPXjUGU",
+                "download": {
+                    "plain": "winter-in-hieron/winter-in-hieron-marielda-post-mortem.txt"
+                }
+            }
+        ]
+    },
+    "spring-in-hieron": {
+        "title": "Spring in Hieron",
+        "id": "spring-in-hieron",
+        "episodes": [
+            {
+                "title": "Spring in Hieron 00: What Came Before",
+                "slug": "spring-in-hieron-00-what-came-before",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1pXhWrP6qwXQZrnW5xfD6Ezbow0CwWyCWJhc9HvyJVs4",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-00-what-came-before.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 01: The Touch of Others",
+                "slug": "spring-in-hieron-01-the-touch-of-others",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1EI-OSedAI_Wx_EhB_o1v1D74nOMmj8gIBS5E1crsZw8",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-01-the-touch-of-others.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 02: Why Are You Here?",
+                "slug": "spring-in-hieron-02-why-are-you-here",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1HOeumDaoT9vvoV-DdBgMLzkR_bEKIZ8M6MOvMdXOKqI",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-02-why-are-you-here.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 03: Hospitable to You",
+                "slug": "spring-in-hieron-03-hospitable-to-you",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1namfl7xM8lzbiy3hLCsFYAdJi99IU3FR37EITckiU2o",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-03-hospitable-to-you.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 04: Material Effort",
+                "slug": "spring-in-hieron-04-material-effort",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1xT1NS5muS_CidOkujUrfmCn-paH7LNcnOxcDmBdbpyg",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-04-material-effort.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 05: Try To Live a Good Life",
+                "slug": "spring-in-hieron-05-try-to-live-a-good-life",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1WDpybyvLsxFXyNBM4DeM-ykDnMQpsRP5Mj1JnlY47Sw",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-05-try-to-live-a-good-life.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 06: Something You've Practiced",
+                "slug": "spring-in-hieron-06-something-you-ve-practiced",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1gl_rVHLTNCtI3NTYTXaz4rGaiyMjUwhC7SddKugYEb4",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-06-something-you-ve-practiced.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 07: Structure and Purpose",
+                "slug": "spring-in-hieron-07-structure-and-purpose",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1OANnZUVctQW-s1kJTRDOt_Qev1MH9kfzvMK3bAO-3cE",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-07-structure-and-purpose.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 08: Sympathetic Objects",
+                "slug": "spring-in-hieron-08-sympathetic-objects",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1HzAfV16tjZUhIY8ECen6dN4zqN0ERr7I1LKr0BeEm20",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-08-sympathetic-objects.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 09: A Certain Way",
+                "slug": "spring-in-hieron-09-a-certain-way",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1UxfGwixFW3FmiYyKS6j7zjFCg_-U23Jqvbd3qT9xQpQ",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-09-a-certain-way.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 10: Who Vouches?",
+                "slug": "spring-in-hieron-10-who-vouches",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1BkbjyGTy-Jbi2mXd9HhQxokRTR0Rfctcjsmpi0I2SRE",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-10-who-vouches.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 11: Cut Off the Head",
+                "slug": "spring-in-hieron-11-cut-off-the-head",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1rgkwGiec8a0PkSw_qv70p7hO3p4OuqEmm94SD8yEYSs",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-11-cut-off-the-head.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 12: Long Promises",
+                "slug": "spring-in-hieron-12-long-promises",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1n_rshZHuQP1OOmLFzRDM_LYZJpERZAJK-LjiNTp0SL0",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-12-long-promises.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 13: The Time of Gods",
+                "slug": "spring-in-hieron-13-the-time-of-gods",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1T78q6ts3JMzWXhgvwQX64Ur4Qsem0lSJ8mRq7BJfzes",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-13-the-time-of-gods.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 14: Neighbors To Be Made",
+                "slug": "spring-in-hieron-14-neighbors-to-be-made",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1IUTdPwgHt7X8Dgt7cXm-FfmUw9ahQSh2dnndWHvKnAU",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-14-neighbors-to-be-made.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 15: The Breath of Hieron",
+                "slug": "spring-in-hieron-15-the-breath-of-hieron",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1SiCMLrFkUrvvIg2E-dYHlqWM-Y5WrrN_VqI-1FgtB2M",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-15-the-breath-of-hieron.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 16: Music Through A Wall",
+                "slug": "spring-in-hieron-16-music-through-a-wall",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "19Wce01rn6N-ExssK4Msyr4U-ufz4Lf2yEygfbUUo11M",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-16-music-through-a-wall.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 17: A Desire to Live",
+                "slug": "spring-in-hieron-17-a-desire-to-live",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1ODhBOiFobL2FFEEPsECa-eCSzLxEzDWc3HjyAyxn7Tc",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-17-a-desire-to-live.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 18: A Simple Answer",
+                "slug": "spring-in-hieron-18-a-simple-answer",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1qw9flqwCq3vNrWINAxHdxg1MIMSQXp5HdOTb_8Z2X9w",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-18-a-simple-answer.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 19: A Night Like Tonight",
+                "slug": "spring-in-hieron-19-a-night-like-tonight",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "1-HCJ5QXVxM5c4hdNhumlKyBoz3DLOetkxE-GF_kqNnY",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-19-a-night-like-tonight.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 20: Passing of Voices",
+                "slug": "spring-in-hieron-20-passing-of-voices",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1mx3CS_j4btGmd5zAKmUMldy_wP_u_nZfcLewFrmNMuM",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-20-passing-of-voices.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 21: A Fountain of Information",
+                "slug": "spring-in-hieron-21-a-fountain-of-information",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "19KQ_j0MJxAizgSq5TRh2bLVB1XtTzy7BwkYY2MV7q_w",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-21-a-fountain-of-information.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 22: Better Every Time",
+                "slug": "spring-in-hieron-22-better-every-time",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1nUz4FlOgZjpwjcvD4hj0DhrdxcQw4cHyh_xENvq6wb0",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-22-better-every-time.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 23: The Heat Will Warm Your Bones",
+                "slug": "spring-in-hieron-23-the-heat-will-warm-your-bones",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1MIMPHvOQ7FsjVklKYReGrXhupjN6iqLkV6Cebu4SxyA",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-23-the-heat-will-warm-your-bones.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 24: Closer to Kin",
+                "slug": "spring-in-hieron-24-closer-to-kin",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "16TrUI85s47EmzloIMSwPSJbXfkMAlfnm8vChoragZHg",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-24-closer-to-kin.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 25: The Second Sun",
+                "slug": "spring-in-hieron-25-the-second-sun",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1Tv_MrggBEPNhpvdB5ZlCehOO3mzGndYW-bfK8NyNXxQ",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-25-the-second-sun.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 26: An Attractive Offer",
+                "slug": "spring-in-hieron-26-an-attractive-offer",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "17q7n6-rml-uy56Sa-OQY5f5b7vd1A6U3n1LAkBytcMQ",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-26-an-attractive-offer.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 27: A Place and A Time",
+                "slug": "spring-in-hieron-27-a-place-and-a-time",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1-cSlK86PI1mZa1Qhg8hLZHrP51SQRKGww-JbkpmZ5-I",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-27-a-place-and-a-time.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 28: Significant Concern",
+                "slug": "spring-in-hieron-28-significant-concern",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1m8OUgoZZUb4VE0UWLqoia8EK4Rk3fA4IAxBPWu_SK6s",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-28-significant-concern.txt"
+                }
+            },
+            {
+                "title": "Merch Available on Fangamer & Gen Con Tickets On Sale Sunday!!!",
+                "slug": "merch-available-on-fangamer-gen-con-tickets-on-sale-sunday",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "1YKUeYIfq9y2Hff-pA6xaIJgEIFVdKK_Ef1SNy4iKsYM",
+                "download": {
+                    "plain": "spring-in-hieron/merch-available-on-fangamer-gen-con-tickets-on-sale-sunday.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 29: Deeper than Flesh",
+                "slug": "spring-in-hieron-29-deeper-than-flesh",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1NbxdoISnHU1AQoB0_cE_asn8CI0052iaPQqRgLQZJes",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-29-deeper-than-flesh.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 30: A Safer Second",
+                "slug": "spring-in-hieron-30-a-safer-second",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1-0XA9iGyLB4kkK1yFJddNJa9u_epIeMevDRKVzK6tA8",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-30-a-safer-second.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 31: A Handful of People",
+                "slug": "spring-in-hieron-31-a-handful-of-people",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1NaGkSrNtzR6N6SuslS-qAzjuVHRQtezzUs0Q6PPbVfc",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-31-a-handful-of-people.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 32: Insurmountable Odds",
+                "slug": "spring-in-hieron-32-insurmountable-odds",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "1e8zMfsxKtX8fsB9z5tqA9i5ErEDAFj7g_Wa3m-ek_vk",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-32-insurmountable-odds.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 33: Particular Malice",
+                "slug": "spring-in-hieron-33-particular-malice",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1naa-51CZBb3rsm-v7lv3Mg5-mwTjbkoY0518qSjbAmI",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-33-particular-malice.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 34: The Variation of Natural Life",
+                "slug": "spring-in-hieron-34-the-variation-of-natural-life",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "1A0PtUFqQNUNEFfJsdAflgmQiKn7q_xSrwn8VTD_NVLo",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-34-the-variation-of-natural-life.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 35: Unfinished Work",
+                "slug": "spring-in-hieron-35-unfinished-work",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1KI_Ab3z-O9CYAXswp-UCq1J-tcE-VjcnTPvTklh0VF4",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-35-unfinished-work.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 36: Terrible and Necessary",
+                "slug": "spring-in-hieron-36-terrible-and-necessary",
+                "done": true,
+                "sorting_number": 37,
+                "docs_id": "1K0nlDDBBr4DZDicKScOKHzNSk45k5WgKLWmbKVlvLJg",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-36-terrible-and-necessary.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 37: Ingenuity and Love",
+                "slug": "spring-in-hieron-37-ingenuity-and-love",
+                "done": true,
+                "sorting_number": 38,
+                "docs_id": "1SS7fu1zohnVvvjuCMYPxq0MVPGzXRCrKVZRap48GsMU",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-37-ingenuity-and-love.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 38: See Where You're Standing",
+                "slug": "spring-in-hieron-38-see-where-you-re-standing",
+                "done": true,
+                "sorting_number": 39,
+                "docs_id": "1BsVHGG4A-_V2m-581OYquMCF4yYM_-Bu-zYtOE5XWuQ",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-38-see-where-you-re-standing.txt"
+                }
+            },
+            {
+                "title": "Friends at the Table @ Gen Con this week!!",
+                "slug": "friends-at-the-table-gen-con-this-week",
+                "done": true,
+                "sorting_number": 40,
+                "docs_id": "1b9P2222Wqjmz5x5-eaas7_8o8CTTsaNBDGs81ej3Ry0",
+                "download": {
+                    "plain": "spring-in-hieron/friends-at-the-table-gen-con-this-week.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 39: The Second Spring Pt. 1",
+                "slug": "spring-in-hieron-39-the-second-spring-pt-1",
+                "done": true,
+                "sorting_number": 41,
+                "docs_id": "1C2YmtH7UD3dUF7RcrlL7nzVoxFHWhMVdsyUdL6wi9pU",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-39-the-second-spring-pt-1.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 40: The Second Spring Pt. 2",
+                "slug": "spring-in-hieron-40-the-second-spring-pt-2",
+                "done": true,
+                "sorting_number": 42,
+                "docs_id": "1RG9aaeqy_uSrbaVg3yZRRKzb9C1fyIc29EOA3b7New4",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-40-the-second-spring-pt-2.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 41: The Second Spring Pt. 3",
+                "slug": "spring-in-hieron-41-the-second-spring-pt-3",
+                "done": true,
+                "sorting_number": 43,
+                "docs_id": "1fZL9kTLrAw0CfU-MUdU2R7a94aRYyD4tdKTmzjsN07g",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-41-the-second-spring-pt-3.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 42: The Second Spring Pt. 4",
+                "slug": "spring-in-hieron-42-the-second-spring-pt-4",
+                "done": true,
+                "sorting_number": 44,
+                "docs_id": "1j_MDOpnXERKXz30rYTlGGplmMbaNYfEQB9nVzO5d2aQ",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-42-the-second-spring-pt-4.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 43: The Second Spring Pt. 5",
+                "slug": "spring-in-hieron-43-the-second-spring-pt-5",
+                "done": true,
+                "sorting_number": 45,
+                "docs_id": "1BDV4sAYh5NZSAW5d19p37VIWiD2JEB84kpIAvWkKX8s",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-43-the-second-spring-pt-5.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron 44: The Second Spring Pt. 6",
+                "slug": "spring-in-hieron-44-the-second-spring-pt-6",
+                "done": true,
+                "sorting_number": 46,
+                "docs_id": "1j7oLy5JkvxGOSzoMGJd6GW4xZo7vBSShQ3ij8QikFmk",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-44-the-second-spring-pt-6.txt"
+                }
+            },
+            {
+                "title": "Spring in Hieron Post Mortem (Read the post!)",
+                "slug": "spring-in-hieron-post-mortem-read-the-post",
+                "done": true,
+                "sorting_number": 47,
+                "docs_id": "1_eWP94AXFwIKEsCXRV5I3j085lwFkPhQ-0-DwqGpJLw",
+                "download": {
+                    "plain": "spring-in-hieron/spring-in-hieron-post-mortem-read-the-post.txt"
+                }
+            }
+        ]
+    },
+    "counterweight": {
+        "title": "COUNTERWeight",
+        "id": "counterweight",
+        "episodes": [
+            {
+                "title": "COUNTER/Weight -01: Secret World Gen Episode",
+                "slug": "counter-weight-01-secret-world-gen-episode",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1vIaFKlqF5iyJvX874erUIddUq31Pj-ZxjQEKzNq6W1A",
+                "download": {
+                    "plain": "counterweight/counter-weight-01-secret-world-gen-episode.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 00: If Han Solo Used To Be Beyonc\u00e9, or: Hashtag Otechku",
+                "slug": "counter-weight-00-if-han-solo-used-to-be-beyonce-or-hashtag-otechku",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1dhlsagqfVSudwUyokFRNvQWHkUOJIUC2D4sXBNDCNSI",
+                "download": {
+                    "plain": "counterweight/counter-weight-00-if-han-solo-used-to-be-beyonce-or-hashtag-otechku.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 01: I Would Like A Bribe",
+                "slug": "counter-weight-01-i-would-like-a-bribe",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1mh8uLkw9dOkfiiMTvMUOilV-1Q9cC5OofAp_galM_RE",
+                "download": {
+                    "plain": "counterweight/counter-weight-01-i-would-like-a-bribe.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 02: Soldier Game",
+                "slug": "counter-weight-02-soldier-game",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "12ZzLK1LcKfgRwGVM83hujIXtpGFqhjhYIqOyZiVESDk",
+                "download": {
+                    "plain": "counterweight/counter-weight-02-soldier-game.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 03: It\u2019s Fine, We\u2019re Criminals",
+                "slug": "counter-weight-03-its-fine-were-criminals",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1RAHszTNZAxrr5mHH7rsZ-8ZcmwZYLOOTpEi9eWbdz0g",
+                "download": {
+                    "plain": "counterweight/counter-weight-03-its-fine-were-criminals.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 04: The Bells Are Ringing",
+                "slug": "counter-weight-04-the-bells-are-ringing",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1frsrs_DN4bQ8a6r3ew4EjyVELCKCYTPnxPlcKHc0acU",
+                "download": {
+                    "plain": "counterweight/counter-weight-04-the-bells-are-ringing.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 05: A Ship of Seeds",
+                "slug": "counter-weight-05-a-ship-of-seeds",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1YPpMNFPOJAow0tTUDpsFKahzHiCCVU8baBCid-1oU48",
+                "download": {
+                    "plain": "counterweight/counter-weight-05-a-ship-of-seeds.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 06: Here\u2019s Your Bribe Tip",
+                "slug": "counter-weight-06-heres-your-bribe-tip",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "19CSVitxMRtKKXr8m4swuczgAHtwcTT6sEEZaxSzQpgI",
+                "download": {
+                    "plain": "counterweight/counter-weight-06-heres-your-bribe-tip.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 07: I Am Not Allowed",
+                "slug": "counter-weight-07-i-am-not-allowed",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1lhNyIPWe3YfGL_YYdcHB6ezKj9tL7uoW4-2njNAdPYc",
+                "download": {
+                    "plain": "counterweight/counter-weight-07-i-am-not-allowed.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 08: Our Hostage Below",
+                "slug": "counter-weight-08-our-hostage-below",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1nw1FxaxTJ40a8hqqU-nTy_auC3zehaVjvCWvAh4AwYg",
+                "download": {
+                    "plain": "counterweight/counter-weight-08-our-hostage-below.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 09: This Month Of Ours",
+                "slug": "counter-weight-09-this-month-of-ours",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1cBdGrMwA4DdcoAgwDYb75Qmdgz4XZwKQBLD9YW4Ni1k",
+                "download": {
+                    "plain": "counterweight/counter-weight-09-this-month-of-ours.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 10: Drawing Clocks",
+                "slug": "counter-weight-10-drawing-clocks",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1wtmzUIBlFn5oKtAQcnaBNgrHOSEuu9i64L4-C5Wj2yk",
+                "download": {
+                    "plain": "counterweight/counter-weight-10-drawing-clocks.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 11: A Thing You Know About Nightclubs",
+                "slug": "counter-weight-11-a-thing-you-know-about-nightclubs",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1_zHGRtTLKXahrdEIlcCEFGddIEkrWp0LcGIRvV5yFDw",
+                "download": {
+                    "plain": "counterweight/counter-weight-11-a-thing-you-know-about-nightclubs.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 12: A Home After A Wake",
+                "slug": "counter-weight-12-a-home-after-a-wake",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1Kxs2MC2ygjiOKTGx-BKYH3ykFxxXWOyzSXTnkhnYudo",
+                "download": {
+                    "plain": "counterweight/counter-weight-12-a-home-after-a-wake.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 13: Our Customer of the Month",
+                "slug": "counter-weight-13-our-customer-of-the-month",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1axrkgj-V9GA-2kpKrGAm8kcHP5YZCOFX8WiCY_IBzss",
+                "download": {
+                    "plain": "counterweight/counter-weight-13-our-customer-of-the-month.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 14: We\u2019ve All Killed People",
+                "slug": "counter-weight-14-weve-all-killed-people",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "174wMIQjE6vkDy6y8zieQdfuUBajluVBh3LNdFga2QvQ",
+                "download": {
+                    "plain": "counterweight/counter-weight-14-weve-all-killed-people.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 15: A Candle in the Sun",
+                "slug": "counter-weight-15-a-candle-in-the-sun",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1MPTGfKDr1rGpimeYBcNv7WRp2h9AvqWYbZRxlsL0r2Y",
+                "download": {
+                    "plain": "counterweight/counter-weight-15-a-candle-in-the-sun.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 16: The Rear Left Engine",
+                "slug": "counter-weight-16-the-rear-left-engine",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1qxHa2TFjR_xZkANDVNwXsDXwpXzsIOqtNt6lWiwWqH8",
+                "download": {
+                    "plain": "counterweight/counter-weight-16-the-rear-left-engine.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 17: Metal That Has Died Twice",
+                "slug": "counter-weight-17-metal-that-has-died-twice",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1yzOKk9rbScejA1Pb2Zju0JpHSAL8RmbWStB4bs3LFxg",
+                "download": {
+                    "plain": "counterweight/counter-weight-17-metal-that-has-died-twice.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 18: The Order of Things",
+                "slug": "counter-weight-18-the-order-of-things",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "18BBHEX5HhxxlwT-QZ_gvkcYIKHyqo7TbgyeJqkWRP7k",
+                "download": {
+                    "plain": "counterweight/counter-weight-18-the-order-of-things.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 19: The Road You Take And Who You Take It With",
+                "slug": "counter-weight-19-the-road-you-take-and-who-you-take-it-with",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1wwdORMRDDGNvA_xUfMZ5IMGJsS_sGeoLYPf8ggfYb3s",
+                "download": {
+                    "plain": "counterweight/counter-weight-19-the-road-you-take-and-who-you-take-it-with.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 20: The Glimmer Incident: The Executive Enters!",
+                "slug": "counter-weight-20-the-glimmer-incident-the-executive-enters",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "1Cur7KA7HA57LY58mcZYNmFc4wUU2U8OrM8jnLKJJzXQ",
+                "download": {
+                    "plain": "counterweight/counter-weight-20-the-glimmer-incident-the-executive-enters.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 21: Crisis! (A Solemn Vow Above The Sea of Counterweight)",
+                "slug": "counter-weight-21-crisis-a-solemn-vow-above-the-sea-of-counterweight",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1tvjEiwmI2thMAtfiBIQ3KYydJU4wyVUc9eUxSXhTTqo",
+                "download": {
+                    "plain": "counterweight/counter-weight-21-crisis-a-solemn-vow-above-the-sea-of-counterweight.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 22: The Broken Branch",
+                "slug": "counter-weight-22-the-broken-branch",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1IgqusuLppdv7YWl4VOHCq3a0IW8ePEu5EGzbS133Zhs",
+                "download": {
+                    "plain": "counterweight/counter-weight-22-the-broken-branch.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 23: An Astonishingly Illegal Ship",
+                "slug": "counter-weight-23-an-astonishingly-illegal-ship",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "1xYk9E3HNzL3YhuXxojsPMw5Or8ReDrSsDw-5mq4mltw",
+                "download": {
+                    "plain": "counterweight/counter-weight-23-an-astonishingly-illegal-ship.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 24: It\u2019s Still Dark Out",
+                "slug": "counter-weight-24-its-still-dark-out",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1Rhs25IuZM9WQkNmkQrzkpVBLQ9dR9Zq4TIwvjwBCNpw",
+                "download": {
+                    "plain": "counterweight/counter-weight-24-its-still-dark-out.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 25: You Can Call Me Captain",
+                "slug": "counter-weight-25-you-can-call-me-captain",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "1TLQf8wVYi8brq5wvzaHfAzp3crTyFA5SjW6FHwMX18M",
+                "download": {
+                    "plain": "counterweight/counter-weight-25-you-can-call-me-captain.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 26: Do You Have Room For Me?",
+                "slug": "counter-weight-26-do-you-have-room-for-me",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1X3F4zcYL_loYDu5vLFdZbdg70uX-tgc3YAcjvzv7-r4",
+                "download": {
+                    "plain": "counterweight/counter-weight-26-do-you-have-room-for-me.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 27: An Animal Out of Context",
+                "slug": "counter-weight-27-an-animal-out-of-context",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1uftSYbIlWsmwNLGZSrspcpV48jrPemjveGJrkFMw_TI",
+                "download": {
+                    "plain": "counterweight/counter-weight-27-an-animal-out-of-context.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 28: A Special Kind of Warmth",
+                "slug": "counter-weight-28-a-special-kind-of-warmth",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "14vys-zQqtpjrrmgXPufHtknmqGM-ejM59eoEsA_vN0k",
+                "download": {
+                    "plain": "counterweight/counter-weight-28-a-special-kind-of-warmth.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 29: Three Conversations",
+                "slug": "counter-weight-29-three-conversations",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1-MGS6XXccDo05z_iwEFXlma--RRoouIQiZ8JoysWokU",
+                "download": {
+                    "plain": "counterweight/counter-weight-29-three-conversations.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 30: Another Facility Among Trees",
+                "slug": "counter-weight-30-another-facility-among-trees",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "16SlanKUNyiVILsuNb9AuFweXTiehrz4wIH-JPNrirOQ",
+                "download": {
+                    "plain": "counterweight/counter-weight-30-another-facility-among-trees.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 31: Expertize with a Z",
+                "slug": "counter-weight-31-expertize-with-a-z",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1G3esJnyHRLwCPO7ZLAR2DHR5LzTRN5YU-R_fL0dml3c",
+                "download": {
+                    "plain": "counterweight/counter-weight-31-expertize-with-a-z.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 32: Through The Crosshairs",
+                "slug": "counter-weight-32-through-the-crosshairs",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "1jAkxN2wUXP2O50bvXo3nhA_aBhiwVMXn49T9LwouFjQ",
+                "download": {
+                    "plain": "counterweight/counter-weight-32-through-the-crosshairs.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 33: A Fractal Garden and an Intercepted Message",
+                "slug": "counter-weight-33-a-fractal-garden-and-an-intercepted-message",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1ZZ6l8epOeigeGnNw_ORFEOrZb-GFHFjqWLA54CXqazU",
+                "download": {
+                    "plain": "counterweight/counter-weight-33-a-fractal-garden-and-an-intercepted-message.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 34: Reaching Out",
+                "slug": "counter-weight-34-reaching-out",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "1wkGPXdSbyXVL5syIKq9NjnQ6secDbiskzmh8lMHv4QY",
+                "download": {
+                    "plain": "counterweight/counter-weight-34-reaching-out.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 35: A Knock at the Door",
+                "slug": "counter-weight-35-a-knock-at-the-door",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1azQF-B4O-hHvzpp-6_QE-8UuTRuOlGbIP8dz5p3Bwyg",
+                "download": {
+                    "plain": "counterweight/counter-weight-35-a-knock-at-the-door.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 36: Everything is Temporary",
+                "slug": "counter-weight-36-everything-is-temporary",
+                "done": true,
+                "sorting_number": 37,
+                "docs_id": "1iyZCsvyeefkjY6rsnx5oYQhpk3DZ44iuUq7ct3JC6J0",
+                "download": {
+                    "plain": "counterweight/counter-weight-36-everything-is-temporary.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 37: Visions from Windows, Or: The Last Time the Bomb Dropped",
+                "slug": "counter-weight-37-visions-from-windows-or-the-last-time-the-bomb-dropped",
+                "done": true,
+                "sorting_number": 38,
+                "docs_id": "1ZIhr8_alkz_SfmHovIVWt1e3Izqf5UOfikjCFkN-UC0",
+                "download": {
+                    "plain": "counterweight/counter-weight-37-visions-from-windows-or-the-last-time-the-bomb-dropped.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 38: Found Footage",
+                "slug": "counter-weight-38-found-footage",
+                "done": true,
+                "sorting_number": 39,
+                "docs_id": "1FDXf11B7W3wigDZeYgxpXR_-N1elCAdqt3K26n0Y3D4",
+                "download": {
+                    "plain": "counterweight/counter-weight-38-found-footage.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 39: Just Another Machine",
+                "slug": "counter-weight-39-just-another-machine",
+                "done": true,
+                "sorting_number": 40,
+                "docs_id": "159OscYtwecH661AxBD6kpERKJgyqFio1rUlJCrDBmH0",
+                "download": {
+                    "plain": "counterweight/counter-weight-39-just-another-machine.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 40: The Storm Over September",
+                "slug": "counter-weight-40-the-storm-over-september",
+                "done": true,
+                "sorting_number": 41,
+                "docs_id": "1BiqYG9bkyaM5aVdBoE6VupR8rq0hkxUAjq9-VUWiGFc",
+                "download": {
+                    "plain": "counterweight/counter-weight-40-the-storm-over-september.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 41: A Splintered Branch, A Ringing Bell Pt. 1",
+                "slug": "counter-weight-41-a-splintered-branch-a-ringing-bell-pt-1",
+                "done": true,
+                "sorting_number": 42,
+                "docs_id": "1Ij9K7s54RnIy7H2NSzb2RSUAvo6VWYTLUfiiWFgHYfE",
+                "download": {
+                    "plain": "counterweight/counter-weight-41-a-splintered-branch-a-ringing-bell-pt-1.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 42: A Splintered Branch, A Ringing Bell Pt. 2",
+                "slug": "counter-weight-42-a-splintered-branch-a-ringing-bell-pt-2",
+                "done": true,
+                "sorting_number": 43,
+                "docs_id": "1fe1wP5Ik-Ds9tdnhrFC7J8SgBHIlQFPwmkN0jrc2Z1g",
+                "download": {
+                    "plain": "counterweight/counter-weight-42-a-splintered-branch-a-ringing-bell-pt-2.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 43: A Splintered Branch, A Ringing Bell Pt. 3",
+                "slug": "counter-weight-43-a-splintered-branch-a-ringing-bell-pt-3",
+                "done": true,
+                "sorting_number": 44,
+                "docs_id": "1R6BoFUKEYVF_zqOa06TNoSKOLuTAOASCP-9yVv1kT5I",
+                "download": {
+                    "plain": "counterweight/counter-weight-43-a-splintered-branch-a-ringing-bell-pt-3.txt"
+                }
+            },
+            {
+                "title": "A Quick Announcement and Some Thank Yous!",
+                "slug": "a-quick-announcement-and-some-thank-yous",
+                "done": true,
+                "sorting_number": 45,
+                "docs_id": "1jM31VkB31Fw84t0LcfQtwSr_FmFFGhPYlisZ7tYm2NM",
+                "download": {
+                    "plain": "counterweight/a-quick-announcement-and-some-thank-yous.txt"
+                }
+            },
+            {
+                "title": "COUNTER/Weight 44: Live Post-Mortem",
+                "slug": "counter-weight-44-live-post-mortem",
+                "done": true,
+                "sorting_number": 46,
+                "docs_id": "1nsU5-aXmfp_heVcOFZ0CodbaGwB14FaMAHyaH6gIGkA",
+                "download": {
+                    "plain": "counterweight/counter-weight-44-live-post-mortem.txt"
+                }
+            }
+        ]
+    },
+    "twilight-mirage": {
+        "title": "Twilight Mirage",
+        "id": "twilight-mirage",
+        "episodes": [
+            {
+                "title": "Twilight Mirage 00: The Final Eight Divines",
+                "slug": "twilight-mirage-00-the-final-eight-divines",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1sUis9SBhgH6ALDkruEFx_jNg5RvZ4Sk3fMSpBaf6DMw",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-00-the-final-eight-divines.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 01: The Beloved Dust",
+                "slug": "twilight-mirage-01-the-beloved-dust",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1wMbqJgBTkq1iCJsojt4mhi53vgnkd-h8utfz42F9RDE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-01-the-beloved-dust.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 02: The Last Divine",
+                "slug": "twilight-mirage-02-the-last-divine",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1xheU5Dfpx0Jep_E98yRN2AE3W2cT9Nb1Gcc3CmnA-IE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-02-the-last-divine.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 03: The Planet of Quire",
+                "slug": "twilight-mirage-03-the-planet-of-quire",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "18p9IoShDykNOabu7mEV_g86d0BvRJkxsTXZg7hq2H_Y",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-03-the-planet-of-quire.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 04: Birds of Prey",
+                "slug": "twilight-mirage-04-birds-of-prey",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1QgUDzt2DEnQ7RknfbZasjdtMFucFNLJc9LvD6NO7b_k",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-04-birds-of-prey.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 05: The Sunlight of Knowing",
+                "slug": "twilight-mirage-05-the-sunlight-of-knowing",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1ZXY8ppz03W0zlo6sAZP7za-yO8Hys6UJ-cGm8TNUuGo",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-05-the-sunlight-of-knowing.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 06: We Want You To Come Home",
+                "slug": "twilight-mirage-06-we-want-you-to-come-home",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1Ec9DpAOXCbfNM6pxCbYV-RxUH7e8RjxIJ--J0WJZ9hs",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-06-we-want-you-to-come-home.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 07: Second Street Drifting",
+                "slug": "twilight-mirage-07-second-street-drifting",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1QeA5wmSE1ADw_kGPwWDe9c8_9mOmShymCpSqO4xoFkc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-07-second-street-drifting.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 08: We are the River, And it is the Sea",
+                "slug": "twilight-mirage-08-we-are-the-river-and-it-is-the-sea",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1HzWQB1vZuXpEv87mXUeFLCScqs2uU330P8C1wqNM3hw",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-08-we-are-the-river-and-it-is-the-sea.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 09: The Sound of Strings",
+                "slug": "twilight-mirage-09-the-sound-of-strings",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1XWBJHqCYqnCZAak7_O5qPWKP_BxaVdjvs-SH1B8FVt0",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-09-the-sound-of-strings.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 10: Looking To Land",
+                "slug": "twilight-mirage-10-looking-to-land",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1vW25xDUrFWBVWw1_Mt2aX8Kdm0MbYf3ezcVTC80EeE4",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-10-looking-to-land.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 11: What We're Capable Of",
+                "slug": "twilight-mirage-11-what-we-re-capable-of",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1xkQHDb8Dfaafr9rpmjA7aiiNTKDbaxrPgQOUhzROmGM",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-11-what-we-re-capable-of.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 12: The Promise of Presence",
+                "slug": "twilight-mirage-12-the-promise-of-presence",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1FjBp_WmFXLHLKdiiKcJ01U1ZASbxtTGhQdO6la-A7ME",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-12-the-promise-of-presence.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 13: An Instinct Without A Word",
+                "slug": "twilight-mirage-13-an-instinct-without-a-word",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1r26GNDkvZOqO8-O4lFcX1WV3WPAG-c7Gij-y4p_fDgY",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-13-an-instinct-without-a-word.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 14: The Value of Distance",
+                "slug": "twilight-mirage-14-the-value-of-distance",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1dWYhP7maRexQDS8kcA_JbFzMy-E6oRXGawiCwh4M63U",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-14-the-value-of-distance.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 15: A Life and A History",
+                "slug": "twilight-mirage-15-a-life-and-a-history",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1C6LJmoKS5FroMy2C9u7WTU6NpxTnJ-dKpmT1QrVLTLE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-15-a-life-and-a-history.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 16: An Approximation of a Connection",
+                "slug": "twilight-mirage-16-an-approximation-of-a-connection",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1_uK0HyqKx0rQJsRoDtWOKm6favwdg9h8fn9-qRATZlw",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-16-an-approximation-of-a-connection.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 17: Like Falling Leaves",
+                "slug": "twilight-mirage-17-like-falling-leaves",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1pc2QQX6QUep70rhsuNg45n_-xOfLCr-QYjutpocZ6n8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-17-like-falling-leaves.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 18: The Sun Pales to Its Brightness",
+                "slug": "twilight-mirage-18-the-sun-pales-to-its-brightness",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "11K_pirBG5hxnlegizPSq9Sj-PkarfVMATe5FLoqLc1A",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-18-the-sun-pales-to-its-brightness.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 19: A Single Moment, Caught",
+                "slug": "twilight-mirage-19-a-single-moment-caught",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "1fjdzcgOoyZ0WrvjThJ_KPnXrXZ5Fp4-U1xbVLFZQWh8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-19-a-single-moment-caught.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 20: Bits Left Behind",
+                "slug": "twilight-mirage-20-bits-left-behind",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1-xgJnGuw0mTozrIJDUkIoxP0Jpg1uyvJQIjnAc2DdMY",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-20-bits-left-behind.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 21: One's Own Right",
+                "slug": "twilight-mirage-21-one-s-own-right",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "11rMeHwvC6YTzKNjvcFCl6pBICt4G9EI9c3bdmOxPbTc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-21-one-s-own-right.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 22: godspeed, glory Pt. 1",
+                "slug": "twilight-mirage-22-godspeed-glory-pt-1",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1muwtbtGzAsGTlMWcnGJeUB9ucaPRYjjmByJ4vwmJ9oQ",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-22-godspeed-glory-pt-1.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 23: godspeed, glory Pt. 2",
+                "slug": "twilight-mirage-23-godspeed-glory-pt-2",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1wU_sQ0DY8StcyGJykN9LsJ0pAcfeHIx_1c8c6r5vGp8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-23-godspeed-glory-pt-2.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 24: godspeed, glory Pt. 3",
+                "slug": "twilight-mirage-24-godspeed-glory-pt-3",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "1dTZNobzzspfajnJV32P00wcwtMjDiYl83x5l9t71x9Q",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-24-godspeed-glory-pt-3.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 25: The Miracle of the Mirage: The Dragon",
+                "slug": "twilight-mirage-25-the-miracle-of-the-mirage-the-dragon",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1NUdc9oHDttp8XNIGvGUdWDk8kHPzfMDYBqWjnQdT-bE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-25-the-miracle-of-the-mirage-the-dragon.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 26: The Miracle of the Mirage: The Heist",
+                "slug": "twilight-mirage-26-the-miracle-of-the-mirage-the-heist",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "19VwaLwuiWD90Y6KGVjJ1Z914APgpeGKI-eyhoXH9Vkc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-26-the-miracle-of-the-mirage-the-heist.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 27: The Miracle of the Mirage: The Siege",
+                "slug": "twilight-mirage-27-the-miracle-of-the-mirage-the-siege",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1EBnNWYGS0mBluIvhTguvxjGk8DIgp-9FxMIme1YRgV4",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-27-the-miracle-of-the-mirage-the-siege.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 28: This Year of Ours: The Scoundrel",
+                "slug": "twilight-mirage-28-this-year-of-ours-the-scoundrel",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1lTmS4TdtfEeoN1wPlDmz9JfnAXz9E6J6_Qp3L-VdQxk",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-28-this-year-of-ours-the-scoundrel.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 29: This Year of Ours: The Pilot",
+                "slug": "twilight-mirage-29-this-year-of-ours-the-pilot",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "1rmrBcI70ZO0yuLi_6Rf5-eph8eEa2iICxcl4G85NrAA",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-29-this-year-of-ours-the-pilot.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 30: This Year of Ours: The Muscle",
+                "slug": "twilight-mirage-30-this-year-of-ours-the-muscle",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1x6RuF1UG5l3wPs2lQDTIXs30ysIE7w2G2q0pviVlqII",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-30-this-year-of-ours-the-muscle.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 31: This Year of Ours: The Mechanic",
+                "slug": "twilight-mirage-31-this-year-of-ours-the-mechanic",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1Ruii5niyvSzlkWqvMLYPFp3_SKDnDuAiSEG2dG8H8GY",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-31-this-year-of-ours-the-mechanic.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 32: This Year of Ours: The Stitch",
+                "slug": "twilight-mirage-32-this-year-of-ours-the-stitch",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1WVpr7fNLhJeAhvrpbTwMAkyUQMFSBO5EjxnSrbC2EfY",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-32-this-year-of-ours-the-stitch.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 33: This Year of Ours: The Speaker",
+                "slug": "twilight-mirage-33-this-year-of-ours-the-speaker",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "11qZTwYvzPOwspWHutp4JUFMfzUjeCqKMHilwTrUd5ig",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-33-this-year-of-ours-the-speaker.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 34: This Year of Ours: The Mystic",
+                "slug": "twilight-mirage-34-this-year-of-ours-the-mystic",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1DievgnHN1OujJN97CcmuyG0Vm45sMDF9yum2C1nWKg8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-34-this-year-of-ours-the-mystic.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 35: This Year of Ours: The Notion",
+                "slug": "twilight-mirage-35-this-year-of-ours-the-notion",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "102V1dLuBS5xToyRnZNeMpU7j7Eth4PFYV-8a7iRP5ec",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-35-this-year-of-ours-the-notion.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 36: Every Bad Idea",
+                "slug": "twilight-mirage-36-every-bad-idea",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1V3hm5PNQ7fMfx97jKdknmcA43clTRn0vi5fgGIJ4yVg",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-36-every-bad-idea.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 37: Along A Route",
+                "slug": "twilight-mirage-37-along-a-route",
+                "done": true,
+                "sorting_number": 37,
+                "docs_id": "1Ypfpyjn_q4SvgmDslE0qDgKqWxKccYtZ0Gn3ArS3ZmE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-37-along-a-route.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 38: The Good Decision",
+                "slug": "twilight-mirage-38-the-good-decision",
+                "done": true,
+                "sorting_number": 38,
+                "docs_id": "15AR_aE5HvnQg7GOcyCnpc74lg_Qe_2eXvCINtRLlisQ",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-38-the-good-decision.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 39: Staying Neutral",
+                "slug": "twilight-mirage-39-staying-neutral",
+                "done": true,
+                "sorting_number": 39,
+                "docs_id": "126-HIvguGKXAAe-4xjcMYhtXMSNXRQ9-oE3fx2valvM",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-39-staying-neutral.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 40: Like What We Used To Do",
+                "slug": "twilight-mirage-40-like-what-we-used-to-do",
+                "done": true,
+                "sorting_number": 40,
+                "docs_id": "1EMXqJ9OjF4PnpVdpdJFG4HL-fE1q0GAA8qfa3Xf6pwA",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-40-like-what-we-used-to-do.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 41: No Value in a Closed Door",
+                "slug": "twilight-mirage-41-no-value-in-a-closed-door",
+                "done": true,
+                "sorting_number": 41,
+                "docs_id": "1u2yE26gTUTfOSe5z3__ixaKZVaoWNay2vShPsm-Pma8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-41-no-value-in-a-closed-door.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 42: Look the Other Way",
+                "slug": "twilight-mirage-42-look-the-other-way",
+                "done": true,
+                "sorting_number": 42,
+                "docs_id": "1ojeWmu2G4vcosYt6ogMc37L4FD4lJWmV9HVkVF_HPss",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-42-look-the-other-way.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 43: The Center of the Storm",
+                "slug": "twilight-mirage-43-the-center-of-the-storm",
+                "done": true,
+                "sorting_number": 43,
+                "docs_id": "15XJs4CnwDeYeA81DQhREkHIbESomTD78K7lg2JHbz00",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-43-the-center-of-the-storm.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 44: The Pathways in the Woods",
+                "slug": "twilight-mirage-44-the-pathways-in-the-woods",
+                "done": true,
+                "sorting_number": 44,
+                "docs_id": "14FJSegQmxxJwk-IsaWtmftqSLVRoyNTCN5cFe7m31VI",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-44-the-pathways-in-the-woods.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 45: Downtime on Gift-3",
+                "slug": "twilight-mirage-45-downtime-on-gift-3",
+                "done": true,
+                "sorting_number": 45,
+                "docs_id": "13eAcu_jCDdzBbOHigCg_zpnwmjSDJqlL5l3ePSQeSVs",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-45-downtime-on-gift-3.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 46: Every Time We Leave, It Changes",
+                "slug": "twilight-mirage-46-every-time-we-leave-it-changes",
+                "done": true,
+                "sorting_number": 46,
+                "docs_id": "1ehRz-hnFXLKhzHkoQjDjenDR-8q_W9imcXHeXpg93e4",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-46-every-time-we-leave-it-changes.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 47: Uncontrolled Fires",
+                "slug": "twilight-mirage-47-uncontrolled-fires",
+                "done": true,
+                "sorting_number": 47,
+                "docs_id": "1o1f5M75c47NCZEdVxUSvNGtCX3HHBJiuvjfYPgVJm14",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-47-uncontrolled-fires.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 48: This Place Pushes Back",
+                "slug": "twilight-mirage-48-this-place-pushes-back",
+                "done": true,
+                "sorting_number": 48,
+                "docs_id": "1bKXr1xq0v0lqhDpZrcDC3HMkkeMYB7ld_ZENMfjZJDQ",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-48-this-place-pushes-back.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 49: Bona Fide, Good Faith",
+                "slug": "twilight-mirage-49-bona-fide-good-faith",
+                "done": true,
+                "sorting_number": 49,
+                "docs_id": "13pJjzr4N-lEEF4MMU3tptv2ptIOeZUqTKzZ5SSyYtA4",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-49-bona-fide-good-faith.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 50: A Very Old Mistake",
+                "slug": "twilight-mirage-50-a-very-old-mistake",
+                "done": true,
+                "sorting_number": 50,
+                "docs_id": "1c-74rr13dxi0NkwSakhgcVwkqx90Jk5Yn7LWbyOtp0g",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-50-a-very-old-mistake.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 51: Open As Possible",
+                "slug": "twilight-mirage-51-open-as-possible",
+                "done": true,
+                "sorting_number": 51,
+                "docs_id": "14LkFDs1O4qC7W_isx9TRSOA9LZVBtnsUg3LpHoc6pak",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-51-open-as-possible.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 52: The Second Miracle",
+                "slug": "twilight-mirage-52-the-second-miracle",
+                "done": true,
+                "sorting_number": 52,
+                "docs_id": "1V2VwYw9np5bfYjHCoLMi2kj3-f4-Ds6h15-ZEDdt6gE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-52-the-second-miracle.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 53: Our Flaws in a Vacuum, or the Promise We Made To Each Other",
+                "slug": "twilight-mirage-53-our-flaws-in-a-vacuum-or-the-promise-we-made-to-each-other",
+                "done": true,
+                "sorting_number": 53,
+                "docs_id": "130xmSpDZGZWaA3PADhs6Y9tZjrDlQHfx9uLgavw2-1o",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-53-our-flaws-in-a-vacuum-or-the-promise-we-made-to-each-other.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 54: Downtime on Skein",
+                "slug": "twilight-mirage-54-downtime-on-skein",
+                "done": true,
+                "sorting_number": 54,
+                "docs_id": "1vwkjib7IghpPvQiLt-SHsatZwKX_Owptwje5PLNZ7hA",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-54-downtime-on-skein.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 55: The Vault of Anticipation Pt. 1",
+                "slug": "twilight-mirage-55-the-vault-of-anticipation-pt-1",
+                "done": true,
+                "sorting_number": 55,
+                "docs_id": "1jomv54LIQ2D75D-R7cseONE8NR8ShZp1BQhCRL5OTEE",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-55-the-vault-of-anticipation-pt-1.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 56: The Vault of Anticipation Pt. 2",
+                "slug": "twilight-mirage-56-the-vault-of-anticipation-pt-2",
+                "done": true,
+                "sorting_number": 56,
+                "docs_id": "1K4LAEvIoTeiwvs8XyAKazbAOqa341kNsmu34tcUT4tc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-56-the-vault-of-anticipation-pt-2.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 57: The Siege of the Lineage Brighton Pt. 1",
+                "slug": "twilight-mirage-57-the-siege-of-the-lineage-brighton-pt-1",
+                "done": true,
+                "sorting_number": 57,
+                "docs_id": "1M22mtskeY7e2Y1i2C-vphy3tmiOunO6RmxGHmGwNJco",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-57-the-siege-of-the-lineage-brighton-pt-1.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 58: The Siege of the Lineage Brighton Pt. 2",
+                "slug": "twilight-mirage-58-the-siege-of-the-lineage-brighton-pt-2",
+                "done": true,
+                "sorting_number": 58,
+                "docs_id": "1KJb-6ZxWvXFzCjHFt1VBXWODD_heNPw7vbstlBMA8N0",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-58-the-siege-of-the-lineage-brighton-pt-2.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 59: The Siege of the Lineage Brighton Pt. 3",
+                "slug": "twilight-mirage-59-the-siege-of-the-lineage-brighton-pt-3",
+                "done": true,
+                "sorting_number": 59,
+                "docs_id": "1GZ1Dss0Wz7xBMKlEG5IC7LPhJFcGj6KRIJ82WQiLBco",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-59-the-siege-of-the-lineage-brighton-pt-3.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 60: The Restitution of All Things Pt. 1",
+                "slug": "twilight-mirage-60-the-restitution-of-all-things-pt-1",
+                "done": true,
+                "sorting_number": 60,
+                "docs_id": "12n2sQb_xn5NyRo0tMKjyYpj7SiEpuQoONtxZWWm61Q8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-60-the-restitution-of-all-things-pt-1.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 61: The Restitution of All Things Pt. 2",
+                "slug": "twilight-mirage-61-the-restitution-of-all-things-pt-2",
+                "done": true,
+                "sorting_number": 61,
+                "docs_id": "1oirhNpv3yZIOS0EX4FIDHsVOi2Xw_l0UvNJGWDp1sz8",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-61-the-restitution-of-all-things-pt-2.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 62: The Feast of Patina",
+                "slug": "twilight-mirage-62-the-feast-of-patina",
+                "done": true,
+                "sorting_number": 62,
+                "docs_id": "1uLQDhnxA3RGaymJ2wuiRpEEsd2GkUtQWETKCP_plD9U",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-62-the-feast-of-patina.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 63: Guaranteed Events, Or: An Accounting of the Time When We Built the Machine",
+                "slug": "twilight-mirage-63-guaranteed-events-or-an-accounting-of-the-time-when-we-built-the-machine",
+                "done": true,
+                "sorting_number": 63,
+                "docs_id": "1trrjDujyI1ObqHJwPIU4a2oAjbx4j7i3cSPTeOf-QQc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-63-guaranteed-events-or-an-accounting-of-the-time-when-we-built-the-machine.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 64: Futura Free Pt. 1",
+                "slug": "twilight-mirage-64-futura-free-pt-1",
+                "done": true,
+                "sorting_number": 64,
+                "docs_id": "1yO2efCJUhJaOpuPnx2j2Z67c5fMwMAkFJot_8OWAaHA",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-64-futura-free-pt-1.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 65: Futura Free Pt. 2",
+                "slug": "twilight-mirage-65-futura-free-pt-2",
+                "done": true,
+                "sorting_number": 65,
+                "docs_id": "1ljy5LhbCaLsI9JyW2V0v8UwY4ids5F_tQMOHL6eMS2E",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-65-futura-free-pt-2.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 66: Futura Free Pt. 3",
+                "slug": "twilight-mirage-66-futura-free-pt-3",
+                "done": true,
+                "sorting_number": 66,
+                "docs_id": "1ssy8Sgq1DMEawThkuaawmhg7n16LpWAfp4lSHllYMYM",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-66-futura-free-pt-3.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 67: Futura Free Pt. 4",
+                "slug": "twilight-mirage-67-futura-free-pt-4",
+                "done": true,
+                "sorting_number": 67,
+                "docs_id": "1g3YDsQe-cNcEB9MgX9dzBpM2E-BtqPi2Bh_3tGg48Z4",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-67-futura-free-pt-4.txt"
+                }
+            },
+            {
+                "title": "Twilight Mirage 68: The Twilight Mirage Post Mortem",
+                "slug": "twilight-mirage-68-the-twilight-mirage-post-mortem",
+                "done": true,
+                "sorting_number": 68,
+                "docs_id": "16PrXvOObbm6D-buKCXpaux5kqQa4DDNvssxgmxhyesc",
+                "download": {
+                    "plain": "twilight-mirage/twilight-mirage-68-the-twilight-mirage-post-mortem.txt"
+                }
+            }
+        ]
+    },
+    "road-to-partizan": {
+        "title": "Road to PARTIZAN",
+        "id": "road-to-partizan",
+        "episodes": [
+            {
+                "title": "Announcing: PARTIZAN (And Some New Merch!)",
+                "slug": "announcing-partizan-and-some-new-merch",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1RgxhM4DIP_bErPmYgewPGIJs5vQMrm2UU4nONRure3M",
+                "download": {
+                    "plain": "road-to-partizan/announcing-partizan-and-some-new-merch.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 01: Dialect Pt. 1",
+                "slug": "the-road-to-partizan-01-dialect-pt-1",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1s76j7aaS3-OaDLxXLJGKgaL-ctm-nRek9qfeFqpdQM4",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-01-dialect-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 02: Dialect Pt. 2",
+                "slug": "the-road-to-partizan-02-dialect-pt-2",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1pMB-gf6pAa-rakvBRr9O-ZC6p1C9fl2p--AMZE1hJRI",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-02-dialect-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 03: Armour Astir Pt.1",
+                "slug": "the-road-to-partizan-03-armour-astir-pt-1",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "18B3_cCnyt4kQIcCAO4R5aBGYzTjPpq1Poe5FB0CLZeo",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-03-armour-astir-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 04: Armour Astir Pt.2",
+                "slug": "the-road-to-partizan-04-armour-astir-pt-2",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1H89TwTgi5RpyyBSXGj8veE3L68o3jkvj_PA4taKl4Js",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-04-armour-astir-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 05: Ech0 & dusk to midnight",
+                "slug": "the-road-to-partizan-05-ech0-dusk-to-midnight",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1xGVfQqSd7Quo-8lf_8GIjxouV2Vux2PNCwQTC3gnDcU",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-05-ech0-dusk-to-midnight.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 06: Beam Saber Pt. 1",
+                "slug": "the-road-to-partizan-06-beam-saber-pt-1",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1Cxg3k5nIAtnYZTm3kgK4nzDQR_X3ha9x9p_Rd5-QH70",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-06-beam-saber-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 07: Beam Saber Pt. 2",
+                "slug": "the-road-to-partizan-07-beam-saber-pt-2",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1SN7aMDHFL7jhlyMLZ6X8vubxx8SZ3rBqbCM0fbk9MAI",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-07-beam-saber-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 08: For the Queen",
+                "slug": "the-road-to-partizan-08-for-the-queen",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1JD8qCHvGJYdbZSO66wobXQ3Mb8qB7YdFqZG212WCOVI",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-08-for-the-queen.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 09: Microscope Pt. 1",
+                "slug": "the-road-to-partizan-09-microscope-pt-1",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1fy_FTG4_UJRNg-IvDywON9RpF1zPZZuGIJrHAOCWZzA",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-09-microscope-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 10: Microscope Pt. 2",
+                "slug": "the-road-to-partizan-10-microscope-pt-2",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1Gl_dpTrkOLu6UwSiOdPyup4t2ymJx6cbI7eC0PbRt8c",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-10-microscope-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PARTIZAN 11: Summary & Recap",
+                "slug": "the-road-to-partizan-11-summary-recap",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "18VSJvOkKltxn4aYhTOwFze7WICkpYXiS5sZBXyQv17o",
+                "download": {
+                    "plain": "road-to-partizan/the-road-to-partizan-11-summary-recap.txt"
+                }
+            }
+        ]
+    },
+    "partizan": {
+        "title": "PARTIZAN",
+        "id": "partizan",
+        "episodes": [
+            {
+                "title": "PARTIZAN 00: The Divine Principality",
+                "slug": "partizan-00-the-divine-principality",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4",
+                "download": {
+                    "plain": "partizan/partizan-00-the-divine-principality.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 01: The Seaside Town of Obelle",
+                "slug": "partizan-01-the-seaside-town-of-obelle",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "1xw9iP44H6v4xiYxS1Uu-vgELyGHutTolvcKeJ8JqAX4",
+                "download": {
+                    "plain": "partizan/partizan-01-the-seaside-town-of-obelle.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 02: Obelle, On Fire",
+                "slug": "partizan-02-obelle-on-fire",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ",
+                "download": {
+                    "plain": "partizan/partizan-02-obelle-on-fire.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 03: SHORESIDE RECOVERY - DINNERDATE",
+                "slug": "partizan-03-shoreside-recovery-dinnerdate",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c",
+                "download": {
+                    "plain": "partizan/partizan-03-shoreside-recovery-dinnerdate.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 04: SHORESIDE RECOVERY - BLACKGLOVES",
+                "slug": "partizan-04-shoreside-recovery-blackgloves",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0",
+                "download": {
+                    "plain": "partizan/partizan-04-shoreside-recovery-blackgloves.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 05: Profit and Loss",
+                "slug": "partizan-05-profit-and-loss",
+                "done": true,
+                "sorting_number": 5,
+                "docs_id": "1RMpe1d0RfhhBFZE0IeVtjkWisrrKHDka4ibPiQQjBF0",
+                "download": {
+                    "plain": "partizan/partizan-05-profit-and-loss.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 06: A Palace During a Wake",
+                "slug": "partizan-06-a-palace-during-a-wake",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1gNFIC5aRaYEcrJC7JOm4CyEXjxsJNPJTXg1NcBpO7bM",
+                "download": {
+                    "plain": "partizan/partizan-06-a-palace-during-a-wake.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 07: Ambush in the Sand",
+                "slug": "partizan-07-ambush-in-the-sand",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1lTVi8BlIYZjOAOzHyA0o6UVRb9cfSJBrnS5v7WLBw60",
+                "download": {
+                    "plain": "partizan/partizan-07-ambush-in-the-sand.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 08: Under the Boughs of the Court",
+                "slug": "partizan-08-under-the-boughs-of-the-court",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1SnYMmh-o0ltWtoF76IJah9QxEw6CfG6Qqbf64h7ttr8",
+                "download": {
+                    "plain": "partizan/partizan-08-under-the-boughs-of-the-court.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 09 - DESERT SQUIRE - VANTAGE",
+                "slug": "partizan-09-desert-squire-vantage",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1Q4bpSMukxzLtQ-6eToE4qe1PnD3wiH87QAA1YqNowQM",
+                "download": {
+                    "plain": "partizan/partizan-09-desert-squire-vantage.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 10: DESERT SQUIRE - RIPOSTE",
+                "slug": "partizan-10-desert-squire-riposte",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY",
+                "download": {
+                    "plain": "partizan/partizan-10-desert-squire-riposte.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 11: DESERT SQUIRE - SLEIGHT",
+                "slug": "partizan-11-desert-squire-sleight",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE",
+                "download": {
+                    "plain": "partizan/partizan-11-desert-squire-sleight.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 12: A Call From an Island",
+                "slug": "partizan-12-a-call-from-an-island",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E",
+                "download": {
+                    "plain": "partizan/partizan-12-a-call-from-an-island.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 13: A Captive Audience",
+                "slug": "partizan-13-a-captive-audience",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1l4eZ0kAhol5jW4l6uCMkBh-hk2uFXPSzKjR__ohuMjo",
+                "download": {
+                    "plain": "partizan/partizan-13-a-captive-audience.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 14: Deception in the Canyon City",
+                "slug": "partizan-14-deception-in-the-canyon-city",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY",
+                "download": {
+                    "plain": "partizan/partizan-14-deception-in-the-canyon-city.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 15: Divine Attention",
+                "slug": "partizan-15-divine-attention",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY",
+                "download": {
+                    "plain": "partizan/partizan-15-divine-attention.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 16: BITTER AIR - BEHEST",
+                "slug": "partizan-16-bitter-air-behest",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY",
+                "download": {
+                    "plain": "partizan/partizan-16-bitter-air-behest.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 17: BITTER AIR - THREECARD",
+                "slug": "partizan-17-bitter-air-threecard",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI",
+                "download": {
+                    "plain": "partizan/partizan-17-bitter-air-threecard.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 18: BITTER AIR - COMBUSTION",
+                "slug": "partizan-18-bitter-air-combustion",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw",
+                "download": {
+                    "plain": "partizan/partizan-18-bitter-air-combustion.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 19: On the Edge of Fracture",
+                "slug": "partizan-19-on-the-edge-of-fracture",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "1ktSjNCXuQVwF-J6c8qaOyOqvB2d6uCjdNPY7Xyj6g00",
+                "download": {
+                    "plain": "partizan/partizan-19-on-the-edge-of-fracture.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 20: On the Eve of Revolution",
+                "slug": "partizan-20-on-the-eve-of-revolution",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0",
+                "download": {
+                    "plain": "partizan/partizan-20-on-the-eve-of-revolution.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 21: Millennium Break: We Will Take Hold of the Loom of History!",
+                "slug": "partizan-21-millennium-break-we-will-take-hold-of-the-loom-of-history",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "1s4JYCwDuv2aEKLg0PfXPbsPWum9NNXKkqyXgkPp1YWQ",
+                "download": {
+                    "plain": "partizan/partizan-21-millennium-break-we-will-take-hold-of-the-loom-of-history.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas)",
+                "slug": "partizan-22-millenium-break-forward-to-piracy-sharp-tensions-across-tremulous-seas",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA",
+                "download": {
+                    "plain": "partizan/partizan-22-millenium-break-forward-to-piracy-sharp-tensions-across-tremulous-seas.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 23: Who Will Lead Millennium Break?",
+                "slug": "partizan-23-who-will-lead-millennium-break",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws",
+                "download": {
+                    "plain": "partizan/partizan-23-who-will-lead-millennium-break.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh",
+                "slug": "partizan-24-millennium-break-the-first-and-second-arrests-of-clementine-kesh",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "11nwYequJ9uF2zInVmGRSCJ2O7hsJnFRikDgaQzSf7Fg",
+                "download": {
+                    "plain": "partizan/partizan-24-millennium-break-the-first-and-second-arrests-of-clementine-kesh.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 25: Millennium Break: Courage in the Shadow of Opportunity",
+                "slug": "partizan-25-millennium-break-courage-in-the-shadow-of-opportunity",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1A5zDMC8NZkOJs61sKygF7DIrl4UprqYCNPWxTU9ef1A",
+                "download": {
+                    "plain": "partizan/partizan-25-millennium-break-courage-in-the-shadow-of-opportunity.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 26: Millennium Break: Breaking Vigil",
+                "slug": "partizan-26-millennium-break-breaking-vigil",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI",
+                "download": {
+                    "plain": "partizan/partizan-26-millennium-break-breaking-vigil.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 27: Millennium Break: She said, \"To Win We Must Play!\"",
+                "slug": "partizan-27-millennium-break-she-said-to-win-we-must-play",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI",
+                "download": {
+                    "plain": "partizan/partizan-27-millennium-break-she-said-to-win-we-must-play.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 28: Millennium Break: The Storm Over Cruciat",
+                "slug": "partizan-28-millennium-break-the-storm-over-cruciat",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A",
+                "download": {
+                    "plain": "partizan/partizan-28-millennium-break-the-storm-over-cruciat.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: Sports Are Just Numerology",
+                "slug": "bonus-episode-sports-are-just-numerology",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA",
+                "download": {
+                    "plain": "partizan/bonus-episode-sports-are-just-numerology.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 29: Buried Beneath Golden Leaves",
+                "slug": "partizan-29-buried-beneath-golden-leaves",
+                "done": false,
+                "sorting_number": 30,
+                "docs_id": "1QyBbI8B8byGQofjJ9XW5e_V9WEc3xYtCluJSZ-nsUZM",
+                "download": {
+                    "plain": "partizan/partizan-29-buried-beneath-golden-leaves.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 30: A Cemetery for Heroes",
+                "slug": "partizan-30-a-cemetery-for-heroes",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1CwOrX5q5VPW-6ULHuddJAXLF1rzNly8c4IyeKlq2W1M",
+                "download": {
+                    "plain": "partizan/partizan-30-a-cemetery-for-heroes.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 31: The Grand Premiere",
+                "slug": "partizan-31-the-grand-premiere",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1MeJhbiGhXkp3S8y643xcEOth-0OaqPuDsKgf-Gtjhoo",
+                "download": {
+                    "plain": "partizan/partizan-31-the-grand-premiere.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 32: GLORY Arrives",
+                "slug": "partizan-32-glory-arrives",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "1SGWlkenjyFkKzm3V0pmxfNutTHUEyeeQB9dVzycwHkY",
+                "download": {
+                    "plain": "partizan/partizan-32-glory-arrives.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 33: A Single Shot",
+                "slug": "partizan-33-a-single-shot",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1pYCVpEZNuoqcLSpMKHTDdxQoRfm2hbiChbJAlg7u8Tc",
+                "download": {
+                    "plain": "partizan/partizan-33-a-single-shot.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 34: Guests, Invited and Otherwise",
+                "slug": "partizan-34-guests-invited-and-otherwise",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "1kCbzyxFctlInourYzV8UwiaNlO5gnWqUtJEuUd_ioQE",
+                "download": {
+                    "plain": "partizan/partizan-34-guests-invited-and-otherwise.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 35: The Witch in the Glass Pt. 1",
+                "slug": "partizan-35-the-witch-in-the-glass-pt-1",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1h5kCZCIAs2HidKDfKl5alwrkVi4irPOf9d6n3Efq0sQ",
+                "download": {
+                    "plain": "partizan/partizan-35-the-witch-in-the-glass-pt-1.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 36: The Witch in the Glass Pt. 2",
+                "slug": "partizan-36-the-witch-in-the-glass-pt-2",
+                "done": true,
+                "sorting_number": 37,
+                "docs_id": "1iHISLaYMoCkF52VRJQIgdFoAEIoMG2uJRSn00Her1Yg",
+                "download": {
+                    "plain": "partizan/partizan-36-the-witch-in-the-glass-pt-2.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 37: The Gravity of Absence",
+                "slug": "partizan-37-the-gravity-of-absence",
+                "done": true,
+                "sorting_number": 38,
+                "docs_id": "1O5EqGvNtXZSjaPy-vyvOiiAqOhKkl-YFL4X_umuH_RQ",
+                "download": {
+                    "plain": "partizan/partizan-37-the-gravity-of-absence.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 38: The Red Light",
+                "slug": "partizan-38-the-red-light",
+                "done": true,
+                "sorting_number": 39,
+                "docs_id": "1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU",
+                "download": {
+                    "plain": "partizan/partizan-38-the-red-light.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 39: Escape Velocity",
+                "slug": "partizan-39-escape-velocity",
+                "done": true,
+                "sorting_number": 40,
+                "docs_id": "1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA",
+                "download": {
+                    "plain": "partizan/partizan-39-escape-velocity.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 40: Engine Burn",
+                "slug": "partizan-40-engine-burn",
+                "done": true,
+                "sorting_number": 41,
+                "docs_id": "1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo",
+                "download": {
+                    "plain": "partizan/partizan-40-engine-burn.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 41: Orbital Decay",
+                "slug": "partizan-41-orbital-decay",
+                "done": true,
+                "sorting_number": 42,
+                "docs_id": "1_TP0NoV1Kgt-91kgM0IZoCoPUzq5_RKHZbMiO3dwBIg",
+                "download": {
+                    "plain": "partizan/partizan-41-orbital-decay.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 42: The Unbreakable Quarry",
+                "slug": "partizan-42-the-unbreakable-quarry",
+                "done": true,
+                "sorting_number": 43,
+                "docs_id": "1znVOdssxKjOIqk4NWiyC9xz_3CkWmXJWbJHoXDaFvyw",
+                "download": {
+                    "plain": "partizan/partizan-42-the-unbreakable-quarry.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 43: The Tunnels Beneath",
+                "slug": "partizan-43-the-tunnels-beneath",
+                "done": false,
+                "sorting_number": 44,
+                "docs_id": "1Tj0HJt1HvI0qi8cCt7ivq-RcqCrB3A9mWsZttif4TBo",
+                "download": {
+                    "plain": "partizan/partizan-43-the-tunnels-beneath.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 44: The Prison at the Top of the World",
+                "slug": "partizan-44-the-prison-at-the-top-of-the-world",
+                "done": false,
+                "sorting_number": 45
+            },
+            {
+                "title": "PARTIZAN 45: Operation Shackled Sun: Act 1: The Fray",
+                "slug": "partizan-45-operation-shackled-sun-act-1-the-fray",
+                "done": false,
+                "sorting_number": 46,
+                "docs_id": "1Y6P5yfvoMWU-SJ5vyQRx9oEzktkOTWDue0oXirAhaeg",
+                "download": {
+                    "plain": "partizan/partizan-45-operation-shackled-sun-act-1-the-fray.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate",
+                "slug": "partizan-46-operation-shackled-sun-act-2-the-gate",
+                "done": true,
+                "sorting_number": 47,
+                "docs_id": "1akSSvpddGq9Jhp84mm1eaGOfKrAkBynEc-1NLymRWPM",
+                "download": {
+                    "plain": "partizan/partizan-46-operation-shackled-sun-act-2-the-gate.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 47: Operation Shackled Sun: Act 3: The Stories Told About the Things We Do",
+                "slug": "partizan-47-operation-shackled-sun-act-3-the-stories-told-about-the-things-we-do",
+                "done": false,
+                "sorting_number": 48,
+                "docs_id": "159vY7ReX-TQRxPIAaNVpN4loEEx1vBT6rSXa6jTtLN8",
+                "download": {
+                    "plain": "partizan/partizan-47-operation-shackled-sun-act-3-the-stories-told-about-the-things-we-do.txt"
+                }
+            },
+            {
+                "title": "PARTIZAN 48: Post Mortem",
+                "slug": "partizan-48-post-mortem",
+                "done": true,
+                "sorting_number": 49,
+                "docs_id": "1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8",
+                "download": {
+                    "plain": "partizan/partizan-48-post-mortem.txt"
+                }
+            }
+        ]
+    },
+    "sangfielle": {
+        "title": "Sangfielle",
+        "id": "sangfielle",
+        "episodes": [
+            {
+                "title": "Season 7 Trailer & Announcement",
+                "slug": "season-7-trailer-announcement",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1TJpUD-ezhHZDmt6YPkqJ2GcA__TZf8UfJFVdQsSqOQc",
+                "download": {
+                    "plain": "sangfielle/season-7-trailer-announcement.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 01: The Curse of Eastern Folly Pt. 1",
+                "slug": "sangfielle-01-the-curse-of-eastern-folly-pt-1",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "162v2Do07dxo9TxfI-bFzmN-XwBqvoYKTW11j7gzuWqU",
+                "download": {
+                    "plain": "sangfielle/sangfielle-01-the-curse-of-eastern-folly-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 02: The Curse of Eastern Folly Pt. 2",
+                "slug": "sangfielle-02-the-curse-of-eastern-folly-pt-2",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "11BY5ajVD2DkR0nKkbCiYPPb_boaPWC_7urW0vIerQI4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-02-the-curse-of-eastern-folly-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 03: The Curse of Eastern Folly Pt. 3",
+                "slug": "sangfielle-03-the-curse-of-eastern-folly-pt-3",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1zczvM89ydLIZxwTbihU9O041TBcaHWX-qsTnRF2CvcI",
+                "download": {
+                    "plain": "sangfielle/sangfielle-03-the-curse-of-eastern-folly-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 04: The Blackwick Group",
+                "slug": "sangfielle-04-the-blackwick-group",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1AUXhp-q9f1s1xG0JDC-qhWQkFokFZjHTk81hKs41xnM",
+                "download": {
+                    "plain": "sangfielle/sangfielle-04-the-blackwick-group.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 05: The Hymn of the Mother-Beast Pt. 1",
+                "slug": "sangfielle-05-the-hymn-of-the-mother-beast-pt-1",
+                "done": false,
+                "sorting_number": 5,
+                "docs_id": "1NFpnWRJM4b6jrhCmR4iTZTA_sV_NV-lcQ4z5GZnf7WY",
+                "download": {
+                    "plain": "sangfielle/sangfielle-05-the-hymn-of-the-mother-beast-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 06: The Hymn of the Mother-Beast Pt. 2",
+                "slug": "sangfielle-06-the-hymn-of-the-mother-beast-pt-2",
+                "done": true,
+                "sorting_number": 6,
+                "docs_id": "1wShi5uvYHOEpNIZgF0JuNXLFEQmK6FGnG_kMFhVsZRA",
+                "download": {
+                    "plain": "sangfielle/sangfielle-06-the-hymn-of-the-mother-beast-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 07: The Hymn of the Mother-Beast Pt. 3",
+                "slug": "sangfielle-07-the-hymn-of-the-mother-beast-pt-3",
+                "done": true,
+                "sorting_number": 7,
+                "docs_id": "1Hy68u6GQNEMfAhPqATFcF4Dv5Jqk1Jd01b_XNO3SvDk",
+                "download": {
+                    "plain": "sangfielle/sangfielle-07-the-hymn-of-the-mother-beast-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 08: The Hymn of the Mother-Beast Pt. 4",
+                "slug": "sangfielle-08-the-hymn-of-the-mother-beast-pt-4",
+                "done": true,
+                "sorting_number": 8,
+                "docs_id": "1U-4KpK9j_7I4i0iPoEvTobASAxCTJKOlyv6cf86E9ZM",
+                "download": {
+                    "plain": "sangfielle/sangfielle-08-the-hymn-of-the-mother-beast-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 09: The Secret Ledger of Roseroot Hall Pt. 1",
+                "slug": "sangfielle-09-the-secret-ledger-of-roseroot-hall-pt-1",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1xt4-EkO4L8EKAQ8wkbJV8b3HOEnMiywxY29Vn0IVSGc",
+                "download": {
+                    "plain": "sangfielle/sangfielle-09-the-secret-ledger-of-roseroot-hall-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 10: The Secret Ledger of Roseroot Hall Pt. 2",
+                "slug": "sangfielle-10-the-secret-ledger-of-roseroot-hall-pt-2",
+                "done": true,
+                "sorting_number": 10,
+                "docs_id": "1FwP8KkRHaH-0WOK-eKMNyNSZQsEc86MqZaVelbazS-c",
+                "download": {
+                    "plain": "sangfielle/sangfielle-10-the-secret-ledger-of-roseroot-hall-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 11: The Secret Ledger of Roseroot Hall Pt. 3",
+                "slug": "sangfielle-11-the-secret-ledger-of-roseroot-hall-pt-3",
+                "done": true,
+                "sorting_number": 11,
+                "docs_id": "1O7-ytnphNdpn5D1zLJXgviWrDUTYxs9PJoQd3xhPzCg",
+                "download": {
+                    "plain": "sangfielle/sangfielle-11-the-secret-ledger-of-roseroot-hall-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 12: The Secret Ledger of Roseroot Hall Pt. 4",
+                "slug": "sangfielle-12-the-secret-ledger-of-roseroot-hall-pt-4",
+                "done": true,
+                "sorting_number": 12,
+                "docs_id": "1G3OUBiskuTTkJYudxbCjuIFtyE5FOnngzi37vbizkFQ",
+                "download": {
+                    "plain": "sangfielle/sangfielle-12-the-secret-ledger-of-roseroot-hall-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 13: Market Day in Blackwick",
+                "slug": "sangfielle-13-market-day-in-blackwick",
+                "done": true,
+                "sorting_number": 13,
+                "docs_id": "1yoCrscfk-5k8IaM_6T0RXuXDBgyAJeBTcgY0ToeKE0w",
+                "download": {
+                    "plain": "sangfielle/sangfielle-13-market-day-in-blackwick.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 14: The Candle Factory Pt. 1",
+                "slug": "sangfielle-14-the-candle-factory-pt-1",
+                "done": true,
+                "sorting_number": 14,
+                "docs_id": "1H2HNCdwZw05GlvkgL9WVY7TkX4GplgACFTqSZyGF7-A",
+                "download": {
+                    "plain": "sangfielle/sangfielle-14-the-candle-factory-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 15: The Candle Factory Pt. 2",
+                "slug": "sangfielle-15-the-candle-factory-pt-2",
+                "done": true,
+                "sorting_number": 15,
+                "docs_id": "16p8PRryW2y1NuAFO4c_i86C_pmJgT6h7PM0z2oyctjc",
+                "download": {
+                    "plain": "sangfielle/sangfielle-15-the-candle-factory-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 16: The Candle Factory Pt. 3",
+                "slug": "sangfielle-16-the-candle-factory-pt-3",
+                "done": true,
+                "sorting_number": 16,
+                "docs_id": "1mYD3ArDEElAOm05NEU4FefmC7L7zCW1-vk64iK11Xf0",
+                "download": {
+                    "plain": "sangfielle/sangfielle-16-the-candle-factory-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 17: What Happened at Bell Metal Station Pt. 1",
+                "slug": "sangfielle-17-what-happened-at-bell-metal-station-pt-1",
+                "done": true,
+                "sorting_number": 17,
+                "docs_id": "1YMfPjKnmsCyYjqXFJzw_ENyrLKTJkiKLiW89-4qA2UQ",
+                "download": {
+                    "plain": "sangfielle/sangfielle-17-what-happened-at-bell-metal-station-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 18: What Happened at Bell Metal Station Pt. 2",
+                "slug": "sangfielle-18-what-happened-at-bell-metal-station-pt-2",
+                "done": true,
+                "sorting_number": 18,
+                "docs_id": "1aXI7ibRIZaI_eWsoxVxqUx1f3YjoGyVH2dcl2noAyv4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-18-what-happened-at-bell-metal-station-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 19: What Happened at Bell Metal Station Pt. 3",
+                "slug": "sangfielle-19-what-happened-at-bell-metal-station-pt-3",
+                "done": true,
+                "sorting_number": 19,
+                "docs_id": "11neQMzcBxYBoQVA8X83QXVfdUfJBZEd6y9pOSPJUm4U",
+                "download": {
+                    "plain": "sangfielle/sangfielle-19-what-happened-at-bell-metal-station-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 20: What Happened at Bell Metal Station Pt. 4",
+                "slug": "sangfielle-20-what-happened-at-bell-metal-station-pt-4",
+                "done": true,
+                "sorting_number": 20,
+                "docs_id": "1x-UJLsUgkoyvvRXrjsY-qux6qiM4ld6jiOltrXuggWU",
+                "download": {
+                    "plain": "sangfielle/sangfielle-20-what-happened-at-bell-metal-station-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 21: At the Gates of Sapodilla",
+                "slug": "sangfielle-21-at-the-gates-of-sapodilla",
+                "done": true,
+                "sorting_number": 21,
+                "docs_id": "199e9j4q2nNn8TQVy-28-hKREFCIYWPWaf56UQorcsLY",
+                "download": {
+                    "plain": "sangfielle/sangfielle-21-at-the-gates-of-sapodilla.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 22: Whispers in the City by the Sea",
+                "slug": "sangfielle-22-whispers-in-the-city-by-the-sea",
+                "done": true,
+                "sorting_number": 22,
+                "docs_id": "1eGea-QPKYJdr7OEvJg5AjtNiq3twEBHE6Lq3nEB5yrI",
+                "download": {
+                    "plain": "sangfielle/sangfielle-22-whispers-in-the-city-by-the-sea.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 23: The Perpetual Oratorio of Davia Pledge Pt. 1",
+                "slug": "sangfielle-23-the-perpetual-oratorio-of-davia-pledge-pt-1",
+                "done": true,
+                "sorting_number": 23,
+                "docs_id": "1kJGTDu2kpmutiQEGhguBSwfsRJKv3ZWu2p_sAI7pBbM",
+                "download": {
+                    "plain": "sangfielle/sangfielle-23-the-perpetual-oratorio-of-davia-pledge-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 24: The Perpetual Oratorio of Davia Pledge Pt. 2",
+                "slug": "sangfielle-24-the-perpetual-oratorio-of-davia-pledge-pt-2",
+                "done": true,
+                "sorting_number": 24,
+                "docs_id": "1eqERmTIy7toxiYA3PjHEmSi2A7tsrODoEqjMPS2srJk",
+                "download": {
+                    "plain": "sangfielle/sangfielle-24-the-perpetual-oratorio-of-davia-pledge-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 25: The Perpetual Oratorio of Davia Pledge Pt. 3",
+                "slug": "sangfielle-25-the-perpetual-oratorio-of-davia-pledge-pt-3",
+                "done": true,
+                "sorting_number": 25,
+                "docs_id": "1wFTZhZmiho7H7EbgsgWCzdrV2cYvOhMB4ZnpqPq9-Ro",
+                "download": {
+                    "plain": "sangfielle/sangfielle-25-the-perpetual-oratorio-of-davia-pledge-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 26: The Perpetual Oratorio of Davia Pledge Pt. 4",
+                "slug": "sangfielle-26-the-perpetual-oratorio-of-davia-pledge-pt-4",
+                "done": true,
+                "sorting_number": 26,
+                "docs_id": "1WHGvq92T9PD4K2aB_69yqyXaJr98w85Hdy9x1a4BoI8",
+                "download": {
+                    "plain": "sangfielle/sangfielle-26-the-perpetual-oratorio-of-davia-pledge-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 27: The Perpetual Oratorio of Davia Pledge Pt. 5",
+                "slug": "sangfielle-27-the-perpetual-oratorio-of-davia-pledge-pt-5",
+                "done": true,
+                "sorting_number": 27,
+                "docs_id": "140fGYZguKzdHZLlXPlMwVUgoJXHU2AC3dK4Y-l_4ReQ",
+                "download": {
+                    "plain": "sangfielle/sangfielle-27-the-perpetual-oratorio-of-davia-pledge-pt-5.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 28: Hark! The Citadel Beneath Pt. 1",
+                "slug": "sangfielle-28-hark-the-citadel-beneath-pt-1",
+                "done": true,
+                "sorting_number": 28,
+                "docs_id": "1_UpVBpmftWycCH4jbkJ3f4KMH8m8IrCxyfBA_XntQ0M",
+                "download": {
+                    "plain": "sangfielle/sangfielle-28-hark-the-citadel-beneath-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 29: Hark! The Citadel Beneath Pt. 2",
+                "slug": "sangfielle-29-hark-the-citadel-beneath-pt-2",
+                "done": true,
+                "sorting_number": 29,
+                "docs_id": "1PbZjJFhbvHT_k6vAz9XBNIdAXzPNJjh0a1HayZHLM_4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-29-hark-the-citadel-beneath-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 30: Hark! The Citadel Beneath Pt. 3",
+                "slug": "sangfielle-30-hark-the-citadel-beneath-pt-3",
+                "done": true,
+                "sorting_number": 30,
+                "docs_id": "1DfipGvp0YvA98cGtFjOMJLXqFF7U7Pi2NBFDn92kHoc",
+                "download": {
+                    "plain": "sangfielle/sangfielle-30-hark-the-citadel-beneath-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 31: Hark! The Citadel Beneath Pt. 4",
+                "slug": "sangfielle-31-hark-the-citadel-beneath-pt-4",
+                "done": true,
+                "sorting_number": 31,
+                "docs_id": "1GC3bLozCOeDoVDNP2Y7BRER6ctW1iTqvKssCvdfk43U",
+                "download": {
+                    "plain": "sangfielle/sangfielle-31-hark-the-citadel-beneath-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 32: Passage on the Jade Moon Pt. 1",
+                "slug": "sangfielle-32-passage-on-the-jade-moon-pt-1",
+                "done": true,
+                "sorting_number": 32,
+                "docs_id": "1iXIxDJVR--ai2BCiRHGfH0qNrz_d3DmgmT-u-HnuPdM",
+                "download": {
+                    "plain": "sangfielle/sangfielle-32-passage-on-the-jade-moon-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 33: Passage on the Jade Moon Pt. 2",
+                "slug": "sangfielle-33-passage-on-the-jade-moon-pt-2",
+                "done": true,
+                "sorting_number": 33,
+                "docs_id": "1dDob_JO5ZidSwgSZUGGeJRQ4q5Wcy4IgaUpGk5I47OA",
+                "download": {
+                    "plain": "sangfielle/sangfielle-33-passage-on-the-jade-moon-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 34: Passage on the Jade Moon Pt. 3",
+                "slug": "sangfielle-34-passage-on-the-jade-moon-pt-3",
+                "done": true,
+                "sorting_number": 34,
+                "docs_id": "1cYQN6rZ9oZABA0V0mNoBDsPcDpapA7YeO_Hk4UAQPc8",
+                "download": {
+                    "plain": "sangfielle/sangfielle-34-passage-on-the-jade-moon-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 35: Marrow in the Field",
+                "slug": "sangfielle-35-marrow-in-the-field",
+                "done": true,
+                "sorting_number": 35,
+                "docs_id": "1BQb6V7KYXHyV7TvGXyp7Ati-7zR6xbSIbjHR0twFhUw",
+                "download": {
+                    "plain": "sangfielle/sangfielle-35-marrow-in-the-field.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 36: Marrow in the Bone",
+                "slug": "sangfielle-36-marrow-in-the-bone",
+                "done": true,
+                "sorting_number": 36,
+                "docs_id": "1Ge0s12mhTnxDssOLkq06PRd8lQ9AIzrU5KW-RYXYs6w",
+                "download": {
+                    "plain": "sangfielle/sangfielle-36-marrow-in-the-bone.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 37: Just Returns Pt. 1",
+                "slug": "sangfielle-37-just-returns-pt-1",
+                "done": true,
+                "sorting_number": 37,
+                "docs_id": "1emRC8y91Ti6O9Hwp-LHD2WOje2ALgAhnp_MOU3uFCd4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-37-just-returns-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 38: Just Returns Pt. 2",
+                "slug": "sangfielle-38-just-returns-pt-2",
+                "done": true,
+                "sorting_number": 38,
+                "docs_id": "1ANpgmlX8EhfiPNXt3QIqqSZ7-YCakf_fb3Gnx0eGOUg",
+                "download": {
+                    "plain": "sangfielle/sangfielle-38-just-returns-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 39: Just Returns Pt. 3",
+                "slug": "sangfielle-39-just-returns-pt-3",
+                "done": true,
+                "sorting_number": 39,
+                "docs_id": "1TBvdm_rM8oxjpUXuqKsHeRQ3EWvRGpHJY8V-lWnaOG4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-39-just-returns-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 40: Just Returns Pt. 4",
+                "slug": "sangfielle-40-just-returns-pt-4",
+                "done": true,
+                "sorting_number": 40,
+                "docs_id": "11w25DsBG3Z6MAVi898Xw4MlCOZpTT4yBtaBnxvHtkzQ",
+                "download": {
+                    "plain": "sangfielle/sangfielle-40-just-returns-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 41: Just Returns Pt. 5",
+                "slug": "sangfielle-41-just-returns-pt-5",
+                "done": true,
+                "sorting_number": 41,
+                "docs_id": "1iqdP9nvw9zX7Vehvh1fCmTQD2NoYkSfs9iYqWGd567g",
+                "download": {
+                    "plain": "sangfielle/sangfielle-41-just-returns-pt-5.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 42: Two Kinds of Quarry Pt. 1",
+                "slug": "sangfielle-42-two-kinds-of-quarry-pt-1",
+                "done": true,
+                "sorting_number": 42,
+                "docs_id": "1LNn1r6GxqvSS2A4kllxhTvkn4yeuuoQbw_PoI5KrCEQ",
+                "download": {
+                    "plain": "sangfielle/sangfielle-42-two-kinds-of-quarry-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 43: Two Kinds of Quarry Pt. 2",
+                "slug": "sangfielle-43-two-kinds-of-quarry-pt-2",
+                "done": true,
+                "sorting_number": 43,
+                "docs_id": "1gZhQJV0AgJzRa1B-4n7i9t-rwtj0q4F9ccCZCW4yLbA",
+                "download": {
+                    "plain": "sangfielle/sangfielle-43-two-kinds-of-quarry-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 44: Wax, Ichor, and Iron Pt. 1",
+                "slug": "sangfielle-44-wax-ichor-and-iron-pt-1",
+                "done": false,
+                "sorting_number": 44,
+                "docs_id": "14MCsP4dRv5fEP1zMcbxprjMFRvmsbRvjuSfYs0Hi-iM",
+                "download": {
+                    "plain": "sangfielle/sangfielle-44-wax-ichor-and-iron-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 45: Wax, Ichor, and Iron Pt. 2",
+                "slug": "sangfielle-45-wax-ichor-and-iron-pt-2",
+                "done": true,
+                "sorting_number": 45,
+                "docs_id": "1Vvwjj0NjDztVyflIqmZStd6mQTFMGLqwj2BlCAJM0AI",
+                "download": {
+                    "plain": "sangfielle/sangfielle-45-wax-ichor-and-iron-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 46: Wax, Ichor, and Iron Pt. 3",
+                "slug": "sangfielle-46-wax-ichor-and-iron-pt-3",
+                "done": true,
+                "sorting_number": 46,
+                "docs_id": "1ZVeHEuSU6YD-cq02_2kbkGxJVwFpk43S3s9wTB9SL0s",
+                "download": {
+                    "plain": "sangfielle/sangfielle-46-wax-ichor-and-iron-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 47: Wax, Ichor, and Iron Pt. 4",
+                "slug": "sangfielle-47-wax-ichor-and-iron-pt-4",
+                "done": true,
+                "sorting_number": 47,
+                "docs_id": "1ZJrfbVquG7ypwQk6vqDmidZQ8EmpIMoIwiTECQwCFrs",
+                "download": {
+                    "plain": "sangfielle/sangfielle-47-wax-ichor-and-iron-pt-4.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 48: Dead in the Dust Pt. 1",
+                "slug": "sangfielle-48-dead-in-the-dust-pt-1",
+                "done": true,
+                "sorting_number": 48,
+                "docs_id": "1382ETx5AhgNWDhJeLWPuFpCHeyJlFqegVl6J4XKzQ4k",
+                "download": {
+                    "plain": "sangfielle/sangfielle-48-dead-in-the-dust-pt-1.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 49: Dead in the Dust Pt. 2",
+                "slug": "sangfielle-49-dead-in-the-dust-pt-2",
+                "done": true,
+                "sorting_number": 49,
+                "docs_id": "1Xs9faYayRhba2Iv0uNNDA_jnlQ5Usx4A3O5A_PBZ_q0",
+                "download": {
+                    "plain": "sangfielle/sangfielle-49-dead-in-the-dust-pt-2.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 50: Dead in the Dust Pt. 3",
+                "slug": "sangfielle-50-dead-in-the-dust-pt-3",
+                "done": true,
+                "sorting_number": 50,
+                "docs_id": "199c_olRMuM70JtWwOQtaOL0Wu0_Mf3kk5wzOnwv8AD0",
+                "download": {
+                    "plain": "sangfielle/sangfielle-50-dead-in-the-dust-pt-3.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 51: Six Travelers: Marn",
+                "slug": "sangfielle-51-six-travelers-marn",
+                "done": true,
+                "sorting_number": 51,
+                "docs_id": "1s9LSOLhbJbf8Na8WaKFOJ_xJYhPum8vHgmTNGUdiEak",
+                "download": {
+                    "plain": "sangfielle/sangfielle-51-six-travelers-marn.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 52: Six Travelers: Lyke",
+                "slug": "sangfielle-52-six-travelers-lyke",
+                "done": true,
+                "sorting_number": 52,
+                "docs_id": "1kDwzfZ_yC-BoTxP16OPszM4AcYFZNMe90UQBO4dUJ_Q",
+                "download": {
+                    "plain": "sangfielle/sangfielle-52-six-travelers-lyke.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 53: Six Travelers: Hazard",
+                "slug": "sangfielle-53-six-travelers-hazard",
+                "done": true,
+                "sorting_number": 53,
+                "docs_id": "1TQLCHpTflNajPeLI91iJBH7tb9KQMuhWOtbjDTmJU2Q",
+                "download": {
+                    "plain": "sangfielle/sangfielle-53-six-travelers-hazard.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 54: Six Travelers: Duvall",
+                "slug": "sangfielle-54-six-travelers-duvall",
+                "done": true,
+                "sorting_number": 54,
+                "docs_id": "1ygaUatd3DFZDOR77ICRGBSU54s_K2GsgmcKliLNbkNs",
+                "download": {
+                    "plain": "sangfielle/sangfielle-54-six-travelers-duvall.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 55: Six Travelers: Es",
+                "slug": "sangfielle-55-six-travelers-es",
+                "done": true,
+                "sorting_number": 55,
+                "docs_id": "1fe6qxzPPJR8ajBn0-RgTdjw4GrW9E2sFVWtBomzLSKE",
+                "download": {
+                    "plain": "sangfielle/sangfielle-55-six-travelers-es.txt"
+                }
+            },
+            {
+                "title": "Sangfielle 56: Six Travelers: Pickman",
+                "slug": "sangfielle-56-six-travelers-pickman",
+                "done": true,
+                "sorting_number": 56,
+                "docs_id": "1qp8r3IHeMiwV4dsgnAolaf9kGOjdxNaj8tvVCBPaap4",
+                "download": {
+                    "plain": "sangfielle/sangfielle-56-six-travelers-pickman.txt"
+                }
+            },
+            {
+                "title": "Sangfielle Post-Mortem Announcement",
+                "slug": "sangfielle-post-mortem-announcement",
+                "done": false,
+                "sorting_number": 57,
+                "docs_id": "1DkC57pGebqNJeN3lMo7tDvDZRgxVytw_8Y8q3YlV5LI",
+                "download": {
+                    "plain": "sangfielle/sangfielle-post-mortem-announcement.txt"
+                }
+            }
+        ]
+    },
+    "road-to-palisade": {
+        "title": "Road to PALISADE",
+        "id": "road-to-palisade",
+        "episodes": [
+            {
+                "title": "The Road to PALISADE 01: HOUNDs Pt. 1",
+                "slug": "the-road-to-palisade-01-hounds-pt-1",
+                "done": false,
+                "sorting_number": 0,
+                "docs_id": "1jMeydo1-OBwRUsBBnlupo_lkOPxGOGMKedHn2_dEwrI",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-01-hounds-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 02: HOUNDs Pt. 2",
+                "slug": "the-road-to-palisade-02-hounds-pt-2",
+                "done": false,
+                "sorting_number": 1,
+                "docs_id": "1rX4A4oO6pxa1SAeSznDdu5SJ7p-PGDoh7LBIXeNVSk8",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-02-hounds-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 03: Stealing the Throne",
+                "slug": "the-road-to-palisade-03-stealing-the-throne",
+                "done": false,
+                "sorting_number": 2,
+                "docs_id": "1wuW3cPB3GV8bHIXGWNEO0lJviqtgRqlsRComsoLlKF8",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-03-stealing-the-throne.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 04: Last Shooting",
+                "slug": "the-road-to-palisade-04-last-shooting",
+                "done": false,
+                "sorting_number": 3,
+                "docs_id": "1P054XKHJMOUtNumOKTRi0jiYH_TQsnYezfFu8kv-loA",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-04-last-shooting.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 05: Wagon Wheel Pt. 1",
+                "slug": "the-road-to-palisade-05-wagon-wheel-pt-1",
+                "done": false,
+                "sorting_number": 4,
+                "docs_id": "18ARaz1wRs-eiTr7DgroxaJ_H1EECbT07ls4BE7PAM6U",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-05-wagon-wheel-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 06: Wagon Wheel Pt. 2",
+                "slug": "the-road-to-palisade-06-wagon-wheel-pt-2",
+                "done": false,
+                "sorting_number": 5,
+                "docs_id": "1ZOxSnQ6FFGX0LdhoSVf_LZmuAxu36knLX4Qqerzr-_A",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-06-wagon-wheel-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 07: Wagon Wheel Pt. 3",
+                "slug": "the-road-to-palisade-07-wagon-wheel-pt-3",
+                "done": false,
+                "sorting_number": 6,
+                "docs_id": "1Rsz368vj-JVbrcfjrQt0d1g1MVKAKjbDtX5tIW2uLPY",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-07-wagon-wheel-pt-3.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 08: Lancer Pt. 1",
+                "slug": "the-road-to-palisade-08-lancer-pt-1",
+                "done": false,
+                "sorting_number": 7,
+                "docs_id": "1elvoXk8n1JScEttMmkeqx36TdfeD74zDnN8E7y63TL4",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-08-lancer-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 09: Lancer Pt. 2",
+                "slug": "the-road-to-palisade-09-lancer-pt-2",
+                "done": false,
+                "sorting_number": 8,
+                "docs_id": "1fnE5KQXLUmDxymPsXqM3659z_6FBMBhObCn24Rx6w_A",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-09-lancer-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 10: Lancer Pt. 3",
+                "slug": "the-road-to-palisade-10-lancer-pt-3",
+                "done": false,
+                "sorting_number": 9,
+                "docs_id": "1H8nVS7e6YYsy4Amrz087SX7qnc5JXamTQRFwrgcQCG4",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-10-lancer-pt-3.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 11: Orbital Pt. 1",
+                "slug": "the-road-to-palisade-11-orbital-pt-1",
+                "done": false,
+                "sorting_number": 10,
+                "docs_id": "1jhQ7Rq7jS-lATz9ofHGQe7AcjK9xntr860eQ8FHxff8",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-11-orbital-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 12: Orbital Pt. 2",
+                "slug": "the-road-to-palisade-12-orbital-pt-2",
+                "done": false,
+                "sorting_number": 11,
+                "docs_id": "1VvIM-Ny11_YS2XUl3--n1zwFAxP5a3-SnNnAHMYr4HU",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-12-orbital-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road To PALISADE 13: Orbital Pt. 3",
+                "slug": "the-road-to-palisade-13-orbital-pt-3",
+                "done": false,
+                "sorting_number": 12,
+                "docs_id": "1D7dxt1_Onu8hE-UjSEMC4spldimtYql2ktfXHP9AQBk",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-13-orbital-pt-3.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 14: Orbital Pt. 4",
+                "slug": "the-road-to-palisade-14-orbital-pt-4",
+                "done": false,
+                "sorting_number": 13,
+                "docs_id": "1j_FZYN64sH1VxmEiPIXp9VXzhfmiK5fiVev5luwvkoc",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-14-orbital-pt-4.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 15: Orbital Pt. 5",
+                "slug": "the-road-to-palisade-15-orbital-pt-5",
+                "done": false,
+                "sorting_number": 14,
+                "docs_id": "184SZN7sf2-GV8gnP4JGm7fUkkd-9PXcQzNztnddA7Co",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-15-orbital-pt-5.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 16: Serious Reading",
+                "slug": "the-road-to-palisade-16-serious-reading",
+                "done": false,
+                "sorting_number": 15,
+                "docs_id": "16WMSH25zsZpvWeqgEi3B0y6d_La1db73oom2FumD3VE",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-16-serious-reading.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 17: My Way",
+                "slug": "the-road-to-palisade-17-my-way",
+                "done": false,
+                "sorting_number": 16,
+                "docs_id": "11NSL3a3oN5YPidGMFoA_4Mnau9RReYK44RmhLJPtmtk",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-17-my-way.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 18: Upstairs & Downstairs Pt. 1",
+                "slug": "the-road-to-palisade-18-upstairs-downstairs-pt-1",
+                "done": false,
+                "sorting_number": 17,
+                "docs_id": "1UnMCEAI17g7EH6YrV9Baqs6oMvuuWMN8NbxVzUfs1EE",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-18-upstairs-downstairs-pt-1.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 19: Upstairs & Downstairs Pt. 2",
+                "slug": "the-road-to-palisade-19-upstairs-downstairs-pt-2",
+                "done": false,
+                "sorting_number": 18,
+                "docs_id": "1zQMc6mN44a4dHJC1eNghNgSZWzqlXzNy3iMnFQa5VPs",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-19-upstairs-downstairs-pt-2.txt"
+                }
+            },
+            {
+                "title": "The Road to PALISADE 20: City Planning Department",
+                "slug": "the-road-to-palisade-20-city-planning-department",
+                "done": false,
+                "sorting_number": 19,
+                "docs_id": "1E_z0SEYjxgz0GD_Ph-RHUHe5RYrmqJIZX4zGboRwRS0",
+                "download": {
+                    "plain": "road-to-palisade/the-road-to-palisade-20-city-planning-department.txt"
+                }
+            },
+            {
+                "title": "A Quick Pre-PALISADE Update",
+                "slug": "a-quick-pre-palisade-update",
+                "done": false,
+                "sorting_number": 20,
+                "docs_id": "1THH2xTSWL6JbcECbLVqwZJLVPmOaAGJXW4NtFRaiPhg",
+                "download": {
+                    "plain": "road-to-palisade/a-quick-pre-palisade-update.txt"
+                }
+            }
+        ]
+    },
+    "palisade": {
+        "title": "PALISADE",
+        "id": "palisade",
+        "episodes": [
+            {
+                "title": "PALISADE 01: Into the World Pt. 1",
+                "slug": "palisade-01-into-the-world-pt-1",
+                "done": false,
+                "sorting_number": 0,
+                "docs_id": "1v90aqxRaeRYF2QMX8wHXjrs3nHjTs6eP3U37LpOrt5Y",
+                "download": {
+                    "plain": "palisade/palisade-01-into-the-world-pt-1.txt"
+                }
+            },
+            {
+                "title": "PALISADE 02: Into the World Pt. 2",
+                "slug": "palisade-02-into-the-world-pt-2",
+                "done": false,
+                "sorting_number": 1,
+                "docs_id": "10pOnqSv7S1XgMyTkUVb0KnlFmWMg8Mk4BVqz_u35QoY",
+                "download": {
+                    "plain": "palisade/palisade-02-into-the-world-pt-2.txt"
+                }
+            },
+            {
+                "title": "PALISADE 03: Today Is a Monday",
+                "slug": "palisade-03-today-is-a-monday",
+                "done": false,
+                "sorting_number": 2,
+                "docs_id": "1kaHoQsXor2iy1Jr4Dx3jlSy4RoACumzZYqkjHPZq9H0",
+                "download": {
+                    "plain": "palisade/palisade-03-today-is-a-monday.txt"
+                }
+            },
+            {
+                "title": "PALISADE 04: I Would Like to Help You",
+                "slug": "palisade-04-i-would-like-to-help-you",
+                "done": false,
+                "sorting_number": 3,
+                "docs_id": "1Ztxh8QUZTXtQcmofyuFOOtUPwaurEhflkO9Ijh5HJUI",
+                "download": {
+                    "plain": "palisade/palisade-04-i-would-like-to-help-you.txt"
+                }
+            },
+            {
+                "title": "PALISADE 05: I Would Like to Help You Pt. 2",
+                "slug": "palisade-05-i-would-like-to-help-you-pt-2",
+                "done": false,
+                "sorting_number": 4,
+                "docs_id": "1zzhg1VGfZ4x5sKbI_IswQZVNUb_SIqzEPsCc7w9DRzc",
+                "download": {
+                    "plain": "palisade/palisade-05-i-would-like-to-help-you-pt-2.txt"
+                }
+            }
+        ]
+    },
+    "extras": {
+        "title": "Extras",
+        "id": "extras",
+        "episodes": [
+            {
+                "title": "Live at the Table - Fall of Magic Pt 1",
+                "slug": "live-at-the-table-fall-of-magic-pt-1",
+                "done": true,
+                "sorting_number": 0,
+                "docs_id": "1CmJK8xDiMuo0U1myXgs6rRCsCDMWy2EXwdKgHOPUCqM",
+                "download": {
+                    "plain": "extras/live-at-the-table-fall-of-magic-pt-1.txt"
+                }
+            },
+            {
+                "title": "Live at the Table - Fall of Magic Pt 2",
+                "slug": "live-at-the-table-fall-of-magic-pt-2",
+                "done": true,
+                "sorting_number": 1,
+                "docs_id": "13mdjYiz5SSjQqP0VLiTaIY1H2MUEd7_5ICItJZRChRc",
+                "download": {
+                    "plain": "extras/live-at-the-table-fall-of-magic-pt-2.txt"
+                }
+            },
+            {
+                "title": "Live at the Table - Fall of Magic Pt 3",
+                "slug": "live-at-the-table-fall-of-magic-pt-3",
+                "done": true,
+                "sorting_number": 2,
+                "docs_id": "1cBVYzcjasZqXBPfoy08zzvzcz1YJEcHhliQF0ykx5vY",
+                "download": {
+                    "plain": "extras/live-at-the-table-fall-of-magic-pt-3.txt"
+                }
+            },
+            {
+                "title": "Bluff City Teaser",
+                "slug": "bluff-city-teaser",
+                "done": true,
+                "sorting_number": 3,
+                "docs_id": "1IFgIgQ5gLCZ3JcO4Bg9aH--GTXi0l4Ih_y-9hro4wkU",
+                "download": {
+                    "plain": "extras/bluff-city-teaser.txt"
+                }
+            },
+            {
+                "title": "Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1",
+                "slug": "bluff-city-01-a-bowling-alley-a-boxer-and-a-bird-pt-1",
+                "done": true,
+                "sorting_number": 4,
+                "docs_id": "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc",
+                "download": {
+                    "plain": "extras/bluff-city-01-a-bowling-alley-a-boxer-and-a-bird-pt-1.txt"
+                }
+            },
+            {
+                "title": "Live at the Table Teaser: Misspent Youth",
+                "slug": "live-at-the-table-teaser-misspent-youth",
+                "done": false,
+                "sorting_number": 5,
+                "docs_id": "1wAx8nWYyghzxun1Qny4mYnH3-3I4_SERiqwXiHgqniE",
+                "download": {
+                    "plain": "extras/live-at-the-table-teaser-misspent-youth.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 00",
+                "slug": "bluff-city-america-s-playground-pt-00",
+                "done": false,
+                "sorting_number": 6,
+                "docs_id": "1LW8YNQ9BCtUUvf2DbV4-zoLFH50RUHW_T88SNbCHPVU",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-00.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 01 (WITH ANNOUNCEMENT!)",
+                "slug": "bluff-city-america-s-playground-pt-01-with-announcement",
+                "done": false,
+                "sorting_number": 7,
+                "docs_id": "1M57JvdMN6w2xhjSkpcYNQRfU6IRrVi5qzFmFvf1_EGk",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-01-with-announcement.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: Random Article",
+                "slug": "bonus-episode-random-article",
+                "done": false,
+                "sorting_number": 8,
+                "docs_id": "199dJdYg-Buv3cf2wfa0ZzBgUdLVjWskHZv8r5A_iJQ0",
+                "download": {
+                    "plain": "extras/bonus-episode-random-article.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: GenCon Liveshow Marielda",
+                "slug": "bonus-episode-gencon-liveshow-marielda",
+                "done": true,
+                "sorting_number": 9,
+                "docs_id": "1BuazN7Y7j2fvWopXP14KktoucnN-OfsgnQuygxyECt0",
+                "download": {
+                    "plain": "extras/bonus-episode-gencon-liveshow-marielda.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 02",
+                "slug": "bluff-city-america-s-playground-pt-02",
+                "done": false,
+                "sorting_number": 10,
+                "docs_id": "1RZy5kDJ5Lkf5Hmxxma0k1zdxHw_8bYmi8YXcvQu6Vvk",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-02.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 03",
+                "slug": "bluff-city-america-s-playground-pt-03",
+                "done": false,
+                "sorting_number": 11,
+                "docs_id": "1JKdEmT5PCpVy2zgnLG5Zk9DHoeui0p2MkjigJ-_MZys",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-03.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 04",
+                "slug": "bluff-city-america-s-playground-pt-04",
+                "done": false,
+                "sorting_number": 12,
+                "docs_id": "1vus8-cmiFu2ceTedHuufGIkC32Q_p67PJo6zfWAeq_I",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-04.txt"
+                }
+            },
+            {
+                "title": "Bluff City: America's Playground Pt. 05",
+                "slug": "bluff-city-america-s-playground-pt-05",
+                "done": false,
+                "sorting_number": 13,
+                "docs_id": "1TimXpyvitnz-a8fXmNolCg_eprEYfJZTVZErRTvepNg",
+                "download": {
+                    "plain": "extras/bluff-city-america-s-playground-pt-05.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: Marielda NNAF Fundraiser Livestream (+Realis teaser)",
+                "slug": "bonus-episode-marielda-nnaf-fundraiser-livestream-realis-teaser",
+                "done": false,
+                "sorting_number": 14,
+                "docs_id": "1axPc-3kIKyNxjYbm32DwYo5QEctdjCTiVpVlyfYv0bc",
+                "download": {
+                    "plain": "extras/bonus-episode-marielda-nnaf-fundraiser-livestream-realis-teaser.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: Standoff NNAF Fundraiser Livestream",
+                "slug": "bonus-episode-standoff-nnaf-fundraiser-livestream",
+                "done": false,
+                "sorting_number": 15,
+                "docs_id": "14hAXtyhwFA28IlTLWALWvvd7dIzpnjHW9V_Y9TE_I-E",
+                "download": {
+                    "plain": "extras/bonus-episode-standoff-nnaf-fundraiser-livestream.txt"
+                }
+            },
+            {
+                "title": "A Quick Pre-PALISADE Update",
+                "slug": "a-quick-pre-palisade-update",
+                "done": false,
+                "sorting_number": 16,
+                "docs_id": "1THH2xTSWL6JbcECbLVqwZJLVPmOaAGJXW4NtFRaiPhg",
+                "download": {
+                    "plain": "extras/a-quick-pre-palisade-update.txt"
+                }
+            },
+            {
+                "title": "Bonus Episode: Romeo + Juliet (+BIG ANNOUNCEMENTS!!!)",
+                "slug": "bonus-episode-romeo-juliet-big-announcements",
+                "done": false,
+                "sorting_number": 17,
+                "docs_id": "1pI7FiatBBNOXyCuDYO-VPRJuS_T5whCCJ7eES_oieh8",
+                "download": {
+                    "plain": "extras/bonus-episode-romeo-juliet-big-announcements.txt"
+                }
+            }
+        ]
+    },
     "patreon": {
         "title": "Patreon",
         "id": "patreon",
