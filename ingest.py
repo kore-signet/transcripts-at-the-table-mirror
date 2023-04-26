@@ -34,7 +34,7 @@ def download_doc(episode):
         shutil.copyfileobj(response.raw, outf)
 
 
-for sheet in wb.worksheets[5:]:
+for sheet in wb.worksheets[7:]:
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
     os.makedirs(season["id"], exist_ok=True)
 

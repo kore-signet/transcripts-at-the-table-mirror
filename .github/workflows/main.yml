@@ -31,4 +31,8 @@ jobs:
           git config --global user.email 'emily-signet@users.noreply.github.com'
           git add .
           git commit -m "automated update" --allow-empty
-          git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref }}
