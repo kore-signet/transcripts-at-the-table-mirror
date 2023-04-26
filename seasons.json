@@ -80,14 +80,20 @@
                 "slug": "clapcast-12-fatt-blingee-contest",
                 "done": true,
                 "sorting_number": 12,
-                "docs_id": "1l7NU790dyS15K9tGbQPeoJ5wnM2bx28NXnn5UaEyjeo"
+                "docs_id": "1l7NU790dyS15K9tGbQPeoJ5wnM2bx28NXnn5UaEyjeo",
+                "download": {
+                    "plain": "patreon/clapcast-12-fatt-blingee-contest.txt"
+                }
             },
             {
                 "title": "Clapcast 12.5: Bluff City 10.5",
                 "slug": "clapcast-12-5-bluff-city-10-5",
                 "done": true,
                 "sorting_number": 13,
-                "docs_id": "1UkEopaca6q6kaKre9HTSThpUj0rU0LQGTcejBgZ0O48"
+                "docs_id": "1UkEopaca6q6kaKre9HTSThpUj0rU0LQGTcejBgZ0O48",
+                "download": {
+                    "plain": "patreon/clapcast-12-5-bluff-city-10-5.txt"
+                }
             },
             {
                 "title": "Clapcast 13: A Loud F*ckin' Year",
@@ -160,7 +166,10 @@
                 "slug": "clapcast-24-goodbye-hieron-august-2019",
                 "done": true,
                 "sorting_number": 25,
-                "docs_id": "1Pw4RIf4U43xFVsZepudrCHC96C-iXH5bScEcWQbLBWI"
+                "docs_id": "1Pw4RIf4U43xFVsZepudrCHC96C-iXH5bScEcWQbLBWI",
+                "download": {
+                    "plain": "patreon/clapcast-24-goodbye-hieron-august-2019.txt"
+                }
             },
             {
                 "title": "Clapcast 25: Slept Through the Hogs (September 2019)",
@@ -179,7 +188,10 @@
                 "slug": "clapcast-27-who-gets-the-costco-card-a-partizan-00-companion-episode-november-2019",
                 "done": true,
                 "sorting_number": 28,
-                "docs_id": "1e2RfdldXCPorWkq7vo0BMx0TXPI_BwAXhtl1P9f6sCU"
+                "docs_id": "1e2RfdldXCPorWkq7vo0BMx0TXPI_BwAXhtl1P9f6sCU",
+                "download": {
+                    "plain": "patreon/clapcast-27-who-gets-the-costco-card-a-partizan-00-companion-episode-november-2019.txt"
+                }
             },
             {
                 "title": "Clapcast 28: Yaddle the Martian (December 2019)",
@@ -228,7 +240,10 @@
                 "slug": "clapcast-35-the-scarlet-deceiver-july-2020",
                 "done": true,
                 "sorting_number": 36,
-                "docs_id": "1EWxRJbmWmK1Rvgmx-Fa53fplsfzvqOa034Zvkk9y5BA"
+                "docs_id": "1EWxRJbmWmK1Rvgmx-Fa53fplsfzvqOa034Zvkk9y5BA",
+                "download": {
+                    "plain": "patreon/clapcast-35-the-scarlet-deceiver-july-2020.txt"
+                }
             },
             {
                 "title": "Clapcast 36: Pratfalls By Example (August 2020)",
@@ -319,7 +334,10 @@
                 "slug": "clapcast-50-the-most-wanted-song",
                 "done": false,
                 "sorting_number": 51,
-                "docs_id": "1VhGav9wNZGqqwtKBIof7rmRL2WIZJK6rvntjcc78Wzo"
+                "docs_id": "1VhGav9wNZGqqwtKBIof7rmRL2WIZJK6rvntjcc78Wzo",
+                "download": {
+                    "plain": "patreon/clapcast-50-the-most-wanted-song.txt"
+                }
             },
             {
                 "title": "Clapcast 51: Little Eyeball Guy",
@@ -776,7 +794,10 @@
                 "slug": "live-at-the-table-10-september-the-very-first-episode",
                 "done": false,
                 "sorting_number": 127,
-                "docs_id": "1RL_XKnWH5BcktCvcc5LbF0Sx5texvATE19OJ2lQyd4w"
+                "docs_id": "1RL_XKnWH5BcktCvcc5LbF0Sx5texvATE19OJ2lQyd4w",
+                "download": {
+                    "plain": "patreon/live-at-the-table-10-september-the-very-first-episode.txt"
+                }
             },
             {
                 "title": "Live at the Table 11 October Audio: BFF at SHUX Live Show (+Quick Update!)",
@@ -1137,49 +1158,70 @@
                 "slug": "bluff-city-01-a-bowling-alley-a-boxer-and-a-bird-pt-1",
                 "done": true,
                 "sorting_number": 187,
-                "docs_id": "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc"
+                "docs_id": "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc",
+                "download": {
+                    "plain": "patreon/bluff-city-01-a-bowling-alley-a-boxer-and-a-bird-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 02: A Bowling Alley, A Boxer, and A Bird, Pt. 2",
                 "slug": "bluff-city-02-a-bowling-alley-a-boxer-and-a-bird-pt-2",
                 "done": true,
                 "sorting_number": 188,
-                "docs_id": "16T6ZLaQWCznOuDPkDi_1yiCX0MTSPpWX2V2X4F0vmDU"
+                "docs_id": "16T6ZLaQWCznOuDPkDi_1yiCX0MTSPpWX2V2X4F0vmDU",
+                "download": {
+                    "plain": "patreon/bluff-city-02-a-bowling-alley-a-boxer-and-a-bird-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 03: The Cost of Greed Pt. 1",
                 "slug": "bluff-city-03-the-cost-of-greed-pt-1",
                 "done": true,
                 "sorting_number": 189,
-                "docs_id": "16QWcnQ-YjSzgXSVUtInMoxTqnkp1Cw66Ws7ZWyA0B7k"
+                "docs_id": "16QWcnQ-YjSzgXSVUtInMoxTqnkp1Cw66Ws7ZWyA0B7k",
+                "download": {
+                    "plain": "patreon/bluff-city-03-the-cost-of-greed-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 04: The Cost of Greed Pt. 2",
                 "slug": "bluff-city-04-the-cost-of-greed-pt-2",
                 "done": false,
                 "sorting_number": 190,
-                "docs_id": "1UDmROiSQJMO-ivrHGihi3u0B60n8VX-VgG0ceRcvRxM"
+                "docs_id": "1UDmROiSQJMO-ivrHGihi3u0B60n8VX-VgG0ceRcvRxM",
+                "download": {
+                    "plain": "patreon/bluff-city-04-the-cost-of-greed-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 05: There Is No Greater Love Pt. 1",
                 "slug": "bluff-city-05-there-is-no-greater-love-pt-1",
                 "done": true,
                 "sorting_number": 191,
-                "docs_id": "1tW3SCtsaH9BDelivFmaHNw1J5_0zSEHB5H6JBBvY_OY"
+                "docs_id": "1tW3SCtsaH9BDelivFmaHNw1J5_0zSEHB5H6JBBvY_OY",
+                "download": {
+                    "plain": "patreon/bluff-city-05-there-is-no-greater-love-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 06: There Is No Greater Love Pt. 2",
                 "slug": "bluff-city-06-there-is-no-greater-love-pt-2",
                 "done": false,
                 "sorting_number": 192,
-                "docs_id": "14ECK6UjS27Z9UE152qiuYDhQRXJ57QO1wbaDSKiDZmM"
+                "docs_id": "14ECK6UjS27Z9UE152qiuYDhQRXJ57QO1wbaDSKiDZmM",
+                "download": {
+                    "plain": "patreon/bluff-city-06-there-is-no-greater-love-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 07: The Eighty Six Pt. 1",
                 "slug": "bluff-city-07-the-eighty-six-pt-1",
                 "done": true,
                 "sorting_number": 193,
-                "docs_id": "12sB0478RFg-MqFuv1EUDZJKqvZEYyzxJf6Kc7gCIDUk"
+                "docs_id": "12sB0478RFg-MqFuv1EUDZJKqvZEYyzxJf6Kc7gCIDUk",
+                "download": {
+                    "plain": "patreon/bluff-city-07-the-eighty-six-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 08: The Eighty Six Pt. 2",
@@ -1192,84 +1234,120 @@
                 "slug": "bluff-city-09-the-grapplers-down-at-promenade-arena-pt-1",
                 "done": true,
                 "sorting_number": 195,
-                "docs_id": "1hTjTEYdjyNVv0Ffg-PBum4XQOozZphy1VUxnZ2pT7Kw"
+                "docs_id": "1hTjTEYdjyNVv0Ffg-PBum4XQOozZphy1VUxnZ2pT7Kw",
+                "download": {
+                    "plain": "patreon/bluff-city-09-the-grapplers-down-at-promenade-arena-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 10: The Grapplers Down at Promenade Arena Pt. 2",
                 "slug": "bluff-city-10-the-grapplers-down-at-promenade-arena-pt-2",
                 "done": true,
                 "sorting_number": 196,
-                "docs_id": "10TqDveNqT02LuRumhX4u_7DqsDVGRhiAkde23m13iog"
+                "docs_id": "10TqDveNqT02LuRumhX4u_7DqsDVGRhiAkde23m13iog",
+                "download": {
+                    "plain": "patreon/bluff-city-10-the-grapplers-down-at-promenade-arena-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 11: The Grapplers Down at Promenade Arena Pt. 3",
                 "slug": "bluff-city-11-the-grapplers-down-at-promenade-arena-pt-3",
                 "done": true,
                 "sorting_number": 197,
-                "docs_id": "1CN4kKfMxGpVgE6jvZcmNGFt1yP95PHSImyFWWgJujGQ"
+                "docs_id": "1CN4kKfMxGpVgE6jvZcmNGFt1yP95PHSImyFWWgJujGQ",
+                "download": {
+                    "plain": "patreon/bluff-city-11-the-grapplers-down-at-promenade-arena-pt-3.txt"
+                }
             },
             {
                 "title": "Bluff City 12: When Justice Is Done Pt. 0",
                 "slug": "bluff-city-12-when-justice-is-done-pt-0",
                 "done": false,
                 "sorting_number": 198,
-                "docs_id": "10IO0x-kwtQmh6LlrbSP5gdzcoeI0g3226vmtt1iuang"
+                "docs_id": "10IO0x-kwtQmh6LlrbSP5gdzcoeI0g3226vmtt1iuang",
+                "download": {
+                    "plain": "patreon/bluff-city-12-when-justice-is-done-pt-0.txt"
+                }
             },
             {
                 "title": "Bluff City 13: When Justice Is Done Pt. 1",
                 "slug": "bluff-city-13-when-justice-is-done-pt-1",
                 "done": true,
                 "sorting_number": 199,
-                "docs_id": "1USHfJOFvOUZmApqky40EL1N_vZ5kvi0rUqjr59JpkKM"
+                "docs_id": "1USHfJOFvOUZmApqky40EL1N_vZ5kvi0rUqjr59JpkKM",
+                "download": {
+                    "plain": "patreon/bluff-city-13-when-justice-is-done-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 14: When Justice Is Done Pt. 2",
                 "slug": "bluff-city-14-when-justice-is-done-pt-2",
                 "done": true,
                 "sorting_number": 200,
-                "docs_id": "1E2yatII8JSIPlzpXpuB576g7gYvJ6RutVT8Zh4eLsLI"
+                "docs_id": "1E2yatII8JSIPlzpXpuB576g7gYvJ6RutVT8Zh4eLsLI",
+                "download": {
+                    "plain": "patreon/bluff-city-14-when-justice-is-done-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 15: When Justice Is Done Pt. 3",
                 "slug": "bluff-city-15-when-justice-is-done-pt-3",
                 "done": true,
                 "sorting_number": 201,
-                "docs_id": "19TXJ9c0o7a6uOif5gEK2VsZCISWmLJBW9xbpwvdphtM"
+                "docs_id": "19TXJ9c0o7a6uOif5gEK2VsZCISWmLJBW9xbpwvdphtM",
+                "download": {
+                    "plain": "patreon/bluff-city-15-when-justice-is-done-pt-3.txt"
+                }
             },
             {
                 "title": "Bluff City 16: Messy Business Pt. 1",
                 "slug": "bluff-city-16-messy-business-pt-1",
                 "done": true,
                 "sorting_number": 202,
-                "docs_id": "1hF3pNyr_zrzSmxDcuvKutNCyMfxP2BeKsQim9w7_fI0"
+                "docs_id": "1hF3pNyr_zrzSmxDcuvKutNCyMfxP2BeKsQim9w7_fI0",
+                "download": {
+                    "plain": "patreon/bluff-city-16-messy-business-pt-1.txt"
+                }
             },
             {
                 "title": "Bluff City 17: Messy Business Pt. 2",
                 "slug": "bluff-city-17-messy-business-pt-2",
                 "done": true,
                 "sorting_number": 203,
-                "docs_id": "1zB1Vfvsj8Wd2iW1os2AZvdsCu-ITaLf1DP1us1EaRJU"
+                "docs_id": "1zB1Vfvsj8Wd2iW1os2AZvdsCu-ITaLf1DP1us1EaRJU",
+                "download": {
+                    "plain": "patreon/bluff-city-17-messy-business-pt-2.txt"
+                }
             },
             {
                 "title": "Bluff City 18: Messy Business Pt. 3",
                 "slug": "bluff-city-18-messy-business-pt-3",
                 "done": true,
                 "sorting_number": 204,
-                "docs_id": "1PcnoHSq8LY2oechzbWYSjZqMp3iFxBih2zmbu3tO-gA"
+                "docs_id": "1PcnoHSq8LY2oechzbWYSjZqMp3iFxBih2zmbu3tO-gA",
+                "download": {
+                    "plain": "patreon/bluff-city-18-messy-business-pt-3.txt"
+                }
             },
             {
                 "title": "Bluff City 19: Messy Business Pt. 4",
                 "slug": "bluff-city-19-messy-business-pt-4",
                 "done": true,
                 "sorting_number": 205,
-                "docs_id": "1HJ65OWAbbOFwBE01-LYl8AT3O2T2xbb9WIYMWK7G05g"
+                "docs_id": "1HJ65OWAbbOFwBE01-LYl8AT3O2T2xbb9WIYMWK7G05g",
+                "download": {
+                    "plain": "patreon/bluff-city-19-messy-business-pt-4.txt"
+                }
             },
             {
                 "title": "Bluff City Season 1 Post Mortem",
                 "slug": "bluff-city-season-1-post-mortem",
                 "done": true,
                 "sorting_number": 206,
-                "docs_id": "1iMzUhGiaeqYH8bObAjgY68YerC902bYXaWk8Rx2A73k"
+                "docs_id": "1iMzUhGiaeqYH8bObAjgY68YerC902bYXaWk8Rx2A73k",
+                "download": {
+                    "plain": "patreon/bluff-city-season-1-post-mortem.txt"
+                }
             },
             {
                 "title": "Bluff City 20: Hard Luck Pt. 1",
@@ -1432,7 +1510,10 @@
                 "slug": "drawing-maps-audio-02-season-6-faction-creation-pt-1-government-type",
                 "done": true,
                 "sorting_number": 233,
-                "docs_id": "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU"
+                "docs_id": "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU",
+                "download": {
+                    "plain": "patreon/drawing-maps-audio-02-season-6-faction-creation-pt-1-government-type.txt"
+                }
             },
             {
                 "title": "Drawing Maps Audio 03: Season 6 Faction Creation Pt. 2 - Aesthetics",
@@ -1619,14 +1700,20 @@
                 "slug": "pusher-update-catchup-1-the-new-big-ship-we-all-live-on",
                 "done": true,
                 "sorting_number": 264,
-                "docs_id": "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA"
+                "docs_id": "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA",
+                "download": {
+                    "plain": "patreon/pusher-update-catchup-1-the-new-big-ship-we-all-live-on.txt"
+                }
             },
             {
                 "title": "Bluff City Movie Club: The Nice Guys",
                 "slug": "bluff-city-movie-club-the-nice-guys",
                 "done": false,
                 "sorting_number": 265,
-                "docs_id": "1RVovU21JW22qU-WqOxTTIOJY3KEEs0WPy5bms31fhUk"
+                "docs_id": "1RVovU21JW22qU-WqOxTTIOJY3KEEs0WPy5bms31fhUk",
+                "download": {
+                    "plain": "patreon/bluff-city-movie-club-the-nice-guys.txt"
+                }
             },
             {
                 "title": "Bluff City Movie Club: Sneakers",
@@ -1639,7 +1726,10 @@
                 "slug": "bluff-city-movie-club-streets-of-fire",
                 "done": false,
                 "sorting_number": 267,
-                "docs_id": "13J_aLd8y3GfDhwV8FN3Nc1U_PVkWnhSN3pGsN6XZgGI"
+                "docs_id": "13J_aLd8y3GfDhwV8FN3Nc1U_PVkWnhSN3pGsN6XZgGI",
+                "download": {
+                    "plain": "patreon/bluff-city-movie-club-streets-of-fire.txt"
+                }
             },
             {
                 "title": "Pusher Media Club: Tampopo",
@@ -1652,7 +1742,10 @@
                 "slug": "pusher-media-club-fargo",
                 "done": false,
                 "sorting_number": 269,
-                "docs_id": "1w3E4dfwE5Vw7qkYdEo3n-Td4jI2H-fA-B0DLbg4BZNw"
+                "docs_id": "1w3E4dfwE5Vw7qkYdEo3n-Td4jI2H-fA-B0DLbg4BZNw",
+                "download": {
+                    "plain": "patreon/pusher-media-club-fargo.txt"
+                }
             },
             {
                 "title": "Pusher Media Club: Better Call Saul",
@@ -1671,14 +1764,20 @@
                 "slug": "pusher-media-club-spirited-away",
                 "done": false,
                 "sorting_number": 272,
-                "docs_id": "13a-PW5pikSf_hH99Vr3aQX2U38h8LDeKjzI1_62E_Mg"
+                "docs_id": "13a-PW5pikSf_hH99Vr3aQX2U38h8LDeKjzI1_62E_Mg",
+                "download": {
+                    "plain": "patreon/pusher-media-club-spirited-away.txt"
+                }
             },
             {
                 "title": "Pusher Media Club: There Will Be Blood",
                 "slug": "pusher-media-club-there-will-be-blood",
                 "done": false,
                 "sorting_number": 273,
-                "docs_id": "14A3y7Zwf6riQabKRwCEdmhVvaClF6oqimY_sXVInoJA"
+                "docs_id": "14A3y7Zwf6riQabKRwCEdmhVvaClF6oqimY_sXVInoJA",
+                "download": {
+                    "plain": "patreon/pusher-media-club-there-will-be-blood.txt"
+                }
             },
             {
                 "title": "Pusher Media Club: Dracula",

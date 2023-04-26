@@ -34,7 +34,7 @@ def download_doc(episode):
         shutil.copyfileobj(response.raw, outf)
 
 
-for sheet in [wb.worksheets[-1]]:
+for sheet in wb.worksheets[1:]:
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
     os.makedirs(season["id"], exist_ok=True)
 
@@ -67,6 +67,9 @@ for sheet in [wb.worksheets[-1]]:
             print(f"downloading episode #{ep_i} - {title}")
             episode["docs_id"] = doc_id.group(1) or doc_id.group(2)
             download_doc(episode)
+            episode["download"] = {
+                "plain": f"{season['id']}/{episode['slug']}.txt"
+            }
 
         season["episodes"].append(episode)
 
