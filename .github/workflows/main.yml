@@ -28,15 +28,10 @@ jobs:
       - name: download transcripts
         run: python ingest.py
 
-      - name: commit files
-        run: |
-          git config --global user.name 'Emily Signet [ automated ]'
-          git config --global user.email 'emily-signet@users.noreply.github.com'
-          git add .
-          git commit -m "automated update" --allow-empty
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: ${{ github.ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: data
+          FOLDER: mirror
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
