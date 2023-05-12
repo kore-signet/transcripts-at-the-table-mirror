@@ -80,3 +80,6 @@ for sheet in wb.worksheets[1:]:
 
 with open("mirror/seasons.json", "w") as f:
     json.dump(seasons, f, indent=4)
+    
+with open("mirror/CNAME", "w") as f:
+    f.write("memorious-records.cat-girl.gay")
