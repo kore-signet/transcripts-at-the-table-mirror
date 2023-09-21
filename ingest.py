@@ -8,6 +8,8 @@ from requests_ratelimiter import LimiterSession
 import functools
 import shutil
 
+formats_to_download = ['pdf', 'txt', 'epub']
+
 hyperlink_regex = re.compile(r"""^=HYPERLINK\("(.+?)",.*?"(.+?)"\)$""")
 id_regex = re.compile(r"(?:id=(.+)$)|\/document\/d\/(.+?)(?:$|\/)")
 
@@ -26,12 +28,10 @@ seasons = {}
 
 
 def download_doc(episode):
-    with open(f"mirror/{season['id']}/{episode['slug']}.txt", "wb") as outf, session.get(
-        f"https://docs.google.com/document/u/0/export?format=txt&id={episode['docs_id']}",
-        stream=True,
-    ) as response:
-        response.raw.read = functools.partial(response.raw.read, decode_content=True)
-        shutil.copyfileobj(response.raw, outf)
+    for kind in formats_to_download:
+        with open(f"mirror/{season['id']}/{episode['slug']}.{kind}", "wb") as outf, session.get(f"https://docs.google.com/document/u/0/export?format={kind}&id={episode['docs_id']}", stream=True) as response:
+            response.raw.read = functools.partial(response.raw.read, decode_content=True)
+            shutil.copyfileobj(response.raw, outf)
 
 
 for sheet in wb.worksheets[1:]:
