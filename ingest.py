@@ -105,6 +105,3 @@ with open("mirror/index.html", "w") as f:
 
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")
-
-shutil.make_archive("latest", "zip", "mirror")
-shutil.move("latest.zip", "mirror/latest.zip")
