@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <title>transcripts at the table / mirror index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css"
+        integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+    <div class="m-2 lg:m-4">
+        <span class="font-bold tracking-wide text-2xl text-gray-700">Transcripts At The Table / mirror index</span>
+    </div>
+    <div class="overflow-x-auto relative shadow-md sm:rounded-lg m-2 lg:m-4">
+        <table class="w-full text-sm text-left text-gray-500">
+            <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+                <tr>
+                    <th scope="col" class="py-3 px-6">Name</th>
+                    <th scope="col" class="py-3 px-6">Transcripts</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for season in seasons.values() %}
+                <tr class="w-1/4 bg-white border-b hover:bg-gray-50">
+                    <td scope="col" class="py-3 px-6 font-bold">{{ season.title }}</td>
+                    <td scope="col" class="py-3 px-6">
+                        <a href="{{- season.id -}}/index.html"
+                            class="font-bold text-blue-600 dark:text-blue-500 hover:underline">transcript list</a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <footer>
+    <p class="m-2 lg:m-4 text-sm"><a href="/seasons.json" target="_blank" class="text-blue-700">raw data</a></p>
+    <p class="m-2 lg:m-4 text-sm">based on <a href="https://github.com/jayanta525/github-pages-directory-listing" target="_blank" class="text-blue-700">github-pages-directory-listing</a></p>
+    </footer>
+</body>
+
+</html>

@@ -7,13 +7,19 @@ from openpyxl import load_workbook
 from requests_ratelimiter import LimiterSession
 import functools
 import shutil
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-formats_to_download = ['pdf', 'txt', 'epub']
+jinja_env = Environment(
+    loader=FileSystemLoader("templates"), autoescape=select_autoescape()
+)
+
+
+formats_to_download = ["pdf", "txt", "epub"]
 
 hyperlink_regex = re.compile(r"""^=HYPERLINK\("(.+?)",.*?"(.+?)"\)$""")
 id_regex = re.compile(r"(?:id=(.+)$)|\/document\/d\/(.+?)(?:$|\/)")
 
-session = LimiterSession(per_second=3)
+session = LimiterSession(per_second=10)
 
 wb = load_workbook(
     io.BytesIO(
@@ -29,14 +35,21 @@ seasons = {}
 
 def download_doc(episode):
     for kind in formats_to_download:
-        with open(f"mirror/{season['id']}/{episode['slug']}.{kind}", "wb") as outf, session.get(f"https://docs.google.com/document/u/0/export?format={kind}&id={episode['docs_id']}", stream=True) as response:
-            response.raw.read = functools.partial(response.raw.read, decode_content=True)
+        with open(
+            f"mirror/{season['id']}/{episode['slug']}.{kind}", "wb"
+        ) as outf, session.get(
+            f"https://docs.google.com/document/u/0/export?format={kind}&id={episode['docs_id']}",
+            stream=True,
+        ) as response:
+            response.raw.read = functools.partial(
+                response.raw.read, decode_content=True
+            )
             shutil.copyfileobj(response.raw, outf)
 
 
 for sheet in wb.worksheets[1:]:
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
-    os.makedirs(f"mirrors/{season['id']}", exist_ok=True)
+    os.makedirs(f"mirror/{season['id']}", exist_ok=True)
 
     ep_i = 0
 
@@ -68,7 +81,9 @@ for sheet in wb.worksheets[1:]:
             episode["docs_id"] = doc_id.group(1) or doc_id.group(2)
             download_doc(episode)
             episode["download"] = {
-                "plain": f"{season['id']}/{episode['slug']}.txt"
+                "plain": f"{season['id']}/{episode['slug']}.txt",
+                "pdf": f"{season['id']}/{episode['slug']}.pdf",
+                "epub": f"{season['id']}/{episode['slug']}.epub",
             }
 
         season["episodes"].append(episode)
@@ -76,10 +91,17 @@ for sheet in wb.worksheets[1:]:
         ep_i += 1
 
     seasons[season["id"]] = season
+    with open(f"mirror/{season['id']}/index.html", "w") as season_index:
+        season_index.write(
+            jinja_env.get_template("season.html.jinja").render(season=season)
+        )
 
 
 with open("mirror/seasons.json", "w") as f:
     json.dump(seasons, f, indent=4)
-    
+
+with open("mirror/index.html", "w") as f:
+    f.write(jinja_env.get_template("main.html.jinja").render(seasons=seasons))
+
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")
