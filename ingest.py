@@ -96,6 +96,9 @@ for sheet in wb.worksheets[1:]:
             jinja_env.get_template("season.html.jinja").render(season=season)
         )
 
+    shutil.make_archive(f"mirror/{season['id']}", "zip", f"mirror/{season['id']}/")
+    # with open(f"mirror/{season['id']}")
+
 
 with open("mirror/seasons.json", "w") as f:
     json.dump(seasons, f, indent=4)
@@ -103,5 +106,8 @@ with open("mirror/seasons.json", "w") as f:
 with open("mirror/index.html", "w") as f:
     f.write(jinja_env.get_template("main.html.jinja").render(seasons=seasons))
 
+with open("mirror/.gitattributes", "w") as f:
+    f.write("*.zip filter=lfs diff=lfs merge=lfs -text")
+    
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")

@@ -17,7 +17,8 @@
             <thead class="text-xs text-gray-700 uppercase bg-gray-50">
                 <tr>
                     <th scope="col" class="py-3 px-6">Name</th>
-                    <th scope="col" class="py-3 px-6">Transcripts</th>
+                    <th scope="col" class="py-3 px-6">Direct Download</th>
+                    <th scope="col" class="py-3 px-6">Individual Transcripts</th>
                 </tr>
             </thead>
             <tbody>
@@ -25,8 +26,12 @@
                 <tr class="w-1/4 bg-white border-b hover:bg-gray-50">
                     <td scope="col" class="py-3 px-6 font-bold">{{ season.title }}</td>
                     <td scope="col" class="py-3 px-6">
+                        <a href="{{- season.id -}}.zip"
+                            class="font-bold text-blue-600 dark:text-blue-500 hover:underline">direct download (zip)</a>
+                    </td>
+                    <td scope="col" class="py-3 px-6">
                         <a href="{{- season.id -}}/index.html"
-                            class="font-bold text-blue-600 dark:text-blue-500 hover:underline">transcript list</a>
+                            class="font-bold text-blue-600 dark:text-blue-500 hover:underline">episode list</a>
                     </td>
                 </tr>
                 {% endfor %}
