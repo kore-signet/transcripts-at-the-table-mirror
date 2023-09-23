@@ -35,21 +35,21 @@
                         {% if 'download' in episode %}
                         <ul class="flex flex-wrap items-center text-gray-900">
                             <li>
-                                <a href="{{ episode.download.pdf }}"
+                                <a href="../{{ episode.download.pdf }}"
                                     class="mr-4 font-bold text-blue-600 dark:text-blue-500 hover:underline">
                                     <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                                     PDF
                                 </a>
                             </li>
                             <li>
-                                <a href="{{ episode.download.epub }}"
+                                <a href="../{{ episode.download.epub }}"
                                     class="mr-4 font-bold text-blue-600 dark:text-blue-500 hover:underline">
                                     <i class="fa fa-file-epub" aria-hidden="true"></i>
                                     EPUB
                                 </a>
                             </li>
                             <li>
-                                <a href="{{ episode.download.plain }}"
+                                <a href="../{{ episode.download.plain }}"
                                     class="mr-4 font-bold text-blue-600 dark:text-blue-500 hover:underline">
                                     <i class="fa fa-file-text" aria-hidden="true"></i>
                                     Plaintext

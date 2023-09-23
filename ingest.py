@@ -19,7 +19,7 @@ formats_to_download = ["pdf", "txt", "epub"]
 hyperlink_regex = re.compile(r"""^=HYPERLINK\("(.+?)",.*?"(.+?)"\)$""")
 id_regex = re.compile(r"(?:id=(.+)$)|\/document\/d\/(.+?)(?:$|\/)")
 
-session = LimiterSession(per_second=10)
+session = LimiterSession(per_second=30)
 
 wb = load_workbook(
     io.BytesIO(
@@ -105,3 +105,6 @@ with open("mirror/index.html", "w") as f:
 
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")
+
+shutil.make_archive("latest", "zip", "mirror")
+shutil.move("latest.zip", "mirror/latest.zip")
