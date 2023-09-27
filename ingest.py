@@ -106,8 +106,8 @@ with open("mirror/seasons.json", "w") as f:
 with open("mirror/index.html", "w") as f:
     f.write(jinja_env.get_template("main.html.jinja").render(seasons=seasons))
 
-with open("mirror/.gitattributes", "w") as f:
-    f.write("*.zip filter=lfs diff=lfs merge=lfs -text")
+#with open("mirror/.gitattributes", "w") as f:
+#    f.write("*.zip filter=lfs diff=lfs merge=lfs -text")
     
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")
