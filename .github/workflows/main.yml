@@ -40,4 +40,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./mirror
           publish_branch: data
+          force_orphan: true
           cname: memorious-records.cat-girl.gay
