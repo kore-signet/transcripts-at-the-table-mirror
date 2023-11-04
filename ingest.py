@@ -47,7 +47,7 @@ def download_doc(episode):
             shutil.copyfileobj(response.raw, outf)
 
 
-for sheet in wb.worksheets[1:]:
+for sheet in wb.worksheets[1:2]:
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
     os.makedirs(f"mirror/{season['id']}", exist_ok=True)
 
