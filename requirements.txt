@@ -1,3 +1,4 @@
 openpyxl==3.1.2
 requests_ratelimiter==0.4.0
 python-slugify==8.0.1
+jinja2==3.1.4

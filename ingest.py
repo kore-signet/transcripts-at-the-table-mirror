@@ -4,7 +4,8 @@ import os
 import json
 from slugify import slugify
 from openpyxl import load_workbook
-from requests_ratelimiter import LimiterSession
+import requests
+# from requests_ratelimiter import LimiterSession
 import functools
 import shutil
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -19,7 +20,8 @@ formats_to_download = ["pdf", "txt", "epub"]
 hyperlink_regex = re.compile(r"""^=HYPERLINK\("(.+?)",.*?"(.+?)"\)$""")
 id_regex = re.compile(r"(?:id=(.+)$)|\/document\/d\/(.+?)(?:$|\/)")
 
-session = LimiterSession(per_second=30)
+# session = LimiterSession(per_second=3000)
+session = requests.session()
 
 wb = load_workbook(
     io.BytesIO(
@@ -111,3 +113,8 @@ with open("mirror/index.html", "w") as f:
     
 with open("mirror/CNAME", "w") as f:
     f.write("memorious-records.cat-girl.gay")
+
+bots_to_block = ["anthropic-ai", "CCBot", "ChatGPT-User", "FacebookBot", "GoogleOther", "Google-Extended", "GPTBot", "OmigiliBot", "Amazonbot", "Bytespider", "Claude-Web", "cohere-ai", "YouBot", "PerplexityBot", "Applebot",  "omgili", "Diffbot"]
+with open("mirror/robots.txt", "w") as f:
+    for bot in bots_to_block: 
+        f.write(f"User-agent: {bot}\nDisallow: /\n")

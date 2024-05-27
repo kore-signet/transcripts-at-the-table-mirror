@@ -11,8 +11,8 @@ jinja2 = "*"
 
 [dev-packages]
 
-[requires]
-python_version = "3.11"
+# [requires]
+# python_version = "3.12"
 
 [scripts]
 ingest = "python ingest.py"
