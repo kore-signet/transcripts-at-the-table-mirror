@@ -1,0 +1,1487 @@
+﻿PALISADE 06: The Canvas of Dreams Pt. 1
+Transcribers: Lucho#5167 [0:00 - 1:00:00], Iris (@sacredwhim) [edits, 1:00:00 - 2:09:51]
+Opening Narration        1
+Introduction        3
+[15:00]        9
+Operation Midnight Lapidary        20
+Mission Setup        20
+Lead a Sortie        30
+The Masquerade        36
+Phrygian        37
+Brnine        46
+Arrival        56
+Operation Midnight Lapidary        58
+Mission Start        72
+Figure        75
+Thisbe        84
+The Masquerade        91
+Opening Narration
+Austin: PALISADE is a show about empire, revolution, settler colonialism, politics, religion, war, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+-
+[music intro - “Nothing is Stationary” by Jack de Quidt begins]
+Austin (as Speaker): This is a message to you, citizen. You must trust me, because we are kin, blessedly connected by the robust boughs of Divinity itself. I know that this is a time of confusion and crisis, but I promise you, the New Asterism and our defenders, the Bilateral Intercession, offer you a revelation: that progress is and has always been synonymous with return. My name is Gur Sevraq, and I am the elect of Future.
+My Divine has shown what grim tomorrow has in store, and it is more struggle, and it is more violence, and it is more war against the three-headed beast of terror, treachery and treason. A season of misery, yes, but I’ve seen more. I’ve seen opportunity obscured by dense cannon smoke, utopia hidden behind strokes drawn by missile contrail, for there is no weapon in the history of civilization stronger than the walls raised around the garden of the frail.
+This message is more than a message; it’s an announcement, and it’s an offer, and it’s your brother’s open hand. Do not dismiss me as a hypocrite or zealot. I am a dreamer, and a singer, and a tiller of land.
+So join our efforts on Palisade, put on your working boots, lift up a spade. Immediate action’s required. The soil is fallow, and though we’ve acquired a foothold on the pathway back towards our celestial cradle, it is covered in weeds and insects and hordes, pretenders, portenders, betrayers.
+Necessity itself demands we move with swiftness, so let the quickness of truth fill your sails and carry you here. The old truth, the earliest truth, the truth that hides in your heart, imparted before Nideo departed, the truth we can’t stand to hear: there was a time of pure, even unity. There was a time before our gunpowder burned. There was a time of honor and civility, and let me be as clear as empty space that there is no cost too great to pay for our return.
+[music intro - “Nothing is Stationary” by Jack de Quidt ends]
+Introduction
+[2:53]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker and joining me today, Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter at @swandre3000.
+Austin: Janine Hawkins.
+Janine: Hi, you can find me on Twitter at @bleatingheart.
+Austin: Sylvi Bullet.
+Sylvi: Hey, I’m Sylvia. You can find me on Twitter at @sylvibullet. Actually, you can find me everywhere at @sylvibullet. I gotta get back in the rhythm of doing that one instead. And also, you can follow the show on TikTok at TikTok dot, uh, it… TikTok’s just an app.
+Dre: Dot com.
+Keith: At TikTok dot.
+Sylvi: TikTok dot com? For some reason, I was like TikTok.tv, but I was getting—we’re gonna nail this, I promise.
+Keith: TikTok app. Open TikTok app.
+[Ali laughs]
+Sylvi: It’s @friends_table on the TikTokers, and, um… 
+Austin: You know what’s fucked up, is on TikTok, is—
+Sylvi: Twitch.tv/FriendsAtTheTable.
+Austin: If you go to, like, a web browser and do TikTok.com/friends_table, that doesn’t work. You have to do “@friends_table”. You have to add the “@” yourself, yeah.
+Keith: Yeah, it’s slash at. Yeah, yeah.
+Dre: Oh.
+Sylvi: Good to know. I didn’t know about that.
+Austin: Yeah, it’s weird.
+Sylvi: Thank you.
+Austin: That’s also the voice of Keith J. Carberry. 
+Keith: Hi, my name is Keith J Carberry. You can find me on Twitter @KeithJCarberry, and also on Cohost there, and also the Let’s Plays that I do at youtube.com/RunButton.
+Austin: And Ali Acampora.
+Ali: Hi, my name is Ali Acampora, and you can find any of the music featured on the show at notquitereal.bandcamp.com.
+Austin: That’s true. That’s true. Today we are continuing our game of Armour Astir: Advent. Our goals are to portray a world entrenched in conflict, to let the players make a difference, to connect the magic and the mundane, and to play to find out what happens. We are—we should both be in our spreadsheets and also in our Roll20. I know some people are only in one of the other, but we do need both today as we kick off our first full Sortie in the Armour Astir campaign.
+Where did we—where did we leave off? Y’all had gotten a kind of loose kind of outline of what the Sortie was, y’all had rolled some some dice on preparing for the Sortie, but you had not engaged with it directly. You chose—you did Plan and Prepare, and when you chose, you chose the following three bonuses: During the Sortie, you will have a risky opportunity to secure an outcome from a faction, which means, hey, you can get one of the cool bonuses that the various factions give you. For instance, you could use Grey Pond’s outcome ability of untapping two other factions, which I think was the one that y’all had kind of aimed for.
+The second bonus you got was the Lead a Sortie roll is made with advantage, which is important. That’s the sort of engagement roll that we’ll be making in a little bit. And then also, and this is important, “all players Hold 1. You may spend your Hold during the next Sortie as if it were Hold gained through one of your basic or playbook moves.” This is kind of like a big universal Hold, you can use it for any—treat it as Hold anywhere it says spend 1 Hold or spend 3 Hold, it counts towards that. It’s whatever you want there. So make sure you get that written down.
+Any general questions or stuff before we get into play proper? Any other loose threads that we wanted to hit before we moved into what today’s, you know, Sortie is going to be?
+[pause]
+Okay. so here is the slightly more specific mission briefing. I’m gonna move us—actually, I’m gonna stay on the regular map for a second here. Today, your goal—in fact, there’s an operation name and everything, you kind of get the update from—presumably from Gucci, or maybe an unnamed, just through a sort of like, I imagine almost like a telegraph-type incoming message thing, and it explains that you’re about to initiate Operation Midnight Lapidary, a lapidary like a stone-cutter, like a gem-cutter.
+Your target is moving from across the Bontive Valley overnight. If you’re looking at kind of the northwest of this map here, you can see where it says Carhaix, this kind of town in the north of the Bontive Valley. As a reminder, Bontive Valley, kind of the breadbasket of the Bilateral Intercession here on the planet. The Bontive Valley was literally blessed by the sacrifice of a Divine such that the food produced there, the grains that grow there, everything that comes out of that place, is a little more filling, is a little more sustaining, and that the ground, you know, stays fertile longer. In general, it is this deeply blessed place that is very, very useful for, for instance, an occupying army to have control of.
+And moving from the northern end of it near Carhaix, across and down it towards the Kesh city of Carleon-Upon-Wisk is someone named code name Gem. Your job is to make sure that she does not get to Carleon-Upon-Wisk. I think, you know, at this point, with knowing what you know, and what they’ve given you, you’ve been told that this is a Stel Orion, like, gem magnate, basically. You know, like a precious jewel magnate who is going to Carleon-Upon-Wisk for the coronation of the new duchess, who claims to be the old duchess, who claims to be a duchess of legend and lore. She is going to get coronated, and your mission is to prevent this person from attending the coronation the following day. She’s traveling overnight, and we’ll talk a little bit about, like, what her travel plans look like in a moment.
+But the high level here is that three of you—I believe three of you—are—plus the ship—are assigned to keep her from arriving by any means necessary. As a secondary objective, Figure in Bismuth, you have been—I was gonna say asked, but asked is probably too soft of a term, huh?
+Dre: I’ve been voluntold. [chuckles]
+Austin: [laughs] You’ve been voluntold, uh-huh.
+Sylvi: Oh my god.
+Austin: To capture and deliver the target to the Witch in Glass. Specifically, you’ve been given a sort of extraction point, Figure. You can kind of see there’s this—do you see the Bontive Valley has this point that I’m gonna ping here, this kind of like, little nub coastline on the kind of western shore? Not the one close to the Isle of the Broken Key, but the one to the south of that. I’m gonna ping it again. Do you see that?
+Dre: Mhm.
+Austin: You’ve been told that there is, and I think the message from the Witch in Glass, or like, the breakdown has told you that there is a receptacle to put the target into. Obviously—
+Keith: What’s the target’s name again?
+Austin: Code name Gem is all you have.
+Keith: Oh, code name Gem. That is not their name.
+Austin: The code name is Gem, yes, correct.
+Keith: Their code name is code name Gem, they are not named Code Name Gem.
+Austin: Right. They are—that’s all you got from them. So that’s the highest of high level things. Two of—so that is the mission for the Blue Channel’s crew. Presumably they’re attending to this, and not gonna be in the second half of this, I guess I should ask, you know, the captain about that specifically, but Thisbe, Phrygian, and Coriolis, the three of you are assigned to doing this. Figure in Bismuth—sorry, I said Phrygian. Figure in Bismuth, not Phrygian. Phrygian and Brnine, [Ali: Hello.] I believe the two of you are both headed to the Isle of the Broken Key for a bit of a meet and greet, a bit of a masquerade.
+Ali: Ooh!
+Dre: Oh, man.
+Austin: So start thinking about what your masquerade outfits look like.
+Ali: Yes!
+Austin: As the—some of the new arrivals from the Twilight Mirage and the kind of Qui Err Coalition’s forces that have begun to integrate here have arrived and are beginning to mix into the group and become kind of—you know, again, it’s a meet and greet. People from all six of the Cause’s factions are going to be there. We’ll get into the details a little bit later.
+But the Isle of the Broken Key is where Violet Cove tends to—that’s like, their operating base. That is the Cult of Devotion, the Devotees are there, along with the group called the Dim Liturgy, which is like the Rapid Evening descendants. They’re not actually Rapid Evening people at this point, they’re like prophets who attend to a broken memory unit of Crystal Palace, and try to like, coax predictions out of it, and prophecies. And so it’s their island. It’s a fairly sizable place, like, you look at a map of a planet, and sometimes, you’re like, oh, that’s a tiny island. But really, it’s like, that’s a—it’s like, a big—there are countries smaller than this island, do you know what I mean?
+And so you’re being taken to a secluded—you’re headed to a secluded place, a sort of secluded seaside manor, on the Isle of the Broken Key where you can meet other members of the Cause in secrecy, secrecy even from other members of Violet Cove, right? Only the highest of high level people know that there is such a thing as the Cause, that they—that these different groups are actually allied and not just sort of all against the occupation from the Bilateral Intercession. So there is—everything is coaxed in—or, coaxed—coded in secrecy, which is part of why the masquerade is happening, everyone should be coming in—maybe not disguise, but you know. If someone snapped a photo, they might not necessarily be able to put together that you are, for instance, Kalvin Brnine, [laughing] let alone the war criminal once known as Kal’mera Broun.
+[Ali giggles]
+Austin: I don’t know how—I don’t—you know, Phrygian, you’re gonna have to tell me what a masquerade outfit for you looks like. I’m very excited to know. So, get to thinking on that. Any other high level questions before we zoom in a little bit closer, any other establishing things that we need? I feel like we—I feel like we’ve kind of got the big stuff. I’m gonna move us over to another different map. This is the Operation Midnight Lapidary map, you can see it’s just kind of zoomed in and then painted over. There are three—can someone describe broadly what you’re looking at on this map, maybe? For a listener.
+Dre: Oh, okay.
+Keith: Hm.
+Dre: So—
+[15:00]
+Keith: It’s an island.
+Dre: It’s an island. Well, is it?
+Austin: It’s not.
+Sylvi: [cross] I can’t tell if it’s an island.
+Keith: Oh, it’s not an island.
+Dre: Yeah, it’s like a—it’s like a, I guess—
+Sylvi: It’s a peninsula.
+Dre: Is that a peninsula? That’s not a peninsula.
+Austin: It’s like the western coastline of the North. It’s—I mean, it’s quite literally—I’ll just move us back over really quick.
+Keith: There is a peninsula down there.
+Austin: Well, it sort of is and it sort of isn’t, right? Because look at it on the big map. You can kind of see it’s like, it’s connect—I don’t—
+Keith: Barely.
+Austin: It’s connected all the way across, you know what I mean? So.
+Dre: Yeah. It’s definitely not an island.
+Sylvi: Wait, can you ping that?
+Keith: [cross] No, no.
+Austin: Sorry, can I ping what?
+Janine: Is that an isthmus?
+Sylvi: On the big map where it is.
+Austin: The zoomed-in map is just of the Bontive Valley, right?
+Sylvi: Oh, okay.
+Austin: That is what it is, right? Which, for people who don’t remember, there is a map in the first episode of the season, and if you check the show notes. So you can see the whole big map there. This map, I’ll take a screenshot of it and drop it in to this episode’s notes. I thankfully have a screenshot of it already pre-destroyed by whatever notes we added to it.
+[Dre chuckles]
+Austin: So yeah, it’s a big coastline, and there are kind of three major dotted locations. These are, of course, points A as in Amber, M as in Malachite, and Z as in Zircon. The A is kind of dead central. I mean, I added numbers and letters to this. The A is in B10. It’s 1 through 15 across, and then A through N down. A10 is point Amber, G10, so straight down from A10, is Malachite. And then all the way southwest of there is Zircon. I’d say that that’s I2, something like that, right?
+Keith: J3?
+Austin: J2. J—eh, it’s—
+Keith: It definitely starts on 2.
+Austin: It’s in the middle of some of those, [Keith: Yeah.] it’s kind of at the corner of a few of them, the little dot. So it’s kind of all over the place.
+Keith: Oh, it’s the dot. Yeah, you’re right, okay.
+Austin: It’s the dot. It’s the dot, yeah. You know that code name Gem, Gem, your target, is beginning up at point A, in the city of Carhaix, and is, around sunset, taking a little train as part of—you know, joining a train to head south to Everson, which is point M, which, point M, Everson, is the town we first visited back in Wagon Wheel. As she does that, as the train goes through that, it will leave a sort of Nideo rapid response zone, briefly be in the kind of open, and then arrive into a smaller patrol zone where Everson’s kind of local police force, the seneschal, will be guarding it again.
+And at that point, right now, you don’t know what she’s gonna do. She might stay on the train, in which case you can see she goes all the way southwest, and then down along the border of the Diadem and then back up to point Z. She could take a sort of plane, or some sort of hover vehicle, to the west. That’s the common air route I’ve marked. And then there’s also a car route, which is estimated to be this sort of orange-ish dotted line that I’ve put here. But cars, it turns out, can take any paved roads that they’re connected to, and so could end up on a different path. But this is, again, the primary highway that runs between these two places.
+So that’s kind of the high level of what you know. You can—there are ways that we could maybe talk about how you could kind of zero in on how she’s gonna do it and stuff like that. But I think that that’s the, like, that’s the sort of pitch of the mission at this point, given what you’ve been given. Are there any questions at this point? [pause] And I guess we should say outright that for Phrygian and Brnine, you will not be here for this, because of a move that you have. Do either one of you want to read the B-Plot move as it’s written?
+Ali: Sure, yeah.
+Austin: Thank you.
+Ali: B-Plot, as written, says: “When you head out for some solitary revenge, leave to take part in negotiations, or otherwise act to take part in a secondary narrative thread to the other players involved in the Sortie, you are in the B-Plot. Name one or two Director characters that accompany you and Hold 3. During the Sortie, you can spend it one for one to do the following: Give another player Confidence on their next move, but complicate things for yourself; deny an actor from appearing during the Sortie—they’re busy, possibly with the same thing as you; spend some time and frame a downtime scene; or cut away from the Sortie during a moment when time is precious, giving everyone room to think.”
+Austin: Perfect. So that means the two of you are both doing that, and you both have 3 Hold to do those things. So like, you could be like, hey, I want to give someone Confidence, actually, but send me a little quick complication. And you could do that up to three times. You know? This is, again, almost a genre simulation more than a particular thing you’re doing. You don’t have to explain how you getting into trouble would give Thisbe, you know, Confidence on her next roll. It would just happen because that’s the sort of rhythm of this style of mecha anime, you know? Meanwhile, the other half will begin playing when we roll—I mean, not begin playing. We’re already playing, but the Sortie will begin when you roll Lead a Sortie. Can someone read the Lead a Sortie write-up? Which is not on your individual sheet, it is on the moves and rules page, I believe.
+Keith: Yeah, I’ve got it.
+Austin: Oh, awesome, great. Go for it.
+Keith: “Lead a Sortie: When it’s time for—” Oh, I’m not in the Sortie.
+Austin: Yeah, but—
+Keith: Does someone who’s in the Sortie want to read Lead a Sortie?
+[Austin and Ali laugh]
+Austin: That would be fair. You’re right.
+Sylvi: Sure, I got it.
+Austin: Thank you.
+Sylvi: “Lead a Sortie: When it’s time for action and you Lead a Sortie, decide who planned the mission and roll. Plus Know if you’re leading with wits or following a clever plan, plus Crew if it was someone else aboard, plus Defy if you’re heading into danger blind. On a 10 plus, you make it into the action unscathed. On a 7 to 9, the crew stumbles, misses something important, or is unprepared for what they meet.”
+Austin: So, with those two things in mind, and kind of knowing what the shape of these—of the Sortie looks like, are there any other things that we want to get onscreen before we roll Lead a Sortie and kick this off? My biggest questions are, for the people going to the party, how are you preparing for that? Does the crew—does any of the crew come with you? Who do you leave behind to help run the Blue Channel? Again, I’m guessing you’re leaving the Blue Channel behind so that it can help with the mission part of this. And also, to the people who are going on the mission, do you say anything to the people going in—I guess, I don’t even know if the party is public. Like, Brnine, do you tell everybody you’re going to a party instead of attending this mission?
+Ali: Um…
+Austin: You’ve been requested to go to this party, I guess.
+Ali: Yeah, I mean, I don’t know that I say, like, “I’m going to a party,” right?
+Austin: [chuckling] Uh-huh.
+Ali: But like, I think that like, “Oh, me and Phryge gotta…”
+Austin: [scoffs] God.
+Ali: “...go to a meet and greet.” [laughs]
+[Keith laughs] [Janine hums]
+Ali: There’s kind of—plus, like, during the last downtime, there was like a dedicated space where it was like, Brnine went back to base, essentially, [Austin: Yeah.] for a couple hours or a couple days or whatever. And I think it’s that sort of thing where it’s like, “I have some stuff to take care of.”
+Austin: Mhm.
+Ali: I’ll probably leave the whole crew here.
+Keith: Was the dedicated space Phrygian?
+Ali: Huh? [chuckles]
+Keith: Is that what you’re talking about?
+Ali: [laughing] Huh?
+Keith: The dedicated space.
+Sylvi: Oh my god.
+Keith: The one you went back to.
+Austin: Phrygian, you said that you took your—
+Ali: No, no, no, this was off the ship.
+Keith: Okay.
+Ali: But I did have that mini meeting in you. So that’s, you know.
+Keith: Yeah, that’s what I was talking about. Yeah.
+Ali: Yeah, yeah, yeah.
+Austin: That did happen.
+[Ali and Sylvi laugh]
+Ali: But I think the Blue Channel is being left behind, and I’m gonna let—the three chess pieces of the crew are gonna stay with the Sortie if you guys want to…
+Austin: Right.
+Ali: …move them around.
+Austin: Can you remind us who those three chess pieces are?
+Ali: Yeah, that is Midnite Matinee who’s a scout focus. Routine Rennari, who is a heavy, he shoots people. And then there’s Hunting Tomorrow, who is a tech guy.
+Austin: Who’s like, the pilot?
+Keith: Do they like being called chess pieces? 
+[Ali laughs]
+Austin: Also that. Great question.
+Ali: We’re playing a game. Brnine isn’t playing a game. Like, we’re—
+Austin: Mhm.
+Dre: Mhm.
+Ali: That’s Ali speaking.
+Austin: Okay.
+Keith: Okay.
+Austin: Brnine would never instrumentalize another person, uh-huh.
+[Keith laughs]
+Ali: I think that they like being part of the crew.
+Austin: Yeah, that makes sense. I do believe you when you say that, you know what I mean?
+[Ali laughs]
+Keith: Yeah. Yeah, yeah, yeah.
+Austin: I don’t think that that’s not true.
+Ali: Sure. I appreciate it.
+Janine: Sorry, could you repeat the third name? I just realized they’re not in our chart in our table thing.
+Ali: Oh, that’s Hunting Tomorrow.
+Janine: Right, right, right.
+Austin: AKA Hunt.
+Keith: Like I said, put us wherever, boss.
+Austin: And then also, also, also, you now have Saffron, Saffron Septet—
+Ali: Oh, yeah.
+Austin: The digital consciousness who lives in various physical bodies and moves herself between them, who is a doctor who attends to anybody who needs to do doctor, or if anybody needs any doctor stuff. Um, cool. So yeah. Given all of that, do you tell them where—do you tell them where the mission is, or do you keep that close to the—or the party? The thing you need—you and Phryge have to go take care of? Do you tell them where you’re going, or do you keep that close to the chest?
+Ali: Um, I don’t know why I would conceal it.
+Austin: Okay. Then I’ll make special notes in that Cori, you know, that they’re all—that they’re both going to where presumably your family lives, right? Here on—
+Sylvi: This is up by where the Violet Cove is kind of based?
+Austin: Uh-huh. It is that exact island, so.
+Sylvi: Yeah, yeah, yeah. The—yep. Well, like most—like, some of my family lives.
+Austin: Oh, okay. Wait, do you have other family here on the planet living elsewhere, or are they…
+Sylvi: Um… No, I think they’re off-world.
+Austin: Okay, gotcha.
+Sylvi: I don’t think mom came.
+Austin: Oh, no. Is it just dad—how many people are here?
+Sylvi: Um, I think it’s like…
+Austin: Is it just Griesel?
+Sylvi: No, it’s Griesel, and I think, like, a couple of my other siblings. I think mom and the twins are [Austin: Sure.] off-world somewhere.
+Austin: How many siblings do you have?
+Sylvi: [cross] I’ve invented Irish Catholics once again.
+Austin: Oh my god. [laughs]
+Sylvi: So, a lot of them. I didn’t mean to do it, but I wrote this down in my character thing, like, forever ago, that like—
+Austin: It happens. It happens.
+Sylvi: Coriolis is from a big family, and I like, took a step back and looked at everything and I was like, okay, I’m projecting, but here we are.
+[Ali chuckles]
+Austin: God. Okay. Yeah, do you say anything about Violet Cove stuff or about the Isle of the Broken Key? Is there any—
+Sylvi: Oh, I’m giving them a copy of the photo to give [Austin: Ohh.] if they see my dad or someone who knows my dad. If they see any—
+Keith: To do what with?
+Sylvi: Give to him, please.
+Ali: Oh, the photo.
+Sylvi: Yeah.
+Ali: Yeah, okay.
+Keith: The mech photo?
+Sylvi: Yeah, she’s put, like, there’s like—
+Dre: Thumbs up, I did a murder, dad!
+Sylvi: —stickers on it. Like, Line stickers.
+Keith: Oh. I misunderstood. I thought you were like, here’s a picture of my dad so that you can recognize him if you see him.
+[Austin laughs]
+Sylvi: No, no, no, no, no, no, no.
+Dre: That’s also what I thought.
+Sylvi: No, no, I don’t carry pictures of my dad around. That’s weird.
+Austin: God.
+Keith: Well, that’s why I was like, well, what do you want us to do when we find him?
+[Ali laughs]
+Sylvi: [chuckles] Give him the picture of me.
+Keith: Right, yeah.
+Austin: Being cool, quote unquote.
+Keith: Right.
+Sylvi: Being cool.
+Austin: Being, uh…
+Sylvi: If you look close, I put the funny “do you have it” panda in the corner there.
+Austin: Like, with a sticker?
+Sylvi: She, like, edited in a bunch of, like—yeah, there’s a bunch of stickers on it.
+Austin: Great. Fantastic.
+Sylvi: And whatever the, like, Twilight Mirage equivalent of Sanrio is is like covering this thing.
+[Ali laughs]
+Austin: Oh my god. The Line stickers that you can put on…
+Sylvi: Yeah. 
+Austin: Uh-huh. Except that it’s PALISADE, which means that, as always, you don’t—there’s—a touchscreen device can only do one thing. So this is a dedicated sticker device that you can scan a photo into and then it…
+Sylvi: Oh, yeah, no, trust me. She definitely has one of those.
+Austin: Yeah, okay. Perfect, good, great.
+Sylvi: How else do you label things?
+Austin: That’s true.
+Dre: It’s a good question.
+Austin: You get picked up, Phryge and Brnine, you’re gonna get picked up and—via, like, a hover car or something like that, that will fly you out to the island. You don’t have to go, like, park the ship there and get off and all that. I mean, I guess you could if you wanted to. That’s also, I guess, a viable way of doing that.
+Operation Midnight Lapidary
+Mission Setup
+[27:48]
+The rest of you, looking at this map, looking at your possibilities. Do you have any thoughts about whether you prefer—where would you like in your heart of hearts to engage this target and keep her from getting to point Zircon here? What are your initial, just, gut feelings looking at this nonsense I’ve laid out in front of you?
+Dre: Hm. So the only guaranteed place where we know where—she? Do we know that the target’s she—
+Austin: She.
+Dre: Okay.
+Austin: Gem is, you do know, she/her.
+Dre: Okay. Is this area that’s between the rapid response zone and then the seneschal patrol zone?
+Austin: That’s correct.
+Dre: And it’s—
+Austin: This is the only place—now, it will be—it’s a gravtrain, you know that, like, that train probably has defenses. But you do know, yeah, she’ll be on it in that point, at that exact point, for sure. And then, presumably, she’ll be in the city of Everson, the small town of Everson, or, I guess, the small city slash big town of Everson, for long enough to transfer from one place to another place. If you told me that you wanted, like, Figure—if you told me that you wanted to try to figure out which one she was taking or impact which one she was taking, we could talk about what that was like.
+Dre: Ooh.
+Austin: Do you know what I mean? If you had ideas around that stuff. Really, I’m trying to, like, Hitman it a little bit and give you the big picture, and you tell me how you want to intercede, you know?
+Dre: So, I hadn’t thought about basically trying to force her into a specific route.
+Austin: Mhm.
+Dre: But I do like that. One of those is easy, we just blow up the maglev coming out of the city.
+Austin: [chuckles] Right. Yeah, that would then knock that one off as, like, a potential route for good, right? In fact, I think you probably suspect that even just threatening one of these would push her closer to choosing one of the other ones, right? You didn’t—you wouldn’t have to, like, completely destroy the train line. But, if given the option of moving into where there’s definitely, you know, an enemy versus one of the other routes, she would do maybe one of the other routes, or it would increase in chances, is really what it is. Did the rest of you on this mission have thoughts or feelings about this?
+Sylvi: Um… Cori has an objection to ambushing. [chuckles] It feels cowardly, so.
+Austin: Oh, really?
+Sylvi: [chuckles] She wants to be a hero, so like, getting the jump on someone like that when they’re not, like—it was different last time, they were already fighting people.
+Janine: Well, you can stand on the train tracks, then, and we’ll… [chuckles]
+[Austin laughs]
+Dre: Mhm.
+Austin: No, it’s—I want to have this conversation, yeah.
+Sylvi: Okay.
+[Janine chuckles]
+Sylvi (as Cori): I mean, like, I’ll deal with it. I’ll deal—if we—if that’s what the order is, I’ll do it, it’s just like… I’m not gonna be happy about it.
+Dre (as Figure): Well, so… another thing we could do, if you’re morally opposed to this, of the three of us, you are the most likely who could go unnoticed.
+Dre: Like, camera pans to the three of us here, which is the Figure, giant rock person, Thisbe, giant robot.
+[Sylvi laughs]
+Janine: Yeah.
+Austin: Uh-huh.
+Dre: And Cori, who is, like, I guess the most [laughing] quote unquote normal human one, but has eight wings.
+Sylvi: Wings flutter. Six.
+Austin: You do also have the crew, right?
+Dre: Right.
+Austin: Who you could use—as a reminder, you can—
+Dre: That’s true.
+Austin: I want to say it’s up to the number of times that you have—up to, like, the Crew score that you have, that you could roll Crew instead of rolling a different stat, if they’re the ones doing something, and you have a 3 in Crew.
+Dre: Yeah.
+Austin: So, you know, you could use them a little bit here. As Brnine mentioned, Midnite is a scout. And the crew are all a little more lowkey than the core party members are, I would say.
+Dre: Yeah, yeah, yeah.
+Austin: So, you can always use them in different ways, too.
+Dre: Yeah, I do think—so, I would propose one of two, just so—because we could play in this forever.
+Austin: Yep.
+Dre: Either we just hit hard and fast, and we try to intercept between A and—N? Or is it M?
+Austin: It’s M for malachite, please.
+Dre: Yeah, sure.
+Austin: Gucci thought very long and hard about what gem-related, precious stone-related things are—
+Sylvi: How’s Bismuth feel about that?
+Austin: Great question. Great question.
+Dre: Yeah, we’re not gonna talk about it. We’re not gonna talk about it. Or we use the crew, because we have a scout person and a tech person who’s probably very good at following our target and figuring out what route she takes. And then jumping that route based on their intel.
+Austin: I’ll also add as a thing that’s probably worth thinking about is the Blue Channel has these cloaking rituals, which is kind of how you’re able to move through the Bontive Valley at all. The Blue Channel is able to dodge radar and visual contact for at least some amount of time. Presumably it costs an amount of power, and if you draw enough attention that’s going to—it’s not gonna matter, you know what I mean? Or just by luck, you could, you know, run into a patrol that’s able to, you know, disenchant the cloaking rituals or whatever. But the kind of fictional basis for how you’re able to do a mission like this anyway, one of the reasons why you’re good as a guerrilla unit, is this part. Is the part where you’re able to be cloaked, deep undercover, you know? So.
+So which of those two appeals to the rest of you? Either—actually, did you lay out both of them? You really only laid out hit them—oh no, you did.
+Dre: Yeah.
+Austin: You said, you know, hit her before you get to point M, or track which one she picks? Is that what you kind of laid out?
+Dre: Mhm.
+Sylvi: Um… Yeah. I’m good with the—I like the tracking plan because it just gives us kind of, like… I don’t know. I was gonna be, like, it gives us more flexibility, but it also does present the risk of if something goes wrong with them tracking, like…
+[Austin hums]
+Sylvi: Eh. No, I like the tracking one, because then I can just be in position. And, you know, we can have a fair fight if they want to fight, you know?
+Austin: I’ll give you, like, a little extra here too, which is like, each of those other possible routes carries their own difficulties, right?
+Dre: Sure.
+Austin: You go by train, you’re gonna—again, it’s gonna be a train filled with people, and also, you don’t know who else is on board, or what. It’s also gonna get into Kesh territory fairly quickly. See where I have marked the Kesh border here? You don’t know if Kesh has a rapid response zone, because the Cause isn’t particularly active all the way down there.
+You can’t really tell on this map, but that northeast area is one of the fronts of the war between what you know is Jade Kill, which is the Joyous Guard group, the group from, again, the Wagon Wheel game with the Delegates, the group called Reunion, they are—they have, like, fought Nideo up there a bunch, and then directly to the east, the various—the Concrete Front which now, also, is allied with, like, the Oxblood Clan, Company of the Spade, those folks are all to the east. And so, like, that northeast area is, like, constant skirmishes back and forth, so there’s a pretty good idea of where Nideo’s people can get to quickly.
+Versus, once you pass that Kesh border, it’s like, ah, I don’t know. They can move really fast. Who knows? So that’s like, a general thing. The train is gonna get into that zone very quickly. The car will not get there as quickly, but again, cars can be—cars can take all sorts of different routes, and a car is a kind of a weird thing. You don’t want to, like, blow up the car by mistake and kill the target if, for instance, one of you wanted to kidnap her instead. And then the air route’s hard because it’s like, once you—you gotta shoot something out of the air. I don’t—do any of you have aerial? Do any of you fly? As a mech, at the mech tier.
+Sylvi: Hm.
+Dre: Hm.
+Janine: Oh.
+Austin: I know. Yeah, uh-huh. I mean, I think—
+Dre: I mean, I have ranged weapons.
+Austin: You do. And so that’s what I’m saying is, that’s a big shot, right? That’s like a big “Alright, you better not miss,” you know? Suddenly, you’re trying to shoot something out of the sky. That’s a much harder task to do before you target—you let them know, like, “Oh shit, I’m being shot at,” they’re gonna start taking evasive maneuvers. And then who knows what happens?
+Sylvi: Would it—
+Austin: Also, it spends a lot of the time across the ocean, you know? What were you gonna say, Cori?
+Sylvi: Would it be worth instead trying to just sabotage the air route, since we’re not really equipped for it, and then kind of doing a coin flip?
+Dre: Yeah.
+Austin: I think you could do that.
+Sylvi: Or stationing, like, one person at one route, one person at the other, just like, the ones that we know we can handle?
+Dre: Sure.
+Austin: I’m good with it, if that’s what—it sounds like—so, it sounds like wait until she gets to M, and then shut down the air route somehow, [Sylvi: Mhm.] presumably deny air superiority somehow, make it seem as if the air is not safe. Which feels like it might be risky. And then have someone ready to go if she leaves by car, and have someone ready to go if she leaves by train. Is that what it sounds like?
+Dre: Yeah.
+Sylvi: Yeah.
+Dre: I mean, we could also just, like—I mean, is this, like, a big airport that she is taking out of, for this air route?
+Austin: It’s actually a fairly small airport.
+Dre: Okay.
+Austin: Everson is like—if you remember, this was a place that y’all played basketball in the Wagon Wheel game, and you helped repair some some stuff, like there was a big market space.
+Dre: Sure.
+Austin: But it wasn’t—it’s not a major city. It’s gained in importance in the most recent—in the last few years, as it’s a big stop zone between the Kesh and Nideo kind of centers of power in the northwest here. And so it’s grown. I would say three years from now, it’ll be a bigger airport. Right now, it’s kind of a local airport, you know?
+Dre: Could we use our tech person on the crew to, like, hack into their, like, control tower or whatever?
+Austin: I think that could be part of your—
+Dre: To ground all flights?
+Austin: —your Lead a Sortie roll, for sure.
+Dre: Okay.
+Austin: Uh-huh. So, I think that’s a—I think that makes sense. So the aim here is shut down the air route. Who is gonna be ready to go at car route, who is gonna be ready to go at train route?
+Dre: I’ll be a train route.
+Sylvi: I’ll go car.
+Janine: I could—like, I could do either, so I don’t know…
+Dre: Yeah. I mean, I also wonder, would it be best just to have you, like, somewhere in the middle?
+Janine: Well, the thing—yeah, the thing is like, I can be aerial, personally.
+Austin: Mhm.
+Dre: Ooh.
+Janine: So maybe it makes sense for me to, like, park Mow in the middle, and then just be kind of like zipping back and forth to try and keep an eye on things, and… you know?
+Austin: This is—I just want to—this is one of those things where like, the map scale is gonna be hard to comprehend, but this is a big amount of territory. Once they—once those routes diverge, we’re talking about miles and miles between them, even though they’re next to each other on the map. Because we’re talking about an amount of territory here that’s like, a very big state, you know what I mean?
+Janine: Right.
+Austin: Or a very big province. So it’s not—I would say it’s probably too big—there will be a number of turns—
+Janine: For zipping.
+Austin: It’s too big for zipping.
+Janine: Mhm.
+Austin: It’s close enough that if you can hold it down for a turn or two, you know, we can talk about how quick could the ship bring you from point A to point B or something like that. But there will be a, like, the—an abstract passage of time before—if you’re split up, I’m gonna make it so that you’re split up for a moment.
+Janine: Mhm.
+Austin: You know what I mean? That’s real. That’s the stakes.
+Dre: Sure.
+Sylvi: I had a—the gravtrain’s probably going a lot faster than, like, a motorcade would, yeah?
+Austin: Exactly. For sure.
+Sylvi: So we might want to have the extra person there, like… two to one.
+Janine: That makes sense, yeah. And also trains are huge.
+Dre: Yeah, trains are huge.
+Janine: Mhm.
+Sylvi: Yeah. ’Cause like, if I can communicate with you guys when the car’s on the way, like—
+Janine: Yeah, that makes sense.
+Austin: Right. Yep.
+Sylvi: And like, slow it down. Yeah.
+Austin: That makes sense.
+Lead a Sortie
+[40:30]
+Austin: Alright. It sounds to me like we are ready to make this roll and see how it kicks off. Again, I’m just opening up the door for any other final thinking around this, any other final questions or prep. I guess if you have an ability that needs to be done right now before the thing starts, now would be a good time for that. So, Thisbe, I know you have to pick a number of modules, right?
+Janine: Yeah. I’ve picked—I lost my tab here. I picked the Quintessence Cannon and my Propulsion Suite for aerial.
+Austin: Sounds good. Perfect. The Quintessence Cannon, a very strong hidden weapon on Thisbe, which will come up if it comes up, I suppose. Cool. Any other before we start rolling dice maneuvers?
+Sylvi: I did get the tags for that thing I pulled off—
+Austin: Oh, nice.
+Sylvi: —the other pilot. Also, one of these I don’t think is in the book. I just added for flavor, so.
+Austin: Mhm.
+Sylvi: I’m calling it a Ripcord Flare because it is more of a bright flash when it’s pulled, Concealable for the size, Ward because it’s a defensive thing, and Loud because it is—
+Austin: That makes sense. 
+Sylvi: —a big bang, it’s a thing that’s loud. [chuckles]
+Austin: It’s a big bang, yeah. Sounds good. Alright. Holding my breath here. Do you think you are leading with wits or following a clever plan? Do you think you are leading if the mission relies on someone else on board? Or are you rolling Defy because you’re rolling into danger blind?
+Dre: It’s definitely not the last one.
+Austin: Mhm.
+Sylvi: Um…
+Austin: Part of me thinks it’s Crew, because— 
+Dre: [cross] Yeah.
+Sylvi: [cross] I was gonna say.
+Austin: —you’re relying on Hunting to do this hack.
+Sylvi: ’Cause I think—yeah, they’re the reason we have—we’re stationed like this [Austin: Yeah.] as opposed to just having one on each route.
+Austin: Mhm.
+Dre: Yeah.
+Austin: It’s true. Alright. So then I need 2d6 plus 3, you do have plus 3, Crew. Let’s see how it goes. Who wants to roll it?
+Dre: I’ll roll it.
+Austin: Alright.
+[loud click]
+Austin: Ah, crushed it.
+Dre: Let’s go. Great, great start.
+Austin: Absolutely crushed it.
+Keith: Nice.
+Austin: 11, great start. On a 10 plus, you make it to the action unscathed. So yeah, the—you get the update from Hunting who has set up shop—I don’t know, what’s—Brnine, what’s Hunting’s, like, hacking setup look like?
+Ali: Is this out of the ship, or in?
+Austin: I think it is in the airport. I think Hunting is undercover in Everson, goes to the little airport, has to do it in person, you know?
+Ali: Mhm. Um… Maybe this is, like, one of those, like—it’s like an e-book style, like, with fabric on the cover.
+Austin: [hums] Mhm.
+Ali: So he’s doing the thing of just like, “I’m waiting for my airplane.” You know what I mean? [laughs]
+Austin: [laughs] “I’m reading the news. I’m reading my book.” Yeah.
+Ali: Uh-huh. But is, you know, hacking it up, so to speak.
+Austin: Is he—in my mind, he’s nervous while doing this. Is that true? Or is he more calm and collected than I’m imagining him?
+Ali: Um, he—
+Austin: Like, I mean, obviously he rolled an 11, so it’s fine, you know? But.
+Ali: Yeah. I think that he’s doing, like, a lot of check-ins. He’s maybe doing more of the, like, “Okay, I’m logged in,” and then like talking through the, like, the steps that he’s doing on the comms even though everybody’s like, “Who cares?” [laughs]
+[Austin laughs]
+Keith: Just a guy talking to his e-book.
+[Ali and Austin laugh]
+Austin: Like you do.
+Ali: Like we don’t have to know that you’re like, in the second mainframe, you know?
+Austin: Incredible. Yeah, uh-huh. Yeah, just get the job done.
+Keith: “I’m hacking into the mainframe. Okay, I’m hacking into the second mainframe.”
+Austin: “I’m double mainframe’d up right now.”
+[Sylvi laughs]
+Austin: He does it. All flights out of Everson have been canceled for the evening. And I think we get just a great shot of the airport. Of like, all of the—they have, like, the old style, like, train ETA, like the boards, you know what I’m talking about?
+Keith: Like the ticker boxes?
+Austin: The ticker boxes that make that nice click-clack sound as it’s like canceled, canceled, canceled, canceled. And it’s just this like, quiet gray shot of the interior of this small airport that does feel more like a bus depot than an airport. And two things happen at once. The first is the sound of thunder, a low thunder, not a heavy thunder yet, as rain begins to drop on the town of Everson. The second is someone looking out the windows up at the sky, and saying, “I wonder if that’s why.” And there are clouds in the evening sky as the sun begins to set that maintain the color of the sunset.
+This is an aftereffect, a sort of aftershock of the arrival of the fleet from the Twilight Mirage, unintentionally, the trip that they took here, the large scale fleet that arrived, kind of brought some of the Mirage with them. It doesn’t cover the planet, it doesn’t extend such that the planet is within the Mirage now, but there are sort of clouds of it gathering here and there as part of the weather system. And so looking up in the sky now there is just this sense of strange color that hangs over this entire Sortie. As you can look up and see, not in the distance, the Twilight Mirage, the nebula, but here, you know, at the level of the atmosphere. And it’s even in some of the early rain droplets, they fall and are like—almost like small drops of paint, bright blue and purple and pink and orange as it drizzles color on Everson. Alright. Let’s roll 1d6. 1 to 3, it is the car route. 4 to 6, it’s the rail route. Who wants to roll that? Who’s feeling lucky?
+Sylvi: Ah.
+Austin: That sounds like you.
+Sylvi: Yeah.
+Keith: Which one is lucky? Which one is the lucky one?
+Dre: Oh, 4 to 6.
+Keith: Oh, okay.
+Austin: 4 to 6, ’cause there’s two people there at this point.
+Dre: Yeah. That’s why I [47:19 ???]
+Keith: Oh, gotcha, gotcha, gotcha.
+Sylvi: It’s a 4.
+Austin: [cross] Hey, 4, there you go. Alright.
+Keith: Nice. Rolls are going pretty good, huh?
+Austin: Yeah. So far, so good.
+Keith: That’ll hold.
+Austin: And—
+Ali: Keith.
+Austin: Keith, what are you doing?
+Keith: I said “that’ll hold”. 
+Ali: Yeah, but you said…
+Sylvi: Yeah, it’s good luck. It’s fine.
+Dre: Mhm.
+Keith: Yeah, good luck. Rolling good now is good luck for later.
+Dre: Yeah.
+Sylvi: It’s optimism, we’re manifesting.
+Austin: Uh-huh.
+Dre: Momentum.
+[Ali chuckles]
+Austin: The train begins to pull away for a second, and then it stops still in the station. And a figure flanked by two people boards it. And then there’s a sort of a split second, and it’s about to move again, and then it stops again. And then a sort of nebbish-looking functionary with a large figure, a large kind of bodyguard, also gets on board. And then the train stops at that point, and holds in position as—it’s clear that some motion is happening. And I’m guessing maybe one of your scouts, maybe this is a thing Matinee is calling back to you, at this point, being like, “Oh, they’re hooking another train car up to it before it leaves.” They’re hooking another train car up to this train, to this maglev train. And it takes about 15 minutes to get done, and then, finally, it departs. And so you have some time, you know it’s going to—you know that she’s coming this way, you know that it will be the next train coming out of Everson. Cori, you’re free to start making your way over there, but again, it will take a beat or two before you manage to make it there in time.
+Sylvi: I’m zoomin’.
+Austin: You’re zoomin’.
+The Masquerade
+[48:52]
+Let’s head over to the island of—the Isle of the Broken Key. Try as I might, it is really hard for me not to think about this place as—speaking of Hitman, the island of—what is it, Sgàil? How do I pronounce that, Janine?
+[Sylvi chuckles]
+Janine: Sgàil.
+Ketih: I don’t know. But you’re talking about the level with the rich people—
+Austin: Yeah, yeah, yeah.
+Keith: —doing their weird, like, [Austin: Uh-huh.] you know, like, occult stuff?
+Austin: And this is—
+Janine: Eyes Wide Shut meets Wicker Man meets a tech convention? Yeah.
+Austin: Yeah, yeah, yeah. Uh-huh.
+Keith: [cross] Yes. Yeah, yeah, yeah.
+Sylvi: That one scene in John Wick 2.
+Austin: Yeah, this is exactly it. And like, you know, the people—the Cause is good. But the Dim Liturgy and the Devotees are fucking weirdos.
+[Austin and Sylvi laugh]
+Keith: Yeah.
+Austin: That’s just like, the vibe. So Phrygian, Brnine, what is your masquerade look? What is the vibe as you—as we see you, like, depart your hover car, and—it’s not a red carpet, but there is a sort of like, “Right this way,” you know, that sort of thing with people with like, small domino masks on and suits, you know?
+Phrygian
+[50:00]
+Keith: Is Phrygian—like, does Phrygian have to worry about not being welcome here?
+Austin: No.
+Keith: Okay.
+Austin: People know that there is a branched aboard the Blue Channel, and in some ways, the fact that so many of these people are not from the Principal—like, no one in Violet Cove is from the Principality, right? It’s Devotees from the Twilight Mirage, and it’s the Dim Liturgy who have lived here for millennia. They don’t know what the fuck a Branched is. You’re the first Branched they’ve ever heard of, you know? [chuckles]
+Keith: Okay, yeah.
+Austin: And then all the new Twilight Mirage people, you suspect, are curious about the Branched, but they’re not, they don’t have any—they don’t have a ton of preconceived notions about you, let alone any sort of animosity. Now, are there potentially people from other parts of the Cause from the Millennium Break side who have had to fucking learn to get over their bullshit? Yes. I will not say you have not had bad experiences, because you definitely have had some bad experiences.
+Keith: Mhm.
+Austin: I suspect that no one who would be invited here, these are all people that—mm, I don’t want to say that I suspect that. That’s not true. There’s a good chance, there’s totally a chance that one of the people here does not like the Branched, still fundamentally—
+Keith: Right.
+Austin: But you are a much secondary threat to all of them, a secondary problem, if you’re a problem at all to the Bilats.
+Keith: If there are people here who are a problem for me, they’re busy doing this other thing right now, like…
+Austin: And are fundamentally in the minority in this space, right?
+Keith: Okay.
+Austin: They are a holdover from a different era. But I don’t want to close the door to that being a possibility, because that’s not how bigotry works. Do you know what I mean? It’s not like—
+Keith: [cross] Right, and it’s not—
+Austin: “And all the people who are on the good side are all good about about this,” you know?
+Keith: And I want to be realistic about it, because like, the war [Austin: Yeah.] that caused people to hate the Branched in the Principality is still happening.
+Austin: Yes, totally. A hundred percent.
+Keith: It’s like, not—it is not, like, a holdover grudge.
+Austin: No. Correct. Right, there’s a total possibility that there are people here who—here as in on Palisade in the Cause [Keith: Right.] who either directly or had family members fight the Branched in—[Keith: Right.] at the front of that, that part of the ongoing conflict, right?
+Keith: Mhm.
+Austin: So. And certainly anybody who was from the Cause, or from the Millennium Break part of the Cause, grew up in a world in which the Branched were vilified utterly.
+Keith: Right.
+Austin: And like, utterly beyond raw xenophobia to the degree of like, the devil, you know what I mean? [chuckles]
+Keith: Right. Yeah, yeah, yeah.
+Austin: So that’s—I guess beyond most contemporary xenophobia. Obviously, some xenophobia—
+Keith: Right, through a coincidence of physiology, and…
+Austin: Uh-huh. So yeah. But you don’t need to hide that you’re a Branched, for instance, to feel comfortable—
+Keith: Okay.
+Austin: I mean, you tell me if you do, is really the—that’s not on me.
+Keith: No. I think that Phrygian can judge—would be able to judge this accurately.
+Austin: Mhm.
+Keith: And has vested interest in not hiding.
+Austin: Mhm.
+Keith: Like, getting people to like them [Austin: Mhm.] is important.
+Austin: That’s a—that is a big thing in their sort of conception of themselves?
+Keith: No, I think they think it’s part of their job.
+Austin: Ah, I see. Sure. That makes sense. Yep. So what’s that mean? What’s that mean for your outfit?
+Keith: Phrygian—okay, so, Phrygian had to look up what masquerades are about. This is Phrygian’s first masquerade.
+Austin: What did they learn?
+Keith: They learned that it’s a masked party, that it’s kind of, you know, they’re kind of intense. Everyone is like, really—like, dressed up, but like, dressed out, like, doing—doing something.
+Austin: Mhm.
+Keith: And Phrygian wants to participate and has picked—there’s two main features to this outfit. Number one is their shirt. They’re wearing—I’m gonna say, like, step one is it’s Jerry Seinfeld’s puffy shirt from Seinfeld.
+Ali: Mhm. [laughing] Wait, okay. I’m so glad. Keep going.
+Austin: Yep. Uh-huh. Yep.
+Dre: Yeah, okay. Uh-huh.
+Austin: Uh-huh.
+Sylvi: Uh-huh, uh-huh.
+Keith: But it’s—it is appropriately puffy for the situation.
+[Ali continues laughing]
+Austin: Yeah. Yeah, yeah, yeah, yeah, yeah.
+Dre: Yeah, yeah, yeah, yeah, yeah.
+Austin: I gotcha.
+Keith: Right. It is what these people would look at and go “Oh my god, that is a puffy shirt,” which I think is leveled up from Earth ’90s level of puffy shirt.
+Sylvi: Is it that sort of just like, plain white, or is it a different color, or like…
+Keith: It is the sort of raggedy pirate color of—
+Sylvi: Okay, cool.
+Ali: Great.
+Keith: —the original puffy shirt. So it is like—
+Austin: Right, uh-huh.
+Sylvi: It is a cool pirate shirt.
+Keith: It is—yeah. And then the second thing is the mask—
+Austin: Even the Twilight Mirage people are like, “Now that’s a puffy shirt.”
+[Ali laughs]
+Keith: “That’s a puffy shirt.” Right, yeah. The second thing is the mask. The mask is important.
+Austin: Right there in the name. 
+Keith: It’s right in—it’s right in the name. Phrygian’s in the unique position to be able to have whatever they want there for the mask. So Phrygian has grown—
+Sylvi: Mhm?
+Keith: Do you know those—do you remember in 2010 they had the New Year’s Eve glasses that were like, 2010?
+Austin: Yeah.
+Ali: Mhm.
+Dre: Mhm.
+Sylvi: Yeah.
+Keith: Phrygian has grown that into their face, except each of the—instead of numbers, each of the—it’s letters, and each of the letters is like, a little Phrygian spelling out [Austin: Oh my god.] a letter in their own name with their body, YMCA style.
+Sylvi: Holy shit.
+Keith: So it says “Phrygian” across their face.
+Austin: How many eyes do you have in this scenario? How many lenses are there?
+Keith: Every—
+Austin: Because with the 2010 glasses, if I’m rememb—if I’m—
+Keith: Right.
+Austin: I bet there were 2020 glasses that did this too. But I—you’re right—
+Keith: Right. Oh, yeah, there were, but I just didn’t—it was—
+Austin: But the 20—yeah, uh-huh.
+Keith: Yeah, I just don’t remember them. The 2010 ones were important.
+Sylvi: If they’re 2010 glasses, they’re probably shutter shades, too.
+[Keith laughs]
+Austin: Oh my god.
+Dre: Oh, yeah, uh-huh.
+Keith: No, they were like this weird kind of plastic that doesn’t—I don’t think they—I don’t think it exists anymore.
+Austin: You don’t think the 2010 glasses plast—we lost the formula.
+Keith: [laughing] Yeah, we lost the technology for that.
+Janine: Don’t they just make those every year for different numbers?
+Austin: Yeah.
+Keith: But it’s—but it’s a different—it’s just a different—it was a different texture. I think they decided that it’s no good.
+[Austin laughs]
+Janine: Okay…
+Dre: Mhm.
+[Ali and Sylvi laugh]
+Austin: Oh. Yeah, uh-huh. So it says Phrygian.
+Janine: They made it out of, like, vuvuzela plastic, and then that got outlawed, so…
+Austin: Right, right, when vuvuzelas got outlawed on the international—yeah.
+Dre: Yeah, yeah, yeah.
+Keith: [laughing] Yeah, that’s what it was. It was knockoff vuvuzela plastic outlaw, yeah.
+[Janine groans]
+Austin: When the Hague started arresting people for—
+Janine: Oh, no, what it was, it was like that yellow paint that they can’t make anymore because the pigment for it was from car manufacturing, and they don’t make yellow cars like that anymore.
+Austin: Ohh.
+Janine: So they ran out of the paint pigment, so Daniel Smith or whoever bought it all up but then used it all up, so now you can’t get Quinacridone Gold anymore. It’s like that, but plastic. They were—it’s the vuvuzela plastic. And they’ve ran out of stock.
+Keith: Yeah. Yep. They do.
+Austin: Uh-huh. Yeah, it’s just like that. Uh-huh.
+Janine: Yeah. It’s just like all that.
+Sylvi: Yeah.
+Austin: So puffy shirt. Phrygian glasses that say “Phrygian”.
+Keith: Puffy shirt, Phrygian glasses, yeah.
+Janine: I found some good shirts for you. Some good options.
+Austin: Got it. Pants?
+Keith: Yeah. And each letter is Phrygian spelling out “Phrygian”.
+Austin: Right. Pants? Black pants? Colored pants? What’s the—shorts? No pants. Donald Duckin’ it.
+[Sylvi laughs]
+Keith: [cross] I think that the—I think it’s a simple—it’s a simple black pant meant to highlight the top half.
+[Ali chuckles]
+Austin: I see, yeah.
+Keith: This is a top half ensemble.
+Austin: Yeah, I gotcha. Tucked or untucked?
+Keith: Um, it’s—it’s a French tuck.
+Ali: Mm, okay. Yeah, yeah, yeah.
+Sylvi: Ah, mhm.
+Austin: Is there a belt? If I went looking, would I find a belt buckle?
+Keith: Yes, yeah, there’s a belt, yeah.
+Austin: Okay.
+Ali: If you went looking.
+Janine: If you really want to highlight the top half, you should be wearing black leggings.
+Dre: That’s true.
+Keith: They’re—
+Austin: I think if Phrygian showed up in black leggings, I would look at the leggings.
+[Keith laughs] [Ali chuckles]
+Keith: I don’t think Phry—
+Janine: That’s because you live in this world, where men don’t often wear leggings. Unfortunately.
+Austin: Oh, you’re right. I forgot. Yeah, uh-huh.
+Keith: Phrygian needs a—Phrygian needs a more robust material or it will tear.
+Austin: Right, fair.
+Janine: Leggings are extremely robust. [chuckles] Good leggings are more robust than normal pants.
+Dre: That’s true.
+Keith: These are black—Phrygian’s wearing black denim.
+Dre: Oh.
+Austin: You’re wearing black jeans. Oh my god.
+[Janine chuckles]
+Keith: Black jeans, yeah.
+Sylvi: Let’s go. Let’s go.
+Austin: Okay. I have the image in my head.
+Brnine
+[59:09]
+Austin: And then, walking out of the hover car with you, Brnine?
+Ali: [laughs] Hi. I’ve spent the entire time since you said to think about this illustrating [laughing] Brnine’s outfit.
+Austin: Good. Good.
+Sylvi: Let’s fucking go!
+Austin: Let me, uh—you gonna drop it in the chat here?
+Ali: I was thinking of a bunch of shit, and then I was like, I’m not gonna be able to say this, I’m not gonna be able to find an example of this.
+Austin: Mhm.
+Ali: [laughing] So, I’m just gonna post it to everybody, and then we’ll talk about it after.
+Keith: Okay, thank you. Oh yeah, Janine posted the Seinfeld—
+[Austin and Ali laugh] [Keith bursts into laughter]
+Dre: Oh, man. I’m so excited to click over.
+Janine: I—I don’t—
+Keith: [laughs] Why are you Gumby?
+[Austin laughs] [Ali continues laughing]
+Sylvi: Let’s fucking go. Let’s fucking go!
+Keith: [cross] Ali, why is—
+Janine: [cross] I don’t want to laugh, but also I want to laugh.
+Austin: [laughing] Oh, it hurts to laugh.
+Dre: [cross] Okay, Gumby. [chuckles]
+Keith: [cross] Why is Brnine Gumby?
+Sylvi: [cross] Look at Brnine’s elongated neck.
+Austin: Brnine is—’cause Brnine—that’s how Brnine’s—that’s Brnine’s skin color.
+Janine: Why do you have cartoon seagull shapes for eyebrows?
+Keith: There—
+[Ali continues laughing]
+Keith: There is more to Gumby than the color. That—that is exact Gumby proportion legs.
+Ali: I drew a stick figure.
+Austin: Mhm.
+Ali: And then they were wearing a crop top, [laughing] so I had to—
+Janine: [cross] It’s not a stick figure.
+Austin: [cross] No, no, no, look closer, look closer.
+Janine: [cross] It’s fleshed out.
+Dre: Look closer, I see it, I see it.
+Janine: No, it’s fleshed out.
+[Ali continues laughing]
+Austin: It’s fleshed out. But that’s the thing is, it wasn’t originally, because like, look at the—look behind the scarves. You can see the stick figure—
+Keith: [cross] You have to look behind the scarves.
+Janine: [cross] Oh, they’ve got like, a tiny little noodle neck, but the body and head are full. That’s horrifying.
+Austin: [cross] [laughing] The noodle neck. Uh-huh.
+Dre: [cross] Yeah, yeah, yeah, yeah, yeah.
+Ali: I had to add a torso because it was visible. [chuckles]
+Dre: Sure.
+Austin: Mhm.
+Dre: Yeah, yeah, yeah, yeah, yeah.
+Ali: Anyway. [laughs]
+Dre: That makes sense.
+Austin: Walk me through this, because there’s a lot going on. [Ali laughs] What here is new for Brnine? Because like, are the—you know what I mean?
+Janine: [cross] That’s a great question, because I need to know about the eyebrows. [Austin: Mhm.] Is that how their eyebrows always are?
+Ali: No.
+Austin: [cross] And the cat face.
+Ali: Well, that’s just—[chuckling] that’s just what—that’s what Brnine looks like.
+Austin: That’s the artist’s interpretation? Okay.
+Ali: Yeah.
+Keith: [laughs] That’s creative license.
+Janine: [cross] I thought it was like a beak. I thought it was like a downward-pointing beak.
+[Ali laughing]
+Austin: Brnine just has like a squid beak the whole time that no one’s mentioned?
+Janine: Yeah.
+Ali: So, well, this—
+Keith: It’s not notable on Partizan.
+Austin: I guess so, yeah. Alright. Top to bottom, hair color.
+Ali: Right.
+Austin: Normal, cool.
+Ali: Normal hair color.
+Austin: Yeah, uh-huh. It’s the dark red, that’s normal. Eyebrows.
+Ali: Brnine famously does not have eyebrows, I’ve said this before.
+Austin: Right. We have said this before.
+Ali: But there—[laughs] there’s a trend—
+Keith: Oh, I forgot Brnine was Super Saiyan 3.
+Ali: [laughs] There’s a trend in makeup right now, where, instead of using eyeshadow as like, “here’s a big swatch of color on my eyelid,” people will write really graphic lines.
+[Austin hums]
+Ali: That’s what’s happening here [Austin: Mhm.] in like, neon-esque colors.
+Austin: Mhm.
+Ali: And then—[laughs] instead of wearing like, an over-the-eye mask, they’re wearing a “over the bottom part of the face and neck” mask, which is like pieces of—
+Janine: A gaiter?
+Ali: [laughs] Pieces of like plastic, like, plexiglass [Austin: Ohh.] that are like, inlaid into each other, and are like, different neon tones that are—that repeat.
+Austin: Are they partially see-through? Can I see the little skinny neck back there? Or is that just an artifact?
+Ali: [laughs] I think they are partially see-through, yeah.
+Austin: Okay, okay.
+Ali: This—I drew this with a 75% opacity, and I think that’s in real life as well.
+Austin: Okay. Got it. Got it.
+Ali: That covers from like—I guess like, the cheekbones.
+Austin: Mhm.
+Ali: Here it shows like, the top of the mouth, but it should probably be like, right under the nose.
+Austin: Mhm.
+Ali: Down to the shoulders.
+Austin: Right.
+Ali: And then from the shoulders is sort of like, a white shawl situation, like a little ruffled—
+Austin: So not a puffy shirt. It’s different—but it is ruffled?
+Ali: Not a puffy shirt, but ruffles.
+Austin: Okay.
+Ali: So like, me and Phrygian—
+Austin: So you sort of match. You’re—
+Ali: [chuckles] We do a little bit.
+Austin: Okay.
+Ali: And not enough—
+Keith: I do have a question really quick and this is—
+Ali: Mhm.
+Keith: I mean no offense.
+[Ali chuckles] 
+Dre: Oh.
+Keith: Does Brnine have an extremely long neck, or was that just you trying to take the space you needed to fit all the scarves?
+Ali: Yeah. Yeah. [chuckles]
+Austin: They’re not scarves. It’s like a traffic cone, but wider, [Keith: Right.] and see-through and neon-colored.
+Ali: The proportions here are not perfect.
+Austin: Right, sure.
+Keith: Okay. So the neck—the neck really is neck-sized.
+Ali: Yeah. Yeah, yeah.
+Keith: But you needed the space for the cone.
+Austin: And that wraps all the way around. That’s not a veil. That’s not a…
+Ali: No, I think that like, goes all the way around, probably.
+Austin: Yeah, okay.
+Ali: It probably hooks onto the ear, [Austin: Sure.] and then once it gets past the cheek, it wraps around.
+Keith: Oh, so it’s an earring.
+Janine: [cross] I’m having—
+[Ali chuckles]
+Dre: Mhm?
+Janine: Thinking about—thinking about this mask thing, I’m having the most vivid memory. I don’t know if anyone else has ever had this experience, but you know the smell of a clear plastic visor?
+Austin: Yeah, uh-huh. Yeah. 
+Keith: Yeah.
+Dre: Yeah. Uh-huh.
+Janine: That.
+Austin: That is what it looks like a little bit. It does kind of have…
+Janine: I feel—like I just, I smell it from the 90s. I smell it right now.
+[Ali laughs]
+Sylvi: Drawings that give you synesthesia.
+Keith: That was my—
+Austin: Uh-huh. Now, talk—okay, so then—
+Keith: That was my favorite VH1 show, by the way. “I smell it from the 90s.” [laughs]
+[Austin and Ali laugh]
+Austin: Midriff—midriff open.
+Ali: Yeah.
+Austin: Midriff just uncovered—
+Ali: Crop top—
+Austin: Yep, mhm.
+Ali: Yeah.
+Austin: Then—
+Ali: And then, slacks that are like a pinstripe plaid of the same neon color as the like, plastic pieces.
+Austin: That are covering your face and neck.
+Ali: Yeah.
+Austin: Got it. Same exact. Not just like they’re a good match, but they’re the same.
+Ali: No, like coordinated. Yeah.
+Austin: They’re coordinated, okay. Perfect.
+Keith: Yeah, you can see the key up there with all the—with the—
+Ali: [laughing] Uh-huh.
+Austin: I see the key. I do. I do see the key. I appreciate this. I’m sure the—I’m sure the fan artists will appreciate this.
+Keith: That’s so that other artists—yeah, can—yeah.
+[Ali laughs]
+Austin: It’s very useful.
+Janine: I keep having such a hard time not seeing the crop top as a cloud coming—in like a rainbow.
+Dre: Oh, yeah.
+Janine: Like, you know the Mario Kart course with the clouds and the rainbow road?
+Austin: Oh, it’s Rainbow Road. You’ve kinda got a Rainbow Road situation going on.
+[Ali laughs]
+Janine: Yeah. Yeah.
+Austin: Just in time for the movie. Is this what you wore to the debut, to the Mario movie red carpet premiere?
+Ali: [laughs] Yeah, Brnine was definitely invited.
+Austin: Yes. Now, wait a second, because Phrygian, you didn’t descr—oh, you just have the glasses. You don’t have a mask. You have the Phrygian glasses.
+Keith: Oh, it is—it’s like—functionally, it’s a mask.
+Austin: Yeah, I mean—
+Keith: It covers like, basically the top half of my face.
+Austin: But it’s also pictures of you. So it’s not…
+Keith: Right, it’s sort of—I—
+Austin: [cross] Like, it’s a mask of a bunch of little versions of your own person.
+Keith: [cross] Right, so I wanted to sort of do a take on a masquerade that... Because there’s like, “oh, I learned all about a masquerade, but I’m not going to try—I’m going to try to take it one level further, [Austin: Mhm.] which is actually deeply revealing what I look like while still wearing a mask.”
+Austin: Mhm. Gotcha.
+Janine: That still counts as a mask, though.
+Keith: Oh, yeah.
+Janine: If you put Obama in, like, a rubber Obama mask, it’s still a mask.
+Austin: You’re not wrong.
+Keith: I don’t think anyone would say that I was breaking any rules.
+Arrival
+[1:06:04]
+Austin: And no one does. This is a very, there’s—and I don’t think the two of you are the most... Okay, well, maybe you’re the most extreme. But everybody is really—it is what you thought it was gonna be, Phrygian. People are here to show up, show off, show out. There are lots of really wild takes on what a masquerade outfit should look like. And there are also some people who are more restrained. I think the clearest of those is the Qui Err General Tomorrow Mourning, who is the—who we first met during Orbital, who’s the person in charge of this new arrival of Twilight Mirage forces.
+There’s a bunch of people here, like—high level, I don’t want to go over every single person who’s here, but like, it’s, you know, it’s dozens of people. Here are some people who happen to be here: August Righteousness, again from the Wagon Wheel game, the de facto leader of Jade Kill, the group in Joyous Guard.
+Keith: You never want to be a de facto leader. That’s not a secure position.
+Austin: No, but it’s also the one that has the most power, right? You’re the de facto leader, so.
+Keith: That’s—
+Austin: We got some pirates from Carmine Bight here, including, I think, my character from Dre, your Lancer game. Narmine Te’ketch is here. Is not like, the in-charge person here. There’s like a—we haven’t met a lot of those characters, so I don’t need to name a bunch of people, but like, there’s, you know, some pirate pseudo-royalty here. From Violet Cove itself, Griesel Sunset is here, Coriolis’s father.
+Keith: We have something for him.
+Austin: Saint Decario Dicario is here, 3T’s ex from Orbital. From Grey Pond, Jesset City is here. Shoutouts to Jesset, it’s been a minute, Jesset’s around.
+Ali: Woo.
+Austin: Baldwin Home, who did the intro to the first—to PALISADE 01, is here. A bunch of other people from each of those places are here. Candles Penumbra, who was the person who did a big chase during the first conflict turn, she’s here. There’s a bunch of people here. We can invent new people to be here. People are mingling. There are appetizers. The rain is not here, it’s just on the kind of mainland. But you can see the beautiful Twilight Mirage-style clouds hovering over the coast to the east, out in the sky. You’re—again, it’s this kind of big castle that has been converted into—I mean, what it literally is is an ancient Rapid Evening listening post, and so it was probably—it’s probably not a castle in the medieval sense. It is probably a, you know, in line with where we’ve seen Rapid Evening stuff being very like the 1800s, you know, UK-style manor houses and stuff like that. And so it’s like, a seaside manor house up on the kind of craggy cliffs. Lots of extra rooms. It’s all lit very subtly, very restrained.
+There are snacks. The meal is going to be some locally caught fish and a seaweed salad. There is music playing, but you can’t place where it’s coming from, it’s just kind of exuding into the air from all around. And you’re able to also kind of just look out onto the island itself and see just like, this is a sort of, kind of—kind of a—I’m imagining it as being sort of a cool, a very temperate kind of sea island, the kind of like, northeastern, you know, US, or northwestern US, kind of salty and a little chilly outside, but still has a sort of beauty to it. So, that is like the vibe here.
+I guess—you know, a quick note here, Brnine, you spend some time looking around and you don’t see Gucci anywhere. You thought Gucci was supposed to be here. You don’t see her here. Is that something that you... Do you send a message? Do you—or do you not even bother? Do you just like, roll with it?
+Ali: [pause] I maybe send the like, “just got here” message.
+Austin: Mhm.
+Ali: And it’s one of those things that can be read two ways, right? [Austin: Mhm.] Where it’s like, if she’s here and she wants to come talk to me, she can come talk to me. [Austin: Right.] But also, if she’s like my boss and wants to know if I’ve arrived.
+Austin: Right. Then that’s—
+Ali: She also gets that.
+Austin: Then she gets that. Okay. You don’t—
+Ali: And I’m guessing I get a read receipt on that?
+Austin: You get a read receipt on that, exactly.
+[Ali giggles]
+Operation Midnight Lapidary
+[1:10:56]
+Austin: And then we cut back—I’m moving you over to a new map. Hello.
+Sylvi: Ooh.
+Dre: Oh.
+Austin: I have to give you control of these little tokens I’ve made for each of you.
+Dre: Aw, I’m so pretty.
+Austin: You’re—yeah, you’re the one that’s, I think, pretty obvious—I think they’re pretty obvious who’s who.
+Dre: Uh-huh.
+Austin: Is that fair to say?
+Sylvi: Yeah. Loving your tree work, Austin.
+Janine: I’m the trailer, right?
+Austin: You’re the—[chuckles] you’re the trailer.
+[Dre laughs]
+Austin: Thisbe, I actually have a second one for you, just in case you end up needing Mow to be separate.
+[Sylvi gasps]
+Janine: A second one or a secret one?
+Austin: A second one. Well, they’re both—it’s both, you know?
+Janine: Okay.
+Dre: Keep it second, keep it secret.
+Austin: Uh-huh. Exactly. So then, let me give you control.
+Janine: So it’s sec-rond-onus. Gotcha.
+Austin: Well, sometimes it’s hard to talk, you know? Out loud.
+[Sylvi giggles]
+Janine: Yeah.
+Dre: Yeah, I know.
+Austin: And feel free to place yourselves here where you are. And I’ll give you—I’m going to try to paint a picture here. This is like a pastoral scene. As a reminder, it’s raining, it’s nighttime. It’s like drizzling, but it’s like drizzling neon paint colors because of it being this weird storm brought on by fog from the Twilight Mirage mixing with a regular rainstorm.
+Janine: Can I—
+Austin: Yeah.
+Janine: I don’t want to interrupt, but there’s a thing that I wanted to say when you brought this up last time [Austin: Yeah.] that I didn’t say, and can the—I feel like a trend in certain areas would be to—if your clothes—if you wore like, white clothes out and it gets stained by the Twilight Mirage rain, that’d be like a trendy thing that might be cool for some people.
+Austin: I think this is—this is the—
+Janine: Or the opposite of cool.
+Austin: Janine, this is the first time it’s happened. So, that can develop in the future—
+Janine: [cross] But I’m saying like, it would become, like—it’d be exciting, like, “hey—”
+Austin: Yes. Sure. “I have the Twilight Mirage—I have painted—”
+Janine: Yeah. I’m just putting that idea in your head. Anyway.
+Austin: So for instance, if the—if Phrygian’s Jerry Seinfeld puffy shirt got rained on, it would be hipper. It would be cooler.
+[Dre gasps]
+Janine: Tie-dye pirate shirt.
+Austin: Right. Uh-huh. Yeah.
+Sylvi: Ooh.
+Austin: Twi-dye for Twilight Mirage. Twi-dye.
+Dre: Sure.
+Janine: Ooh.
+Keith: And whatever you think would happen to like, you know, a very nice linen shirt in the rain, it does the opposite.
+Austin: Mhm. It’s just better. It doesn’t ruin it.
+Keith: It gets taller and lighter.
+Austin: [laughs] Yeah, uh-huh. It doesn’t get wet and damp and sticky and stuck down to your body, [Keith: Mhm.] it actually just kind of makes it nice. Alright. So, again, you can place yourselves here. The image that I’ve made, the map that I have made here, for the listener, is again, a kind of a pastoral scene. It’s all green, this is the Bontive Valley, this is where there’s lots of farms. There is, in fact, a big farm kind of central, northwest-ish to this—of this map with a bunch of fields and a greenhouse and some silos and a barn and a regular house, presumably. There is a train station that presumably this train might traditionally stop at. You don’t know if it will or won’t since it’s carrying, apparently, at least one VIP. Again, your scout reported a second sort of nebbish bureaucrat getting on board [Dre: Mhm.] along with his bodyguard. So you don’t know if it’s going to stop at this train station that it’s approaching. 
+Dre: And didn’t—they also hooked it up, like a—there was like a special car that was hooked up to the back?
+Austin: They hooked up another back car at the very back end of the thing. Yes, that is correct. At the back of the train. Also, I realized I didn’t describe Gem to you, your target. In my mind, Gem is face-cast as the British actress Adjoa Andoh, who—
+Sylvi: Oh.
+Austin: That’s A-D-J-O-A, then space, A-N-D-O-H, with the nice short hair, like the very, like, the buzz cut look that she occasionally rocks. And so, you know who you are looking for. This is not—you’re not going in without any intel, I should have said that to begin with. You had a picture, or like a hologram or something cool. So you know that that’s the deal. And then there’s this train line running from the northeastern edge of the screen, then down in kind of like a curve after it hits the train station, which is this thing over here at like, J13. Then it heads west and then southwest off the map.
+But there is—this is also like, one of those train stations that has like, a repair zone. Do you know what I’m talking about? Like, it has like a—[Dre: Sure.] like a depot where busted up trains and stuff get fixed. So what you see just to the south of the main thing is another set, is like a train and a train car. Gameicons.net doesn’t have like “train, train car.” It has locomotive, like a steam locomotive. [Sylvi laughs] So we have that token. And I’ve used the—
+Janine: Did you try caboose?
+Sylvi: Ooh.
+Austin: I—Janine, I gotta tell you, I tried caboose.
+[Ali laughs]
+Janine: Yeah? Yeah?
+[Sylvi laughs]
+Austin: I am a hundred percent caboose. I’ve looked at—I have looked at all 102 vehicle icons on this thing.
+Ali: Aw.
+Austin: There ain’t no regular ass train.
+Dre: Wow.
+Austin: So—I mean, again, the locomotive does a decent job. You know what I mean? So, that’s—it’s fine. I think it comes across just fine. I’m not as happy with the caravan that I’ve had to use, this kind of RV, or like the—it’s like a camper.
+Janine: You could—um, hm.
+Austin: But it’s fine. And I could do better editing—
+Janine: [cross] There’s mine wagon.
+Austin: I know, but that’s not what it is. It’s not what it is. It’s not a mine wagon. I looked at mine wagon, [Ali chuckles] I looked at the subway, I looked at—you know, there’s all sorts of stuff, you know. I kind of like the subway train and subway, but the perspective is not right for what we need anyway.
+Janine: Yeah.
+Austin: So. You know the train will be coming, and you can hear it coming from the northeast, but I wanted to give you some time to try to set up and tell me where you’re posting up ahead of this—this arrival. And again, you’re in these big mechs. The scale here is abstract to some degree, right? Like, think of each tile here not as a simulation of a particular amount of space, but more of like, this is where you’re exerting your control a little bit. Do you know what I mean? Like, you might be as big as one of these silos, for sure. But I bet these fields are a little bit bigger than this, it’s just that you’re controlling that much space, in a sense. And also, we’re not—it’s not a tile-based combat system, so don’t worry too much about it. It’s just—visualization helps, I think. So.
+So what is the—what is the game plan here? This train station seems to be, you know, active. There’s a handful of people as if—waiting as if to get onto a train. There are probably a few attending, you know, synthetics, probably Delegates, who are working the train station. The depot part is all shut down for the night. Like, the kind of repair warehouses to the south beyond those bushes and trees. In my mind, the circular ones, the circular trees are a little lower than the triangular trees I’ve drawn. And then the big trees are very clearly big, and big enough to like, block line of sight or something like that. But feel free to tell me where you’re going and what your plan is for when this train arrives.
+Janine: I have a plan here.
+Dre: Pitch. I have an idea too, yours is probably much better developed.
+Janine: Oh, I wouldn’t say that. So, my thought is to screw up the tracks here, so that they have to divert the train, they have to like, hit the switch to make the train go down into this side thing.
+Dre: Mhm.
+Janine: And then we deal with it there.
+Dre: My idea was to just basically like, mess up the tracks up here so that the train derails.
+[Austin laughs]
+Janine: That might kill people. So that was where I started when I was thinking about this between sessions was like, “oh, we’ll just mess up the track and it’ll derail the train, whatever.” But then Austin gave us this little thing that sticks off here. And it’s like, “oh, that seems helpful.” That seems like a good idea, is to just force them off side, and then—because derailing, it feels like it’s really easy for that to get out of hand.
+Dre: Okay. Um—
+Janine: And also if they don’t switch, then they’ll derail anyway, so.
+Dre: Sure.
+Janine: And either way, this is a dead end. So like, they have to stop.
+Dre: Yeah.
+Austin: So your goal then is to—your pitch here is like, preemptively switch the tracks and fuck them up in such a way that they have to pull into the repair zone. [Janine: Yeah.] The like, pit stop train zone. [Janine: Yeah.] Instead of—
+Janine: And then they’ll be a sitting duck.
+Austin: And then they’ll be a sitting duck. Okay.
+Dre: My only concern is that—
+Janine: Instead of derailing where—yeah.
+Austin: Mhm.
+Dre: —is that being around a station means more people to like, make a call to someone to get more heat. Whereas I think if we—
+Janine: Hm, true.
+Dre: I mean, like, obviously if something blows up up here, like somebody’s gonna see it, right? I know it’s not like super duper stealth. What if we, uh—what if we put a bunch of these trees onto the tracks? [pause] So that way it has to stop instead of being derailed.
+Janine: Hm… Well, I don’t know what our train technology is. Trains take a while to stop.
+Austin: It’s like a maglev sci-fi train, you know? It would take a while to stop. Presumably they would—I’m gonna say it’s kind of a straight shot northeast for a little while. They would see the train—they would see straight ahead for quite some time. Also, they probably have a—there’s probably some sort of train sensor or track sensor that would recognize that something is like, risking derailment ahead of time.
+Dre: Oh, well, see, they don’t even—we don’t have to worry about the train derailing. Then we’ll just blow up the track and it’ll stop. It’s fine.
+[Sylvi laughs]
+Austin: [laughs] These are all—this is all up to dice rolls, Dre. You know? At the end of the day.
+Dre: What I’m hearing is it’ll be fine.
+Janine: What ab—okay, we can do a two-pronged thing, right? We can—we can—Plan A could be trees on the tracks. Plan B is messing up this section of track here so that like, if they—you know, we—sort of like a, yeah, a two-pronged thing [Austin: Can I—] of like—yeah?
+Austin: I want to zero in on some character stuff here, because I think that we understand what the two different prospective plans are. Figure, do you care if peop—if civilians get hurt here? And then Thisbe, same question.
+Dre: Um… Abstractly, yes.
+[Sylvi chuckles]
+Ali: [scoffs] How abstract? [laughs]
+Sylvi: Yeah, wait.
+Dre: I mean, do we even know that there’s like, a conductor in this train? Is it just a robot?
+Austin: “Just a robot.” Jesus christ. [laughs]
+Dre: That’s like—well, okay—
+Janine: Uh…
+[Austin laughs]
+Dre: Is it just like—is it just like, a, like—is it like, remote-controlled or something?
+Austin: You know that there are—I suspect that—you don’t know how these trains work, is actually a true fact, right?
+Dre: That’s fair.
+Austin: You don’t know.
+Dre: Yeah.
+Austin: You don’t know if there’s—again, and it could be—this is a culture that runs on slavery. We know that the Delegates take up those roles. So we do know that there’s a total chance that it could be that. We also—
+Dre: Well, that’s bad. Okay.
+Austin: We also don’t—but we also know this is like an ancient train system that they have kind of set back up that predates the existence of the Delegates. So maybe it runs on its own internal computers. You don’t—you don’t know.
+Dre: Yeah.
+Austin: You do know there are other people on the train. You don’t know, you know, how many of them are from the Fabreal Duchy, how many of them are from—are people who work for the Fabreal Duchy—you don’t know.
+Dre: Yeah.
+Austin: You know, there are civilians on the train, but what “civilian” means in this scenario is a mixed—is a, you know, it’s an occupying army who’s come and joined up with an oppressive regime. Who lives in that regime? Who has access to the train? All of this stuff is messy.
+Dre: Yeah.
+Austin: So I’m not going to clarify it in such a way that means “no, there will be no innocents harmed.”
+Dre: Right, yeah.
+Austin: I instead will say this is a reality of doing the work that you do, is to encounter moments like this. I’m very curious. And I’m really saying this because I’m looking at Hooks and neither of you have Hooks that are about the, you know, value of random people, necessarily, of just civilians, but I—but there’s stuff here that you could try to elaborate or, you know, extract something from. So I’m curious for you, Thisbe, if this is tied into stuff around your beliefs around operants or anything like that. Or if it’s just who Thisbe is, that Thisbe doesn’t like it when people get hurt.
+Janine: Could you phrase the question the way you phrased it to Dre?
+Austin: What the fuck did I say? Do you care if people get hurt? Was that what I said?
+Dre: Yeah.
+Janine: Yeah.
+Austin: Something like that?
+Janine: Abstractly, yes.
+[Sylvi and Ali laugh] [Janine chuckles]
+Dre: Let’s go. [laughs]
+Janine: So like, Thisbe—Thisbe will do what it takes to get a mission done.
+Austin: Mhm.
+Janine: This is known. She doesn’t take any relish in killing people, though. [Austin: Mhm.] And—
+Keith: I thought you were going to say she doesn’t take any prisoners. [laughs]
+[Dre laughs]
+Austin: [laughs] Jesus.
+Janine: She wouldn’t take prisoners.
+Dre: Now, Mow, who knows?
+Janine: It’s a lot about what’s actually necessary.
+Dre: Yeah.
+Janine: She doesn’t want to kill people if it’s not necessary.
+Austin: Mm, mhm.
+Janine: And I think that’s as tr—well. I want to say that’s as true of enemies as it is allies, but like—or not allies, but bystanders.
+[Dre laughs] [Austin chuckles]
+Janine: But it’s—you know, enemies make it more necessary than…
+Austin: Mhm.
+Dre: Yeah.
+Janine: She would vastly prefer to not kill people.
+Austin: Mhm.
+Dre: Yeah.
+Janine: But this is not an Asimov’s Law thing.
+Austin: Right. That is—yeah.
+Dre: I would say that a non, like, blithe—blithe [pronounced “bleeth”]? Blithe [pronounced “blithe” with a hard “th”]?
+Austin: Blithe [hard “th”] is right, I think.
+Janine: Blithe? [soft “th”]
+Austin: Blithe. [soft “th”]
+Dre: [cross] Yeah. A non-blithe [hard “th”] answer for Figure is—blithe [soft “th”], there we go, thank you. Is that like, yes, Figure does care about not hurting more people than need to be, and like, not hurting innocents.
+Austin: Mhm.
+Dre: At the same time, they are struggling to see themselves as anything other than a weapon of war.
+Austin: Right.
+Dre: And also, if things are done in a very big, chaotic, explosive-y way, that also makes it easier for me to slip away with the target.
+Austin: Mhm. So, with all that said—
+Keith: Which is not just slipping away with the target for our mission. You have a second—
+Dre: Yes.
+Keith: I actually don’t know if Figure’s trying to do that second thing.
+Dre: I mean—
+Keith: Unless you already said it today.
+Dre: I don’t know. If someone said, “hey, do this or I’ll never let you drink water again.” Would you—[laughing] would you do it?
+Austin: Damn. That is kind of the thing.
+Keith: I mean, there’s a lot of… how—
+Dre: Yeah. No, I mean, it’s—
+Keith: [cross] If they could do that, then yeah.
+Dre: Yeah, it is a very complicated question. Like—
+Austin: If they’re the only person who’s ever given you water, certainly, right?
+Dre: Yeah.
+Austin: That, you know, that changes some things.
+Keith: “We’ve got water on the ship.”
+Austin: There isn’t in this scenario. That’s why I’m saying it.
+Dre: Yeah.
+Austin: So... Is this a dilemma that Figure and Thisbe have in character, or is this something that you feel like you’ve—you would have worked out coming into this? It sounds like you’re both just doing plan A and plan B, is what it sounds like.
+Dre: Yeah.
+Austin: Instead of going all the way around. 
+Janine: I can imagine they like, each came with like, “here is what—here is the approach I think would work.” [Austin: Mhm.] And unless, you know, if Figure tells Thisbe not to do her plan, then she will. But if Figure says, “let’s each do our plans,” then she’ll do that.
+Dre: Yeah.
+Austin: And Figure, did you say that?
+Dre: Mhm.
+Mission Start
+[1:26:30]
+Austin: Okay. That to me sounds like you’re Weathering the Storm, which is when you do something safely under pressure. The pressure here for Thisbe is very clearly you are moving around places where there are people, as Figure pointed out. And Figure, it sounds a little bit like, you know, you don’t want to fuck this up in such a way that like, gets a bunch of people killed or draws too much attention to you or sends up a flare. So all of that stuff is all up for grabs. In both of these cases, you’ll either be rolling Defy, Know, or Sense. I mean, I guess you could also theoretically roll Weave Magic to do this, but that feels like overkill a little bit to me. [Dre hums] But you could if you prefer to use your Channel score instead of using your Defy, Know, or Sense. I don’t think... So Defy is “to dodge, to tough it out, or strong-arm your way through.” Figure, it sounds a little bit like you’re strong-arming your way [chuckles] here if you’re cutting down trees and [Dre: Yeah.] tossing them onto that.
+Dre: Honestly, I’m probably more kicking over trees than cutting them.
+Austin: Sure, that makes sense. And then Know is “to make it through with quick thinking or the ace up your sleeve.” And Sense is “to notice quiet cues, signs of danger, or bad vibes before it’s too late.” Thisbe, it sounds like Know to me if you’re trying to like, futz with that style of like, train car stuff, you know? But I would—
+Janine: Can you read Know again? What’s Know?
+Austin: Yeah, Know is “to make it through with quick thinking or the ace up your sleeve.” I will check also to see if there is additional context in the book.
+Janine: Hm… Also, wait, do I only get to use the Input Channel once?
+Austin: No, you always get to use the Input Channel. I forgot that you had that. What’s the—
+Janine: Well, yeah, then it doesn’t matter because I’m just going to roll Input Channel, [Austin: Okay.] which I have attached to Weather the Storm. [chuckles]
+Austin: Well, there you go.
+Janine: And that just gives me the +1.
+Austin: It gives you the +1. Alright, so then, each of you roll the... [stammers] the whatever thing I said it was. I guess it’s Defy for Figure, and it’s Channel for Thisbe. So 2d6+1. Alright, that is an 8 for Thisbe.
+Dre: Woof.
+Austin: Is that—did you really—wow. Yeah, you really did roll a 6.
+Dre: Mhm.
+Austin: Oh boy. Alright, well—
+Dre: Hey, it’s fine. I’m gonna do a thing.
+Austin: Okay. Well, let’s start—
+Janine: It’s good that we did this this way.
+Austin: Uh-huh.
+Dre: Yeah.
+Austin: “On a 7 to 9 you succeed, but at some cost. It’ll keep you occupied longer than you thought, the Director will ask you to make a difficult choice, or you’ll burn a point of Spotlight as you take dramatic action.” I actually think this is “it’ll keep you occupied longer than you thought,” Thisbe, and I do think some folks catch sight of you down on the tr—are you on Thisbe mode or are you still riding around on Mow at this point?
+Janine: Um, I thought it would be cute if—[chuckles] if Mow and Thisbe like, teamworked this, so like—
+Austin: Sure.
+Janine: Mow is grabbing one track and pulling it in one direction, and Thisbe is grabbing another track [Austin: Yes.] and with her aerial propulsion thing, [Austin: Yes.] pulling it the other direction, and they’re both—[Austin: Mhm.] they’re like, kind of forking them. They’re splaying them.
+Austin: Yeah, I love that. That’s great. Actually, you know what? You do have Aerial, right? You have Aerial because you’ve chosen those—[Janine: Yeah.] that was one of your two things.
+Janine: Yep. I have Aerial and I have Cannon.
+Austin: Let’s say this was—with those, with Aerial, give me one more die, and we’ll say that this was with advantage, and we’ll see—if you don’t roll a 1, you might end up sneaking your way—I guess you have to roll a 3 or more on the second d6, or third d6.
+Janine: You’re making it scary.
+Austin: That’s the job.
+Janine: I got a 2.
+Austin: Unfortunately, it’s still a 9 because 6+2+1 is still a 9.
+Janine: Mhm.
+Austin: So still a mixed success, but Aerial should give you advantage there. So yeah, I think some folks see what you’re doing pretty obviously, even in the dark and the rain.
+Janine: Yeah, that’s fair.
+Austin: And someone like, rushes to a phone. What’s the thing you were gonna do, Figure?
+Figure
+[1:30:33]
+Dre: I’m gonna Overheat, or I guess Heat Up.
+Austin: Ah. Which says?
+Dre: When I Heat Up, I push my, uh… why did I just blank? My altar to its limits and start to heat up. You may tick Overheating to retry a roll, but I must take the second roll even if it’s worse.
+Austin: And this is a thing that anybody with a mech can do. This is just a generic, regular ass move called Heat Up. “When you push your altar to its limits and start to heat up, you may tick Overheating to retry a roll.” The original results are discarded, but yes.
+Dre: Pah!
+Austin: Dre!
+Dre: Awesome.
+Austin: How?
+Dre: Literally the exact same number.
+Janine: Wow.
+Sylvi: No…
+Dre: The exact same number on every single die.
+Austin: On every die.
+[Ali chuckles]
+Sylvi: 2 plus 3 plus 1.
+Austin: 2, 3—2 and a 3 plus the 1. Yeah, uh-huh.
+Dre: Now, I do have a thing.
+Austin: Okay.
+Dre: That when I am overheating, [Austin: Mhm.] I do get to take advantage when making a move that relies on speed.
+Austin: That’s good. Well, now you’re overheating. [Dre: Yeah.] So, that’s useful. Well—
+Dre: Can I—can I, like—I guess I don’t make that roll. I’m not overheating when I made that roll, so I can’t—yeah, yeah, yeah.
+Austin: [cross] No, you were not overheating. Now you are overheating, correct.
+Dre: Okay, cool. Yeah.
+Austin: Now we have slipped into—what goes wrong here on your side? What’s the thing that—you said you’re gonna kick these trees over, does it just not… work?
+[Janine chuckles]
+Dre: Yeah, maybe it’s just not enough trees.
+Janine: Uh…
+Austin: [scoffs] That’s like, enough trees. I’m looking at the trees, there’s enough trees.
+Dre: No, maybe I don’t kick enough trees.
+Austin: Oh, I see what you’re saying. Yes. Yeah. So yeah, so you’re in the process, there’s like—
+Dre: ’Cause like, I don’t have anything that cuts. I have a gun and I have explosives.
+Austin: Fair. And these are trees—
+Dre: And my explosives are like, “I’m gonna splinter this tree into a million pieces,” not like, [Austin: Right.] “I’m gonna tactically blow up a small part of the trunk so the tree falls over.”
+Janine: Yeah, we should have actually—
+Austin: Uh-huh.
+Janine: We could have actually [chuckles] done it the other way around [Austin: In retrospect.] because Mow is good at cut.
+Dre: Nah, it’s fine.
+Austin: Mow is good at cut. And Figure is good at rip.
+[Keith chuckles]
+Janine: It’s fine, it’s—
+Dre: Mhm.
+Austin: Yeah, it’s true. Um, the thing—here’s the thing that happens. You begin to kick these things over. You’re trying to lay them out on the track, but the speed with which you’re doing it is not where it needs to be. And it’s much too soon that you see the train approaching, and with the call that’s already gone in—and I want to be clear, this alert is a broader alert. This alert, the clock that I’ve added to the map that’s at 1 out of 4, is a general area alert, not a train alert.
+Dre: Yeah.
+Austin: The train has seen the Figure in Bismuth and the Devil’s Two Front Teeth trying to sabotage the tracks. And in fact, a blast of magnetically charged, like, spikes flings your way. I’m gonna need you to make a roll here, Dre. I think that this is [Dre: Sure.] another Weather the Storm as you try to—or, how do you react to these incoming shots?
+Dre: Um… Yeah, I mean, I think dodging.
+Austin: Yeah, okay.
+Dre: Like, my mech is small and fast. It is not very big.
+Austin: Then go ahead and give me a Defy, which now you should make with advantage because you’re moving fast, right?
+Dre: So what does advantage mean for me?
+Austin: Advantage in Armour Astir means that you roll with three dice instead of two, and you keep the highest dice, [Dre: Okay.] instead of taking just the two that you normally roll.
+Dre: Gotcha. Okay. 11.
+Austin: There we go. So yes, you manage to dodge out of the way of this incoming array of shots that comes from the second train car of this train. Now, the thing to understand about the tokens that I’m going to pull down here—each one is a train car. Each one has people in it of some—to some degree. But what I think the most important thing to understand is even if something is like a turret, it’s still just a train car underneath the turret. [Dre: Sure.] It’s not that the whole thing is a turret. So for instance, when I put the one that’s just a safe out here, it’s not just a safe. It’s also a train car. It’s just a train car that has a safe in it, or some sort of container.
+Keith: I like this—you know, the main train engine here that’s got an old-timey pistol above it.
+Austin: That is smoke from the smokestack. That is the—
+Keith: Mm… Are you sure it’s not a gun pointing backwards like anyone behind us can get shot?
+Austin: [chuckles] Yeah, that’s exactly it.
+Dre: I love Star Fox.
+Austin: Uh-huh. Alright. So yeah, it’s barreling towards you at this point, it’s firing at you. You manage to dodge these incoming kinds of magnetic pulse spike shots that threaten to pin you down. But you are well in range of its cannons, and you see that there’s a second one beginning to charge up to shoot at you. It’s moving very fast. You know, we’re talking about matters of seconds as these turns progress, just for clarity, [Dre: Mhm.] even though it might take us a little bit longer than that. And you can count six of these train cars total. For the listener at home, it’s the front engine and then a car with a turret on it, then just kind of a passenger car, then another turret one, and then two that have the safes that have, you know, stuff—stuff back there, including—the very last one is the one that your scouts saw add to the train.
+And it is about to blow past you, Figure. It’s—you did not put enough trees down there. It’s gonna roll right past you. What do you do?
+Dre: Sure. Um, so I have like a drone system. [Austin hums] They’re called restraint drones.
+Austin: Okay. What do those look like?
+Dre: Boy, that is a good question. Let me pull up—because I had an idea for this and I haven’t—I haven’t looked at my pictures in a while. So I’m trying to remember how to best describe this. Um…
+Keith: I can’t believe the person with restraint drones tried to push trees onto the track.
+Dre: Well, you know, you don’t always want to—you don’t want to make everything a nail if you’re a hammer, you know?
+Keith: No, you’re right. Right.
+Austin: You don’t want to lead with the restraint drones. It’s a bit much.
+Dre: Totally. [laughs]
+Sylvi: I’m always telling people this.
+Austin: Mhm.
+Janine: They’re not called “go for it” drones.
+Austin: That’s right.
+Dre: Yeah, totally.
+Austin: [chuckling] God.
+Dre: Gosh, I view them as just like, very—like, bone-like needles [Austin hums] that just are like—that like, kind of come off the Two Front Teeth’s back.
+Austin: Awesome.
+Dre: And just kind of like, when they’re activated, they are just constantly like, orbiting around the Two Front Teeth.
+Austin: Love it. It sounds to me like you are trying to Exchange Blows with this train.
+Dre: Sure.
+Austin: And you’re—you’re—so are they—you say they’re drones, so they are like, self-propelled? They’re like, moving around with Perennial magic, effectively.
+Dre: Mhm. Yeah.
+Austin: Okay. I will tell you, I don’t think that this uses your thing that gives you advantage when making speed.
+Dre: No, that’s okay. Yeah, yeah, yeah.
+Austin: I don’t think that’s what this is, but.
+Dre: Yeah.
+Austin: Okay.
+Dre: I’m trying to remember—I mean, does using the equipment tags or anything like that give me any sort of—can that be a source of advantage?
+Austin: It—the specific thing here that we would be looking at is, I think, more the approach difference, [Dre: Sure.] and there is not one—there’s no important difference here. [Dre: Gotcha.] You’re using Profane, this train is Mundane.
+Dre: Yeah.
+Austin: Neither of you have an advantage against one another.
+Dre: Okay.
+Austin: There are situations where tags on weapons can give you benefits, but in this case, what you’d be getting is the ability to restrain—
+Dre: The ability to even do this in the first place.
+Austin: Yeah, specifically to try to restrain it.
+Dre: Yeah.
+Austin: It’s also, you’ll note, your restraining familiars, your drones, are weak, which means they’re not going to penetrate armor if you’re fighting like, a big armored thing. You might still be able to restrain the thing, but you’re not going to do, like, deep damage inside of it [Dre: Yeah.] with a weapon like this. So yeah, go ahead and give me—give me Exchange Blows, which says “when you Exchange Blows with foes capable of defending themselves, roll Clash or Talk, whichever is more appropriate, and advance a Gravity Clock with them if you have one,” which you don’t have a Gravity Clock with this train as far as I know.
+Dre: Not yet.
+Austin: Uh-huh. “Declaring this train my rival.”
+[Dre chuckles]
+Austin: So yeah, go ahead. And this should be Clash, which, what’s your Clash?
+Dre: Uh, 2.
+Austin: Alright. 2d6+2.
+Dre: Okay, 8.
+Austin: Alright. On an 8, you—7 to 9, you—both you and your target are forced to take a Risk. So I’m gonna go ahead and give you—I guess, actually, you tell me what Risk you take, because as a reminder, there are two types of dangers. [Dre hums] There are Risks, which can clear during a combat, you know, sequence, if you can—you can use Cool Off to do that, you can change the fiction. But you’re being shot at this moment with similar restraining bolts. It’s almost like big, magnetized, rail spike type things.
+Actually, you know what? I think they’re actually more like staples. They’re big, like, electric—electromagnetic staples being fired at you, and like, trying to pin you to the ground. So take a Risk related to that. And I likewise will take a Risk, since we have exchanged blows. Are you similarly, maybe like, slowing the train down? Or trying—or are you trying to restrain one of these guns to prevent it from firing? What is the thing you’re looking to do with your attack?
+Dre: Yeah, I mean, the goal was to basically like, slow the train down.
+Austin: Yeah.
+Dre: So to either make it like, have to stop, [Austin: Mhm.] or to like, slow it down enough that I could ideally like, get back in front of it and like, um… I don’t know. So like, I think what I was—
+Austin: I think it’s moving too fast at this point for you to get back in front of it.
+Dre: Yeah. Mhm.
+Austin: But you have managed to slow it down, for sure.
+Dre: Okay.
+Austin: And I’m just gonna give it the Risk “Slowed Down”. It’s as simple as that, folks.
+Dre: Yeah.
+Austin: What are you taking?
+Dre: I guess I’ll take the Risk, like, “Under Fire”.
+Austin: Okay. Yeah, that makes sense.
+Dre: Okay.
+Austin: So you’re moving a little less—a little more carefully, you’re not moving at full speed.
+Thisbe
+[1:40:41]
+Austin: Thisbe and Mow, the train is approaching you. Do you trust your diversion here of the train tracks enough that it’ll naturally have to go into the little side place? Are you gonna wait until it does that before you take an action, or are you also gonna try to do something else as it approaches?
+Janine: Um, that clock is just a train clock, right?
+Austin: Nope, that is a general area clock. That is “people will know—”
+Janine: Oh, okay.
+Austin: That is “signal is gonna go out to other folks about this” clock.
+Janine: Gotcha. Um… I—[uncertain laughter] I—ooh. Am I just gonna stand on the fucking tracks in my big robot and be like, “give it a shot.”
+[Ali laughs]
+Sylvi: That’s so cool.
+Austin: It’s very cool.
+Dre: You shall not pass.
+Austin: Yeah, uh-huh.
+Sylvi: God. Cori’s gonna be so jealous.
+Janine: Behind—behind the Ripley, like forked-up parts, but.
+Austin: Right.
+Janine: But yeah, I think Thisbe just like, re-seats back on Mow and just like, stands there and is like, “okay, this is either gonna happen, or it’s not gonna happen.” Like…
+Austin: Alright. Yeah, I guess so. I guess fuckin’ so. Sure.
+Sylvi: Thisbe epic moments.
+[Ali and Dre chuckle]
+Austin: God, what—are you trying—here’s the actual question here, I guess. Are you trying to do something safely under pressure? Or are you trying to Exchange Blows? Are you trying to—I’m trying to see if there’s, again, a longer version of this. Are you going toe to toe with something capable of defending—I think you are going toe to toe. Literally toe—like, quite literally.
+Janine: Yeah, I think Thisbe is—I think despite having pulled the tracks up, Thisbe is braced for like, “and if this train comes at us…”
+Austin: Right, yep. Yep.
+Janine: “Something, something, something,” like, there will be some, you know. She’s not accepting it as a given that the plan will work, and she’s not like standing there like, to brag.
+Austin: Yeah, totally.
+Janine: It’s just like—this is like, plan C, almost.
+Austin: Absolutely. Alright, give me a Clash. 2d6 plus Clash, your Clash is 2. So 2d6+2.
+Janine: That’s a 9.
+Austin: That is a 9. We—once again, we’ll be exchanging Risks. The good news is this is its second Risk. This train is a main character, for our intents and purposes.
+[Sylvi laughs]
+Austin: So it’s not quite—it’s not quite defenseless yet.
+Janine: All our trains are.
+Sylvi: Yeah, I was gonna say.
+Dre: God, yeah. Uh-huh.
+Austin: That is a hundred percent true. Welcome to Friends at the Table.
+Janine: Name one train that hasn’t been. Even Fall of Magic.
+Austin: What’s—yeah, a hundred percent. What do you—what’s this look like as you—as you, you know, square up against this train—which by the way, I don’t want to undersell this—Figure, your like, bone-needle restraint drones have pierced it, and have like, begun the work of like, slowing it down ahead of Mow and Thisbe confronting it head on. So it’s already starting to—the sparks are coming up from where it’s been pinned down to the track instead of hovering the way it’s supposed to be hovering. And then there you are. What do you do?
+Janine: Uh… So it’s—to be clear, is it continuing along the route it was gonna take, or is it diverted?
+Austin: It’ll go—no, it’ll go down the thing that you set up. It’s diverted.
+Janine: Okay, okay.
+Austin: You succeeded on that roll, I’m not gonna take that from you.
+Janine: Um—
+Austin: So I’m guessing you’re like, here or something, you know?
+Janine: No, I was the other way. I was—
+Austin: Oh, oh, oh, you were the other way. Okay.
+Janine: I was like—yeah, I was here in case they didn’t divert and chose to derail.
+Austin: Gotcha, gotcha. Gotcha, gotcha, gotcha.
+Janine: I wanted to be there to like, kind of catch stuff.
+Austin: Totally.
+Janine: Just in case. Which is what makes this like, a little bit tricky. Um—
+Austin: I mean, are you just like trying to push it over, are you grabbing onto the back of it, are you… What’s Mow’s deal? Mow has, um… Mow has—
+Janine: Mow’s a melee boy.
+Austin: Industrial Arms - Melee, Intimate, Blitz are the tags on that.
+Janine: Yeah.
+Austin: Very close range, but once you’re in there, punch, punch, punch.
+Janine: Yeah, I… Are we assuming—hm. How much does Thisbe know about like, where this person is, about where Gem is?
+Austin: You have—I don’t—
+Janine: No idea?
+Austin: You know, um, you know that—
+Janine: Could be in a vault car, could be in a passenger car, could be…
+Austin: You know that they got on the pass—the thing that’s marked as a passenger car, which is the third car back, right?
+Janine: Okay.
+Austin: Counting the engine as a car, which it isn’t really, but you know.
+Janine: And what’s—just to review, because it’s been a bit. Thisbe’s version of this mission is…
+Austin: Yes. Just don’t let this person get to the point Zircon. Just don’t let them get to Carleon-Upon-Wisk.
+Janine: Okay. Just stop them.
+Austin: Just stop them. They can’t make it to the coronation, which is tomorrow morning. Or tomorrow afternoon, probably.
+Janine: Okay. Interesting. Um… would Thisbe abduct someone?
+[Austin laughs]
+Dre: Man, I’m always asking this.
+Sylvi: An abstract question.
+Janine: That’s a question I’ve never… Because the idea of her abducting this person before Figure can…
+Austin: Mhm.
+Janine: …is funny.
+Austin: I will say that will be another series of rolls, so we can start working in that direction, but.
+[Sylvi giggles]
+Janine: [cross] Yes, yeah, I know. I know. I’m just trying to like—yeah, yeah, yeah, yeah. I’m just trying to figure out what the path is. I think Thisbe’s going to try and grab the passenger car on Mow.
+Austin: Oh, that’s very fun. Yeah.
+Janine: Like, I think—you know the part where train cars join?
+Austin: Yep.
+Janine: I think it’s like a big Mow hand clamping to sever that connection and sort of seize.
+Austin: Love it. So then the—
+Janine: Which gives a good window for a Risk there. [chuckles]
+Austin: Oh yeah, a hundred percent.
+Janine: Yeah.
+Austin: I mean—
+Janine: Because that was part of what I was struggling with here was like, how does watching a train go by hurt me? [chuckles]
+Austin: Totally. No, yeah, I think you reach in—you manage to sever that, and in fact, I’m going to give it—I’m going to give it the Risk “Split” as you split the front engine and the front gun from the rear remaining four train cars, which still have their own gun. And they all seem to be independently powered. Losing connection to this, the front engine, has not—maybe there’s like a dip. There’s like that classic like, it dips off and then emergency power kicks in. [Janine: Mhm.] You can like, see the magnetic staple gun reactivate itself, in fact. And people inside are yelling and screaming. [Janine: Fair.] You tell me what the Risk is. Again, Risks are on your side, player side. So go ahead and you tell me what that Risk is for Mow’s poor hand as it slams into the—
+Janine: And this is like a temporary one, right? Not a long-term one?
+Austin: Correct. Correct. Risks—
+Janine: Okay.
+Austin: Risks can be cleared during missions.
+Janine: Okay.
+Austin: Perils cannot be.
+Janine: What is the robot equivalent of spraining your wrist?
+Austin: Great question.
+Janine: Or like, carpal tunnel? Would it be like, wrist cables getting like, a kink from the force being exerted?
+Austin: Sure.
+Janine: So like, there’s a cable in there and it’s kind of—you have to kind of work it out.
+Austin: Yeah, uh-huh. I like that. I like that. Yeah. And if you take the time and can get to a safe place, that’s totally a thing you can do.
+Janine: Yeah.
+Austin: You know what I mean? But you have to actually do that.
+Janine: Okay, I’ll put “Kinked”.
+Austin: Put “Kinked”. Go ahead and put “Kinked”. As this happens, the second train—the front train car, as it splits like that, sends an automatic signal, because you’ve done true, real damage to the train, and when you’ve done that, the alert goes up by one. You know, we get like, the visualization of a—like a beam of light shoots backwards up the tracks as if sending a message to say “uh-oh, there’s been a problem with the train.” They don’t know what the problem is. They don’t know that it’s been an attack, necessarily.
+Janine: Yeah. Train problem.
+Austin: But there is a train problem.
+Janine: Someone pulled the emergency stop. It’s fine.
+Austin: Mhm. Exactly. So yeah, so alert is up to two. Let’s use this as a moment to flip back to the party.
+The Masquerade
+[1:48:23]
+Austin: Party-goers, how is your party going?
+Keith: Uh, how much time has elapsed?
+Austin: You tell me.
+Keith: Woah.
+Austin: Well, I mean, let’s say that just generally right here, the time between these two things is going to be a little abstract as y’all hang out on—[Ali and Sylvi chuckle] in fact, I’m not gonna—I’m gonna move over even one more to just the regular-ass map. As you can see, everyone is gathered here at the Isle of the Broken Key, all of the different logos for each of the different teams are here.
+Sylvi: Oh my god.
+Austin: Just chillin’. So yeah, as much time or as little time as we want to have passed has passed, is the answer. I imagine you’ve done a little intro meet and greet. No one has said any words yet, like, no one’s done a big intro speech or anything. Or like a—no one’s called for a speech by tapping the glasses with a fork or whatever, you know?
+Ali: Mourning’s already here?
+Austin: General Mourning is here, mhm. Looks sort of severe. You know, we saw—when we last saw General Mourning, it was in the Orbital game. And I think it’s fair to say that she was—she could be harsh even then. But here, she is like, in game-time mode. She seems like she’s been—she has been pulled aside to be briefed on something two or three times. She’s being very polite to everybody, but nevertheless, I think—I don’t know, I can’t speak for you, but for people like, even someone like Jesset, Mourning is cutting a fairly imposing figure, you know?
+Ali: Mhm.
+Austin: And is sitting with, I think, probably with August Righteousness from Jade Kill. And probably, unfortunately, a thing that she does not want to be doing, sitting with Saint Decario Dicario from the Devotees, who is someone she does not trust at all.
+[Ali snickers]
+Austin: She does not trust the Cult of Devotion even a little bit, so.
+Ali: Fair.
+Keith: The first—kind of the first person around that doesn’t trust the Cult of Devotion.
+Austin: Yeah, like, as a quick reminder, the last thing that we saw from her in Orbital was taking 3T and C.T.H. Pasodoble back for justice. [chuckles] Back to like, the core of the Twilight Mirage to be, like—if not tried, at least further investigated. And yet, sometimes you have to go to war with people you don’t like, you know?
+Dre: Sometimes.
+Austin: And so, I think there’s a degree of that happening here. But there’s also live music, and there’s like, you know, like I said, appetizers, and—
+Keith: I’m chit-chatting. I’m small talkin’.
+Austin: What type of people are you talking to? Who—what type of person catches your eye?
+Keith: Um…
+Austin: Which of these—which of these logos catches your eye?
+[Dre laughs]
+Austin: That isn’t the Blue Channel one.
+Keith: I don’t know. Is it—are these the logos that are literally on the map? These right here?
+Austin: Yeah, these six logos here.
+Keith: Yeah, yeah, yeah. Okay.
+Austin: Yeah, the six different—
+Keith: I’m gonna go—I’m—I—oh, well, it’s—okay, I know Jade Kill, so not Jade Kill, but it would have been Jade Kill. I’m gonna—
+Austin: Yeah, uh-huh. Is it because of the skull, and the jade, and the…
+Keith: Yeah, I’m like, I know—[chuckles] I know a guy like that.
+[Austin, Ali, and Sylvi laugh]
+Austin: Shoutouts to Phrygian. Or shoutouts to Figure, god damn it! This is a Lem-Fero situation, which I haven’t had in years.
+Keith: Oh, no! [laughs]
+Dre: Oh, wow.
+Austin: It’s unbelievable, I keep doing it.
+Keith: So, okay—I didn’t even know—so I didn’t even mean Figure, which is really funny.
+Austin: [cross] [surprised] You didn’t mean Figure in Bismuth? Who did you mean?
+Keith: No, it just—that’s just how Branched are. That’s what I meant.
+Austin: Oh, you know—right, yeah, of course, yeah, yeah, yeah, you know a guy just like that. Yeah, yeah, yeah, I gotcha. Totally.
+[Ali laughs]
+Keith: Yeah, yeah, yeah. But it is very funny that I also know Figure, who is very—who is also like that.
+Austin: [laughs] Yes. Yes.
+Keith: No, I’m gonna go for these—I’m gonna go for the nice flowers, and the nice, the matching sort of purple-hued ocean.
+Austin: Oh, so the northeast one here?
+Keith: Yeah, yeah, yeah.
+Austin: Okay, perfect. That’s so perfect.
+[Ali snickers]
+Austin: You meet someone who is in a—they’re dressed… they’re dressed in—have you seen the TV show The Prisoner?
+Keith: No.
+Austin: Alright, do you know anything about the television show The Prisoner?
+[Dre chuckles]
+Keith: Um, no, nothing.
+Austin: Okay. So, in—
+Keith: Oh, actually, I do know about it.
+Austin: Oh.
+Keith: You told me about this and its unsatisfying ending.
+Austin: I like the ending, so, you know, that—
+Keith: Well, does it have a famously unsatisfying ending? Like, it ended weirdly?
+Austin: I think the ending’s fine. It does end weirdly, it does end weirdly.
+Keith: Because of like, production issues, isn’t that—wasn’t that—
+Austin: Mm, I think it’s just taking a big swing in an era where people are not—
+Keith: Oh, okay, maybe that, maybe that—so anyway, I vaguely remember you telling me about this show one time.
+Austin: Yeah, so, it is a 1960s kind of countercultural British spy show, theoretically, about a guy who gets stuck in a sort of faux Mediterranean village filled with people who have like the most outlandish bright colors and like mod fashion on, and he can’t figure out what side of the Cold War is running this place, and it ends up being deeply existential and stuff. This guy’s dressed like someone from this place. In fact, here is an incredible outfit. Here we go. Let’s just drop this incredible, like, not quite orange, tangerine—
+Keith: Ooh. Love the parasol.
+Austin: —peach, peach-colored cloak, bright red pants, black, like, turtleneck. And instead of having this red kind of, you know, hat on, there’s a similarly colored red full face mask, like, you know, full oval covering his entire mask—or, his entire face. But you get the impression that he’s very nervous, despite not being able to read any of his features. And he doubles in nervousness as you approach. Where do you—is this just like, are you both getting punch? Where do you—where do you strike up a conversation with this person?
+Keith: Punch is good. I was considering—I was thinking, um, you know, what do we have? What’s the—what is, uh—what’s the Divine Principality champagne? Like, the fancy beverage?
+Austin: I don’t believe we have one of these yet.
+Keith: That is—I’m looking—I want something fancy that is like, regionally specific, that like, anyone could enjoy, [Austin: Mhm.] but that annoying people get very specific about.
+Austin: Well, I guess we actually—
+Keith: I say that as an annoying person who gets very specific about a lot of things.
+Austin: We do have one drink, which is, we know that—[chuckles] we do know that the monks of the—the Sovereign Immunity monks, some of them run a lambic, like, place?
+Keith: Right. And Phrygian would love sour beer, I think.
+Austin: And Phrygian would love—a hundred percent would love a sour beer. Would love a sour beer. So yeah. You both pour yourselves—maybe he’s already there holding it. And as you approach, under his breath, he says, he says:
+Austin (as Nervous Partygoer): A face of wires crackling…
+Austin: And, as if—as if you’ve arrived to, to prove true something that he was anticipating.
+Keith: Oh, um… Oh, this is—sorry, I’m—my immediate first reaction was to be, um… was to be Lyke, and to just take it as a sign that I should also say something strange?
+[Austin and Dre laugh]
+Keith: Like, the man who knew too little accidentally getting wrapped up in a plot.
+Austin: Right. Uh-huh. Yeah.
+Keith: But I’m struggling to see why Phrygian would do that. Even though I think it would be really fun.
+Austin: Do you know that this person is presumably from this group of people who studies and worships the broken memories of the Divine Past, aka Crystal Palace? Because then you would have justification to do that. You would just also—it would also just be kind of rude. [chuckles]
+Keith: Right, I would be intentionally fucking with him.
+Austin: Yes, yes.
+Keith: Yeah. Um… So, no, I don’t know this.
+Austin: Okay.
+Keith: And so—what can you—can you—what was it?
+Austin: It was “a face of crackling wires,” or something like that, you know?
+Keith: Okay. I agree. I agree that they’re crackling, and then I make them crackle.
+Austin: A gasp, and an almost drop of the glass, [Sylvi laughs] almost drops his glass, and then brings it back and says,
+Austin: (as Nervous Partygoer): Apologies. It’s just—
+Keith (as Phrygian): Oh, it’s fine.
+Austin (as Nervous Partygoer): It’s just as the text said.
+Austin: And then sips.
+Austin (as Nervous Partygoer): A pleasure to meet you. Who are you with?
+Keith: Um, can we do a handshake?
+Austin: Yeah, of course.
+Keith: One of the arms from the Phrygian mask [Ali snickers] grows and extends out to shake the hand [Austin: Oh my god.] while both of my hands hold my drink.
+Austin (as Nervous Partygoer): To hold the brow as if it’s to hold the heart!
+Austin: He says, shaking your hand, you having confirmed another thing he’s read.
+Keith (as Phrygian): Uh… I’m—
+Austin (as Nervous Partygoer): ’Tis thus vision that will reveal the truth.
+Keith (as Phrygian): I’m really glad that you’re liking this.
+[Austin and Dre laugh]
+Austin: I think I said that on a date once, I’m pretty sure.
+[Keith laughs] [Ali and Janine groan]
+Dre: Jeez, bud.
+Austin: I wasn’t having a good time, but.
+[Ali and Dre laugh]
+Austin (as Nervous Partygoer): Apologies, I—I find myself taken by the word of truth on occasion. Um… A pleasure to meet you. Have you seen much of the castle?
+Keith (as Phrygian): Just the outside.
+Austin (as Nervous Partygoer): I hope—if you need anything, I can—I’d be happy to show you around. Who are you with again?
+Keith (as Phrygian): I’m with—
+Keith: Ooh, are we—we’re not here like, covertly, I can say that I’m here with Brnine.
+Austin: There is a bit of covertness here, right? It’s a masquerade. Two—
+Keith: Right.
+Austin: You—
+Keith: I have a mask that says Phrygian on it.
+Austin: You do have a mask that says Phrygian on it.
+[Dre laughs]
+Austin: As a reminder, generally speaking—’cause I’m not trying to get you on a gotcha—you—I mean, I’m a little bit trying to get you on a gotcha, I mean, come on. But that’s the game.
+[Ali laughs]
+Austin: I don’t play games, but, you know, this is—it’s kind of the… The Cause is not public, but everybody knows that there are various groups fighting the Principality here, right?
+Keith: Right.
+Austin: So everybody knows that the group that makes up what we call Jade Kill, which is primarily a group called Reunion that holds the Joyous Guard, that they are here to fuck up the Bilateral Intercession and the Fabreal Duchy [Keith: Okay.] and try to take some land and to, and—so that part they know, but—
+Keith: Well, Phrygian would know the sort of public-facing name of what organization that—
+Austin: Well, you are part of Millennium Break, publicly. You know, people would know—maybe they wouldn’t know you by—I mean, they might know you.
+Keith: Right.
+Austin: I don’t know. We haven’t talked about whether or not people know that Millennium Break has a Branched.
+Keith: I would say we would have to have a fake one. We would have to have something that we say we’re a part of to people that we don’t want to say [Austin: Right.] “oh, yeah, I’m the famous—”
+Austin: Well, ironically, the code names that everybody else has, Keith, are things like Jade Kill and Rose River that have no other reference.
+[Ali chuckles]
+Keith: Right.
+Austin: But yours is Blue Channel, the name of the ship you live on. [chuckles]
+Keith: Right, yeah.
+Austin: But, you know. Again, it’s likely that you are—to some—I mean, I guess this person doesn’t know you. He doesn’t seem to know you.
+Keith: I don’t know. He does seem to know me. Is this the double double agent?
+Austin: I don’t know.
+Keith: Okay. We did talk about a double triple agent.
+Austin: We did talk about a double agent, yeah.
+Sylvi: Coffee man.
+Austin: Marlon, Marlon Styx.
+Keith: Or, was that in—that wasn’t us, that was in the—
+Austin: That was in the faction game.
+Keith: Right.
+Austin: But I’m happy you remembered it. It’s an important character, Keith.
+Keith: Yeah.
+Austin: If you’re wondering, hey, has perhaps our double double agent who might also be a triple agent at any given moment found his way into a party he’s not supposed to be at, [Keith: Right.] and maybe he’s sniffing around because the book—
+Keith: Well, he’s so enthusiastic about the stuff [Austin: Mhm.] that it screams someone who would drop their whole life to join this thing, like, randomly. [laughs]
+Austin: [chuckling] Uh-huh. Yes.
+Keith: Phrygian changes the subject. Phrygian does not answer this question. I have decided that it’s too annoying.
+Austin: I gotta tell you, it sounds a little bit to me like you are trying to Weather the Storm. Or perhaps Exchange Blows with Talk, but—I don’t mean—I think you’re just trying to get away from the conversation, you know? Or you could be trying to Read the Room. Maybe you’re trying to make sense of what’s happening here. You know? That seems viable.
+Keith: Yeah.
+Austin: You tell me. Or you could just not do any of those things and not risk rolling the dice, but instead, you know, I’m gonna keep making soft moves with this person who’s inquiring about your presence, you know?
+Keith: Yeah, I—Weather the Storm… I do like Weather the Storm. Can I do—can I roll Defy on Weather the Storm to, like—
+Austin: I don’t think this is a Defy. I think this is a Sense, maybe.
+Keith: You think this is Sense?
+Austin: Defy is very much—
+Keith: You don’t think that it would be to dodge this person’s question by asking—
+Austin: I think you’re using a different sense of the word dodge than what is meant by the word “defy” generally speaking in the book.
+Keith: I don’t know. Okay.
+Austin: I’ll double-check. I’ll double-check what their initial write-up of what Defy—eh, you know, Defy is just listed as “the ability to resist pressure and power through adversity”, which I think is very broad.
+Keith: Yeah.
+Austin: But—see, Sense is the ability to read people in situations, and I feel like this is more that than Defy.
+Keith: That’s true. But as a sort of generally unreadable-seeming person…
+[Ali scoffs] [Dre hums]
+Austin: Uh-huh. Sure.
+Keith: I’m happy to roll Sense, the thing that I have one fewer things in.
+Austin: Let’s go with Sense.
+Keith: Yeah.
+Austin: Mm… let’s go with Sense.
+Keith: Okay.
+Austin: I think sense is a little more passive and based on you being like, “I’m gonna try to like, you know, just kind of guide—” you’re not like, stepping away from the conversation, you’re not—alright, that’s a success. That’s a partial success.
+Keith: Oop, oop. I rolled twice.
+Austin: Twice in a row. You rolled a 7 by mistake. You get that second 7 out of there, you know? That’s not in the—
+Keith: Is this a success?
+Austin: Yeah, 7 to 9, partial success.
+Keith: Is it—I mean, we’re not adding these 3s together.
+Austin: Yeah, yeah. We’re Powered by the Apocalypse now, 2d6 plus stat. Yeah.
+Keith: Oh.
+[Ali scoffs]
+Keith: [strained] Oh my god. I can’t keep doing this.
+Austin: It’s fine. I know, bud. It’s been a while, we’re just kicking it off—
+Keith: I swear to god last time we were playing, it was take the highest, but no, you’re right.
+Sylvi: Nope.
+Dre: No.
+Austin: No, you’re thinking—you might be thinking of you acting with advantage, where you would roll three dice and then take the two highest.
+Keith: Yeah, maybe that’s what happened to me.
+Austin: Which did happen every now and then.
+Keith: Okay. Yeah, I got a 7.
+Austin: Totally. You’re absolutely able to—you get the sense that this person is trying to get information from you. You can’t quite figure out—and I mean this genuinely—whether this is a person who’s trying to get information from you that you shouldn’t give up because they are not supposed to be here and are maybe a spy, or because they’re such a true believer that they’re desperate to run into more things that line up with the prophecies of the dead god that they worship. You know?
+Keith: Right, yeah.
+Austin: But, I will say—you have made yourself a friend, bud. This is one of those—this is the mixed success. You are not gonna lose this person all night. [Ali laughs] There’s no getting away from—
+Keith: Wow.
+Ali: None?
+Austin: None. None. And they do just introduce themselves as Em.
+Keith: Em.
+Austin: E-M, they say. Not a great—not a great spy name, frankly, [Keith: No.] but that’s what they go by, and that’s about—again, you get the sense that maybe something else is going on here, but they don’t prod more. I mean, they prod more, but they prod—
+Keith: And they’re not being subtle.
+Austin: They’re not being subtle, but they’re no longer being like “and who do you report to, and who do you da-da-da?” What do you change the subject to? What’s the new subject that you have now captivated them by?
+Keith: Um… I want to know which—where they went first when they got to the castle.
+Austin: Oh my god.
+Austin (as Em): The wine cellar. Come with me.
+Austin: And just instantly leads you away. And is gonna go room by room in this castle for the foreseeable future with you.
+[music outro - “Nothing is Stationary” by Jack de Quidt]

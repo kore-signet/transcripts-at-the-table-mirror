@@ -1,0 +1,4837 @@
+﻿Live at the Table - August 2018 - Fiasco! Pt. 1 (Audio)
+
+
+Transcriber: Cy @vlasdygoth
+
+
+
+
+JANINE: Does anyone know the intro?
+
+
+[Ali laughs]
+
+
+JACK: Do we say something different?
+
+
+KEITH: [cross] Intro to what?
+
+
+JACK: When it's a liveshow?
+
+
+ALI: Is there an intro for this one? 
+
+
+JANINE: I— [laughter] No? 
+
+
+JACK: Welcome to Live at the Table. We're four…. Schmucks. And we've arrived to give you a good time this evening. I'm—
+
+
+JANINE: That good time will include… Critical worldbuilding—
+
+
+JACK: Critical worldbuilding, smart characterization, and fun interaction between good friends! 
+
+
+KEITH: Live!
+
+
+JACK: I don't know what I'm doing—
+
+
+JANINE: [cross] And uncensored.
+
+
+JACK: My name's Jack de Quidt. You can find me on twitter @notquitereal. Who else is here? Sound off!
+
+
+KEITH: So we had this whole thing for— for the tips yesterday on who was gonna host it, um, and we decided that I was gonna host it because I was available and, and was fine doing it, and then I realized about two hours ago that we didn't have that conversation about tonight—
+
+
+JANINE: [cross] No, we didn't.
+
+
+KEITH: And I just decided not to bring it up.
+
+
+[laughter]
+
+
+ALI: Well it's clear Jack was hosting, and was throwing to somebody. [laughs]
+
+
+KEITH: My name is Keith J Carberry, you can find me on twitter @keithjcarberry you can find the let's plays that I do at youtube.com/RunButton, or the patreon for that show at contentburger.biz. 
+
+
+JANINE: Uh, I'm Janine Hawkins, I'm @bleatingheart on twitter. 
+
+
+ALI: And I'm Alicia Acampora, you can find me @ali_west on twitter, and you can find Friends at the Table @friends_table. 
+
+
+[pause]
+
+
+JACK: Amazing.
+
+
+JANINE: A— Amazing.
+
+
+[laughter]
+
+
+KEITH: Super excellent.
+
+
+JACK: That's great. Today we're gonna be playing… well firstly Austin's not here, Austin cannot be with us today, but he's here in spirit. Um, we're gonna be playing Fiasco today, a game by… Jason Morningstar? A game by Jas—
+
+
+JANINE: And we're gonna be playing a, a module specifically [cross] by Will Hindmarch.
+
+
+JACK: [cross] A game by Jason Morningstar. Yes.
+
+
+JANINE: We should say.
+
+
+JACK: We have a very special roll20 produced here by Janine. Janine, could you talk us through some of your artistic decisions here?
+
+
+JANINE: Um, I put a bunch of dirty cue cards on some dirt? Um— [she and Keith laugh] So, okay, so the module we're playing is called The Zoo. It is about a zoo? And to me, when I think zoo, I think like, woodchips and stuff. [Everyone hums in agreement.] Or like, weird painted tiles with like animal tracks painted on them, but that's really hard to find like, creative commons, so.
+
+
+KEITH: [cross] I think lined manila. 
+
+
+JACK: You don't think of an elephant?
+
+
+JANINE: I didn't think we wanted to play on an elephant. I did actually consider on the site that I use, for commercial use textures that're, that you can just fuck around with, um, they did have a picture of like, I don't know what kind of animal it was, but it was like its haunch and butt? And I was like, oh we can play a whole game of Fiasco on an animal's butt, and then I was like… yeah but it's not symmetrical, so I went with this instead. 
+
+
+KEITH: Does anybody think of a butterfly pavilion when they think of a zoo?
+
+
+JANINE: Oh yeah. 
+
+
+KEITH: Yeah… a good one.
+
+
+JACK: [cross] Mm, It's more in the Natural History Museum I, I think.
+
+
+JANINE: Yeah.
+
+
+KEITH: Really? Oh, here we have them at zoos.
+
+
+JANINE: Like, living butterflies.
+
+
+KEITH: Living butterflies, yeah.
+
+
+JACK: Oh, yeah yeah yeah. They'll, they'll show up at the Natural History Museum in London in the winter— no, in the summer. The time butterflies are happiest. [laughter] In the winter, it's an ice rink, which is completely different.
+
+
+ALI: Oh!
+
+
+JACK: So, if you haven't seen us play Fiasco before, or you haven't seen anybody play Fiasco before, it is a uh, a GM-less—
+
+
+JANINE: Joy.
+
+
+JACK: It is a joy! It's one of my favorite games, it is a GM-less game about creating complete fiasco for a group of people! We use dice to uh, sort of select aspects of a story, and then play scenes out, deciding whether or not scenes will go well or poorly, uh, and and they almost always kind of go poorly in some kind of a way, until we sort of build this tangled web of, of chaos. In and among ourselves. I think that's— is there anything else I need to say about Fiasco?
+
+
+KEITH: No. Well, we'll—
+
+
+JANINE: That's pretty fair.
+
+
+KEITH: We'll say more of it just through the course of… having to play it. 
+
+
+JACK: Yes. So Janine and I have played Fiasco before, we've played Fiasco as part of our first uh, Bluff City… for Bluff City beginning, right? It was the very first Bluff City arc.
+
+
+JANINE: Yeah. 
+
+
+ALI: Yeah.
+
+
+JANINE: I think we played it for something else, too, I have a distinct memory of playing it twice.
+
+
+KEITH: I thought there was a live— a Live at the Table before that was— I don't know, 'cause I've on— I haven't heard it, I've only heard the first one.
+
+
+JANINE: Who can say, we play a lot of games.
+
+
+KEITH: Well, it's possible that it doesn't exist cause I haven't heard it, but I definitely remember hearing the other one that you definitely did for Bluff. But I just remembered thinking that there was one out there.
+
+
+JACK: Keith and Ali, neither of you have played Fiasco before, right?
+
+
+ALI: No.
+
+
+KEITH: No, never. 
+
+
+JACK: Have you had a chance to read Fiasco?
+
+
+KEITH: Yeah, I read through the rulebook, and then I watched like two videos of people playing. One provided by Janine, and then another one.
+
+
+ALI: [cross] I watched— [laughs]
+
+
+JANINE: I'm gonna— while we have this conversation, I'm gonna roll these, all these dice cause we have to do that, and it's like a menu thing.
+
+
+ALI: Yeah.
+
+
+JACK: Yes.
+
+
+ALI: Okay, cool. 
+
+
+JACK: Uh—
+
+
+JANINE: So enjoy the boops and beeps while we figure out how to play Fiasco.
+
+
+JACK: We start by rolling this kind of, this kind of little pool of dice here in, in this very unconducive to rolling zoo surface. Um— [laughter] They just, they're landing all crooked, um, there are two… black dice and two white dice per player. And Janine is rolling all of them to try and get a sort of even spread of numbers. 
+
+
+JANINE: I could probably like draw a lasso around these and do this, but I— it's fun.
+
+
+ALI: [giggles] To do it one at a time?
+
+
+KEITH: Yeah, sometimes you just wanna roll— sixteen dice individually?
+
+
+JANINE: A lot.
+
+
+[laughter]
+
+
+ALI: Well, it's been fun watching them change, it's like a little surprise.
+
+
+KEITH: Yeah, and it's like oh, which one's coming next?
+
+
+JACK: We've got a lot of fours and threes, and the, the book does sort of suggest that when you get a pretty uneven spread, you could um, do a roll— you know. 
+
+
+KEITH: [cross] Roll over?
+
+
+ALI: [cross] Oh, those again?
+
+
+JACK: [cross] The repeats. Yeah, cause we've got a lot of— we got three—
+
+
+JANINE: This is weird, they seem…
+
+
+KEITH: Nah, we, so we don't have any ones, and we don't have— we only have one six. I think we should go with it.
+
+
+JACK: No, I think— [cross] [laughs] The game will break.
+
+
+JANINE: [cross]  I'm gonna reroll things that appear… okay, I'm gonna reroll, here's my rule, I'm gonna roll anything that appears three times in one color. So I'm gonna reroll a four, and I'm gonna reroll a three, how 'bout that.
+
+
+KEITH: Okay, deal.
+
+
+ALI: Okay.
+
+
+JACK: Sounds great.
+
+
+ALI: That's a compromise, yeah. We should say again that we're playing the—
+
+
+JANINE: [cross] Now I have three threes in the white.
+
+
+ALI: We're playing the zoo, uh… playbook?
+
+
+KEITH: Yeah, go— what is it, Who to the Zoo, is that what it's called?
+
+
+JACK: I—
+
+
+KEITH: Oh, it's called The Zoo.
+
+
+ALI: [amused] Yeah.
+
+
+KEITH: Oh just— Who, Who to the Zoo is just the very, is like, the first heading? Which I think is better of a title than just The Zoo. [laughter]
+
+
+JACK: Who to the Zoo, a new play by—
+
+
+KEITH: Who to the Zoo!
+
+
+[laughter]
+
+
+JACK: Pinter! Whose first name I've forgotten.
+
+
+JANINE: [cross] There's a fucking one, there we go.
+
+
+JACK: [cross] Oh, here we go.
+
+
+ALI: [cross] Okay. 
+
+
+KEITH: [cross] Oh, I love— I love Pinter. Who to the Zoo I think is—
+
+
+JACK: That's my favorite, you know. It has no actors.
+
+
+KEITH: It's my— Out of all the Pinter plays that are um… that are Beckett plays, Who to the Zoo is my favorite Pinter play that's a Beckett play.
+
+
+JACK: So, Fiasco uses playsets, which are kind of themed um, books. And I can actually put this up on the screen right now. I can't have roll20 and— 
+
+
+JANINE: [cross] Nice!
+
+
+JACK: Who to the Zoo, so I'm just gonna go straight to the Zoo. We've got a great picture of a, a kangaroo. And a, maybe a bit of a zebra here? This is a Fiasco playset by Will Hindmarch. And Fiasco playsets basically provide the sort of like uh, little seeds and bits and pieces that we're gonna use to put together the story. There are Fiasco playsets set in, in abbeys, there are Fiasco playsets set in cruise ships, and wild west towns, and banks, and sci-fi space stations, but we're gonna play one with a load of—
+
+
+KEITH: Castles?
+
+
+JACK: Yeah, they almost certainly—
+
+
+KEITH: Sewers?
+
+
+JACK: Almost certainly, yeah, hundred percent, hundred and ten percent.
+
+
+JANINE: There are multiple playsets about medieval and renaissance Venice, so.
+
+
+JACK: Are there really?
+
+
+JANINE: Yeah. Yes, yknow, yes, yeah. 
+
+
+JACK: Screw the zoo, let's go— [laughs]
+
+
+KEITH: Office— an office park.Not just one building, but a park of office buildings.
+
+
+JACK: Hm.
+
+
+ALI: Aaah.
+
+
+JACK: Oh, yeah, you, you know they have those. Um… so we're going to—
+
+
+KEITH: [amused] Who to the Office Park.
+
+
+[laughter]
+
+
+JACK: Is the little, it's the little-liked sequel. Um, so. We're gonna start by establishing relationships, I believe.
+
+
+KEITH: Yeah. Well, we're all friends.
+
+
+JACK: Yeah, absolutely. We've known each other for a long time. Some of us longer than others. And fictionally, we're making relationships between— how are the, how is the roll20 here laid out, Janine? Is it like—
+
+
+JANINE: I think the easiest way to do it is like, the name is to the left of the cue card that should be in use? 
+
+
+JACK: So it—
+
+
+JANINE: So like, Ali would be at the top, Jack, you're on the right, I'm at the bottom, and Keith, you're on the left?
+
+
+JACK: Yes.
+
+
+JANINE: Or we can do it the other way, but.
+
+
+JACK: That's the way I sort of assumed it was gonna go, so. 
+
+
+ALI: Okay.
+
+
+KEITH: Yeah.
+
+
+JANINE: The way to think about it is really more that the cue cards are representing the things that are between those two players, right?
+
+
+JACK: Yes. Because what we're gonna be doing is we're gonna be—
+
+
+ALI: Ohhh…
+
+
+JACK: Kind of uh, creating… characters in pairs, I think that's probably the best way to describe it, Janine? Right? Like we're creating…
+
+
+JANINE: Kinda, yeah. 
+
+
+JACK: Pairs of characters. The pairs, as it seems to stand now are Ali and me, me and Janine, Janine and Keith, and Keith and Ali.
+
+
+KEITH: Mhm.
+
+
+JACK: And so, we have a spread of dice here, and does everybody have the Who to the Zoo open in front of them?
+
+
+KEITH: Yeah. So Jack, what you— what you're saying is that… you have a relationship with the people next to you. So you and I will not make a card together, and Ali and Janine will not make a card together.
+
+
+JACK: Uh, no. 
+
+
+KEITH: Right. Wait, no I'm wrong, or no I'm right?
+
+
+[laughter]
+
+
+JACK: No, you're right. 
+
+
+KEITH: Okay, cool.
+
+
+JACK: We will not be making a card together. You and Ali will be making a card together, and you and Janine will be making a card together. 
+
+
+KEITH: Right. And you and Ali will be making a card together, and you and Janine will be making a card together.
+
+
+JACK: Yes. Yes.
+
+
+KEITH: But betwixt us, there will be no cards. 
+
+
+JACK: So we're gonna go around the table, spending the dice in the pool in front of us, to select first, uh one of these categories in relationships, do you see category one is keepers, category two is zoo hierarchy, category three is community, category four is romance, category five is illicit, and category six is the past. And there are some real doozies in here.
+
+
+JANINE: Mhm!
+
+
+KEITH: Oh, so right off the bat, I'm realizing that we are not animals. [laughter] We are the keepers of the animals.
+
+
+ALI: Mhm, unfortunately— do you wanna read the um… the like, score thing? Just so we can know…
+
+
+JACK: [cross] Yeah. Absolutely. 
+
+
+ALI: Yeah.
+
+
+JACK: So. Here we go. Actually, we should probably say where our zoo is, right?
+
+
+JANINE: Well there's a setup for this that we should maybe just, we could just read their setup, right? 
+
+
+JACK: Yeah, but um… Uh, I think we're gonna be playing in a specific zoo today. Ali, do you remember offhand if we named it?
+
+
+ALI: No. I… Janine, do you remember what the Bluff City zoo is called?
+
+
+KEITH: Is it Who To?
+
+
+JANINE: I don't think it— I think it was just called the zoo. Like, 'cause most zoos are just called like the city whatever zoo, right?
+
+
+ALI: Yeah.
+
+
+JACK: Okay.
+
+
+KEITH: Um, all the Boston zoos have different names. 
+
+
+JANINE: That's 'cause there's multiple zoos. 
+
+
+KEITH: Okay.
+
+
+JANINE: [cross] So that's just— 
+
+
+JACK: [cross] Boston Zoo North, Leopard Edition.
+
+
+JANINE: Like, the zoo in Toronto is called the Toronto Zoo. 
+
+
+ALI: Yeah.
+
+
+KEITH: By the way, don't go to the Franklin Park Zoo.
+
+
+ALI: No?
+
+
+KEITH: Don't go to the Franklin Park Zoo, what a bad zoo that is, yeah, don't do that. 
+
+
+ALI: [laughing] Okay?
+
+
+KEITH: Go— take the time to go into Rhode Island, go to the Roger Williams Zoo. Better zoo. 
+
+
+ALI: Okay.
+
+
+KEITH: One time I found a bird on the ground of the Franklin Park Zoo— [Janine groans] And it was like, seizing? And I like, carried it around—
+
+
+JANINE: [upset] Oh my God.
+
+
+[Ali sighs]
+
+
+KEITH: For like, twenty five minutes looking for a single fucking zoo employee.
+
+
+JACK: This is a sad zoo story.
+
+
+KEITH: [cross] Yeah, it was bizarre.
+
+
+JANINE: [cross] I feel like a rule of thumb with zoos is that any zoo that's like, close and convenient is probably a bad zoo.
+
+
+JACK: Yes. Yes.
+
+
+JANINE: Good zoos are like in the middle of fucking nowhere.
+
+
+KEITH: The— I do wanna say that, that I bel— I believe that the bird was suffering from some sort of, of like heat exhaustion? 
+
+
+ALI: Okay…
+
+
+KEITH: And the, and, and after carrying the bird around for about a half an hour, he did just kind of fly away.
+
+
+JANINE: Okay…
+
+
+ALI: Okay.
+
+
+KEITH: And seemed, and seemed fine.
+
+
+ALI: Yes, thank you for the follow up.
+
+
+KEITH: You're welcome. 
+
+
+ALI: Uh— [laughs] Anyways, so this is the Bluff City Zoo. Hopefully no seizing birds. 
+
+
+JACK: The Bluff City Zoo—
+
+
+KEITH: Well, it's a fiasco, so let's— we'll see.
+
+
+[laughter]
+
+
+JACK: Was a world class institution. Visited by locals and travellers alike. In the late twentieth century, it was an iconic zoo, admired and beloved. Its animals were content, its visitors happy, its staff respected. Chairman of the Zoo Board D. E. Hitchcock the fourth welcomed people to the grounds with beaming pride as his father had for a generation before. Now, D. E. Hitchcock is dead. The community takes the zoo for granted. Attendance is down. The zoo withers. The zookeepers grow desperate. Money is tight. Other, more successful zoos in other cities— fuck Trenton— sniff around the place, looking to take away animals and staff. A proposed expansion project might drum up new interest in the zoo, if the city approves the new zoning plan. But rumors persist that a multiplex is offering more money to buy up a chunk of the zoo land, displacing animals and staff forever. Are these the last days of the Bluff City Zoo? Or, can someone with powerful ambition change things for the better? So. The way this—
+
+
+JANINE: It's also— sorry, it's also worth saying that like, for setup, we— everyone needs a relationship and a relationship detail? But we also need at least one need, one location, and one object all, like not each person, but like, we need at least one of those things each, right?
+
+
+JACK: Yeah. But like, we start with relationships right, and then we…
+
+
+JANINE: [cross] Yes, yes.
+
+
+JACK: Or do we kind of all do them at once? No, we set relationships.
+
+
+JANINE: Well, I think you can— I think you can do anything, it's just like at the end you have to have… so it's easiest to just do relationships right out of the gate. 
+
+
+JACK: Right.
+
+
+KEITH: Yeah, one of the videos I played, they definitely were like yeah, you can do a need or whatever first.
+
+
+JANINE: Mhm.
+
+
+KEITH: If you wanted to. 
+
+
+JANINE: If there's like one one, and you have your heart set on that need that needs a one, or whatever.
+
+
+[Ali giggles]
+
+
+KEITH: Yeah.
+
+
+JANINE: Oh, and the last die is wild, so.
+
+
+JACK: Yes, the last die is wild and can be any number it wants, because the way we're gonna do this, we're essentially gonna buy them, right? We're gonna take one dice, say we wanna choose keepers, we'll take a one from… here, we'll take the only one from here— [laughter] That's also something to keep in mind is that you know, so we don't lock ourselves out of something we might be interested in further down the sort of, the sort of Fiasco menu. So we select a one to select keepers. And then someone else would choose, you know, uh, a detail inside that by spending a corresponding dice. Does that make sense?
+
+
+KEITH: [cross] Yeah, so you would spend a three to be Pachyderm Habitat Keeper and Great Cats Keeper.
+
+
+JACK: Yes, absolutely. Great cats, exclamation mark! 
+
+
+KEITH: Great Cats! Keeper.
+
+
+[Ali laughs]
+
+
+JACK: So, do we wanna kick off at the top, Ali?
+
+
+ALI: Um, yeah! Uh… oh that means me, okay! [laughs]
+
+
+KEITH: That's you, yeah.
+
+
+ALI: I haven't played this and I'm still like, a little shaky on the rules, so I was like hoping to—
+
+
+JANINE: [cross] Well, there's like— there is a rule.
+
+
+JACK: [cross] Well, Janine— 
+
+
+KEITH: [cross] Do you have a relationship idea with either me or with Jack?
+
+
+ALI: Um… Well, let me see. Um…
+
+
+JACK: What was the rule that you were gonna say, Janine?
+
+
+JANINE: There is a, there is a rule for deciding who goes first, which is whoever's from the smallest town, which— I don't think is… I was gonna suggest if we wanted to use a starting rule versus just starting with a person that we do whoever has been to a zoo the fewest times or something like that. 
+
+
+ALI: Oh…
+
+
+KEITH: [cross] Oh, I've been— 
+
+
+JACK: [cross]  Who's been to a zoo most recently?
+
+
+JANINE: Oh, that's a good one.
+
+
+KEITH: I went to a zoo, like, two— three years ago was the last time I went to a zoo?
+
+
+ALI: I… went to an aquarium in like—
+
+
+KEITH: Doesn't count.
+
+
+ALI: Okay, doesn't count!
+
+
+JANINE: I think that counts. That counts.
+
+
+ALI: Mm, okay.
+
+
+JANINE: The aquarium is a zoo for fish.
+
+
+KEITH: If they— if it was a zoo they'd call it a water zoo.
+
+
+ALI: Okay, but there were animals there, there were bats, there were monkeys, there was—
+
+
+JANINE:[cross]  They also have otters. That's a zoo.
+
+
+KEITH: [cross] Fine. Fine! Sounds like, sounds like a mixed habitat zoo to me. 
+
+
+ALI: [laughs] So—
+
+
+JANINE: It's been years for me, so I think it's still Ali.
+
+
+ALI: Okay, I—
+
+
+JANINE: Unless Jack…
+
+
+JACK: I don't remember the last time I went to a zoo.
+
+
+JANINE: Yeah.
+
+
+ALI: Wow!
+
+
+KEITH: Listen, Ali was just nervous on going first, and then figured out a way to make aquariums zoos, and now has to go first, so yeah, Ali's turn!
+
+
+ALI: [laughs] Okay!
+
+
+JANINE: Okay!
+
+
+ALI: So I pick one of the corresponding uh, dice from this pool here and then I also pick a relationship with either Jack or Keith.
+
+
+KEITH: Yeah.
+
+
+JACK: Uh, yes. 
+
+
+KEITH: Yeah.
+
+
+ALI: Okay.
+
+
+JANINE: Wait, do we— do we actually, I think don't we go around and do like, the relationship category first and then the detail?
+
+
+KEITH: We do— yeah, we do the category first, and then like, on someone else's turn or when it goes back to Ali, like, Ali if you make a relationship with me, then either me or you can spend a die to refine that? But your— your turn has to either be doing Zoo Hierarchy— I think the only thing we don't have is a one, so Zoo Hierarchy, Community, Romance, Illicit, or the Past.
+
+
+JANINE: Mhm.
+
+
+ALI: Okay…
+
+
+JACK: No, we do, we do have a one. We have one. 
+
+
+KEITH: We have one one?
+
+
+ALI: Okay.
+
+
+KEITH: Oh, okay, so yes. So everything, everything's on the board.
+
+
+ALI: Uuum… 
+
+
+JACK: AJ in the chat also points out that we don't necessarily need to be making relationships for ourselves here, either. We can be making relationships that we think are interesting on these cards, and then kind of divide up the cards when we know more about who these characters are?
+
+
+KEITH: Oh! Okay, that's fair.
+
+
+ALI: [cross] Okay and like, and the color of the dice doesn't matter right now?
+
+
+JACK: It doesn't matter  right now, just the number.
+
+
+KEITH: Right. Yeah.
+
+
+ALI: Okay. Then I'm gonna take this three— oh, I can't take it, anyway, I'm gonna take one of the threes and that's gonna be…. A— oh wait, no. I would take one of the fives and then it would be Illicit, and then we spend a three later to, okay.
+
+
+JACK: Yeah.
+
+
+KEITH: Mhm.
+
+
+ALI: Perfect. Then I'm gonna spend one of those fives to have an illicit relationship.
+
+
+JACK: Cool! 
+
+
+[laughter]
+
+
+JANINE: Are you able to click and move the die around?
+
+
+KEITH: No, we cannot do that. You can make it so that we can do that if you know how? I don't know how, I'm just saying.
+
+
+JANINE: [cross] I don't know how.
+
+
+JACK: Can any of us move these dice?
+
+
+JANINE: I set it so that y'all could roll them, but I need to… 
+
+
+KEITH: Um, that also is not true. We cannot roll them.
+
+
+JANINE: It's a like, right click interaction. How do I…
+
+
+KEITH: Nah, it's not. 
+
+
+JANINE: They're on the token layer. I… how… what? I set this up so carefully. And…
+
+
+ALI: It's cool!
+
+
+JANINE: I… how? Show that it's selected… they're on the right layer. There's no like, it should just be a right click thing. Shouldn't it?
+
+
+KEITH: Oh, it should.
+
+
+ALI: Sure isn't. [laughs] 
+
+
+KEITH: It should be— it should be like that.
+
+
+ALI: Do you wanna just give me one of those dice? 
+
+
+JANINE: Yeah, but I would, it'd be cool if we like had a actual solution also. [laughs] It would be cool. You wanted the five, right?
+
+
+ALI: Yeah.
+
+
+JACK: And we're putting that on this card here that is currently between us, but might also be between any of the characters.
+
+
+ALI: Okay.
+
+
+JACK: Ummmm…
+
+
+JANINE: I guess I should actually put that with Ali. That'd make more sense. 
+
+
+JACK: So now… we should probably start putting these on cards, actually, as though we're like writing down "Illicit Relationship" on the top of one card. 
+
+
+JANINE: Yeah. Well, I mean you can just write Illicit Relationship on top of that card.
+
+
+JACK: Oh, that's true. Um, Ali, do you wanna pick a card and put that on there?
+
+
+ALI: Um, yeah. 
+
+
+JACK: Okay. So I'm gonna take… let's see, what's the spread here? … We have quite a lot of twos and threes. 
+
+
+KEITH: Janine, how do I change my um, my profile picture there? I see you've got a zoo-themed one.
+
+
+JANINE: Oh, it's like a thing you have to do in your profile in roll20 and stuff.
+
+
+KEITH: What?
+
+
+JANINE: Yeah, it's a whole… 
+
+
+JACK: I'm gonna pick a two? And go for Zoo Hierarchy. And I'm gonna put that on one of these cards. Zoo… Hierarchy. Okay. Janine. 
+
+
+JANINE: Hmm. 
+
+
+JACK: Uh, that was a, I just took a two. 
+
+
+JANINE: Okay. Uh… let's see. … Um, I'm going to take a six for The Past. 
+
+
+ALI: Ooh!
+
+
+JACK: And Keith, what are you feeling?
+
+
+KEITH: Um… I was thinking… 
+
+
+JANINE: Whoops.
+
+
+KEITH: Um. Hmm. Okay, yeah, I'm, I'm gonna take the one for Keepers.
+
+
+JACK: Mm, that's a good idea, we should probably get some like—
+
+
+KEITH: We should— yeah.
+
+
+JACK: Some people on the ground here, as far as the zoo, zoo interactions go.
+
+
+ALI: [cross] Yeah.
+
+
+KEITH: I was— I was worried that some of the other, some of the detail ones were gonna be tempting enough that we might accidentally have no keepers? 
+
+
+[laughter]
+
+
+JACK: Which, you know, tells us something about the zoo, but also probably isn't ideal.
+
+
+JANINE: [cross] I mean, the thing is, we can still have keepers, like some of these relationships don't define professions and stuff, it's just the keepers' thinks are relationships between keepers specifically, right?
+
+
+KEITH: Yeah, yeah.
+
+
+JACK: Totally.
+
+
+KEITH: But I just wanna, didn't wanna lose access to that entire chain of…
+
+
+JANINE: Yeah.
+
+
+ALI: Yeah. 
+
+
+JACK: Yeah. Um, so if you put that on your card… so now, Ali.
+
+
+JANINE: What number was that?
+
+
+JACK: Oh, that was a…
+
+
+ALI: A one.
+
+
+KEITH: Should I—
+
+
+JACK: One.
+
+
+KEITH: We can, we can all still not move these, right? Except for Janine?
+
+
+JACK: Right.
+
+
+JANINE: Yeah, I'm, I'm looking up how to do that right now, that was why I needed you to repeat the number.
+
+
+KEITH: Okay, that's fine, yeah yeah yeah, no worries, sorry I— I just wanted to make sure that it wasn't just me.
+
+
+JACK: So. Ali. In Illicit Relationships we have… could you let us know what is in the Illicit Relationship category?
+
+
+ALI: Um, so in the Illicit Relationship category there is one, the would-be thief and the one with the plan. Two, betrayed by a common foe. Three, the last two who know what really happened. Four, partners in fraud. Five, the liar and the one with the evidence. And six, animal smugglers.
+
+
+JACK: Just a classic on number six.
+
+
+ALI: Mhm, yeah. I… am gonna go with what my first idea was, and take a three, which is the last two who know what really happened. 
+
+
+JACK: Incredible. 
+
+
+KEITH: What happened to everybody else?
+
+
+JACK: So we— we have some kind of an illicit relationship involving knowledge of, of something that really happened. Everyone else has disappeared.
+
+
+KEITH: Something— something shady happened, and at some point, more people knew about it, and now there's only two left.
+
+
+[Ali giggles]
+
+
+JACK: I am—
+
+
+ALI: The last two!
+
+
+JACK: Looking at Zoo Hierarchy. So. Zoo Hierarchy is board chairman and zoo custodian. Head of the department and former head of the department. Passed over for promotions today. Senior veterinarian and the new hire. Spokesperson and intern, and volunteers hired as scapegoats. [takes a deep breath, sighs] I'm happy to take suggestions here, 'cause there's a lot of kind of juicy options here.
+
+
+KEITH: Um… Honestly, I, I really like uh, I really like some sort of power play board chairman zoo custodian. This is normally not— oh, a properly functioning zoo. As far as the board chairman is concerned, would not have much interaction I think between themself and the zoo custodian.
+
+
+JACK: What is a zoo custodian?
+
+
+KEITH: Uh, like a janitor, I think?
+
+ALI: Yeah, someone who goes and cleans around…
+
+
+KEITH: Yeah.
+
+
+JANINE: Yeah. 
+
+
+JACK: Unfortunately we can't actually pick this one because we don't have a one anymore. 
+
+
+[laughter]
+
+
+KEITH: Oh!  Yep, sorry! Um… 
+
+
+ALI: Um… I… three and four are great?
+
+
+JACK: Let's see, three and four are passed over for promotions today, and senior veterinarian and the new hire. A word I can't say, apparently! 
+
+
+[Ali laughs]
+
+
+KEITH: Oh! Here's a— oh, we don't have that, access to that one either, ah, God. Volunteers hired as scapegoats is excellent. 
+
+
+JACK: Do we have a five? [cross] I'm kind of interested in the idea of zoo spokesperson.
+
+
+JANINE: [cross] We have a five. 
+
+
+KEITH: [cross] We do have a five.
+
+
+JACK: And intern! Because we don't know exactly what kind of an intern they are, either.
+
+
+ALI: Right.
+
+
+JACK: Like they don't necessarily need to be a spokes— spokesperson intern. The idea of someone who has to come out and explain to the public exactly what's going on with the zoo I feel is kind of an innately funny concept? So I'm gonna take a five and pick a, a, a spokesperson and— [typing] spokesperson and intern. 
+
+
+KEITH: Um, real quick, we, we each are building two relationships, right? Are we just gonna do the other one on the little card? Or are we doing the both on the big card?
+
+
+JANINE: It's only one relationship, but because each person drawing them is doing a relationship in a circle, you end up with two.
+
+
+KEITH: Right. That makes perfect sense.
+
+
+ALI: Oh… yeah. 
+
+
+JACK: Oh, yeah, what's the little card for, Janine?
+
+
+JANINE: The little card is if you have an object or location or need. Because we only [cross] need a minimum of one per— totally.
+
+
+JACK: [cross] Oh, I see, so the details go down here. 
+
+
+KEITH: Yeah. 
+
+
+JACK: Ah, right, now I understand how the cards work a little— a little more clearly. Um… 
+
+
+JANINE: Also, thank you to Anton in the chat who tried to give me instructions about how to do this, I don't actually know where the advanced token settings in the edit token menu are. I have no idea where this edit token menu is whatsoever! These are also technically—
+
+
+KEITH: [cross] Is that a right click for you?
+
+
+JANINE: Um, no.
+
+
+KEITH: Bummer. That was my only guess.
+
+
+JANINE: There's— well, I mean— oh wait, there's a… no, there's a thing that says edit, but I can't click it, and then when I go to advanced, there's no, it's just group ungroup. Is drawing flip horizontal, flip vertical,  or set dimensions. These are also technically not just tokens, they are, they are uh… rollable tables. So there's still a way I should be able to do this, but I don't fuckin' understand. … Anyway. [laughter] Um… okay.
+
+
+JACK: Um, yeah. A detail. 
+
+
+JANINE: [cross] It's my turn, right?
+
+
+ALI: Yeah.
+
+
+JANINE: Okay. Um… I want a three for spotlighted in the same local newspaper article?
+
+
+JACK: What are the other options there under the Past?
+
+
+JANINE: Uh, so under the Past, the choices are estranged siblings, haven't really spoken since the case was closed. [laughs] Whatever that means! Spotlighted in the same local newspaper article, last two reminders of the old zoo before the renovations, went to high school together, or one rescued the other from the fire. 
+
+
+KEITH: Cool. 
+
+
+JACK: Um… And you're picking the spotlighted in the same newspaper article?
+
+
+JANINE: Yes.
+
+
+JACK: Okay.
+
+
+JANINE: [exasperated] Oh, it's double left click? That doesn't make any sense, roll20, what are you talking about?
+
+
+[Ali laughs]
+
+
+JACK: You know, the famous mouse gesture that I don't think I've ever performed!
+
+
+JANINE: [cross] Get out of here! 
+
+
+KEITH: Oh, you do that to open a icon on your desktop!
+
+
+JACK: Oh, double left click! What the hell?
+
+
+JANINE: Also, all of these—
+
+
+JACK: I got my left and right confused. [laughs]
+
+
+JANINE: All of these are set to edit? They're already set for the thing! Everyone's supposed to be able to mess with— oh wait, controlled by, I can also, okay, okay, okay, okay. Alright. Okay. 
+
+
+[Ali laughs]
+
+
+[30:00]
+
+
+KEITH: Alright! 
+
+
+JANINE: I have to set every fucking one, are you kidding me? 
+
+
+[laughter]
+
+
+JACK: I thought you liked this bit, Janine? 
+
+
+[Janine laughs]
+
+
+KEITH: Roll20, everyone!
+
+
+ALI: Okay, Keith. It's your turn for a detail.
+
+
+KEITH: Um, yeah, it's my— so I've got Keepers. Should I run through all these different keepers?
+
+
+JACK: [cross] Yeah, go for it!
+
+
+KEITH: [cross]  It's not— these are not the most exciting ones.
+
+
+JACK: I don't know, I think that—
+
+
+KEITH: Small mammal keeper— small mammals keepers and reptile house keeper. Dolphin trainer and seal trainer. Pachyderm habitat keeper and Great Cats! Keeper. Ape Escape keeper and Monkey Land keeper. Wolf Den keeper and Australian Excursion keeper. Rainforest Adventure keeper and Safari Adventure keeper. Um, again I would, I would have loved to do small mammals and reptile house because I bet the dude in charge of the reptile house is a creep scumbag? Um… 
+
+
+[laughter]
+
+
+JANINE: That's mean. [cross]  I know a lot of cool people who like reptiles!
+
+
+KEITH: [cross] I mean, come on!
+
+
+ALI: [cross] Yeah!
+
+
+JANINE: Also, we should stay away from snakes for this game, right?
+
+
+ALI: Oh, true.
+
+
+JACK: I think we can describe snakes just so long as we don't put 'em on screen and stuff. 
+
+
+JANINE: Okay.
+
+
+KEITH: Okay.
+
+
+ALI: And you have control of the—
+
+
+JANINE: [cross] Don't get into like loving detail about gross snake things?
+
+
+JACK: Yeah, yeah yeah. Yeah. No, that would be… I'll end the stream.
+
+
+KEITH:  [cross] Um… We'll— we also don't have a five, which means we can't do an American character whose job it is to have to perform an Australian accent. 
+
+
+JANINE: Oh, God. 
+
+
+KEITH: That would've—
+
+
+JACK: We've been saved! 
+
+
+[laughter]
+
+
+KEITH: Saved, or we've been damned? Let's see… so I guess I'm going— I guess it's gotta be pachyderm habitat keeper and great cats keeper. 
+
+
+ALI: What's a pachyderm?
+
+
+JANINE: An elephant.
+
+
+KEITH: Like, elephants. 
+
+
+ALI: Oh.
+
+
+JACK:  [cross] Elephants and rhinos, right?
+
+
+KEITH:  [cross] I don't think there's any other pachyderms anymore, I think all the other pachyderms are dead.
+
+
+JANINE: I think yeah, you're right.
+
+
+JACK: Is a rhino a pachyderm?
+
+
+JANINE: Maybe.
+
+
+JACK:  [cross] [typing] Is a rhino a pachyderm...
+
+
+KEITH:  [cross] Oh, you know what? I think it's just that pachyderm is a, is a term that doesn't get used anymore? It's like, been—
+
+
+JANINE: It's one of those like, very broad categorizations that I think 
+
+
+JACK: Pachyderm—
+
+
+JANINE: Is one of those that has enough exceptions that it doesn't mean anything anymore.
+
+
+KEITH: Yeah, it's a, it's an obsolete 19th century taxonomic order of mammals that included elephants, rhinoceroses, and hippopotamuses
+
+
+ALI: Ooh, do we have a hippo? Do we have like, a big lake with a big hippo in it?
+
+
+JACK: Oh my God we absolutely have a hippo!
+
+
+KEITH:  [cross] The most dangerous animal in the world.
+
+
+JANINE:  [cross] You can— you can move your die now. That's a big one. 
+
+
+JACK: Oh, alright! I wanna, I just wanna read out a thing I found in an article called "25 Things You Might Not Know About Rhinos." Uh, 'Many years ago, zoologists grouped a number of thick-skinned species together as pachyderms, including—' [giggles] Picture this exhibit: 'Rhinos. Tapirs. Horses. Elephants. Hippos. Pigs! Peccaries. And hyraxes.'  [cross] I don't know what some of those are.
+
+
+JANINE:  [cross] That's just a category of like—
+
+
+KEITH:  [cross] [sarcastic] Well good thing we figured out that these are all the same! 
+
+
+[laughter]
+
+
+JANINE: That's just a category of like, we think their noses look kinda funny sometimes.
+
+
+[Jack gasps]
+
+
+KEITH: Horses, though, is a big standout.
+
+
+JANINE: Horses have big noses, though.
+
+
+JACK: Hang on a second! 
+
+
+JANINE: We're just used to them.
+
+
+JACK: Look at this pig!
+
+
+ALI: Okay? Where?
+
+
+KEITH: Where?
+
+
+JACK: Everybody google a peccary. 
+
+
+JANINE: Oh yeah!
+
+
+ALI: Link it. I can't— [laughs] [cross] I can't type!
+
+
+KEITH:  [cross] Is that an e, is that a ch, or?
+
+
+JACK: Uh, I'll link it. Uh…
+
+
+ALI: Thank you…
+
+
+JANINE: Is it two c's or something?
+
+
+JACK: Yeah, it's two c's. 
+
+
+JANINE: Yeah. 
+
+
+ALI: I— I don't have a keyboard again, I don't know, but it broke. [laughs]
+
+
+JACK: Oh.
+
+
+KEITH: Oh, what a fuzzy little guy!
+
+
+ALI: Oh wooow! 
+
+
+KEITH: Aw!
+
+
+ALI: Do we have one of these?
+
+
+KEITH: Oh, this is the cutest! 
+
+
+ALI: I love the shape— of.
+
+
+[Janine laughs]
+
+
+KEITH: Look at this one, this is an especially good one. … Two friends in the dirt!
+
+
+JACK: Oh, oh yeah this is the one Keith has linked me.
+
+
+ALI: Oh, that's amazing!
+
+
+JACK: I like this one, cause it looks like he has found a like creature in this cactus. Let me uh… It's, it's a… It's this little guy!
+
+
+KEITH: [laughs] Yeah, that's all, that's, cactuses are also pachyderms. 
+
+
+JACK: Yeah!
+
+
+ALI: Did you see these little babies? Hold on. Oh— [laughs] 
+
+
+KEITH: Oh, they're so little! 
+
+
+ALI: This, this guy has a great posture.
+
+
+KEITH: It's, it's probably past their bedtime.
+
+
+JACK: Oh, it's almost certainly— Oh my God they're so small! [laughter] Look at how sturdy and concerned the, the adult peccary is in this picture.
+
+
+KEITH: Oh, 'cause is clearly the elder, the elder peccary.
+
+
+ALI:  [cross] Oh yeah, yeah. 
+
+
+KEITH: [cross] Watching over the— 
+
+
+JACK: Look at the little poke-y tooth!
+
+
+ALI: Oh my god wait— there's like, how many do we have in the— like four, like a family?
+
+
+JACK: Do we— we also have an elephant and a hippo and a rhino, right?
+
+
+KEITH: [cross] Oh, we have a herd, right? There's, yeah.
+
+
+ALI: A whole herd— look at this!
+
+
+KEITH: Yeah, it's definitely— I think we've got like, it's a community, I bet there's six adults and then a, a—
+
+
+JACK:  [cross] [laughs] Oh my god. They're going on a journey!
+
+
+KEITH: Yeah, oh yeah, it's—  [cross]  they're going, they're walking to school!
+
+
+ALI: [cross] [laughs] They're going to town!
+
+
+KEITH: Someone put little backpacks on them! Someone give them backpacks. 
+
+
+JACK: Oh, okay.
+
+
+ALI: I love them...        
+
+
+JACK: So those are pachyderms. Keith, which one are you taking?
+
+
+KEITH: Uh, that's the one, pachyderms?
+
+
+JACK: Okay, one hundred percent.
+
+
+KEITH: Pachyderms, pachyderm and great cats. 
+
+
+ALI: Perfect. What a combo. 
+
+
+JACK: Incredible. Okay, so. Right off the bat, we have uh… do we have everybody now? Yeah, we do, in terms of, in terms of characters. Let's go around the table starting with Ali. 
+
+
+ALI: Oh, do I just read the…
+
+
+JACK: Just read who we've got and then we'll start adding details to it. 
+
+
+ALI: [laughs] I don't know what you mean by who we've got! Um… 
+
+
+JACK: Okay, so—
+
+
+ALI: We have like, okay.
+
+
+JACK: So uh—
+
+
+ALI: Cause before when you were like, hey, we're choosing these characters but it's not necessarily our relationships, I have no idea what that means.
+
+
+KEITH: It's like, we don't have to— like, we made one, but we don't have to end up being that one. 
+
+
+ALI: Oh, okay.
+
+
+JACK: I— yeah.  [cross]  I was just gonna be like— 
+
+
+KEITH:  [cross]  Ali, you could end up being, you could end up being the uh, spotlighted in the same local newspaper article. Like, that could end up being one of yours.
+
+
+ALI: Oh.
+
+
+KEITH: Instead of um… illicit relationship the last two who know what really happened. 
+
+
+ALI: Okay.
+
+
+KEITH: Like, you can pick yours, or it might end up that you decide that you want the other— one of the other ones.
+
+
+ALI: Okay.
+
+
+KEITH: Right?
+
+
+JACK: Yeah, I just wanted to do a recap of what we've got so far.
+
+
+KEITH: Right.
+
+
+ALI: Okay.
+
+
+JACK: In that like—
+
+
+ALI: So Keith got mine. 
+
+
+[laughter]
+
+
+JACK: Um, I've got uh, a relationship with a Zoo Hierarchy between spokesperson and intern. 
+
+
+JANINE: Um, I have a relationship from the Past, spotlighted in the same local newspaper article.
+
+
+KEITH: I have relationship between two keepers, the pachyderm habitat keeper, and the Great Cats! Keeper. Excellent cats, and you can see I actually… have some Great Cats! Down there.
+
+
+JACK: Real top-tier cats. And now we're going to add some more details to these relationships by drawing from the.. Needs, which are to get in, to get out, to get away, to get respect, to get even, or to get control. Locations: habitats, grounds, around town, the wild, at home, and behind the scenes. And objects: animals, administrative, more animals, secret, lost and found, and still more animals. And we do this in the same way that we did relationships, except we have to as Janine said, have at least one need, one object, and one location. 
+
+
+KEITH: Between the four of us.
+
+
+JACK: Yeah. Not each. Right, Janine?
+
+
+KEITH: Yeah.
+
+
+JANINE: I think so. I don't remember if we each need a need. But we also have two things left each, so like…
+
+
+KEITH: We do— I don't know if we have enough to each have a need and each have a… and have—
+
+
+JANINE: Oh that's true, right right right, you're right, you're right.
+
+
+KEITH:  [cross] And have— and have a location and have a, yeah.
+
+
+JANINE: Yeah, yeah, okay. It's fine. I forgot how this game worked. 
+
+
+ALI: [laughs] Okay. So, we have… three fours, three twos— four fours. Three twos, and a three. 
+
+
+JACK: We have a lot of fours. 
+
+
+ALI: Okay. And I'm just choosing one of these categories right now?
+
+
+JACK: Yes.
+
+
+ALI: In any of them?
+
+
+JACK: Yes, in just, the world is your oyster.
+
+
+ALI: Okay. Um..
+
+
+JACK: Which is a kind of peccary. 
+
+
+KEITH: Oh, goddammit…
+
+
+ALI: [laughs] What?
+
+
+KEITH: [disappointed] Sorry, I— I just I had this really great idea and we don't have the dice for it. 
+
+
+ALI: Oh, yeah…
+
+
+JACK: Well, remember that the last dice is gonna be wild? So.
+
+
+KEITH: Yeah…
+
+
+JANINE: And you go last, so basically you—
+
+
+KEITH: Okay.
+
+
+JANINE: Your very last thing, you don't get to pick it for your category, but for your detail for that category. 
+
+
+KEITH: My detail for that category gets to— is last. Okay, got it. You're right. 
+
+
+ALI: Okay, I am picking a need. And I'm taking a four and it's gonna be to get respect. That is a need that is gonna be… written on mine.
+
+
+JACK: Okay.
+
+
+JANINE: Are you okay to, you only get to pick the one thing right now, right?
+
+
+JACK: I think so, right? I think we go around.
+
+
+KEITH:  [cross] We can also— we can like, so—
+
+
+JANINE:  [cross] Or is it, oh sorry is it—
+
+
+KEITH:  [cross] If, if Ali had like an idea—
+
+
+JANINE:  [cross] oh sorry, that is a category, that is a category, sorry, I thought it was a detail that's fine.
+
+
+ALI: Okay.
+
+
+KEITH: Yeah, but that's a good point like, if Ali, if you had like some idea and you wanted to like, work with Jan— with like Jack or me because this relationship or one of these relationships is gonna be with us, to be like, hey can you use your die to add to my card? And do a detail. That's something you could do.
+
+
+ALI: Oh. Okay. Um… fair. Yeah, I like this as kind of like a blanket one, because the like, overarching like, story is trying to like, get…
+
+
+KEITH: Fix the zoo?
+
+
+ALI: To fix the zoo, to get the plan… to prove our worth to the community, and to the local government. [laughter] So…
+
+
+KEITH: God, I have, I have such a fun idea. 
+
+
+JACK: Um, I'm going to take… a… Hm.
+
+
+KEITH: Can I out— I don't wanna jump on anybody's thing, but can I outline my idea? Cause I'm, I'm starting to get worried that I'm not gonna be able to do it.
+
+
+JACK:  [cross] Sure, go ahead.
+
+
+KEITH: Okay.
+
+
+ALI: Yeah!
+
+
+KEITH: I'm, I'm imagining a world where the, the, the pachyderm keeper and the great cats keeper are collaborating to create fake exhibits. And that would be to get away with cutting corners. 
+
+
+[laughter]
+
+
+JACK: I mean. I'm interested to see where this, where this goes!
+
+
+JANINE: I also like that idea because if Ali keeps illicit, the last two who know what really happened, then she's like doubly in on some shit.
+
+
+KEITH:  [cross] Like, reciprocal— yeah. These are reciprocal relationships?
+
+
+ALI:  [cross] Yeah.
+
+
+JANINE: And on the other half of it, you have like, yeah it's, it's sort of this like ombre conspirac— zoo conspiracy where there is a, there is an end that is deep in on it, and an end that is not in on it at all. 
+
+
+[laughter]
+
+
+KEITH: It's like having just a herd of styrofoam peccaries. 
+
+
+JACK: Oh my God! Okay so, so what dice do you need to do that, Keith?
+
+
+KEITH: I need, I— all I need is a three. Cause I get the wild at the end, so all I need is that last three.
+
+
+JACK: Sure.
+
+
+JANINE: Okay.
+
+
+JACK: Okay. Okay right.
+
+
+JANINE: Let's just save that three, then.
+
+
+JACK: Yeah, yeah yeah. Um… So I think I would like to take… let's get some animals in here. Um… I'm gonna take a… uh… [laughs] Oh, ah shit we can't get a fish worth 120,000 dollars!
+
+
+ALI: Goddammit!
+
+
+[laughter]
+
+
+JACK: Oh, I'm so sad we can't get a fish worth 120—
+
+
+ALI: Wait, yeah we can!
+
+
+JACK: [cross] We don't have a six. 
+
+
+JANINE: [cross] No, we can't, there's no six. 
+
+
+ALI: Oh… Dang…
+
+
+JANINE: Yup. That's how it goes.
+
+
+JACK: Um… okay. Shit, we can't get half a dozen monkeys all riled up, either! [laughs] 
+
+
+ALI:  [cross] Wow….
+
+
+JACK: All the best animals are taken. Um…
+
+
+JANINE: The best animals will come from improvisation.
+
+
+[laughter]
+
+
+JACK: That is true. There are many animals in this zoo! So I'm just gonna take this three, and put down—
+
+
+ALI: Wait, no?
+
+
+JACK: Oh, no, wait, shit! Hang on. Wait a second, wait a second. 
+
+
+ALI: That three was pre-ordered, I'm sorry!
+
+
+JACK: Can we have any animals? 
+
+
+KEITH: I can, I can come up with something else.
+
+
+JACK: Because the animals right now are… six, three, and one. 
+
+
+JANINE: I mean, again, we'll— we'll still have animals, they just won't be like written in stone.
+
+
+KEITH: The drive, they won't be like part of the…
+
+
+JANINE: My idea, I have an idea too that involves animals, but it is not in a category that does a lot of animal stuff. 
+
+
+JACK: God, I love the fact that like, this really just sounds like a zoo plan right off the bat where it's like, look. I know we don't have— [laughs] Animals. With a capital A, but we do have animals. With a lowercase a. Alright, fuck it, no animals! Um… okay. 
+
+
+KEITH: Hey, hold on! There are plenty of pachyderms and great cats!
+
+
+ALI: Yeah… [laughter] We have a whole pack of them!
+
+
+JANINE: It's fine, it's fine, it's fine. 
+
+
+JACK: Okay. So really, my options are… if I want an object uh, let's see what the, what the areas are. Um… Hm. Yeah. Yeah. I'm gonna take a two for grounds, so we can get something going on inside the zoo, actual like the area of the zoo.
+
+
+KEITH: Nice.
+
+
+JACK: I'm gonna write down… grounds. Here. Okay. 
+
+
+JANINE: I'm going to take… okay. So I don't wanna… [laughs] I don't wanna… we have three fours, so it'll be fine, I'd be really happy if I could get another four after this four? But it's okay if it doesn't work out this way. 
+
+
+JACK: What is a…
+
+
+KEITH: There's two more fours!
+
+
+JANINE: I'm taking a four now for, for secret.
+
+
+JACK: Oh, which is a… an object?
+
+
+[Ali laughs]
+
+
+JANINE: Yes. 
+
+
+JACK: Okay.
+
+
+KEITH: Oh, that's good, that's a good one!
+
+
+JACK: I won't put that on the screen! The viewers can find that out when we get there. 
+
+
+KEITH: Yeah. Play to find out what happens.
+
+
+JANINE: Oh yeah, I did, I do realize that it just kind of half spoiled what I'd like to do, but. 
+
+
+JACK: Um, okay. So… Keith. Now you're up. 
+
+
+KEITH: Alright, so I'm going to take a need. My need is going to be… to get away. 
+
+
+JACK: Um… you also picked to get away, right as well, Ali?
+
+
+ALI: I chose to get respect.
+
+
+JACK: Oh, to get respect, okay. With your… oh, what number did you use to do that?
+
+
+KEITH: Four
+
+
+ALI: Four.
+
+
+JACK: With your four. Okay.
+
+
+ALI: Yeah.
+
+
+JACK: So now we go around again in the same way, right Janine? And, and just flesh these out?
+
+
+KEITH: Yeah. Yeah.
+
+
+ALI: And just finish it— I don't have to like zoom in on my need, I can just pick whatever I want at this point?
+
+
+KEITH: Well, you've still gotta buy it with a die.
+
+
+ALI: Okay, okay.
+
+
+JACK: And it has to be from—
+
+
+JANINE: And remember to— sorry.
+
+
+JACK: Oh, it has to be from to get respect, right?
+
+
+KEITH: Yeah.
+
+
+JANINE: Yes.
+
+
+ALI: Oh, it does have to be, okay. Ooh, okay.
+
+
+JANINE: You're buying— you're buying in deeper, basically. You're buying the category and then you're buying the thing. Also remember to write it on your notecards because otherwise you won't remember!
+
+
+ALI: Yeah, fair fair fair. Um, ooh, okay, so my choices right now because the dice layout are either… from the board, despite mistakes? [laughs] From the one who left, oooh! Oh. Um… wow. Who left?
+
+
+[laughter]
+
+
+KEITH: Who left?
+
+
+JACK: Who left?
+
+
+ALI: Who left?
+
+
+KEITH: Oh my god, who left?
+
+
+JACK: And why do you wanna get respect from them?
+
+
+ALI: Yeah… well, I know what really happened, so. 
+
+
+JACK: Right, right, right. 
+
+
+ALI: Um… yeah, you know what? Sure. I'm, yeah. From the one who left. 
+
+
+JACK: Okay. Uh, I'm trying to buy into the zoo… grounds. Hang on, wait a second. Keith, you took your three accidentally, right?
+
+
+KEITH: No, I— no I took it on purpose. 
+
+
+JACK: Oh, right! To get away with— alright, I see. Okay.
+
+
+KEITH: Yeah.
+
+
+JACK: Um I, so I have two twos and a four. And… my options, I wanna get something from the grounds. So my options in the grounds are funnel cake stand, peacock park, fish pond, east gate, locked. Under the broken security camera, and statue of zoo founder Douglas E. Hitchcock the third, but you know I'm gonna pick peacock park. 
+
+
+JANINE: It gets us animals.
+
+
+JACK: It gets us animals!
+
+
+KEITH:  [cross] Yeah.
+
+
+JACK: It gets us some real crappy animals, but it gets us some. 
+
+
+[Janine laughs]
+
+
+KEITH: And it gets Janine uh, the four.
+
+
+JACK: Yes.
+
+
+JANINE: It does. And the four…
+
+
+KEITH:  [cross] And what's that four for?
+
+
+JANINE: [delighted] The four is for one animal, passed off as another. 
+
+
+[laughter]
+
+
+JACK: Okay!
+
+
+JANINE: And you better bet I've researched an animal in advance of this as like— we're playing a zoo game, I'm gonna have an opportunity to do some weird animal shit! I'm gonna pick an animal now so I don't have to google in the middle of the show!
+
+
+JACK: You pre-did you animal googling? This is unheard of, Janine.
+
+
+JANINE: I didn't— I didn't know the context the animal would be in, but I said I need to find an animal that will please the people. I did that.
+
+
+ALI: Wow…
+
+
+JACK: That's incredible.
+
+
+JANINE: That animal is Ali's cat!
+
+
+JACK: Yeah, did we hear a small cat?
+
+
+[Ali laughs]
+
+
+[a cat meows in the distance]
+
+
+JACK: Oh, yeah we did hear a small cat! A kind and— a kind and good cat!
+
+
+KEITH: [meows] That's my, that's my impression of that cat.
+
+
+ALI: She just does this now. 
+
+
+JACK: [cross] Okay.
+
+
+KEITH: [cross] Right? They fuckin' do that, it's nuts. 
+
+
+ALI: [laughs] Three years of having this podcast, and it hasn't been a problem until this year.
+
+
+JACK: I think it's—
+
+
+KEITH: [cross] And so I'm taking that last, that last die as a wild to, to flesh out my need as a— we need to get away with cutting corners.
+
+
+ALI: Hm.
+
+
+JACK: So. Now we have to break down how these relationships kind of fit together, right? Um… in terms of, you know, who, what sort of relationships we're interested in, in playing. I am interested in playing a sort of, spokesperson intern style relationship? So if Janine is, especially cause we know that Janine wants this secret one animal passed off as another, essentially what I'm saying is, are we happy with where the cards are now, or do we wanna shuffle them around a little? 
+
+
+KEITH: I'm satisfied with my card, I wanna be part of this scam.
+
+
+JANINE: I'm also satisfied with my card. I wanna be a zoo— not a zoo cop, but. Y'know.
+
+
+ALI: Okay, yeah. Yeah! I mean, for sake of like, ease, too, just to kind of…
+
+
+JACK: Yeah, it'll mean that we don't have to like move a bunch of cards around.
+
+
+ALI: Yeah.
+
+
+JANINE: Mhm.
+
+
+JACK: So. Janine, could you help me out here in terms of like, how these work? Uh, in terms of like, what is paired with what? 
+
+
+JANINE: Um, my thought was going clockwise, basically. 
+
+
+JACK: So…
+
+
+JANINE: So the card that is between Ali's name and your name on this thing would be the relationship between those two characters.
+
+
+ALI: Okay.
+
+
+JANINE: That was my…
+
+
+JACK: Yeah, that works. That works.
+
+
+JANINE: Read.
+
+
+JACK: So we're getting—
+
+
+ALI: To me, yeah.
+
+
+JACK: So, go on Ali.
+
+
+KEITH: Okay so, so like—
+
+
+JACK: Oh, wait.
+
+
+KEITH: Janine and I were spotlighted in the same local newspaper article.
+
+
+JANINE: [cross] Yes.
+
+
+KEITH: Ali and I are two zookeepers, passing— or, or making fake exhibits.
+
+
+ALI: Mhm.
+
+
+KEITH: Ali and Jack are the last two who know what really happened. 
+
+
+[laughter]
+
+
+JACK: And we need to get respect from the one who left. 
+
+
+ALI: Uh huh.
+
+
+KEITH: And then Jack and Janine are the spokesperson and intern yet to be decided who, who who. 
+
+
+JACK: Yes.
+
+
+KEITH: [cross] Who to the zoo.
+
+
+JANINE: [cross] I guess we're all actually in on scams, aren't we?
+
+
+KEITH: Yeah, these are all scams.
+
+
+JANINE: Well, maybe our zoo is bad for a reason, I don't know!
+
+
+JACK: Wow.
+
+
+ALI: We care about the community and about the animals, we just need to…
+
+
+KEITH: It sounds like a fiasco.
+
+
+[Ali laughs]
+
+
+JANINE: We take good care of our scams, it's fine.
+
+
+ALI: We're just cutting corners to, you know, desperate times call for desperate measures— [cat meows] Oh my god!
+
+
+[laughter]
+
+
+KEITH: [cross] Yeah, we need to, we need to— listen. Something happened, something, listen, it's not our fault that something happened to the pachyderms and we needed to create— [cat meows] papier mache pachyderms. 
+
+
+[laughter]
+
+
+ALI: [laughing] I'll be right back. 
+
+
+KEITH: This cat, what is up!
+
+
+JANINE: I love it, honestly, it's, it's a zoo game, you know! It's, you're gonna have animals. 
+
+
+[cat meows]
+
+
+[Keith meows back]
+
+
+[laughter]
+
+
+JACK: What are you— ??
+
+
+JANINE: [cross] I truly love it.
+
+
+KEITH: [cross] It sounds like, cause I have a— I have a cat that comes in here and meows, but is such a tiny little speck that it doesn't even show up on the mic.
+
+
+JANINE: [cross] It's better when it's someone else's cat, it just is.
+
+
+JACK: Oh, god, it's so good! This sound! Um… So…
+
+
+JANINE: Do we wanna like, say who our, do we wanna like conceptualize our actual characters?
+
+
+JACK: Yeah, I think that's probably the step. I wanna wait until Ali's back, cause Ali and Keith are gonna have to decide who is um. The pachyderm habitat keeper and who is the Great Cats! Keeper.
+
+
+KEITH: At— @snitchnightly messaged me on twitter two different pictures of peccaries with back— little baby peccaries with backpacks.
+
+
+JACK: Incredible! Thank you so much!
+
+
+KEITH: So I— I retweeted those, if anybody wants to take a look. 
+
+
+JACK: Ali—
+
+
+KEITH: They're off— They're off to school!
+
+
+JACK: Right now, Ali is being a small cat keeper. 
+
+
+KEITH: Here, I'm gonna— I'm gonna put this link in the… here.
+
+
+JACK: Oh, so I can put 'em on the stream?
+
+
+KEITH: Yeah.
+
+
+JACK: Okay. Oh my god! [Keith laughs] Incred— truly incredible. Thank you, @snitchnightly!
+
+
+KEITH: [laughing] Yeah!
+
+
+JACK: There's a little one getting a little goodbye kiss before going to school.
+
+
+JANINE: That's one of those like, little, little— the Japanese kindergarten student backpacks. 
+
+
+JACK: Yeah!
+
+
+ALI: Ooh!
+
+
+JACK: How is the cat?
+
+
+ALI: [laughs] Great, I—
+
+
+KEITH: [cross] [meows] Just for good measure.
+
+
+ALI: [cross] I walked into a different room and shook the food bowl a little bit? And we'll see what happens!
+
+
+JANINE: [laughs] Good strategy. Solid.
+
+
+JACK: So, Ali, would you describe yourself as more of a pachyderm habitat keeper, or a great cat keeper?
+
+
+ALI: [sighs] Y'know, I don't wanna, y'know. Call dibs on anything? Especially when it was Keith's choice.
+
+
+KEITH: No, no, call dibs. That's fine.
+
+
+ALI: I love these pachyderms. But I can take a great cat. They're both so good. But...
+
+
+KEITH: Yeah, you— you can be the pachyderm keeper. 
+
+
+ALI: Yeah. They're so cute! 
+
+
+JACK: Do you know who you are playing? 
+
+
+ALI: Um… I'm playing as a guy named Darren Cruiser. 
+
+
+[laughter]
+
+
+JANINE: Wooow.
+
+
+JACK: Wow!
+ 
+ALI: I like, we planned this kind of—
+
+
+JANINE: Can you spell that for me? [Ali laughs] I can guess, but… Correct me if I'm wrong.
+
+
+ALI: The way that you think.
+
+
+JANINE: Okay.
+
+
+ALI: I… So I was just like, just trying to think of, I had the name before I had the character idea, but I was trying to think of like, someone who kind of works at a zoo, you know a coworker that you have who like, parties a lot but also does a good job and you're like, how does he manage that?
+
+
+KEITH: Yeah, Darren Cruiser. 
+
+
+ALI: Darren Cruiser, Yeah yeah yeah! I would say like, the energy of that video of those kids in their backyard really drunk and hitting themselves with chairs?
+
+
+JACK: Oh, yeah! Yeah!
+
+
+JANINE: Uhhh…
+
+
+JACK: I know that video! They're like, British guys, right?
+
+
+ALI: Yeah! Y'know, they're just having a good time, there's specifically that moment when that dude like, picks a cigarette up off the floor and starts smoking it and then gets hit with a— a chair? [Jack laughs] But they're also like, just having a good time together? And it's like, okay, yeah, that's, y'know. Um… Yeah. That's kind of the mood that I'm going for with Darren Cruiser.
+
+
+JACK: Is— Is Darren Cruiser the person getting hit by the chair, or the person doing the hitting?
+
+
+ALI: Um… I think the person getting hit. 
+
+
+JANINE: Hm.
+
+
+JACK: Okay.
+
+
+ALI: Yeah. And a pachyderm enthusiast. [laughs]
+
+
+JACK: All sorts of pachyderms, or just peccaries? 
+
+
+ALI: Um… Y'know… The hippo's great. A little dangerous, though. You have to be really careful around it. But… yeah. Yeah, I think all of them? You can't just take the job and only take care of one animal, right, like?
+
+
+JANINE: It's true.
+
+
+ALI: Y'know.
+
+
+JANINE: You gotta love 'em all.
+
+
+JACK: [cross] That's true.
+
+
+ALI: [cross] Right, right. If I wanted to just be… what's the name of the pig, the small pig again?
+
+
+JACK: [amused] The peccary.
+
+
+ALI: The peccary. Yeah, if I wanted to just take care of them, I would've stayed at that level, but then I was doing a really good job taking care of them, so I applied for pachyderm totally, and I think I'm still getting my footing, but it's going really well!
+
+
+JACK: That's amazing! Could, do you have a look that you could describe?
+
+
+ALI: [laughs] It's the guy from that video!
+
+
+JACK: Oh, sure, okay. [laughs] So like a, so for the people that haven't seen the video, kind of like uh… how would you describe the guy in the video?
+
+
+ALI: Yeah, like, you know, late teens, early twenties, um… like, kind of a fit build, but kind of like a, I go to gym before work and like to go to the club sort of build? Like I have— I'm creating a specific look. Um, you know, slicked back hair, I'm thinking of him as somebody who kind of wears like… like pants that are a little too big for him with like a belt to work, you know, with like a shirt tucked in? But looking fine, y'know.
+
+
+JACK: What— what does the uniform of the zoo look like? The zooniform. 
+
+
+ALI: Oh… what's the zooniform… that's tough. Because, I don't think it's like too… polished. Y'know? You're really getting down in these twigs. Um… but, probably like, y'know, slacks with like… [clears her throat] When we um… when I worked at Best Buy, the people who like, got to put out price tags and stuff would have these like amazing belts with a bunch of pockets in them? Just like a, like a short apron, like if an apron was half-sized? With like, really deep pockets? I think it's one of those. And then maybe just like a um… maybe it's one of those where like you can, everybody has to wear a shirt color? But you have to like, buy the shirt yourself, you know how Target does that?
+
+
+JACK: Yes. It's like, you have to get a— you have to bring a red shirt today. 
+
+
+ALI: Uh huh, right. But then you get a vest, and the vest is like, embroidered. So you can wear whatever shirt you want, so you can be comfortable, but then you have to wear a vest that has like your name and, you know, what area you work in. That's the uniform I'm imagining.
+
+
+JACK: Um, Keith, are you back? I don't know if I wanna do this in pairs. Nope? Okay. Um… Janine, are you feeling more spokesperson or intern? I could go either way.
+
+
+JANINE: Um… mmm. I feel like uh… I feel like I should be a spokesperson because I was spotlighted in a local newspaper article? 
+
+
+JACK: Mm. Yeah, totally.
+
+
+JANINE: So it makes a little more sense for that to be a spokesperson and then like, the great cats keeper, y'know?
+
+
+JACK: Yeah. Yeah, totally, cause it's like the spokesperson showed up with the great cats keeper to tell us about some like, really cool new cats that the Bluff City Zoo is getting, or something.
+
+
+JANINE: Yeah.
+
+
+JACK: Do you know who you're gonna be? As this spokesperson?
+
+
+JANINE: Yes. Um… So. I would like to play… [laughs] Never Watson-Wiley? 
+
+
+JACK: Never Watson-Wiley?
+
+
+JANINE: Yes.
+
+
+JACK: Incredible. 
+
+
+JANINE: Um, I'm gonna type the name out. [typing] Never Watson-Wiley. 
+
+
+KEITH: Never Ever Watson-Wiley! 
+
+
+JANINE: There's like, no good place to put this, cause it's so long! Okay, I'll move these. And Never Watson-Wiley, I suppose is like the sort of, is like a… well a spokesperson for the zoo kind of like a PR role, I imagine at some point she was more directly involved in animal care stuff, 'cause it's not a, you know, it's a local zoo to a degree, so like, she probably had a knack for the social marketing thing, and then the social… uh… [laughs] What's the word?
+
+
+KEITH: Media?
+
+
+[1:00:00]
+
+
+JANINE: Yes, thank you, social media thing, wow! Um. 
+
+
+KEITH: [distant from the mic] The soc!
+
+
+JANINE: And they— so she kind of got that role full time as it became a full time— It probably started out as her just like, posting on Myspace or something, on the zoo's Myspace. That's what zoos had. And evolved from there. I imagine she uh, I picture her as sort of looking like… a… like a silent film actress, but like modernized so like… sort of chin-length hair but it's like, really thick and curly and not frizzy, but there's a lot of stuff going on there, it's not very sleek, exactly.
+
+
+KEITH: It's got  a lot of volume?
+
+
+JANINE: Yeah, a lot of volume, lot of like, big loose curls that are strategic but also messy-looking?
+
+
+KEITH: You talking about like, shampoo commercial hair?
+
+
+JANINE: No, tighter.
+
+
+KEITH: No?  Okay.
+
+
+JANINE: I'm talking about like, Jobyna Ralston hair. 
+
+
+KEITH: Sorry.
+
+
+JANINE: [laughs] Then like, a small like, bird-like mouth. Very big, sort of deep-set eyes, that kinda thing. And she was spotlighted in the same local newspaper article as Keith's character. 
+
+
+JACK: Who is… the great cat keeper called…
+
+
+KEITH: [sighs] Dax Leopard.
+
+
+[laughter]
+
+
+JANINE: Oh my god.
+
+
+KEITH: Well, so I didn't— I didn't have a name picked out, but I figure that if the pach— I figured that like… the pachyderm habitat keeper and the great cats keeper who have come up with this sort of harebrained scheme have to, have to be sort of two peas in a pod? And then I had the idea of like, what if you had like a weatherman style name where your last name was like, thunder? But for zookeeping. [cross] And then I thought about—
+
+
+JANINE: [cross] I'm just saying—
+
+
+KEITH: So basically I was like, this guy's Dax Shepard, but also—
+
+
+[laughter]
+
+
+JANINE: Okay!
+
+
+KEITH: Has to have a last name that's a cat. 
+
+
+JANINE: Dogs not good enough for you, I see how it is, that's fine. 
+
+
+JACK: What does Dax Leopard look like?
+
+
+KEITH: He looks— [laughs] He looks like Dax Shepard. 
+
+
+JACK: Okay, alright. 
+
+
+[Janine groans]
+
+
+KEITH: It sort of all came in one big beautiful package. Frosted tips, uh… tank tops, sleeveless t-shirts, not tank tops.
+
+
+ALI: Oh, perfect. Did you hear my character while you were away?
+
+
+KEITH: [cross] No.
+
+
+ALI: [dissolves into laughter] Cause we're gonna get along great!
+
+
+KEITH: I just heard— I heard the first like little bit, did you say— did you say sleeveless t-shirts?
+
+
+JACK: [cross] I think we've found the person who's hitting you with the chair!
+
+
+[laughter]
+
+
+ALI: So, I'm playing Darren Cruiser, have you seen the video of the, the three English guys drunk in their backyard hitting each other with chairs?
+
+
+KEITH: No!
+
+
+ALI: [laughs] Okay, wait a second— let me pull this up real quick. Um, I'd like to make an amendum. Not an amendum, but a clarification.
+
+
+KEITH: [cross] Addendum. Oh, okay.
+
+
+ALI: There's— there's the guy hitting— getting hit by the chair, there's the second guy who leans down to pick up the cigarette on the floor that the first guy discarded, and then also gets in line to get hit with the chair afterwards, I'm playing the second guy. 'British lads hit each other with a chair.'
+
+
+JACK: Emily Campmeyer has linked it in the chat. 
+
+
+KEITH: Aw, they kissed. 
+
+
+ALI: Yeah! 
+
+
+[laughter]
+
+
+JACK: [cross] Keith, you said it so like, quietly contented!
+
+
+ALI: [cross] You know, just bros hanging out, you know! Parties a lot, but still, you know, goes to his job and drinks a, a—
+
+
+KEITH: So, so are you the hit— you're the hit-ee not the hitter? 
+
+
+ALI: The hit-ee.
+
+
+KEITH: Okay.
+
+
+ALI: Yeah. Second guy, in the skinny jeans [laughs] with the sweater on. Um, yeah. 
+
+
+KEITH: Why does he have to do it again?
+
+
+JANINE: [cross] Because they're bored.
+
+
+ALI: [cross] They're just havin' fun. 
+
+
+JANINE: Cause they're bored and strong.
+
+
+ALI: Yeah!
+
+
+JACK: So uh, Dax and Darren need to get away with cutting corners? 
+
+
+KEITH: Uh huh.
+
+
+JACK: Dax and Never Watson-Wiley are, were spotlighted in the same newspaper article? I'm the, I guess, am I an intern of, of— am I your intern, Janine?
+
+
+JANINE: I think so, or. I mean again, it's a, it's probably like a relatively small zoo, so like, I imagine the interns do a couple different things, but maybe you're supposed to like, primarily be my intern.
+
+
+JACK: Right, right, yeah.
+
+
+KEITH: Is it supposed to be a small zoo? It seemed like a big deal, at least it used to be.
+
+
+JANINE: It's— but it's like, waning. And at risk of losing land, which… y'know. 
+
+
+KEITH: Yeah.
+
+
+JANINE: It's probably not at full power. Like, reasonably, not every department is gonna get their own intern at that point. 
+
+
+ALI: Hm.
+
+
+JANINE: Every zoo department. … Zoopartment. 
+
+
+KEITH: That's where I wanna live. 
+
+
+JACK: The zoo department?
+
+
+KEITH: No, the zoopartment!
+
+
+JACK: Ah, the zoo— right, the zoopartment.
+
+
+KEITH: Zoo apartment? 
+
+
+JACK: Yeah! A zoo apartment.
+
+
+ALI: Oh, like on campus housing for really good employees? Is that what that is?
+
+
+JACK: So, I'm gonna be playing the uh— Janine's and sort of general intern, who is a guy called Boots Bonus. 
+
+
+JANINE: Jesus!
+
+
+JACK: First name Boots, like the boot, and uh, surname Bonus, like what you get if you're good at your spokesperson job.
+
+
+JANINE: I was hoping you were gonna spell it weird. 
+
+
+JACK: Nope!
+
+
+JANINE: Like, bow-nus. 
+
+
+JACK: Nope! Just Boots, Boots Bonus. Someone asked me in Boots, which is a pharmacy in the UK, if I had a Boots Bonus card, and I was like, that sounds like— [laughter] That sounds like someone's card! I'm just gonna write down that I've used this name in my names list so I don't use it again. 
+
+
+JANINE: I have to do the same thing with Never. 
+
+
+[Ali giggles]
+
+
+JACK: Um, what is this character— intern in Fiasco game. Okay, so! Going around. Ali. Could you describe our relationship?
+
+
+ALI: Okay, so me and you have an illicit relationship, we're the last two who know what really happened here at the zoo. And the need is a shared need, or is it just a character need?
+
+
+JACK: Um…
+
+
+KEITH: Shared. 
+
+
+JACK: Yeah, because we have the secret, um, yeah. I think so.
+
+
+ALI: Okay, yeah. So me and you need to get respect from the person who left. 
+
+
+JACK: So we both know what really happened and—
+
+
+ALI: Mhm.
+
+
+JACK: We've gotta get respect. Um, Boots Bonus is a like, a short, skinny white kid. He's wearing like a, what you would imagine to be like an oversized uh… sort of…
+
+
+KEITH: Onesie.
+
+
+JACK: N— no. What's the like— [Keith laughs] Jacket that like, what's the middle of that venn diagram between like a fishing jacket and the jacket you see people wear at zoos? Um… You know, with lots of pockets, lots of sort of mesh, velcro…
+
+
+KEITH: A windbreaker?
+
+
+JACK: I mean, kind of, but it's more like, I feel it's, it's more um… You know, official. It's more like a sort of a job, a job one.
+
+
+JANINE: Is this one of those things that has like a weird European name, like an impermeable?
+
+
+JACK: Oh my god, is that a thing?
+
+
+JANINE: I think so. That, I think that might actually just be the French word for raincoat or something, but.
+
+
+KEITH: Yeah, yeah I think you're right.
+
+
+JACK: Also, I bought it online. Uh, and it, it was sold to me as an impermeable? That seemed good, I'm out in the rain a lot, doing various intern tasks, it's much too big for me because I read the order wrong. Um, and I got one—
+
+
+JANINE: It's in those Euro sizes. 
+
+
+JACK: It's in those Euro sizes, and I find them really hard to— and the page was mostly in French, and I don't read French. So, that's—
+
+
+KEITH: But you know what impermeable means!
+
+
+JACK: But I know— I think I know what impermeable means, and it means it can't get in! Now what's the it in that sentence? I don't know!
+
+
+KEITH: Hopefully rain. 
+
+
+JACK: I have—
+
+
+JANINE: [cross] Or peacocks.
+
+
+JACK: I have a working relationship with my boss, Never Watson-Wiley, who I am, you know, envious and in awe of, of how she goes out and speaks into microphones! One day I'd like to speak into a microphone, but they haven't really let me do that yet. Um, we have a shared location, which is the peacock park in the grounds? I wonder whether or not that is where… is that where our like, where we hold the zoo press briefing every so often? 
+
+
+JANINE: Probably, 'cause peacocks are really like benign?
+
+
+JACK: So it's like we've got this like—
+
+
+JANINE: They kinda just go where they want anyways, so a peacock park would probably just be a park where the peacocks often are. 
+
+
+JACK: And people have picnics and like, you know.
+
+
+JANINE: Yeah.
+
+
+JACK: And it's like, we've got the Bluff City fix the zoo scheme, and every week we're gonna go out, tell the two journalists who come how we're gonna make the zoo better, in peacock park!
+
+
+JANINE: And people love peacocks.
+
+
+JACK: People love peacocks, except me, Jack de Quidt. 
+
+
+KEITH: Why?
+
+
+JANINE: [laughs] Okay.
+
+
+JACK: They're overtly showy birds. 
+
+
+[laughter]
+
+
+ALI: Hey!
+
+
+KEITH: Oh, you just don't like how cocky they are.
+
+
+JACK: I, I associate them a lot with, with rich people. They're the birds of rich people. But uh, Boots does not feel that, that way. Janine, what's your relationship with, with Dax? 
+
+
+JANINE: Uh… So we were spotlighted in the same local newspaper— I actually don't know if the sub things are sub things with that relationship, or if they are just things that are in play? Like things that're important.
+
+
+JACK: Oh, they might also be that, yeah.
+
+
+JANINE: I don't remember. Um… 'Cause, so, I'll explain my secret and then Keith, you can let me know if you want in on it. So— there are these animals called the Sneezing Monkeys? 
+
+
+JACK: Ah, let me just google this. 
+
+
+KEITH: I'm in.
+
+
+JANINE: They were discovered very recently, within the last ten years I think, this group of—
+
+
+JACK: [cross] Oh my god.
+
+
+JANINE: Um, and they're… you could technically call them Snub-nosed Monkeys. 
+
+
+JACK: That's an unsettling looking monkey, Janine!
+
+
+JANINE: [cross] I just wanna read this uh, when I was researching Sneezing Monkeys, I found a website with a bunch of lists and it had a good description of them, so I'll use that. Uh, "Snubby the Sneezing Monkey is nicknamed for its upturned nose that collects rainwater on wet days. The unusual white and black monkey lives in northern Myanmar and can be heard sneezing off its quote 'nose puddles' when it rains. But the animal has a trick up its sleeve, or should we say nose, it often tucks its head between its knees when it rains so it won't spend all its time sneezing." 
+So these are a kind of monkey that has been very recently discovered, and I believe that the secret, one  animal passed off as another is um. As part of a scheme to get business back, a pre-existing, a previous scheme to, to sort of grow the zoo and keep things stable um, Never Watson-Wiley got the idea to get some like, normal monkeys? And then like, on all the social media photoshop them because when people come to see the exhibit, the monkeys would usually be pretty far away, so it just looks like monkeys anyways. So she would like photoshop some up close things to like use the liquify tool in Photoshop to like, make their nose kinda snubby. And then when she took like vines or whatever, she would put sneeze sound effects over it.
+
+
+[laughter]
+
+
+KEITH (as Dax): Yeah, I can help with that.
+
+
+JACK: The, the reviews from the uh, chat are in and uh, everybody is frightened of this monkey and does not love to look at it, including me, so I think we're off to just a phenomenal start here. Dax! What's your relationship with Darren?
+
+
+KEITH (as Dax): Uh, me and Darren have been friends for a long time, we both run different parts of the zoo, we basically kinda like, totally run this and… um we've been making animals out of papier mache and styrofoam and pillows with blankets over them to… help make it look like, sicker. 
+ALI (as Darren): They look great.  They look sick.
+KEITH (as Dax): They look fucking sick!
+ALI (as Darren): Come down to the zoo. [laughter] We got a spraypaint machine, it's going amazingly. 
+KEITH (as Dax): Oh, we gotta get a ice machine, a fog machine I mean. A dry ice fog machine. 
+
+
+[1:12:30]
+
+
+JACK: So. We now have— we have a fiasco brewing my friends. 
+
+
+JANINE: Oh, we do, we sure do. 
+
+
+JACK: I am Boots Bonus, an intern. Janine, who are you?
+
+
+JANINE: I am Never Watson-Wiley, a social media maven? I guess?
+
+
+JACK: Keith?
+
+
+        KEITH (as Dax): Sorry, what?
+
+
+[laughter]
+
+
+JACK: Oh, sorry, Dax?
+
+
+        KEITH (as Dax): Yeah, sorry, what?
+
+
+JACK: Who— who are you?
+
+
+        KEITH (as Dax): Dax. 
+
+
+JACK: Excellent, what's your job, Dax?
+
+
+        KEITH (as Dax): Um, I'm Dax Leopard and I handle the leopards.
+
+
+JACK: Incredible. And, and and Ali?
+
+
+ALI: I'm, I'm Darren Cruiser and I am the supervisor of the pachyderm habitat.
+
+
+JACK: Okay!
+
+
+ALI: Should I—  I define, cause Janine, the secret is on the table at this point, should I be— should we be defining who the one who left was? 
+
+
+JACK: [cross] Or do we just put—
+
+
+ALI: [cross] Should be like the zoo— mm.
+
+
+JACK: [cross]  Or do we play to find out what happens?
+
+
+KEITH: [cross] I think that happens in play, right?
+
+
+ALI: Okay, yeah.
+
+
+JANINE: I think that's your call, I think it depends on if you want this to be a background thing about the character or if you want it to be a thing that comes up actively. 
+
+
+JACK: Yeah.
+
+
+ALI: Okay, we can have it come up later. There's like an obvious choice, but I'm curious to see.
+
+
+JACK: Oh, what, what are you thinking of as the obvious choice?
+
+
+ALI: Well, the obvious choice is like the guy who passed away, right? The second idea I had was um, perhaps an animal that got— [laughs] transferred to the Trenton zoo? 
+
+
+JACK: An animal that we— we deeply want its respect!
+
+
+ALI: [dying laughing] We have to like, be really good zookeepers. 
+
+
+JACK: No, alright, I am firmly on team we lost an animal to Trenton, I'm also on team play to find out what animal that is and how we lost it. And also how we get its respect, I guess?
+
+
+ALI: Yeah, yeah yeah yeah.
+
+
+JACK: Okay, so we've established all our relationships and we're gonna move into act one, in which we're each gonna have— oh, let's put all the dice back in the middle.
+
+
+JANINE: Yes.
+
+
+ALI: Okay.
+
+
+JACK: Um… It doesn't matter what the numbers are in this dice, now the color of the dice is kind of what becomes important. So we're gonna take two scenes each, and we're gonna play them super loosely. Do we wanna take like a five minute break before we start act one and come back, or are people good to go for a little bit longer?
+
+
+KEITH: I'm up for whatever. 
+
+
+JANINE: I'm okay.
+
+
+ALI: Yeah, I could keep doing this. 
+
+
+JACK: Yeah! Okay.
+
+
+ALI: [cross] Take a break at the tilt, maybe?
+
+
+JACK: Yeah, yeah, yeah, let's, let's take a break at the tilt, or after one like, loop 'round maybe? Let's see.
+
+
+ALI: Yeah. 
+
+
+KEITH: Yeah.
+
+
+JACK: Um, so. Here's how these scenes work. When it is your turn, we get to choose… so that is a scene with us in the spotlight. We can appear in other people's scenes, but this is kind of primarily a scene about this character. We can choose whether or not we want to… establish the scene or resolve it. We don't get to choose both, it's one or the other. If you establish the scene, you get to choose, you know, what the location is, what the basic information going into the scene is, who's in it. And if you choose to resolve the scene, you get to decide at the end, or rather at a conflict point whether or not this is going to go well or badly. If you established and don't resolve, everybody else gets to decide whether or not the scene goes well or badly, and hands you a black dice if it doesn't go well, or a white dice if it goes good. Um… once you receive these dice, you choose someone else around the table to hand it off to. I think that's about… that's about it as far as how scenes work? Does that make sense?
+
+
+KEITH: Yeah. 
+
+
+JANINE: Yeah.
+
+
+JACK: Okay. Is there a— does it say who starts at any point? 
+
+
+KEITH: We could do the same order, or we could come up with a new thing. 
+
+
+JACK: Ali, would you be up for going first?
+
+
+ALI: Um, sure, yeah. It's just… at this point i'm just setting up a scene and then y'all will do the dice part of it, right?
+
+
+JACK: [cross] Well, you're deciding—
+
+
+JANINE: [cross] Also— 
+
+
+JACK: Also, I—
+
+
+JANINE: Wait a second, I think— is it, is it for act one you keep the dice and then act two you give them away? Is it something like that?
+
+
+JACK: No, act two is you give them you give them away and act— act one is you give them away, act two is you keep the dice that are given to you.
+
+
+JANINE: Okay, it was the other way, okay, okay. 
+
+
+JACK: So, you're deciding whether or not you want to establish a scene, Ali, and describe  how you're gonna go into it, or whether or not you want us to establish the scene for you and you choose whether or not the scene goes well or badly.
+
+
+ALI: Um, okay. I… and then it's just like, whoever wants to be in the scene, it's improv at this point, right?
+
+
+JACK: Yeah. Yeah, we just go straight to improv.
+
+
+ALI: [cross] Okay.
+
+
+JANINE: You can also, whoever establishes I think you can like, say.
+
+
+JACK: Yeah.
+
+
+JANINE: That stuff, but
+
+
+ALI: Okay, I'm comfortable with establishing for right now. I think to… sorry, I have my cat on my desk now? It's the only way to get her to stop crying. Um… I, you know, I think that we should start off with the obvious here, I think that Dax and Darren should be at um— [laughs] Like a meeting at the zoo after it's closed. So we can kind of figure out what the next scheme is gonna be! See how successful the last uh… you know. What was the last thing we did, Dax?
+
+
+KEITH (as Dax): Uh… well, you had us put ears on the tapirs to make little, mini elephants.
+ALI (as Darren): Ugh, that was a great idea. 
+
+
+ALI: Um, should I, should I be continuing to use the guidebook here to like, choose locations and stuff? Or…
+
+
+JACK: Nah, you can just, we can just go. We can just go hogwild  at this point.
+
+
+JANINE: [cross] Yeah, no, that's just for like, setup stuff, pretty much.
+
+
+ALI: Okay, okay. I'm now taking my cat off my desk, okay. Um— so, yeah! I think that there's probably like a um… we're probably, you know how when you go to a zoo or like a whatever, where like the—
+
+
+JACK: Uh huh.
+
+
+ALI: [laughs] The gift shop and the like, ticket spot are kind of like the same area?
+
+
+KEITH: Yeah. 
+
+
+ALI: I think— [laughs] I think it's like, you know, like after it's closed we're in there, we're like behind the ticket counter like sitting on the desk, fucking around on Facebook or whatever, but also being like, okay, we have to figure out what our next plan is gonna be because like… y'know. Our manager has been really getting on us about attendance. Like we control that, right?
+
+
+KEITH (as Dax): Yeah. You answered both my questions, I asked you where are we and I asked you why are we here, and that's both, so. Thanks. 
+ALI (as Darren): So, I think we're gonna have to go bigger than this, this elephants thing. My… [sighs]
+KEITH (as Dax): Bigger size, or bigger like… wilder. 
+ALI (as Darren): Wilder. We gotta get the people in!
+KEITH (as Dax): What if we took the…. Jaguars and painted them black and made them panthers. 
+ALI (as Darren): But— okay. So you're looking at the zoo website, and you say— see that we have jaguars. And then they're like, oh, but there's also panthers. That's the same animal. We need to go bigger than that!
+KEITH (as Dax): We could… take… the… cheetahs and paint them black and say that they're… panthers.
+
+
+[laughter]
+
+
+JANINE: An important note is that when, when you guys were establishing, establishing the scene, the people observing a scene get to, I think this is true right, we get to pick a die and nudge it in so you all know how it has to end, right Jack?
+
+
+ALI: Yeah.
+
+
+JACK: Uh, yes, yes.
+
+
+KEITH: Like, meaning if it's white it has to end bad and if it's black it has to end good?
+
+
+JACK: The other way around.
+
+
+JANINE: [cross] The other way.
+
+
+KEITH: Okay.
+
+
+ALI: Okay. 
+
+
+JACK: Uh, positively or negatively.
+
+
+KEITH: Okay.
+
+
+ALI: [laughing] Um, I, okay, listen.
+
+
+ALI (as Darren): I know this guy who has access to a bunch of coats. 
+KEITH (as Dax): Coats?
+ALI (as Darren): Don't ask— yeah, coats. I'm saying—
+KEITH (as Dax): C-o-a-t-e-s, or c-o-a-t-s? 
+ALI (as Darren): Coats like you wear in the winter time, like coats, like a fur coat?
+KEITH (as Dax): [cross] Okay.
+ALI (as Darren): Like, coats? Like fur?
+KEITH (as Dax): Right.
+ALI (as Darren): Like a fur coat?
+KEITH (as Dax): Like a fur coats. 
+ALI (as Darren): Yeah. And I'm thinking we can put manes, and then paint the leopards orange and then say we have lions. 
+KEITH (as Dax): … Yeah. We could even do black lions.
+ALI (as Darren): We can even do black lions!
+KEITH (as Dax): We could do black lions… Um, oh, we could get… we could make it, what if we staged an atta— what if we stage an attack? 
+ALI (as Darren): [cross] No, no no—
+KEITH (as Dax): What if we stage it so the black lion attacks someone? That's huge!
+ALI (as Darren): Oh, and then one of us will save the person!
+KEITH (as Dax): What if we become the heroes of the zoo? And we could get our own exhibit!
+
+
+ALI: [laughing] I think— I think Darren like, lifts his hands like the, he takes the back of his hands and like hits your chest with them and he's like—
+
+
+ALI (as Darren): [thrilled] You're gonna be in the newspaper again, this is perfect!
+KEITH (as Dax): [cross] I'm gonna be in the newspaper a second time!
+ALI (as Darren): They have to give you like an award for that.
+KEITH (as Dax): Yeah. I swear, after two like, my mom's gonna have to subscribe!
+ALI (as Darren): What is it, okay, so you, when you're in the newspaper twice they give you a ribbon. And then the third time they give you a trophy, right?
+KEITH (as Dax): Yeah!
+ALI (as Darren): We're gonna get you a trophy.
+KEITH (as Dax): What if we made big trophies and I could just tell everyone that I got in three times?
+ALI (as Darren): No, because they're gonna— they're gonna not be able to read the three articles.
+KEITH (as Dax): Okay, yeah. Okay. 
+ALI (as Darren): They keep the newspapers like in the library, bro.
+KEITH (as Dax): Yeah. Yeah. Shit. I feel like every time I come up with a good idea, the library wrecks it.
+ALI (as Darren): I don't even know why it's there!
+KEITH (as Dax): Okay, so black lions, stage an attack, and then I save them, and I am a hero, and I get in the newspaper, and I get my own exhibit.
+ALI (as Darren): Yeah. That's perfect!
+
+
+JACK: [sighs] So this is a black die? [Ali laughs] 
+
+
+JANINE: [cross] It sure is.
+
+
+JACK: Are we to assume that the fact that… had this been a white die, would one of you had realized that this plan is— [laughs]
+
+
+JANINE: [whispering] That's kinda what I think.
+
+
+KEITH: Yeah! 
+
+
+JANINE: [cross] [whispering] I thought if they had got a white die they would've been like, this isn't gonna work!
+
+
+KEITH: [cross] I saw the black die and then I was like, what if there was a person in there that would get attacked?
+
+
+[laughter]
+
+
+JACK: [cross] That was just a complete disaster.
+
+
+ALI: [cross] Yeah, I heard Keith escalating and I was like, well. This is…
+
+
+JACK: [laughs] Well here we go! 
+
+
+ALI: Uh huh!
+
+
+JACK: Okay! Cool. So Ali, you… give that black die to anybody. 
+
+
+KEITH: Now? Or…
+
+
+JACK: Now, right Janine?
+
+
+JANINE: I think so, yeah. 
+
+
+ALI: Oh, I give it to somebody?
+
+
+JACK: Mhm!
+
+
+ALI: Okay. Um, and do the numbers represent anything at this point, or is it just like—
+
+
+JANINE: No.
+
+
+JACK: No. 
+
+
+ALI: Okay. I'm… going to give it to… Jack. 
+
+
+JACK: Thank you. 
+
+
+KEITH: What is the reasoning behind this, like why should Ali give it to somebody? Over somebody else? Just because, for now?
+
+
+JACK: In kind of the first turns, sort of just because, but we're gonna use these dice to uh, both kind of calculate the Tilt, which is the sort of twist, at the end of the first act. And we're also very far down the line gonna use a certain combination of, of a spread of dice to see how endings are gonna go.
+
+
+KEITH: Yeah, I remember that part, I just didn't— I, the way that I was reading the way that you hand out die was not making a ton of sense, but it looks like I get it now. 
+
+
+JANINE: I think, assigning it in the first act prevents you from gaming it right out of the gate, because that's not fun.
+
+
+JACK: Oh, yeah, yeah yeah. 
+
+
+ALI: Ohh, okay. 
+
+
+JANINE: If you try and game it for an ending, it kinda… eh. 
+
+
+ALI: And you kind of, you— You generally want the same colors? Versus a variety of numbers, or?
+
+
+JANINE: You'll get a better outcome if you have more of one color and not an even split. But that's the kind of thing that like, again, I think this first turn is designed to counteract people playing that way.
+
+
+JACK: Yeah. 
+
+
+ALI: Fair, fair fair. Okay.
+
+
+JACK: So you can play pretty freely at the moment, I think.
+
+
+JANINE: Mhm.
+
+
+JACK: Um… I am going to… Uh… establish a scene. And I would like a scene with… I would like a scene with Never? And it is my first kind of shot at being allowed to talk into the microphone to the press on one of our uh, weekly fix-the-zoo briefings. There are three journalists there, and they are sitting in plastic chairs surrounded by peacocks. And, and uh Never is here, and I'm here. And anybody can be members of the press, I guess, who isn't also in this scene.
+
+
+JACK (as Boots): Um, Hi. Uh, thanks, thank you all for coming to our, the fix-the-zoo. 
+KEITH (as reporter): Woo!
+JACK (as Boots): Tha— thanks! Yeah. Thanks, John. 
+JANINE (as Never): [cross] [whispering] Don't get distracted!
+JACK (as Boots): Um, what?
+JANINE (as Never): [whispering] Just keep going, don't get distracted.
+JACK (as Boots): What did you say?
+JANINE (as Never): Don't let me distract you, it's, just, keep going!
+JACK (as Boots): Okay, okay, okay. 
+KEITH (as John): [shouting] Keep going!
+JACK (as Boots): Oh, right, thank you. So, we're here today, surrounded by beautiful peacocks, to—
+JANINE (as Never): Beautiful peacocks.
+JACK (as Boots): Today in the zoo. And that's just one of the animals we have here. And you can see these now, and you don't have any cages around them. You can just walk around. You can touch a peacock! [to Never] Can they touch a peacock?
+JANINE (as Never): [whispering] You shouldn't touch the peacocks…
+JACK (as Boots): I've been informed—
+JANINE (as Never): Please don't touch the peacocks!
+JACK (as Boots): That you— Yeah. Don't touch the, don't touch the pea— I can see you looking, John! John and I— John and I have a bit of a rapport going. [Keith whistles] That's the sound they make, peacocks. So. What, what am I saying? I'm saying that we've got peacocks here! We've got a cafe! We've got uh, an, and it has a three star health rating. We've got um. [laughter] We've got— Okay, we've got—
+JANINE (as Never): It's not the kind of health rating you're thinking of, it only goes up to three, it's good. It's a good cafe.
+JACK (as Boots): It's like Michelin star!
+JANINE (as Never): [cross] They've got wonderful coffee.
+JACK (as Boots): It's like— am I doing okay? This is my boss.
+JANINE (as Never): You're doing wonderfully.
+JACK (as Boots): Never. Miss Watson-Wiley? She's kind of training me today, and generally! Um, okay. So. 
+
+
+JACK: And, and he like, looks back down at his notes, and sort of like, you know uh, uh, adjusts his impermeable. 
+
+
+JACK (as Boots): Okay, so we've got, we've got peacocks, uh…
+JANINE (as Never): [whispering] Don't adjust your coat when you're on mic, it'll pick up, it's a very loud coat!
+JACK (as Boots): We've got peacocks, we've got a three star health cafe, and we are fixing the zoo, my friends! And you can go back to all of your town papers and you can say, just because Hitchcock died, just because he died, doesn't mean the zoo is bad now! I don't think? 
+ALI (as reporter): [sighs] Um, excuse me, um, Bluff City Herald? Uh, you mentioned a cafe, are there… cafe coffee, are there different meal services there?
+JACK (as Boots): Uh, if you'll just give me a moment, I'd just like to run that question past my superior. Um, Miss Watson-Wiley, do we have…
+ALI (as reporter): [cross] You— you don't know about the menu.
+JACK (as Boots): Do we— sorry, do we, is there meal service?
+JANINE (as Never): Uh, we do breakfast, lunch, tea, high tea, dinner, and evening dinner.
+JACK (as Boots): [cross] We do breakfast, lunch, tea, high tea, dinner, and evening dinner. 
+ALI (as reporter): … Okay. [laughs] 
+
+
+ALI: I think someone in the press is just like, writing that down on a paper.
+
+
+[1:30:00]
+
+
+KEITH (as John): Um, John, from the Bi-quarterly Tribune?
+JACK (as Boots): Hi John. Hi John! Thanks for coming out.
+KEITH (as John): Hey. Yeah, no, love the zoo, you did say I had a question about the cafe also, you said it was a cafe and then later you said it was a three star health cafe? Is it a health cafe or is it a regular cafe that is healthy, or is it a regular cafe that is rated three stars on some sort of health—
+JANINE (as Never): Excuse me, what was your name again?
+KEITH (as John): John?
+JACK (as Boots): John.
+KEITH (as John): From the Bi-Quarterly Tribune?
+JANINE (as Never): John? Well, John, if you think about it, aren't all cafes health cafes? You need food to live. Right?
+KEITH (as John): Some cafes have unhealthy food like cinnabuns and like, really sugary coffee. You know those, sugar crazy like aaah! You know?
+JANINE (as Never): If you didn't eat sugar, you would die.
+KEITH (as John): Gimme a three shot, eight pump mocha extra whip, you know how they…
+
+
+[laughter]
+
+
+JACK: Just, dead silence. A peacock goes 'aaah!' in the distance. [cat meows] What's this— who's this peacock in the background?
+
+
+JANINE: It's an amazing peacock! Wow. 
+
+
+ALI: [to the cat] Please shut up! [laughs]
+
+
+JACK (as Boots): Why is everybody asking about the cafe? Like, we've got animals here, you know.
+KEITH (as John): You— it was honestly? I know it's your first day, it was super confusing the way you described it.
+JACK (as Boots): Wait, which, which bit?
+KEITH (as John): Well, so, it was actually a two— it was actually, so you, you said it was three star— it was kinda, you were talking over each other a lot? I think that, I think um. Uh, Miss uh… Wiley? Was it?
+JANINE (as Never): Watson-Wiley. 
+KEITH (as John): Watson-Wiley? You, everything you were saying was picking up on the mic also, so it was really kinda hard to tell what exactly was the main… thing being said. 
+JANINE (as Never): I didn't really say anything, I think you must've misunderstood what my friend Bonus was saying. 
+
+
+KEITH: I just start writing.
+
+
+JANINE: [laughs] I just heard 'friend bonus' and in the back of my head I was like this is— okay, that's a name. It's the name! It is what it is. 
+
+
+JACK: Um, yeah. People who have command of a dice? Do you wanna pass judgement or, or shall I continue for a bit? 
+
+
+[pause]
+
+
+[laughter]
+
+
+JACK (as Boots): [defensive] Okay, listen. Okay, listen. So it's my first day. Everybody has a first day!
+JANINE (as Never): [cross] Oh— okay, they— Just relax— 
+KEITH (as John): Oh, whoa!!
+JACK (as Boots): [cross] All had a first day— 
+JANINE (as Never): Just smile! Smile!
+JACK (as Boots): It's my first day, and I just want to thank everybody for coming out here. Aren't the peacocks good?
+JANINE (as Never): It's been so great! 
+JACK (as Boots): It's been so great, no, you're talking into the mic now as well! And, and—
+JANINE (as Never): You need the help. 
+JACK (as Boots): And— okay. Alright. I just wanna… thank everybody for coming out, and I want to thank everybody for seeing the peacocks, and I'd like you all to remember the first day you walked into your news office. Please.
+ALI (as reporter): Excuse me?
+JANINE (as Never): Please stop at the cafe, they have lattes, cappuccinos, uh, matcha? Everyone loves matcha.
+KEITH (as John): Now is this the regular cafe, or is this the health cafe?
+JACK (as Boots): You won't get sick!
+ALI (as reporter): Um. Excuse me, is there gonna be a pref— press conference for the zoo after this, or is this just about the zoo cafe? 
+KEITH (as John): They talked about the peacocks. 
+
+
+[Ali laughs]
+
+
+JACK: Is that where we just leave it? Do we just— like a light rain begins to fall?
+
+
+JANINE: I think that— it's, I, I bet like as the, are you talking about the zoo question like, we're already leaving, like I'm ushering you off. Like, hand on your back very politely like 'Okay, we're done!' And then just the press muttering in the background, right? Like.
+
+
+ALI: [laughs] Just looking at each other like, what is going on? How do we even write about this? 
+
+
+JACK: Yeah, what does this look like?
+
+
+ALI: There's just gonna be a headline about matcha, like what is happening? 
+
+
+JACK: Um, okay, right, I'm gonna give, I'm gonna give my, my helpful boss this black die.
+
+
+JANINE: Great. Uh… Okay. So, I… think I'm going to establish a scene. I think this probably happens like, very shortly after that, that meeting. I have maybe like, I wonder, I wonder if Never's like sent Boots off to do… something. So she can do some like, put some stuff up on the socials. Get some like, good interesting content for the clicks? Prior to whatever articles are gonna come out? Do a little, little pre— damage control? So I think she, she… like, goes to get Dax. And asks Dax to come with her to the sneezing monkey enclosure. 
+
+
+JACK: So you're establishing this?
+
+
+JANINE: Yes, I am establishing this. 
+
+
+JANINE (as Never): Okay, Dax, I… [sighs]
+KEITH (as Dax): Yeah.
+JANINE (as Never): I need you to— this is gonna sound weird, um…
+KEITH (as Dax): Yeah.
+JANINE (as Never): But I've run out of uh… of WAV files? Everyone's gon— I've used a lot of WAV files over again and I don't want people to notice that there's a lot of very similar sound— I need you to sneeze off-camera for me. Like a bunch?
+KEITH (as Dax): Wave? 
+JANINE (as Never): Sneeze. 
+KEITH (as Dax): Sneeze file?
+JANINE (as Never): [cross] Can you sneeze? Can you sneeze on command?
+KEITH (as Dax): Yeah. [sneezes loudly]
+JANINE (as Never): [laughs] Okay— wait, hang on, I have to hit record. 
+KEITH (as Dax): [sneezes]
+JANINE (as Never): Wait, I haven't— I haven't done it yet, I wasn't— I was in a different app! I was in my—
+KEITH (as Dax): Agh, it's just real now! [sneezes, continues throughout]
+JANINE (as Never): Okay, keep going. I can't talk while I'm doing this because then my voice approaching your sneezes will be over the sneezes, so just keep, keep doing it for a little bit. 
+[laughter]
+KEITH (as Dax): I, it's stuck, it's stuck!
+JANINE (as Never): No, it's good, I think we're good— [Keith sneezes] I think we're good. We're good. It's— okay. Do you need like a, like a drift pan or whatever?
+KEITH (as Dax): [sniffles] I think that was it. I think that was it!
+JANINE (as Never): Perfect, that was what— [Keith sneezes] Thank you so much. Okay. You're scaring the monkeys, if you could… just back up a little if you need to keep doing that. 
+KEITH (as Dax): It hurts when you hold it in. 
+
+
+ALI: [laughing] I can't, I keep trying to control the stream because I'm looking at that. 
+
+
+KEITH (as Dax): Is there anything else?
+JANINE (as Never): Um… If you ever— okay, this is gonna sound weird, but generally if you could like, when you sneeze, or when you feel you have to sneeze, could you use like the voice memo thing on your phone and just like, get it for me, and then just like email it? Or like, text it, even.
+KEITH (as Dax): Is that an app? 
+JANINE (as Never): It comes with your phone? Voice memo?
+
+
+KEITH: I take out— I take out a flip phone from my—
+
+
+KEITH (as Dax): Can I do it on this?
+JANINE (as Never): Uhh…. pro— maybe? Um, you know, you can talk to, Boots is better with the actual like hardware, you can talk to Boots.
+KEITH (as Dax): Okay. 
+JACK (as Boots): Hi, sorry, I um, I saw you were here and I just wanted to check with you how did it— how did I do earlier? I'm not interrupting, am I?
+JANINE (as Never): [cross] You know—
+JACK (as Boots): Oh, Dax! 
+JANINE (as Never): No!
+KEITH (as Dax): Yooo!
+JACK (as Boots): Wow, Dax, are you okay? Your like, nose is streaming.
+KEITH (as Dax): [clears his throat] Um, yeah, um. Never wanted me to have a, um, made me have a sneezing fit. 
+JACK (as Boots): O— Okay? Sure.
+JANINE (as Never): Hey-- [Keith coughs] Boots, can you uh, can you help Dax set up a voice memo on his… 
+KEITH (as Dax): Razr! 
+JANINE (as Never): Oh! You got the good one, okay. 
+KEITH (as Dax): Gold. Gold Razr.
+JANINE (as Never): Yeah! That's rad. 
+JACK (as Boots): Why are you sneezing, Dax? Why is he sneezing, Never?
+KEITH (as Dax): Uh, Never made me do, have a sneezing fit.
+JANINE (as Never): I— I just needed the monkeys to look at the camera, you know, so you get someone to make some noises, and that's all it is. If you could just help him set up that voice memo app, that would be, that would be fantastic, actually.
+JACK (as Boots): Wait, which monkeys?
+JANINE (as Never): The sneezing monkeys.
+JACK (as Boots): And they listen when someone— when Dax sneezes? 
+JANINE (as Never): Cause they think it's one of them. They feel a kinship.
+JACK (as Boots): Dax, that's amazing! Is it just you, or is it other people?
+KEITH (as Dax): I don't know, I— I can personally say I do feel a kinship. 
+JACK (as Boots): … To, to the monkeys? 
+KEITH (as Dax): Yeah, the more I sneezed, yeah.
+JACK (as Boots): Aren't they amazing? Anyway, I don't know how to work your phone. 
+KEITH (as Dax): You just—
+
+
+JANINE: I think at this point Never is gone. 
+
+
+KEITH (as Dax): You just flip it and you dial whatever you need.
+JACK (as Boots): Okay. Look… [sighs] You need voice memos, right? 
+KEITH (as Dax): Uh, yeah I guess, yeah.
+JACK (as Boots): For more sneezing, right?
+KEITH (as Dax): Yyyes. 
+JACK (as Boots): Okay. I have a, I have a spare, it's an old phone, but you can, you can borrow this one. 
+KEITH (as Dax): Nice.
+
+
+JACK: And Boots takes a, a… a phone with voice memos on out of his, one of the velcro pockets on his impermeable and hands it over to Dax.
+
+
+KEITH (as Dax): Is it a tens or a tens X?
+JACK (as Boots): It's a six. But if you just click here, you see where it says voice memos? And then you just, and then you just talk into it! Just say something.
+KEITH (as Dax): Something.
+JACK (as Boots): Right, now if I hit play you'll hear it again!
+KEITH (as Dax): Something. 
+JACK (as Boots): It's incred— you know, and you've got like, you can do as many of those as you want until it fills up. Until it fills up. And I don't need this phone anymore.
+KEITH (as Dax): As many as I want until I can't— until it won't let me?
+JACK (as Boots): Until you can't do any more. And they don't all have to be sneezes, you could put a song on there or, anything. I think there are, I don't think, I think I deleted all mine, but I, you're fine. It's a, it's yours, take it. Record as many sneezes as you want, for a reason I don't fully understand. Dax—
+KEITH (as Dax): Hey. Thank you so much! 
+JACK (as Boots): Dax, you're okay, that's what I always say. 
+KEITH (as Dax): Dax is okay!
+
+
+JANINE: I'm gonna give this die to Keith because that sneezing was uh… 
+
+
+[Keith laughs]
+
+
+JACK: Keith can make any sound!
+
+
+JANINE: A lot, and I wanna appreciate it.
+
+
+ALI: He can make any noise. 
+
+
+KEITH: Oh, I'm on the Youtube, what did, what die did I get? 
+
+
+JACK: You got a white four.
+
+
+KEITH: Oh, nice. Alright, time to have a scene. 
+
+
+ALI: Uh huh.
+
+
+KEITH: Um… Okay, I know what it is. Darren and Dax are gonna work out their plan, and Dax invites Boots because Boots, you're like, like the smartest guy I ever met. 
+
+
+JACK: [laughs] So you're establishing this? 
+
+
+KEITH: Yeah, like I, you had this phone and was just like, it's uh. Ten six, and you can record as much as you need to on there.
+
+
+JACK: Where are we meeting?
+
+
+KEITH: Um… By, I think we're meeting by the big cat like, probably like the uh, employees-only side of the, the great cats enclosure. 
+
+
+KEITH (as Dax): Alright, so we had a plan. Darren.
+ALI (as Darren): Yo, is this the phone guy?
+KEITH (as Dax): Yeah, this is the phone guy I was telling you about.
+JACK (as Boots): Hi, I'm Boots. 
+ALI (as Darren): What's up, phone guy? Nice clothes.
+KEITH (as Dax): Yeah, phone guy. Phone guy um, I think he does phones for the zoo, but he seems like wicked like he knows what's up.
+ALI (as Darren): [cross] Damn!
+JACK (as Boots): [cross] That's not quite— That's not quite what I do. But it's fine, I'm just glad to be here. I don't, I haven't been back here before. Can we, can we, can we see the animals? 
+KEITH (as Dax): Yeah, totally!
+JACK (as Boots): Wow!
+ALI (as Darren): You want some food? You wanna feed one of the…
+KEITH (as Dax): Oh, do you— yeah, do you wanna hand— you could hand-feed. 
+JACK (as Boots): Well, that might be going a bit far. I…
+ALI (as Darren): [cross] Nah, it's chill!
+KEITH (as Dax): [cross] No, we do it all the time! Only one guy ever lost one.
+JACK (as Boots): Oh. No. No, I'm fine, I'll just, I'll just watch. 
+KEITH (as Dax): Okay.
+JACK (as Boots): What was that you were saying about a plan?
+KEITH (as Dax): Yeah, so we have, do you wanna, do you wanna lay down the plan? 'Cause I feel like you've got it like, for sure in your head.
+ALI (as Darren): Okay, yeah. It's very simple. We're gonna make a million dollars.
+JACK (as Boots): Oh!
+KEITH (as Dax): Oh.
+ALI (as Darren): The zoo's gonna double in size. It's gonna be amazing! Me and my boy Dax here.
+KEITH (as Dax): 'Sup. 
+ALI (as Darren): So I know this guy. Who has access to some coats. You get coats, you get fur.
+JACK (as Boots): [cross] Coats?
+KEITH (as Dax): Yeah, c-o-a-t-s, coats.
+ALI (as Darren): Uh huh, yeah, yeah yeah. So we need some fur. You see those animals over there?
+
+
+ALI: And I think he like, points out to like a herd of like, four— did we say leopards?
+
+
+KEITH (as Dax): Those are called leopards.
+
+
+ALI: Okay. [laughs]
+
+
+JACK (as Boots): Okay. 
+ALI (as Darren): You see those leopards out there?
+JACK (as Boots): Yeah. 
+ALI (as Darren): Imagine… if they were lions.
+KEITH (as Dax): Black lions.
+ALI (as Darren): Black lions! Born that way.
+JACK (as Boots): You're gonna replace—
+ALI (as Darren): Rare.
+JACK (as Boots): What are you gonna do with the leopards?
+ALI (as Darren): No, no no no no. We're just gonna improve them a little bit. You know how the zoo's been going through a lot of improvements lately.
+KEITH (as Dax): Mhm.
+JACK (as Boots): Tell me about it. I had, I had a great press conference earlier. 
+KEITH (as Dax): Nice. Very cool.
+ALI (as Darren): Damn!
+KEITH (as Dax): Improve the zoos? 
+JACK (as Boots): Improve the zoos, we, it's called fix the zoos, but—
+KEITH (as Dax): Fix the zoos.
+JACK (as Boots): Fix the zoo, really. We only wanna fix one zoo, you know?
+KEITH (as Dax): [cross] Right. 
+JACK (as Boots): Just one. Um…
+KEITH (as Dax): Don't all the zoos deserve to be good?
+JACK (as Boots): Well I. Well I suppose… well, yes, but the Bluff City Zoo's the best one, right?
+KEITH (as Dax): I guess, but if I— I'm, I'm out to improve as many zoos as I can I guess, it's just um, here's where I'm at.
+JACK (as Boots): You know, I respect that, Dax. I, I respect that. So, wait. Hang on. You're going to… you're gonna swap out these, those leopards—
+ALI (as Darren): Uh huh.
+JACK (as Boots): And you're gonna replace them with, with black lions. And that's gonna get you a million dollars?
+KEITH (as Dax): Almost!
+ALI (as Darren): [laughs] That would get me half a million dollars.
+KEITH (as Dax): Where's the other half come in, Darren? Go on, hit him with it. 
+ALI (as Darren): So, you see that lion right there? 
+
+
+ALI: And then I think he like— [laughs] You know you do that thing with your hands where you like make them into two L shapes like showing a— like a—
+
+
+JACK: [laughs] Frame it. 
+
+
+ALI: Like taking a picture? Like a frame, like a director, yeah. I think that he like stretches his hands out and he closes one eye, and he's like— 
+
+
+ALI (as Darren): Imagine. One of those lions attacked somebody. 
+KEITH (as Dax): And then.
+JACK (as Boots): [cross] That would be awful! 
+KEITH (as Dax): But, then imagine one of we saves that guy. 
+JACK (as Boots): Well, I would hope that that would—
+ALI (as Darren): [cross] My boy Dax here.
+JACK (as Boots): I'd hope that that would happen. But—
+KEITH (as Dax): Yeah.
+JACK (as Boots): You know, we don't want a lion attack, do we?
+ALI (as Darren): We want a lion rescue. 
+KEITH (as Dax): Yes. 
+JACK (as Boots): [cross] Well, no.
+KEITH (as Dax): We don't want a lion attack, we do want a heroic lion rescue.
+ALI (as Darren): Yeah. See—
+KEITH (as Dax): And then I'm gonna be a hero in the newspaper, and then I'm going to get my own exhibit!
+ALI (as Darren): Mhm.
+JACK (as Boots): Okay, so— okay.
+KEITH (as Dax): People're gonna come to see me. 
+ALI (as Darren): Wait…
+JACK (as Boots): Wait. 
+KEITH (as Dax): What? This was part of the plan from the beginning, Darren.
+ALI (as Darren): But I thought you were just gonna put like different animals in there. 
+KEITH (as Dax): No, I mean after I'm the hero, then I get to be part of the zoo, people will come to see me.
+JACK (as Boots): Right. H— hang on.
+ALI (as Darren): Right.
+JACK (as Boots): Wait, take it back a second for me, just real— 'cause, you know.
+KEITH (as Dax): [cross] Yeah.
+JACK (as Boots): I don't wanna say that I like what I'm hearing, cause I don't, but I'm definitely hearing some things.
+KEITH (as Dax): [cross] Okay. Yeah. 
+JACK (as Boots): What are the coats for?
+KEITH (as Dax): To dress up the leopard. 
+JACK (as Boots): What!?
+ALI (as Darren): Yeah. A lion needs a mane.
+KEITH (as Dax): [cross] Like a lion. Yeah, they'll know right away if it doesn't have a mane.
+ALI (as Darren): Uh huh. 
+JACK (as Boots): Wait, you're dressing up the— the leopards? 
+ALI (as Darren): Yeah! They love it!
+KEITH (as Dax): Yeah, in order to get a lion attack, we don't have a lion.
+ALI (as Darren): We do it every Halloween! They love it. It's perfect, it's perfect, it's gonna be a great video, everyone's gonna see my boy Dax here, saving— 
+KEITH (as Dax): [cross] Sorry, wait, no. Hold on.
+ALI (as Darren): Saving this person— hm?
+KEITH (as Dax): It's not perfect, these, these cats do not purr. 
+ALI (as Darren): Oh.
+JACK (as Boots): Oh.
+ALI (as Darren): It's fine, it's fine, the video's still gonna be fine. We'll put some purring noises onto it it's fine.
+KEITH (as Dax): Okay, we'll add purring.
+ALI (as Darren): What I'm saying is that people are gonna watch it and they're gonna see this amazing relationship that Dax has with these lions. They're gonna be comin' down here, everyone's gonna come here to see the lion tamer, we're gonna make a million bucks! 
+KEITH (as Dax): Gonna make a million bucks. Half a million, then another half. 
+ALI (as Darren): Mhm!
+JACK (as Boots): [takes a deep breath] Okay. Here's the thing. This is the worst plan I've ever heard. None of it makes any sense! And I'm afraid of, really, everybody's lives who's involved with it. Except maybe the coat guy. He seems fine. 
+KEITH (as Dax): What if you were the guy that got attacked? 
+JACK (as Boots): I'm sorry?
+KEITH (as Dax): What if you were the guy that got— that I rescue? … Resc— what if you got "attacked."
+
+
+KEITH: And I'm doing quotes. And I'm saying that—
+
+
+KEITH (as Dax): I'm— I'm doing quotes. "Attacked."
+ALI (as Darren): You, you trust Dax, right, you trusted him with your phone. You won't trust him to save you from a lion?
+KEITH (as Dax): "Save."
+JACK (as Boots): Uh.
+KEITH (as Dax): Darren. "Save."
+JACK (as Boots): Uhh….
+ALI (as Darren): "Save."
+KEITH (as Dax): I'm doing quotes. 
+JACK (as Boots): Well, um.
+ALI (as Darren): Well, it's real saving. 
+KEITH (as Dax): But what if it, but what if that was the scam?
+ALI (as Darren): Oh, so the attack's not the scam. Wait, which one is the scam now?
+JACK (as Boots): [cross] Wait— um. 
+KEITH (as Dax): Black lions, fake rescue. 
+JACK (as Boots): Um.
+ALI (as Darren): But the attack is real. Wait…
+JACK (as Boots): Wait.
+KEITH (as Dax): No! Real rescue, fake attack!
+ALI (as Darren): Oh, okay, yeah! Real rescue, real rescue. No fake rescue.
+KEITH (as Dax): I will rescue you from the fake attack.
+ALI (as Darren): Mhm! These lions out here, they love Dax!
+KEITH (as Dax): Movie magic. Movie magic!
+ALI (as Darren): Movie magic.
+KEITH (as Dax): That's what it is, it's movie magic!
+ALI (as Darren): That's what they mean when they say movie magic. 
+KEITH (as Dax): This is what they mean when they say movie magic! Half a million, then another half.
+JACK (as Boots): Will— will—
+ALI (as Darren): Yeah.
+JACK (as Boots): Will this help us fix the zoo?
+KEITH (as Dax): Yes. Unequivocally.
+ALI (as Darren): Yeah! If you saw that video online, you wouldn't be like, I gotta go see this guy Dax!-
+KEITH (as Dax): I gotta go check out those black lions and the hero that saved someone from them. 
+JACK (as Boots): Well, I probably would, yeah.
+KEITH (as Dax): Yeah.
+JACK (as Boots): Yeah. 
+KEITH (as Dax): Yeah.
+ALI (as Darren): We're gonna sell a billion tickets.
+KEITH (as Dax): Yeah.
+ALI (as Darren): [cross] People are gonna wanna—
+KEITH (as Dax): [cross] And then everyone knows that a billion tickets, that's worth… at least a million dollars.
+ALI (as Darren): [laughs] Well, you know, after improvement fees, overhead paying for the lights—
+JACK (as Boots): I'll do it. I'll do it.
+ALI (as Darren): Okay.
+KEITH (as Dax): Dope.
+JACK (as Boots): I have to talk to Never first—
+KEITH (as Dax): [cross] I knew that you were the smartest guy I ever met.
+JACK (as Boots): I have to run it past Never, but then I'll do it.
+KEITH (as Dax): Yeah, alright. That sounds, she seems cool. She made me sneeze, which was wild, I've never met anybody who made me sneeze like that. 
+JACK (as Boots): And, and now—
+ALI (as Darren): Bro, do y'all sneeze together?
+KEITH (as Dax): Yes, like wild! I sneezed for like three minutes!
+JACK (as Boots): I'm gonna go now. 
+KEITH (as Dax): Nice, seeya!
+ALI (as Darren): Yo, can you sneeze again? [Keith sneezes] [awed] Wow… 
+KEITH (as Dax): Yeah. 
+
+
+ALI: Fade to black. 
+
+
+[laughter]
+
+
+JACK: So that's, that's a positive outcome?
+
+
+JANINE: Mhm.
+
+
+KEITH: Yeah!
+
+
+JACK: I don't really know who it's positive— it's positive for Darren and Dax.
+
+
+KEITH: It's positive— it's positive because we scaled it down from being a real attack that I actually have to save someone from? To being a staged attack. 
+
+
+JACK: Yeah! 
+
+
+ALI: Also, we have someone on board now!
+
+
+KEITH: Yeah, we have, yeah. And someone that's smarter. 
+
+
+JANINE: I think negative would've been if Boots had just like completely dismantled them entirely. 
+
+
+ALI: Yeah.
+
+
+JANINE: And then been like, I'm going to tell Never and she's going to fire both of you, or something like that.
+
+
+JACK: Right.
+
+
+JANINE: That would've been bad. 
+
+
+JACK: Yeah, that's true. Unfortunately, I wouldn't say it went positively for Boots, but y'know. It went positively for Darren and Dax. 
+
+
+KEITH: Yeah. Um… I'm gonna give, I'm gonna give mine to… 
+
+
+JANINE: Oh wait, wasn't it Ali? 
+
+
+KEITH: Oh wait, no that was my scene.
+
+
+JANINE: Oh, I—
+
+
+JACK: [cross] No, there are five—
+
+
+KEITH: [cross] Four— 
+
+
+JANINE: No, I'd given it to Ali because I thought it was Ali's scene.
+
+
+KEITH: Okay yes, then I should have two whites.
+
+
+ALI: Yeah. 
+
+
+JANINE: Okay.
+
+
+KEITH: 'Cause I was given one earlier. 
+
+
+JANINE: I got confused by the given ones. 
+
+
+ALI: And you're giving that to Jack.
+
+
+KEITH: Yeah, I'm giving that to, to Jack for, for Boots being such a team player. 
+
+
+[laughter]
+
+
+ALI: Do you, does the structure change now that we're going back around, or is it just…
+
+
+KEITH: [cross] No, I think it's twice around.
+
+
+JANINE: [cross] No, we, I think— 
+
+
+ALI: Okay.
+
+
+JANINE: Yeah, we keep doing it with all the… die, right?
+
+
+ALI: Until the dice are gone?
+
+
+JACK: Until half the dice are gone. 
+
+
+ALI: Okay. Okay. Um… Y'know, I think I'm good with doing an outcome here if somebody else wants to establish— if somebody else wants to establish. 
+
+
+JACK: How do you want this scene to go? 
+
+
+ALI: Um… 
+
+
+JACK: Oh,  we don't actually need to say yet, I guess is the other thing.
+
+
+ALI: Okay, yeah.
+
+
+JACK: Like, we can frame a scene for—
+
+
+KEITH: [cross] Oh, is Ali gonna say at the end? 
+
+
+JACK: Yeah, Ali gets to do basically what we did, right, to just like— Ali can slide a dice into the scene as she's playing it and be like, I want this to go well. 
+
+
+JANINE: We just have to establish what that scene is.
+
+
+KEITH: Yeah.
+
+
+ALI: Okay, yeah. 
+
+
+JACK: Okay. So this is a Darren Cruiser scene.What do we know about Darren? Involved in a sort of hell plan— two hell plans. 
+
+
+KEITH: Wicked fun guy.
+
+
+JACK: Wicked fun guy! With, with Dax. Um, I'd like to see a scene between Darren and Never, since we haven't really seen those two.
+
+
+ALI: Oh, yeah! 
+
+
+JACK: Janine, why do you think, for what reason would Darren be spending time with Never?
+
+
+JANINE: Mmm…
+
+
+ALI: I am a supervisor. 
+
+
+JANINE: That's true. Do you think this is maybe like a… Part of me is like oh, should Darren be getting the coats? But the other part of me is like, what if they have like a supervisors' lunch every week that's like a, like a sink meeting where everyone like, is at the cafe and they shut the cafe off from the public and then it's like, everyone has to sort of touch base with what their current projects are.
+
+
+JACK: [cross] Oh, yeah. 
+
+
+ALI: Employees' high tea.
+
+
+JANINE: That's… hm, maybe. 
+
+
+[Ali laughs]
+
+
+KEITH: Is, is Boots in this scene? 'Cause we haven't had that second need in there yet. 
+
+
+JACK: Oh, the—
+
+
+ALI: Oh…
+
+
+JACK: But, but I could do that in my, we could approach that in our second time around the table I guess is the other thing.
+
+
+KEITH: Okay.
+
+
+JANINE: Yeah, we have time. 
+
+
+ALI: Okay. Yeah. Um… okay, yeah. We, do we… do I establish at this point? Do we still play the scene?
+
+
+JACK: Yeah, we play the scene.
+
+
+KEITH: Yeah, yeah, play— 
+
+
+JANINE: We play the scene, but we have to like, we have to decide outside of you, basically what the scene is.
+
+
+ALI: Okay. Which we've done. 
+
+
+JANINE: Is it gonna be the tea or is it like, another thing?
+
+
+ALI: [giggles] It's you.
+
+
+JANINE: Jack?
+
+
+JACK: Um… [sighs] Well, I feel like this is more Never's sort of, sort of zone than Boots'. I think Boots would probably be bringing— would be bringing tea, if there was, if there was going to be tea. 
+
+
+JANINE: Yeah.
+
+
+JACK: Or, oh—
+
+
+JANINE: [cross] I think this is—
+
+
+KEITH: [cross] Darren has a different sort of high tea. 
+
+
+[laughter]
+
+
+JANINE: Maybe this is actually a thing that— that— maybe this actually is not a, not an official like, interdepartment meeting, but like a thing that Never instituted because she wanted to be able to be like, in terms of social media like, here is what's happening here, and like this is a thing that's specifically for her. So she gets people together to be like—
+
+
+JACK: [cross] Yeah…
+
+
+JANINE: you need to give me content for this week. 
+
+
+JACK: Yeah.
+
+
+JANINE: So maybe this is that, and it's, it's in the… the, it comes in the form of hot beverages and little cakes and such. 
+
+
+JACK: From a three star, you know.
+
+
+JANINE: Yeah. 
+
+
+[Ali laughs]
+
+
+KEITH: Three star health cafe? [laughs]
+
+
+JACK: Yeah. Uhh… yeah. Um… 
+
+
+JANINE: Alright. So then… I think… Maybe people are grouped at tables like here's the table for the mammal people, and here's the table for the reptile people, and here's the table for the fish people— [laughter] and so on. And I think Never like, makes her, makes the rounds, so maybe she gets to the mammal table, which is probably a pretty big table actually, maybe it's small mammals and large mammals? She gets to like, the large mammal table, and sits down beside Darren, and she's got like maybe some uh… some like, Lady Grey, you know, she seems like a Lady Grey. [Ali giggles] She's got a cup of Lady Grey, and…
+
+
+KEITH: Is Lady Grey like, vanilla Earl Grey, is that what that is? 
+
+
+JANINE: I think so. I think it's like a daintier Earl Grey, I don't know, I don't really know. And I think—
+
+
+JACK: [cross] I'm looking it up. 
+
+
+JANINE: So she sits beside Darren. It might be worth, this might be the time to say that Never is probably like… probably dresses rather immaculately? Like she probably wears shoes that are practical to some degree, but like, she doesn't have to get in the enclosures, really, so she can afford to like, wear a nice, crisp jacket and stuff like that, and one of those like… like a jade pendant or something, you know, fancy lady stuff.
+
+
+KEITH: Lady Grey is Earl Grey that also has lemon peel and orange peel. 
+
+
+JANINE: Oh.
+
+
+ALI: Oh!
+
+
+JACK: Hm. 
+
+
+KEITH: So it's got bergamot, lemon peel, and orange peel. 
+
+
+JANINE (as Never): So, so Darren, can you uh… what're you, can you fill me in on what's going on with the, with the pachyderms?
+ALI (as Darren): Oh, a lot, you know? Um…
+JANINE (as Never): Mhm, mhm.
+ALI (as Darren): Uh, so, uh…
+JANINE (as Never): How's Maple? Maple growing up okay?
+ALI (as Darren): Yeah, the little ones are really coming along nicely. They've been getting into some trouble. I—
+JANINE (as Never): That's very social friendly, I like to hear that!
+ALI (as Darren): I have some pictures for you, did you retweet any of my, my tweets? About it?
+JANINE (as Never): Um, I didn't retweet them, I saved the pictures and then tweeted them from our account specifically, without credit. 
+ALI (as Darren): … That's fine. That's fine. Um… Yeah, y'know…
+
+
+ALI: [laughs] I think Darren, I just wanna describe this 'cause it's in my head, I think Darren ordered like, a cup of ice water with a lemon? And then poured it into like, a half-full like, like separate uh, like water bottle that he carries around? And is also wearing his like, uniform vest and has a hoodie on underneath, but the sleeves are cut off, and now it is like outside of the vest. You know what I mean? It's like, yeah.
+
+
+KEITH: [distantly, as Dax] Dope look!
+
+
+ALI: Um— [laughs]
+
+
+KEITH: [distantly, as Dax] Yo, dude, dope look! 
+
+
+ALI: Dax! He, he… uh… So… hm. Okay, I'm trying to decide  if like, this is the time when you become like, in on it, right? It's like— 
+
+
+ALI (as Darren): Y'know. You really, you're the person who talks to the people, right? Boots is the idea guy, but you're really talkin' to the crowd here, the people—
+JANINE (as Never): [skeptical] Boots the idea guy?
+[Keith laughs]
+ALI (as Darren): Well, with the phone? They* have all the phones.
+JANINE (as Never): Okay… Uh, yeah, sure, sure. 
+ALI (as Darren): He's like, really smart. He can do anything on a phone.
+JANINE (as Never): [cross] That is true, yes. Yes.
+ALI (as Darren): Okay.
+JANINE (as Never): Boots can do a lot of things on a phone, yes. Yeah.
+ALI (as Darren): Hey, I thought y'all were like a pair, like me and my dude Dax, but whatever, okay. So, I kinda need you… I need to talk to you about something. About a video that we're gonna shoot. Uh… so I, I see that you've been putting Boots out, you know, on stage and stuff, and we were thinking to kind of have like a… like a, like a… like a meet the animals kind of thing. Where Boots comes into the, the great cats section, and does a little, you know, here's the animals, we're gonna introduce you to them. Get some pictures in… get some videos…
+JANINE (as Never): [cross] All of the animals? 
+ALI (as Darren): Just the great cats. 
+JANINE (as Never): Oh. So not like, the goats and stuff. 
+ALI (as Darren): Well— I mean— so the greats cats section has an exclamation point? Like in the title. They're great!
+JANINE (as Never): They— they are, but, um. You know, my concern is, is uh, partially that they're great from a, from a safe distance? And the things that are great up close are like, the… the goats! 
+ALI (as Darren): [cross] No, no no no.
+JANINE (as Never): [cross] And, um…
+ALI (as Darren): Cats are great up close!
+JANINE (as Never): You know those, the little, the little dogs, the little dogs that we have.
+ALI (as Darren): We don't have dogs here, it's a zoo. You can see dogs at home.
+JANINE (as Never): The little— no, they're like the little uh, they're like the little whatever they're called, I forget.They're small and they stand up, it's, whatever. 
+ALI (as Darren): If you wanna see a puppy, you can just come to the—
+
+
+ALI: The animal I've already forgotten the name of for the third time! Peckies?
+
+
+JANINE: Peccary.
+
+
+JACK: The peccary. 
+
+
+KEITH: Peccary!
+
+
+[2:01:40]
+
+
+ALI: Peccary, okay. [laughs] 
+
+
+ALI (as Darren): It, you know, it would be, we could have like, once a week we could have a different animal, and we should start with the great cats 'cause they're like… they're the main event!
+JANINE (as Never): Okay, okay, we'll… hm. Can you define meet for me again? Like… 
+ALI (as Darren): I can see that you're nervous, and that's fine. You don't have to be nervous.
+JANINE (as Never): It's very bad for business when people get gored. 
+ALI (as Darren): No, no no no. There's not gonna be any gore. Have you seen the zoo? We're a safe zoo. Dax, Dax, Dax, those cats love him. Those cats love him. It's gonna be fine. People are gonna meet the— they're gonna see the cats online and be like, oh I've gotta go see that cat, look how friendly that cat is! 
+JANINE (as Never): Okay, but Dax, see… Dax carries himself in a certain way, where…
+ALI (as Darren): Yeah, great!
+JANINE (as Never): He very much embodies— his name. [Keith laughs] You know, he— he fits in with the leopards because they see him as a leopard, because he's very big, and has a very commanding presence. And I don't know that uh… that uh, that a twelve year old boy from out of state has that same presence. 
+ALI (as Darren): No, no no, you don't understand, Dax is gonna be there. You're— you're proving my point! Dax is a commanding presence. And he'll be there to command the cats, and Boots will be there to pet the cats, and then it's gonna be fine! And if anything happens, don't worry about it, cause it's gonna be fine! 
+JANINE (as Never): Sorry, Boots is going to pet the cats? 
+[laughter]
+ALI (as Darren): What else is he gonna do? 
+JANINE (as Never): Tweet!
+ALI (as Darren): No, no, no no no nono!  He can tweet after. Today!
+JANINE (as Never): Well technically he should tweet during because it's, it's fine, it's not your job to know these things. 
+ALI (as Darren): No, you're tweeting during, oh my— this is why Boots is the idea guy! You're gonna be tweeting, taking pictures of Boots, who's gonna be petting the cats with Dax, who has amazing command of the cats, and also a sick name! 
+JANINE (as Never): So, only Boots is going to be meeting the cats?
+ALI (as Darren): Do you wanna meet them?
+JANINE (as Never): No, I want no one else to meet them… is the thing that I want. If it's just Boots, it's okay. If it's every other guest in the zoo—
+ALI (as Darren): Fine, it'll just be Boots!
+JANINE (as Never): It's not okay. 
+ALI (as Darren): They're cool cats, they're great! They're great cats!
+JANINE (as Never): Okay, do you wanna… run some sort of scam where Boots looks like a stranger, just a visitor? Like we dress him up like a tourist or something?
+ALI (as Darren): Oooohh… Y'know, I wasn't thinking about running a scam.
+[laughter]
+JANINE (as Never): I— Y'know?
+
+
+KEITH: Now that you mention it… 
+
+
+JANINE (as Never): That word came to mind, but this is— this is, it's a trick they use in theatre. To, to feign audience involvement in a, in a safe and controlled manner. 
+ALI (as Darren): Y'know, you're the expert on that sort of thing.
+JANINE (as Never): Those people who sell magic oil on tv at two in the morning, they do it too, it works for them. 
+ALI (as Darren): Listen, you know socials, I know pachyderms, ask me anything you want about a hippo, I got it. I'm just saying—
+JANINE (as Never): Are hippo teeth flat like in cartoons? 
+ALI (as Darren): No. 
+JANINE (as Never): Okay. 
+ALI (as Darren): See? I knew that.
+JANINE (as Never): I just wanted to take advantage of that offer while it was out there. 
+ALI (as Darren): Y'know, anytime. Anytime you need me. 
+
+
+KEITH: Hippo teeth are flat in cartoons?
+
+
+JANINE: In some cartoons.
+
+
+ALI: Yeah, they look like… 
+
+
+JANINE: Like cylinders.
+
+
+ALI: Yeah.
+
+
+JANINE: They look like marshmallow teeth. 
+
+
+KEITH: Oh, you're totally right, yeah.
+
+
+ALI: Yeah. 
+
+
+JANINE: Yeah…
+
+
+ALI (as Darren): Yeah, just come down to the great cats exhibit next Sunday, two o'clock. Boots is gonna be there, Dax is gonna be there, just keep your camera ready. Whatever happens? Just keep your camera ready. Got it?
+JANINE (as Never): Why are you saying it like that?
+ALI (as Darren): Because I don't want you to put the camera down.
+JANINE (as Never): Well, I don't, I'm a social media manager, I don't put the camera down, people often get mad at me for that, actually.
+ALI (as Darren): Exactly.
+JANINE (as Never): Okay.
+ALI (as Darren): And I'll be mad at you if you put it down— no I won't, I'm— I'm sorry, that was wild, I shouldn't have said that, I'm not gonna be mad at you, but I do need you there to take the video.
+JANINE (as Never): Okay… Okay. 
+
+
+ALI: Oh, I have to decide? [laughs]
+
+
+JANINE: You do.
+
+
+KEITH: Yeah, was that good or bad?
+
+
+ALI: It seems… good?
+
+
+KEITH: [cross] I thought it was good! Yeah! I buy that.
+
+
+JANINE: If it, if it's bad, there's more to that scene.
+
+
+ALI: Okay.
+
+
+JANINE: If it's good, it stops there. So don't let the scene itself, the tone of the scene influence, you just pick what you want.
+
+
+ALI: Okay. I feel like that's a fine fadeout though, and it's probably like, you're on board now. It's a good scene. I mean— you being on board can also be a bad thing? But for— [laughs] 
+
+
+JANINE: That's true.
+
+
+ALI: Okay, perfect.
+
+
+KEITH: Well, we do, we do want to get away with cutting corners.
+
+
+ALI: We do.
+
+
+KEITH: And this scene is us continuing to get away with it. 
+
+
+ALI: Yeah. So I take this, do I also assign it back out again?
+
+
+JACK: Mhm!
+
+
+KEITH: Yeah. 
+
+
+ALI: Okay. I'm going to give it to… Dax, who probably needs some good luck. 
+
+
+KEITH: Thanks. I'll be chill, but thanks. 
+
+
+JACK: Okay. So. Now we go around one more time. And that's once we've gone 'round one more time, It's the end of the first act, and we hit the tilt. Which is sort of… where things begin to go awry? As if, you know, I think stuff's going fine at the moment. 
+
+
+KEITH: Yeah.
+
+
+JACK: I would like—
+
+
+KEITH: Technically we're one into the second round, Ali was the first. 
+
+
+JANINE: Yeah.
+
+
+JACK: Oh, there are one, two, three four five, yeah, five dice on the table. Okay. I would like to frame a scene? I would like to frame a scene with Boots. The zoo is closed, it's, it's dark. I am Boots. I would like to frame a scene with Darren. The zoo is closed, it's dark, and we've met up outside the kind of, lion enclosure where the current plan is that I will, you know, engage, engage with the lion. I've asked Darren to meet me there on, on real short notice. 
+
+
+ALI (as Darren): What's up? I came straight here.
+JACK (as Boots): Thanks. So… [sighs] Okay, we need to talk. 
+ALI (as Darren): My ears are open.
+JACK (as Boots): I've been researching lions. On the internet.
+ALI (as Darren): Uh.
+JACK (as Boots): And, and, and lions… they mate for life. You know, that means that once a lion knows who it wants to be with in the world? [snaps] That's it, they wanna be with them, you know, forever. 
+ALI (as Darren): That's sick!
+JACK (as Boots): It's pretty good, it's, it's pretty good. 
+ALI (as Darren): Yo, good for lions!
+JACK (as Boots): Yeah…
+ALI (as Darren): Out there makin' families.
+JACK (as Boots): Sure. Yeah. Um… but we only have one. Because um… remember that lion that, that you know… we told Dax should go to Trenton? 
+ALI (as Darren): Yeah. Yeah, that was a good lion.
+JACK (as Boots): That was his wife! That lion was his wife! No wonder he looks sad, Darren! He's sad because—
+ALI (as Darren): Oh my god…
+JACK (as Boots): His wife has gone to Tren— you know. And, and, and I had, you know, I'd, I'd remembered that fact about lions, that they're like, I love a family, and I'd remembered— I'd learned it in school and I kept it in the back of my head. But, and so—
+ALI (as Darren): You're kidding me, right? This is a joke?
+JACK (as Boots): [cross]  No, no, no!
+ALI (as Darren): 'Cause this is like— I would never do this to a lion, man, fuck!
+JACK (as Boots): [distraught] No, but we did!
+ALI (as Darren): My— my girlfriend moved to Trenton! This is horrible, it's the worst I've felt in my life, I did that to a lion?
+JACK (as Boots): Yeah!
+ALI (as Darren): I did that to a lion??
+JACK (as Boots): And Dax too! And, and I, I— something felt wrong about it. You know, when we did it. And I thought that— 
+
+
+[laughter]
+
+
+JACK: Keith in the chat says: "My Wife Has Gone To Trenton, and Boy She Is A Cat! Country Hits 14." Um, okay. Um—
+
+
+JACK (as Boots): Yeah, and I knew I should've said something about it but I didn't, and yesterday I was on Wikipedia, I was looking up lions on Wikipedia, and, and it suddenly dawned on me. So, do you— do you think he's gonna, do you think he knows? Does he know it was me??
+ALI (as Darren): Dax, or the lion?
+JACK (as Boots): I mean, Dax knows it was me! We talked him into it! That lion— does he know that, that I sent his wife to Trenton? 
+ALI (as Darren): I mean, I'm not gonna tell him, if that's what you're asking me.
+JACK (as Boots): Right, but how do we know? He looks sad, doesn't he?
+ALI (as Darren): Aw, he's been so sad, Dax is talking to me all the time! He's texting me every day about it.
+JACK (as Boots): Oh, is that a text now? From him? What does it say?
+ALI (as Darren): [laughs] Well, I, I was doing this thing before… wait, okay another one just came in he just— he said "yo." [laughs]
+JACK (as Boots): Okay.
+ALI (as Darren): "the lion is"-- okay, third text, he's still typing— "Yo, the lion is bummed." Let me ask, "for real?" [laughter] He's wrecked about it! I can't—  [sighs]
+JACK (as Boots): He's wrecked about his wife?
+ALI (as Darren): I can't believe we— he sent two crying emojis! That's two— two crying emojis, that's more than one. Damn.
+JACK (as Boots): Yeah, that's the two lions! 
+ALI (as Darren): [sighs]
+JACK (as Boots): Okay. 
+ALI (as Darren): I mean, what are we gonna do?
+JACK (as Boots): [upset] Well, I can't go in there!
+ALI (as Darren): Oh, you're thinking the lion's gonna see you. Wait. It's a leopard.
+JACK (as Boots): Oh. Wait. I thought— right, so. Hang on a second. Maybe I was confused about a bit of the plan. I thought that, and I wanna be clear I don't love any of this plan— I thought you were gonna dress up those leopards, those ones that don't look bummed yet, as black lions.
+ALI (as Darren): Yeah.
+JACK (as Boots): And then—
+ALI (as Darren): Ohhh.
+
+
+JACK: And Boots points—
+
+
+ALI (as Darren): Yeah.
+JACK (as Boots): I thought you were gonna… that one was gonna… was, you know.
+ALI (as Darren): And you think you're gonna— you're gonna go in there and he's gonna, he's gonna take the opportunity to get ya. 
+JACK (as Boots): Well, maybe he— he definitely knows.
+ALI (as Darren): [exhales] Whokay. Yeah, I mean he's been really bummed. And Dax is bummed too! And then if he's bummed, he's not gonna be commanding enough to save you during the attack! 
+JACK (as Boots): I'm not going in there, Darren!
+ALI (as Darren): Yeah you— okay. You're not going in there, you're quotation marks "not going in there."
+JACK (as Boots): Why did you say quotation marks and make them with your hands? You don't—
+ALI (as Darren): 'Cause you're going in there!
+JACK (as Boots): I'm not going in there, Darren! He'll mess me up, because of, because we did his wife wrong!
+ALI (as Darren): No, no no no no. How do we— Mmm. Okay. Okay. Okay, wait. Okay wait. So. Okay wait. I… 
+JACK (as Boots): Oh, that's another text from Dax. 
+ALI (as Darren): [laughs] Hold on. Yeah. [laughs] He texted me and said "I feel like I'm not commanding enough— when I'm still stuck on this lion!" Lion emoji, wounded emoji? [laughter]
+JACK (as Boots): I'm not going in there, Darren!
+ALI (as Darren): No, no no, we're gonna make this right. Okay, wh— um, um, um, what other lion facts do you know? They make families. Uh… whenever you go over to someone's house you have to bring them a gift. We'll just get him like a cake! We'll just bring a cake to the lion. And show that we're being—
+JACK (as Boots): [cross] No! In this case, I'm the cake! 
+ALI (as Darren): No, no no. We're gonna bring a second cake! 
+JACK (as Boots): [takes a deep breath] 
+ALI (as Darren): You're right that this lion, we've done wrong by this lion. You know what, I'm gonna ask Dax real quick. "What… do you do if you've disrespected a lion?" Dax is gonna know. Any lion question you have, ask Dax, by the way. 
+JACK (as Boots): Okay. 
+ALI (as Darren): Oh, you know about phones, right? Can you tell me why um, his texts keep coming in like, all spaced out like this? Like, he, they're like big. I don't know if it's like a setting on my phone…
+JACK (as Boots): Oh. Um… No, I don't know. I don't know! Look, I have some more concerns on my— okay. Okay.
+ALI (as Darren): It's f— 
+JACK (as Boots): Has he replied?
+ALI (as Darren): He hasn't yet, he's super bummed about these lions, dude. 
+JACK (as Boots): Well, maybe we could get it… back. Or, or make the lion think that… 
+ALI (as Darren): [laughs] I got a response. Okay, no no no, we're good, we're good, we're good, we're good. I got a response, we're good.
+JACK (as Boots): [cross] What does he say, what does he say?
+ALI (as Darren): "A lion— a lion can know exactly how you've hurt it just by looking into your eyes."
+JACK (as Boots): [cross] No, that thing's bad!
+ALI (as Darren): First thing, don't look at that lion. Do not make eye contact. Do not do that.
+JACK (as Boots): Okay. Don't look at the lion. 
+ALI (as Darren): Mhm. Second of all, you need to "make real material amends." And then he sent three— [laughter] He sent three sunglasses emoji, which I think means that I should contact my weed dealer, and then we can give some to the lion. Cause that's usually the—
+JACK (as Boots): [cross] No, that's poison. No, no, no. No, no, they'll— I have to make real material amends. 
+ALI (as Darren): Yeah. And then some mince cake, bro!
+JACK (as Boots): No, I know what we have to do. I know what we have to do!
+ALI (as Darren): [cross] You're the ideas guy.
+JACK (as Boots): Give me, give me, gimme, gimme your phone, I need to send Dax a message.
+ALI (as Darren): Okay. 
+
+
+ALI: [laughing] Jack, you're gonna have to unfortunately wait for me to mail— the phone, because, this is a real text conversation me and Keith have been having for the last scene! 
+
+
+KEITH: Uh, yeah, I actually do wanna mention the text thing's extra funny because I had already texted Ali as Dax? Before you brought this up. 
+
+
+[laughter]
+
+
+ALI: That just happened! 
+
+
+JACK: Oh my god! Okay.
+
+
+JACK (as Boots): I well— [stammers] We have to get the lion back.
+ALI (as Darren): From Trenton?
+JACK (as Boots): Yeah! From, real material amends, right? That's what it says! We have to get the lion back. And then think about how exciting it'll be when they can both pretend to attack me! Which is still a plan I hate, but that's better than…
+ALI (as Darren): Wait, wait, okay, so you— wait. You wanna get attacked by a real lion instead of a fake leopard?
+JACK (as Boots): They're both the same! Amount of frightening!
+ALI (as Darren): But that's not— okay, new plan! [sighs] we do have to get that lion back. Well— hm. Maybe that's the thing. Maybe… [Jack gasps] Wh? 
+JACK (as Boots): Are you thinking what I'm thinking?
+ALI (as Darren): I am. You tell me what you're thinking.
+JACK (as Boots): Okay. I use my contacts with Never.
+ALI (as Darren): Mhm.
+JACK (as Boots): And we organize a joint Trenton/Bluff City Zoo visit. They bring the lion, the lions meet, there's a rescue, the Trenton people are like, your zoo's really good… more people come to the zoo 'cause it's like a joint event. 
+ALI (as Darren): No, no no no. We gotta take the lion back. I'm not gettin'-- I'm not giving half of my million dollars to Trenton Zoo. It's like he said, zoos gotta look out for themselves. 
+JACK (as Boots): Zoos gotta look out for themselves. 
+
+
+JACK: And I think that's where we just like, snap cut to black? [Ali laughs] I feel like this is a negative result because uh, Darren and Boots have decided that they need to acquire a lion in another city? 
+
+
+JANINE: Yeah…
+
+
+JACK: Um… And I'm gonna give this die to Darren! Oh, that's not the one. It's this one! Okay. You were gonna say something, Keith?
+
+
+KEITH: I lost it.
+
+
+JACK: Okay! Okay. Janine, do you want to—
+
+
+JANINE: Okay. Uh… I think I want to establish a scene? Yeah. … I'm trying to think of what the best… what the best situation here is. In terms of what Never's priorities are right now? [laughter] Um… I think, I guess Never wouldn't know about this lion heist either. So… maybe her priority is… is it teaching Boots how to look like a tourist to pull off what she thinks this version of the scam is? 
+
+
+JACK: Yeah, I mean I'm up for that! I'm up for being taught how to look like a tourist!
+
+
+JANINE: Okay. Then I think Never calls Boots into her office at some point, her office, does she have a office?
+
+
+JACK: [cross] I guess—
+
+
+JANINE: I don't think she has an office. 
+
+
+JACK: Like…
+
+
+JANINE: She probably has like a desk, but like she probably… you know I like the idea that she's just like, in the peacock park a lot, and is like maybe a building attached to the peacock park that is like, hidden by like a really ugly mural painted by like, fifth graders? So maybe she calls Boots into the like, office slash supply structure in the peacock park? 
+
+
+JACK: It's like one of those like, port-a-cabin things. 
+
+
+JANINE: Yes! And I think she hands him this like, uh… it's just like a brown cardboard box full of stuff. 
+
+
+JACK (as Boots): What's this?
+JANINE (as Never): Okay, so these are the things— I'm assuming Darren talked to you.
+JACK (as Boots): Oh.
+JANINE (as Never): Or, I'm sorry, I'm assuming that Dax— was it… 
+
+
+JANINE: I forget who I talked to. 
+
+
+JACK: You talked to Darren. 
+
+
+JANINE: Right, sorry. They both have D names, okay! 
+
+
+[laughter]
+
+
+JANINE (as Never): I'm assuming Darren talked to you about the plan. And uh, so, I went ahead and I got some supplies that I think you'll need to make it a little more convincing. And… so, you know, you'll find, I think you'll find mostly expected things in there that you should be familiar with. There is a fanny pack, 'cause you're a very trendy tourist.
+JACK (as Boots): What? 
+JANINE (as Never): A fanny pack, because you're a very trendy tourist. And uh, I've also got some plastic sunglasses, and they have a tag on them, and you should probably leave the— you can take tag off if you find it irritating, near your ear, but you may wanna leave it on because it would be nice to return them after. If they're not damaged.
+JACK (as Boots): What's happening?
+JANINE (as Never): And uh, I have a t-shirt here. I was gonna get a t-shirt from the zoo gift shop, which would've been silly because if you were visiting the zoo, you wouldn't have put on the t shirt that you bought! You'd have it in a bag or something, so there's also a t shirt from the zoo gift shop in a bag that you can carry with you. And some uh, some khaki shorts. Kh— Khaki?  Khaki shorts. With pockets.
+JACK (as Boots): Am I getting promoted?
+JANINE (as Never): What?
+JACK (as Boots): What— why are you— why—? Is this for me? 
+JANINE (as Never): Yes, this is for you to wear for the uh, for the, for the lion, or for the, you know, the meet and greet thing. That thing? I don't know what they're calling it, I'll run it—
+JACK (as Boots): [cross] Oh, the attack? 
+JANINE (as Never): What?
+[Keith laughs]
+JACK (as Boots): The lion, the lion, the lion. When I meet the lion. 
+JANINE (as Never): Yes. When, when you meet the lion and then we will take some pictures of you and the lion interacting. Um. Gently. And uh, Dax will be there to make sure that everything goes very gently, and then we'll, everyone'll be very happy because they like seeing that, It's like those videos of the man and the lion hugging? Everyone loves those! 
+JACK (as Boots): Well, I hope it—
+JANINE (as Never): It has like, eighteen million hits!
+JACK (as Boots): I hope— eighteen million? 
+JANINE (as Never): So many! I mean if you combine— cause it gets mirrored around a lot so you have to like find them all and then do a lot of math, but it's a lot of millions.
+JACK (as Boots): So you want me to, to be dressed up.
+JANINE (as Never): Like a tourist. No one cares about a zoo—
+JACK (as Boots): [cross] When I'm saved from the lion?
+JANINE (as Never): And a lion, no one cares— why are you saying saved, I don't understand that stuff. No one wants to see an intern— [laughter] No one wants to see an intern interacting with animals at a zoo, that's just work. That's not exciting or cute. That's not clickable.
+JACK (as Boots): No, it's gonna be exciting. 
+JANINE (as Never): [cross] Buzzfeed's not gonna write an article about that.
+JACK (as Boots): Well we do want, I suppose, okay. 
+
+
+JANINE: Feedbuzz? What's the Bluff City Buzzfeed?  
+
+
+JACK: Probably Buzzfeed. 
+
+
+JACK (as Boots): So you want me to put this on when I go in the lion cage.  Enclosure, sorry.
+JANINE (as Never): Before, because if you do it when you go in, it doesn't— it'd be weird.
+JACK (as Boots): [cross] Right. Right, right, right. Right. 
+JANINE (as Never): Yes.
+JACK (as Boots): I have to be a tourist? 
+JANINE (as Never): Yes. 
+JACK (as Boots): Where am I from?
+JANINE (as Never): Um. Uh… Chicoutimi. It's in Quebec? In Canada? You're Canadian.
+JACK (as Boots): Oh, I'm Canadian? 
+JANINE (as Never): French-Canadian. You're French-Canadian.
+JACK (as Boots): Oh, I'm French-Canadian! I don't speak French.
+JANINE (as Never): You shouldn't speak because I don't think— yes. So You're not gonna wanna speak.
+JACK (as Boots): Oh. 
+JANINE (as Never): Or if you do speak it's okay, I can put some like, inspirational music over the video and no one'll know. 
+JACK (as Boots): What's this place… What if I have to give an interview? I might have to give an interview. 
+JANINE (as Never): We can just say no. You can say you're a private citizen, um… 
+JACK (as Boots): [cross]  I think people will want to interview me.
+JANINE (as Never): And if they want to interview you, they can uh… they have to pay you.
+JACK (as Boots): What?
+JANINE (as Never): And then they wanna be like, no, that's silly, and then they won't bother. 
+JACK (as Boots): Okay.
+JANINE (as Never): No one wants to interview someone who touched a cat, they just wanna watch it happen.
+JACK (as Boots): Right, but what about after the… you know, after the incident? 
+JANINE (as Never): Again, no one, no one wants to interview anyone who's touched a cat, I don't understand why this is confusing for you. 
+JACK (as Boots): What has Darren told you?
+JANINE (as Never): Um, I believe it was that he wanted some kind of cat encounter, I wasn't— there was a lot of… I was listening to a lot of, you know, the parrot people have this whole thing they wanna put little hats on the parrots and there's a lot going on, and I wasn't really taking notes, but I believe it's some kind of meet and greet. And I, I said for safety's sake, just in case, because cats can be a little— the big cats can be a little rough, you know, that it should be a zoo employee who looked like a visitor, so that people would get excited by the potential, but there'd be no actual liability. On our part.
+JACK (as Boots): No actual liability.
+JANINE (as Never): No. 
+JACK (as Boots): No liability. 
+JANINE (as Never): No liability. On the off chance that anything would happen, but again if Dax is going to be there, you know, he has that, he has that presence with the cats, and I think it's, I think it's fine, right?
+JACK (as Boots): Nah, he's super bummed. 
+JANINE (as Never): Dax is? 
+JACK (as Boots): Yeah, have you— he's, don't worry, he's, he's going through some stuff. 
+JANINE (as Never): Is he?
+JACK (as Boots): Yeah… he's going through some stuff. 
+JANINE (as Never): Okay, he seemed fine… 
+JACK (as Boots): You know, he, he, I don't think he's the sort of person who wears his, his heart on his sleeve? 
+JANINE (as Never): That's true. He is very guarded. 
+JACK (as Boots): Good with, good with big cats, though. Um, okay, I'll prepare to be a tourist. 
+JANINE (as Never): Excellent. You'll notice that the t-shirt I did get you to wear has a pattern on it? That looks like a steak? Um.. and that's, very, you know, I get a lot of ads for those on Facebook, the ones that're like meat or like, a close-up of pizza, or like a hairy chest, I just thought it'd be kinda fun. Yeah. You can keep it afterwards too, 'cause I can't return it.
+JACK (as Boots): [distressed] Why did you think it would be kind of fun, Miss Watson-Wiley?
+JANINE (as Never): It's— stuff like that's really on trend, you know?
+JACK (as Boots): Steak?
+JANINE (as Never): Like, whimsical clothing! I mean, I could've got you a hairy chest one. 
+JACK (as Boots): Uhh, no, I think… No, it's fine. Uh, it's fine.
+JANINE (as Never): I mean you're a tourist, you only get to wear clothes like that when you're havin'-- when you're havin' fun in a different place! When you go home, you gotta be boring again, so you gotta, you gotta act like you're really livin' it up, y'know? 
+JACK (as Boots): [sighs] Okay. It's been a strange couple of days, and I don't really understand what anybody's asking of me. But I will dress up as a man from Quebec and go into the lion's cage with a steak on my shirt. 
+JANINE (as Never): You'll be wonderful. You'll do a great job. It's, y'know, a lot of the time people think that PR is all about being in front of the microphone, and it's not, you know? It's not. There's more to it. 
+JACK (as Boots): Can you fill in the performance review for me please, because my college is, is asking for one and I don't mean to bug you but like… 
+JANINE (as Never): Oh. Yes, absolutely. It's uh, it's right on my desk, I'll get right to it. 
+
+
+JACK: Has anybody doomed us with the dice yet? 
+
+
+JANINE: [cross] Yes.
+
+
+ALI: [cross] Oh, yeah. 
+
+
+KEITH: I did it, oh, did someone else do a black die? 'Cause I also already did one. 
+
+
+JACK: [laughs] Oh, wow!
+
+
+ALI: [cross] Oh, did Janine already have, okay, so yeah.
+
+
+KEITH: Yeah, yeah.
+
+
+JANINE: I had, I had one.
+
+
+KEITH: So when, the, the moment there was the first dis— the like disconnect between the two different ideas of the plan I put a black die over at Janine. 
+
+
+JANINE: Perfect. Um… I'm going to give this black die to… Darren.
+
+
+ALI: Okay, thank you. It's Keith's turn.
+
+
+KEITH: Yeah, um…
+
+
+JACK: [cross] Yeah, Keith, you're up. 
+
+
+KEITH: [sighs] I'm going to set up a scene… with uh… 
+
+
+JACK: This is our last scene in the first act, right? 
+
+
+ALI: Oh, is it?
+
+
+JACK: I think so right, 'cause Ali you went first, you've played two scenes—
+
+
+ALI: [cross] Right, okay.
+
+
+JACK: I've played two scenes, Janine's played two scenes. 
+
+
+KEITH: So I wanna do more, I wanna do more about, I wanna do more with the sneezing monkeys. 
+
+
+JANINE: Uh huh? 
+
+
+KEITH: So, I'm gonna start a scene with… Never and then if anyone else decides they wanna hop, hop in that's fine. 
+
+
+
+
+KEITH (as Dax): But I did… fill up the whole phone with sneezes. It said I couldn't do any more than… sneezing to it. 
+JANINE (as Never): That's terrific.
+KEITH (as Dax): Do you need me to like um… can I keep the phone? Like how do I give these to you?
+JANINE (as Never): You know, you can text them to me, you can send them via iMessage, or you can email them.
+KEITH (as Dax): [cross] iMessage, does the Ten Six have that?
+JANINE (as Never): Or you can put them in a Dropbox if you have a Dropbox, or an iCloud. And then you would need to get the link, the shareable link for me from those, from those. 
+KEITH (as Dax): [under his breath] Shareable… 
+JANINE (as Never): Or Google Drive? It really depends on what other services are currently in your rotation. I'm pretty flexible, I use quite a few of them, so. Whichever you think is best. 
+KEITH (as Dax): If I put them in my dropbox are you gonna have to drive out there to pick it up, or? 
+[laughter]
+JANINE (as Never): I'm sorry?
+KEITH (as Dax): If I put them in my dropbox, will you have to drive out there and pick it up?  Cause if you need— I could just hand it— I could just give it to you. 
+JANINE (as Never): Okay, so uh… Dropbox is a digital service that um—
+KEITH (as Dax): No, dropbox is where like, me and Darren keep our weed. 
+JANINE (as Never): Okay. Um. [cross] Well I'm glad you keep it far enough away from work that you have to drive for it.
+KEITH (as Dax): [cross] It's in the alley between—
+JANINE (as Never): But… okay, let's use iCloud since it's native to the ios ecosystem. Or you could again, just, if you just text me the files that would be good? I can use it that way.
+KEITH (as Dax): That I can do. I can do a text.
+JANINE (as Never): Yeah, yeah. Don't just send me an emoji.
+KEITH (as Dax): What do you think— so why do you need my sneezing? 
+JANINE (as Never): Um, because then I can play it from my phone and then the monkeys will look at it, and then I can take better pictures. It works for a lot of different animals, but the monkeys in particular, because people like it when the animal is facing the camera, the feel… a kinship. With them.
+KEITH (as Dax): Why a sneeze? 
+JANINE (as Never): You know, it's a sound. Um. I've tried a lot of sounds, but the sneezes work best. Don't worry too much about it okay, you know cats, I know monkeys, it's fine. 
+KEITH (as Dax): Okay. Listen, there's two things I know.
+JANINE (as Never): Mhm?
+KEITH (as Dax): I know cats. And I know Just Dance for the PS4. And then the third thing that I know is, I know when someone's trying to pull… um. The sheep fur, the fur, the wool. When someone's trying to pull the wool over me. 
+JANINE (as Never): Like, to tuck you in?
+KEITH (as Dax): To tuck me into a trick. I think you're lying to me. 
+JANINE (as Never): [sighs] Now, why would you think that, Dax?
+KEITH (as Dax): I… don't… know. 
+[laughter]
+JANINE (as Never): Okay. Well here's, here's my theory. I think that… because you're, you know, I think it's because you're a cat person. And you know, cat people are inherently very uh… individualistic? 
+KEITH (as Dax): Uh huh. I— 
+JANINE (as Never): And very independent thinkers. Very smart and sharp. But sometimes to a fault, sometimes they look for things that aren't really there. You know, like cats chasing beams of light on a wall. And uh—
+KEITH (as Dax): Now, are you sure about this, 'cause I did have the doctor check and I am full person. 
+JANINE (as Never): Okay, um.
+KEITH (as Dax): Not a cat person.
+JANINE (as Never): I think you maybe need to look into your doctor, in terms of people who are trying to pull the wool over your eyes, if that is a test that they charged you for. 
+KEITH (as Dax): Yeah, they did. 
+JANINE (as Never): Cause that's not a real one. So, you might, that's my advice to you. I'm not HR, I don't do the medical plans and whatever, the insurance deals, I don't think that one should've gone through though, so you might wanna look into that. Is there anything else I could help  you with, Dax?
+KEITH (as Dax): Yeah, do you need any more sneezing?
+JANINE (as Never): Always. As many sneezes as possible. They get very bored of the old sneezes.
+KEITH (as Dax): Wow, that's so much sneezing, yeah, alright, I'll do it!
+JANINE (as Never): Thank you so much. 
+KEITH (as Dax): Do you have another phone, or do I use this one again? 
+JANINE (as Never): You can, once you've texted me the previous sneezes, I will send you an emoji of a monkey for clarity's sake, and that will be your sign that you can delete the old sneezes and then start recording new ones, okay? 
+KEITH (as Dax): Yeah, got it.
+JANINE (as Never): Excellent.
+
+
+JACK: Went surprisingly well, I think! I think that went—
+
+
+KEITH: Alright, so got, I got this here… Um… Here we go, Janine. I'm giving you a die. Now we all have two!
+
+
+ALI: Ooh! 
+
+
+JACK: It's currently looking real good for Darren and Dax— and real bad for Boots and Never!
+
+
+[laughter]
+
+
+JANINE: Yeah… 
+
+
+JACK: Which, which—
+
+
+JANINE: That makes kind of sense, but let's not worry too much about that right now.
+
+
+JACK: I feel, I feel fine about that. Should we take a little break, look over tilt table rules—
+
+
+KEITH: [cross] Yeah, quick break would be good for me too.
+
+
+JANINE: [cross] Yeah.
+
+
+JACK: [cross] And then come back for the tilt?  Alright.
+
+
+JANINE: Sounds good.
+
+
+JACK: Rad. Um, I will see you all in a bit!
+
+
+KEITH: Yeah.
+
+
+JANINE: Mhm! 
+
+
+JACK: Bye!
