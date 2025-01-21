@@ -50,13 +50,15 @@ def download_doc(episode):
 
 
 for sheet in wb.worksheets[1:]:
+    if sheet.title == "Patreon":
+      continue
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
     os.makedirs(f"mirror/{season['id']}", exist_ok=True)
 
     ep_i = 0
 
     for row in sheet.iter_rows(
-        min_row=(3 if sheet.title == "Patreon" else 2), values_only=True
+        min_row=(3 if 'Patreon' in sheet.title else 2), values_only=True
     ):
         if row == (None, None, None):
             continue
