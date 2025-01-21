@@ -2,6 +2,7 @@ import io
 import re
 import os
 import json
+import zipfile
 from slugify import slugify
 from openpyxl import load_workbook
 import requests
@@ -9,6 +10,7 @@ import requests
 import functools
 import shutil
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+import glob
 
 jinja_env = Environment(
     loader=FileSystemLoader("templates"), autoescape=select_autoescape()
@@ -49,7 +51,7 @@ def download_doc(episode):
             shutil.copyfileobj(response.raw, outf)
 
 
-for sheet in wb.worksheets[1:]:
+for sheet in [wb.worksheets[-1]]:
     if sheet.title == "Patreon":
       continue
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
@@ -100,7 +102,11 @@ for sheet in wb.worksheets[1:]:
             jinja_env.get_template("season.html.jinja").render(season=season)
         )
 
-    shutil.make_archive(f"mirror/{season['id']}", "zip", f"mirror/{season['id']}/")
+    for ext in ['pdf', 'epub', 'txt']:
+        with zipfile.ZipFile(f"mirror/{season['id']}-{ext}.zip", "w", compression = zipfile.ZIP_DEFLATED, compresslevel=9) as zipf:
+            for path in glob.glob(f"mirror/{season['id']}/*.{ext}"):
+                zipf.write(path, os.path.basename(path))
+
     # with open(f"mirror/{season['id']}")
 
 

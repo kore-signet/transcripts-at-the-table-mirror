@@ -8,6 +8,7 @@ openpyxl = "==3.1.2"
 requests-ratelimiter = "*"
 python-slugify = "==8.0.1"
 jinja2 = "*"
+py7zr = "*"
 
 [dev-packages]
 
