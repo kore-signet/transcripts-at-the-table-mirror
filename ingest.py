@@ -51,7 +51,7 @@ def download_doc(episode):
             shutil.copyfileobj(response.raw, outf)
 
 
-for sheet in [wb.worksheets[-1]]:
+for sheet in wb.worksheets[1:]:
     if sheet.title == "Patreon":
       continue
     season = {"title": sheet.title, "id": slugify(sheet.title), "episodes": []}
@@ -102,7 +102,7 @@ for sheet in [wb.worksheets[-1]]:
             jinja_env.get_template("season.html.jinja").render(season=season)
         )
 
-    for ext in ['pdf', 'epub', 'txt']:
+    for ext in ['epub', 'txt']:
         with zipfile.ZipFile(f"mirror/{season['id']}-{ext}.zip", "w", compression = zipfile.ZIP_DEFLATED, compresslevel=9) as zipf:
             for path in glob.glob(f"mirror/{season['id']}/*.{ext}"):
                 zipf.write(path, os.path.basename(path))
