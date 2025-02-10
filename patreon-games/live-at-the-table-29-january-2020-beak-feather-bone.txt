@@ -1,0 +1,4631 @@
+﻿Live at the Table Audio - January 2020 - Beak, Feather & Bone
+Transcriber: Nat (0:00:00 - 1:17:21), Luce (1:17:21-2:41:21)
+
+
+AUSTIN: Welcome to Live at the Table, an actual-play livestream focused on critical worldbuilding, smart characterization and fun interaction between good friends. I am your host Austin Walker, and you can find me on Twitter at @austin_walker. Joining me today are: Ali Acampora.
+
+
+ALI: Um, hi, you can find me at @ali_west on Twitter and you can find the show over at @friends_table.
+
+
+AUSTIN: Sylvi Clare.
+
+
+SYLVIA: Hey, I’m Sylvia, you can find me on Twitter at @captaintrash and you can listen to my other show Emojidrome wherever you get your [pause] podcasts.
+
+
+AUSTIN: [cross] Yeah? There was a-
+
+
+SYLVIA: [cross] Yeah.
+
+
+ALI: [laughs]
+
+
+AUSTIN: Okay. There was a weird delay on my side, maybe my internet’s bad.
+
+
+SYLVIA: [cross] Is my internet being weird today?
+
+
+AUSTIN: It might be, I don’t know, maybe it’s on mine.
+
+
+SYLVIA: You guys all sound fine to me, so…
+
+
+AUSTIN: Okay, good, uh, lastly we have Jack de Quidt.
+
+
+JACK: Hi, I’m Jack, you can find me on Twitter at @notquitereal or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Today we are playing Beak, Feather, & Bone, a map-labelling RPG which is made by, uh, Tyler Crumrine, uh, Jonathan Yee and Austin Breed, uh, you can see a map on the screen- 
+
+
+[muffled sounds]
+
+
+AUSTIN: I’m getting some mic noise, here, from someone, I don’t know what that is.
+
+
+[sound repeats]
+
+
+AUSTIN: That- that, happened again, um, I think it’s stopped, I think it’s stopped. Um, so, this game seems like it rules! 
+
+
+[mic noise]
+
+
+JACK: Some interesting mic- mic experiences.
+
+
+AUSTIN: [cross] We are getting-
+
+
+SYLVIA: [cross] I think it’s Ali.
+
+
+AUSTIN: [cross] Ali, I think it’s you.
+
+
+ALI: [cross] Okay, give me a second.
+
+
+AUSTIN: Uh huh.
+
+
+ALI: Yeah, I’m just gonna mute myself, you go through the…
+
+
+AUSTIN: [cross] ...you want us to introduce this game? Okay, uh… [laughs] Beak, Feather, & Bone…. I guess it’s Beak, Feather plus Bone but I’m just gonna say Beak, Feather and Bone, um, is a game inspired by the map-making games like Avery Alder’s The Quiet Year and archetype-focused RPG systems, uh, like, um, god, someone just told me two months ago how to pronounce Meguey’s name, I think it’s Meguey- is that right? Meguey and Vincent Baker’s, uh, Powered by the Apocalypse, Beak, Feather, & Bone is lightly- is a lightly competitive map-labelling RPG as well as a tool for collaborative worldbuilding. Starting with an unlabelled city map, players are assigned community roles before taking turns claiming and describing locations. You’re not building a city, everything on the map already exists, you’re merely fleshing out each building’s role in the community. As buildings are claimed, a narrative for the town and its inhabitants will emerge, including major NPCs and shifting power dynamics. This game is designed for one to ten players but can easily be played with more if you add additional community roles. For solo play, simply assign yourself multiple factions and alternate between them as you draw cards and label your map. Um, so what we need to play are a stack of note cards which I just kind of have-
+
+
+[mic noise]
+
+
+AUSTIN: Hi, you’re back.
+
+
+ALI: [strained laughter] Hi.
+
+
+AUSTIN: It’s making a noise.
+
+
+ALI: [cross] Did it happen again?
+
+
+AUSTIN: I know- Ali I know exactly the problem, you just have to tap the bottom of your microphone until it goes away. It’ll stop and then you cannot touch your microphone again for this recording.
+
+
+SYLVIA: [cross] Whoa.
+
+
+AUSTIN: I’ve had this problem now for about two months and I need to buy a new mic stand with like, the little connect-y deal-y, uhh, but- but until I do, I’ve- I’ve had to internalize this rule pretty severely.
+
+
+ALI: Okay, brb, it’s funny because I...
+
+
+AUSTIN: [cross] It’s fine now.
+
+
+ALI: It is?
+
+
+AUSTIN: Yeah.
+
+
+ALI: Okay, I- I have this big stupid water bottle and when you were talking before I saw the lid hit the bottom of my mic and I was like that wasn’t good and I didn’t realise it would- I was like oh we’re live, it was probably only a second-
+
+
+AUSTIN: [cross] Do you have your headphones plugged into your mixer?
+
+
+ALI: No.
+
+
+AUSTIN: You should plug your headphones into your mixer because then you will hear that noise.
+
+
+ALI: Alright, fair.
+
+
+AUSTIN: That is one of the reasons why we do that, I- well one of the reasons why people recommend you do that.
+
+
+ALI: Sure.
+
+
+AUSTIN: [cross] Uh huh.
+
+
+JACK: [cross] My headphones are plugged into a-
+
+
+ALI: [laughs]
+
+
+AUSTIN: [cross] I know, yeah, Jack, do you wanna explain your audio setup?
+
+
+JACK: I have a tower PC that, um, uh, its headphone jack is really weak, I had it repaired but it broke again, so I am currently- like a true gamer, my audio is being routed through a blue PS4 controller.
+
+
+SYLVIA: [laughing faintly in the background]
+
+
+AUSTIN: Perfect, uh you sound great, you sound fantastic.
+
+
+JACK: Thanks, my mic is coming through the USB mixer and everything.
+
+
+AUSTIN: That’s, right, but your audio.
+
+
+JACK: [cross] I’m coming to you through the- you’re coming to me through the gamer zone.
+
+
+AUSTIN: I- love to be in the gamer zone, everyone knows that, that’s why I made big choi- changes in my life in the last six months.
+
+
+JACK: Mm hmm.
+
+
+AUSTIN: Um, to play you will need a stack of note cards, we don’t have that but we have a, just this big empty space under each of our names, um, a writing utensil, we do have those, uh, because of this interface called Roll20, uh, coloring utensils, also covered, um, an unlabelled map, provided, a standard deck of playing cards, uh, right here, over here, uh, and a ten-sided die, optional, um, we can get one of those if we need it, uh, are we all good on that?
+
+
+[short pause]
+
+
+AUSTIN: I guess so, alright, step one - we’re just in it. Identify the center-most and/or most eye-catching structure on the map and draw a box around it. Uh, this will be our seat of power and won’t be labelled until the end of game. On our provided maps some strong choices for a game’s seat of power include- I’m not gonna look at their- theirs, I’m gonna- let’s-
+
+
+SYLVIA: [cross] Yeah.
+
+
+AUSTIN: Power to us- let’s ping stuff we think could be a seat of power.
+
+
+ALI: [cross] Yeah.
+JACK [cross] Let’s figure it out. This seems really cool.
+
+
+ALI: [cross] I, I-
+
+
+AUSTIN: Ooh, that little tent?
+
+
+ALI: [cross] Oh, I was thinking this.
+
+
+AUSTIN: There’s that also.
+
+
+JACK: [cross] Oh, that’s like a turtle’s shell, isn’t it?
+
+
+AUSTIN: It’s like a- true.
+
+
+SYLVIA: I pinged something down south.
+
+
+ALI: [cross] Uhh.
+
+
+AUSTIN: Ooh, that’s nice too, just down here, totally, yeah, it’s just- it’s just supposed to be eye-catching, okay, I’m gonna- I’m gonna- here’s what we’re gonna do. I’m gonna pick- we’re each gonna pick one and then we should vote and decide what the seat of power is.
+
+
+JACK: [cross] Oh, okay.
+
+
+AUSTIN: I’m going to pick, uh, oh wait, so can I get the other pings one more time?
+
+
+ALI: Okay, one, two, three, ping. [laughs]
+
+
+SYLVIA: [cross] Oh.
+
+
+AUSTIN: Uh, okay, one- so it’s like this, this thing here, this thing here, this thing here, uh, I’m gonna pick this, in the north west there’s this cave, right here, seat of power.
+
+
+JACK: [cross] Mmm.
+
+
+ALI: [cross] Sure.
+
+
+AUSTIN: [cross] So let’s vote, so, options, cave- Jack, what are you calling yours?
+
+
+JACK: Um, crystalline structure.
+
+
+AUSTIN: Crystalline structure, Ali, your’s is turtle shell or do you have something else there in mind?
+
+
+ALI: ...Fortress.
+
+
+AUSTIN: Fortress, and, and Sylvi?
+
+
+ALI: [laughs]
+
+
+SYLVIA: Mine, I immediately went to temple.
+
+
+AUSTIN: Okay.
+
+
+ALI: [cross] Oh.
+
+
+[microphone noise].
+
+
+AUSTIN: Oh- that- that audio is gonna keep happening.
+
+
+ALI: [Sighs] Sure.
+
+
+AUSTIN: [cross] Uh... temple alright.
+
+
+ALI: [cross] I’m not gonna touch my desk, is what I’m- I’m gonna do.
+
+
+AUSTIN: [cross] Huh? Okay, alright, let’s write the name of the thing - you can’t vote for your own thing - let’s all vote on what the seat of power is. So again it’s- it’s cave, fortress, uh, crys- crystalline and temple, right?
+
+
+JACK: Are we typing this?
+
+
+AUSTIN: Yeah, let’s all type it and don’t hit enter until we’re ready, um, [clicks tongue] [pause] okay, I’m ready.
+
+
+SYLVIA: Yup.
+
+
+JACK: [cross] I’m ready.
+
+
+ALI: [cross] Mm.
+
+
+AUSTIN: Three, two, one, vote!
+
+
+SYLVIA: Oh no.
+
+
+AUSTIN: [laughs] Fuck, alright, shit, fuck.
+
+
+JACK: [cross] [laughs]
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: [cross] Fuck, shit!
+
+
+SYLVIA: [cross] [laughs]
+
+
+ALI: [laughing] Should we flip a coin?
+
+
+AUSTIN: Yeah, we should flip a coin.
+
+
+JACK: Roll 1d2.
+
+
+AUSTIN: [cross], Yeah you got ‘em- whoa whoa whoa, you just need to decide what’s what before you roll.
+
+
+JACK: Crystalline is one.
+
+
+AUSTIN: [cross] Okay, okay.
+
+
+JACK: Temple is two.
+
+
+[short pause]
+
+
+AUSTIN: Crystalline it is.
+
+
+JACK: [cross] Crystalline structure it is.
+
+
+ALI: [cross] Okay.
+
+
+AUSTIN: [cross] Alright, so that is this spot here, I’ll mark it, I’ll just draw a black circle around it- the colors are important, uh, for reasons. Actually, Jack, you should do this because you know that- you’re the one who knows where it is, I just, I saw a ping but-
+
+
+JACK: [cross] Right.
+
+
+AUSTIN: -you had a spot in your mind and I want to make sure that that’s accurate.
+
+
+JACK: [cross] Mm, mhmm, okay okay, I’m gonna do a- a kind of an orange-
+
+
+AUSTIN: No, it should not be a color that any of us have.
+
+
+JACK: Okay, this is black, I’ve drawn a black-
+
+
+AUSTIN: [cross] Okay, that’s good.
+
+
+JACK: -wait can I command-z? I can’t. Well, there is a black square around it now.
+
+
+AUSTIN: Good, okay, there it is, okay, um, take a moment and go over the map, choose which landmark feels the most significant to you. Part two! Choose or assign community roles for each player. Illustrations are provided for inspiration but you won’t be playing as the characters themselves. Think of them as members of the community you’ll be representing as you build out your map. Each role is limited to one player, but players may adopt multiple roles if they like - see multiple roles - I say let’s keep to one, just- just the first time we’re playing this game, um, ah, and these roles whip ass! [laughs] Uh, let me- let me just grab, one second, let me uh, how can I add a source? One second, um.
+
+
+JACK: They’re so good, I love the- the confidence by which they’re presented as well, it’s like just a single sheet illustration of a character.
+
+
+AUSTIN: Yes, uh, I’m gonna separate this out so that it hides what other PDFs I have open because those are supposed to be a mystery. Ooh, uh, I just wanna show these off, uh, what the fuck, where did I lose- I lost it, uh... [pause]. A specific window PDF, there we go, okay, does that work? No, it does not work, okay, great, I love it, I love it when it doesn’t work. I love to have things just not, oh, this is a window capture? It’s probably a window capture, uh, and then… [quietly] boom, hell yeah, there we go, boom. Alright, so let’s walk through these, we got the mages - good scarf, uh, any other commentary on this mage?
+
+
+JACK: [cross] Mhmm.
+
+
+AUSTIN: I’ll just describe what we’re looking at by the way, for people listening who are not necessarily watching on screen…. [pause] What do we got here?
+
+
+ALI: Uh, it’s like a crow in a high-neck cloak-
+
+
+AUSTIN: Love it.
+
+
+ALI: -and around the outside of that cloak is like a really long scarf, a white scarf-
+
+
+AUSTIN: [cross] True.
+
+
+ALI: -fluttering in the-
+
+
+JACK: [cross] High collar is so good.
+
+
+AUSTIN: It’s very good.
+
+
+ALI: [laughs]
+
+
+AUSTIN: Uh, we got the miners, which is another bird person, a raven type p- bird, I don’t know the difference between a raven and a crow, I’m just gonna say it, I’m gonna say it’s-
+
+
+JACK: [cross] Size, that’s all it is.
+
+
+AUSTIN: [cross] Science? Is that the difference?
+
+
+JACK: Size.
+
+
+JACK AND ALI: [unison] Size.
+
+
+AUSTIN: Is that really it? There’s not like a-
+
+
+JACK: [cross] [laughing slightly] They’re different, they’re different birds I think.
+
+
+AUSTIN: But is it not, is size not the primary difference?
+
+
+JACK: I think probably visually, I don’t... there’s rooks as well, right? And jackdaws.
+
+
+AUSTIN: [cross] There are rooks. I always forget about jackdaws, that’s the one that I always forget.
+
+
+ALI: Um, there’s probably a vibe variance there too.
+
+
+SYLVIA: [laughs]
+
+
+JACK: [cross] Some meaner than others.
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: Um, yeah, okay, sure, that makes sense.
+
+
+ALI: [laughs]
+
+
+AUSTIN: [cross] Anyway, this miner has on a mining hat, has a vest on, has a bunch of pouches and a lantern, walking around- has hands, again, humanoid bird type, uh, miners.
+
+
+ALI: [cross] Mhmm.
+
+
+AUSTIN: Three, the farmers, does someone wanna describe this great, great bird farmer?
+
+
+ALI: [laughs]
+
+
+SYLVIA: Yeah, you got this bird’s little buddy with high-waisted pants-
+
+
+AUSTIN: Oh yeah.
+
+
+SYLVIA: -that are very, sort of-
+
+
+JACK: [laughs]
+
+
+SYLVIA: -how would you describe this?
+
+
+ALI: They’re scissor-like-
+
+
+AUSTIN: [cross] They are, like if you-
+
+
+SYLVIA: [cross] Oh.
+
+
+ALI: -like if the butt of the pants were where you put your fingers into a scissor, imagine that shape but if they were jeans.
+
+
+JACK: [cross] Oh, so this-
+
+
+AUSTIN: [cross] Mhmm.
+
+
+SYLVIA: [cross] Oh, yeah, and they have this really big belt and a cute little vest, and a hat.
+
+
+AUSTIN: [cross] And a bandana.
+
+
+JACK: [cross] This bird is chill, yeah.
+
+
+AUSTIN: [cross] It’s chilled out, this is a chilled out bird, this is a chilled out farmer bird, for sure. Next up we got the ranchers.
+
+
+JACK: [cross] This is a bit like the farmer but less chill, this bird is wearing a wide-brimmed hat-
+
+
+AUSTIN: [cross] Yeah.
+
+
+JACK: -seems to be smoking one of those cool, long cigarettes.
+
+
+AUSTIN: [cross] That cigarette is so long.
+
+
+JACK: -or it could be a [laughs]-
+
+
+AUSTIN: [cross] Or is that the inside of its mouth?
+
+
+JACK: [cross] It could alternatively be a short cigarette held in the very tip of the mouth, I don’t know.
+
+
+AUSTIN: [laughs]
+
+
+SYLVIA: I think that might be what’s going on- 
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: [cross] Oh, it’s like a-
+
+
+SYLVIA: -but I’d like to think that it’s very long.
+
+
+AUSTIN: [cross] Oh I love the idea that it’s very long. Uh, sword, for ranching.
+
+
+JACK: [cross] Lasso.
+
+
+AUSTIN: Ranching sword.
+
+
+ALI: Important thing I want to notice, about this rancher bird-
+
+
+AUSTIN: Yeah.
+
+
+ALI: ...casually smoking, hand still on the sword.
+
+
+AUSTIN: [cross] Hand still on the sword, ready to go.
+
+
+JACK: [cross] Oh, yeah.
+
+
+ALI: [cross] Ready to throw down.
+
+
+AUSTIN: Exactly. Keys on the belt, lasso on the side, this is a good bird right here.
+
+
+ALI: Mhmm.
+
+
+AUSTIN: Next up is the thieves, this is a wi-
+
+
+JACK: [cross] Sneaky.
+
+
+AUSTIN: -this is a sneaky, wiley bird, with a cloak on, I think? Is that a cloak?
+
+
+JACK: [cross] Sneaking, this is-
+
+
+SYLVIA: [cross] Yeah.
+
+
+JACK: [cross] -this bird is in an action pose.
+
+
+AUSTIN: Yeah, huaa [he makes various sneaky and action-y noises] that’s the sound [more noises].
+
+
+ALI: [laughs]
+
+
+SYLVIA: [laughs]
+
+
+JACK: [cross] What’s it got in its sack? Oh, treasure!
+
+
+AUSTIN: [Making ‘chyah!’ noises] Like that’s kinda what’s going on right here I would say, um, uh, yeah, I, shorts or capris? Where is a bird’s knees?
+
+
+SYLVIA: [cross] [loud laughter] Oh.
+
+
+ALI: Yeah, who could say?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: [cross] Are these Genji swe-
+
+
+ALI: [cross] Well we know- oh, you go.
+
+
+JACK: [cross] Oh!
+
+
+AUSTIN: Are they?
+
+
+SYLVIA: Are these Genji sweatpants? Ali?
+
+
+ALI: Uh, oh, maybe...
+
+
+SYLVIA: [cross] Is Ge-
+
+
+ALI: I think that they have to be, there has to be like a corner farther down to be Genji sweatpants but they do have the nice, the nice pulling at the bottom.
+
+
+AUSTIN: They do have that, they do have that.
+
+
+JACK: [cross] I like the idea of them being capris because that suggest that this [laughs] bird is kinda casual about what it’s doing as well.
+
+
+AUSTIN: Yeah, you gotta be on the run, you can’t- yeah, uh huh!
+
+
+JACK: [cross] Summer time vibes.
+
+
+AUSTIN: Um, next up we got the soldiers, now that is a professional.
+
+
+JACK: [cross] Oh, these are some Ordennan birds.
+
+
+AUSTIN: [cross] Yeah these are some motherfucking Ordennan birds, I lo- big swords, like holding out the sword, like resting, resting its, uh, arm on it and like kinda holding itself up by it, kind of a, like a crinkly arm and nose situation, that top beak-
+
+
+SYLVIA: [cross] Yeah like a, maybe beak almost-
+
+
+JACK: [cross] The word is peak.
+
+
+AUSTIN: If you look it up I believe the name of the sword is the flamberge- no, it’s not, there’s another, there’s a sword that does this wavy vibe.
+
+
+SYLVIA: I know exactly what you’re talking about.
+
+
+AUSTIN: [cross] Or maybe I’m right, if you do a search for flamberge you will see- I am right, F-L-A-M-B-E-R-G-E, it has this kind of wavy beak shape.
+
+
+ALI: Yeah, right.
+
+
+AUSTIN: [cross] Which I love.
+
+
+ALI: [cross] I want to make sure for people at home-
+
+
+AUSTIN: [cross] Yeah.
+
+
+ALI: -sword completely straight, beak wavy.
+
+
+AUSTIN: Beak wavy.
+
+
+JACK: [cross] Mmm.
+
+
+ALI: Yeah.
+
+
+AUSTIN: A good one single pauldron look, or maybe there are two pauldrons but they’re a- they’re asymmetrical, the, the right one is kind of like lower than the left one, but y’know stage left, it- y’know this person’s left, their left, is big and like dynamic and high, uh, and also there’s like a cool patchwork thing on, on their like tunic. I love it, it’s good, it’s a good bird.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Um, good long pants again, I like these pants, I like- baggy, comes in tight under the knee. The merchants... hoo, this motherfucker rich.
+
+
+SYLVIA: Yeah.
+
+
+JACK: [cross] He’s wearing glasses.
+
+
+ALI: [cross] Yeah, he’s looking good.
+
+
+AUSTIN: I think those are- hmm, huh...
+
+
+SYLVIA: I can’t tell.
+
+
+[0:15:00]
+
+
+AUSTIN: You know what? I have to compare, hmm...
+
+
+ALI: I think it’s similar to the other, ‘cause its-
+
+
+AUSTIN: [cross] Some of them have pupils.
+
+
+ALI: -eyes around the same way the soldier-
+
+
+AUSTIN: Some of them have pupils and some of them do not.
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: The ma- well the mages are all pupil, the mages are just a big black eye, the miners, the farmers, the ranchers, the thieves all have regular pupils, the soldiers just white eyes, the merchants either glasses or just white eyes.
+
+
+ALI: Hm.
+
+
+JACK: Interesting.
+
+
+AUSTIN: I like this tie, I like this watch-
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: -a little rotund, you know? Um, well-fed bird, it’s got its hand in its pocket-
+
+
+JACK: [cross] Is that a bolo tie?
+
+
+SYLVIA: Yeah, I was gonna ask.
+
+
+AUSTIN: I think it’s a- is it a bolo tie or is it a ribbon tie? ‘Cause it’s- it doesn’t have, like, the bolo, uh a bolo is like a-
+
+
+SYLVIA: [cross] Right...
+
+
+AUSTIN: -is like a long, two long things, right?
+
+
+ALI: [cross] Yeah, yeah, I don’t think the bolo has the top things, it’s usually like there’s a, um, there’s usually like a thing that’s keeping it there that isn’t, like, a tie, like a knot.
+
+
+AUSTIN: [cross] Right, this is…
+
+
+JACK: How are those fixed? How do you- is it a, is it a collar that you wear under your collar? How do you put on a bolo tie?
+
+
+ALI: You sneak it under your collar and then you have whatever the decoration is, like, pull it tight around your neck.
+
+
+AUSTIN: [cross] Yeah.
+
+
+JACK: Huh.
+
+
+AUSTIN: The- like, the strings run into the brooch or whatever, um, the bolo, right?
+
+
+ALI: Yeah.
+
+
+JACK: I do not like wearing ties.
+
+
+AUSTIN: No.
+
+
+ALI: Yeah-
+
+
+JACK: They’re uncomfortable.
+
+
+AUSTIN: [cross] Uh, the next up are the, are the elders and the elders have, the elders are, are kind of-
+
+
+JACK: [cross] So good.
+
+
+AUSTIN: -crouched over, um this elder’s got, is looking down at the ground, has a little cane covered in, in, uh, long, like, a long cloak, white cloak and has another little baby bird on its back. [laughs]
+
+
+JACK: [laughs] Yeah, riding along! You ever see birds that sit on the backs of cows, and yaks and stuff?
+
+
+AUSTIN: [cross] Yes.
+
+
+ALI: [laughs]
+
+
+JACK: That’s the life.
+
+
+AUSTIN: [cross] Yes. The clerics... more cloaks. Capes and cloaks all day long here, uh, clerics on a nice little walk I think, holding like a tree branch-
+
+
+JACK: [cross] Jolly!
+
+
+AUSTIN: -with like a, like a wand, or st- like a staff. Uh, big, a big rounded nose, you know, that’s a nose that has some wisdom in it.
+
+
+JACK: Austin, I don’t think that this cleric is holding a wand, I think this cleric is just holding a branch-
+
+
+AUSTIN: [cross] Is it a tree?
+
+
+JACK: [cross] -just, just a tree branch that they found, vibing!
+
+
+AUSTIN: [cross] Could, could be a tree branch, just- just vibing.
+
+
+ALI: [laughs]
+
+
+AUSTIN: I like the design on, like-
+
+
+SYLVIA: [cross] Not a phone in sight.
+
+
+AUSTIN: [laughs] -no, no phone, yes.
+
+
+JACK: [laughs] Not a phone in sight.
+
+
+AUSTIN: Um, the strangers, ooh, this is Pathologic 2!
+
+
+SYLVIA: [cross] Yeah.
+
+
+AUSTIN: [laughs]
+
+
+JACK: Harris Becks, you have failed.
+
+
+AUSTIN: What, what are we, wh- why is this a stranger? What makes this bird a stranger?
+
+
+JACK: Is it the brooch?
+
+
+SYLVIA: [cross] Yeah.
+
+
+JACK: Is it the fixing of the collar, of the, of the capelet?
+
+
+AUSTIN: [cross] Could be, yeah, could be.
+
+
+JACK: Is it the pants? The pants are very unusual.
+
+
+AUSTIN: [cross] You know what? You know what? I’m taking a look here, I’m just going to give this a little quick test-
+
+
+ALI: [cross] Those are the farmer pants.
+
+
+AUSTIN: -you know what, it is- I guess only the farmers and the stranger wear long pants. And they close, the, they close the scissors, those scissors are closed.
+
+
+SYLVIA: [cross] Follow the money.
+
+
+ALI: Mm, mhmm.
+
+
+JACK: [cross] Mmmm.
+
+
+AUSTIN: Um, here’s what I like, and I’ve just noticed this, so there is this kind of like poncho style top cape, right? This capelet, and then underneath there seems to be a second cape-
+
+
+JACK: [cross] There’s a second one.
+
+
+AUSTIN: -that’s covering this bird’s arms and torso.
+
+
+JACK: Gotta stay warm!
+
+
+AUSTIN: Gotta stay warm. Uh, so! We gotta pick, each of us gets to pick one of these roles! Uh, we could roll dice if we’d rather roll dice to see what we get, um, but I’m good for whatever.
+
+
+[pause]
+
+
+AUSTIN: Uh, I guess I’ll reread exactly here, um, choose one or- choose or assign community roles for each player, so yeah there’s not like a, there’s not like a…
+
+
+ALI: [cross] Do we, we wanna do like a ‘roll dice to choose the order that we pick in’ sort of situation?
+
+
+JACK: Ooh.
+
+
+AUSTIN: Sure, I will do whatever, I will do whatever everyone wants to do. I’m also gonna move the screen back to our game.
+
+
+ALI: Yeah, let’s all roll a 1d6 and then that’s how we pick.
+
+
+AUSTIN: [cross] Alright, I got a one, so good thing I don’t give a fuck.
+
+
+ALI: [laughs]
+
+
+SYLVIA: [cross] I got a two.
+
+
+ALI: I got a four.
+
+
+JACK: I got a six.
+
+
+ALI: Wow.
+
+
+SYLVIA: [cross] Okay!
+
+
+AUSTIN: [cross] Alright, so first order, Jack, Ali, Sylvi...
+
+
+SYLVIA: [cross] [laughs]
+
+
+JACK: [cross] Wow, we ascended.
+
+
+ALI: [cross] [laughs]
+
+
+JACK: Uh, I would like to, I would like to play the miners please.
+
+
+AUSTIN: Great! I will change your community role to miners, boom. Alright, Ali.
+
+
+ALI: I’m gonna go for the ranchers.
+
+
+AUSTIN: The ranchers... Sylvia.
+
+
+SYLVIA: I think I’m going to be the, uh… oof, I think I’m going to go with the- ooh, I’m torn between the clerics and the mages, um... I’m gonna go with the clerics.
+
+
+[20:05]
+
+
+AUSTIN: Alright, and I am gonna look at them all again.
+
+
+JACK: [laughs]
+
+
+AUSTIN: Um, let’s see, so we have ranchers, miners, clerics... In some ways I have the best option because I can play off of y’all and make a decision, you know what I mean?
+
+
+JACK: [cross] Yeah we should’ve done this inverse, too late now.
+
+
+AUSTIN: [cross] [laughs] Yeah, um, I’m going to be...
+
+
+JACK: [cross] Oh oops, I just drew a square.
+
+
+AUSTIN: So you’re the mages, how does- okay, this is tough, for me.
+
+
+ALI: [laughs] It’s just gonna be, well, I guess we’re b-
+
+
+AUSTIN: [cross] What’s up?
+
+
+ALI: We can- we’re not gonna play this game and be like, even though someone isn’t playing the mages there’s still mages here, right, or it’s not gonna work that way, um...
+
+
+AUSTIN: They are not gonna come up in play in the way that they- I mean they could come up as a side thing, but they won’t be a faction vying for power, these are the factions that are vying for power in this, in this space, you know?
+
+
+ALI: [cross] Right.
+
+
+AUSTIN: Um, you know what? I sent- Ali, I sent you a message, I don’t know if you remember this, um-
+
+
+ALI: Me?
+
+
+AUSTIN: Yeah, it was, it was a couple days ago, uh, what I wrote to you was, I miss Ordenna, so I’m gonna pick the soldiers.
+
+
+ALI: [cross] Aww, sure.
+
+
+AUSTIN: There we go, boom, soldiers,. Um, ranchers, soldiers, miners, clerics - classic novel. Alright, next step-
+
+
+JACK: [cross] Like John le Carré-
+
+
+AUSTIN: Uh huh, yeah, uh [laughs] you give each player, or each role if portraying multiple, a different coloring utensil for use during the game, you’ll be distinguishing territories from each other, so try to use a variety of colors for clarity. When we came in, Jack and I both had a type of orange, uh, and Ali and Sylvia had a type of, like, light blue. I’m gonna change my orange to a dark red, soldiers.
+
+
+JACK: [cross] Mmm.
+
+
+ALI: [cross] Okay.
+
+
+JACK: [cross] [in an ominous voice] It’s the color of blood.
+
+
+AUSTIN: But y’all can choose whatever colors you want as long as we’re not overlapping.
+
+
+ALI: I’m changing to a yellow.
+
+
+AUSTIN: Okay. [short pause] Jack and Sylvia, you’re good?
+
+
+JACK: Oh yeah, yeah, um, ooh wait, actually if Ali’s gonna be yellow I might change to another color, let me turn flux off real quick so I don’t confuse myself.
+
+
+AUSTIN: [cross] [laughs] Fair.
+
+
+SYLVIA: [cross] I was muted ‘cause I was snacking. Yeah, I, um, I’m going with pink and I’m good with that.
+
+
+AUSTIN: Sounds good.
+
+
+JACK: I’m gonna go with navy blue.
+
+
+AUSTIN: Perfect, a nice navy blue miners, we got pink for the clerics, love it, okay. Start play order with the person who most recently used a physical map to navigate somewhere, or via another randomization method. Play proceeds clockwise after.
+
+
+JACK: [cross] Or-
+
+
+AUSTIN: Does anyone have a bright and clear memory of the last time they used a physical map?
+
+
+SYLVIA: [quietly] No.
+
+
+AUSTIN: [cross] And a real physical map, not a digital physical map.
+
+
+ALI: Wh- oh, actually, Austin, remember when I, um... we were talking about the Chipotle that is [laughs] near you that hasn’t opened and I was talking about how I was currently in a mall looking for the Chipotle that was in the mall-
+
+
+AUSTIN: [cross] There you go.
+
+
+ALI: -’cause I walked down the wrong mall hallway?
+
+
+AUSTIN: [cross] Yeah, yeah, I do remember this, this was recent, I had a different a- I thought I was gonna have this and the answer… I’ll just tell you what my answer was, just for, like, the sake of-
+
+
+ALI: [cross] Mhmm.
+
+
+AUSTIN: -which was the last time I was in a hotel I had to use a map to find my room because sometimes you go up to a floor and wh- do I turn left or right, and you look at a map, or you find, or you find the numbers, but in this case I looked at a map, but this was way before the, the Chipotle conversation.
+
+
+ALI: [cross] Oh.
+
+
+AUSTIN: Also, time out, pause, I just wanted to give an update, if it’s okay. Is it okay if I just take over the podcast for a second?
+
+
+ALI: [cross] Please please please please.
+
+
+JACK: [cross] Yeah yeah yeah, uh huh.
+
+
+AUSTIN: Fans of Friends at the Table, and patrons specifically, might remember a Tips at the Table episode- when was this, August? Sh- uh, September? Where I was complaining that a Chipotle near me had not yet opened. Now, at the time, there had been a story that had run on We Heart Astoria, which is a website-
+
+
+ALI: [snorts]
+
+
+AUSTIN: -for people who live in the neighborhood I live in, Astoria, Queens, New York, uh, about the Chipotle opening up, and at the time it had said, hey, a Chipotle is gonna open up [clicks tongue] this August, that’s super exciting. It did not open up that August, friends. It then did not open up the next month, in September, which is when they said they would open up, it did not open up the month after that, and finally, in November, they said, hey, we said it was gonna open in November but we talked to them and they said it would be open in January. My friends, my listeners, it is March sixth, this Chipotle has not opened.
+
+
+JACK: [cross] [laughs]
+
+
+AUSTIN: It is almost a year since it was supposed to originally open.
+
+
+ALI: [cross] [sighs]
+
+
+AUSTIN: And more importantly, a thing that is unbelievable to me is I went looking for information about this and, one, I found out it’s probably about permits and not being able to get the permits to open up a restaurant and blah blah blah but they built it all out, like, it’s ready to go, like, it’s a built- it’s ready, um, but, I found posts about this Chipotle from the year before.
+
+
+JACK: [cross] [laughs]
+
+
+AUSTIN: I found posts from people being like, can’t wait for this Chipotle to open up this coming August, August 2018-
+
+
+ALI: [gasps]
+
+
+AUSTIN: -and that made me, it made my suffering a little less because I know there’s someone out there who-
+
+
+ALI: [cross] [laughs]
+
+
+JACK: [cross] People who, who, yeah.
+
+
+AUSTIN: Who’s been waitin’, waitin’ on, and listen, I know Chipotle isn’t, like, good Mexican food, I know I have good Mexican food options all around me, I know because I eat there, I like those options, but sometimes I want Chipotle and it hasn’t opened yet, and it makes me sad, and I wonder if I’ll ever be free to walk into a Chipotle only ten minutes from my house and get a gigantic burrito that’s kind of good. I don’t know, we’ll see.
+
+
+ALI: I hope I-
+
+
+JACK: [cross] When I think about- yeah, after, after losing that barbeque place.
+
+
+AUSTIN: Yeah, that place is gone, it’s true.
+
+
+ALI: [cross] [laughs]
+
+
+JACK: God.
+
+
+AUSTIN: [cross] Alright.
+
+
+JACK: When I think about Chipotle I think about my little sister who, uh, shook a bottle of carbonated orange juice, uh, there, to, y’know, stop the sediment from being all on the bottom, uh, and she had the cap off when she did it and she shot a perfect arc of orange juice clean across a Chipotle.
+
+
+AUSTIN: [cross] Amazing, um, perfect. Perfect Chipotle story.
+
+
+ALI: [cross] [laughs]
+
+
+JACK: That is my Chipotle memory.
+
+
+AUSTIN: Great one, alright, so, we’re gonna start with Ali, I think we should just go Ali, Sylvia, Austin, Jack if that’s fine?
+
+
+JACK: Yeah.
+
+
+ALI: [cross] Sure.
+
+
+AUSTIN: That seems easiest given the bottom of the screen where our names are laid out, um... So, we have to make a deci- um, I’m gonna describe what a turn looks like, then we’ll talk about how many turns we should take, because it’s up to us as to how many of those there are gonna be. Um… [pause]. Start- wait no no, that’s- each turn a player will draw a card and place it face up in front of them, the card’s suit determines what role a given structure will play, um, because, I guess, does it not say in this- let me see, dah dah dah, I guess it doesn’t explicitly say this but after you draw this turn- okay, here it is, yeah, okay. Each turn a player will draw a card and place it face up in front of them, the card’s suit determines what role the structure that they’ll be selecting will play, or will have played in the past in your community. If it’s a heart, it’s a social purpose, if it’s a diamond, it’s a financial purpose, if it’s a club, it’s a future purpose, and if it’s a spade, it’s a past purpose. Uh, card values determine-
+
+
+ALI: [mic noises]
+
+
+AUSTIN: Ali, it’s happening again, really bad.
+
+
+ALI: Okay.
+
+
+AUSTIN: Um, card values determine how much influence your faction has in the community, uh, and will determine who controls the seat of power at the very end of the game. Face cards are equal to zero in the seat of power calculations, which is interesting, ‘cause that’s like, that’s not normally what we say. Normally we think about, uh, face cards as being high, but here they’re actually low. Card values I, I said that already, so, once you’ve drawn the card, with your community role, suit, and influence value in mind, you then select a structure on the map, and you claim it by coloring it in, and then you write your turn number next to it on the map for organizational purposes. And then at that point you then take the, uh, that note card and you again, in this case we’ll just kinda I suspect put the card down, like, in our play field area, um, and then what we we’re gonna do is write down three sentences describing the building and/or its purpose and you’ll title those sentences beak, feather and bone, which is the name of the game. 
+
+
+AUSTIN: The beak sentence is what do people say about this place, how would a non-player character describe it? Feather is describe the structure’s appearance, what does it look like on the outside? And the bone is, uh, regardless of its appearance and reputation, what is the building like on the inside? This could be a physical description of the interior or an insight into the structure’s purpose. Um, try to keep your descriptions brief and don’t feel obligated to describe every little detail of a location, some buildings roles in the community will become clearer as other players flesh out the map and some will simply contribute to the local flavor. Either way, this is a collaborative game, so build off each others’ choices and don’t contradict them, instead lean into the rivalries, alliances or distances that emerge between communities.
+
+
+[0:29:10]
+
+
+AUSTIN: As a note, uh, face cards are not only, don’t- not only do they not count towards your winning score of who gets to control the center of the community at the end, um, but also, they, they are rivals, um, I don’t know if you know this but a rival can make a move at any time, uh, and when you draw a face card you also have to determine who your- what a rival, what rival is, um, opposing that structure’s purpose, and we’ll get there if we draw a rival card.
+
+
+JACK: [cross] [sighs] Their mechs cause humanity harm.
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: [cross] [laughs] Exactly, yes. Uh, after describing a landmark or rival then you move onto the next player, and then you repeat that for a number of turns equal to a cycle, or we repeat that cycle for a number of turns up to a number that we’ve agreed on, um, y’know, five per player for example is a suggestion here. Um, after the final turn each player adds up the cards they’ve drawn over the course of the game, the player faction with the highest total has the most sway in the community and is given control of the seat of power. They get to describe the seat of power with their faction in mind. So that is the game, basically. Uh, how many turns do y’all wanna do this for?
+
+
+JACK: Do we want to play a turn and then feel it out, or...?
+
+
+AUSTIN: [cross] Yeah, let’s do that, I’m good with that.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Um.
+
+
+ALI: I think in my heart of hearts I’m deciding between, like, two or three, right, or like three or four.
+
+
+AUSTIN: [cross] Yeah, three or four is kinda where my heart was, but that’s based on just my time availability today, so, um, so we’ll see, maybe it’ll go really fast and it’ll be like okay, cool, we can do five, so, we’ll see.
+
+
+ALI: Mhmm.
+
+
+AUSTIN: So, Ali you’re gonna go first but we have a bigger question which we’ve not even brought up here, which is like, what is this place? Who lives here? The book has a cool setting about raven folk that is drawing on, it’s, it’s- it’s drawing on both literal myths of, kind of um, crow and raven people, uh, like the kenku and the tengu, um, but also it’s also drawing on and often writing kind of against, kind of Western fantasy D&D-style, like, versions of the kenku and the tengu, and so that is, that’s interesting, but I don’t want to limit us to, like, this specific vision of what these people are. I don’t even know if they’re bird people, maybe they are, but that’s up to us, you know? What do you think- what do you think these people are?
+
+
+[Silence]
+
+
+AUSTIN: And by you I really mean everyone at the table.
+
+
+ALI: Mhmm. I um, I don’t mind if we shift from this, obviously, um, but I do, I do kind of really like the setting of this game, I read through it a little bit where it’s like, there are these birds that are here who were, don’t have flight and, um, different... yeah.
+
+
+AUSTIN: [cross] Yeah that’s up for sure, do you wanna, do you wanna read that section?
+
+
+ALI: [cross] Sure, yeah, let me get down there, um, odd raven folk, okay. “They’re people who go by many names, tenku, tengu, raven folk, and sometimes worse; monster, minion, evil. You’ve probably heard the legends too, that millenia ago raven folk served a powerful god, or demon, or warlock, or something beyond reading compression,” -uh, I have a mint in my mouth and I’m gonna get out of it. [laughs]
+
+
+AUSTIN: [cross] No worries.
+
+
+ALI: “Or be- or beyond, uh, comprehension, um, and that they somehow displeased them, and then that displeasure lead to divine punishment. The raven folks’ wings, uh, once their pride and joy, were taken from them, shrivelling to stumps before disappearing entirely. Not even skeletal signs of the lost appendages remain, leading some to wonder if they were even there at all. Um, according to legend, the deity took their language as well. A jealous god, they wished to protect their secrets, leaving the raven folk with only,” ...um, mim- mimi-cry?
+
+
+AUSTIN: [different pronunciation] Mimicry.
+
+
+ALI: Mimicry, okay [laughs loudly] we’re all good here [laughs again]. “This, however, is patently untrue. Raven folk are no more limited in speech than any other sentient species. On the contrary, many are more skilled in languages than most, picking up on dialects- dialects and nuances at astounding speeds. Generations of mistrust have merely taught them of the value of silence, whether perceived or actual.” Um, does anyone want to read the rest of this?
+
+
+AUSTIN: Sure, I’ll tag in. “Similarly-”
+
+
+ALI: [cross] I think it’s, like, three pages.
+
+
+AUSTIN: It is, I didn’t realize it was this long, it’s- I kind of blew through it before. “Similarly-” ...but if we’re gonna use the setting, we’re gonna use the setting, you know?
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: “Similarly, because of their wit, because their wit had been employed against their patron, the spark of creativity was supposedly torn from their souls too, condemning them to a life of eternal subservience to their betters. This last myth is an apocryphal excuse for racism, pure and simple. Still, raven folk stereotypes are hard to shake, even in their own communities. Often raven folk will look to the birds of the sky, flex their shoulders, and wonder: we’re so alike in other ways, why this crucial difference? What advantage is there to being confined to the ground? Surely this was never the plan. Surely this is a punishment. Surely we are a sinful people. Thus cycles of self-hatred continue. Many raven folk, ma- many raven folk desire nothing more than to return to the sky, they rigorously pursue magical knowledge with the express purpose of regrowing their wings. Others train as artificers, creating wings powered by gears, leather and steam. Still more travel the world in search of magic carpets, enchanted boots and witches’ brooms to at least chase that high. They crave, even worship, the sky, with the most influential members of their communities living in the tallest towers and structures. Other, darker impulses have emerged from the legends, bending myths for their own purposes. Some will punish raven folk by tossing them from high places, a reminder of the flight that was stolen from them. The worse the infraction, the farther the fall.”
+
+
+AUSTIN: “Others will discipline raven folk by forcing them to wear false gaudy wings for the length of the sentencing. Some religious fanatics will even fashion penance wings of their own, punishing themselves for whatever sins they or their ancestors must have committed. As with any creation myth, however, there are other legends and interpretations as well; the fall is merely the most prevalent one. For some raven folk, their lack of flight is seen as a blessing, not a curse. In an alternate creation myth, ancient raven folk once craved power beyond their reach. But before they could be cast down, another power intervened, a divine being in and of the earth and of the sky removed their wings not to punish them, but to protect them, holding them close like a mother holds a child. A once flighty and divided people were grounded, building homes among nature rather than the cold, empty expanse of the sky.”
+
+
+AUSTIN: “Even more believe that their people never had wings to begin with, uh, that the myths are just that, myths, and that they evolved from ground-living birds of the rallidae family rather than their raven namesake. Some prefer kenku or tengu precisely because these names distances themselves from raven stereotypes. Populated by the atheists, apostates and alternative faiths that exist among the raven folk, a new community was formed, one that was deeply skeptical of existing raven folk narratives. A city in the desert, deep in the ground, closer to the divine for some, and rich in resources. That city is Kcha’Kcha, a city by and for raven folk, uh, raven folks’ outliers. It is also our offer of a setting seed for Beak, Feather and Bone.” I like that setting quite a bit.
+
+
+ALI: Yeah.
+
+
+AUSTIN: So, given all of that, given the city in front of us, um, Ali, it is your turn, and you need to draw a card to begin.
+
+
+ALI: Sure.
+
+
+AUSTIN: Do you have access to do that? I don’t remember how this works that way. Yes, it does.
+
+
+ALI: [cross] I believe so, yeah.
+
+
+AUSTIN: [cross] Nice, good.
+
+
+ALI: I have an ace.
+
+
+AUSTIN: Can you play it to the table?
+
+
+ALI: Yeah, I hope.
+
+
+AUSTIN: [cross] Actually play it like under your name is probably, wait, where’d it go?
+
+
+ALI: It’s over here.
+
+
+AUSTIN: [cross] Oh I see it, yeah, perfect, um, uh, cool. Put it like all the way over to the left ‘cause you might end up- eh, you know what, there’s- that’s not that- mmm, yep, put it all the way over to the left ‘cause you’re gonna need some space to write [laughs]. Now that you have this ace, and it’s the ace of what, the ace of spades...? Right?
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: Um, that means that you will now color in anything on the map that you think relates to a past purpose, something that was, that- a building that used to do something else, um, I guess again I’ll read- “With your community role,” (so, ranchers,) “suit, a past purpose, and influence value, zero [laughs] in mind-”
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: “-select a structure and claim it by coloring it in, write your turn number next to it on the map for organizational purposes.” Then, uh, the other thing here is, we’re gonna have to get the rival moves because you drew a face card. [laughs]
+
+
+ALI: Oh, sure.
+
+
+AUSTIN: [cross] Oh wait, no no no no no, you know what, sorry, that’s not true, in this game it- the, they’re just calling jack, queen or king face cards, so… wait, is the ace then a one? Are they doing ace as one? Here? They must be. They must be doing ace as one. [Pause] I’m gonna search for ace in this book.
+
+
+[Mouse clicking, Windows notification noise]
+
+
+AUSTIN: Uh, I’m just gonna say it’s a one, it doesn’t come up, but...
+
+
+ALI: Okay, yeah that makes sense, um.
+
+
+AUSTIN: [cross] So yeah, so that makes- that makes sense because there isn’t one and that seems, yeah, alright. So that means you’re still doing a past purpose and its value is one, which means that whatever it is, it’s not a particularly powerful location.
+
+
+ALI: Okay.
+
+
+AUSTIN: [cross] Um, do you have a spot on mind here? In mind here?
+
+
+ALI: Um, I’m gonna got for this, like, weird little figure eight building over here?
+
+
+AUSTIN: I extremely don’t see but you can go ahead and start coloring.
+
+
+ALI: I’m drawing around it, maybe you can see it this way.
+
+
+AUSTIN: [cross] Oh I see it, yeah, it’s great, love it, love that building, great little building.
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: Um, with that in mind, now you’ve colored it in, uh, do you wanna write or type ‘one’ next to it in your yellow so that we remember?
+
+
+ALI: Sure.
+
+
+AUSTIN: I don’t think- I think we’ll be fine, given there’s only four of us and we might only play a few turns, but, um… So, now you have to answer three questions, the beak, the feather and the bone, and you can write those out next to your card, um, those are, what do people say about this place? Beak: what do people say about this place? How would a non-player character describe it? Feather: describe the structure’s appearance, what does it look like on the outside? And bone: regardless of its appearance or reputation, what is the building like on the inside? This could be a physical description of the interior or an insight into the structure’s purpose. Uh, I’ll read an example while you’re coming up with answers, um.
+
+
+AUSTIN: The first [loud laughter] oh, it’s so good! So, the first [laughs] the first example space in the book, uh, is a rancher player selects what we have decided is a crystalline house of power.
+
+
+SYLVIA: [cross] [loud laughter]
+
+
+ALI: [cross] Oh, sure, yeah.
+
+
+AUSTIN: And in this, in this, uh, test game, this example game, they’ve selected what the game book calls a ‘tent-looking structure’ colored in red and labelled at number one on the card, they write “red one: the slug tent.”
+
+
+JACK: [laughs]
+
+
+ALI: [cross] Sure.
+
+
+AUSTIN: [cross] “Beak: where ranchers showcase and sell the giant slugs they raise in caves surrounding the town. Feather: bright red and white cloth hang on the outside with banners and signposts marking entrances closest to the specific ranchers’ stalls. Bone: giant slugs languish in pens, ranchers showcase their herds to prospective buyers and butchers run food stalls serving up premium cuts.” So Ali, do you wanna tell me what’s up with this, this figure eight structure?
+
+
+ALI: Sure, yeah, I, uh…. Let me- I’m just gonna have the words in front of me. “What do people say about this place?” Um, oh yeah, I’m gonna go out of order, ‘cause that’s easier to…
+
+
+AUSTIN: [cross] Yeah, totally, do whatever you want.
+
+
+ALI: [cross] [laughs] Because I think the, um, I think I can answer bone the easiest, which is “what is this building like on the inside?” 
+
+
+AUSTIN: Sure.
+
+
+ALI: Um, and looking at it from this kind of top-down view there’s those two squares on the top of them which look to me like sunroofs.
+
+
+AUSTIN: [understanding] Hmmmmm.
+
+
+ALI: [cross] So I think that this place has, like, sort of a, like, mostly agricultural sort of situation, where it’s like, it’s kind of a nursery, right? And I think, since it was an old place initially, it was like, when people came to this town they sort of saw that it was set up for that, but, you know, there were… there was stuff with dust on it for years and years, anything that was being built in here has long since been dead, but the structure was there to sort of do those things, um, so when we moved in we sort of set it back up with, like, new- different kinds of plants, either just to like keep buds of, like, y’know-
+
+
+AUSTIN: [cross] Yeah.
+
+
+ALI: If there was like a huge leek, and we needed a bunch of wheat in the, the field that’s nearby, if we needed it, we would have some, like, sprouts all ready to go.
+
+
+AUSTIN: [cross] Yeah, cool! Uh, so that is, that is bone, for sure, that’s like what has actually happened on the inside.
+
+
+ALI: Yes.
+
+
+AUSTIN: What do people say about it, and describe its appearance? On the outside?
+
+
+ALI: Um, I think that from the outside it’s like one of those situations where there’s multiple entrances into the building?
+
+
+AUSTIN: [cross] Mhmm.
+
+
+ALI: So it seems really open in that way, there’s probably a bunch of windows, it’s probably a nice, like, sort of stone or clay made building. And then...what do people say about it? Um… [pause] I don’t know, I guess they say that it... [pause]. It seems spread out, that might be what they say, I think.
+
+
+AUSTIN: Okay, yeah, yeah.
+
+
+ALI: [cross] ‘Cause there’s sort of like a wide space for queues and it’s tough to like navigate or get from one into the other or like know where you’re going.
+
+
+AUSTIN: Love it, cool, I’m down.
+
+
+ALI: [cross] Sure. [laughs]
+
+
+AUSTIN: [cross] Uh, do you want to summarize those next to the card as, you know, simply as you can? I think we’ll probably be able to remember it but better to have a reference than not.
+
+
+ALI: [cross] Yeah, will do.
+
+
+AUSTIN: Sylvia.
+
+
+SYLVIA: Alright.
+
+
+AUSTIN: It is your turn, do you wanna draw a card?
+
+
+SYLVIA: Mhmm, okay... so I got a three of diamonds. 
+
+
+AUSTIN: Okay, that means that it’s rank three in terms of, like, power, or its influence, uh, and a diamond means it’s a financial purpose, so.
+
+
+SYLVIA: [cross] Okay. Okay, for the clerics…
+
+
+[0:45:02]
+
+
+AUSTIN: [cross] Yes. It’s a big map, the like, the more I look at it I’m like wow, there’s a lot going on on this map.
+
+
+SYLVIA: [cross] Yeah… Uh, oh gosh, I’m really trying to think of anything that, like, screams at me.
+
+
+AUSTIN: Screams- screams financial. [laughs]
+
+
+SYLVIA: Uh, yeah, exactly, you know? Um, uh [pause] I think that, like, I’ve been looking a lot at, like, sort of up on this like tier of the… you know that like elevation level, because it’s cle- like…
+
+
+AUSTIN: [cross] Yeah.
+
+
+SYLVIA: I think the way this is drawn, it goes in more.
+
+
+AUSTIN: Yeah, I think so too, I think it’s like deeper and deeper.
+
+
+SYLVIA: I’m kind of looking at this, like…
+
+
+AUSTIN: [cross] Yeah, I guess for people listening, there- this is like a linework map, uh, it’s just black and white with, you know like, um, kind of a multi-tiered city, where like there’s a bottom level at the, kind of very middle of the, of the map, and then as you kind of go outwards in concentric circles there’s, like, higher and higher tiers of, kind of rock layer that has different city structures spread out a little bit more. In the middle it’s, like, very dense, but as you get further and further away, uh, it gets further- stuff gets further and further apart, and also there’s like train lines and stuff down here it looks like, I don’t know if those work, we’ll see, but, but yeah.
+
+
+SYLVIA: So... I’m kind of, like, I’m, I, I think I’m going to pick, like, there’s like a little group of, I’ve circled it, this little group of just, like, squares, basically?
+
+
+AUSTIN: [cross] Yeah, sure.
+
+
+SYLVIA: Uh, and I immediately popped into my head and I guess like just look at the questions again to see, uh, how to make this fit each one, but like a marketplace that is owned and operated by the clerics.
+
+
+AUSTIN: [cross] Okay.
+
+
+SYLVIA: So I think, like…
+
+
+AUSTIN: Do you wanna give yourself the big house there too or do you just want, you just want these? Just want the stalls?
+
+
+SYLVIA: [cross] I just want, I like want it to feel, like, small, like-
+
+
+AUSTIN: [cross] Okay, right, it’s only a three, I guess that makes sense.
+
+
+SYLVIA: Yeah. It, it’s, the like, I think that they like, it’s more the significance of it?
+
+
+AUSTIN: [cross] Mhmm.
+
+
+SYLVIA: Just for, like, the, like what people say about it is it’s like, it’s a way to make your offerings to the deity that was once mentioned in that, um, thing we read at the beginning?
+
+
+AUSTIN: [cross] Like, the earth deity, nature deity? Or the-
+
+
+SYLVIA: [cross] Yeah-
+
+
+AUSTIN: [cross] Okay.
+
+
+SYLVIA: Like, by supporting the clerics it’s almost, like, paying tithes to it.
+
+
+AUSTIN: [cross] Oh, okay. [laughs]
+
+
+SYLVIA: And I think [brief garbled, disjointed audio] make, like, to get into describing the structure’s appearance I picture a lot of, like, stalls with these, like, statues or like charms and hanging [garbled audio] all have, like, relevance to the, um, to the Kcha’Kcha?
+
+
+AUSTIN: [cross] Say that last part one more time? Relevance to the…
+
+
+SYLVIA: I, I guess- Relevance to the Kcha’Kcha?
+
+
+AUSTIN: Oh, the faith of the- yeah yeah, the faith, the faith, the faith, the faith of Kcha’Kcha, which is the name of the location, yes.
+
+
+SYLVIA: [cross] Yeah, um, and yeah, I think like, the um, I’m trying to like, do these in my head with the questions too, so like beak was, it-
+
+
+AUSTIN: [cross] What people say.
+
+
+SYLVIA: Yeah, it’s where they go to make, like, say it’s like… I think what people say is, they are begrudging, they begrudgingly accept that it is a holy place, uh, and that it serves its purpose, uh, I described it as just a series of stalls, and on the inside it is just these, like, ‘cause we saw what the clerics look like and I am picturing them as all sort of diminutive? Because of that art? These, like, little, like, silently working birds just constantly like, um, like crafting these little things, and it’s always eerily empty, it always feels like you’re the only person visiting.
+
+
+AUSTIN: Mmm, I like this a lot, this is good.
+
+
+SYLVIA: I’ll uh, try and write those down more concisely.
+
+
+AUSTIN: [cross] Awesome, cool, alright, I am going to draw a card. I got the five of clubs. The clubs is a future purpose. Five isn’t that many, um, so let’s see… which, I’ll put that there. Um... I’m going to take, uh, did someone- did someone have a note?
+
+
+ALI: I was gonna say Sylvia, do you wanna put a two next to your…?
+
+
+AUSTIN: [cross] Oh, thank you, good catch.
+
+
+SYLVIA: [cross] Oh. A two or a one?
+
+
+AUSTIN: A one, a one, it’s still, it’s still turn one, still round one.
+
+
+ALI: [cross] Oh, it’s per turn, okay.
+
+
+SYLVIA: I’m gonna make this, I was just trying to type it and I’m like wait, no, this isn’t gonna be visible.
+
+
+AUSTIN: Let’s see…
+
+
+ALI: [cross] Oh, yeah, it’s so weird and small, I had some trouble.
+
+
+AUSTIN: Let’s do, I’m gonna take this space here. [pause] I don’t want to cluster, though, let’s see. [pause] Um, alright, I’m gonna, I am gonna take this, mmm, you know what? I’m gonna do it down here instead. Uh, this little two-part building, I’m going to do it with a box instead of doing it freehand, this is gonna work better [laughs]. Uh, there we go. There’s this two little... two-part structure here that’s like a building, and then it looks like there’s like a hallway, and then like another building, kind of?
+
+
+[51:05]
+
+
+ALI: [cross] Mhmm.
+
+
+AUSTIN: Or like a, like a walkway between the two? Um, uh, and that, let’s go through this list of things, um, what do people say about it? Uh, you know what, I’m gonna do the same thing that y’all do which is, what it is, and on the inside. There’s kind of two components, the southern half of this building, which is kind of a north-south building and the north building is much- much taller, the, the, uh, southern half is where people come in, and by people I mean soldiers, to deliver- or it will be this, this is still being created at this point, ‘cause it’s a future purpose, this hasn’t started happening yet, so actually I suspect it’s like the, the shot of it so to speak is, like, some sort of general or corporal or, or- those are very different in the power scale, it’s probably just someone in the middle there, like a lieutenant, um, is coming through and is setting up shop and they’re setting this place up to be a spot where in the southern half, soldiers come in to deliver the goods that they’ve retrieved. Uh, the northern half is huge storehouse where they keep them, and the goods they’ve retrieved are any magical implement or plant or book that has a spell in it, that has any sort of flight-based magic, so that they can kind of quarantine it all. The soldiers believe very much that, uh, that no one should be able to fly and that we have to break ourselves of this belief, and so as quickly as possible, and as, y’know, fervently as possible, we need to round up any magical implements- I swear this was not actually even an Ordenna thought when I first had it-
+
+
+SYLVIA: [cross] [snorts, laughs]
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: [cross] -but here we fuckin’ are, because I actually think that it is, that it is a, that there’s a, a similar degree of, like, paternalism here? But there is also a degree of, like, uh, it is much less an expansionist empire, and a much more- the soldiers go out in pairs and trios as like, these groups that kind of go off on adventure parties and then come back with stuff more than, like, a military force or a policing force in the city.
+
+
+JACK: [cross] Sort of like witch finders, of the- actual literature.
+
+
+AUSTIN: [cross] They’re like- exactly, exactly, yeah, exactly like that, um, and will often- but will also do the thing of like, did something float in your house? You gotta fuckin’ call us up, we’ll come through, we’ll figure out what floated, we’ll take care of it.
+
+
+JACK: [cross] 1800-NOFLOAT.
+
+
+AUSTIN: Yeah, exactly, like Ghostbusters-style, like if a book flies off the shelf, you let us know and we’ll come and, and get it for you. But right now it’s empty, right? Like right now it’s like, you know, in fact I think probably to bite off of, of your thing a little Ali, like it’s dusty shelves, it’s like it used to be used as a storehouse for, probably, you know, uh, wealth or something, but now we’re, like, clearing those shelves off, we’re selling any of like the old gems we’ve found in here and are filling it with- getting ready to fill it with stuff that could actually be useful and like- but not for us, so that’s what it’s like, that’s what it’s like inside.
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: I think on the outside, um, it’s a kind of a- it’s a kind of a short structure on the south and a taller structure on the north if you look at it from the east side where there’s this big avenue, you kind of see this little squat, uh, reception hall? Or not reception hall but like, entry, you know uh, building that you come in, and then the north side has no windows, no doors except for that one walkway, there’s no way into it, um, but the- the walls are starting to, or have crumbled to some degree up on the top, so like I don’t know that there’s parts of the roof that are missing, there are parts of, like, the roof, like guardrail area that’s missing, um, it’s all kind of painted in a kind of pastel color, but even that’s chipping away. And then inside, or- and then the, uh, I think that maybe the last thing is what people say about it, I think that there’s a like a lot of debate around this, um, because this is a spot where, I suspect, our people are divided on this issue, of what we should do with magic stuff that helps you fly. We don’t go after any other magic stuff, you have magic stuff that turns on, like, fire? Go for it, if you’ve got some magic ice shit? All yours, unless that ice shit is helping you fly, in which case you gotta give me them ice wings.
+
+
+ALI: [laughs]
+
+
+AUSTIN: And I think that there’s a lot of debate about this place and what it’s going to do because it’s one thing to go to someone’s house and say, hey we can get that thing that’s flying and take care of it for you, or you know, stopping a cult of the, kind of, flight sorcerers or whatever? It’s another thing to fully remove something from the world and put it- and lock it away, because what if you don’t believe that? Now that’s a thing that is not in your life any more, you know? And so I think that there’s a lot of debate about the use, the possible use of this kind of warehouse that is being set up. Um, let me add the number and then write all that down, uh, boom. Alright, Jack, do you want to go?
+
+
+JACK: Let’s see, draw one card…
+
+
+AUSTIN: I’m gonna use your system, which is good.
+
+
+JACK: I have drawn a jack of clubs.
+
+
+AUSTIN: Ooh, that’s- that is a face card.
+
+
+ALI: [cross] Mmm.
+
+
+JACK: Oh, and I just drew a very big line.
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: You did do that, uh, let me, let me just, you know what? Let me just delete this.
+
+
+JACK: You gonna remove the line, and I’ll move the jack?
+
+
+AUSTIN: [cross] I could also do that, yeah, there we go, uh huh.
+
+
+JACK: Um, I’m only able to draw playing cards with my name on them, that’s just an unfortunate property that I have.
+
+
+SYLVIA: [cross] [laughs]
+
+
+AUSTIN: [cross] Uh huh.
+
+
+JACK: Okay, so the jack of clubs is a zero-value face card-
+
+
+AUSTIN: [cross] Yes. Correct.
+
+
+JACK: -but relating to the... future, and also is going to involve the development of a rival, right?
+
+
+AUSTIN: Yes, correct, and we’ll get into those rules once we get there.
+
+
+JACK: Okay, hmm, okay, the miner birds have a, are digging a test pit, uh, and they are digging a test pit here, I’ve pinged it on the map, and now I am...
+
+
+AUSTIN: [cross] Uh, let me zoom out and see that, can you, can you show me that again?
+
+
+JACK: Yes, here.
+
+
+AUSTIN: Oh, it’s this building, this one?
+
+
+JACK: No no no below it, it’s like a rock with a line in it.
+
+
+AUSTIN: [cross] This one, okay, sorry yes, gotcha.
+
+
+JACK: Um, and I’m gonna draw a little blue square around it. Um, let’s do this in, uh, so what is this building like on the- what do people say about this place?
+
+
+AUSTIN: [cross] What do people say about it?
+
+
+JACK: I think that, uh, let me see what’s around it, there are, there are other buildings around it, I think that people are confused and unexcited by what the miners are doing. They’ve built rudimentary scaffolding around- this is again, this is like a future thing, so it isn’t, they haven’t made a bunch of progress yet.
+
+
+AUSTIN: Mhmm.
+
+
+JACK: But it seems like they have, they have climbed on top of this strange-looking kind of, um, like a rock with interesting geological strata in it, and are digging down from the top of the rock, they’ve dug this kind of letterbox-style shaft, first through the rock, and they seem to be trying to dig into the ground below the rock as well.
+
+
+AUSTIN: [cross] Mhmm.
+
+
+JACK: Um, people say, they say things like why didn’t they start from the ground? Why did they climb up the rock to start digging? They say things like can they dig more quietly? They say things like I am concerned about the fact that some miners have showed up and are digging into a rock near my house or my school, or the butcher’s shop or something.
+
+
+AUSTIN: [cross] [laughs] Right.
+
+
+JACK: Um, describe the structure’s appearance. It is a… I’m thinking of those, like rocks with, when you split them open you can see the lines of color from different geological strata?
+
+
+AUSTIN: Mhmm.
+
+
+JACK: Like sedimentary layers have settled and formed these kind of bands of color, and this is a big rock, sort of the size of a building, um, and there is, uh, rudimentary scaffolding being put up around the outside, and there are, there’s um, they’re building like a block and tackle-style crane to lower stuff into the hole, which isn’t very deep yet, um, and miners are kind of just crawling all over it, working at it with pickaxes and rudimentary pneumatic drills and things, I don’t know. Regardless of its appearance or reputation, what is the building like on the inside? It’s a very shallow trench, they’re trying to dig into a rock, um, and so far they’ve only got about as far down as maybe the, double the height of a bird? Uh, these humanoid birds-
+
+
+AUSTIN: [cross] Right, right.
+
+
+ALI: [cross] [laughs]
+
+
+JACK: -so maybe like ten feet, ten feet down, who knows if they’ve broken ground level, honestly? Uh, but there’s just- there’s always- it’s one of those things where there’s always someone in the hole talking to someone above the hole, um, buckets are being lifted up, the sides have been secured with wooden boards to stop them from, from falling in.
+
+
+[1:00:19]
+
+
+AUSTIN: Alright, so the other half of this is that “when you draw a face card, a jack, a queen or a king, on the back of your notecard you also describe a rival from another player’s community who opposes that building’s purpose. Similarly, describe the rival in three sentences labelled beak, feather and bone, in this case, beak; what is your rival’s reputation? Feather; what is your rival’s appearance? And bone; what is your rival’s true motivation?”
+
+
+JACK: Mmm…
+
+
+AUSTIN: Their example here, if you would like that, is… uh, is, duh duh duh duh duh, where’d it go, here we go, it’s a ten, that’s not it, there we go. Um, there’s a, an abandoned temple that comes up, and their, um, who they create is a cleric rival, the mage, Cordel Acassus.
+
+
+JACK: [cross] Great name.
+
+
+AUSTIN: ”Beak, Cordel is, is renowned throughout the city as the scientist, magician and philosopher who first made the case for raven folk evolving beyond wings, uh, rather than having them removed as divine punishment. Feather, a studious, lanky raven folk dressed in leathers, specked with ink stains and acid burns, and bone; a staunch atheist, it was Cordel’s teaching that intentionally turned the local majority away from religion, earning him multiple sects’ ire.” Love it, so yeah, rival, rival’s happening.
+
+
+JACK: Okay! This is a cleric, um, her name is Ka Arran, that’s K-A A-R-R-A-N.
+
+
+AUSTIN: [cross] Love it, good.
+
+
+JACK: She is a, a tall, spindly bird, uh, wearing clerics’ robes, carrying a book, carrying some kind of… I don’t know, Sylvi what are like, clerical instruments? I was gonna be like, she’s carrying, like, a theodolite or something, but that’s, like, miner stuff. It’s like, is it a wand?
+
+
+SYLVIA: [cross] Yeah, I don’t know… Yeah, I immediately got a sort of, like, like with just, I’m doing a lot of my characterization based off that one image, uh, with the like branch that they’re carrying, but a lot of it is just like… natural things that they find and repurpose, so it probably would just be like, a tree branch or some sort of tool that, like, has been constructed out of that, um…
+
+
+JACK: [cross] Yeah.
+
+
+SYLVIA: Yeah, I don’t know.
+
+
+JACK: Just like the sound of claws on the bare stone around the dig site, and, uh, the sound of the miners’ picks working in the stone, and I think Ka Arran, um, what is her reputation? She is feared as a fixer of the clerics, um, there are probably people in the clerics who are more powerful than her, and there are definitely people who have more sway in the community, but when the clerics need something to get done, and they need it to be done kind of, um, pragmatically, they will send Ka Arran to make sure that the problem gets sorted out. Um, bone, what is her true motivation? She, hmm… [pause]. As a cleric she has heard a story, that there is something buried in this particular place, and she doesn’t know whether or not the miners know this-
+
+
+AUSTIN: [cross] Mmm.
+
+
+JACK: -uh, but she wants to make sure she is there in case- you know, regardless of whether or not they do, she’s like I don’t know whether or not they know what I know, but I’m going to keep an eye on them to make sure that, that we are in control of this situation, regardless of whether or not they dig something up.
+
+
+AUSTIN: Great, love it, uh, alright, you go ahead and summarize that here to the right of your card, um, or near your card, however you wish, and now let’s decide, how many more rounds do we wanna do? [Pause] I think we probably need two more, I can’t imagine-
+
+
+SYLVIA: [cross] Yeah.
+
+
+ALI: [cross] Mhmm.
+
+
+JACK: [cross] To develop the…
+
+
+AUSTIN: [cross] Yeah, I can’t imagine being- feeling satisfied with one more?
+
+
+ALI: Yeah, let’s do three and see if we’re up for a fourth.
+
+
+AUSTIN: Okay, sounds good.
+
+
+JACK: [cross] Yeah yeah yeah yeah yeah.
+
+
+AUSTIN: Um, we should just- you know what we can do is, we can just do the thing that we do, that you do in Stewpot and go like, hey, do you want to take a smoke break? We done? How’s this feeling, is this the end of the game?
+
+
+ALI: [cross] Mhmm.
+
+
+AUSTIN: Alright, so this goes back around to you, Ali, go ahead and draw your second card.
+
+
+ALI: Sure. Oooh, this is a king of spa-? No…
+
+
+AUSTIN: [cross] Clubs.
+
+
+ALI: [cross] Clovers, clubs. [laughs]
+
+
+AUSTIN: [cross] Yeah, king of clovers. Uh, yeah, so again, this is a future use, so it’s not doing the thing yet, we get a lot of- this, this version of our town is not necessarily fucking jumping, we got lots coming in the future.
+
+
+JACK: [cross] They love planning.
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: Or stuff from the past. Like, that’s what we’ve drawn except for Sylvi’s, who has, Sylvi has, uh, an active and bumpin’ merchant stall setup over here. Everything else-
+
+
+SYLVIA: [laughs] That I described as most- [audio cuts off abruptly]
+
+
+AUSTIN: As what? One more time?
+
+
+SYLVIA: -described it as eerily empty, too.
+
+
+AUSTIN: Yeah, true!
+
+
+SYLVIA:  So I don’t know if bumpin’ is the right word.
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: Yeah, fair, fair, god, alright, so, you got a king of clubs, what are you, what’s, where is it? What is it?
+
+
+ALI: I did do that, and it’s a future place, and it doesn’t have a lot of influence.
+
+
+AUSTIN: Yeah, it has a future purpose, it doesn’t, it has zero influence in fact.
+
+
+ALI: None influence.
+
+
+AUSTIN: These, these poor ranchers just don’t have, they don’t have reach, you know? Or the range.
+
+
+ALI: [cross] Yeah [laughs], um-
+
+
+AUSTIN: I think ranchers should have range, I feel like range is literally the thing that ranchers are supposed to have, that’s what that song is about.
+
+
+ALI: [cross] Sure, sure, sure, sure, um...
+
+
+SYLVIA: [cross] [laughs] Fuck off!
+
+
+AUSTIN: [cross] [laughs]
+
+
+ALI: Okay, yeah, let me um… I’m just having a look at the rules.
+
+
+AUSTIN: [cross] Also it’s another rival will be on it’s way, that’s the other thing to think about.
+
+
+ALI: Sh- yeah, okay, um… Okay, I’m just pulling up the rules so I, so it’s fresh in my mind.
+
+
+AUSTIN: Mhmm.
+
+
+ALI: A future purpose, sure, okay, um… I think that it is this little, there’s like one of these little tiered round buildings over here? 
+
+
+AUSTIN: Which direction? North, south, east or-? 
+
+
+ALI: [cross] I can… oh-
+
+
+AUSTIN: [cross] I can’t see everything, uh, let me zoom out, oh there it is, okay I see it, yeah yeah yeah.
+
+
+ALI: I’m actually gonna do a square so it doesn’t cover up the thing, um, so… This little guy, this little, this little building here. Um, and I think that it… [pause] What do people say about this place? Okay, um, so I think because it’s kind of like a small place that’s surrounded by a bunch of other buildings it’s, um, it’s kind of taller than you would think. Um, there’s like a first floor and then there’s like a second floor with like sort of an outside balcony sort of situation, and then there’s like a third floor where it goes all the way up, um, and I think that because it’s a future thing, I think that this is intended to be sort of a, like, future rancher sort of organizing meeting house?
+
+
+AUSTIN: Okay.
+
+
+ALI: Um, because [laughs] there’s not a ton of like organizing to do at this point- or there’s a lot, but like not the sort of dedicated space that they’re setting up here, that they would need, you know?
+
+
+AUSTIN: [cross] Mhmm, mhmm.
+
+
+ALI: I think that it’s kind of like tight on the inside, um, I think that because it’s tiered in the way that it is, each of the floors end up feeling really distinct, where the first floor’s sort of this like kind of open air, um-
+
+
+AUSTIN: [cross] Right.
+
+
+ALI: -like, you know, welcome space where it’s, you know, very… Not a lot of, like, rooms, a lot of space to sort of move around in, you can see from one side of the, the building into the other, sort of, um, and then as you go up and up the spaces kind of get kind of tighter and more secluded as, like, bigger plans are going up on the top, you know?
+
+
+AUSTIN: [cross] Mmm, mhmm.
+
+
+ALI: And what do people say about this place? Um [sighs] I think that, as a community, people think that it’s a good idea, um, but I think that maybe they think that it’s a waste of resources at this moment.
+
+
+AUSTIN: [cross] So did you, did y’all build this, this is a new structure.
+
+
+ALI: Um, no, I mean it’s a- I guess it’s up to us, um.
+
+
+AUSTIN: [laughs] Uh huh.
+
+
+ALI: I, I- [laughs] I keep trying to, I keep thinking of these places as, like, found places that are being repurposed, um, I think that there’s probably been a lot of updates being put into it, um, a lot of work in terms of having to, like, take old furniture out and put new stuff back in...
+
+
+AUSTIN: [cross] Mmm.
+
+
+ALI: And again it’s just sort of the, like, oh, you know, we’ll have this here when we have the, like, you know, the cow-specific ranching team, [laughing] and then they have to meet with like the, you know, the tree-specific ranching team and it’s like, well there’s not that many of you yet, and we’re in the desert, there’s not that many trees, um, certainly respect that you have those plans but I dunno about them.
+
+
+AUSTIN: [cross] Right.
+
+
+ALI: So yeah, that’s the building’s vibe.
+
+
+AUSTIN: Cool, second half of this is-
+
+
+ALI: [cross] Yeah.
+
+
+AUSTIN: -is a rival who is opposed to this building’s purpose and is from one of our communities.
+
+
+ALI: Okay, yeah, um… [long pause]. I think that it’s gonna be one of the soldiers, I think that there is like a, not quite a commander but like, sort of the, like, lieutenant vibe who’s like trying to get up there, who is really adamant that it’s like, not chill. [laughs]
+
+
+AUSTIN: Mmm.
+
+
+ALI: What, what page are the, the rival rules on? Sorry, I just wanna look at it.
+
+
+AUSTIN: [cross] Uh huh, they are on page... eighteen, you’ll know because there’ll be a picture of a king card with a cool rancher [indiscernible 1:11:30].
+
+
+ALI: [cross] Sure [laughs]. Okay, I just wanna have the, the questions in front of me so I know I’m not over-answering or under-answering. So yeah, I think for bone the rival’s true motivation is to like be someone recognized in this army, to lead their own command, um, rather than being someone else’s second hand.
+
+
+AUSTIN: [cross] Mmm, gotcha.
+
+
+ALI: They sort of want this, the responsibility of like, having their own squad or whatever. I think that their appearance is... um, I think the current soldier art has those really cool shoulder pieces? But I think that this person wears, um, like armor mostly on their limbs.
+
+
+AUSTIN: [cross] Okay.
+
+
+ALI: Like big sabatons up to the knee, um, and then like, um, what am I thinking of? [pause] I guess just like chain whatever, yeah.
+
+
+AUSTIN: [cross] Right, but just like on arms and legs?
+
+
+ALI: Right, yes yes yes, yeah, and I think that their reputation is… hmm…. I think that their reputation isn’t a bad one, um, I think that there’s an eagerness that they have that ends up being endearing rather than something that causes a lot of friction.
+
+
+AUSTIN: Gotcha.
+
+
+ALI: Yeah, okay.
+
+
+AUSTIN: Um, I need a name for this person.
+
+
+ALI: Sure, yeah, um, hmm… 
+
+
+AUSTIN: And so again their motivation is basically like, they want to make a name for themselves and the way they’re doing that is by, like, this tower is no good.
+
+
+ALI: [laughs] Well I think, I mean, I think that because they’re trying to make the, the sort of name for themselves and for the sh- the soldiers and that way it’s been like, sure this tower could work, but like if we are gonna do that, are we sure that we should be doing this for the ranchers, right?
+
+
+AUSTIN: [cross] Ah I see, right right right. 
+
+
+ALI: Or should we make this a multi-purpose station where there’s gonna be these meeting rooms multiple different factions can use, so to speak.
+
+
+AUSTIN: [cross] Right, so that’s their beef, yeah, okay, gotcha gotcha gotcha gotcha.
+
+
+ALI: Yeah yeah yeah. [laughs]
+
+
+AUSTIN: The current character, the only other character we have is Jack’s rival, cleric rival, Ka Arran? Is that Arran right? 
+
+
+ALI: Yeah.
+
+
+AUSTIN: Jack? Pronunciation okay?
+
+
+JACK: Yeah, yeah yeah yeah.
+
+
+ALI: The name that’s coming to mind here is Cul, C-U-L.
+
+
+AUSTIN: Oooh, I like that a lot.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Um, cool.
+
+
+JACK: And they’re like, kind of a junior soldier?
+
+
+ALI: Yeah. Like someone’s right hand, you know?
+
+
+AUSTIN: Yeah, I got you, like there might be a bigger general but this person’s like, sees an opportunity here to kind of make some bureaucratic noise and get a little attention for themselves?
+
+
+ALI: Right.
+
+
+AUSTIN: Cool, alright, go ahead and start writing that down.
+
+
+ALI: Sure.
+
+
+AUSTIN: Um, I’ll also add a number to your thing while you’re doing that.
+
+
+ALI: Thank you.
+
+
+SYLVIA: It’s my turn now?
+
+
+AUSTIN: [cross] Your turn, Sylvia.
+
+
+SYLVIA: Okay, ooh, I got a seven of spades... that is a past purpose, okay.
+
+
+AUSTIN: [cross] Uh, seven of spades, jeez, yeah, uh huh, staying on the future and the past-
+
+
+SYLVIA: You know…
+
+
+AUSTIN: -like you do.
+
+
+SYLVIA: Oh, this is a seven too.
+
+
+JACK: [faintly, then at a normal volume] Um, the present isn’t real.
+
+
+[1:15:11]
+
+
+AUSTIN: [laughs] A seven is pretty good, a seven currently puts you- you are definitely in the lead currently in terms of influence.
+
+
+SYLVIA: [cross] Yeah. You know what, I- I’ve had my eye on this, like, little building up here this entire time.
+
+
+AUSTIN: [cross] I love that, that’s a good building, yeah.
+
+
+SYLVIA: Um, and I think it, um... let me look up the specifics again of Beak, Feather and Bone just so I can try and do them in order.
+
+
+AUSTIN: [cross] Well here’s- here’s the way I’ve been remembering it is, beaks are used to talk, so that’s the one about what people say-
+
+
+SYLVIA: [cross] Yeah.
+
+
+AUSTIN: -feathers are on the outside, so that’s describe the outside, and bones are on the inside, so that’s describe what’s happening inside.
+
+
+SYLVIA: So what they say about it now is that it is a place to, like, you stay away from there.
+
+
+AUSTIN: Oooh.
+
+
+SYLVIA: This was originally sort of a, um, it was almost like where the like, leader of this faith would go and like, isolate themselves for long periods of time and no one really knows what the purpose of this building was.
+
+
+AUSTIN: Mhmm.
+
+
+SYLVIA: Like outsi- [cuts off]
+
+
+AUSTIN: [cross] This building, for people listening who are not seeing what we’re seeing, is on the southern end of this town, on a kind of outcrop overlooking Jack’s weird multi-layered dig site, uh, and that- that itself overlooks the bulk of the center of the city, so this is kind of like out on a precipice on one of the highest cliffs, not the highest cliff, but one of the highest cliffs in this city. And do you want to describe what it like look looks like? It’s like a circle.
+
+
+SYLVIA: [cross] I’m trying to- yeah, so, I was looking at it, and then I looked over at what we have called the crystalline structure, and they both sort of have this panelling thing going on-
+
+
+AUSTIN: [cross] Uh huh, yeah, they do.
+
+
+SYLVIA: -and I think that- I don’t think this is made of the same stuff, I think this is made to try and mimic that?
+
+
+AUSTIN: Oh, interesting, okay.
+
+
+SYLVIA: Um, and then on the outside there’s also very clearly, like, the on- [distorted audio] the entrance and exit for it is facing the cliff, it’s not like, facing out like, um.
+
+
+AUSTIN: [cross] Okay, got it.
+
+
+SYLVIA: And then on the, uh, on the inside I see it as being covered in- like, it is not as used as much, like I think people have gone- [cuts off]
+
+
+AUSTIN: [cross] Right, right.
+
+
+SYLVIA: -some stuff. I think there’s a lot of old faded paintings of ravenfolk back when they could fly? Um, just like covered, the entire thing, and then like, a, like, not even like a map of the city but like a rudimentary, like, recreation of this crater that it’s built in on the floor? Like, painted on the floor.
+
+
+AUSTIN: Mhhhm.
+
+
+SYLVIA: Uh, and, like, my tentative name for this is The Observatory [audio glitches] or whatever? But, um….
+
+
+AUSTIN: [cross] Cool, I like that.
+
+
+SYLVIA: [cross] It’s basically like a seat of power for the religious-
+
+
+AUSTIN: [cross] -for the clerics.
+
+
+SYLVIA: Clerics, yeah.
+
+
+AUSTIN: Or it, it, was it originally that? Is it be- could it become that again? Is it-
+
+
+SYLVIA: [cross] It was-
+
+
+AUSTIN: [cross] Did something happen that stopped it from being that?
+
+
+SYLVIA: Yeah, I think what happened is just like, one ti-, like... I need to think of a good name for the leader of the clergy, but one time, but like, the most recent one went in there and then just did not come back out, and like, the clerics won’t really tell people what happened. Most people just assume oh yeah, they starved to death, but they have, they’ve kind of built it up into this like, almost like mythological thing, and that’s why they’ve managed to keep it like, important while not being used.
+
+
+AUSTIN: [cross] Right, while also, okay. Cool.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I’m likin’. And no rival this time, so good job, uh, alright. Do you wanna go ahead and summarize that and add the number two next to it?
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I will draw my next card… duh duh duh duh duh. Boom. It’s the five of hearts, our first heart. Uh, hearts is a social use, I believe, a social purpose. It is. Um, alright, and five is like a little bit of influence. Um, let’s see here… uhh, so we have the meeting space up there… Oh, I got it, for sure. This thing that we called a fortress at the start of the game, when we were trying to figure things out, this like big turtle shell place - and I think it is literally a big turtle shell - is right next to the storehouse that I set up on my first turn, like, literally next door to it, is a colosseum. 
+
+
+AUSTIN: From the outside, so this is the feather, it looks like- it looks like a big, like a gigantic empty turtle shell, something that would stand, in, in our world, you know, four stories tall, three or four stories tall. Um, uh, as if it was a living turtle at some point. And now, on the inside, it is basically a gladiatorial arena, and a place where people go to see the circus and where people go to see, you know, musical performances. But it's, it's... soldiers. It's a lot of, um, it's a lot of... [laughs] on the inside, so this is the bone, rows and rows of seating facing inwards, and uh, gladiatorial fights, um, lots of demonstrations of martial prowess, uh, every now and then, someone does like a, like a, a high level soldier, you know, prove the demonstration of a magical object, so that you can see what it looks like when flight magic is used? And that way you can identify it and tell us about it, but we also fucking know that people come to see that shit 'cause it's cool, and that's like a way for us-
+
+
+JACK: [cross] Like, titillating to be like, “ah, it floats!”
+
+
+AUSTIN: [cross] “It floats! Look at it! It floats, and like, the things float in different ways, um, and different things do things in different ways!”
+
+
+JACK: [cross] That's illegal!
+
+
+AUSTIN: [cross] That's illegal! This is bad, you don't want to do this, you gotta tell us about it, also you have to pay ten dollars to get in and see it
+
+
+JACK: [laughs] Ten bird dollars.
+
+
+AUSTIN: Ten bird dollars, thank you. Ten, uh, feathers? No, that's bad. Ten...
+
+
+JACK: [cross] Oh huh.
+
+
+AUSTIN: [cross]  What are people... like what are we, like pieces of twine? Like, what's bird- what's bird money look like?
+
+
+SYLVIA: I went to like, shiny pebbles immediately.
+
+
+AUSTIN: [cross] Yeah, definitely. I, listen-
+
+
+ALI: [cross] Yeah... I was thinking of like, yeah, things that are shiny and like, um... the tabs that you use to open a soda can?
+
+
+AUSTIN: Ooohh, those are good.
+
+
+JACK: [laughs]
+
+
+AUSTIN: Love that.
+
+
+ALI: [laughs]
+
+
+AUSTIN: Those are, those are our nickels.
+
+
+JACK: Mints making those.
+
+
+AUSTIN: Yeah, definitely. Um, and then what people say about it is that it's sick. Um, and a lot of people that are annoyed at us still like this part of it? This is like the, this is what a lot of people grew up, like, doing, was going to the colosseum to see the magic tricks, to see the sparring contests, to cheer for, you know, who had the coolest gear on, right? There's a degree of, there's a degree of pro wrestling to all of this, obviously, people have their favorite competitors, people have their favorite performers, um, and in some ways that is- that has been the big moneymaker for the soldiers, and it's where a lot of their social influence comes from? 
+
+
+AUSTIN: I think we do a lot of outreach via this, this connection, like, you know, it's one thing to... it's one thing when you send the weaselly bureaucrat to go complain about the tower, the meeting tower. That doesn't do much for us. But when we send, you know, Armstrong the Great, uhh, to, to your, to your PTA meeting, because we don't like what some of the rules that get made in the school... Armstrong can turn a crowd, you know. And so that is, that is, that is what this is, uh, in terms of how people talk about it. Uh, I'm sure some people think that it's maybe too violent or whatever, and then our response to that is, uh, it's a big dead turtle shell. It was always gonna be violent. Deal with it.
+
+
+ALI: [muffled laughter]
+
+
+JACK: [cross] How did that turtle get out of the shell? 
+
+
+AUSTIN: [cross] Probably not- 
+
+
+JACK: [cross] That's what I'm saying. 
+
+
+AUSTIN: [cross] That's- yeah, exactly. Who did that? [pause] ...Uh, alright! I will add and write this up. Uh... Jack, it is your turn.
+
+
+JACK: Okay. Um... [pause]. I have drawn a seven of clubs. 
+
+
+AUSTIN: [cross] Hmmm!
+
+
+JACK: Wow, theater again, huh?
+
+
+AUSTIN: Goddamn.
+
+
+JACK: Okay, but a fairly powerful one.
+
+
+AUSTIN: Yes. 
+
+
+JACK: Right, uhhh... Up here, there is a, a row of three by four, a grid of three by four tiny little squares.
+
+
+AUSTIN: Uh, let me zoom out so I can see this. This, this, the-
+
+
+JACK: [cross] The bottom again.
+
+
+AUSTIN: The audience can see it. Uh... yes, I see it. Yes, I- yes, I'll be honest, I like that section. I almost grabbed that on my first turn.
+
+
+JACK: Huh! So for the listener, uh-
+
+
+AUSTIN: [cross] So what are you gonna do- Yeah, you go ahead and describe it.
+
+
+JACK: This is, it's like a tiny... it, it looks like a, like a grid! It's just like a perfect three by four grid of little squares. Um, and these look like buildings, but they're not, they are... um.... uh, sort of pits, like I'm thinking a lot of like, you see dye manufacturers?
+
+
+AUSTIN: [cross] [hmms in agreement]
+
+
+JACK: ...have those pits dug in the ground that they, that they mix dyes in, um... And I think that this is where the miners are making acid.
+
+
+AUSTIN: Ohh! Interesting.
+
+
+JACK: Because if you're digging through stone, uhhh, and you are denied access to explosives by the, uhh, fairly active military force-
+
+
+ALI: [laughs]
+
+
+JACK: You have to come up with these kind of bootleg methods of digging. And sometimes one of the ways to do it is to create a substance, a corrosive to dig through the, um, the- the kind of porous rock in these situations. So, what do people say about this place? ‘I wish they would stop making acid.’
+
+
+AUSTIN: [laughs]
+
+
+JACK: ‘They extract it from snails, it smells terrible, and even setting the extraction process aside, the end result is highly corrosive. Children shouldn't play near it.’
+
+
+AUSTIN: Um.
+
+
+JACK: Describe the structure's appearance - oh, go on.
+
+
+AUSTIN: No, you go ahead.
+
+
+JACK: Describe the structure's appearance... It is... one, two, three, four... twelve, maybe four by four, uh, holes in the ground, each of which is filled with a thick, navy blue acid. There are miners wearing essentially, like, wading rain boots up to their waist, in a certain protective substance, poking at it with big sticks. There are strange snails crawling all over the edges of it, it's a ve- it's a super weird place. Bone: What is the building like on its inside? Um... It doesn't really have an inside, but there is a foreman's office, which is just like a Port-A-Cabin, um, to one side, like, a hastily put up thing in which an older bird wearing spectacles is like pushing the spectacles up his nose-
+
+
+AUSTIN: [laughs]
+
+
+JACK: -as they keep slipping down and just like, gesturing with their sheaf of papers to like, order some of the miners to work more on tank three, or get the snails away from tank two, or, you know, things like that.
+
+
+AUSTIN: Here is a question that I had before was, you got a future purpose. Can you, say, explain how this is leaning more future than present?
+
+
+JACK: Yeah. Um, the acid production is a two step process.
+
+
+AUSTIN: [cross] Okay.
+
+
+JACK: [cross] Well, no, that's not true, it's a three step process. Step one: get the acid from the snails.
+
+
+AUSTIN: Yeah.
+
+
+JACK: Step two: The acid has to mature or distill inside the tanks.
+
+
+AUSTIN: [cross] Yeah, I remember- Yeah, you said it was the acid, I get it.
+
+
+JACK: [cross] This bit is... [laughs] This bit is-
+
+
+AUSTIN: [cross] Slug acid, it's common.
+
+
+JACK: It's snail acid, and it has to mature, obviously-
+
+
+AUSTIN: Apologies. 
+
+
+JACK: First, snail acid-
+
+
+AUSTIN: Both slug and snail acids have to mature, I get those confused sometimes, I'm- I'm not a miner, so I didn't know.
+
+
+JACK: Right right right. Step three: Carry the acid to the, the thing. We are between step one and step two right now.
+
+
+AUSTIN: Got you.
+
+
+JACK: I would say six of the twelve tanks have been full, but right now, you know-
+
+
+AUSTIN: [cross] With slug acid. Snail acid-
+
+
+JACK: [cross] Snail, snail acid. Snail acid. 
+
+
+AUSTIN: Snail acid, apologies.
+
+
+JACK: But it, it hasn't matured, or distilled. Um, you could put your hand in it and you'd be fine. Uh, but if you didn't wash your hand, you know, in six week's time, it would... be really bad news.
+
+
+AUSTIN: [cross] Got you.
+
+
+ALI: [cross] [laughs] 
+
+
+AUSTIN: And if you put your hand in in six weeks it would also be very bad.
+
+
+JACK: Uh, yeah, totally.
+
+
+AUSTIN: Once it's matured it's a very fast-acting acid.
+
+
+JACK: Yes.
+
+
+AUSTIN: Okay.
+
+
+JACK: Oh, no. Wait, I just drew a- I just drew a big square again. [laughs]
+
+
+SYLVIA: [laughs] 
+
+
+AUSTIN: You did? That's nothing. That's a... boop, gone.
+
+
+JACK: Thank you.
+
+
+AUSTIN: Uh hmm! 
+
+
+JACK: Okay.
+
+
+AUSTIN: Uh... alright. Tch tch tch... uhhhm [pause]. Go ahead and write that down.
+
+
+ALI: It's...
+
+
+AUSTIN: And then we're back around to Ali.
+
+
+ALI: My turn? Alright.
+
+
+AUSTIN: It is.
+
+
+ALI: [hums] [sighs] It's the jack of diamonds.
+
+
+AUSTIN: [cross] Oh my god.
+
+
+ALI: Uhhh.... 
+
+
+AUSTIN: Okay, but at least that's a new pur-, it's a different purpose, it's a financial purpose. Uh...
+
+
+ALI: [cross] Financial purpose...
+
+
+AUSTIN: [cross] It is a financial purpose. But we'll see, you got it.
+
+
+ALI: [pause] [sighs] Ohh... And also not very influential.
+
+
+AUSTIN: [cross] Zero influence.
+
+
+ALI: [cross] Financial purpose.
+
+
+AUSTIN: Going into the third round. I just wanna say- let's just say going into the third round-
+
+
+ALI: [snorts]
+
+
+AUSTIN: Ali came in with zero influence, or sorry, with one influence from the ace, now has zero, got zero from this jack. I currently have ten, five from a future object, five from the colosseum, the, the social one. Uh, Jack, you have seven? And Sylvia has ten! We're tied. It all comes down to this. Unless we do another round afterwards-
+
+
+JACK: [cross] Ali-
+
+
+AUSTIN: [cross] ...in which case, don't worry.
+
+
+JACK: Ali, are you- are you out here making soda can, uh-
+
+
+ALI: [cross] [laughs] 
+
+
+JACK: With your ranching, soda can tabs?
+
+
+AUSTIN: Wait, uh- actually, I do have a question, what are you ranching?
+
+
+ALI: [inhales] It's weird 'cause I've been so broad this whole time, right?
+
+
+AUSTIN: [cross] Uh huh.
+
+
+ALI: [cross] Um...
+
+
+AUSTIN: [cross] I mean you could be banching- branching multiple things. Ranching is branching.
+
+
+ALI: [cross] Yeah, yeah, you know you gotta, uh, make sure the crops are good...
+
+
+AUSTIN: [cross] That's what they say.
+
+
+ALI: [cross] -make sure the animals are good...
+
+
+AUSTIN: Yeah.
+
+
+ALI: Um... and I do think that like, the ranchers are sort of trying to hit all of those, um, those things as they're are doing work here. Um, the thing that I'm gonna take is this space over here, it's sort of half cave, half uh, half a, whatever two story situation with this bird behind it?
+
+
+AUSTIN: [cross] Oh, I see it, yeah! Yeah yeah yeah yeah. 
+
+
+[1:29:55]
+
+
+ALI: [cross] Um... [quietly] Let's see what I can do with this square, um... So. Drawing the square. Looking at the rules. Starting to talk into my microphone. Okay [laughs]. Um... okay. Starting easy. This place is a financial purpose because it's like, a, um, a livestock selling center?
+
+
+AUSTIN: [cross] Oohhh, okay!
+
+
+ALI: Um, I- I don't think that it's primarily just, you know, just for people who want to buy their own cow or whatever, I think that it is also processing, like, cow's milk to sell, for instance, or things of that nature. Um, we're birds, so we probably don't have cows or anything like that [laughs].
+
+
+AUSTIN: [cross] Snails.
+
+
+ALI: [cross] We could, um... What did you say, I’m sorry.
+
+
+AUSTIN: [cross] Snails? Snails?
+
+
+ALI: [cross] Snails, ohhh, snails perhaps.
+
+
+AUSTIN: [cross] We know that there's snail acid.
+
+
+ALI: [cross] Yeah...
+
+
+JACK: You have to drink the milk really quickly.
+
+
+ALI: [laughs]
+
+
+JACK: Poison.
+
+
+ALI: Um, yeah. Snails. Or... um, kinda don't want to just do all ty- types of bugs, but I was thinking like, um... [pause] like caterpillars, things like that. Transportation... Snails are transportation. Right? [laughs]
+
+
+AUSTIN: [agreeing] Uh hm!
+
+
+SYLVIA: Yeah!
+
+
+ALI: [laughs]
+
+
+JACK: [cross] You're a bird!
+
+
+AUSTIN: [cross] Yeah!
+
+
+SYLVIA: [cross] I've seen- I've seen Neverending Story.
+
+
+ALI: [cross] Yeah.
+
+
+SYLVIA: With that one guy.
+
+
+ALI: [cross] [laughs]
+
+
+AUSTIN: Yeah.
+
+
+ALI: Perfect. Um, I think that this is also sort of maybe like a snail rental space, where if it's just like-
+
+
+JACK: [delighted noise]
+
+
+ALI: 'Cause I, the, the reason I picked it was proximity to this bridge, so I assumed it was a sort of situation where like, we had to leave the sort of tiered city wall, to wrangle in these beasts. And then bring them in and domesticate them. Um, or for people who are travelling, who just wanna stop by and get some snail milk - I hate that I just said snail milk out loud [laughs].
+
+
+AUSTIN: Hmhmmm.
+
+
+SYLVIA: [in the background] You know...
+
+
+ALI: [laughs] 
+
+
+SYLVIA: [laughs]
+
+
+JACK: You still living in that memory of when you said snail milk?
+
+
+ALI: [laughs] I'm trying to... get to the other side of it, I'm not there yet- okay. Uh, the structure's appearance. Um... [laughs] I think on the side, facing the, um... the bridge, there's like a very clear welcome center- [Windows notification sound] There's an opening with barn doors, um, it's sort of the... the like, you know, 'hey, come on down' sort of situation-
+
+
+AUSTIN: [cross] Umhmm.
+
+
+ALI: Whereas the back side, I think there's [laughs] more use for, um, like, a community purpose? Um, so there's probably- again, there's probably multiple entrances and if you're coming up that weird cave that's right underneath it, or if you were going up the stairs on the side 'cause you only need to go to the top floor for some reason, or, um, if you need to get into a separate section on the downstairs floor, um... And [pause] I think that people say that this place is too far out of the city center. Um, and the ranchers are like, “I get it, but we have this bridge right here-”
+
+
+AUSTIN: [cross] Uh huh.
+
+
+ALI: “And if we have to bring these snails out, you know, for snail walks, or put them out on the snail, uh, ranch, uh, you know we gotta get them outta here.” [laughs] But then people are like, “Well, if you're gonna sell them- like you can't be a rancher and a- and a, a goods store.” But then the ranchers are all like, “Yeah, but like, we put the stuff in bottles, and the bottles are here.” [laughs]
+
+
+AUSTIN: [cross] Uh hmm.
+
+
+ALI: So just like, come on up. Um, so there's a little bit of tension there, but... it's all good.
+
+
+AUSTIN: [laughs]
+
+
+ALI: We're trying to make it work.
+
+
+AUSTIN: It'll be fine.
+
+
+ALI: Yeah, it'll be fine, just, you know, just come on up here. Um... there's other buildings that we, we start using these other buildings and then it'll, you know, be more useful to you. Come this way. Um... and then I have a rival, right? 
+
+
+AUSTIN: Uh... you do also have another rival, yeah.
+
+
+ALI: [laughing] I sure do have another rival.
+
+
+AUSTIN: Fuck, why are people- why are people out here trying to stop the ranch? The ranchers don't have shit, the ranchers have ze- one influence!
+
+
+ALI: [laughs] Um... okay. Um... I don't mean- I guess it makes sense to sort of piggyback here, but, uh.. because I think that there is a... a miner who [pause, exhales] I think it's also sort of a situation where they're all like, just like, an employee within this sort of, this sort of mining square/slug zone that Jack just talked about. That one.
+
+
+AUSTIN: Yes, yeah yeah yeah yeah. 
+
+
+ALI: [cross] Um.
+
+
+AUSTIN: [cross] Of course. Oh Jack, can you- oh, you did number it. You're good.
+
+
+JACK: Snail.
+
+
+ALI: [laughs]
+
+
+AUSTIN: Uh huh.
+
+
+ALI: Where um, I think. Okay. I think that she is like a... she's involved in the, the sort of... like, actual like, stabilization phase of the, the slime acid? Um-
+
+
+AUSTIN: [intrigued] Hmmmm.
+
+
+ALI:[cross] I don't know how you make slime acid exactly, but I do think that there's, like-
+
+
+AUSTIN: [cross] Oh, you're not a miner. That's fine.
+
+
+ALI: I, you know, am not a miner, um, but I do think that there's like, a specific step of the work where you have to make sure that you know how acidic it is. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: And if you're, you know, you gotta be careful [laughs]. So I think that she, she does that sort of work in this, this [Windows notification sound] space here. Um, and, um... I think that she, she's like a bird who... what's going on with this bird situation? Oh, a lot of these birds are wearing hats.
+
+
+AUSTIN: They are.
+
+
+ALI: They are. Uh...
+
+
+AUSTIN: That's true.
+
+
+ALI: It's- I was trying to think- the first thing that came into my head is like, someone with like, you know, a big apron, a bunch of stuff in the apron's pockets, gloves on, but then also who had their, her, her like [car honking in the background] hair tied back? And I don't think... that she has hair [laughs].
+
+
+AUSTIN: Why?
+
+
+ALI: But I do think that she- [laughs]
+
+
+AUSTIN: I don't follow.
+
+
+ALI: [laughing] You know, I know it's tough. Well, 'cause she's a bird!
+
+
+AUSTIN: You know, bird- bird with hair. I'll google it.
+
+
+ALI: [cross] Birds can have hair-
+
+
+AUSTIN: [cross] [googling] Birds - with - hair.
+
+
+ALI: I don't think she has hair but I do think that she has a section of feathers on-
+
+
+AUSTIN: [cross] Everyone should do this search, it's very good. These fucking birds-
+
+
+EVERYONE: [laughs]
+
+
+AUSTIN: It's like they got hair- 
+
+
+JACK: [cross] Oh...
+
+
+ALI: [laughs]
+
+
+AUSTIN: Everyone should do this search, I'mma pull it over here, is what I'm gonna do, let me grab this link.
+
+
+ALI: Let me pull up this youtube before I forget it.
+
+
+AUSTIN: You just gotta, you gotta look at these birds. 
+
+
+ALI: Hair- birds with hair is the...?
+
+
+AUSTIN: Just birds with hair, I didn't even put quotes on that shit. I just did a search.
+
+
+JACK: Hey, Austin?
+
+
+AUSTIN: Hey, what's up?
+
+
+JACK: I'll put it in the chat - how about this one?
+
+
+AUSTIN: Let me see here...
+
+
+JACK: How you feeling about this one?
+
+
+AUSTIN: Just wanna make sure this is, this is- chat, can you see my screen? I think you can, but, uh, let's see. Uh... which chat did you put this in? Oh, this chat, okay.
+
+
+ALI: [cross] [laughs] This is also the one that stood out to me, this little like, bird bow tie?
+
+
+AUSTIN: [cross] Oh, look at this one.
+
+
+SYLVIA: [cross] Wow!
+
+
+JACK: [laughs]
+
+
+AUSTIN: [cross] Wooow.
+
+
+ALI: [cross] I loooove it.
+
+
+AUSTIN: [cross] Funny wildlife, agreed.
+
+
+SYLVIA: [cross] There's a bunch going on.
+
+
+AUSTIN: [cross] Look at you.
+
+
+ALI: Um.
+
+
+AUSTIN: Yeah, good, this is coming through.
+
+
+ALI: Perfect, I love it. Okay, so I think that her situation is sort of similar to this but that it's longer and all pushed back?
+
+
+AUSTIN: Okay. Yeah.
+
+
+ALI: Um, so it has that effect of like, when you see someone with gelled hair, um. Pushing their hair back-
+
+
+AUSTIN: [cross] And you go, damn!
+
+
+ALI: Right, and you're like, that person is cool, where do they hang out.
+
+
+AUSTIN: [cross] That person's cool as hell, yeah! [laughs]
+
+
+ALI: [laughs] It has that good, like, widow's peak that she like specifically ties the bandana that she has that covers her hair which is why I even started this. But she like specifically ties it like, right behind the peak of where her hair comes up, and then combs the rest of it back while she's doing her work? ...Um, what's her true motivation and what's her reputation. I think that her true motivation is to raise a family. She's out here, she's doing the damn thing, she has a nice job, it's very frustrating that she has to I guess, go through one of these weird caves to get all the way up to-
+
+
+AUSTIN: Yeah, sure.
+
+
+ALI: -slug acid? [laughs]
+
+
+SYLVIA: [laughs]
+
+
+ALI: If she needs to bring a slug down to these things, it would get-
+
+
+AUSTIN: [cross] Ah, just one more time, uh, snail, I believe.
+
+
+ALI: Snail, sure. 
+
+
+JACK: [laughs]
+
+
+ALI: Thank you. They're the same, what's the difference, one has a shell-
+
+
+SYLVIA: Wow!
+
+
+JACK: [laughs]
+
+
+ALI: [cross] You know, it's just-
+
+
+AUSTIN: [cross] Once you're making them the acid or whatever the fuck these miners do, I- you know, what's the point?
+
+
+ALI: [laughs]
+
+
+ALI: It's all good. Um... I think she has a reputation of being late to work a lot.
+
+
+AUSTIN: Hmmhmmm. Um, and so just generally this rivalry is like, “Can't believe I to fucking come up here and deal with these ranchers.”
+ 
+ALI: [laughs] I- yeah, I think that there's a part of... she is very much of the mind that it should be the ranchers' responsibility to make-
+
+
+AUSTIN:] [hums in understanding]
+
+
+ALI: ...things more accessible to the clerics so they can do their work, rather than clerics needing to go to the rancher place.
+
+
+AUSTIN: Wait, clerics or miners?
+
+
+ALI: [cross] Miners, sorry. I'm so sorry-
+
+
+AUSTIN: [cross] No, I was like, are the clerics involved, too? 
+
+
+ALI: [laughs] They can be just as mad!
+
+
+AUSTIN: [cross] Yeah, uh huh!
+
+
+ALI: [cross] I'm sure the clerics are like, “That's all the way across the town!”
+
+
+AUSTIN: [cross] [laughs] It's so far! It's so far.
+
+
+SYLVIA: [laughs]
+
+
+ALI: I think- I think the clerics have a little bit of an advantage of- they can probably go the circumference away, since they're sort of on the same tier where their, their zones are?
+
+
+AUSTIN: [cross] Right, sure. Yeah. 
+
+
+ALI: But yeah, I think- you know, that's the gist.
+
+
+AUSTIN: Yeah! I like this. This is good.
+
+
+ALI: [laughs] Okay. Thank you.
+
+
+AUSTIN: Alright! Sylvi, it is your turn to draw a card. 
+
+
+SYLVIA: Alright. [pause] Uh... oh! That's a three of clubs.
+
+
+AUSTIN: Three of clubs. Three of the- of the future? Three of the future.
+
+
+SYLVIA: Okay. Hmmm...
+
+
+AUSTIN: A future purpose. 
+
+
+SYLVIA: [inhales] I, I think I- [audio interrupted] um, is... this thing, over here.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: On the left side of the screen, um, which, uh, I, to go [garbled audio] through the Beak, Feather, and Bone, what people say about this place is that is only where clerics go and it is uh, trying to think of a way to word this that isn't like- oh, I accidentally closed Roll20- um, let me think of a way to word this, but it's like basically people think they are like, out of their minds when the clerics go up there. Um, but the cle- like, there's rumors that it's like, oh yeah, they go up there 'cause they think they can fly again.
+
+
+AUSTIN: [cross] Oh, no!
+
+
+SYLVIA: Um-
+
+
+AUSTIN: Wait, what am I looking at?
+
+
+SYLVIA: So I, I- that's the thing, this is vague enough that I'm really like, able to go in here. What I think-
+
+
+AUSTIN: [cross] Yeah, you do whatever the fuck you want. This is just a scribble. This is just like-
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: A rectangle? I- you go, I don't know what I'm looking at.
+
+
+SYLVIA: So I've- in my head, I've been calling it the, the launchpad, or the flightpad. 
+
+
+AUSTIN: Uh huh.
+
+
+SYLVIA: Um, because I think it like, I think it's a thing that is built based on, like, old architecture that they had from when [garbled audio] they, they could fly? And it is made to look like a, an old place like that.
+
+
+AUSTIN: Hmmmm.
+
+
+SYLVIA:  And... oh yeah, if we could fly, this is where we'd take off to soar across the city. 
+
+
+AUSTIN: Damn.
+
+
+SYLVIA: So like from the outside it is all like, purchase, and like, um, like this, like- [small audio interruption] yeah, it’s just like nests, honestly, almost.
+
+
+AUSTIN: Oooooh, that's cool.
+
+
+SYLVIA: Like trees and stuff, and then [audio interruption] barn-type building? Like, it's a big building that like opens up to, so, theoretically, they could fly out the, um- I kind of got a little bit of... in Breath of the Wild, the-
+
+
+JACK: Oh, the Rito...
+
+
+SYLVIA: [cross] The Rito people, yeah! 
+
+
+JACK: [cross] ...city?
+
+
+AUSTIN: [cross] Yeah. The, the Rito.
+
+
+SYLVIA: Yeah. You know what I mean? Where everything's sort of like, elevated on top of each other?
+
+
+AUSTIN: I do know, I do know, I should pl- Yeah, I do know.
+
+
+ALI: [laughs]
+
+
+SYLVIA: Um...
+
+
+AUSTIN: [cross] I want that sequel, so bad.
+
+
+JACK: [cross] I think it's just over there!
+
+
+AUSTIN: I know. We can just go there right now.
+
+
+JACK: Yeah!
+
+
+AUSTIN: We should just go over there. The game.
+
+
+SYLVIA: I think- does that cover everything? I think?
+
+
+AUSTIN: I think so, yeah! 
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: [cross] Oh, what about-
+
+
+SYLVIA: [cross] Oh-
+
+
+AUSTIN: [cross] -people say only the clerks go there.
+
+
+SYLLVIA: Yeah, and like that is clerics-only, if you go there they're gonna rope you in to whatever they've got going on.
+
+
+AUSTIN: So people don't know that this is a launchpad. 
+
+
+SYLVIA: Like, I think people, like, there's whispers about it, but for the most part people just go like, oh, if you go there, you're going to get indoctrinated into whatever, like, thinking these people are doing?
+
+
+AUSTIN: [cross] Hmhmmm. Yeah. 
+
+
+SYLVIA: Um... I also, really quick, before I write this all down, I did figure out a name for the, like, hope figure, I guess?
+
+
+AUSTIN: Ooohh, okay.
+
+
+SYLVIA: Which, I just put “The Ascent” because I like-
+
+
+AUSTIN: [cross] Yeah.
+
+
+JACK: [cross] Ohhhh, damn.
+
+
+SYLVIA: You know. 
+
+
+AUSTIN: Yeah. I like it. Good.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: You can pop that right into our notes section, at the bottom.
+
+
+SYLVIA: Uh, alright.
+
+
+AUSTIN: -that we haven't used at all.
+
+
+SYLVIA: [cross] Yeah.
+
+
+AUSTIN: God, I'm looking at this map, there- look at this fucking thing right to the... north east of your thing. 
+
+
+SYLVIA: [cross] I know. 
+
+
+AUSTIN: Like a fucking thumbprint on fire. Um...
+
+
+SYLVIA: [laughs]
+
+
+JACK: [laughs]
+
+
+AUSTIN: Alright. I will draw a card. One, two, three- oh! You love to see it!
+
+
+JACK: Whoa!
+
+
+AUSTIN: You love to see it, ten of hearts. You love to-
+
+
+ALI: [in a low voice] Goddamn.
+
+
+AUSTIN: I shouldn't have fucking blown that-
+
+
+SYLVIA: [cross] Nice.
+
+
+JACK: [cross] The most valuable-
+
+
+AUSTIN: I should not have blown that ten, ah, I should not have blown that five on the cool big colosseum, should I- should I have? Um... 
+
+
+ALI: [unintelligible] ...that card.
+
+
+AUSTIN: Huh? What's up? You wanted that card?
+
+
+ALI: [laughing] I said I was- yeah, I did.
+
+
+AUSTIN: Yeah, really, huh? [laughs]
+
+
+ALI: Aw man...
+
+
+AUSTIN: [laughs a little] It be like that sometimes. [laughs]
+
+
+ALI: Uh hmm.
+
+
+[1:44:54]
+
+
+AUSTIN: Um... It's a social purpose, 'cause it's hearts. Uh, and um... I'm taking this big whole middle section with the ten. I'm fucking... this is the soldiers' quarters, it's gigantic. Taking this whole...
+
+
+JACK: It's like an Assassins Creed: Odyssey fort.
+
+
+AUSTIN: Yeah, uh huh!
+
+
+JACK: That you look at and go, this is going to be my next forty minutes.
+
+
+AUSTIN: Yeah, I'm gonna have to clear off thirty different enemies and then plus the reinforcements that show up. This is, on the map, a structure at the very center of this map that's multi-tiered, multi-layered, um, actually I'm gonna make sure I'm not clipping into a different structure here. Let me make sure this is not... I mean I guess it kinda blends, but like, here, there we go. Um, that is, it is like a fortress, like it- it does look like a fortress literally where there are outside walls with a couple of entryways in, and then a number of layers on the outside with stairwells going up - I guess this is me answering the feather question also - um, it is, it is tall, but it's actually... I'm gonna say that it's actually, it's only as tall as the colosseum is, in terms of its overall height, maybe one layer above it, there's kind of a round spire that goes one or two floors above it at the very top, but the reason it's, it's, it is actually still taller technically is, it's actually another layer deep into the crater. It's the very middle of this, or whatever this is, this kind of, um, uh, valley that's in the middle of this, this map, you know, surrounded by all these different hills and stuff. It goes further in and it's kind of like, there's almost an underground layer here. 
+
+
+AUSTIN: And the social purpose that this serves is, well it can't be bigger than- it has to be related to just this soldier faction, which is interesting. I think this is just our headquarters? And part of the reason why it becomes a rank ten, and it's so important just socially, is that we've done a really good job of that outreach? And more and more people just like have some sort of soldier- like militant function is what their day job is? Like, the vast populace, like the- I think the majority of people who work here, at this point, or who live here, or a plurality of people - work for the soldiers' guild. And they- that doesn't mean that they go all fighting things necessarily. It might mean that they are, that they are in, you know, some sort of messenger service, but for the soldiers' guild. It might mean that they are doing, ahh, janitorial services, but it's for the soldiers' guild. It might mean that they're doing food and supplies, you know, work, or maybe they're farmers, but they're doing- they're farmers for the soldiers' guild. 
+
+
+AUSTIN: And so this is like the central hall that has both, you know, training grounds and stuff like that (this is now the bone part) like there's all these different little rooms, all of these different, like, sparring halls for soldiers, but also this is where you go in to kind of get assigned to whatever office? I think you probably take some sort of test and then you have to walk through all these different hallways to find some corner office for- if you're gonna be a farmer as part of the soldiers' guild, this is where you go. And it's where you like, get your assignments and they tell you, “Ok, well, you're gonna be able to farm, you know, corn, and you're gonna get assigned this or that lot somewhere else in the town.” This is where you go to get your, you know, your clothes repaired, your uniform repaired, uh, is somewhere in this structure. It's just like gargantuan in the interior? 
+
+
+AUSTIN: And I think people... people hate it the way that they hate- it's an eyesore, you can't not see it from anywhere in town? And everyone complains about needing to go there because it's... in some ways, it's very close to a lot of things in town, 'cause it's in the middle, but it's like one stop- you always have to go there for some bullshit. And anywhere you always have to go to is a place you're going to end up not liking even if you like your job, even if you like whatever the thing is - if you have to go do it every day and often you're going there because you remembered you had an errand to run, if you need an approval, or you remember that you had to, uh, you know, go and check in with, with your officer or whatever it is, like, it's gonna get under your skin a little bit. And so yeah, this is like the head of the- this is the central hub of the- of the soldiers' guild, the headquarters. Um... I'm going to write that up. Uh... [typing noises] beak! People are annoyed, uh... that is why...
+
+
+JACK: Most of the beak stuff is that- [Windows notification sound]
+
+
+AUSTIN: Oops.
+
+
+JACK: -people get annoyed by things [Windows notification sound] in the town. 
+
+
+SYLVIA: [garbled audio] [laughs]
+
+
+AUSTIN: One second. I have to- I just fucked up and launched a video game by mistake. 
+
+
+SYLVIA: Oh!
+
+
+JACK: Oh, what'd you launch, Austin?
+
+
+AUSTIN: [cross] I, uh...
+
+
+JACK: [cross] What'd you play?
+
+
+AUSTIN: What day is it? What day is it, today's the sixth? I just launched, I'm allowed to say this, I just launched Ori and the Will of the Wisps by mistake. [laughs]
+
+
+JACK: Oh, well, they are streaming it right now, there's-
+
+
+AUSTIN: [cross] That's how I- 
+
+
+JACK: [cross] ...playing it.
+
+
+AUSTIN: Yeah, I'm allowed, I'm allowed to say that I have it and that I could be playing it. Uh, but that is- I'm not allowed to... I guess I could stream chapter one. I did not mean to launch that game, it's closed now.
+
+
+JACK and SYLVIA: [laugh]
+
+
+AUSTIN: We're good. No one tell Microsoft. Um, alright. That is my turn, Jack, you are up.
+
+
+JACK: Okay, I am drawing a card. I have drawn... the... nine of clubs. Man, these miners really care about the future.
+
+
+AUSTIN: They really do. They're working on something.
+
+
+JACK: [hums in agreement] Okay, sure. This is a fairly powerful one. 
+
+
+AUSTIN: Yeah.
+
+
+JACK: I'm gonna choose the thumbprint that's on fire. 
+
+
+AUSTIN: Oohhh, love it. 
+
+
+JACK: And what this is is a, um... I'm just looking for the tools that let me draw around it. Hey, remember Minecraft, that game that came from space?
+
+
+AUSTIN: [cross] Yeah, uh-huh.
+
+
+SYLVIA: [laughs]
+
+
+ALI: [hums]
+
+
+AUSTIN: Yeah, yeah yeah yeah.
+
+
+JACK: You remember that great feeling when you play Minecraft and you break through what you think is just going to be a floor tile and it's just a cavern? That just opens up beneath you?
+
+
+AUSTIN: Uh-hmm.
+
+
+JACK: Um, so this, this is not a burning fingerprint, it is a jagged hole into-
+
+
+AUSTIN: Ooohh!
+
+
+JACK: -a massive subterranean cave.
+
+
+AUSTIN: Okay. Underneath the- what we think of as the ground level of the city.
+
+
+JACK: Underneath of what we think of as the ground level, it's like we've cracked an egg and there's just a cave space under that. And what the miners are doing... hm. Wait, let me, let me- so. Um, Beak: What do people say about this place? They're afraid of it. It has the vibe of, of what if a sinkhole opened up and then instead of a bunch of work crews showing up to fix the sinkhole, a bunch of work crews just got scaffolding and cranes and have descended into the sinkhole. 
+
+
+AUSTIN: Oh, god.
+
+
+JACK: Um, instead. So they're- they're afraid of it. They, the- the miners have put up barely any, sort of, protective apparatus around it? So the local communities have just been like, basically building rudimentary barriers and fences, not necessarily to keep the miners out, because they couldn't do that, but to stop their, like, children from running into it.
+
+
+AUSTIN: Right.
+
+
+JACK: Um, or people like, messing with it or playing with it. Describe the structure's appearance - it is a black hole, as though a big crack has opened. It really is like an egg, like if you imagine breaking an eggshell without an egg inside?
+
+
+AUSTIN: Oh, that's terrifying to me.
+
+
+JACK: Yeah, imagine you've eaten like a boiled egg out of the shell-
+
+
+AUSTIN: Yeah.
+
+
+JACK: And then you just turn it upside down-
+
+
+AUSTIN: [cross] Right.
+
+
+JACK: -and knock on the bottom of it?
+
+
+AUSTIN: Uh hmm. 
+
+
+JACK: Um, I think that there are torches, flaming torches being like, lowered on ropes down- no, that's not true, sorry Ali, they're not torches, they're bioluminescent insects that-
+
+
+AUSTIN: [cross] Good.
+
+
+ALI: [cross] Hm.
+
+
+JACK: -are being lowered in.
+
+
+ALI: Sure. 
+
+
+JACK: Um, and what the miners are doing, the- the Bone, the true purpose is they are capturing bats! When they opened their cave, a huge amount of bats flew out. This kind of contributes to the fear, but what the miners learned really quickly is that no matter the amount of bats that flew out, there are still a ton of bats still in the cave. And bats are capable of flight, which is very compelling. And so the miners have been trying to capture as many bats as they can.
+
+
+SYLVIA: [background, quietly] Oh my god!
+
+
+JACK: For some kind of future- I'm so sorry Sylvi- [laughs]
+
+
+SYLVIA: [laughs]
+
+
+JACK: I'm so sorry! 
+
+
+[sounds of static]
+
+
+ALI: [laughs]
+
+
+JACK: ...for some kind of future purpose. Presumably flight-related. So I'm gonna mark a three here, and then I will...
+
+
+AUSTIN: Amazing.
+
+
+JACK: [background] Alright then. 
+
+
+AUSTIN: I love that the launch pad is literally right over the, the edge of-
+
+
+SYLVIA: [cross] Yeah.
+
+
+JACK: [cross] I know!
+
+
+AUSTIN: [cross] -this giant-
+
+
+JACK: [cross] It's so good.
+
+
+AUSTIN: -thing.
+
+
+JACK: The Batmine?
+
+
+AUSTIN: The Batmine. Um, alright, how are we feeling?
+
+
+JACK: [background] ...go there. 
+
+
+JACK: I could go- I could go another round!
+
+
+AUSTIN: [cross] I could do one more round.
+
+
+JACK: [cross] ...to see what’s happening-
+
+
+ALI: [cross] Yeah. I can do one more.
+
+
+JACK: Yeah yeah yeah.
+
+
+AUSTIN: Alright. Well, Ali-
+
+
+ALI: I ran out of card space, though.
+
+
+[laughter]
+
+
+AUSTIN: I know. I can give us- Here, check this shit out. I can do this. I can fix this.
+
+
+ALI: Oh?
+
+
+AUSTIN: I have the power. 
+
+
+JACK: Gonna break it. 
+
+
+ALI: Oh.
+
+
+AUSTIN: Boom.
+
+
+ALI: I can just add it to the bottom.
+
+
+JACK: Oh!
+
+
+AUSTIN: No, look, I can just add a space to the, to the right. Boom. Look at that.
+
+
+ALI: Ahhh, oh thank you! 
+
+
+JACK: Yeah, that's great!
+
+
+AUSTIN: Uh huh, Roll20. 
+
+
+ALI: [cross] Perfect.
+
+
+AUSTIN: [cross] Roll20 does- does the thing. That's what they say.
+
+
+JACK: [laughing] Sometimes.
+
+
+AUSTIN: Sometimes it does the thing. 
+
+
+ALI: Finally, okay. I have a seven of hearts. 
+
+
+AUSTIN: Oh, you can do a new thing!
+
+
+ALI: [cross] Thank god-
+
+
+JACK: [cross] Oh, finally!
+
+
+ALI: I can fucking make a social space. [laughs] Um, okay. Alright. Let's do it. Let's look at this map. Um... my invention... I know where. Oh, you're dealing with the lines, okay. I thought you were like...
+
+
+AUSTIN: I got the lines. I got the lines.
+
+
+ALI: Got your card here, buddy! That's not doing it. [laughs]
+
+
+AUSTIN: Whoa!
+
+
+ALI: I got a line to-
+
+
+AUSTIN: Yeah, that's a different type of line.
+
+
+ALI: Yeah, that's- you took care of that.
+
+
+AUSTIN: I- yeah, I got you. I almost deleted my own shit, that would've been bad. Come on. Come on, come on, let me select- there we go. Okay. So seven of hearts, seven of social spaces. 
+
+
+ALI: Yeah. Okay, I know what I'm doing. Okay. I was originally- I wanted to- when I was like, I really want a very high social space so I can make the place that I turned into like a rancher's snail sort of place into like, what I'm about to describe. Anyway... [laughs] So I think that I'm going for this building like right above it that's like, built into the side, and has a little ladder...
+
+
+AUSTIN: Ooohh.
+
+
+ALI: ...um, to get up to the top part, but it's also like, pretty close to the, the like official-
+
+
+AUSTIN: Listen, you got a seven, if you want all three of those cave holes and ladders, you take them! Go big, it's the last round!
+
+
+ALI: Sure, yeah yeah yeah. Um, this is like a weird multi-box situation. Okay, this place is not opposed, there's no rival, okay! It's free!
+
+
+AUSTIN: There is no rival, yeah!
+
+
+ALI: Oh, speaking of... rivals, I named the last one. She's, uh, Q'kwen. 
+
+
+AUSTIN: Love it.
+
+
+ALI: K, uh, Q-
+
+
+AUSTIN: Q, K?
+
+
+ALI: Q, apostrophe, K-W-E-N.
+
+
+AUSTIN: [cross] Yeah. Q'kwen, got it.
+
+
+ALI: Um, I... okay, I'm looking at this list. What is this building like on the inside? It is, like, it's almost... it's like a restaurant, is what it is, that's like carved into the side of the structure. I think that because it's carved into rock like this, it's always... it's kinda cold- like, it doesn't get really hot? Um, like even if it's a ninety degree day out, it's like... I don't know if you've been on like, those field trips where you can go to like, here's where people from the 1700s kept their food and you can sort of feel the difference...
+
+
+AUSTIN: Uh huh.
+
+
+ALI: Even to this day, that there's like, there’s a drop in temperature. So I think it's that sort of situation, um... I think that there are these three entrances and the reason that it is is because they're all sort of thin and it's divided, this sort of like a... "Here's our take-out counter, if you just want to order food and you want to go back to wherever you're going with it. Here's like, a dining space, and here's like, an events space."
+
+
+AUSTIN: Uh huh.
+
+
+ALI: [laughs] 
+
+
+AUSTIN: Is that just like, did this grow really organically out of just natural rancher shit that they did, and then suddenly it's like, "Oh, we're providing this broader social usefulness to people who aren't even ranchers." 
+
+
+ALI: Right, yeah, I think so, yeah. I think that it was originally like, ranchers primarily either, um, [car honking in background], falling to the- falling to the like, social pressure of being like, "Will you come here and deliver this thing to my part of town?" and then having a space where they can sort of hang out afterwards? Or ranchers who are primarily, um, travelling across that bridge a lot.
+
+
+AUSTIN: Right. 
+
+
+ALI: Um, who are coming back and want a space when they come back to just hang out at. And because this ended up being sort of a high-trafficked area, it made sense to sort of have like, a, you know, people wanted to eat there. 
+
+
+JACK: I have a question?
+
+
+ALI: Yes?
+
+
+JACK: What did people eat in Bird Town-
+
+
+AUSTIN: Good question.
+
+
+ALI: [laughs]
+
+
+JACK: -and what events are being held in this place.
+
+
+ALI: [laughs]
+
+
+JACK: It's a two part question.
+
+
+ALI: Um, I think that the way that food is served here is that there is a, um, there's like a very tall oven in the back that um, like these big, stone, like heated plates or bowls are put on to, and that what you could do is, when you're ordering off the menu you can like, there's like menu options that are like, "Here, the four things that you can put in here", or you can just select from this list of the ingredients that we have. Um, and it can be like, anything from like- I was gonna say eggs but I don't know if that's weird 'cause they're birds. [laughs]
+
+
+JACK: Uh, hmmm.
+
+
+AUSTIN: Hmmm.
+
+
+ALI: [laughing] Like...
+
+
+JACK: Do snails make eggs?
+
+
+AUSTIN: Right! See, other things make eggs. Caviar is eggs.
+
+
+[2:00:01]
+
+
+ALI: Do snails make eggs??
+
+
+JACK: Yeah, I'm fairly sure snails make eggs, I'm gonna google snail eggs, let's find out. 
+
+
+ALI: [laughs] I guess you could also have like, roe, like yeah...
+
+
+AUSTIN: [cross] Yes, that's, that's-
+
+
+ALI: Like, like... different vegetables from like, small, leafy things, like big chunks of stuff. Some sort of rice or grain equivalent-
+
+
+AUSTIN: Snail ca- snail- I didn't mean to google this, I- okay, so. 
+
+
+ALI and SYLVIA: [laugh]
+
+
+AUSTIN: I had typed- I had typed snail eggs, I said caviar-
+
+
+JACK: [cross] Oh, I know what you're about to say. Uh huh.
+
+
+AUSTIN: And then I just scrolled down-
+
+
+JACK: [cross] ...pearls of Aphrodite-
+
+
+AUSTIN: ...and thought- uh, what?
+
+
+JACK: Sorry, please continue. 
+
+
+AUSTIN: What did you say? [laughs]
+
+
+JACK: Pearls of Aphrodite?
+
+
+AUSTIN: What is- y-yes! Apparently. I did not know this! Uh, yeah, no, snail caviar is a thing. That's all I'll say. 
+
+
+ALI: [laughs]
+
+
+AUSTIN: It looks very pretty. I see it, here, they're very- they're very pretty. That's all. I wouldn't-
+
+
+ALI: Great.
+
+
+AUSTIN: ..eat 'em.
+
+
+ALI: Sure.
+
+
+AUSTIN: Shout out to these bird folks.
+
+
+ALI: But these, yeah, these birds do. But yeah, I think it's one of those things where like, the plates get heated, and then when somebody puts an order in, one of the people who works there like, puts the ingredients into that pot, you bring it to the table, and then whoever's eating it can kind of like, just decide the doneness that they want?
+
+
+AUSTIN: [cross] Oh, sure!
+
+
+ALI: ...of the ingredients, 'cause like the plate is hot and it's being cooked?
+
+
+AUSTIN: Uh hmm.
+
+
+ALI: And then you eat it. You stir it up and then it's good.
+
+
+AUSTIN: [cross] You eat it. You eat 'em.
+
+
+ALI: [cross, exhaling] Uh, yeah.
+
+
+AUSTIN: The flavor of snail caviar has been described as being reminiscent of baked asparagus or baked mushroom, with a subtle flavor of woody notes, as having a strong earthy flavor, as well as being crunchier than fish egg caviar. It must be- it may be served as other caviars are, with toast points, sour cream and champagne. It may also be served in soups.
+
+
+JACK: I'll say it - I'd probably eat it.
+
+
+AUSTIN: You know...
+
+
+JACK: I'd try it.
+
+
+AUSTIN: I would try it. 
+
+
+ALI: Yeah.
+
+
+AUSTIN: I'm a baby. I've gotten waaayyy better, I used to be very, a very picky eater. Um, and I'm much more of a- you'd have to put me in a social situation, and then I would try it. 
+
+
+ALI: Right, yeah yeah yeah. You're not, you're not-
+
+
+AUSTIN: I'm not gonna do this at home.
+
+
+ALI: [cross] Seeing it out of the... right.
+
+
+AUSTIN: I'm not gonna like...
+
+
+JACK: You won't DoorDash snail eggs.
+
+
+ALI and AUSTIN: No no no.
+
+
+AUSTIN: Let me see what I can do with these, no, that's not where I'm at.
+
+
+ALI: But if someone was like, hey, you wanna split these snail eggs, you would be like, "Yeah, if you have some, I'll have some."
+
+
+AUSTIN: Who's someone? Like...
+
+
+ALI: A friend!
+
+
+AUSTIN: Yeah, but which friend?
+
+
+ALI: [laughs] Okay, fair, yeah, yes, no.
+
+
+JACK: [laughs]
+
+
+AUSTIN: You know?
+
+
+ALI: Yeah, no, yeah.
+
+
+JACK: [cross] There’s Snail Egg Friends, and there’s No Snail Egg Friends.
+
+
+AUSTIN: Yeah, exactly.
+
+
+ALI: Uh huh. Um, sure. I think the, the events that happen in this place are... things like birthdays? Um, things like, anniversaries? Things like general... you know. People wanna get together?
+
+
+AUSTIN: Oh, shout outs to Tyler Crumrine who's in the chat-
+
+
+ALI: [cross] Oh, hey!
+
+
+JACK: [cross] Hi!
+
+
+AUSTIN: [cross] ...who, who made this game and notes the original name for this game was Bird Town.
+
+
+ALI: [laughs]
+
+
+JACK: Brilliant.
+
+
+AUSTIN: Love it. Love it.
+
+
+ALI: Great. What a good, good game.
+
+
+JACK: Here we are in Bird Town.
+
+
+AUSTIN: Aka K'cha K'cha.
+
+
+ALI and JACK: [laugh]
+
+
+ALI: Um... I think the structure's appearance... I know- I mentioned that it was like, carved into the side of this thing.
+
+
+AUSTIN: Yeah.
+
+
+ALI: But I think that the windows serve the purpose and like the big doors serve the purpose of having the sun come in from the south side.
+
+
+AUSTIN: Ohh, sure.
+
+
+ALI: So that's how the place is lit up. It's these like, big holes that they've sort of-
+
+
+AUSTIN: I love it.
+
+
+ALI: Figured out where they should put it. And then, you know, it opens when the sun opens and then closes when the sun sets.
+
+
+AUSTIN: Ah, that's so good!
+
+
+ALI: And I think people like it. 
+
+
+AUSTIN: That's what they ta- that's what they say about it, it's like-
+
+
+ALI: [laughs]
+
+
+AUSTIN: "I can't wait to..."
+
+
+ALI: That's what they say about this place. And then they say, um, "Finally a good idea from the ranchers," is what they say. [laughs]
+
+
+AUSTIN, ALI and SYLVIA: [laugh]
+
+
+AUSTIN: God, even Cul, the- Col, Cal, Call?, Cul, the over-eager soldier is like, "Now this I can get behind."
+
+
+ALI: [laughs]
+
+
+AUSTIN: Q'kwen, you know, on her way back down from the, from the retail space or where she's picked up all of her snails, loves to swing by this, this beautiful built-into-the-side-of-the-wall, uh, event space.
+
+
+ALI: [laughs]
+
+
+AUSTIN: For a nice snail egg soup.
+
+
+ALI: Right, yeah.
+
+
+AUSTIN: I love it, fantastic. Uh, Sylvia, you ready for your last draw?
+
+
+SYLVIA: I am. 
+
+
+AUSTIN: It's still up- it's still up in the air here. I feel like the clerics could spin this one away.
+
+
+SYLVIA: Ooohh, I got a three of spades.
+
+
+AUSTIN: Less convinced that the clerics can spin- can take this one at this point. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Three of spades, three of, of things that served a purpose in the past. Or served a past purpose.
+
+
+SYLVIA: Yeah...
+
+
+AUSTIN: Maybe the purpose is gone, but the thing is still around. Or maybe the purpose is still here, but the thing doesn't work anymore. Could be a ruin. Up to you.
+
+
+SYLVIA: Yeah, I'm taking a quick peek 'cause I had, I- I'll be honest, did not prepare for past, had everything else in mind. 
+
+
+AUSTIN: Oh, buddy.
+
+
+JACK: [laughs]
+
+
+SYLVIA: Ummm... Okay. [pause] Sorry, uh-
+
+
+AUSTIN: No, you're good, this is the game.
+
+
+SYLVIA: Um... I think... 'cause I don't wanna take something that's like, too big. Not with a three.
+
+
+AUSTIN: [hums in agreement]
+
+
+SYLVIA: But I was debating just like, having this temple be so old that it like, isn't relevant, the one in the south that we almost had as our place of power?
+
+
+AUSTIN: Yeah. This one here.
+
+
+SYLVIA: Yeah, 'cause I can also tie that into the sort of, like, death cult vibe I've got going? [laughs]
+
+
+AUSTIN: -that you've got going? Yeah.
+
+
+SYLVIA: Uhhh... I just wanna make it that one, I talked myself into it.
+
+
+AUSTIN: Yeahhh.
+
+
+SYLVIA: So I think, like, the reason that this is like, a three now is because it is like, probably one of the oldest buildings in, um, in the city, in Bird Town, as I'm now calling it-
+
+
+AUSTIN: [cross] Yeah, yeah.
+
+
+SYLVIA: ...'cause it's easier for me to say?
+
+
+ALI: [laughs]
+
+
+SYLVIA: So-
+
+
+AUSTIN: We got developer approva- approval, you know-
+
+
+SYLVIA: [cross] Yeah!
+
+
+AUSTIN: [cross] ...once, once the, once the writer says it's called Bird Town, I, you know, I can't overrule.
+
+
+SYLVIA: I th- yeah, you know what, you're right. So, yeah, this is like the old- this is like, one of the first buildings that was ever made in Bird Town. Which is like, why, for the beak thing, I think that it is like, whispered about in a very revered way? It's like, people still respect it, but they don't go to it anymore. 
+
+
+AUSTIN: Right.
+
+
+SYLVIA: It, like, it is a part of their history, but it is not a celebrated part of it anymore. Um, and then I think, like on the outside, it is this, like, just looking down on it the way it's sort of like built, I've seen like a... I think it's Aztec pyramids? What I'm picturing? Where they have the like, um, sort of like-
+
+
+JACK: Oh, like step pyramids?
+
+
+SYLVIA: Yeah, there's like a little bit of that just at the beg- like, there's a little bit of that and then it just goes straight up, like it's like, there's two levels of the like, um, sort of that like flat top, like, step that they do?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: And then it just like goes up and... I think it actually mimics sort of some of the architecture in the like, flight pad and stuff? Um, and then on the [brief audio interrupt, presumably "inside"] it's... I think at this point, because it's so disrepaired it is just like, a place where clerics sleep now. Like, it used to-
+
+
+AUSTIN: [cross] Oh, that's interesting!
+
+
+SYLVIA: ...have all this culture there, and now it is just this like, a commune, basically. 
+
+
+AUSTIN: Uh hm.
+
+
+SYLVIA: Where they like fall asleep under like, the murals of their god, like of their ascent from the past, like now very faded away.
+
+
+JACK: Damn.
+
+
+SYLVIA: Yeah. 
+
+
+JACK: That's fucking sad.
+
+
+AUSTIN: That's very sad. 
+
+
+SYLVIA: All of it- yeah, you know. 
+
+
+AUSTIN: Sometimes you draw, sometimes you draw a three of the past, and what're you gonna do.
+
+
+SYLVIA: Yeah. I'll get that written out and down on the thing soon.
+
+
+AUSTIN: Perfect. Um, alright, I'll draw my final card. It is an eight of spades.
+
+
+JACK: That's a good card for the soldiers!
+
+
+AUSTIN: It is a good card for the soldiers, who, frankly, already've gotten some good fucking cards. Um, but hey, you know, spades is a past purpose. And let me tell you about the past. The past is this structure here, uh, that I'm gonna mark of with uh, with care, because it's a strange structure. It's to the, the north of the snail acid facility, it's to the north of the rancher, like, internal, what, it's like having a farm situation, Ali?
+
+
+ALI: Uh, yes.
+
+
+AUSTIN: It kind of, like looking straight down on it, looks almost like an arrowhead or something, you know what I mean? Or like a...
+
+
+JACK: Like an oyster.
+
+
+AUSTIN: Like an oyster, but I want you to zoom in, closer. I want you to zoom in until you see what I see. Which is, um, a race track. It's a giant snail race track.
+
+
+ALI and JACK: [laugh]
+
+
+JACK: It's a snail race track?
+
+
+AUSTIN: Well, it was. It's a seven of spades or an eight of spades, which means it's the past, not- doesn't serve a social need or a financial need. Um, this is where the soldiers started. When we first moved here, all that time ago, we carried everything we could, after we lost our flight, on these gigantic snails. I don't know that anyone knows this part of the story anymore. I think this part has probably been lost to history. Um, but it was not simply that we were cursed to become flightless or that we had our wings taken away from us or that we gave them up in our, in our turn to the- I mean maybe there's been a debate about this, maybe, maybe people do say we gave them up to, to the earth goddess, the nature goddess. 
+
+
+AUSTIN: But what is left out is that we were given a gift, and those gifts were giant snails, um, and we brought them here to this place, and after we unloaded them - they have big shells and the shells are filled with our stuff from where we used to live - we emptied their shells out, we were left with these snails, and what do we do with them? And the answer was ride them in circles against each other, as fast as we can. Get into jousting matches with them, um, do cool off-road tricks on the snails, and years and years and years ago, this like, held our people together? Because it was like, a thing to do. And in some ways it draws a direct line of lineage to the current coliseum culture that, that is also in this town. 
+
+
+AUSTIN: But at the time, there was something- there was a religious element to it? There was, you know, the clerics, probably also, may also trace themselves back to this? Because it was about giving, it was about giving praise to where we came from and the, the creatures that brought us to our new home, it was about centering them in a real way - you didn't root for, like, "Oh, I'm rooting for this knight" or whatever, you rooted for the snail the knight rode on. Um, and then, over generations, the snails got smaller and smaller, and instead of riding them and praising them and using them for transport, and knowing their names, we started to take their assets, and eat their eggs, um, and what was left behind was that the culture of the people who had been tied to them remained important, which is why this is an eight. But what was done, or like, what that- where that influence came from, um, was slowly- slowly faded, right. 
+
+
+AUSTIN: It's almost, in some ways it is, it is like a generation of soldiers coming home, and then by the time that they're in their old age, no one really thinks about what it was that they did that earned them honor? And they just kind of are like "Oh yeah, those people, they did stuff that was cool." And so now this like, weird, we've circled back around to that culture of entertainment and wrestling and gladiatorial combat after that having been part of what we did to begin with here to pass the time when we were first building the city and taking over what was left behind here. But now I think it is just, it is just empty and ruins and maybe even some of the um, the, uh, the snail trails that have been there now for generations have slowly actually begun to dig in acidically, into the ground, and they're just kind of like, no one goes here anymore. You know? I don't think it has a holy purpose, I don't think it's, I think it's off- off-limits for safety reasons, 'cause it's just like a bunch of holes in the ground in an old ATV race track, basically. But, but those who know, like if you know you know? And I think that is part of why it historically still holds some significance. That's my story. About the snail races.
+
+
+JACK: Damn. Are snails fast in this world?
+
+
+AUSTIN: They used to be. 
+
+
+JACK: Yeah.
+
+
+AUSTIN: Or no - I changed my mind. They didn't. Because I really like the image of moving slow from wherever we were-
+
+
+JACK: [cross] It’s a bit like cricket.
+
+
+AUSTIN: ...before to where we are now. You know?
+
+
+JACK: Yeah, the game is a deliberate one. 
+
+
+AUSTIN: But they're not - when I say they're not fast, I don't mean that they're snail- they're- how fast does a snail move?
+
+
+JACK: I don't know, I've seen a snail go for it.
+
+
+AUSTIN: Let's see, snail speed is... uh...
+
+
+JACK: It's a warping- [laughs]
+
+
+AUSTIN: .029 miles per hour. Now, what if a snail was gigantic? And it still moved that fast according to the size it was?
+
+
+JACK: It might go.
+
+
+AUSTIN: It might, or it just might carry a lot of distance 'cause it's so big, you know what I mean?
+
+
+JACK: Yeah, yeah yeah.
+
+
+AUSTIN: Um... I found a fantastic BBC post: Snails move, quote, "faster than we thought," says study.
+
+
+SYLVIA, JACK, AUSTIN: [laugh]
+
+
+[2:14:40]
+
+
+AUSTIN: Oh, uh, hm, slipstr- there's a subhead "slipstreaming" - "They are so slow that people don't even think about them moving but it turns out they do. They can go a long way in the night," says Dr. Dave Hodgson, who's led this study by the university of Exeter. Shout outs - shout outs to Exeter. Uh, the study also found that snails move in the slipstream of others moving along the slimy trails left by other snails to save energy. Dr. Hodgson says, "We knew- we know that snails use about 40% of their energy producing slime. Given the chance, a snail prefers- will prefer to follow a trail that's been laid by another. It is a form of cheating, like slipstreaming," he said. About snails. Those little fucking cheats!
+
+
+SYLVIA and JACK: [laugh]
+
+
+AUSTIN: [laughing] It's a form of cheating, he said!
+
+
+JACK: Cheating whom? God?
+
+
+AUSTIN: [cross] Cheating who?? He- this motherfucker knows about the snail races!
+
+
+JACK: That's a pro tactic there, right, in the snail walk wars?
+
+
+AUSTIN: Oh yeah, absolutely, you wanna find the grooves from the past snail races and the other competitors in the race with you.
+
+
+JACK: Yeah. Hell yeah.
+
+
+AUSTIN: Alright.
+
+
+JACK: Okay.
+
+
+AUSTIN: Uh... Jack, your draw, the final draw of this thing.
+
+
+JACK: This is a six of clubs, which is the future, again, right? Again?
+
+
+AUSTIN: Ummm... clubs is, yeah, a future purpose.
+
+
+JACK: I've never not drawn clubs.
+
+
+AUSTIN: You- the miners are working towards somethin', I wanna know what they're working towards.
+
+
+ALI: [laughs]
+
+
+JACK: Yeah! Um... [pause] It's a six, so it's not... [pause] Ok! So, this here is a, um, let me ping it. It's here, above the rock that they were trying to dig into.
+
+
+AUSTIN: Oh I’m gonna have to zoom out, so I can see what you're talking about. Where is it? Oh, is it this, this, this- yes.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Almost looks like a lock pattern or a door on it or something.
+
+
+JACK: Yeah, except what that actually is is a... so this, this kind of circu- we're looking at a circular object with a large shaded square in the middle of it, and then what looks like a, a white block on top of that square. What we're actually looking at is a slightly raised disk from the ground with a shaft dug impossibly deep in it. And at the top of that shaft is what looks like a hot air balloon.
+
+
+AUSTIN: Ahhh.
+
+
+JACK: Buckets? Cradle? What are those things called?
+
+
+AUSTIN: Yeah, bucket. Basket - basket, basket.
+
+
+JACK: [laughing] Basket.
+
+
+AUSTIN: Yes.
+
+
+JACK: You know, a hot air balloon bucket, where the people go. Um, and attached to this - this is, this is... the hull is only slightly wider than the basket. It is, it is - this is in part of because it's a six, this isn't like some grand operation. And attached to the top of the basket is a, um... parachute. Or like some system of spider-spun silks and threads, um, dangling pennants, flags, and the miners will board this basket and be dropped into this hole. Unsupported by ropes or harnesses. Caught by the wind, by the air resistance of the parachute. And in doing so, they are descending rapidly into this hole, almost as a form of prayer or ritual, none of the scaffolding or cranes or anything that we have associated with the mines before are present here. This seems to be a one-way descent, but it is a descent supported and guided by the power of air resistance in the parachute that would've come once, or could've come once, with the wings that these birds may have had, but have no longer.
+
+
+AUSTIN: Love it.
+
+
+JACK: And people are afraid of it. 
+
+
+AUSTIN: Why?
+
+
+JACK: Um, I think people are afraid of it for two reasons. They are afraid because they see- all around the town the miners have been digging these seemingly bottomless holes. And sometimes they are collecting bats, sometimes they are making acid to make bigger and deeper holes. There's a fear that the miners are working on uncovering something beneath the town. And I think that feels like undermining, in a very literal sense. 
+
+
+AUSTIN: Yeah. 
+
+
+JACK: I think the other fear is that when they see the miners descend, and they feel the rush of displaced air coming up from the hole, there is a kind of, um, imp of the perverse they feel, where even people unrelated to the miners think "That could be me, I could be feeling that, that feeling of descent."
+
+
+AUSTIN: Right.
+
+
+JACK: Um, what, what would it feel like to catch an air current and spiral above the city.
+
+
+AUSTIN: Yeah. Um, I can answer that question in just a moment, if you're done with your description.
+
+
+JACK: Yeah, I'm gonna mark four and I'm gonna write it down. You go ahead.
+
+
+AUSTIN: The reason I can do this is because we are wrapping up now. We have finished our final fourth turn. Do people wanna go over their locations one more time? You don't have to read everything here, though this is a great, this is a great advertisement for the mapmaker level, where you'll be able to read all of our cool shit. 
+
+
+[static]
+
+
+AUSTIN: Um, Ali-
+
+
+ALI: [cross] Yeah, I can do that-
+
+
+AUSTIN: [cross] You go ahead-
+
+
+ALI: [cross] Do you want me to start?
+
+
+AUSTIN: Yeah, you go ahead and describe your four locations.
+
+
+ALI: Um, okay, yeah, so I started with a nursery over to the sort of north-east of this town. It is a one-story- one-story building with sun roofs that is a place where the ranchers will keep different supplies like different soils, different seeds, different sprouts of specific plants that the society decided to spend on, so if there is a disease in the plants or something, they'll be able to sort of quickly figure out a solution for that. My second place- oh, let me go through the other ones too, um, it is a building that is made out of clay and stone that has an entrance on each side of the building, and people find it hard to navigate and sort of stretched out, for what it is. 
+
+
+AUSTIN: Gotcha. [pondering] Uhh...
+
+
+ALI: My second- oh?
+
+
+AUSTIN: Nev- go ahead!
+
+
+ALI: Okay, sorry. [laughs] My second building is over on the... the sort of north-west of the town. It is a, a three-story meeting space for the ranchers. The first floor is sort of an open welcome center with a lot of space, a lot of couches. The second floor is like a more, like closed-off space with a balcony, and the third floor's like even more secluded and even more sort of tight. Uh, this place has a rival by the name of Cul, who is a soldier who is sort of over-eager, looking to command their own ranks within the soldiers and also feels that this space should either be used by the soldiers or have a multi-faction function instead of just being for the ranchers. Um, my third place was all the way to the north-east, which is like, a two-story building with the bottom section being a lot wider than the, the top floor. It's also right in front of the bridge out of town, and this is used as sort of a manufacturing/storage/retail space. Snails are brought into this building and they're able to live there, so we can get, like, snail materials that aren't just acid? 
+
+
+AUSTIN: [laughs]
+
+
+ALI: And also, like, if someone- [laughs] if someone's travelling into town with their snail, needs somewhere to keep it, someone's travelling out of town, but they don't own a snail, that sort of thing is here. Uh... this place also has a rival by the name of Q'kwen. She is a snail acid refiner who works sort of nearby, not as nearby as she'd like, and her- she just wants to live her life. She's often late to work already and she'd just not like to move around town multiple times a day to do her job. And then my fourth building was just beneath that, also north-east, which is sort of a also split-up into three places, but this is a social space. It is mostly just a restaurant, you know, hanging out, come-get-lunch situation.
+
+
+AUSTIN: Yeah.
+
+
+ALI: But there's a takeout counter, there's like a seating area, and there's also an area that you can rent out if you wanna have a larger group. People like it, people are not annoyed- [laughing] as annoyed by it as they are the other structures-
+
+
+AUSTIN: Huh hm.
+
+
+ALI: Um, and it's cool inside, but the food is really hot. And it's very bright but when the sun sets it closes because there's no more lights. 
+
+
+AUSTIN: But it gets nice and cool and you can keep stuff in there?
+
+
+ALI: Yeah.
+
+
+AUSTIN: ...overnight, safely? Okay.
+
+
+ALI: Yeah yeah yeah yeah.
+
+
+AUSTIN: Alright, uh... Sylvi, do you wanna describe your...
+
+
+SYLVIA: Yeah!
+
+
+AUSTIN: Death cult. [laughs]
+
+
+SYLVIA: [laughs] So, for my clerics-
+
+
+AUSTIN: [laughs]
+
+
+SYLVIA: ...the first thing I had was this marketplace. And I described it as sort of like begrudgingly accepted as a way to pay tribute to the clergy. It's just got these like, market stalls with charms and little religious relics and it's always sort of weirdly empty or sparsely populated aside- like, it's definitely, like, one non-cleric to ten ratio there. Um... then I had this, like, circular structure here, on the sort of, like, cliff face, that I decided was a place where the Ascent, the former leader of the clergy, used to isolate themselves.
+
+
+AUSTIN: [cross] Right.
+
+
+SYLVIA: ...and it was sort of made to mimic this crystalline structure [short audio interruption] -lished early on was seat of power and then it is, um, a few of the places. So now that they're covered in faded art of winged ravenfolk-
+
+
+AUSTIN: Right.
+
+
+SYLVIA: In this case, there's a painting of the, like, shape of the city on the floor. After that, I had the... what I'm calling the launchpad, which is this thing up here on the left, it's this sort of smudgy rectangle. And the, like, sort of attitude towards that is if you go up there, you'll get caught in what's go- whatever the clerics are obsessed with. And it was sort of this, like, large barn that like, or barn-like building that sort of opens up and has all these, like, perches and stuff inside that is basically meant for... to facilitate flight, if they did have wings. And then finally I had the temple, which was sort of this respected but ignored place because it has this very historical, um, it has a lot of historical significance for Bird Town? It's one of the oldest buildings, but it's not really used anymore, aside from the clerics who sleep and worship there. Uh, as- I'm just gonna read what I wrote: “The cle- the clergy sleep and worship here, under faded murals of their winged god and the Ascents past.” And it's sort of got this tiered architecture outside before suddenly giving way to this, like, rush upwards, sort of mimicking the roosts that are inside the launchpad.
+
+
+AUSTIN: Yeah. I love it. Um... alright, I have four spots also. The first is this warehouse that has, uh, is kind of split into two things, with a walkway in the middle, the bottom half is kind of where you go in and turn in your flight magic-related goods for the soldiers to quarantine them in the big quarantine building to the north that’s connected by a walkway, that has no doors, no- besides the walkway, no other doors, no windows, no way in or out, and it's just- will slowly become a stockpile of magical goods. Immediately to the west of that is a gigantic coliseum, built into an empty, massive, you know, Kaiju-sized turtleshell that- where people go to see the circus, and to see gladiatorial combat, and to see, you know, music performed, revealing that a big part of what has helped the soldiers gain in, kind of, influence over the years is entertainment and culture as much as it is military might. 
+
+
+AUSTIN: The third thing, the way in which the soldiers' guild has extended their influence is through their gigantic headquarters, the center of town, uh, that is kind of labyrinthine and multileveled and even goes underground, it's filled with different offices and mana- kind of degrees of management? And it turns out that a lot of people in the town, even if they're not doing directly soldier work, they're being administered by the soldiers' guild. I think that specifically the clerics, miners and ranchers are not in that group, since those are independent, autonomous factions inside of Bird Town, but here, at least, you know, you look at merchants, you look at farmers, you look at service folk, you look at the rest of the possible factions that we didn't- that we didn't pick up? The thieves' guild - part of the soldiers' guild, it turns out. Just a subtype of- what's a thief but a very specific sort of soldier. And that's in the middle of town and gigantic and kind of walled in and everybody, kind of, when they're talking about it they're kind of annoyed by it, unlike the coliseum, which they love. This is a place of work, this is a place of, you know, running errands and getting things done and needing to meet with people and that is just, like, frustrating to a lot of folks unless you're kind of one of those- those mid-tier managers, like the sort that goes to complain about the bird- or the, the rancher tower. I bet that motherfucker loves this giant labyrinthine headquarters. 
+
+
+[2:29:54]
+
+
+AUSTIN: And finally, we got the snail racetrack, which originated as a sort of holy place where when we first got here, we gave thanks to the nature goddess who brought us here and who gave us these great giant snails- then giant snails, who helped carry all of our stuff from the sky down to the ground. At this point, no one says much about it, you know, maybe a handful of people still remember those days or have heard the stories of those days, 'cause they were so long ago? But today, it's mostly a place that looks like a ruined, kind of outdoor, like, arena that has the kind of like, BMX bike/ATV bike, like, dirt ramps and shit except it's been- it's been- it's in disuse- it's, you know, been ruined by disuse and by the giant snail acid that has slowly rotted away bits of the structure, and now there's just holes into nothingness, and it's more that it's given us influence in the past that we still carry to today than the fact that people today know what the fuck it is.
+
+
+AUSTIN: Uh... Jack.
+
+
+JACK: Okay, so. Let me look at... over here, on the kind of south east, we have a tall rock structure with an interesting geological pattern that has had a sort of small, badly planned trench dug into it by a group of miners. Folks are confused as to why the miners are digging into the rock and Ka Arran, a cleric, has travelled over, because she suspects that something is buried beneath the rock and wants to make sure that if the miners do find anything, the clerics will also be the first to know. 
+
+
+JACK: Then, up here, just below the snail race track, we have a set of twelve pits, in which the miners are producing and refining snail acid, which is used as a kind of, um... god, I was gonna say catalyst, but catalyst is about, like... no, maybe it is catalyst, right? A catalyst to the mining process? Um... people don't love that the miners are just extracting acid from snails, kind of in the middle of this area, and it is being run by a harassed foreman who is trying to marshal the miners as their acid kind of distills, matures. 
+
+
+JACK: Over here, to the far west, just near Sylvi's launchpad, the miners have cracked a big hole into a large natural cave and are in the process of capturing bats that have- that are trying to kind of escape from the cave. And also, I guess they live in there. They are lowering bioluminescent bugs into the cave to give them some light and possibly as lures for the bats. And they're successfully capturing a large amount of bats. And then over here, towards the far east, the miners have dug a, a sort of impossibly deep square shaft, down which a hot air balloon crade, supported by a parachute, so it falls- past a certain point, it falls kind of slowly and safely. Miners are descending in a rush of air down into a kind of unknown depth, specifically evoking that feeling of- of- hovering on an air current or feeling the rush of air that would've been associated with flight a long time ago.
+
+
+AUSTIN: Um... alright! So, in this final turn, this final action, after the- duhduhduh, after the final turn - here we go - each player adds up the cards they've drawn over the course of the game. The player, uh, faction with the highest total has the most sway in the community and is given control of the seat of power. They then get to describe the seat of power with their faction in mind. I think that the math comes out in the soldiers' favor?
+
+
+JACK: I have twenty-two.
+
+
+SYLVIA: [in the background, calculating] I have...
+
+
+ALI: [laughing] I have eight.
+
+
+AUSTIN: Oh, buddy.
+
+
+JACK: [laughs]
+
+
+SYLVIA: I have sixteen.
+
+
+AUSTIN: I have... twenty-eight. So, yes. I think everyone- I don't think this was announced, I don't think anyone but the soldier- but a particular subgroup of the soldiers know that this happens. And I don't know what it is outside of- I think one day, walls go up around the crystalline structure that is to the north west of the acid farm, to the west of the ruined snail track, to the north west of the ranchers' kind of storehouse. Walls go up around it, kind of... less so- not- less walls and more fencing, more just like, hey, there's stuff going on in the back here, soldiers start going in and out, day after day. And then, you know, I think maybe from the launchpad looking out to the northeast for the clerics - I mean the clerics have just a great view 'cause they're all up on this higher level to the south. And then from the, from the kind of, the... how do I describe the number 3 thing for you again, Ali? It's like an area that stuff comes in, right, it's like multi- multi-purpose space- no wait, multi-purpose space is the... yes, it's like the entryway, right?
+
+
+ALI: Right.
+
+
+AUSTIN: For where you go to pick up snail- excuse me, snails and stuff from up there, some of the ranchers can see it. And then, I mean, listen, the miners are right next to it, right? So I think that they- what they hear, before anything else, is the sound of, like, it sounds like crystals cracking? But what it actually is is crystals growing. And it's crystals growing on the back of an elite soldier in the shape of wings. The soldiers have done it. They got all of the flight implements, all of the magical scrolls, all of the featherfall potions, the act- the super featherfall potions, which everyone knows, once you've gotten a super featherfall potion, what it does is it lets you fly. It doesn't just slow your fall, it actually lets you fly up- it lets you float upwards. It lets you fall upwards slowly. They've gotten all of the magic brooms, they've put them all away. They've gotten them all. 
+
+
+AUSTIN: And once they've gotten everything here and stored them away safely, they realized they need to go elsewhere, to get more of the flight magic and store it safely. But they're in this canyon, they're in this, like, terrible crater, and it's really hard to get out of it, especially without the giant snails that led them here to begin with. And so, in one of the books that they collected, they read what the site of power does. And it gives people wings, it gives people crystalline wings. It's not every soldier, it's the best of the best, and they still go out in pairs and trios, little adventuring parties out into the world, and that's why, all around this world, when people talk about the- the ravenfolk, they always say "And it's the weirdest thing that they have these bright, shining, blue, crystalline wings. Regular ravens don't have those, maybe they're not related to ravens at all. Maybe they're some other type of bird." 
+
+
+AUSTIN: But they think that they're natural! They think, all around this world, there's a type of people somewhere that have these giant crystal wings, because that's just what they look like, that's the only type of bird- of kind of ravenfolk that they've ever met. And bit by bit, they use these, these small adventuring parties of flying birdfolks - who just like, lift off, like in a shattering - the sound of like, of, glass shattering, the way it does in that Final Fantasy XIV fight where the J-rock starts playing against Shiva, it's sick.
+
+
+JACK: [cross] Yes.
+
+
+AUSTIN: It's that sound, and then a bird fucking shoots up into the sky, clad in armor and, and kind of diamond wings. And when they take off, eventually they take off in twos and threes, up above the sky, and everyone can see it, and everyone knows, hey, if you wanna- if you wanna fly, the only approved method is to go through the soldiers' guild. The only way you get to fly is to like, bend the knee and join up with this, this ever-growing cultural bureaucracy that is slowly expanding its reach. Um, you already know what the fuck it is, welcome to Friends at the Table. [laughs]
+
+
+JACK: [laughs]
+
+
+AUSTIN: I've stumbled into- we've stumbled into a very well-meaning group extending its reach so far that they slowly become terrible. Um... yes, Riley Rethal in the chat says "Ah, Red Bull." [amused] Yes, the site of power, the seat of power-
+
+
+ALI: [laughs]
+
+
+AUSTIN: -is Red Bull, which has given them wings.
+
+
+SYLVIA: [laughs]
+
+
+AUSTIN: So, yeah, uh huh. Uh... This is the- this has been, rather, Beak, Feather, & Bone, a map-labelling RPG with words by Tyler Crumrine, map by Jonathan Yee, and illustrations by Austin Breed. You can find it on itch.io, right? I believe that's the link.
+
+
+ALI: Yeah.
+
+
+JACK: Yeah.
+
+
+AUSTIN: By going to Tyler dash Crumrine, I believe is how you pronounce this, C-R-U-M-R-I-N-E dot itch dot io slash bfb. [https://tyler-crumrine.itch.io/bfb]. I've really enjoyed it! As always, you can support us and our show by going to friends undersc- nope! Friendsatthetable.cash. You can follow me on Twitter at austin_walker, where can people follow you, Sylvia?
+
+
+SYLVIA: You can follow me on Twitter at captaintrash and you can listen to my other show Emojidrome on your podcast app of choice. [faint beeping in the background]
+
+
+AUSTIN: How about you, Ali? Are you getting a warning?
+
+
+ALI: Yeah...
+
+
+AUSTIN: What's happening? Are you okay?
+
+
+ALI: Yeah. It's an amber alert. 
+
+
+AUSTIN: Okay. [more beeping]
+
+
+ALI: [inhales] [in the background] Goddammit!
+
+
+AUSTIN: [laughs]
+
+
+ALI: [still in the background] Stop it! [back at the mic] My name is Alicia Acampora, you can find me over at ali_west on Twitter. You can find the show over at friends_table. I just want to say very quickly here regarding postcards that the um, the Partizan postcards are probably gonna be sent out today and we just got our final proofs on the big Hieron set, so...
+
+
+AUSTIN: Oh, I'm so excited.
+
+
+ALI: Anyone who’s waiting. We're so close, thank you for your patience, and that's it!
+
+
+AUSTIN: Hell yeah. And Jack de Quidt.
+
+
+JACK: Hi. You can find me on Twitter at notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Thank you again as always, thank you for your support, we'll be back soon, probably with another Live as we continue to try to catch up on these. Look forward to that, also... Ali, do we wanna announce that we're gonna do the thing that we said? Or do you wanna wait?
+
+
+ALI: I don't know...
+
+
+AUSTIN: [cross] We don't know when yet.
+
+
+ALI: ...let's make the decision first, yeah, let's make that decision first. [laughs]
+
+
+AUSTIN: [cross] Yeah, sounds good.
+
+
+ALI: [laughing] For everyone who's listening who's like, what the fuck are they talking about-
+
+
+AUSTIN: Uh huh.
+
+
+ALI: ...we're, uh, about to take a week off either this week or the week after the two upcoming downtimes?
+
+
+AUSTIN: Uh huh.
+
+
+ALI: Where probably we're gonna talk about that afterwards and then let you know. [laughs]
+
+
+AUSTIN: Awesome. Tyler, thank you so much for making the game, this game totally rules, so congrats on making it, hope a lot of people give it a, give it a chance, 'cause it's a blast. Um, alright, talk to everybody later, have a good night.
+
+
+ALI and JACK: Bye!
+
+
+SYLVIA: Bye!

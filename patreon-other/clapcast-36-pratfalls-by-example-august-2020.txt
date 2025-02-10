@@ -1,0 +1,591 @@
+﻿Clapcast 36: Pratfalls By Example (August 2020)
+Transcriber: Cy (@vlasdygoth) 
+
+
+AUSTIN: Hello.
+KEITH: Hello! I just saw this tweet, it's good, I'm posting it in Bluff. [typing] 
+JACK: Hello!
+AUSTIN: Great, great setup. 
+[KEITH laughs]
+KEITH: I know!
+AUSTIN: Just on the little rolling palette, too.
+KEITH: Yeah! Fucking whole-ass carseat.
+AUSTIN: Listen, man. 
+KEITH: It's good, that's better than a gamer chair.
+AUSTIN: It's low though, is my only thing.
+KEITH: It's low. It is low.
+[JACK laughs]
+AUSTIN: It's also on cinderblocks or something?
+KEITH: It's on--
+AUSTIN: 'Cause it's on something on...
+KEITH: I thought that that was like the plastic bit...
+JACK: [cross] The plastic bit--
+AUSTIN: [cross] Underneath the chair. 
+KEITH: Yeah, the like… Yeah.
+AUSTIN: Yeah, okay. Also just, old-ass laptop.
+KEITH: Oh yeah, that's the rail that it slides on, like to move, yeah.
+AUSTIN: [cross] That's the rail. Yes, I see it, I see it yeah, uh huh!
+JACK: It does look comfortable, though.
+KEITH: It does look comfortable! God, I—
+DRE: I appreciate they didn't take out the like, uh, the seatbelt.
+AUSTIN: No. 
+[[laughter, unintelligible talking]]
+KEITH: I miss having a car that was comfortable.
+AUSTIN: Yeah, comfortable cars are nice.
+KEITH: My first car was a 1995 Lincoln Towncar. No treads on this one, had wheels, um.
+JACK: Do Lincoln— what?
+KEITH: Well the car that we drove to this compound in the game was a Lincoln Town on treads.
+JACK: Oh, we've got Diaz on caterpillar tracks.
+KEITH: Longest uh, longest car ever produced in America. Actually, might be the longest sedan ever made. Um, but and it was— I only had it for a couple months before it broke down. 
+JACK: No!
+KEITH: But it was like sitting— it was like driving a couch, it was so comfortable!
+JACK: God. 
+KEITH: And the shocks were like half broken, so it had like this squishy bouncy feeling, it was such a weird feeling to drive but I really loved it.
+DRE: So a waterbed couch.
+KEITH: It was kind of like yeah, driving a waterbed couch. I'm having, I'm having car troubles the last couple weeks, so.
+JACK: No!
+KEITH: I got extra, extra feelings about cars. [sighs] That's my—
+JACK: A miserable time.
+KEITH: Yeah, cars are bad. 
+AUSTIN: Cars are bad, cars are bad.
+KEITH: That's the end of my. But hey, but at least we'll have the Virgin Hyperloop.
+AUSTIN: Fuck off, it's so bad. 
+KEITH: [laughs] I just saw a tweet earlier, I retweeted it—
+AUSTIN: Yeah…
+KEITH: That they tested it for the first time, and it got upwards of 100 miles an hour!
+DRE: [unimpressed] Cool, my car can do that. 
+KEITH: Yeah, and trains in other parts of the world can go 270 miles per hour.
+DRE: I saw that, too.
+AUSTIN: It's even more than that, it's even more than that.
+ART: That's a little misleading—
+KEITH: Yeah?
+ART: Because it was a limited distance. Like—
+AUSTIN: Right, right right, so it couldn't build, yeah.
+ART: Those 300 mile per hour trains don't get up to 300 miles per hour immediately, either?
+KEITH: [cross] No, it takes them a bit. Yeah.
+ART: But like, it's still like— so that specific critique is a little off base, but it's still much stupider than building a train.
+KEITH: It went half a kilometer, which I admit, you have to speed up and then you have to give it time to slow down, but. I don't think that this thing was ever designed to go… that fast. Do we know?
+ART: That's probably not its maximum speed.
+KEITH: Um…
+DRE: Well, it isn't— I mean, again, not to be defening the bullshit, because we should just build a fucking train— but isn't the idea with the Hyperloop that it's in like, some sort of like vacuum tube or something so it goes faster?
+KEITH: [cross] It does say—
+ART: Yes, it's much more dangerous than a train.
+DRE: [cross] Yeah, exactly. And it's more expensive.
+KEITH: [cross] Right, it also only fits two people at a time.
+DRE: Yeah.
+ART: Well, they say they're gonna build cars that fit up to twenty, which again—
+AUSTIN: [cross] That's not enough.
+ART: — much less than a train.
+AUSTIN: Yeah.
+KEITH: Much less than a train.
+AUSTIN: It's not, it's not… They also have like— "It can hold people or cargo." That's anything, my guy! That's all things that are— there's nothing that only holds people. Shoes!
+ART: A single person-sized tube.
+DRE: Yeah, but you could still throw a bunch of boxes in there instead of a person.
+AUSTIN: Right?
+ART: Sure. 
+AUSTIN: Ugh, anyway.
+KEITH: Yeah. Yeah, it says—
+AUSTIN: Piece of shit.
+[laughter]
+KEITH: It does say that it's like, theoretically this thing can go 600 miles per hour, but then also…
+AUSTIN: Out the side of a tube.
+KEITH: Yeah. Out the— [laughs] I just don't understand the— Like, I don't know.
+JACK: Like a potato gun. 
+KEITH: I was also just like, I was reading about Amtrak? Which, which I think is expensive, but the thing that I learned, the reason it's expensive is because it's like, it's one of those weird government monopolies? It's like a business, that's allowed to just do a thing on behalf of the government, right? And they have a charter, but the problem is that they built into the charter that it has to like, it has to efficiently serve the community, but also it has to make a profit. And so it's like, the thing that they're trying to do to the post office has been Amtrak from the beginning, they've been working with this like, conflicting thing where it has to be good and help people, but also still has to still make money, and it's just like, just build more, just build more trains, I don't understand!
+DRE: Yeah.
+AUSTIN: Yeah.
+KEITH: I mean I understand, but, it sucks.
+AUSTIN: It does suck. Alright, let's get back to it. [clap] Um, okay, back to Point Citrine. [high pitched beep]  All waiting for those beeps to be over.
+JACK: There's some extra beeps. 
+AUSTIN: Extra beeps.
+ART: Those your beeps?
+KEITH: Those're my beeps, sorry.
+AUSTIN: That's okay. Uh, Kalar and Figure, what're y'all up to? 
+[05:58]
+[interlude music]
+ART: [distant] One second, I'm stretching my legs. [laughter] Sorry, I'm used to recording with a standing desk.
+AUSTIN: Ah, so it goes.
+JACK: [cross] I see! 
+KEITH: Wow, really?
+AUSTIN: I feel you. 
+ART: Yeah.
+KEITH: We record for so long!
+ART: Well, a standing desk goes up and down. 
+KEITH: Fair, okay.
+ART: And any desk is a sitting desk if you're trying hard enough.
+[AUSTIN laughs]
+KEITH: Yeah.
+JACK: That's what they say. 
+KEITH: Yeah.
+ART: Yeah.
+KEITH: To be— I think the same may be true for a sitting desk.
+JACK: Yeah, you just sort of crouch.
+ART: Yeah. It was working.
+KEITH: Just stand far above the, yeah fair.
+ART: I couldn't— I couldn't talk from up there, I don't think. I guess I could've like, jacked the gain up and just talked from up there with a lot of room noise. Does that say— does that say thousand yard stare to anyone? [laughter] I'm sorry— lead me into this again?
+JACK: Yeah, sure.
+[07:06]
+[interlude music]
+ART: Oh my goodness is it cold in Los Angeles right now.
+AUSTIN: Yeah? 
+ART: Yeah.
+DRE: It's like weird, it's hot here. It was like 80-something here.
+ART: It's 57 here right now which is pretty cold in the desert, and we have lows in like the low 40s all week.
+DRE: Weird! 
+ART: And uh—
+JACK: [cross] My house isn't very warm. My house, it doesn't hold heat very well unless it's been very hot, right. 
+ART: Here, yeah.
+JACK: Mhm.
+ART: Yeah, this is a, this is a classic Southern California it's summer all the time, what are you talking about it gets cold sometimes place.
+JACK: Mm. Mhm!
+ART: No insulation.
+JACK: Nope, none.
+ART: Doesn't hold any heat. It's uh… But i mean it's if it was well insulated, it would be unspeakable in the summer, y'know?
+JACK: Because there's no AC. 
+ART: Well even if it wasn't, it would hold everything— efficiently, yeah.
+JACK: [cross] O sure, in the bones of the house. 
+ART: Yeah. You can be cold for six weeks or hot         for five months. 
+JACK: Yeah, your house gets chilly too, right?
+ART: They all do, nothing... [JACK laughs] I mean maybe if you, maybe there's like, maybe very very rich people have houses that don't do that. And Mabel's losing her mind, but that's really neither here nor there. 
+JACK: Is she happy or is this a different kind?
+DRE: [cross] What's she losing her mind at? 
+JACK: Yeah.
+ART: She like, she won't-- she doesn't like being near me when I record. Because then she won't be in the living room?
+JACK: Oh, shit.
+DRE: Mm.
+ART: And so Jess has a lot of work to do so she's just taken up in the bedroom...
+JACK: Huh.
+ART: And apparently Mabel doesn't like being back there either. And I suggest that Mabel just chill out.
+JACK: It's haunted, y'know. It's-- she can probably sense the ghost. 
+ART: Sure. 
+JACK: I don't think it's haunted. 
+ART: Although we're really having trouble with one of the lamps, so maybe.
+JACK: Oh really? [laughter] Which lamp are you having trouble with?
+ART: One of the lamps is on a timer?
+JACK: Oh, right, this. Mhm.
+ART: And we, we broke it. [DRE laughs] And we can't figure out how to fix it.
+JACK: That's fine! 
+[pause]
+DRE: Is no AC a common, SoCal house feature?
+JACK: No.
+DRE: Okay.
+ART: But not, not exceedingly rare. I've lived in places that had no or terribly insufficient AC.
+DRE: 'Cause I knew like in the Bay Area AC's not— Or at least is less common. 
+ART: Um, I think the older the place is the less likely? Y'know the place I lived that didn't have AC was an older place and it had like a window unit in one room? Which is not enough if it gets above 100. But I mean it's-- all the places in southern California are sort of like predicated on the idea that it's always gonna be like basically nice? And as uh, climate change is starting to take its hold, there's a lot of times where it's not basically nice anymore. 
+JACK: Which does suck.
+ART: Yeah. Like, I lived in that place for like three years and there are only a handful of days where I was really unhappy about my lack of air conditioning, and now it feels worse.
+JACK: Mhm. I'm so glad it's not too warm though, that house in Long Beach is miserable in the heat. 
+ART: Yeah. It's super charming though, you, you got a nice place there.
+JACK: Oh yeah, and I feel like you, you've explicitly warned us that that would happen, but I think you also said... It's very charming and we think you should get it.
+ART: Yeah. That for the point of life that you two were at, this is the right place.
+JACK: Mhm.
+ART: But as older, wiser people, we saw all of the-- [JACK laughs] All of the pitfalls! 
+JACK: That was also the trip where you first expounded your 'ceiling fans are death traps' theory, so y'know.
+ART: Yeah. They probably are, there's almost no research on the matter. 
+JACK: Definitely not! They're definitely not death traps.
+DRE: Yeah, I've hit my head on one and I have, I'm not dead as far as...
+ART: Yeah, but has one ever fallen on you while you were sleeping, that's where I feel like I'm gonna die.
+DRE: I mean...
+JACK: They're probably not that heavy, right?
+DRE: I don't think they're that heavy, but at that point if it's, if it's killing you because it's heavy, then... I mean any, by that logic anything, like what's stopping a toilet that's above your bedroom from like falling through the floor?
+JACK: The floor. 
+ART: Yeah, the floor.
+DRE: Yeah, but you-- that's what you attach the ceiling fan too.
+JACK: Mhm!
+ART: Mm, but the floor isn't spinning. Or the toilet isn't spinning. Spinning is a way that things break off from things.
+DRE: Yeah, but... that's only a part of the ceiling fan. So like yeah, that part could fall off, and it would hurt you, but I don't think it would kill you.
+KEITH: [yelling from a distance] Sounds like Dre's got a fucking ceiling fan to sell us!
+[ART and JACK laugh]
+DRE: I got two ceiling fans in this house, and I love 'em! Couldn't take my ceiling fan from me no matter what money you throw my way.
+JACK: It'll just fall off, we don't need to.
+DRE: [laughs] That's true, just wait for it to fall off and then you come take it!
+JACK: It's getting unscrewed by spinning, sort of very... very, a very big screw that takes a long time to unscrew, but then, ooh, when it does! Better watch out! We all here now? I think so?
+AUSTIN: I don't think Keith is actually here, Keith was in another room yelling.
+DRE: Keith is just yelling--
+KEITH: [distant] Yeah! 
+JACK: Keith, are you wearing bluetooth headphones? 
+KEITH: [distant] No. I bought a really long cable!
+JACK: Oh, okay!
+DRE: Holy shit. Now that sounds like a death trap!
+AUSTIN: That's the most Keith thing I've ever heard in my life. 
+[KEITH laughs in the distance]
+JACK: [laughs] God, remember when Keith did pratfalls, that was great. What was that? When were we doing that? 
+ART: Oh, that was like six or seven years ago, right?
+DRE: Wow.
+JACK: It was really early right, it was Keith falling backwards off a chair.
+KEITH: I believe-- I believe it was during counter/WEIGHT to explain what a pratfall was by example.
+AUSTIN: Ahh. 
+JACK: Ah. 
+DRE: That sounds right.
+KEITH: Yeah. It was early enough 'cause we were on camera!
+AUSTIN: Right.
+KEITH: We were on camera still. 
+AUSTIN: Sure.
+JACK: The only good Lin Manuel Miranda story I know is one in which he describes Meryl Streep demonstrating pratfalls on the set of um, Mary Poppins, and apparently falling over so perfectly that his first reaction was "oh my god we've killed Meryl Streep?" [laughter] And then she just jumped up and was like! 
+ART: Is that on camera?
+JACK: No, sadly not, nope! I wish! I wish it was!
+KEITH: What about uh, what about having an extremely long cable is indicative of me? 
+AUSTIN: What?
+DRE: Yeah, how is it not, is the better question, I think.
+KEITH: I don't-- Is it weird to have a 50 foot long cable to do recordings?
+AUSTIN: [cross] Yes, Keith. 
+ART: [cross] Yeah, uh huh.
+DRE: The reason why it's you, Keith, is because like, only you would have such strong feelings about audio quality, that you would buy the 50 foot cable as opposed to just getting wireless headphones. 
+AUSTIN: You have to understand--
+KEITH: [cross] That's fair.
+AUSTIN: Having recording equipment is already a-- is already idiosyncratic in the world.
+KEITH: Yeah.
+AUSTIN: So then on top of that, to be like, and I need to be able to be in my kitchen and still listen to what's happening...
+[KEITH laughs]
+JACK: [cross] It's extremely good is...
+KEITH: [cross] Well...
+AUSTIN: [cross] It's great, it's fantastic, I love this for you.
+DRE: [cross] This is not a diss. 
+KEITH: So this was-- this was a happy coincidence-- I knew that this would allow me to be able to like grab something from the refrigerator while we were recording, but the other thing is that, it's also for Run Button when Kylie and I are on the couch, and the mixer is on the, the--
+JACK: [cross] Sure.
+KEITH: Is on the desk, so, 'cause we've been dealing with one of the worst low like, pro-- unless you're spending a couple hundred dollars, a headphone splitter is trash and it will always break, and same thing with uh, adapters that turn uh, like, audio extension cables? Like that turn a regular headphone cable into a very very long one? And that's actually what I have, but I spent 50 dollars on the really good really long ones, because we've been buying... a pair every eight months for a decade?
+JACK: Just destroying them!
+KEITH: 'Cause they just are so bad? Yeah, they just stop working, so now we just have these two expensive long cables that plug right into the mixer and it's the best.
+AUSTIN: There you go.
+JACK: Congratulations. 
+KEITH: And I can cook chili while we're on break!
+AUSTIN: [cross] Ah!
+KEITH: And still have my headphones in!
+AUSTIN: There you go. Alright. Are we back, we good? 
+ALL: Yeah.
+AUSTIN: Alright, I'm just gonna do a clap for Ali, three, two, one, [clap] I don't know why I counted, because there's only me clapping.
+JACK: You were just psyching yourself up.
+ART: So you didn't surprise us.
+AUSTIN: I see. Yeah, that makes sense. Prep your ears for that, yeah.
+DRE: Thank you. 
+[17:11]
+[interlude music]
+ART: I thought we all agreed that no one could ever take Prowl.
+AUSTIN: There are other people—
+ART: That as long as we played Forged in the Dark games, no one could take Prowl, it was a pact we all made.
+AUSTIN: [laughing] Janine— Janine has prowl.
+JANINE: I do.
+ART: What?
+AUSTIN: So does Ali. 
+DRE: I have no prowl.
+ART: Oh my— See!
+AUSTIN: [cross] Leap had two Prowl. 
+ART: Well! I just thought, I thought we had a thing.
+AUSTIN: Okay!
+[DRE laughs]
+[17:38]
+[interlude music]
+ART: It sounded like Jack was gonna guess what Unsolved Mysteries was. 
+AUSTIN: Wait, does Jack not know what Unsolved Mysteries is?
+JACK: No…
+AUSTIN: At all?
+JACK: No. 
+AUSTIN: Okay.
+JACK: No, and I think my guess isn't funny, either, but I'll say it— is it kind of like a Buzzfeed Unsolved type thing? Where like two— 
+ART: I'm a hundred percent sure that it's a— we're at a chicken and the egg problem.
+JACK: Ah, I see.
+AUSTIN: In that there's been a leapfrog, like uh, here's Unsolved Mysteries, here's Buzzfeed whatever—
+JACK: [cross] Unsolved.
+AUSTIN: New Unsolved Mysteries is, but yeah whatever, yeah, uh huh, spaghetti, and then the new one is, is more like Buzzfeed Unsolved?
+ART: I think that that's right. Um, the thing they got rid of in the Unsolved Mysteries revival is the narrator?
+AUSTIN: That's Unsolved Mysteries to me, though.
+ART: And that's like the whole franchise to me.
+AUSTIN: Yeah. Yeah! Yes. Correct.
+ART: That like voice, that like Unsolved Mysteries voice—
+AUSTIN: [cross] Yeah.
+ART: Is Unsolved Mysteries.
+AUSTIN: Uh huh!
+ART: And so this isn't narrated at all, it's all just like interviews, where the interviewer's not present?
+AUSTIN: Okay, so just talking heads, no…
+ART: Yeah, it's all talking heads.
+AUSTIN: Wh— are- the shots dirty or are they not dirty?
+ART: They're not— they're surely not that dirty.
+AUSTIN: [laughs] Is there an interviewer present? Can you see the shoulder of the interviewer?
+ART: No, there's no…
+AUSTIN: Okay! 
+ART: No. But the third episode is in French!
+AUSTIN: Oh!
+ART: It's a French unsolved mystery, and they just, they just went with subtitles.
+AUSTIN: Okay!
+ART: No narrator, and I have to read the whole time!
+[SYLVI laughs]
+AUSTIN: Are you complaining? What's wrong?
+ART: Well, I didn't go upstairs to read a book!
+AUSTIN: Oh boy, oh brother, oh pal! Um, the uh, the uh, the original Unsolved Mysteries, Jack, is…
+JACK: Hm!
+AUSTIN: It's like, God, what's the comparison to make. Um, there are some stories there that are very much like, here's a supernatural story you've never heard of! Did you know that there was a haunting in this lakeside villa, and like, then it's interviews with people, and then there's a guy with a much better voice than what I just did, incredible voice— let me see if I can find you an Unsolved Mysteries narration…
+JACK: Oh, I thought you were doing it like you were gonna find it in yourself.
+[SYLVI laughs]
+AUSTIN: No, I don't think I can. Uh, here, here's…
+ART: [cross] It's—
+AUSTIN: You'll hear this man's voice, and you'll be like oh wow, Austin could— you could never! Uh, here I'll link you here.
+JACK: Keith could, of course.
+AUSTIN: Keith, of course, could, which actually makes it look a little different, which means I could, and I'm just, I just couldn't right now. You know what I mean? [JACK hums] I just couldn't bring myself to do it.
+JACK: Oh, can you do any sound too?
+AUSTIN: I can do any sound Keith can make, is the— I can't do any sound.
+JACK: Oh!
+AUSTIN: But I can do any sound Keith can make, so.
+JACK: Riiight…
+SYLVI: [cross] Does Keith have to be there making the noise, though, is that the thing?
+AUSTIN: It's complicated.
+SYLVI: Yeah.
+AUSTIN: The answer is no. The answer is no.
+SYLVI: Oh, okay!
+AUSTIN: I can make any sound Keith can make.
+SYLVI: Okay.
+AUSTIN: However, I, I… we can't go down this road.
+SYLVI: [cross] You don't want to right now.
+AUSTIN: I just don't want to right now. It's been a long day, I went for a walk… there's a cost is what I'll say. Do you know what I mean?
+SYLVI: [laughs] Yeah, for sure!
+AUSTIN: Like anybody could rob a bank. It's true, anyone could do it.
+SYLVI: [laughs] So you leave part of yourself there.
+AUSTIN: You leave part of yourself. So yeah, [static and loud music] if you go to like 30 seconds into this video, you'll hear Robert Stack's voice.
+ROBERT STACK: What if your mind worked like a television set? What if you could change channels at will? Tune into programs no one else can see? And what if you could never turn the set off?
+ART: [cross] The music is also great.
+JACK: [cross] Holy shit. 
+AUSTIN: Yeah. 
+ROBERT STACK: The idea of a creature larger than a gorilla with an odor like a skunk might seem farfetched— [AUSTIN laughs] ...was executed by a hired assassin. 
+JACK: [cross] It's like Rod Sterling if he wants to be real serious. 
+AUSTIN: Yes.
+JACK: And like really get to the heart of what's going on. 
+AUSTIN: And yet, I would say that Unsolved Mysteries is somehow less serious in the, in the sense of like, rigor and truth—
+JACK: [cross] As Rod Sterling?
+AUSTIN: Despite being a news show, effectively! Or like a magazine show.
+JACK: Oh wow!
+AUSTIN: It was basically like, um, cold cases, lots of like, missing persons stories, or like, hauntings, or creatures…
+ART: [cross] But also like, all the way UFOs.
+AUSTIN: All the way UFOs, yes. Yes. 
+JACK: The Mothman, all that kinda stuff.
+SYLVI: [cross] It is pretty good.
+AUSTIN: And blending the two— the thing is that like, y'know, block one of the show, or like the A block would be, a UFO abducted these farmers, and then block B would be one hundred percent just like, home invasion killing. And those two things released side by side! As if, these are the same thing!
+JACK: That's amazing. Wow!
+AUSTIN: It was terrifying. It was like, genuinely scary, I have like, very vivid memories of being in a babysitter's house, like I can conjure the layout of the rooms, so severe was my distaste for this show, and how much it scared me as like a six year old.
+JACK: [cross] Was there something— 
+AUSTIN: I can tell you the bathroom is over to my right, the TV, this low wooden thing that was like a console, on the ground, like a table, ugh! Great show!
+JACK: Was it a compelling fear, or was it just fear?
+AUSTIN: [cross] Yes! I didn't change the channel, did I?
+JACK: Okay. No, sure, I mean, I didn't know whether or not you, six year old Austin, would say no no, I don't, no thank you.
+AUSTIN: Right.
+JACK: Let's do something else. 
+AUSTIN: Right, right. Have we not gone live yet? Why is this, is it fucked? It seems like it's fucked.
+ART: Oh no! 
+AUSTIN: That's alright, people'll… people are fine.
+ART: Well… yeah. 
+AUSTIN: This'll go into a clapcast.
+ART: Hi, people in the future. Can you link to the, the show?
+AUSTIN: No. Yes. The answer is…
+ART: Okay.
+AUSTIN: I see what I did here. Um… Main key. Now we're gonna be fine, I think. Let's see. Uh… I'm glad we didn't start the real show, y'know?
+JACK: Mhm. 
+ART: Yeah.
+SYLVI: Eh!
+AUSTIN: Why is this not working yet? Hm… I think the stream key may have changed… let's see… Main key, show me this key. Copy this key. Come over here. Come over here, show this key. No, these are the same keys. It should be connected. Ah. No, I see what I did. … We should now be live. Ugh.
+JACK: We got there!
+AUSTIN: We got there. Took a little bit. It took a little bit.
+ART: This has been a real throwback.
+AUSTIN: Yeah. I just, I forgot to hit a button, that was like a very obvious button to hit, but I did it, I fixed it. Y'all ready to just jump into it?
+JACK: Yeah, let's do it!
+AUSTIN: We ready to time.is? International Kissing Day!
+JACK: Oh!
+SYLVI: Wow, happy holidays, everyone.
+AUSTIN: Happy holidays everyone!
+JACK: Happy holidays! 
+AUSTIN: International Kissing Day. [reading] "Or, World Kiss Day, is an unofficial holiday, celebrated each year on July 6th, the practice originated in the United Kingdom and was adopted worldwide in the early 2000s. Another date, February 13th has also been identified as International Kiss Day, which falls in the valentine week. The idea behind International Kissing Day is that many people have forgotten the simple pleasures associated with kissing for kissing's sake."
+JACK: I'm sorry?
+AUSTIN: "As opposed to kissing as a social formality or as prelude to other activities."
+SYLVI: [cross] Okay…
+JACK: [cross] Y'know…
+AUSTIN: "Kissing can be enjoyable in and of itself, it is an expression— an experience of intimacy. International Kissing Day is not as commercialized as Valentine's day!"
+JACK: I was gonna say, these fuckin' holidays, they've commercialized kissing! But then you just said that.
+AUSTIN: I said they didn't, uh Jack, maybe if you were paying attention, you would've heard.
+JACK: Oh, right, sorry, I was too busy thinking about International Kissing Day.
+AUSTIN: Yeah, uh huh!
+ART: I hope you all got my International Kissing Day cards, I sent them out a little late 'cause of the pandemic and…
+AUSTIN: That's okay, it's fine.
+JACK: It's fine.
+AUSTIN: Yeah, yeah. A kiss late is just as great, is what they say.
+[JACK snorts]
+SYLVI: Aww. 
+ART: Ah! 
+AUSTIN: I learned that from my International Kissing Day card, my belated International Kissing Day card!
+JACK: You opened it up and it said, a kiss late is just as great, and you thought, yes! I, it is!
+AUSTIN: It is! It is, actually.
+ART: Yeah.
+AUSTIN: Who— who spearheaded this?
+JACK: The British? Right?
+[SYLVI laughs]
+AUSTIN: Yeah, what's that mean, though?
+JACK: I don't fuckin' know. 
+AUSTIN: Whom?
+JACK: Who? Or as we say in Britain, who?
+[ART and AUSTIN laugh] 
+AUSTIN: I heard that! I heard you put the little spin on it. Y'know?
+JACK: International Kissing Day. I'm on the wikipedia page.
+AUSTIN: Who cre— yeah, I just read that to you. Uh…
+JACK: Oh shit! Well, now I'm on the— there's not even a fucking talk page for the International Kissing Day page! And as everyone knows, that's where the real wikipedia is.
+AUSTIN: Yeah, of course. Did we get wax house babied?
+ART: There's just no controversy.
+AUSTIN: Is this not real?
+JACK: Wax house baby?
+AUSTIN: Wax house, baby?
+ART: [cross] What?
+AUSTIN: [laughs] Oh, okay, okay, everyone here needs— [laughs] Everyone here needs to go listen to the Important if True episode 45 Wax House, Baby?! I'll give you the high— I'll give you the highlight, is that someone, fifteen years ago, put into a… I think into Wikipedia, that the name of uh, House of Wax, the 2005 remake—
+[SYLVI laughs]
+JACK: I know it!
+AUSTIN: Uh, of the Vincent Price film, was in Germany, Wax House, Baby! [laughter] And that that seeded itself so severely through the internet, that it became real, to the degree that there would be interviews where people said that was the name of the movie in different countries, it spread through fact sites, it became one hundred percent— it became as if it were true! And also no one cares about House of Wax 2005, so there's no one who was willing to dig deep into it. There's another great example of this, what is it, it's um, it's the… the woman sewer shark, Roxy the sewer shark, I wanna say her name was? Not a real sewer shark, but um, a, not sewer shark, what are they called, street sharks. Street sharks. Sewer shark is the, the terrible FMV um, Sega CD game that is bad!
+JACK: Also there's Bluff City characters!
+AUSTIN: Yes, a hundred percent, also that yes, yes. That character's a Roxy the street shark. The… the truth of that was that Jordan Miner, who is a games journalist, invented her and referenced fake episodes, and made changes to again, a wikipedia and imdb pages, and no one cares 'cause it's Street Sharks, but eventually you just straight up had articles references Roxy the street shark, and everyone's favorite like, Roxy the street shark episodes?
+ [JACK laughs]
+SYLVI: Oh my god… 
+JACK: So good!
+AUSTIN: It's great, it's fantastic, you love to fuckin— you love to see it. Anyways, go listen to Wax House, Baby, episode 45 of Important if True. All time good episode. We should do a clap, I closed time.is. [SYLVI laughs] Five seconds? Five after? 
+JACK: Alright. 
+[pause]
+[clap]
+AUSTIN: That was a good one. 
+[28:57]
+[interlude music]
+JANINE: It beeps when I start it up, and it always makes me think it's changing my inputs? Um…
+SYLVI: [cross] Yeah, that would stress me out in a similar way. 
+JANINE: Or outputs, or… yeah. Yeah. Exactly.
+SYLVI: 'Cause it just— is it just like a system alert noise?
+JANINE: No, it's more like a, it's more like a beep from my headphones, like a hardware beep.
+SYLVI: Oh, okay.
+JANINE: Which is the worst— hardware sounds are the worst sounds.
+SYLVI: Yeah, no, those are the scariest.
+JANINE: Mhm. 
+SYLVI: Ugh. That's annoying!
+JANINE: Yeah… [sighs] How are you doing? 
+SYLVI: I'm okay, I'm pretty tired, I didn't sleep great last night, but I'm like, doing alright.
+JANINE: Yeah. 
+SYLVI: My like, allergies are really killing me right now? Which is…
+JANINE: Oh, it's such a bad time for allergies.
+SYLVI: It's the worst! And so I'm looking up—
+JANINE: Do you have a mold allergy, is it the leaf mold?
+SYLVI: I don't know. I'm actually on a waitlist to get an allergy test done because I haven't done one since I was a kid, um, but I'm assuming that it's got something to do with that.
+JANINE: I think that's the big one in, in autumn. Just 'cause all the leaves are getting all wet and sitting there. 
+SYLVI: Yeah, that makes sense, especially like, with the like, amount of wet gunk I've had to walk past in the streets. 
+JANINE: Yeah… 
+SYLVI: God. 
+JANINE: Oh, roll20 con 2020, that's awkward to say.
+SYLVI: [cross] That's ambitious. I don't— 
+JANINE: [reading] Free Burn Bright Adventure publisher demos, roll20 announcements and streams all weekend…
+SYLVI: Okay. It—
+JANINE: It passed. Or it's this weekend, it's this weekend, so it's passing.
+SYLVI: So it's happening right now. 
+JANINE: Yeah. [laughs]
+SYLVI: Okay! Alright. I thought that was a thing that they were planning in like, November, December, and I was like… okay.
+JANINE: No, no. Seems like it, though. Eugh. 
+SYLVI: Hm?
+JANINE: I don't like, I don't like browse on roll20 a lot, I tend to just, y'know.
+SYLVI: Yeah.
+JANINE: Go do a thing with something very specific in mind— I'm looking at the new marketplace editions, there's something here called Goblins and Goblins, which is kind of fun, I support it, um, there's a thing here called It's a Mimic, but the subtitle is "33 trust destroying tokens", which kinda bums me out.
+SYLVI: [cross] Yeah… That… it is one of those things that reminds me that just because I share an interest with people does not mean they actually line up that much.
+JANINE: Yeah. I don't wanna destroy people's trust!
+SYLVI: No, I just wanna have fun with my pals!
+JANINE: Yeah… also man, have we— there must've been something that Austin would classify as a mimic in some of— in one of our games at some point. 
+SYLVI: [cross] I…
+JANINE: But it's also wild to think of like, it's wild to think of, of what we do versus, versus the kind of game someone would play where they need 33 mimic tokens. 
+SYLVI: Just like, 35 different things you can make secretly attack your friends! 
+JANINE: Just like— I mean, I guess you could build an interesting campaign around that. But…
+SYLVI: I actually— I did play a session of a friend's campaign where we went to a town that was a town full of mimics, and it was like, a cool idea, but then we stopped after that session.
+JANINE: Yeah, that's a fun idea.
+SYLVI: Yeah!
+JANINE: The less fun idea is when you pitch it as a way to destroy the trust of your players!
+SYLVI: [laughs] Yeah, no, for sure! Hey, Austin.
+AUSTIN: Hello, how you doing?
+JANINE: We're talking about a thing on the uh, roll20 marketplace called It's a Mimic, and the subtitle is "33 trust destroying tokens."
+AUSTIN: Oh my god.
+JANINE: It's very aggressive. 
+AUSTIN: No!
+JANINE: The illustration is also of a, of like a house with a mouth? So, there's definitely— they're definitely like, broadening things out a lot there.
+AUSTIN: That's very funny, of just like, imagine being in the game where it just keeps happening? [SYLVI laughs] And you gotta be like, bro!
+JANINE: That's what I was saying! [laughs]
+AUSTIN: [sarcastic] The house. The house, really? Really, the house is a mimic and you got a special, you have a special tile for this. Cool, no, that's fun. We're all really enjoying this campaign. 
+JANINE: Uh huh! Like I was saying, I bet there's a fun way to build a campaign around that, but there's also a lot of unfun ways to build your campaign around that.
+AUSTIN: [cross] Oh yeah. 
+SYLVI: I guess I'm glad there are more tools out there for people who want to do campaigns based on the film Monster House.
+[AUSTIN laughs]
+JANINE: I was gonna say I'm glad there are more tools out there for GMs who wanna stop GMing real soon. 
+[laughter]
+SYLVI: That's like, practically every GM I had up until I started playing on this show. 
+AUSTIN: [laughs] People don't like it! People don't like GMing. 
+SYLVI: Or they just— or they really like it, but they like it because they think it's because a competitive sport.
+JANINE: Yeah…
+AUSTIN: Yeah, that's fair.
+SYLVI: And that's the thing that I always got caught in.
+AUSTIN: Yeah. That's the problem.
+JANINE: Liking it too much is, is scary.
+AUSTIN: Yeah. You're not wrong. 
+JANINE: That like, that like impulse, that impulse? Why can't I say impulse, where does the emphasis go on impulse? Impulse?
+AUSTIN: You got it. Impulse. Impulse?
+[SYLVI laughs]
+JANINE: The impulse to like, have a, have a gotcha moment with a player, I, like I get it, like—
+AUSTIN: [cross] Yeah, but you've gotta do it—
+JANINE: But there's such a difference between a gotcha, and a like, curtain pull, y'know?
+AUSTIN: Yes, yes. Yeah, you need— I feel like you can only do it once every once in a while. Hello!
+JANINE: Yeah. And it's not a curtain pull if it's like, the house has a mouth!
+SYLVI: Yeah.
+AUSTIN: Welcome, Ali. 
+JANINE: [cross] It's gonna eat— you went in the door, and it ate you!
+AUSTIN: It ate you. Delicious. The house ate you, I'm sorry. 
+JANINE: I want, I wanna play Phasmophobia again soon, I miss that.
+AUSTIN: You should.
+SYLVI: [cross] I have— I got it, but I haven't played it yet.
+AUSTIN: [cross] Oh you should play, it's so good, we should play. 
+JANINE: [cross] Oh, it's so good! It's so good!
+SYLVI: [cross] We— yeah, please, I'd love to! 
+JANINE: Hi Ali.
+ALI: Um, hi!
+AUSTIN: Oh, close this…
+JANINE: How's the apartment?
+ALI: It's going well!
+JANINE: Mhm.
+ALI: It, it's mine. 
+[laughter]
+JANINE: Nice!
+ALI: I live here! 
+AUSTIN: You live there!
+ALI: Yeah, it's fine, I… I don't have like a routine yet?
+AUSTIN: Mmh.
+ALI: And um…
+AUSTIN: That's important. You'll get there.
+ALI: [cross] I know.
+JANINE: Have you found the cute stuff nearby? Like the cute whatever shops and the cute this thing and that thing, y'know?
+ALI: Oh yeah yeah, well, yeah. Yeah yeah yeah. 
+JANINE: Good, that's important.
+ALI: [laughs] Yeah, a friend of mine… sort of lives in the area and like, worked at a department store that's like, one of the closest subway stops next to me, like right next to it?
+JANINE: Okay.
+ALI: So he was like, okay, this place has the best pizza—
+JANINE: Nice!
+ALI: This is the A La Carte you go to, you go to this one, not the one across the street.
+JANINE: That's what you need.
+AUSTIN: [cross] Oh, nice.
+ALI: It's really good. There's like three bakeries near here?
+AUSTIN: Ooh.
+ALI: I've only been to the two of them, twice— since, but. Yeah. Yeah yeah yeah!
+AUSTIN: Okay. I think I'm ready. I hear beeping?
+JANINE: What's that— yeah, what's that like, hospital beeping?
+AUSTIN: Sylvi?
+SYLVI: Is that coming from me? Okay hold on, I might have—
+AUSTIN: I can't tell, I was asking, I have no idea.
+SYLVI: I can't hear it on my end, so it might be like a bluetooth thing? 
+ALI: Oh… yeah, I can hear it.
+JANINE: It sounds like it's behind someone by a distance, like physically.
+AUSTIN: [cross] It does. It's not— it's not my normal…
+JANINE: [cross] It's not like, technical sounding.
+AUSTIN: Yeah. It stopped.
+SYLVI: Okay…
+AUSTIN: It hasn't happened since we talked about it, so I think we're good.
+JANINE: Yeah. Which is weird.
+ALI: Oh.
+JANINE: It's a mimic. 
+AUSTIN: [cross] Has it? Okay.
+JANINE: Someone's got a mimic in their room, be careful.
+AUSTIN: Oh no, a beep mimic! 
+JANINE: 33 trust destroying headsets. Dongles. Whatever.
+AUSTIN: Dongles, yeah.
+JANINE: No one talks about dongles anymore.
+AUSTIN: No one talks about dongles anymore!
+[ALI laughs]
+[outro music]

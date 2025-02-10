@@ -1,0 +1,792 @@
+﻿Tips at the Table 47: Juggle with You (May 2021)
+Transcriber: mo#3373
+
+
+(00:00:00)
+
+
+AUSTIN: Welcome to Tips at the Table, an RPG podcast focused on critical questions, hopefully smart answers, and fun interaction between good friends. I’m your host Austin Walker. Joining me today, Ali Acampora.
+
+
+ALI: Hi, I’m Ali. You can find me over @ali_west on Twitter. You can find the show over @friends_table. And you can find a Star Wars podcast over @More_Civilized.
+
+
+AUSTIN: That’s right. Also joining us, Andrew Lee Swan.
+
+
+DRE: Hey, you can find me on Twitter @Swandre3000. 
+
+
+AUSTIN: I watched that first Ryloth episode today, Ali.
+
+
+ALI: Oh yeah?
+
+
+AUSTIN: I was not feeling it. We’ll talk about it presumably this week when we record that podcast.
+
+
+ALI: (giggles) Okay. 
+
+
+AUSTIN: As always, you can support us by going to friendsatthetable.cash. I hope you are enjoying our ongoing season of Sangfielle. Um, it has been really fun to keep going forward on that. We are–We have this full arc that you’re listening to now ahead, plus our first sort of downtime episode which was fun. Um, please let us know what you think about that–that show so far because we’re still feeling out the system and getting the sense of what works and what doesn’t and I would say like–This is not what this show is though…Actually, I will use this space to say–Let me pause. Pause. I will use this space to first say in the coming months this show will probably be changed in some way along with Drawing Maps. Once we catch up with Drawing Maps or once we like bring–catch up in terms of releasing what we have on Drawing Maps, my suspicion is we’re going to combine this and Drawing Maps into some sort of new behind the scenes Q&A show that sort of–A rolling post-mortem, which is sort of what Drawing Maps was already except this time it’ll have like players in it on top of me. Um…On top of me being in it, not standing on my shoulders. That would be. I’m not. I don’t have the cheerleading skills for that. (ALI laughs) Um, so I wanna say that up top. (laughs) Because–Because–Partially because we’ve answered a lot of Tips questions and also who knows, I might be wrong. We might just rotate. We might just have Tips come every once a quarter instead of once a month. Um, but that was like, we did that survey a couple weeks ago or I guess a month ago now and that was one of the biggest things that came out of it, was like people really like behind the scenes stuff and like us talking and answering questions, but also just like us talking about the show and so a new venue to do some of that would be useful. And to that end, it’s useful to hear like what works and what doesn’t. Like we said in the first couple of arcs of Heart, it is–it is hard to play a new game and get the pacing down. In fact, we’ll get to a pacing question shortly. (laughs) Which is interesting because we just did two arcs that are both four episodes long? Ali, this next one’s going to be 4 episodes too, right?
+
+
+ALI: I believe so yeah.
+
+
+AUSTIN: And so, and so, that’s probably longer than what we want but that’s gonna come down to us getting the system, me understanding prep, etcetera. And so um…(laughs) I can’t say etcetera without thinking of that Soulja Boy tweet now. Thanks Dre. (ALI and DRE laugh) But uh, that–you know, definitely wanna make sure that there’s a place for us to talk about the show as we go through the new season and like kind of get our bearings a little bit. I’m gonna sneeze, one second. 
+
+
+ALI: Oh.
+
+
+(AUSTIN sneezes)
+
+
+ALI: Bless you.
+
+
+DRE: Bless you.
+
+
+(AUSTIN sneezes again)
+
+
+DRE: Double bless!
+
+
+AUSTIN: Double sneeze. Um, anyway so that’s a heads up that was probably worth offering up. I don’t know what the timeline’s gonna be on that. Ali and I have to kind of look at what the Patreon catch-up is in terms of what’s still to come. Uh, in this current like rush of catching up to make sure that we line it up right but also just thank you to everyone who filled out that survey. You know. It should go without question or it probably shouldn't have surprised us that so many people are just like, “Hey, do what you need to do in terms of making sure that there is a good balance of content plus you’re keeping yourself like, you know, relatively rested and are able to make this stuff without feeling like it’s–it’s, you know, too much.” Your support means the world to us. Ali, do you have any updates to anything that’s Patreon related before we read the questions?
+
+
+ALI: Umm, I mean I guess nothing pressing. We did a Live last week that should hit MP3 tomorrow and then I’ve sent out…I made like a big postcards update post with the last Clapcast.
+
+
+AUSTIN: Sick.
+
+
+ALI: And all of that stuff should be in people’s emails and it’s all coming! (laughs)
+
+
+AUSTIN: We got–we got our first piece of art or our first like sketch I guess is what I should say. Character design for our Sangfielle postcards and it’s sick is what I’ll say. (ALI agrees) Chris Kindred turned in the first like, “Here’s what I’m thinking about.” And phew! Loving, loving what Chris is thinking about. (ALI: Yeah yeah yeah.) So, very excited for those to hit. (DRE chuckles) So let’s get into some questions. Uh…Sarah writes in and says:
+
+
+(FIRST QUESTION: 00:05:10) 
+
+
+“My group has just come to an end of a short campaign of Beam Saber and we’re getting ready to start a new one. So now it seems like a good time to ask for advice with a mechanic I've been struggling with a little: Beliefs. I have no problem with writing beliefs that feel true to my character and that get a good reaction from fellow players and GMs–and GM. And I do my best to use them to guide my PC’s actions but doing so rarely seems to lead me into struggling and so I don’t get to mark XP in that way. So far most of my beliefs have led to my PC acting selfishly which does tend to cause trouble, just not for myself. Though when I can play into other PCs’ beliefs about my own so they can mark like–When I can, I play into other PCs’ beliefs about my own so they can mark XP instead. I did get a chance to write a less selfish belief about wanting to protect a new PC. Shout outs to our captain who had the very good idea of implanting neural implants into his crew’s brains so they could work better together as a team, then immediately overindulging, leading him to going AWOL and switching to the Hive Playbook.”
+
+
+ALI: We’ve all been there.
+
+
+AUSTIN: We’ve all been there, we’ve all–We’ve all fucked up and got other people involved in some shit.
+
+
+DRE: Mondays, am I right? (ALI laughs)
+
+
+AUSTIN: Uh huh. “And that worked out really well! But it occurs to me that I can’t make every belief I have about putting myself in harm’s way to protect others. So do you have any advice for writing beliefs that you can easily struggle from, or for how to make them most of the beliefs you already have, or advice for similar mechanics in other games?” 
+
+
+AUSTIN: And I think it’s probably worth like pausing for a second and emphasizing that the reason–The point of difficulty here, it seems, is specifically this idea of struggling around the belief. Lots of games have beliefs, you know, in the book or as a creative part of the character creation. Beam Saber implicitly ties those beliefs to the progression mechanics by saying if you’ve struggled because of your beliefs, scars, or vehicle quirks specifically whereas there’s also the bit of like, if you’ve expressed tragedy, history, or opening. So you can express those things but you need to struggle with your belief in order to get the kind of XP reward. Um. Ali and Dre, you both had, I think, some pretty–I think it’s probably fair to say both of you had characters who struggled with their beliefs or who put their beliefs front and center during Partizan while we were playing Beam Saber. I’m curious if either of you have thoughts on this one.
+
+
+DRE: Um, I think the way I think–that I thought about beliefs in Beam Saber and I–you know, I think about usually in games whether that they’re the primary or one of the primary XP triggers is like I try to think about, “Okay, what is something that I believe so strongly about if I heard somebody say something in public that I could not shut up?” (AUSTIN laughs) Like what–and so like in turn for the character, what is a conflict they’re likely to run into that they won't be able to bite their tongue on.
+
+
+AUSTIN: That’s like the big thing, I think for sure. A belief is like a call to action or it’s like a–We’ve gone to this–I’ve gone to this roll a bunch, talking about beliefs and instincts from Burning Wheel and those are different things in Burning Wheel. Instincts are often talked about as being insurance against a mean GM. (DRE laughs) The thing of like, “I always sleep with a gun loaded under my pillow, right?” That way if there’s ever a moment where you get jumped while you’re sleeping, that’s a true thing about your character that the GM cannot negate or you know, I always keep one exit available to me based on where I’m sitting in a room or something like that, right. Um, whereas beliefs are meant to drive you into conflict so that’s the sort of thing that’s often a two step statement of like, you know, the lord of this region, uh you know, put me- imprisoned in my family, comma, so I will do whatever it takes to get back at him. Right? And it’s that second part is that call to action. And that’s the thing that should almost always be a thing that will get you in trouble or that will be difficult to achieve so that any attempt to make progress on it or embody it introduces an element of struggle. And also I understand struggle very broadly. If you go back and listen to Beam Saber, struggling is any time a character rolls dice. If you roll dice, that’s struggling because it means there’s a chance that you fail and take consequences. That’s the mechanism of struggle and so if you’ve had to roll dice based on a thing you did because of your belief, then you’re struggling. Struggling does not mean you took harm. You know? It does not mean–struggling just means you put yourself in harm’s way and had to like spend resources effectively on this thing. Um, and that resource, you know–In some ways, a dice roll is a resource because every time you do it, there’s a chance of it breaking bad on you. Um. Ali, thinking about Kal’mera Broun (chuckles) and Broun’s beliefs over the course of the season, do you have any thoughts on this? 
+
+
+ALI: Yeah I, um…It’s so weird. I’m like trying to remember what any of Broun’s beliefs were because it’s been a long time.
+
+
+AUSTIN: Because it’s been 7 months or something?
+
+
+ALI: Since we played that game. Um…
+
+
+AUSTIN: Yeah. I pulled them up for you, I got them here. Let’s see. There’s lots of connections, those I got. Umm, buh buh buh.
+
+
+ALI: Yeah I read this question and was prepared to talk about connections and I was like, “Wait, the beliefs are a separate thing.”
+
+
+AUSTIN: Are they? No no, that’s what those are. Beliefs are…Yeah, those are beliefs, right?
+
+
+ALI: Oh okay, fair enough.
+
+
+AUSTIN: In Beam Saber. In Beam Saber, they are about other people, right?
+
+
+ALI: Yeah yeah yeah. And yeah, I feel like it’s a fun system but one that was hard to interact with because I don’t think we like tested the beliefs very often the way that they do. 
+
+
+AUSTIN: No, no.
+
+
+ALI: And I feel like–And I said this while we were recording, but I feel like I was stuck in the Dungeon World (giggles) version of a belief which is, it doesn't serve the same system in terms of being a trigger in that way. 
+
+
+AUSTIN: Mmhm.
+
+
+ALI: Uh…The one thing that I wish that I had done like was think about it more in terms of like how…Like your perception of actual relationships work. Like the first belief that I had with Milli should’ve been something like, “Me and Milli are friends, right?” (laughs) Which is like the exact takeaway you can have of some people being like, “Well, we’ve worked together but we’re friends right?”
+
+
+AUSTIN: But that’s a hard one to make–I guess the thing is there if you had then put yourself in harm’s way for Milli, then that’s struggling right? Which goes back to what Sarah’s saying of like, do all of these boil down to I put myself in harm’s way for that person? Right?
+
+
+ALI: Right, yeah.
+
+
+AUSTIN: I think we were both confusing beliefs for drives, which is the Beam Saber more general goal system right? Which you don’t get XP for for pursuing, if I remember right. You only get drive clock if you pursue your drive, you dont get XP.
+
+
+ALI: Right. Yeah yeah yeah. But it should be written in a way that’s like able to be tested and also able to be like reactionary like Dre was saying. Like if it’s something that you feel strongly enough about that you’re like willing to be rude or like assertive in some way, then that’s like a good trigger to like find those opportunities in play. Um…But yeah, it is tough.
+
+
+AUSTIN: Yeah, definitely. I think that one of the ones or–One of the things that I think ended up being useful to see or a thing that I said a lot to basically everyone was the sort of like, “Okay, you’ve written this down. What’s a situation in which you would feel like this could be contradicted?” Right? And so like I’m going to just pull up Valance's real quick because I haven’t looked at those in forever. Valence’s around Thisbe were really interesting, and here’s another thing that’s important about Beam Saber ones is that they can contradict each other. So like Valence had one that was like, “Thisbe is simple and straightforward,” but also in there was, “Thisbe’s loyalty is deeper than mere programming.” Right? And those aren’t like diametrically opposed necessarily but there is something at work there that complicates those two things.
+
+
+In terms of getting those…In terms of like those leading to struggle, what would you need is something like a sequence where–And part of this is actually working with your GM, right? And in some ways, playing Heart has me thinking a lot about beats in relation to this. Um, to where one way for me to let Valence struggle with something like, “Thisbe’s loyalty is deeper than mere programming” is to offer up a situation in which Thisbe could be disloyal and to do so would put Valence in trouble, right? And so to some degree, I think this is about talking to your GM about signaling which beliefs for which PCs you’d be interested in seeing like lead you to struggle. 
+
+
+The other half of this is there’s not anything really wrong with the idea of variations on, “I would put myself in harm's way for this belief.” Or in failing to put myself in harm’s way there is a knock on effect that hurts me, right? I’ve been thinking a lot about the Beam Saber actual play that I listened to before running Beam Saber, which was The Cenotaph which Austin Ramsey ran for a bunch of folks. Excellent, really fun actual play that’s worth going to find and listening to. Um…Had a lot of like situations where one player’s belief that someone else didn’t deserve their help because they were annoying, or were a little too like gung-ho, or too brash would have a knock on effect of that person then getting in over their heads and then like causing some big, you know, not earth-shattering–or in some cases, literally earth-shattering building collapsing stuff to happen that would then put the belief haver in trouble. 
+
+
+And so I think a lot of this ends up being pointing to your GM and asking, or going to your GM and pointing back to these beliefs and saying, “Hey, I would love it if we could spotlight my relationship with so-and-so in this incoming arc.” That sort of guidance as a GM is like my favorite thing. I love it when a player is like, “I would love to meet a character who blank,” or “I would love to get a scene with so-and-so.” Like that is (laughs) a lot of work like fixed for me or almost like done for me in advance, because instead of having to gesture or figure out what’s being gestured at, I just get a direct statement and it’s easier to line up that hit than it would be to just kind of throw darts at the board and hope that one of them lines up. Because, you know, a character in Beam Saber ends up having–Even with three people in a party, by the middle of the campaign ends up having 5 or 6 or 7 beliefs, right? And so which one of these do I want to try to spotlight? Do I wanna prep for is–is–becomes increasingly difficult. So having–going to your GM and saying, “I really want my relationship with our captain, in which I believe X Y Z of our captain to have a moment this week. Can you like–I’m just–If something makes sense, can you line that up?” That’s totally, totally fine. You know? I think there’s often a feeling among players that like talking about the game is forbidden somehow? Or like talking about what you want from the game is forbidden somehow. That you're supposed to just check in and play and not talk at that meta level and you totally totally can and should. Any other thoughts here or should we keep moving? (pause) Alright.
+
+
+DRE: Good. Good to keep moving.
+
+
+(SECOND QUESTION: 00:17:46)
+
+
+AUSTIN: Uhh, Jared writes in and says:
+
+
+“I’ve been running an Armour Astir campaign for about 16 sessions now for a crew of 5 players. This campaign is the first one that I did substantial prepwork for before the campaign started and in play, I’ve made a concerted effort to have a stable cast of characters, organizations, and conflicts so the campaign feels more cohesive. Overall, I’m happy with the results but I found that as the campaign goes on and there are more and more characters to keep track of and players’ interest to manage, it feels hard to keep all the various plots and characters moving at the pace they should. For example, 3 of the 5 players–3 out of 5 of my players have rivals and it’s hard to think about ways to have them all show up or be involved on a regular basis or have their interests advanced. Austin, do you have any advice for how to manage a complex world and not let important character plots fly by the wayside? Everybody else, is there anything that helps you as players when you’re trying to maintain investment in the world with a lot going on?”
+
+
+AUSTIN: I’m again very interested in the latter as someone who often makes games where there’s a world where a lot is going on. (DRE laughs)
+
+
+DRE: Umm. Find a man and/or orge man that your character wants to date.
+
+
+ALI: Mmm.
+
+
+AUSTIN: Mmm! Mhm.
+
+
+DRE: But like, the not jokey version of the answer is like find the slice of the big world that is most interesting to you. So that like you can you can narrow your vision down onto that. Because like in real world as people, it’s not like we know everything that is going on in the entire universe around us at all times.
+
+
+AUSTIN: True. True. We invest in certain parts right, yeah.
+
+
+(ALI laughs)
+
+
+DRE: Or at least, I hope for everyone’s sake that you do. Cause that’s a lot.
+
+
+AUSTIN: (laughs) Yes. Ali, how about you? I feel like this has been…I mean, this is the thing–Well, everyone’s characters but when I think about like Hella’s relationship to Ordenna, when I think about Aria’s relationship to JoyPark. (DRE: Damn, yeah.) You know what I mean? That is a common recurring thing.
+
+
+ALI: Yeah, I mean like, it’s just–It’s easier, I feel like it’s easier to be like an immersive player if you can like identify a thing in the universe that your character cares about whether that’s like antagonistic relationship, whether it’s like a thing they think is really annoying (laughs), or it’s a thing that they wanna fix. It’s good to like take one of the organizations in whatever the setting is and be like, “Fuck that guy,” or whatever else. (laughs) For me, it’s usually “Fuck that guy,” but there’s a lot of deviations of the prompt that you can answer. Um. I–The second thing is like, trying to think about juggling it is like…Sometimes a session can be like that character’s session, you know?
+
+
+AUSTIN: Yeah, and it’s okay. 
+
+
+ALI: Yeah. Like not everyone–Like you know, somebody else can have the C-plot for a night and that’s–You know, that’s how shows work. That’s how stories work and it’s like an organic thing to like have that happen so you don’t have to feel like you have to have all of these characters on screen at the same time.
+
+
+AUSTIN: Armour Astir literally has the B-plot move for support class characters, right? (ALI and DRE laugh) Not that that’s the same thing exactly but you know. It’s represented.
+
+
+ALI: Right, yeah. Another thing–The thing that I’ve been thinking of as I’ve been thinking of this question is like -- It's also like–It’s fun when those characters are coming up in an unexpected place. Like I think of when (laughs) and this was probably easier for you because there was a character overlap there but when Paisley showed up on the September mission and it was like, “What the fuck are you doing here?” And then also, it just led to this…Every scene that Mako and Aria were in were just like stumbling over each other for his attention is like an easy way to do that.
+
+
+AUSTIN: Yeah. Doubling up on NPC relationships obviously very useful.
+
+
+ALI: Uh huh, yeah. And it might be -- That ship has maybe already sailed for you there, but if you can encourage it. I would–It’s–You know, it’ll help some of this.
+
+
+AUSTIN: Yeah. I also think that there is a–To some degree, it’s about setting expectations for your players. So I should start with just underscoring that what you said to us is that overall I’m happy with the results. Like sit in that happiness. Like let yourself be happy, but there can be an escalation that changes expectations if what you’re trying to do is each session hit. Every character’s rival shows up. Hit that every, you know, B-plot character comes back because someone’s interested. That every faction is represented etcetera etcetera etcetera. If you’re trying to squeeze all that in, you’re going to eventually run out of ways to do it. And instead,  really advocate saving those moments for big, you know, campaign finale or arc finale or, you know, major moments in the campaign. Um. (coughs) In–You know, I think about in Partizan there were only a handful of rivals -- I mean I should pause and go back over to another thing which is like, it’s okay to introduce something and then to discard it if there isn’t a lot of interest. You should be paying attention to what your players are being hyped about and treating the characters that they're not as potential things they can come back to but not characters or factions that need to show up again. A character who shows up early on in Partizan is Midnight Matinee. There’s a really fun scene with Midnight Matinee, who is the other mercenary who claimed your salvage, you remember that? The Leporine, you know, the rabbit lady.
+
+
+ALI: Mm. The sort of rival…
+
+
+AUSTIN: Yeah, but she was not a rival. No one really clicked in enough of a way there for me to be like, “I’m going to reintroduce this character over and over again.” Other more exciting stuff was happening and so I moved the camera away. And but you know, you know maybe that’s a character who shows up in the next season. Maybe it’s a character who I know I have in my back pocket for if there’s another mission that shows up that has to do with salvaging. They can come back in. Um, but if you default to characters kind of moving in and out of–You know, in and off screen the way they would in a sort of episodic tv show then one, the return is really exciting. Like where Gazelle in the chat says, “A character you forgot about for a while is a character who gets to make a dramatic reentry.” You don’t get to do that if you’ve been pushing the rival every episode or pushing an NPC or pushing a faction, right? As long as everyone’s on the same page on what those factions are, them showing up can be this big incredible thing. 
+
+
+There’s a moment in Twilight Mirage where a major antagonistic faction is introduced very early on and then kind of doesn’t exist for half of–More than half of the season and then shows up in a huge way for the final like, three or four arcs. Um, and I didn’t need to reintroduce them over and over again. I had one character on screen who was connected to them. One or two, you know, but they were not a major force in that way and so figuring out ways in which you can put people on the backburner and making that the default, I think goes a long way. Obviously we have no idea how you’re running your game. Maybe you’re already running your game like that in which case, it sounds like you’re doing the right thing. But don’t feel like you need to stuff every session with all of your characters and trust that your players will be like Ali and say like, yeah, it’s okay for the spotlight to be passed around. Sometimes you get a game or a session that’s about a character and their rival and the next one, maybe has–You come up with a reason for two of those rivals to show up. Two of the other rivals to show up, you know what I mean? But it ends up being a lot easier if you’re willing to juggle it and trust your players to juggle with you, you know? It can be nice to–Someone who's played plenty of games, they can be nice to have that kind of backseat role for a session and just kind of coast, you know? And just be like,” Yeah, I’m along for the ride but I just don’t need to–I don’t need to show off, you know what I mean?” Um, so yeah. Uhh…Dana in the chat says, “As a player, I’ve had a big moment where I realized–could have realized a plot point much much sooner if I looked through my notes where I highlight any names we learn and realized someone we met had the same name as a villain I identified once a long time ago and I felt silly. (ALI laughs) But honestly it made sense for my character to be writing everything down but not put everything together. Characters just can't fit everything in their heads all at once either.” So yeah, totally. Alright. Next question?
+
+
+DRE: Yeah.
+
+
+(THIRD QUESTION: 00:26:51)
+
+
+AUSTIN: Okay. Reel writes in and says, “Long time listener, first time caller here. I’ve noticed and appreciated that you tend to take your time even with the systems.” This is–what a backhanded compliment. (DRE: Uh huh.) “You tend to take your time (ALI and DRE laugh) even with systems that are supposed to be one shots of certain length. The Road to Partizan games especially come to mind. My friend group is the same except maybe to the extent that it’s becoming a bit of a problem. We don’t have a lot of experience with tabletop RPGs so we’re also taking a lot of time thinking our actions through. Mostly we’ve been exploring Powered by the Apocalypse hacks and games like Dialect, For the Queen, The Quiet Year, and Starcrossed. This is not so bad in itself but maybe 9 to 18 hours is a bit much for an evening of fun interaction between good friends, so do you have any GM advice on timing or pacing? Is there a way to have more than a paragraph of content in a game of up to 5 hours?”
+
+
+DRE: Man.
+
+
+AUSTIN: We go too long as it is. We go shorter than I did in college. (DRE: Right.) In college, I was doing the 6-8 hours sessions.
+
+
+(ALI laughs)
+
+
+DRE: I was literally just about to say like there was a time in my life, which was college, where it’s like, “9 hours, yeah that sounds fine. Let’s do it.”
+
+
+AUSTIN: Let’s do it. Let’s go. Start at 6 and end at 6. (laughs) (ALI: Oh my god.) Like all day shit, let's roll.
+
+
+ALI: Long nights, huh. (laughs)
+
+
+AUSTIN: You know, different stamina levels, different ability to just kinda be. Also, this was pre-smartphone, you know what I mean? It was wild.
+
+
+DRE: Right.
+
+
+ALI: Ohh, right. sure sure sure. Yeah.
+
+
+AUSTIN: No one’s like checking on their–You know, we weren’t on social media. It was wild. 
+
+
+ALI: I know you know I know there were some people bringing in Gameboy Advance to those sessions though and not being completely included.
+
+
+AUSTIN: Shout out to Shaun, what’s good. (ALI laughs) (DRE: Damn.) No, Shaun was always good. The only time, the only time, I have no idea if Shaun is listening to this. The only time Shaun like really was like, “I’m gonna play a video game instead of this,” was we were making characters for, I wanna say a Burning Wheel hack called The Blossoms Are Falling which is like a pre-samurai feudal Japan game and at a certain point, Shaun had like finished all of his work and character creation for that bit, I wanna say and then was like, “I’m gonna play Super Robbot Wars.” (laughs) But in games during college, he was always there. Also, I definitely brought my GPA sometimes so I can’t fucking hate. (ALI laughs) God, I was just thinking about a lot of bad D&D games I played in over the years and phew. Anyway. So one is, it’s okay if you go long! Like that’s my starting point is like as long as you have the budget for it, the time budget for it, let yourself breathe. Let the game breathe. Don’t beat yourself up. Um. I think maybe my only other piece of advice is to like let yourself be impulsive and live with the results. It’s okay to make decisions that aren’t optimal  and I think one of the most exciting ways to play is to get used to rolling with consequences and not to kinda do the thing of rerunning the scenario in your head a thousand times until you’re certain, right?
+
+
+DRE: Yeah.
+
+
+ALI: Mmhm.
+
+
+DRE: Yeah, I think there’s a big difference between taking a long time to make a decision because you’re learning something new and you’re saying to yourself, “Okay, so if I do this, then this, and then I roll this, and that plays off of…Okay.” Versus like, what is–like you said, what is the perfect thing to do here? What is the thing that I’m supposed to be doing because it’s the most optimal or whatever.
+
+
+ALI: Yeah, I definitely agree with that. The thing that strikes me with this question is that like, um…Especially when you’re starting out, it’s worth it to sort of lean into the fun of just doing your first good idea. 
+
+
+AUSTIN: Mm. (ALI laughs) 
+
+
+DRE: (agreeing) Mmhm!
+
+
+ALI: There’s always the impulse to be like, I wanna do that but…and just like, you know, like just say it. (laughs) If it’s a bad idea, people can talk it through but like at least like starting there and then like letting things unwind from there can…It like–The energy will end up sort of exuding down the table because it tends to, just because if you’re excited about a thing and you’re on the ball in that way, sometimes people will follow you there. (AUSTIN laughs) But also like what Austin said about consequences where its like, instead of doing the right thing, it’s fun to do the like fun thing or do the interesting thing or you know, the thing that comes to you first comes there for a reason and it’s like worth at least looking down that path and seeing how far you can get down there.
+
+
+AUSTIN: Yeah.
+
+
+DRE: Mmhm.
+
+
+AUSTIN: And try not to focus on mechanical possibility. Not like…Focus on the, “I think this will be a cool thing to do,” and then work to how you roll those dice from there. Instead of feeling like, “I can’t say this because there’s nothing on my sheet that says I can do this.”
+
+
+DRE: Yeah. Austin, I think you saying that reminds me of one of the things that I felt like is like, one of the best things that you did for us, or at least for me anyway. When we first started doing this was, I was definitely thinking in terms of like, okay, what do I need to roll here? Like, what is the stat I’m rolling? And so many times you would say, “Don’t worry about what you’re trying to roll. Tell me what you want to do, and then we’ll figure out what you’re supposed to be rolling, if you even have to roll.” And I think, you know, that makes it so much natural to kind of play the game, and then it is also fun because sometimes what you wanna do is the thing that you have a -2 stat in but you wanna do it, so fucking roll the dice. (AUSTIN and ALI laugh)
+
+
+AUSTIN: Fucking roll the dice! Yeah, totally. I will say I understand that there are players who, including players on the show, that like having your sort of deck of abilities or having your deck of things you can do in front of you is really libratory, you know, against the chasm of all possibility that is, just tell what you want to do. Tell me really quick. Just, you know, you can do anything right now, so tell me the one thing that that is. I can understand how that can be, you know, paralyzing in some ways, that degree of openness. So I do get it but I still think if you have to err one way or the other, it’s erring towards what you think your character how your character would respond to a situation over looking at your kind of hand of potential cards to play, picking one from there and I think developing that technique which is like, it’s a skill like anything else, developing that skill will eventually lead to faster play. The other thing is just like, don’t go for 9 hours a day if you feel like you’re tired. Like please take a break and come back to it. Um, I think it’s a thing we’ve gotten better at it over the years. We still go long, certainly. (ALI laugh) But I think if you go listen to like Counter/WEIGHT. 
+
+
+DRE: Yeah we’re not nearly as bad as we used to be.
+
+
+AUSTIN: No. No! How could we be, you know? 
+
+
+DRE: No, exactly. (laughs)
+
+
+AUSTIN: We’ve gotten better at admitting that it gets–There’s a weird arc, I’d say, for our recordings. Maybe y’all feel differently about this than me but I think we don’t get good until an hour in and then we can carry that for 3 more hours, and anything after that, it’s a real roll of the dice. With rare exceptions. With rare exceptions. Sometimes–Sometimes, I mean sometimes it hits 2 hours after that and we’re like, we gotta stop. I’m too tired. Because we started late or because we’ve had a long week or the game is especially tiring in various ways and sometimes I've definitely finished sessions being like, I could just go–I could keep going right now. Um… But and then having the honest conversations that is like, but could I keep going for two more hours? Or could I really only keep going for the 45 minutes? How far is it that this high will disappear, you know? So.
+
+
+DRE: Mmhm. Yeah I mean. Set your structure and stick to it. Like um, if you’re gonna say, we’re gonna start at a certain time, everybody needs to commit to doing what they need to do to start at that certain time, you know. Like if you’re the person who is GMing or hosting like have stuff printed out ahead of time. Everybody needs to have their stuff ready to go, you know. If you’ve got the friend who always shows up late, tell them that we’re starting 30 minutes before we’re actually starting. (AUSTIN and ALI laugh) And 2, I think set a time to end, you know? This question actually made me think like about when you first start working in therapy as a therapist like, almost the biggest struggle for everybody is the tendency to where it’s like, you will talk about nothing in a session for the first 40 to 45 minutes and then seemingly in the last 5 to 10 minutes, you know, the client you’re working with is like, “Yeah, I guess nothing happened this week except…” and then that’s when the bombshells all drop. 
+
+
+AUSTIN: (laughing) Right.
+
+
+DRE: And like, learning how to say, “We’ve only got 15 minutes and like we can’t go down this road because I’m not gonna be able to give it the space that it like deserves.” So instead, we’re going to pull the ripcord on this thing and it’s gonna get messy and get everywhere and then, I’m going to be like, “Alright, have fun with this! Bye!” (ALI laughs) (AUSTIN: Yeah.) And you know like, obviously playing fucking tabletop games is different from that but it’s what you just said Austin though where it’s like I could say, “Yeah, let’s go ahead and keep rolling past this deadline I said,” but do you really know if the high that you feel for this scene is it gonna to last 15 minutes? Is it gonna last an hour? 
+
+
+AUSTIN: What if we get into a fight scene and it slows down ‘cause pacing changes dramatically? 
+
+
+DRE: (overlapping) Right. And you’re just–Yeah, like set your structure.
+
+
+AUSTIN: Or an intense conversation where instead of just caring about abilities, you have to care about speaking in a character voice or something?
+
+
+DRE: Yeah, or if worst comes to worst and you end on something that everyone’s fucking jacked about, then that’s a great way to start a next session.
+
+
+AUSTIN: Yeah, totally. We just did that a few episodes ago for the next Bluff City arc. Um, where we–When we were recording it, I think we hit a point where we were like, let’s take a 10 minute break. And I came back from the break and was like, “Let’s call it, actually.” Because the next bit is gonna be like, the tone change feels like a thing that we’d have to work into and I’m not sure I’m there, even as the GM. Let alone trying to force us to carry forward. Like I can imagine this next session going–this next section going for 2 hours, and I think I have like 90 at tops in me so why break in the middle of the action when I could break now, and that’s fine. It’s okay to call it early, you know?
+
+
+ALI: Yeah, I feel like that’s definitely something I’ve gotten sensitive to while playing through editing and knowing like, “Okay, there should be a natural break here.” Because it doesn’t make sense to like arrive at this destination and describe this destination and have the end of this being in the place being 40 minutes and then like-
+
+
+AUSTIN: And then it’s over.
+
+
+ALI: We end after we’ve described all of this shit and then come back in a week and be like what are you talking about? (laughs)
+
+
+AUSTIN: You’re talking about the current arc of Sangfielle. (ALI and DRE laugh) But it was important for me to use that time to describe the place and get everyone settled because otherwise, we would have to record another–This is the thing. Making a show adds this other thing, which is like, “How do I get through this material in as few recordings as possible?” Which is its own fucking problem. Which, if you're playing just a home game, you do not worry about that shit. Worry first and foremost about the health of your table and the pacing of the campaign writ large, you know.
+
+
+ALI: Oh for sure, yeah. But like it–There’s…There are beats, and you know, sometimes it’s hard to recognize them in the moment but like if you have those moments that feel like a downbeat, it makes sense to be like, “Okay this has been 3 hours. We’ve kinda gotten up to this place. I think people sort of have an idea of where they’re going next, but we can kind of use this space to take a break now and then do it later.” And I feel like what helps there too is when you have the gap of like, “Oh, I kinda have the setup of this place and I kinda know what I wanted to be doing when I left the session and now I have the space to actually think about it.” You can come back and be a little more honed in and be willing to make those decisions without taking the time to think through them while you’re already really tired and that will help cut a 10 hour session into a 6 hour or that’s very…Like 7 and a half, really, is probably an honest estimate but still, you know.
+
+
+AUSTIN: That’s still an improvement, yeah totally. 
+
+
+DRE: Yeah.
+
+
+(FOURTH QUESTION: 00:39:46) 
+AUSTIN; Um alright. Next one comes from H who says: 
+
+
+“Recently some members of a group I’ve been working with on a multi-year project have decided to start a game of either D&D 5th edition or Dungeon World. I consider everyone in that group friends and I trust them a lot but we don’t really know each other outside of this particular context. In addition to this new game, I’ve been playing a weekly game of D&D 5th edition with a group of very good friends for about 6 years. We are now in our 3rd campaign and we’re very comfortable with each other’s playing styles. We have grafted a number of extra things onto D&D to make the system work for us. We use lines and veils and the X-card. We use what we call Rose and Thorns and Wishes as a debrief discussion of what we found really worked and what didn’t and what we wanna see more of. We use beliefs, weaknesses, and traits to do XP instead of whatever D&D really uses. We also use a lot of clocks. I am excited to start playing with this other new group but I’m also finding that I’m very nervous. There are also varying levels of experience in the group. One person’s never played but has listened to Not Another D&D Pod and was inspired to suggest that we start a campaign. Three others have played for varying lengths of time and a 5th has experience but prefers game systems that are not D&D and we haven’t decided on who will be the GM. There’s a chance that I will end up taking on that role, which will be my first time GMing. So here is the question: Do you have any advice for how to set a good tone for a new gaming group when you don’t know the other players all that well? I know having a conversation is going to be important and we have one planned, but what kind of things should be discussed in advance to head off potential problems and make everyone comfortable? In particular, how would you facilitate a discussion about tone and expectations to folks who might not be familiar with thinking about games in those terms?”
+
+
+AUSTIN: Um…One–Two starting things. One–two things happen at once–One. (DRE laughs) This is just how my brain works. I actually have like 6 things but I’m going to limit myself to 2. One is, it sounds like this group is experienced in a way–is more experienced than many first time groups are. Even having a player who’s just listened to an actual play podcast helps a lot. Having players–3 players who played some amount of D&D and a 5th who wants to play something that’s not D&D. Perfectly fine. You have a group of people who have had experiences playing games and so you can draw on those to some degree in that conversation. The second is, we have lots of non-jargony reference points to talk about things like tone and content. I think it’s always worth being direct about especially things around lines and veils and content we just don’t wanna see and etcetera but also like, it’s not cheating to say like, “I think I wanna play like a PG-13 level game in terms of content. Maybe we can curse more than that but like, in terms of the ways we’re talking about depictions of violence, I don’t wanna get like super detailed. I don’t want it to be like a slasher flick or like a body horror film, you know, or even like an especially explicit action movie.” You know? Being able to talk about things in terms like that and then also directly references to works that feel in tone with what you’re interested in like, “I think I wanna do something that’s more like Xena than like Game of Thrones.” Being able to point to particular shared experiences that like people have from pop culture can help align expectations pretty quickly then you can fill in the gaps with those specific lines and veil conversations and drill down deeper. But there’s sort of like a calibration that can happen when you say, “You know, I’m interested in something that’s sort of like Bloodborne, sort of like Hellboy, but maybe not as focused on like eye trauma as either of those can get.” (ALI and DRE laugh) 
+
+
+ALI: Yep.
+
+
+So yeah those are my two opening tips.
+
+
+ALI: Yeah, I think that’s very–Yeah. Tone is such a hard thing with tables and I feel like, especially if you think that you’re going to end up being in the position of like the organizer. One thing that I did when I was kind of shepherding a new group together the best that I could was like, as I was like pitching games for them or trying to talk through them is I would like try to present sort of like the basics of the game altogether so they could think about it in some touchstones in terms of being like you know, if we wanna play 13 Candles or whatever, this is what the structure of the game is and this is how you progress. And like sort of having some idea of that was helpful for the player just because they were like, okay. We–This sort of gaminess is front loaded from you know, understanding that they had a better time being like, okay, that’s–I think that that’s interesting.” And then from there, because games sort of come with a tone a little prepackaged like, you can always deviate from it but it's, you know. It’s different playing something like 13 Candles than it is playing like Fiasco or whatever. And that can be like, okay, we’re playing–We at least know that we’re playing a horror game and then you can get more into the specifics there. Another thing that I’ve like figured out playing with like mixed group is that as you’re at the table, sometimes it’s better to just lean in to what the tone is at the time because like, if you know people are leaning towards having a more light, sort of jokey game, you know. Nothing wrong with that. (laughs)
+
+
+AUSTIN: Nope! Totally. That’s exactly what I was thinking about, was like, if you’ve listened to me run games for the Beastcast over the years. RIP to the Beastcast. In my feelings on this. But if you go back and listen to those Beastcast Holiday games, especially the ones where Dan is there, I am not like, “And we’re going to do a serious game about themes.” And I’ll sneak my themes in there. If you’re paying attention, you can find that shit but like I’m gonna play with a looser grip, because that’s where the players really are. Um, and that is, you don’t wanna insist on tone that doesn’t come from the group and you also just won’t know until the game is on, until people are playing. You don’t know how much someone wants to put on a goofy voice until they’re in the middle of putting on a goofy voice for the first time, you know what I mean?
+
+
+ALI: (amused) Uh huh. Yeah, and I feel like it’s also a good opportunity because like especially if you initiate the Roses, Thorns, and Wishes system into this group too like, after those first few sessions, you’ll have a little bit more of a navigator in terms of people being like, “Oh well, it was fun when we did this but.” you know what i mean? So. Yeah.
+
+
+AUSTIN: But I hated it when Bill did his goofy wizard voice. (ALI laughs) That’s not how that system works.
+
+
+DRE: Fucking Bill.
+
+
+AUSTIN: Bill, can you knock it off?! You’re not even playing a wizard. (DRE laughs) (in a goofy wizard voice)  “I’m a wizard of the wastelands!” (normal voice) No, you’re a driver. Dre, do you have any final thoughts on this one?
+
+
+DRE: I think you all honestly said everything I had to say. (laughs)
+
+
+AUSTIN: How about, let me ask a variation on this. I know you’ve run games for a group of friends that you’ve had for a long time or I’m guessing you have for a long time. Have you found anything interesting in terms of like, “Hey, I know you all from doing non-game stuff and now suddenly, I’m running a game for you and there’s parts of your personality I did not expect to come through the way it is here.” How do you account for or address that? 
+
+
+DRE: (laughs) Um…
+
+
+AUSTIN: You laugh like I hit something or I hit a fear.
+
+
+DRE: Yeah, no. No, it’s–I’m just thinking about when I ran a Blades campaign and it’s like, I have a friend who is like very quiet and sweet and another friend who’s kind of like the sarcastic asshole and then their characters they played were like those roles completely reversed.
+
+
+AUSTIN: Incredible! You love to hear it! (ALI laughs)
+
+
+ALI: Yeah, the magic of storytelling! (laughs)
+
+
+DRE: (laughing) Yeah, um. So I don’t know if that answers your question… 
+
+
+AUSTIN: It’s like, you just can’t count on it right like that’s the..
+
+
+DRE: No, yeah. I mean it’s like what you said, you don’t really know until you get going. Like it’s one thing to say like, yeah, I want a really dark and gritty thing, but then if you keep making like dumb jokes in the Roll20 chat like I do during a lot of our games, then maybe that’s not what you really wanna do.
+
+
+AUSTIN: That’s not what you’re gonna get. Yeah, exactly. The other–I mean that’s the other thing is, I think also, as you play, you will come to know the group and know how to expect types of…Especially when this is your first time GMing, it’s worth paying attention to like, what can I count on happening here? Uh, I think in our group, there are open ended sessions that I can run when–Different players have different degrees of like self-guidance in terms of how many times–How often will they just come up with a thing to go do? (snaps fingers multiple times) If I just said, “Hey, you’re in a world.” How much could they just say, “I’m gonna do this. I’m gonna do this. I’m gonna do this.” (ALI laughs) Keith is a player who like, I never have to worry about Keith’s engine kicking on and coming up with something. (DRE laughs) I don’t need a lot of lede. And that’s not a–This is the opposite of a diss. (DRE: Oh yeah.) This is like, I’m guaranteed Keith will drive the cart somewhere, right? And so because of that, I can have sessions that don’t have as much strict plotting or a strict layout of activity because something will generate there. In contrast, characters who I know are really driven by–or players who are really driven by character interactions. I know I really want to introduce characters that they care about and give them kind of access to those characters so that you can have a great conversation in the middle of a scene, right? I think about my favorite arc scenes with Hadrian throughout Hieron, many of those are not about action. They’re about character interaction and they’re about making sure that there’s time for a conversation between like–Going back to like Autumn, but like between Hadrian and Tabard was a scene where I was like, “I think Art is gonna have a dope conversation with this dude. How do I set that up?” And having recurring interactions like that is a good one. Tabard by the way, great example of, going back to the conversation about characters who only show up once in a while and then when they show back up, it’s fucking sick. So shout outs to Tabard. Tabard Alon. (ALI laughs) A fucking real one. Any other final thoughts on this one? We have one more after this I think.
+
+
+ALI: I’m gonna move on.
+
+
+DRE: I’m good. Wait, two more.
+
+
+(FIFTH QUESTION: 00:50:48)
+
+
+AUSTIN: Okay. I’m a liar, there’s two more. Yeah. Pigeon writes in and says: 
+
+
+“Personally one of my favorite things about the newest season is how vivid the description and visual elements are and I feel like so much of that is through y’all approaching the setting by building off a lot of outside influences and pushing into something new, which you do every season. It’s just this is especially exciting. What are your favorite ways to think about the touchstones of other media and how do you pull inspiration from them? I do a lot of editorial work and it’s always very interesting to me how every creative person uses their own mental library of media that sticks with them. Do you ever worry about inundating yourself with too much outside influence? Are there ways that other works inspire you outside of what’s stated on the show? What’s your favorite small inspiration that might be invisible in the final project but you know it’s there?” (laughs)
+
+
+AUSTIN: Damn. That last one was real. (ALI laughs) Cause it’s like, do I know it’s there? My answer is, I probably don’t know it’s there. It’s probably something that’s been in my brain for 30 years of my life that I don’t think about ever in terms of like, the rhythm of an action sequence. The way–I remember I stumbled into one which was like, “Damn. Whenever I’m trying to describe normalcy, I talk about like the smell of a bakery.” What is that? Where is that coming from? Right? (ALI laughs) I didn’t grow up in bakeries, right? That’s not something I spent a lot of time around. Why do I feel like that? What specific memory drilled itself into my brain around that, you know? (DRE chuckles) Anyone have any other answers here in terms of just like, how you think about those touchstones and bring them in? 
+
+
+ALI: It’s such a tough thing because like I–You know, I don’t think there’s any sort of shame in relying on these things, cause like all, all creators do. It’s all just, you know, it’s a big melting pot. 
+
+
+AUSTIN: You’re not stealing, you’re in conversation with.
+
+
+ALI: Mm! Mmhm. Mm. Uh huh.
+
+
+DRE: I mean, I remember taking like critical theory for my English courses and it’s just like, “Oh ok, everyone’s just like referencing and/or ripping each other off since like the 1800s. Okay. Cool.” (ALI and DRE laugh)
+
+
+AUSTIN: Uh huh. Right. Also that’s all creation ever is to begin with is–Yeah. Yeah. Mmhm.
+
+
+DRE: (overlapping) Yeah totally!
+
+
+ALI: But yeah–
+
+
+AUSTIN: (overlapping) So don’t beat yourself up again for that. If you’re like, “Ughh, this just feels too much like blank.” Like it’s fine. Again, especially if it’s a home game. You know.
+
+
+ALI: Uh huh. For sure.
+
+
+DRE: Yeah!
+
+
+ALI: Um. Yeah, the…
+
+
+AUSTIN: Sorry Ali.
+
+
+ALI: (laughs) No, it’s okay. The moment when I realized, like every character that I play could just be Han Solo and that’s fine, was like a very–It was a good moment for me and I’m proud of it. (AUSTIN and ALI laugh) But like, the flip side of this is that something I’ll feel self-conscious about it and I’ll try to think about it and like–This is such a bad example and I’m sorry to say this into a microphone on this show, but um. I don’t know if any of you recall the Family Guy episode where Peter is writing a book? (DRE shout-laughs and ALI starts laughing)
+
+
+AUSTIN: I don’t. Tell me about Peter Griffith’s book.
+
+
+ALI: Yeah, I bet you didn’t.
+
+
+DRE: Uh huh.
+
+
+ALI: (laughing) Um…And there’s like, he reads the prose for the book and it’s all like, “Oh, this lady walked in and she looked like this character from this thing,” and that is like such a jokey version of that. And like, I feel like because we do an audio thing and if you’re doing a game with your friends, it’s fine to have facecast and it’s fine to just describe things in that way because like, you're not writing a book and like if you were, you would describe these things differently. Like there is a reason why audio has different shorthands than visual things too so like it’s fine.
+
+
+AUSTIN: I mean you say that, but I basically described a character in Partizan as what if Dev Patel played Kircheis from Legend of Galactic Heroes last year and no one batted a fucking eye so.
+
+
+ALI: Yeah, it’s fine. Yeah!
+
+
+DRE: Also what did Brian say about Peter’s book? (ALI and AUSTIN laugh) What zinger did he have for him?
+
+
+ALI: You know, I don’t remember the plot line that far. It was a while ago.
+
+
+DRE: Uh huh.
+
+
+ALI: That’s just the one part of that has wormed into my brain.
+
+
+AUSTIN: This is favorite small inspiration that might be invisible in the final project that you didn’t know was there. (ALI laughs)
+
+
+DRE: Yep.
+
+
+ALI: But yeah. So that’s–Lose that part that’s in my head that’s saying, “Don’t do that because of the Family Guy episode.” (AUSTIN: Right. Yeah.) But it’s fine, you’re saying things out loud to people. You’re not animating something. (AUSTIN: Yes.) You’re not writing a whole chapter.
+
+
+AUSTIN: Right, you’re not doing visual art where someone’s gonna yell at you for not citing your reference. You’re playing a game with your friends. Like cite your reference! But like, don’t feel bad that you cited your reference.
+
+
+ALI: Uh huh. Uh huh. (laughs)
+
+
+AUSTIN: This is a common joke for a long time with us with Star Wars and hands getting cut off in this show, which we haven’t done in a while anyway but that was a big one.
+
+
+ALI: Oh sure. (DRE laughs) Sure.
+
+
+AUSTIN: Again, my thing ends up probably being about–I think this maybe goes back to thinking about ways that things influence us and how we pull inspiration. I’m as often interested in the grammar and rhythm of stories that I like as I am the content. The form as much as the content, right? I’m interested in the ways in which a story is structured. The ways in which a–I’ll jump between two different sequences. I think about the Partizan arc in the Canyon City of blank. What was the name of that place? Not Auspice. Not Golden Crown.
+
+
+DRE: (thinking) Oh shit.
+
+
+ALI: Which one was this?
+
+
+AUSTIN: The one where Thisbe was kicking statues and Jesset and y’all was doing all sorts of cool shit.
+
+
+ALI: Oh fuu-
+
+
+AUSTIN: And there’s an underground base that a character is infiltrating and then sees some shit on a screen. What is the name of this place? It was another A name I wanna say. God, Partizan had dope names. It was not Auspice. It was not…It was not Cruciat. Orzen. Orzen. Thank you Dacoda in the chat. Orzen. Yeah, Orzen. Right, with the bit with the Orzen opera house or whatever. Yeah, totally. Um. I think about that sequence where we’re like jumping between the fight uptop and then Dre, your character underground kind of infiltrating a place, and that’s like, pulled from a lot of sci-fi stuff that I like. I mean again, it goes to Star Wars, right? Like the war on multiple fronts. The combination of the in Return of The Jedi, the kind of Endor– Forest Moon of Endor fight with the emperor showdown, right? Like that sort of action across multiple vectors thing. 
+
+
+I think about the intros to the Winter in Hieron. I think–I think Spring did this too but Winter is when I started doing the in medias res like, “An arrow flies through the woods.” And I remember thinking like, “I wanna pull this because I want this to happen because this is how so much of the fantasy that does touch me pulls me in.” Like ‘cause I'm not a big fantasy fiction person in the kind of traditional fantasy mold, but the stuff that brings me in brings in me because it’s so good at making me feel like there is action happening–like if I think about, what’s a fantasy story I like? I’m not even gonna do a specific one but it’s one in which you know, horse hooves are kicking up snow in a forest and something–and someone is being chased. That’s my–That’s the thing in my mind, so how do I capture that energy at the start of a thing?
+
+
+Which actually goes to the biggest influence I have, really. With all things gaming, it’s something I shouted out many times. It’s the scene in Memento where Guy Pearce’s character, who does not have a short-term memory or doesn’t have control of long-term memory. He can keep his–I don’t remember what the diagnosis is. It’s been a long time since I’ve seen Memento. I don’t know how well that stuff is handled. Probably poorly. But this scene has drilled itself into my brain. He–Every scene in that movie is a new set of–Is a new part of his story in which at the start of it, he doesn't remember what just happened. He has very long term memory, remembering stuff from before a brain injury happened to him and then anything after that, he has to refer to notes and photos to try to make sense of it and in one scene, he is sort of running through a parking lot and there’s another guy running parallel to him a few cars separating him, separating the two of them. It might even be a trailer park. A bigger vehicle is there too, and he’s like, “Okay, what’s going on? What’s going on? Okay, I’m chasing this guy,” and the guy–he goes to turn and chase after this guy and the other guy like stops and kind of almost shrugs at him like, “What are you fucking doing?” And then starts running at him and it’s like, oh, nope! (snaps fingers) This guy’s chasing me. And turns around and has to run the other way. And that feeling of like, what’s going on in this moment, is the single most influential thing in my life as a storyteller is.  (ALI laughs) I love that feeling of something is happening. How do I make the characters get that sense of what is about to happen? Am I in control of the situation, or are they in control of the situation? Who is being played? Who is in control? I love that sense, and I love that sense also at the kind of meta level of being a GM. It’s why I love playing without a ton of prep because I like the sense of like, okay, what is going on here? Am I in control of this or are my players in control of this scenario? They’re chasing me. And so that’s the one invisible thing but again, that’s about rhythm and about structure more than it’s about, “Here’s the secret anime I never mentioned but is very influential.” (ALI laughs) Ronin Warriors. Ronin Warriors is the secret anime. (ALI and DRE laugh) Maybe who can say.
+
+
+ALI: Sure. Um yeah, and I think that the thing I lean on a lot when I try to get out of like, just thinking through like media inspirations, is that like I try to take inspiration and try to really lean into like, just the things that are on my mind in the moment. Like, Tender is very much a character of being like, well, what is it like to be a centrist? Whereas Broun definitely comes from like a lot of frustration about like leftist infighting or like, the fear that like thinking that your problems are so individual that you can’t…You can’t see other people’s suffering and like what is that–What does that anxiety make someone become? 
+
+
+AUSTIN: Right.
+
+
+ALI: For Marn, the thing I’m sorta leaning into is like the idea that like the people who provide the best mutual aid are organizations that like make it a foundation, and like that is a thing that we have learned in the past year, that like people who are prepared to do that can do that the best. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: So like, trying to think outside of the box a little bit in that way just in terms of like what’s really itching at me lately is also a good way to like follow a path to a character.
+
+
+AUSTIN: Totally. I think that you should have as wide a net as possible, right? Like this is why we have a–In our internal Discord, we have different channels for each and every season and we just drop whatever like feels right in those channels. (ALI laughs) 
+
+
+ALI: Yeah. Most notably today, there was a–The Bluff City chat is a video of some horrible racist idiot talking to the … I guess he was on trial in congress or whatever, like defending voter suppression laws. (AUSTIN: Yeah, it’s…) And it’s a nightmare and then immediately after that–but it’s like, it’s a nightmare but also it’s also an interesting thing to–
+
+
+AUSTIN: For people who are curious about it, it’s More Than A Vote. The tweet is “That moment when he realizes he put a Jim Crow-era slogan in the bill he’s claiming isn’t voter suppression.” And it’s just this fucking Texas lawmaker who’s face falls apart completely when he’s confronted with what he’s fucking doing. Not that he doesn’t know what he’s doing but I don’t think he knew this. I don’t think he was prepared for this particular connection and the way his face deflates and also the scenario, ‘cause it’s just this dude surrounded by like 4 other people who are like his…Like it’s this very, what if Rick Moranis played–What if Rick Moranis circa the late 70s played a racist Texan? And he’s surrounded by like 7 Texas ladies who are all there to support him presumably. I imagine they’re all family members or members of his voter suppression gang. (ALI: Yeah.) I don’t know and it’s just so good. Let me just enjoy this motherfucker getting owned. Anyway, your point, Ali, is the next post.
+
+
+ALI: Yeah the very next post is a perfume bottle that looks like a calculator. (DRE laughs) And I feel like seeing a powerful person slowly lose all of their power in the moment that they’re in and their like hold over the situation that they’re in, and also a perfume bottle that looks like a calculator is like exactly why Bluff City is as good as it is. (AUSTIN: Yes, 100%.)Pulling all of those influences is important.
+
+
+AUSTIN: 100%. 100, 100, 100%. That fucking–The photo from the other day that’s: Please do not tap on the glass, it scares the donuts? That’s Bluff City, babyyy. (ALI laughs) That new story about a Belgian farmer that moved a stone and inadvertently invaded France? That has to go in Bluff City. Like that’s - this is it. This is the way it works. Um so yeah, sharing like a wide lens of inspiration is always, I think, the best possible thing, and letting yourself pull on those things, right? It was like a week ago Dre, that we were sharing stuff from…You were like, “Note to self, the NFL draft fashion should be referenced in future Sci-Fi seasons because it should be.” (ALI and DRE laugh) It simply should be. That–It’s all available to us. The world is a palette to pull from, and to, you know, put yourself in conversation with. And then other times, I also think it’s worth being very direct and saying like, “We should watch these movies before we play this game because this will help give us a very direct palette of stuff to pull from, for instance.” You know? Um…Alright one more question. Emen writes in and says:
+
+
+(SIXTH QUESTION: 1:05:25)
+
+
+“I usually don’t do character voices in games but I attempted one for a game that’s been going on for a while and it went great. I was playing a werewolf who was desperately trying to be a pacifist and for their voice, I figured out how to do this cool thing with my throat where I could simultaneously growl while also doing a priest-like chant giving the effect of two people speaking at once. I’m using the past tense because in my last session, my werewolf got possessed by a con man and I doubt I can use that voice for the fast talking shenanigans I expect from this new character. So my question to you Friends, is what kind of voice would you expect from a werewolf con man? Please take turns giving your best attempts. Cheers, Emen. P.S. The con man is also a fancy Cesare Borgia.” Which is like a classic…I don’t know my Borgias super well but the Borgias were like a super influential Italian…
+
+
+DRE: Oh this fucker was in Assassin’s Creed.
+
+
+AUSTIN: Yeah absolutely, Assassin’s Creed motherfuckers. Uh, you know, Italian dynastic family that was like all up in the papacy. Uh, all up in you know, Venetian and whatever politics, which I don’t know if they were in Venice. I don’t know that. I shouldn’t have just jumped to that but you know. God, what’s a werewolf con man sound like? I…The thing is, I want you to keep some of the priest-like chant. I think if that character already had the priest-like chant you shouldn’t fully give it up. You should like–The con man who’s possessing your character should have to confront that that’s what the voice naturally is like moving towards and have to work with that. That said, I think…Here’s the thing is I’m doing like a…(gravelly voice) In my mind, he’s down here. He’s fast talking and he’s a cool werewolf guy. But that’s not how con men talk because con men have to actually convince people of things. Con men don’t just talk like fast talkers. (talks slower, same voice) They talk a little slower than that. (normal voice) Right? And that’s…(ALI laughs) You can’t…Actually, that’s the bit. It’s the–It’s–(gravelly voice, enunciating a little) It’s over-enunciating. But not quite all the way. Let’s put in a lot of delicacy on words that have lots of little parts. (normal voice) There’s my werewolf con man.
+
+
+ALI: (laughs) Yeah. I–Yeah. As you were starting to say that, I was like, the thing that the con man would be doing is like trying to get as close as they could to the original werewolf ‘cause then they’re continuing the con that the, you know. I’m just a guy. Right?
+
+
+AUSTIN: (gravelly voice) I’m just a guy. 
+
+
+ALI: I’m just a guy.
+
+
+AUSTIN: (same voice) I’m not a–I’m just–It’s just meee, the werewolf priest pacifist. 
+
+
+ALI: Mmhm.
+
+
+AUSTIN: (same voice) I’m from Italy!
+
+
+ALI: I have no voices in me.
+
+
+AUSTIN: (normal voice) Dre you got a con man in you?
+
+
+DRE: Yeah…Not really. It’s not really a con man but it’s maybe the worst joke I’ll ever make on this show.
+
+
+AUSTIN: Okay sure. (ALI makes a noise of interest) I’m ready.
+
+
+DRE: Umm…(gravelly voice) Hey…Where can this werewolf get some gabaGOOOOL? (howls)
+
+
+(AUSTIN laughs)
+
+
+ALI: (amused) Sure.
+
+
+AUSTIN: That’s good, yeah. 
+
+
+ALI: Yep. Uh huh. 
+
+
+AUSTIN: Perfect. Perfect. I do think awooing is important to capture the werewolf. (DRE: Yeah, uh huh.) You’re right. That’s a significant improvement, for sure. Um. Well, I hope that helps you. (ALI laughs) Thomas Whitney says of the Borgias, they were mostly Florence if Thomas remembers correctly. Thank you. 
+
+
+DRE: Oh, I don’t think they got gabagool in Florence so I’m not very helpful. Sorry.
+
+
+AUSTIN: They probably got gabagool in Florence!
+
+
+DRE: It’s probably called something else.
+
+
+ALI: Ohh, I bet.
+
+
+DRE: Probably, what is like the weird…It’s probably like capicola or whatever that specific type of thing it is.
+
+
+AUSTIN: I mean like that’s what gabagool is, right? Isn’t gabagool just capicola? 
+
+
+DRE: Oh, is it?
+
+
+AUSTIN: That’s–Yeah, uh huh. That’s, yes. I believe. Uh, so yeah. They probably say it the right way and not the way that we’ve learned from The Sopranos. (ALI laughs, then AUSTIN starts laughing) Werewolf con man talking to Tony Soprano is extremely funny in my mind. 
+
+
+ALI: Yeah?
+
+
+AUSTIN: I don’t have like a bit, but I can just hear him going, (werewolf voice) “Hey Tone!” And that’s enough to make me laugh. 
+
+
+(ALI and DRE laugh)
+
+
+ALI: Uhh…
+
+
+AUSTIN: “Tone, you know I can’t do that! The full moon is out that night!”
+
+
+ALI: (laughs) Magic of storytelling.
+
+
+AUSTIN: (normal voice) That’s it right there. Thank you for joining us as always. You can send your questions at tipsatthetable@gmail.com. Keep using that email even after we do whatever switch up is gonna be with the format of this show. It’s nice to just have that email be the place where emails go for the show for our ease of access. Uh…Ali, you have something else?
+
+
+ALI: Yeah, it’s a weird thing. We’ll probably still be answering questions from people but like probably within a specific focus that’s like more related to the current season.
+
+
+AUSTIN: Yeah exactly. I think that two things happen. One is like we know that people want to ask questions about the arc that just happened and that just doesn’t get to happen, and instead you have to sit on those until a post-mortem and then the post-mortem gets to be like this big bloated thing that’s like, has to answer everything all at once and then also it’s just, we’ve answered so many tips questions that there’s a lot of repeated stuff that comes in, and not–I’m not judging anyone for that. We’ve been doing these for years now and over and over and the answer ends up being some variation of, you should talk to the group! You should talk to your GM. You should talk to your player. And I’m happy to say that over and over again but at the same time, it’s like let’s give it a break and let some new questions build up over some time and be able to come back with some fresh stuff. So yeah. Uh. Thank you again for joining us. You can go to friendsatthetable.cash to support us. I don’t think there’s any additional merch news?
+
+
+ALI: Not right now. There’s–There’s–
+
+
+AUSTIN: There is a second printing coming, right?
+
+
+ALI: Yeah. Fangamer said that they’re like planning second printings of…I think all of the shirts from this run? I think at least the Aria one and maybe the Partizan hoodie.
+
+
+AUSTIN: Yeah, they both say restock planned on those two. Boat party does not say that yet but go in and say you want one and maybe that’ll help, you know?
+
+
+ALI: I know that I would like one but that’s a whole different situation.
+
+
+AUSTIN: Same. Yeah, I would love to get any of this merchandise. (laughs) It’ll get here at some point, right?
+
+
+ALI: Yeah, it’s fine. Those were going to be Christmas presents to my parents, but it’s all good.
+
+
+AUSTIN: Ohh. It’s May. Well, Mother’s day is coming up tomorrow.
+
+
+ALI: This is true. Yep.
+
+
+AUSTIN: Woof. Alright.
+
+
+DRE: Probably not going to make it for tomorrow either.
+
+
+AUSTIN: Probably not going to make it by tomorrow, no.
+
+
+ALI: Unfortunately. But it’s like–The–I–We’ve–We’ve–We’ve expressed a lot of grief about this. 
+
+
+AUSTIN: Yes, please know.
+
+
+ALI: But like, Fangamer is great. The context that we have with Fangamer is great. They are like just as frustrated about this, because they were not anticipating the–
+
+
+AUSTIN: (doubting) Mm. I think that they’re frustrated about it. I don’t think they’re just as frustrated about it. 
+
+
+ALI: (laughs) That’s true.
+
+
+AUSTIN: I love them and I’m–yes.
+
+
+ALI: (overlapping) I’m sure that there is different frustration that they’re experiencing that you know is–You know, comes from other places but is valid.
+
+
+AUSTIN: Yes.
+
+
+ALI: But like, you know the experience of running a store and being like, “I’m just gonna  to send these shirts to another place to get it printed or dyed, because I think theywould be a better color and it would be a better outcome.” And then that other company keeping those shirts for months is like, also very annoying on their part, I bet. So.
+
+
+AUSTIN: 100% so.
+
+
+ALI: Thank you Fangamer. Thank you everybody, especially for your patience ‘cause it sucks, but also we are at the end of this journey. (laughs)
+
+
+AUSTIN: We made it. So yeah! Thank you again, I hope everybody has a good weekend and a good week. Bye bye bye!
+
+
+ALI: Byeee!
+
+
+DRE: Byeeee.
+
+
+[END OF EPISODE - 1:13:18]

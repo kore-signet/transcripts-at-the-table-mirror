@@ -1,0 +1,572 @@
+﻿Gathering Information 06: The Long View
+Transcriber: mikahnthrope
+Introduction        1
+[5:00]        5
+[13:15]        9
+[22:35]        12
+[31:05]        17
+[45:00]        23
+[52:30]        27
+[01:11:00]        38
+[01:18:00]        43
+Introduction
+Ali: Welcome to Gathering Information, you— your…do I ever say information? Your behind the scenes look at setting the table for Friends at the Table. This is your… September? 2023 episode. Uhm….a lot of things—
+Keith: What was last month? 
+Ali: Last month I did a developer's blog with Austin. 
+Keith: Oh!
+Ali: Yeah. Which I technically haven't recorded yet but it's all good. [laughs]
+Keith: Okay. [laughs]
+Ali: But hi! 
+Keith: [cross] Last month you will have done.
+Ali: Yes yes yes. I was thinking of like…wh- in what order should I release this and somethi- you know, whatever else, anyway, hi! As you've heard from the voices I am joined today by Keith J. Carberry. 
+Keith: Hi, my name is Keith J. Carberry, you can find me on Twitter and cohost @keithjcarberry and you can find the Let's Plays that I do at youtube.com/runbutton, and you can find the other podcast that I do now at mediaclub.plus [Ali: Yeah.] or whatever podcast app that you choose to use. 
+Ali: Yeah. And in like a month or two, you'll hear my first guest appearance on that podcast.
+Keith: Oh, uh, try three months. [Ali and Janine laugh] I think that's three months from now.
+Ali: Okay, good, good. And Janine Hawkins is here as well, hello. 
+Janine: Hi! Hello, I'm Janine Hawkins, and I'm only on this- well, I guess I'm on the main podcast, so techni— [Keith and Ali laugh]. I was going to say I'm only on this podcast, which would be weird. [laughs] If I was just a person you brought in to comment on the story. 
+Keith: Janine, you could be on Media Club Plus, you just gotta really catch up on Hunter x Hunter. 
+Janine: Nah, I'm okay. 
+Ali: Wooooow. 
+Keith: Yeah. 
+Ali: Alright.
+Janine: No, I— okay, so I did—
+Keith: No, no, it's fine! [Ali laughs]
+Janine: I did seriously consider it, but I was like, there's already enough people swapping in and out here, I think especially for like a…for like a commentary type podcast [Keith: Yeah.] I…you don't need one more cook in the kitchen.
+Keith: [cross] To be fair, we do, we have eight episodes in the can, or maybe nine, and we've only had two guests, Austin once and Ali once. 
+Ali: Mm-hm.
+Janine: Yeah, but there's also four people on the main show. 
+Keith: That is true.
+Ali: Yeah. It gets bloated, I understand. 
+Janine: Also I don't really like media about little boys? I don't know, it's just…
+Ali: [laughs] Sure. Yeah, when you were like "I'm good" it felt like a "I don't want to watch Hunter x Hunter" thing and that's why I…reacted-
+Janine: I've been tempted to watch Hunter x Hunter a few times, but the truth is that there's a lot of other stuff on my list that is higher if I had to choose? You know?
+Ali: [softly] I believe it, I believe it. Oh, I— um, yeah. You should— okay. I don't have to say this here and I should edit this out, but you should join them for one of the movies. So you just have to… [laughs]
+Janine: [laughs] That's very funny, to just try and glean what the show is about, just…just sort of roll back to… 
+Keith: [cross] Yeah. And I have no idea if it's a good idea or a bad idea 'cause I haven't seen those movies. 
+Ali: [laughs]
+Janine: That's actually, that's a very fun idea.
+Keith: Yeah. 
+Janine: 'Cause at that point Jack will be so inoculated.
+Ali: Oh, sure sure sure, you'll be the newbie.
+Janine: Yeah. 
+Keith: Oh, yeah, yeah. Jack is locked in from episode one, I think [Ali laughs] to Hunter x Hunter, it was very fun.  
+Ali: I'm glad. I'm glad? I'm glad. Okay, sorry, I keep fucking— what is happening? [laughs] I keep moving my mouse over this video that's embedded in our Discord, and it just keeps being Kiryu punching a bunch of people. A long standing tradition of Kiryu distracting me while trying to record this specific show. Um, hi! Anyway. So this month, today, the topic is not Hunter x Hunter, even though it should be, I think. It's our last arc of PALISADE. AKA the Stellar Combustor arc? 
+Keith: N— hold on, everyone. Not the last one that will be recorded.
+Ali: [laughs] Right. The previous.
+Keith: The last one [Janine: Yeah.] that we have recorded. 
+Ali: The previous arc of, the most recent [Keith: Mm-hm, mm-hm.] in our…
+Janine: The preceding. 
+Ali: Yeah. 
+Keith: In a way, for me it just feels like the very, very last and longest Road to PALISADE.
+Ali and Janine [laugh]
+Ali: Sure.
+Keith: Like the last 25 episodes have been.
+Ali: Oh. [Keith laughs] You think the last 25 episodes have all been prelude? 
+Keith: Yeah. Yup.
+Janine: Mm.
+Ali: I— I don't understand. [laughs]
+Keith: It just is, it just is like, um…you know, it just felt the doors being blown off the season for me. 
+Ali: Okay, sure. I mean, yeah, things are, things have shaken up. [Keith: Yeah.] But this is, I…I think we have different perspectives on that. [laughs]
+[5:00]
+Keith: That's fine.
+Ali: On the density of the season, I guess? I— yeah. Well, I guess that's— well we've have had a Gathering Information episode where Keith, you got to talk a lot about how you felt about like the current structure of the Cause and [Keith: Mm-hm.] how you felt about the pacing of the season [Keith: Mm-hm.] and Janine, since you're here, I'm curious about your perspective on that because Thisbe feels like a character who—
+Keith: Janine? No, no, Jack was there for that. 
+Ali: Yes, yeah.
+Keith: Yeah. 
+Ali: —who definitely has had, we've had some really good…we've had great moments with Thisbe but how do you feel about how like that's developing, and do you feel like you have different hooks that you're pulled towards than you did either the last time you were on the show or when we started recording the beginning of the season, and how you feel like structurally overall. 
+Janine: Um? I'm going to be honest, I don't super know how to answer this question.
+Janine and Ali [laugh]
+Keith: Can I ask, can I ask a question? [Ali: Sure.] Is it, by structurally do you mean like the…outside the show looking in to the structure, or like narratively the structure of the interior of the narrative? Like, how does Janine feel about the season or how does Thisbe feel about the world of the season? 
+Ali: How does Janine feel about the season, I think is what I'm asking. 
+Janine: Um? Hmm. I mean, complicated, right? [Ali laughs] I think this is the first time I've done a season where sort of the antagonistic forces feels hard to touch [Ali: Hm.]  to this degree? It can seem like we're operating on two completely different scales— I mean, we are operating on two different scales, but um, sometimes it feels that way and it can make things feel like…like…I don't know, I think it some ways it's appropriate because that's the thing the characters are wrestling with, right, is this feeling of like…how big a piece of this are we? Sometimes we feel like the tiniest piece, completely insignificant, and sometimes we feel like the only piece. Like, how much does what we do matter in the grand scheme of things versus like, you know, how much would be worse off if we weren't involved? I think like thematically that's all really on point [laughs], but as a player [Ali laughs] sometimes it's a bit like "yeah, I— what— what are we do— like, what am I doing? What are we…how?" [sighs] You know? 
+And I think that's in some ways useful 'cause it's a little easier to sort of be like "yeah, no, I think that Thisbe would have a hard time with some of this," despite her like…the way in which she should— she outwardly can seem simple in terms of like, she's just going to do what she's told to do and stuff. Well, it's like it's more complicated than that, it's like way more complicated than that. And I think in Partizan when she was a newer character, you know, you kind of have to establish a lot of that stuff first, but in Partizan it was a lot more straightforward? And in this the subtlety is at least beneficial to advancing that character and figuring out what are her priorities and how does she feel about certain things? Like, sometimes she is just going to feel like, "we can't do anything." [Ali chuckles] And in that situation it's hard for her, right, because she's used to seeing the way through. 
+Keith: Uh, could you talk about what Partizan had that made it feel more straightforward, or what Palisade doesn't have that makes it feel less straightforward to you? 
+Janine: I think the…I mean, 'cause the Cause was a much smaller thing. Like, it was all much— the, the…
+Keith: Okay.
+Janine: Everything is smaller.
+Keith: It's a smaller ship, and easier to turn, and everything we did was like a one-to-one thing.
+Janine: Well, yeah, it just felt like the things we were doing for things for us, in a more immediate way. 
+Keith: Sure, yeah. 
+Janine: And it wasn't like…you know, there also wasn't a side of the game where it's like two players who were specifically moving on a really big scale. Which again, I think is important for how this season works, and I think it's an interesting evolution of the story,  [Keith: Right.] but it is different. 
+Keith: Yeah, it makes it harder to like tell the temperature of the water. [Ali: Mm-hm.] Which is, I think leads to something that I realized partially the last one of these that I did with Jack, which is like the…you know, me feeling like…until this most recent arc feeling like, "ah, everything we did, it just feels like treading water, like we're not getting anywhere, everything that we do is being countered," and then Jack spending most of their time dealing with— or like acting as the Authority, also being like "everything we're doing is being countered," [Ali and Janine laugh] you know, "it's just— we're treading water, everything's a st—" So like, being…realizing that we were both equally frustrated trying to move forward our different agendas was like helpful to me because it was like, "oh, I'm not actually losing every single time if Jack also feels like they're losing every single time." [laughs]
+Ali: [laughs]
+Janine: Right. Yeah. That's a good point.
+Keith: And then, you know, the second layer is like…well, first of all, we just had what I think is like a really, really productive two arcs. Like everything from going back to, uh…
+Ali: Violet Cove? 
+Keith: Violet Cove, to episode 25, felt like really productive? [Ali [laughing]: Sure!] In terms of like the Cause? So that helps. But then the other thing is like, yeah, Janine, sort of what you were talking about is like, we are a small part of a significant but relatively small revolution that is affecting parts of one planet of an empire that spans, you know, a significant chunk of a galaxy. Which is like…you know, it's— it does kind of feel like a fruit fly landing in a glass of juice [laughing] like desperately trying to drink it all. But again, yeah, I do think thematically it is appropriate that that's what it feels like and because it's a tabletop game that is meant for us to all be the main characters of, this fruit fly is really good at drinkin' that juice.
+Ali and Janine [laugh]
+Ali: Yeah. Yeah. Yeah. We've definitely, um, gulped it up [laughs] this last little bit.
+Keith: [laughs] Yeah, I somehow managed to drink a different glass of juice. [Ali: laughs] I took a big gulp of twenty— forty-one hundred glasses of juice.
+Ali: Mm. Mm-hm. Yeah. What a good— what a f— I'm happy for Phrygian, how are you feeling about Phrygian? How are we…
+[13:15]
+Keith: I feel great. I mean, the last time that we recorded, I…maybe both times that I've been on this, I've not complained about— well, a little bit complained, but just having fun— um, I'm sort of talked about how it's been difficult playing Phrygian, it's not— it doesn't feel super immediate, I don't get to be as reactive as I'd like to be and in a way that makes…it makes everything I do very deliberate, which has, you know, I think a lot of positive but also negative…like…because I had to be more deliberate, a lot of the stuff that I do is better, but also I'm like, holding my tongue a lot, and you know, trying to figure out good ideas, and having good ideas that I can't do because I think so differently from how Phrygian thinks, [Ali: Mm-hm.] and we've talked a lot about how that has I think made…it's made it harder to enjoy recording and playing as Phrygian.
+And then the opportunity to uh, like, fix a big problem because of that Soldier move arose, and I was like…I can't remember how many weeks, but it felt like a couple weeks going back and forth with Austin being like, I don't actually want to kill Phrygian, it feels… [Ali: chuckles] Not only does it feel rude, after having just talked about how I wasn't really enjoying playing them, it doesn't feel fair to the character…I really agonized over it. So I was caught between not really wanting to play Phrygian and wanting to transition out of playing Phrygian, with the opportunity to immediately get rid of Phrygian but they die…not really wanting to do that, but also really wanting to do the Stellar Combustor mission. 
+And sort of feeling like, the best way to do it, especially when not everyone was totally on board with that direction, from a practicality standpoint, from worrying about what would happen if it didn't go well, from maybe not even thinking that it would be that fun…you know, lots of different reasons were thrown out for why it might not work as an episode. And I was just like, well, this thing that gives us these three guaranteed successes is sort of the best pitch that we have, and so I was like, I think— I kind of just think we have to do it. And, uh…I have no regrets, I think it went— [Ali: chuckles] I think the episode is really good, and I'm happy that it went really good 'cause it could have gone worse [Ali: Uh huh.] in a lot of different ways. And yeah, as far as a sendoff for Phrygian that I was really worried about, and like not totally committed to, until we started recording, I think it went just about as well as possible. 
+Ali: Right, yeah, I mean, it's interesting to hear you talk about this, 'cause it's not like…I mean, internally it never felt like this, but I do think that there's maybe…there was maybe a potential fandom reaction, of it being like, "oh well, Keith is going to get his cake and eat it too now." [Keith: Yeah.] He gets this like clean outro for this character he didn't want to play anyway, and also gets to do the…gets to chase the shiny ball. [laughs] That Austin was…you know, the keys that Austin was dangling in front of us.
+Keith: [cross] No, no, I— I was anxious about this decision in a way that is extremely not typical of me. [Ali: Aw.] I don't normally worry about what's happening in the show. And I don't normally second guess my decisions in the show?
+Ali: Wow. [laughs] Couldn't be me.
+Keith: [laughs]
+Janine: What a life you lead, Keith.
+Ali: I know, like what is happening? [laughs]
+Janine: Wow. Jesus.
+Keith: [laughing] It never occurred to me to worry about that kind of thing. Uh, no, it's not that it never happens, it happened during…I mean, it happened during the decision to swap from Leap to Phrygian, that was a big one that I was worried about. [Ali: Mm-hm.] It…hmm, let's see, another time before then…probably the very beginning of Twilight Mirage? But yeah, I don't…you know, I like the show that we make and I think it's good, and I think that it's going to be good whether me as an individual makes some decision that ends up not being the best decision to make at the time? Like I don't think that any of my decisions holds the weight of the quality of the show. And that the less I worry about it—
+Janine: [cross] I don't think that we do eith— [Ali: laughs] Whenever I get stressed about the show it's not 'cause I think that the show is bad and I'm going to make it worse. [laughs]
+Keith: Well, I— well, I mean, but that's the avenue for worrying about decisions, like I can't— I mean, that's my— that's what I would imagine is the avenue, is being like, "oh no, did I make the episode bad by making a bad choice?" Or something. I don't know! What is the avenue for that, I don't know what the—
+Janine: I mean…so the thing is bad choices can be interesting but you feel bad— you can feel bad about them even knowing like, you know— so I went into this whole thing—
+Keith: I should clarify when I say bad, specifically what I mean is like, people listen to it and go, "oh I didn't like that." [Janine: Yes. Yeah yeah yeah yeah.] "I didn't enjoy listening to that." 
+Janine: Yeah. Yeah. I went into this knowing like, the thing that I often tell myself, that I have to tell myself to keep myself from the urge to metagame and try and like, you know, get really— you know, the way that I could be with Adaire sometimes, um, I tell myself it's not about…it's not about the approach, it's not about what you're choosing to do, it is all about the dice. [Ali: Mm-hm.] And if the rolls bear out, you'll succeed, within reason, obviously if we went in with a really terrible plan, [smiling] Austin would probably not allow that. But if you make a reasonable approach and you get reasonable rolls—
+Keith: [cross] And who could ever go in with a terrible plan, right, Ali? 
+Ali: [laughs]
+Janine: Uh huh? Then you're going to succeed. And I know that. But at the same time the weight of this particular situation, of "if you fail, it's all kaboom," [Ali: [laughing] Mm-hm.] was like really hard for me to engage with, even knowing that we could say we just fly up with guns and maybe we'll have some disadvantage rolls, some desperation rolls, but it's still going to be rolls. It was still just like, I can't. I can't. Because the stakes are so high and it's so— and no part of that is me being like, "the show will…people will be upset if we blow it up." It's, I will be upset [laughing] if we blow it up. [Ali: laughs] I will be sad. And so that was a big— for me, that was a big thing of just like, [Keith: Yeah.] I just can't engage with that side. I need to do something completely different. 
+Keith: Um, yeah, and I think that's totally fair. I think, yeah, I didn't…it was really the Phrygian dying stuff that I had even more…was more intense than—
+Janine: [cross] Yeah, you had something else on your plate there, to worry about. 
+Ali: Uh huh.
+Keith: Yeah, that was the— 'cause it really did, it felt like the choices were, do B Plot and take the Soldier move or…and have a reasonable chance at success, or we've got to like, cool the jets, do something else, try to figure out what the season is with the Stellar Combustor on. Which I think, you know, I don't think that is a bad idea, I don't think that we should never have done that, but it…it felt like a good opportunity to do something that is like, kind of crazy? [Ali: laughs] But at the expense of [laughing] that I had to really worry about the choice in an abnormal way for me. Which I think is fair, you know, everyone has their turns agonizing about the show, I think. [Ali: Mm-hm.] And it was my turn. 
+[22:35]
+Ali: [laughs] Yeah, I think for me, for my part, I don't know…I was very against doing the Combustor stuff at first, um…
+Keith: You had a significant change of heart. 
+Ali: [laughing] I had a significant change of heart. I think that I s—
+Keith: [cross] You didn't— we didn't talk at all about it, I think, and then you came to me and you were like, [intense voice] "I'm in."
+Ali and Keith: [laughing] 
+Ali: I think that I…well, it was also after coming off of the…what do we do with the spies stuff, which was enough of a big discussion [Keith: Yeah.] and then being like, well, we did all of that stuff and we put so much of that effort into this thing that sort of fell flat, like are we either going to keep pushing this—
+Keith: [cross] Wait, you thought that fell flat? 
+Ali: Well, it's just that— not that it fell flat, but that like…you know, the loss of what we got with the City City stuff and then the thought that we had all of this fictional opportunity to either spread that benefit out, instead we pushed it all towards this one plan, and then in that down time— or the faction game episode the trigger that you wanted to pull didn't pull. [Keith: Right. Sure.] So it was like, either are we going to do it as characters? Or are we going to let this momentum deflate a little bit and then like…
+Keith: To be fair, if that— if the Stellar Combustor thing didn't start, then that trigger still would have been there for the next ti— for the next game. 
+Ali: Oh, sure sure sure. Yeah. Which is the situation we were in, right? [Keith: Right, yeah yeah yeah.] [laughing] But the situation we were in also was that we—
+Keith: [cross] But then the Stellar Combustor stuff— right. 
+Ali: Right, the target that we made was on the sun exploding [Keith: Yeah. [laughs]], and so the sun said "yeah, I'm going to explode." [Keith: Yeah.] So once we…once it was like we either have two choices, we can either shove this boulder up the hill one more time, or we can like sort of roll back a little bit, and kind of waste some of the punch we had made, when at the time when we were making that punch, I was like—
+Keith: And as fruit flies, we wanna drink that punch.
+Ali: [laughs] We did, we really did. But I guess my…I changed from a fruit fly who was like "what if I take…what if we take juice from all of these little spaces in this cup and it'll go down slower" in terms of like this big gulp right here and then like this other big gulp, 'cause like, we haven't finished that first gulp yet technically, right? 
+Janine: I'm losing track, so we've got a big cup of juice…
+Keith and Ali [laugh uproariously]
+Keith: This is my new favorite metaphor.
+Janine: We've got…what was the other one? Punch? We have a bowl of punch…
+Keith: Yeah, yeah yeah yeah.
+Janine: [incredulously] And we have two Big Gulps? That's a lot. [Cast laughs] That's a lot for a little fruit fly.
+Keith: This is starting to be a Lyke 7-11 run. 
+Janine and Ali [laugh]
+Ali: Anyway, so that was all on my mind, and then I saw the most recent Mission: Impossible movie, um, and I was like, "you know what, fuck it." Like. [laughs]
+Keith: [wide-eyed] You're right, that's what it was, I forgot about, that's why you were— kept trying to put Mission: Impossible stuff into the…into the plan. 
+Ali: [laughs]
+Keith: [through laughter] Is because you had just seen Mission: Impossible. 
+Ali: I was just like, you know what, why not do a big funny stupid thing? [Keith: Yeah.] But yeah, back on the question of like, [sighs] how much does anxiety about the show come from…I think that there's more of a…and I, maybe it's because I have to listen to the show as much as I do, but I always have this like…I have this immediate post-recording thing of being like, "I could have said everything differently [laughs] and it would have been better if I did." 
+Keith: Oh no. Ali!
+Ali: Or just being like, you know, this move could have gone differently or this in-character conversation could have gone differently or whatever, and then listening to the show to edit and being like, "that's fine." [laughs] But in an arc like this, then there's like this second thing. The thing that I've been struggling with, putting out this arc, is being like, we have put so…the stakes were so high that the stakes became higher the longer [laughs] we didn't…like we had the breaks and everything, and the release was kind of weird. The longer the audience sat with the decision, the higher the stakes got even then we set them up, because it was like this big anticipation. That I was like, are people going to feel like this solution matches what they were anxious about? Like are people going to think like, oh, some of the threat has been taken away because Austin went quote-unquote easy on us, or you know, does it feel like this is deflated a little bit because we ended up having the um…not Cori, Cori is who Sylvi's playing now…Misericorde and…that's another "Cor" name, Cor'rina? Is that it? 
+[short pause]
+Keith: Who are you—
+Janine: Is that Cor'rina Corrine? 
+Ali: Cor'rina Corrine, yeah. I'm talking about the two NPCs who showed up during the mission, [Keith: Oh, okay. Yeah.] Austin, from the like, from the…I called you Austin instead of Keith, [Ali and Janine laugh] because I was thinking about how Austin offered that as like an ultimatum to get you out of that one Soldier move. [Keith: Sure.] And I was like, are people going to think like, we spent this whole time really thinking that the season would be over when Austin had this sort of planned out the entire time? Even though he didn't because that was like— even that was structured around having the right pieces in the right time and all of that.
+Keith: Yeah, and also, we were dying every turn [Ali and Janine laugh] because I was out of…I had like one risk left to take, I think. I was almost dead.
+Ali: Yeah, I…yeah. 
+Keith: Yeah. And it also was like…it was harder than it needed to be because I was desperately trying to hold on to the Soldier moves for as long as possible. [Ali: Mm-hm.] And, um…that is one way we could have made it easier on ourselves, if I was a little bit looser with that. But then we wouldn't have had the ending, which I thought was really fun. 
+Ali: Right, yeah. And I think that's the thing, is even if structurally, there are these like moments within the arc where I feel like, oh, should we have been better prepared? [laughs] Are people going to be disappointed with us because there's all this rules lawyering or [laughing] trying to sneak things past Austin, and like are people going to be upset with us for taking this option? But like the way that it all funnels, too, and the way that it had been funneling, too, through the Violet Cove stuff to get to this big, glorious achievement. And then also these like huge interpersonal developments on the other side of the team was like, okay, the show…the engine runs so long as we keep running it. I can get as nervous about this as I want, but you know, Keith, you are right, that like no individual decision that I make is going to affect the show so much that it isn't going to be good?
+Keith: Right. The only hu— all the biggest decisions that we make only work out in a good way. 
+Everyone [laughs]
+Ali: [skeptically] Hm?
+Keith: We can always make a bad decision and then that gets sort of, you know…communally worked on until it works. Or it gets thrown out, you know, the second it happens, we just don't do it. [Ali: Mm-hm.] Or it's awesome and it changes the course of the whole season. [Ali: laughs] Like Jack deciding to use the Stellar Combustor, or like literally in season one with the ghost pirates.
+Ali: Sure, yeah.
+Keith: You know what I mean? [Ali: Mm-hm.] Like that stuff, like that's where we can make gigantic, season-altering choices. 
+Ali: Yeah. Yeah, we have a pretty good podcast, all said. [laughs]
+Keith: Yeah. [laughs] I agree.  
+[31:05]
+Ali: Thinking about the moon stuff for a bit, and this question of like difficult characters and saying goodbye to characters, is part of why I wanted you here, Janine, because we've got some Signet developments to talk about. 
+Janine: Yeah! 
+Ali: Signet showed up.
+Janine: Mm-hm. [Ali laughs] Um, I know there was some concern from fans about like how much involvement I had in that? So I posted— 
+Ali: [cross] Oh, was there? 
+Janine: I did a post on cohost about like, "hey, just so you know I've been bugging Austin for basically this exact thing for like the better part of a year?" [Ali laughs] And I actually went back and found the chat logs and stuff, and it's like, he stuck quite close to my original vision, he still made it his own and did some things that I would have done differently or whatever? Made it like fit the scenario, obviously. [Ali: Mm-hm.] But it was very much like…I had described to him like, "I want Signet to come back and I want her to be like a space Dark Souls boss." And that's [laughs], that is what we got. 
+Ali [laughs]
+Keith: Um, when you say concern from fans, do you mean like fans…people who listen to it and was like, "Janine would have been— would be upset by this?" 
+Janine: Well, I think, it was a thing of like, you know, Austin had said that he wasn't going to do anything with Twilight Mirage characters without people— without like looping the player in? [Ali: Mm-hm.] And I think maybe it seemed as if he hadn't done that, because of the way that Chimera's Lantern was like eased in, that maybe seemed like it was a surprise to me or something, it wasn't. Um. I think also there's a degree of like, it's really easy to…you know, this is another thing I mentioned sort of on cohost, was like, I know a lot of people interpreted Signet's ending in Twilight Mirage as like good. And to me it was never good. [laughs] To me it was like she's signed on to basically just keep fighting with this person that she doesn't agree with, who she thinks is dangerous, and she is tethering herself to them to be a mediating force—
+Keith: Damn, sounds familiar. 
+Ali and Janine [laugh]
+Janine: Uh huh? But it's, you know, she's not like…it's not like a fun place for her to be. And so I think there was a concern, there was definitely a concern for me of like, are people going to see this and think that this is like…you know, "she was so good, what happened, now she's— now evil, now bad, what happened?" [Ali laughs] But like to me, this is an improvement [laughs] on her situation. This is like…yeah, this is— I see it as her kind of like seizing control of a situation. And having the power to like really make a material improvement? Even if she has to do it as a really horrible, huge, skeletal nightmare thing?
+Ali: [laughs]
+Keith: And sometimes you just gotta be a huge skeletal nightmare thing. 
+Janine: You do, yeah.
+Ali: [cross] Yeah, I mean, it's not as if that wasn't in her aesthetic wheelhouse already. 
+Janine: Yes. I mean, that's the other thing, right, is it's like…Signet was created from me being like, it'd be cool if one of those dead saint skeletons was like a living person. And they had— you know, I, in the postmortem referenced reliquaries and you know, the hands and stuff of saints in these gilded boxes and you know, what if something like that but it's a person who's still alive. So [blows out air], it's always been that way with her is— [Ali: laughs] that's always…she's drawing on a lot of imagery and cultural mythology that is really steeped in the macabre and the tragic sort of alongside the beautiful and the, um…like, grace? Like saving sort of qualities? Um…yeah. And that's exactly, you know, that's exactly a hundred percent what we came back to. 
+Ali: [chuckles] Yeah, it's funny, when you were like, um…Austin…"Austin added a little of his own spin to it, obviously, but he…he was loyal to what I said," I was like, oh, okay, Janine had this cool idea but he was like, I'm going to make it a Dark Souls boss but no. [laughs] That was out of the gate. 
+Janine: No. No. It was out of the gate. I— one second, I'll show you. I'll show you. [typing] If I can grab it real quick. Uh…let's see here. I'll just link you to this [laughs] post so you can see the different screenshots. 
+Ali: Oh, sure. Oh, this is the cohost post.
+Janine: Yeah yeah yeah. 
+Ali: Alright. "Huge spoilers for Palisade 25! Please protect yourself!"
+Keith and Ali [laugh]
+Ali: Okay, quite literally, um…
+Janine: Yeah. "I want whatever is left of Signet and the Cadent to be like a character from Space Dark Souls." February 9th, 2022. That is more than a year, [Keith: Yeah.] it was like two years. 
+Ali: That's so funny.
+Keith: And then a bug head. 
+Ali: Uh huh. [laugh]
+Janine: Yeah, I did the Kris Jenner "you're doing amazing sweetie" meme but I put a big gold beetle over Kris Jenner's face.
+Ali: [laughs] I— yeah, I— that's interesting to think of it as like a bad end— or a better end than having this like, um, antagonistic relationship with somebody through this era of like floating through space and instead being like, oh, we're the same thing and we're working towards the same goal, even though we're like a spooky monster…skeleton [laughs] person. 
+Janine: Yeah. Yeah, so I can't fully speak to how Austin has fit it into the universe, but my original pitch was that basically like, if Signet was dying, and knew that the Waking Cadent was going to outlive her, what would she do to hang on? And the idea was that like, she would try and like merge herself with the Waking Cadent to be able to still at least continue to temper…um [Ali: Mm-hm.]…that situation. Uh. [pause] And that's how you get big skeleton. 
+Ali: Yeah. It's so funny because hearing you say that reminds me of the…initial Tender prelude, of her and her ex-girlfriend being like, "we should combine our minds" and her being like, "no." [Ali and Janine laugh] 
+Janine: Oh god, right. I totally forgot.
+Ali: Yeah, I'm glad that Signet was the mature one in this situation. [laughs]
+Janine: [laughs]
+Ali: I do— I am curious, you know, thinking about…seeing Signet and Phrygian so close in camera, I guess, I am curious if like, um, you know…Signet was a character that I feel, or at least— and maybe you've said this in old Tips at the Table episodes, where like, you struggled with your footing a little bit in the beginning, and then the switch from playbooks was really tough on you, especially. So I've been curious if some of the frustration that Keith has been feeling with Phrygian is something that you kind of feel as well? 'Cause I know that we've also sort of set up like Phrygian and Thisbe in this particular place in terms of like difficulty to play, and like similar sort of, uh…I don't know, like social places in the crew that made Phrygian sort of tough for Keith, at least? That like on both sides, if there's like…I don't know what I'm trying to say [laughs]. 
+Okay, like, I started somewhere and then kind of got further away from it. But if, if there's any— I don't want to say sympathy, but if, you know, you feel sort of an echo of what Keith has about Phrygian when Signet was also going through those sort of like pains, I guess. 
+Janine: Uh…I think it's from a different place, right? 'Cause for me, the struggle with Signet was that I had this idea, and I had picked out a playbook, and I sort of really— a lot of Signet's whole deal was built for that original playbook from the Veil. Was it— it was called the Veil, right?
+Ali: Hmm.
+Keith: I think the Veil was the second game we played, I thought.
+Janine: No, no, no, it was the other way around. [Keith: Okay.] Veil was the first one, I think. And then we switched to…um…
+Ali: Beam Saber? No, Beam Saber was… 
+Janine: [cross] Beam— No.
+Keith: I'm so bad with the names of the games. [laughs] I'm terrible. 
+Ali: [laughing] I know. 
+Janine: There's been— it's 'cause there's been a lot. 
+Keith: There have been a lot, but it's also like I don't have—
+Janine: [cross] Scum and Villainy! 
+Ali: Scum and Villainy. 
+Keith: [simultaneously] Scum and Villainy, right, yes, totally. 
+Janine: Yes. 
+Keith: I just don't have the book in front of me, you know, so it's like… [Ali: Right.] You know, ever! I never have the book in front of me, so.
+Janine: So I had like really designed this character around, you know, the Veil is where the Iconoclasts come from, the Veil is where the Cybertome, the Exuvia comes from, um, all of that stuff, so I just felt so connected to the character as she was in that class? [Ali: Mm-hm.] That then switching to another class, where it's like— and also, a thing that had happened was a lot of the classes I felt a stronger connection to were already taken, or made more sense for other characters. Like classes where I was like, well, I would enjoy playing this one, it was like, well, it doesn't fit Signet as well as it fits this other character, so I guess I'll go with a different one. And I just— I ended up with something that just didn't feel like the character I had created anymore? [Ali: Mm-hm.] 
+And you couple that with the fact that like…I believe it's been proven, I believe someone did this math, that my rolls that season were some of the worst [Ali: laughs] in the entire history of the show? I truly, basically failed the majority of what I tried to do, I think. At least for a while. And it was my first Blades in the Dark-like game. It was— so it was just rough on a lot of fronts that were very mechanical, right? It was just that I just wasn't having as much fun as I'd had before because I was playing this character that just didn't really fit the box that I had to put her in, and I was having a lot of bad luck with a system I wasn't familiar with, you know?
+Ali: Yeah, I feel like— it's funny, because I feel like that is a struggle that makes so much sense for Signet and sort of echoes some of the— well, Tender was a whole different thing, but also sort of the frustrations with Phrygian is that like…it's tough to set up like a character that should be really powerful narratively? [Keith: Mm-hm.] From how they like exist in the universe and how they, um, their body just physically works, you know? [laughs] [Keith: Yeah.] And then to have the sort of dice say, like, "Oh, but they can't come—" You know, there are these hurdles that they can't cross even so. 
+Keith: [smugly] I don't know, Phrygian one-shot that five, that tier five.
+Ali: [laughing] That is true. That was…
+Keith: One shot.
+Ali: Yeah…I mean, that's the Phrygian thing, is that you've always had these big moments of like, "I'm just going to do it." [Keith: Yeah.] "I'm just going to put everything into it and do it." [Keith: Yeah, yeah.] Which is also a very good—
+Keith: [cross] That is the other— this is a tangent, and so I'll be extremely quick— that is the other struggle about Phrygian, is that actually playing Phrygian was so much fun in the combat. [Ali: Mm-hm.] And was— almost at times I was like, is this fair? Like, is this— I am too good? 
+Cast [laughs]
+Ali: [laughing] A feeling I've also never had.
+Keith: I have that thought every season. [laughs] Almost every season I'm like, is this fair? Okay, sorry, sorry.
+[45:00]
+Ali: Yeah, you're just playing a different game. [laughs] I am jealous a little bit of how like eas— I think that there's like…I feel like you can see the board so much better than I can sometimes. Or you can like— I guess it's because I never…and I'm assuming that you do this, but I doubt that you do, but I never read the GM parts of the book? Or I don't pay attention to a lot of the like mechanics that I know that I'm not going to engage with? 
+Keith: Yeah, no, almost never read that stuff. 
+Ali: [laughs] Okay.
+Keith: Sometimes I'll get to it over the course of a season, like when I have questions about how something works, I'll control F and then I'll read the relevant section, and then over the course of the season I end up putting together a pretty good idea of that stuff? But no, I really don't read anything past the player stuff. That often.
+Ali: Okay. But you still manage these like…
+Keith: I don't know. Yeah, and I'm also like, I'm, I'm, I…promise that I'm not ever trying to put together the craziest possible, [Ali laughs] most awesome move set. Um. But I will be reading a character and be like, oh, that sounds cool, oh, that sounds cool. [Janine laughs] [Ali: Mm-hm.] And I guess the stuff to me that sounds cool is the stuff that works all really good together.
+Ali: Sure, sure. [laughs] Yeah, I think it's good playbook choices across the line [Keith: Yeah.] as well as a very, a very wide outlook.
+Keith: [cross] Yeah, yeah. 'Cause the other thing is that like I always…I always have a character concept and match a playbook to the character. I'm struggling to think of a time where I picked a playbook and then built a character around it. Which again, would be the easier way to go if I was trying to make a really strong character.
+Ali: Oh, sure sure sure. Yeah. Yeah, I'm trying to think of a situation where I might have done that too. I feel like maybe Marn was the only time I was like, let me choose a playbook first and then try to design this thing around it? And I don't know if—
+Keith: [cross] Yeah. A lot of my—
+[pause]
+Keith: Sorry, go ahead.
+Ali: I was just going to say, I don't know if a lot of us sort of tended towards that way with our Sangfielle characters because we knew that it was like, oh, choose this thing that's interesting to you and then try to rework it into this like new setting that we want it to be. 
+Keith: Um, a lot of my characters are like very much sort of— like, very loosely based around something I'm doing at the time. 
+Ali: [laughs] Fair. Yeah.
+Janine: Like when you were hacking? You mean when you were hacking?
+Ali: Uh huh.
+Keith: Phrygian is a big— um, I think that…
+Janine: [laughing] When you were a hacker? 
+Ali: [laughing]
+Keith: [defensively] I wasn't hacking, um, but I was um, I think that I was—
+Janine: Is that why you stopped playing Leap the first time, 'cause you, 'cause you…couldn't commit to piracy? Yeah. 
+Keith: [cross] I stopped being a robot, yeah. 
+Cast [laughs]
+Ali: Oh, Keith would always commit to piracy. [laughing] Let's not, let's not fool ourselves.
+Keith: I'm eyeing the Plex.[1] [laughs]
+Ali: [laughs]
+Keith: Yeah, I haven't ever stopped to think about like how…how I make a character that often, but. Yeah, I do think that it comes from— usually there's like a seed of something that's going on in my life [Ali: Mm.] that is like, like, oh let me magnify that by 10,000 and make it this character's whole thing. 
+Ali: Oh, sure. Yeah, I mean, I feel like..[sighs] I feel like I feel that way more about ideas that I'm thinking through currently? I mean, like Marn was such a Covid character, right? [laughs] Or just this idea of the need for community action [Janine: Mm-hm.] and like the inaccessibility of…like healthcare in rural communities and how do you deal with that. And then Broun was my sort of like emo, homesick but not homesick and like refusing to make connection character, while I wasn't in New York. But I don't know, I guess Tender…Tender was such a weird character. And then, um, Hella and Aria are pretty straightforward, right? I was into Love Live! at the time. [Ali and Janine: laugh] You know? Sometimes it's just that easy. 
+Keith: Hella comes from Love Live? 
+Ali: No, Aria definitely does though. I mean.
+Keith: Okay. Sure. 
+Janine: [laughing] I'm sorry, "Hella comes from Love Live." Mm.
+Ali and Keith [laugh]
+Ali: I mean, she should. I would love to see her Winter SSR [Janine: Yeah.] or whatever. But gosh. I mean, Janine, how do you feel in terms of like— we've spoken about character creation a little bit, but like…this question of, am I building a character mechanically, and where does that inspiration sort of come from?
+Janine: My pr— my method has kind of stayed the same, which is that like I'll formulate an idea of the kind of character that I want to play, for whatever reason, something that I want to work through with a character, and then I'll sort of find a playbook that excites me? And then…combine the two. So like I can't really say that I make a character and then look for a playbook that fits them, or I look for a playbook and then make a character that fits it, it's a little bit of both? [Ali: Mm-hm.] It's, you know, normally, like long before the season starts I'll have an idea, [Keith: Oh. Yeah.] of like kind of what I'm doing, and then it's like, well, what are the playbooks that I think would be fun with this concept, right?
+Keith: Yeah, there's definitely always going to be some adapting when you get to the…but I guess it's a question of how much, when you get to the "okay, let me look at the playbooks" stage. 
+Janine: Yeah. I mean a lot of it is, you know, Es is a better example of this, I think, where with Es and Sangfielle, it's a lot of looking at the playbook and being like, okay, well the playbook says this specifically but what does this look like if we translate this into what this character is? You know, like, there's a lot of stuff in that playbook that I haven't gotten to or that I didn't get to that was like about communities and stuff that I fleshed out in my head, I was like, I know…if this comes up I know what my answers will be, and it's like not…it's adapting that, the language from the book into the language of the character. That stuff is all pretty normal, right? [Keith: Mm-hm.] I think the most straightforward character was probably Adaire. Like Adaire was very much like, what is in the book is what is true of the character. 
+Ali: Mm-hm. Man, I miss Adaire. 
+Janine and Ali [laugh]
+Janine: Adaire is fun. 
+[52:30]
+Ali: Uh, we like, we don't get into like production stuff on the show a ton, or I guess we would have last episode with Austin, so, here we are again. But I-- we have, we have two major to do list things on our podcast thing, which is the Chime Prologue and the Second Spring Epilogue. And as we're moving in towards the end of the year, I keep being like, which of these do we feel [laughing] emotionally capable of doing first? 
+Keith: What do you mean, emotionally? 
+Ali: Well, because, I mean, the thought of like returning to those characters after years at this point, [Keith: Sure.] is its own question. Besides even thinking of like, what do we feel like the setting should be, [Keith: Yeah] or-- I guess it's easier with the Chime Prologue because we-- it's before and not after after? But I'm like gearing myself up for the...[laughs] to be in that space.
+Keith: That's such a-- that's another very interesting difference between us. 
+Ali: Really? 
+Keith: Yeah, if you just-- if you told me like, hey, let's real quick knock one of these two things out, I'm like, sure, which one? 
+Ali: [laughs uproariously]
+Janine: Okay, but you-- eh, mm. One, you don't have to do any of the pre- or post work on that stuff. Two, you also just play characters very differently, especially in those seasons, you played characters that were just you. Right? Like, that's the--  [Ali: Wow.] No, but that's the-- [Ali: laughs] We had this conversation the last time me and Keith were on one of these Gathering Information things, where Keith was like, "I mostly play characters where it's like their reactions are my reactions." So it's like, it's different.
+Keith: [cross] Well...no, no, no, I-- so, okay, two things. [Janine: Uh huh.] First of all, Janine is right. 
+Janine: [cross] I'm sorry if that wasn't fair, but.
+Keith: No, first of all, Janine is right. The second thing is, what I-- I was meaning to say is like-- so I do, I do play a lot of very similar characters and I think that for me one of the interesting things is like finding a bunch of differences between like...between these people that you can see a thread connecting them and sort of assembling [Janine: Totally.] these different...assembling these like interesting differences between, you know, these characters that have a lot in common. 
+But I do think that during that conversation what I was saying was like, one of the-- the thing that makes I think a season stronger from me as a player is when I can...when I can make a character's reactions my own reactions? And not I can make my reactions a character's reactions. Like, uh...trying, you know...I think it goes both ways. Trying to make it so that when...that I'm like buying into whatever the character's bullshit is, is part of it?  [Janine: Mm-hm.] Like this is something I would never do, obviously, but I've got to like really believe it and buy into it, so that I can very quickly improvise the story that we're telling. 
+And then the reverse is the way that I do that is by making the characters more similar to me to begin with, so that it's very natural to slide into like, oh, this is like-- oh, what if this was me but I believed a bunch of other things that I don't actually believe or do things that I wouldn't actually do or take risks that I wouldn't actually take? And I think like sort of synthesizing those two things to a point is like the thing that I try to do, so yes, Janine, I totally agree. [Janine: Yeah.] Especially at the beginning, like the further...season one Fero is like so much more simple of a character than season, than season...what was, what is, uh, Spring?
+Janine: Season three? 
+Ali: Three. 
+Janine: Yeah.
+Keith: Three. Seas-- no, no, that's season like, five or six, right? 
+Janine: Right, well, it was season three of Hieron, but.
+Keith: Season three of Hieron, yeah, but I just mean, I mean to show how many years late-- it was multiple years later, [Janine: Yeah.]  we had done a lot more of Friends at the Table. 
+Janine: Season five of the show, I think it was?
+Keith: Yeah, and, uh...you know, over those five years [laughs] Fero became much different from me and much harder to play. In a way that I think was really good, and I think that that's part of where I want to get to with every character, is like having this sort of believable trek towards a more complicated character. 
+Ali: Mm-hm.
+Janine: But this is-- like I wasn't trying to insult you by being like, "oh your characters are just you--" I was trying to explain why it can be hard [Keith: Sure.]...if you tell me, hey Janine, sit down, tonight we're going to revisit Signet, I need to be in a way different headspace than if you say, hey Janine, sit down and we're going to revisit Adaire. 
+Keith: I'm willing to be...proven wrong on this on the long term, but if someone-- if in four years we have some obligation where I've gotta play Phrygian… game, I think I would have the same feeling. 
+Janine: Well, I mean--
+Keith: I think. I could be wrong. I might be— maybe I'm just not—
+Janine: [cross] I forget what recording it was, but I feel like there was one of the recordings where we started playing and you were like, "wait, I need to get into Phrygian." Like, there was…you had a moment of just like "that's not what Phrygian would—" you know? [Keith: Yeah.] So it does happen. 
+Keith: It does— yeah, it does happen. But, I'm sorry, but the way that Ali framed it of like, which of these are we emotionally prepared [Ali: laughs] to tackle, I'm like, well, [Janine: Well? Yeah.] it takes us at least five days to schedule anything, and in those five days, I can remember how to play Phrygian. [Ali: Sure.] It won't be too difficult for me. 
+Ali: Sure. I just feel like these are…well, such like, such a big task, right, like these characters that sort of feel like they've been put to bed, especially, right? 
+Janine: Mm-hm.
+Keith: Yeah.
+Ali: And also the like, the time gap between [laughs] thinking of them is part of the part that's tough. You know, I don't know that I wanna return to Hella, completely. Like, I— there's like a— there's a tiny seed in my mind that's like, if we do that, should I try to angle to play somebody else? 
+Keith: Sure.
+Janine: Mmm, mm-hm.
+Ali: Because, you know, I— Janine, I don't know how you feel if, how you would have felt if Austin was like, "hey can you play the Chimera Cadent in this arc for me," or whatever, right?
+Janine: Oh, I would have been happy to, that was kind of my original…[Ali: laughs] When I started pitching that idea, my thinking was still, [as an aside] 'cause it was, you know, it was 2022. Um, I think the first time I brought it up was probably the tail end of 2021 or something. My original pitch was like, oh, it'd be like a thing that the other side of the game would do, and then you could bring me on the call and I could do some cool— [Ali: Ahhhh.] 'Cause sometimes people get to do the cool stuff and I was like, "I could do the cool stuff." [Ali and Janine laugh] And that didn't end up happening for obvious reasons. But I would have absolutely been on board with that? 
+But I think that's just because like…you know, it is different. I get it in the sense of like, I also have weird feelings about like, showing Adaire and Hella again. [Ali: Yeah!] Just because like, the way that ended for them, it almost feels like we shouldn't see more. There is like an ambiguity and a kind of like…you know, they were cast out. [Ali: They— yeah.] They have a little family and they settled in a different place, but like…do I want to explore what happened there? Do I want to know, or is it better to just like have it be a question mark, I don't know. 
+Ali: Right, yeah, I feel like that exit was such…such an exit, right? [laughs] [Janine: Yeah.] Just like in character, in terms of like, just being literally exiled. And then also having this like closing moment that was like, you know, it's not that I can't think of what the next couple of months or next couple of years of what Hella's life would be after that, but like, to have her final moment already be this picture that could like generate that without having all of that stuff confirmed or unconfirmed? [Janine: Mm-hm.] Is like enough of an appropriate ending to be like, oh, well, you know, and then on Day Two, she finishes writing that letter! [Janine laughs] And her and Adaire go out, and go chase some zombies or something. It's just like, I mean—
+Janine: Yeah. I mean, it's a thing we'll tackle when we get to it, and I bet whatever we come up with will be good. [Ali laughs] But it is just one of those things that like, it is, it can be weird to go back to an older character. [Ali: Mm-hm.] For sure. 
+Ali: Yeah, I mean, we'll cross that bridge when we come to it, but I—
+Keith: [cross] I'm just excited for it. Don't take me not [Ali: giggles] feeling emotionally challenged by it to mean I'm not excited.
+Janine: [cross] Yeah, I mean it'll be…it'll be really good for you to revisit the time in your life when you could turn into animals in real life and then you turned that into a character. [laughs]
+Keith: Yeah. Uh, I mean, to immediately disprove what I was saying, I think that Fero comes exclusively from having looked at a list of classes and been like, you know what? I never play anything that isn't a rogue, [Janine laughs] let me play a druid, that sounds fun. 
+Ali: Yeah. I…yeah. I mean, Hieron was such a different mode of thinking when we made those characters.
+Keith: [cross] Right, Fero had no essentially no concept. 
+Ali: Uh huh. [laughs] I mean, yeah, I…we…that was…ten years ago? Is it nine years ago? 
+Keith: Nine years?
+Janine: Nine.
+Ali: We just had our nine year anniversary, right?
+Janine: Yeah. 
+Ali: Geez, Lord in heaven. Um, yeah, so we've definitely changed our…[laughs]
+Keith: Hey, I did grow up in the woods, though. So. I grew up on a mountain. [Ali: Sure.] You can't take that away from me. 
+Ali: Right. Yeah, yeah yeah yeah. Um…god. [pause] Keith, which character do you feel most uncomfortable about [laughs] having to return to.
+Keith: Almost none of them, zero, they're equally zero. [laughs] They're all equally, all equally— I mean, the further back we go, since I've played them, the more excited I am to revisit. Almost one to one.
+Ali: Okay, wow. Okay.
+Keith: So like, Mako was number one. And then it's Gig, and then Fero, maybe Fero edges Gig out a little bit because I played Fero for so long? [Ali: Mm-hm.] Um, and then it starts to get into like, revisit Lyke? That just happened. You know? So.
+Ali: [laughs] Fair. Oh, I guess that's a 'sclusie. Are you…are you doing Lyke again for Sangfielle Two? Have you even thought about that? 
+Keith: I am, and not only have I thought about it, I think that we already said it in the postmortem [Ali: Ooooh.] or maybe not? Maybe we— it's definitely something that I've said out loud before, uh, and it's definitely something that I've said to Austin. But I don't, I think that it's been recorded already, I can't be a hundred percent sure. Actually, I can barely be fifty percent sure, but. 
+Ali: Whaaa? Okay. I've—
+Keith: Just 'cause we record so much stuff, [Ali: Right.] talk so much into a microphone, who knows what I said and didn't say out loud. 
+Ali: Sure sure sure, yeah. 
+Keith: But I thought that it was, it was definitely a part of our very preliminary planning for next season? 
+Ali: Mm, oh, yeah, I do think some of the question, when we were choosing how to get to the finale, [Keith: Yeah.] was like, okay, can we have a poll of who wants to return to their characters next season [Keith: Yeah.] so we can decide.
+Keith: Yeah, I really like Lyke, [Ali: Uh huh.] and I want to do more Lyke.
+Ali: Sure. Um. Okay, I have two more questions for you, Keith. [Keith: Yeah.] This first one is just a yes or no question. 
+Keith: Okay.
+Ali: Do you—
+Keith: Try me.
+Ali: [laughs] Do you, at this moment, know who your next character is going to be? 
+[long pause]
+Ali: [breathless] Oh my god.
+Janine: Wow.
+Keith: I can't do a yes or no for this, I'm s— [laughs] So.
+Ali: [laughing] So no. That's no if it's not yes? 
+Keith: [laughing] It's complicated!
+Ali: [laughing] Okay.
+Keith: I know my, I know, I know my class. 
+Ali: Okay? Okay.
+Janine: Hang on, I need to check the date on our last recording, just to see…when that was.
+Ali: For audiences, it is currently September 22nd, 2023. 
+Janine: Was it August 7th? 
+Ali: That can't be true. 
+Keith: And did I say that I knew then? 
+Janine: Palisade 10C is August 7th. 
+Ali: [laughing] Oh my god. Oh, well, we had, we had a very busy end of August and then me and Austin went to space, so…
+Janine: Yes, that is true, that is true, that is true.
+Keith: Yeah yeah yeah yeah yeah. 
+Ali: Yeah, we, we…it's funny because recording that took so long, [Keith: Yeah.] and was so complicated, and so stressful.
+Keith: [cross] Speaking of things I've agonized over, I have agoni— wait, the space thing was stressful? 
+Ali: Yeah! Doing that mission? 
+Keith: Oh. I haven't heard it, it just came out yesterday, right? Yeah, I've no— and you haven't said a word, you didn't even tell me you were doing this! I found out like third in—
+Ali: Oh no no no, not the space, [Keith: Oh.] I'm not talking about that Halcyon stuff,[2] I'm talking about doing the Stellar Combustor mission was like [Keith: Okay, sure.] weird, disjointed, rushed but also sort of delayed recordings, [Keith: Yeah.] and then feeling just stressed out about it the entire time, and then realizing that was like a full month ago? [laughing] It's really…[Keith: Yeah.] Just, I feel like my whole summer has been a weird whirlwind.
+Keith: Yeah, it definitely feels like, only a month? 
+Ali: Right. 
+Keith: Yeah.
+Ali: But also like, wasn't that also just like two weeks ago? Um, yeah. I, yeah. Anyway. Um, so. Okay. So you've chosen a playbook. [Keith: Yeah.] This is great. [laughs] The second question was, thinking— this question of like returning to characters, and even this sort of long view of Signet's life at least, is there something like, do you have that same sort of like thing in mind for Phrygian in the position that they're in? Like, obviously it's not going to be a thing of like, this is how Phrygian might change their situation on a long enough timeline, but do you think of Phrygian in the place that they're in, for as many years as they're gonna be in it? 
+Keith: So, for Phrygian, I think like, uh, the joke that we made at the time was they had that one therapy session and I sort of like…Austin was like, you know, think of a plan for your immediate future, and I was like, well, I have a ten thousand year plan. [laughs] 
+Ali and Janine [laugh]
+Keith: And like I got it down, I can't remember what the joke was, but I, you know, slightly got it down, and for part of the ending of 25, of Palisade 25, was a sort of like, oh, I, you know— they chose to do the ten thousand year plan. [Ali: laughs] So it is kind of like a…I think it's the sort of thing where like I've accepted, whether it's true or not, that Phrygian is in there for essentially forever? [Ali: Mm-hm.] Um…but, I never would…I would never not consider, you know, something happening, you know, reacting to where we are in a couple seasons or whatever or something, you know, you need a…magic lamp to rub and Phrygian comes. [laughs]
+Ali: [laughing] Phrygian's just up there in the sky. 
+Keith: Yeah. I think it's like, I think that if I had ideas for what happens to Phrygian over the course of whatever, it would come as a result of living through whatever the next sci-fi stuff that we do is, and seeing where we are. [Ali: Mm-hm.] But, I think that I'm comfortable with Phrygian living out their ten thousand year plan. 
+Ali: Thanks, Branched man.
+Keith: Was that— was that an answer to the question? 
+Ali: Yeah, yeah yeah. 
+Keith: I for— okay, okay. 
+Ali: [laughs] Uh, yeah. I'm just…I'm still very happy with where this all ended up.
+Keith: I thought that was great, I fin— when we got off, I mean it was very emotional. It was very intense and draining. And then, you know, after the dust sort of settled, I really sort of ended up feeling like it was some of our best stuff. 
+Ali: [softly] Yeah. Yeah.
+Keith: Not just this arc, but like the last ten episodes or something, like all were really good, I think.
+Janine: The tail end of the Road to PALISADE.
+Ali [laughs]
+Keith: The tail end of the Road to PALISADE. Yeah, and then now the season— now I can come in with my new character, season starts, everybody, you know, release the breaths you've been holding.
+Ali: Mm, mm-hm. God.
+Keith and Ali [laugh]
+Keith: [quietly] Joking around. 
+[01:11:00]
+Ali: Oh, man. I'm wondering if I have anything else I want to talk about. I think I'm good unless y'all have more you'd like to share.
+Keith: No. I'm dying to talk about new character stuff, but.
+Ali: [laughs] I wonder how mu— I know, I don't want...
+Keith: I don't know...I agree that we shouldn't, I just want to anyway. 
+Ali: [laughs] Well, I— so okay, on a scale— [pause] Let's do it this way. On a scale of one to ten, how...no, this is stupid. [laughs]
+Keith: No, no. Give me the scale, I love the scale. 
+Ali: I was going to say, how much do you think people are expecting what you're gonna do. Which is a stupid question 'cause it's just like, are you playing Leap? Like that's what that question is, but. [laughs]
+Keith: Two? 
+Ali: Oh wow, okay.
+Janine: Ohhh. 
+Ali: Okay. 
+Janine: Okay, so you're playing Fero. 
+Ali: Wow.
+Keith: Yeah, I'm playing Fero. Yeah. Cat's outta the bag. [Ali: Uh huh.]  Or a bird, or... [laughs]
+Janine: Fero's basic— Fero's pretty  Phyrgian-adjascant, right? You just turn into stuff...be a guy.
+Keith: [cross] Yeah, honestly, my original...until the Miscreated playbook came out, the other playbook was even more like Fero. Which is funny. [Ali: Oh.] It was actually one of my big sort of hold ups, was kind of like, this is too— it's weird, the two playbooks, I can't remember what the other one was called, unfortunately, but, they were like, they were sort of like, mmm, "Defender of the Land and you're a robot" and it was sort of like, druid themed? But then this playbook, it was not druid themed at all, it was Frankenstein themed, but the moves were much more like what Fero did, you know, action wise. So it was kind of like these weird, the two halves of Fero, the like background, almost season one feeling druid-y stuff versus the kind of terror of the deep Fero season three kind of stuff. Uh, but no, not Fero, unfortunately.
+Ali: Okay. Wow. There was one...I will admit that I know one of the ideas that you were considering...
+Keith: Oh, you do?
+Ali: And if you... [laughs]
+Keith: Does it begin with an "a?"
+Ali: If you went through with it, I would have to bully you so bad, because... [laughing]
+Keith: Does it begin with an "a?"
+Ali: Does it begin with an "a," oh, the playbook? [Keith: Yeah.] I don't remember. [Keith: Ok, okay.] But I will...I don't want to say it into the-- unless I like bleep myself and let the audience hear your funny reaction, but there was...
+Keith: That sounds like a good idea to me. 
+Ali: Yeah, I'm going to do it. When you were considering playing Leap as this sort of like wealthy investor or whatever, [Keith: Yes, yeah!], I don't remember the, whatever, I was like, that's fucking Gucci. 
+Keith: It's so funny.
+Janine: Yeah…
+Ali: [cross] It's literally Gucci. I'm going to have to make fun of you forever.
+Keith: [cross] No, it's not Gucci, 'cause why—
+Janine: [cross] No, it's Gucci. It’s Gucci.
+Keith: It's not Gucci! Why? Why would…
+Janine: It’s Gucci.
+Ali: [laughing] It's Gucci.
+Keith: He becomes a pirate, a rich pirate! He was— I'll tell you who he was, he was Long John Silver from Muppet Treasure Island. Covered in gold coins and— 
+Janine: Do you remember Gucci's original deal? 
+Keith: No.
+Ali: Exactly. 
+Janine: Being a rich person with a secret identity who does all the— who does like robot warfare, guerilla stuff? 
+Keith: Right, right, but like Leap was a p—
+Ali: Who like, play— yeah.
+Keith: Leap was an anti-Gucci core member of Millenium Break, who went off to go—
+Janine: And then he said "if you can't beat 'em."
+Keith: —sink a bunch of Authority ships and take all their money! And then came back to— I mean, specifically, was set up to be a sort of like, uh, like a pseudo third leg of the Cause, so it would be like a—
+Janine: So my question is, what it is that would...what is it about Leap's philosophy that has changed from when we saw him last, that would allow him to accumulate the wealth necessary to become this other version of himself?
+Keith: Well, it's...I mean, it's not accumulation in the same way. 
+Janine: [cross] If you're rich it is accumulation. 
+Keith: [smiling] No, it's not, it's different!
+Ali: [laughing] "It's different when I do it."
+Janine: [laughing] How is it different?
+Keith: Because accumulation is like...okay. 
+Janine: [cross] Define in which way Leap would be rich. 
+Keith: [cross] It's literally...it's not accumulation, it's amassing. It's a different thing.
+Janine: Oh my god. 
+Ali: [laughing hard]
+Keith: It is a different thing! It's— look, I'm not going to say that this is not...that there's no...I mean, how interesting would the character be if there was zero ways for them to be compromised. Right? [Janine: Mm-hm.] I'm not saying that Leap is a saint, and everything that he does is fine—
+Janine: No, of course not, of course not.
+Keith: —and it's okay for him to have all this money, but like it's different if your family runs a series of factories and you're like, extorting the workers and extracting the wealth and accumulating their, you know, labor into, you know, billions of dollars in capital. That's different than like being a bank robber. Like, sure, I'm amassing wealth but whose wealth? The insurance companies who have to pay all of the ships that get— you know what I mean? It's not— it's a different thing. Amassing and accumulating is different. 
+Ali: [laughs] Uh huh, yeah, fair fair fair fair. 
+Keith: And then of course they come in and fund Al-Qaeda. 
+Janine: You put all your pirate money in a Roth IRA and then...
+Ali and Keith [laugh]
+Keith: See, that's Gucci to me, that's way more Gucci. 
+Ali: Okay, well, with that—
+Janine: Gucci has crypto. Let's be real. [Keith: Oh, yeah, sure.] [cross] Gucci pretends she doesn't have crypto, but she has crypto. 
+Ali: [cross] Stop it!!
+Janine: Your girlfriend has crypto! 
+Ali: Noooo! [laughs]
+Keith: Roth— chimp IRA.
+Ali: This is the, this is the— oh my god, this is the—
+Janine: Your girlfriend has Doge. 
+Ali: No, 'cause this is the fucking dril tweet that I said was Gucci and Brnine, let me, hold on, I have to…  
+Janine: You not rockin' with Doge? 
+Keith and Ali [laugh]
+Ali: Very close, I have to— sorry, I just have to get this, it's so important for me to read this exactly out loud. Um, fuck, why does dril still tweet so much? It feels like this was from last week but obviously it was from two months ago. This is...this is a dril tweet from August 18th, 2023. [laughs] "she let me keep all of the NFTs in the divorce because she's stupid and she still loves me and is obsessed with me." 
+Everyone [laughs]
+Ali: Which is a Brnine/Gucci tweet. 
+Janine: Mm-hm, mm-hm. 
+[01:18:00]
+Ali: On that note, thank you both for joining me this month for Gathering Information [laughs] and sharing your thoughts on PALISADE, and Signet and Phrygian, and closing the door on characters. Um, do either of you have any final words or final plugs or anything before we, we say adieu?
+Keith: RIP Branched man.
+Ali: Branched man. I'm wearing that sweatshirt, by the way.
+Keith: Oh, awesome, I still have to make an order.
+Janine: How do you like it? 
+Ali: I like it a lot! It's very comfy. 
+Janine: Is it like soft?  Or is it like, or is it stiff? I always worry about stiffness. 
+Ali: Oh, it has— no.  No no no, it's so soft, it moves really well, the like, [Janine: I love that.] on both the t-shirt and the sweatshirt, it doesn't have like— I don't have that concern you get about t-shirts where you're afraid that the printing is going to crack? [Janine: Yeah, yeah.] And then the sweatshirt itself is like, I think I...I didn't get the largest size, I think I got one down and it's pretty big on me. It's like pretty baggy [Janine: Okay.] which I'm really happy about [Janine: Yeah.] and, um, the material-- like it's a really floss— like soft fleece on the inside? 
+Keith: Nice.
+Janine: Ooo, okay. 
+Ali: And like a really lightweight sweatshirt so you can wear it easily underneath a jacket.
+Janine: Nice! Okay.
+Keith: Nice. I like that.
+Janine: I wanted to make sure our stuff didn't feel like...internet shirts. You know what I mean? [Keith: Sure.] You know? How internet shirts used to feel? [Ali: Uh huh.] I think it's moved beyond that but I just wanted to know.
+Keith: I have to...I made an all over print backpack with the Run Button logo on it? 
+Ali: Oh hell yeah.
+Keith: I'm excited, I'm going to get a...[Janine: Ooo.] test of that. It took quite a while to line it up [Janine: Yeah.] so that there wasn't a bunch of half logos everywhere, which I find annoying, I know it's literally unavoidable, um, especially with something like this where you're just like...[Ali: Mm-hm.] you're just like in a web browser dragging shit around? But. So far the Fourthwall stuff seems pretty cool, so I'm excited to make a test— I'm going to make an order of Run Button stuff and Friends at the Table stuff at the same time. 
+Ali: Perfect. Yeah, I...if you're listening to this and you watch Run Button...if you're listening to this and you don't watch Run Button, start watching Run Button. [Keith: Oh, yeah.] If you're listening to this and you do watch Run Button, go to the Run Button Fourthwall store and get some stuff. 
+Keith: [cross] Oh yeah, by the time this is— I already have runbutton.shop set up as a URL, and by the time this is launched, it will be live. 
+Ali: Perfect.
+Keith: Right, this is coming out...next month?
+Ali: [cross] Probably next week. 
+Keith: ...next month. Next week? [Ali: Yeah.] Okay. Well, still, I still— I've already got three things made, I just have to actually link the URL and hit go.
+Ali: Sure. 
+[pause]
+Keith: [clears throat] Losing my voice. Perfect timing, losing my voice. 
+Ali: Perfect.
+Janine [laughs]
+Keith: It's seasonal change allergies. 
+Janine: Yeah. They'll get ya. 
+Keith: Yeah.
+Ali: [sighs] Janine, any final plugs, any...you know, goodbyes?
+Janine: I'm @bleatingheart on twitter and cohost. If you wanna read that post I did about Signet, it is on cohost. Next month I'm going to do Witching Hour, I'm like, I don't— I have an idea for the game I'm going to use? Um, but I'm not a hundred percent sure yet, but that'll be on in October.
+Keith: Is that what your message was earlier, looking for games with magic? [laughs]
+Janine: [sighs] Yeah, yeah. I have a game idea, but I'm just not sure...I'm just not sure. [Keith: Yeah.] It's not entirely in line with what I've done in the past. [Ali: Mm.] So I'm considering my options. But, yeah. It'll be happening.
+Keith: Um...I...do you not want to say what your idea is just in case you change it? 
+Janine: Yeah.
+Ali: Mm-hm. 
+Janine: Exactly.
+Keith: I have more plugs, can I plug more stuff? 
+Ali: Sure. I do have a question first, are you going to be doing Witching Hour on your private channel or the Friends at the Table one?
+Janine: Um...I don't kn— probably my personal one? 
+Ali: Okay. That's where it's been this whole time, so that makes sense to leave it…
+Janine: Yeah...I might, I might host it on the Friends at the Table one. But.
+Ali: Oooh, right. Can you...can you host it? You can host other people's twitch streams? You can't just like do a weird like...
+Keith: Yeah yeah yeah, you can like make—
+Ali: [cross] "Everybody in my chat just goes over to theirs."
+Keith: We can make the Friends at the Table channel show Janine's stream. 
+Ali: [quietly] Ooooh. Damn.
+Janine: Yeah. I don't know, we'll see how it goes. I don't know, I'm not a hundred percent sure yet, but mostly I just want the archives to help me in one spot? 
+Ali: Oh, yeah yeah yeah. Okay, sure, I just wanted to make sure people knew where to find them when it was going, [Janine: Yeah.] but they can look at cohost where you'll be posting about it anyway. [Janine: Yeah.] And then Keith, you had one more thing to plug? 
+Keith: Uh, Media Club Plus, remember about that? Hey, do you like Hunter x Hunter, or do you think maybe you would, or do you not care but you still want to listen to this? You should. It's good? We've done eight of them, there's two out, the next one's going to be out October 3rd. Um, and you can get that on your podcast app, and you should follow us on TikTok. I put a clip up of the podcast set to the relevant clip of the show, so you can get a little flavor of what's going on. TikTok.com/@friends_table. [Ali: Yeah.] Or just search "friends_table" in the TikTok app.
+Janine: I don't like that clown. 
+[pause]
+Ali: Hisoka? 
+Janine: Yeah, no...
+Keith: He's very complicated, [Ali: Yeah.] but yeah, it's the right call.
+Ali: Yeah, he— you should be suspicious. 
+Janine: I ran enough— when I was into anime, I ran in circles where Hisoka was treated like a top tier quote-unquote "bishie," if you will.
+Keith: Oh, no, that's wrong.
+Janine: No, every time— every clip I've seen of Hisoka so far has made me like, deeply uncomfortable. [Keith: Yeah.] Deeply, deeply uncomfortable. 
+Ali: Ominous.
+Keith: Hisoka's violent and horrible and a…uh…uh…
+Janine: Hisoka...there's like a sexual menace quality to Hisoka that is deeply unpleasant to behold.
+Ali: Yeah…
+Keith: Oh, yeah, yeah, the word that I was, I'm thinking of the word, like on its face, he's like sexualizing the main characters of the show. There's no two ways about it. It is not like, oh, I think maybe that this character is like—
+Janine: A creep.
+Keith: A creep. No, it is on its face true about the character. 
+Janine: [frowning] Mm. I don't like.
+Ali: Well. 
+Keith: No.
+Ali: Media Club Plus. 
+Ali and Janine [laugh]
+Ali: For more discussions in this line, 'cause I'm sure that is something you have to tackle at length as you go through it.
+Keith: Uh, you know, not the most present character in the world, I would say. [Ali: Sure. That's good, yeah.] And, you know, again, I would say it's a very complicated show, there's gonna be, there's, there's…there's times Hisoka shows up where you're like, this is terrible, I hate him, get him away from these characters, and there's times when Hisoka shows up and you're like, this is sick, this is a ton of fun. [Ali laughs] I still hate him, but wow, these episodes are a blast.
+Ali: Yeah, from what little I've seen of his introduction, just getting through the Hunter arc stuff where he's been sort of left behind so far, he is a great antagonist. 
+Keith: Yeah, yeah.
+Janine: Why!? 
+Ali: Just a real freak to have around. 
+Janine: Why is he a clown? Is that a choice—
+Keith: [cross] He's a magician.
+Janine: —or is that just the way he looks? Okay. 
+Keith: Yeah, he's a magician.
+Ali: He's a magician? 
+Keith: That's like his magician costume. 
+Ali: Oh, yeah yeah yeah. [Janine: I see.] The manga does something really interesting where in every dialogue line that he has, he has a different, um, card, um…symbol at the end of each sentence?
+Keith: Suit? 
+Ali: Suit. Yes, a suit symbol [Janine: Oh.] at the end of each sentence, and I wonder if there's a way to go back and like read intention through that?
+Keith: Decode the suits.
+Ali: Yeah.
+Janine: Oh yeah, is it like, the heart is when he's being cutesie, the spade is when he's like being mean.
+Ali: Right. It feels like that's what's going on, but it's mostly just been like really fun flavor in terms of just having like a fucking wacko. 
+Keith: Yeah, Hisoka's a total wacko. [laughs]
+Ali: [laughing] Yeah, Hunter x Hunter is pretty good.
+Keith: It's a show full of wackos. 
+Ali: Yeah, I— yeah. Yeah yeah yeah. But it's great so far, so [blows out breath] check it out, [Keith: Yeah.] and um, yeah. Thank you everybody, have a good evening. Bye!
+Keith: Bye.
+Janine: Bye!
+________________
+[1] A streaming and media player program known for its use in digital piracy.
+[2] Referring to Halcyon Hotel.

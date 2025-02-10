@@ -1,0 +1,680 @@
+﻿Gathering Information 07: Chaos and Adversaries
+Transcriber: robotchangeling
+Introduction        1
+Faction Game [0:03:30]        3
+Adversaries [0:09:53]        8
+Faction Ownership [0:20:39]        13
+Methods [0:33:07]        20
+Chaos [0:44:04]        26
+Last Downtime [0:54:23]        33
+Going Forward [1:02:30]        37
+Twilight Mirage [1:11:08]        41
+COUNTER/Weight Prequel [1:18:35]        45
+Creative Process [1:28:10]        51
+Introduction
+Ali: Hello everybody, and welcome to Gathering Information, your behind-the-scenes look at setting the table for Friends at the Table. As promised in the last episode, today I am joined by Arthur Martinez-Tebbel.
+Art: Hi! That’s me. I don't think I should do plugs here. If you're here, you've heard my plugs. 
+Ali: [laughs] And Jack de Quidt.
+Jack: Hi, I'm Jack. You can find me on Cohost at @jdq, [quiet laughter] and you can buy any of the music featured on the show at notquitereal.bandcamp.com. 
+Ali: Uh huh.
+Art: That’s for the person that this is their first experience of Friends at the Table.
+Jack: It’s gonna be a weird one, if this is your first experience of Friends at the Table today.
+Ali: Mm-hmm.
+Art: Yeah. If you found out who we were, joined the Patreon, and just clicked on the most recent behind-the-scenes episode without trying the main feed show.
+Ali: Maybe they’re gonna be running Armour Astir in a couple months and really wanted to get into the nitty gritty of what the faction turn is like. [laughs] 
+Art: I respect and salute this hypothetical person. [Ali laughs] So much so that they don't— they shouldn't be subjected to my online social media presence. [Jack laughs] They shouldn't go to Cohost and see my most recent post being like, “I'm gonna lose my Final Fantasy VII Remake save, right?”
+Ali: Huh?
+Art: Oh.
+Jack: Do you have cloud saves, Art? Because if you have PS+, you'll be fine, I think.
+Art: I do have PS+, but what I found out is you have to manually upload your Final Fantasy VII Remake save to the cloud, which it never occurred to me to do, and so I either have to start over or dig out my PS4, plug it into something, and upload the save.
+Ali: Mm.
+Art: And doesn't that sound worse than playing, like, eight hours of a video game over again? [Jack sighs]
+Ali: Well…yeah, I guess. This sounds difficult, yeah. It really— why would they—? Was that a Square Enix decision, that they set it to…?
+Art: It sure sounds like a Square Enix decision, doesn't it? Like, that sounds like Square Enix. [Ali laughs]
+Jack: Yeah, I don't think it needs to be that way. I feel like it doesn't need to be that way.
+Art: Square Enix is like, “We have cloud saves, if you guess that you need to access this menu before you wanted them.”
+Ali: Where were you up to in the game?
+Art: I don't think I was that far. [Ali laughs] What happened was I was playing Final Fantasy VII Remake, and I was in, like, a dungeon.
+Ali: Mm-hmm.
+Art: I think, like, an early-ish dungeon.
+Ali: Mm-hmm.
+Art: And I didn't play for a week or so, for some reason. I was like, “Well, now I don't remember what was going on in that dungeon. I can't go back now.”
+Ali: Mm, mm. [laughs quietly] 
+Art: And then whatever Final Fantasy VII Remake 2 is now around the corner, I'm like, “Well, I should've finished that dungeon.” [Ali laughs] But, you know, I now have a different Sony console entirely now. 
+Ali: [laughs] Okay.
+Jack: This is hard.
+Ali: Yeah, I…well, sure. Well, then it sounds like maybe your save is being withheld from you, so you don't, like, keep this guilt of like, “Am I just gonna go back to that dungeon, or am I gonna have to restart it?” Like, you're being forced to restart it, which is what you know that you need to do?
+Art: Yeah.
+Ali: Okay.
+Art: Yeah, we were— I mean, we were in, like, the sewers or something. I don't know. 
+Ali: Okay. Well, I'm glad that we got to the bottom of this situation. [laughs] 
+Faction Game [0:03:30]
+Ali: Now, let’s move onto the faction game. Hi. Hello.
+Jack: Hi. Oh, were you saying hello to the audience, or were you saying hello to us? [Ali laughs] Or were you saying hello to the concept of getting on topic? [Ali and Art laugh] Hello, topic.
+Art: This is where Ali’s gonna introduce us to the concept of getting on topic. [Art and Jack laugh]
+Ali: Did you guys know that when you sit down to record an episode of a podcast, [Jack laughs] first of all, you don't have to take a Winnie the Pooh quiz before you do that?
+Jack: [laughs] Uh huh?
+Ali: And then, second of all, you can kind of get through the, like, “Hey, what are we gonna do today?” maybe before you start recording? Maybe… 
+Art: No. [Ali laughs]
+Jack: I don't— really? Are you sure about this, Ali?
+Ali: No, I'm very much not sure about this, because as an editor, I think I've— you know, I've made those episodes what they are, because y'all all talking through that is what playing the game is.
+Art: Yeah, I think if we came in with an itinerary like that guy’s dad on Twitter, [Ali laughs quietly] that it would feel less…you know what I’m—
+Jack: What guy’s dad on Twitter?
+Ali: Oh, the guy— okay, yes. The… 
+Art: The guy’s dad.
+Jack: What?
+Ali: Who goes to meeting with— [laughs] 
+Jack: Oh, yeah, yeah, yeah! He goes to meetings with his bros, and he’s like, “Well, today we have to talk about the football games, and we also have to talk about Mission: Impossible 9, and et cetera,” right?
+Ali: [laughs] Uh huh.
+Art: Yeah.
+Jack: What Sandy’s doing with his hair, et cetera.
+Ali: Yeah. I feel like I've seen multiple versions of this tweet, because there was one that’s like, “this person’s a guest, so be nice,” and then I saw another one that was like, “oh, we’re driving up to doing, like, a fishing trip right after, so it’s gonna be shorter than usual.” [laughs] So it’s like, okay, man.
+Jack: Yeah.
+Ali: Right, yeah. There’s pros and cons to structuring things that way, but let’s…let’s maybe start from the beginning, because, you know, this is the first time I'm having you both on to talk about this, and I think, like, having some perspective of, like, where your heads were at before the season started when you were, like, making this adjustment from developing player characters, being like, “This is gonna be my one guy for the season,” to like, “Oh, I'm gonna be helping Austin with this, like, whole other thing.” What that decision was like and what was attractive to you about being the faction game versus being on the ground team like us.
+Jack: I mean, it probably goes without saying—I hope it goes without saying—but as soon as I heard that Art was interested in doing this and it seemed like an opportunity to work with Art, I was like, “Oh, this is going to be really fun.” I like doing any kind of Friends at the Table in any combination, but I always have a really great time coming up with, like, Winnie the Pooh quizzes. [all laugh] I think Art and I work really well together, and I was really excited to be like, “Oh, we’re going to be able to develop a kind of relationship in play that is much more focused than [someone snorts] necessarily working with, like, a full group.” Focused— you know what I mean! [Ali laughs] Focused in the sense of…
+Art: I do. I know exactly what you mean, and I’m…
+Jack: And individual, right?
+Art: Yeah.
+Jack: Rather than, like, a full party.
+Art: Yeah, I think that that’s very true. I need to get my joke answer out of the way really quickly, just, and then I'll get back to this very nice genuine answer that you gave, which is that…
+Jack: Okay. [laughs quietly] 
+Art: You know, last season, Sangfielle, I sort of just started by playing one character who was a lot of different characters, technically. [Jack laughs]
+Ali: Mm-hmm.
+Art: And so, going from Duvall to faction is very seamless in that way.
+Jack: Faction’s kind of a letdown, honestly. Much fewer characters than 50,000 insects. [Ali laughs]
+Art: Many fewer characters. Yeah. So, I'll just be chasing that high, I guess, for a while.
+Ali: Mm-hmm.
+Art: But more— as you can tell from the temporal— the timeline laid out by Jack there, I think I decided first that I wanted to do the— or Austin was talking about doing a faction game, and I told Austin that yes, I am potentially interested in doing something like that. I had just relistened to all of COUNTER/Weight, and I thought that it seemed like Sylvi and Dre had a lot of fun doing that and I would like to try that, and I did say, [laughing] “But tell me who’s gonna do it with me before I fully commit.” 
+Ali: [laughs] Which is fair.
+Art: Well, I had just finished Sangfielle, and it was like, I sort of— I was sort of in the same group a lot in Sangfielle, and I was like, “Well, I don't want to do it if it’s gonna be that group again.”
+Ali: Mm, mm-hmm. Yeah, that’s fair.
+Jack: Show straight up and with the same crew and…
+Ali: Mm-hmm.
+Art: Right.
+Jack: Work through similar things, yeah.
+Art: But similarly, I really enjoy working with Jack. When I heard that Jack was the other person who was interested, that was very good news, and I was enthusiastic about doing it after that.
+Jack: I think the other thing that…you know, having listened to the faction game in COUNTER/Weight, the faction turn in COUNTER/Weight was so much fun as a player—you know, being on the ground team—and so much fun to listen to as a listener, in terms of presenting a kind of palette of ways that the faction turn could function. And so as soon as I sort of got the opportunity to do a faction turn, even before we started, you know, even before we were conceptualizing the season—even before we knew we were going to the edge of the Mirage, because that came after we decided to do a faction turn, I think—I was already thinking, “Oh, what are some interesting ways that the faction turn can, you know, interlock with the player turn?” using Dre and Sylvi’s COUNTER/Weight play kind of as a model. There are some great moments in that, in terms of them making moves that Austin wasn't predicting that then have kind of pretty earth-shattering effects for the ground team immediately, and I felt really stoked about being able to do more of that and trying to do that in more configurations, things like that.
+Adversaries [0:09:53]
+Ali: There’s definitely been, like, a developing ping-pong between the two groups, I want to say, and I am really curious about how it’s felt and how it’s guided your play since, because I can say at least on the player character side, the Blue Channel side, [laughs] it’s been a little adversarial.
+Jack: Yeah.
+Ali: And I really feel like, sometimes, Jack, it felt like we… [laughs] we sort of ate your lunch, [Jack and Ali laugh] just because Kesh ended up being the first sort of, like, Kesh and Marlon Styx were the first faction game entities that I felt like we really interacted with, and then we just kind of kept pulling at that string.
+Jack: Yeah. I probably should have anticipated this. I mean, I think something that players like to do in sort of all games is take the first thing that’s put in front of them and go, “All right, this is my project now. I'm gonna figure this out.” [Ali laughs] And I thought I had— this is actual play, right? Marlon showed up as such a— I mean, he was a fun character, right? The guy who is sent to infiltrate the thing and immediately reads the predictions and becomes part of the thing. But I sort of saw him as, like, just one string in a bow that, you know, would have other interesting spies and things bolted onto. But Marlon, by dint of the players, you know, investigating him and by that camera focus drawing closer and closer and that situation in Violet Cove blossoming and blossoming, you know, became so important or the things that it led to became so important that then I was like, “All right, well now we have to further invest in this,” such that it does lead to a point where, yeah, I think my lunch got eaten pretty comprehensively, but that’s… [Art and Ali laugh quietly] And we can kind of develop this point as we continue to talk, but that’s part of the deal, right?
+Art: Mm-hmm.
+Jack: I have to imagine— and this is the first time that I've done this. I have to imagine Austin feels like his lunch is getting eaten by the players— well, no. I imagine he doesn't, because my guess is that he has— he thinks about it in a different way than I do, having primarily come from playing player characters. And I think that I have spent a lot of time this season trying to sort of reconfigure my brain from thinking about things like I do player characters to try to get a broader view and try to make moves on a different scale, and I think part of that comes with going, “Okay, right, fine. You know, sometimes all my spies get…” [Ali and Jack laugh] Sometimes Kesh gets taken off the board in such a spectacular way.
+Ali: Yeah.
+Jack: Just how it goes.
+Ali: Uh huh.
+Art: It’s hard to say if it feels adversarial, because I don't—
+Jack: I think it does.
+Art: I don't know that… [sighs] One, I don't see the other group as adversaries.
+Ali: Sure.
+Art: You know, I think we’re all working together to make good show, and I think we’ve made a good show this year, and I think that some of that is because of ideas that me and Jack and Austin have come up with on the faction game, and I think some of that’s because of work that other people do, but it’s harder to talk about that, because I'm not there when that’s happening. And so, like, we’re all pushing the ball in the same direction.
+Ali: Mm-hmm.
+Jack: Yes. That’s true.
+Art: IMO.
+Ali: Yeah.
+Jack: But sometimes we will be on recordings, and I think you will say something to the effect of, “I want to punish them for what they did,” Art. [Ali laughs]
+Art: Yeah.
+Jack: And I would like to just gently push at you saying that it doesn't necessarily feel adversarial.
+Art: Well, it’s all— Jack, none of it exists, though. [Jack and Ali laugh] Like, I'm punishing people that don't have…you know, real lives or that stop existing when you stop thinking about them.
+Jack: You're saying, “I'm going to punish the Blue Channel,” not “I'm going to punish Ali and Keith and Sylvi and Dre and Janine for what they did.”
+Art: No, I hope that— I hope that they’re having a great time. It sounds like they are on the recordings. [Ali laughs] And if they’re sitting at those recordings being like, “Well, this is terrible…” [Jack and Ali laugh] You know—
+Jack: “I feel personally punished.”
+Art: Yeah, “I feel personally punished by this,” then I hope that they all remember that they have ways of talking to us about this. [Art and Ali laugh]
+Ali: Yeah, I guess I should clarify. When I say “adversarial,” I don't feel like it’s like we’re like, “Man, Art won't give us a fucking break,” but like… [Ali and Jack laugh] and not that we’ve ever been, like, you know, disappointed or, like, agitated or whatever by the play that you've made. But, you know, there is…there’s been a little bit of a, like, table attitude where I don't know that you've always rooted for the Blue Channel. [laughs] 
+Jack: Yeah. And there’s a bunch of— there are a bunch of reasons for this, which are fascinating, and they’re the kind of reasons that it’s not always clear to me why that is the case. And I think it is, like, it is an interlocking combination of the way certain mechanics work or certain decisions that we made early in the season have kind of produced this rivalry, right?
+Ali: Mm-hmm.
+Jack: Where, you know, one of the first things that we chose was we chose the factions of the Authority, and then we divided up the Authority, you know, each, right? Art would play Nideo, Austin would play the Frontier Syndicate, I would play Kesh, and then we also divided up Cause factions. And, I mean, we divided them up loosely, but then a thing happened, which is we really sort of established ourselves as Authority factions, and that makes sense to me, in part because we sort of have one turn each every downtime session.
+Art: Mm-hmm.
+Ali: Mm-hmm.
+Jack: And while you can use that turn— okay, let me put it this way. The incentive I feel is, having taken on each of these factions and being like, “Oh, Austin is playing Frontier or Art is playing Nideo,” and being given a bunch of really interesting mechanics, right? You know, where it’s like, oh, when the Authority faction takes a turn, they do this. When they win a scene, they do that, et cetera. There is…I felt a degree, at least initially, of being pulled towards playing those Authority characters as the kind of main wing to set it apart from Millennium Break and the Blue Channel, right? Where it’s like, if we’re going to see Kesh act in a really big way in the downtime turn, it kind of has to be during this moment.
+Art: And there’s a way to, like, get around that. 
+Jack: Yes.
+Art: We could sort of, like…we could, at the start, or not at the— or maybe as homework, as Ali has suggested we should maybe do a little of. [Ali laughs] You know, we could assign each other, like, everyone’s gonna do a scene as a Millennium Break faction that sort of involves the other side. We could see it from the other angle, and the rolls and stuff would sort of work out the same way, right?
+Jack: Totally.
+Art: But the book isn't written in a way that encourages that, you know? The—
+Jack: Because I think the book also is like, it’s not gonna be a separate crew of people. You know, in the book, [Ali: Mm-hmm.] it would be the ground team playing the downtime turn.
+Art: Yeah.
+Jack: So a lot of the primary push of the…it would be the same people.
+Art: Mm-hmm.
+Jack: And so I think we are put in a kind of interesting place when it’s not, when it’s people who come in to play the faction turn.
+Art: Yeah.
+Jack: But I think you're making a really good point, Art, which is sort of what—I can't speak for you—I've come to realize over the last few session is that there are absolutely ways to color it with the Cause. You know, the Cause also has these various abilities that could be used. You can start a scene from the perspective of Cause characters and still work Authority, you know, maneuvers and characters and figures into it. You know, what I described earlier when I said the way that I felt myself being pulled towards the Authority, I'm not saying that that’s the be-all and end-all way of playing the game. I guess I'm just sort of trying to explain how I sort of got to a point in the early part of the faction game where it felt like the downtime turn was the time to make Kesh move.
+Art: Mm-hmm. And I think the rules are designed that way. I think that’s the shiniest thing in the mechanics that we deal with, and it sort of makes sense that that’s true, right? Because if this was one group, you would need those shiny mechanics to make them want to do stuff from that perspective at all. Not every group, of course.
+Jack: Oh, from the Authority perspective?
+Art: Yeah. That like, if it was we’re playing— if we are playing the ground crew and the faction turn, if we were playing this, you know, quote, unquote, rules as written…you know, I don't think anything we’re doing is against the rules, you know?
+Ali: Mm-hmm.
+Art: But, you know, the default way I guess is a better way of saying that. Having that, like, “Oh, isn't it cool— aren't there all these cool things for the Authority factions?” to be like, “Oh yeah, so I should sort of set aside my player character, my ground character ideas, and work at these other faction ideas. That’s what’s gonna make this a more interesting game,” and by separating that, it does kind of, like, we don't have this investment in the same way with the Cause, because we didn't make any of those factions. Those factions sort of, like, were on a sheet when we got there, and then also the shiniest mechanics are on that side.
+Faction Ownership [0:20:39]
+Jack: And I think also I feel a degree of— and, you know, this is something I'd like to talk through and work through as we go forward, because I don't think it’s necessarily true. I feel like y'all have a degree of ownership over Millennium Break.
+Art: Mm, mm-hmm.
+Jack: We’ve talked about this in the past, about, you know, specifically tapping the Blue Channel and trying to avoid doing that, but part— sort of the other side of the coin to this, like, adversarial feeling or the us-versus-them feeling is I feel a kind of hesitancy to pick up your toys, when I don't know that that’s true. You know, like Art said, we’re all pushing the boulder in the same direction, down the hill, [Ali laughs] in Sisyphus’s— towards Sisyphus’s rest.
+Art: Right. The audience, I think, is Sisyphus in this analogy? [Art and Jack laugh]
+Ali: Mm.
+Jack: Yeah. But there’s, you know, I don't want to narrate too hard…this isn't a good reason not to do it.
+Art: No, no, but—
+Jack: But I feel a resistance to narrating too hard as the Cause, because I'm like, you're the Cause.
+Art: Well, and to pick up this a little, there’s the thing we can do where we can, like, tap a faction for an automatic scene win, right? Is that— that’s right? 
+Ali: Mm-hmm. Or, no, there’s— and there’s a lot of— there seemed like there was a lot of misunderstanding about this, because just to address the elephant in the room—we talked about it on a previous episode anyway—there was sort of, like, a bit of a backlash on the last faction turn episode and just the sort of, like, tone of the episodes in general that came to a head, in terms of like, you know, why do you feel like you can't represent the Cause a little bit more? Why are you not, you know, aligning yourself with those goals as well? And I think a lot of people were like, “Oh, why aren't they just tapping a Cause faction to win the scene?” and I don't think that it— it doesn't win you the scene, it’ll win you the roll, and to double tap a Cause faction destroys them, so you end up in this situation where, like, you know, you lose this…you would lose the Cause faction completely and then still end up potentially losing the scene, especially based on the rolls that the Cause has had [laughs] this entire season, which plays into this sort of, like…
+Art: Yeah. I don't feel like I can do that.
+Ali: Uh huh.
+Art: And I understand that the book says I can do it. [Ali laughs]
+Jack: And it—
+Art: But if y'all came from a downtime and was like, “The Cause really cleaned up on the faction turn, won a lot of scenes. Two of the groups are gone.” [Ali laughs] That, to me, would feel worse than, like, yeah, wild— you know, the rolls on that were out of, you know, what you would expect, and so the Authority won scenes they probably mathematically wouldn't have. That it wouldn't feel better to be like, “Yeah, things are happening how you would expect them to. Also, you know, Kalar’s gone now.” 
+Ali: [laughs] Right, yeah, exactly. And then I, you know, I wonder how that would feel in later turns, because it just ends up weakening the Cause overall, because then you end up with— you know, you wouldn't have seven things to tap. You would have four things to tap, and like, going through a single faction turn would continue to be really dangerous. So, yeah. I mean, Armour Astir is such a book with so many rules in it [laughs] that I, you know, I understand that there’s, like, some of these gaps here, especially when the, like, “here’s how you play with two different people— or two different groups” hasn't really been built out in a way.
+Jack: Right.
+Ali: Austin spoke about this a little bit the last time, that like, you know, I understand that there aren't these sort of guardrails built into the rules itself. But yeah, I guess, you know, bringing it back a little bit to sort of dig into this idea of, you know, investment in the Cause [laughs] for what it was. Just to bring us back to, like, pre-production for a little bit, Jack, you spoke of this sort of feeling—or maybe it was Art—of, like, the factions that you both put your time into developing were your Authority factions. Is that fair to say? That like, if you felt like you were building out, like, a playbook or something before the start of the session, it was for Kesh and for Nideo.
+Jack: I think so. Well, hmm. There are some of the Cause factions that really interested me from the start, and those were kind of the ones that I chose, but in terms of developing those, I felt much more like, I'm putting down something that’s going to be interesting, and we’ll sort of see how it develops. But with Kesh, I went into it with much more of a sort of sense of, like, all right, this is the specific kind of feel I want. These are the specific sort of guys I want. I want to see Kesh spycraft kind of unleashed. I want— I knew straightaway— I talked about this on the other Gathering Information. I knew straightaway what was gonna happen— not what was gonna happen. I didn't know what was gonna happen. I knew where I wanted the Stargrave to get to as soon as she went on the board. I knew that she was going to sort of come apart, and I didn't necessarily plan any of the other factions like that or with that level of detail, in part because I wanted to see how they would work in play and with the expectation that since I was gonna be spending more time with the Authority than I might be with the Cause—whether or not that’s true—I wanted to put some more meat on the bones, to be able to go into sessions with maybe a better understanding of what was happening there. I don't know, how did you plan for that, Art?
+Art: Uh, yeah, the thing that I was realizing while you were giving that answer is that we…the wayward factions are much more the other way. You know, the Crown of Glass is something that you did a lot of work on. That’s very much a you group, and then—
+Jack: Well, it’s weird that you say that, because I think of Clem as a you group. [Ali laughs]
+Art: Well, I have control of that faction, but you did the building work here.
+Jack: I think that the ground team did the— the people who played the city planning did the work there.
+Ali: Oh, sure.
+Jack: What I did was I named it the Crown of Glass. Austin said, “What would Clem call…” Austin said, “Oh, Clem is gonna crash the Reflecting Pool [Ali and Jack laugh quietly] into the planet again—RIP to Past again—and is gonna build a city,” and I said, “Oh, what if she calls the city Crown of Glass?” because Clem doesn't know history other than as a series of names and images. But I think that was about [Art: Sure.] as much as I did on Crown of Glass.
+Art: Well, but the— you can't divorce yourself from the Witch in Glass.
+Jack: [sighs] Alas. [all laugh] No.
+Art: And then I guess I'm looking at the Five Afflictions, and like, we didn't do that, but we sure love mucking around in weird horror.
+Ali: Sure.
+Art: But I suppose I can't [Ali: Uh huh.] claim the Five Afflictions.
+Jack: Uh, I did—
+Art: But when are those Tricerataurs gonna show up on the other side?
+Jack: I fucking love those Tricerataurs.
+Art: Or just anywhere? [Ali laughs] I don't think the—
+Jack: Aw man. In the latest episode— oh my god. We are— well, firstly, [Ali laughs] me turning my chair towards the interviewer: mega congratulations. [Art chuckles] I actually want to talk about that a bit in a second. But Austin talked about rescuing some people who had gotten stuck with an Affliction as a possible sortie option, and I have no idea if he means— do you remember those people that got stuck in the maze, Art?
+Art: Mm-hmm.
+Jack: God. I love those guys.
+Ali: Ooh.
+Jack: Who are, like, living out eternal hell in a maze. [Ali laughs]
+Art: Yeah.
+Ali: This is from the last faction game.
+Jack: Yeah, yeah, yeah, yeah.
+Art: Yeah.
+Jack: In, like, the underground tunnels. Man.
+Art: Yeah.
+Jack: I wonder if it’s them.
+Art: But like, I was a little sad when Keith’s new character wasn't an invisible Tricerataur.
+Ali: Wow.
+Jack: Oh my god. I love Eclectic, though. [Ali laughs] Keith’s— the tone—
+Art: I'm not saying I— I don't have anything against what Keith did choose, but I was— but like—
+Jack: Could've been a Tricerataur. I see. 
+Ali: Right, yeah. [Jack laughs]
+Art: Could've been an invisible triceratops. I— mm.
+Ali: Yeah, I understand, yeah.
+Art: And then I think the other, like, Cause faction that of course I feel a very strong connection to is Rose River.
+Jack: Yeah.
+Art: But there’s desire to not turn this game into more of that game, right?
+Ali: Yeah. That is really interesting.
+Jack: Yeah. What do you mean by that?
+Art: Well, not wanting to just do a bunch of Veronique and Fealty stuff, because that’s sort of not what we’re here for.
+Jack: What do you think we are here for? 
+Art: I don't think it’s to rehash Road games. [Jack and Ali laugh]
+Jack: Yeah, okay. Fair enough. But I mean, we've kind of reshaped Rose River a bit, at least stylistically, right? I feel like they were this, like, track and field squad in the Road, and now the’ve become this sort of, like, dreamlike Terrence Malicky abstract painting.
+Art: Yeah. Or I guess more like if we are going to revisit that, it should feel very important and not, “Well, this is what we’re doing this week,” you know? I agree. I think Austin brought this up, maybe not even on microphone, that when we did that scene with Rose River, we should have framed it from the other side.
+Jack: Yeah. This is a big thing that I'm learning.
+Art: Because that is a…but, well, one, I thought it was gonna be just a route. I thought Rose River was gonna win. 
+Ali: Mm-hmm.
+Art: [laughs quietly] And then they didn't.
+Ali: Mm, mm-hmm.
+Art: And so, when they were gonna win, I thought there was— I didn't frame this scene, so I don't have authorship here, but I thought it would've— seeing the divines triumph feels impersonal, and in that way, I didn't want— I didn't think that that was the right call, so I thought when we did it, I was like, “Yes, this is the right way to do this,” and then when they lost, was like, “Well, now it wasn't right.” When the divines— when they lose, it should be…but it’s hard to go like, “Well, that’s how the dice went. [Jack: Yeah.] Let’s roll back this entire sequence and…” [Ali laughs]
+Jack: Yeah.
+Art: “And do it from the other side.” But I want those two characters to feel important, because they’re important to me. That was a great…that was a great game and a great thing that we sort of came into by accident, [Jack: Yeah.] and I don't want to turn into, uh…you know…you know when you see, like, when something like that happens in a sitcom, then that’ll be just the thing they do for the next year, and I want our special stuff to stay special by staying, you know, behind glass in that way, you know, to break in an emergency and not just when we need a…
+Jack: Right, like have Kalar play with the wrong playbook in that duel and then, you know…
+Art: Yeah.
+Jack: I don't know if—
+Art: If we just started doing that every week, [Jack: Yeah.] it would feel less cool.
+Methods [0:33:07]
+Ali: Mm. That is really interesting, because I think that you as a player, Art, do have this sort of, like, sentimentality, I guess? [laughs] Or this, like, you know, you are the person at the table who expresses this sort of desire of, like, “I want the moment to be right for this,” and this question we keep going back to of, like, you know, there’s only so much time in the faction game, so we should put our focus in the right place, where I can say, as, like, a Cause player or a Blue Channel player, like, it doesn't feel like we have that touch over the Cause either, and I think that might be where the sort of audience frustration is coming from, because with both sides of the table being like, “Oh, it isn't our…you know, we’re not the ones who are able to put the camera on the Cause,” means that nobody is, or at least that Austin is trying to and really can only do so much in the time that he has. 
+Whereas, I feel like with the Blue Channel stuff, we either have these situations where it’s like, okay, you're going into a downtime turn. You have all of this healing stuff to do or you have this long term project that you want to do, and either we don't have the time to spend on that resources because we have this whole session of, like, untapping factions, which is a result of the faction turn stuff, or like, you know, me as the captain and me as the player who is really eager to interact with a bunch of NPCs all of the time, like, tries to have Brnine have all of these connections with people in the Cause. Like, you know, there’s Jesset and Gucci, obviously. I'm looking forward to an August Righteousness scene, hopefully soon. Things like that. 
+I don't know that, like, that’s the same for, you know, Janine or for Dre, who are playing these characters who, you know, have some specific relationships with members of the Cause but nothing, like…you know, I don't know that Janine as Thisbe, as somebody who has a character with a relationship with the Twill, feels like, as a player, is somebody who can say, “Okay, this is what the Twill is doing this week,” you know what I mean?
+Art: Mm.
+Ali: So, there’s like an interesting push and pull there, [laughs] but like, neither side is pulling.
+Art: Well, it’s interesting, because I've sort of been taking the characters that you, that Brnine is interacting with especially, [Ali: Mm-hmm.] as characters that I shouldn't interact with at all. Like, I forget where it was, but there was some point where I was like, “You know what? We should be, like, we should be interacting with Gucci.”
+Ali: [quietly] Sure.
+Art: Right? Like, that’s the…that’s someone who should be more involved in the faction game as a higher up person, and then the Brnine/Gucci stuff starts happening a little more in earnest, [Ali laughs] and I'm like, “Well, we can't…we can't play with that toy. That’s Ali’s toy.”
+Ali: Okay. Yeah, that’s not true. [laughs] 
+Jack: Yeah.
+Ali: Maybe that’s revealing some of, like, you know, what might shift in the back of this season, but like, I said this last time to Austin, like, player interest is a thing, so, you know, I don't know that there’s gonna be this huge automatic restructure of the faction game’s turns. I sort of hope not, because I feel like your natural player instincts have sort of driven you to these places, but it does feel like there’s a little bit of miscommunication there, especially like, if I'm a member of the audience and I feel this sort of, like, big tension between the Blue Channel and the Cause at large and Gucci’s sort of, like, hidden information game that she’s playing, I would want to know what she’s doing when the camera isn't on her and Brnine at the same time.
+Jack: Yeah.
+Ali: And like, she can get better developed if, you know, that is, like, a…you know, you're picking up the ball when I throw it, essentially, you know what I mean?
+Jack: Yeah.
+Art: But what if something bad happens? What if we accidentally pop the ball? [Ali laughs] You know? Especially with the way the rolls have been going, and I— one, I'm so upset that I'm now the, like, main Authority division.
+Ali: Really?
+Art: Yeah, I hate it! 
+Ali: Why? [laughs] 
+Jack: Why?
+Art: Because my scenes are gonna go the other way now.
+Ali: Oh, sure, okay. [laughs] You're thinking that this is—
+Jack: Oh, you mean you're gonna beat everything you touch?
+Art: Right, and like, I signed up to play Skeletor, and Skeletor loses at the end.
+Ali: Mm, mm-hmm.
+Art: And I mean, I know we’re also gonna lose at the end, but like, now the scenes take this different tone, and I don't…it’s not what I agreed to, and… [all laugh] 
+Ali: Okay.
+Jack: Ah, god.
+Art: But it’s fine. We’ll survive.
+Ali: Okay.
+Art: Especially this, like, we’re shifting to, like, this more…the Authority is shifting to a more, like, aggressive posture, and I didn't change the type, which is still curator, and that also seems wrong.
+Ali: Mm.
+Art: But with the way the— but this is a diversion, which is the way the rolls have been going, it’s like, well, we put Gucci in this scene, and then Gucci loses four rolls, and it’s like, well, something bad happens, right? And then, like, Ali threw me this ball, [Ali laughs] and I went and just dunked it in a mud puddle and chucked it back.
+Ali: Well…
+Art: That’s why it feels easier to just be like, let’s ruffle feathers over there.
+Ali: Sure. Okay, this…
+Art: You know?
+Ali: Yeah. This is a lot of talk from two people who almost fucking killed Jesset in the last episode. [laughs] 
+Art: But exactly, right? [Ali laughs] Do you know how hard it was not to kill Jesset? The rolls kept going that way, and it’s big stuff! It’s war!
+Ali: Mm-hmm. Mm-hmm. Yeah.
+Jack: Oh god. [Ali laughs] And it’s only gonna get more war.
+Ali: Mm-hmm.
+Art: I mean, or it’s not. I mean…
+Jack: Or it’s not. I don't know. Yeah, I don't know if that’s true, but…
+Art: It’s certainly not gonna get less war.
+Ali: Yeah.
+Art: This level of war is certainly our base level.
+Ali: [sighs] Really? After the big increase on what war can be? [laughs] 
+Jack: Look, that was a unilateral effort [Ali: Mm-hmm.] from a disgraced actor.
+Ali: Mm-hmm.
+Jack: Kesh doesn't stand by that, and in fact…oh, I'm so fucking steamed. [Ali laughs quietly] I mean, it’s…the other thing is, it’s like, I want to put down dominoes that are fun for y'all.
+Ali: Mm-hmm.
+Jack: I want to encourage interesting responses, and…I don't know whether or not it’s true. It feels like it is easier to set up interesting dominoes for you to knock down with the Authority than it is with the Cause. Although, you know, based on what you're saying about, you know, wanting to feel the other side of Gucci’s hidden information game, you know, for a lot of the early part of the season, I had the same question, right? Like, I was like, “Shit, what is going on in Cause HQ?” You know, regarding their feelings about the Blue Channel. And it’s like: my brother in christ, that could be you. [Ali and Jack laugh] You could be discussing this.
+Ali: Yeah. Uh huh.
+Jack: You could be figuring this out.
+Ali: Uh huh.
+Jack: But at the same time, you know, I put Marlon on the board, and then you start messing with Marlon, and then it’s like, all right, well now I have to respond to that. [Ali laughs quietly] What I'm learning it that, you know, there are only so many setups that you can do, in the sense of, like, camera setups, right?
+Ali: Mm-hmm.
+Jack: For both of us, for both sides of the game, we have limited camera setups. But, I think due to a combination of miscommunications and a kind of snowballing effect of mechanics, those setups tend to keep happening in similar places and in similar ways. 
+Ali: Yeah. That does seem fair to say.
+Art: Mm-hmm. [Ali laughs]
+Jack: But, but in the next downtime, I'm gonna spend a turn introducing my new horrible person.
+Ali: This is true. Yeah.
+Jack: Because I have to introduce a new horrible person. [all laugh] 
+Ali: Yeah. You know, for all of the Cause’s, um…ineffectiveness, we did have to get a— [laughs] we did dissolve a faction, sort of.
+Jack: This is another thing about prep, where I will come into every downtime episode with a list of things that might be interesting avenues to explore in my notes app, like the world’s most convoluted notes app apology, but they get blown out of the water almost immediately by— I have— oh, I suppose— the thing that I wrote first going into the last thing was “I think Kesh might be done,” but then I wrote 100 words of more, you know, notes on other stuff or whatever, all of which, you know, are not useful as soon as we decide that Kesh probably are done. 
+Ali: Mm-hmm.
+Jack: Or at least the Bilats, the BIS. But yeah, I definitely come in with prep, it’s just no plan survives contact with Art and Austin.
+Ali: Sure.
+Art: I stand by what we did. [Ali and Art laugh]
+Jack: Oh, I stand by what we did. I feel like we’re making really good show.
+Art: We hyped you up into doing something really dangerous, and then that didn't work, and then we got rid of you. [Ali and Jack laugh]
+Ali: That’s the game.
+Jack: Yeah, it’s a real, like, “Come on, you can make that jump. You can make that jump. Oh! Well. Okay.” [laughter] 
+Art: Yeah. And it’s the same— oh, it’s not exactly the same. But if you, like, sort of think about it, what we’re doing on the faction game side is not that much different than what happened with, um…Mall Kids.
+Chaos [0:44:04]
+Ali: Okay, well, say more.
+Jack: Now, yes. I don't…
+Art: Where you let three of…I guess I don't want to— I don't know if I should count Austin here, but I guess I am. Everyone on this show has a certain amount of chaos potential.
+Ali: Okay.
+Art: I think that you can see this, based on how the games go when different combinations of people are in them.
+Ali: [laughs quietly] Okay. Okay.
+Art: And I think that Jack and I have very high chaos potential.
+Ali: Can we…this is great. I have you both here. I love to dig into your minds. Why don't both of you separately [laughs] list everyone in the cast from least to most chaotic?
+Art: Um…hold on, I need to write that. I can't just, like…
+Ali: Sure. Yeah, yeah, yeah, take your time. Take your time.
+Art: Um…
+Jack: God, it’s great, because I feel like you could present me with a situation, [Ali laughs] and I could take a pretty good stab at how each individual cast member would respond to it, in the broad strokes if not the specifics.
+Ali: Wow. Okay.
+Jack: I don't know if I'd be right, but I would…because someone like Keith is, in theory and sometimes in affect, very chaotic.
+Ali: Uh huh.
+Jack: But Keith has a kind of clockwork precision.
+Ali: Oh, yes.
+Art: Yeah, but Keith has been in every high chaos game. [Ali and Jack laugh] And I don't think you can, like…that’s not a coincidence. 
+Ali: [laughs] Okay.
+Art: And I want to say that this is…these are small variations.
+Ali: Okay. [laughs] 
+Art: But I think, from least to most— oh, this is hard. I don't want to say anyone’s least chaotic. We’re all pretty…
+Ali: Sure.
+Art: I can't settle on a lowest.
+Ali: Right. Yeah.
+Art: Obviously the people in America’s Playground are at the top of the list.
+Ali: [laughs] Okay, yes. Okay.
+Art: That is the most chaotic game I've been a part of. It’s perhaps the most chaotic game I can imagine. I think that game was 16 hours. [Ali laughs] And if you told someone, like, “Take a piece of paper and list only the important plot points from America’s Playground,” I think it would be half a page.
+Jack: And nothing on it would make sense. 
+Art: Yeah.
+Jack: You'd have to hold it at arm’s length like you were trying to read it— you were longsighted.
+Ali: Let me tell you: as part of the production process, I do this, and it was very difficult to do. [laughs] 
+Jack: Oh, yeah, I think I've seen that document. [Jack and Ali laugh] Maybe I've only seen some of the—
+Art: Was there any point where you were like, “This should be— this is 90 minutes. I'm gonna cut out everything that doesn't matter, and this is 90 minutes.” [Ali and Art laugh]
+Jack: The most chaotic— it was probably the— I don't know. I think some of the most chaotic stuff we've done on Friends at the Table was during the Scene Thieves game.
+Ali: Sure.
+Jack: When we started writing the play, [Art: Uh huh.] the play that they were performing, and we were trying to come up with a play with no real prep or playwriting skill. That was pretty chaotic. I also think that the New York City New Years Eve Business Commission was fairly chaotic, because I think you are kind of a stealth high chaos player, Ali.
+Art: Mm-hmm.
+Ali: Okay. All right.
+Jack: I think that, as a producer, you have the kind of precision, but… 
+Ali: [laughs] I feel like I'm a very cautious player most of the time, in a way that is maybe sometimes detrimental, but…
+Jack: This is interesting, this caution, because— and I think I talked about this in the thing with Keith. At first in the faction turn, I was trying to play so carefully or so…hmm. I was trying to build a house of cards when what I needed to do was put a sword on the table, you know?
+Ali: Mm, mm-hmm. 
+Jack: And it became clear that if I was going to build a house of cards, what would happen would be I would put down two cards and then you would just knock them over, and no house would ever build. So I had to stick a sword into the table and go, “All right, what are you gonna do about that, guys?” [Ali and Jack laugh] And I think that that was kind of scary, to go— and not necessarily just “Oh, take a big swing,” because, you know, taking big swings is…it is what it is. But being like, you have to say the thing that you want narratively, rather than sort of sidling up to it and hoping that the players sort of intuit what you might be putting down, because that’s not how it works.
+Ali: Yeah. Yeah. Sorry, I found the document for… [laughs] 
+Jack: Oh my god. 
+Ali: Bluff City Mall Kids, and I'm just gonna link it to both of you, so you can peruse the plot beats of…
+Jack: Oh, I'm so excited to see this. [Ali laughs] So, first, Ali has clipped a thing. Episode 6, runtime: 1 hour and 29 minutes, and she begins editorializing. “Okay, so, Pomp is bringing the horse to the woods.” Period. “Pomp speaks to the horse and successfully convinces the horse to support him.” [laughs] 
+Ali: [laughing] That’s what happened in that scene.
+Art: I don't remember that at all. [Ali laughs] And as I can see, I was in this scene.
+Ali: Uh huh.
+Jack: You begin so calmly. [Ali laughs] “Player characters and their jobs are located at the older, less popular boardwalk, King’s Pier. In the last weekend of summer, the shops are pooling together to hire a hot air balloon and run promotions to make up for lost business.” Now let me skip forward. “Eloise and Sank realize their balloon rope isn't attached to anything and buy a fishing rod and get access to the roof so Eloise can,” question mark? “attach to the balloon and climb in?” question mark, question mark? [Ali laughs] “Pomp plans to bring a—”
+Art: Well, then I very much enjoy the next one. “Pomp plans to bring a horse to the woods as a getaway vehicle. Everyone gets distracted talking about Mister Ed.” [quiet laughter] See, there are some groups that wouldn't— there are some groups that just wouldn't get distracted talking about Mister Ed. [Ali laughs]
+k/ “Sank meets up with two guys planning on robbing the watch truck to encourage them to,” question mark? “be at the scene so they’ll be framed slash distract the cops,” question mark? “The intention here is so lost once the Bat Man and the Robbin thing starts, I'm sorry.” [all laugh] “The PCs get together to to gather a plan to use the hot air balloon and a big rope to rob the watch truck,” brackets, “rob the people who are planning on robbing the watch truck?” question mark. I can tell moments where you, like, seize something that is happening clearly, and you're just like: Oh, this is just— okay, facts. “Eloise and Frank go to Hellman’s Boat Shop [Ali: Mm-hmm.] to discover two twins inventing mayonnaise, desperate to keep it a secret.” Good! A fact! [Ali and Jack laugh] 
+Ali: Okay. What were we talking about? Chaos? 
+Jack: We were talking about chaos.
+Ali: Mm-hmm.
+Jack: Do you think that you're a more chaotic player than me, Art?
+Art: [sucks in breath] Maybe. It’s hard, because all of my highest chaos games I think you've been in, and at that point, it’s hard to say.
+Jack: This might be the Keith problem. It’s hard to tell where the, uh…
+Art: Yeah.
+Jack: Where the chaos comes from.
+Art: I'm looking at some of what I think are the most chaotic games, and…and yeah.
+Ali: And by—
+Art: The only, like, high chaos… [Ali laughs] You know, like, Spoken Magic is a truly chaotic game that we were both in.
+Jack: That’s just you, Austin, Dre, and me?
+Art: No, that's just you, me, and Austin. This is exactly the same as the…
+Ali: Oh.
+Art: I would've sworn Keith was in this game. I clicked on the fatt.wiki page being like, “And what was Keith’s character’s name, again?” and he’s not here. 
+Jack: That’s the one where we—
+Art: Because Keith was in the one with the singing, right? Or was Spoken Magic the singing one?
+Jack: No, I wasn't in the singing one. I still haven't heard that.
+Art: That must be Bell Songs, which was immediately before Spoken Magic [Ali: Oh.] and just live together in my head.
+Ali: Sure. Sure, sure, sure, sure, sure.
+Art: And I say immediately before. They are five and a half months apart. [all laugh] 
+Jack: Well, Friends at the Table timeline, that’s pretty short.
+Ali: Yeah.
+Art: Oh, no, I'm sorry. I'm looking at the wrong dates. No, they’re only about six weeks apart.
+Ali: Okay, perfect.
+Art: But I think that’s a very high chaotic moment. That time that Austin and I got together to record the Grand Magnificent interlude in Twilight Mirage and did 45 minutes on obscure DC Comics lore without even discussing the game. 
+Ali: [laughs] Wait…
+Art: I don't think anyone else did that!
+Ali: So, in your mind, chaotic means the penchant to go off of topic? [laughs] 
+Art: Off of topic slash/comma funny.
+Ali: Okay, sure. Sure, sure, sure. [laughs] 
+Art: Or like, I think we’re very on…well, [laughs] we’re not on topic in the America’s Playground episodes, but we are playing the game the whole time.
+Ali: Mm-hmm, yeah. No one can take that away from you.
+Art: A thing that is also true about Bell Songs and Spoken Magic.
+Jack: We’re not doing a Winnie the Pooh quiz.
+Ali: Mm-hmm.
+Art: Yeah, we’re not— it’s not a Winnie the Pooh quiz. [Ali laughs]
+Jack: Has that been released yet, Ali?
+Ali: No, I think that's gonna be the November Clapcast, so first Friday of November.
+Last Downtime [0:54:23]
+Jack: I'm so…well, okay. I can kind of haul us vaguely back on topic here.
+Ali: Mm-hmm?
+Jack: I was moving house when we recorded that last downtime game, and I…was in full command of my faculties. I knew what was happening, but the one-two punch of, you know, basically the entire house was disassembled and I was getting ready to drive from DC to Ann Arbor, and I had a desk but only just. Like, there was the— I think the last recording I was gonna make before I packed away my computer, and I feel like the one-two punch of immediately being given a Winnie the Pooh quiz and then having my entire season plan…
+Ali: [laughs quietly] Uh huh?
+Jack: Taken away from me.
+Ali: Uh huh?
+Jack: Produced a kind of emotion. 
+Ali: Mm-hmm?
+Jack: Such that when I look back on that game, I feel as though someone else was playing it, [Ali: Mm.] and now I am picking up and going, “Wow! Shit! Okay!” But I feel good about what happened. I mean, here’s the thing, right? Barring mega disaster—which we don't really do, and we would address if we did—I’m generally pretty game for anything on Friends at the Table, so having my lunch eaten was frustrating on some level but on another level was kind of like, “All right, well, guess gotta figure out some new lunch. What’s this gonna look like?” [Ali laughs] This is gonna make great television.
+Art: Sometimes you just gotta figure out a new lunch.
+Ali: Mm-hmm.
+Jack: Yeah. Sometimes you gotta figure out a new lunch.
+Ali: Yeah, it felt like, listening to it, that was a very heavy decision and both one where, like, people were trying to check in with you to make sure that, like, Jack, is this even— [laughs] like, are you even cool with having to, like, develop a whole new faction here on top of, like, what Austin was encouraging and chasing which is, like, chase the shiny ball. This is the idea that we’re most excited by.
+Jack: Yeah.
+Ali: A very chaotic decision to be like, well, now that the idea of doing this has been suggested, I just want to do it to see how the follow through is gonna be. I'm especially curious of, like, what that emotion was like at the time, because, you know, it was a very difficult decision, as we heard.
+Jack: Yeah. It’s…it’s mixed feelings. I mean, the first feeling is excitement, right? When you can feel that something is going to transform in the game in a really major way and the thing that could be standing between that happening is your reluctance to get out of the chair and start moving, as it were.
+Ali: Mm.
+Jack: You know, I sort of feel like, “Oh, I'll feel…” You know, I…I never feel less confident about singing or dancing than the 10 seconds before I start singing or dancing, you know? [Ali laughs quietly] And then as soon as I'm going, I'm like, “All right, okay. Let’s figure this out. Let’s see what’s going on here.” [Ali laughs] So I knew that there would be something interesting once I had, you know, made that decision. It’s also like jumping into a cold pool, you know? It’s not gonna feel good for a second.
+Ali: Mm-hmm.
+Jack: But I also wanted to give some thought to why it wasn't feeling good, because if the answer to “it’s not feeling good” is “well, I want to play with my toys,” [sighs] I can't fault anybody for feeling that way, but I would hope that I would be able to move past that feeling, because they’re not really my toys. They are…you know, they are toys that I have put a significant investment in, but that doesn't mean that they are the be-all and end-all of where the story or even my part of the story is going. There are other interesting— there are always other interesting avenues. 
+But I think what I talked about on the recording was that I would feel sad if it meant the sort of absolute end of the story of this weird folkloric or art-obsessed Kesh spycraft, this, you know, school friend of Crysanth Kesh in this tumble-down castle full of bohemians. It feels like there is interesting stuff there and interesting stuff there especially in the wake of something as massive as the Stargrave going off-piste and all the combustors shutting down. So, you know, any reluctance I would feel would be like, well, I feel like there’s still, you know, gems in that mine that are going undiscovered if we set them aside completely. But you know, talking with Art and Austin and going, “Well, no, no, that’s not necessarily the case,” you know? We can build off that in an interesting way such that they are still, you know, present in the game, albeit in a newer, weirder, less powerful form. 
+But then hearing that, you know, what if we bring in, like, Kesh’s war front? [Ali laughs] And what if we finally get to see Lucia Whitestar, you know, after all these years was immediately exciting to me as well, because, you know, the person I think of whenever I think of Lucia Whitestar is Clem, and I think of Clem as a monumental dangerous failure, and the first thing I thought was, “Oh, well, what if Lucia is a monumental dangerous success?” You know, what if Clem’s sort of pathetic entitled flailing had instead been sharpened into the point of a spear and we get to, you know, interact with that character? That’s very interesting to me. But yeah, it’s hard. It felt like getting into a pool when it’s cold. 
+Ali: Mm-hmm. [laughs quietly] 
+Jack: And then when you're in the pool, you're like, “Watch! Watch! Watch! I'm gonna do a handstand! Look at this!” [Ali laughs]
+Ali: Yeah, it’s funny. I have two reactions to this, which is, you know, that’s what you risk when you risk ending the entire season. [laughs] 
+Jack: Oh, yeah. I absolutely— you know. 
+Ali: [laughs] You would have lost Connadine either way when you were playing with the fire that you were, so take that.
+Jack: Yeah, absolutely. [Ali laughs] No, I'm fine with that. I…I’d have been sad if the planet had blown up. You know, I wanted to scare the shit out of the listeners. I didn't want to scare the shit out of, like, the cast. [Jack and Ali laugh]
+Ali: Yeah, fair. Uh huh. The thing about Lucia is really fun. I'm excited to see where that goes, because I think my favorite quote from that episode is…I can't remember if it’s you, Jack, or Art, but the realization that you have a friend who you only hear bad things about from your friend who sucks. [all laugh] 
+Jack: Yes, that was me. 
+Ali: So, yeah. Let’s… 
+Jack: I've been thinking about this a lot of. Yeah, because my first reaction was like, “Ah, Lucia’s not great, you know? Lucia’s just some entitled… [laughs] Lucia’s just some entitled daughter of a Kesh noble,” and then I thought, “Uh huh? Yeah?” 
+Ali: [laughs] Where have we heard that before? 
+Jack: Where did we get this information from? [Ali laughs] I'm excited, yeah. I'm excited to meet her.
+Going Forward [1:02:30]
+Ali: Yeah. Do you have…I mean, I guess a thing is, like, do the two of you still feel like you have plans for the future, or do you feel like you go into each faction game episode playing so reactionary that you don't really get that opportunity to—like you said before, Jack—like, create a house of cards?
+Jack: That’s a good question.
+Art: Oh, I have no idea. [Ali laughs] It really depends. I mean, and I haven't finished the most recent other side game.
+Jack: Oh, has the thing happened?
+Ali: Okay.
+Art: What’s that?
+Jack: How far through it are you? Has the thing happened? [Ali laughs quietly]
+Art: I'm still listening to the downtime.
+Ali: Right.
+Jack: Oh, they’ve only done the downtime.
+Art: Oh, the downtime’s all there is?
+Ali: Yeah.
+Jack: Yep.
+Art: Oh, then I'm…uh, hold on. What machine was I listening to this on? [Ali laughs quietly] I'm not that far, because I don't know what you're talking about.
+Ali: Okay, fair.
+Jack: Okay. Okay. Okay.
+Ali: Have you heard the interview?
+Art: No.
+Ali: Okay. Oh, okay. Okay. [laughs quietly] 
+Art: We’ve had people visiting. It’s been very tricky.
+Ali: No, no, no. I completely understand. You have a lot on your plate. It’s just, the thing is a very specific thing. [laughs] We will not spoil for you. [Jack chuckles knowingly]
+Art: But it is— it does feel like it’s a little hard to build. I've tried to do a little work by just building myself a giant house of cards before I got there, which is I just came with a lot of characters off the bat and just introduced them all right away, and then I can sort of just push them out, push information out through them [Ali: Mm-hmm.] whenever it occurs to me to do so. That’s nice. [Ali laughs quietly]
+Jack: Um…I don't know. I mean, I think, for me, I have to start planning differently. I have to start planning with this new Kesh faction. I know Austin has some thoughts about the Paint Shop that I should check in with and learn, see if that informs things, but…I don't know. I think, as it stands right now…I want to show up and hit Palisade as hard as I can, you know? [laughs quietly] I feel like that’s sort of the most. [Ali laughs] Although, I don't know. Having listened to this downtime, I don't know.
+Ali: Yeah. Sure. [laughs] Sure. Yeah. Well, I guess that’s another question. With some of this audience response to the faction game, I know that Austin has spoken to you a little briefly about some of his takeaways there, but like, after this conversation, do you feel like the style of your play is going to shift with those suggestions or, you know, that you don't want to sort of pull away from the escalation that’s been created? If that makes sense.
+Jack: I think— I can't speak for Art. I think mine probably is, on some level. I'm not going to turn so dramatically, and I don't know that I can turn so dramatically as to…and I don't think that I want to divest utterly from the Authority in that way. You know, I think we’ve made good stuff, and I think we continue to make good stuff, but I think what has been made clear to me, you know, in talking to Austin and in talking to you are these very specific ways that we have been framing the camera without necessarily realizing it. Not in the sense of, “Oh, we need to, you know, give the Cause more W’s,” or “Oh, we need to tone the Authority up or down” or that, so much as I think about that great scene early in the Diadem where Candles Penumbra fights…Margate Lock? One of the Lock and Cross mercenaries.
+Ali: Mm-hmm.
+Jack: And it’s this really great interaction with the mercenaries but viewed from the perspective of the Cause. You know, we begin with Candles Penumbra reading in the library and, like, passing a hand through the dust. We got so much good color and detail there that I think, at least in my own play, has kind of fallen away as I have felt like I have had to focus more on the Authority. So I think, going forward, I would like to try and, you know, just move the camera to the left or right by a few degrees and try and bring out more of that, have more of a sense of how the Cause is operating and how they might be tools in my palette rather than tools on the other side of the table that I can kind of gesture at.
+Ali: Mm-hmm. Yeah. Art, do you have any input here, or…?
+Art: Um… [Ali laughs quietly] It’s tricky, because there’s a lot of things that I think about the nature of creating things that I don't think is, like, particularly productive to say in this exact context.
+Ali: Okay.
+Art: But maybe it is.
+Ali: Yeah.
+Art: Which is that, like, people are very bad at knowing what they want.
+Ali: Sure.
+Art: And so, like, the fact that people are like…that a percentage of the audience is grumbling about the faction game does not make me want to change the content of the faction game.
+Ali: Sure.
+Art: I think that the work we're doing is leading to really good work. I think that the stellar combustor arc was really good and wouldn't have happened without the faction game being played the way it was. I do think that there…that the specific notes about, like, framing more scenes from the Cause perspective, that’s a good thought.
+Jack: Yeah. That’s really useful to me.
+Art: And bringing that into the idea, I think, is very helpful. But like…you know, you see it all the time in all sorts of things where people say that they want something a certain way, the thing is changed to be that way, and then they don't like it.
+Ali: Mm-hmm.
+Art: This happens in the entertainment industry all the time, and I think that part of being a creative person is knowing when you think you are correct in these circumstances, and I don't think that everything about the faction game is going perfectly, but I think that, all in all, I like what’s happening because of them, and…I had another point here. Oh, and like, you look at— you know, we were making Twilight Mirage. There was, I think, an equally loud percentage of our fanbase that was just hating it. [Ali and Jack laugh] And it was miserable, because I was much more connected with what the fanbase thought about things then.
+Ali: Mm-hmm.
+Art: You know, we were— we had an official Discord then, and we were on it, and so, you know, we were really looking at the people every week being like, “Ugh, this sucks.” [Ali laughs quietly] And I didn't feel like it sucked!
+Ali: Right.
+Art: And, you know, history has really borne us out here. Now people really like Twilight Mirage, and I think that perhaps something similar is going to happen here too. I think people who are grumbly about the faction game are going to have a reawakening about it maybe. [Ali laughs]
+Ali: Fair enough. I support you sticking to your guns in that way. [laughs] Now let me be the adversary by saying: ignore the haters.
+Jack: Mm.
+Art: Yeah.
+Jack: When you say the adversary, you mean Perennial.
+Ali: Yeah, uh huh.
+Jack: Not the Authority. 
+Ali: [laughs] Yeah, uh huh.
+Jack: The devil in the heart of the galaxy.
+Ali: [sighs] Boy. Oh, Perennial. What wacky thing are you gonna get up to next?
+Jack: I don't know. [Ali laughs]
+Twilight Mirage [1:11:08]
+Ali: The introduction of thinking about Twilight Mirage is interesting here, because, you know, there is this sort of way of thinking about the faction game as sort of you guys being brought into the GM side a little bit, and I've been curious and I've been really happy with some of the ways that Austin has used Twilight Mirage as, like, a palette of paints that he can, you know, apply to Palisade in the way that he has. Is that something that’s, like, been on your mind as well, in terms of, like, let’s use the universe?
+Jack: Uh…yes and no. I feel a real temptation to draw on the Mirage a lot, because I think the Mirage is a really…it’s a place I like, and I think it’s a deeply odd place, even within, you know, sort of Friends at the Table. [Ali and Jack laugh quietly]
+Ali: Mm-hmm.
+Jack: It’s strange. I still find it kind of peculiar and unusual, and I feel a real temptation to pull that into play, but part of me is like, this is a story about this planet. This is a story about the people on this planet, and the Mirage— I'm very happy for the Mirage to be in it and move around it, but I am so wary of feeling the impulse in myself to just cram a bunch of stuff from another season in because I like it or because I think it’s interesting. You know, I feel that impulse, and I'm always so excited when it shows up, but I know that if I go to take an inch, I might take a mile, as it were.
+Ali: Mm-hmm.
+Jack: And I think, for me, I would be more interested in developing the places and the people and the stories on Palisade, and it might be that they overlap with the stories of the Mirage, but you know, I don't know what’s going on in there, in the Mirage. [Ali and Jack laugh]
+Ali: Who could know? I certainly don't.
+Jack: Agh.
+Art: I don't— this is another one of my impulses that this comes across, which is that I don't always like calling things back. I think that things should be let to lie.
+Ali: Mm-hmm.
+Jack: Yeah.
+Art: And that, like, bringing more stuff back isn't interesting— isn't not interesting, but isn't always interesting to me. And then there's the more, like, boring half of these answers is like, well, those are Austin’s toys. I can't play with those. 
+Ali: [laughs] Sure.
+Art: And that’s, of course, not how Austin feels about it, but there’s a little bit of, like, you know, I don't want my idea to, like, harm an idea that Austin has. Which, again, is not how Austin thinks about ideas, [Jack: No.] the show, or making things. 
+Ali: Mm-hmm. [laughs] 
+Jack: We have known that for years.
+Art: But is how I feel.
+Jack: And yet. Yeah, exactly. I feel very similarly sometimes, where it’s like, I know exactly where Austin stands on that. We've had that conversation lots of times, and we've worked— you know, we have picked up the shared toys over and over again, and yet, there is still this kind of— I don't know, do you feel the same way at all, Ali? When you get to almost pick up GM tools or GM toys?
+Ali: Um, yeah, a little bit. There’s always that, like, little…the like, I feel like I need permission to move a thing in a certain way or…you know, it’s not that I ever feel like I can't bring ideas to Austin, but it still feels like ideas should be filtered through Austin so they’re not contradictory to something that he has planned or not a mischaracterization in some way, you know, even in the spaces where I should have that ownership or I can have that ownership.
+Jack: Yeah. But then I hear Austin’s voice really clearly in my head saying, like, “Well, you know, if it contradicts, we'll figure out the ways that it contradicts,” or, you know.
+Ali: Uh huh. Yeah. But I, you know, this question of what to return back to, I am curious how you feel about the little bit we’ve seen of Grand Magnificent so far.
+Jack: Mm.
+Ali: Because that’s your guy.
+Art: That is my guy. Um, it’s great. Love…love a shoutout. [Ali laughs quietly] What is this but a shoutout [Ali: Uh huh.] to the most horrible thing I've ever created? It’s nice the way it is, right? It’s not very direct.
+Ali: Mm-hmm.
+Art: It’s, you know, obscured in that way. No one’s like, “Art, get on mic. Do 10 minutes of Grand Magnificent.”
+Ali: Sure.
+Art: Which I think in my current mental state would just cause me to have a meltdown, I think. [Jack laughs]
+Ali: Oh no! [laughs] 
+Art: No, no, it’s fine. I'm just like, the parts of myself that are Grand Magnificent are, like, creeping into my head lately, you know?
+Ali: Mm.
+Art: I don't know if it’s, like, Seasonal Affective Disorder or what, but every since, like, mid September, I've been like, “I should ruin my whole life.” And… [Ali and Jack laugh]
+Ali: Let me—
+Art: And that’s the same…that part of the character is from me.
+Ali: Right.
+Art: And so, if I had to, like, draw on that right now, I'd be like, “Yes!”
+Ali: Mm-hmm.
+Art: “And I should delete all my friends’ phone numbers.” [Ali laughs] But just to, like, as a reference, I think that’s great. I think the importance of the character to the setting is nice to have called back. Yeah. [Ali laughs quietly] And I don't need to quit my job and sell my car, you know? Those are all things that I can… 
+Ali: You really don't.
+Art: Yeah. [Ali laughs] But like, there’s less sun than there used to be, and maybe I should just… [Art and Ali laugh] blow up everything and see what happens. 
+Ali: Mm-hmm. Yeah.
+Jack: Does this happen every year?
+Art: No. [Ali laughs quietly] And I've never been, like, diagnosed with Seasonal Affective Disorder or anything. It just feels like, some years…some years, you should just blow up everything, right? That’s…
+Ali: Yeah. Yes, yes, absolutely. This is…
+Jack: Ellia Elcessor, sitting at her desk: “Some years you should just blow up everything.” [Ali and Art laugh]
+Ali: Yeah, I definitely very much understand this, because Brnine is a “I should blow up my whole life” character all of the time.
+Art: Yeah.
+Jack: Except they do. 
+Ali: [laughs] Yeah, uh huh. Uh huh. We’re gonna see if I need a third identity. 
+Jack: Running out of vowels. [Ali laughs]
+Art: Don't listen to them. You can always come up with more vowels. [Jack and Ali laugh]
+COUNTER/Weight Prequel [1:18:35]
+Ali: Okay. We’re getting close to the end here, but because I have, the last two episodes, sort of used this as an opportunity to, as a producer, sort of tilt people’s minds in the direction to think about a project that we have to be willing to do soon, and this question of like, “Oh, if I had to do Grand today, I wouldn't be able to.” How are you guys feeling about doing the COUNTER/Weight prequel?
+Jack: God.
+Art: Oh, great. That’s, like, the other half of my brain. That’s the part of my brain that wants to put my— [Ali laughs] to assemble more life.
+Ali: Okay.
+Art: No, it’s very hard. A COUNTER/Weight prequel in particular is very hard, because Cassander is very much a character that I found along the way.
+Ali: Mm-hmm.
+Art: And so, to go back is like, well, do I start at the beginning? Do I…
+Ali: Oh.
+Art: Do I just play…do I play it like it’s the end? Do I try to, like, seed the change? And I don't know what’s right, and I probably won't be happy with what I do.
+Ali: No! [laughs quietly] 
+Art: That’s— don't worry about it. [all laugh] That’s part of my— that’s part of my process is doing something and hating it.
+Ali: Okay. [laughs] 
+Art: And then eventually liking it.
+Ali: Yeah.
+Art: It’s the same thing like, and actually, it’s a very…it’s a weird process, because eventually I don't like it again.
+Ali: Mm, mm-hmm. Mm-hmm.
+Art: It’s…I make it: I hate it. It’s a little while ago: it’s great. It’s even further ago: who is that child?
+Jack: Yeah. [Ali laughs]
+Art: You know, it’s…and so there’s the—
+Jack: It’s not so much a bell curve as Big Thunder Mountain.
+Ali: Mm, mm-hmm.
+Art: Yeah, uh huh. Yeah. Everything I've just recorded is terrible. Everything I recorded a couple years ago is great.
+Ali: Okay.
+Art: And everything from the first few years of the show is just awful. And I know it’s not true, because I call on a lot of that stuff pretty often. [Ali laughs quietly] But there’s, like, I know that when we hang up, I'm gonna wait 20 minutes, send Austin a message, and be like, “Was that terrible?”
+Ali: Mm-hmm. [laughs] 
+Art: “Should we just rerecord the whole thing? [Ali laughs] How about just I redo my part?”
+Ali: Mm, mm-hmm. [laughs] 
+Art: But yeah, it’s so— Cassander’s a hard character in that way, but I'm sure that whatever I pick will actually be fine while I think it’s bad.
+Jack: I think I feel very similarly. I…I am more excited to see the Chime than I am to see Audy, which sounds a little sad I suppose, because I love that little weirdo. But the world and the characters, that is what is pulling me back, rather than, oh, you've gotta figure out how to play Audy again. Because it’s been so long since we’ve played those characters.
+Ali: Mm-hmm.
+Jack: And I think we are different…? I don't know. I don't know. I'm different. I feel like I have gotten better in some ways, and I've maybe gotten worse in other ways or changed in other ways, and I guess I'm gonna figure that out. I will say I am so excited to do COUNTER/Weight music.
+Ali: [gasps] Oh!
+Jack: I am…I couldn't be more thrilled, because if I have a degree of sort of uncertainty about playing Audy, I really don't feel that way about the music. I'm just going to…I am so excited to return to that sound and return to that space, and I'm not gonna do a full soundtrack, because that’s exhausting, but I really want to do something to sort of come back to it with. Which is gonna be great, because the thing that’s fucked up is I have all the instruments still, like all the patches and synthesizers and stills. Like, I…all I need to do is actually press the keys, which is…. [Ali and Jack laugh]
+Art: Wow, is that all it is? Is that just…?
+Jack: Yeah, that’s the…that’s the difficult bit. How are you feeling about going back, Ali?
+Ali: I am very sentimental about it. When I was speaking to it about— with Austin and then with Jack and Janine— or not Jack and Janine, Keith and Janine.
+Jack: I'm Jack. 
+Ali: [laughs] You're Jack. In the last two episodes, it was sort of this question of, like, which would I rather return to, Hieron or COUNTER/Weight, and now it looks like it’s gonna be COUNTER/Weight. That decision’s made for me, which is really good. So, I was more eager to go with COUNTER/Weight than Hieron, because I feel like Hieron has…is sort of a messier thing, because it has to be after, whereas with the Chime situation, it’s like, you know, thinking of a time before COUNTER/Weight is so much easier than thinking that you're breaking the seal at the end of a thing, especially when Hieron had such a definitive ending as a season and also for Hella as a character. But I'm also just like, “Ooh, that’s gonna be hard to do! What’s Aria like?” [laughs] It’s like…
+Jack: Aria was such a slam dunk.
+Art: Yeah. 
+Ali: Aw.
+Art: It’s unfair that you get to return to such a [Jack: Yeah.] clear character the whole way through.
+Jack: And by unfair, I mean you put in hours and hours of work nearly a decade ago. [Ali laughs]
+Art: Yeah, it’s unfair that you did good work nine years— eight years ago or whatever, and now I have to— [laughs] I have to suffer for my own bad choices. [Ali laughs quietly]
+Jack: I don't know that it’s bad choices on my end, so— I mean, maybe it is bad choices, but you ever…you ever sit down midway through a— you ever walk away midway through a task and then come back to it and go, “What the fuck was I doing? How do these pieces fit together? What’s—? [Ali laughs] What the fuck’s happening here?” And I don't know. I don't— maybe it’s not as clear to you as it is to me on the outside, Ali, but like, I look at a character like Aria, and I'm like, “All right, there’s a whole— I can see where this character is.” [Ali and Jack laugh] I look at Audy, and I'm like, “Legs…police vest…” 
+Ali: [laughs] Yeah, it’s funny, because I…I was speaking about this with Austin, where Aria felt like the first character that I really had that, like, I was the person sitting down at the table with, like, the backstory already written out, which, you know, can be a con as much as it is a pro, but you know, for Aria, it sort of worked, because she’s also just like a really straightforward archetype? Like, you can think of a popstar and how she might work in that space in a way where that’s, like, a little…a little harder with Audy, because like, robots exist in those places. Like, you know, fallen nobles obviously exist in those places and have those archetypes, but like, take a little bit more work? I guess I'm saying I feel like Aria’s cheating a little bit, [laughs] and that’s why she’s really good.
+Jack: I don't think you're giving yourself enough credit. [Ali laughs] We’ll see. I'm excited. I'm really excited.
+Ali: Mm-hmm.
+Jack: It’s gonna be fun.
+Art: Oh, while we’re talking about things that are still upcoming, I just want to say that it is not my fault that the Hadrian notes apology hasn't happened yet.
+Ali: Wow. Calling Jack out live on microphone?
+Jack: Whose fault is it?
+Art: Well, I'm not calling out Jack so much as whoever decided that these two things had to be the same thing. I don't understand why the notes apology couldn't just have been its own thing, but this, like, this has to be part of Jack’s music whatever that is.
+Ali: It doesn't have to. I think we were just, like—
+Art: It does. [Ali and Jack laugh] I've been like— I've talked to Austin and been like, “I'm ready to do this,” and he’s been like, “Well, it’s gotta go with Jack’s thing.”
+Ali: Wow. Okay, I did not— well, Jack, okay.
+Jack: So, now you are— now you are putting me on blast, and now you've joined in. [Ali laughs]
+Art: No, this is a— I think you'll find this is really about Austin. [Jack and Ali laugh]
+Ali: Yeah.
+Jack: I just— I need a few days to get that together. All that music is written, and I'm not touching it. [Jack and Ali laugh] I'm not gonna edit it. God. I'll talk about it on the stream, but there was a cue that I wrote and cut because I thought it was too, like, precious. It was a cue for Ben and Blue J that I think is one of the prettiest things I have ever written, and I was absolutely wrong to cut it. [Ali laughs sympathetically] 
+Art: Oh, I thought you meant you— “and I was absolutely wrong. It stinks.” [Ali and Art laugh]
+Jack: No, it was, like, too neat. It was, like— at the time, I thought it was very twee, but now that I listen to it, I'm like, “That fucking ripped, and that should've been its own track,” and…
+Art: Well, you might have a chance to use it in the return to Hieron.
+Jack: I've been thinking about that, yeah. [laughs] 
+Ali: Uh huh? [laughs] 
+Art: I didn't mean to spoil it, I just…
+Jack: No, no, no. It’s a distinct possibility. 
+Creative Process [1:28:10]
+Ali: So, Jack, we got Art’s timeline of when he thinks that his work is good. [laughs quietly] 
+Jack: Oh, yeah.
+Ali: What would you say yours is?
+Art: I'm sorry for people who’ve tuned into this and and it’s just been, like, a weird tour of my mental illnesses. [Ali laughs] I didn't mean that when I got here.
+Jack: Isn't this what behind-the-scenes stuff is? [Ali and Art laugh] It’s either that or John Carpenter saying, “You can see the reflection of the boom mic in that. [Art laughs] It’s really shoddy filmmaking.” Let’s see. My suspicion is that it’s probably— it’s similar to yours, Art, but with a very slight difference. So it’s I'm making it, and it’s just happening.
+Art: Ah.
+Jack: When the radio is on, I'm expending so much effort trying to stay on the bicycle that I'm not thinking about whether or not, you know… [all laugh] It’s sort of like, “Aah! Am I upright?!” So that’s at the time. Then, after finishing it, I'm either like, “I am a golden god,” or I'm like, [laughs quietly] “That was— you know, it was what it was.” Usually the latter. Then, after a bit, it usually gets good, and I'm like, “Oh, that was pretty sick.” And then, it’s so far— and then is a little bit where it’s like, “A baby made this. Those are, [Art: Yeah.] you know, bad decisions.” And then I am so far away from the person who made it that it might as well be somebody else at that point, [laughs quietly] and I'm—
+Ali: Mm.
+Art: Oh, but that part rules. [Ali laughs]
+Jack: Oh, well, I suppose that part rules, but like, then I'm like, I can see the reflection of the boom mic in the thing, but I'm like, “I didn't put it there,” [Jack and Ali laugh] even though I absolutely did.
+Art: [laughing] Yeah, that’s someone else’s problem. I wonder who that’s about.
+Jack: Yeah, so it’s low, and then there’s a little bell curve in the middle where I'm like, “The work’s pretty good.” With music, I’m…I’m pretty— eh, I don't know. With the music, the stuff that I think is good, I generally feel pretty consistent about from the moment that I'm done, and the stuff that I don't like sticks out like a sore thumb, and I'm sort of like, “Well, you know, that’s…”
+Ali: Mm.
+Jack: I think— and I don't know if you both feel the same way. I think if I expected myself to make the best work that I could make all the time, my overall quality of work would drop.
+Ali: Mm.
+Jack: I think that sometimes you need to throw a few balls before you throw a strike. I wish that I lived in the world where I could throw strikes the whole time, but I don't think I'm that person.
+Art: I think sometimes you also need to throw balls because they’ll hit the strikes, and then you're doing bad.
+Jack: Oh, in this situation, I am both the hitter and the pitcher. [Ali laughs]
+Art: Oh.
+Ali: Difficult.
+Art: That’d be pretty nice, because then you know it’s coming. 
+Ali: Oh.
+Jack: Yeah, that’s true. Uh, no, I close my eyes during one of the important bits.
+Art: You close your eyes when you're deciding how to grip the ball. [all laugh] 
+Jack: Yes. What’s your curve like, Ali, for feeling of happiness with your own work?
+Ali: Oh, sure. I think that I might have said this in the prior episode, but I can go over it again, which is that I will record an episode and, like you, do not think about it, just try to do the best that I can while I'm there. And then immediately after recording, I will be like, “That sucked. [laughs] I could have said everything differently.” You know, just rethinking—
+Jack: “I could have said everything differently” is the big one.
+Ali: That like, oh, you know, what if I— you know, what if I had this better idea at the time? And then, I'll be like, “Oh, I don't want to listen to this. I don't want to edit it,” and then I'll have to go back and listen to it again, and I'll think to myself, “This is fine.” [Ali and Jack laugh] Or I'll think, “This is pretty good,” and then, you know, I think through the whole process of the edit of it, and, you know, all the work that goes into that. And then, you know, it’ll be good for that time, I think. Unless, during that editing process, there’s, like, something specifically that I'm still nervous about. I think the combustor arc was one of those things where I, you know, there was such an audience tension that had been developed that there was this big fear that, like, the stakes that we had set up hadn't been properly responded to?
+Jack: Right.
+Ali: Because the responsibility on that really fell on me and Keith, and there were all of these, you know, ways to think, like: they didn't prepare enough. They didn't take this seriously enough. You know, this would have been better if the other player characters were in it. Austin was too nice on them. Austin was too hard on them. Austin shouldn't have given them those chance— you know, things like that, where I was just like, there’s so many opinions that people already have about this thing that, like, I don't know what we did would, like, satisfy all of them? But, you know, it was fine in the end, and people liked it, and it was a very cool season moment, and, you know, the cards are all still dropping on [laughs] some of the stuff that happened there that, like, would I do it differently if I had the opportunity to? I don't know that I would.
+Jack: Yeah. Because that’s actual play. You know… [sighs] Maybe if we were making a TV show, but… [Ali laughs quietly] But I think there is a real, you know, we’re making this thing live. Do you ever feel the temptation to do pickups for yourself when you're editing?
+Ali: Um, yeah. I have— I don't— I haven't done one in a while, actually. I feel like I did…I did one or two for Aria, and, you know, I have the luxury of being able to cut myself, [laughs] you know, so like, if I stumble around a thing or I don't like an idea that I said, I'm the one who can take it out of the show. But I try not to…I try to apply all of that stuff as evenly as I can, because, you know, I want it to be fair, and I also have to be fair to myself in that way.
+Jack: Right.
+Ali: Because, I mean, I can judge everything I do more harshly than I do what anybody else does, but…
+Art: God, the fucking Seinfeld episode it would be if I was editing this show. [Ali and Jack laugh] The fucking George Costanza edits the actual play podcast. It would, like, start with just, like, little things like you're saying, but I wouldn't be able to stop. I would just be like… [Ali laughs] I'd be, like, fixing punchlines and shit. I would just be like— I would never— everything I say would have to be, like— it would end up with, like, it being autotuned. [Jack and Ali laugh] I wouldn't be able to stop.
+Jack: You’d invent a new cast member that we wouldn't know anything about, because we don't listen to the finals. 
+Art: Yeah, and I would just be like—
+Jack: We’d listen to it one day and just be like, “Who’s Marsha?” [Ali laughs]
+Art: A new cast member who only sets up really astute punchlines and observations from me. [all laugh] It would be the worst thing in the world! Oh my god! I'm only sad that Seinfeld didn't run for 30 years, so they can't do an episode like this. [Ali and Jack laugh]
+Ali: Oh, yeah. We need the Seinfeld episode on podcasting. [laughs] 
+Art: Yeah.
+Jack: Oh, it would be so good! I mean, I'm sure people on Twitter have basically done it.
+Ali: Uh huh. Yeah.
+Art: Yeah.
+Jack: If you combine all the tweets. You just search… [Art and Ali laugh]
+Art: If you combine all the tweets.
+Ali: Yeah.
+Jack: If you combine all the tweets, Jerry, it’s… [Ali laughs] Ah.
+Art: [imitating] “Combine all the tweets, Jerry!” That’s a little too much.
+Jack: “A whole episode right there!” 
+Ali: [laughs] Fantastic. Cool. Well, on that note, I think that this has been an episode of Gathering Information, [laughs] unless either of you have any more…anything you want to speak on, anything that you want to share, any final words.
+Art: I think once you write the Seinfeld episode about the thing you're doing, you have to stop.
+Jack: Or you just have to make Seinfeld, right? At that point. 
+Art: [imitates theme song]
+Ali: Are you speaking generally or is this in response to something that Jerry Seinfeld himself has done? [laughs quietly] 
+Jack: [pause] We don't know.
+Art: All right. 
+Jack: Art.
+Ali: [laughs] Art, that was a question for you.
+Art: Oh. Well, Jack is the one who said that.
+Ali: Wait. No, you just said—
+Jack: No, no, no. If you are making a Seinfeld episode about the thing you do, you have to stop.
+Ali: Uh huh.
+Art: Yeah.
+Jack: And Ali said, “Are you speaking about [Art: Oh.] something Jerry Seinfeld has done or just generally?”
+Art: No, just generally.
+Ali: Okay.
+Art: Just…
+Ali: Okay.
+Art: That like, if you're talking about something, and you're like, “Well, this is what it’d be like if it was an episode of Seinfeld.” You know, once I'm at like, “This is how George Costanza would deal with this situation I've dealt with in my life,” I don't think this is interesting anymore. I think I've ruined it. [Art and Ali laugh]
+Ali: Okay. Yeah. Do not follow the George Costanza in your mind is what you're saying?
+Art: I think we all have to ignore the George Costanza in our minds. 
+Ali: [laughs] Yes. Yes. “I’m become, I'm become, I'm becoming…”
+Art: Because that’s what makes that work. I mean, I know, again, that’s not what we’re talking about, but George Costanza works because we all have a George Costanza in our minds.
+Ali: No, yes. Yes, yes, yes. Yeah, uh huh, mm-hmm. Uh huh, mm-hmm. Well, before I start making a bunch of Chris Jericho references, I'm gonna let you both go. This has been our October 2023 episode of Gathering Information, and thank you both for joining me.

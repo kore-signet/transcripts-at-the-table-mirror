@@ -1,0 +1,1726 @@
+﻿Gathering Information 05: Developers Blog
+Transcriber: Daneran
+Introduction        1
+[PALISADE – 00:04:13]        6
+[00:15:00]        18
+[00:30:00]        33
+[REALIS – 00:43:07]        45
+[00:45:05]        47
+[Grandpa’s Farm – 00:53:13]        53
+[01:00:00]        61
+[01:15:06]        78
+[On Faction Turns – 01:17:52]        82
+[01:30:09]        94
+[01:45:01]        106
+[02:00:00]        118
+Introduction
+Ali: Hello and welcome to Gathering Information, a behind the scenes look at setting the table for Friends at the Table. I'm Alicia Acampora, this is your… August two hundr… [chuckles] Two hundred!
+[Austin chuckles]
+Ali: [laughing] 2023!
+Austin: Uh-huh!
+Ali: Episode of this podcast. Um, and as you can hear I am joined by Austin Walker. 
+Austin: [overlapping] Hello! 
+Ali: [overlapping] Hello, Austin Walker!
+Austin: It's… Ali, it's September. [overlapping] Are we just back on one? We’re busy.
+Ali: [overlapping] I know it's September. I also did a funny thing where… [chuckles]
+Austin: Uh-huh.
+Ali: Everybody's gonna hear this and listen to this. So I did a thing…
+Austin: Mm-hm!
+Ali: When I posted… When I posted… August… What's before August? July.
+Austin: July.
+Ali: When I posted July's episode I was like: “listen, this next arc is going to be [chuckles] what this next Arc is!”
+[Austin sighs compassionately]
+Ali: So rather than, like, try to find a thing between, [Austin: Right.] next month's episode is probably gonna be a little late.
+Austin: [overlapping] Right, right, right.
+Ali: [overlapping] And then I recorded an episode with Keith and Janine, like, yesterday.
+Austin: Oh! Okay.
+Ali: And for some reason I said that one was September [half-chuckling] and then even in that episode I said out loud “still haven’t recorded August, [chuckles] but let's go!” [chuckles]
+Austin: But then so then is that true? Is that one for September?
+Ali: I don't… Does it matter anymore? I don’t know.
+Austin: Ehh, well, as long as they're both recorded, no!
+[Ali laughs]
+Austin: Which one's going up first?
+Ali: Well, this one has to go up first, too, technically, I guess.
+Austin: Oh, Okay. So then this one is August. [overlapping] And that one is September. Yeah. It worked out!
+Ali: [overlapping, chuckles] So this one is August. Exactly. Yes. I'm just letting you…
+Austin: [overlapping] I'm in on it now. I appreciate it.
+Ali: [overlapping] …Making you aware of it.
+Austin: [overlapping] Yeah. Yea-yea-yeah.
+Ali: Yeah, you're joining me and the audience in knowing what’s going on. [laughs]
+Austin: Listen, sometimes…! I appreciate this, ‘cause sometimes something changes that I don't know about! For instance — this one is one that will clarify something for some listeners. Um. Someone asked me, like, on a Discord or on, like, Cohost or something about who — or I responded to something on Twitter maybe, I don't know. About who heard the message from… This is, we're talking about PALISADE. I'm talking about PALISADE. PALISADE 20 spoilers. Let's say 20, 21, somewhere in there. “Who heard the message from the Stargrave… from Stargrave Elcessor” and I was like: “oh, only Millennium Break, only Hexagon heard that message.” And that's because that's how it was written in Jack's original version of the speech that I heard. And then Jack did a pickup, because they didn't like something that they said.
+Ali: [overlapping] Ohhh…!
+Austin: [overlapping] And in that pickup they changed it.
+[Ali laughs]
+Austin: So that everybody heard that — so that it went out to everybody, and not just to Hexagon. And it was specifically the thing of they changed it so they said Millennium Break instead of saying Hexagon, and changed it from it went to Hexagon's leadership and then it was passed around internally inside Hexagon, to being broadcast and put on Millennium Break.
+Ali: Ohhh…!
+Austin: And so I just didn't know that! I went into that whole arc thinking the only people who know about this thing… I mean, everybody looks up at the sun and sees it glowing red.
+Ali: [overlapping] Right. Yeah, but not who… yeah.
+Austin: [overlapping] And is like: “ah, fuck! I guess something's happening!” But I made that whole arc as a GM without knowing that the public had heard Millennium Break namedropped and blamed for it in that… Or that that message had gone out. You know?
+Ali: [overlapping] Right.
+Austin: [overlapping] That that the Stargrave had said to people, not just to Hexagon: “Give us your…” You know, “Millennium Break, [mumbles]” So. Sometimes stuff changes internally. And you just don't know.
+[Ali laughs]
+Austin: You know?
+Ali: You know what? That's a really… Something like that would not get past us that easily. [overlapping] Is what I will say. Yeah.
+Austin: [overlapping] Not normally! Yes.
+[Ali laughs]
+Austin: I think this is…
+Ali: I feel like this is maybe the first time something like this would happen.
+Austin: You know, maybe it's because we have all been traveling like mad this summer.
+Ali: Maybe it has! Maybe it has.
+Austin: We've been all over the place. It has been…
+Ali: [laughs] We've been…! [overlapping] We’ve been to another Galaxy, man! Like!
+Austin: [overlapping] I’ve been on six, seven, eight planes. Yeah! True.
+[Ali laughs]
+Austin: Ali did I tell you I have to… I have to travel again [chuckles] for work this month, now?
+Ali: Nooo…!
+Austin: This month… Next month. I know. I'm not happy about it.
+Ali: [overlapping] It’s okay. We'll be fine.
+Austin: [overlapping] It's fine. It's fine. Yeah. Mm-hm.
+Ali: It’s all fine. Anyway! Well…
+Austin: Hi!
+Ali: Hi! [laughs] So the… This is great.
+[Austin chuckles]
+Ali: Because I wanted this episode to just be, like, a developer’s blog.
+Austin: Hm! Uh-huh!
+Ali: We're just going to talk about what we've been working on.
+Austin: Hm.
+Ali: And, you know, just what's on the horizon. [overlapping, chuckling] And what, you know —
+Austin: [overlapping] Yeah, sure! It’s like when a…
+Ali: [overlapping] … sort of, is maybe happening behind the scenes.
+Austin: Like, when like a game company is like: “Today we released a hotfix. But in the next three months you're going to see a number of patches from us about how we're fixing the game.” [overlapping] Or whatever. “But, like, none of that's out today.”
+Ali: [overlapping, awed] Ohhh…! Immediate, a little bit like that.
+[Ali laughs]
+Austin: “But it will be!”
+Ali: A little bit. Yeah. Well, I just feel, like, you know…
+[PALISADE – 00:04:13]
+Ali: As far as where our priorities have been and then also just talking through, like, high-level stuff about being… a third to half [bursts out laughing] of the way through!
+Austin: Can you repeat what Keith said to you? Is that spoiling a thing in Keith’s…
+Ali: [laughing] It is spoiling a thing! [laughs] 
+Austin: Keith says something wild in [overlapping] next month’s already recorded… [chuckles] 
+Ali: [overlapping] Keith says something…
+Austin: …Gathering Information.
+Ali: I just… [overlapping] Okay. Let’s…
+Austin: [overlapping] Let's not spoil it. Let people… People will hear it themselves.
+Ali: [overlapping] Wouldn’t it be funnier to spoil it and then people have that whole episode [laughs] to listen to?!?
+Austin: [overlapping] It might be. To wait, until… until he says it?
+Ali: Keith said to me.
+Austin: Mm-hm.
+Ali: That he felt like [Austin: Yeah.] PALISADE 25…[Austin: Mm-hm.] was the last episode of the Road To PALISADE. [laughs]
+Austin: Not in a like “it's similar to the last episode…”
+[Ali laughs]
+Austin: In the sense that “the Road is finally over.” “The real PALISADE begins here.”
+Ali: Right. “We've started the season of PALISADE.” Which, you know what, I could see that from both angles, maybe.
+Austin: Uh-huh.
+Ali: I don't know. Um. [chuckles] I… [laughs]
+Austin: I mean! So there, was there a… Did he say more than that? Did he argue in defense of this?
+Ali: He expanded on it a little bit because, obviously, me and Janine are [chuckles] willing to push back on what Keith says.
+Austin: Yes. Yes.
+Ali: And I… Me and Keith… And we go into that a little bit…
+Austin: Okay.
+Ali: … in that episode. And we've gone into it in previous… in Friends at the Table.
+Austin: Yeah.
+Ali: [chuckling] Of, like, me and Keith have different narrative anxieties.
+Austin: Mmm!
+Ali: I guess is what I would say. Um. But yeah. That was a very funny note, and…
+Austin: Wait, what are your narrative anxieties? Are they… Do I know these? [Ali laughs] I probably. Probably couldn't list them. But I, like…
+Ali: Sure. Well, I… I don't feel this… I never felt the same sort of, like… You know, there's no actual progress from — 
+Austin: Right. We're not getting closer to winning. 
+Ali: [overlapping] Right.
+Austin: [overlapping] The Pillars aren't being fallen. Because for you the show… I listened to this episode of Gathering Information.
+Ali: [overlapping] Oh, yeah. Sure. [chuckles]
+Austin: [overlapping] So that's all, I'm quoting you back to you I guess, right?
+Ali: [overlapping] Right, yeah.
+Austin: [overlapping] Which was, like, for Keith it's, like, Pillars… “the Pillars haven't fallen, we're not winning.” It's not that we're not winning, it's that the season's going to go until all the Pillars fall. And then for you it's like: “the season's going to go until it ends.” And that doesn't mean all the Pillars are gonna fall.
+Ali: Right. Yeah. Exactly. Or even just the thing of, like, “because we haven't fallen one Pillar [Austin: Right.] means that the cause in general hasn't made any gains.”
+Austin: Mm-hm. Right.
+Ali: Which I feel, like, is a very big [chuckles] simplification of some of those. But I can see how, like, a lot of those things either felt like they happened off screen [Austin: Right.] or were only sort of, like, cursory… [Austin: Yeah.] like, setups for the missions that we were doing and then we were doing these missions that sort of felt like… not completely successful?
+Austin: Sure. Sure.
+Ali: So I… Anyway. I get it. [bursts out laughing] 
+Austin: Mm-hm.
+Ali: So. Anyway! That is, yeah. I guess, since we're starting with PALISADE. How are… How do you feel like? [chuckles]
+Austin: I mean, the funny thing is I get what Keith means by this.
+Ali: Uh-huh.
+Austin: To some degree. Which is, like… I mean, there's two things. One is all season… The final episode of the Road to PALISADE has that intro that starts with the host being like: “and of course we had to go to Palisade itself for the final episode.” And all season I've been, like, why the fuck did we have to go to Palisade itself? What's going on on Palisade that's going to actually be big enough that a future podcast in the Twilight Mirage will be about that? You know?
+Ali: Mm-hm. Mm-hm.
+Austin: And the answer…
+Ali: Wait! Wait, hold on! Wait.
+Austin: Uh-huh.
+Ali: Okay, wait. Wai-wai-wait. [chuckles]
+Austin: Yes. What's up.
+Ali: [half-chuckling] What were you gonna do…
+Austin: Yeah.
+Ali: … if the season ended? [chuckles]
+Austin: Yeah. With Twilight Mirage blowing up?
+Ali: [half-chuckling] But there was a Twilight Mirage media that exists in the future!
+Austin: Uh-huh! I have a reas… I actually do have an answer for this. [Ali: Okay.] But I can't tell you what it is, ‘cause we haven't gone down this route yet.
+Ali: Okay, sure. [overlapping] Su-su-su-sure. Anyway.
+Austin: [overlapping] I… Here's what I'll say! The answer is in that episode already.
+Ali: Okay.
+Austin: You just have to know what you're listening for. [Ali chuckles] Um. And in… [clears his throat] And also I'll say this: I may never give the key to unlock what I just said. [Ali: Right.] Because I don't know if the story will ever get there. I would like it to. But I don't… It's… Truly, the players build the road. And there is stuff that has never come out about previous seasons or previous worldbuilding things that I've done… and some of them I'm forgetting now, because it was seven years ago. You know what I mean?
+[Ali chuckles]
+Austin: There's, like, stuff about Hieron that's just gone in my brain. [Ali: Uh-huh.] That is forever going to be an empty gap. This is one I'll probably… [chuckles] I'll remember for longer because it's very key to how I think about some primary characters and some major worldbuilding history things in the kind of Divine Principality era. But! I do have an answer for that. And it's weird.
+Ali: Okay.
+Austin: And it's, like… And I hope we get to where it becomes clear. But we'll see.
+Ali: Okay!
+Austin: But! Good question! Uh-huh!
+[Ali laughs]
+Austin: But. And the other half of that is: “hey, this is big enough to be…” That podcast was about the end of the Perfect Millennium — the final days of the Perfect Millennium.
+Ali: Mm-hm.
+Austin: This was a big enough event that you can imagine where it would fit into quote-unquote “the end of the Perfect Millennium.” I don't know what the end of the Perfect Millennium looks like, yet! [chuckles]
+Ali: [overlapping] Mmm.
+Austin: [overlapping, chuckles] You know? There's a lot of ways for that thing to come to a close, and I don't know what follows it. But taking all of the Stellar Combustors offline is big enough to justify doing your history podcast, closing the season on the PALISADE episode. You know what I mean?
+Ali: [overlapping] Right, yeah.
+Austin: [overlapping] So it kind of answered that question for me. And in that way it's sort of, like, “okay, now we've… I've closed the book on the final Road to PALISADE question”…
+[Ali chuckles]
+Austin: … and that's about as far as I can take it with the stuff, with Keith saying that it's…
+[Ali chuckles]
+Austin: Because! Because I think we've had a really good…! I'm on the other side of it. If I have to say something is… If I have a feeling around it, it's… I had the similar feeling to when we did the Kingdom game — I think it's the Kingdom game in COUNTER/Weight — where I finished it, we finished it and I was like: “oh, we should end the season!” [chuckles]
+Ali: [overlapping] Oh, yeah!
+Austin: [overlapping] “I don't know how to do more here!”
+Ali: Uh-huh!
+Austin: “I think we peaked! We peaked! We can't go further! We need a break. We need to treat it like Hieron and break it up into multiple seasons and bla-bla-bla-blah!” Finishing 25 was like: “Oh, is that the end of the season?” Like, not for the reason people thought it would be! [laughs]
+[Ali laughs]
+Austin: Which would have been very funny. And, frankly, I think if we were further along in Sangfielle 2 prep, it could have been. You know what I mean? If I… If we were, like, ready to go on Sangfielle, we could have theoretically been like: “and that's gonna be our… that's gonna be PALISADE. We'll come back later.” But I think that there's still a lot of story to tell on Palisade itself and with these characters.
+Ali: [overlapping] I think…
+Austin: [overlapping] Um. I'm really excited about where Brnine is, I'm really excited about where everybody who's on that other moon is, you know?
+Ali: [laughs] Right! I do have to say if at the end of… PALISADE 25 it was like: “okay, now you're going to be Brnine. And you're going to be in this political prison, this Apostolosian ship… [chuckles] And that's it, [chuckling] see you next year!”
+Austin: “See you next year!”
+Ali: I would have… I would have been upset a little bit.
+Austin: Uh-huh. Fair.
+Ali: I would… [laughs]
+Austin: But think about the end of, like, a season of a TV show.
+Ali: Right.
+Austin: That's a banging end of [overlapping] a TV show season! You know what I mean? That's the sort of, like…
+Ali: [overlapping, growling] I know! I know, I know. I know, I know, I know. This is…
+Austin: And partly it sets up… We haven't recorded next, right? [overlapping] We don't know what comes after the Faction Game!
+Ali: [overlapping] We sure haven’t!
+Austin: Is that next week?
+Austin: When are we recording?
+Ali: Monday. We're recording that on Monday.
+Austin: Okay. [mumbling] I should prep tomorrow.
+[Ali laughs]
+Austin: Um… Because, like, I don't know how long you're gonna be in prison. I…
+Ali: You know what?
+Austin: Are… Is that the next mission? Is that something that wraps up in the downtime? I don't know. Uh…
+Ali: I don't even know what it's going to be like in there! I don't know what's going to happen, I don't know what I'm going to get into…!
+Austin: That I have more ideas on. [overlapping] That I actually have some feelings…
+Ali: [overlapping] Okay. But I don't. [chuckles] Which is important!
+Austin: No. Correct. I understand. Yes. Yes. Yes.
+Ali: Um. Yeah. I… It's an interesting thing ‘cause it feels like for all of the characters we've… there's been, like, a story beat.
+Austin: Yes. Yep! Mm-hm…
+Ali: Right? Like, we've had this big transformation with Cori; we've had this big transformation with Figure; RIP Branched Man…
+Austin: Right, right.
+Ali: Brnine is like this fumbling idiot who, like, actually…
+Austin: Did it?
+Ali: … like, punched up? Right? [chuckles]
+Austin: Yeah. Mm-hm. Mm-hm.
+[Ali laughs]
+Austin: Thisbe’s doing magic, and is…
+Ali: Right! [laughs]
+Austin: Learning to like Brnine again.
+Ali: And then, yeah, Thisbe… Also, I feel like the, like… Thisbe being like: “I am not going to do this thing that you're asking me to do” …
+Austin: Yeah…
+Ali: … is, like, that…
+Austin: That’s big.
+Ali: … like, a chapter turn on a character development there — that, like, it could be… it could be that we just… did it? But that would also mean like… doing… really Hieroning it, right?
+Austin: [overlapping] Yea-yea-yeah.
+Ali: [overlapping] Where it was like: “we’re starting the next season, same exact Playbooks, same exact characters.” But…
+Austin: [overlapping] Yes. Yes. Which I don't think is what's going to happen here. I do have plans for… I've already said this before, that there's a third season in this [Ali: Mm-hm.] PARTIZAN–PALISADE arc. I think I know what the game is, too.
+Ali: [overlapping, intrigued] Oohhh…! Okay.
+Austin: [overlapping] Which I won't say out loud. Because who knows, right? I…
+Ali: Right. Yeah.
+Austin: You know, where we'll be in two years or whatever?
+Ali: Mm-hm.
+Austin: But I have an idea for it. It's a neat idea. We're not there in the world state yet. But I think that it's… I think that it's in line with the directions that the world is moving in [Ali: Right.] in some ways? Um, and… [sighs] it's… You're right that to pause now would be to not go… Like, if we stop that season now it's not to pick it up the way I want to, with the third of this series. It would be to just come back to Armour Astir as is. You know?
+Ali: Right. Yeah. Exactly. Whereas, like, with this we can sort of have… [overlapping] We can see the other half of all of these situations that we've set up, instead of. You know. Waiting. [laughs]
+Austin: Yes. Totally. Totally. And the other thing here is, like — You know, to go back to the beginning of PALISADE in some way — I think it's really… I think you said, like, “the first third or the first half.” And I think that's exactly right. Because what we've seen is that the first… In the first third or the first half Kesh is in control of the Bilateral Intercession on Palisade. And now we've moved on to Nideo being the big bad, in some way.
+Ali: Mmm.
+Austin: Which perfect… Which is perfectly timed with, like, Gur talking to Figure now. With, you know, the move towards all-out war with Crusade. Like, all of that stuff is, I think, a little more… It feels like the page has turned.
+And then my question ends up being like “do we then get a third act where the Frontier Syndicate is the lead one? Do we go to a finale after we do whatever this big arc is?”
+But, like, thinking structurally as a storyteller, what you think… For me, I start to think: “okay. Now we need… You know. We have an intro arc and a setup for the Faction Game. And then we have a kind of running arc about various Kesh and Devotion-type stuff, right? Those are the two big… The kind of northwest of the map in some ways [Ali: Mm-hm.] is, like, the focal point. Where it's the Isle Of The Broken Key, it's Kenneth Marion Colver, it's the introduction of the Iconocl… These are the recurring ideas, right?
+Ali: Yeah.
+Austin: It's the Bi… It's the… Fabreal Duchy, which is Kesh aligned. Like, sort of really Kesh focused. And now it's like: “okay, now I can pivot into some stories that are about Nideo. Oh, hey, we set that up! Nideo's digging on the moon! Consecration is up there!”
+[00:15:00]
+Austin: Like, we start to set up the Nideo chapter of the season. And then finally will we move into a Frontier Syndicate chapter, or will that just slowly pull itself out through the same 20 episodes or 15 episodes of Nideo-focused stuff as the Kesh stu… Which isn't to say Kesh isn't still a factor.
+Ali: [overlapping] Right.
+Austin: [overlapping] Or that if players want to focus down Kesh, that we won't do that. We will. But as like a… As a storyteller it feels like the right thing to do. And then part of this is how the Major-Minor Faction stuff, or Division stuff shook out in the… Faction Game. The Conflict Turn.
+It's like: “okay, Nideo is in the driver's seat now, for a little bit.” And that means we can start going to other places, and dealing with things like the Temple of the Threshold and Gur and stuff like that. So that's kind of… I'm curious if people [chuckles] think… Like, as a storyteller, I think about this stuff constantly, in that structural way.
+Ali: Mm-hm.
+Austin: And then, for me, the thing that ends up being open-ended is what the hell happens inside of that space. If I say: “oh, Nideo is going to be the lens I'm looking through”, then what happens is up in the air! But, I guess it's funny, like, thinking about [sighs] me listening to other actual play shows or even watching TV or reading books: I don't always think of the author — or the authors, or the improv, you know, the performers, whatever — thinking in those terms, in that sort of structural term. But I… It's probably worth signaling to people, like, yeah. That's part of how I think about this stuff sometimes.
+[Ali laughs]
+Austin: It's like… And all the way back to Hieron: “okay, let's do an Ordenna arc now,” you know?
+Ali: [overlapping] Right.
+Austin: [overlapping] Or let's do… Let's zero in on this part of the world for this next little arc, so that we can move, you know, the season to make sure that everything we want to get on screen gets on screen. Or on recording. You know?
+Ali: Yeah. It feels, like the, like, return to Violet Cove felt almost out of… Not like out of character, but, you know, unique for us.
+Austin: Mm-hm.
+Ali: In a show that tends to like to sort of… I mean, we’ll… We sometimes have the hometown [overlapping] or whatever, right? I mean, we have this sense of this space. If you go back to… Yeah.
+Austin: [overlapping] Right. Yes. Yes-yes-yes. Going back to Oxbridge. Going back to… Cruciat in PARTIZAN.
+Ali: [overlapping] Right.
+Austin: The north and the south cities that, like, each side was at, or whatever, right? But…
+Ali: Or even the, like the town in Sangfielle, or… 
+Austin: [overlapping] Right. Su-su-sure. Yes. Yes. 
+Ali: [overlapping] … you know, the…
+Austin: But even Sangfielle, we left it behind [chuckles] for half the season!
+Ali: Right! Yeah. Exactly. And in Sangfielle it was sort of this thing of like: “oh, we're sort of going around the map.”
+Austin: [overlapping] Right. Yes.
+Ali: [overlapping] And it felt, like, this show was also sort of doing that thing of like: “oh, we can kind of just keep… We have a spaceship.” [chuckles]
+Austin: [overlapping] Yeah, yeah. Yeah.
+Ali: [overlapping] “We can just keep bouncing from place to place and have these missions that feel really distinct.”
+Austin: Yeah.
+Ali: And, like, the team decision of like: “no, let's… we had all of these interesting threads in this one place.”
+Austin: [emphatically] Mm-hm.
+Ali: “We can either keep pulling at them or do this other sort of plotline” — was, like… I don't know that that's, like, the decision that we make very often?
+Austin: [emphatically] Mm-hm.
+Ali: And also, I guess I feel like sometimes that isn't… Not that the decision isn't, like, a choice that characters can make — because as a GM you're always like: “let me know if you want to do something else!”
+Austin: Sure, sure.
+Ali: [half-chuckling] We're not always letting you know. [laughs] You know what I mean?
+[Austin chuckles]
+Ali: We're very happy to be like: “okay Austin, what are we doing this week?”
+Austin: Uh-huh!
+Ali: [chuckling] And I feel like that was one of the few times where we were like: [overlapping] “no! Let’s…”
+Austin: [overlapping] Love it. Yeah. “Let's go do this thing.”
+Ali: [overlapping] “Let’s go do this thing.” Yeah.
+Austin: Well, and I think one of the things that was interesting is just, like, the structure of this season — single party plus Conflict Turn — means we still get to bring the camera other weird places.
+Ali: Mm-hm.
+Austin: We still get to go hunt invisible tricerataurs under the caves of a… casino town? Right? We still get to go have a weird war in the jungle outside of where Fealty and… Veronique are. Like, we still get to go do weird… We have a boat chase in one of those early Faction Turns. So it's like, I'm still getting the joy of seeing the camera move other places, and so I didn't feel any sort of way about going back to Violet Cove. It didn't feel like we… It didn't feel like I had to put my toys away. Do you know what I mean?
+Ali: [overlapping] Right. [laughs]
+Austin: [overlapping] Where it’s like “but I brought out the whatever playset…!” Which I don't normally feel anyway but, like… Because, literally, that's what happened, right? Like, we didn't get to go to Baseline because of that. 
+Ali: [overlapping] Hmm.
+Austin: [overlapping] Right? I had prepped this whole thing about Baseline. You know… God, I haven't even looked at this stuff in a minute, right?
+[Ali laughs]
+Austin: But, like, if I pull up my Baseline [Ali: Yeah.] notes. Originally, I have all this stuff about like: “City City and Baseline, the brainchildren of Silverbrick, [overlapping] a Columnar visionary architect…”
+Ali: [quietly, overlapping] This… the way that you just go into this place… [laughs]
+Austin: Oh, this is a different — City City — 
+Ali: [laughing] Okay!
+Austin: This is not the same one! This is my actual just prep. Like, “Silverbrick got their start designing vehicles and sees the world as one big test track and sees society as a vehicle that can be divided into five key factors, and tuned thusly: 
+“The Chassis, the fundamental skeleton on which the rest hangs (road workers, electricians, plumbers, truckers, data cleaners, etc.), out of sight out of mind;
+“The Engine, those who make society move (accountants and artists, haberdashers and zookeepers, receptionists, doctors and inventors of medical technology, too…)”
+And so on and so forth, describing society as if it's a car. And that's like: I had Baseline built out around that idea. Around that, like… this ridiculous ideology. And, like, you know, you were gonna go there. Like, I'm looking at my prep for this: Ce Gul and Broadleaf infiltrated during a call for subject citizens last year!
+Ali: [quietly] Yeah…
+Austin: There's growing resentment there! You can get Grip on these different things! You have to win over the different groups in the city! Te-de-de-de-deh!
+[Ali laughs]
+Austin: And like: “nope! Just…” And I'm happy to have thrown it away because we got somewhere way-way cooler [overlapping] in going back to…
+Ali: [overlapping] Right.
+Austin: … the Isle of the Broken Key.
+Ali: Mm-hm.
+Austin: And all of the… Why am I blank… Violet Cove stuff. Right? But… The thing is I got to have my cake and eat it, too, because every time we do a Conflict Tur,n we're pulling the camera into weird new places. And that is… you know, I think… that might have been the following Conflict Turn was when we got the big scene of getting who Hexagon is. You know, like, them figuring it out — on the conference room table, or whatever. And that was so fun! You know? So…
+Ali: Yeah…
+Austin: Yeah. It's been good! I've been enjoying the season. And it's been, like, fairly… [chuckles] — I know after this arc it sounds silly to say this, but — it's been fairly stress-free! [chuckles]
+[Ali laughs]
+Austin: Um. 
+Ali: [overlapping] Yeah…! 
+Austin: [overlapping] After Sangfielle being so high-stress.
+Ali: Yeah. It feels like — I don't want to say… Yeah. I don't want to say that this has been stress-free. [laughs]
+Austin: [overlapping] Aha. No, not at all. Of course. Of course.
+Ali: [overlapping] ‘Cause it has been not. Um. You know, there was a lot of, like… You know, anxiety about those decisions.
+Austin: Yes.
+Ali: Tensions about making those decisions, initially. Um…
+Austin: And tensions that rose from a sort of player versus player…
+[Ali chuckles]
+Austin: … alignment.
+Ali: Yeah.
+Austin: Which, you know… I don't… Did you leave that bit in [chuckles] in the last episode? [chuckles] Did I say that, yet? Is that in… did that come out?
+Ali: [overlapping] Which were…?
+Austin: [overlapping] Where I say to Jack in Art where I'm like: [with slight exaggeration] “also, I know that we've kind of moved towards…”
+Ali: [laughs, overlapping] Oh, yes! Uh-huh.
+Austin: [overlapping] “... where we feel like, um… we are opposed to the party. And I want us to get away from that.” Etc.
+Ali: The reminder that like: “oh, we're playing the Cause, too!” [laughs]
+Austin: Yes. A hundred percent!
+Ali: It was on audio.
+Austin: Good.
+Ali: Because I feel like those decisions are so important. And I guess that's, like, also a weird thing about… I guess maybe there's something that I see about PALISADE… on my end. Because, like, the pacing of the show changed once we started doing it so much — that, like, somebody can look at like: “oh, we — 25 episodes in and we haven't really gotten that far?”
+Austin: [overlapping] Right, right.
+Ali: [overlapping] Whereas, I'm like: “Every arc is eight episodes.”
+Austin: Right. [overlapping] Totally.
+Ali: [overlapping] Like, these are these eight episodes little segments of these, like, little micro…
+Austin: [overlapping] Right. Because it's a Adventure, it's the Conflict Turn and then it's Downtime.
+Ali: Mm-hm.
+Austin: And that's eight episodes.
+Ali: Right.
+Austin: So, like, we're only three in, effectively.
+Ali: [chuckles] Uh-huh!
+Austin: Right?
+Ali: And it's, like, you know, you introduce all of the characters. You introduce the setting.
+Austin: Yeah. Yeah…
+Ali: You know. You do this. And then we did our one mission. And then we had, like, this one mission that was significant enough that, like, we went to go do it. And, like, all of this stuff makes sense. [laughs] But, like, I… You know. It is three months, actually! But the idea that, like… You know, the way that I think of those Faction Turn episodes, especially, is like: it ends up being an hour — a full episode of y'all just…
+[Austin chuckles]
+Ali: Like, thinking about your own reactions to the last… [overlapping] arc.
+Austin: [overlapping] Yeah… Yeah.
+Ali: Just in general. [laughs]
+Austin: Yeah. It's, like, it's almost, like, this. [overlapping] But on the main feed.
+Ali: [laughs, overlapping] Mm-hm! Basically! And then… Well, because, like, it's not… You know, it's just — it is a lot of just like: “let's talk this through.”
+Austin: Yeah.
+Ali: But I do think that, like… You know there are… decisions that have to be made before you can do your Turns proper.
+Austin: Yeah.
+Ali: And in editing sense it doesn't really make sense to… I guess in some episodes I've done, like: “here's that big conversation and then one turn, and then here's the other two turns after the fact.”
+Austin: [overlapping] Right.
+Ali: [overlapping] But, like, the thought of what this podcast would sound like if I edited those big, like…
+[Austin chuckles affirmatively]
+Ali: … “how are we playing this? How do we want to play this? How do we really feel?”
+Austin: Yeah.
+Ali: “What do we think is the best option? Here's a couple of options. Let's sort of grind them down.” Like, if I cut that into 10 minutes or whatever, [chuckles] and made each Faction Game…
+Austin: [overlapping] Yeah… One episode… Yeah.
+Ali: [overlapping] … one episode, it just doesn't feel like it would be true to…
+Austin: Mm-hm.
+Ali: … the way that we're actually playing?
+Austin: And honestly, we might get to a one… one Faction Game coming up could be one episode because it isn't as big of a reaction — do you know what I mean?
+Ali: [chuckling] Uh-huh!
+Austin: But I don't know… It's not a promise of saying [overlapping] that we’re gonna aim to do that even.
+Ali: [overlapping] Right. Yeah.
+Austin: But it's like: if there's a downbeat and the next arc is fairly straightforward and I don't make a big reveal of something — you know what I mean? Like…
+Ali: Mm-hm.
+Austin: There's a world where that could happen.
+[Ali chuckles quietly]
+Austin: But it's not the… I'm not worried about it not happening. And it feels good to not be worried about that. Because, in contrast, the Faction Games back in COUNTER/Weight, we pushed as much as we could into them, because it was all making moves on a map. Basically. [overlapping] Um, and…
+Ali: [overlapping] Right. Yeah.
+Austin: And that just, like… It just kept going and kept going and kept going — I was like: “I don't want to split into two episodes. This isn't interesting enough for two episodes,” basically. Um. Not that it wasn't interesting stuff! Because it was just, like… the style of play was not conducive to big… We weren't having the same style of big structural conversation about what to do.
+Ali: Mm-hm.
+Austin: And partly that's because the player character factions weren't aligned in the same way. You know?
+Ali: [chuckles] Right!
+Austin: And partly because we were new at it, in general. And I think that we're much more comfortable having those types of conversations in a way that I think is interesting now. So.
+Ali: Mm-hm. Right. Yeah. And it feels like… the thing that we wanted it to be… It's funny, one of the — and Twilight Mirage became so much not this — but one of the very early goals for Twilight Mirage, I remember, was this feeling of like, when we were gonna have these very two distinct groups.
+Austin: Mm-hm.
+Ali: They were gonna either be, like, two separate player groups that were, like, antagonistic to each other.
+Austin: Yeah. Yeah.
+Ali: And we would have this sense of, like, you could see where they were moving at the map. And you could see where they would almost touch. And we would have these missions where, like, one group would, like, burn out a forest, [overlapping] the other person would be in the forest.
+Austin: [overlapping] Right.
+Ali: But not that! [overlapping] But you know what I mean.
+Austin: [overlapping] Yeah. But I know what you mean! Yeah. Totally.
+[Ali laughs]
+Austin: Totally.
+Ali: And…
+Austin: And we even wanted that with PARTIZAN! To some degree! [overlapping] At the beginning. And we even framed it that way a little bit.
+Ali: [overlapping] Right! Yeah. I guess so! Yeah… But then it ended up being, like, the PARTIZAN stories were so, like, sort of closed in on themselves.
+Austin: Yeah.
+Ali: And that's… What ended up being the thing with Twilight Mirage, too. Where it was just like…
+Austin: [overlapping, quietly] I mean…
+Ali: [overlapping] “Oh, you know, it's hard to make these two things touch…”
+Austin: [overlapping] Yes! Yes.
+Ali: [overlapping] Where it feels like… You know, it really feels like the Faction Game, and the player parties are, like, on the same table where they can feel the vibrations of each other?
+Austin: Yeah…!
+Ali: Like, we can't get, like… [laughs] Spoilers for next month's episode of Gathering Information, I guess. But I'm finally going to bring Jack and Art on. And I, like…
+Austin: Mm…
+Ali: … really want to know how Jack feels about some of the… [laughs]
+Austin: Yeah. [overlapping] I’m curious!
+Ali: [overlapping] The disturbance that we've put to their plans.
+Austin: Yes.
+Ali: Um.
+Austin: I… Yeah. I'm… You know, it's… What's fun to me is… [sighs] I messaged Jack yesterday and I was like: “Oh, I figured something out to pitch you about Connadine.” And… You know, I think I probably messaged that same thing to Jack six months ago. Five months ago. Or whatever. Closer to, like, episode 4, after that first Conflict Turn. And the difference is now I'm talking about Connadine for next season — [overlapping] assuming that he makes it that far, right?
+Ali: [overlapping] Ohhh…! [laughs]
+Austin: Whereas before I was like: “oh, let's talk about Connadine’s plans for this season.” But Connadine losing this — is like when a wrestler loses the Intercontinental Belt…
+[Ali chuckles]
+Austin: … because they're about to start fighting for the World Heavyweight title. Do you know what I mean?
+Ali: [overlapping, quietly] Yeah…
+Austin: [overlapping] It's like: “Oh, yeah! Connadine leveled up here, actually!” Connadine lost. But, like, losing in this way and having your dream of putting everybody On Cycle broken is the best way that you could become a main character and not just a second tier antagonist. You know? In the same way that, like, Arbitrage barely got any screentime for two seasons and then is— and still doesn't get a lot of screen time! — but is, like, clearly moving in the background now…
+Ali: [overlapping] Mm-hm.
+Austin: [overlapping] … in a way that's, like “oh shit!” Like, “this is a character who matters now!”
+[Ali laughs]
+Austin: There is a… There is something about… Or like, Lucia coming back. Right? The name Lucia Whitestar coming back suddenly is, like, “What? Huh?” Which is exciting.
+Ali: Oh my god. Yeah…
+Austin: And I think Connadine has the potential to be one of those — not that Connadine is leaving Palisade as a character yet, right? But… is taking a backseat, and to me that's so that he can come back in the future. And… With a vengeance. And make some interesting moves. You know? Very excited for Jack to continue with… building wherever Connadine goes next. You know?
+Ali: Yeah. I'm very much looking forward to that. I also… I remember before we… started the Combustor arc in earnest… [Austin: Mm-hm.] I messaged Jack to be, like — or I might have put this in the regular chat — to be like: “I really want Elcessor to live as a person in this universe.” [chuckles]
+Austin: Mm-hm.
+Ali: After we do this successfully — which is my motivation for [laughs] for this arc. I want her to have to be a person who knows that this happened to her.
+Austin: [overlapping] Yeah…!
+Ali: [overlapping] Who had this experience of her life of being sent to this planet and slowly losing her mind and then being free of the…
+Austin: Uh-huh!
+Ali: … thing that drove her to madness.
+Austin: To absolute madness. Yea-yea-yeah.
+Ali: ‘Cause, you know, why not? Let's… You know. [laughs]
+Austin: Uh-huh!
+Ali: [laughing] Who could… Who could say? And who knows if we'll ever know.
+Austin: Right!
+Ali: But, like… just the… I'm rarely the player who, like, zooms out this way because I prefer the camera to be very interpersonal but just knowing that she is, like, a Sim walking in the world somewhere… [laughs]
+Austin: [chuckles, sighs]
+Ali: … it's just, like… Yeah. That's good for me. That’s, I can plan for that.
+[00:30:00]
+Austin: [overlapping] Needs unmet. Uh-huh.
+Ali: [overlapping] Yeah. Uh-huh. She's on my… Miitopia or, like, whatever. [laughs]
+Austin: Yeah. Uh-huh, uh-huh. Yeah. Yea-yea-yeah. You have her, like, marked as a favorite character [overlapping] to just check in on. Yeah.
+Ali: [overlapping] Uh-huh. Yeah. Yeah.
+Austin: Yeah, I'm curious. We'll see. We'll see where things go. I mean, it's been… I'm… It's rare that I'm like… You know how much making a thing… You know how I am and how I struggle with the stuff that we make and stuff that I make and how the second it's out I often turn on it. [chuckles]
+Ali: Mm-hm.
+Austin: That is a big part of my long-term creative arc is, like, and then eventually it wins me back like Twilight Mirage did. Right? It was like, we put out Twilight Mirage and, like, we suffered making that fucking show.
+[Ali chuckles]
+Austin: And spent most of it feeling like it was coming up short and feeling, like… You know! We've talked about this before, right? That, like, Twilight Mirage was one of the hardest seasons we ever made.
+Ali: Mm-hm.
+Austin: Was filled with episodes that were really hard to make. Like, the other day I was reading… And it was, I think, also, it catalyzed a lot of negative reactions at the time for… you know — some of which were really-really strong critiques and some of which were, like, bad faith readings and impatience from folks — and at the time that really soured us on the process of making it and also on the process of engaging on a week-to-week basis with people about the show, because it's like… When you're making a five episode arc and people in the first episode are saying that you've made something that's, like, pro-fascist, right? You're like: “Bro!”
+Ali: Uh-huh! [chuckles]
+Austin: “I really need you to hear the whole arc!” And like: “I can't…!” You know? Um…
+[Ali laughs]
+Austin: But! The… And as such we left Twilight Mirage and I think we were all like: “we're happy with the final… There's stuff at the end of it that we’re really positive on.” But like, “wow, I'm never going to open this box again!” [laughs]
+Ali: [overlapping] Uh-huh.
+Austin: [overlapping, chuckling] Right? I'm never going to go near it again! I don't want to smell it. You know what I mean?
+Ali: [overlapping] Right.
+Austin: It's, like, when you… When I was, you know, 18? I got way too drunk on coconut rum once…
+Ali: I know this about you. Yeah.
+Austin: … and couldn't smell coconut for, like, 10 years without gagging. And that's what Twilight Mirage was like.
+[Ali chuckles]
+Austin: But the other day, because I was referencing something in the intro for the Faction Game, I looked up something from “godspeed, glory,” the three-part arc before we do the big system switch, before the mid-season finale of Twilight Mirage.
+Ali: Okay, yeah.
+Austin: I looked up when Fourteen Fifteen was, uh, with the Fisherman in space. The Space Fisherman? Where… [chuckles]
+[Ali chuckles]
+Austin: … y'all end up getting the… World Without End. The spaceship. And I had to look up what the fish were that they were fishing for. [chuckles] ‘Cause I wanted Gur Sevraq to reference them. ‘Cause I knew we had space fish.
+[Ali chuckles]
+Austin: And reading through that stuff, reading through that episode, which is kind of where those two sides of the story start to intersect, right?
+Ali: Mm-hm.
+Austin: I was like: “damn! Twilight Mirage!” You know? [chuckles]
+[Ali bursts out laughing]
+Austin: And… you know. That's stuff where, like, Tender gets on the motorcycle inside of the empty… you know…
+Ali: Oh, yeah…!
+Austin: … level of Anticipation. Like, all that stuff is just, like, so evocative and cool, and higher in memory — you know? — than in the doing. And all this is to say, PALISADE is one of the rare times where I'm like: “damn! Like, this is hittin’!”
+Ali: [laughs, overlapping] You know what…!
+Austin: [overlapping] “We're doing it,” and it's making me happy about PARTIZAN in retrospect. Because it feels like we did a really good job laying the groundwork for something: that if you listen to PARTIZAN and like it you, have all of these cool Lego blocks to play with. You have these Factions! You have these major characters who can come in and off… on and off screen! You have all this stuff that you can play with evocatively that — sometimes more than you even know, right? That, like… One of the big responses I saw to PALISADE 25 was like: “I can't believe they didn't mention Cass from COUNTER/Weight.” [chuckles] And partly that's because we already did… Because Phrygian does what Cass does!
+Ali: Oh, right! Yea-yea-yeah.
+Austin: Right? Which is, like, sun-related and Divine-related in some ways. Right?
+[Ali chuckles]
+Austin: To not spoil too much. And it's like: “Yeah! Damn! Like, I didn't even think about that because we have all these other, you know, relevant resonances that we've set up!” And ‘cause we already made a little Cass callback in… PARTIZAN. But, like, the fact that we have this really… vibrant play space with all of these different resonances to play with, means that we did a really good job setting the stage for further stuff. And that, that I feel really strongly and positively about. So.
+Ali: Mm-hm. Yeah. I think going back to Twilight Mirage is something that I'd like to spend some time talking about. Because, like…
+Austin: Mm. Mm-hm.
+Ali: … there have been very direct references… [chuckles]
+Austin: Oh, yeah!
+Ali: And I… You know, it feels like… I'm interested in where you pull on those, right?
+Austin: Mm-hm.
+Ali: How balanced do you want to be with that. How, like, obvious [chuckles] you want to be…?
+Austin: [overlapping] Yeah… Well…! Right.
+Ali: [laughing, overlapping] … with that, in some cases. ‘Cause it feels like, you know, there's cases where it's, like, the Iconoclasts are here. You know what the Iconoclasts are. Or, you know, we were very upfront about the Signet stuff.
+Austin: [overlapping] Right.
+Ali: [overlapping] But, like, are there things that you're trying to be, like, more subtle about? Are there, like… Okay.
+Austin: [overlapping] Not really! Because… Because, you know, in episode I say go back and listen to the other stuff [chuckles] this season.
+Ali: [laughs, overlapping] Yes! Right.
+Austin: And it's so rare that we… You know. I think we've said this before that, like… We make a fairly… We make a very, a successful podcast, that nevertheless has a fairly niche audience. Right?
+Ali: Mm-hm.
+Austin: I promise you, whatever number is in your head of how many people listen to our show every week, it's smaller than you probably think it is. Um. We are not in that Dimension 20, CritRoll space. [overlapping] Exponentially not. You know.
+Ali: [overlapping] No. No.
+Austin: Um. And that means that there is a… real pressure… And I'm sorry — the thing that actually puts the pressure on it is living under capitalism.
+Ali: [affirmatively] Mm-hm.
+Austin: A pressure to try to bring new people into the show to listen to it and to say: “hey we make a thing that you’ve maybe seen people do great fan art of. Or you've heard good things about it. Maybe you've heard someone on another show shout us out! You know? But you've never been able to get into it: we have this big imposing back-catalog. Where do you start?” And it… There's a real pressure for every season to be the season where we let people get on-board. Right? PARTIZAN 01, Sangfielle 01, we were both like: “this is a good place! Just jump on board!”
+[Ali chuckles]
+Austin: “Please try to listen to us! Please listen to our show!” And this season is the first time since Spring in Hieron where I have not said “this is a good place to jump on the show.”
+Ali: Mm-hm.
+Austin: And… and we said it with Twilight Mirage, too, which turned out to be a fucking lie.
+[Ali bursts out laughing]
+Austin: [chuckling] But, like… But… this season explicitly I went in being like: “this is a season for people who are deep in on The Divine Cycle.” And I think you could listen to it without having heard it…
+Ali: [overlapping] Mm-hm.
+Austin: [overlapping] … and still find characters you love and bla-bla-bla-blah. But being really straight up, like: “we're going to reference this stuff. PALISADE is a bridge between the Twilight Mirage and the Divine principality. I'm going to draw on that stuff.” And so I'm not being very coy, I don't think. I mean, the resonant minnows that I referenced in the Gur Sevraq intro for PALISADE 26, that's a little nod. Right?
+Ali: [overlapping] Right. Yeah. That’s…
+Austin: [overlapping] That's a little hidden thing. Real ones only.
+Ali: [overlapping] That's not the sort of thing that you're pulling out week to week. [laughs]
+Austin: No. Exactly. But, like… Signet gets a name drop, right?
+Ali: Mm-hm.
+Austin: That's a immediate followup on where Janine left Signet at the end of Twilight Mirage. Janine made a really great Cohost post, if people haven't seen it…
+Ali: Mm-hm.
+Austin: … about the…
+Ali: The ext episode is a little bit about that. [overlapping] ‘Cause I brought Signet uo.
+Austin: [overlapping] Amazing. Great. Perfect. So you can go listen to that.
+Ali: [overlapping] I brought Signet on to talk about that! [laughs]
+Austin: Brought Signet on! Yeah! And… This isn't like… And there there have been other little bits here and there, right? You know, Grand Magnificent shows up in the vision that Cori has, [overlapping] we learn that Grand Mag… I mean…
+Ali: [overlapping] Which I think is one of those ones that can slip past you!
+Austin: Yeah. I think so. I put his name in the… [overlapping] in the dossier! Yeah.
+Ali: [overlapping] Oh, in the shownotes?
+Austin: Yea-yea-yeah.
+Ali: [appreciatively] Oh!
+Austin: I put it in the dossier.
+Ali: Okay.
+Austin: And so… But you're right. I did see people not pick that up. Which is fine. But, like, yeah. Grand Magnificent makes Devotion, as a sort of, like, final magnum opus to try to, like, build a different type of Divine that could bring people together. And then the rest of that vision is like: “and then something from the ex… something from The Divine Principality came in to fuck it up.” Right?
+Ali: Right. Yeah, [overlapping] it was tainted badly in some way. Yeah. Um…
+Austin: [overlapping] It was tainted. Yeah. Exactly, exactly. And we're still living with the… So, like, some of those characters are going to come back. I don't know that everybody is. Right? Like… I haven't talked to Dre about it but, like, you think about Even Gardener's ending? With Cascabel? And, like, they're not going to fucking show up!
+[Ali laughs]
+Austin: They opened a diner together and lived happily ever after! I don't need Even to show up and do XYZ. You know what I mean?
+Ali: Right. Yeah, yeah. I… Yeah. I guess… It's interesting that you said that you didn't talk to Dre about this because I wanted to ask you about the conversations that you've had with the cast about… [overlapping] Twilight Mirage, yeah.
+Austin: [overlapping] Just in general. Or… Yeah! I… You know, I think it's funny because I think… in general I will go to people and say: “hey, can I bring such and such a thing in?” or “hey, have you thought about XYZ?”
+Ali: Mm-hm.
+Austin: But I haven't felt like… Janine's the big one, with the Chimeric Cadent.
+Ali: Mm-hm.
+Austin: I messaged you about some Tender stuff fairly… lightly? Because I wasn't committed to it, you know?
+Ali: Yeah. And that was, like, pre-PALISADE prep. [overlapping] That was sort of like… Yeah.
+Austin: [overlapping] Right. Exactly. That was, like, big picture, like: “hey, is this something? I don't know.” And I'm not sure yet if some of that will come in.
+Ali: Mm.
+Austin: Um. But I haven't… Really what it has been is it's… when I know that there is a player who has had some interest in something in Twilight Mirage that didn't get to where it was… where they wanted it to be. Right? So again, you'll listen to Janine talk about this, or go read the Cohost post. But, like, Signet and Belgard were always supposed to be a little more body horror than… [chuckles]
+Ali: [overlapping] Uh-huh. Yeah.
+Austin: … than they got to be. And so here's, like, you know, pushing forward on that a little bit. Um. And I think there's probably a little bit more that's probably worth saying — which is just, like, the way that the Twilight Mirage exists as a Faction right now reflects a lot of how it left off, right, with the… Qui Err Coalition work that players put in during the finale, or whatever.
+Ali: Mm-hm.
+Austin: But I haven't, like, gone back and had one-on-one conversations with people to be like: “now, what's the FATT… Or what's the…” [sighs] What's the FATT thing.
+[Ali chuckles]
+Austin: On the Friends at the Table Wiki to confirm something. But… “What's the Twilight Mirage thing that you really want to see again?” Because I'm not… I don't want peo… I don't want players having to think about Twilight Mirage. I want them to think about their player… their characters and their Factions, [overlapping] and their current interests and then for me to get to sprinkle some Twilight Mirage on.
+Ali: [overlapping] Right. Yeah. Mm-hm. Right! It's not a direct sequel in that way.
+Austin: [overlapping] Right. Right.
+Ali: It's just, like, a setting… It's a setting placement that is very important. [overlapping] And has these, like, very specific things in it.
+Austin: [overlapping] Yes. Yes. Yeah. Exactly.
+Ali: Okay. That is interesting ‘cause I… Okay.
+Austin: But, like, I haven't, like, messaged Sylvi to be like: “Should the Reveries show up?” Because I don't think that that's…
+Ali: Right.
+Austin: I… Which is weird because it's, like… I really, I'm, like, trying to push forward from where all the characters left off, right?
+Ali: Mm-hm.
+Austin: And a lot of those characters left off living safely in the Twilight Mirage!
+[Ali laughs]
+Austin: Right? But, like, Signet left! Tender left! Right? And, like, left with big factions. And big ideas. And big parts of it. Um. You know. Grand became an… an Excerpt. I was right the first time. An Excerpt. That, you know, moves… moved him into a different kind of place societally. Whereas, like, Even, Echo, you know… Obviously not Fourteen Fifteen. Gig. And, like, Gig gets a throwaway mention I think early this season, right? And so maybe some of that will come back! But I'm not — for Even or Echo. But I'm not pressed. You know?
+Ali: Right. Yeah.
+Austin: They had great stories already. The stuff that I'm interested in, like, Fourteen Fifteen is like… You know. [sighs] Stuff that's tied to things like Castlerose. You know? Or, like…
+Ali: Right. Yeah. Exactly.
+Austin: The type of person Fourteen Fifteen was to begin with. There might be something there to play with. But, like… But I'm… Really, it is: who has an open thread. You know?
+Ali: Mm-hm. Yeah. I… It would be… a worse process of doing if we felt like we had a checklist of things…
+Austin: [sighs, overlapping] A hundred percent. Yes, yes. A hundred percent. And s…
+Ali: [overlapping] … that we [laughs] had to include in PALISADE. ‘Cause even to your example, like, there's things that you can prep that just don't show up.
+Austin: [overlapping] Right. A hundred percent.
+Ali: [overlapping] So, like, yeah.
+Austin: Which, like, I didn't think the Chimeric Cadent would! Right? I had her prepped for…
+Ali: Yeah…
+Austin: … them prepped… for the whole season! You know? I started talking about that Chimera's Lantern in episode, like, 3 or something. You know?
+Ali: Hmm…
+Austin: “Oh, it's a weird moon up there! I hope we get there!”
+[Ali laughs]
+Austin: There's no reason we were going to go to the moon! Like, it happened to be that Figure had the perfect arc to get us there, eventually. But, like…
+Ali: Right. Yeah. And the player…
+Austin: Yes!
+Ali: You know… [laughs] priority in that too.
+Austin: Yes.
+Ali: [half-chuckling] ‘Cause, you know what? Let me tell you: there are not a lot of Friends of the Table parties that will rally behind… [chuckles]
+Austin: U-uh!
+Ali: … someone's needs. [chuckles]
+Austin: No. No. Think about the — someone in Sangfielle being like: “hey I really need to do X.” “Alright. Good luck!”
+Ali: Yeah. Yeah.
+Austin: Yeah.
+Ali: “Have fun with that, buddy!”
+Austin: “Have fun with that!”
+[Ali laughs]
+Austin: You know?
+Ali: “I'll meet you after!”
+Austin: Fucking… “Leave your cut of the rent on the table!”
+[Ali laughs]
+Austin: You know?
+[Ali laughs]
+Austin: Truly! It was not like that in past seasons! This is one of the tightest crews I think we've seen as, like…
+Ali: [half-chuckling] I… You know what, this is what happens when you have an efficient [overlapping] and good Captain.
+Austin: [sceptically, overlapping] Uh-huh… Yeah.
+Ali: [half-chuckling] You know what I mean?
+Austin: Uh-huh.
+Ali: Runs a tight ship.
+Austin: Uh-huh.
+Ali: Has social gatherings. [laughs]
+Austin: Yes.
+[REALIS – 00:43:07]
+Austin: Did you want to talk about other non-PALISADE stuff? [overlapping] For a little bit?
+Ali: [overlapping] I did! Yeah. It's funny. I was going to open this episode by being like: “I would love to talk to you about developing REALIS.” [laughs]
+Austin: Sure.
+Ali: But we got really distracted! But that is another thing that is on our plate right now, and something that's sort of happening completely behind the scenes at this point.
+Austin: Mm.
+Ali: And I don't want to talk… You know, it's gonna release in a couple months at this point?
+Austin: Yeah. I think that's right. We'll see. You know, Jack is traveling and moving and stuff right now…
+Ali: [overlapping] Right… Yeah.
+Austin: [overlapping] … and is… It's worth… You know. We're recording stuff.
+Ali: Uh-huh.
+Austin: And it's, like, until everyone is where they need to be, that's going to be hard to record. [chuckles] You know?
+Ali: Right. Yeah. But I do… It's been more than a year now that we teased…
+Austin: True!
+Ali: … the initial sort of setup. And I just… I think it's interesting to talk about because I remember when you had started to do this, it was, like, almost, like, a feverish… [chuckles]
+Austin: [quietly] Oh my God.
+Ali: [half-chuckling] …thing for you? And I…
+Austin: Yes.
+Ali: You know, I think that's worth sort of, like, having… [overlapping] letting the audience hear… [chuckles]
+Austin: [overlapping] I think literally… I was having a conversation the other day with… Everest. Everest Pipkin.
+Ali: Mm-hm.
+Austin: The Ground Itself creator — we played that one back on Sangfielle. And they were asking me if they… if I ever thought I'd be a novelist. And I like… you know, I’ve novel ideas and stuff. But I was explaining that, like, I don't know… my writing process is so different than what the novelists I know… What their writing process is. That's not… “No.” Right? It's not “No, I'll never do it.” And they were: “You wrote REALIS!” And I was like: “I wrote REALIS in a fucking dreamstate!”
+[Ali laughs]
+Austin: I was caught by a strange mood! I… You know. I woke up and had it and then… it was… and then I had 80 pages or whatever. [overlapping] You know what I mean?
+Ali: [overlapping] Yeah, REALIS was inside you and it just…
+Austin: It… Right!
+[Ali laughs]
+Austin: Trying to get out! And then, to be fair, I then spent 2 years hammering on it. And getting it playtested. And incorporating notes. And now it's a 150 Pages [chuckles] or something. Right?
+[00:45:05]
+Austin: Um. It's probably not. It's 139 pages, before you get to the Patch Notes, it looks like?
+Ali: Okay, sure! [overlapping] Sure-sure-sure!
+Austin: So…! But that's long, right? But the first 70 pages of it, or whatever, were just like: “Boom! It's… Here it is! I have it.” And that process was weird. I had read Berserk. I had been thinking about… God, I don't even know — I had been reading Berserk and thinking about the stuff — and I kind of teased this a year ago during the July 4th Independence Day…
+Ali: [overlapping] Mm-hm…
+Austin: [overlapping, correcting what he just said] Independence Day! The July 4th stream… the fundraiser stream for the National Network of Abortion Funds. And… kind of mentioned this but, like, when people see REALIS… I would say that, like, the thematic lens that's probably worth putting to it, or worth thinking about… I mean, put whatever lens you want to it! What I was thinking about is that for me the manga Berserk… And I say the manga specifically, because I've not seen the new anime and the old anime is really just about one big arc. The '90s anime is just about the Golden Age Arc, which is… not what REALIS is about. Right?
+Ali: Mm-hm.
+Austin: And I say that because that arc is, like, extremely… It's partly about that arc! But, like, Berserk as a manga goes different places that are not as grim. As always I would say before you read or watch berserk you should look at some content warnings and some writeups about what that thing is about, and what some of the content is. Because it is… very very hard for some of it. And not hard in a way where I'm like: “and always worth it!” You know? “And always… And all the darkness pays off!” Like, sometimes it's just gratuitous.
+Ali: Mm-hm.
+Austin: And it didn't need to be where… what it was. And other times it goes some places that I think are really thoughtful and engaging. It's a comic that was made over 20 years, [chuckles] you know? The artist and author, Kentaro Miura, really clearly matured quite a bit.
+But… And that ends up being what the comic is about: it's about this hunk of steel of a person, in the character Guts — and all these other people who are similarly drawn, really archetypically… archetypally — and then becoming more and more specific. Becoming more and more individualized. Becoming particular people in the world.
+And that part of what drove that narrative — and that style of, like, that subgenre of story… of type of story — felt like it was missing in a lot of the things that I have played that claim to be, you know, inspired by Berserk. And they're just inspired by different parts.
+Ali: Mm-hm.
+Austin: They're not not inspired, right? Like, you go play Dark Souls, especially Dark Souls 3, you go play Dragon's Dogma: like, the Berserk influence is all over those games. And they're not not influenced by it. You know? But it's not influenced by this part. It's influenced by the art design, the creature design, the violence… the dynamic combat scenes, right? Um.
+All of that stuff is a major influence, but what's missing is the sense of personal change, and the sort of loneliness of becoming something different than what you once were. And going from broad to particular. And so that's what REALIS is about, and, you know, it'll be a couple months before people hear it, but I think it'll be pretty clear pretty quickly what that is.
+[Ali giggles]
+Austin: And so… Yeah. I wrote… [chuckles] I wrote a ton of it with that in mind, super quickly. Jack was a really great early reader and early… collaborator. And then Jack got busy and I just kind of kept going with it. And then Janine did some… really fun flavor text writing on… throughout the book, also, and is continuing to do some, you know, on and off as we get to a playtest doc. Like, it's in playtesting but it's a messy playtest doc. It's not like a… I don't know! It's… There's a lot of words. You know?
+Ali: [overlapping] Mm-hm!
+Austin: [overlapping] There's a lot of words, and I don't know that they're organized especially well quite yet.
+Ali: Sure.
+Austin: But they're cool. And… you know! Yeah. I… The fever is right.
+Ali: Mm-hm! Mm-hm.
+Austin: You've read through it at this point?
+Ali: [overlapping] I have read through it.
+Austin: [overlapping] We have not recorded anything with you in REALIS, yet.
+Ali: Yeah. No, no. And I do… I think that's sort of my second question here, is that like, there was the… sort of design phase, and then you've been playtesting this…
+Austin: [overlapping] Yes…
+Ali: [overlapping] … and you've played it a couple times but I'm wondering how it's felt recording it for the show?
+Austin: Yeah! It's cool.
+Ali: [overlapping] Really? [laughs]
+Austin: [overlapping] It's really cool. Yeah. It's, like… There's stuff in some these early episodes that we've recorded that are like: “oh, it works! Like, it fucking works! Holy shit!”
+[Ali laughs]
+Austin: And that is… You know, and I kind of felt that already. Right? Because I'm very lucky to have some playtesters who have… given me recordings of them playing, for instance. Right?
+Ali: Ohhh…!
+Austin: Or have sent me great notes about their experiences or whatever. You know, I asked for certain types of feedback. And truly… getting that… Anybody who's made a game is probably like: “Yeah, dude! No shit!”
+[Ali bursts out laughing]
+Austin: But it is wild to see a mechanic that you made produce the thematic effect that you want. Or the gameplay… interesting gameplay moment that you were hoping… the type of thing that it would make. Or… It's tough to talk about some of this stuff without giving away how the rules work, and I don't quite want to do that yet, right?
+Ali: Mm.
+Austin: But I will say that there was a moment in… a couple of months ago, where someone… I'm trying to think of, like, an analogy here. But it's basically, like, someone had… A character had a skill — let's say, it's not as simple as that — but a character had a skill and they realized that that skill said something about who they were but also about who they weren't anymore, and… the way that that, that they could then use that skill gave them access to a narrative beat that they wouldn't have have had before, in the sort of, like… It's almost, like… 
+Imagine you have — this is not, this is not literally the thing, right? — but imagine that you had, like… you had gone from Driving 1 to Driving 5, or something, in a game with a car. Going up from that 1 to that 5 means something about who you are, but it also means something about who you aren't anymore. Right? You're not someone who doesn't care about cars, for instance. Right? If you're at Driving 5, you fucking know something about cars, now.
+Ali: Mm…
+Austin: And so if somebody else has an ability that's, like… Lie To Anybody Who Doesn't Know Anything About Cars or like…
+[Ali giggles]
+Austin: Who Doesn't Care About… Mechanics, or something. You are suddenly not in that category anymore, just by the nature of what skill you have. And people are going to try to, like, reverse engineer what the system is based on this, and you're not going to get it ‘cause I'm really obfuscating a lot. I promise!
+[Ali giggles]
+Austin: You will hear it in a few months. You will hear it and understand what the system is. And it's also way simpler than the thing I just said. So don't worry about it being complex or something. Um. But! That moment of realizing something about the way the system worked that I hadn't explicitly planned but had kind of implicitly built into the rules was really rewarding. And now the truly best thing is that, like… like I said, Jack was in some of these recordings and… you know… [chuckles] There's a sequence that we recorded a couple of… I guess probably a month plus ago, because it's been really busy. But where we all hung up and were just like: [emphatically] “God-damn!”
+[Ali bursts out laughing]
+Austin: Like: “It works!” This is not a thing we've done on the show before. Right?
+Ali: Uh-huh.
+Austin: This is… And it's the game that I made! You know? And that feels incredible. Like, the fact that… Part of what I'm making is also a thing I think my players, y'all, will resonate with in a big way. And…
+Ali: Right.
+Austin: … here it is! And it resonated. And it worked.
+[Ali laughs]
+Austin: You know? [chuckles] And obviously, I think, to some degree, Jack and I are such close collaborators that I'm not surprised it was a Jack scene where that worked. You know? But! It did the thing, you know? We went into a recording being like: “let's push hard on XYZ.” And then we pushed hard and we came back being like: “Yep!” The system was able to take that push and develop it into… an incredible sequence. And so I'm really excited for people to hear some of that stuff. It'll be a little while, for some of it. The way we're recording it is kind of interesting. And I think people will start to feel out what that is once those episodes start dropping. But… But yeah.
+[Grandpa’s Farm – 00:53:13]
+Austin: I mean, until then people have Grandpa's Farm. Which is exciting. I listened to the first episode of that, Ali.
+Ali: Oh, yes, yes, yes! Hey!
+Austin: Why… Why is everyone having such a hard time?
+Ali: [desperately] I don't know! [laughs]
+Austin: I have a real question!
+Ali: [overlapping] Yes?
+Austin: [overlapping] Which is: Jack did shuffle their deck, right?
+Ali: Yes. I shuffle all the decks. [overlapping] Yes. Yeah.
+Austin: [overlapping] Okay. Okay, okay, okay.
+Ali: And I shuffle them twice before each turn.
+Austin: Okay. Good.
+Ali: So, yeah. [overlapping] It just — well, it — 
+Austin: [overlapping] You know why I'm asking — which is it was like…
+Ali: [overlapping, quietly, prolonged] It’s miserable… [laughs]
+Austin: [overlapping] It felt like Jack kept drawing face cards over and over and over. Yeah. I mean, everybody was at first. So…
+Ali: It’s miserable… Yeah, the experience of playing Grandpa’s Farm has been really interesting. It's a game that I was looking at for a really long time that I wanted to play really badly. I… Okay. So, I'm… [chuckles] Friends at the Table’s home Possible World stan.
+Austin: Uh-huh.
+Ali: I'm willing to say that. I…
+Austin: I think that that's right. Big fan here but you're… you are stanning it.
+[Ali bursts out laughing]
+Austin: In a different way.
+Ali: Yeah. I mean, we all have a lot of fun with those systems. But I… keep them in my head…
+Austin: Yeah.
+Ali: … if we play–wishlist on Friends at the Table — don't at me, okay? Let's just… [chuckles, overlapping] Getting that out of the way. Wishlist… wishlist…
+Austin: [overlapping] Wait, what’s up? What’s… Why… Wait. Why would people at you about it though?
+Ali: Because it would be [overlapping] once again returning to the well.
+Austin: [overlapping] One more… Yea-yea-yeah.
+Ali: But, like, at the same time every time we hit, like, a major plot beat you're like: [half-chuckling] “let me go see what Jason Morningstar has been up to!” So. [laughs]
+Austin: Uhhh! Listen! Okay? We all have…
+Ali: [laughing] We all have these impulses.
+Austin: Yeah. [quietly] We all have our… We all have our…
+Ali: Anyway. So it's a very… It's a game that I knew… we would have a blast playing. It was a game that I especially really wanted to play with Janine, obviously.
+Austin: Yeah. I know.
+Ali: And you know, Nievelmarch is something that we… [sighs] would love to return to yearly, [overlapping] obviously.
+Austin: [overlapping] Now wait a second!
+Ali: Huh?
+Austin: Is it Nievelmarch… [chuckles]
+Ali: [chuckling] I know, I know!
+Austin: … or is it Niebelmarch?
+Ali: [laughs[ I'm pretty sure it's with a V.
+Austin: And not…
+Ali: [overlapping] Nievelmarch. Nievelmarch…
+Austin: [overlapping] So it's not so like, Nibelheim from Final Fantasy 7?
+Ali: It's so funny because I need to check the Patreon to see how I wrote it? [laughs]
+Austin: Uh-huh.
+Ali: No! What I claim that it is.
+Austin: What was the first one of those? What was the…
+Ali: The first one of those was [overlapping] Shooting the Moon.
+Austin: [overlapping] Shooting the Moon. Right? Have you done Shooting the Moon twice?
+Ali: Um… No. There might have been two different… It might have been, like, it was split in between two streams…? [overlapping] But the…
+Austin: [overlapping] Ri… I mean, there's four episodes of Shooting the Moon.
+[Ali chuckles]
+Austin: But I thought you went back to Shooting the Moon for some reason, or something.
+Ali: No. We just did Shooting the Moon and then we did the… Jane Austen…
+Austin: Yeah. Yeah.
+Ali: Uh-huh.
+Austin: I feel like you did Shooting the Moon twice. I just… I don't know why I think that! I'm just wrong! But…
+Ali: Yeah. Yeah.
+Austin: Yeah.
+Ali: [sing-song] Uh… 
+Austin: Good Society was the other one. Yeah.
+Ali: Oh, yes. Good Society. Yeah. Oh, so it's Nievelmarch with a V. [overlapping] That's how I've been writing it.
+Austin: [overlapping] Nievelmarch. Okay.
+Ali: Nievelmarch.
+Austin: Got it.
+Ali: Anyway! So… If we could do that every holiday season we would. But this game felt like it was a good fit for it. [Austin: Yes.] But it was, like, a very difficult game to find a place for? [overlapping] Because it's impossible to livestream game.
+Austin: [overlapping] Right…! Right.
+Ali: It's not like we would be doing it as a main season game…
+Austin: Because it's a… Because if you haven't listened yet: it's a letter-writing game.
+Ali: Yes. Yeah.
+Austin: So we don't want to do a big break on the livestream…
+[Ali laughs]
+Austin: … while we have to write letters and then…
+Ali: [laughing] Right!
+Austin: Etc.
+Ali: Yeah. Which is, like, a, you know, a 10 to 20 minute process each time of me, Jack, and Janine just sort of quietly typing and, like, laughing to ourselves…
+Austin: Yeah. Mm-hm…
+Ali: And, like, not a lot of interesting play happens there?
+Austin: Mm-hm.
+Ali: And it just would be… It wouldn't be fun! And it wouldn't be packaged as well as I think it is in the place that it is now.
+Austin: Yeah.
+Ali: But also, like, we don't have that sort of break in the main feed to really do.
+Austin: No.
+Ali: And then, you know, when we were doing Bluff City we were so Bluff City-focused…
+Austin: Yup! Yup!
+Ali: … that it's, like… You know, until the Patreon restructure and REALIS coming up we didn't really have a good opportunity to play it.
+Austin: Right.
+Ali: [overlapping] Which is why I was…
+Austin: [overlapping] Which is also part of why we said the Bluff City thing… Instead of being, like, “one of our Patreon promises is Bluff City” it's…
+Ali: Mm-hm.
+Austin: It's a produced episode of a show.
+Ali: [overlapping] Right. Yeah.
+Austin: [overlapping] Unlike, you know… It doesn't have to be Bluff. It can be something else. It will be REALIS. Right now it's this. There could be another thing, you know. We could take a break in the middle of REALIS and do something else if we wanted to in that feed. You know?
+Ali: Right. Yeah. Exactly.
+Austin: So.
+Ali: So yeah. I'm really glad that I found the space for it and, you know, it's been a blast so far. It's one of those things where it's like… I've been playing it and of course I've been like: “oh, this takes longer than [laughs] I thought that would!”
+Austin: Friends at the Table! Here we go!
+Ali: [half-chuckling] Finally I'm the facilitator and I'm like: “Oh, god!”
+Austin: [overlapping] Mm-hm!
+Ali: [overlapping] “I can't keep track of the time! What's happening?” [laughs]
+Austin: [sighs] It will sneak up on you.
+Ali: [overlapping] Uh-huh. Yeah.
+Austin: [overlapping] You know?
+Ali: And then the structure of that game is such that you will feel that… that just grinding failure that Jack is…
+Austin: Yeah…
+Ali: Because it really is designed to be like, you know, with every year your chances are going to get better.
+Austin: Mm-hm.
+Ali:  There are multiple places in the game where you're able to negate the possibility of face cards coming up.
+Austin: Right! I see.
+Ali: [overlapping] And…
+Austin: [overlapping] So there will be a turn, theoretically, at some point.
+Ali: [laughing] Theoretically!
+Austin: Yeah.
+Ali: [laughs] Yeah. I… You know. Cards are cards, right?
+Austin: [overlapping] Cards are fucking… Tell me about it!
+Ali: [overlapping] You gotta believe in the… Maybe… [half-chuckling] Maybe Jack goes through this for four years just because that's what's going to happen. But… the game is very smartly designed around recommending that you do those four cycles so you have that sort of feel of development over time?
+Austin: [overlapping] Riiight…!
+Ali: [overlapping] Because it is a game that is interested in, like… You know, It's very deliberately inspired by things like Harvest Moon, and Animal Crossing —
+Austin: [overlapping] Yep. Yeah.
+Ali: [overlapping] … which are, like, little games that you play to see something grow over time.
+Austin: Right.
+Ali: And I'm impressed by, like, how smartly it's able to do that in play — as much as I am like: [appalled] “Oh my God!” [laughs]
+Austin: You… Do you… I could go read this book. I have this game.
+Ali: Mm-hm.
+Austin: I should just go read this game. I have a rule question. [half-chuckling] I'll look it up later. Don't worry about it.
+Ali: Oh, okay! [half-chuckling] I can answer it! Probably. [chuckles]
+Austin: Is… So if you… you do reshuffle the deck after every phase. After every season.
+Ali: You do reshuffle the game after every season. Yes.
+Austin: Okay. Okay.
+Ali: And the… I can just say it.
+Austin: [overlapping] Mm-hm.
+Ali: [overlapping] The mechanics that I'm mentioning in terms of… lessening the face cards is at the end of every year you make a friend?
+Austin: Uh-huh.
+Ali: Who is a character that you write on your sheet. And then when you draw a face card later that…
+Austin: [overlapping] Ooohhh…! Gotcha. Uh-huh.
+Ali: [overlapping] … that following year, you can negate that face card with your friend. But you have to, in the following letter, write about how that person helps you out.
+Austin: That's really good.
+Ali: [overlapping] It’s very good! It’s very very good!
+Austin: [overlapping] I really love that. I'm excited for that to show up.
+Ali: [overlapping] Mm-hm!
+Austin: [overlapping] That'll be great.
+Ali: And then also there's an optional Festival Phase.
+[01:00:00]
+Ali: Which I understand why is now optional, because it does [chuckles] take a lot of time! [laughs]
+Austin: Uh-huh!
+Ali: Where you can spend Momentum that you've gained through the year, basically, to play these [Austin: Mm!] scenes between people to do the same thing, basically.
+Austin: Gotcha.
+Ali: To find somebody in a festival who will… It can be anything that you want. Just to take that card out of your deck, basically.
+Austin: Right. Right.
+Ali: So. There's been funny [bursts out laughing] failures and successes in that regard too, so.
+Austin: Yeah. Y'all recorded more already. This is a…
+Ali: Yeah!
+Austin: You're ahead of the curve on this one.
+Ali: Yeah, we are ahead of the curve on this. Yeah. Which is good. So, yeah. I'm excited for more of that to come out. And I'm excited for more… We've mentioned that Jack is moving house, so…
+Austin: Mm-hm.
+Ali: Recording that is on pause for a bit. But I'm excited to get to Year 3. And…
+Austin: Oh, right! Cuz you already recorded Year 2. You haven't recorded Year… Right. I got you.
+Ali: Yeah. Uh-huh.
+Austin: [overlapping] I’m excited.
+Ali: [overlapping] We're doing it in a really weird way. There was something that came up during production that I thought was really interesting, and I'm really excited to do this in the last episode. But… Because that Festival stuff is so involved we ended up getting through the first Year and being like… [chuckling] It was actually…
+I cut this out of the recording but I did this thing where I was, like, starting to read all of the rules and then halfway through it was like: “what are we doing? We can't do this right now!” So instead what we've done is sort of have every episode end on this… scene where all of the characters are finally meeting for the first time in that year [Austin: Uh-huh.] to go to the Festival.
+Austin: Right. Right.
+Ali: It's the sort of, like, cliffhanger for the next episode to open on what the actual Festival is. And it's been this, like… Because it follows a little bit of that, like, goofy Bluff City spirit that we had — where we were, like, [half-chuckling] every intro for some reason…
+Austin: [overlapping] Mm-hm! Has to be the next…
+Ali: [overlapping] … is going to be… [laughs]
+Austin: [overlapping] Yep! Mm-hm!
+Ali: [chuckling, overlapping] … has to be into the next arc. And you know, sometimes that was a smooth process and sometimes it was not. And I…
+Austin: Sometimes it was not. Yes.
+Ali: Yeah. Sort of… It's been very funny and it's been very good and it just feels like it's a very special moment each year the day before the party, the hour before the party…
+Austin: Uh-huh…!
+Ali: … that I've been really happy to get that on screen. And the thing that I want to do more than anything is get to that final year when we know we're not going to play that next Festival [overlapping] and play that scene. Like… [chuckles]
+Austin: [overlapping] Riiight…! Right, right, right.
+Ali: That is… what I've been building towards this whole time. So that's my little clever Grandpa’s Farm trick. [laughs]
+Austin: One cool farm trick!
+Ali: Yeah!
+Austin: Love it.
+Ali: [overlapping] Uh-huh.
+Austin: [overlapping] Fantastic.
+Ali: Mm-hm. Um… But yeah.
+Austin: Is that… is that an episode? Have we done… an episode of… [overlapping] Gathering Information?
+Ali: [overlapping] I do! There is…
+Austin: Do you have more?
+Ali: There is one more thing that I want to ask you about, [overlapping] and this…
+Austin: [overlapping] Sure!
+Ali: It's funny because it sort of shifts this episode into being, like…
+Austin: [intrigued] Ooh!
+Ali: Let's talk to the audience in terms of… and maybe being, like, [chuckles] let's have this be an actual meeting.
+Austin: Oh, okay. Sure.
+Ali: But… we mentioned the… National Network of Abortion Funds Stream.
+Austin: Yes.
+Ali: Which means we have…
+Austin: Uh-huh.
+Ali: We have a few checklist items on that but there are two, sort of very major [Austin: Mm-hm.] checklists there. Which is the Chime Prologue [Austin: Uh-huh!] and the Return to the Spring Epilogue. [laughs]
+Austin: Yep. Mm-hm.
+Ali: [tentatively] And I would love to know where your head is at with that, which one you feel, like, more emotionally capable of doing first? [chuckles]
+Austin: [nonchalantly] I could do either.
+[Ali laughs]
+Austin: I could… I'm not… I don’t, you know, like, I’m not in my feelings about either of those, actually. [overlapping] I don't have any…
+Ali: [overlapping] Sure!
+Austin: Truly? When are people available, let's do it.
+Ali: [overlapping] Okay, yeah. That’s…
+Austin: [overlapping] I think the Spring one's harder cuz it's everybody. Right? We need everybody for it. I know…
+Ali: [overlapping] I feel like the Spring one is harder for just, like, a billion reasons? Um… Because…
+Austin: [overlapping] I don't, but that's ‘cause I know what the game is. And that's…
+Ali: [overlapping] Ohh!
+Austin: [overlapping] I mean, I guess…
+Ali: [overlapping] Sure, sure sure.
+Austin: I don't have to become… you know, Hella. Or Hadrian. Right?
+Ali: Yeah. Uh-huh.
+Austin: So it's easy for me! In fact, I kind of… The thing that we're going to do for it, I think  a'm basically just facilitator.
+Ali: Okay.
+Austin: Which is…
+Ali: You're not bringing Benjamin out of the toy box?
+Austin: I don’t know. Maybe. I don't know!
+Ali: Maybe. But we'll see. [chuckles]
+Austin: I'll think about it. Right?
+Ali: I… Yeah. I… am opinionated about returning to the… [laughs] Spring Epilogue.
+Austin: Oh, yeah?
+Ali: Um. In a way that I spoke about with [chuckles] Janine and Keith, actually. And…
+Austin: Ohhh! What’s your… Tell me your opinion!
+Ali: I don't know that I want to play Hella again. [chuckles]
+Austin: Oooohh! I think we have to, unfortunately.
+[Ali laughs]
+Austin: That's the premise of the thing. Like, it really is.
+Ali: I know. Yeah… Yeah.
+Austin: And not just the premise of the promise we made people. But the premise of the game is very much…
+Ali: Okay. Okay.
+Austin: …a group of people returning to check in. And I don't know! We can… If you really, really, truly feel like it's some sort of artistic betrayal I'm not going to make you do it. [overlapping] It’s not… You know what I mean.
+Ali: [overlapping] Oh… Yeah! I mean, it's just, like… It's part of what you were talking about with some of the Twilight Mirage characters?
+Austin: Right. Right.
+Ali: Where it's, like… Hella and Adaire had such a specific ending.
+Austin: Mm-hm.
+Ali: And… You know, it's not that I can't imagine what the rest of their lives are like and then it's not that I…
+Austin: Yeah.
+Ali: … you know, don't think that there's more stories in those years.
+Austin: Yeah.
+Ali: Um. It's just really difficult… [chuckles] to think of, like…
+Austin: Yeah.
+Ali: … you know… opening the box on that.
+Austin: What I will say is the game that I… Which I don't remember if I mentioned it at the time so I'm not going to mention it now, just in case.
+Ali: Okay.
+Austin: But the thing that I had in mind for it, very much… is not going to… It's probably…
+[Ali laughs]
+Austin: … not going to overturn the result of the Spring Epilogue.
+Ali: Ohh! For su-su-su-sure. Yeah.
+Austin: Right? And the second thing I'll say is… If I have to make a pitch on it to some degree: the pitch is that… 
+I'm going to pause for a second so the people who don't want to hear anything about the end of Spring in Hieron can leave. They should do that now. They should hit their button and be like: “Okay, I'm leaving now. Bye.” 
+But, like, part of what Spring in Hieron’s finale or Epilogue was about is that, like, it never stops. There is no ending, right? Um. You don't get to eject from history. You don't get to close the book, ever. You know. It will sneak up on you, but time keeps happening. No matter how solid things may come to feel. And how final things come to feel, there is always… There is always both, I would say… [chuckles]
+Ali: Mm-hm!
+Austin: … the blessing and the risk of tomorrow. Right? And, you know, we kind of hit that throughout all the intros of that one, of those Epilogues. And we kind of hit that in the… kind of, if I remember right, the way we kind of threw from Epilogue scene to Epilogue scene with the question of to whether or not the world would get effectively… [chuckles]
+Ali: Mm-hm!
+Austin: ... removed. “The world continues. There's been no reconfiguration yet.” And the… That threat never really vanishes, right? And so I kind of feel like that… “There is no reconfiguration yet” doesn't just mean… “Oh, you know, Galenica hasn't shown up to destroy everything again.” It also means that you've had to keep living. [chuckles] Um… [overlapping] The way that life has continued. 
+Ali: [overlapping] Right! [laughs] Yes. Yeah.
+Austin: And the possibility that you will be called on again or that the world will push you into a position of something else will open back up.
+Ali: Mm-hm.
+Austin: And so, I'm curious to see… And to some degree you not playing Hella is an acceptable answer to this. ‘Cause it means wherever Hella is, she did not answer the call.
+Ali: Right. [overlapping] Yeah. Right.
+Austin: [overlapping] And that's interesting! For sure.
+[Ali laughs]
+Austin: But that's that's a choice being made, versus a…
+[Ali sighs]
+Austin: Versus, we're just going to put Hella in a box and say like: “don't worry about it. She didn't get the letter.” Or whatever. You know?
+Ali: Right. Yea-yea-yeah. Well! It's interesting because I do feel like there's two different ways to play that?
+Austin: Yes.
+Ali: Um. [hastily] And I'm just going to say it here because we're talking about in this episode anyway!
+Austin: Mm-hm.
+Ali: Which is that, like, there's either the like: “Hella refused the call.” Or, like… she was exiled. Right? Like, there…
+Austin: Totally.
+Ali: There's the argument to be made that the call would be not made to her [overlapping] very deliberately.
+Austin: Right, right. Mm-hm.
+Ali: So…
+Austin: [overlapping] The question ends up…
+Ali: [overlapping] I'm happy for the opportunity to do that.
+Austin: Yeah. We'll think through it. And we'll think through it based on who else is there, but I do think that the… You'll see.
+Ali: [bursts out laughing] Okay!
+Austin: When I… I'll send over that game again and we can talk through.
+Ali: Ri-ri-right! This is also the thing of, like, you know if there's a call to be made, [half-chuckling] are you not calling Vin Diesel? [overlapping] Like, there's…
+Austin: [overlapping] Right! That’s the thing. Uh-huh.
+Ali: [overlapping] We ended those characters on… in powerful places!
+Austin: Uh-huh.
+Ali: We can't really deny that!
+Austin: [overlapping] Yeah. Yeah. Right.
+Ali: [overlapping] That's what happens when you play a single campaign consistently for… six, or…
+Austin: [overlapping] Totally. Until you max out the characters!
+Ali: Uh-huh!
+Austin: Until you… [overlapping] hit Level 10!
+Ali: [overlapping] Yeah. Uh-huh. [laughs]
+Austin: … and then respec and do a different thing or whatever it was. You know?
+Ali: Yes. Yeah. So…
+Austin: [quietly] Which is interesting.
+Ali: Yeah. [half-chuckling] There's multiple angles to think about this problem.
+Austin: There sure are.
+Ali: But yeah. That's just sort of, I…
+Austin: I do appreciate that perspective though. I think that that is…
+Ali: Right.
+Austin: … that is not a… This is, again, this is not me being like: “no, goddamn it! You're playing as Hella!”
+[Ali bursts out laughing]
+Austin: But it is… Let's think about what it means to not play as Hella if that does happen and what…
+Ali: Right. Yeah. [overlapping] Yeah, exactly. I… It’s…
+Austin: [overlapping] How that shapes what follows, right?
+Ali: I didn't know that you had a game in mind at all.
+Austin: [quietly] Mm-hm.
+Ali: So that's…
+Austin: Yeah.
+Ali: [overlapping, sing-song] … good to know!
+Austin: [overlapping] I can't remember if we announced it, like I said, so I'm not gonna…
+Ali: I don't think that we did! I think that at the… We were… We had a long weekend that weekend, is what I’ll say! [laughs]
+Austin: We sure did. We sure, sure, sure, sure did.
+Ali: Yeah. Yeah! Then, in that case are there… is there a secret… I guess you already said that you would be fine returning to [overlapping] COUNTER/Weight.
+Austin: [overlapping] Either. Yeah…
+Ali: But, like, there's really no, like…
+[Austin sighs]
+Ali: “Boy howdy! [overlapping] That would be difficult to do” [laughs] about COUNTER/Weight?
+Austin: [overlapping] Noo… I was thinking about it today, actually. I was thinking about it… What was I watching? [chuckles] Oh, I was watching the trailer to that movie! The Creator, [overlapping] is that what it's called?
+Ali: [overlapping, growling] YESSS! [laughs]
+Austin: Which I have not seen before! [overlapping] We have not seen that trailer!
+Ali: [overlapping] We’ve literally… No!
+Austin: [overlapping] Absolutely have not.
+Ali: [overlapping] We've seen this trailer 40 times. No, we really have.
+Austin: [overlapping] I've never seen that trailer before. I would have remembered those robots. You know I would have remembered those robots!
+Ali: We maybe didn't see the exact trailer that I sent you [overlapping] from that YouTube video…
+Austin: [overlapping] Maybe there's another one…?
+Ali: But we've seen that trailer before Mission Impossible.
+Austin: I don't think I have. [overlapping] Maybe there’s another.
+Ali: [overlapping] We definitely saw that before Fast 6. Like, they have been…
+Austin: I don’t think I did. [half-chuckling] This is all new to me.
+[Ali laughs]
+Austin: I'm lookin… Maybe there's a teaser trailer…! But you're telling me I wouldn't have remembered the fucking robot revolution movie?
+Ali: No. I know. No, I know. [overlapping] No, I… But I… Yeah.
+Austin: [overlapping] There’s no waaay!
+Ali: [overlapping] No. But we’ve seen this trailer. [laughs]
+Austin: [overlapping] Maybe there was a lil… I've not seen this trailer.
+Ali: [laughing] Okay! Well…
+Austin: I've not! I have not!
+[Ali laughs]
+Austin: I need to… I need to go find wherever the first of those trailers dropped and…
+Ali: Okay! Alright!
+Austin: Anyway.
+Ali: Okay. Yeah. But yeah.
+Austin: I don't remember it…
+[Ali chuckles]
+Austin: But I was watching that trailer… and was like: “huh I… let me think about…” I was thinking about what that… episode is going to be. Or what those episodes are going to be. I don't know how many episodes it’s going to be. Right?
+Ali: Mm-hm.
+Austin: I don't I truly don't have a fucking clue how long that'll be… I think it's one arc. You know? It's, like, one… Technoir arc, right? And I know it's Technoir. Right?
+Ali: Ohhh! Yea-yea-yeah.
+Austin: That I know. Um. So that'll be fun to revisit. But I don't know what it is! And I was thinking about it in terms of, like… the Cowboy Bebop movie? Which is like: “oh, it'll be like, a…” ‘Cause I was specifically thinking, like: it can't be… I can't… It can't be a revelation episode. It can't be like: [exaggerating] “and actually, now you can rethink of all of COUNTER/Weight [overlapping] with the knowledge that they all knew… X.”
+Ali: [overlapping] Ohh, yeah…
+Austin: “They all knew…” you know, “Grace was bla-bla-blah.”
+Ali: [overlapping] Hmm… Yeah.
+Austin: [overlapping] Whatever. Right? “They all knew this about Strati.” And it can't be that. And so it has to be the thing that anime movies do — which are like: here's a one-off story that can be thematically or aesthetically really pleasing and, like, really fun, but can't reshape the rest of the show! [chuckles] Because the show is the show.
+Ali: Mm-hm.
+Austin: You know? And so that's… A little bit of a… That's a challenge! And so I have crack it! I do have to figure out what it is. Um. Though also with Technoir of course, that's not how Technoir works. Right? Technoir works by being its own little… you build a Transmission. You build a set of Characters, Threats, Objects, etc.
+Ali: Oh, right. Yea-yea-yeah.
+Austin: And then those just start to interact with each other, right? [chuckles] And so… I actually don't need to overprep in some ways. What I'm going to probably do is go look at the original Technoir… thing and rebuild some… rebuild it with new stuff. So that we can do a new missi…
+For people who don't remember: the way Technoir works is, like, the GM doesn't prep a mystery. The GM preps a setting — or uses a setting from… that someone else has built — and then as player characters go to different NPCs for information or favors they start to build their own connections and a mystery starts to appear based on who they've gone to and what they've started doing.
+Ali: Mm-hm.
+Austin: And so in some ways it's, like, I don't have to prep too much — I just have to facilitate and play as NPCs and stuff, right? And so that's kind of probably why it's not as high-stress for me in some ways.
+[Ali laughs]
+Austin: You know?
+Ali: Yeah! I do. Well, ‘cause I just get… I get lost in the sentimentality of it, obviously…
+Austin: Yeah.
+Ali: And it's hard not to do that — especially, when it's, like… embodying a character?
+Austin: Yeah. That's… I don't have to do that. Right?
+Ali: Right.
+Austin: Like, who — I'm going to play Cene Sixheart. You know what I mean?
+[Ali laughs]
+Austin: Who I like. But, like… I also have such an academic relationship to COUNTER/Weight at this point. Um…
+Ali: Right… In your defense, you've spent a lot of time in the past [overlapping] year or two… Yeah.
+Austin: [overlapping] I've listened to COUNTER/Weight twice in the last three years. And…
+Ali: [sighs] Yeah… [laughs] 
+Austin: And, frankly, am lower on it than I used to be. You know?
+Ali: Sure.
+Austin: It doesn't sus… We make a show… People should love the episodes and the seasons that they love — I'm not trying to take anything away or push perspective on it.
+Ali: Uh-huh.
+Austin: For me, I went into relistening to COUNTER/Weight being like: “this is of course our best season.” And obviously we made mistakes around, for instance, like, pronouns and stuff like that [overlapping] and I wish we had done better about that.
+Ali: [overlapping] Yeah.
+Austin: “But this is clearly the best season.” And, like, no it isn't. [chuckles]
+[Ali laughs]
+Austin: It clearly isn't the best season. [overlapping] There are things…
+Ali: [overlapping] And it’s, like, so important that it isn't, right?
+Austin: Right. [overlapping] Yes.
+Ali: [overlapping] Like, if that was our best season we would be in fucking trouble.
+Austin: I would be in trouble! Exactly!
+[Ali laughs]
+Austin: There are things in it that I think are great, and I really still love to this day, and that I'm really happy with in terms of the way y'all played characters, and the way I set up some beats, and really important structural things where we learned how to do XYZ. All that is great. But in terms of just, is it… Where does it hang as a season? Not as high as I thought it did! [chuckles] You know? And I think that means it's a… And again, that process of, like, restudying that season and, like…
+Ali: Mm-hm.
+Austin: … thinking about all the characters and thinking about what happened from Point A to Point B and all that other stuff — like, it became very… it became… The idea that I felt sentimental about it kind of, you know, sloughed away and I'm left with like: “Oh, yeah. I like that. I like it. It's good. [overlapping] I like that thing that we did.” And that… [chuckles quietly]
+Ali: Right. Sure, sure, sure. [laughs] Yes.
+Austin: You know.
+Ali: Which I think is probably a much healthier way to… [laughs]
+Austin: Almost… Yes. [overlapping] Absolutely.
+Ali: [overlapping] … approach this.
+Austin: [half-chuckling] Absolutely!
+Ali: There is something interesting about returning to Aria for me, though. Which is that I feel like she was one of the… I guess, she was the first character that I felt like I came to the table with one of those… the, like, background story that's already, like… [laughs]
+[01:15:06]
+Austin: [overlapping] Uh-huh…! That’s already written? Yeah, yeah, yeah.
+Ali: [overlapping] Three paragraphs around or whatever? And, like, I do think… Like, there was so much about Aria's circumstance that, like, didn't feel like it was on… camera, that just didn't get developed — because, like, the game wasn't that, and also… I wasn't that as a player yet?
+Austin: Hm. Mm-hm.
+Ali: But I do very distinctly remember my… like, Aria’s timeline in terms of, like, getting laid off; being, like, a lounge singer; um… getting involved with the guy…
+Austin: Mm-hm.
+Ali: … that she killed — [quietly] who was he…?
+Austin: Um… I just had it for a second and I lost it. Moon is in his name. Um…
+[Ali groans quietly]
+Austin: Oh my God! I can picture the facecast for him!
+[Ali bursts out laughing]
+Austin: [groaning] Why can’t I… I think the name… Nope. Ah, yeah. Paisley. Paisley Moon.
+Ali: Paisley Moon!
+Austin: Yeah. Paisley.
+Ali: Paisley Moon!
+Austin: Yea-yea-yeah.
+Ali: [overlapping] Um… 
+Austin: [overlapping] All-timer.
+Ali: Being involved in his… like, you know, criminal crew, basically.
+Austin: Mm-hm.
+Ali: For him just being like: “you need money. [overlapping] You're a person who needs money.”
+Austin: [overlapping] Yeah… Yeah.
+Ali: And then her having this, like, political difference with him. This, like…
+Austin: Mm-hm!
+Ali: “I can't do the things that you're doing because I want to do something that's meaningful [overlapping] and will change people's lives!”
+Austin: [overlapping] Uh-huh.
+Ali: [half-chuckling] And then joining The Chime, question mark?!? [laughs]
+Austin: Yeah.
+Ali: [overlapping] A strange glow-up! Yeah.
+Austin: [overlapping] And then you have to play this game where that's not what the… what that is, really?
+Ali: Uh-huh!
+Austin: Yeah. Uh-huh…
+Ali: Yeah. But it… It does present this, like, very interesting thing where it's, like, prologue Aria is going to be a different character than we see…
+Austin: Yes. Sure.
+Ali: … in… COUNTER/Weight episode 1. ‘Cause she just has to be? Because that's always what I wanted her to be, anyway?
+Austin: Yeah…
+Ali: So that is part of that that I'm most excited about. But… [laughs]
+Austin: Yeah.
+Ali: Um. Yeah. [overlapping] You know?
+Austin: [overlapping] Yeah. I'm curious about it. It's so funny you say all that because, like — again, I have… relistened to that stuff — and it's, like, that backstory does not show up! At all! In…
+[Ali bursts out laughing]
+Austin: … in those…
+Ali: Right. Yeah.
+Austin: [overlapping] You know.
+Ali: [overlapping] There's this history there. And it's interesting to have this history there. But it's also like… that's the good…
+Austin: Mm-hm!
+Ali: [overlapping] That's what… You know… That why it’s good!
+Austin: [overlapping] A hundred percent.
+Ali: You know?
+Austin: A hundred percent.
+[Ali giggles]
+Ali: But yeah. I think unless there's anything that you want to say.
+Austin: I don't think so…?
+Ali: Yeah. Then this has been an episode of Gathering Information.
+Austin: Yeah! [overlapping] Happy to be here!
+Ali: [overlapping] Thanks for joining me. Yeah.
+Austin: Always. Always. I always have a good time!
+Ali: Okay! Like I said, and I teased next month: for October, we're going to be getting Jack and Art in. New-house-Jack.
+Austin: New-house-Jack!
+Ali: New-house-Jack! [chuckles]
+Austin: Yeah.
+Ali: Um. To, like, really… It is time. [quietly] It is time to see how the Faction Game has felt. [in regular tone] I've been really holding off on that because I wanted things to get meaty before I heard their opinions on it, and I don't know that things could get more heated than they were! [chuckles]
+Austin: We'll fucking see! Yeah.
+[On Faction Turns – 01:17:52]
+Ali: Hey everybody and welcome back! Um…
+[Austin bursts out laughing]
+Ali: It is somehow… [laughs] It is somehow still the August 2023 episode of Gathering Information, despite it being about a week since we recorded it.
+Austin: Mm-hm.
+Ali: I'm just going to be upfront and say that [chuckles] currently, right now it is September 30th…
+Austin: It is.
+Ali: … 2023.
+Austin: [overlapping] So it’s…
+Ali: [overlapping] I am joined…
+Austin: Still only one month away. We didn't wait until tomorrow to record this, where… we…
+Ali: Right. Then it would have been two months out. Yeah.
+Austin: Yeah. Yea-yea-yeah.
+Ali: But we didn’t. Yeah. I'm gonna… I apologize to the RSS feed for our Patreon for the next 48 hours. [chuckles] Or whatever. But.
+Austin: Is this the same episode? Are you just going to cut this in? [overlapping] What are we doin’?
+Ali: [overlapping] I'm just gonna… I'm gonna put this… I’m gonna tap it onto the back.
+Austin: [overlapping] At the end.
+Ali: Yes.
+Austin: Love it. Yeah.
+Ali: It’s a little Post-It note.
+Austin: Love it!
+Ali: Hi, Austin! [laughs]
+Austin: Hi, Ali!
+Ali: I… Okay. I want to say two things up front. [overlapping] Which is that…
+Austin: [overlapping] Okay.
+Ali: … the reason we want to... we are doing this is because we spoke a little bit about the Authority game in…
+Austin: Yes.
+Ali: … what everybody just listened to 40 minutes ago.
+Austin: Uh-huh!
+Ali: And… finished… [chuckles] released the second part of this week's Authority game. And there was a little bit of a… [overlapping] reaction.
+Austin: [overlapping] I’d say it was a polarized response.
+Ali: Uh-huh! And the second thing that I want to say is that obviously we don't have Jack and Art here. 
+Austin: Right.
+Ali: I do still very much want to talk to them in October about their reactions to things. So I just want to say upfront that we can't speak for them.
+Austin: Yeah.
+Ali: And, you know, other opinions might be shared — we will certainly go into this topic again. But. [laughs]
+Austin: If I had one chance to talk for Art and Jack about some stuff it wouldn't be for this. [overlapping] I'd find some other funny thing.
+Ali: [overlapping] Right. Okay. [laughs]
+Austin: I'd be like: “Mozart's the best musician who ever lived!”
+Ali: Whoaah!
+Austin: And, like, try to get Jack into some sort of classical music beef. I don't know.
+Ali: Okay. Wow. [overlapping] Okay.
+Austin: [overlapping] I don't know what I would do.
+Ali: [overlapping] And now everybody's going to be like: “Jack, how could you say that about Mozart?”
+Austin: [overlapping] Right. Exactly. Exactly! [chuckles]
+[Ali laughs]
+Austin: [chuckling] Um. Anyway!
+Ali: Hi.
+Austin: Yeah. I really was like… Wait! Did we talk about the Authority game in the last… We did, right? Are people…
+Ali: We talked about it a little bit! Yeah.
+Austin: Well, and are people going to think that we recorded it…
+[Ali chuckles]
+Austin: … after this episode came out, and therefore think that what we're responding to is the response to that episode? And I don't remember what we said! We talked for an hour! I talk into a microphone all the time!
+Ali: Right… Yeah. You say a lot of things into the microphone. We didn't really say much!
+Austin: Okay.
+Ali: I edited it…
+Austin: Okay.
+Ali: … and I listen to it back, and, you know, I brought up the fact that there was, in that episode that had released at the time, a little bit of the discussion of, like, you know: “let's think about the Cause a little bit more!” [laughs]
+Austin: Yes. Yes. There sure was!
+Ali: [overlapping] But you know…
+Austin: [overlapping] But then… but it turns out that I think you need to do more than… Like, I… So I guess for people who… There are definitely people listening to this who, like, aren't on a social media website or, like, didn't wake up, you know… and get… a message from Art being like: “man, people are mad about this!”
+[Ali laughs]
+Austin: Um. “Did I fuck up?” Right?
+Ali: [overlapping] Uh-huh.
+Austin: [overlapping] You know, truly, like, that is… you know. I think it's easy to forget that the people on the show are people sometimes.
+Ali: [overlapping] Sure…
+Austin: [overlapping] And that, like, it's not a… Also that they're people who don't, like, go clock in at an office, you know?
+Ali: Yeah, fair.
+Austin: And… are recording stuff sometimes in the late hours of the night, and are not always at their best. Right? Um. But! Regardless of that I was like: “oh shit, has there been a response to this episode dropping?” And there was. And… Yeah. I was like I wanna talk about… more about that because of how we, I think get to… Oh, anyway! Sorry! To finish setting the stage in terms of, like, what the… what I called a polarizing response is… So there are a lot of people who are like: “Hey. This isn't fun anymore.” [chuckles]
+[Ali chuckles]
+Austin: “Like, the Authority keeps, like, winning.” I forget the total… I think it's a… The numbers are ridiculous. Right?
+Ali: I think it's, uh… [overlapping] 12…
+Austin: [overlapping] 2 win? 12 to 2 or something like that?
+Ali: [overlapping] 12 to 2 is what it feels like. Yeah. Is what I remember reading. At least.
+Austin: Which partially is an absurd…
+Ali: Mm-hm!
+Austin: … like, Authority sweep!
+[Ali laughs]
+Austin: Like! [chuckles] The numbers just came up in a wild way!
+Ali: Yeah.
+Austin: Um. In that way. And also partly it's, we stumbled into a build that works — the Ability that one of the Factions, or the Divisions has is really good. But I think it also reflects other stuff…? That I have been churning and turning in my head for a little over a day now. In terms of like: “Hey. Is this… What happened here?” Especially given, like you said, during the last episode…
+Ali: Right.
+Austin: … we start by being like: “hey, let's make sure to show the Cause a little love!” [overlapping] You know?
+Ali: [overlapping] Right. Yeah. And, yeah. I mean, in your defense I feel like you've been thinking about this for more than just a day. Obviously, you've been considering these opinions…
+Austin: [overlapping] Right! No. Yeah, totally.
+Ali: [overlapping] … that all just came up. But, you know.
+Austin: Totally.
+Ali: There was some question of, like, you know: should we mix this up? What are we doing? And…
+Austin: Totally! Back when… Back when we were getting ready to do the Stellar Combustor Arc I actually had… You know, Art and Jack don't have characters this season.
+Ali: Mm-hm…
+Austin: And I caught a little bit of… You know: “Oh, it was… It's nice to have a character!” And it's a little… You feel a little alienated from the rest of the show when you're not on the main plot episodes.
+Ali: Mm-hm.
+Austin: Or when, you know, for every six episodes… It's six other people episodes, then you get two. And sometimes one, once. You know what I mean? And… Certainly, you get one recording for the other side’s four to five. You know?
+Ali: Right.
+Austin: And that is… Again, it feels… I think a little alienating. And so around that time I’d… I reached out to them and been, like: “do y’all want to shuffle it up?” And that was part of also thinking about: “hey, could we shuffle up how the Faction Turn works in general?” Um. And we talked about it. And they're both happy to stay with this. Like, this was not a, like… I want to make it clear, I'm not, like… they're not chained to the wall and forced to do the Conflict Turn.
+[Ali chuckles]
+Austin: That's not how any of this works. You know? I do my best to be a wall to bounce ideas off of.
+Ali: Mm-hm.
+Austin: You know, like, Keith pitching me new character ideas and stuff like that. Like, happy to… try to shape that. And to give feedback! Like: “oh it would be really cool to have blank!” Um. Or “it’d be really cool… This Playbook seems like it would fit where we're going.” Or “that's a cool idea. But, like, what if we tied it to this instead?” So I try… I do have a guiding hand. I'm not saying I don't have any sort of influence. But I'm not here to be like: “Jack, you have to keep being Kesh!” [chuckles] Right?
+Ali: Mm-hm.
+Austin: So that came up there but even before that there was a real, like: “okay. How do we… Is this working out the way we want it to?” And I think it generally is. And I think this is probably part of why it's a polarizing response! There are a lot of people who are like: “hell yeah! The Authority is hard to beat.”
+[Ali laughs]
+Austin: Like…
+Ali: [overlapping] Yeah…!
+Austin: [overlapping] And Art and Jack keep inventing new fucked up little guys! And I'm really excited by trying to see the Blue Channel push against this stuff. So that response is also out there. I don't want to, like, undercut that that's a big part of the response. That's why I say it's polarizing.
+Ali: Mm-hm.
+Austin: And not just bad. You know? Um… [overlapping] Go ahead.
+Ali: [overlapping] Yeah. It's tough. I do… It's tough when you say, like, Jack and Art feel like they don't have characters, ‘cause they do, and it's Connadine and Gentian. Right?
+Austin: [overlapping] Correct.
+Ali: [overlapping] And that's sort of…
+Austin: Which is also sort of the problem in some ways.
+[Ali laughs]
+Austin: Right? Because we set out… I think… There's two things… I think I would say that there are… [chuckles] There are a few things that really crystallized this for me.
+Ali: Mm-hm.
+Austin: And what I think the problem is. And I actually think there's a couple of different things that different people have different problems with… or different responses to…
+Ali: Mm-hm.
+Austin: … the Downtime Turn. I think one group of people — or one possible response is — it just sucks to see 12 to 2. It just blows. Right?
+Ali: Yeah.
+Austin: And it makes… And I think this is a fair — really fair! This is something that's killing me! Is it makes the Cause look like chumps. Right?
+[Ali laughs]
+Austin: And, like…
+Ali: [overlapping] Yeah. Uh-huh.
+Austin: [overlapping] … I didn't dream up August Righteousness so he'd keep getting rolled! Like, I want him to get dubs! Right?
+Ali: I know. I love him! [laughs]
+Austin: Me too! I love all of these… There's, like, a… I love Jesset City!
+Ali: [half-laughing, half-shouting, overlapping] Y’all almost killed him!
+Austin: [overlapping] Like, I bought Jesset City into a scene so Jesset would get a… Well! You know!
+[Ali laughs]
+Austin: Totally! But we got it… [chuckles] We got… [overlapping] him outta there! But…!
+Ali: [overlapping] No, I know. No, I know. But I was listening to that I was like: “are you fucking kidding me?!?” [laughs]
+Austin: Uh-huh! Totally!
+Ali: So I understand the people who were just like: “I don't want to listen to this!”
+Austin: No, absolutely! And you have to! You do have to!
+[Ali laughs]
+Austin: You are chained to the…
+Ali: Yeah. Uh-huh.
+Austin: I mean, if you came to me like: “I couldn't edit this. [overlapping] It was too stressful for me.” I would do it. But…
+Ali: [overlapping] Oh, yeah. I was… No. But if I was ever like: [mock-crying] “I’m so scared over Jesset City! I can't do my job anymore!” — we would have a much bigger conversation! [laughs]
+Austin: Yeah, things would be… We would… have to think about changing more, in some ways. Um. But! In any case.
+[Ali chuckles]
+Austin: So I think that that's one thing. I think that that reflects a couple of things. One: it reflects… bad dice luck. Right?
+Ali: Mm-hm.
+Austin: Matthew Guzdial in… over on Cohost ran the numbers and basically was like: “based on the Ability and the way we've been playing, it should be 5 Cause wins, 9 Authority wins. But we're actually at 2 to 12.” And that just feels so much worse. Because also those five wins could have been a Pillar falling over.
+Ali: [overlapping] Right. Yeah. Uh-huh. 
+Austin: [overlapping] And that would have made this all feel so much better, right? You know, the Elcessor could have… gotten gotten got.
+Ali: Mm-hm.
+Austin: Gotten gotten got. Could have gotten got — before the… Stellar Combustor!
+Ali: [overlapping] Right!
+Austin: [overlapping] Y’all have had multiple chances to get the Grav Trains! And they just… The dice just don't work there. Um… I think a second thing with this is it's really hard to see… You literally aren't looking at the screen of tapped factions as a listener. And so there are times where like: “why don't you just tap multiple factions to get the dub?” And the answer is: “I don't know that there…” A listener might be able to tell me I'm wrong here. But there might be… I don't remember there ever being a time when the Cause had 2 of the necessary 3, like, wins, basically. Right?
+Ali: Right. Yeah.
+Austin: Normally, we do… Normally, we do more than three scenes per turn — normally we do… Unless it's a blowout. Unless it's Win-Win-Win. Or if it's, like, Lose-Win-Win in a way that feels complete. But I don't think we do that generally. I think generally we get to about three… Maybe I'm wrong. Which is, like, I just haven't looked at the data in this way and I haven't recorded the data in this way. Because this is the thing about actual play, right? Like, I'm thinking about what our next adventure is, not about…
+Ali: [overlapping] Right. Yea-yea-yeah.
+Austin: [overlapping] I'm not doing statistical analysis, right? We don't have someone on the team to go do that work, right?
+[Ali chuckles]
+Austin: But! It's not, like, we can… You know. You can tap a… Faction to get an automatic success inside… one automatic skipped roll — count that as a success for the Cause. Right?
+Ali: Mm-hm.
+Austin: But, like, when you're looking at four tapped Factions and then the Blue Channel and then the one remaining untapped Faction, you're like: “if I tap this the Authority is going to get an automatic success in the next one [overlapping] because I'm not going to tap the Blue Channel to do it.”
+Ali: [overlapping] Right.
+[01:30:09]
+Austin: Right? Or they're already tapped out. Or... Okay, well I'm now consigning the Blue Channel to do… to go pick everybody up next Turn. Right? Which is literally the thing that happened in this past action. In this past… We haven't gotten there yet, right? But I… But we go into the Downtime and I have to be, like, again: “everything's tapped! Sorry!”
+Ali: [overlapping] Yes! [laughs]
+Austin: [overlapping] “Y'all…” On top of Brnine being missing, and Routine being missing.
+Ali: [quietly] Mm-hm…
+Austin: On top of everything else… y’all have to figure out how to feed everybody again. [chuckles]
+Ali: Right.
+Austin: And there are different… There are things there that are, like… indicative, I think, just of how complex some of the Faction Turn stuff is. There's also — and I think this was a really telling thing — a mo… you know, you can destroy a Faction in order to get a… A tapped faction. If a Faction's already tapped you can destroy it to… you know, get another turn win. For instance. Right? Not, again: not win the whole game but get a win in a scene… by them sacrificing themselves. And I don't think that Jack, Art, or I feel comfortable doing that! And I think that's telling.
+Ali: Mm-hm.
+Austin: That we wouldn't feel com… I feel okay doing it but I would feel… I would wanna check in with someone first. I would wanna call y'all and be, like…
+[Ali laughs]
+Austin: “Hey! I'm about to sacrifice Carmine Bight.”
+Ali: Right.
+Austin: “I'm about to sacrifice Jade Kill. Is that… Are you on board with that?” And the fact that I would want to do that indicates that we are not playing both sides the same way. If that makes sense. You know?
+Ali: Yeah. For sure. And I… Yeah. I don't know. I… wouldn't… I know myself as a player and I would not want to destroy an entire Faction just to get… like, the win in that way…? Um…
+Austin: Yeah. Yeah.
+Ali: And I… [quietly] Man, that would be tough! [laughs]
+Austin: Right? It's tough! And you don't get one back for free! Right? You have to win one… You have to win a new one through…
+Ali: Uh-huh…
+Austin: Gray Pond could re… could fix one. Right?
+Ali: Right.
+Austin: Get a… Not fix one, but could get a new one going. But, like, that's not how… We're not playing it in a boardgamey way like that! Where like…
+Ali: Right.
+Austin: [sarcastically] “Yeah. We're throwing [chuckles] Factions of the Cause into the meat grinder because ‘don't worry! We can use Ja… Or we can use Gray Pond's ability to get a new one!’”
+Ali: [overlapping] Right.
+Austin: [overlapping] You know? It's not how we've been playing.
+Ali: [overlapping] Yeah. I…
+Austin: [overlapping] And the dice just haven't supported that, anyway, so who knows if it would have come together.
+Ali: [laughs] Yes. There is that too. Yeah. I… It's tough because I… There, like… There's definitely, like, tension points that are identified here because, like, we keep seeing these Downtimes where it's like: “oh, how is each member of the Blue Channel going to go help these people out?”
+Austin: Yeah.
+Ali: But there isn't… And it doesn't feel like… Mechanically, there's a version of that where, like… the Blue Channel goes into something tapped and then we see Carmine Bight come through and untap us. Right? Like, that's not…
+Austin: Right. The only time it's happened when they deliver treasure to you. Which was cool…
+Ali: Right.
+Austin: … and then you used that treasure to get… I mean, here! I mean, it does work. Right? Because, like, yeah. You use that treasure…
+Ali: Right.
+Austin: … to get the stuff you needed to do this.
+Ali: [overlapping] Right. Yea-yea-yeah.
+Austin: [overlapping] To get the invisibility radio. Refrigerator.
+Ali: Uh-huh. [laughs] Yeah!
+Austin: But you're right! You're not getting untapped in that literal way.
+Ali: Uh-huh.
+Austin: Uhm…
+Ali: Well and I… I understand why it seems like there's the Blue Channel…
+Austin: [overlapping] Yes. [quietly] Yes.
+Austin: [overlapping] … and then there's the Cause, and then there's the Authority. And us as the Blue Channel can support the Cause. But the Cause can only support us so much. And even, like… I mean, in Downtime we'll go to different… places! And, like…
+Austin: Right.
+Ali: … characters can, you know, have NPCs that they want to speak to! And things like that. But, like, you know, it's tough to really characterize each of those Cause factions without taking that extra time.
+Austin: Right.
+Ali: [overlapping] And I think…
+Austin: [overlapping] Well, this, I think, is the other thing we need to do better. Right?
+Ali: Right. Um… Right. ‘Cause, you know, it ends up being like: “Oh, our Downtime is the only time that we can do this!” And then it becomes this frustration of like: “well, now we're going into another Downtime…
+Austin: [overlapping] Uh-huh…
+Ali: [overlapping] “… where we're seeing all of these characters do these things for these other people.”
+Austin: Right.
+Ali: And not… [overlapping] Forwarding their… Yeah.
+Austin: [overlapping] While they're on their low. Right. Yes. Totally.
+Ali: [overlapping] Yeah. And they…
+Austin: [overlapping] And so this is the thing, right? Is, like… Another thing that I think is… So that's… that one half is: “they're losing all the time”. Right?
+Ali: Mm-hm.
+Austin: I think the other… half is: “hey, I don't mind them losing! But it would be cool if we saw some of these scenes from the perspective of the Cause.”
+Ali: Sure. [chuckles]
+Austin: And another thing that I was, like, a temperature taking thing as I sat down I was like: “how many Cause characters can I name that originated in the Conflict Turn?” And the answer is not many. Mostly, it's characters that in the Downtime Turn or the Conflict Turn on the Cause side that are… characters who started somewhere else and showed up in the Downtime. Or in the Conflict Turn. [overlapping] I keep saying Downtime.
+Ali: [overlapping] Right.
+Austin: But there are couple, like, Penumbra Candles[1] in the first Down… the first Conflict Turn from Rose River. Or there was another Delegate in the most recent arc — who got a name. But you’re not getting, like… You know, I don't know who Jesset’s boys are!
+Ali: [laughs] Right!
+Austin: Because we're not framing scenes… I mean, we literally just framed a scene sort of from Jesset's perspective? Right? But… generally speaking, those scenes are “What is the Cause doing and how is the…” Sorry. “What is the Authority doing and how is the Cause responding to it?” We have not done many “how is the Cause acting and which of the three Authority things is responding to it?” I think that's a thing… that's an easy structural shift that we can make to try to address some of [Ali: Mm-hm.] that feeling. That, like… Literally, the way… And part of this is ambiguity in the text, right? But it's, like, you do three Scenes per Conflict Turn: one per Authority of the Division. Right? So already… [corrects himself] Per Division of the Authority. You can tell I'm sleepy, ‘cause I'm getting my words background…
+[Ali chuckles]
+Austin: … back… Background! Geez!
+[Ali giggles]
+Austin: Backwards, constantly! I got, like, three hours of sleep last night. I had to read a…
+[Ali whimpers compassionately]
+Austin: I had to read a book of short stories by Borges who's all about getting words backwards. And then get up and have a podcast about that! And I did that by staying up all night to read that book. Um…
+[Ali chuckles]
+Austin: And then now I'm still awake! Here I am! I got a little nap in, afterwards. But not enough.
+Ali: Wow!
+Austin: Anyway! The thing I was saying: the way the rules are structured, every Division of the Authority gets a Turn and a Scene. And that… Versus, that's not true for every Faction of the Cause! And while you… Because of that, while it is totally fine to frame a scene from the Cause’s perspective, there's all of this structural pressure to do it the other way. ‘Cause you're thinking: “okay, we got to get all three Divisions of the Authority their own scene!” And you're not thinking: “okay, which on the…” I'm not thinking! Right? Because I'm thinking about my… the need to make sure my part, my responsibility is taken care of!
+Ali: Mm-hm.
+Austin: You know? In terms of the Division of narratorial labor or whatever. Um… You're not thinking: “here's an open canvas — who on the Cause makes a move this turn?” And I think if we said: “hey, we have to always have at least one ‘Cause acting’ move. And we frame from the Cause’s perspective.” And then one of the Factions… Sorry. One of the Divisions of the Authority responds to it, we don't know which one!
+Ali: Mm-hm.
+Austin: Until the Cause frames… I think that's an example of a thing we could do to help push towards that style of getting more little blorbos on the… side of the Cause.
+[Ali chuckles]
+Austin: You know?
+Ali: [overlapping] Right. Yeah.
+Austin: [overlapping] Like, who's the Occam Olio of the Cause right now? I mean, the answer is, I guess, it's the Blue Channel characters. Right?
+Ali: Right. It’s… Yeah.
+Austin: But, like, that doesn't solve our bigger problem of “it makes the Cause look like chumps.” Right?
+Ali: Uh-huh. Yeah. I mean, I guess it would be, like, Cori [chuckles] at this point!
+Austin: Right. Cori is the little blorbo of… Yeah.
+Ali: Uh-huh!
+Austin: A hundred percent. Like, quite literally: people have posters up. I'm certain. And also is kind of maybe not great, but everyone loves her anyway.
+[Ali chuckles]
+Austin: Yeah.
+Ali: [sighs] Yeah. [overlapping] But I…
+Austin: [overlapping] I think that’s part of it, too.
+Ali: Mm-hm… Yeah. I mean, it's… You know! You learn thing… You gotta Play To Find Out What Happens.
+Austin: You trul… I mean, that's the third thing. Right?
+[Ali laughs]
+Austin: Is, like, the… there is a real… We make a show. Right?
+Ali: Mm-hm.
+Austin: Because, as far as I know, the closest anyone… No one has been frustrated with the play of this — internally. Outside of Jack and Art being like: “I wish we had characters sometimes. But no, we don't want one. Don't worry about it.”
+Ali: Right.
+Austin: And Keith being like: “I want to win more.”
+Ali: Uh-huh!
+Austin: Right? But no one is like… No one has voiced to me the sense that we're doing it wrong. Internally. And the thing is: we're making a show, which means there is… You know… “Is there space for Jesus?” You know what I mean?
+[Ali bursts out laughing]
+Austin: We got a third person dancing with us: [overlapping] it's the listener at home!
+Ali: [overlapping] Right! Right. Yeah. Yeah…. I mean, that is an interesting part of it ‘cause, like… I understand all these perspectives and I do think the show improves when… if we make these adjustments.
+Austin: Yeah.
+Ali: But it also becomes a weird thing when it's, like… Well, those ideas didn't come from Jack and Art. You know what I mean?
+Austin: Yeah. Right.
+Ali: It's not like Jack was like: “oh I was really upset about how this Kesh stuff…”
+Austin: [chuckles] Right! [overlapping] “Shook out?”
+Ali: [overlapping] “... shook out. And now I would like to… you know, focus on the Cause a little bit more from my perspective.” Um…
+Austin: Right.
+Ali: So.
+Austin: The thing… The place where it hits me is that, like, the beginning of this season I was like: “here is the season I really want to make.” And it was one that was more optimistic in outcome than this.
+[Ali laughs]
+Austin: You know? Like, truly! It really wa…
+Ali: [overlapping] Yeah.
+Austin: [overlapping] And this is Play To Find Out What Happens. Right?
+Ali: Right.
+Austin: This is sometimes you hit… you get really bad dice rolls. Sometimes you pick an ability that's, like, really strong and you didn't know how strong it would be.
+Ali: Uh-huh.
+Austin: Sometimes you stumble into structural biases that push a narrative a certain direction. That’s… That's games! Right?
+Ali: Yeah.
+Austin: Um. And you just don't know it until you're in the middle of it. That is… That is what happens. And so I… And, again, I did say at the beginning of this last Downtime session: “hey, let's be thoughtful about this.” But what saying that does… doesn't do, is looking at the ways in which those structural pressures can shape the story. Right?
+Ali: Mm-hm.
+Austin: And so I think this has been an opportunity to do that and to think about it. I wouldn't want them to have gone less hard, is the thing that's tough. Right? That, like… And I like all the stuff that we got. Occam Olio slowly becoming…
+[Ali chuckles]
+Austin: … the poster child for the… you know, Authority here, for the Bilateral Intercession is, like, a fascinating story that's breaking out — that we never would have done on purpose. You know?
+Ali: Right. Yeah.
+Austin: And I don't know where it goes yet! Right? But. But getting these dubs is real! It's really happening! And that's weird. And interesting. But at the same time… and I think that the Combustor stuff was really great! Partly, because it pushed us to get to a more optimistic place… and get a big win that felt so earned. To me, as the GM, at least. Right?
+Ali: Right. Yeah. Actually, I do have a question in terms of that and, like, how have you been thinking about how to apply Faction Game stuff to the main sto… the quote-unquote… [overlapping] it's all the main story.
+Austin: [overlapping] Yeah! Yeah.
+Ali: Which is why that… additionally feels a little bit difficult. But, like, you know… We haven't… on the Player side, or the… [overlapping] the Blue Channel side…
+Austin: [overlapping] The Blue Channel side. Yeah.
+Ali: [half-chuckling] That's the other thing, we're all players — which is why… [chuckles]
+Austin: Yeah.
+Ali: … I feel like… When you think about it — when you mentioned it being structurally… now I feel, like, all of these…
+Austin: Yeah!
+Ali: I can identify these points in my mind where it's like: “oh, I'm fucking this up!” [laughs] You know what I mean?
+Austin: Right! Totally.
+Ali: There's a perceptual thing happening that… [overlapping] could be interesting. Yeah.
+Austin: [overlapping] It feels like… It feels like…
+[Ali chuckles]
+Austin: … I'm playing… It feels like I'm the GM. Right? Which is an excuse in a real way. Right?
+Ali: [overlapping] Right. Mm-hm.
+Austin: [overlapping] You know, Austin's always supposed to be trying to draw out conflict. But then it feels like Jack is playing Kesh and Art is playing Nideo.
+Ali: [overlapping] Right! And that’s the…
+Austin: [overlapping] And that's not true.
+Ali: Yeah. It's, like, you know when you have those, like, old school… You're playing with your friends, and you have the GM screen. It's, like, as if Art and Jack are now, like, on your side [overlapping] of the table…?
+Austin: [overlapping] Correct. And that shouldn't be the case.
+Ali: [laughs] Yeah!
+Austin: It won't work if we continue doing it. Like, it literally won't function. Because we need people to rules-lawyer for the Cause!
+[Ali chuckles]
+Austin: Like, truly… a thing… You know.
+Ali: Right.
+Austin: A Faction got… Or a Division of the Authority got disbanded and absorbed last session and none of us stopped to think: “does that mean we still do a third scene this turn, where the Cause doesn't… can't be opposed?” None of us thought about it! And the answer, I think, from reading the book is: that's not the case. Right?
+Ali: Mm-hm.
+Austin: But none of us tried to make the case… None of us… We didn't go looking for that in the book — which, again, partly: we're recording at, like, 10:30 a.m. Not am. 10:30 p.m.
+[Ali chuckles]
+Austin: I've had a full day of work that day.
+[01:45:01]
+Austin: Jack is getting ready to move… You know what I mean?
+Ali: [overlapping] Right. Yeah. Mm-hm…
+Austin: [overlapping] Art’s traveling…! Like, we're all — you know, there are reasons why… And we'd already done an hour-long conversation before we flipped a coin — because that was the first time we gotten to talk about any of this, at all!
+Ali: Uh-huh. [overlapping] Yeah. Right. Yeah.
+Austin: [overlapping] Since the Stellar Combustor recordings came out. Right? So it's, like… Part of the… You know, there was no time for pre-conversation ‘cause that's the lives that we're living right now! Um. And I think that that, I think, speaks to… a part of the… why some of this is shakier than it ideally would be. You know? I think a lot about, for instance, whenever I use Exenchester March’s You Get A Free Reroll, I should be narratively grounding that in something. What did March…
+Ali: [overlapping] Oh, yeah…! Yeah…
+Austin: [overlapping] What did the… Frontier Syndicate do to give you the extra reroll? I think in this season… Or this episode I didn't do that! And that's, like, a classic: “oh, man! I just want it… We already had such a long recording! Let's get to…”
+[Ali chuckles]
+Austin: “... the end of it! Let's get to the…”
+Ali: [overlapping] Right. No… Right.
+Austin: Or let's get to the juicy bits. “Do I really need to de-de-de-de?” I don't think that! It just happens automatically. Anyway! You were asking a question.
+Ali: Right. Yeah. I… Sorry. So the…
+Austin: You don’t have to apologize! I interrupted you!
+[Ali bursts out laughing]
+Austin: I apologize! I'm sorry!
+Ali: We both interrupted each other. [laughs] Yeah. Well, the question I was… ‘Cause, for instance, the Blue Channel hasn't met Occam Olio.
+Austin: Right. Yeah.
+Ali: And, you know, there's possibility there… isn't. You know, we ran into Marlon Styx, for instance.
+Austin: Yes! We sure did!
+Ali: [laughing] And focused on that goal more… in a way that is perhaps out of character for the way that we play, usually. And, like, have you… Are you careful about when to, sort of, have that bleed happen, I guess? Are you, like…
+Austin: [overlapping] I…
+Ali: [overlapping] Is it one of those things where there's, like, some reveals that you're holding on to, or is it just, like, the thing of like: “oh, I'm building this mission… here’s my…”
+Austin: [overlapping] I’m building the mission based on what we have at the table. Yeah.
+Ali: [overlapping] Right. “Here’s my toybox…”
+Austin: [overlapping] So I mean, you know, the Stellar Combustor obviously came out of this, also.
+Ali: Right. Yeah.
+Austin: I am… You know, the Marlon thing was very much… Well, even that was… Was that…? Oh, that was the party, right?
+Ali: Mm-hm.
+Austin: During the… That was: “what is a fun B-plot for you…”
+[Ali chuckles]
+Austin: “... and Phrygian — for you and Keith — to do.”
+Ali: Uh-huh.
+Austin: When the main party… Not the main party! See? Yeah. Now you have me doing it!
+[Ali chuckles]
+Austin: When the Sortie party… [chuckles]
+[Ali laughs]
+Austin: You don't have me doing it. I'm just doing it.
+[Ali chuckles]
+Austin: The Sortie party is fighting to get the… that was me putting the Iconoclasts back on the table. Right? Putting the Usher of Truth on the table. But even that came out of the Conflict Turn’s arrival of the woman on the black… the horse with white fetlocks or whatever. [overlapping] Right?
+Ali: [overlapping] Oh, ri-ri-right.
+Austin: So even that is grounded in that. And it seem… We'll see, right? But, like, you take a look at something like the… some of the stuff that characters are looking into or getting ready to look into in the upcoming Downtime! And that's tied to stuff that's happening in the Faction Turn. What… I don't know what the next mission is yet — as of this recording! So…
+Ali: [overlapping, quietly] That’s so…
+Austin: [overlapping] I don't know. But, like, will Occam show up in that place… in the… the Sortie? You know, the Blue Channel game? Probably, at some point! You know? If he makes it that far!
+[Ali laughs]
+Austin: I don't know! We'll see! Right?
+Ali: Sure. Yeah.
+Austin: Sorry, I'm double checking Occam Olio's pronouns. I've been saying he/him and it might be right. It i… Nope! It's they/them! Occam is they/them.
+Ali: Oh.
+Austin: So. Apologies. Occam Olio is they/them! Um. Yeah! So, like, they might show up in… the Blue Channel game — Blue Channel side of the game — if they make it that far or if the right thing shows up. Right? I could imagine it happening in the next arc! I could imagine it happening four arcs from now.
+Ali: [overlapping] Right. Yeah.
+Austin: [overlapping] I could imagine them being in the third of these seasons. [chuckles] You know? I don't know!
+Ali: [overlapping] Right.
+Austin: I can imagine them dying in the next thing. Right? Sometimes your luck runs out.
+Ali: [laughs] Yeah. Exactly. But… overall, it's basically just, like… an expansion of the toybox that you go to as a GM?
+Austin: That we go to.
+Ali: Yeah.
+Austin: Which also is pressure on… add cool new baddies to fight. Right?
+Ali: Right. Yeah.
+Austin: It's, like, that… Which isn't the… only thing you can do with these rules. I think it's a good thing you can do with these rules! It works for us! And it… does play into some of the, like… the vibe of the Blue Channel being super heroic in a way. Right?
+[Ali laughs]
+Austin: Like, the Blue Channel is… the group getting the wins! But I do think that that's not what we had in mind when we set out, in some ways. I wanted to come back to y'all and be like: “guess what! Jade Kill now controls the trains!” You know?
+[Ali laughs]
+Austin: And not… you know? Or whatever.
+Ali: Right. Yeah. And the… you know, that's what Keith was setting up, initially, that led to this Stellar Combustor thing.
+Austin: Right. [overlapping] Yep!
+Ali: [overlapping] This is, you know… Yeah. We've had these… hopes. [chuckles] It's just the dice are not always there for you.
+Austin: Yeah. Or things don't go the way that they could have in the… main Sortie! Right? Where, like, in the train Sortie you had the ability… to get a… an outcome, a Faction outcome of your choice. But you had — to do that you had to do this extra objective, which was to recover all these supplies from the train…
+Ali: [overlapping] Oh, ri-ri-right! [laughs]
+Austin: [overlapping] … and everyone was beat up by the time the fight was coming to a close and chose to just escape safely instead. Right?
+Ali: Yeah.
+Austin: And that is a good example of, like, how these two things do interact. Because if that happens, then you could have gotten the thing that either, you know, hits a Pillar, or untaps two Factions, etc. And instead we went into another Downtime without that… without, you know… with everything tapped or whatever. So… Or another Conflict Turn with things tapped.
+Ali: Mm-hm.
+Austin: So. Yeah. It interact… And I also, you know, in some ways I'm glad to see the… I'm glad that it's 2 and 12 and not 5 and 8 or whatever because it helps heighten — this is the most Marxist thing I could say — it helps heighten the contradictions…
+[Ali chuckles]
+Austin: … in the way we're playing from the way that we are… wanted to tell a story this season, which helps identify these structural problems.
+Ali: Uh-huh…! Yeah.
+Austin: Versus… If it was 5 to 8, we'd be… it'd be like: “we're in it! The Cause is in it! [overlapping] It's all working out! It's just some… a little bad luck!”
+Ali: [overlapping] Right. Uh-huh…
+Austin: When, in fact, it is… some of these other things are shaping the way these have gone.
+Ali: Right.
+Austin: But what I don't… A thing I truly don't want is… for the Authority to seem toothless, either! Right? So I… I don't want us to, like, pull back on how hard the Authority is going — I think maybe framing some of those scenes from different directions might be the way that we end up doing a short-term adjustment, at least. And then long term, I don't know! You know? If people on the Blue Channel side wanted to play in the Conflict Turn, that would be great!
+[Ali laughs]
+Austin: I would love that! You know?
+Ali: Right!
+Austin: I think the thing… The other thing is — this is also a “we’re making a show” structural thing — it's been really nice to have… “hey, this is the group of people who are the Blue Channel party!” every week. [overlapping] Or every time we record — which is not weekly. But…
+Ali: [overlapping] Right. Yes. Yes-yes-yes.
+Austin: Every two or three weeks, this same group of people get together… which makes scheduling really easy. You know?
+Ali: Mm-hm.
+Austin: And all of them are in the same time zone! [chuckles]
+Ali: Mm-hm.
+Austin: You know? Um. So…
+Ali: Yeah. I… Yes. There are… just, like, practical things like that that are sort of tough to deny, that like: “oh, every time you have to do a Faction Game you only have to ask two people [overlapping] if they're available!”
+Austin: Yeah.!
+Ali: It's the same two people every time.
+Austin: [overlapping] Same two people!
+Ali: [overlapping] Which makes… this easier than, like, Sangfielle was, for instance.
+Austin: [overlapping] And they remember what happened last time ‘cause they were in that one. You know what I mean?
+Ali: [overlapping] Right. Yea-yea-yeah.
+Austin: So.
+Ali: It's funny ‘cause the more that we talk about it — I'm thinking about the conversation we had back on Grandpa’s Farm, which is a ruleset I now really appreciate because it does say very specific things. Like: “if you're going to do this Get Out Of Jail Free card, you have to explain how that happens.”
+Austin: Right. Yep!
+Ali: That is part of the game that is very structural. And even just being like: “this is when you're doing free RP.”
+Austin: Yep.
+Ali: “You wanna to play a scene, do it right now!” Whereas, like, it's… We're the type of people who make that time for ourselves a lot.
+Austin: Yes.
+Ali: But, like, sometimes without that structure. And if you’re, you know, dealing with other conversations or other anxieties it's, like, hard to be like: “okay, we're doing a scene! But how are we making it a scene?”
+Austin: Totally. Well, and on top of that sometimes you get into bad habits; and those habits stick; and sometimes you… You know, I think part of it is also the… The thing we're doing is not, like… The book says, at the end of the section on, you know, the intro to how do you play a Conflict Scene. Right?
+Ali: Mm-hm.
+Austin: It does a bunch of rules. And then it says: “You could play the Conflict Turn with your whole group, or just a few players. You might even play the Conflict Turn of a campaign with a different set of players entirely!” That's all of the guidance on…
+[Ali chuckles]
+Austin: Which I'm not dragging Briar for this! Briar knows I love this book.
+Ali: Oh, yeah.
+Austin: But, like, we took that… “you could do it!” And we were like: “Yeah, okay. We'll do it.”
+[Ali laughs]
+Austin: And we're doing it. And, like, there isn't… there aren't guardrails in the way of like: “hey, remember…!” You know… You know. A version of this might be something like: “Always make sure one of your three conflict scenes is from the Cause’s perspective. Start by saying: ‘What does the Cause do this turn?’” Right? Like, those… That sort of guidance — which I think we'll try to build in now — is, like, the way you structurally push towards making sure that… But also, that… You know. Or saying something like: “consider what choosing,” you know, “a Cause perspective over an Authority perspective would do for the tone of the game!” Or whatever.
+Ali: Mm-hm.
+Austin: And these are all things we know in the abstract, constantly. But there isn't that sort of, like, rules scaffolding to build around. It is a suggestion of, like… And as somebody who's in the middle of writing a game I get how you write this! You go: “Yeah! You could do it!” I think in the current text… To go back to REALIS for a second. In the current text of REALIS — or maybe it was a previous edition that I pulled this out of finally — but it was like: “you could run this GMless!” I don't know… I don't know how!
+[Ali bursts out laughing]
+Austin: I don't know how you could do that! I don't know what the fuck I was talking about when I wrote that! Maybe I was, like, assuming one day I'd get around to writing a section on how to run it GMless…!
+Ali: Right…
+Austin: But I don't think you could! Um… I think you can. But I don't know… I don't have… I haven't built that scaffolding up yet. And so if I sat down to do it — as one of my play-groups did at one point — then they were like: “wait. How do we do that? Aren't there other rules for that?” And I was like: “I don't… I guess not!”
+[Ali laughs]
+Austin: “I guess I wrote that in there…!”
+Ali: [overlapping] “Sorry!” [laughs]
+Austin: [overlapping] “Thinking about rules! Sorry! Have fun!” Right? So.
+Ali: [overlapping] Yeah. I… Armour Astir: fantastically designed.
+Austin: [overlapping] Yes. Yeah.
+Ali: And the game systems are just one of those things where, like… there's a lot of words in there already! So…
+Austin: Play To Find Out What Happens!
+Ali: Yeah… Uh-huh.
+Austin: And you don’t know… Right? And a different group who… was… I mean, I really think that if you take two people who are not part of the Carrier, and you tell them… And the other way, right, is, like, we could have divided it up differently where like: I run the Wayward Factions, Jack runs the…
+Ali: Mm-hm.
+Austin: … the Cause, and Art runs the… you know, the Authority or something. Which could have run into different problems of feeling hostile, or feeling, you know, like, PvP in a weird way. Who knows! Right? We just Play To Find Out What Happens to some degree, and then you respond and adjust and keep going. You know?
+Ali: Yeah.
+Austin: We’re like sports in that way?
+Ali: Yeah… [overlapping] Yeah.
+Austin: [overlapping] You know? You have a Playbook, you have a team…
+[Ali laughs]
+Austin: … at the beginning of the season and you're like: “Alright. We're going to do this stuff!” And then you're like: “Ehm! We're going to have to do this other stuff instead!” [chuckles]
+Ali: Uh-huh…
+Austin: Or, you know: “I didn't realize it, but our pitcher's arm is getting really weird because of the way we've taught… we're forcing him to pitch in our pitching system…” That's not how pitching works in baseball.
+[Ali bursts out laughing]
+Austin: But you know what I mean.
+Ali: [chuckling] I'm… I think I'm getting what you're… jotting down.
+Austin: Yes.
+Ali: But yeah. There is now… I mean, we've… we’ve… we’ve… we're listening. [chuckles] We're learning.
+Austin: Wowww! You opened the Notes App!
+[Ali bursts out laughing]
+Austin: I'm not saying all that! We are listening and learning, but just, like… that's just life.
+[Ali laughs]
+Austin: We're listening, we're learning, we're living.
+[Ali laughs]
+Austin: Put it above your oven!
+[Ali laughs]
+Austin: Get the crochet needles out!
+Ali: Yeah. Well, I just think, like, it's going to be… I mean, this conversation was very productive. Obviously, you're gonna have other conversations with…
+Austin: Yeah.
+Ali: … Jack and Art. I am… looking forward to speaking to them in a few weeks, like I said. But you know… there is… There's going to be a balance of continuing to play the way Jack and Art want to.
+Austin: Yeah.
+Ali: And I'm not going to say any-thing about what that means! But, like…
+[Austin chuckles]
+Ali: You know, they've…
+Austin: That is not you giving a coded message…
+[Ali laughs]
+Austin: … because you secretly [overlapping] without me knowing talked to Jack…
+Ali: [overlapping] No, no-no. Yeah. I'm just saying, you know, they're… they have certain player desires and, you know, there's only so much that you can work against that as well. Like, the mood at the table has…
+[02:00:00]
+Ali: … didn't come from thin air.
+Austin: [overlapping] Right. Right.
+Ali: [overlapping] Or from this lack of, you know, definition within Armour Astir. You know? The way people… the things people are excited about when they sit down at the table. So.
+Austin: Mm-hm.
+[Ali chuckles]
+Austin: Yeah. I do think part of it is conceiving of yourself as a little bit of a GM when you sit down and getting to go: “ooh! I'm going to get to make a cool villain for the heroes to fight!”
+Ali: Mm-hm.
+Austin: Right? “I can't wait to see that happen.” You know?
+Ali: Mm-hm.
+Austin: But… But I also believe Art when Art was like: “I was rooting for Fealty and Veronique in that scene.”
+[Ali chuckles]
+Austin: And they didn't get the dub against Occam. Right?
+Ali: Uh-huh.
+Austin: And that's a place where it's, like, that was my scene. Right? The first Occam Olio scene was my scene. And I should have… in retrospect — and it's easy, like, this is just how I… I'm always second guessing literally everything I do —
+Ali: Uh-huh. Yeah.
+Austin: It’s very easy to be like: “oh, I should have just said to Art and Jack, frame me a scene from their perspective about this thing that's happening — and then we'll deal with everything else from their… you know, framing.”
+Ali: Mm-hm.
+Austin: And, just not the way the… Again… It feels like when I sit down to play that I'm supposed to be playing the Frontier Syndicate. And also: I'm the GM — which means…
+Ali: [overlapping] Right…
+Austin: [overlapping] … I'm always thinking in that mode a little bit, anyway. But. Yeah. You know.
+Ali: You know what this is making me think?
+Austin: What's that?
+Ali: How good of a game Fiasco is. [chuckles]
+Austin: Fiasco's great!
+[Ali laughs]
+Austin: Big fan.
+[Ali laughs] 
+Austin: Yeah. Totally.
+Ali: Um. Because I now appreciate that…
+Austin: [overlapping, quietly] Mm-hm. Mm-hm.
+Ali: [overlapping] … that rule in Fiasco that is just like: “Hey. I… Tell me what to do here!”
+Austin: Right. Right.
+[Ali laughs]
+Austin: Well, that's the other thing… Another thing about the Conflict Turn is it's very Firebrands-y.
+Ali: [overlapping] Yes.
+Austin: [overlapping] But in Firebrands you have a character. Right? And so you're gonna come to know that character's interiority, and then feel comfortable doing intimate scenes with them!
+Ali: [overlapping] Yeah.
+Austin: [overlapping] Doing quiet moments! You get the loud-quiet-loud… you know, structure with them. And we've had some returning characters: we've had Occam; we've had one of the other… we had Silverbrick, or… Blank Shore — or whatever the other Frontier Syndicate people —; and we have Gentian and Connadine. Right? And we have Gentian's crew. But, like, we're not spending quiet time with them, because we're bouncing off of them. And we're only playing once every 6 weeks or something.
+Ali: Mm-hm.
+Austin: You know? So we don't have that close… You know, there's a really good Brnine conversation coming up.
+[Ali laughs]
+Austin: If people… I’m gonna tease it a little bit. There's a really… And I feel like…
+[Ali sighs]
+Austin: You could do that conversation because you were in Brnine's head in a good way.
+Ali: Sure.
+Austin: Um. I don't know that any of us are in the heads of our Conflict Turn characters in that way. I'm a little bit there with March. But that's ‘cause I've had March in my head for a year. You know?
+Ali: Uh-huh.
+Austin: So. So yeah.
+Ali: Well, we'll see what happens… I’m…
+Austin: We will!
+Ali: … anxious about listening to the [chuckling] aforementioned conversation again!
+Austin: [overlapping] It’s good, I think.
+Ali: [overlapping] It’ll be fine, I'm sure it went well!
+Austin: It went well.
+Ali: I am also a person who's like: “what if I just said something differently and better? [chuckles] Wouldn't the show be better if I did that?”
+Austin: No.
+Ali: Um.
+Austin: [overlapping] It was good.
+Ali: [overlapping] But that's also… Um…
+Austin: [overlapping] It was all good.
+Ali: Uh-huh. But, yeah! Is there anything that you want to say before we close up this… amendum?
+Austin: [meekly] Can we do an episode about Armored Core later this year? [chuckles]
+Ali: Please! [overlapping] Yeah!
+Austin: [overlapping] Maybe once you and I both have all the endings and maybe…
+[Ali laughs]
+Austin: I don't know if Dre's playing. But, like, if someone else is playing.
+Ali: We sho… Yeah. We should do that.
+Austin: That should be fun.
+Ali: What do you mean by an episode? An episode…
+Austin: Of this.
+Ali: Of Gathering Information?
+Austin: Yeah. Why not?
+Ali: You know what, why not?
+Austin: Why not? Light work!
+[Ali laughs]
+Austin: [overlapping] We can’t do a Media Club Plus anymore!
+Ali: [overlapping] For the first couple of episodes…
+Austin: You know what I mean? [overlapping] That's all Hunter x Hunter now!
+Ali: [overlapping] Right. Yeah, this is true. Yeah. For the… opening couple of episodes I would do this sort of, like, fake topic and real topic?
+Austin: Right.
+Ali: Um. And let's just make the fake topic Armored Core.
+Austin: Yeah.
+Ali: [overlapping] I’d love to chat about it.
+Austin: [overlapping] Armored Core, and then, like, we do a second topic that's, like, Armour Astir combat, or something.
+Ali: Right.
+Austin: We talk about…
+Ali: Uh-huh…
+Austin: Maybe I'll get a good fight in here in the next couple of…
+[Ali chuckles]
+Austin: … weeks. Months. Not weeks. There's no fighting in the Downtime as far as I remem… We've not done the Downtime! I can't say shit! So.
+Ali: [sighs] Oh, yeah. [quietly] You know what, things might pop off! Who knows!
+Austin: [chuckles] Things could pop off!
+[Ali bursts out laughing]
+Austin: If things pop off… If things do pop off, it's very funny that we said this here, now, this moment. That's all I'll say.
+Ali: Mm-hm!
+________________
+[1] Her name is Candles Penumbra according to the Dossier in PALISADE 03: Today is Monday.

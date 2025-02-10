@@ -1,0 +1,1398 @@
+﻿Realis 01: Those Nerveless Chancers
+Transcriber: robotchangeling
+Opening Narration        1
+Introduction        2
+About Realis [0:05:23]        5
+About Gameplay [0:16:48]        11
+Foundation Sentences [0:28:56]        18
+Classes [0:36:30]        24
+Ali’s Class [0:38:09]        25
+Art’s Class [0:44:10]        31
+Keith’s Class [0:46:02]        32
+Moons [0:49:49]        35
+Character Names [1:04:08]        43
+About Bonds and Dreams [1:06:55]        46
+Factions [1:17:49]        54
+Band [1:27:52]        59
+Bonds [1:32:02]        62
+Dreams [1:40:02]        72
+Band Name [1:47:08]        77
+More Character Details [1:56:22]        88
+Ghost Talk [2:01:06]        93
+Opening Narration
+Austin: I want you to close your eyes and imagine it with me:
+[“Realis” by Jack de Quidt begins playing] 
+Imagine Realis Itself, the Radiant Planet at the heart of the Thousand Moons, that orb which lights the cosmos entire. Above it, the betrayer star, the Corpse Sun, red and sick and pulsing ill, small and fainter by the day. Below it, hungry and roiling, the Great Void, an abyss of voracious clouds. And in between, those thousand moons, countless except you know their number. Varied eternally, yet all dwarfed by the azure orb around which they glide.
+And there, bring them to mind too: those four colorful moons, spinning and buzzing and twirling around each other.
+Do you remember their names? The names of the Tetraspherica? The Speckled Quartet, the Marbled Quartenion? Those spinning, glorious jewels—unique even among all thousand of the moons of Realis? Let me remind you:
+Placid Ulled. World of farms and cultivation and soil—and what lies beneath it.
+The Crux. A vast colosseum world where victory, glory, and power have been rendered equivalent.
+Prismatic Principia: Home to the Endless Academy, whose halls house famed philosophers, eager alchemists, mages, and—it seems—the occasional ghost.
+And Hypnotic Dokine, where mists mystify, clouds corrode, and light always reveals a new truth.
+For as Long as Long had been, these four vibrant moons have swung with dancer’s rhythm around one another. Long before the great Powers spread their influence across the orbital sphere, long before the founders of Sphenic Polytechnic revived the Orphan Vessels, LONG BEFORE THE MOONFOLK UNDERSTOOD THAT THEY WERE THE MOONFOLK, those who lived on the worlds of the Tetraspherica knew each other as neighbors.
+“True as the tetrad,” the saying goes. A stable waltz. Four marbles in alignment. Eternal. Reliable. Unshakeable.
+But today…in the shadow of an Ulledd mountain, in the keep of the Citadel Bein, where negotiators bicker and showmen entertain, a treacherous conspiracy unfolds…
+Introduction
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Ali Acampora.
+Ali: Hi, my name is Ali. You probably know this from the Patreon you're listening to right now. You can find me here. I host a show called Gathering Information. I am also on a Star Wars podcast called A More Civilized Age. Dot Net.
+Austin: Dot Net.
+Ali: A More Civilized Age. Go to Dot Net.
+Austin: Go to Dot Net.
+Keith: Search your podcast app for amorecivilizedage.net.
+Austin: That’s right. [Keith and Ali laugh] Keith Carberry.
+Keith: Hi. You can find me on Twitter and Cohost at @KeithJCarberry. You can find the let’s plays that I do at youtube.com/RunButton. And you can also listen to Media Club Plus, the podcast where me and Dre and Sylvi and Jack watch Hunter × Hunter and talk about it. It’s been going great. What a good show.
+Austin: It’s a great show. Y'all have just, as of this recording, finished the Yorknew City Arc. You're about to start the next arc, which is Greed Island.
+Keith: Yeah, Greed Island.
+Austin: Yeah.
+Keith: Yeah.
+Austin: Exciting.
+Art: I loved seeing that review from the person who didn't know who you were.
+Austin: Yeah.
+Keith: Yeah, yeah. There was a really nice review from someone who just found us looking— desperately searching for Hunter × Hunter material.
+Ali: Wow.
+Keith: Yeah.
+Austin: It’s a great Hunter × Hunter podcast. Like, separate from the fact that you are all my friends, it has been a joy to listen to. [Ali chuckles] I would listen to it even if you weren't.
+Art: I hope maybe one day that person gets here.
+Austin: That’d be great. [Keith laughs]
+Ali: Yeah.
+Art: But even if they don't.
+Keith: Yeah.
+Austin: It’d be funny if this was the first thing they ever listened to on the Patreon. No, 'cause they'll probably listen to the Media Club Plus bonusodes first.
+Keith: Yeah.
+Art: Yeah.
+Austin: But then if they're like, “Let’s try the regular Friends at the Table thing. What’s this thing that’s in my bonus feed? Realis 01?”
+Keith: Yeah.
+Austin: “That’s a cool word.”
+Keith: “I could listen to an 01.”
+Austin: “I'd listen to an 01.” Exactly. Maybe this is a good jumping on point, right? [Ali and Art chuckle] Hello to that person, if so. Let us know that you did that.
+Keith: Yeah.
+Austin: And that was also the voice of Art Martinez-Tebbel.
+Art: Hey. You can find me on Cohost at @amtebbel, Twitter at @atebbel, and when we're— I don't know exactly when you'd be hearing this, but recording this, we have some relatively new merch at friendsatthetable.shop and maybe even newer— no, probably not. Probably sooner than that.
+Austin: No, I don't think so. I think this’ll be out in the summer of 2024 is my guess. I'm Austin Walker. You can find me on Twitter at @austin_walker, on Cohost at @austin. I don't do a lot of posting these days. I'm much less of a poster than I once was. Poster’s hibernation has kicked in. But one of the things I do do is run tabletop roleplaying games, and today I have the joy of starting a new season of Friends at the Table, playing a game I wrote. 
+About Realis [0:05:23]
+Austin: I started making this game back in May of 2001. I made it in response to reading all of Beserk, the manga by Kentaro Miura, right after Miura died. Reading that manga, which is a thing that I recommend with some caveats. Those caveats being, like, understand that it’s a manga that was written over decades that grew and became, I would say, less edgelordy and also came to really tackle its own early immature edginess and the way that it would use things like sexual assault in its early chapters, to great effect, to become a book about something beyond just fighting big monsters and dark fantasy stuff. Realis is not explicitly a dark fantasy game, though it has dark fantasy elements. 
+And I wrote it in response to Beserk, partly because I felt like I got something from Beserk that I didn't see in other things widely influenced— claiming and kind of showing off influence from Beserk. I think a lot of folks make stuff inspired by Beserk and say, “Here’s a big sword,” or “Here is a terrible eclipse that means some dark, you know, ritual is going to come to pass that ruins the lives of many people,” or even something like, “Hey, trauma is hard, and it’s hard to grow and find new family and find new people and find direction,” and I think all that stuff is important. The thing that Beserk was most about to me was this idea of big archetypical characters who were ultra-capable becoming more and more specific over time and becoming more and more fallible over time, achieving their goals through the sort of raw possibility and strength of who they were and then having that rawness eroded or sanded down or sculpted into particularity. And that is what Realis is about. 
+I'll say also Beserk is not the only influence. Book of the New Sun, which if you've listened to the podcast I do with Michael Lutz and Cameron Kunzleman, Shelved by Genre, you've heard me talk about Book of the New Sun at length. If you want to hear that, you should go hear that. Also a big touchstone: Tarsem Singh’s The Fall, Hyper Light Drifter, Sable, Earthsea, the anime Reign: The Conqueror—yes, the weird one about Alexander the great. Nausicaä of the Valley of the Wind, Trigun, Warframe, Outer Wilds, Star Wars: A New Hope! [cross] Destiny.
+Keith: [cross] That’s a good one.
+Austin: That’s a pretty good one. Outlaw Star. Electric Bastionland and the world of tabletop games in ways that I think will become incredibly clear once we start talking about what the classes look like in this game. There’s some Warhammer 40k in here. There's some Warframe in here. There's some…you know, there's a bunch of stuff in here that I think is very tied to an aesthetic of maximalism often, and that can mean different things. I will say right now up front that obviously there's only three other members of Friends at the Table here. Everyone will, by the end of this campaign, have played Realis. And when we get to whatever the other half of that looks like, I suspect— my plan is for this to be a little brighter than the other side of that game, and so I think that you'll see a breadth of what maximalism is. 
+I will give you the high level overview of Realis that is printed at the very top of the document right now. It says, “This universe: Prizes passivity except after wisdom gained. Recognizes friendship’s strength, but rewards solitary achievement. Shifts in scope and scale according to the needs of the story or the whims of its tellers. Demands honesty in consequences, but care at the table. Is an inverted twilight mirage; psychedelic space and sword and sorcery; mumbling mystics at the castle observatory; meteors cleaved clean with broadswords; a thousand moons in fatal orbit with an unreachable world called…Realis.” 
+I will continue to read from this book, 'cause there's a bunch of to kind of get into, in terms of setting the stage for what we're doing, but I think today’s episode will probably just end up being intro to Realis; character creation, which is fairly short; Band creation, which should also be fairly short. But before I get into any of that stuff, are there any other questions about, like, hey, what this is or, like, intro stuff that I already kind of touched on? I think I’d maybe just keep on going through some intro stuff.
+Art: Wait, can I have a quick aside? Can I have an aside before we get too far from it?
+Austin: Yeah, absolutely. Yes.
+Art: You mentioned, like, an eclipse [Austin: Mm-hmm.] being, like, the harbinger for a dark ritual.
+Austin: Yeah.
+Art: And as someone who recently traveled to go see the totality of the most recent eclipse, [Austin: Yeah.] I understand now entirely why every culture has, like, a story about how an eclipse means the end of the world. It feels like the end of the world.
+Austin: Uh huh. Yeah.
+Art: Holy shit!
+Austin: Uh, I don't know— not friend of the show, Twitter mutual, @CraigSJ, the music critic, who is a fantastic follow on Twitter, if you're still on that site today. Craig said, “Thinking about the pandemonium that the solar eclipse and northern lights combo would have set off a thousand years ago.” It would have been disastrous.
+Art: Forget about it. Yeah, yeah.
+Austin: Forget about it. You kidding me? If you would have gotten that eclipse and then, three weeks later or whatever, a month later…or maybe the northern lights would have been like, “All right, it’s over. We're cool. Everything— we're out of the eclipse phase, you know? We're out of hell time. God has told us we're good now.”
+Keith: Certainly people would have tried to pitch both of those ideas, and the negative one would have caught on.
+Austin: You're probably right.
+Keith: I think that that’s…
+Austin: Yeah.
+Keith: I think that’s my guess.
+Austin: Yeah. People would have been like, “I guess we didn't go far enough.”
+Keith: “No, no, this means it’s over,” and it’s like, “But what if it’s not?!”
+Austin: Yeah. 
+Art: Yeah.
+Austin: Yeah, what if this is a sign, actually, that we gotta keep going with hell world?
+Keith: I do like the idea of someone, like, 500 years ago looking up at the sky and seeing the second bizarre event and then going, “You kiddin’ me?”
+Austin: Yeah, this is what I'm saying. [Keith laughs] “We're doing this? We're doing this now? Colors in the sky? A month ago, it was no colors in the sky. Now it’s colors in the sky? At night?” It’s the opposite, in a real way, right? It’s like, it’s supposed to be dark outside, and now it’s bright [Keith: Yeah.] from nothing, and it’s everywhere.
+Keith: Oh, yeah.
+Austin: It’s not the sun got blocked. You just wouldn't know what to believe about light anymore, right?
+Keith: Right. Yeah.
+Art: Yeah. Although, I guess the places that got the northern lights and the places that got the eclipse are— there's a narrow band of…
+Austin: Yeah, it’s, like, Buffalo, right?
+Art: Yeah.
+Keith: Yeah.
+Austin: It’s, like, upstate— it’s, like, New England, right?
+Keith: Once again, Buffalo lucking out.
+Austin: As always. 
+Art: [laughs] Lucky Buffalo.
+Austin: Everyone’s always saying this about Buffalo. But if you were there, you would be— that would be— because they're going to get the northern lights again today, right? 
+Keith: Wow.
+Austin: You get two days in a row, and it’s like, at that point…
+Keith: Do I get northern lights? Should I go try and go outside?
+Austin: Yeah. Did you not—
+Ali: I heard they were in Connecticut, so…
+Austin: Yeah, did you not look yesterday?
+Keith: Okay. No, I didn't really even hear about it until, like, after it happened.
+Austin: Okay. You should try. You should try looking out.
+Keith: I just wasn't on my computer.
+Austin: I got you.
+Keith: Yeah.
+Austin: But you were also not outside. [Ali chuckles]
+Keith: Yeah. I was inside doing other stuff.
+Ali: You were playing Halo.
+Austin: Yeah. Yeah.
+Keith: Oh yeah, I was playing Halo for part of that. I guess I was on my computer for a chunk of it, [Ali chuckles] I just wasn't doing— I was busy. I got my own northern lights going on in Halo. [Ali laughs]
+Austin: Yeah. Uh huh. Yeah. [Art laughs] That’s good. Who needs ‘em? Who needs the real ones? Get out of here, 1000 years ago. I can make it bright inside whenever I want. [Art and Keith laugh] What is Realis? I will read now from what is currently the page 2 of this book: 
+Realis is both a place—cursed orbital sphere of 1000 mystical moons—and a game—one of collaborative storytelling in a world of mystery, magic, and impossible technology. 
+As a place, Realis is a setting for moon-hopping adventure, arcane discovery, fatal conflict, and meditations on the ever-changing nature of the self, society, and history. It is an uncanny solar system where a thousand satellites orbit a massive, incandescent planet, the titular Realis, from which only the saint-like Radiant have ever returned. Above it all, the Corpse Sun roils and emits its final dregs of light, while the Great Void churns below, eager to swallow anything that errs too near.
+Some of the Thousand Moons are claimed by dozens of eversquabbling, petty baronies of the Leo Suzerainty. Others have been conquered by the locustal fleets of the Imperial Empest or have been forcibly converted by the hypocritical and violent theocrats of the Venerant See. More obscure factions, like the secretive scholars of the Zvezd Lyceum or the esoterics of the ReGnostica keep to the shadows—a danger, since the shadows are home to ill worms, ghastly sovereigns, and the Drift, a realm of raw emotion and unhinged desire.
+And everywhere, Moonfolk find a way forward, claiming small joys and working towards some sort of tomorrow.
+This game does not have a hard-coded setting of a thousand moons. The book as written currently has, like, 10 moons in it, as like, you know, here’s some moons. Here’s some moons that you could kind of get your start with. But as you will come to find, as a listener—and, I hope, as players—so much of the joy of this game is making the Thousand Moons of Realis your own. In fact, anything that’s setting information in this book is 100% suggestion. 
+The book is written…the book is written in character. The book is written in the world of Realis by someone who is a Wordwright, a particular sort of magical scientist wordsmith, who has opinions about Realis. It’s a game that’s supposed to be representing the realities of Realis, the sort of metaphysical truth of Realis, but it’s a biased telling of that world. One day I really want to tell a different perspective of the same setting. I have some notes. And so, and so, you know, anything you hear here or read in the book is one particular take on Realis as a setting, but if you're going to go get this playtest document and play your own thing, you know, a note that I have here is that you should find your own names and use your own words and discard ours wherever they scrape or fray. So, that’s the setting. 
+Game Mechanics [0:16:48]
+Austin: As a game, it is a set of rules that shapes conversation into an engine for collaborative storytelling. You will tell the story of a Band of protagonists (called Player Characters) who use powerful Sentences as they explore, love, fight, worship, and unfold their stories across the Thousand Moons. Realis is designed to explore how these characters, which begin iconic and archetypal, become increasingly specific over the length of a story, and it is interested in the power and vulnerability present in such a transformation. 
+While most players take control of a single member of the Band, one player will be dedicated to playing as the Game Master—a combination of facilitator, narrative guide, and a reliable wall for bouncing ideas off of, promising to return them to you with exciting spins. But everyone who plays Realis is a storyteller, and though there are different roles in play, everyone’s first duty is to enter into good faith collaboration with everyone else at the table.
+We don't need much to play Realis, but a thing we do need is paper, something to write on—in this case, we have some Excel spreadsheets for our character sheets—and then we need something to mark whether you have or don't have a Token. You will find on your sheets that you have a little spot that says Token. Fill that in. Everyone should have— or I'm filling it in now. I'm clicking on the little things that say Token. If that is marked, that means you have your Token. When you spend your Token, you get rid of it. If we were playing at a table and using index cards and, you know, looseleaf paper, you could have whatever sort of Token you want. You could have a paperclip. You could have a pewter figure. You could have a cool marble.
+Keith: Mini fridge.
+Austin: Excuse me?
+Keith: Mini fridge. You got a mini fridge.
+Austin: Mini fridge. You could have a mini fridge. You're really mini fridge focused this year.
+Ali: Mm.
+Keith: [chuckles] Yep.
+Austin: Hmm.
+Keith: Have I brought that up? 
+Austin: Yeah.
+Keith: No. I haven't.
+Austin: A little bit. A little bit!
+Keith: Oh, okay.
+Austin: Not since a big PALISADE event happened six months ago or whatever, but, you know.
+Ali: Was that last year?
+Austin: That was last year. [Ali laughs] Oh, it was 100%. How could it not be last year? [Ali sighs]
+Keith: [laughs] I'm just trying to think of something that would be too cumbersome to actually use as a Token. Mini fridge came out.
+Austin: Mini fridge came to mind. Yeah.
+Keith: Yeah.
+Austin: Oh, so suddenly a mini fridge is a cumbersome thing, huh? [laughing] 'Cause last I heard, mini fridges were easy to move around.
+Ali: You gotta—
+Keith: In a spaceship, yeah!
+Austin: We recorded that, by the way— or that released in August of last year, Ali.
+Ali: Wow! Yeah.
+Keith: Yeah.
+Austin: We're, like, closer to a year— you know what I mean? A year away of it.
+Ali: Uh huh. Uh huh.
+Austin: Than we are. I'm going to keep going.
+Ali: Yeah.
+Austin: The central unit of Realis is the Sentence, with a capital S. Could you fucking believe me, I, made a game where sentences were important. Fucking self-serving bullshit. We could use many pretty words to describe Sentences, but we should first explain in clear language what they are and what they represent. 
+In Realis, people, places, organizations, and other keen objects are defined by a set of descriptive Sentences. Nearly anything that is important to the story could have a set of Sentences available to it. Each Sentence is a declarative statement of its owner’s unique capabilities. The majority of Sentences are written with the adverb “always,” as in the Virtuoso’s “I always impress others with my craft.” Sentences vary in breadth and detail and often come into conflict, and they change over time, becoming both more limited and yet more powerful.
+There will be more details on Sentences as we play, but let me give you a handful of important things, as we kind of pivot to start talking about Classes after this. One: Sentences are the most common type of Means. A Means is a mechanism to resolve conflict or uncertainty. 
+Every Class—of which there are currently, like, 50—begins with a set of four unique Sentences, which serve as what might be called skills or abilities or moves in other storytelling or roleplaying games. 
+All Sentences have a rank of Reality. Low rank sentences are less detailed than high rank Sentences. 
+In order to easily and quickly reference the level of Reality that a Sentence is at, we mark them with + and a number, as in a +0 Sentence or a +1 Sentence. The highest rank a Sentence can be Realized to—that is, ranked up to—is +3. So, here is an example of a Sentence, one Sentence at various stages of Reality:
++0: I always wear the right outfit.
++1: I always wear the right outfit during important events.
++2: I always wear the right outfit during important events which I was invited to.
+Whenever anyone or anything wants to use a Sentence to overcome an obstacle or resolve the uncertain, they are called an Actor. Anyone or anything trying to stop that attempt—whether they are the direct target of that action or are only trying to disrupt it—is called a Counteractor, which we will often abbreviate to Counter. 
+And here are the rules of the game:
+When two Sentences are in Conflict, the one which is more Real prevails.
+When two equally Real Sentences come into Conflict, the Counter’s Sentence wins, and when the Counteractor wins a conflict, the Actor’s sentence is temporarily Countered and cannot be used again for the length of the scene. So, you might want to impress the princess, and so you say, “I am going to use the Sentence, ‘I always wear the right outfit.’” That’s a +0 Sentence. But the princess might have a Sentence that says, like, “+1: At functions where I am in the spotlight, I am always unable to be impressed,” and so she could counter your attempt. That is the way Realis works at the Conflict level.
+Each time that a Class Sentence is Countered, you put a little mark on it. So, each time it fails, you put a little mark next to it. After a Class Sentence has been Countered three times, its owner may then modify it. It becomes Primed, and you can then Realize it, adding a new, limiting condition to its text and increasing its Reality by 1. This process is called Realization. So, the way that “I always wear the right outfit,” could become “I always wear the right outfit during important events,” is by failing three times. This is a game where the way that your stuff gets better is by using it and having it come up against things it can't beat, and then, over time, it gets stronger. It also gets more limited, because “I always wear the right outfit,” is broader than “I always wear the right outfit during important events.” “I always wear the right outfit,” could be I have climbing gear on when I'm trying to climb this mountain or, you know, I have a swimsuit perfect for diving into the coral sea. But “I always wear the right outfit during important events,” I don't think just going for a swim is an important event, right? And as such, likewise, “important events in which I was invited to” suddenly means, hey, if you've infiltrated this place and don't have an invitation, you don't get to use that +2 Sentence, but if you do, if you can line things up fictionally to give you the trigger for your Sentence, it gets more powerful, right? That’s fundamentally what the game is.
+In addition to these Class Sentences, players begin with a Dream, which represents a sort of long term goal and is itself a very powerful means; Bonds, which represent individual relationships between Player Characters and can also grow and change over time; a Band Sentence, which represents the overall direction of the group, the party, and can be used once per session, again as a sort of powerful way to overcome an obstacle or uncertainty; and a Token, which is a single thing. It’s one Token. You don't collect a bunch of Tokens. But it’s a way to modify any attempt, to give yourself a little boost when your character is digging into something. You know, their extra— their spirit, their desire, whatever it is, right? Just a little extra effort.
+Sentences are not limited to Player Characters. The Factions and NPCs are controlled by the GM and they have their own Sentences. They don't always begin at +0. All of your Sentences begin at +0. Some NPC and Faction Sentences can begin higher than that.
+There are also Moon Sentences, which reflect the unique capacities of the various unaffiliated peoples and locations of Realis. GMs can use Moon Sentences whenever appropriate, and a Player can spend their Token, they can Discharge their Token to use a Moon Sentence as their Means. 
+So, a great example of a Moon Sentence, I'll use one from one of our four moons that we're starting with. Let’s see here. We have, uh, let’s go with the…let’s go with the first one on this list, which is the sort of coliseum arena planet. “The roads of The Crux always lead to a coliseum,” right? And so, I might say, I might use that sentence as your— you know, maybe you're fleeing from a pursuer. I might invoke that Sentence to suddenly say, “In front of you, suddenly there are a bunch of crowds, and that slows down your escape, because the crowds are gathering and are blocking the roads on the way to, you know, the coliseum that’s in front of them,” right? Or you could spend a Token and say, “I'm going to use that Sentence, because those crowds are producing a crowd that I can escape into, you know? It lets me disappear into the crowd.” 
+So, those are ways in which moons can have their own Sentences. Moon Sentences refer to both the moons themselves and the kind of culture of the moons, also the people of the moons. Or another way to think about it is they refer to the people but also the little locations, the spaces around it, right? The architecture, the, you know, natural environments and stuff like that. 
+Some other example Sentences here. Band Sentences are things like, “The Band of the Caribou always wins against a smaller opponent.” And then there's something called Ephemera, and Ephemera are, like, special items. So, something like The Book of Lies, +2, The Book of Lies always reveals the weakness of those who abuse their power. Ephemera are things that will come up in play, and we'll get there when we get there. 
++3 Sentences, like I said, are the top— as far as they go. If you mark a +3 Sentence three times, if you fail with it three times, if it’s Countered three times, it is Retired. Retired Sentences go back to +0. You still have them, but they get rewritten in past tense, so if you once had “I always wear the right outfit,” it becomes +0— and it goes up to +3 and then you realize it one more time, it becomes “I always wore the right outfit.” It becomes a mark of who you once were. You could still use it as a +0 Sentence, as long as you can justify it. Maybe you know something special, because you used to always wear the right outfit, even though you don't anymore. Once all four of your Class Sentences are retired, you also retire, and we can talk about that where that gets there. 
+Again, as a final note, all the Sentences in the game have been written by us, or largely by me. Janine and Jack actually contributed to this game also. Jack especially early on, in its early design. Janine’s done a bunch of flavor text writing and some other stuff throughout it. I've done the bulk of the design and the writing here. But, again, you should make your own stuff. I think writing a class in Realis is just a really fun little game design, almost game poem exercise. Game poems are another thing that is a huge influence on Realis. It’s kind of taking some of the practical exercise of doing game poems and putting it into a more traditional campaign structure to see how that felt. 
+Foundation Sentences [0:28:56]
+Austin: So, that’s the setup for what Realis is. Now we can talk about this particular campaign of Realis. The very first thing that we should do is establish our Foundation Sentences. As was talked about above, Realis contains multitudes. I believe it can support stories of bright and heartfelt heroism but can also be a stage for the melancholy, the uncertain, the brutal, or the desperate to play out. The Thousand Moons are home to daring space captains, corrupt clerics, warm-hearted torturers, and the utterly inhuman. Ensure that everyone at the table has an open and honest conversation about what sort of stories, characters, and content they want to explore at the table before play. 
+While the rules governing play may gesture at strictness, they are at all times subservient to the comfort and pleasure of those at the table. At the beginning of play, we suggest using the tools you are comfortable with to discuss what sort of stories you are excited to tell and which ones you’d like to avoid. This is where if what you really like to do is use Lines and Veils, for instance, or the X Card, go ahead and use those, but one piece of advice we actually got from an early reader was to think about that sort of toolset in a way that was endemic and kind of innate to Realis itself, and for me, that’s how I ended up with Foundation Sentences. 
+You know, we have this whole system in Realis around things that always or never do something, so why not use that to talk about what we want our game to be, right? So, for instance, if you take a look at the character sheets, the very first one here is Foundation, Foundation Sentences. I have added, “Our story never depicts sexual assault or sexual violence.” That is something that is fundamentally true about our story and our world. And in general, I think that these should generally be written as sort of “Our story always…” “Our story never…” or “Our story will, but only with distance and care, include…” 
+These Foundation Sentences are guardrails but also directives. They work passively as a reminder not just about our fictional limits but also our particular or even peculiar interests. Foundation Sentences are more powerful than even Dreams—they are the loom on which the skein is pulled. They may always be referenced to halt play, open a conversation, and redirect action. Obviously, I don't believe that any safety tool is enough to make a safe table. You have to, like, engage in good faith with each other. You have to build trust in many different ways. You have to respect everybody. All of that does not mean that you can't have games about dark or difficult subject matter or even salacious subject matter. You 100% can. You 100% should if you're with people who want to do that. But it is 100% up to us to make sure that we use the safety tools that we have available. 
+And so I would like to open it up and say: are there any other things that we want to think about when it comes to Foundation Sentences? What else does our story do? What else does our story not do? We can revisit this after we've done some character stuff and some Band stuff, if we feel like we get better ideas for it. But high level, any thoughts?
+Keith: I think definitely something that I feel like I'll have a clearer idea if I want to change after we do some character stuff. 
+Austin: Sounds good.
+Keith: I don't have anything jumping off of my brain right now.
+Austin: Ali and Art? Are you in the same place, basically?
+Art: Yeah.
+Ali: I often do not like gore in games. I'm fine with, like, violence and conflict usually.
+Austin: Mm-hmm. Yeah.
+Ali: But I…viscera is something that I am not fond of.
+Austin: Sounds good. So maybe that’s something like our story either, like, never zooms in on violence or depicts gore. Simple, easy, right? But another thing you just said there, and maybe I'll bounce off this, is like, “Our story always depicts violence in stylish and abstract ways”? It does, you know, I think we are going to tell an adventure swashbuckley story over here, and…
+Ali: Mm-hmm. I would do something like, “Our story never describes injury.”
+Austin: That’s good. Love that.
+Art: Yeah. Yeah, 'cause you think about, like, you know, you watch, like, The Three Musketeers. They don't really focus on the people who got stabbed.
+Austin: Stabbed, right. Or shot, right, yeah.
+Art: Yeah.
+Austin: You always hear about swords with the musketeers. What happened to the muskets, guys?
+Keith: What happened to their muskets?
+Austin: That’s your whole thing. [Ali laughs] We don't call you the three swordpeople.
+Ali: Mm…
+Art: Isn't it because if you're going to do, like, a quick movie, reloading a musket takes forever.
+Austin: Yeah.
+Art: Like, you shoot the musket once, and then it’s over.
+Keith: Sure, but movie magic.
+Ali: Mm.
+Austin: Yeah, but they're pre-movie, you know?
+Keith: Oh, that’s fair.
+Art: Sure.
+Keith: Yeah, that’s a book.
+Austin: So what’s going on?
+Art: I don't—
+Austin: Do they shoot guns in that book? They must shoot guns in that book.
+Keith: This is a book that I read when I was 12 and remember approximately zero of, zero sentences from.
+Austin: I think of them as duelists, you know? [Ali laughs]
+Keith: Yeah.
+Art: Yeah, they do fencing.
+Austin: They do fencing. 
+Art: If you asked, like, me at a certain age what a musket was, I would have told you it was a kind of sword.
+Austin: [scoffs] Okay, well.
+Keith: [laughs] Okay. I definitely didn't ever think that. But I did maybe think, like, “Uh, maybe musketeers are just, like, a fun way to describe three buddies.”
+Ali: Mm.
+Austin: Like amigos.
+Keith: Yeah.
+Austin: Yeah.
+Keith: Another movie that I saw when I was 12.
+Austin: No…I mean, they have guns too, don't they?
+Keith: They have guns. They for sure have guns.
+Austin: There's a lot of confusion out here. Anyway. 
+Art: I'm looking at a picture of them, and they don't have— oh.
+Austin: This one does.
+Art: There's one gun among the four of them.
+Austin: They pass it around. [chuckles] 
+Ali: Mm.
+Art: That’s a terrible plan.
+Keith: I guess that’s why they need three of them.
+Austin: I guess so, you know?
+Keith: To share the duties of the one musket.
+Austin: Mm.
+Ali: I don't think about these guys ever.
+Austin: Damn.
+Keith: You don't think about…?
+Austin: I was one of them for—
+Keith: You don't think about Alexandre Dumas?
+Ali: No. [laughs] 
+Austin: When I was a kid, I think I did an Athos costume once. I had a whole thing. I really liked one of those…
+Ali: Ohh.
+Austin: One of those adaptations I really liked. Probably the ‘90s one, presumably, right?
+Art: I mean, looking at the…
+Keith: You know that Alexandre Dumas looks like Christopher Hitchens?
+Art: Looking at the Wikipedia page for Musketeers of the Guard, and they don't look right at all. This is…not one of these people has a fencing sabre.
+Austin: That one has a spear actually, huh?
+Art: Yeah.
+Austin: Hmm. It’s 'cause of how the musket was probably better than a sword, generally speaking. 
+Art: Probably.
+Austin: You just put a sword on the end of the musket, you know?
+Keith: Yeah.
+Art: They would get there.
+Keith: A musket can contain a sword.
+Austin: Three Musketeers type shit is where we're at on the violence. I get it. I get it. So, I've added “Our story never describes injury.” I really want a better way of saying swashbuckling, because that really calls to mind pirates, but “Our story always depicts violence in stylish and swashbuckling ways.” What’s another way of saying swashbuckling? [typing] Like, adventurey. You know what I mean? Romantic. Adventurous. Romantic.
+Art: Romantic might be right.
+Austin: Romantic ways. In the—
+Art: Breezy.
+Austin: Breezy. Exactly. Yeah. Which is also something here that I actually haven't said explicitly, but like, there's a sort of, like, Picaresque novel or, like, that style of, like, adventure story can also be a way in on Realis, for sure. All right, I think that’s probably a good starting place. We'll wrap back around on these when we finish doing character stuff. Uh, da-da-da-da-da…all right. 
+Classes [0:36:30]
+Austin: Before or during Session 0, players should flip through the Class chapter of the book, discuss which Classes most interest them, and choose what they’ll play for this story. We've already done that, so I think you each have Classes selected. Is that correct? Anyone have any changes or thoughts here? Okay. 
+Each consists of a series of Sentences which are used to overcome uncertain situations, and over the course of play, as the Sentences change, these archetypal Classes will become increasingly personalized and unique to your specific world, game, and character. Each Player Character begins with four Class Sentences, two Bond Sentences, one Dream, and one Token, and also an Impulse. Each Class belongs to one of seven Spheres, which are categories organized around a shared Impulse. For instance, the Sphere of Sorcery has the Impulse, “Respond to a mundane problem with magical Means.” The Moons of Realis also have their own Impulses, like Yazerin’s “Unmake something important to you.” 
+When you use a Sentence in pursuit of an Impulse, you get to Recharge your Token, which is fun, right? So, if you were a Sorcerer or one of our Sphere or Sorcery classes and you responded to a mundane problem with magical means, like, hey, you have to cook a meal for people, and you go, “I know some magic for that,” you would get to recharge your Token, right? So, that is the set of basic stuff around Classes. I have a bunch of other notes in here about, like, please don't feel like you need to pick the “right” class in terms of, like, gameplay balance or whatever. Find the thing that gives you a sense of magnetic joy and follow that. 
+Ali’s Class [0:38:09]
+Austin: So, I think, at this point, let’s talk about Classes. Which Classes have you all picked? Let’s go in the order that the sheets are in. Ali, what is your Class?
+Ali: I have chosen the…
+Austin: Okay. [Ali laughs] I'm going to write a pronunciation guide.
+Ali: Please! [laughs] 
+Austin: Here in the…
+Keith: I'm excited.
+Ali: [struggling] Sih-ga? Sih-gee-ist? Sih-gee-ist?
+Austin: “Sih-gee-ist” is fun, but it’s a soft G. Sih-zih-gist.
+Ali: Sih-gih-gist.
+Austin: Sih-zih-gist.
+Ali: Sih-zih-gist.
+Keith: Close. Very close.
+Austin: Yeah, Syzygist.
+Ali: [laughs] I'm playing a fortune teller. Thank you. Thank you.
+Austin: You’re playing a fortune teller, yeah.
+Ali: Uh huh.
+Austin: Can you read…let’s see how much there even is. Playtest document. Some of these things have, like, flavor text and descriptions and stuff, and other ones kind of just have, like, the Sentences. 
+Ali: Yeah, this has some stuff. 
+Austin: Let’s see here.
+Ali: Do you want me to read it?
+Austin: Yeah, do you want to— yeah, do you want to read, like, the italicized thing and then the little kind of intro sentence?
+Ali: So, the Syzygist attends to stellar alignment to sense what the future will bring. In some places, they are called oracles, [struggling with pronunciation] haruspices… [laughs] 
+Austin: I really fucked you up on this, yeah.
+Ali: Yeah, you really did! [Art laughs] I fucked myself up choosing it, so it’s fine. Or prophets.
+Austin: Can I tell you the other— haruspices, which I actually don't know if that’s how you pronounce it—I'm pretty sure it would be—is the plural of haruspex? There's an X in the singular version of it, which would have been even more fucked up, so…
+Ali: Mm-hmm.
+Austin: Anyway. Continue. Or prophets, yes.
+Ali: Just for anyone at home, this book is on one, just to let you know.
+Austin: Mm, mm, mm.
+Ali: I don't know if you knew that. I don't know if you were expecting that, but it is.
+Austin: There's a sentence in here somewhere where I marked it up, I put a comment on it and tagged Jack and Janine. I was like, “Which one of you wrote this?” and they were both like, “You wrote it, Austin.” [Ali laughs] And I was like, “I would never write something like this.” So.
+Ali: Uh huh.
+Austin: This book is fucking on one.
+Ali: Yeah. 
+Art: There's…yeah.
+Ali: I'm convinced you were taken. There was a ghost inside of you.
+Keith: Did you keep the sentence or did you remove it?
+Austin: Oh, I kept it. Yeah, I kept it. [Ali chuckles] I think it was me being, like, kind of horny in a way that I'm not normally in writing, you know? Not literally horny, but like, playfully flirty and, like, ooh, damn, I'm describing this character in a sexy way, which is not what I do as a writer very often, so.
+Ali: Listen to Friends at the Table. You're lying.
+Art: Well, now you're selling some books here.
+Austin: That’s right. That’s right.
+Ali: [laughs quietly] Anyway.
+Austin: Continue telling me about…
+Ali: In some places, they are called oracles or prophets, but among—
+Keith: But not in this book! [Ali laughs]
+Austin: That’s right. [Art laughs] That’s fucking right.
+Ali: In the Thousand Moons, where the alignment of celestial bodies is paramount, the… [hesitates] Tabbing over. The…Sy— [laughs] Uh…
+Austin: Maybe give me a fresh run from “but.”
+Ali: Is it “sigh”? “See”? 
+Austin: It’s “sih.”
+Keith: Sih.
+Austin: Sih-zih-gist.
+Keith: Sih-zih-gist.
+Ali: Sih-gih— [laughs] 
+Art: Sih-zih-gist.
+Austin: Sih-zuh like SZA.
+Keith: The “ih” is in all three syllables.
+Austin: You know SZA? You know SZA?
+Ali: Mm, I do. I do know SZA. Okay.
+Austin: It’s like SZA.
+Ali: Syzygist. The Syzygist.
+Austin: Yeah.
+Keith: Yeah.
+Art: Well, like the gist of SZA. [Ali laughs]
+Austin: Yeah. That’s exactly right.
+Keith: It’s the gist of SZA.
+Austin: Yeah.
+Ali: It is the Syzygists who serve as the high diviners of the future.
+Austin: Amazing.
+Keith: That was a 10 out of 10 on that last one.
+Austin: You nailed it. Yeah, 100%. [Ali laughs quietly] Now that we have the SZA connection, it’s pretty straightforward, you know?
+Ali: Mm-hmm. Mm-hmm. [Art chuckles]
+Austin: A syzygy is when there's, like…it’s like an eclipse is actually, you know? It’s when there are, like, moons or planets that are, like, configured in a line, you know? Like, oh, you see three stars in alignment. That’s a syzygy, you know? Real…real astronomical but also astrological type shit, so. Yeah. Read me your four Sentences.
+Ali: The four Sentences are: “I will always read the future in the stars.” I always. It’s not “I will always.”
+Austin: Yeah, just “I always.” 
+Ali: “I always sense which prediction someone needs to hear.” “I always know how to ritually summon the power of the moons.” “I am always bound by my own destiny.”
+Austin: That fourth Sentence tends to be, in general, a little restrictive or self-sabotaging. There are a couple of ways in this game where you can actively choose to have a Sentence go bad. Once per session, you can explicitly do a sort of, um…I forget exactly. There's a phrase. Is it actually written in the side of your character sheets? It might be. Uh, da-da-da-da-da… Tragic Success. You can use one of your Means to lead the Band deeper into chaos. When you do this, you get to recharge your Token. So, that’s one thing there. And then there's also a way to fail on purpose in order to try to, like, give yourself a failure to level up a Sentence, basically, right? To give yourself a bonus mark so that you can get towards prime status quicker. 
+And both of those things kind of…that fourth Sentence leans into both of those, right? The fourth Sentence for any class—as we'll hear the rest of them—always feels like, ooh, here’s one way that— it’s not bad necessarily. You could always use— you could easily use that fourth Sentence that you just read—that I have now forgotten, 'cause I've scrolled away—about being bound to your fate positively, but you could REALLY use it negatively, right? You could REALLY use it to get the Band deeper into trouble and recharge your Token, so. 
+So, those are your starting Class Sentences. I would say let’s not go into Bonds or Dreams yet, because those are both things you’ll have to fill out according to the rest of the party. Or Dream you can have for yourself, but I would say let’s wait on Dream too, until we give a little bit more on what this setting is, this particular part of the world, because I suspect it’ll be impacted by that. 
+Art’s Class [0:44:10]
+Austin: Next up, Art. Tell me your Class.
+Art: Hey.
+Austin: Read me the little writeup and then the four Sentences.
+Art: My Class is the Quintessent. 
+Austin: Ooh.
+Art: Ghostly embodiment of a person, place, element, or concept. Sometimes a dead one.
+Austin: Mm. You're like a ghost.
+Art: Like a ghost.
+Austin: Yeah.
+Art: A lot like a ghost.
+Austin: Go ahead and read me the rest.
+Art: The mediums of the Thousand Moons group ghosts, elementals, and other spiritual constructs together. Whether pulled into the realm of the physical because of a magical ritual, a tireless drive for vengeance, or some other cause, a Quintessent haunts the world until its truth is observed.
+Austin: And your Sentences.
+Art: “I am always intangible.” “I always force others to confront the truth.” “I always wield a spectral or elemental power.” “I always frighten those who perceive me.”
+Austin: Mm. Fun. Love to frighten people, always. Love to always frighten people.
+Art: Always frighten people.
+Austin: Yes. And we've talked a little bit out of character, and I think the thing that— a key element for your character is: you're a ghost, but you don't remember your previous life. There's a kind of mystery around who you were, to some degree.
+Art: Yeah.
+Austin: And really, the part of the ghost— I mean, one, I'm going to use that as an engine for storytelling, believe it or not. And it seems like— you know, you don't have to write your Dream down now, but you may end up with a Dream about learning who you were or connecting to that past life in some way, so. Cool.
+Art: Yeah, the third Dream there is really a…
+Austin: Mm, that’s really fun. Yeah. Okay. I have “circle one” for these dreams, but you can always write your own also, so if you want to edit that in some way, we can do that when we get there. 
+Keith’s Class [0:46:02]
+Austin: Keith. Tell me your Class.
+Keith: Okay.
+Austin: And read me your description, which I think is going to be funny, because if I remember—
+Keith: Yeah, I was actively thinking about how to approach this one.
+Austin: Yeah, uh huh.
+Keith: I'm playing the Zanni.
+Austin: Uh huh.
+Keith: [clears throat] Wait a moment, you foul jester, give me that pen back! Stop writing what I'm saying! Clown! Torrid juggler! With their painted faces, baggy attire, and well-honed acts, the Zanni of Realis seem like regular clowns. But in reality they are…really fun people to hang out with and also entirely deserving of your ear and coin purse. If you meet a Zanni, BE sure to BE friend them or BE ready to BE sad.
+Austin: Yeah.
+Keith: And there's a crossed out section here, where they used to be described as inhuman manipulators whose amorality is without equal.
+Austin: Now, when was I watching Hunter × Hunter for the first time? [Keith laughs] Because there's a little Hisoka here, in retrospect.
+Keith: There is.
+Austin: Which I didn't really realize until rereading this.
+Keith: Mm-hmm.
+Austin: What are your Sentences?
+Keith: Don't put that on me. [laughs] 
+Austin: I mean, you're going to be you! There's lots of clowns in the world.
+Keith: There's lots of clowns in the world. Sorry, are we doing Class Sentences?
+Austin: Class Sentences. Class Sentences.
+Keith: Yeah, the given ones are: “I always bring joy with my antics,” “I always reveal the truth,” “I am always quick in wit and bone,” and “I always anger the powerful.”
+Austin: Boom. Love it. This is a Keith character, you know? I know we throw that phrase around sometimes too loosely.
+Keith: Yeah. I felt it.
+Austin: But boy. You know? “I always anger the powerful” is maybe the most Keith character direction that there's ever been, I think, so.
+Keith: [scoffs] Well, joy with my antics.
+Austin: And joy with your— uh huh.
+Keith: Hello!
+Austin: Quick in wit and bone.
+Keith: Yeah.
+Austin: That’s the Zanni. So, those are your Class Sentences. Those are your Classes. There are the— I guess I should say, the Zanni is in the Sphere of Stagecraft. The Sphere of Stagecraft Impulse is to respond to a personal or private problem through performative or public Means. The Sphere of Stagecraft Classes are artists, bards, and jesters. Life is first and foremost a source of inspiration. The Quintessent is in the Sphere of, uh, is it…?
+Art: Spirit.
+Austin: Spirit. Sphere of Spirit, which is your Impulse is to respond to a practical problem with a ritualistic Means. Clerics, occultists, spirit-worshipers, and spirits themself. Power is out there, and it must be courted. And then, the Syzygist is not Sphere of Spirit. It’s Sphere of Sorcery: Respond to a mundane problem with magical Means. Mages, wizards, and warlocks. Spells unlock more than power, they unlock the world. What’s the difference between a magical Means and a ritualistic Means? I don't know. Play to find out what happens, you know? I think ritual means something slightly different than just magic, so. So, well see how those impulses come into play. 
+Y'all can try to copy some of that stuff in from the book, including the Sentences. This is not a game where you edit those Sentences. I mean, it is a game where you edit those Sentences. That’s playing the game. But to start with, you just drop them in at this +0 as they are written. I'm guessing y'all don't have Looks written up already? But maybe you have pronouns, maybe you have names? And maybe you’ll have some thoughts on Bonds and Dreams. I believe you also have Moons that you've decided you're from, though maybe we haven't re-discussed that. This game campaign will take place in a— and I'll talk for a little bit so you can drop in Sentences and stuff in your sheets. 
+Moons [0:49:49]
+Austin: This campaign takes place in a collection of four moons. That collection is called the Marbled Quaternion or the Four Marbles or the Four Moons. There are these four bright colorful orbs that kind of swing around each other, and I'll do a bigger description of all of them later. I'll do a bigger description of what the state of being is when we're really ready to kick off the first full session of the game. But in short, there are kind of four of them. The first one, we already talked about, was the Crux, which is this kind of blue planet— or, sorry, they're not planets. There's only one planet in Realis. It’s Realis. The rest are all moons. 
+The Crux is a moon of kind of arena fighting. There's coliseums everywhere. It’s run by the Champion of Crux, who is, like, the top fighter. It’s a world of wild-ass coliseum brawls and big broadcasted wrestling matches and presumably some chariot races, and maybe they're hover chariots, because we're in sort of— you know, another touchstone here for me is the The Incal or a lot of different Mœbius stuff. I think this specific campaign of Realis, I really want to touch something like The Fifth Element, which actually has some really fun blending of sci-fi and fantasy stuff in general. Obviously it has its problems, as many things do, but Fifth Element is another big touchstone, I'd say, here. 
+The second moon of the Quaternion is Ulled, which is a kind of agricultural moon, which is really focused on quiet, restful life. It’s kind of the big agricultural supplier for the rest of the four moons here. But also, there are big beasts on Ulled. There are big pig-like creatures on Ulled, that are at the center of some of this kind of feast culture, and lots of strange tunnels and warrens throughout the moons. So, kind of a mysterious place. Moons also have Impulses, I should say. The Moon Impulse for The Crux, the arena coliseum planet—or not planet, moon—is to chase glory. The Moon Impulse for Ulled is to find space. 
+The third moon is Dokine[pronounced “doh-kine”] or Dokine[pronounced “doh-keen” going forward] I haven't really decided. Maybe “doh-keen”. “Doh-keen” sounds better. Dokine is this moon of these kind of floating city-states that have these big wings that they kind of slowly flap in the air, almost like big butterfly cities, above a sea of twirling golden mist. It’s a culture of artists and dancers and movie-makers and flight workers but also a moon of the uncanny, of things changing, of rugs being pulled out from under you, which is especially bad, because that yellow mist below, the kind of golden mist will absolutely erode anything it touches. It will absolutely erode— or corrode, I guess. Corrode is probably the right word. It’s kind of acidic in that way. Actually, I don't know if corrosion is acidic, but I'm pretty sure it is. I think about, like, battery acid. That’s acidic, right? That’s corrosion.
+Art: That sounds true, yeah.
+Austin: Yeah. And then the fourth of the moons in this kind of quartet is Principia. Oh, sorry, Dokine’s impulse is to resist stillness; always be moving. Principia’s Moon Impulse is to advance intellect, because it is a big university town. It is the home to the Endless Academy, which is a sort of scholarly moon or scholarly university for mages and other sorts of scholarship. It is constantly growing and shifting and changing. You know, one wing of Principia’s Endless Academy will fall into disrepair while a new one, you know, somewhere halfway across the moon will be built. 
+I have bigger writeups on each of those that you can all see in the setups here. And I've revealed four Sentences from each of these moons. I would say normally in a Realis game, maybe you wouldn't do that, but I really wanted us to have a lot to play with. Players can spend Tokens to add new Sentences to these moons, or again, to use ones that are already written. So, for instance, “Dokine’s skies are always crowded.” If what you needed was to do a sort of Attack of the Clones style hop into some sort of flying car, you could use “Dokine’s skies are always crowded” to produce that car for yourself.
+Keith: I do need to do that. All of a sudden, I need to do that.
+Austin: You know, maybe immediately. A thing worth saying here is players use Sentences and are aware of Sentences. Player Characters tend not to be. There are a handful of very rare exceptions where a character might understand the metaphysics of the world of Realis. That’s, you know, extraordinarily rare.
+Keith: Zanni knows about the book.
+Austin: The Zanni— a Zanni knew about the book. A Zanni did that.
+Keith: A Zanni knew about the book.
+Austin: I don't know that all Zannis do. This is a particular Zanni who has infiltrated the Wordwrights’ space station that’s out there hidden somewhere. I don't believe all Zannis do, but…
+Keith: Well.
+Austin: Because otherwise you'd have a Sentence for it, right?
+Keith: Sure.
+Austin: What you have are your four Sentences, you know? So. So, maybe one day, you could. Maybe one day, you might— and maybe that’s part of your Dream. I don't know. You can tell me. But each of you is from one of these moons. I know there was some debate about who was from where. I would love it if you were all from different moons and there was a fourth moon where no one was from.
+Keith: Mm. I don't remember there being debate.
+Austin: What are your strong feelings here on moon homes?
+Keith: Well, after not having remembered that there was any debate, I'm comfortable saying that Dokine sounds like the Zanni moon to me. Was there someone else who was going to pick Dokine?
+Art: No, I was a Principia…
+Keith: Okay.
+Ali: Yeah, I was torn between The Crux and Ulled. Oo-led?
+Austin: Okay, sure.
+Keith: Great.
+Austin: Oo-led. Yeah.
+Ali: Oo-led.
+Austin: Or Ull-led, I believe, actually. [Ali laughs] Ull-led is what I liked. Yeah, I liked the dull “ull”, like it’s kind of like a dull place, Ulled.
+Ali: Sure.
+Austin: Kind of, like…
+Ali: And I…okay. So, [laughs] the discussion then was that it would be, like, [Austin: Yes.] kind of funny to be a fortune telling person from a coliseum world?
+Austin: I really love that, yeah.
+Ali: Because you're, like, calling matches or whatever.
+Austin: Yeah.
+Ali: The only thing that I wanted to avoid with that is, like, I don't…I don't want to be that there's, like, skepticism about that? Because it’s like a gambling thing, you know what I mean?
+Austin: Right. Right, right. Well, 'cause you always do your Sentences. Like, it’s not…
+Ali: Mm-hmm.
+Austin: In other words, you're saying you don't want to be thought of as, like, a fraud or a charlatan.
+Ali: Right, yeah, uh huh.
+Austin: Well, that’s good, because there's a different class for charlatans in this game. [laughs] 
+Ali: Perfect. Well, there we go.
+Austin: So, you're officially not that. If you wanted to be that, you would be the Mountbank. I believe I'm pronouncing that right. I guess it’s a Mountebank.
+Keith: Mountebank. Yeah.
+Austin: There's an E, and you pronounce the E.
+Keith: Yeah, Mountebank.
+Austin: Charlatans, snake oil sellers, and occasionally herbalists. Their sentences, for the record, are: “I always make the sale,” “I always make my exit,” “I always have a little bit of the real thing,” and “I always promise more than I can deliver.” You're not that.
+Keith: Mountebank was on my shortlist of classes.
+Austin: Yeah, I figured. That, again, is a really fun “I would love to see you play one of those one day.”
+Keith: Yeah.
+Austin: Oh, god, it’s fun to write Classes for this fucking game. Anyway. So, yeah, you always read—
+Ali: Perhaps too fun.
+Austin: You always— you know? [Ali laughs] I have a list of other ones I want to make, so.
+Art: That was the most surprising thing for me when I first saw this game, [Austin: Uh huh.] was how many Classes there were, 'cause it doesn't feel like [Austin: Uh huh.] necessarily what I thought you would do in this space.
+Keith: I think there's 400 pages of Classes.
+Austin: So, I mentioned this earlier, but one of my key influences on this is Electric Bastionland. Electric Bastionland is, like, 330 pages long, and a lot of it is just classes. It’s by Chris McDowall. Jack is a big fan of Chris McDowall’s games. And this is a game that has, you know, let’s see, 20 pages of rules up top, right? And then it becomes this. Give me a number from 1 to, I don't know, 70? 100? How many are there? 100. Give me a number from 1 to 100. 
+Ali: 35. 
+Austin: 35. Let’s see what the 35th class in this book is. Uh, that’s 54. That’s 43. Here we go. 35. Urban Safarist.
+Ali: Mm.
+Austin: “The human condition makes for fascinating viewing, at least for those too rich to have worries,” and there's, like, a rich person with some binoculars. Also it says here if you're the youngest player, the whole group is £10,000 in debt to Baroness Joleen Mast of Rosevine. You get one page of art. You get that little bit that I just wrote up; some sample names like Saction, Rightly, Gourd, or Croton, and then you get to spend a little money to create your character. You get to pick how much, you know, HP you have and, like, what skill you have from that. And that’s it. That’s the whole book is that. Give me another number.
+Keith: 42.
+Austin: 42. Uh, there’s 40B. There's 40—
+Keith: Oh, 40B is fine.
+Austin: 42. Rural Tax Collector.
+Keith: Okay.
+Austin: “You've spent more time than you are to on the roads of the Deep Country. Squinting at obsolete currencies was your life.” So that’s what this game is, right? Is like, oh, you roll a class, and then you go on a sort of, like…it’s sort of like a dungeon delve but through this strange pseudo-post-apocalypse, pseudo infinite city. It’s a really cool game. And that effect of just, like, oh my god, there's so much here. Art, do you want a number too? I don't want to leave you out on the number.
+Art: Sure. Uh, 78.
+Austin: 78. Let’s see here. 78 is Estate Squire. “Remnants of aristocracy linger between Bastion and Deep Country History’s long shadow, and you were born into their service.” It’s like a—
+Art: And there's a picture of someone in a long shadow.
+Austin: In a long shadow. They're kind of like a butler. You're, like, some sort of, like, country estate butler? That’s fun. So. So, yeah, and there's, like, a handful of, like, equipment? [chuckles] You can spend three dollars for fancy wedding clothes or four dollars for a bicycle. [Austin and Keith chuckle] So, trying to capture some of the joy of that. Oh, I should not have said butler, 'cause 77 is Civic Butler. 78 is Estate Squire. That’s very different, you know?
+Art: Yeah. Honestly, how dare you?
+Austin: So yeah, lots of Classes in Realis. Maybe more to come. We'll see. It’s hard to stop once you start. Can you write your moon down in your Notes section?
+Keith: I have a second question. What was the last Class that you added to Realis? If you remember.
+Austin: I actually do, because it’s one that’s currently in playtesting. Si Sweetman is currently playing a Class called the Ephemeralist, which is a very weird Class. I have some Classes in here that maybe will get cut from base Realis, because they're so complex. The Ephemeralist is sort of my take on Gandalf.
+Keith: Oh my god, it’s so long. Holy shit.
+Austin: It’s super long.
+Keith: It’s, like, nine times longer, pre-Sentences, than any other Class. [laughs] 
+Austin: Yeah. Yeah. I have two Sentences that are, like, they play— or two Classes that play with Sentences in weird ways. The Ephemeralist actually has two main Sentences, or I guess three main Sentences. “I always prepare my Impedimenta within an hour,” “I always know the ritual for shifting power from one Impedimenta to another,” and “I vowed that whenever I Realize a Sentence or Slot I must always cross out one Impedimenta from my master list.” And the Impedimenta list are, like, wizard components, like spell components, and an associated Sentence. So, like, “With a polished skull, I always speak with the dead.” “With a vial of saltwater, I always find what I'm looking for,” et cetera. There's, like, 15 of these. And they have sort of Sentence Slots that rank up separately from what the Sentences themselves are, right? It’s complicated. It’s weird. 
+Would you believe the other version of this sort of idea is the mech class that’s in this game, the Panopolist? The Panopolist has a thing called a Panopoly, which is their mech. And what happens with them is that they have Sentences like, “My Panopoly always moves with incredible speed,” or “My Panopoly is always heavily armored,” and those Sentences need to get repaired when they— after they've been Countered. They all start stronger than a regular person’s Sentences start. They all start at +1, and they can only be repaired a certain number of times. So, you know, I had to sneak a mech class in here. Anyway, we should keep talking about your characters. I don't know what the fuck we're doing. Get me out of this book. Keith, your Zanni is from Dokine.
+Keith: Yeah.
+Austin: Which, again, is the sort of, like, golden mist entertainment and mystery planet or moon.
+Keith: Natural fit.
+Austin: Natural fit for a Zanni. Your Syzygist, Ali, is from The Crux. And Art, you're from Principia, a ghost from Principia.
+Art: Yes. And I have a name, when we're ready for names.
+Character Names [1:04:08]
+Austin: Let’s do names. What’s your name?
+Art: The Sense of Dread Observed Near the Back Staircase in the East Wing, but you can call them Donnie.
+Austin: [amused] Okay. [Ali laughs] Did they decide on Donnie?
+Art: Yeah.
+Austin: What made them decide on…?
+Art: It’s from Dread Observed Near.
+Austin: Oh, Dread Observed Near, of course.
+Ali: Wow. A real Thisbe.
+Austin: It’s a— [chuckles] That’s good. [Ali laughs] Or a real— it’s a kind of a Thisbe meets Phrygian here, Deck 7. Pre-Phrygian name, just Deck 7, but more zoomed in on specifically the sense of dread. 
+Art: Yeah.
+Austin: Pronouns for Donnie?
+Art: They/them.
+Austin: They/them. Okay. Ali, do you have a name?
+Ali: Yeah. My name is Hye Malis.
+Austin: Ooh. “Malice” spelled…? I guess “High” spelled—? Wait. They're both words. [Ali and Keith laugh]
+Ali: Uh huh. So, Hye is H-Y-E.
+Austin: Okay.
+Ali: And Malis is M-A-L-I-S.
+Austin: Okay. Love it. Hye Malis. Would love to go to a fortune teller named Hye Malis.
+Ali: Yeah.
+Austin: Keith, do you have a name?
+Ali: Oh, and pronouns are she/they, sorry.
+Austin: Oh. Yes, she/they pronouns. Okay.
+Keith: God, I just can't decide. I got a list of names here, but I can't…
+Austin: Classic Zanni maneuver.
+Keith: Yeah. I got a real list.
+Ali: Ooh, you should have, like, a code name. You should have two names.
+Austin: You should have two names.
+Keith: I should have— I could have two names, yeah. [Ali laughs] Um, I'm…let’s see. Let me— so, my first name, my original name was Deadman Piaster.
+Ali: Whoa.
+Keith: And I was like, “Deadman is a little too close to Pickman,” and so…which maybe it sounds the same, but I think—
+Austin: That’s what you thought? Okay. 
+Keith: Was there another character that it’s—?
+Austin: Deadmund like Edmund but dead? Is that what you were saying? Like, Deadmund?
+Keith: Yeah.
+Austin: Okay.
+Keith: Well, it’s spelled “dead man,” but it’s pronounced like Steadman.
+Ali: Okay. [laughs] 
+Austin: I see.
+Keith: And then—
+Austin: I don't think Deadman is that close to Pickman. I think you're going to be okay with that, especially if it’s spelled “dead man.”
+Keith: Well, isn’t Pickman also spelled with an M-A-N at the end?
+Austin: It is, but I don't know that anyone’s, [cross] like, jumping to Pickman.
+Keith: [cross] Yeah, there we go. Well, but like we talked about before the mics were on, [Austin: Right.] I'm always thinking, like, “Is this already a name? Did someone already call themselves this?”
+Austin: “Did we already do this?” Yeah. Yeah.
+Keith: Yeah. ‘Cause there's just so many names. I don't remember. I barely remember all the NPCs from the season that we're in, let alone other seasons.
+Ali: Mm-hmm.
+Keith: But I've got, uh, Wellaway Piaster. Pardie Parcel, P-A-R-D-I-E.
+Austin: Okay. Yeah.
+Keith: Pardie Parcel.
+Austin: Uh huh.
+Keith: Um…yeah, those are probably my top three, so I'm deciding between those three.
+Austin: Okay. I'll let you— you have some time to do that. Be thinking about Looks also, and then we can think about Dreams and Bonds. I'll talk a little about what those are, so that you can make informed decisions.
+About Bonds and Dreams [1:06:55]
+Austin: Bonds. Characters start with two Bonds. They are Means describing a relationship between two members of the Band. Though a Bond is between two characters, only its owner can use it as Means, though such a use can be requested by the other member of the Bond. Though two Bandmates may each have a Bond with each other, they are used and tracked separately. 
+Bonds are always about the relationship between two characters. As such, they may not seem especially “powerful,” but they do offer you protection and utility in cases when your other Sentences may not help. Additionally, Bonds can be boosted by Tokens from both involved PCs if their players desire, meaning that unlike Class Sentences, Bonds can have their rank temporarily increased by 2. 
+Whenever you call upon a Bond, you must reflect a Bond's use in the fiction, either through the presence (current or impending) of both characters, the prominence of a thematic link between the two in the scene, or some other clear connections. As such, Bonds are also a great way to get characters into a scene.
+Unlike Class Sentences, Bonds are always marked after use, regardless of success or failure. Once you mark a Bond with its third dot, it’s primed and ready for Realization, just like a Class Sentence. When you Prime a Bond, both characters named in it may recharge their Tokens. So, using Bonds is another good way to recharge your Tokens. 
+Writing Bonds can be hard, so consider modifying your starting Bond. Actually, this is no longer relevant, I think, because of the way that Bond rules have changed. I'm going to make a mark of it to— [typing] I'm going to make a comment in my own book to update this regarding Realization rules. It used to be the case that Bonds didn't realize; they just reset to +1 over and over again, basically, or +0 over and over again. But now they Realize. They can level up. 
+Some Bonds might get you in trouble instead of solving problems for you. When a player, including the GM, introduces a way in which a Bond leads to a new complication, both players can recharge your Tokens. Drama is a self-perpetuating engine.
+So, there are some suggested Bonds here for each Class, just like there are Dreams. Can one of you, whoever wants to, read what the suggested Bonds are for your Class and decide whether you think that those fit or whether you want different ones?
+Ali: Sure. So, yeah, my example Bonds are “I find (Character)’s foolish struggles against the lines of fate endearing,” or—
+Austin: So. Yeah, uh huh.
+Ali: “(Character) is aligned towards grand things. I will ensure none derail their journey.”
+Austin: Yeah.
+Ali: Both pretty intense.
+Austin: Both pretty— Bonds should be intense. This is a game about intense— a phrase you will hear me say again and again and again is actually “dramatic intent.” This is a game where every time you decide to use a Sentence as an actor, you should have a very clear goal in mind. It is big and dramatic. So, yeah.
+Ali: And then the example Dreams are, “I will—”
+Austin: Oh, I have not described dreams yet.
+Ali: Okay.
+Austin: Let me describe Dreams, and then you can read your example dreams.
+Ali: Or we can go around with the other Bonds.
+Austin: Uh, let’s say what Dreams are, and then we can go over whether we want to circle those or write those also. Each Player Character begins with a Dream, chosen at character creation. Your character might know their own Dream, or it might be an end that you, the player, are interested in seeing them work towards without them knowing it. While this Dream may be modified over time, it is the only one the character will have. When you spend it, cross it out and never replace it.
+A Dream acts as both a goal for your character to pursue and an extremely powerful Means. At the end of every session, you'll consider if you’ve worked towards your Dream, and if you have, then you can choose to add 1 to any of your Class Sentences, as if you had failed using it. This represents a teleological draw of your character’s Dream slowly shaping them, like the vision of a statue guiding a sculptor’s tools into the marble. You may decide whether your character has “worked towards” their Dream in material, ideological, or even figurative or thematic ways. You should be generous to yourself here. 
+As a Means, your Dream enables you to achieve the near-impossible. You may only spend your Dream once. When you do, you overcome any obstacle (overcoming any opposing Sentence or Means), so long as there is even the slimmest hope of victory. You can spend your Dream at any time, even on a task totally unrelated to your Dream’s content. 
+Dreams are incredibly strong, but remember, not everything is uncertain. Some things may certainly fail, no matter how deeply a Dream is held. Always discuss gray areas as a group, referring to your Session Zero notes and Foundation Sentences, when there is a question about whether a Dream’s use is in line with the goals of your story. So, for instance, what are the possible Dreams or what are the example Dreams given for you, Ali?
+Ali: Yeah. So, for the Syzygist, it is “I will travel to Realis-Itself to see the first alignment of worlds for myself.” “I will create the Final Observatory recognized by the ReGnostica, from which all the futures become one.” “I will enact the ritual of separation, breaking destiny of itself.”
+Austin: So, you know, you might decide, “I'm going to undo destiny” as your Dream, and if you found that there was a moment that that Dream would be the thing you need to pull on in order to achieve something, you could spend that Dream to succeed, even against a +3 Sentence, when you have no other way of doing it. At that point, you would cross out that Dream. 
+Now, you might, instead…I mean, not instead. On top of that, any time during a session where you have worked towards the goal of breaking destiny itself, you would be able to add a little mark at the end of that session towards any of your other Sentences, because you worked towards your Dream. So, your Dream is sort of like a character goal, but it’s also a really important resource that you get to use one time in the whole of the campaign in order to achieve something that otherwise would be impossible to do.
+        That said, you couldn't, for instance, use your Dream to lift the Great Pyramids of Giza off the ground and over your head, right? Unless that was the entire tone of the campaign, right? If we were in…you know, think about this in fictional terms. Luke Skywalker will probably never lift the Pyramids of Giza over his head with his hands, you know? Maybe not even with the Force. Even just inside of Star Wars, Starkiller from The Force Unleashed actually might do that, you know? Force Unleashed is just kind of like that.
+Art: I think that’s in one of those games.
+Keith: Sorry, a bunch of Jedi threw an entire Sith fleet into deep space, [Austin: Yeah.] so I'm pretty sure Luke Skywalker could lift a pyramid.
+Austin: But he probably wouldn't, right? 
+Keith: He probably wouldn't.
+Austin: He wouldn't do that in Return of the Jedi, right?
+Keith: Well, sure.
+Austin: That movie isn't that world, you know?
+Keith: No. But the EU certainly is.
+Austin: But the EU certainly is, and I think that those are the differences that we want to, like, zero in on when we talk about how a dream is used or whether something is certain or uncertain, you know? Lots of wild shit can happen inside of a story, but there can still be kind of hard and fast rules, and we, as a group, decide where those are and play forward from whatever that interpretation looks like, so. So, those are Dreams and Bonds. Do people have strong feelings about what their Dreams are or what they want their Bonds to be?
+Keith: Hold on. There is one important thing about Dreams, though, which is that once you spend your Dream, cross it off your sheet. There’s no way to gain a new Dream.
+Austin: Correct.
+Keith: So you get that really powerful thing, but then you're a dreamless character from that point forward?
+Austin: You could still work towards your Dream, and it can still give you that + at the end of a session, that, like, mark. You can still mark it. But you don't—
+Keith: Okay, so you can only use the move once, but you don't become a character without a goal.
+Austin: You know, if you want to play it that way, you absolutely can, right?
+Keith: No, I was worried about this consequence of spending a Dream, not looking forward to it. [Ali chuckles]
+Austin: Totally. 
+Keith: Okay. 
+Austin: I think that it is up to you, right? 
+Keith: Okay.
+Austin: What I have written here is: If you achieve your Dream, you may— this is the other way. You can achieve your Dream without spending your Dream, right?
+Keith: Yes.
+Austin: And so, I would be someone who says you should think about what that feels like.
+Keith: Yeah.
+Austin: In the play example written in the book, for instance, this character has— this one character has the Dream “I will retire to a life of quiet peace,” and he spends it. He spends that Dream in order to achieve something in this moment, and in the sort of meta story that’s being told through the play examples in the book, you know, spending that Dream kind of breaks him. [chuckles] And that’s one way to do it. You don't have to play it that way, but I do think the idea of, like, “I've tapped into this part of who I am, and I've spent this part of me” should have some consequence. Now, that consequence might be positive. It might be, “You know what? I didn't need that Dream. I actually care more about [Keith: Yeah.] achieving the thing I achieved by spending that kind of deep part of who I was in that moment.”
+Keith: Right.
+Austin: Or maybe you spend it and achieve something that was your Dream. You know, there's all sorts of ways of interpreting it. I'm always someone who’s like: pay attention to when and how mechanics come into play. So, you know. 
+Keith: Mm-hmm.
+Austin: I think let’s pay attention if and when it happens. Maybe it doesn't happen at all. Who knows?
+Keith: Right. So maybe one way to think of it is, like, the ability to spend your Dream is, like…and to not fail at that specific thing is, like, harnessing the power that that Dream gives you [Austin: Yes.] to overcome something you otherwise wouldn't be able to do.
+Austin: Right.
+Keith: Not to then get rid of that goal, unless you really wanted to. Not to get rid of it, but to ensure that you can continue to pursue it.
+Austin: To pursue it. Exactly. 
+Keith: You just don't have the power to keep using the Dream in that way.
+Austin: Yes. Exactly.
+Keith: Got it. Okay.
+Austin: That’s one way to think about it, yeah.
+Keith: I might go with Wellaway Piaster.
+Austin: Wellaway?
+Keith: Wellaway.
+Art: Wellaway.
+Austin: Wellaway.
+Keith: It means, like, lamentation.
+Austin: And Piaster? Like…
+Keith: Yeah. It’s like old money, old currency.
+Austin: Ohh. Not like a pee disaster.
+Keith: No, no. Although that is how it’s said.
+Austin: Yeah.
+Keith: But no. A Piaster’s like a…it’s basically like a…
+Austin: Oh, I see.
+Keith: It ended up being a word for money, like, all over the world because of colonialism.
+Austin: Sure. Sure. A classic thing. Sad money.
+Keith: Yeah. Sad money.
+Austin: So, yeah. Example bonds, similarly, are example Dreams. I think the Dreams, like I said, are circle one, in a sort of, like, “hey, you can pick up a Class and just, like, play,” way, but if people have different ones. 
+Factions [1:17:49]
+Austin: And maybe partly I should talk a little bit about what the situation of these moons is, to help you think about what your life was like. Obviously, you have the little writeups of each of the moons. We've talked a little bit about character stuff. But the political situation on these moons…broad political situation is that the—
+Keith: [sarcastic] It’s probably good, right?
+Austin: It’s good. Everyone loves them. Actually, everyone does kind of love them. That’s kind of what makes them…that’s what kind of makes things rough. Eh, not rough. These four moons have been in orbit with each other around Realis for as long as long has been—and I'll give, like, a fancier version of this kind of intro probably in our first real session—and they have kind of come to a pretty normalized relationship with each other. They, you know, Ulled is a farming planet. You know, Dokine produces a bunch of fun entertainment and mysticism and weirdness. People go to The Crux for their kind of more low culture needs and desires to see people fight, to see people race. Very sensuous, very, you know, you just want to get out there. You want to smell blood in the air sometimes. You want to go to big weird parties. I guess big weird parties is probably more Dokine.
+Keith: Mm-hmm.
+Austin: And then Principia is like, yeah.
+Keith: Different kind of big weird party, maybe.
+Austin: Right, exactly. Go learn some stuff on Principia or go be a smarty pants over there. Things have kind of shaken out to where, like, the people of these places might have feelings about each other that are…they have stereotypical things or whatever, but like, it’s almost like a region of the Thousand Moons, you know? You're from this kind of little set of four marble-like worlds. They all look— I have marbles for each of them. I'll show you the marbles, at some point. You know, you like it. You're one of these marbled moons, you know, you're from that kind of world, that sort of, like, little mini sphere. And maybe you don't like people from The Crux, but they're still your people, in a weird way, you know?
+Keith: I mean, I'll say this. It sounds like there's places to go and things to do.
+Austin: There are places to go. There are things to do. And you're not part of any larger major faction. Realis, as a rulebook, has this idea of Factions that are importantly distinct from Moons. Players can't use Faction Sentences, right? Is an important distinction here. I don't know that they'll come up here, so I'll happily talk about them, for instance, but there is a sort of, like, what if a Roman Empire, like a space Roman Empire turned into bug people, biomechanical bug people called the Imperial Empest, right? 
+Keith: That’s fun.
+Austin: And, for instance, they have Sentences like “Empest worker drones always work, day and night,” or “Empest soldiers already rely on their great numbers to overwhelm the enemy.” And there are particular types of Empest NPCs or subtypes of NPCs, like Empest Flatfeeders, which always draw strength from blood or have sentences like, “If I've eaten recently, I always outlast my foe.” Gross tick bug people is what they are. Real grossos. They're not going to show up here, probably. Probably. I don't know. Play to find out what happens, but. 
+Players don't get to use those sentences. Those are GM-only Sentences. Factions are bigger than any one Player Character can take control of, whereas players can spend Tokens to use Moon Sentences, so there's an important distinction between those two things. The two Factions that are important for the people of these Marbled Moons are the Killiad Consortium and the Freemoons Assembly. In a real reductionist conversation, the Killiad Consortium is sort of the UN, sort of NATO, sort of the IMF.
+Keith: Here too.
+Austin: Yeah. Uh huh, yeah. [Keith chuckles] Fucking, they're everywhere, man! They are bureaucrats, merchants, and mediators who use hope and unity as weapons. The Killiad Consortium’s halls serve as the common ground on which all associated lunar governments meet and do the business of politicking, with an emphasis on “business.” One could almost be charmed by their grand vision: a sphere where all Thousand Moons of Realis become so intertwined that it becomes incomprehensible for any one member to harm another as it would be for one hand to turn on one another. Unfortunately, its vain, ineffective, and corrupt legislators make the local bureaucrats of Realis seem altogether practical. So, the Consortium is one of the two Factions that really would love to add these moons to its own collection. There are—
+Keith: This is the “war can't happen in two countries that both have a McDonald’s” faction?
+Austin: That is exactly their— yeah, uh huh, 100%. Yep. You'll come to learn about these folks later, but that’s exactly it. It’s the “if you build Exxon refineries and McDonald’s in both places, then over time, they come to be one place.”
+Keith: Which I think has borne out to be true.
+Austin: [sarcastic] Yeah, the world’s great. The world’s great and safe. It’s happening all the time. We're all— everything’s getting better all the time.
+Keith: Safety is happening all the time.
+Austin: That’s right, exactly. The other group that I think is interested here—but also there might be some interest from people here in it—is the Freemoons Assembly. Again, reductionist. You know, there's a little space wild west here but a different take on it. Freemoons Assembly is scoundrels, layabouts, and keyherders. Perhaps they are the best of us. The Fifth Assembly of the Freemoons of Realis. Colloquially, the Freemoons Assembly became the final of the great powers not through subjugation but through persistence. A blend of indigenous tribes, heretical religious groups, lunar outlaws, and political radicals, the Freemoons do not have the monoculture of the other major powers. 
+Despite this, their mayors, mystics, and militias are always eager to paint themselves as first and foremost independent and self-reliant, but this is hardly the whole story. In fact, this coalition’s greatest success came when they put apart their differences and worked together, unified not only by some abstract notion of freedom but by shared cultural values of curiosity, kinship, and storytelling. As collaborators, they've mapped more moons than any other major power, uncovered a number of powerful Rounic relics, and managed to bring nearly a hundred moons under their protection. But, as fleets of their rivals grow ever more deadly, one wonders for how much longer that will last. 
+The Freemoons are generally authority distrusting. They sometimes lean into libertarianism and value independence in such a way that they don't always like to rally together to defend each other or to let outsiders in. And so this is a moment where, even from these folks, there's a real “Well, what can you do for us?” you know? Hey. And also, a “Are you really one of us? You know, we did all this work to become the Freemoons Assembly. Where were you then?” And so there are some folks from the Freemoons Assembly around these moons right now too, and there's kind of a big debate as to whether or not it would be good to formally join either of these two groups: the Killiad Consortium or the Freemoons Assembly. And there's a sort of, like— there's also a sort of—
+Keith: Sorry, a debate between who whether to join?
+Austin: The members of the four moons that you're a part of.
+Keith: Okay.
+Austin: The kind of what I'd been calling the Marbled Quartenion.
+Keith: Sure.
+Austin: A Quartenion is, like, you know, a group of four things. And so, the Quartenion is, uh…it’s a common conversation piece, and almost more importantly, it’s a classic these four moons are a natural border between the Freemoons Assembly space and the Killiad Consortium’s space, which fundamentally has turned it into a proxy…I won't say battleground. It’s not war. These aren't two groups that do war. But some Freemoons pirates will attack some Consortium transports, and some Consortium, you know, mercenaries or, you know, our classic kind of, like, Shadowrunner type people will kidnap and extort a Freemoons captain, you know? There’s like, you've naturally become the place where this chaos from these bigger factions is working its way in here, over time. 
+And on top of that, there have just been weird goings on lately, and maybe this is something that Hye, your…I almost said “forecasting,” which is, I guess, technically— technically a type of— forecasting is sort of like fortune telling, I guess. Something is, like, something is wrong in the air. There are strange alignments recently. There are, you know, there are things that feel— there have been many omens lately is, I guess, maybe a quick way of saying it. There's a sense that the world could get sicker somehow, that there is something, a disease— not yet spreading, but being birthed, and that the next years, you know, trouble is on its way, you know? And whether that trouble is magical or mystical or political, it’s not necessarily clear. 
+Band [1:27:52]
+Austin: That is the state of the world. And I guess a thing we haven't talked about yet is that you have a good perspective on all of this, because, as I understand it, your Band does a lot of traveling around. Do you want to tell me what your Band is? Do you want to remind me and tell the listener for the first time what your Band is? Do y'all remember what you picked or what you decided on?
+Keith: [bluffing] Yeah, I remember, but I'll let someone else go. 
+Ali: [laughs] It was traveling circus, right?
+Art: Yeah, we're circus.
+Austin: It’s traveling circus.
+Keith: Traveling circus, right! Yes, traveling circus. [bluffing] Yeah, I knew that.
+Austin: Uh huh. [Ali and Keith laugh] You're a traveling circus.
+Ali: Keith, did you know that?
+Austin: Keith, did you forget that you were traveling circus?
+Keith: Yeah, yeah, yeah, yeah, yeah.
+Austin: You're the clown. You're the Zanni.
+Ali: Yeah. Mm-hmm.
+Keith: I'm the Zanni, yeah. Yeah, yeah.
+Ali: Okay.
+Austin: Okay.
+Keith: So, I had remembered that as a sort of— I forgot that that was the specifics of the Band and not just the general of the Band.
+Ali: Mm. Mm-hmm.
+Austin: Yeah. Mm-hmm.
+Keith: You know what I mean?
+Austin: Yeah. You're going to need a name for your Band, and you're also going to need a Band Sentence.
+Keith: Led Zeppelin.
+Austin: Okay, I…
+Ali: [laughing] I don't know we can do that one.
+Austin: I don't think we can do that one.
+Keith: Did someone use that already?
+Austin: Someone used that one already.
+Ali: But they're not going to find out about our Patreon, are they? [Keith laughs]
+Austin: You know, all it takes is one annoying person. [Ali laughs]
+Keith: Yeah.
+Austin: Once the identity of the Band is determined, you also need to come up with a Band Sentence, which is a special statement of your group’s unique identity and special capacity, especially when unified in action and purpose. Every Band Sentence begins at +1 and must begin “When we work together, we always…” And so an example for this is you might have a team of researchers who are, like, digging into strange mysteries, and they might have the Sentence, “When we work together, we always uncover what time has hidden.” Or a group of— I mean, there's one in here which is a traveling circus trying to get enough money to escape a backwater world might have, “When we work together, we always impress and delight.” But maybe that’s not what you do. I don't know. I'm not going to say for you, you know? So yeah. I want a name for what this circus is. 
+I know a thing we've talked about is maybe you have…there’s a thing in this setting called an Orphan Vessel, which is a type of spaceship, except it’s alive. I never really lay out exactly what it is, except that they're called Orphan Vessels and there used to be other types of Vessels. There used to be Grand Vessels, and all we have left are these vestiges of a different time that are called Orphan Vessels, and those can move from any moon to any moon. So, maybe you don't have one of those. Maybe you just have one of these little shuttles that can hop between the four moons of this Quartenion, because these smaller shuttles are unable to kind of, like, take big jumps between two distant moons, so maybe you just have one of these little circus shuttles. I do like the idea someone pitched when we had our pre-conversation that it might look like a train. That’s kind of fun. Or like a train car, you know? Like a circus train. 
+Any thoughts on Band Sentences? Do we want to talk about Bonds, with all of that said? Do we want to talk about Dreams with all of that said? I tried to lay out as much context as I could here. Also, because I think maybe where you all are from—The Crux, Dokine, and Principia—we should probably start on Ulled, which is the agricultural world.
+Art: Sounds like a great place to do a circus.
+Austin: Yeah. I think that’s a fun opening circus story, you know?
+Keith: Yeah.
+Austin: Bunch of farmers and, you know, townsfolk coming out to the circus.
+Keith: Big gate made of hay bales.
+Austin: Mm-hmm. Gotta hope the gate’s big. That’s why you do a circus, trying to get those gate numbers up.
+Keith: Big. Did either of you do any Band name thinking? More than me? Which is low.
+Art: No.
+Keith: So, no. Okay. 
+Ali: [chuckles] No.
+Keith: Great. So, that’s awesome, 'cause we're all [Ali: Mm-hmm.] on the same level of don't have a Band name.
+Austin: That’s on the same page. That’s right.
+Ali: Mm-hmm.
+Keith: I'm looking at circus names. They're not— they don't have— you know. They're pretty obvious.
+Austin: While we're thinking of those, do you want to to Bonds or Dreams, if anybody has those?
+Bonds [1:32:02]
+Keith: I have a Bond question.
+Austin: Yeah.
+Keith: Bonds are not like the Class Sentences, [Austin: Correct.] where we can make up our own.
+Austin: Yes.
+Keith: But I do have a question based on my own…my example Bonds.
+Austin: Sure.
+Keith: Which is not for you, Austin, but for the other two.
+Austin: Oh.
+Keith: One of them is, “What’s wrong with this character? Can't they take a joke?” [Austin and Ali laugh] I would like to know if that fits one of you more than the other. I don't know. The ghost struck me immediately as potentially not very funny. [Austin, Ali, and Keith laugh]
+Austin: Damn!
+Ali: Wow.
+Keith: Sorry, well, it’s—
+Art: I think it would be hard to tell if a ghost thinks you're funny.
+Keith: Right. Sure, but—
+Austin: What’s your ghost like? Do we know what your ghost…?
+Keith: Can I just read the name one more time? The Sense of Dread Observed Near the Back Staircase of the East Wing doesn't, like, scream “can take a joke” to me.
+Austin: Yeah, but The Sense of Dread—
+Keith: But that’s why I'm asking, though.
+Austin: The Sense of Dread Observed Near the Back Staircase of the East Wing, but you can call me Donnie…
+Ali: Mm-hmm.
+Austin: Does kind of—
+Ali: Right.
+Keith: See, that— see, it’s, yeah, that’s what I mean. That's why I need to ask.
+Art: That’s a jokier person.
+Austin: That’s a jokier— yeah, uh huh.
+Keith: Right.
+Art: But it doesn't have to be literally true. It could just be—
+Austin: Right. That’s important.
+Keith: No. No.
+Austin: You don't both write this down.
+Keith: But I would hate to get into the game…
+Art: It’s an observation.
+Keith: I would hate to write the bond, get into the game, and be like, “This should have been the other. These should have been flipped.”
+Austin: Swapped. Right. Right.
+Ali: Mm-hmm.
+Keith: Yeah.
+Art: Well, how jokey do you think you're going to be, Ali?
+Ali: Um, I could be the…
+Art: Where are you on the joke scale?
+Ali: I'm probably lower than Donnie on the joke scale. I have some pretty intense Bonds here.
+Austin: Oh, do you have yours? You're ready to go.
+Keith: Oh, that’s true. Look at that.
+Ali: I have, like, a…my Look is “Queen Amidala-esque.”
+Austin: Oh! [Ali laughs] Love this.
+Ali: So.
+Keith: Which time?
+Ali: Uh…you know, the queen time.
+Keith: Or always changing.
+Ali: Right, yeah.
+Keith: Okay.
+Ali: I'm mostly just writing that for hairstyles.
+Austin: Not Senator Amidala.
+Ali: No, no, no. 
+Austin: Yeah.
+Keith: No.
+Ali: The queen looks, yeah.
+Austin: God, I think— yeah, I think this side of the game is real, like, prequel-coded.
+Ali: Mm-hmm.
+Austin: In terms of colors and bright lights and Naboo, you know?
+Ali: Yeah.
+Austin: Anyway. Ali, you have your Bonds. Do you want to read those, and maybe we can jump off from those?
+Ali: Uh, sure. Let me…
+Austin: Or at least pitch them, 'cause if we decide we don't want to go with them, we can at least have that convo.
+Ali: Oh, sure, yeah. I guess you can veto my Bonds. Okay. So, my first Bond with The Sense of Dread Observed Near the Back Staircase of the East Wing is, “Donnie’s fate has been shattered and diffused. I will guide them towards favor in their second living.”
+Austin: Ooh, that’s fun. That’s great.
+Ali: [chuckles] And then Wellaway Piaster. “Wellaway’s fated glory will not come without hardship. I will walk with him to assure his safety.”
+Austin: Love it. Great.
+Keith: Wow.
+Austin: Good bonds.
+Art: So, one of the example bonds for Quintessent is, “(Character) is terrified of the truth I embody. I will make them face it.” Does anyone feel like that describes them? [Ali and Austin chuckles]
+Keith: No, I think I'm good with your fate. [Ali laughs] The fate you embody.
+Ali: Mm-hmm. Read that again?
+Keith: Although it sounds like maybe, from Hye’s bond…
+Art: Well, the truth I embody.
+Keith: Oh, sorry, the truth, yes.
+Austin: Mm.
+Art: “(Character) is terrified of the TRUTH I embody. I will make them face it.”
+Keith: That does sound like it pairs really well with Hye’s bond for you.
+Art: Mm.
+Keith: Is like, kind of about having to guide you to something different.
+Austin: Oh, interesting. Right. The idea that—
+Art: I didn't— yeah.
+Austin: The idea that if what Hye is doing is saying, “Hey, hey, hey. Forget about your past. Your old fate was shattered. Let’s find peace for you looking forward.” The idea that you could respond to that by saying, “Why won't you look at the past?” is kind of interesting.
+Keith: Yeah.
+Art: That is interesting, and it also pairs well with the idea— oh, wait, we went the other way with that.
+Austin: Oh. Eh, I want to hear the other way. Other way probably sounds good too.
+Keith: Yeah, I like the other way. [laughs] 
+Art: Well, the other example bond is, “When I am with (Character), I remember what I once was and feel at ease,” and that’s a funny pair to, like, this person has no sense of humor.
+Austin: Oh, sure.
+Keith: Oh, yeah.
+Ali: Mm.
+Art: It’s like, Donnie just fucking loves being by Wellaway, and Wellaway’s like, “You're not laughing right.” [Austin and Keith laugh]
+Austin: That is very funny. But like, you're at ease around the jokester. It’s not…
+Art: Yeah.
+Austin: It’s not “your jokes aren't funny.” It’s not that you're stuck up.
+Art: Right, it’s sort of like, “Ha! Good one,” and it’s like, “No, it was a great one.” [Austin laughs]
+Ali: Wow.
+Keith: I do feel that way sometimes. [Art laughs] That’s real for me.
+Art: I think we've all been there.
+Austin: Yeah. Oh, it didn't hit. Why didn't that one hit? That one hit for me. I said it.
+Keith: Yeah. You're laughing, but why aren't you on the floor? I don't get it.
+Austin: Yeah. Yeah. Yeah.
+Keith: It’s right there. It’d be so easy to fall over.
+Art: This is not a gentle chuckle situation. This is a…
+Austin: Yeah. You should be guffawing, okay?
+Keith: Yeah. Yeah.
+Art: This is a conversation-stopping…
+Austin: [laughs] Yeah. I like that. I like that divide.
+Art: Yeah, I'm going to take the samples. 
+Austin: Oh, wait, what is your other—? Oh, yeah, yeah. Okay. Right, yes, yes, yes. So, Keith, are you going with…?
+Keith: Yeah, I'll cooperate with that.
+Austin: “What’s wrong with Donnie? Why can't they take a joke?”
+Keith: I'll put Donnie as the “What’s wrong with Donnie?”
+Austin: Yeah, okay. So then we need another one. We need one for Hye Malis.
+Keith: And then…yeah.
+Austin: Which is just a really fun name. [Ali chuckles]
+Keith: I'm going to say, “What’s wrong with Hye Malis? Can't they take a joke?” [Ali and Keith chuckle]
+Austin: How are things going for your circus? Is it a successful circus? What’s success look like, if they are?
+Keith: Is it? I feel like it’s hard to be a successful circus.
+Austin: I don't know.
+Keith: There's only, like, a handful of them in the world, in our world.
+Ali: Right. Well, this is a new world.
+Austin: We can do anything we want here.
+Keith: Yeah. 
+Ali: [away from mic] Hey, don't do that.
+Keith: Sorry.
+Ali: Sorry, no. [Ali and Art laugh]
+Austin: This is our first— is this the first on-air appearance?
+Ali: Of Millie? Yeah, I think so.
+Austin: Of Millie.
+Ali: She’s trying to, like, eat a crumb off of my desk, which is not…
+Austin: Hi, Millie. Hi!
+Keith: What kind of crumb?
+Ali: I don't know. From a croissant, maybe?
+Austin: Croissant crumb.
+Keith: Yeah. That’s for cats. [Ali laughs]
+Austin: Yeah. I'm with Millie here.
+Ali: Mm.
+Keith: Yeah. Let me eat that. Let me eat that bread. I think it’s funny that—
+Austin: That’s my version of “rise and grind” culture, [Ali laughs] is like, rise up. Grind yourself some millet. Make it into some bread.
+Ali: Mm.
+Austin: Get that bread.
+Keith: Yeah. Rise and grind, more like ryes and pumpernickel.
+Austin: Yeah, uh huh.
+Ali: Wow. Wow. [Keith laughs]
+Austin: You were going to say it’s funny.
+Keith: Oh. I like, you know, like, before anything has been said about my character, Ali’s got, “Wellaway’s fated glory will not come without hardship. [Ali laughs] I will walk with him to assure his safety.” Which is such a funny thing to say without knowing anything about— I don't even know anything about Wellaway! [Ali laughs] And I'm like, oh, I'm learning that I have a fated glory.
+Austin: Oh, it’s so good.
+Keith: This is really— so.
+Art: Yeah, say what you will about your glory, but it’s in the past, buddy.
+Keith: Yeah. [Keith and Ali laugh] No, fated, not faded.
+Austin: So, yeah, fated.
+Ali: Yeah.
+Austin: F-A-T…
+Art: Oh, fated, not— okay.
+Ali: Yeah.
+Austin: Yeah, fated glory. It’s the other way. 
+Keith: Yeah.
+Austin: You think you're just a little clown? You're not.
+Keith: Yeah.
+Austin: You're going to be a big clown, buddy.
+Art: Yeah.
+Keith: I'm going to be a big clown.
+Art: Going to be a big clown.
+Keith: That really feels like I could work that into my Bond with Ali and take one and leave the other for my example Bonds. I really like the “What’s wrong? Can't they take a joke?” [Ali chuckles] It’s so funny. Especially, like, contrasted with the seriousness of a lot of the other example Bonds.
+Ali: Mm-hmm. I just had to go for it. We just have to write words. We have to decide.
+Keith: Do we want to move onto the next thing while I get the wording on this Bond, so that we're not just waiting on me?
+Austin: The next thing is Dreams and Band Sentence.
+Keith: Dreams. Band Sentence. Band name.
+Austin: Yeah. That’s it. Then we'll be done.
+Keith: Yeah. 
+Dreams [1:40:02]
+Ali: I feel like Dream is hard without knowing vibes.
+Austin: You know, in some ways, you're deciding vibes, right?
+Ali: Mm-hmm.
+Austin: A Dream is kind of the ultimate flag, you know? Because it will tell me how to shape a campaign, right? I've given you kind of the political context and the social and, like, what these moons are, but I don't— and I have, like, some broad ideas of where this could all go. You know, I think that this is going to be a story about adventure. I think this is going to be a story about getting a map and trying to decipher it or getting a relic and trying to figure out how to use it. You know, MacGuffin-focused story here. Finding an orphan and trying to reunite them with their people or whatever. You know what I mean? Like, there’s a…
+Ali: Mm-hmm.
+Austin: That’s the space that we're going to be in a little bit, and I think that, like, bouncing between these moons, ancient ruins that have been hidden, rival treasure hunters, you know? I don't think Outlaw Star is perfect, but there's some fun Outlaw Star stuff here we could do. Yeah. Those are the vibes. And so, yeah, what you want to— and, you know, a Dream can be— another thing to do when you're trying to figure out a Dream is to look at the Dreams of other Classes, right? Look at the Dreams of the other Classes in your Sphere. Look at the Dreams of other Classes in other Spheres. Dreams can be, you know, pretty broad, you know? So, for instance, one above the Syzygist is the Fantasist, which is a kind of illusionist mage, and they have the Dreams, “I will trick the world into giving me a throne,” which I think is the Clementine Kesh Dream. “I will uncover the greatest deception ever made.” “I will make the Drift, land of unfiltered dreams and living desires, supreme.” Some fun stuff there.
+Ali: This is Clem, Eclectic, Brnine right here.
+Austin: Yeah, uh huh. Yeah. [Ali laughs] Uh huh. Classic. [chuckles] 
+Ali: We love archetypes. 
+Austin: We do. Yeah, I'm trying to think of other ones that are fun for…there’s definitely another…there is another one that’s—
+Ali: I have, like, half of a Dream.
+Austin: Oh, sure.
+Ali: “I will witness the alignment of the Moons,” and something something.
+Austin: Yeah.
+Ali: But I don't know what that “something something” should be.
+Austin: Um…you know, you could keep it broad, right?
+Ali: Yeah.
+Austin: “I will witness the alignments of the Moons and reveal a great truth.”
+Ali: Mm-hmm.
+Austin: Uncover a great truth, right? It doesn't have to be bigger than that.
+Ali: Mm-hmm.
+Austin: Or another way of thinking about it is you go the other way, which is like…I mean, there's kind of— you're kind of telling me something about your character in how you phrase it. For you, it might just be discovering it that’s the dream. Wow, I found something that no one else found or I learned something about the world. That’s my Dream.
+Ali: Mm-hmm.
+Austin: Someone else might say, “I will, you know, discover a great truth that brings me fame or wealth or power,” you know?
+Ali: Oh, sure, sure, sure. Yeah, yeah, yeah.
+Austin: Right? And then, from there, we end up getting to know a little more about what Hye Malis wants, you know? Which this is a good thing for me to think about maybe putting in the book, in terms of thinking about Dreams as, like, do you care about knowledge? Do you care about power? Do you care about wisdom? Do you care about money? Do you care about love? Like, you can shade your dreams in those ways. Let me make a note.
+Keith: What’s up with the Great Void?
+Austin: Great question. It exists at the bottom of the known world, effectively. If I put a picture here, actually…this is actually my backdrop right now, my desktop. My backdrop? What’s that? What’s a backdrop? Let me find—
+Keith: Wallpaper.
+Austin: Yeah, it’s wallpaper. Exactly. Let me find the…maybe I put them in here, actually.
+Keith: How much light do we get from the Corpse Sun?
+Austin: Not as much as you get from the Moon of Realis. Here, let me link you to…copy message link. There we go. In our Realis channel, there are all these images that already exist from the incredible Sam Beck postcard series that I believe has already been sent out. Is that right, Ali?
+Ali: Mm-hmm.
+Austin: Yeah. All right, so, if you look at the fifth image here, which is, like, the big red clouds…
+Keith: Mm-hmm.
+Austin: That’s the Great Void.
+Keith: Okay.
+Austin: And it’s kind of, like, underneath all of the other moons, underneath Realis. You know, this is a particular angle on it. It’s almost like what if instead of a black hole there were clouds that made up an abyss, these kind of swirling dark red clouds.
+Keith: Mm-hmm.
+Austin: And it swallows the things that come into it. Sometimes it will swallow an entire moon. And nevertheless, there are always a thousand moons, so somewhere else, maybe a new moon appears in that moment. So, that’s underneath Realis. It’s, like, under the southern pole of Realis, which is the big blue planet in the center of everything, and then above it all, just off screen here, is the Corpse Sun. You can see the Corpse Sun in the next image, which I believe is Yazerin, the kind of, like, all these spires with, like, the mystics raising their hands up, [Keith: Yeah.] and they're looking up at this dead red sun.
+Keith: What’s that bug? What’s that big bug?
+Austin: That’s an Empest. That is an Empest ship, which you can see more of them.
+Keith: Cool.
+Austin: Remember I talked about, like, what if the Roman Empire became bugs?
+Keith: Yeah, yeah, yeah.
+Austin: That’s them. That’s the Empest arriving. I don't think there's any Consortium or Freemoons stuff here, actually. I mentioned Rounic ruins and Rounic relics. The third image here is of the Roun, R-O-U-N, which are this group of weird ghostly Arthurian-style knights that appear sometimes. They're weird. Their weirdos. Those types of ruins are around. That’s fun to find. Yeah. But yeah, those are the vibes of the light. Mostly big blue light from Realis-Itself, which is, like, incandescent. It produces its own light.
+Keith: Okay.
+Austin: Normal place. 
+Keith: Normal place.
+Austin: I would say the final image here is the one that’s probably closest to, like, the types of places that you've been. Maybe not this big cherry blossom world necessarily, but, you know, spaceships, archways, and the like. Any other Bonds or Bands or Dreams?
+Art: Yes, I have chosen to use a book Dream again.
+Austin: Yeah, sure.
+Art: “I will reunite with that which I was separated from.”
+Austin: Perfect.
+Art: Just really feels like a home run for the idea that I have here.
+Austin: Yeah. Love it.
+Band Name [1:47:08]
+Ali: Does anyone have strong Band feelings, or are we still not…?
+Art: Well, I've looked at a lot of circus names, and almost— maybe not almost all of them, but family name circus is overwhelmingly popular.
+Keith: Yeah. Yeah, yeah, yeah, totally.
+Ali: Mm.
+Austin: Family name circus.
+Ali: Is the circus just the three of us?
+Austin: I don't think so. I think there's gotta be a little bit more, right?
+Keith: No. There's gotta be, like, dozens, I bet.
+Art: Yeah.
+Austin: An animal handler, some sort of acrobat.
+Ali: Sure.
+Keith: Yeah. The thing about the circus is it’s sort of like a cover, right? I remember this.
+Austin: Oh, you're saying for us. I thought you meant in general.
+Keith: For us, yes. Yes.
+Austin: I thought you meant, “The thing about circuses is they're all fronts.”
+Keith: Yeah. Like, we're really part of the circus, but we use that we're in the circus as a front to be doing other stuff.
+Ali: Oh, to adventure, sure.
+Austin: To do some, like, treasure hunting or whatever.
+Keith: Yeah, and detectiving.
+Austin: Yeah.
+Ali: We're detectiving now?
+Austin: Are we detectiving?
+Keith: I think we were always— I heard that we were always detectiving. Am I misremembering that?
+Austin: You know, I'm talking about what we're talking about here, on this here recording.
+Keith: Okay. Okay. We're detectiving.
+Ali: All right. [laughs] 
+Keith: I've decided. I—
+Austin: Unilateral Zanni decision. [Keith laughs]
+Art: All right, yeah.
+Keith: Are Dreams always “I will,” or can I have “will” in there somewhere else, or what’s the…?
+Austin: It’s an “I will.”
+Keith: It is an “I will”?
+Austin: It’s an “I will.”
+Ali: Well, what’s our…? Doesn't our Band need to have a goal? Do we have a Band goal? We have a Band Sentence.
+Austin: You have a Band Sentence, correct. You have a Band Sentence, yes. And again—
+Ali: And we're a Band within the circus.
+Austin: Yeah, the Band is the party, you know?
+Ali: Okay.
+Austin: Really, truly. Again, from the book, some other example Band Sentences…let’s find them here… A group of rebels seeking to overthrow a tyrant might have, “When we work together, we always find justice on the end of a blade.” A band of mercenaries with a specialty in hunting down the supernatural might have, “When we work together, we always find our prey’s den.” A small convoy of pilgrims in search of a holy relic might have, “When we work together, we always find courage in our faith.” 
+Ali: What if we do something like, “We will conceal our intention with spectacle.”
+Austin: So it would always be, “When we work together,” and then it would be, yeah—
+Ali: Okay.
+Austin: “We always conceal our intention with spectacle”? That’s kind of fun.
+Art: Yeah.
+Austin: The idea that, like, you're able to use the spectacle of the circus to hide your true intentions?
+Ali: That’s the idea.
+Austin: That’s fun.
+Ali: I'm here for yeas or nays or…
+Art: I like it. [Ali chuckles]
+Keith: Yea.
+Austin: Boom. Written it. It’s a +1 Sentence, which is useful. Will still need some sort of Band name, you know? Which I still think could be the circus name. Is it a circus, or is it a carnival? Do you have rides?
+Ali: What if it’s like, “The Traveling X.”
+Austin: Ooh. 
+Ali: The Traveling XY.
+Austin: The Traveling XY. [Ali laughs]
+Ali: Well, X and Y should be words. [Ali and Keith laugh]
+Austin: The Traveling…
+Keith: This is not a chromosomal circus.
+Ali: No, no, no. [laughs] 
+Austin: [chuckles] No. The Traveling XY? The Traveling…Billbobs. That’s not good. The Traveling…
+Keith: Billbobs?
+Austin: I don't know. I'm trying to think of words. 
+Keith: Wilbury’s.
+Austin: That one’s a thing already, again, isn't it?
+Keith: Fuck! Again? 
+Austin: Yeah. You keep doing it. [Keith laughs] Is it an animal? The Traveling…I do like two words here. The Traveling blank blanks.
+Ali: Mm-hmm. Mm-hmm.
+Austin: Or two syllables or three syllables.
+Ali: Mm-hmm.
+Austin: The Traveling one-twos, you know? Like, The Traveling buh-buh.
+Keith: Tinsley Brothers Circus.
+Austin: Tinsley Brothers Circus?
+Keith: Tinsley Burns…no. Axelrod.
+Austin: The Traveling Axelrod. The Traveling Bird. Are we travelling? Are we flying? Are we…?
+Art: Well, Flying Circus is a very specific… [Ali laughs]
+Austin: Fuck. Can't do that one either.
+Art: Yeah, we're not Monty Python.
+Austin: The Traveling Pythons.
+Keith: The Traveling Time Servers.
+Ali: Ooh.
+Austin: What?
+Keith: That’s a…uh, I lost the definition.
+Ali: Is this another reference we can't use?
+Keith: No.
+Austin: The Traveling—
+Keith: I mean, I don't love it. I just saw the word and said it.
+Austin: Spectaculars. The Traveling…
+Art: It’s gotta be, like, The Traveling (BLANK), Spectacular and…something. [chuckles] I really want to…
+Ali: Wow.
+Austin: Like, The Travel— wait, is the blank a noun? Is blank a name? The Traveling, like…
+Art: Yeah, The Traveling maybe name. Maybe, like, not that long a name.
+Austin: The Traveling Maximos.
+Art: Spectacular.
+Austin: Spectacular and Bright.
+Art: Yeah.
+Austin: Spectacular and…
+Art: Spectacular and Curiosity Bizarre.
+Austin: Oh my god. The Traveling Marvels. The Traveling…I don't want to be marvels. That’s…
+Keith: Tumblers and we do somersaults.
+Austin: I'm doing random name generator. This one says Tanner Dirtchaser. [chuckles] I don't think we're The Traveling Dirtchasers.
+Keith: [chuckles] Tanner Dirtchaser is a great name, though.
+Austin: That’s a great name. I'm going to copy that one.
+Keith: Uh, where…? I just saw…
+Art: Well, The Traveling Tanner…
+Austin: The Traveling Zeppos. We'll just go through the Marx Brothers and see if one of them fits. The Traveling Grouchos. The Traveling Harp—
+Keith: Gummo.
+Austin: Dummo.
+Keith: Gummo.
+Austin: Oh, Gummo. Gummo. Sure. Gummo Marx, right.
+Keith: The secret Marx.
+Austin: Secret?
+Keith: Uh, yeah, Gummo quit, like, way before they got famous, right?
+Austin: That’s not secret. No one’s— it’s not a secret.
+Keith: No. But he wasn't, like, a real Marx Brother.
+Austin: Yeah.
+Keith: The Nerveless Chancers.
+Ali: That’s a new one.
+Austin: The Chancers is fun.
+Art: The Krinsky Family Traveling Curiosity and…
+Austin: Machine. Band?
+Art: I feel like The Traveling Curiosity is…we can wrap it and ship it, right?
+Austin: The Traveling Curiosity. But that feels like it’s a subtitle.
+Ali: Right.
+Art: Yeah.
+Austin: Which is where you need the Krinsky Family.
+Keith: I like it as a subtitle.
+Austin: Yeah.
+Keith: The, uh…sorry, it was the…?
+Austin: It was The Krinsky Family Traveling Curiosity is what Art said, I think.
+Keith: And then what was the subtitle?
+Art: Yeah. And then I was going to keep going.
+Austin: That was the subtitle. Well, it was the…
+Art: I guess that was the title.
+Austin: The Krinsky Family Circus: The Traveling Curiosity, or, you know what I mean?
+Art: And of course I'm not married to Krinsky. I was just thinking I wanted a K sound.
+Austin: I kind of like Krinsky, 'cause it’s like, it’s not anything. What are your— sorry. You've all joined this circus, at some point. None of you were, like, born into this circus. Actually, I don't know. Was the Zanni born into this circus, or did the Zanni come to this circus later? Like, what’s the…?
+Ali: Have you been a Zanni your entire life?
+Austin: Yeah, were you a Zanni forever?
+Keith: Um, was I a Zanni forever? Yeah, I think I'm a Zanni forever. I think that this is like a…
+Austin: Were your parents Zanni? Were you from…?
+Keith: Parents Zanni. Um…orphan Zanni!
+Ali: Whoa.
+Austin: Orphan Zanni. Raised by this circus.
+Keith: Yeah, raised in the circus. 
+Austin: Mm.
+Keith: Sorry, it was the— it was Krinsky was the name, Art?
+Austin: That’s what we've written.
+Art: Yeah.
+Austin: I mean, we haven't— we're not committed to that necessarily.
+Art: The Krinsky Family Circus and Traveling Curiosity.
+Austin: Yeah.
+Keith: The Krinsky Family…okay. Okay, okay, okay, okay. [typing] The Krinsky Family Circus…I just need to keep this straight, 'cause I keep forgetting. Those Nerveless Chancers, the Krinsky Family Circus and Traveling Curiosity.
+Austin: Those Nerveless Chancers. Where have you written this?
+Keith: I just wrote it in my notes.
+Austin: Can you say it out loud again?
+Keith: Those Nerveless Chancers, the Krinsky Family Circus and Traveling Curiosity.
+Austin: [typing] Those Nervous Chancers…oh, fuck. I forgot how to do, uh…there we go. The Krinsky Family Circus and Traveling Curiosity. Is that— and Curiosities? Curiosity.
+Keith: Yes.
+Art: I think singular.
+Keith: The circus itself is a curiosity.
+Austin: Okay. I've written it in three lines on the Band.
+Keith: Sure.
+Austin: To like, sort of, you know? You want to feel it. You know what I mean?
+Keith: Yeah.
+Austin: And it’s sort of like, Those Nervous Chancers, and then, you know, it’s like this.
+Keith: Yeah.
+Austin: You know what I mean? You're the Traveling Curiosity.
+Keith: Yes. 
+Art: Oh, nervous. I thought you kept saying nerveless, which I thought was…
+Keith: No, it is nerveless. Nerveless.
+Art: Oh, okay.
+Austin: Oh, nerveless! That’s better than nervous.
+Keith: Oh.
+Austin: I don't know why I wrote nervous! [laughs] 
+Keith: They're nerveless. They have no nerves.
+Art: They're nervous. [Austin and Keith laugh]
+Austin: Right, I got you. Yeah. Nervous makes no sense. I don't know why I wrote nervous.
+Keith: Getting up on the high wire, hands shaking, knees wobbling. [Keith and Austin laugh]
+Austin: [nervous voice] “Hey, everybody. Uh, I hope this goes okay!” [laughter] 
+Keith: [nervous voice] “It’s gonna go so bad. I'm not prepared! I don't like heights!”
+Austin: “Can we, uh, can we get a net? Can we get a—? No?! There's no net?”
+Keith: “But I've gotta do this. I signed a contract. [Austin chuckles] Please, if I fall, catch me. Please.”
+Austin: “Pleeeease! [laughter] Yes, I've done it before. No, it doesn't make it better!” I love it. I love it.
+Art: Yeah.
+Austin: And again, in my mind, you're the Traveling Curiosity.
+Keith: Right.
+Austin: You're part of the Krinsky Family Circus.
+Keith: Mm-hmm.
+More Character Details [1:56:22]
+Austin: We don't have Looks or ages for your characters yet. Maybe we'll think on those as we…I guess we do have a Look for Hye. Hye Malis has a look.
+Keith: Yeah.
+Ali: Yeah, where are we putting ages? Does that matter? Who cares?
+Austin: Eh, just…no, I just— I want to know. Like, I want to know. Well, I really want to know— now that I know that Wellaway is an orphan, [Ali laughs] I need to decide— I need to know how long have you been here.
+Ali: Uh huh.
+Austin: You know what I mean?
+Keith: Yeah. Well, not an orph— the circus is my family. I don't consider myself an orphan.
+Austin: Right, you're not an orphan, right.
+Keith: Right.
+Austin: That’s what I mean, is like, how long have you been part of the Band?
+Keith: Yeah.
+Austin: How long have you been part of the Traveling Curiosity? You know, specifically with Wellaway—
+Keith: A circus son.
+Austin: [sighs] A circus son. The circus son. Have you been here for 10 years? Have you been here for 30 years, you know? I don't know.
+Keith: Yeah. I'm going to go right in the middle. 20 years.
+Austin: 20 years.
+Keith: Yeah.
+Austin: 20 years old? 20 years in the circus as a Zanni?
+Keith: 20 years in the circus as a Zanni.
+Austin: Okay. So, raised from younger than that, but became a Zanni.
+Keith: Yeah.
+Austin: Done 20 years in the circus. You're a grown Zanni.
+Keith: Yeah.
+Austin: Yeah. Okay.
+Keith: I'm a grown Zanni now!
+Austin: Right. Donnie, how long have you been aware of being a ghost, a Quintessent?
+Art: Um…
+Austin: And importantly, a thing that’s interesting here: a Quintessent, as written, is a ghost but is explicitly not necessarily the ghost of a person.
+Art: Yeah.
+Austin: Or it’s a spirit, and the thing that I'm kind of gesturing at in the worldbuilding is that in the world of Realis, Quintessents…the reason they're not just ghost is 'cause it’s like, you're the embodiment of a thing or a place, maybe a person. Maybe you're the ghost of a person. Maybe it’s as simple as that. But you could also be, as you've written yourself to be, The Sense of Dread Observed Near the Back Staircase of the East Wing. Maybe you're tied to something in the East Wing. Who knows?
+Art: Who, indeed?
+Keith: Yeah.
+Austin: Yeah.
+Keith: Maybe someone dropped something in the East Wing once, and you stayed there.
+Art: I think the sense of dread is older than Donnie.
+Austin: Right.
+Art: I sort of feel like it was a sense of dread, and then Donnie sort of became the personification of that sense of dread.
+Austin: Mm, mm-hmm, mm-hmm. Mm-hmm.
+Art: Probably in the last few decades. Yeah, I think perhaps more in, like…you know, maybe it was 50 years ago.
+Austin: Sure.
+Keith: Do you feel unified with the sense of dread?
+Art: And then the circus came through, and Donnie left. What’s that?
+Keith: Do you feel unified with the sense of dread, or is that just something people put on you?
+Art: I think that was the original classification.
+Austin: Right. Yeah, I think the thing that happened is I think one day…
+Keith: Oh, I understand. I understand.
+Austin: You know, one day there was a…one of the members of the Endless Academy, you know, walked by and was like, “[shudders] I am feeling a sense of dread here. What is this?” and that— you're saying that that lasted— that was earlier than that, and at some point, you became that sense of dread. 
+Art: Right.
+Austin: You became a coalesced spirit. Yeah. Yeah, yeah, yeah. I like this.
+Keith: Yeah. I had misunderstood that…
+Art: This is how ghosts happen.
+Austin: Right.
+Keith: That a ghost was added later and then became enmeshed with an already existing sense of dread, but I get it now.
+Austin: You know, little of A, little of B, you know?
+Keith: Yeah, sure.
+Art: Yeah. Yeah, who knows?
+Austin: Okay. Do we want to call it there? I feel like this is enough for me to start building a campaign around. I would love to, you know, have some…if there is more information around Looks, during our, you know, between now and the next recording, I would love to have those.
+Art: Yeah, by the time—
+Keith: Yeah.
+Art: When we go again, I'll have a Look.
+Keith: Yeah, same.
+Austin: Oh. Sorry, we didn't— I didn't get Wellaway Piaster’s, uh…
+Keith: My second Bond.
+Austin: Your second Bond or your Dream.
+Keith: Oh, sure. So, I've got my second Bond with Hye Malis. “Hye showed me a straight path to my destiny, but I will show them how to bend any path.”
+Ali: Ooh.
+Austin: Ooh.
+Keith: And then my Dream is, “I will hear, in whispers and shouts, an entire world speak my name together.”
+Ali: Whoa!
+Austin: That’s good. That’s a Dream. This is what I'm talking about. Love it. All right.
+Ali: Do we want to go over everything one more time or do that at the start of the next ep?
+Austin: Let’s do that at the start of the next one. I feel like we've got a good…
+Art: ‘Cause we'll have more information then. There’ll be surprises.
+Ali: Mm-hmm.
+Austin: Yeah. Maybe we'll have more. Yeah, I guess we'll have Looks for…I’m very curious what Donnie looks like. I'm very curious what Wellaway looks like. I have a list here of what you look like, Hye, but let’s, you know, maybe you have…you know, you're going to go to sleep. Maybe you wake up, and you think, “Whoa, a different part of Queen Amidala’s outfit,” you know? Or, uh…
+Ghost Talk [2:01:06]
+Art: What do you call the bottom of a Casper?
+Ali: Wisp.
+Keith: Oh, the tail thing?
+Austin: The tail.
+Keith: Yeah.
+Art: Oh, yeah, the little, like, tail thing? Oh, wow. Sometimes Casper has feet, and I hate it. [Ali laughs]
+Keith: Oh, yeah, I've seen Casper with feet.
+Art: Foot Casper is a no for me.
+Ali: [intrigued] Mm.
+Austin: Yeah. I don't think that’s a ghost at that point.
+Ali: That’s just some guy.
+Art: Yeah, that’s just a glue man.
+Keith: Sorry, are you saying ghosts can't have feet?
+Art: No, I'm saying that Casper should not have feet.
+Austin: Casper can't have feet. Yeah.
+Keith: Okay.
+Austin: Other ghosts, maybe, but not Casper.
+Art: Yeah.
+Austin: I hate the foot Casper.
+Art: Oh, foot Casper seems to be the original, though. Oh, gee. Someone at some point decided no foot Casper. I'm looking at a picture right now of Casper riding on a witch’s broom, and that— Casper can fly. That’s an established piece of Casper lore.
+Austin: Yeah, what do you need the broom for?
+Ali: Mm…
+Art: Yeah.
+Austin: Well, maybe it’s like— okay, but wait a second. Maybe it’s like a car.
+Art: Mm. It goes faster than a Casper.
+Austin: It goes— and you don't have to—
+Art: That’s probably how they market the broom.
+Austin: Yeah, that’s right. But you don't have to expend your own energy, maybe. Maybe it’s the broom’s energy.
+Art: Mm.
+Austin: You know what I mean?
+Art: Sure. Also, I love this, like, Casper’s mean friend? Hold on.
+Keith: Oh, the three mean ghosts?
+Art: No, this is like a different guy. Oh, I can't just drag this?
+Austin: Is it a WebM? What have you searched for? [Ali snorts]
+Art: Casper.
+Austin: That’s it?
+Keith: Oh, the guy with the little hat. Is that who you're talking about?
+Art: Yeah, hat guy.
+Keith: Yeah, the hat guy. Yeah, yeah, yeah.
+Austin: Oh.
+Keith: Oh, what is that guy’s name?
+Ali: Is he in the movie?
+Art: Hat and, like…are those freckles?
+Ali: He’s not in the movie. I don't know who this guy is.
+Austin: Oh. I think that’s…
+Keith: You're talking about the live action movie, right, Ali?
+Ali: Yeah.
+Keith: Okay. 
+Austin: Haha! I got this guy’s name. Any guesses? Don't say it if you know it.
+Art: No, but I'm betting it’s— knowing how Harvey Comics was doing things at this time, I'm betting it’s something not great.
+Austin: This has an Ali energy to me.
+Ali: Oh.
+Austin: “Casper’s friend, Spooky the Tuff Little Ghost.”
+Ali: Sure. Yeah. [Keith and Art laugh]
+Art: Oh, Tuff, T-U-F-F.
+Austin: T-U-F-F, yeah.
+Keith: So we got a friendly ghost and a tuff little ghost.
+Ali: Mm, mm-hmm.
+Austin: Yeah. Now, this guy can have feet.
+Art: Oh.
+Ali: Yeah. I'm coming around on the feet.
+Keith: Oh, this is a guy that screams feet to me.
+Art: Yeah, Spooky having feet doesn't bother me.
+Austin: Casper I don't want to have the feet, but Spooky? 
+Keith: Spooky can do whatever, yeah.
+Austin: Look at this motherfucker. Oh no. [chuckles] Y'all ever feel like this?
+Keith: Yeah.
+Ali: Yeah.
+Austin: Smoking on that shit that got you like this. [Art and Austin laugh]
+Ali: Yeah. Tuff Ghosts.
+Keith: Not that tough!
+Art: This is a different comic. This is an issue of Tuff Ghosts Starring Spooky, so there's other Tuff Ghosts at this point. [Ali laughs]
+Austin: Damn. Tuff Ghosts is just Spooky’s bad day, from what I can tell, over and over again. [Art and Keith laugh]
+Ali: Wow.
+Art: Why does it bother him that it’s raining? He’s filling with rain, which raises a lot of questions, frankly.
+Austin: It does. Yeah, he’s filling up. Damn. 
+Keith: Oh, what happens when you're totally full? I bet it’s so hard to move.
+Art: Tough. Ghosts.
+Austin: This also seems to be a recurring thing with Spooky. Oh, that’s the same image. Whoops. Spooky, like, will eat stuff and, from the foot up, slowly fill up.
+Keith: Yeah.
+Austin: They really loved this concept for Spooky the Ghost.
+Art: Wow.
+Austin: The Tuff Little Ghost.
+Keith: Oh my god. Spooky’s always filling up. [Ali snorts]
+Austin: Sometimes it’s useful.
+Keith: I hope.
+Art: I can't recommend enough. I'm doing— I mean, I'm still using Microsoft Bing, but an image search for Tuff Ghosts is just, like, covers of this comic.
+Austin: Yeah.
+Keith: [cross] How many Microsoft Points you got?
+Art: [cross] And they're super weird. There's one where he’s cheating at Pinball.
+Austin: I see that. I see that. It’s weird. Can you answer Keith’s question?
+Art: There's one where he’s getting struck by lightning, which again, is not how I believe ghosts work. [laughs] 
+Austin: Yeah. Yeah.
+Keith: We used to have real art.
+Austin: In this country. Yeah.
+Art: Oh, the one where he’s scaring away the seeds from the watermelon.
+Austin: Get ‘em out. 
+Art: Get ‘em out.
+Austin: I want seedless watermelon. That’s why I have this ghost around. That’s also a recurring theme, 'cause there's one where he scares the skeleton out of a fish, like, to eat it without its bones. There's one where he seems to scare the monkey out of a Now Playing poster for a movie, which is wild.
+Art: Wow, that’s…
+Keith: Agh!
+Austin: That seems dangerous to me.
+Keith: If I was a poster, I wouldn't let any ghost scare me.
+Ali: Mm.
+Austin: Hmm.
+Art: Here he is doing, I believe, a murder. [Keith laughs]
+Austin: Oh my goodness!
+Ali: Whoa.
+Keith: He killed that tiger.
+Austin: I think it’s just a haircut.
+Ali: No, yeah, that’s…yeah.
+Austin: It’s just a very…
+Ali: That’s hair.
+Keith: VERY close crop.
+Art: [chuckles] It’s not all the— the skin didn't come off with that.
+Austin: I got one here. I need one of you to tell me what you think is happening in this image.
+Keith: Okay.
+Art: Oh, I hope it’s the one that I have.
+Ali: Oh.
+Keith: Okay. 
+Art: Yep, that’s it.
+Keith: So, it looks like a squirrel. [Austin laughs]
+Art: Uh huh!
+Keith: There's a squirrel that is projectile pooping out of the top of its tail. [laughter] 
+Ali: No, it’s playing in a mud.
+Keith: Through Spooky, and hitting a second tail. And Spooky’s going, like, looking at the pooped-on squirrel, going like, “Hehehehe! It went right through me and got you! This is all part of my plan!”
+Ali: That’s, like, a mud pile, and the squirrel—
+Keith: Hmm…
+Art: How is it coming out of the tail?
+Ali: Well, because it’s, like, slapping it against the mud.
+Keith: It’s flinging mud?
+Ali: You can see all those…
+Austin: Mm, that’s not what this image is.
+Keith: I think that this is diarrheal. 
+Ali: No, you can see all the action lines around the tail.
+Austin: You can see the mud.
+Keith: That could just be other poop.
+Austin: Mm…
+Ali: I don't think that’s poop. I think that’s, like, an oil spill or something.
+Austin: I don't think it’s poop.
+Keith: I think it’s meant to suggest poop.
+Austin: It looks like the end of the tail has, like, a squid ink shooter.
+Keith: Yeah. Yeah, it does.
+Austin: Which doesn't make any sense. To me.
+Keith: Scaring this car so fast that it wins in the race.
+Austin: “Maybe it’s the derby hat, but Casper’s cousin Spooky gives new meaning to the word ‘Tuff.’ Spooky gets deeply involved in the conflict between the Storm King and the Mountain King. The ghostly trio is forced to clean their house by a bully. Casper babysits a baby cloud, which is tougher than it sounds. The Storm King; Triple Trouble; Ghostly Trio: Scared Spooks; Pretty Miss Doll; Casper: Baby-Cloud Sitter. 36 pages, full color. Cover price $0.12.”
+Keith: I'm having a hard time imagining a world both where comic books are popular enough and Casper is popular enough to sustain multiple skews. [Ali laughs]
+Austin: I want to say something really important about the game we're playing. This is a world where this type of comic is very popular.
+Keith: Okay. 
+Austin: That to me is, like, such a—
+Keith: The secondary and tertiary character comic book.
+Austin: Yeah. Yeah, yeah, yeah. This is the type of thing they make on Dokine, is…
+Keith: Okay.
+Art: Oh, hold on. I have a picture of our game.
+Ali: Whoa. Whoa.
+Austin: Oh, good. There it is. [Keith laughs]
+Ali: Wow.
+Austin: There it is. Spooky the Tuff Little Ghost on Realis. There's some, uh, hats orbiting around.
+Keith: Yeah. I thought those were planets or moons until I realized they're hats.
+Austin: They might— well, they're moons. They're moon hats.
+Keith: They're moon hats, yeah.
+Austin: Yeah. I'm trying to find, like, an ebook of this #18. I want to know what’s going on with these squirrels. I want to look inside, see if we can get some clarity, but I don't think I'm going to find it, so.
+Art: This is…I knew Harvey Comics were frequently on one, but I didn't know that they were this far. 
+Austin: Who is Harvey?
+Art: That’s…I don't know.
+Austin: Alfred Harvey. Alfred Harvey, apparently. “Spooky is written with a Brooklyn accent, for example calling his girlfriend and fellow ghost Pearl, ‘Poil.’”
+Keith: Poil.
+Austin: “His iconic derby hat is, therefore, a ‘doiby.’”
+Keith: Doiby.
+Austin: A doiby.
+Ali: Is that a Brooklyn accent? 
+Austin: “Although he shares traits with The Ghostly Trio, as far as loving to scare the living and being somewhat of a tough guy, he is not as cruel to his cousin as the Trio is, though he occasionally makes fun of Casper for being friendly, and Spooky has his moments of goodwill.”
+Keith: Well, that’s nice. It’s good to have a three dimensional character.
+Austin: He rescued his girlfriend from abusive witches.
+Ali: [laughs] This is crazy.
+Austin: And she’s trying to get him to stop scaring people.
+Ali: Wow.
+Keith: Poil is.
+Art: This should be a modern movie.
+Austin: Yeah. [Ali and Keith laugh]
+Keith: Yeah, let’s bring Spooky the Tuff Little Ghost back. He’ll be a smash hit.
+Austin: She always threatens to break up with him or she dates other ghost guys, but she ends up finding fault with them and thinking Spooky’s better, so they end up getting back together.
+Keith: Pearl, by the way, has hair, which means that boy ghosts are bald but girl ghosts are not. [Austin sighs] She’s blonde.
+Austin: Of course. Of course! Of course. 
+Ali: Are we going to Time.is? What’s happening? [laughs] 
+Austin: Yeah, I think we should—
+Keith: We're doing the rare post-episode Clapcast.
+Ali: Mm, mm-hmm, mm-hmm, mm-hmm.
+Austin: Yeah, uh huh.
+[“Realis” by Jack de Quidt plays]

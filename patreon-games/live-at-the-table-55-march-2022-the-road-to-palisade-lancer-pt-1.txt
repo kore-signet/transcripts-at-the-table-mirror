@@ -1,0 +1,2815 @@
+﻿Live at the Table 55: March 2022 - The Road to Palisade: LANCER Pt. 1
+Transcribed by: Iris (@sacredwhim)
+DRE: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your guest host, Andrew Lee Swan, and today we are continuing our journey on The Road to PALISADE. Joining me today is Austin Walker.
+AUSTIN: Hello, you can find me on Twitter at @austin_walker.
+DRE: Keith Carberry.
+KEITH: Hi, my name is Keith J. Carberry, you can find me on Twitter at @KeithJCarberry, and you can find the Let’s Plays that I do at YouTube.com/RunButton.
+DRE: Jack de Quidt.
+JACK: Hi, I’m Jack, you can find me on Twitter @notquitereal, and buy any of the music featured on the show at notquitereal.bandcamp.com.
+DRE: And last but not least, Sylvi.
+SYLVI: Hey, I’m Sylvi, you can follow me on Twitter @sylvibullet, and if you want to listen to me on other things, my other show Emoji Drome is available on your podcast platform of choice.
+DRE: Alright, today we are going to be playing Lancer, which is a game by Miguel Lopez and Tom Parkinson Morgan, which is published by Massif Press. “Lancer is a tabletop role playing game centered on shared narratives, customizable mechs, and the pilots who crew them.” And specifically this game is based off of the pitch that Jack gave us, right?
+AUSTIN: Mhm.
+JACK: Yeah.
+DRE: Which, you know what, I forgot to pull up that original pitch, but it was basically like ‘a crew of hyphen mercenaries’ trying to like—
+AUSTIN: Commandos, I think Jack said.
+DRE: Commandos, yeah, like trying to survive in a forest. Right?
+JACK: Yeah, it was like a squad of some Hyphen commandos trapped in a square mile of forest.
+DRE: Yeah. So where we are picking up today, and I don’t—is there anything else that we need to talk about, like housekeeping-wise, before we get into this?
+AUSTIN: I should just say thank you, Dre, for running us Lancer, a game that I’ve always thought was really cool, but have not—Lancer is the sort of game that I don’t think we would do a full season of, you know—who knows, maybe we fall in love with it today or something, and we think it’s great radio, but my suspicion is that the radio component of it might be a little hampered by it being a tactics game.
+[DRE CHUCKLES]
+AUSTIN: For people who don’t know, Lancer is a mech game that came out a few years ago that I relate to very much like 4th edition D&D, in that it’s like a really interesting sharp game for building cool—for having cool builds, cool tactical builds that do cool things, and that means that we just haven’t had an opportunity to play it before, but Dre, you have run it for friends of yours, and so—
+DRE: Yeah, I’ve run it, I’ve played it, it is a really cool game.
+AUSTIN: [OVERLAPPING] So thank you for taking initiative.
+DRE: Yeah.
+AUSTIN: For doing that, and we’re excited to give this a shot. I guess the only other housekeeping thing is, you know, this is somewhere in the mix during The Road to PALISADE, taking place post-PARTIZAN, but before we start PALISADE. And I think that that’s it. And I guess I’ll say, Dre, if you have questions about stuff—you and I have already synced off-mic a lot to talk through, to like sync up on setting stuff and ensuring that, you know, any questions you had about stuff, you had, but like—and I know a general direction of what the thing is here, but I—you’re the GM, so I’m excited to get to play.
+DRE: [CHUCKLES] Cool. Well, where we’re zooming in on today location-wise is a planet that is in Stel Columnar space, which on our map here is like the F area. There’s not a ping in this, I just realized just now.
+AUSTIN: Oh, is there not?
+DRE: But here, what I can do is I can draw…
+KEITH: Well, there is—
+DRE: Draw a little shape.
+KEITH: There’s not a ping, but can I just see everyone’s cursor all the time?
+AUSTIN: Yeah, you can.
+DRE: You can just see everyone’s cursor, yeah.
+KEITH: Oh, okay. So that’s sort of like a ping.
+AUSTIN: Yeah.
+DRE: Yeah.
+KEITH: A massive ping.
+DRE: Yeah. By the way, we are playing this in Forge/Foundry which is a different virtual tabletop system than Roll20. It is a very cool modular system, but because of that, a lot of it is user-made, so there could be some jank as we go through here, but it’ll be fine. We’re gonna have a good time.
+AUSTIN: Dre, I actually realized something.
+DRE: Yeah.
+AUSTIN: You should make us not GMs anymore, now that we’ve added all our stuff.
+DRE: Oh, I probably should.
+AUSTIN: Yeah.
+DRE: I don’t know if I can do that without restarting the game.
+AUSTIN: Oh, that’s okay.
+KEITH: Now’s the time to do it, I guess.
+AUSTIN: That’s what I was thinking, yeah.
+DRE: That is true. Let’s see. Username…
+KEITH: No one else has a colored folder.
+AUSTIN: I’ll make mine—I’ll give mine some color.
+DRE: You better hurry up before I demote you.
+AUSTIN: Nooo! Don’t demote me!
+[KEITH LAUGHS]
+DRE: Too late.
+AUSTIN: Damn.
+DRE: Don’t worry, I’m gonna keep you as “trusted player”.
+AUSTIN: Oh, okay.
+SYLVI: I made mine pink.
+KEITH: Thank you, Sylvi.
+SYLVI: Yeah, no problem.
+JACK: I made mine. Or I tried, but I think I might be dead. No, I can’t.
+[SYLVI LAUGHS]
+KEITH: Oh, no. Wait, I think I might be dead. But not in the game.
+DRE: [CHUCKLES] But in real—you’re Bruce Willis now.
+KEITH: I just realized that I might be dead.
+AUSTIN: Uh oh.
+KEITH: Yep. Sorry. I’m a ghost!
+AUSTIN: Damn, yeah. I’m not gonna get to change my color. It’s fine. I’ll live.
+DRE: Okay, we’re back.
+AUSTIN: Yes.
+DRE: So it didn’t kick you all out? That’s good.
+JACK: Now, weirdly, I can only see Sylvi and my character sheet.
+[SYLVI LAUGHS]
+KEITH: What’s weird is I can see you and Sylvi.
+AUSTIN: Same.
+SYLVI: I can still see Jack as well.
+DRE: Oh, that’s good. That’s good.
+AUSTIN: I’m sure it’s fine.
+DRE: I thought I’d set it up for everyone to have visual on it, but whatever, it’s fine. Anyway, [CHUCKLES] so we are in a planet that is in Stel Columnar space, which is kind of where I’ve put this purple circle here. That’s fun, it almost rhymes. The name of the planet that we were on is called Saboria, and Saboria was basically offered up to the Ashen, who just kind of like—our brief lore recap here, so, the Ashen are the deer people that were once known as the Hypha, like basically several thousand years ago, and we—they were created in our Dialect game as part of The Road to PARTIZAN. So the Hypha were kind of the inventors of strati, if I’m remembering that correctly, Austin?
+AUSTIN: I wouldn’t say that—I think that they—definitely not the inventors, because strati pre-date going back to Counter/WEIGHT, which was 55,000 years ago or something, right?
+DRE: Mhm.
+AUSTIN: But they had a different relationship with strati than what we’ve seen before.
+DRE: Yeah.
+AUSTIN: Strati were like a pretty normal part of their society that they could kind of create using a technology, right?
+DRE: Mhm. Yeah, so that technology was a ritual known as the Chorus Bond, where they would inscribe the ashes of basically dead Hypha into their antlers, kind of connecting them to the Strand, which was kind of like a universal crossing, almost like magical thread. And back then, the Hypha were nomads who basically followed the Strand kind of from planet to planet throughout the galaxy. But at the end of our Dialect game, Hypha society was basically kind of torn apart and they were literally scattered throughout the galaxy. And that’s when they became the Ashen. So at the end of PARTIZAN, Columnar basically—so, Columnar, part of the Pact of Necessary Venture, reach out to the Hypha—or the Ashen I should say—across the galaxy, and basically offer them this planet of Saboria, as kind of like a refuge or a sanctuary, basically. Kind of like a ‘hey, if you want to come here, we will give you space here.’ And the Ashen founded a town called Harborview, and let me pull everyone to this map…
+AUSTIN: Love to see a map. Ooh. Look at this place. This place is cool.
+DRE: Yeah.
+JACK: Oh!
+DRE: It’s a nice little sci-fi map.
+AUSTIN: Yeah.
+KEITH: Oh, look at that!
+AUSTIN: I’d live here.
+KEITH: Yeah!
+[SYLVI CHUCKLES]
+JACK: Seems quite nice. Well, now, hold on, Austin.
+[DRE LAUGHS]
+KEITH: I like the bubbly—
+JACK: [LAUGHING] We might learn some things.
+AUSTIN: Nah, I’d live here.
+KEITH: It reminds me of Dragon Ball architecture.
+DRE: Ooh, I didn’t think about that, it is very Dragon Ball.
+AUSTIN: I like this bridge with the little lake and the waterfall. It’s good. Love it.
+DRE: Yeah.
+JACK: The next thing Dre’s about to say is like, ‘Harborview was destroyed by a fireball five years later.’
+[DRE LAUGHS]
+AUSTIN: Well, I’d live there. That’s fine.
+DRE: Yeah. Before the fireball hits, it was very nice.
+AUSTIN: Yeah. We’re all dying, Jack. You know?
+[KEITH LAUGHS]
+JACK: We’re all dying.
+DRE: We all gotta die someday, right?
+AUSTIN: Yeah.
+JACK: A matter of when the fireball comes.
+DRE: So what I would like to know is more about your all’s characters, and what brought them to be here in Harborview, because you are all playing Ashen, correct?
+AUSTIN: Correct.
+KEITH: Yep.
+AUSTIN: I think, I believe. That was the plan.
+DRE: Yeah. [LAUGHS] That was the pitch.
+AUSTIN: That’s what Jack’s pitch was, and I think we should all keep to that, yeah.
+DRE: [LAUGHING] If you weren’t, you are now.
+KEITH: Sorry, if you weren’t what?
+DRE: If you weren’t playing an Ashen, you are now.
+KEITH: Okay, yeah, yeah, yeah.
+DRE: So any volunteers or do I need to be like the teacher that calls on people?
+AUSTIN: I’ll go first.
+DRE: Okay. [CHUCKLES]
+AUSTIN: Listen, it’s been a long time since I got to be a character. Oh, that’s not true, I did Janine’s, um—what was the name of that game? Jack, you were in that game.
+JACK: Oh, Good Society.
+AUSTIN: Good Society.
+JACK: You played that sad Austen-esque boy. Austen with an E.
+AUSTIN: And Austin with an I, honestly.
+[DRE LAUGHS]
+JACK: Similar sad boys.
+AUSTIN: Similar boys, yeah. Sad and terrible, also. This character’s less sad, but still terrible. I am playing Narmine Te’ketch. My call sign is “Ketch” like a boat, K-E-T-C-H. I spent a lot of time as a criminal.
+[10:00]
+AUSTIN: I think something very fun about the Lancer kind of background system is that you can pick—there’s a bunch of different ones, like ‘oh, you’re a pilot, you’re a scientist’ or whatever—I picked Criminal, and there’s a specific thing that’s like, there’s also Outlaw, and Outlaw is like the romantic criminal. It’s like the, you know, you’re the person who goes around—
+JACK: Yeah, like a highwayman or a—
+AUSTIN: Like a highwayman, or a wild west outlaw type. And Criminal is just a criminal. And I am just a—I was just a criminal.
+JACK: [LAUGHS] Stealing, breaking windows.
+AUSTIN: Yeah, a hundred percent that, right? Narmine has broken antlers, because I think whatever criminal syndicate I was part of did that as like a way of proving yourself, and getting higher in the organization, you’d break off another part of your antler. Another like, branch of your antler.
+JACK: Ouch.
+AUSTIN: Yeah, listen. You do bad shit, and you gotta prove that you’re willing to do more bad shit. So it’s like broken antlers—
+DRE: So were you specifically in like, an Ashen syndicate?
+AUSTIN: I don’t think so, no.
+DRE: Okay.
+AUSTIN: I think this—I mean, I guess I was, though, if that’s the thing that you do. Or maybe there’s just like a general ‘you have to make a physical sacrifice’ thing, right? And I chose that—
+DRE: Right, yeah, so some people cut off fingers…
+AUSTIN: Yeah, yeah, yeah, exactly, yes. Totally. And for me, it was these antlers. So I have a bunch of busted-up antlers. And I was just kind of a heavy. Like, I don’t want to go over skills and mech stuff specifically, but this happened—you know, it was one of those things where like, I did a few too many big jobs, I had a lot of Heat on me, I heard about this place called Harborview, right? And I was like, ‘that sounds alright.’ So I’ve relocated here and I became a whaler. I have a big mech. I got a big whaling mech, basically. And so just—Narmine Te’ketch is kind of a criminal who wanted a second chance here. Who was like, ‘I’m gonna put it all behind me and I’m gonna go to a place where I can start over and retire’, and I’m sure that’s what this game’s gonna be. We’re just gonna have a nice day, have a cup of coffee, go out on the boat, get a big whale in my mech. My mech’s name is The Captain, and it’s very much like a grapple-hook harpoon pull-people-together type of dealy. So, there you go.
+DRE: Cool. I’m just gonna go down the list as I see it in comp con backwards, since I started with Austin, and Sylvi, what about your character?
+SYLVI: Okay. My character is named Zark Vapor.
+AUSTIN: Excuse me?
+SYLVI: Sorry, I stumbled over that a little. Zark Vapor.
+AUSTIN: Zark Vapor?
+JACK: Sorry, did you say Zark?
+SYLVI: Z-A-R-K. Vapor like the matter, the form of matter.
+KEITH: Not like one who vapes.
+DRE: Not like you are a person who vapes, yeah.
+SYLVI: Yeah, not like a person who does vaping.
+DRE: But, maybe.
+KEITH: But maybe?
+[DRE LAUGHS]
+SYLVI: I don’t know yet. I’m still deciding on that. We’ll figure it out.
+AUSTIN: Yeah. Yeah, yeah, yeah.
+SYLVI: Zark was a mechanic who kind of prefers the—less fixing things and more breaking them, but fixing things is what people pay the bills—what pays the bills for people. So he kind of just came here because they needed someone on-site that could do basic repairs and stuff, but also there’s enough space for him to fuck around with his mech, the Ill Portent, which he likes to blow things up with a lot. Call sign is “Banjax”, B-A-N-J-A-X. And yeah. I don’t know what else to—oh, I asked this before we started to the group what a push room mustache equivalent was for a deer person, and Keith had the really good idea of handlebar.
+JACK: And then said no follow-up as to what that would be.
+SYLVI: Yeah, and I decided I know what the follow-up is, and it’s like these.
+JACK: [LAUGHING] Oh!
+SYLVI: Like the ergonomic bike handlebars that racers use that have the curve going downward.
+DRE: Oh.
+AUSTIN: Oh, I love it.
+KEITH: As antlers.
+SYLVI: Yeah, as antlers.
+AUSTIN: As antlers. We got some fucked up antlers over here.
+JACK: I feel like—
+KEITH: I just felt—as soon as you asked, I felt ‘handlebar antlers’ in my gut immediately.
+SYLVI: You know what? As soon as you said it, I knew that was what I was looking for.
+[KEITH LAUGHS]
+AUSTIN: Yep. Yep.
+JACK: I feel like the Wyrdeer in Pokemon: Arceus kind of has a similar vibe. Just like a weird, grumpy-looking—
+AUSTIN: Oh, yeah, sure. Sure. Love the Wyrdeer.
+DRE: Seeing if I can drop these onscreen for folks.
+AUSTIN: Oh, I can do it. I can do it.
+KEITH: Oh, it totally is Wyrdeer like ‘weird deer’. It’s totally that.
+SYLVI: Yeah.
+AUSTIN: Yeah.
+KEITH: I’ve played 80 hours of that game and I was saying “wur-deer” the whole time.
+SYLVI: Me too.
+[DRE CHUCKLES]
+JACK: No, a were-deer is when there’s a half-moon and someone transforms painfully into a deer. And just walks around eating grass.
+KEITH: This is like when I recently learned that the Pokemon Delibird, someone pronounced it “Deliberd” like “delivered”, because it’s a package-delivering pokemon.
+SYLVI: Fuck!
+AUSTIN: Yeah, yeah, yeah.
+JACK: Oh.
+DRE: Phoenix Down.
+KEITH: And why would it be called “deli bird”?
+AUSTIN: It’s Phoenix Down, yeah.
+JACK: Oh, Phoenix Down.
+DRE: So, Sylvi, Zark is, you’re basically—as a mechanic, that’s what brought—did you say ‘they’ or ‘he’?
+SYLVI: I think like ‘he/they’, probably.
+DRE: Okay. Yeah, yeah, yeah.
+AUSTIN: Also the same here for Narmine. Actually, you know what, Narmine is a he/him. Narmine is kind of big just fuckin’ himbo energy all the way, so.
+DRE: Okay.
+AUSTIN: And also just fuckin’ stacked. Narmine has the widest chest you’ve ever seen. Sorry I didn’t get into these details and I’m taking over your thing, Sylvi, to talk about my player character, this isn’t a thing I get to do.
+SYLVI: Oh, go ahead.
+AUSTIN: Huge biceps. Constantly smoking. Can’t wear one of those little watchmen caps, you know, but would—I guess you can. But how do you do it as a Hypha if you have antlers? Where do antlers come from on a deer?
+JACK: One on each tip. 
+KEITH: Put air holes.
+JACK: Or air holes is a good way to see it.
+KEITH: It opens up on each side and then you velcro it like a diaper.
+AUSTIN: Yeah, I’m off this then. No.
+DRE: Yeah, okay.
+[KEITH LAUGHS]
+DRE: [LAUGHING] Anyway, Keith, you want to tell us about your character?
+KEITH: Sure. My character’s name is Teasel Tuner, he is a—I would say has two main gigs in town, both of them involving his mech, the Dressage. One of them is—
+JACK: Like horse dancing?
+KEITH: What’s that?
+JACK: Dressage is like when the horses dance?
+KEITH: Yeah. Mhm.
+JACK: Okay, cool. Just checking.
+KEITH: And the first job—this is the main gig—is sort of like simulated hunting, where he takes people out in the mech, and like—it’s basically like shooting clay pigeons, but it’s in a mech, and it’s like, drones. And so it’s like, you know, not everybody has a mech, and you make a little bit of money letting people shoot drones in your mech.
+AUSTIN: Yeah, sure.
+DRE: Mhm.
+KEITH: And then the other thing is sort of a similar idea, but you know like, kid’s birthday parties when you get a horse, you hire a horse, and all the kids take turns riding around on a horse? It’s that, but it’s a mech. You go in the mech and it’s kids getting to ride a mech.
+[JACK LAUGHS]
+AUSTIN: That’s—you love it.
+JACK: What’s your background again?
+KEITH: I just live here.
+JACK: Oh, no, I mean, what’s your background in terms of the stats?
+KEITH: Oh, a Worker.
+JACK: God. So are you quite chill about renting your mech out to a lot of kids on a birthday party?
+KEITH: Um… Teasel Turner’s kind of a grumpy guy, but like, not mad about the kids, just like sort of—you ever meet someone who’s chill, but intense, like at the same time, who’s like—
+AUSTIN: Oh, yeah.
+KEITH: Like, gets annoyed at stuff, but also is relaxed. I think that’s Teasel, and he—so, yeah, I think that he’s like, not precious about the mech. Like, I don’t think that he’s like ‘this is my big expensive thing.’ I think it’s just sort of like ‘what am I gonna do with a mech anymore? I just live here. But no one else just has a mech, so I’m gonna make some money with it.’
+DRE: Gotcha.
+KEITH: Yeah.
+DRE: And Jack, can you tell us about your character?
+JACK: Yeah, I’m playing Martilla Häske, who uses she/her pronouns. She is an older Hypha. I don’t know how Hypha or Ashen age sort of works relevant to humans, but in terms of human years, I would say that she is in her mid-to-late 60s. She’s an older person, a very, very small Hypha, compact, like a sort of a big ball of potential energy ready to go off. And the whole reason that I’m here in Harborview is because—I didn’t want to be, in fact, I don’t like the place. I’m here because of my mech called Under the Radar.
+DRE: Hm.
+JACK: I’m on my way to the front lines, or to a skirmish of some sort, I’m a professional soldier, and my mech needs refueling. The problem is, is that when Under the Radar needs refueling, it takes like six days, because this thing is gigantic. It is an immense mech that Martilla has been piloting for, you know—she’s been piloting big mechs all her life and this is kind of the new model, and so she is just hanging around in town while the pumps finish fueling Under the Radar. And then she’s going to climb into her mech and head off out to the front to blow up some combatants.
+[20:03]
+AUSTIN: Who are you fighting against? Are you a mercenary, are you a…?
+JACK: Great question.
+AUSTIN: Yeah. Were you—are you a member of the Pact, or the Principality—or, sorry, or the Curtain?
+KEITH: Does Martella not know?
+JACK: Martilla. I think—
+KEITH: Oh, Martilla.
+JACK: The Pact were the people who gave Harborview to the Ashen, right?
+AUSTIN: Yeah.
+JACK: So it makes sense that she would be Pact. But if that is gonna cause trouble— [CHUCKLES]
+AUSTIN: I mean, that’s only gonna cause trouble if Martilla is like, ‘and it’s good that they’re killing everybody here.’ [LAUGHS]
+[DRE LAUGHS]
+JACK: [LAUGHS] Yes. Yes, absolutely. Yeah, in that case, I mean, I think she is too old and too world-weary to be a mercenary, and she’s like ‘I want the stable paycheck,’ and I think that, also, something like Under the Radar is probably so expensive to run that it’d be difficult to do it on a mercenary budget, so yeah, I think that she—and in fact, I think the Pact were the ones who sent her here.
+AUSTIN: Uh-huh.
+JACK: Were just like, ‘there’s a refueling station in Harborview, park the mech.’
+KEITH: Wait, so what was the answer to who—
+JACK: The Pact.
+KEITH: Okay.
+AUSTIN: The Pact of Necessary Venture who runs this place.
+JACK: Mhm.
+AUSTIN: Or who gave us this place, and said ‘ah, Hyphen refugees from Curtain space, please.’
+JACK: ‘Wouldn’t you love a planet?’
+AUSTIN: Yeah. Uh-huh.
+DRE: Mhm. So you are fighting for the Pact against the Curtain.
+JACK: The Curtain, yeah.
+DRE: Okay. Gotcha.
+AUSTIN: Love it.
+DRE: Cool.
+AUSTIN: So, I just really love, Jack, you said ‘I just want a stable paycheck,’ and if that’s not the most Pact of Necessary Venture fuckin’ reformist bullshit.
+[DRE AND JACK LAUGH]
+AUSTIN: ‘Don’t you just want a stable paycheck?’
+KEITH: Yeah. You get a gigantic mech.
+JACK: They look up to a 65 year old woman in her, who’s like, ‘look, I’ve got grandchildren. I’ve got great-grandchildren. I blow things up in my mech the size of a skyscraper. I need that stable paycheck.’
+DRE: Man. When people talk—when you’re talking about how big your mech is, I don’t think people will understand until we go to like, the tactical battle map, and your mech is literally three times the size of everyone else’s, almost. [CHUCKLES]
+KEITH: And those things are like, you know, the size of a small house already.
+DRE: Yeah.
+AUSTIN: Or bigger, in some cases, right? So, yeah.
+JACK: When we were planning for this, we were talking about—god, what was it that we were talking about? Where it’s like—oh, it was a Gundam ship or something?
+AUSTIN: I don’t know.
+KEITH: I don’t remember.
+JACK: Or it was a real weapon where it’s like, it has no strategic purpose other than just fighting violently and quickly to destroy as many combatants as possible.
+AUSTIN: Oh, that was the—
+KEITH: The shotgun thing?
+AUSTIN: That’s the shotgun mech. That is the… not the Zheng, the…
+DRE: Is it the Nelson?
+AUSTIN: I think it’s the Caliban. It’s the Caliban.
+DRE: Yes, the Caliban.
+KEITH: From Lancer.
+AUSTIN: Yeah, from Lancer. From The Long Rim.
+JACK: Yeah, I suppose—
+AUSTIN: There’s a whole big thing that’s like, “it has no civility and applications in aid, disaster relief, construction, or farming; it does not build, defend, or inspire; it was designed to solve a numbers problem on a ledger. It is a tool designed to kill human beings very, very quickly.”
+JACK: Yeah, a thing that I wanted to get at with Under the Radar’s size is that often we conflate the size of mechs with Divines, and there’s a sort of majesty. There is no majesty to this thing. It is sitting in a loading dock for six days while all of its components get filled up with fuel, and then it is going to go off to the—you know. There are thousands of mechs like this fighting in the galaxy. They’re just huge and unpleasant.
+AUSTIN: Love it. I should note here, we’re probably just going to use the default names of like the—I mean, it might not even come up, because we all have our own mech name, you know, like we call it—I call my mech the Captain, so we probably won’t get into the fact that it’s technically the IPS-N Blackbeard according to Lancer, but if we do say that stuff or name things, just know that it’s like saying Magic Missile, and theoretically there is an in-setting, you know—
+JACK: IPS does not suddenly exist in our—
+AUSTIN: Exactly. I would guess that yours is an Adamant Arms and Artifice mech, Jack, that that big fuck-off ‘take six days to refuel’, that feels like Adamant to me based on what we’ve seen before.
+JACK: Yeah, they have to—because of the way the fuel tank—because the fuel tanks are so large, they have to fill them like a third of the way, and then rotate the fuel tank, or like rotate a component to access another fuel port to keep filling it.
+[GROUP LAUGHTER]
+DRE: Sure.
+AUSTIN: Love it. Fantastic.
+JACK: And in fiction, in Lancer, this is a Harrison Barbarossa.
+DRE: Right, yeah. Awesome. So, I think we just pick up on a day that is kind of a regular day. But I think—I’m imagining that the four of you all are probably like, the only people in this city who have mechs. Like, I don’t think we’re at a point where mechs are just walking around, especially this kind of small, refugee settlement town. And so, you four are summoned to a meeting with Kaliope Flow, who is kind of the town’s unofficial mayor. Like, there has never been an election and there’s no hard or fast leadership structure here, but Kaliope is basically always the person people seek out when they want advice or if they need a dispute settled, and everyone just kind of likes her well enough that it’s just like, people listen to her. She has like a gravitas about her, in a good way, not in like a shitty controlling way. And so I think, just like, I don’t know, messengers or whatever, right? There’s no government officials here. But just kind of let you know that Kaliope is looking for you all. And when you walk into this room to meet with her, there is also a male Hypha in there named Zeke Minuet. I’m trying to think of any of you all would know him, and I’m wondering if maybe Zark would? Since you’re a mechanic.
+SYLVI: Yeah.
+DRE: Zeke is a scientist, and has been probably working with drills and other sort of kind of big excavating equipment recently, so I’d be willing to bet that he has probably come to you, Zark, with some busted up stuff.
+SYLVI: I would probably have to—yeah, help maintain that, of excavating stuff running regularly.
+DRE: Yeah. So, you probably—I don’t know if—I mean, you tell me. Are you the—is Zark the kind of person who would like, ask somebody what they’re doing with their stuff, or is Zark just like ‘okay, yeah, I’ll fix this, now go away so I can build another explosive’ or something?
+SYLVI: It is very much the second one.
+DRE: Mm. Here’s a second question.
+SYLVI: It is very much the ‘you need this done? Okay. Leave it with me and come back in an hour.’
+DRE: Here’s an important question. What if Zekke comes in specifically asking you for explosives?
+SYLVI: Well, then I’m gonna want to know for what.
+[DRE LAUGHS]
+SYLVI: And who’s using them, and if I can use them. Because I’m probably better with them.
+DRE: Maybe. So then, yeah, you probably know some of what Zeke has been working on, which is to say that he has discovered through seismograph readings and things like that, that there was basically a giant hollow something underneath Harborview, and has been kind of digging and blasting his way down in there. I don’t know—unless you like, forced yourself into going there, I don’t know if he would have told you what he had found, per se.
+SYLVI: Um… I mean, if we’re blowing stuff up, I’m gonna see what we’re blowing up.
+[AUSTIN CHUCKLES]
+DRE: Gotcha.
+SYLVI: What’s being blown up and what we can do. I think Zark was like, ‘can I use my grenade launcher for this, or do we have to use control charges?’
+DRE: [LAUGHS] You probably have to use control charges, ‘cause they started by like, digging through a sewer system.
+SYLVI: You scientists are such a buzzkill.
+DRE: They are, aren’t they? Okay, so, actually, Zark, then, this is funny, because you are one of four people who knows what has been going on.
+SYLVI: Perfect.
+DRE: Kind of behind the scenes in the town of Harborview, which is that Zeke and his partner Deanthe, in their digging, actually found a cavern that turned out to be basically a Hyphen necropolis.
+JACK: Hm.
+SYLVI: Oh.
+DRE: And inside of it were skulls and records from almost 2,000 years ago, back when the Hypha were still the Hypha.
+JACK: Hm.
+AUSTIN: Are they relaying that to us at this point, or are they…
+DRE: Um—
+AUSTIN: Or are you just summarizing for—
+DRE: I’m summarizing—yeah, what Zark would know here at this point.
+AUSTIN: Okay.
+DRE: I wonder how Zeke feels seeing—I’m sure Zeke knows you’re there. Or knows why you’re there, because like—or would know that you were coming, I should say. So yeah, I think when you all go in, Kaliope kind of lets out a heavy sigh, and says:
+        DRE (as KALIOPE): I appreciate you all coming here. I wish it were under better circumstances, but it is quickly going to be time for us to leave Harborview.
+        AUSTIN (as NARMINE): Leave? We just got here.
+        DRE (as KALIOPE): [SIGHS] I know.
+        AUSTIN (as NARMINE): What is it, poisoned water, is it the Pact taking away what they’ve gifted us?
+[30:03]
+        DRE (as KALIOPE): Well, the—yes, it is the latter.
+DRE: And I think that’s where Zeke kind of steps forward and relays kind of what Zark would know, but then goes on to say:
+        DRE (as ZEKE): Once we found—I guess they’re our ruins—my partner, Deanthe, they, while I was cataloging and studying what was there, Deanthe began translating the records, and they basically discovered the way we used to exist, the way that we used to be as a people. There—we used to have the ability to have powers granted to us.
+        AUSTIN (as NARMINE): Uh-huh.
+        SYLVI (as ZARK): Like superhero stuff?
+        DRE (as ZEKE): Not quite superhero stuff.
+DRE: I mean, Austin, at this point, is ‘stratus’ a word that would be known? Like amongst people?
+AUSTIN: I don’t know. I don’t think it came up often in PARTIZAN as like a colloquial—I’m gonna double-check it, but, I feel like not that often at least. And we didn’t have anyone who was a stratus, I don’t believe, in PARTIZAN.
+DRE: Yeah.
+AUSTIN: I guess I joked that A.O. Rooke was one, which might be true.
+DRE: Right.
+AUSTIN: Rooke’s been through a lot.
+DRE: Yeah.
+AUSTIN: Anyway.
+        DRE (as ZEKE): No, not quite superhero stuff, but 2,000 years ago, our people weren’t called the Ashen, we were known as the Hypha. And we were a nomadic people that traveled across the stars following something called the Strand, I don’t really know how it works. If Deanthe were here they could explain it better. But by tapping into the Strand, we could travel great distances, even before the Portcullis System was invented. And in order to be able to interact with the Strand, our people would become what they called a stratus.
+        AUSTIN (as NARMINE): And the quick version is the Pact would like to get their hands on this?
+DRE: I think that’s where kind of Kaliope puts her hand on Zeke’s shoulder and says:
+        DRE (as KALIOPE): The short version is that unfortunately, the Pact, and specifically Columnar, already got their hands on this last night.
+        JACK (as MARTILLA): What, they just loaded it into ships and took it away? I don’t see why this means we need to leave.
+        DRE (as KALIOPE): [SIGHS] Well, this is where my part in this comes to play. When Zeke and Deanthe brought their discoveries to me, I was worried that Columnar and the Pact would want to take this, take advantage of this, use it for their war that they’re having. And so I tried to contact some people.
+        JACK (as MARTILLA): I don’t like where this is going. What do you mean you tried to contact some people?
+        KEITH (as TEASEL): What kind of people? Who people?
+        DRE (as KALIOPE): Are you familiar with Millenium Break?
+        JACK (as MARTILLA): Traitors.
+        AUSTIN (as NARMINE): They’ve done some work. They’ve paid some bills of mine. Wouldn’t say I’m a believer, but.
+        DRE (as KALIOPE): I don’t know if I’m a believer either, but they promised safe passage if we ever needed it, and it appears that now we need it.
+        AUSTIN (as NARMINE): I don’t get it. Why us? It sounds like these Columnar will take what they want and leave us. What’s this have to do with me?
+        DRE (as KALIOPE): Well, what it has to do with you four specifically in terms of why I asked you here is, well, quite frankly, you’re the only four who could do anything about this from a firepower sense, I guess I should say.
+        JACK (as MARTILLA): Who are we shooting?
+        DRE (as KALIOPE): Well, hopefully no one.
+        SYLVI (as ZARK): You’re selling me less on it.
+        KEITH (as TEASEL): Yeah, I don’t like—I do kids’ parties now.
+        AUSTIN (as NARMINE): A politician who says we can only do it because of firepower and then says we won’t be shooting anyone.
+        DRE (as KALIOPE): I said hopefully. It is most likely probable.
+        JACK (as MARTILLA): Let me get this straight. You dig up a cavern containing some old bones, and we all love our history, don’t get me wrong, everybody loves their history, very important to us. Now, your folks see the value in this to the Pact, to Columnar, which, good on them, we can use any advantage we can get. You ship it off to them, and then for some godforsaken reason you decide to contact a bunch of revolutionaries, potentially bringing a firestorm down on our heads we didn’t want or need. Is that the measure of it?
+        DRE (as KALIOPE): Not quite. They did not ask, they took. And, yes, while I spoke to Millenium Break, they are now using that as an excuse to round up everyone.
+        AUSTIN (as NARMINE): Round up people? How is this the first time we’re hearing of it?
+        DRE (as KALIOPE): Because it’s not happening yet, but it will, today.
+        KEITH (as TEASEL): Today?
+        DRE (as KALIOPE): Well, they’re not gonna twiddle their thumbs when they think they have terrorists and revolutionaries under their noses.
+        AUSTIN (as NARMINE): How many?
+        DRE (as KALIOPE): I don’t know. I’m not asking you to fight the whole army, I’m…
+        AUSTIN (as NARMINE): Smash and grab. Do you want us to get it back?
+        DRE (as KALIOPE): Yes. Thank you. That’s a good way of putting it. We know where—
+        AUSTIN (as NARMINE): What’s the pay?
+        DRE (as KALIOPE): [SIGHS]
+        KEITH (as TEASEL): How does that stop them from rounding people up?
+        AUSTIN (as NARMINE): It doesn’t.
+        DRE (as KALIOPE): While you’re smashing and grabbing, we’re collecting—everyone is getting together and we’re going to an extraction point where Millenium Break has promised us safe passage.
+        JACK (as MARTILLA): [SIGHS]
+        AUSTIN (as NARMINE): Do they have another little seaside village you can be ‘sort of mayor’ of?
+        DRE (as KALIOPE): You can be mayor of the next seaside village if that’s really what you want.
+        AUSTIN (as NARMINE): No. Not cut out.
+        KEITH (as TEASEL): I’ll take it. If it happens, I’ll take it.
+        DRE (as KALIOPE): You will have my endorsement.
+[AUSTIN LAUGHS]
+        KEITH (as TEASEL): I don’t think it’s gonna come up, but if it happens, I’ll take it.
+        AUSTIN (as NARMINE): What’s your name?
+        KEITH (as TEASEL): Teasel.
+        AUSTIN (as NARMINE): No, your name’s Mayor.
+[JACK CHUCKLES]
+        KEITH (as TEASEL): [CHUCKLES] Mayor.
+AUSTIN: I do like the little, like, hand on the back of your neck, like, you know, quick little massage that—
+[DRE AND KEITH LAUGH]
+AUSTIN: Not a massage, but a little rub, you know? Like—
+KEITH: Yeah, yeah, yeah. Nape of the neck grab, yeah.
+AUSTIN: Like a grab, but a friendly, but—mm.
+KEITH: A friendly, firm grab.
+AUSTIN: Firm grab, yeah.
+KEITH: You grab how you grab a future mayor.
+DRE: Yeah.
+AUSTIN: Yeah. Exactly.
+DRE: The way that your dad’s friend who you call ‘uncle’ that is not your uncle greets you.
+AUSTIN: [LAUGHING] Yes. A hundred percent. Yep.
+[KEITH LAUGHS]
+SYLVI: Oh boy.
+AUSTIN: Woof.
+KEITH: I don’t have one of those, but just, all my normal uncles do that to me, so.
+AUSTIN: [LAUGHS] Yeah, okay, fair.
+SYLVI: It’s just uncle behavior, honestly.
+KEITH: It’s uncle behavior, yeah.
+AUSTIN: Yeah, uncle behavior. Uncle Behavior?
+SYLVI: Total uncle moment.
+JACK: Hello? [LAUGHS]
+[AUSTIN LAUGHS]
+JACK: I think Häske, you know, just, flips open her purse and pulls out a Pact identity card. You know, it’s got like a rank on it or something. And she just says,
+        JACK (as MARTILLA): I will not fire on the Pact, and besides, it won’t come to that. They’re not gonna round anybody up. You’ve got yourselves all into a mess about these bones, sure. Nobody’s coming. Maybe Millenium Break, now that they know something good is here. I’m sure they could see the value in it.
+AUSTIN: Just ignoring you.
+        AUSTIN (as NARMINE): What’s the pay again? You didn’t answer.
+        DRE (as KALIOPE): [SIGHS] I don’t know, but—
+        JACK (as MARTILLA): [INCREDULOUS] You don’t know? Who would be paying us?
+[40:00]
+        DRE (as KALIOPE): Millenium Break, if I can convince them.
+JACK: Spits on the ground.
+[KEITH CHUCKLES]
+        DRE (as KALIOPE): Look, you are absolutely correct that this is not the most well-thought out and well-planned military exercise. I didn’t know that we needed to do this until Zeke came to me this morning.
+        KEITH (as TEASEL): It seems like we didn’t need to do this at all, until you started making phone calls.
+SYLVI (as ZARK): I got a question. What would the rules of engagement be if we were to do this?
+        DRE (as KALIOPE): Whatever you need to.
+        SYLVI (as ZARK): I’m in.
+[JACK LAUGHS]
+        AUSTIN (as NARMINE): Break already has my details on file. I’ll get ‘em to pay. I’m in. Mayor?
+        KEITH (as TEASEL): Yeah.
+        AUSTIN (as NARMINE): Yeah. Well, guess we won’t be needing you, Pact.
+DRE: I think Zeke looks at you, Martilla, and says:
+        DRE (as ZEKE): They already took people.
+        JACK (as MARTILLA): Who? Where? Pact don’t do that.
+        DRE (as ZEKE): Their names are Elaina, Stass, and Derwin. They’re what—Deanthe called them the Tress. They said they were a new—a new, better version of a Stratus.
+AUSTIN: Can I get those names again, Dre?
+DRE: Yeah. Elaina, Stass, S-T-A-S-S, and Derwin. D-E-R-W-I-N.
+AUSTIN: Gotcha.
+        JACK (as MARTILLA): Well, I’m sure that they had some need to talk to them if these things are as valuable to the war effort as you say they are.
+        DRE (as ZEKE): They didn’t talk to them, they kidnapped them.
+        AUSTIN (as NARMINE): Is this what we’re getting back? These three?
+        DRE (as ZEKE): It’s the most important thing.
+        KEITH (as TEASEL): So the bones, too?
+        JACK (as MARTILLA): I don’t give a shit about the bones, but I’ll take a look at these three people.
+        KEITH (as TEASEL): I don’t understand why the bones are important. Is that just me?
+        JACK (as MARTILLA): People like history, kid. I don’t know.
+        DRE (as ZEKE): I don’t know the specifics of it, but Deanthe said that that’s where the power comes from.
+        KEITH (as TEASEL): Who was digging?
+        DRE (as ZEKE): Oh, that was me.
+        KEITH (as TEASEL): You were digging?
+        SYLVI (as ZARK): I helped.
+        DRE (as ZEKE): Yeah, Zark helped me, too.
+        KEITH (as TEASEL): Why were you digging?
+        DRE (as ZEKE): It’s funny. For the time we got here, I just thought my seismometer was messed up, like, you know, maybe the gravity is .9999998 or something. [LAUGHS] And I just kept messing with the thing, but no, it turns out it was calibrated fine, it was just thrown off because, you know, it’s not every day you calibrate your seismometer to take into account a big unknown cavern underneath your house, you know?
+        KEITH (as TEASEL): So just curiosity?
+        DRE (as ZEKE): Yeah. Is there something wrong with that?
+        KEITH (as TEASEL): The current circumstances?
+        DRE (as ZEKE): Okay, fair point.
+        AUSTIN (as NARMINE): Nah. I can’t blame anyone for diggin’. We’re all diggin’.
+        JACK (as MARTILLA): What?
+        AUSTIN (as NARMINE): Oh, I’m sorry, some of us don’t need to dig anymore. We got little cadets to dig for us.
+        DRE (as ZEKE): Look, Deanthe already left to try to get them back, and they’re probably not gonna come back if you don’t go help them.
+        AUSTIN (as NARMINE): I’ll go prep the Captain.
+AUSTIN: And I leave.
+KEITH: Yeah, I guess I go too.
+JACK: I want something out of this if you’re gonna make me act against my own army. I want an assurance of money or something valu—I want to shake down this person, basically. [CHUCKLES]
+[DRE LAUGHS]
+KEITH: The ‘sort of mayor’.
+JACK: Yeah.
+        DRE (as KALIOPE): Okay, what about this? If, at the end of this all, you find the Tress, and you hear their story, and… and if you’re not satisfied, you can have me.
+        JACK (as MARTILLA): What?
+        DRE (as KALIOPE): You can take me to the Pact. I’ll turn myself in.
+[PAUSE]
+JACK: Looking at you sidelong with the air of somebody who has been alive for a very long time. She’s weighing up in her head whether or not she should just take you in now. [CHUCKLES]
+DRE: Sure, fair.
+JACK: But the fact that you made that suggestion—the fact that you put that on the table, she is trying to angle whether or not you’re bluffing. And just as she comes to a conclusion, an alarm goes off on her wrist. And she says:
+        JACK (as MARTILLA): Mech’s refueled.
+JACK: And just turns around on her heel and walks out.
+[AUSTIN LAUGHS]
+JACK: So I’m provisionally in.
+DRE: Okay.
+JACK: I’ll see what you losers have…
+KEITH: [OVERLAPPING] Yeah, I guess if you’re right and they don’t come, then they just won’t come.
+AUSTIN: Yeah.
+DRE: Okay.
+AUSTIN: And Zark is in, presumably.
+SYLVI: Oh, yeah, yeah, yeah. I think I said I was already in.
+DRE: Yeah, I think Zark was the first one who—yeah.
+AUSTIN: Oh, Zark was the first one. Yeah.
+KEITH: Zark was pre-in.
+[DRE LAUGHS]
+JACK: Just ready for whatever fighting is about to happen.
+AUSTIN: Oh, right, right. It was when you asked if you could—how many different ways you were allowed to kill people.
+JACK: ‘What are the rules of engagement?’
+AUSTIN: Yeah, uh-huh.
+SYLVI: Yeah, I asked what the rules of engagement were, and there weren’t any.
+AUSTIN: And then you were in.
+SYLVI: And there we go.
+JACK: There weren’t any rules of engagement. Typical fuckin’ Millenium Break behavior. Millenium Break’s out here, no rules of engagement. Not even a proper army.
+[DRE LAUGHS]
+KEITH: There are some uncontrolled charges, though.
+AUSTIN: Yeah.
+DRE: I think as you all kind of walk out, Zeke kind of runs after you to follow you, and gives you some further information as to where you’re going. He tells you that—
+KEITH: ‘Wait, you forgot a map!’ [LAUGHS] 
+DRE: [LAUGHS] Yeah, basically. Wait, the GM forgot a map. He basically tells you that Deanthe had tracked the stolen Hypha to a Columnar train yard. Basically, they’re getting ready to be shipped out. Very much, you know, if they get sent out on this train, they’re lost forever.
+AUSTIN: Right. That’s it, yeah.
+JACK: No, clearly they’re not. [CHUCKLING] The Pact is just gonna ask them some questions.
+DRE: Sure, yeah, yeah, yeah.
+AUSTIN: Right. I forgot.
+DRE: Mhm. And I think—I don’t think, I know—Zeke is going to offer each of you all, in Lancer terms it is called a Reserve, but it is basically a piece of like, extra—basically like a bonus item, more or less, that you get to bring with you into the mission. So, each of you all can choose one of these things, and it’s not like there’s only one of each, you know, you can just choose whatever you would want to use. Your first option is—I think it takes the form of—I think it’s like a… it’s like a repair kit with extra batteries for the tools you would use to work on your mech. Mechanically, this allows you to add +2 to your total Repair Cap. Repair Cap is basically the amount of times that you can do repairs on your mech while you’re in the field. So like, let’s see. Under the Radar’s Repair Cap is 5, whereas the Ill Portent’s is 3. Or you could take a Core Battery, which allows you an extra use of your core system, or you can take basically an Ammo Crate, so it gives you an extra two uses of a weapon or system that is otherwise limited. So an example of that would be—I think you’ve got one on your sheet, Jack. Like your turret drones, it says “limited 3”. So basically, that’s something that you can only use three times before you have to basically, like, do a full—I guess in D&D terms, a full long rest. [LAUGHS]
+AUSTIN: Right.
+DRE: So by taking that ammo crate, you could use another system an extra two times.
+[50:02]
+JACK: And where do these go on our character sheets?
+DRE: I will drag and drop them onto there for you.
+JACK: Oh, sick. I will take the Repair Cap, please.
+DRE: Okay.
+AUSTIN: I’ll take the extra core point. Core power charge.
+KEITH: So my core power is passive, so I should not take that. Unless somebody’s reading it wrong.
+DRE: Let me double check that for you.
+KEITH: Mine is to the “Full Subjectivity Sync: By creating a stable, two-way ontological bridge, SSC has removed the need for pilots to rely on physical controls alone to pilot their mech. You gain +2 Evasion.”
+AUSTIN: You—that is your core—
+KEITH: Bonus? Is that different than my—
+AUSTIN: Bonus that also—
+DRE: There is also a core system.
+AUSTIN: The core system for you is Mark for Death, is the Neural Shunt, I believe.
+KEITH: Oh, I don’t—where does that even live on my—oh, there it is, I see it.
+AUSTIN: Yeah.
+KEITH: “Active: Neural Shunt, Mark for Death. Choose a character within range 30, but further than range 5 to focus on…” and then I do a bunch of damage.
+AUSTIN: Yeah, you stay still, but then you do a ton of damage.
+KEITH: [CHUCKLING] Okay, yeah, I’ll take that one, then.
+DRE: It doesn’t look like there’s a place for me to roll this on your sheet, so I’ll just put it in like a GM note.
+AUSTIN: Okay.
+DRE: And I’ll make that accessible to you all.
+KEITH: Is that automatically part of my…?
+AUSTIN: It should be. If you chose that frame—
+KEITH: Neural Shunt, there it is. Mark for Death.
+DRE: Okay, so, Jack, you took the extra repairs. Austin, you took the extra core bonus, extra core use.
+AUSTIN: Yeah, Core Battery, I think.
+SYLVI: I think I’m gonna probably take the core use thing?
+DRE: Okay.
+SYLVI: Unless that doesn’t apply to the one I have, but I think—
+DRE: No, everyone has a core power.
+SYLVI: Okay.
+DRE: It’s basically like, it’s your super thing, more or less.
+SYLVI: Okay.
+DRE: So like, yours is… woof. I think yours is the Divine Punishment.
+AUSTIN: Yeah, it is. Yeah.
+SYLVI: Oh.
+DRE: “Choose any number of characters within range 50. Your targets must each succeed on an Agility save or take 1d6+4 explosive. On a success, they take half.”
+SYLVI: Yeah, okay. Good for me.
+DRE: Okay. So you’ll take the—
+KEITH: Your mech reminds me of—I’ve been playing the new Kirby game, and there’s a lot of just, Kirby explodes in a bunch of fireballs.
+[DRE LAUGHS]
+SYLVI: Hell yeah.
+DRE: Shoutout to Kirby.
+KEITH: There’s like, two different Kirbys that just basically destroy everything around it in fire.
+JACK: Oh, yeah. I found a—I found a hat that I put on that transformed Kirby into what I can only describe as a nuclear bomb.
+[KEITH LAUGHS]
+SYLVI: That—you know what? You nailed it. That’s my mech.
+AUSTIN: Uh-huh.
+DRE: Okay. Oops.
+SYLVI: Wait, can I give my mech a hat?
+DRE: I mean, you could.
+SYLVI: Can my mech have a cowboy hat?
+DRE: Yeah.
+SYLVI: Okay. My mech has a cowboy hat.
+DRE: Well, now this is—okay. Austin took Core Battery, Sylvi took Core Battery. Keith, what were you—what did you want to take?
+KEITH: Core Battery.
+DRE: Okay.
+KEITH: To get an extra Mark for—that’s the extra Mark for Death one?
+DRE: Mhm.
+KEITH: Yeah.
+DRE: Okay. Save. Alright. Let’s go to…
+AUSTIN: So is this train station like, at the edge of town, where is it? Ooh, look at this. Oh, hell yeah.
+DRE: So in my mind, there’s—yeah, there’s probably like, some tracks that pick up outside of the edge of town that you can follow.
+AUSTIN: Right. There’s a bunch of guys out here, huh?
+DRE: Mhm. Yep, yep. So, in Lancer, every mission starts with what is called a sit rep, and that is basically where I explain to you what the mission objective is, and like, what the rules of engagement are, and basically like what the win conditions are.
+AUSTIN: Mhm.
+DRE: So the rules of engagement are you can blow up anybody you see, as we’ve already established. So the objective here is—this is what is called, in Lancer, is a Recon mission. So the way a Recon mission works is that there will be four different objectives that you need to—well, that you potentially need to check. One of these objective zones is where—
+AUSTIN: Oh, I see.
+DRE: —the Tress and the artifacts are being held.
+AUSTIN: Gotcha.
+DRE: In order to thoroughly investigate one of these zones, first you need to be in the space. You need to make sure there are no enemy combatants also in the space, which is what those—like, the squares are.
+AUSTIN: Those purple squares, yeah.
+DRE: Mhm. And then basically—
+AUSTIN: For people listening who can’t see this, really quick—
+DRE: Oh yeah, definitely.
+AUSTIN: It is a tall map, north to south, taller than it is wide, of sort of a tree—a forested area with some train tracks in it, a couple of—three train cars? What’s this thing down here? What’s Objective B? Is it also a train car?
+DRE: Yeah, those are train cars that basically aren’t connected to an engine.
+AUSTIN: Gotcha. So there’s like a long train on a track in the middle going bottom left to top right, and then there’s a bunch of crates around. And there are four objective places. Objective A is a big one up top, and then C is part of the middle train, B is one of the train cars kind of on another track at the very edge of it, and D is another bunch of crates.
+AUSTIN: And there’s a bunch of trees, and it looks like there’s some raised ground? Is that what this is, Dre? At the edge here?
+DRE: Yep.
+AUSTIN: Okay, cool. So there’s like some heightened ground on the edges, and then there are—we can see these mechs. We’re allowed to see these mechs, Dre?
+DRE: Oh, yeah. For sure. Yeah, yeah, yeah.
+AUSTIN: Okay. So they’ve got some ‘big but not more than one spot’ motherfucker, with like a big underslung cannon, two sick-looking mechs with pink and teal—
+DRE: Yeah.
+AUSTIN: —adjacent, and then a big tower at the very end that has a little radar dog-type dealy, a radar T-rex that has little arms—
+[DRE CHUCKLES]
+AUSTIN: And then I can really only say two turrets with some TV gremlins sitting inside.
+KEITH: [LAUGHING] Yep, I love these guys.
+DRE: So, the little TV gremlin turrets, those are—so, as we talked about, Austin, Zenith—
+AUSTIN: Yes.
+DRE: —is the company that makes all of the mechs for Columnar.
+AUSTIN: Uh-huh.
+DRE: And so Zenith-C is like the line of mechs that Columnar uses.
+AUSTIN: Yeah.
+DRE: The little TV gremlins on the turrets are called the Lift model, the Zenith-C Lift.
+AUSTIN: Okay. Love it.
+DRE: This little dog guy with the satellite dish on its head is called the Zenith-C Screw.
+AUSTIN: Okay. For adhering to the established Zenith-C submodel, which I don’t know that we ever saw in PARTIZAN, but this is—this is how their mechs are named, so I appreciate it.
+DRE: Mhm. The multicolored guys are called a Zenith Ordinance.
+AUSTIN: Okay. Scary to me.
+DRE: And then the big guy is called the Lift.
+AUSTIN: Wait, you already said the Lift once. You said these guys were Lifts.
+DRE: Did I? Oh, I did. Yeah. You know what, this one doesn’t have a name. Oh, it’s the Inductor.
+AUSTIN: Oh, the Inductor. Okay.
+DRE: It’s the Inductor. That’s what it’s called.
+KEITH: Now, are the bubblegum guys and the Inductor, are they the same size according to the size rules of Lancer—
+DRE: Yes.
+KEITH: —or is the clearly bigger one like, a new class? No, they’re all one?
+DRE: They’re both Size 1, yeah.
+KEITH: Okay.
+AUSTIN: Great. Love it.
+DRE: Mhm.
+AUSTIN: Is everything here Size 1, or are the ones up top smaller than that?
+DRE: The Lifts, so the TV gremlins, I’m sorry—
+AUSTIN: TV gremlins, yep, yep.
+DRE: Those are Size 1, and then the satellite head thing is half.
+AUSTIN: Screw is half. Okay, cool.
+DRE: I just made it a little bigger so you can see it.
+KEITH: [OVERLAPPING] If you take out the camo color and the manipulator arms, this thing is very Star Wars. The—
+AUSTIN: Oh, it is. Sure. For sure.
+KEITH: Yeah.
+AUSTIN: It also reminds me of the—what do they call it in MGS 4? That has the same leg design.
+KEITH: I have not—oh, the—
+AUSTIN: Yeah, you’re not there yet.
+KEITH: It does look like Metal Gear legs, though.
+DRE: Yeah.
+AUSTIN: Yes. There’s a specific type of thing that shows up in 4 which you’ll get to eventually, Keith.
+KEITH: Yeah.
+SYLVI: Gekkos?
+DRE: The little chicken-walker thing?
+AUSTIN: Gekkos, it’s the Gekkos. It’s the Gekkos, yeah.
+SYLVI: Yeah. They move.
+KEITH: I will love in two years when I play Metal Gear Solid 4.
+AUSTIN: They’re the best. Just wait.
+KEITH: Just find the geckos and I’ll be like, ‘oh, they did look like the satellite dish from Lancer.’
+AUSTIN: Yep. I have one other question about this map, what’s up with the red markings?
+DRE: Yeah, so those are light gates that are used to basically kind of stop the trains from leaving the station.
+AUSTIN: Oh, cool, cool, cool. Gotcha.
+DRE: Those count as hard cover.
+AUSTIN: Gotcha. Cool.
+KEITH: And one more question, Dre, you said this was a Recon mission—
+DRE: Yeah.
+KEITH: Does that mean that like—so technically, what it means is that we’re searching for stuff, right? But does it also mean that there’s like a penalty for directly engaging, like are we gonna get reinforcements called on us for like, shooting one of these three mechs in the head?
+DRE: Uh, maybe.
+AUSTIN: But that would be happening no matter what the mission type was.
+DRE: Yeah.
+AUSTIN: Yeah. I have another question. Are these trains soft cover, or are those also hard cover?
+DRE: They are soft cover.
+AUSTIN: Okay. Because we’re taller than them.
+KEITH: Is it because we’re taller than the trains? Yeah.
+AUSTIN: Okay, cool. Rad.
+DRE: Yeah.
+AUSTIN: What do we—okay, I guess it’s time to—is it go-time?
+DRE: It is go-time.
+KEITH: I really want to see these four mechs on the screen.
+DRE: So, what you can do is in the top left hand of the Forge screen, there is a little like, meeple button that is your token controls.
+AUSTIN: Oh.
+DRE: Select that, and then the little one that’s like the little box-looking thing with some gaps in it—
+[1:00:02]
+KEITH: Wait, sorry, what? Where?
+DRE: In the top left.
+KEITH: Yeah.
+DRE: There’s like the little person icon.
+AUSTIN: Yeah.
+DRE: Just open that, and it’ll open like, another submenu.
+KEITH: Oh. Tokens. Okay.
+DRE: And then all you need to do is click and drag your character from the actors over into where you would like to deploy. You have two deployment zones here, they’re both these kind of green outlined areas.
+AUSTIN: I don’t—
+DRE: Is it not letting you do it?
+AUSTIN: It’s not letting me do it.
+KEITH: I have a sequencer database viewer with a bunch of files.
+DRE: Here, I can do it.
+AUSTIN: Woah! Oh my god, is that really the size? Oh my god.
+[KEITH LAUGHS]
+DRE: Uh-huh.
+KEITH: Oh my god.
+AUSTIN: Why are these so big, though?
+JACK: Look at these two babies complaining about their bones.
+AUSTIN: Oh my god.
+KEITH: Look at us! Austin, look at us!
+AUSTIN: We’re so tiny!
+KEITH: [LAUGHING] We’re so little!
+AUSTIN: Can I pick a different deployment zone?
+DRE: Yeah, totally, you can move yourself. I just wanted to move you all out in there.
+AUSTIN: Oh, I can. Okay, sick.
+SYLVI: I’m having trouble finding my mech’s, like, info on my thing.
+KEITH: I can’t move myself.
+AUSTIN: I’m just gonna move myself here.
+DRE: You are using the wrong tool, Keith.
+KEITH: Oh, okay.
+DRE: You’ve got the ruler selected. You want to click the little box that’s at the top of like, the right hand menu.
+KEITH: Got it there.
+DRE: I forgot that the Monarch is size two.
+AUSTIN: Yeah, it’s so big.
+KEITH: It’s really big. It’s genuinely—
+AUSTIN: Do we want to split—how do we want to do this?
+JACK: The big, big—
+DRE: Here we go. X-com conversations. In character.
+AUSTIN: Yeah. I mean, before we get there.
+        KEITH (as TEASEL): I work really good alone.
+        AUSTIN (as NARMINE): You want a big and a small? Hm? Or a big and a big, and a small and a small?
+        KEITH (as TEASEL): I like big and a big and a small and a small.
+        AUSTIN (as NARMINE): A big and a big and a small and a small.
+        KEITH (as TEASEL): Official lingo.
+        JACK (as MARTILLA): What are you talking about? Stay off the coms if you don’t have something important to add.
+[DRE AND KEITH LAUGH]
+        AUSTIN (as NARMINE): Alright, Pact, alright.
+        JACK (as MARTILLA): You’re not gonna find anything, this is gonna be smoothed over nice and easily. I’m showing up as a formality.
+DRE: I think as you all are talking, another person kind of comes into your com channel, and it’s Deanthe. They say:
+        DRE (as DEANTHE): Okay. I’m glad that you all listened to the pitch.
+[AUSTIN LAUGHS]
+DRE: And I think like probably—I’m gonna say you have little holographic projectors and like, heads-up display maps, right? And reveals that they are kind of on this ledge overlooking the base. Basically, they got here and have been doing like, reconnaissance.
+AUSTIN: Oh, fun. I see. Love that mech.
+DRE: Mhm. Yeah.
+JACK: A little wizard has shown up.
+AUSTIN: A little wizard has shown up. This is the Black Witch, right?
+DRE: This is the Black Witch.
+AUSTIN: I mean, that’s the Lancer name, not the name that we’re using, which maybe you have a different one for, but I do not.
+DRE: Well, Deanthe’s mech is called The Ash in our Veins.
+AUSTIN: Love it. Good.
+KEITH: Ooh, very good pun.
+AUSTIN: Yeah, love it. Fantastic.
+DRE: And they basically—the lore reason for why you know where these objectives are is Deanthe has done kind of scouting.
+AUSTIN: Gotcha. Cool.
+DRE: And has said, you know—
+AUSTIN: ‘These are the places.’
+DRE: ‘Patrols have been going between these places, so that’s probably where things are being held.’
+AUSTIN: I’m gonna go up here first. Okay.
+SYLVI: I’m still having trouble like, selecting and moving my mech.
+DRE: Do you have the right tool selected?
+SYLVI: I think so, yeah.
+KEITH: The box, the select tokens is to move, and then the ruler is to like, measure.
+SYLVI: Yeah. I’ve got Select Tokens selected, I’m clicking on it, it’s not doing anything. Do I need to like, hold shift or something, or?
+KEITH: That’s weird.
+AUSTIN: No.
+DRE: No. I can move it for you.
+AUSTIN: Wait, it just moved.
+DRE: I’m moving it.
+AUSTIN: Yeah, that was you.
+SYLVI: That wasn’t me.
+DRE: If you click on it and then use your arrow keys, does it move?
+AUSTIN: Here’s a thing worth saying is I don’t see it in Sylvi’s folder.
+SYLVI: Yeah, it’s not in my folder.
+AUSTIN: Nor do I see Jack’s in Martilla’s, or next to Martilla’s.
+KEITH: Oh, that’s true. I also don’t see.
+AUSTIN: I also don’t see Keith’s at all, so.
+KEITH: Mine’s there and it’s got both.
+DRE: Sylvi, try now.
+SYLVI: Now I can do it, thank you.
+DRE: Okay, yeah. I think I had—I think when we had messed around with character sheets, I had accidentally not made you owner.
+SYLVI: Thank you very much.
+DRE: Mhm. Yeah, so basically—
+KEITH: Can you move your mech, Jack, or is it just weird that we can’t see?
+JACK: No, I can move mine.
+KEITH: Okay.
+DRE: You can see the mech on the screen, right?
+KEITH: Oh, it just doesn’t move.
+AUSTIN: Yeah, yeah, yeah.
+JACK: But watch this. I can go up here and we’re done. Wait, I can’t—yes I can.
+AUSTIN: Mm. I don’t think it works like that, Jack.
+DRE: No, that’s the extraction zone. So after you find the—
+JACK: Done.
+DRE: Oh, okay, sure. Alright.
+AUSTIN: I don’t think that’s true.
+KEITH: We’re just playing reverse mode.
+DRE: Metal Gear Solid mission complete noise plays. [LAUGHS]
+[JACK LAUGHS]
+DRE: So let me roll a d4 here to see where you’re—where the objective is.
+AUSTIN: Oh, you don’t know. That’s fun.
+DRE: No, I’m doing it random.
+[SFX: DIE CLATTERS]
+AUSTIN: Let’s do it.
+DRE: Okay. I assume you all can’t see that, right?
+JACK: That’s so fuckin’ funny.
+SYLVI: I see three question marks and then one question mark.
+AUSTIN: Oh, that’s so good. I love that.
+JACK: It’s like it’s kicking us in the teeth. It’s saying ‘Dre rolled some dice, but we won’t tell you what they are’.
+[DRE LAUGHS]
+KEITH: I figured it out. It’s Objective A and Objective C.
+AUSTIN: Okay. Uh-huh.
+KEITH: It’s one question mark per alphabet letter.
+[KEITH AND JACK LAUGH]
+DRE: Oh, shit. You broke my code. Nice try, Batman. [LAUGHS]
+JACK: If it was Objective Z, it would just be like— [LAUGHING] we’d think it was so broken.
+KEITH: It would be really funny if that’s what it was.
+JACK: Austin—
+DRE: So—oh, go ahead, sorry, Jack.
+JACK: When we did the mission to rescue Boole Batanca—
+AUSTIN: Yeah.
+JACK: All the objective points had funny names. Is that because—
+AUSTIN: You were just protecting Boole Batanca.
+JACK: We were protecting Boole Batanca.
+AUSTIN: Yeah, you were just protecting the underground theater, please. But yes.
+JACK: Was the reason that all the objectives had good, funny names because Gucci was running the mission and that’s how she does it? Or…
+AUSTIN: Generally speaking, but it’s also because when we used to play Titanfall 2, or Titanfall, we played them one mode where it’s you have to capture A, B, and C, and we would constantly come up with funny names for A, B, and C.
+JACK: For new ones, right.
+AUSTIN: Yeah, constantly.
+JACK: I didn’t know whether or not it was—if this was something that would be reflected here, or whether that was more Gucci’s particular flavor.
+AUSTIN: Oh, I don’t think that would be reflected here. I think that was Gucci and Millenium Break. I don’t know that we’re cohesive enough to have names.
+JACK: Yeah. We’re just like, some guys.
+KEITH: ‘Low train. Upper train.’
+AUSTIN: ‘Upper train. Up there.’
+DRE: ‘Lower-est train.’
+AUSTIN: You know? Yeah, yeah. ‘The crates.’
+KEITH: ‘Lower to who, lower to who?!’
+JACK: [LAUGHS] ‘Stay off the comms unless you have—’
+[KEITH LAUGHS]
+DRE: Before we get into combat, Keith, can you read what you said in the chat? I feel like that’s really important.
+KEITH: Oh, I forgot to say that Teasel is like if Steve Buscemi was the faun from Disney’s Hercules.
+JACK: And he should have been.
+AUSTIN: Yeah. Uh-huh.
+[DRE LAUGHS]
+SYLVI: I like Danny DeVito.
+JACK: Oh, yeah, that’s true.
+DRE: That’s true. He’s pretty good.
+AUSTIN: Mhm.
+KEITH: Yeah, yeah, DeVito is great.
+DRE: God.
+SYLVI: We don’t need to pit two kings against each other.
+AUSTIN: That’s true. Thank you.
+JACK: They try and tear us apart.
+KEITH: [LAUGHS] Instead if we just could have had a Disney with two fauns, one is Steve Buscemi.
+DRE: Phil in Kingdom Hearts 4 is played by Steve Buscemi, actually.
+AUSTIN: Oh, okay. Passing the crown.
+KEITH: Who is?
+DRE: Phil. From Hercules.
+AUSTIN: From Hercules.
+SYLVI: I wish. I wish that were true.
+[DRE CHUCKLES]
+AUSTIN: That would be great.
+DRE: Alright. We should get rolling here. So I will say one other thing to know, you don’t know what the censor range is on these mechs—
+AUSTIN: No.
+KEITH: No.
+DRE: But, I will say that you are not count as ‘seen’, quote unquote, by the enemy until you are within censor range.
+AUSTIN: Gotcha.
+KEITH: Got it.
+DRE: Okay, before we get going, did everybody see the combat handouts? Where they are?
+KEITH: Yep.
+AUSTIN: I do, yes.
+DRE: They’re up in the journal area. I just wanted to make sure everybody had access to those.
+JACK: Yep.
+DRE: Cool.
+JACK: Great.
+DRE: Okay. So, the way Lancer combat works is that we do—there is initiative of sorts, but you don’t roll for it. Basically, the PCs always get to start first, and then we just basically take turns, so one of you will go, and then one of the bad guys go. And then, technically the way that Lancer says that combat turn order goes is whoever like, went first, then nominates who goes second, third, and fourth, which is fun and we can definitely play that way, but it’s also fine if like, somebody’s just like ‘I want to go, I want to do a cool thing.’ You know?
+JACK: Right.
+AUSTIN: Right.
+DRE: So, who would like to go first?
+KEITH: Do we have a general—
+AUSTIN: I’m gonna go to A. I’m gonna try to check out A, my theory there being it’s so big that—we just need to put a foot in it, right? And then do an action, Dre? Can you remind me what we have to do to do a check?
+DRE: Yeah, so basically you just do a full action. Which—
+AUSTIN: Okay. So I can do that this turn. If I can go right now, I can get in there and then do a full action, and we can knock off A.
+DRE: Yep.
+AUSTIN: That’s my pitch to the team. To start this thing off.
+KEITH: Yeah.
+SYLVI: I mean, sure.
+JACK: Sounds good to me, we don’t need to make this about combat, we’re just gonna see what’s going on.
+AUSTIN: Right.
+        AUSTIN (as NARMINE): Yeah, I’ll just give it a look, hm?
+        JACK (as MARTILLA): Just give it a look. Over.
+DRE: I will say, for you to know, Austin, as you’re planning your move—
+AUSTIN: Yeah.
+DRE: If you move through the shrubbery, that does count as difficult terrain—
+AUSTIN: Oh, interesting.
+DRE: Which cuts your move speed in half.
+AUSTIN: What if I fly over it?
+DRE: Then go for it.
+AUSTIN: I’m gonna just do that. So—
+KEITH: Are you gonna take some Heat?
+AUSTIN: I don’t need to actually do that, ‘cause—I don’t think. I’ll say what I’m doing, then, and see—maybe I’m wrong, and I’m happy to be wrong and I’ll take some Heat.
+[DRE CHUCKLES]
+AUSTIN: I have Reinforced Cabling that says “once per turn when making a standard move, you can fly your speed in a straight line as long as there is a clear path. This must end on an object or surface or else you begin falling. As long as you remain stationary, you can secure yourself to the destination, surface, or object, even if it’s vertical or overhanging. If you’re knocked prone or knocked back while secured to a surface, you fall.”
+[1:10:10]
+AUSTIN: And so, I want to like, shoot out a harpoon from this whaling mech I have to the edge of this train, and just zip myself over these trees to it.
+DRE: Hell yeah.
+AUSTIN: That’s doable?
+DRE: Now is that a quick action, is that a protocol?
+AUSTIN: That is—that’s a great question. That is Grapple Swing. That is just once per turn—let’s see what the—I’m gonna look at the actual book-book to make sure I’m not missing anything special.
+DRE: No, it says free. If you’ll see—if you look on your character sheet, it has like, a little tag at the bottom that says ‘free’.
+AUSTIN: Oh, yeah, it does say free. Love it. Great.
+DRE: So that is a free action, you can just do that.
+AUSTIN: I’m just gonna do that. So, zip! Pshew. Captain leads me over here. I’m just gonna double check that there’s nothing else I wanna do that’s like a free action or a protocol, but I don’t think there is.
+DRE: You can also still move.
+AUSTIN: No, that’s my last move. I only have 6 Movement, so. Right?
+DRE: No, but like, that—
+AUSTIN: Oh, does that not count?
+DRE: Yeah, no, that’s a free action.
+AUSTIN: It says ‘when making a standard move’.
+DRE: Oh, I see. Okay. Yeah, yeah, yeah.
+AUSTIN: So I’m gonna—as much as I would like to rules lawyer my way into extra maneuvering here, I think that that’s probably the case that that’s just that. And then I’ll full action to scan this zone. Is there a roll I have to make for that? Is that like, a thing, or it just happens?
+DRE: No, it just happens. I mean, you know, I imagine this is like, you’re using your mech censors here, to like—
+AUSTIN: Yes, yes.
+DRE: —check for heartbeats or thermals or whatever.
+AUSTIN: Do one of these. Yeah.
+DRE: There is nothing in this train.
+AUSTIN: I’m also going “Oy. Anyone? Anyone here?”
+[DRE LAUGHS] 
+JACK: Crackling out of the speakers.
+AUSTIN: Looking down at the sheet of paper in my hand. “Der—Derwin? Der—Elaina? Is there an Elaina here?”
+[DRE LAUGHS]
+AUSTIN: “Stass?”
+DRE: Good times. So, no, I mean, there is like, cargo here, but it is not the cargo you’re looking for.
+AUSTIN: Is there anything valuable?
+DRE: Um… yeah, you know what? Here, let’s…
+[SFX: DIE CLATTERS]
+AUSTIN: Ooh, that roll sound.
+SYLVI: It’s good.
+DRE: Yeah, so, if you want to, there is a crate of smart ammo in this train.
+AUSTIN: Ooh.
+DRE: So whenever you use that smart ammo, all weapons of your choice can be fired as if they are smart, which means they are attacking somebody’s E defense as opposed to their evasion.
+AUSTIN: Well, I’ll pick that up. I’m not gonna use it. I guess—it doesn’t—it’s not a technical—it’s not a tech attack, right? It’s just that it targets tech defense.
+DRE: I think it might need to be a tech attack. Let me double check tech attack.
+AUSTIN: Okay. Well, I’ll hold off and maybe hand it off to someone who knows what the fuck a tech attack is, ‘cause it ain’t me.
+[DRE LAUGHS]
+DRE: I’m gonna double check that tag, but.
+AUSTIN: I’ll do the same. But I think that you’re right. And I think that that’s my turn. I’m pretty sure.
+DRE: Well, so, an option you can always do is that you can Overcharge—
+AUSTIN: Right.
+DRE: —which is where you take Heat to basically take an extra action. The equivalent of a quick action. So that is either a movement or a quick action.
+AUSTIN: Right. No, I’m good. Does this cover from where I was to where they are right now? I guess it would be, ‘cause this whole other train is in the way, right? So, that’s half cover, at least. Or soft cover.
+DRE: Mhm.
+AUSTIN: Cool.
+DRE: So, smart, it just attacks E defense instead of evasion, you don’t have to roll tech with it.
+AUSTIN: Then yeah, I’ll hold onto that. Perfect.
+DRE: Gotcha. Okay.
+AUSTIN: They go, right?
+DRE: They do go.
+AUSTIN: Okay.
+DRE: Let’s check some numbers here.
+        AUSTIN (as NARMINE): Couldn’t be the easy one. They’re not in A.
+KEITH: I think I could check C on a first go.
+DRE: Alright. As you zip across, the Screw unit up here, its little—why can’t I think of the word? Its satellite dish kind of perks up, and it like—it zones in on you.
+KEITH: Oh, me?
+DRE: No.
+AUSTIN: No, me, because I zipped close.
+KEITH: Oh, you zipped close.
+DRE: So it is going to make a tech attack against you.
+AUSTIN: I hate to hear it. You hate to hear it.
+[DRE LAUGHS]
+AUSTIN: Not a fan.
+KEITH: Oh, but what if I did something really cool?
+DRE: Why won’t it let me…
+SYLVI: What if?
+KEITH: Yeah, I’m gonna. I am gonna do it.
+DRE: Okay, there we go. Oh, here’s a fun thing that I just learned today.
+AUSTIN: Oh?
+DRE: Yeah. Is that there is a separate target thing where if I do that, it will automatically do things for me. You’re in soft cover, and you don’t have Lock On or anything like that, you’re not like invisible or anything, right?
+AUSTIN: No, I don’t think I—I thought about hiding, but hiding takes a quick action, right?
+DRE: Yeah, it does, yeah.
+AUSTIN: And so I would have not been able to do the search if I had done that, right? So.
+JACK: As it does in real life.
+AUSTIN: Yeah. I don’t think I have anything else at this point that’s like, defensive from this distance especially.
+DRE: Okay. Oh, it misses.
+AUSTIN: Ooh, okay.
+DRE: It rolls a 1. Gotcha. That’s a good thing for you.
+AUSTIN: What’s it—what happens?
+DRE: Yeah, so what you notice is—‘cause you have a Comp/Con unit, don’t you? Or do you have a NHP AI?
+AUSTIN: Yeah, I have an NHP. Yeah, don’t worry about it so much.
+DRE: So I think—[CHUCKLES] for those who don’t know, we’ll just say NHPs are the AI.
+AUSTIN: Yeah.
+DRE: They’re like the AI equivalent in Lancer. What you notice is that you basically get a pop-up on your screen that somebody’s attempting to breach your mech’s firewall, but your NHP shuts it down quickly.
+AUSTIN: Ah, good. I’m like, “Thanks, Captain.”
+DRE: Okay, let me…
+AUSTIN: There’s like, straight-up like a floppy disk drive—or, it’s not a floppy disk drive, it’s like a—there’s a type of disk type that I don’t know what it is, it’s like a big magnetic disk thing that’s like thicker than a—much thicker than a floppy disk. I’m gonna find the type that I’m thinking of here. There’s a name for it and I can’t think of it. It’s like a tape more than a… anyway, it doesn’t matter. But there’s definitely—that’s where my NHP, my AI is shoved in there.
+DRE: Alright, so it sounds like the mayor wanted to go.
+AUSTIN: Yeah, I’ll look—is that how that goes? Is like, the player who last went nominates somebody else to go?
+DRE: Mhm. Yeah.
+KEITH: Yeah, I was thinking of doing Objective C.
+AUSTIN (as NARMINE): Show us what you got, Mayor.
+KEITH: But I have changed my mind. I did change my mind in between.
+AUSTIN: Oh. Okay.
+KEITH: I know what I want to do.
+AUSTIN: Uh-huh.
+KEITH: And I think I can take out that radar guy from here.
+AUSTIN: What?
+KEITH: From where I am. Without moving.
+DRE: Oh, sick. Okay. [LAUGHS]
+AUSTIN: Then yeah. Then let’s straight-up—[CHUCKLES]
+DRE: Let’s go. [LAUGHS]
+        AUSTIN (as NARMINE): Mayor, you think you can do something? One of those Screws is trying to claw its way into my machine.
+        KEITH (as TEASEL): I can get him. I can get him. Yeah, I can get him.
+AUSTIN: What are you doing?
+KEITH: I have my core ability, Mark for Death: “Choose a character within range 30, but further than ranger 5,” and it’s 21, which is 1 outside of my Railgun’s normal range, so I don’t have to move if I use Mark for Death. “I become immobilized and can’t take reactions, but I deal bonus damage based on weapon size,” so I’m going to use my Railgun for 3d6.
+DRE: Now, I think it is worth pointing out that that is a full action.
+KEITH: Yes.
+DRE: Activating Mark for Death is a full action.
+KEITH: Okay.
+DRE: So then you could boost and take Heat, and the first time you do it, it’s only 1 Heat. So then, take another quick action to fire a single weapon.
+AUSTIN: Oh, so you have to like, target.
+KEITH: Oh, so you have to—so this is like, Siege Mode with a tang.
+DRE: Yeah, basically.
+AUSTIN: Damn.
+KEITH: Okay, so you’ve got to like, set it down, and then the idea is like, next turn I can make an attack.
+DRE: Yeah.
+AUSTIN: But you could—or for 1 Heat.
+KEITH: But I can move.
+DRE: Yeah, you could this turn for 1 Heat.
+KEITH: Do I still get a protocol?
+DRE: Yeah, protocols are free.
+KEITH: Okay.
+AUSTIN: Mhm.
+DRE: What protocol were you wanting to take?
+KEITH: I also have “Activate Core Siphon: When you activate this protocol, you gain +1 accuracy on your first attack roll this turn, but receive +1 difficulty on all other attack rolls until the end of your turn.”
+DRE: Oh, that’s cool.
+AUSTIN: That’s perfect for this, right?
+KEITH: It’s perfect for this. I wish I had a better sense of how much health something like this would have, because I’m like, is 3d6 way overkill? Am I like, taking 3 Heat to do this for nothing and I should just use the Railgun?
+AUSTIN: Well, it’s 3d6 plus the base damage.
+KEITH: Is it?
+AUSTIN: ‘Cause it’s when you do an attack. Right?
+KEITH: Bonus damage? Oh, okay.
+AUSTIN: Yeah, based on the weapon size.
+KEITH: I’m gonna just use my Assault Rifle.
+DRE: Well, it’s only on ranged critical hits.
+KEITH: Oh, okay. On ranged critical hits. Okay.
+AUSTIN: Which is when you get a 20 or above on a shot, right?
+DRE: Yeah. Also, Keith, I’m not seeing weapons on your character sheet.
+KEITH: Oh, that’s weird, I’ve got ‘em. I’m pretty sure that I have them. I had them earlier.
+DRE: I see your systems, I don’t see your weapons.
+[1:20:00]
+KEITH: I can fix that if they’re not there. ‘Cause I know what they are. You’re right, I don’t see the weapons. I thought that I put them, but let me fix that real quick.
+DRE: Okay.
+KEITH: Weapons, mech weapons… Assault Rifle.
+DRE: Ah, Assault Rifle.
+KEITH: Railgun.
+DRE: Good ol’ reliable two.
+KEITH: And segment knife.
+AUSTIN: Does your mech look like this mech? This like, four-legged—
+KEITH: I mean, it looks like a horrible horse, yeah.
+AUSTIN: It looks like a horrible horse. Okay, yeah.
+DRE: Yeah, we should talk about what our mechs look like, yeah.
+AUSTIN: Yeah. Mine is a whaling unit, it’s a fishing unit, it has like a big hook and a harpoon and a bunch of fuckin’—and it’s like the sort of orange you’ll see fishermen wear, like on their big coveralls or overalls, and like big fishing waders, and all that shit, so.
+DRE: Yeah. But it’s bipedal, so it is kind of like the classic humanoid mech shape.
+AUSTIN: Yes, it is a humanoid—yes, yeah. Totally.
+DRE: It’s Zaku vibes, sort of. Whereas Keith’s mech—
+AUSTIN: Yours is a horse.
+DRE: [LAUGHING] —is a nightmare.
+KEITH: So, my mech is based off of my main mech from when I used to play Chromehounds religiously, and it was like a super lightweight, super-heavy sniper on wheels, which it was not ideal for a sniper in that game, but you can’t—there’s no wheel mech in this, so I just made a horrible, six-legged nightmare horse mech.
+DRE: With little tiny arms on the front.
+AUSTIN: You can say—it does have tiny little arms. You can say that it has wheels. We’re allowed.
+DRE: Yeah, yeah, yeah.
+KEITH: Yeah, but then I built my whole thing around the horse theme.
+AUSTIN: Oh, that’s fair. Okay.
+KEITH: My call sign is Derby and the horse is called the Dressage, so.
+AUSTIN: Right, I guess that’s true.
+[DRE LAUGHS]
+AUSTIN: I’m sorry, Keith, but your call sign is Mayor.
+DRE: Yeah, sorry.
+[JACK AND KEITH LAUGH]
+KEITH: I’m willing to change my call sign to Mayor.
+SYLVI: Well, “Mayor” also works if you just spell it differently.
+AUSTIN: [LAUGHING] It does if you—
+[GROUP LAUGHTER]
+AUSTIN: ‘Why is everybody calling me Mare? That’s kind of a lot.’
+KEITH: Okay, I have to calm down. I can’t hear anything. My blood is rushing to my head.
+[AUSTIN LAUGHS]
+KEITH: Okay. Yeah, new call sign, Mayor.
+DRE: Okay.
+AUSTIN: So are you doing this thing?
+KEITH: Yeah, I’m gonna do it. I’m gonna do it with my Assault Rifle. I’m missing out on 3 bonus damage.
+DRE: I don’t think you’re close enough to do—
+KEITH: It’s 30, right?
+DRE: You’re trying to do the Screw unit, right?
+KEITH: Yeah, yeah, yeah. It said 21 range for me when I measured it.
+DRE: Is your Assault Rifle 30?
+KEITH: When I use Mark for Death.
+DRE: Oh.
+AUSTIN: I don’t—
+KEITH: I’m still doing Mark for Death, I’m just no longer also using the Railgun.
+DRE: Yeah, but that—that doesn’t make your guns farther. That just says you can choose a person that’s within range 30.
+KEITH: Oh, okay. I thought that the thing about the mode specifically was that it increases the range of the gun when I do that. Okay.
+DRE: Nope, yeah.
+AUSTIN: You could still do a move, though. You could still move closer, whatever your movement is, to at least get the Railgun.
+KEITH: Yeah, yeah.
+DRE: Well, so the thing about the Railgun is one of its tags is Ordinance, which means that you cannot fire it after moving.
+KEITH: Oh, right, you have to fire it first.
+DRE: It’s gotta be the first thing you do.
+AUSTIN: Fuck. I see.
+KEITH: So that’s fine. I can still shoot at it with the Railgun, though. I mean, with the Assault Rifle, by moving.
+DRE: You can’t—
+KEITH: Can I get close enough?
+DRE: Well, yes, if you can get within 10. I don’t know what your move is.
+KEITH: Oh, within 10, yeah. It’s 10. No, it’s 15 range.
+DRE: Your Assault Rifle?
+KEITH: Yeah. Or, the Vulture DMR is what it’s called.
+AUSTIN: Oh, that’s not—okay, it’s a special.
+DRE: Oh, that’s not—
+KEITH: Did I pick the wrong gun?
+DRE: Yeah, that’s not what you have on there.
+KEITH: Oh, okay. It said—the description on the website was like, ‘this is the main SSC Assault Rifle’ or whatever.
+DRE: Yeah, yeah, yeah. I’ll throw it on here for you. I’ll fix it for you.
+KEITH: Okay, thank you. Yeah, sorry, that was just the wrong weapon.
+DRE: You’re good.
+KEITH: Yeah, so Vulture DMR is accurate, has Overkill, and then also does give me 1 Heat.
+DRE: I’m trying to remember what—I’m gonna pull up my tags list. So Overkill, yeah, any damage that lands on a 1, you take 1 Heat, but then you get to reroll it.
+KEITH: Yeah. But that’s what—I think that’s an optional thing. I don’t think that’s a, like—
+DRE: Mm-mm. Nope. Nope.
+KEITH: No, it’s—I have to? Okay?
+DRE: Yeah.
+KEITH: Okay, so, I can move 6 with my speed.
+DRE: Yep. So you need to get within 15, right?
+KEITH: Yeah.
+DRE: So yeah. All these—there you go.
+KEITH: Did I do that? Okay. And then did I do it? Did I get it? That’s exactly right.
+DRE: Yeah. So are you on top of the train here?
+KEITH: Yes.
+DRE: That’s nice.
+KEITH: Yeah.
+AUSTIN: Is there also—yeah, does height do something for you?
+KEITH: I don’t think so.
+DRE: Not specifically, but in this case, it means that you’re not in this swamp in the middle, which is also rough terrain, yep.
+AUSTIN: Oh, I see.
+KEITH: Yeah, because I have my mag clamps.
+DRE: Mhm.
+KEITH: Okay, well then, I still am going to use my activate Core Siphon protocol, because I can only—or no, can I attack and search? No, right?
+DRE: When you—oh, no. ‘Cause searching is a full action, yeah.
+KEITH: Okay, so I’m gonna decline to immediately search, because you’re already being attacked by this thing, so I’m gonna take out the radar guy.
+AUSTIN: Love it.
+KEITH: Or I’m gonna try to, anyway.
+DRE: So you said you’re using your core siphon.
+KEITH: I’m gonna use my core siphon and I’m gonna use my Vulture DMR.
+DRE: Okay. So if you go up to that like, the token tool that’s up there, you see the one that looks like a little—like a little dartboard or like an arrow target?
+KEITH: Yeah, the select targets thing? Yeah.
+DRE: Yep. So you click that and then you click—
+KEITH: Oh, look at that.
+DRE: Yep. So what you want to make sure you do is that you then roll the weapon that you’re wanting to use in your character sheet. ‘Cause it will pull up a rolling panel for you, but then it’s just using like, the—like, your base stats.
+KEITH: Okay. So, but I do want to hit like, +1 Accurate.
+DRE: Mhm.
+KEITH: And then ‘no cover’.
+DRE: Correct.
+KEITH: And I’m not invisible, there’s no other sources, and so now I open up my mech page, and then I can do—
+DRE: Mhm.
+KEITH: And then—okay.
+AUSTIN: Dre, I hope you’re excited to talk us all through this hour.
+DRE: Oh, hell yeah. No, I’m super stoked for this.
+KEITH: Okay, and so—and I can just hit the die in Vulture DMR and it will roll with that thing attached?
+DRE: Yep. Is it giving you +2 accuracy or just the +1?
+KEITH: +1. Should I have +2?
+DRE: You should have +2, because your gun is accurate—yep. And then, yep, just hit +1 on ‘other sources’, and then, yep, hit roll.
+KEITH: Okay. I hit the die, but it didn’t—did it do anything? What did it—
+DRE: Mm-mm. Did it bring up the little—
+KEITH: Do I have to hit it again? Oh, okay, yes, I see that it applied Vulture DMR to this thing. Great.
+DRE: Yep.
+AUSTIN: Crit!
+DRE: Oh, that’s a crit. Nice.
+AUSTIN: Let’s go.
+KEITH: Wow.
+DRE: Alright.
+AUSTIN: And a full 6 damage. Is that—how does crit work? What do crits do in this?
+KEITH: Yeah, what happened? [LAUGHS]
+[GROUP LAUGHTER]
+KEITH: What are all these numbers?
+AUSTIN: Oh, I see, I see.
+DRE: So, when you crit, you basically get to roll your weapon damage twice, and you take the highest one. So like, clicking on this roll here, you roll 2d6 ‘cause you critted, and your highest number was a 5, and then you add +1 because your DMR does 1d6+1.
+KEITH: Okay, and then, is there a utility to make this roll, or should I just do that in the little box down here, like?
+DRE: Oh, it already did it for you.
+KEITH: Oh. Oh, it already—
+AUSTIN: This is the roll.
+DRE: It already rolled 2d6, yeah.
+KEITH: Okay, so my damage is—my total damage is 6, that I did.
+DRE: Mhm. Yep.
+KEITH: Okay.
+AUSTIN: How is this—is this a gun you’re holding in a hand, or is this attached to your horse body?
+KEITH: This is attached to my horse body.
+AUSTIN: Great. Fantastic. I love to hear it.
+KEITH: I do not have real hands. Like, I don’t have like, arms to hold a gun with.
+AUSTIN: Right.
+DRE: Yeah. You’ve got like, little manipulator arms in the front, but.
+KEITH: Yeah. Although, I don’t even—I don’t even have the system manipulator arms.
+AUSTIN: Right, right. Hate it.
+KEITH: So the arms are there, they’re just not—I didn’t buy the chip that activates them.
+[AUSTIN AND DRE LAUGH]
+AUSTIN: Eugh. I hate it.
+DRE: Oh, I love that.
+[KEITH LAUGHS]
+DRE: So yeah, a shot rings out from your DMR, and it hits the Witch squarely in the head, and I think it’s like, the satellite dish almost jerks back before it lowers down, and then its head starts spinning as an alarm goes off from this big tower.
+KEITH: Oh, shit.
+DRE: I mean, you did shoot a gun, so.
+AUSTIN: Yeah. Uh-huh.
+[DRE LAUGHS]
+SYLVI: Go time.
+KEITH: I thought I was gonna kill it. Sorry.
+AUSTIN: Yeah.
+DRE: Alright.
+KEITH: It’s been a really long time since I fired anything that wasn’t designed to blow up when you hit it once.
+[AUSTIN LAUGHS]
+DRE: No, that’s fair. Listen. We’ve all been there. [LAUGHS]
+[1:30:00]
+DRE: Alright. I think it’s time for—as that shot rings out, you see this guy in the inductor unit kind of swivel around, and kind of opens—sends out a message on an open comms frequency, and says:
+DRE (as INDUCTOR PILOT): This is Columnar unit Harrow Gaze, please identify yourself or we will open fire.
+AUSTIN: Is that just sent to all of us? We all receive that?
+DRE: Mhm. Yep.
+KEITH: I’m not a snitch.
+        AUSTIN (as NARMINE): Hey, Pact. Maybe you could put in a good word, hm?
+        JACK (as MARTILLA): This is Pact Specialist Häske. I think there’s been some sort of a misunderstanding. Stand down.
+        DRE (as HARROW GAZE): We will not stand down. You will stand down. I am reading at least two heat signatures. I need both of you to power down your mechs immediately.
+        AUSTIN (as NARMINE): Nah, I don’t think I’ll be doing that.
+DRE: Okay. Then he—I guess, do Columnar have like, he/they/she pronouns?
+AUSTIN: Yeah, we’ve seen plenty across the board.
+DRE: Okay. That is what I thought, but I wanted to make sure.
+AUSTIN: I believe Exeter Leap was he/him. I believe.
+KEITH: Yep.
+DRE: Okay.
+AUSTIN: Is. As far as I know, nothing bad has happened to Exeter Leap.
+DRE: Yeah.
+JACK: ‘Was’ in the sense that we made that show in the past.
+AUSTIN: Yes, yes.
+DRE: So Harrow Gaze is gonna hop up on this train with you.
+AUSTIN: Hm.
+KEITH: I need to take Heat.
+AUSTIN: Oh.
+DRE: It might have automatically done it for you.
+KEITH: Ooh, that would be nice.
+DRE: Make sure it didn’t automatically do it for you.
+KEITH: It did do it automatically for me.
+DRE: Yeah. Nice.
+KEITH: Is it normal that a weapon gives me Heat?
+DRE: It depends on the weapon.
+KEITH: Okay.
+AUSTIN: The DMR does, yeah.
+KEITH: It does? The DMR does?
+AUSTIN: Yes.
+KEITH: Does the normal Assault Rifle that you have?
+AUSTIN: No. But it’s not as good, so.
+KEITH: Right, it’s not as good.
+AUSTIN: It’s not accurate, it doesn’t have Overkill, it doesn’t have 15 range, it doesn’t have a +1, so.
+KEITH: Okay, fair.
+AUSTIN: It’s damage, so.
+KEITH: So I’m gonna have to make sure that I am careful about Heat.
+AUSTIN: That’s mechs, baby.
+DRE: That’s mechs, baby. So yeah, this Inductor unit just heffs this giant—
+AUSTIN: I knew this thing was gonna be a problem.
+DRE: So it is a bipedal mech, and it is carrying like a—it has to carry this thing like, two-handed. It is kind of like a Railgun, like underhanded, underslung Railgun that is connected to a backpack in its back, and as it aims at the—Derby? Right? Or the Dressage, sorry.
+KEITH: The Dressage, yeah.
+DRE: The Dressage. It unleashes a pulse of thermal energy at you.
+AUSTIN: Yikes.
+DRE: Oh, and it crits you. [CHUCKLES]
+KEITH: What?
+DRE: And you take 8 damage.
+AUSTIN: Yikes.
+KEITH: Wow, that’s so much.
+JACK: Do you have any armor?
+DRE: Yeah, do you have any armor?
+KEITH: That’s such a good question. How did it crit me? I’m so evasive.
+DRE: [CHUCKLES] ‘Cause it’s—
+KEITH: No one was supposed to be able to hit me.
+DRE: Well, so here’s the thing. Technically, it’s a crit, but—do a little behind the scenes action  here. NPCs just do flat damage. They don’t roll for damage.
+AUSTIN: Oh, interesting.
+KEITH: Oh, okay.
+DRE: So like, technically it’s a crit, but they don’t do extra damage on crits. They just do flat damage.
+KEITH: This thing just does 8 damage whenever it hits you.
+DRE: Yep.
+KEITH: Wow. That’s so much.
+AUSTIN: Good to know. Fuck off.
+[DRE CHUCKLES]
+KEITH: I had to do a crit to get almost that much damage. Okay, do I have armor? That’s such a good question. The answer is no.
+DRE: You do not. Yeah, you have zero armor.
+KEITH: So I’m down to 6 health.
+JACK: Because you were working on the classic Dark Souls dexterity build of ‘why do I need armor if they’re not going to hit me’?
+KEITH: Yeah.
+JACK: And then they hit you.
+KEITH: And then they hit me immediately.
+DRE: Yep.
+KEITH: And then what did it have to do to hit me? Is it like—is it hard to hit me? It was supposed to be. [CHUCKLES]
+DRE: Yeah, I mean, they rolled a 20, is how they hit you.
+KEITH: Okay, great.
+[DRE LAUGHS]
+AUSTIN: That’ll do it. That’ll do it.
+KEITH: I already knew it was a crit, so I could have answered that. I could have figured it out.
+DRE: And then he is going to just take another move action here, 4, and just kind of keep moving down the train towards you.
+AUSTIN: Walking down this big fucking train. This train that’s big enough to hold the weight of a mech without collapsing.
+DRE: Yep.
+AUSTIN: Great.
+DRE: At least for now, anyway.
+        AUSTIN (as NARMINE): Hey, bigs. We could use some back-up.
+        JACK (as MARTILLA): Do they mean us? Are they talking to us?
+        SYLVI (as ZARK): Which one’s ‘Bigs’?
+AUSTIN: [CHUCKLES] One of you is Bigs and one of you is Wedge, and—
+        JACK (as MARTILLA): I think we’re—we’re bigs.
+        SYLVI (as ZARK): Oh, ‘cause we’re two—no, yeah, I got it. I’m ready to go. I’ve been waiting to go.
+JACK: Something has—some sort of passion has gone out of Häske’s voice on the comms, so I think she is prepared to just sit back and let you act while something that is turning slowly inside her stomach resolves itself.
+AUSTIN: Oh, you love it.
+SYLVI: Okay. So that’s my turn then?
+DRE: Yep.
+AUSTIN: Sounds like it.
+JACK: I do just want to say real quick that my gut reaction to make this zoom in is to like, pinch the trackpad, and all that does [CHUCKLES] is make my mech turn upside down.
+[GROUP LAUGHTER]
+KEITH: It can do a barrel roll.
+DRE: Yeah.
+SYLVI: That’s what she’s doing right now, is just spinning her mech around.
+AUSTIN: [OVERLAPPING] That’s just what—yeah, yes. Yes.
+JACK: It’s so funny.
+DRE: Just mech things, baby.
+JACK: I keep forgetting it does it. I just make the action and I’m like, oh no, that’s not it.
+AUSTIN: Oh, that’s so funny.
+SYLVI: Okay, so I click on the action thing to start my move, I’m assuming?
+KEITH: Damn.
+AUSTIN: Oh, I just drag shit, I guess. But yeah.
+DRE: Yeah, you can just move yourself. And you can either, like, count it by hand, or you can also wiggle yourself along the hexes using your arrow keys.
+AUSTIN: God, your mech is so big.
+DRE: We’re using the—
+AUSTIN: [OVERLAPPING] Oh, where does movement come from? Where does movement start from?
+DRE: What do you mean?
+AUSTIN: Does it start from—in a big mech like this, for people at home, Sylvi’s mech takes up three hexes on this board. Does movement start from the middle of—yeah.
+KEITH: It starts from the foot square.
+DRE: Yeah. It starts from the foot square.
+AUSTIN: Oh, okay.
+SYLVI: Oh, hold on.
+DRE: ‘Cause like if you—yeah. You’re on the ruler tool instead of the token moving tool.
+SYLVI: Yeah, I’m trying to measure it out.
+DRE: Oh, okay, gotcha.
+KEITH: Are you 6 Speed?
+SYLVI: I am 6 Speed, yeah.
+DRE: Mhm.
+AUSTIN: Team 6 Speed, let’s go.
+SYLVI: I think I am gonna go—oh, wait, actually, question, does my activating my All Terrain—is that what it’s called? What’s it called? I know the initials are ATM.
+DRE: [CHUCKLES] So which one is that? Is that one of your—
+JACK: Also, what does your mech look like as we see you move for the first time?
+DRE: Good call.
+KEITH: Buff Metroid.
+[DRE AND AUSTIN LAUGH]
+SYLVI: Like, so, I think—
+AUSTIN: Her name isn’t Metroid!
+SYLVI: Yeah, it is.
+JACK: Austin, her name is Metroid.
+AUSTIN: Oh, I see. I’m sorry.
+JACK: Yeah, quick note here, is her name Metroid? Yes.
+KEITH: That’s why the series is named Metroid.
+JACK: Yeah, uh-huh.
+AUSTIN: Right, she’s Samus outside the suit, she’s Metroid in the suit. Right.
+JACK: Just like the fuckin’ protagonist is called Zelda, why else would it be the title of the game? [CHUCKLES]
+AUSTIN: Yes.
+SYLVI: Okay, hold on. I have it—it’s on my character sheet. Core Bonuses: All-Theater Movement Suite? “You may choose—”
+DRE: You don’t have to activate that, it’s just on at all times.
+SYLVI: Okay, cool.
+KEITH: Look at the toes on that thing.
+SYLVI: Well, I’m just marking that I’m flying because that gives me 1 Heat. I’m gonna go over there.
+KEITH: Has everyone noticed the toes on Sylvi’s mech?
+SYLVI: This is making me uncomfortable.
+KEITH: Look at how spread the two are.
+AUSTIN: We have got to stop.
+SYLVI: [LAUGHING] Please don’t talk about my mech’s delicious toes.
+AUSTIN: [LAUGHS] Oh, I’m furious.
+[SYLVI LAUGHS]
+SYLVI: Yeah, so my mech looks like—it’s like a big humanoid mech. It’s got [LAUGHING] sculpted toes.
+[DRE LAUGHS]
+SYLVI: I mean, I did mention earlier that my mech has a cowboy hat earlier, and I think what actually happened is that Zark tried to make the head of their mech look like their horns, [LAUGHING] but it just kind of ended up looking like a cowboy hat.
+AUSTIN: Oh, that’s so funny.
+DRE: That’s very good.
+SYLVI: There’s just a bunch of missile silos grafted onto this thing. A lot of them clearly were not here originally, or have come from like, other—there’s like different serial numbers on different rocket launchers that they have, I guess is the easiest way to put it.
+KEITH: Like multiple serial numbers per gun.
+SYLVI: Yeah, yeah, like, very slapped together, like, ‘oh, this—they took that off of a mech that they blew up.’ [CHUCKLES] And added it to theirs.
+KEITH: Right.
+DRE: Yep.
+SYLVI: I’m just looking at my weapons here.
+DRE: Yeah, you’ve got a lot of them.
+[1:40:04]
+SYLVI: I do.
+AUSTIN: So excited to see these.
+KEITH: Is that a difference in like, different frames have more or less weapons they can—
+DRE: Yep.
+KEITH: Okay.
+DRE: Yeah. So Sylvi’s frame is the Monarch, which is—it’s like, it’s all missiles. Its thing is just it’s gonna shoot you with all the fucking missiles.
+SYLVI: Okay, yeah, I’m in range to get both of these. Which would we prefer? Do you want me to hit both of the little guys, or the little guy and the big guy?
+KEITH: Big guy, please.
+SYLVI: Okay. So I’m gonna fire my Sharanga Missiles, which “this weapon can attack two targets at a time,” and has the tag Arcing on it.
+DRE: Mhm.
+SYLVI: I also am gonna use a charge on my ammo case, let me just—I need to look at the…
+DRE: Hell yeah.
+SYLVI: I think if I use—I think it costs two because I’m firing two rounds.
+DRE: No, it would only cost one. It would cost two if you’re using one of the advanced.
+SYLVI: Okay, cool. Never mind then. I am gonna just—oh, wow. Hm. Well, I am gonna use two, then, because I’m gonna make this hellfire ammo.
+DRE: Okay. What does hellfire ammo do?
+SYLVI: It deals energy damage and any, I believe—what’s it say about extra damage? It deals any bonus damage as burn.
+DRE: Oh, sick. Okay.
+SYLVI: Okay. And I just roll the—I just click the d20 next to my weapon here?
+DRE: Mhm.
+SYLVI: Oh, I should probably target them first, right?
+DRE: I think if you click and drag, it’ll let you select multiple targets.
+SYLVI: Oh, okay, cool.
+DRE: And if not, you can just roll it and I can tell you if it hits or not.
+SYLVI: I have selected both of them. I don’t have any accuracy things here, right? I don’t think so. I don’t think this is one of my seeking weapons. Let me double check.
+DRE: No, it’s just Arcing. Yeah.
+SYLVI: Okay, cool. Alright. And now I just click it, now that I’ve selected them, right?
+DRE: Mhm.
+SYLVI: How’d I do? I clicked the button. Did it go?
+DRE: It did not go. Did you click roll in the…?
+SYLVI: Oh, it let me click roll now. Okay.
+AUSTIN: Ooh! Crit!
+SYLVI: Wow.
+DRE: Nice.
+KEITH: Only crits today.
+DRE: Mhm.
+JACK: Gonna be a weird game.
+DRE: So it does 3 Explosive and then you said also…?
+SYLVI: It deals energy damage.
+DRE: Okay.
+SYLVI: I think, with the—
+JACK: Is it not burn damage?
+SYLVI: Burn damage, yes. It’s—well, hold on, let me check. There’s a lot of things.
+DRE: There’s a lot of things.
+SYLVI: “This attack deals energy damage and deals any bonus damage as burn.”
+DRE: Okay. But there’s no bonus damage on this, right? It’s just the explosive damage.
+SYLVI: No.
+DRE: Okay.
+KEITH: Okay, so 3 to each. And then is there like an ‘over time’ with the burn, or?
+SYLVI: I don’t know.
+DRE: No, so the way—well, you didn’t inflict any burns, ‘cause you didn’t do any bonus damage for this.
+KEITH: Oh, okay.
+SYLVI: [OVERLAPPING] I think it’s just flat damage for this weapon specifically.
+DRE: Yeah.
+AUSTIN: Oh, does a crit not do bonus? It’s only when you’re above?
+SYLVI: Well, it’s ‘cause this straight up, like, if I—I can, like, screenshot this and put it in the chat.
+DRE: [OVERLAPPING] This does flat 3.
+AUSTIN: Gotcha.
+SYLVI: Instead of like—like, my rocket propel grenade has 1d6+1 damage, and then this is just 3 damage.
+AUSTIN: Gotcha, gotcha, gotcha. I see.
+DRE: Okay. But that’s only one attack. You get to do another one.
+SYLVI: Oh, word? Okay, cool.
+AUSTIN: God damn.
+DRE: So yeah, within your turn, you basically get a move action, and then you can either do one full action or two quick actions.
+SYLVI: I’m gonna use my rocket propelled grenade launcher, then.
+DRE: Yeah.
+KEITH: I love seeing the cursors just zipping around.
+DRE: So, here’s the thing. Actually, you cannot use that. No, ‘cause it’s Ordinance.
+SYLVI: Okay.
+DRE: Ordinance is something—and let’s see.
+KEITH: The Ordinance is you have to do it first, is basically what it is.
+DRE: Yeah. So here’s—we can handwave this, because you would be within 10. So we can just handwave and say what you did was you first shot your rocket propelled grenade, and then you moved, and then you used your missiles.
+SYLVI: Okay. Would I be in 10 of the big guy for that still?
+DRE: Yeah, yeah, yeah.
+SYLVI: I want to have fired on the big guy. Okay.
+DRE: Yeah, ‘cause you started, like, here-ish. Right?
+SYLVI: Uh, hold on.
+AUSTIN: I think it was the furthest northeast part of the map possible.
+SYLVI: Yeah, it was.
+DRE: Yeah, you’d be too far, because that’s 13.
+SYLVI: Yeah.
+DRE: I mean, you can—you’ve got a whole lot of other fun stuff.
+AUSTIN: [OVERLAPPING] You’ve got the same missiles, right?
+SYLVI: Can I use my heavy launcher? I don’t—like, would that—
+DRE: Yeah. No, totally. Yeah, yeah, yeah.
+SYLVI: Okay, cool. I’m gonna use that. Fuck this guy.
+DRE: Yeah. Yeah, fuck that guy.
+KEITH: Fuck that guy.
+SYLVI: Okay. I am—
+KEITH: That guy shot me and almost was—I mean, it was too much. It was too much damage.
+AUSTIN: It was a lot. It was a lot.
+SYLVI: It’s another crit.
+AUSTIN: Yes!
+KEITH: Another crit for real?
+AUSTIN: Another crit, 24.
+DRE: Nice.
+AUSTIN: Well, it’s just a—
+JACK: 7 electricity damage?
+AUSTIN: A crit is just any attack over 20 in this system.
+DRE: Yeah. So you don’t have to roll a nat 20, it is just, you know, after your d20 plus any bonuses, is it a 20 or higher?
+KEITH: Yeah.
+AUSTIN: And it was.
+KEITH: But still, that’s—we’ve still been rolling high.
+AUSTIN: Thank god. So, that’s 7 damage.
+KEITH: Like, that was a 16 roll for a roll.
+AUSTIN: As you shoot—what is this? Oh, these are more missiles.
+SYLVI: This is my Gandiva Missiles. This is another—I think these are, like, back-mounted missiles that this has, and they’re much bigger than the one I just fired a second ago to hit the two of them.
+DRE: Yeah.
+AUSTIN: I’m a fan.
+DRE: Also, the fun thing about the missiles that Sylvi has that are specific to her mech, almost every other missiles that normal mechs can get are loading, which means you have to reload them after you shoot them. Almost none of Sylvi’s missiles are Loading. So she can just dunk. [LAUGHS]
+AUSTIN: Oh. That’s wild. Hell yeah.
+KEITH: Wow. And so that is what an auto-loader would be for.
+DRE: Yeah. Yep. Gotcha.
+SYLVI: And I think that’s my turn then, right? ‘Cause I fired twice? Alright.
+DRE: Yeah. Mhm.
+KEITH: Strong turn.
+SYLVI: I didn’t get to see if anything was happening in Objective B, but that’s fine. I had things to shoot.
+DRE: It’s fine.
+AUSTIN: Next time.
+DRE: Yeah, yeah, yeah. Just for the sake of quickness, I’m gonna move these two guys at once just so we’re not—I’m not doing like, six turns after you all finish going.
+AUSTIN: Mhm. Oh, is that how—so it is turn-based in that way.
+DRE: Yeah.
+AUSTIN: Okay. Wait, wait, wait, then, wait a second, no, you shouldn’t get to move two people before Jack can go.
+DRE: Okay. That’s fine. Yeah, yeah, yeah.
+AUSTIN: I don’t mind doing them—you know. Unless Jack wants to cede their turn.
+JACK: No.
+DRE: Oh, actually, here, you were asking me about these Lift units earlier.
+AUSTIN: Yeah, yeah, yeah. Are those…
+DRE: Let’s just do something with that.
+AUSTIN: Okay.
+AUSTIN: I was asking—I asked in the chat whether they were mechs or whether they were turrets. Like, can they move?
+DRE: They are mechs. And here’s the thing, they can move.
+AUSTIN: Ah, I see. They do have the word ‘lift’ in them, huh?
+DRE: Actually, this one blinks out of existence.
+AUSTIN: Oh, I don’t like that. I fuckin’ hate the Zenith fund.
+DRE: Uh-huh.
+KEITH: Oh no.
+DRE: Austin, I’m gonna need you to—
+AUSTIN: [OVERLAPPING] I’m about to get dragooned. Yeah, uh-huh?
+DRE: I need you to do an Agility save.
+AUSTIN: I would prefer not to. Let’s see if I know how to do this. Let’s see. Open up the sheet, I’m guessing.
+DRE: Mhm.
+AUSTIN: Is this—
+DRE: Yeah, it’s just in your—yeah.
+AUSTIN: Oh, I see. It’s this.
+DRE: Just hit the Agility button, yep.
+AUSTIN: Do I get any bonuses? Probably not, right? I hit roll?
+DRE: Whatever your Agility score is, yeah.
+AUSTIN: But it should just calculate that, right? Or do I put in—
+DRE: No. If you click the die by Agility, it’ll calculate it for you.
+AUSTIN: It’ll calc it. Okay. There is a 10.
+DRE: Okay. 10 passes.
+AUSTIN: Wow. What—do I sense anything? Is this my AI again, being like, ‘hey, take a step to the left’?
+DRE: Yeah, I think so. So basically, this thing teleports right where you were.
+AUSTIN: Oh.
+DRE: And you kind of—you dodge it at the last second. It still clips you, so you take half-damage. You take 2 damage.
+AUSTIN: I have a question. Does this trigger a thing? Has it moved into my spot, into my Threat?
+DRE: Oh, it sure has. It sure has, bud.
+AUSTIN: Okay, so I take half damage. What’s the damage I take?
+DRE: You only take 2 damage.
+AUSTIN: Ah, please. I’ll take it all day.
+DRE: And let me really quick, ‘cause it also takes damage from itself—
+AUSTIN: Well, that’s a problem.
+KEITH: Okay. I know what I have to do.
+[SFX: DIE CLATTERS]
+KEITH: What a close-sounding roll that is.
+AUSTIN: It’s so—it’s right in front of us.
+[DRE CHUCKLES]
+KEITH: It’s right—yeah, it is so close, it’s happening in—right behind my eyes.
+AUSTIN: Yeah. It’s right there. Somehow.
+JACK: I quite like it.
+DRE: Alright, go for it. What are you doing?
+AUSTIN: Okay. I gotta do an Overwatch counter attack here for real.
+DRE: Yep, you do.
+AUSTIN: This is Overwatch: “Skirmish with a weapon against an enemy that starts moving within its Threat”. Boy, I have a lot of Threat for a melee, you would think I have less. Let’s see here. What do I want to swing at you, buddy? I can do a heavy with Skirmish, right?
+DRE: Yeah.
+AUSTIN: It’s only like super big stuff that you can’t do.
+DRE: Mhm.
+AUSTIN: Then—hm.
+DRE: Yeah, anything as long as it has Threat, so yeah, your—
+AUSTIN: Yeah, my Threat is—
+DRE: —your Nanocarbon Sword and your Chain Axe.
+AUSTIN: Yeah. Totally. Are both—both have some Threat going on here.
+DRE: Yep.
+AUSTIN: I’m making a decision, and I’m making—it’s just an attack I can do, right? I can’t do like a—
+DRE: Yeah. You can just—
+AUSTIN: Oh, I know what I’m looking at. I was like, I’m missing half of the shit I can do, and the answer is that stuff that’s tied to my—
+DRE: Your talents.
+AUSTIN: My talents, yeah.
+DRE: Yeah.
+AUSTIN: ‘Once per round, once per round, when you miss, first time…’ Okay, so that one’s not gonna come into effect. Okay, so, that one works ‘cause it’s not my turn. Alright, I’m just gonna swing at it with this Chain Axe. It teleports in front of me, I take a little bit of a hit—how’s it hitting me? What’s it hitting me with?
+[1:50:01]
+DRE: It’s literally just running into you.
+[SYLVI LAUGHS]
+AUSTIN: Okay. I do my best to kinda—
+DRE: The name of this move is Telefrag.
+AUSTIN: Oh, I see what it’s trying to do. Yeah, great. I try to like, stiff-arm it out the way and start swinging my axe on the chain to get some momentum, and then swing at it. So I am now gonna click on Chain Axe, I’m guessing?
+DRE: Yep.
+AUSTIN: And then I’m taking—I don’t think I’m taking anything here.
+DRE: Mm-mm.
+AUSTIN: I’m just double checking that I don’t have anything else. ‘Cause it’s not a heavy weapon—yeah, okay. Ah, fuck, what did I just do? I just got rid of talents by mistake. Uh-oh.
+KEITH: Dre, I have a question when—real quick. What does it mean to consume lock-on?
+DRE: Ah. I will answer that when Austin is done.
+KEITH: Okay.
+AUSTIN: I’ve rolled, I think? Did I roll?
+DRE: Yep.
+AUSTIN: Yes, alright.
+DRE: You rolled a 4.
+AUSTIN: That’s a miss, right?
+DRE: Unfortunately, that misses, but it does take 2 damage because—
+AUSTIN: Because it’s Reliable.
+DRE: It’s reliable to a fault.
+AUSTIN: And, really quick, when I—oh, here’s a question. I have a skill that’s ‘when you hit with a main melee weapon’. Does that still count because a Reliable weapon always hits?
+DRE: No.
+AUSTIN: Okay. It always does damage, but it doesn’t always hit.
+DRE: Yeah, yeah.
+AUSTIN: Okay.
+DRE: Yeah, so reliable damage inherits other tags such as armor piercing and base damage type, but does not tags that require a hit. Such as knockback. So, yeah.
+AUSTIN: Gotcha. Perfect. Alright.
+DRE: That’s its turn, because that’s a full action for it.
+AUSTIN: I would hope. Jeez.
+[DRE CHUCKLES]
+AUSTIN: Oh, it—okay, wait, then I have a follow-up question, because I’m learning the system still.
+DRE: Yeah, totally.
+AUSTIN: Okay, then no. Because this was not a crit, certainly. It wasn’t a hit at all, so it definitely wasn’t a crit. Alright.
+DRE: No, no. Yeah, yeah. You can ask about Shredded. [CHUCKLES]
+AUSTIN: I was gonna ask about shredded. Yeah, yeah, yeah. Don’t worry about it.
+DRE: Keith, as for your question, you were saying how to consume Lock On.
+KEITH: Yeah.
+DRE: So, one—some of the options that you can take as far as moves go on your turn, if you want to look at the mech actions handout that’s in the PC handouts in the journal section, you—one of your options are to do tech attacks, so a quick tech is one of those quick actions you can do, and when you—one of your options for doing a quick tech is to give someone the lock-on status. So when someone attacks someone who has the Lock On status on it, they can basically consume Lock On to take one extra accuracy.
+KEITH: Okay. So I have a thing—“when an ally character adjacent to you attacks a target and consumes Lock On, they may roll twice and choose either result.” I don’t know how to make that happen, but if anyone ever consumes Lock On next to me, you can roll twice. [CHUCKLES]
+[DRE AND JACK CHUCKLE]
+DRE: Okay. So I think that brings us—
+JACK: No, I haven’t gone yet.
+DRE: Yeah, uh-huh.
+JACK: Yeah, Martilla closes her eyes, and clear as day in front of her, she can see her younger sister Minerva who is no longer—they are no longer together. Minerva has been lost to time and age. And Minerva looks Martilla dead in the eye and says, “You’re gonna get court martialed!”
+[GROUP LAUGHTER]
+JACK: “You’re gonna get court martialed. This is the end of the war, and you’re gonna spend the rest of it in a packed jail, because some fuckers made phone calls that they shouldn’t have done, and now you’re gonna waste away in jail. So what you’ve got to do, sister, is you’ve got to clean this up before anybody in the Pact can report it.” And Martilla’s eyes go steely, and the great sky-blue mech under the radar, which is based on those caterpillar track vehicles, multi-part vehicles used to explore the Arctic and the Antarctic, it is a mech in two parts, linked by chains and caterpillar tracks. Drags—with a huge cannon on the back of it, drags itself forward out of the deployment zone. My move is 3.
+[AUSTIN LAUGHS]
+DRE: Mhm.
+JACK: I have a baby’s move.
+KEITH: That’s low.
+AUSTIN: You do have a baby’s—yeah.
+DRE: Hey, what’s the range, though, on your siege cannon?
+AUSTIN: This is what I want to hear, yeah.
+JACK: It’s—the range on which weapon in particular, Dre?
+DRE: Let’s start with the siege cannon. Let’s talk about that.
+JACK: So the siege cannon, my secondary weapon—now, for many mechs, a siege cannon, you’d think ‘that’s got to be your primary.’ [CHUCKLES] No.
+[DRE AND KEITH LAUGH]
+JACK: The range on my siege super-heavy cannon is 20 in direct fire mode, and 30 Arcing in Siege Mode. I suppose the problem with firing it in direct fire mode is that I wouldn’t necessarily be firing it through this low cover, right, Dre?
+DRE: Uh…
+JACK: I suppose I could hit the big fucker.
+DRE: Yeah, yeah. ‘Cause he’s on top of cover. Also, we’re not worried about like, if your thing passes through Sylvi, it’s not like there’s a percent chance of you hitting Sylvi’s mech.
+JACK: No, it just goes arcing over Sylvi’s head. [CHUCKLES]
+DRE: Yeah, yeah.
+AUSTIN: You just yell ‘Duck!’ and then…
+DRE: Yeah, you say ‘duck.’ [LAUGHS]
+JACK: The siege cannon is Ordinance, right?
+DRE: Uh, no.
+JACK: Yes, it is.
+DRE: Is it?
+KEITH: Is it auto-what?
+JACK: In Direct Fire mode it’s not Ordinance, but in Siege Mode it is Ordinance.
+DRE: Oh, in Siege Mode it is. Yeah. Mhm.
+JACK: The way Siege Mode works is that it must be reloaded after each use, but I think I’m within range to hit this person.
+AUSTIN: Ooh.
+DRE: In direct fire?
+JACK: Straight away, direct fire.
+KEITH: What are its ranges?
+JACK: 20.
+DRE: Oh, yeah. You’re in range—
+JACK: What’s that I’ve found over there?
+DRE: You’re 16. You’re well-within range.
+JACK: Yeah. Okay. Alright, let me mark this target. Horrible screaming sound from the back of Under the Radar as like, a bright red light begins to burn in the siege cannon on the back. So I click this. Now, I don’t believe I have any additional accuracy. Is that correct, Dre?
+DRE: No.
+JACK: Is this poor person in cover, or…
+DRE: Nope. They are not.
+JACK: They’re standing on top of a train.
+DRE: Yeah, they are not in cover.
+KEITH: That’s kind of the opposite of cover.
+JACK: And as they say, the only rules for firing against your own army is if you think that they’re gonna court martial you, and [CHUCKLES] put you in jail.
+[AUSTIN LAUGHS]
+DRE: Hey, they can’t court martial you if they’re all dead.
+AUSTIN: Mhm.
+JACK: If they’re all dead.
+[DRE LAUGHS]
+AUSTIN: That’s the other thing they say.
+KEITH: Very practical.
+AUSTIN: Yeah.
+JACK: You know, you’ve managed to last this long for certain flexibilities. So let me—
+KEITH: An intense, bloodthirsty practicality.
+JACK: Mhm. Let me open up Under the Radar, let me go to my loadout and select the siege cannon in direct fire mode, and I hit the roll here. Is this right, Dre?
+DRE: I’m sorry?
+JACK: So I’ve got the basic attack screen open, but I hit the dice here.
+DRE: Yeah, you hit the dice on your cannon. Yep.
+JACK: Ah, I see. Perfect. And then I hit go. Now, I have the same cool ammo stuff that Sylvi does, but it doesn’t work for a super heavy weapon.
+DRE: Oh, does it not?
+JACK: The siege cannon is not—the siege cannon is not technically a main weapon, it’s a heavy weapon.
+DRE: Yeah, I guess so.
+JACK: Which means it’s a secondary weapon.
+DRE: Yeah, yeah.
+JACK: I looked this up because I was like, I want to take this thing, but it really is only practical with my Assault Rifle, which is fine.
+DRE: Yeah.
+JACK: Okay.
+[PAUSE]
+DRE: That is a hit. It does 7. Oh, great. I get to roll in the Structure table now.
+KEITH: Ooh, 7 on 3d6, that’s rough.
+JACK: I know.
+AUSTIN: Oh, that sucks. 1-1-5.
+JACK: I rolled a 1, a 1, and a 5. Look, sometimes your heart isn’t in friendly fire.
+DRE: Yeah, yeah, yeah.
+AUSTIN: Yeah, I getcha. But it did enough to destroy a point of Structure.
+[SFX: DIE CLATTERS]
+JACK: Yeah, so when you say you’re rolling on the Structure table, what are you doing there, Dre, for people who might not be seeing this?
+DRE: Yeah, so, this is mostly true for player character mechs, but stronger NPC mechs also have what is called the Structure stat. So like, when you first look at a mech in Lancer, and you look at its HP, like, Jack’s mech only has 18 HP, which like, if you’re used to playing combat-based games like D&D, you’re like, ‘that seems like a very small number.’ The way that Lancer works is that in addition to your HP, you also have Structure, which is almost—kind of like a life. So like, if Jack were to take 18 damage, and go to 0 HP, what you then do is you roll on the Structure table, and that determines what sort of Structure damage you take. So I’m gonna pull up my Structure damage table.
+JACK: We should also say that I’ve knocked back this big fellow by 2.
+AUSTIN: Oh, fuck.
+DRE: Oh, by 2. Yeah. Uh-huh.
+JACK: I’ve chosen to knock— “You may choose to knock your target back 2 spaces in a straight line directly away from the point of origin.” [CHUCKLES]
+DRE: [CHUCKLES] So I rolled a 3. So then on a 3, I roll another d6. I guess I’ll make this public.
+[SFX: DIE CLATTERS]
+DRE: And a 2. So on a 1 to 3—so I rolled a 2— “Your choice of a weapon mount is destroyed.”
+AUSTIN: Ooh.
+DRE: So here’s the thing, this guy only has one weapon mount.
+AUSTIN: Love to see it. Ah, you love it.
+KEITH: [WHISTLES] This is the guy that did 8 to me.
+DRE: Yeah. Uh-huh.
+AUSTIN: That guy just blows up?
+JACK: Yeah, Keith, this is revenge.
+AUSTIN: Yeah, I love that.
+KEITH: Thank you. That’s great revenge. I love that.
+DRE: Mhm.
+JACK: Oh, does he try and—I don’t know what pronouns the pilot of this mech uses.
+DRE: He.
+JACK: Is it he/him?
+[2:00:04]
+JACK: Does he try and like, bunt the shot with his gun?
+[DRE LAUGHS]
+AUSTIN: That’s so fun.
+KEITH: Like a shield.
+DRE: I do love—I love the image of him probably like, swiveling to fire at Sylvi’s mech—
+[SYLVI LAUGHS]
+DRE: —and then just hears this like, whistling that gets louder and louder. [LAUGHS] And tries to—yeah, like, takes the blunt of it with the gun, and the gun just explodes.
+KEITH: Is it like, an accident? Like a reflex? Like if someone startles you and you’re holding like a plate of food and you just toss it in the air and you’re like ‘oh, shit.’
+DRE: Yeah, yeah, yeah.
+KEITH: He didn’t intentionally break his gun, I imagine.
+JACK: Happens to me all the time.
+DRE: Well, yeah, it’s—I think it was intentional, but it’s like, I would rather my gun blow up than me blow up. Right?
+KEITH: Okay. Yeah, yeah. Yeah.
+DRE: Well, so here’s the thing, Jack, you still have more moves to make here.
+AUSTIN: Ah, I love it.
+DRE: [LAUGHING] ‘Cause—
+JACK: Do I… Surely that wasn’t a quick action, was it?
+DRE: No, it is, yeah.
+AUSTIN: Skirmish?
+JACK: Oh, yeah, it’s—
+DRE: No, you’re right, because it’s super-heavy, so those count as a full. You are correct. Sorry.
+JACK: Yeah, ‘attack with a single super heavy weapon’ is a full action. Yeah.
+DRE: Yeah. You can still move if you want to.
+JACK: Can you move—oh, right, yes, you can do those two in any order, yeah? I definitely will—
+DRE: Yeah. Uh-huh.
+AUSTIN: You can even move part of your movement, stop to do another thing, and then pick up the rest of the movement.
+JACK: And then move. Yeah. I had to read that passage like four times.
+[DRE LAUGHS]
+KEITH: You can’t—
+AUSTIN: I know. It’s ‘cause there’s certain things you can’t—if you have a weapon that shoots twice, you like, target two people, you can’t move, target one person, move, target the second person.
+JACK: Yes.
+AUSTIN: You do have to do it all at once, so.
+KEITH: And look at this. If you’re going towards the enemy, you can almost get out of the deployment zone.
+[AUSTIN AND JACK LAUGH]
+KEITH: Almost.
+AUSTIN: I just really need you to know that Jack’s huge monstrous Caterpillar construction mech is gigantic. One, two, three, four, five, six, seven hexes in a sort of circle.
+[DRE LAUGHS]
+SYLVI: God.
+KEITH: And Austin and I take up one each.
+AUSTIN: Yeah, we’re one hex each.
+JACK: It’s excellent.
+AUSTIN: It’s so good.
+KEITH: Sylvi’s mech is so much bigger than Austin and my mech, but it only takes up three.
+SYLVI: Yeah, mine’s half the size, I think.
+KEITH: Which means that Jack’s is more than double Sylvi’s, who’s triple ours.
+AUSTIN: [LAUGHING] Yes.
+JACK: Yeah, I’ve moved three and it took me there.
+[KEITH AND DRE LAUGH]
+JACK: [LAUGHS] Dre, I have a question.
+DRE: [OVERLAPPING] Don’t need to move if you got range 20. Yeah, go ahead, sorry.
+JACK: Yeah. I want to be able to move up just because I want to get in a place where I might be able to position myself a little easier, and doing that outside of heavy cover—or soft cover—is maybe worthwhile. Additionally, when I shot the big guy on the train, was I not blocked by the soft cover of that first train that Sylvi’s on?
+DRE: Um…
+AUSTIN: You’re very big. You’re taller than a train.
+DRE: Yeah, you’re very big, is the thing. And I would say yes if he wasn’t standing on the train.
+KEITH: Right, yeah, it didn’t count as soft cover because he was on a train above the soft cover.
+JACK: I see. Yes.
+DRE: So like, in-fiction, soft cover is like—it’s like Gears of War cover, right?
+JACK: Oh, sure.
+DRE: So if you’re not actively like, ducking behind it, you know, your upper half is exposed. Full cover is like something that is tall enough for a mech to completely hide behind.
+JACK: Oh, I’m also full cover. For other people if—if people come and hang out.
+AUSTIN: You are full cover.
+DRE: You are full cover for anybody standing next to you, yeah. [LAUGHS]
+AUSTIN: So funny.
+KEITH: Oh, you mean your mech is full cover for someone else.
+AUSTIN: Yeah, yeah.
+JACK: Mhm.
+KEITH: That’s hilarious. That’s so funny.
+DRE: Gosh. You know, as you were talking about—that just made me think about your thing’s needing to be adjacent to people, Keith, you and Jack’s could just like, hang out next to each other sniping at people, consuming Lock On and just doing terrible things to people.
+JACK: I don’t know that I use Lock On for anything.
+DRE: Yeah.
+AUSTIN: It’s just a bonus. Right?
+JACK: Oh, sure, yeah.
+DRE: Yeah. But I mean, other people can inflict Lock On.
+AUSTIN: Right.
+KEITH: I also did—I forgot about all my skills when I moved on my first turn, so I forgot about Prowl and Ambush.
+AUSTIN: See, these are important things. Yeah.
+DRE: Mhm.
+KEITH: I forgot about Crack Shot and Zero In.
+JACK: [OVERLAPPING] It’s okay. This is also our first combat.
+DRE: Yeah, yeah.
+AUSTIN: We’ll get there. We’re coming up on it.
+KEITH: Yeah. I’m about to do Crack Shot and Zero In when it’s my turn.
+AUSTIN: They’re all about to fuckin’ move on us, right? There’s three of them, right?
+DRE: Yeah, they are all about to move.
+AUSTIN: I want to see what the block looks like.
+DRE: Well—so, let’s see. One, two, three, four, five, because this guy gets to move twice.
+AUSTIN: Wait, where is it five? The Screw attacked and missed me.
+DRE: Oh, that’s right, yeah. So, I’m sorry, four.
+AUSTIN: Yeah.
+DRE: Thank you. One, two, three, four.
+KEITH: Is this thing’s strategy gonna do like, punching now?
+DRE: Well, that’s what it looks like—
+KEITH: Or is it gonna try to electro-self-destruct, maybe?
+DRE: So actually, what it does is it leans forward, and there is kind of almost like a catapult—like, coming out of the backpack that’s on the back.
+KEITH: Yeah.
+DRE: Let’s see. Actually, you know what? Mm. Yeah, it can do that. And it actually attacks this train car here.
+AUSTIN: Ah. Great.
+DRE: And obliterates it.
+KEITH: Which train car?
+AUSTIN: [OVERLAPPING] The one that Sylvi’s on? Oh, jeez.
+DRE: So Sylvi’s not on it.
+AUSTIN: Oh, but does remove the soft cover that Jack was sort of behind. Sorry, that Pact was sort of behind. What’s your name? Martilla?
+DRE: Martilla.
+JACK: Yeah, Martilla.
+AUSTIN: What’s your call sign?
+JACK: Journeyman.
+        AUSTIN (as NARMINE): Guess I can’t call you Pact anymore. Journeyman. No, I’ll think on it.
+SYLVI: Scab.
+[GROUP LAUGHTER]
+AUSTIN: Ah, Scab.
+DRE: Jeez. Okay. Da-da-da, doin’ rulers…
+DRE: Okay. This one is also gonna do its teleport thing to you. I gotta pull up my character sheet so I can call people by their right names. Zark.
+SYLVI: How could you forget Zark?
+DRE: You’re absolutely right, how could I forget Zark?
+[SYLVI LAUGHS]
+DRE: You make an Agility save for me.
+SYLVI: Okay, and that is on my character sheet?
+DRE: You just open your mech sheet.
+SYLVI: Mech sheet. Okay.
+DRE: Also, you can get to your mech sheet just by double-clicking on it. By double-clicking on the token. Just for anybody.
+SYLVI: And that’s in…
+DRE: It’s under ‘mech stats.’
+SYLVI: Okay.
+DRE: And just click the die that’s next to agility.
+SYLVI: Wait, where—I don’t see… oh, there it is, there it is.
+DRE: Yeah, sorry. It’s under ‘AGI’.
+SYLVI: I got a 17.
+DRE: Okay, yeah. That definitely passes.
+AUSTIN: Crushed it.
+DRE: So you take 2 damage. This person takes damage… Why aren’t you working?
+[SFX: DIE CLATTERS]
+DRE: There we go. Okay. And what is the range on these fellas? One, two, three, four.
+KEITH: Hm. Seein’ Dre check to see if I’m in range, I hate it.
+[GROUP LAUGHTER]
+AUSTIN: Uh-huh. It’s so funny. It’s such a funny little thing.
+DRE: Man. Everybody’s rolling well. So you take 6 damage, Keith.
+AUSTIN: Oh my god, Keith, are you okay?
+KEITH: I’m dead. No, that’s it.
+AUSTIN: No, you lost a Structure point, is what you did.
+JACK: [OVERLAPPING] No, you’re not dead.
+DRE: [OVERLAPPING] You are not dead. Alright, so much HP do you have? You had 6.
+KEITH: I am at 6 and I just lost all 6 of them.
+DRE: Okay. So, with—since you’re at 0, you reset back to 14.
+KEITH: Okay.
+DRE: Now I need you to roll a d6.
+KEITH: Oh, I hit roll, but it didn’t roll. I guess I’ll just hit the d6 button here.
+AUSTIN: That also didn’t roll it.
+KEITH: Oh, it’s not +2, is it?
+DRE: No, just 1.
+[SFX: DIE CLATTERS]
+KEITH: Okay. 1.
+DRE: Uh—
+KEITH: Is it the best side or the worst side?
+AUSTIN: Oh, buddy.
+DRE: Oh, buddy. [CHUCKLES] So good news is—
+KEITH: You said between 1-3 you can pick?
+DRE: No, so, first you roll a d6 to see what happens. So on a 1, that is a direct hit, and what happens next depends on your mech’s remaining Structure. So you still have 3 Structure. So, nothing like, horrible happens.
+KEITH: Okay.
+DRE: You are just stunned until the end of your next turn.
+KEITH: What about—I don’t think this counts, but—because it’s not—no, it’s for the gun.
+DRE: Hey, check.
+KEITH: Well, I’ll double check.
+AUSTIN: Oh, wait, wait, wait, there is a thing you could have done to reduce that damage.
+[2:10:02]
+DRE: Oh, yeah.
+AUSTIN: You could have braced, right?
+DRE: Mhm. Thank you. So that is one of your reactionary moves that you can take is to brace, and the way that works is—so basically like, after somebody attacks you and hits you, you can—where is the—
+AUSTIN: I got it. “Trigger: You are hit by an attack and damage has been rolled. Effect: You count as having resistance to all damage, burn, and heat from the triggering attack. Until the end of your next turn, all other attacks against you are made at +1 difficulty. Due to the stress of bracing, you cannot take reactions until the end of your next turn, and on that turn, you can only take 1 quick action. You cannot Overcharge, move normally, or take full actions or free actions.” So you’re kind of choosing, do you want to be stunned and lose 1 Structure next turn, or do you want to get only 1 quick action next turn, potentially, right?
+DRE: Uh-huh. And for the record, stunned means that you cannot Overcharge a move or take any actions.
+AUSTIN: So that’s notably worse. That’s specifically worse than this.
+KEITH: Okay. So then no, I don’t want to do that. That would be something that I’d do if I was about to die.
+AUSTIN: Well, no, I’m saying that this is better than that. ‘Cause right now—
+KEITH: You’re saying that Brace is better than this?
+AUSTIN: Than getting stunned and not being able to do anything?
+KEITH: Oh, okay, yeah, sure, I will Brace then. So I thought you were saying the reverse, that actually bracing would be worse than—okay.
+AUSTIN: No, I don’t think so.
+DRE: Okay. So then, ‘cause you were at 6, so that would put you at 3.
+AUSTIN: Still alive.
+KEITH: Okay. And so now what are my limitations?
+AUSTIN: You cannot take reactions, you cannot—until the end of your next turn. But that’s fine, because you just took your one reaction this turn, anyway. So I don’t know why that’s even there. You can only take one quick action next turn, you cannot Overcharge normally or take full actions or free actions.
+KEITH: Okay.
+AUSTIN: So you can shoot once, basically, or do one quick action-y thing, you know?
+SYLVI: When we get the chance, Dre, can you bring me back over to the right map? I accidentally clicked on the landing screen and the buttons got me.
+DRE: Oh, did you run away? I got you.
+SYLVI: Thank you.
+AUSTIN: That’s really funny.
+DRE: [CHUCKLES] Just making sure there’s not—I don’t think there is a braced status to give you, but yeah. Okay.
+AUSTIN: Oh, is that what those little purple things are? Or the little dots? Is that what those are on—
+DRE: Mhm.
+AUSTIN: Okay. Is there a way for us to check what those mean?
+DRE: Yes. In the handouts, there is a Statuses and Conditions handout.
+AUSTIN: Oh, okay. I see, I see, I see. Okay.
+DRE: Unfortunately, I don’t think there is a way for you to look at the icon and tell what it would be. At least, I don’t think so. Let’s see.
+AUSTIN: Yeah, I gotcha. Actually, the statuses and conditions thing also does not actually—is not in the PC handouts. But that’s fine. I have the book open.
+DRE: It should be.
+AUSTIN: It’s not.
+DRE: I’m looking at it and it’s there for me.
+AUSTIN: I have combat, action order, mech actions, and reserves taken, and that’s all I got.
+DRE: What?
+AUSTIN: Yeah. I mean, this isn’t—oh, now I see quick rules ref. Is that—did you just add that? And statuses and conditions, yep, I see them now. Okay.
+DRE: That’s weird. I thought I set the whole folder to be in observer mode.
+AUSTIN: No worries. Oh, Structure and Heat’s here now, too. We can see what those rolls mean.
+DRE: Yep. Uh-huh.
+AUSTIN: Perfect. Alright.
+DRE: So let’s see. Let’s go. One, two, three, four…
+AUSTIN: Oh, I hate that.
+DRE: How far away are you? You’re actually too far away. Okay. That’s everybody. Yep. Okay.
+AUSTIN: Back around?
+DRE: Yep, round two. So, since I went last, you all get to start first. So, just to give like, a situational of where we are, the only thing that we have cleared so far is objective A.
+[JACK LAUGHS]
+AUSTIN: Right. We have not even checked C, B, or D. We have people in C, B, and D.
+SYLVI: Yeah, we can check them now.
+AUSTIN: I have a question. Can I know if this thing has Threat on me, Dre?
+DRE: How—what do you mean?
+AUSTIN: This mech. Can I know if it has Threat, if I’m engaged? Am I engaged in the way that it could hit me if I try to move away from it?
+DRE: Um—
+AUSTIN: Is that a thing that you get to know, or is this a thing you have to take the chances on?
+DRE: Yeah, you gotta take the chances on.
+AUSTIN: Okay.
+DRE: You could know if you did—one of the quick techs is basically like, ‘hey, what’s going on with this thing?’ And it gives you like, a stats readout, basically.
+AUSTIN: Right, right. Right. Wait, is this—is that actually—wait, one second. There might be a thing that I have—sorry. I’m assuming we’re going in the same order, but I guess we don’t necessarily know that.
+DRE: Nope, we don’t have to, yeah.
+AUSTIN: Right. I do have a plan to gather all these people around me so that we can do Big A we hits on them.
+SYLVI: Okay.
+AUSTIN: But I don’t know if that’s everybody’s plan or just my plan.
+[DRE CHUCKLES]
+KEITH: My plan is to not die.
+AUSTIN: Yeah, that’s a good plan. I appreciate that plan. You should repair yourself if you can do that.
+SYLVI: Yeah. That’s fair.
+AUSTIN: Is that a thing? You can repair, that’s an option, right?
+DRE: You can, however, it is a full action.
+AUSTIN: Oh, so you can’t repair.
+KEITH: No, I can only do one quick action and protocol, right?
+AUSTIN: You could boost—can you boost?
+KEITH: I can’t move.
+AUSTIN: But boost is a quick action, right?
+DRE: Yeah, yeah, yeah.
+AUSTIN: So you could boost to safety, maybe.
+DRE: Yeah, yeah.
+KEITH: Okay.
+DRE: Yeah, so you couldn’t move as a move action, but you could use your quick action to boost and move away.
+KEITH: Boost, move your speed, but I’m sort of feeling like, how—I mean, I guess I could go to here. To there. Which is like, that’s decently far, I guess, but that would only put me at 10 of this thing.
+AUSTIN: Yeah, but you’re still out in the open. Yeah.
+KEITH: And at 12 of this thing. So I feel like if it wanted to, this thing could still get me.
+JACK: Something that might be worth bearing in mind is I have a mechanic called Leadership Dice because I’m a fuckin’ officer from the Pact.
+[SYLVI LAUGHS]
+AUSTIN: Oh, right. Yeah, good.
+JACK: Where, you know, we have things like good struct—good army structure, and also shooting your own—
+SYLVI: Rules of engagement, like nerds.
+JACK: Yeah.
+AUSTIN: Sounds like bullshit to me.
+JACK: [CHUCKLING] Rules of engagement, like shooting your own soldiers to prevent them from court martialing you. But the way that the Leadership Dice works is—let me open it up. At the beginning of my turn, as a free action, I can give somebody one die. And if—sort of agree an order that they’re gonna follow, and if on their turn they follow that, they can take +1 accuracy on anything that follows from that order, or they can just return the dice to me and say ‘I’m not gonna do that.’
+So if we were interested in that, especially if it might help you with whatever you’re planning, Austin, it might make sense to have me go earlier in the turn order, so I can start allocating back die.
+AUSTIN: Nah, I’ll be fine. I appreciate it, but my shit has—
+KEITH: Okay. What if I said I could absolutely destroy this thing—
+AUSTIN: Which thing?
+DRE: Which thing?
+KEITH: For sure, the—oh, sorry, can you not see that? This thing, the—
+JACK: The technicolor mech?
+AUSTIN: Yeah?
+KEITH: I’m pretty sure.
+AUSTIN: Okay, you’re not for sure.
+KEITH: Well, I don’t know if I could destroy it, but I could definitely fuck it up. What happens if—okay, so imagine something has 5 health, Dre.
+DRE: Uh-huh.
+KEITH: Total. Right?
+DRE: Yeah.
+KEITH: And you do 15 damage to it. What happens?
+[JACK LAUGHS]
+DRE: It dies extra good, I guess?
+KEITH: But the Structure thing, does it have to like, take 3 Structure rolls, or like—‘cause it—you lose all your stuff and then you take like, stress, right?
+DRE: So it depends on the mech, but as a rule, 90% of NPCs do not have Structure.
+KEITH: Okay.
+DRE: Basically, only like, special elite enemies have Structure.
+KEITH: Okay, so this guy in front of me had Structure.
+AUSTIN: Yes.
+DRE: Yeah.
+KEITH: These things would just die.
+AUSTIN: Keith, let me tell you. I think—maybe I’m wrong. But I’m pretty sure I can kill—if that thing has 5 health, I think it might be ?.
+KEITH: I don’t know what health it has. I’m just making up a number.
+AUSTIN: Well, then, that’s—then you can’t for sure, no.
+DRE: What lets you do 15?
+KEITH: But that was the character that I thought that I knew.
+AUSTIN: Can you confirm a thing for me, Dre, really quick?
+DRE: Yeah.
+AUSTIN: Which is, if I hit—let’s say this thing has Threat on me and it hits me. Does my movement then stop immediately?
+DRE: No.
+AUSTIN: Okay. Can I go first? I have a plan.
+KEITH: Okay.
+JACK: Yes. Is Austin entangled with this thing and would have to disentangle from it?
+DRE: No. No, no, no.
+JACK: No? Okay.
+AUSTIN: That was my question about Threat, right? Okay. Well—yeah. Step one. I’m moving—is this right? One second, let me make sure my mech…
+DRE: Yep. It has nothing that can threaten you, so you just get to move.
+AUSTIN: Okay, cool. So step one, I just do that same flyover zip from the front of this train across the trainyard on top of this second one, I’m now two steps away from the big guy, and then a number of steps away from everybody else. And I’m gonna spend my first battery point. And Narmine Te’ketch is going to use the Omni-harpoon.
+[DRE AND JACK LAUGH]
+AUSTIN: “This system fires grappling harpoons at any number of targets within range 5 and line of sight. Affected characters must succeed at a Hull save or take 2d6 kinetic damage and be knocked prone, then pulled adjacent to you or as close as possible. They became immobilized until the end of their next turn.”
+JACK: Wow.
+KEITH: Wow.
+AUSTIN: “On a success, they take half damage and are otherwise unaffected.”
+JACK: Oh my god.
+DRE: Alright. So I need to make a Hull save?
+JACK: And I—yeah.
+AUSTIN: For everybody around us. Because they’re all within range. One, two, three, four of them are within range of this.
+DRE: Oh, jesus. Okay, alright.
+JACK: And I bet Sylvi and I have got some blast weapons, too, if you can get out of there.
+AUSTIN: I would hope.
+SYLVI: Yeah. I have news about all of my weapons. [LAUGHS]
+[AUSTIN AND JACK LAUGH]
+DRE: Okay, he passes it.
+AUSTIN: Who’s that? Which one?
+DRE: The big guy.
+AUSTIN: Ah, fuck that big guy.
+KEITH: He’s already close, though.
+AUSTIN: He’s still taking half damage, though, right? So.
+DRE: Okay, yeah.
+AUSTIN: That’s a quick action, by the way, so I still have another action after this.
+DRE: Sure, of course it is. Yeah, yeah, yeah.
+[2:20:00]
+Okay, that one fails it, so what happens when they fail?
+AUSTIN: It gets knocked prone—it takes 2d6 kinetic, and it gets knocked prone, and gets dragged to me as close as possible. So here, I guess.
+DRE: Yep.
+AUSTIN: Zip! I just like—I think I just shoot these harpoons from my—like, an array around my shoulders. You know? Around like my entire upper torso.
+DRE: Wow.
+KEITH: I can see the harpoon, it’s right there.
+AUSTIN: Yeah, there you go. And that’s only one of them. You know?
+KEITH: Yeah, it’s just one of them. That’s just for stun points.
+AUSTIN: That’s just the one.
+DRE: And it’s—this one is in range too?
+AUSTIN: They are all in range. [CHUCKLES] The only thing that isn’t are the things that are still up on top and the far-away little guy.
+DRE: Okay, he passes that, too. So—but you still get to do damage, right? So what is your…
+AUSTIN: That one—those ones still get half-damage. So I guess 2d6 divided by 2?
+DRE: Just roll.
+AUSTIN: Okay, sure. How do I—is that just, boop, boop? Roll—no, that’s 1d6+2. That’s not what I want. I want 2d6…
+[SFX: DIE CLATTERS]
+AUSTIN: And then that’s—divide that by 2. I don’t know if that’s—
+DRE: You round up.
+AUSTIN: You round up? So that’s 3 to each of those, and the one that I hit just takes the whole 5. Right?
+DRE: Okay. Yep.
+AUSTIN: So that’s one. Two is… let’s heavy. Let’s fuckin’ take this giant—I have a Nanocarbon Sword, which I think just looks like a big fucking razorblade extended all the way. You know what I mean?
+JACK: Oh, wow. Yeah.
+AUSTIN: It’s for cutting things open more than it’s for—but it’s like—I guess it must also have a butcher-y quality.
+KEITH: It’s a slash, not a stab.
+AUSTIN: Yeah, a hundred percent. And I’m going to… Yeah, I’m gonna heavy attack the big guy, I think. 
+DRE: Okay.
+AUSTIN: And I get a—ooh, should I do the one that’s—I’m hitting already. One second. Let me make some thoughts.
+[DRE CHUCKLES]
+AUSTIN: Once a round, when you hit… Yeah, let me hit the one I’m grappling, because I get a +1 accuracy on that from grappling it.
+DRE: Okay.
+AUSTIN: I actually get—yeah, I think that that’s true. Yeah, I get that +1 grappling, so. How do I do the thing where people target, Dre?
+DRE: It is—so, underneath the select token tool, there is a thing that looks like a bow and arrow target.
+AUSTIN: Yeah, I see it. So then what do I do?
+DRE: So click that and then the guy.
+AUSTIN: And then I click the guy? Boom. I see. And then I hit… then what do I do?
+DRE: So then you would click the die by your Nanocarbon Sword.
+AUSTIN: And then it’ll just—this basic attack thing, I can ignore that, or?
+DRE: Yeah, yeah.
+AUSTIN: So do I hit cancel on that? Or do I—
+DRE: I think, actually, the way we should be doing it is you hit the die on the Nanocarbon Sword, and then you take the die.
+AUSTIN: I see. Yes. Yes, I see how that works. Okay. So then I take plus—I take +1? Is that—yes, I see. Cool.
+DRE: Let me double-check what happens because he is prone.
+AUSTIN: Oh, it’s bad, if I remember.
+DRE: On attacks you gain 1 accuracy.
+AUSTIN: So it’s another accuracy on that, so I have +2 accuracy on this?
+DRE: Austin, do you want me just to cut to the chase here? Because you do a reliable 3, so you’re gonna murder this thing.
+AUSTIN: I do, but I need to know if I get a hit or not, ‘cause I can combo. [CHUCKLES]
+DRE: Okay, perfect. [LAUGHS]
+JACK: Wat, isn’t it reliable 2, unfortunately?
+AUSTIN: Not on this sword.
+[KEITH LAUGHS]
+JACK: Ohoho!
+AUSTIN: So this is my big heavy sword. So that’s a hit, that’s 7 damage. Reliable 3, ignore that, I do the 7 instead. So the—“once per round when you hit with a heavy or super-heavy melee attack, you can then make another melee attack with the same weapon as a free action against a different character within Threat and line of sight. This attack deals half damage if successful.” That was not a crit, unfortunately, but it means I do get to still take the second one, at least. Let’s see. +1 accuracy on all melee attacks… Okay, so I’m not grappling with this guy. I will do what you suggested, Dre.
+DRE: So, really quick, I need you to make an Agility save.
+AUSTIN: Motherfucker. ‘Cause he’s doing some mean shit. Alright, Agility save.
+DRE: Well, so, as you bring your sword down on him, it explodes.
+AUSTIN: Uh-huh.
+DRE: You’re used to seeing mechs explode, but then a second and third explosion go off, and you are engulfed in fire.
+AUSTIN: Great.
+KEITH: How much fire?
+AUSTIN: Let’s find out.
+DRE: We’ll find out. 4 damage of fire.
+AUSTIN: I’ll take that. That’s no problem. I’ll take that all day.
+DRE: However, I do think this probably looks sick as hell for you, because you basically, like, emerge from this big fire cloud and you come out swinging. [LAUGHS]
+AUSTIN: [LAUGHS] Oh, I love it. Yeah, and I’m just immediately swinging on the big guy instead, who—I’ll note, I have 3 range with this giant sword, because its base range is 2. Or 3 Threat, basically, I can hit within 3 of it. I have a thing called the Gyges Frame as my core bonus, and that increases my—I gain +1 accuracy on all Hull checks and saves, and +1 Threat with all melee weapons.
+DRE: Mhm. Yep.
+AUSTIN: So that’s just fantastic. So I’ll make this second one here a nano-carbon. Boop. So what I’m doing here—this is, the thing that’s letting me do this extra thing is the Executioner tree. This is Backswing Cut. So it’s like, I’ve made this turn—this is like, extremely Dark Souls energy, where you make your huge fuck-off claymore swing and then you swing it the other day, basically. So do I still get—what was that +1 from before?
+DRE: From it being prone.
+AUSTIN: Oh, okay, right. So I don’t get that, I don’t get either of these pluses, because the other thing was first time return I get a bonus, so I’ve already done that. Or, it was from grappling. I’m just gonna roll it. Oh fuck, I didn’t—I didn’t—
+DRE: That’s okay. That hits.
+AUSTIN: Okay. That hits? 19 hits?
+DRE: Yeah. Mhm.
+AUSTIN: And then 5 heavy on that guy.
+DRE: Yeah.
+AUSTIN: Alright. I think that that’s—mm. How much is it to Overcharge, Dre?
+KEITH: Just 1 on your first one.
+DRE: Would it be your first turn?
+AUSTIN: It sure would be my first one.
+DRE: Yeah, it’s just 1 Heat. It’s NBD.
+AUSTIN: Yeah, I’m gonna Heat up.
+DRE: Mhm.
+AUSTIN: I don’t like this guy. I’ve had enough.
+KEITH: Yeah, same.
+DRE: Do me a favor, Austin.
+AUSTIN: Yes?
+DRE: On your character sheet, on mech stats?
+AUSTIN: Yeah. Go up to 1 Heat.
+DRE: Just—well, no.
+AUSTIN: Oh.
+DRE: Just click the die button by Overcharge and it’ll do a +1 for you.
+AUSTIN: Oh. Oh, okay. I see, I see, I see. Oh, and it’ll know that I’ve done it once.
+DRE: Yep.
+AUSTIN: Got you. Cool, cool, cool. And it says “The Captain is overcharging.” [CHUCKLES]
+DRE: “The Captain is overcharging.”
+[KEITH LAUGHS]
+AUSTIN: I like, in my console, I’m like ‘Ah, yeah. Good job.’ And this time I think I might—because of talents, I might Chain Axe instead. I just have to look at my shit again here.
+DRE: Well, and you cannot attack twice with the same weapon.
+AUSTIN: Oh, you can’t. So you have to switch it up. That’s good to know. I did not know that. Alright, well, yeah.
+KEITH: Oh, even with the sword.
+DRE: Well, Austin got to do that with the sword specifically because of the Executioner talent.
+AUSTIN: Yes, I got to do that big double hit with the big sword.
+KEITH: Oh, sure.
+AUSTIN: But otherwise you’re switching, you have to switch weapons. Okay. Then yeah, I’ll do—hm. Yeah, I’ll do—hm. How much Heat do I have? Let’s see.
+DRE: You just have 1.
+KEITH: I think you just have 1.
+AUSTIN: Yeah, but how much Heat—is 4 the maximum for my stupid mech?
+DRE: Yeah, 4 is the max.
+AUSTIN: Yeah, okay.
+DRE: ‘My stupid mech.’ [CHUCKLES]
+AUSTIN: My beautiful mech. My beautiful mech, the Captain. Alright, yeah, I’m just gonna swing and hope that this hits. Let’s see.
+KEITH: 4, that seems low.
+AUSTIN: It sure does. Let’s just roll it and see.
+DRE: That’s a hit.
+AUSTIN: That’s a hit. Alright. Oh, it’s—did I not select—
+DRE: Oh, it didn’t roll your damage. That’s okay, just roll a d6.
+AUSTIN: I may have fucked up a button. Is that what it is? Is that thing a d6?
+DRE: Yeah.
+AUSTIN: It must be, right?
+DRE: Yeah, just a d6.
+AUSTIN: It’s a d6, but it’s 2 Reliable.
+[SFX: DIE CLATTERS]
+AUSTIN: But then—so take 3.
+DRE: Uh-huh.
+AUSTIN: Then—
+[DRE CHUCKLES]
+AUSTIN: Sorry.
+DRE: No, this is the best part of the anime.
+AUSTIN: Oh, I actually had +1 accuracy on that, Dre. But that’s—it already hit, so. ‘Cause that’s my first melee—my first main melee weapon attack. So it hit already. It wouldn’t have gotten to a crit. It’s too far away. But when I hit with the main melee weapon, I gain 1 Blademaster die, a d6, up to a maximum of 3 Blademaster die, they last until expended or the current scene ends. You can expend Blademaster die one-for-one for a bunch of things that I now need to remember how they work.
+DRE: Yep.
+AUSTIN: So I’m gonna give myself a Blademaster die. So I’m just a whirling—just a whirling whirlwind, as it were, of axes and swords and—
+JACK: Atop a train.
+AUSTIN: Atop a train. Slashing in the sky.
+DRE: I love The Matrix: Reloaded.
+AUSTIN: Thank you. Yes, agreed.
+[DRE LAUGHS]
+JACK: Yeah.
+AUSTIN: Yes, this is what it’s like when Fero—Keith, this is how you play. I’m doing it now.
+[KEITH LAUGHS] [GROUP LAUGHTER]
+AUSTIN: And I won’t stop.
+JACK: You just need to say, like, ‘wait, can I take a devil’s bargain?’ Or, ‘wait, I have one more thing—’
+[KEITH LAUGHS]
+AUSTIN: [LAUGHING] Yes.
+DRE: Okay. Well, so here’s a fun thing. This guy is moving forward up to try and grapple you—
+AUSTIN: No. He can’t do that.
+DRE: No?
+AUSTIN: ‘Cause he’s in threat. Or, he can try.
+DRE: Are you saying—well, yeah, so I’m saying, you’re gonna get to attack.
+AUSTIN: Oh, yeah. The second he moves. Right?
+DRE: Yeah.
+KEITH: Wow.
+AUSTIN: And I can do that with either of these things, right? Yeah, let’s just go—let’s just—hm. Do I…
+[2:30:02]
+DRE: Reliable 3 is good, is the thing.
+AUSTIN: A Reliable 3 is just good.
+KEITH: Wait, so, Reliable 3, it just does 3 damage minimum even on a miss?
+AUSTIN: Even on a miss, yeah.
+KEITH: That’s as many as those missiles Sylvi can launch do.
+AUSTIN: Right. On a hit, yeah.
+KEITH: On a hit.
+AUSTIN: But Sylvi can hit multiple characters with those and I can’t do all that.
+KEITH: Right, yeah, yeah, yeah.
+AUSTIN: Also, I have to be like, close to somebody, which is scary. Yeah, I’m gonna do—
+KEITH: It is funny, the idea of missing someone with a sword and doing 3 damage. [CHUCKLES]
+AUSTIN: It’s just like you’re hitting enough, you know? It’s big enough that it’s just gonna hit ya. Yeah, let’s just roll that big—let’s roll that big fuckin’ sword. Nanocarbon Sword, heavy melee, boom. Is it still locked on to this person? Yes. Roll. No cover?
+DRE: No cover.
+AUSTIN: Roll. Hey, that’s a hit.
+DRE: Yeah. So, you tell me, what does it look like when you kill this man?
+AUSTIN: Well, with—at 10 damage— [CHUCKLES]
+DRE: Uh-huh?
+AUSTIN: I think this is just, like, I don’t—it’s too heavy. It doesn’t cut through, it pushes the mech down through the top of the train, and severs the whole train in two, with the mech just stuck through the middle of it. And I’m like, struggling to pull the sword out of the mech’s cockpit covered in oil and blood.
+        AUSTIN (as NARMINE): Two down. Or is that three?
+KEITH: That was 25 total damage.
+AUSTIN: Yeah, uh-huh. Love to build a mech that works.
+KEITH: Oh, wait, no, it was more than that. ‘Cause I didn’t apply that 5, I just counted that 5 once. So it was more like in the mid-30s.
+AUSTIN: Oh, yeah. Uh-huh. To be fair, I spent my core thing, and that’s what spending my core thing is meant to do, so.
+KEITH: Yeah.
+AUSTIN: And they’re still out here. They could still fuck us all up, but. Alright. That means now it’s someone else’s turn. It’s Jack or Sylvi or Keith’s turn.
+DRE: Yeah. Uh-huh.
+KEITH: Yeah. And this thing—I can’t believe this thing’s still alive, by the way.
+AUSTIN: Right, I thought you said it was dead.
+DRE: Oh, no, it’s dead, it’s dead.
+KEITH: Oh, it’s dead? Oh, okay.
+DRE: I am currently—
+KEITH: So we’ve got the lift and the gumdrop close, and then the gumdrop far, and then the radar man.
+DRE: Yeah. I need to replace it with wreckage, because where a mech dies becomes difficult terrain.
+AUSTIN: Oh, right.
+JACK: Oh, that’s great.
+KEITH: That’s fun.
+AUSTIN: That’s fantastic.
+JACK: All the junk laying around, draped over the train or something, yeah.
+DRE: And actually…
+KEITH: So, I feel more comfortable about, like, taking an attack instead of just running away.
+AUSTIN: Oh, I love this long range thing.
+KEITH: It’s so good to see that really long—
+[DRE AND JACK LAUGH]
+AUSTIN: That is the shit that makes me wish we played games like this more. And like, the fact that like, it’s hard—I know people listening to it are like, missing part of that because they’re not seeing it. Dre, maybe we should just put this one—once the video—once the full episode comes out, too, maybe we should just make this episode free on the YouTube. Do you know what I mean?
+DRE: Sure, yeah, yeah, yeah.
+AUSTIN: Because I think seeing it is believing it in some ways. But I also think—I hope it’s entertaining.
+SYLVI: You just want everyone to see my mech’s toes, don’t you?
+AUSTIN: You got me.
+[JACK LAUGHS]
+KEITH: Yeah.
+SYLVI: I knew it.
+DRE: It all started with Elden Ring, Elden Ring had all the toe armor—
+KEITH: [OVERLAPPING] We gotta see how long whoever did the video backup spent on the feed.
+DRE: And now we’re into mech toe armor.
+AUSTIN: Oh, lord.
+KEITH: I mean, there’s so much detail in the arch on the left foot.
+SYLVI: We can’t.
+KEITH: I mean, it’s really—someone really took their time on those feet. This is like, you know, a Tarantino film.
+DRE: I’m begging you to shoot a gun, Keith.
+[GROUP LAUGHTER]
+AUSTIN: Is Keith up? Is that what we’re doing? Who’s going?
+SYLVI: Keith’s turn.
+KEITH: It’s your—you decide.
+DRE: Yeah, you get to pick.
+AUSTIN: Oh, I decide. Who has—who wants to go?
+SYLVI: I got a move ready to go, I think. I think? I think.
+AUSTIN: Your character’s call sign was Banjax?
+SYLVI: Banjax, yeah.
+        AUSTIN (as NARMINE): Alright, Banjax.
+        SYLVI (as ZARK): I got something special for them.
+SYLVI: I’m gonna use my fuel rod gun.
+AUSTIN: Oh my god.
+[DRE AND JACK LAUGH]
+JACK: Every time someone in this game says ‘I got something special’, the thing that immediately follows is a war crime.
+[DRE AND AUSTIN LAUGH]
+SYLVI: Listen. I was given the go ahead. There are no rules of engagement.
+AUSTIN: Yeah.
+SYLVI: So I’m targeting the Zenith-C Lift next to me. And I’m just gonna roll this.
+AUSTIN: Love it.
+SYLVI: I hit, and I deal 3 energy damage.
+DRE: Which one are you targeting? The Lift over here?
+SYLVI: The one right next to me, yeah.
+AUSTIN: Plus—oh, it’s—right, I see, I see, I see. It does the math already. Duh.
+JACK: What’s the ‘limited 3’ there? Oh, you have a—you have a small number of charges of that.
+AUSTIN: But you do get to clear some Heat, right?
+SYLVI: I get to clear some Heat, which does nothing for me right now, I had 1 Heat, but I just wanted to use this on our first op, so.
+AUSTIN: Yeah, fair, good.
+DRE: And that’s not—I mean, you get another attack.
+SYLVI: Okay, cool. This thing isn’t dead yet, right?
+DRE: Nope.
+SYLVI: Is it dangerous for me to use my—I guess I can’t use my rocket launcher for now, ‘cause I can only use that first…
+DRE: Wait, why not?
+SYLVI: My grenade launcher, sorry. My rocket launcher I probably could have used.
+DRE: Oh, yeah, that’s true, yeah.
+AUSTIN: You could have used that first. You could have done that first before this.
+SYLVI: Could I?
+DRE: Yeah, we can handwave it and say you used that first.
+SYLVI: Okay, handwave that, then. And I’m just gonna…
+AUSTIN: It’s the same thing you almost did last time, but then we didn’t get the chance to, right? So.
+SYLVI: Okay. Kaboom. That’s gonna crit.
+AUSTIN: I’m sorry that people didn’t—the people who I brought in did not end up super close. Yes. Hell yeah. Stay crittin’. That’s a nat 20, too. That’s a—you rolled a 20 and got +2 to 22.
+SYLVI: Yeah. I’m like, the reason we don’t play d20 games is because I’m just too good at them.
+DRE: Yeah.
+[JACK LAUGHS]
+AUSTIN: Apparently. God.
+SYLVI: Did that take them out, or do I have some more?
+AUSTIN: Who was that—again, so that was the Lift in front of you?
+DRE: Yeah.
+SYLVI: Yeah.
+DRE: It is still standing.
+AUSTIN: Both of those? God damn.
+SYLVI: Okay. And then the thing to take another action is my Heat, right? Or am I misunderstanding how that works?
+DRE: No, you can take a Heat. Yeah, you can Overcharge.
+SYLVI: Cool. Do I have to use a different weapon than the two I’ve used already?
+DRE: You do, yes.
+SYLVI: I will use my [CHUCKLING] heavy launcher, then.
+[DRE AND AUSTIN LAUGH]
+AUSTIN: Guess the missile in this thing—
+JACK: Wait, did the heavy launcher count as a—oh no, it’s not super heavy.
+AUSTIN: I love that this is—
+DRE: Yeah, it’s only heavy. It’s not super heavy.
+AUSTIN: Is it Valkyrie in Titanfall 2 that just, like—or is Valkyrie the Apex character whose name is based on the—
+SYLVI: I think you might be thinking of the Apex character.
+AUSTIN: I am.
+DRE: Yeah, you are.
+AUSTIN: But she’s based on whatever that mech was.
+JACK: What does it do?
+AUSTIN: It’s the one that flies, and the one that has a—I want to say that’s the one that just opens up a ton of missile launchers, and just drops a billion—Northstar. I think it’s Northstar.
+SYLVI: Yeah.
+DRE: Oh, that does sound right. Yeah.
+AUSTIN: Just like, opens up—
+JACK: Also, since we’re talking about North Star, shoutout to the community teams at the North Star mod who are making the Titanfall 2 open servers.
+SYLVI: Yes, oh my god.
+AUSTIN: Oh, I didn’t realize that.
+DRE: Oh, that’s cool.
+JACK: Oh, Austin, you’ve gotta look into it.
+SYLVI: Austin, you’ve gotta check that out.
+AUSTIN: I will.
+KEITH: Wait, what is this?
+SYLVI: It’s like a big—
+JACK: You know how Titanfall 2 has been dealing with all these awful DDOS attacks and everything?
+KEITH: No, literally no, I did not hear of that.
+JACK: It’s basically been a concerted hacker has been trying to take down Titanfall 2 for ages and they cannot fix it. And North Star is—
+DRE: Why?
+KEITH: Imagine that’s what you do with having being really good at hacking, you just like, fuck with a game that you’re mad at.
+JACK: It’s a—truly, it is a whole fucking thing. But North Star is a community-run initiative that basically bolts a new multiplayer client onto Titanfall 2.
+KEITH: Wow.
+AUSTIN: Wild.
+JACK: And rather than matchmaking, has an old-school server browser, because you can’t DDOS—you can only DDOS one server at a time, you know? If you try and take down that server, people just boot up another. And it has a pretty healthy playerbase of like 250 people at all times.
+AUSTIN: Hell yeah.
+KEITH: Wow.
+JACK: But because they’ve cracked open the multiplayer, they just do it—they’re playing gun game, they’re playing ‘the floor is lava’—
+AUSTIN: Oh, wow.
+KEITH: That sounds really fun.
+DRE: Wow. That’s cool.
+JACK: They’re playing just 24 hour matches with no timer.
+AUSTIN: That rules. The dream.
+JACK: The only downside is that Respawn used proprietary nav mesh for the AI grunts, and—
+AUSTIN: Oh, that’s a shame.
+JACK: They cannot get the AI grunts into the game yet. They’re really working on it, but it, like—the North Star designers have to construct nav mesh themselves, which is proving really time-consuming.
+AUSTIN: A whole thing. Yeah.
+JACK: But yeah, if you’re interested in playing more Titanfall 2 on PC—
+AUSTIN: That rules.
+JACK: I cannot recommend the North Star community project enough.
+KEITH: I mean, if I worked at Respawn, I would try to get—I would try to leak that to other people.
+JACK: They have—they have looked into this, and they explicitly say ‘if you are a Respawn dev, do not give us these files without your explicitly gotten permission. Even if we were to look at these, because of reverse engineering laws, we could have the whole project shut down. So like, don’t even send us this stuff.’
+AUSTIN: Yeah.
+DRE: Totally.
+KEITH: Yeah, that’s fair.
+DRE: Really quick, Sylvi, I do need to have you make an Agility save.
+AUSTIN: I do love, Dre, that in the middle of all that, you did just reduce this thing to fucking wreckage as Sylvi’s—
+DRE: Well, yeah, ‘cause it’s dead.
+AUSTIN: Yeah, uh-huh.
+SYLVI: I got a 6.
+AUSTIN: Hell yeah. Oh, that’s not great, huh?
+SYLVI: It’s not good.
+DRE: That’s not great.
+[2:40:00]
+DRE: Oh, I got to pull back up the character sheet of the thing that’s dead. Hold on. [LAUGHS]
+KEITH: You’d think it would be in Respawn’s best interest to have people be able to play their game, but…
+AUSTIN: They got another, different game.
+DRE: Mhm.
+KEITH: Yeah, it’s not very good.
+[JACK LAUGHS]
+AUSTIN: I like Apex, I just…
+KEITH: I really—
+JACK: It’s not as good as Titanfall.
+AUSTIN: Titanfall is just fantastic, is the thing.
+KEITH: Yeah.
+DRE: You take 4 energy damage, Sylvi.
+SYLVI: Oh, my little mech says the things that I put in the chat. Okay.
+AUSTIN: It does. It’s very fun.
+SYLVI: Sorry, 4 what damage?
+DRE: 4 energy damage. Yeah, so basically, like—
+AUSTIN: We should mention that energy stuff, because sometimes you’ll have resistances.
+DRE: You’ll have resistances to specific types, yeah.
+SYLVI: Right.
+DRE: Like, I think Sylvi’s mech has explosive resistance, maybe?
+SYLVI: I would hope so.
+AUSTIN: I would fuckin’ hope, yeah.
+DRE: Actually, no, I think that’s—I think that’s Jack’s mech.
+AUSTIN: Is that the Barbosa? Barbarossa?
+DRE: It’s the Barbarossa, yeah. But yeah, so basically like, you’re raining down every missile you have on this thing, and it just—
+SYLVI: Just emptying the clip, yeah.
+DRE: Uh-huh. Yeah. And so basically, like—
+AUSTIN: New, different parts of your mech opening up to release extra missiles that no one thought could have been there.
+DRE: Uh-huh. Yeah.
+AUSTIN: And this isn’t even your ult. So good.
+[JACK CHUCKLES]
+DRE: Mhm. Yep.
+SYLVI: I’m saving that one.
+DRE: So yeah, we are getting close to our out. So we can just bounce through this turn and then we can kind of call it for the night.
+AUSTIN: Three of these little motherfuckers left? Let’s…
+DRE: Yeah.
+JACK: Yeah. I mean, I’m not gonna do something particularly—I’m gonna do some fun stuff, but I am going to—
+AUSTIN: Wait, whose turn is it? What’s the—
+DRE: It’s me.
+JACK: Oh, yeah, yeah, yeah.
+AUSTIN: Yeah, I was gonna say, I think Dre gets to try to hack us with the Screw. Put the Screw to us, so to speak.
+DRE: Yep. I drop the Screw in the tuna.
+AUSTIN: Don’t love that phrase.
+DRE: Man, it’s Kenan & Kel. We’re 90s kids.
+AUSTIN: Damn. I did love Kenan & Kel, but I don’t know that reference. I believe you, though.
+DRE: Great.
+KEITH: Good, we’re all in range of something.
+DRE: Yep. Sylvi, your HUD gets scrambled as a virus takes over your target systems.
+AUSTIN: No!
+SYLVI: No!
+AUSTIN: Ooh, I hate that.
+DRE: And let’s see. So it uses a weapon chosen by the Witch to attack a character within range chosen by the Witch.
+AUSTIN: Oh, I hate that.
+DRE: Uh-huh. So you’re going to shoot your Gandiva Missiles at Martilla.
+JACK: Oh, shit.
+SYLVI: Sorry, sorry, sorry.
+DRE: My B, my B, my B.
+KEITH: It was all a trick.
+AUSTIN: Yeah, we gotcha! Ha ha ha!
+JACK: We’re gonna lead the Pact.
+DRE: So that does 4 damage to you.
+SYLVI: Energy damage, I think, if there’s a resistance.
+DRE: Yeah.
+AUSTIN: How much HP do you have, Martilla?
+JACK: 18.
+AUSTIN: Okay.
+JACK: I don’t make a saving roll for this, do I? I just fuckin’ take the damage?
+DRE: Yeah. Yeah, no.
+JACK: Great.
+DRE: ‘Cause that’s just rolled against your E defense and it hits you.
+AUSTIN: Jeez. That’s brutal.
+DRE: Okay, so that’s discharged.
+KEITH: Not a good damage roll, though, luckily.
+DRE: Yeah.
+AUSTIN: Yeah, yeah, yeah. That was a 1 on a 1d6+3. The +3 still gets you, but.
+DRE: And it’s going to make another tech attack against you.
+JACK: Against me?
+DRE: No, I’m sorry.
+SYLVI: Against me?
+DRE: Yep. Against Zark.
+SYLVI: Damn. I’m Zark.
+AUSTIN: Turning you into a mobile—oh, that’s a crit.
+SYLVI: Oh, I got critted?
+DRE: I mean, it doesn’t change anything.
+AUSTIN: I know, but it still feels bad.
+DRE: Hey, you can only see right next to you until the end of your next turn.
+SYLVI: God damn it. Okay.
+AUSTIN: That’s a good thing to do against a missile platform.
+SYLVI: Yeah.
+AUSTIN: Oh, but can you sense? Or is that still—sensors still don’t do that, huh? I guess so.
+KEITH: I think it specifically attacks the sensors, it says.
+AUSTIN: Oh, line of sight. Yeah.
+KEITH: Only has line of sight to adjacent—okay. So it’s both.
+AUSTIN: But if you could lock on to something with sensors, maybe it’d still…
+KEITH: Wait, no, I misread. It’s an attack against a character within sensors, not with sensors.
+AUSTIN: Yeah, yeah.
+DRE: Yeah.
+KEITH: Okay.
+DRE: There’s not like a blinded thing for this. There’s nothing I can like, mark you with on the board.
+AUSTIN: But what are your sensors, Sylvi? I mean, the whole field’s gonna change before the next thing, but.
+SYLVI: My sensors are 15.
+AUSTIN: So you still have, like, this little guy in front of you is still within sensor range, you know? And that’s not line of sight.
+DRE: Yeah, if you’re attacking something and use the sensors.
+AUSTIN: Right, right. Well, no, isn’t that the thing? Isn’t this the thing that I was confused about before? Is it says that as long as something’s within sensor range.
+DRE: So the thing is, is that—so, line of sight determines whether you can hit it with a attack that uses—that’s basically not a tech attack, or is not smart.
+AUSTIN: [OVERLAPPING] Oh, got you. Appropriate for the type of attack. I see, I see.
+DRE: Yeah. But, so, I mean, the Gandiva heavy missile launcher is smart.
+AUSTIN: Right.
+DRE: So it doesn’t need—and because it’s seeking, yeah, it doesn’t need line of sight, per se.
+AUSTIN: You can just lock on and launch into the sky and then it’ll like, zero in.
+DRE: Yep. But yeah, you couldn’t use your—most of your other stuff, basically.
+AUSTIN: That makes sense.
+DRE: Okay. So who is left to go on your all’s side?
+KEITH: Uh, me.
+AUSTIN: Keith and—
+JACK: And me.
+AUSTIN: Jack.
+DRE: Okay.
+[PAUSE]
+JACK: Yeah, fuck it.
+[DRE CHUCKLES]
+JACK: I’m gonna come lumbering forward. Wait, fuck. One, two, three… Wait. I’m counting my feet. I’m moving from my feet. It doesn’t matter, does it?
+AUSTIN: I don’t know. What’s your feet?
+JACK: Where do you count movement from?
+DRE: Here’s what I would say. For someone your fuckin’ size, I would just—[LAUGHING] I trust you, Jack, is what I’m gonna say.
+JACK: Yeah, but I’d like to know where. Am I moving from the top of my cannon?
+KEITH: [OVERLAPPING] Well, isn’t three feet the same as three from the back, like?
+DRE: Yeah.
+AUSTIN: Yeah, it’s just you move from there, three. Yeah, it is.
+KEITH: Yeah, it’s the same.
+AUSTIN: Yeah.
+DRE: So basically like, wherever you’re measuring from, right? So like, if you’re measuring three from your right foot, make sure your right foot ends up where you’re measuring.
+JACK: [OVERLAPPING] One, two, three…
+AUSTIN: That’s exactly it, yeah. This thing—chat—chat. There’s no chat because we’re not actually live. Chat who’s watching this in the Live at the Table when we broadcast it, look how big Jack’s mech is. People at home who can’t see it, I need you to understand. I cannot oversell the size of Jack’s mech. It’s gigantic. It’s video game boss big.
+DRE: Mhm.
+JACK: Yeah, also, like—
+SYLVI: It’s—if you’ve played Metal Gear Rising.
+AUSTIN: Yes.
+SYLVI: The big evil metal gear from that. It is literally that.
+[DRE CHUCKLES]
+AUSTIN: It is literally that.
+JACK: This thing is closer to—visually, it is closer to a tank than a mech. It is two caterpillar-tracked components joined by chains that are rattling and screaming against each other with an immense cannon on the back of it.
+KEITH: But saying that it’s visually—it’s closer to a tank undersells the size, because it’s really like nine tanks.
+AUSTIN: It’s like a battleship.
+KEITH: Yeah.
+JACK: Yes. Picture a battleship.
+KEITH: It’s like an aircraft carrier. It’s maybe not that big. But it’s big.
+AUSTIN: It’s big!
+JACK: I’m gonna shoot my direct fire cannon at this fucker.
+DRE: Great.
+AUSTIN: The closer one? The little guy close?
+JACK: Yep.
+AUSTIN: Okay.
+JACK: He’s not in any cover?
+DRE: He is not in cover.
+JACK: Now I could have—in order to really start unloading in terms of what this mech is capable of, there’s some busywork that needs to be done in terms of like, deploying siege stabilizers and deploying auto-loaders that really help me do the big damage, but since we are close to being done with this scene, I think it would be a waste to spend a turn doing that when I could just shoot a guy.
+DRE: Yeah.
+JACK: So, I am going to fire my siege cannon in direct fire mode. Now, wait a second, let me check this, because I don’t know if my siege cannon in direct fire mode also needs to be reloaded.
+DRE: It does not.
+JACK: It’s only when it’s in Siege Mode. Yes, that is the—
+AUSTIN: Love that.
+JACK: That’s a quirk of the character sheet there. It still has this loaded icon even in direct fire mode, but that’s…
+DRE: Yeah.
+JACK: Okay. Sound like ripping paper as this thing charges and fires. Holy shit. That’s more like it.
+AUSTIN: Oh my god.
+[DRE LAUGHS]
+JACK: I just did 14 damage to this fucker.
+SYLVI: Damn!
+DRE: Man, you know what’s cool was once there was a mech there.
+[GROUP LAUGHTER]
+JACK: It just gets obliterated.
+AUSTIN: Dre, I think there was a moment a moment where ago where you were like—Jack was gesturing towards us coming to the quote unquote ‘end’ of this scene, and you were like, ‘Mm, I’m not so sure about that.’ And that might still be true. But the response from Jack was to obliterate a mech.
+[DRE LAUGHS]
+JACK: Just be like, ‘That guy? He is not gonna take a turn.’
+KEITH: With half of your turn?
+JACK: No, that’s my full turn, because that is a super heavy weapon.
+AUSTIN: [OVERLAPPING] It’s super heavy, right.
+JACK: But, the great news is, I am now moved, finally, into a position that I find tactically useful.
+AUSTIN: Oh, you can just—yeah.
+JACK: I spend one more turn doing, you know—
+AUSTIN: Everything’s in range.
+JACK: I spent one turn doing busywork, and then everybody is dead.
+AUSTIN: Right. Yeah.
+JACK: Even if I don’t want to do that busywork, you know?
+AUSTIN: Right. As a rem—
+        AUSTIN (as NARMINE): Remember we’re here to rescue people.
+[2:50:00]
+[DRE LAUGHS]
+        SYLVI (as ZARK): What?
+        KEITH (as TEASEL): What?
+        AUSTIN (as NARMINE): Derwin? Elaina?
+        SYLVI (as ZARK): Who?
+KEITH: Oh my god.
+        SYLVI (as ZARK): My name’s Zark, actually.
+        AUSTIN (as NARMINE): Stass?
+AUSTIN: [LAUGHING] ‘My name’s Zark.’
+KEITH: Imagine how many turns, like, if we had to play it out, how many turns it would take this thing to reach the extraction point.
+AUSTIN: Oh my god.
+[GROUP LAUGHTER]
+AUSTIN: You would have to boost—you would have to use all of your movement.
+SYLVI: [OVERLAPPING] All of our mechs behind it.
+KEITH: [OVERLAPPING] Slowly moving one and a half spaces over rough terrain.
+AUSTIN: Well, you could do three, six—oh, right, ‘cause rough terrain. Oh, that’s brutal. Yeah, it would take some turns.
+DRE: Yeah.
+JACK: When I was making this character, one of the things about this Barbarossa frame is that it has a penalty against Agility stuff, and at first I thought ‘Ah, that doesn’t seem fair, I mean, it’s a mech,’ but now that I’m looking at it, I’m like, ‘Yeah, there would be a hard penalty for that thing to try and be agile.’
+AUSTIN: To dodge out of the way.
+SYLVI: You can’t really drift in a tank or anything.
+JACK: Nope. That’s my turn. I moved, I obliterated a mech, and took 2 Heat.
+[PAUSE]
+DRE: Oh, and that just misses. Okay.
+KEITH: Nice. Finally a fuckin’ miss.
+[AUSTIN AND SYLVI LAUGH]
+DRE: That hits.
+AUSTIN: Ah. I’ll take it. 6 damage. Yikes. Heavy Assault Rifle, bring it.
+KEITH: This is the—this is the gumdrop?
+DRE: Yeah.
+AUSTIN: Who’s the gumdrop? Is that what we’re calling the little guys? I love that.
+KEITH: The little thing.
+JACK: These technicolor guys, yeah.
+AUSTIN: I love calling them gumdrops. Even though—I like it more that they’re called that and we don’t—they’re not officially called that. You know what I mean?
+KEITH: Yep.
+DRE: Yeah.
+AUSTIN: That’s a fun—alright, so I take 6, do I just reduce my own HP that way?
+DRE: Mhm.
+AUSTIN: Drops me down to 8.
+DRE: And then Keith, right?
+KEITH: Yeah.
+AUSTIN: Keith.
+KEITH: So—
+AUSTIN: I only got two left and one of them’s just a little Screw.
+KEITH: Yeah, I don’t know what—this Screw caused a lot of issues. Do you think maybe I should hit that again?
+AUSTIN: I don’t know, what do you got?
+KEITH: I’ve got—I mean, I only have a quick action.
+AUSTIN: Oh, you only have a quick action this turn. Right.
+KEITH: Yeah.
+AUSTIN: So shoot.
+KEITH: All I can do is move with a boost, or attack once. So I think I’m gonna—yeah, I have my vulcan thing. I also have—I didn’t do any of this the first time I shot, but I have as a protocol—you can do more than one protocol, right? Just one protocol?
+DRE: I think you can only do one protocol.
+KEITH: Okay.
+DRE: Let me double check that.
+AUSTIN: That’s a great question.
+KEITH: ‘Cause at the beginning, it says—like, if you look at the move order, it says ‘protocols’ and then ‘start the turn’.
+DRE: It does say ‘protocols’ plural, so yeah, go for it.
+KEITH: So I have—let me just figure out where… Okay, so, the thing that I forgot to count when we—it didn’t matter, it didn’t end up mattering—
+AUSTIN: The only important thing is, each protocol can only be taken once per turn, but it sounds like you can do as many as you want, so.
+KEITH: Right, yeah. Actually, maybe this is factored in already, but Death’s Head has a thing called perfect targeting, gains an additional +1 to all ranged attack rolls.
+AUSTIN: Jesus.
+KEITH: I don’t know if that was already counted in my roll.
+AUSTIN: Great question.
+DRE: Should be.
+KEITH: Okay, so I didn’t have to add that in after. That’s good.
+AUSTIN: Oh, I did see that. I did actually see the +1. It’s not +1 accuracy, it’s just a flat +1.
+KEITH: It’s a flat +1 to all ranged attack rolls, yeah. And then—but also I took +2 because I got one for my weapon and one from something else that I did.
+AUSTIN: Right, right.
+KEITH: Anyway, so, I’m gonna—I have a— “As a protocol, you may steady your aim. If you do, you become immobilized until the start of your next turn.” I already was. But “gain +1 accuracy on all attacks you make with rifles.” So I’m going to use my Crack Shot protocol.
+DRE: Mhm.
+KEITH: Did I minim—how did I—what did I do?
+DRE: It’s on your talents.
+KEITH: It is, but I have a thing—I have a thing called zero in, and it’s gone now.
+AUSTIN: They are weird. You might have to re-add it. The same thing happened to me.
+KEITH: Oh, I think I like, maybe dragged it off my thing by mistake.
+AUSTIN: You just dragged it—yeah, I did the same thing. If you just click the little three dots, you can boost your thing back up to where it’s supposed to be.
+KEITH: Crack shot plus—okay, there we go, yeah. That’s exactly what I did. And then—
+AUSTIN: Oh, this is fun.
+DRE: This is sick. [LAUGHS]
+KEITH: “While setting your aim and making a ranged attack with a rifle, you can hit a weak point, gain +1 difficulty on the attack roll, and then deal with 1d6 bonus damage on a critical hit.” So this gives me a +1, I already have two +1s, and then I have a protocol—
+AUSTIN: You’re expending that bonus, that +1 for Stable, Steady, to instead give yourself a damage boost, potentially.
+KEITH: Right. Exactly, but I have my other—this is what I was doing that I couldn’t remember what it was called—Core Siphon protocol, “when you activate this protocol, gain +1 accuracy on your first attack this roll, but receive +1 difficulty on all other attack rolls until the end of the turn.” I only have one attack roll, so it’s, you know. So those are my two protocols.
+AUSTIN: Yeah.
+DRE: So you have one, two accuracy?
+KEITH: Yeah, plus—again, I don’t know if it’s included, but the perfect targeting—no, the—yeah, the perfect targeting. I gain additional +1 to all ranged attack rolls.
+DRE: Right. So, the way that like—because you’re taking both bonus accuracy and the negative accuracy, is that basically, like, two of them cancel each other out. Right?
+KEITH: Yeah, yeah, exactly, yeah. Totally.
+DRE: So you’re rolling—
+AUSTIN: But you still get one. You still get one of those, right?
+DRE: Yeah, yeah, you still get one.
+KEITH: I still get—yeah, I still get the one—and then I also get the one from Vulture DMR, which is accurate.
+AUSTIN: And for people who have not played this system, I just realized we should say that plus accuracy is +1d6 to your roll.
+DRE: Yeah. To your attack roll. Yeah.
+AUSTIN: To your attack roll. Yeah, yeah, yeah. So that’s very useful.
+KEITH: Yeah. Okay.
+AUSTIN: We’re rolling d20s here. I just realized we also have not really talked about what that looks like.
+DRE: Oh, yeah.
+AUSTIN: We’re rolling d20s, and we’re getting also another part of the bonus comes from grit? Is that right?
+DRE: Yep.
+AUSTIN: And grit is just a thing you get—it’s like half of your total level, basically, rounded up.
+DRE: Yeah, yeah, yeah.
+KEITH: And now, Dre, where do I click to bring up that little thing again? Where the attack—
+DRE: Which little thing?
+KEITH: Oh, I have to target first, so I target this thing. Okay, that’s how I can bring it up.
+DRE: You can—well, actually, you want to roll with the—you want to click the weapon you’re using first. So you want to open your character sheet—
+KEITH: Okay, I did that after the second time.
+DRE: Yeah. We realized that it works better doing it this way.
+KEITH: Okay. So I can cancel it.
+DRE: So, you know, open your Vulture DMR.
+AUSTIN: I just also realized there’s these shortcuts right here that we could be using. I feel silly. Like, up in the top left, underneath ‘landing screen’, I could just be up there clicking Chain Axe, Thermal Rifle, Nanocarbon Sword, to get that targeting interface. That’s really great. Okay. Sorry.
+DRE: No, that’s good.
+AUSTIN: Oops. I didn’t mean to do that.
+KEITH: So, I have 1 accurate from Vulture DMR, 1 accurate from other sources, and then is there a way to—oh, and then, really, what we should do is do the second other source, but then also click inaccurate. I guess it doesn’t matter.
+AUSTIN: Just do +1.
+DRE: Well, you’re basically rolling with—you’re rolling with 2 accuracy.
+KEITH: Right, yeah, yeah, yeah.
+DRE: Because you gain 3 and then you lose 1.
+KEITH: And then is there any way to, in this, tell it that I’m also gonna get, on a crit—we’ll just have to do—we’ll do that manually?
+DRE: We’ll just have to roll it, yeah.
+KEITH: Okay. So I’m gonna roll.
+AUSTIN: That’s a hit.
+KEITH: That’s a hit, but not a crit.
+AUSTIN: Oh, but, you could reroll it, can’t you?
+KEITH: I could reroll it using my Neurolink.
+AUSTIN: Uh-huh.
+KEITH: “Death’s Head may reroll its first ranged attack each round, but must keep the second result.” I’ll do that. Fuck it. I don’t know how to…
+DRE: I wonder if you… Oh, if you just click the die in the chat, it’ll reroll it for you.
+AUSTIN: Oh, that’s sick.
+KEITH: Oh, right here? Oh, wow.
+AUSTIN: Also, wait, why are you using the Vulture DMR and not your heavy? Why aren’t you using your Railgun?
+KEITH: Because—there’s two reasons.
+AUSTIN: Okay. Oh, Heat.
+KEITH: The first is that it gives me 2 Heat instead of 1 Heat, and then the other reason is that my steady aim only works with rifles.
+AUSTIN: Railgun’s a heavy rifle.
+DRE: Railgun’s a rifle too.
+KEITH: Oh.
+AUSTIN: And it’s armor piercing.
+DRE: But you do get accurate on your Vulture DMR.
+KEITH: Oh, it’s also more accurate. Yeah, yeah, yeah.
+AUSTIN: Oh, that’s true. You’re right, you’re right. Anyway.
+DRE: So yeah. Reroll it. You can just click the die that’s above your attack in the chat.
+KEITH: Crit.
+AUSTIN: Crit!
+DRE: There it is.
+KEITH: Crit. Worth it. Overkill.
+DRE: Then how much extra do you get?
+KEITH: 1d6 extra.
+AUSTIN: Oh, fuck yeah.
+KEITH: I hit a weak point, it says?
+AUSTIN: Head shot. FPS announcer voice.
+KEITH: Specifically, I’ll tell you specifically what it says, which is—no, that’s not where it tells me. Pilot talents. Okay. “Zero in, when steadying your aim and making a ranged attack with a rifle, you can attempt to hit a weak point. Gain +1 difficulty on the roll and deal +1d6 bonus damage on a critical hit.” So I guess it’s just flavor that it’s a weak point.
+DRE: Yeah.
+KEITH: Okay. So, there we go. Roll…
+AUSTIN: I bet if we had a reason that was like ‘oh, we have to knock the—’ you know, the thing out of its hand.
+[SFX: DIE CLATTERS]
+KEITH: Yeah. 5.
+DRE: Woof.
+AUSTIN: Hell yeah.
+JACK: That’s such a good sound every time.
+DRE: No, I imagine that like, your—your bullet just like, severs the satellite dish from its body.
+AUSTIN: Yes!
+[3:00:02]
+KEITH: Yeah, take that, dinner plate.
+[SYLVI LAUGHS]
+DRE: Like, the first time you hit it, it like, snapped back and then like, came back and you know—
+AUSTIN: Dinner plate!
+DRE: —started spinning its head around, and this time it just—the head completely snaps back and flies backwards into the jungle.
+SYLVI: That’s our mayor!
+AUSTIN: That’s our mayor.
+DRE: That’s our mayor.
+[KEITH LAUGHS]
+JACK: [LAUGHS] ‘He’s got my vote!’
+AUSTIN: That’s who I voted for.
+DRE: So here’s an interesting thing. This whole time—
+AUSTIN: Oh, did that kill it? It’s dead. It’s gone.
+DRE: It’s dead, yeah. This whole time, alarms have been going off.
+AUSTIN: Oh, here we go.
+DRE: But what you never—but what you’re probably just now realizing is that the alarms are actually getting louder.
+AUSTIN: Oh.
+KEITH: Fuck.
+DRE: And it’s because the alarm isn’t coming from the tower.
+AUSTIN: Oh.
+DRE: It’s coming from the forest to your northeast.
+AUSTIN: Oh.
+KEITH: [MUFFLED] Nooo!
+JACK: Oh, here we go! Finally, some worthy opponents!
+KEITH: Hey, uh, Jack, perfect spot. Perfect position.
+JACK: Thanks, Keith.
+KEITH: Excellent job.
+DRE: So yeah. We’ll pick it back up next round.
+JACK: Oh my god, you see who it is? It’s big gumdrop.
+KEITH: Oh my god, it’s big gumdrop.
+[DRE LAUGHS]
+SYLVI: Oh no.
+JACK: Big gumdrop is here now.
+DRE: [LAUGHING] Big gumdrop heard you were bullying all of its little friends and it’s here to teach you—
+KEITH: Oh no.
+SYLVI: There’s a jawbreaker here!
+KEITH: There’s a big gumdrop, a little gumdrop, a TV gremlin, a dinner plate, and then whatever we’re gonna call this thing.
+AUSTIN: Oh, no.
+[DRE CHUCKLES]
+JACK: Oh, god.
+SYLVI: Oh, it’s got the trans flag color scheme.
+AUSTIN: So I have a thing, Dre, in my personal gear, called Sound System. “Though their tactical utility is questionable, many pilots set up internal speaker systems in their cockpits. This gives them a clear line to their compatriots during combat, along with their ability to play music.” And I have to imagine that that’s, you know—I was doing some talking, I think just generally I have a loud system, I’m out there in the ocean waves needing to broadcast things back to the boat and whatnot, and so I think I’m just gonna—as I see these guys come over the hill, I say:
+        AUSTIN (as NARMINE): Ahem. Derwin? Elaina? Stass?
+[GROUP LAUGHTER]
+        AUSTIN (as NARMINE): My name is Narmine Te’Ketch. It would be advantageous if you came out and we could get going.
+JACK: [LAUGHS] Oh, god.
+DRE: And weirdly enough, you don’t get a response.
+AUSTIN: Nothing, no response?
+KEITH: Damn.
+        AUSTIN (as NARMINE): Ah, damn.
+AUSTIN: And then I put on some music. I don’t know what—what’s some good ‘I’m a professional—I’m a former criminal turned whaler’ music? This is Dropkick Murphys, probably. This is—
+SYLVI: Oh my god.
+KEITH: That’s so funny.
+SYLVI: The Decemberists.
+AUSTIN: [LAUGHING] The Decemberists.
+DRE: Yeah. I was—jesus. I was gonna say—
+KEITH: A setlist with the Dropkick Murphys and the Decemberists.
+DRE: If we’re picking a Gundam soundtrack, you’re definitely playing 0083.
+AUSTIN: Oh yeah, I could definitely see that. Yeah, a hundred percent.
+DRE: Playing your destiny.
+AUSTIN: It’s that version of “Thief’s Theme”, of Nas’s “Thief’s Theme”, cut with the Char theme from 0079. Have you heard that, Dre? It’s fantastic.
+DRE: God, no. I need to.
+AUSTIN: I’ll link it—will link it to you.
+JACK: Oh my god. That’s great.
+AUSTIN: Is this where we’re cutting here? Is this where we’re gonna call it?
+DRE: Yeah, this is where we’ll call it, yeah.
+SYLVI: Okay.
+DRE: No, absolutely.
+JACK: Oh, this is—Dre, thank you so much for—
+DRE: Yeah. Glad you’re all having fun.
+KEITH: Yeah, thanks, Dre. I gotta repair my mech.
+AUSTIN: Oh, yeah, you sure do.
+DRE: Maybe you’ll get a chance to do that. Who’s to say?
+JACK: The only person who hit me was Sylvi. [LAUGHS]
+SYLVI: [LAUGHS] So good I’m getting even my teammates.
+KEITH: I mean, the only person who tried to hit you was Sylvi.
+JACK: Yeah. It’s ‘cause I’m just too scary.
+SYLVI: That’s not true. Didn’t someone—oh, no, wait, I got it mixed up with the Captain having one missed.
+KEITH: Yeah.
+SYLVI: Yeah. Nevermind. Yep. I mean, something missed the Captain. You know what I mean.
+JACK: But this is great.
+AUSTIN: Fantastic.
+JACK: Should we do a time.is?
+KEITH: Austin, what’s your evasion?
+AUSTIN: Not great. 10.
+SYLVI: [LAUGHING] You’re so hung up on the evasion—
+KEITH: How—I have it set so high. How did I get only hit? I got hit so many times.
+SYLVI: You got crit!
+AUSTIN: Because it—this is why d20s are bad, Keith.
+KEITH: Yeah.
+AUSTIN: ‘Cause what’s your evasion?
+KEITH: 16!
+AUSTIN: Oh, that’s pretty fuckin’ high, I don’t know.
+DRE: That’s pretty good, dude. [LAUGHS]
+KEITH: That’s really high!
+AUSTIN: That’s real fuckin’ good. [LAUGHS] It’s bad luck, then.
+KEITH: Well, the first person literally rolled a natural 20.
+AUSTIN: Yeah.
+KEITH: Is part of it. And I don’t know what happened the second time, I don’t remember.
+AUSTIN: Alright. We’re gonna do a clap. 35?
+DRE: Yep. 35.
+KEITH: Wait, I’m actually not ready to do a clap.
+AUSTIN: Not 35. 40?
+[PAUSE]
+[GROUP CLAPS]
+AUSTIN: Alright.

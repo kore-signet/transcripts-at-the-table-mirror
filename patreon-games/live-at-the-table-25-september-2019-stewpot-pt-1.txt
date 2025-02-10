@@ -1,0 +1,1601 @@
+﻿Live at the Table 25: September 2019 - Stewpot Audio
+Transcriber: Kārlis (@townout)
+Austin: Welcome to Live at the Table, an actual play livestream, focused on critical world-building, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Sylvia[1] Clare.
+Sylvia: Hi, I’m Sylvia, you can find me on Twitter @captaintrash and you can listen to my other podcast Emojidrome on your podcast app of choice.
+Austin: Ali Acampora.
+Ali: Hi, you can find me over @ali_west on Twitter. And you can find the show at @friends_table.
+Austin: Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter @swandre3000.
+Austin: And Keith Carberry.
+Keith: Hi, my name is Keith J. Carberry, you can find me on YouTube.com/RunButton and on Twitter @KeithJCarberry.
+Austin: You can find everything we do at the show at friendsatthetable.net, twitter.com/friends_table. You can support the show at friendsatthetable.cash. Keith, you are not in this Roll20, I don’t see you here—
+Keith: I should be—
+Austin: —Oh, there you are. Now you’re here. You’re here. Cool. Today, we are playing Stewpot: Tales From a Fantasy Tavern by Takuma Okada. Stewpot: Tales From a Fantasy Tavern is a collection of small games for groups of three or more players. Each game let’s you, a retired adventurer, play out different parts of running a tavern and setting down in the town together with your old adventuring party. You’ll be scrambling to cook something edible with random ingredients, bartending for troubled souls, calming down a tavern brawl, going shopping for all the things the tavern needs and more, in a variety of slice of life scenes. 
+It takes inspiration from games like Mobile Frame Zero: Firebrands, The King is Dead, The Sundered Land by Meguey and Vincent Baker. Obviously, the one of those that we are most familiar with is Firebrands, a game we’ve used now twice in Friends at the Table history. And you know, I think as soon as you start skimming what the list of the games is here, you’ll get some familiarity like—oh, okay, I see, these like mini-games, where we’ll be taking turns. Um, let me go to the top of the book and just read from How to Play, here. All right. 
+So, the story of Stewpot is told through a series of mini games. Each game represents a closer look at a certain amount of time that passes at the tavern. The recommendation is that one game represents a month, but your group can decide it represents a week, a season, or even a day or a year. To play, we’ll need a few things. I think we have all of these more or less: a copy of the tavern sheet, which I’ve recreated up here, a copy of character sheets, which you should see five of them on the roll20, writing utensils, that’s roll20, one or more six-sided die, a deck of cards, which I think you should see in the bottom right? Does everyone see that? And a coin for flipping. We can just roll a D2.
+So, the way this game is basically going to work is that we are going to go around the table and we’re going to each choose a game to play from this list of games. You’ll see in the Journal that there should be a hand out that we all have that’s called The List of Games. We are going to start with The First Step and we’ll end with In the Rhythm of Things. But, in between, we can pick from any of the other games listed here. So take a moment to skim those and you know, during other people’s turns when you’re not in a scene or whatever, you can always read through those and pick or look through the book, cause the book also has the list of them. 
+Most games will require other players and having someone in mind is good, but you should always ask before you plan too much. No one should have to play a game they don’t want to. After a game ends, check to see if anyone wants to take a Smoke Break, and I’ll explain Smoke Breaks in a little bit, but basically it’s an opportunity to step away from the table and take a little break. If not— if no one wants to take aSmoke Break between minigames, the next player chooses a game. 
+The first step in In the Rhythm of Things are only played altogether as the first and last games and can not be chosen on your turn. Using your experiences— so you’ll see on your sheet you have lists here. With kind of empty spots here, which says Adventure Experiences and Town Experiences. The prompts of most games use your experiences to achieve a goal. When you use one or more of your adventure experiences in a game, at the end of that game, you will choose one of those Adventure Experiences, cross it out and mark a new Town Experience in your town job. Narrate a short scene that describes what led to this new experience. It does not need to be related to what just happened because time is always passing between games and characters have lives outside of their work. 
+So let’s just remember this, that in general— there’s a few exceptions, but in general, if you use an Adventure Experience, and we’ll get to what those are in a moment, after we use the one in the game, you should you should cross it out and then add a new Town Experience to your job. As we start off this game, we are going to create a tavern and it is going to be a small, run-of-the-mill tavern. But with hard work and more than a little luck, we hope to become a name that every adventurer knows. 
+As we play these mini games, time will pass and our characters will become better at running the tavern, and word will spread. After every third minigame we play, we’ll all take a Smoke Break to check in on each other. Then we’ll play a specific game, a game called Wear and Tear, which will increase one of our cardinal ratings by one up to a maximum of four. So basically, every three things, every three rounds, we’re going to be able to like upgrade the tavern. If someone could be in charge of tracking that, that would be great. In terms of just, like, alright when was the last time we did this (laughs). That would be fantastic. Does anyone want to?
+Keith: I’m going to forget the hell out of that (laughs).
+Austin: I know. 
+Dre: So you want someone to track when it’s time to do the Wear and Tear?
+Austin: When it’s time to do the Wear and Tear, yeah. 
+Ali and Dre: I can do it. Or—
+Dre: We can both do it.
+Austin: You can both do it, we’ll have some redundancy, which is good. You can also choose to play Wear and Tear at any time to increase a rating by one. And, that said, you should always take a Smoke Break before Wear and Tear just to gather your thoughts. But when you do that, and this is why it needs to be tracked a little bit, that will reset the need to play it again to every three games. So like, let’s say we get to the second round and then someone says, “oh, I want to do Wear and Tear now.” Then, we would do that game, then three turns later from that we wouldn’t do it, after that— you know what I mean? Like it would just reset every time that we do it. You can also increase a rating instantly by succeeding in the games Festival Day or Distinguished Guest. This does not reset the need to play Wear and Tear every three games. And each time a tavern rating increases, each player can describe a new detail or feature of the tavern. So you’ll see on your sheets you have a bunch of stuff and we’ll get to name, look, weapons, adventure, job, town job and stuff in a bit. 
+But there’s also this whole side-sheet called Memories here that’s just like empty right now. Memories are where you keep track of— The Memories sheet is where you keep track of your relationships between player characters by writing down memories. Memories are moments in the game, descriptions of scenes, sentences of dialog or anything else that strongly represents the character. Importantly, your character remembers this moment and associates with the other player’s character for the rest of the game. Just a place to jot down little notes of like, “oh hey, I remember when Ali’s character did this,” etc.. 
+We should talk about the safety systems of the game before we start creating characters and also what Smoke Breaks and Holds are, which are kind of the two unique safety systems in the game. “Stewpot has two forms of safety tools built into the game in addition to any you might wish to use.” So as always, for us, I know we’ve used the X-Card before, we’ve used lines and veils. So if anyone wants to have an X-Card, we can go down that system also. But I do want to read the safety Smoke Breaks and holds section here because I think they’re pretty unique and interesting. 
+“Even if you don’t expect to need them, especially in a more light-hearted game like Stewpot, it’s really important that you have these tools available. Player safety is more important than any idea you bring up in a game.” Agreed. Smoke Breaks. There are two situations that lead to taking a Smoke Break. The first is one after each game. “After each game, you should all ask if anyone would like to take a smoke break. The second is before you play Wear and Tear every three games, and then everyone takes one. To take a smoke break, everyone steps outside the room you’re currently playing in or at least steps away a good distance from the table, if you’re in a large room.” That’s it! It’s a little five-minute break to like clear your head and step away and think about stuff, and you have to attend to the phone or the bathroom or anything else. It’s like— it’s a good time to do that. 
+“Holds. Smoke breaks are good as check-ins, but they don’t work so well for issues that come up in play that need more immediate attention. That’s what holds are for. Anyone can call for a hold at any time. Your group should agree together what calling for a hold looks like before you start the game. A few ways to do so could be holding up a hand or a fist.” We’re not on cameras, so probably not that one, ha. “Placing a hand or fist in the middle of the table.” Likewise. “Sending a message that says ‘Hold’ in your group chat for an online game. Saying ‘Hold’ out loud.” I would be glad to have that as the typed message, but I’m curious if anyone else has another feeling on that. On how we— if we do want to pause, where do you want to hit hold? 
+Ali: I think typed messages work because roll20 has the little BLEEP.
+Austin: Yeah. Agreed. Yeah. Cool. “Ending the game. Of course, the goal of a successful tavern would be to operate indefinitely, but all games must come to an end eventually and hopefully you can walk away from your game of Stewpot knowing your adventurers have settled down comfortably. Whenever, whenever, every, uh— When EVERY player has switched all their Adventure Experiences to Town Experiences, everyone plays In the Rhythm of Things together to end the game.” So, as we create characters, you’ll start to understand what that means in terms of turning Adventure Experiences into Town Experiences. But it’ll be pretty clear, I think. 
+“To start this game—“ Oh, first of all, any questions on anything I’ve said so far? (silence and a mouse clicking in the distance) OK, so, “to start this game, we need to build a tavern. Our tavern is central to the whole game. We will need to work together to create a place that we’re excited to tell the story of. There’s a bunch of stuff that is up to us in terms of determining what’s up with our tavern. Even before we get to something like the name, we could start with the location. Location is a fundamental part of the story you want to tell about your tavern. Do you want to compete with other taverns in a bustling city? Or do you want to be a little stop in the wilderness? The only place in a small town? As a group, decide how large the town or city around you is. Then each player can give one detail about the city or surrounding area.”
+What do you, what do we want to do? Are we thinking city, are we thinking town or village, are we thinking like rest stop on a, like, a highway or like a pathway?
+Keith: I think I’m not thinking city.
+Austin: Mhmm.
+Ali: I like rest stop?
+Dre: Yeah, me too.
+Sylvia: Yeahhhh.
+Austin: I’m down with this! So, it’s like a rest stop in a— are we in like a very traditional fantasy world here?
+Ali: Sure.
+Austin:  Like, is it, is it— I guess my question is like, is it next to a dirt pathway? Is it next to like a paved road? Is it on a highway with cars like (laughs), you know? This game has classes in the traditional fantasy sense and leans towards that style, but we can be whatever we want and we can adjust, you know? 
+Ali: I like if it’s like right before, like a fork in the road—
+Austin: Ooh!
+Ali: —and it is just like a dirt road and it’s like, hey, come on down here. (laughs)
+Austin: Yeah, yeah. I like that. 
+Dre: So are we in the fork?
+Austin: We must be, right? That’s— that’s the spot. That’s the play.
+Ali: Right, yeah. 
+Austin: That’s where all that foot traffic is right. 
+Ali: Uh huh, yeah (laughs). 
+Austin: So. So this is definitely like we’re in the wilderness at a fork in the road. Are there other details we want to hit here?
+Keith: Is this at a rest stop in the way where this is the only thing? And the people that work at the inn live at the inn, or are there like a couple other things? 
+Austin: Right. Umm, hmm. The thing is, like if we start building more, does it become a little village at that point? Do you know what I mean then? 
+Keith: Yeah, I guess. But like I’m thinking the modern day, like the thing on the highway equivalent would be like, are we passing a gas station or passing a gas station that also has a Dunkin’ Donuts and a McDonalds?
+(Ali and Sylvia laughing)
+Austin: I mean, it’s a tavern, so it has to be. Yeah. I mean, it’s a tavern with food and places to sleep and stuff. So it’s like we’re passing one of those. But also you can sleep there. Right? But the thing about all real life rest stops is people don’t live there. You just drive there for work to work there. And yeah, that’s not what… I’m gue— unless we’re traveling to this place every day.
+Keith: No. Well, I guess that’s what I’m saying is like, do we— are there people who live outside of the inn?  Or does everybody that work at the inn live at the inn? Presumably, they’re not traveling to get there, but they’re coming from a cottage or something close by.
+Austin: Yeah, I think that’s gonna be up to us as characters probably? I think for me the bigger question, or the part that I’m extending from that is, if we are not just— if it’s the five of us— I guess it could just be the five of us live at this inn and then operate this inn, or we live nearby. But like are there other NPCs who live nearby besides us? Are there other characters who live nearby? Or is every character that we’re gonna see someone who either lives at the inn or is passing through. 
+Keith: Mm hmm. Yeah.
+Austin: Well, think that dramatically changes the types of scenes we can have, right? Because like there’s a difference between like, oh, this is the mayor of the village or this is the person who gets us firewood, you know what I mean? 
+Keith: This person runs a general store, right? 
+Austin: Exactly. 
+Keith: Or a materials store, I guess. Yeah, I guess that’s the thing about the— if we’re in a building that’s in a fork in the road, there isn’t really room for another thing. 
+Sylvia: We could have like a nearby— like we could be the midway point between like a town and something maybe? Like there could be like a town that’s like a day’s ride away. And that’s how we get our supplies. 
+Austin: Yeahhh!
+Keith: Right. So most people that come through are travelers and then the other category of people is like folks who need to travel from one town to the other and back for work or whatever. 
+Austin: Yeah. Okay. So then, yeah, we all basically live here or nearby. Yeah, I don’t want to be like, “no one’s allowed to live in a cottage in the woods that’s like a 30 minute walk from here.” You know what I mean? Like that seems like it should be on the table.
+Keith: Against the rules! 
+Austin: Noooo. Um. So a fork in the road. We are, you know, a day’s travel from a town. Where do the other two forks of the road go to? (pause) I feel like one should go to some ruins, one should go to like some— like we’re adventurers, right? And so maybe there’s ruins down this one path that we spent years adventuring in. We never like cleared that dungeon (laughs), you know what I mean?
+(Ali laughs)
+Austin: I kind of like one of the forks goes to a place that we’ve spent our— we’ve spent our time everywhere near here because this is where we decided to settle. Maybe it’s like one of these places is the town some of us were from to begin with. One of them is the place that we ended up like winning the quest? Do you know what I mean? Like, hey, look, we made peace with the goblin tribes that are at the end of this other fork or whatever. And the third is this ruin that is like the end-game raid or the super difficult, you know, dungeon dive that we never got through. But we were like, you know what? We could all lose our lives at level 32 of this fucking dungeon or we could open up a tavern. 
+(Ali laughs)
+Keith: So this is— I’ve been playing a lot of the new Pokemon game, this is sort of like someone who’s— we’re a group of people who are like the trainers that exist between the first and second gym leaders who just are there forever. 
+(Dre laughs)
+Keith: But just decided, instead of just always having a level 12 Pidgey—
+Austin: To fight. Right.
+Keith: —for all time. That, you know, for whatever reason, the leveling up system doesn’t work for them.
+(Ali laughs)
+Austin: Mm-hm.
+Keith: That, you know, youngster or trainer, junior, retired and started a hotel.
+Sylvia: They opened the nursery. 
+Keith: Right. But it’s Pokemon, so you just watch animals lay eggs. 
+(affirmative hums and distant laughing)
+Austin: So, ancient ruins. 
+Keith: Does anyone lay eggs here? 
+Austin: I think we all like eggs. 
+Dre and Ali: Yeah. 
+Austin: Pro-eggs— No, Sylvia says ehh.
+Sylvia: I have problems with eggs. But, fine, I’m working on them. 
+Austin: Okay, alright. 
+Keith: I didn’t say eating. I said I’m laying. 
+Sylvia: Oh, no, I don’t lay eggs.
+(Ali laughs)
+Austin: Ummmm, I’m typing. I’m just typing this down. “Fork goes to a town, some ancient ruins and a friendly goblin village.” Those are the three things. Unless anyone wants a different thing 
+Sylvia: I didn’t expect to say that I—
+(Keith and Austin laugh) 
+Austin: Are we good with this description of this place? 
+Ali: Yeah.
+Austin: Okay, cool.
+Keith: Specifically, is it a day’s travel between two towns?
+Austin: I think it’s a day’s travel from the town and then it’s further to the other two. Do you know what I mean? 
+Keith: Yeah. 
+Austin: Or is it like… I want it to feel like— I guess a day is a for real amount— eh? I’m thinking about like Hieron travel. I feel like you got to get three days out of town before you’re willing to be in an inn. You know what I mean? 
+Ali: (laughs) Yeah, cause then you can just turn around. 
+Austin: I’ll just fucking turn around. You know what I mean? Like, I’ll just sleep in the tent.
+Dre: Yeah, I can camp for a day.
+Keith: Well, but that’s— I thought that was why there was two towns. Because if you have to go from one town to the other. 
+Austin: Right. But why am I only waiting a day? We’re adventurers. 
+Keith: You know, you have to go to sleep. That’s what a day is.
+(Dre laughing loudly)
+Keith: That’s what day means. I guess you could— if you’re an adventurer. You could either camp out outside in the woods or stay at this inn. But if you’re job’s in a town, you need to go from town to town. You’re not camping.
+Austin: If you’re a diplomat or a merchant or whatever. We are, in fact—
+Keith: This is the guy who delivers firewood. 
+Austin: This is— right, right, right. This is— Well, I guess I think the Goblin Village can probably get firewood on their own. 
+(Ali laughing)
+Austin: Like they know how to get firewood. But whatever. Fish, let’s say. Let’s say the town is like a shore town and they can go fishing. And then the Goblin Village is like inland a little bit and they don’t get good seawater fish. And so that makes sense. 
+Ali: There’s a healthy trade. 
+Austin: Right. OR maybe it’s— maybe this is part of what we did with our adventuring time was we were like, you know what? We’re gonna bring peace to this like, to these two different societies, because we’re going to set up a shop in the middle where people can come rest. And that literally enables the sort of like interaction between these two communities, instead of it just being a place that armies march, you know. (pause) Let’s talk about look. 
+(pause) Ummm. Ta ta ta ta da. “Now that you figured out where you are, what does the tavern look like? Be as general or specific as you like. What interests you most about a building? Where are your eyes drawn to?” And there are some examples in the book. “These are things like dark grey stone blocks, logs, cut and placed, a tree house, flowering vines, delicately carved sandstone, ice palace, boat.”
+Dre: I mean, I do like a boat just in the middle of the woods. 
+(Keith and Ali laughing)
+Austin: Mm-hmm!
+Keith: Yeah, we bought this boat to go on adventures, but we never made it past the one adventure where we didn’t need a boat. 
+Austin: (laughing) We didn’t need a boat. We left it here. 
+Keith: Right. And now it’s a houseboat. 
+Ali: Yeah. We cut a hole in it (laughs).
+Austin: Is it like flipped upside down? 
+Dre: No, that’d break the bone. 
+Austin: Would it?
+Keith: Yeah, the mast would be ruined.
+Austin: I mean, the mast would be ruined. But I mean, okay, what if we took the mast off the top and we attach to the bottom? So it’s like a big curvy, nice boat shape and at the bottom of it is a giant set of masts. But the bottom is now the top. Do you know what I mean? 
+Keith: Why? Why do you want to flip it upside down so bad? 
+Austin: Because I don’t want it to be resting on the bottom. I don’t want it to go up. I want it to go. I like a curve. I like a nice rounded top. I don’t want it to go up to a hole that’s like the top of a deck. I want it to be like—
+Keith: But all the stairs already work the right way.
+Austin: Wait, listen. We don’t have to roll dice for this, we can flip the stairs around!
+(Ali laughing)
+Keith: I know, I’m just saying, as a practical—
+Austin: I’m just— here’s what I’m going to do. I’m going to go into tokens. I’m gonna type in, boat. I’ll show you what I mean.
+Keith: People that— I know what you mean. I’m just, people live in boats as they’re already built. 
+Austin: But I want to differentiate—
+Keith: So you’re taking a livable building, flipping it upside down and reconstructing the whole thing. 
+Sylvia: What if it rains a lot?
+Austin: Yeah!
+Ali: Uh-huh. Yeah, see? 
+Sylvia: Can it rain a lot?
+Austin: Yes, it can rain a lot. You can make that decision right now. It can be a nice rainy path!
+(Ali laughing)
+Sylvia: Well, yeah, but it’s gonna rain a lot, we don’t want to flip this— Oh no. That’s the Millennium Falcon. That’s that’s what the boat looks like. 
+Austin: That’s it. We got the Millennium Falcon. I want like a— What’s a—
+Ali: Do we?
+Austin: I mean, we could! We used to have the Millennium Falcon...
+Ali: (laughs) Now we’re helping trolls get firewood.
+Keith: Where? I don’t see what you’re…
+Austin: I haven’t put anything in. I’m still doing a search. I’m trying to—
+Dre: I just saw the Millennium Falcon show up in the tokens on the stream. 
+Keith: Oh.
+Austin: Yeah, yeah, yeah. 
+Ali: Oh! You know what we can do? Actually, okay. I’ve synchronised these ideas. 
+Austin: Okay, thank you.
+(Ali and Keith laugh)
+Ali: When Sylvia was like, it should be really rainy, I was like, we should have a place with a really big awning. 
+Austin: Mmmmmm.
+Ali: So, we should take the mast thing and cut it off and like tilt it so the sails of our boat is like a nice outside seating area.
+Austin: A nice outside, yeah, I like that. See—
+Ali: It sounds like a big umbrella. 
+Austin: Mm-hmm. Yeah, OK. 
+(Ali laughs)
+Austin: I like that. This I like. I just don’t want it to be just a boat. That’s all. I like a boat, but I don’t want it to— I want it to feel like… Here’s what I want. I want someone to sit down for a nice meal and at the end, someone says, “did you know this place used to be a boat? – Oh, yeah, I can see it.” That’s what I want. 
+Ali: Yeah. Yeah.
+Austin: Can I write “converted boat—
+(Ali and Keith laugh)
+Keith: “Did you know this place used to be a boat? – Oh, instead of an upside down boat?”
+Austin: Yes, instead of an upside down boat that these people have remade in a beautiful way! I’m just drawing it. Here’s what I’m saying. I’m saying I don’t want this as our fucking inn. I want. I want. This! As our inn. See? 
+Ali: Right. Well, instead, it’s going to be like a. 
+Austin: Now you can draw. 
+Ali: (drawing) Oh, it’s gonna be like that. And then there’s gonna be a big sail and like a big chair.
+Austin: And that’s sick! Yeah. Yeah. I’m down with this. This is great. 
+(Ali laughing)
+Dre: This is just turning into the “Wow. Cool robot.”
+(Austin and Ali laugh)
+Austin: This is the visor of the robot. 
+Ali: That’s a good looking room. 
+Austin: That’s a good looking robot. 
+Ali: That’s a robot. 
+Austin: Thank you. 
+Sylvia: Oh, those are— I thought those were ears. Like I thought you were giving it cat ears. 
+Austin: Oh, that’s kind of good, too. It rains a lot. Are there any other look details here?
+Dre: How deep into this theme do we go with the decoration?
+Austin: —whoa, whoa. Someone copied and pasted a lot?
+Ali: What, where?
+Austin: Oh, no. Just roll20 was being VERY bad. 
+(Ali laughs)
+Keith: Oh, yeah, I was like, what?
+Ali: So I’m writing ‘rain’. There we go.
+Dre: Oh, I can. Oh, yeah, see on the screen.
+Austin: Uh huh! I told you.
+Keith: This looks like Patrick’s rock from SpongeBob. 
+(Dre and Ali laughing)
+Ali: But imagine it was a boat. 
+Austin: Imagine it was a boat. (pause) Instead of a rock. 
+Keith: Right. 
+Sylvia: You’re right, I see it now. 
+Austin: That’s—I what that wasn’t this. That was here. No, not all that, please. Just these two. Okay. All right. So, we need a name for this boat that is now an inn. (pause) / tavern. 
+Ali: The Topside.
+Austin: The Topside! Done. I love it. 
+(Keith laughs)
+Austin: Any other thoughts here? Is there an adjective or is it just The Topside? Cause top’s already an adjective. (pause) Which side? The Topside. 
+Ali: Oh, look at these— Wait. 
+Keith: And it’s ironic because it’s the one part of the boat you’ll never see. 
+(bleep)
+Austin: Well, you could see it from the basement where you look up at it. 
+(Ali laughing)
+Ali: I linked some upside down boathouses. 
+Austin: Oh, look at these, this is what the fuck I’m talking about! This is it. Thank you.
+Ali: Yeah. You need the bottom of the boat for the good roof. 
+Austin: This is what I’m saying! (pause) Thank you for fucking with the vision, Ali. I really appreciate it. 
+Dre: OK. Yeah. All right. I’m on board with this now.
+Austin: See? 
+Dre: I’m a visual learner, Austin. 
+Austin: Y’know, that’s fair. That’s fair. (pause) I just found a dope thing I’m going to link in the chat. Copy Image AdDress. Okay. Let me counter this though with this. We could also throw this whole upside down boat thing out the window and instead do an upside down house. (laughs)
+(Ali laughing)
+Sylvia: Man, now, you know. You’ve got me thinking. 
+Austin: Look at the little door on the bottom right of this house. 
+Sylvia: Yeah. 
+Dre: Wait, what if we had a series of upside down tiny houses? 
+Austin and Ali: Ooooh.
+Ali: Oh, so we’re like running like condos?
+Austin: It’s like, no, no, we’re not— 
+Sylvia: We’re not doing that.
+Austin: —now, fucked up.
+Dre: It’s like Disconnected Motel. 
+Keith: We’re calling them luxury bungalows. 
+Austin: I’m not a landlord, I just run a bunch of Airbnbs. (laughs) 
+(Keith and Ali laugh)
+Ali: When my parents were running a hotel, the hotel across the street from us was like— they had their main house. And then it was like a row of rooms, like just a straight row. And that was kind of cool. I don’t know that that’s what we’re going for. But if we wanted a kind of spread out thing.
+Austin: Yeah, well, a thing worth saying is that we’re gonna have— this is gonna be a tavern that grows. So maybe we start with this. Those are things that we can get as we dial up. 
+Keith: Have we considered this as an— no, that’s wrong. That’s the wrong way to copy an image.
+(Ali laughs)
+Austin: I’m excited.
+Keith: Have we consider this as an orientation.
+(pause)
+Sylvia: Oh!
+Ali: Oooh!
+Austin: Huh!
+(Keith laughs) 
+Dre: I thought that’s kind of what Ali was pitching. With the mast being sticking out so the sail makes an awning. 
+Austin: I think that is part of it, right? I think it’s like we’ve removed the mast— or we’ve reattached the mast sideways so that the sails are like that. 
+Ali: Right. 
+Keith: But it is still upside down.
+Austin: But it’s still upside down. I don’t hate this upwards thing. That’s a great shape. Has kind of a church quality, though, I guess. But church—
+Ali: What if we cut the boat in half and then we had both pieces sticking out and then we cut the walls in the middle.
+(someone gasps and starts clapping) 
+(Ali laughing)
+Austin: Yes. 
+Dre: We just have a W ship inn. 
+Austin: What’s— What? Why is it a W?
+Dre: Because if you— if you cut the two, like, if you cut the shit— the ship in half and then smash them together, it looks kind of like a W. 
+Austin: Right. What is it? 
+Keith: I think that’s an M.
+Austin: That looks like an M to me.
+Dre: OK. Yeah. No, whatever. Yeah. 
+Keith: It’s a smaller boat in the middle. 
+Austin: Oh, see I thought you were doing like— I thought you were going to go with like. All right. So here’s like (boop) boat. And then behind it was gonna be the other half of it, very like vertically like this. 
+Ali and Keith: Ooooohhhhhh.
+Austin: And then from here, coming forward or like not— I’m going to do this like at an angle. But understand this is just to give a dimension. It’s like there’s the mast coming off of it. And then like, the sail is hanging over so that it’s like an awning. You know what I mean? 
+Ali: So we cut the butt— the boat like half in—
+Dre: The middle one does look like a butt.
+Austin: It does, it does look like a butt.
+Ali: —40/60, so it would be like a tiered situation. 
+Austin: Yes. Yes. This is what I’m saying. I’m glad we filled our NPC section here with a robot, a butt, and then, honestly, it looks like a clansman with a Pinocchio nose. I’m not going to lie. 
+Ali: Oh, yeah, a little bit. (laughs)
+Keith: That shape— we can’t do that shape anymore. 
+Austin: We can’t get— well now the Pinocchio nose is wrong, but that’s. (pause) Maybe he goes through— We’re going to keep moving. “Your tavern becomes—“ OK. You can. You can keep drawing. I’m gonna keep reading. “Your and becomes larger and more well-known as you improve your tavern ratings. These ratings determine the quAlity of different aspects of your tavern as well as the dice you roll in certain games. You start with one point in each rating. tavern ratings go up by one point at regular intervals. The recommended period is one every three games.” Which is when we will do the Wear and Tear game. “Up to a maximum of four in each rating. There are three scores. There is Cuisine, Atmosphere and Service. Cuisine is our ability to make food, such as cooking ability, but also— (pause) It’s not just cooking ability and includes aspects of food preparation like food storage and how easy it is to do business with suppliers. It determines how many ingredients you can use in the Sliced game and how many components you have in the Glass of the Gods. With a one in cuisine, it means that we have a cramped kitchen, a small pantry, cheap local wines and a small brick oven. 
+Over to Atmosphere, it determines a broad range of visual and other aspects of our tavern. It’s the vibe, the feeling, the experience your patrons get, the smells, the decorations, the chatter of folks eating at the tables around you. All of these are part of the atmosphere of your tavern.” With one, we have straw mattresses, narrow chimneys and bare walls. 
+Oh yeah, that’s it. You got it, Ali. Perfect. 
+“And our Service rating is a measure of how our tavern operates. Is the food getting out quickly and the right tables? Are the beds clean and comfy? Service also represents our tavern being able to hire more people to work at the tavern. Each time you gain a point in your service rating, you create a new NPC employee who represents one of the many new hires.” Come up with one or use one of the examples listed. At level one, their examples are a former farmhand and injured local guard. Who is our level one single NPC? (pause) Who works for us? Should we make us and then figure out what we need? 
+Keith: Yeah. 
+Austin: Yeah. Do that? All right. So there are five sheets here. Feel free to write your name on one of them. I don’t care who goes where. (laughs) We can just use— if we want to, we can use this stuff at the bottom. But if someone’s like, no, I want that top-right sheet, I’m not going to argue. “Your characters are the heart of the tavern. You keep the kitchen running, the fires roaring, the beds made and the tables clean. To make your character, you need a few things: Name. A character’s name can be given, chosen or something else. In addition to your true name, some characters may have a nickname their current their coworkers and regulars use instead. Your look. Your character is free to look however they want. What parts of being an adventurer still show? What have they worked to change? Come up with your own or choose a tag from each category to start. More, if needed.” So this is weapons, armor, and what’s the third thing there? I have to zoom in to see it. I keep thinking it says Tyres and— Eyes. That makes more sense. So there are examples here like Items like weapon, long sword, short sword, knives, longbow, short bow, buckler, etc., tower shield. Item adjectives. So you could be like a jeweled long sword or something, right? Your armor could be like well-kept chainmail. There’s examples in the books and then eyes are things like, you know, piercing, darting, glowing, kind, sleepy, etc..
+I’m going to keep going, that way we can do this kind of all at once at our own time thinking about all these things collectively. “Your jobs and experiences are what reflect what your characters were doing before starting this tavern, as well as what you’ve learned while working at the tavern. To start, pick an Adventurer Job and a Town job. Pick three Adventure Experiences, but no Town Experiences yet. Characters can pick the same jobs or experiences. If some or all of the experiences in a job don’t make sense for your character, but you still play that job, come up with your own appropriate experiences, or borrow from other jobs.” The Adventurer Jobs should sound familiar. I’m just going to pull them onto the stream for a hot second so that we can just get a glimpse of what what we’re talking about. So like Paladin is a job. You could say I was a paladin before I retired to run this tavern. And you would pick three of the Paladin experiences. And those experiences are sorta like special abilities or notes. So things like ‘assign guidance’, ‘assign from your deity’, ‘holy armor’, ‘divine protection’, ‘heAling’, ‘touch’, ‘treat wounds’, ‘smite’, ‘destroy the unholy taunt’, ‘draw enemies towards you’. There are a bunch of these. I’m curious if anyone has one that they have their eyes on already. (pause) Dre, you already have a name. 
+Dre: Yeah, no, I think I’ve got this figured out. 
+Austin: Tell me tell me what your situation is. 
+Dre: My name is Aldrich Blue. My adventurer job was a wizard and my town job is a chef. 
+Austin: Love it. Which wizard experiences are you taking?
+(lost connection robot sound) 
+Austin: Did I lose you. Dre? 
+Keith: Yeah, I think we lost Dre. 
+Austin: All right, so, invisibility.
+(Sylvia, Keith and Ali laugh)
+Austin: Dre is leaving the call and rejoining. Dre saw himself lighting up. 
+Dre: Ooooooo—
+Keith: Yep, I heard you.
+Austin: You’re back.
+Dre: —ooooooh. Okay.
+Austin: Okay. Welcome Back! 
+Dre: It saved me from not being able to remember how to pronounce Prestidigitation.
+Austin: You got it! You got it.
+Dre: I’m gonna take that one. I’m gonna take Fireball.
+Austin: Prestidigitation is Small Wonders. Fireball is what? 
+Dre: Mastery of Flame.
+Austin: Okay.
+Dre: And Arcana. 
+Austin: Arcana is “Your knowledge of the magical and unusual is unparalleled”. Love it.  I kind of have an idea for a Fighter. Does anyone else wanna be a Fighter before I take Fighter? (pause) OK. I want to be Fighter. I don’t have a name yet, but I’ll get there. And my— Here we go. Fighter— I have to make this tinier because this is big. And also I wanna make this a different font. There we go. And then like this. How’s that? That’s right. And I’m gonna take Legendary Weapon, Intimidation, and Endurance. And Legendary Weapon, “You wield an artifact of immense power”. Endurance, “Nothing can stop you”. And Intimidation, “Make them do what you want”.
+(pause)
+Ali: Do you have a town job in mind? 
+Austin: Oh, I haven’t. I don’t. I’m pretty flexible. Dre, what was yours again? You were…
+Dre: The Chef. 
+Austin: You were the Chef. Yeah. I don’t yet. I’m pretty flexible. 
+Ali: Just wanted to see if you had an idea.
+Austin: Yeah. Yeah. (pause) Anyone else have one ready? 
+Keith: Hmm. 
+(pause and lots of clicking)
+Keith: So for… for the town jobs…
+Austin: Mm-hmm.
+Keith: You said we don’t get any experiences or we get one—. 
+Austin: No, not yet. You’ll be earning those as we play. Yeah, you will, soon after play, get one. The first game we play will end with us each getting a town job or Town Experience. 
+(pause)
+Keith: And. Dre, you were a Chef. Austin, what were you?
+Austin: I haven’t decided a town job quite yet.
+Keith: OK. Are you leaning towards anything? 
+Austin: Mm, no, and I think that’s kind of… where the character is at, actually. I’m playing, I’m like, I’m playing, so. The weapon— I’ll tell you about the legendary weapon is… Where did I put that image that I had moments ago? Here we go. Oh, that’s just Intimidation again. It is… this medieval hand cannon is my legendary weapon that is like a giant staff that’s also a gun. And that is why it is legendary. It is just a gun. It’s a gun in a world that doesn’t have those and it takes a long time to reload it. I can like staff fight with it also. But like what I did was when we got to the boss monster, I was like, “all right, I have a gun.” And it made me very intimidating and carrying this thing around and fighting with it gave me a lot of endurance. But like, OK, I don’t have any skills. Like I’m struggling to adjust to being this idea of like, well, now I have— like, you’re a wizard. I can easily imagine what a wizard would do in a kitchen. Like, I guess I carry stuff around for y’all? But I might end up taking something like I’m gonna pick last, but I might pick something against type that’s like, this character wishes that they could have been this other thing. You know, I haven’t decided yet. I don’t want to jump to it quite yet. I still don’t have my name yet. So I’m gonna work on that. Does anyone else have anything? Just speak up once you have a name or a set of jobs.
+Keith: I have an idea for my town job, but it’s my adventurer job that I’m less sure about. 
+Ali: Does anyone mind if I take bard?
+Austin: All you. Unless someone minds, I guess. 
+(pause)
+Keith: I’m leaning towards farmer. 
+Austin: OK. 
+Keith: But I’m not sure because I don’t even know how that fits into an inn. 
+Austin: Well, you’ll have those experiences eventually and those experiences— Oh, we need food! (laughs) We need stuff to cook. But look at—
+Keith: But most inns don’t grow all their own food, even in a fantasy setting. 
+Austin: Well, ours does. And look at the way look at the list of experiences that we’ll get to use if you’re a farmer. “Make food taste better and last longer.” “Predict the weather in a few days.” “Your harvests are large and exquisite.” If we can be like, we got some large and exquisite harvests…
+Keith: These are large exquisite! 
+Austin: These harvests—
+Keith: They straw beds but they have large and exquisite harvests. 
+Austin: Exactly! (laughs)
+Keith: Yeah. I’ll pick farmer.
+Austin: OK. 
+(pause)
+Sylvia: I think I might take Swashbuckler. 
+Austin and Dre: Oooooh.
+Sylvia: Someone had to provide the boat. 
+Austin: Yeah!
+(Keith and Ali laugh)
+Austin: Yeah. Hell yeah. 
+Sylvia: And then, actually, for my job I’m gonna take Artisan because someone had to also design the restaurant made out of my boat. 
+Austin: Totally. 
+Sylvia: I’m still trying to land on a name. 
+Austin: I’ll take some… piercing. No, darting, I think I’m very like eyes all over the place. Sylvia, do you know which Swashbuckler experiences you have?
+Sylvia: Let me take a quick look. I definitely want, I think. DuAlist, Bravado and In the Rigging--
+Austin: Love it.
+Sylvia: —are probably the ones I’m going to go with. I only get two though, right? 
+Austin: No, you get three, you get three. Three Adventure Experiences.
+Sylvia: Sea Legs is really tempting, actually.
+Austin: “Balance on any surface” is very good. 
+Sylvia: I’m gonna get rid of dualist, actually, and I’m gonna do In the Rigging, Sea Legs and Bravado. 
+Austin: Okay. Sea Legs—“Balance on any surface,” In the Rigging—“Climbing and acrobatic feats,” and Bravado—“Never falter.” Ali, do you wanna tell us your experiences and what they do? 
+Ali: Yeah, so, I’m a bard and my Adventure Experiences are Alluring Voice—“The voice of an angel,” Inspiration—“Power up your friends,” and Bag of Tricks—“Card magic, juggling clubs and other spectacles.” 
+(Keith and Austin laugh)
+Sylvia: Hell yeah.
+Austin: Love it. 
+(pause)
+Austin: And then do either of you know what your— I guess, yeah, Sylvia, you already said Artisan. 
+Sylvia: Yeah. 
+Ali: I think I’m going to go Apothecary, unless you are feeling strongly about— 
+Austin: No, I’m good with that. 
+Keith: I’ve got an adventurer job idea. I’m thinking, Paladin. 
+(pause)
+Austin: Paladin’s good, so you go like from Paladin to Farmer.
+Keith: Yeah, well, I could use those. I could use my holy magic to keep my plants Alive
+Austin: Ah! There you go. 
+Keith: I’m going to take, uh, Holy Armor, HeAling Touch and Smite. 
+Austin: Can you read what those do? 
+Keith: Yeah, “Divine protection,” “Treat wounds” and “Destroy the unholy”.
+Austin: Great. 
+(pause)
+Keith: So, Farmer. 
+Austin: Right. Classic, classic farmer shit.
+(Keith laughs)
+Austin: So that means Apothecary is taken. (pause) Apothecary, Chef, Artisan and Farmer are all taken, right?
+Dre: I believe so.
+Ali: Yeah.
+(long pause)
+(Bleep)
+Austin: (laughs) You wanna read that?
+Dre: I just wanted to help. 
+Austin: Thanks. Thanks. I like it.
+Dre: Because I was trying to see—
+Ali: Oooh, $10.99? 
+Dre: I know, it’s a great deal! I’m trying to see if Criss Angel or David Blaine make, like, shitty supplements they try to sell because then that would just be Ali’s character, maybe?
+(Ali laughs)
+Keith: And… did you find your answer? 
+Dre: I can’t find any for Criss Angel. Let me check David Blaine. I feel like David Blaine is more likely to have a weird supplement— 
+Keith: Than Criss Angel?! I don’t know. He’s a mind freak. 
+Austin: He is. That’s true, he is.
+Keith: Who knows what kind of pills you gotta take to become a mind freak! (crosstalking) Probably like TONS of vitamin B12.
+Ali: (crosstalking) “Unfreak your mind with my…”
+(Keith and Ali laugh)
+Dre: But David Blaine does all like the weird like— not even magic, but just like the weird endurance stunt stuff.
+Keith: I don’t know. Criss Angel had someone drive over him with a Hummer. 
+Austin: Really??
+Ali: A WHOLE Hummer?
+Keith: Yeah. Yeah. He totally did. Yeah.
+Austin: A stretch Hummer or a regular Hummer?
+Keith: Regular Hummer.
+Austin: Mm, not impressed. 
+Ali: Yeah. 
+Austin: Just not.
+Keith: but it was a Hummer One, so it was the biggest one. 
+Austin: Oh I see. I see. I’m gonna move our NPCs thing to where we could actually list NPCs, which is here. 
+Keith: Oh my God, I just noticed that the Platinum Magic Kit for Criss Angel Mindfreak, “over 350 Mindfreak magic tricks you can perform” does have a little As Seen on TV sticker. Which is not quite Mindfreak, I think, in vibe. 
+Austin: But you think the DVD logo is— DVD included logo. That’s acceptable. 
+Keith: Well how else are you going to learn all 350 Mindfreak magic tricks. 
+Austin: Magic?
+Keith: Over a $250 value. List price—$29.95. 
+Austin: $29.95. $10.99 here on Groupon. All right. I’ve chosen scholar. I think Roan, is my character, they have spent a lot of time, like. I think that they’re big and quiet and have a big hand cannon staff when they’re adventuring and then also are constantly just like steAling books from places you go to and reading them and very quiet. And this is kind of a thing that’s shitty about them is that they’ve retired and they’ve been like,
+Austin (as Roan): Yeah, I shot all the dragons. So I’m going to read now for a little bit. I’ll help out around like when you need me to help out on a thing, but like I’m retiring. This isn’t— I’m not getting a new job, I’m retiring. And so, again, I’ll help out when you need me to. But the thing I’m going to do is finally read all those books I stole from the dragon.
+Austin: Etc.. All right. 
+Have we all chosen stuff, do you have names? 
+Keith: I don’t have a name yet. 
+Austin: OK. 
+Sylvia: I’m still filling in my stuff, but I do have a name. My character is Iris Alphonse. 
+Austin: Great name. 
+Sylvia: Thank you. 
+Dre: It is a good name. 
+Sylvia: I’m still trying to think of a good captain moniker from when she was still sailing, but it coming. 
+Austin: Can you and I be, Sylvia, can Iris and Roan be from further than town— Like, the town has a port and then the port— maybe can we have come from like a pirate society or like a different culture together? And like, I was your bodyguard then? 
+Sylvia: Yeah, I believe. Yeah. You were like my first mate or the muscle on the ship. 
+Austin: Yeah. Hell, yeah. OK. (pause) So I kind of imagine it’s like… (whooshing sound as Austin’s drawing) And then it goes like (boop) and then that way. And then that way. So it’s like… (pause) Make this tiny… 
+Dre: Did you know that Criss Angel has a Hummer H2 that has one of Houdini’s wands built into it? And also has a card shuffler built into the front bumper.
+Ali: Is that the one that… ran him over?
+(Keith, Sylvia and Ali laughing)
+Dre: No, like I was trying to find the video of him getting run over by the car, but instead I just found his custom Hummer.
+Ali: Do you think that he got ran over by a Hummer, and was like, “you know what, that’s a solid car. I’ll pick—
+(Keith laughs)
+Ali: Or was it the other way around? 
+Keith: I thought you’re going to say, do you think that he got run over by a Hummer and said “that was a trick”.
+(Dre, Ali and Austin laugh)
+Keith: That was on purpose and it was a trick. 
+Austin: Haha! You’ve been fooled!
+Keith: By the mindfreak.
+Austin: Yeah, mindfreaked.
+Keith: How the mindfreak did I do it? You’ll never know. (pause) Take me to the hospital. Unrelated.
+Austin: Please. Yeah.
+(Keith and Austin laugh)
+Austin: This is really going to freak out the doctors and nurses. 
+Dre: I’m not hurt. I just need my magic juice refilled.
+Austin: (laughing) Yeah, please. 
+Dre: I’m doing a living room show in room 300B.
+(pause)
+Austin: I think we’re just about there. Keith, you need a name, a weapon, armor and eyes.
+Dre: I’m just filling in my weapon, armor and eyes right now.
+Austin: Don’t know if that ambulance came on, but I think the mindfreak’s on his way to another show.
+(Keith, Sylvia and Ali laugh)
+Dre: Maybe they’re on the way to run him over. 
+Austin: Yeah. 
+Keith: I kicked the bottom step of my flight of stairs really hard. Mindfreak. 
+(Dre and Austin laugh)
+Austin: Dre, can you give me your name and your look? And also pronouns, we should write down these pronouns so that we can reference them. Roan is they/them.
+Dre: OK, I’m Aldridge Blue (he/him). He has a set of sturdy knives which serve him well now in the kitchen. He has— I don’t think he really has robes. I think he just has like very simple— simple, but like well-kept work attire… 
+Austin: Sure. 
+Dre: Like for an inn, so it just looks like a pair of like, I don’t know, rugged slacks or whatever. And like maybe like a like a button up shirt and an apron. 
+Austin: That makes sense.
+Dre: Oh boy. Now my roll20’s being weird.
+Austin: Uh huh (laughs). 
+Dre: I think he’s bald, so he’s kind of in his 50s probably. And his eyes are curious. So he’s kind of like always looking around, trying to take everything in. 
+Austin: Cool. I’m changing my eyes to sleepy. I’ve decided. (pause) Iris is she/her, Sylvia? 
+Sylvia: Yeah, I can go through Iris. She is she/her. Her weapon is a jeweled cutlass. She has distinct leather armor. I figure it’s like pirate gear, right? You need to have a good silhouette. She’s got one of those dope jackets that’s great. And she has eager eyes. So she’s always just like, ready to go. Always excited. 
+Austin: Are we all humans, by the way, I guess we didn’t ask this. 
+Sylvia: I was actually thinking she was and elf.
+Austin: Yeah, hell yeah. 
+Sylvia: Because, you know, I didn’t get— I was a human in Hieron. 
+Austin: Yeah. You didn’t get to be an elf.
+Sylvia: Let’s be let’s be fucking diet human.
+Dre: Ooh! I want to be a gnome. 
+Austin: Mm. Fucking gnomes. Write it down. 
+Dre: Whoa!
+Austin: Gnomes bug me. I— we don’t have time. 
+Keith: Famously.
+Austin: Famously, we don’t have time to get into it. But not you. You’re good. You’re— I’m sorry. Gnomes bug me, Austin. Roan is cool with gnomes. Roan and gnomes get along famously. 
+Dre: One of your best friends is a gnome!
+Austin: I think more than one, thank you.
+Keith: (laughs) Two.
+Austin: Two of them. Ali. 
+Ali: Oh, hi. Yeah. So I’m playing Cassin, who is she/her. I think that she is like a bird person?
+Austin: Oooh, cool!
+Ali: If you do a quick Google Image search for rosefinches, that’s the bird that I’m thinking of. 
+Austin: Oh, those are pretty. 
+Ali: Yeah. They’re like kind of pinkish with brown wings, so I think that’s Cassin’s whole deal, too. And like humanoid, you know? But like, I think that I’m like short. Maybe I’m like three feet, three and a half feet. Like very round body, little bird person. (laughs) I have a beak and wings. But my wings have hands because I need to be able to work. (laughs) And I have a sturdy bow. I have cursed leather.
+Austin: Ooh.
+Ali: I think that it’s like a big leather vest almost that you tie in the back. And it has all these different sections of leather to go around my big bird torso. (laughs) And yeah, that’s where I’m at. 
+Austin: Keith!
+Keith: All right, still working on a name. I’m like halfway there, but I do carry a plain-looking sword. Also relatively plain thin platemail and then gentle eyes. 
+Austin: Love it. Love gentle eyes on a Paladin Farmer. 
+Austin (as Roan): Um, I’m Roan, I am they/them. I think I am what fifth edition of D&D would call a hobgoblin, which— D&D is weird. It’s like an orc but for D&D they’re different ones. But here’s the thing. I really like this image of a hobgoblin, I’m gonna put it over here. That is like the default hobgoblin vibe. Big, almost like a lion-like nose. Very, very hairy with like a deep widow’s peak. They have like very broad shoulders. And I have “ornate plate” written down, which I think was like a thing I got pretty late in my adventuring career. I think you always knew me, especially you, Captain Iris. I still call you Captain. Captain, you always knew me as like a big no-shirt person, just like topless. And I needed that ability to spin this huge, heavy hand cannon around quickly. But as I got older, and I think I’m in my late thirties now, it’s like, you know what? I’m gonna mostly just stand here and take hits while I reload this gun and then shoot you with it. (laughs) Like the move from, “you have a staff fighter on your crew” to “the staff fighter found a ‘legendary weapon,’ which was a gun,” to “I’m in dope plate mail, getting hit and taking shots back” was a really interesting arc, let’s say. But I’m a fighter, so.
+Austin:  All right. Do you want to take like a five minute break? We will take a smoke break before we’re actually done— or do you want to do the first game and then take a smoke break? Does that sound good? 
+Sylvia: It might help to get some of the like jitters out of the way.
+Austin: Yeah, the start. Yeah. That sounds good. (beep) Are you good with that, Keith? 
+Keith: Yeah, I’m good with that. As long as everyone’s fine that I am—
+Austin: That’s a good gnome chef. 
+Keith: —nearing a name. 
+Austin: Yeah. That should be fine. We’ve built our taverns. We’ve created our characters. They’ve not been named 100% yet. “The first step. Before you decided to put roots down here, before you found this group of friends, what were you doing? What was the first thing you learned about how to live in this town or in this, you know, place? Setup. Everyone plays. Every character gains one town experience. Take turns describing a short scene that led to that experience. Another player or players might come with you, although they do not gain that same experience. If you’re stuck, choose one of the options below.” 
+This is on page 23 of the book. And so this is like how you got your first experience being the type of person that you are here. Farmer, apothecary, artisan or chef? Takuma’s examples are: “A townsperson you helped once has welcomed you back. They become your mentor of sorts, passing on their skills. You find a good spot in town to sit and observe. Day by day, you learn what it’s like to live here. You told yourself long ago that you’d go fishing once you were settled. A friend takes you a quiet river bank just outside of town. A merchant offers you a good price for some of your adventuring gear. The chilDren take a liking to you. They pester you for more stories.” So it’s like a little, you know, a few sentences of how you got your first town experience. (pause) We also have to decide our NPC, I just remembered, also.
+Sylvia: What do we have, we have a wizard, a farmer, a chef, an artisan, an apothecary and a scholar. 
+Austin: Yeah. So left open from this set of things: hunter, guard, merchant, orator, priest. 
+Sylvia: We probably need— does one of us serve food? 
+Austin: Yeah. We also— Yeah. Yeah, totally. That’s the other thing is that we also do just need someone to, like, serve the food. Can we have a cool goblin waiter?
+Sylvia: Hell, yeah. 
+Ali: Yeah.
+Austin: From Goblin Town?
+Sylvia: I love a goblin.
+Austin: Hell yeah. I’m gonna need a name for them. I can go— go ahead.
+Keith: Do the NPCs need a job, in that way?
+Austin: Yes. Yeah. These NPCs do because this NPC is from our service. This is our service skill, specifically.
+Keith: What kind of job do you give a waiter?
+Austin: What..? They’re a waiter…
+Keith: Yeah. Well, that’s what I’m saying. Which of these—
+Austin: Oh, no, no, no. They don’t need. Okay. No. I thought you meant, do NPCs need— I got you. No, no, no. Yes. Yes. I was very confused. No, they can just be waitstaff or, they can come from that stuff, you know? But like, you know, the level 4 service NPC suggestions are “an accomplished head of staff, a prestigious sommelier.” In this case, I think it is just like whatever their name is, a goblin, waiter or server. (pause) Anyone have a good goblin name off the top of the dome?
+Sylvia: Ron.
+(Ali laughs)
+Austin: I’m already Roan. We can’t be. We can’t have Ron and Roan. We can. 
+Ali: Ron and Roan. 
+Austin: I’ve written it. I’ve written it. Yeah. 
+Ali: It should be Ron with a U.
+Austin: What..? 
+Keith: Run? 
+Austin: Run? Do you mean Run?
+(Keith and Ali laugh)
+Ali: No, the U is silent, not the O, so it’s Roun. 
+Austin: Oh I see.
+Sylvia: I thought you meant R-A-U-N.
+Austin: Right. That’s R(au)n. Yeah. 
+Ali: R-O-U-N.
+Keith: Raun is closer to Ron than R(o)un is to Ron.
+(Ali laughs)
+Keith: Plot yourself on the graph, Ron, Raun or R(o)un.
+Austin: Uh-huh. (typing) It sounds like Ron. (laughs) There we go. (pause) All right. Love it. 
+Keith: Is it in quotes because that’s what he’s always saying. People are like, “R-OW-n? - No.” 
+Austin: No, it sounds like Ron. It’s Ron.
+(Ali laughs)
+Austin (as Roan): My first experience here, the thing that gives me my first scholar experience is that we did— we got a merchant who came through who was like a book merchant traveling between the seaside town and the goblin town, the port town and the kind of like forested goblin town. And it was a book merchant. I was like, you know what? I always did like books! And so I’m taking the Well Read observation or experience which says, “You know it or you know where to learn about it”. So that is my that is my starting town experience.
+Ali: Oh, so we’re picking one of the four things and then explaining how we got it?
+Austin: How we got it. Or like, yeah, how did we get it? What was the first thing that kind of set us down the path of our town job? 
+Sylvia: I think I have one. 
+Austin: Mm-hmm? 
+Sylvia (as Iris): So I have this, I think it was like right when we were just getting set up, like we had just come here and it was like a particularly bad rainstorm. And we were st— well, we were still at the village. Someone’s roof basically caved in while I was staying there. And we ended up staying up all night trying to fix this person’s roof. And that’s how I learned the skill Repair. 
+Austin: “Fix anything with enough time.” Love it. Aldrich or Cassin or— oh, Keith, you have a name!
+Keith: Yes. Volte.
+Austin: Volte. Love it. Do any of you— V-O-L-T-E. Do any of you have a name or a, sorry, an experience? 
+Ali: I have one. 
+Ali (as Cassin): I’m taking Smell the Flowers—“A keen nose, mastery of sense.” And I think that, when I first came to the inn, it was like, oh, you know, I’m a bird person. I can sing for people, I guess. I can wait tables. But then I think there was a night where someone accidentally put— it was an easy mistake to make, but like a very, like— (laughs) someone put the wrong spice or something in a meal, they put like ginger instead of garlic or something—
+Ali: Which is a thing that’s happened to me and I did not notice, I don’t know how (laughs)
+Ali (as Cassin): —but I was like, oh you know, I think you made that wrong. That just doesn’t seem right. And like I was the one with the nose to know. 
+Austin: Love it. Uh, Volte or Aldrich? 
+Dre: I’ve got one. So I think most of Aldrich’s magic, I think whenever he went to wizard school, it’s like Fireball and Prestidigitation were the things you have to take, they’re your general like CEU credits at Wizard School. So like he knows that stuff. But what he was really into was weird, experimental, long-form magic that took lots of reagents and things like that. Regents? 
+Austin: Uh, reagents, reagents. 
+Dre: And so I think that translates into him as a chef having a refined palate.
+Sylvia: Is there molecular gastronomy in our fantasy world? (laughs)
+Austin: Is this a thing you rediscovered when you sat down to do this, basically? 
+Dre (as Aldrich): Yes. Because I imagine— I think when I was still an adventurer, I was very much like, I don’t have time for food. Like, I was fucking, I was the equivalent of, like, techbros inventing Soylent. Because like food was just the thing I have to do to keep my body going to do the things I actually care about. And then when I retired, like, kind of redid my relationship with food. 
+Austin: I love it. Was that something that you— I’m trying to get to the town experience part of it where it’s like, I would just want to think about, like, what is the moment after retire— was there a, this is why I just keep drilling in with questions. Was there a particular dish that you had that was like, “oh, shit! Food! 
+Dre (as Aldrich): Yeah. It was probably like that scene in Ratatouille where the main critic eats the Ratatouille and he’s like, “oh, my God.”
+Austin: Was it something you cooked or something somebody else cooked for you?
+Dre (as Aldrich): Something somebody else cooked for me. 
+Austin: Okay. 
+Dre (as Aldrich): But I think it probably was something simple, like a soup or something. 
+Austin: What if it was like, what if you get sick and Roun cooked you a soup? 
+Dre (as Aldrich): Oh, my God, that’s beautiful. 
+Austin: You know what I mean? Where he’s like, 
+Austin (as Roun): Don’t worry about it, chef. You sleep. I’ll prepare dinner tonight and then put together some soup.
+Austin: And you’re like, “Oh, wow. Wow. Food. Soup.” Volte? Farmer.
+Keith: Hi. So. Town experience. I think that… So we only have one NPC, we only ever Roun. 
+Austin: Right. I mean, there could be other NPCs around. If you want there to be other NPCs, this is the only other person who works for us. So, and I mean, that’s not true, I’ve already introduced, there is a bookseller who comes through, right? 
+Keith: Right. Yeah. 
+Austin: So, I don’t have a name for that person yet, but.
+Keith: So I think that Volte... 
+Keith (as Volte): Like the way to step into that farming role was to like, you’ve got to get the seeds for the farming. So I think I got some of the folks familiar with the area to show me what was growing in the wild around here and I basically was able to get like hardy wild seeds to then propagate into an actual farm. So I want to take Preservation—“Make food taste better and last longer”. 
+Austin: Nice. Cool. So some local people who live in the woods nearby or whatever. Who have their own little farms?
+Keith: Maybe from the goblin town, maybe from—
+Austin: Both, right? Or not even in one of the towns at all, maybe. Maybe like there are other people who don’t live in towns because not everyone has to fucking live in a town. Right?
+Keith: Right. Yeah. 
+Austin: All right. Cool. 
+Sylvia: Really quick. I don’t know if we missed it, is Volte a human? 
+Austin: Good catch.
+Keith: Volte is a human, yeah.
+Austin: OK. All right. Let’s take five minutes. Let’s take a smoke break here. “Step outside the room we’re currently playing in, at least step away a good distance from the table, if we’re in a large room.” I’m going to mute the call and mute the stream. We’ll be back in like five minutes. Hang out.
+———
+Hey, everyone. Discord is being bad, Discord booted Ali, and, quickly checking Twitter indicates that Discord is down some people right now. Also, brief correction. I said I mispronounced Takuma’s name before. Emphasis should be on the T-A. TAkuma. I was just listening to the Cenotaph, which— people who are anticipating our Beam Saber games should go listen to the Cenotaph, which is a podcast presented by You Don’t Meet at an Inn, which is done by Austin Ramsay, the creator of Beam Saber. And Takuma, along with a bunch of other great people, including a bunch other great game designers are in that game. 
+Ali: Hi!
+Austin: Hi! You’re back. 
+Dre: Heyyyy.
+Keith: Hey, Ali. 
+Ali: It took me twelve years. 
+Austin: Welcome back, twelve years later. 
+Ali: Yeah. 
+Austin: Twelve years later. 
+Keith: You missed a few seasons of Friends at the Table.
+Austin: It was OK, it was fine. 
+Ali: How far does it go?
+Austin: It was good! It was good. You know what? 
+Dre: I think it was some of our best work.
+Austin: I think so, too. I think so, too. You know, it was weird—
+Sylvia: I don’t know why we did that whole season where we only spoke in Italian accents, but it worked. 
+(Keith laughs)
+Austin: Yeah, I don’t know. It seemed like it would have been super racist, umm…
+Dre: But instead it was molto bene. 
+Ali: Yeah, thanks for honoring me in that way.
+Austin: That’s what it was.
+(Keith and Austin laugh)
+Austin: We all took an oath to only speak in Italian accents until you were back. So. 
+Ali: Appreciate that.
+Keith: And it was a for real oath. We flew to a location. We tied our hands in twine. We had a non-denominational priest burn the string off of our hands. 
+Austin: It’s true. People wanted me to spell the Cenotaph. 
+Keith: And then we ate lasagna.
+Austin: It was delicious. C-E-N-O-T-A-P-H. C-E-N-O-T-A-P-H. Cenotaph. Beam Saber. “A cenotaph is a monument to someone buried elsewhere, especially one commemorating people who died in a war.” The premise of the Cenotaph is fantastic. They’re a Beam Saber crew that runs a body retrieval Service? They basically help people reunite with their dead during a war. And it’s a really good. And they do a lot of— the episode I just listened to, they have for like the third or fourth time in a row backstabbed the group they meant to work with. So they’ve gotten a new reputation. It’s going great. Love Beam Saber. Love, love the Cenotaph. All right. (pause) Let’s find it here. 
+Ali: Yeah, where are we at, did I miss anything?
+Austin: No, you didn’t miss anything. We just finished our first smoke break. Now we are going to begin playing the game with mini games. There are nine different mini games that I have listed in a handout here, the list of games. I guess there’s really 11. But The First Steps we’ve done and we won’t redo it. And In the Rhythm of Things, will be the last one that we do. And so we have a bunch of other options. And we should really just start with whoever has one and then start from there— has only they really want to do. There are the following: 
+* NPC Side Quest. Your adventuring days may be over, but there is plenty of people in town that could use your help.
+* Wear and Tear. There’s always something to fix or clean or pay off. 
+* Sliced. Sometimes supply routes get disrupted. Or maybe you just want to stand out from the rest of the taverns. Whatever the reason, you’re playing this game because you want or need to do one thing—cook with monster parts. 
+* Romancing a Stranger. Someone in the tavern makes eye contact with you and their gaze lingers a little longer than you’d expect. Your coworkers urge you on and make every excuse they can to send you over to talk to this lovely stranger.
+* Off the Clock. Where do you go after the tables are wiped down? Who’s heard every story you have about the worst people who have walked in? 
+* A Friendly Tavern Brawl. Every tavern has its rowdy patrons. You know they’re good at heart, but sometimes when the ale flowing and spirits are high, things get a little out of hand. How do you handle the situation? 
+* Festival Day. Your town has it has a few festival days a year and they are some of your busiest. How do you prepare? How do you handle the influx of people? 
+* A Bard’s Tale. During your time as an adventurer, you accomplished many daring deeds. In fact, some of those deeds are retold this day by traveling bards. 
+* A Glass of the Gods. Sometimes a troubled adventurer will come in looking for answers, and letting them drink themselves into oblivion is the wrong answer. It’s up to you to mix the perfect drink, something perfect for the situation that can push the adventurer to look inside and find the answer on their own.
+* And A Distinguished Guest. Someone important is in town and they’re almost here. The tavern has to be at its best for this guest. After all, they might leave a generous tip.
+Keith: I’ve got something. 
+Austin: All right. What do you wanna do? 
+Keith: I think it would be really fun right now we have— what do we have? One in everything in terms of the inn’s rating?
+Austin: Yes, Cuisine, Atmosphere and Service. Only a one in each. 
+Keith: I would love to do Distinguished Guest. 
+Austin: All right. Let’s do it! I’m down.
+(Keith laughs)
+Austin: This is how this game works. Distinguished Guest. “Someone important is in town and they’re already almost here. The tavern has to be at its best for this guest. After all, they might leave a generous tip. As a group, figure out the details about the important guest. Where do they come from? How important are they? Have you heard of them before? One player will play the guest. Other players are the challengers. At least one for each challenge. Each challenge tests one of your tavern ratings.” So there will be a Cuisine challenge. There will be an Atmosphere challenge. And there will be a Service challenge. Who is this guest? 
+Sylvia: Is it the mayor of the Goblin Village? 
+Austin: The mayor of the Goblin Village, adding it to our list of— do we have a name for him? Also, I’ve decided the bookseller’s name is Genn, G-E-N-N. Genn is she/her. Roun, it sounded like, was he/him. What’s the deal with this mayor? (pause) I’m just gonna type letters until we get there. 
+Dre: His name’s No(u)rm, but with a U. 
+Keith: Great. 
+Ali: Stooopppp.
+(Keith and Ali laugh)
+Austin: I hate this. He/him?
+Sylvia: I mean, I was going to suggest Jonn, J-O-N-N. 
+Keith: Jo(u)nn, J-O-U-N-N.
+(Sylvia and Ali laugh)
+Austin: Nourm, Junn, J-U-N-N.
+Dre: Don’t berate my goblin names, Austin!
+Austin: You’re right. I’m sorry. Can I write down Nourm Jounn? Is that acceptable? Is there a hyphen? 
+Keith: Nourm and Jounn? It’s pronounced—
+Austin: Is this he/him? What are the pronouns here?
+Keith: It sounded like he/him. 
+Austin: It did sound like that. All right. All right. Goblin Town Mayor. Great. 
+Dre: Really felt like Nourm Jounn was my favorite Martian manhunter. 
+Austin: (laughs) Ah. I got it, Dre. (laughs) One second, let me make this so I can see the chat and also see the book. There we go.  All right. So who is playing Nourm Jounn? And who is playing the people who will be doing the Cuisine? The Atmosphere and the Service? 
+Dre: I would like to be doing the Cuisine. 
+Austin: (chuckles) I would think so.
+Keith: I could be Nourm Jounn. 
+Austin: OK. 
+Keith: Do we need a farmer? 
+Austin: No, no, no, no. Totally not.
+Keith: I guess the only thing I can think of is to consult with the chef.
+Austin: You could do that. I want to put that out there. That is a thing you could do. But also, if you wanna play Nourm Jounn, I’m not going to stop you. 
+Ali: I think I’m going to take Atmosphere. 
+Austin: OK. And then Service. (pause) I could do Service. (pause) Sylvia, do you want to sit this one out or do you want to help with one of these things?
+Sylvia: I could help in some way. I can help with the Service or Atmosphere. 
+Austin: OK, cool. Should we walk down this path— which challenge you want to do? What order to we want to do this in? Cuisine, Atmosphere and Service. My gut says Atmosphere then Cuisine then— or then Service then Cuisine? 
+Sylvia: Yeah, I feel like Atmosphere is definitely like the one you can do the most ahead of time. 
+Austin: Yeah. 
+Ali: Mm-hmm. 
+Austin: All right. “Atmosphere Challenge. Challengers: Describe what you do to make the tavern look and feel welcoming. Are there special decorations? Do you hire local musicians? When you finish describing your preparations, flip a number of coins equal to your Atmosphere rating. If any challenger has an experience that they described using in the scene, you may flip an extra coin.” All right, so.
+Austin (as Roan): Captain, it’s you and me, we need to make this place look good. 
+Sylvia (as Iris): The number one thing is decoration, right? We need to give this place my sense of ambiance. People like that when they’re dining. I’ve got a lot of leftover lumber that we could use for this fire. 
+Austin (as Roan): Make the fire extra big and powerful. Keep it warm. I hope it’s rainy. You know what? I’m gonna see if I can figure out how to make it raining. 
+Sylvia (as Iris): I mean, you know, normally I’d say no, but that actually seems like a useful thing today. Why not. (pause) I’m gonna go look and see if any of those paintings and portraits that we’ve stolen over the years could look nice being hung up on the wall. 
+Austin (as Roan): Great idea. All right. 
+Sylvia (as Iris): Just like family photos from places (chuckles). 
+Austin (as Roan): All right. So I’m using my— this is a bad thing I decided, I’m not a wizard at all. 
+Ali (as Cassin): Yeah, you chose Service and then took (laughs). 
+Austin (as Roan): No. Oh, you’re right. You’re right. I did choose Service. I’m sorry.
+Ali (as Cassin): No, we’ll just switch, it’s OK. (laughs)
+Austin (as Roan): You sure? I just— my Captain was doing a thing and I was like, I got to get involved because my Captain is here. That just happened.
+Ali (as Cassin): It’s OK, we can switch.
+Austin (as Roan): We can switch, you’re a bard. You’re better at Atmosphere than me.
+Keith: We can do a do over. 
+Austin (as Roan): We can do it— Oh, fuck, you’re a bard and I said I wanted to do some wizard shit. 
+Sylvia (as Iris): Yeah.
+Keith: You know, also, to be fair, you also said that your character doesn’t know what he* wants. 
+Austin: That is true! They/them. Roan is they/them.
+Keith: Oh, they, I’m sorry. 
+Austin (as Roan): I have a really bad answer for how I’m going to make it rain, which is I’m gonna go find some wizards and intimidate them into doing what I want.
+Sylvia (as Iris): Oh no. 
+Austin (as Roan): So I’m wandering off into the woods to be like— I’m going to make it really rainy so that it makes the awning look more impressive and so that it makes my Captain’s fire that much more comforting. 
+Keith: How do you run an inn? You intimidate strangers into helping, right? That’s how you—
+Austin (as Roan): That’s how I run an inn! Yeah, I got this big gun. So that’s what I’m doing.
+Austin: All right, we have to flip some coins. 
+Sylvia: Yeah. I don’t know if I have anything here that would really help. 
+Austin: What do you have? Artisan? I guess, right. You don’t have any Artisan things yet. OK. Well, “if any challenger has an experience they described using the scene, you may flip one extra coin”. So we start with one, then we start with another because I’m intimidating some local witches into casting a rain spell. So that’s two. 
+Sylvia: This sounds so differently for how I expected it to. 
+Austin: This is not what you thought was going to happen?
+Sylvia (as Iris): No, because I also got mixed up and I— Well, I guess I didn’t get mixed up because I was, like, Oh, I was doing this with Ali. 
+Austin: You did! You made that choice and then I fucking open my mouth like an asshole. 
+(Ali laughs)
+Austin: And now I’m rolling 2D6 out here—
+Sylvia: I love it.
+Austin: —or 2D2. Tails one, heads two? Are we happy with that?
+Ali and Sylvia: Yeah. 
+Austin: Okay. You’re sure you’re not using any of your adventurer skills to get us a third die? 
+Sylvia: I had an idea for Bravado earlier that was cute, but this doesn’t work (chuckles).
+Austin: What’s the idea? Maybe it’s not too—
+Keith: Doesn’t that help with intimidating people?
+Sylvia: I guess it would. I just. That’s not my character.
+Austin: No, it’s not. 
+Austin (as Roan): I’m gonna go be mean for you, Captain.
+(Ali laughs)
+Dre: What if you’re hanging up all these pictures and stuff and you have to use your Sea Legs to balance, to hang things in weird places. 
+Keith: It’s a weird boat and it’s rigging, climbing and acrobatic feats to get—
+Austin: To get up to— where did we leave the paintings? We left them in the— (laughs)
+Sylvia: I think I’d go with Sea Legs over In the Rigging on that because if I save In the Rigging for later, I can do a flip at some point.
+Austin: True. 
+Ali: There you go. And that’s impressive. That’s great Atmosphere. (laughs)
+Austin: That’s great Atmosphere. 3D2, then. What we’re looking for here is heads. If they’re tails, it’s gonna go bad. 3D2. 
+Dre: Heads is two, right?
+Austin: Heads is two. So we got one heads. If— it didn’t, it— OK. “If two or more coins come up heads, the guest describes a special memory that they will always have with their stay.” That did not happen.
+Sylvia: No? The flip didn’t impress them? 
+Austin: No. “Two: if all points are tails, the guests describe something in the tavern that is considered passé in their culture.” So far, we didn’t fail anything. This isn’t so bad. I think. Takuma, if you’re in the chat and we fucked this up somehow, I mean, besides the way I just did.
+(Ali laughs)
+Keith: OK. 
+Austin: This is fine. So you tell me. Yeah. You tell me, Nourm Jounn.
+Keith: So, if it had been three heads, then it was an unforgettable experience. 
+Austin: If it was TWO or more heads, it would have been.
+Keith: Two or more. OK. But if it was all fails, then you’ve committed a faux pas. And this is in between faux pas and unforgettable. Anywhere in between that. 
+Austin: So what do we think? Do you think the witches did not maybe cast the storm? Or do you think it went really bad—
+Keith (as Nourm Jounn): No, the witches cast the storm. But the weather said, and I’m opening the door and I’m soaking wet, and the weather said it was going to be clear and I’m soaking wet. This sucks. 
+(laughing)
+Keith (as Nourm Jounn): I’m soaking wet. Is there a towel? Is there like a—
+Austin (as Roan): I nod— or I do a wink at, sorry, what is my Captain’s name again?
+Sylvia (as Iris): Iris. 
+Austin (as Roan): Iris. See, I told you. I told you I was going to make it happen.
+(Keith laughs)
+Sylvia (as Iris): I do a flip and grab a card. 
+(Austin and Keith laugh)
+Keith (as Nourm Jounn): Wow. That. Wow. OK. Um.
+(Keith, Sylvia, and Dre laugh)
+Austin (as Roan): That doesn’t quite even out, I guess. 
+Sylvia (as Iris): Welcome to the Topside. 
+Keith (as Nourm Jounn): Oh, well, OK. Thanks. So towel. Great.
+Sylvia (as Iris): We do have a very warm fire. 
+Austin: That was Atmosphere. That’s all we need for you for this moment. 
+Keith: OK. That’s what I thought. 
+Austin: Service Challenge. 
+Ali (as Cassin): Yeah. 
+Austin (as Roan): Hey, thanks, Cassin, for picking this up for me. 
+Ali (as Cassin): (laughs) You went out. You’ve been gone all day, I don’t understand. 
+Austin (as Roan): Yeah, I had some other things to take care of. 
+Ali (as Cassin): Yeah, I think that I… I think that the distinguished guest has an envoy. So it’s like this person with like 6-8 other people. And I think that I have both communicated that we’re expecting someone to our regular guests and also made sure that the people who are working here, which I guess is just us and Roun. (laughs)
+Austin (as Roan): And Roun, yeah.
+Ali (as Cassin): Have very clear— like they know exactly when their breaks are and they’re all like sequential, you know. So, yeah, (laughs) Roun takes their lunch break and then I do. So we all have an hour to ourselves to like kind of just unwind and just chill. Even though it’s like a busy, hectic day.
+Austin: I want to note, in my defense, the service challenge says “flip a number of coins equal to your Atmosphere rating”. I must have just gotten confused cause there’s a typo here. That’s probably…
+Keith: Did you flip too many coins? 
+Austin: No, no, no. I did the wrong challenge. I did Atmosphere instead of Service—
+Keith: Oh, okay. 
+Austin: I’m just saying, Takuma, there is a typo here that led me to intimidate some of witches.
+(Ali and Keith laugh)
+Keith: Rightfully!
+Ali (as Cassin): Anyway. I think that the skill that I’m going to use is Inspiration, which is to power up my friends. 
+Austin: Hell yeah! 
+Ali: So what is that, I just roll two… 
+Austin: So that’ll be. Yeah, it’ll be two— Because we have a one in Service, currently. So 2D2. Looking for a two, looking for some twos. 
+Ali: Looking for some twos! (rolls) OK, that’s a split roll. 
+Austin: That’s a two! “Heads: If any coin comes up heads, the guest describes, presumably, a special memory that they will always have of their stay. And tails: if all coins are tails, the guest describes a frustration they have with the Service.” But hey, any coin comes up heads. That happened. So describe something. Describe, Roun Jounn. Is that what your name is? 
+Keith (as Nourm Jounn): Nourm. Jounn.
+Austin: Nourm Jounn. Ron Jon is… Ron Jon is a surf shop I grew up with. 
+Dre: Oh, yeah!
+Austin: The Ron Jon Surf Shop. 
+(Ali laughs)
+Austin: Here’s what I love about the Ron Jon Surf Shop. Their logo has, in quotes, “one of a kind”. It’s a franchise. So it is not one of a kind.
+Keith: One of a kind franchise. 
+Austin (as Roan): Yeah. So, sorry. Nourm Jounn, describe for us something that is a special memory you will always have of the Service here. 
+Keith: No, not special memory. Just a memory. Because it was only one heads, right?
+Austin: No. Just “if any coin comes up heads, the guest describes a special memory”. This is positive. This is a pass. 
+Keith: Oh, okay. 
+Austin: Service Challenges are not the same as Atmosphere Challenges. At least that’s how it’s written, how it’s written in the book I’m looking at, if any coin comes up heads.
+Keith: All right. 
+Austin: I’ll take this win (chuckles).
+Keith: Ali? Can you describe to me the way that Cassin used Inspiration to power up the friends? 
+Ali (as Cassin): I think that I… When we all adventure together and also Roun’s in on it, too, before we would go into a dungeon, we would have like a cheer that we would do (laughs). 
+(Austin, Ali and Keith laugh)
+Ali (as Cassin): So before, like when Service came in. Like before people came in, we like all went into the kitchen and we were like, yeah. Jounn’s on his way or whatever the fuck your name is.
+(all laugh) 
+Ali (as Cassin): We were like, “we’re strong and mighty. We all work in concert. We can do our best and we’re going to. (laughs) And then we all clap.
+Keith: Okay. So you’re a bard. So this is a magical cheer. So I think what it is, is I think, these people are carrying so much stuff in one go. I just feel like everybody here is carrying like 80 pounds of stuff in their arms.
+(Dre and Ali laugh)
+Keith: Like, this is not like a lazy man’s load, like trying to bring in all the groceries from the trunk in one go, so you have to make a second trip. These people are effortlessly carrying eight sacks of flour to the kitchen. That’s dedication. And true strength. 
+Ali: That’s just how much they want to make you a good cake.
+Keith: It’s gonna be a massive cake. Very excited. 
+Austin: Uhh. All right. Last but not least, Dre. Cuisine time. I just want to set the situation a little bit here. If we pass two or more challenges, we succeed. “The guest describes a lavish gift they present to the tavern before they leave. The gift helps you instantly upgrade one of your ratings.” So we really need a win here, bud.
+Dre: But if I if I like, find ways to try and mix all of my experiences in here. Do I not get to use them again later? 
+Austin: I think you only choose an experience per… I don’t think you can— because you only ever get to flip one extra coin. So you might describe multiple things, but I mean— so, the next step here is going to be that if we used any, ta ta ta ta da, Adventure Experiences, we will cross it out and then write in a new Town Experience to go with it, I believe. That’s us changing from being adventurers to being servants and, you know, chefs and et cetera. OK. 
+Dre (as Aldrich): So I think we start with Roun’s soup. That’s the opening course. The soup that Roun served me so long ago. Who started me on this culinary journey. And then the next course is a charcuterie plate. And I use my Prestidigitation so that every time you pick up a piece of charcuterie, then a mini version of that animal runs around on the charcuterie board.
+Keith: (distantly) What the fuck.
+Austin: (laughing) Is that positive??
+Dre (as Aldrich): Yeah.
+Austin: Also time out. What is the mini version of a pepperoni? What is the mini animal version?
+Dre: A pig! 
+Austin: So you just get little pig?! So but if there’s multiple different types of like pork meats, is it always just a little pig? 
+Dre: Yeah, but I only put one pork meat on there. Come on. 
+Austin: Also, real quick, this is what I’m talking about. Pepperoni is not just pork, it is pork and beef, mixed together.
+Keith: OK, but that’s when it’s made in a factory that puts like byproducts and stuff to lower costs. But you know, we’re talking about fantasy pepperoni.
+Austin: OK. 
+Ali: So if you’re a fantasy butcher, you’re still going to use all of the leftover butcher parts you’re using.
+Keith: You use them in different ways, though.
+Dre: Yeah, but that’s the last one. The last one is like fantasy bologna. And then all of the animals come out and play together while you’re eating. 
+Austin: I guess that’s a 2D2? 
+Dre (as Aldrich): Listen, you eat with your eyes and your ears as much as your nose and your mouth. 
+Austin: This is what you say out loud as you serve this?
+Dre: Yes. 100%. (laughs) Don’t lecture me. 
+Austin: We really need some twos here.
+Sylvia: Never in my life once have eaten with my ears. 
+Dre: Well. You’ve never been to the top side. (laughs)
+(bleep)
+Austin: YOOOOOOO. Well, Distinguished Guest, two twos! What’s good! 
+Ali: Hell yeah.
+Austin: Fucking Rick Ross verses out here!
+(Dre and Ali laugh)
+Austin: If at least two coins come up heads, the guest player describes what they most enjoy about the meal. (pause) Nourm Jounn. 
+Keith (as Nourm Jounn): I’m thinking. I’m thinking of what impressed me most because that was perfect, start to finish. I can’t. Couldn’t possibly isolate one detail! I mean, I have a little pig sitting on my shoulder. I have a tiny little pig on my shoulder from that pepperoni! I thought it would go away after I ate the pepperoni, but it’s just sitting up there and it’s been there the whole meal! And I don’t know when it will go away, but I will be sad when it does.
+Dre (as Aldrich): Well, it’s it’s it’s supposed to go away when your food is done digesting, but if you want, I could make it— I can make it permanent.
+Keith (as Nourm Jounn): You can make it permanent? Would you like to be a permanent little pig? 
+(oinks)
+Keith (as Nourm Jounn): Does anyone speak pig? Do any of you all speak pig? 
+(oinks)
+Ali (as Cassin): Oh, yes. Hi. Hello. 
+Keith (as Nourm Jounn): Hi.
+Ali (as Cassin): They’re saying, “Yes, I would like to. But I only eat corn.”
+Keith (as Nourm Jounn): That’s fine. Yeah, permanent. Yeah. May I get some corn for the friend.
+(Austin and Ali laugh)
+Austin (as Roan): I have a weird question. Is this little pig the lavish gift we get from succeeding? 
+(Keith and Ali laugh)
+Ali (as Cassin): This is the lavish gift we’re giving! 
+Austin (as Roan): I was just curious if it was going to get returned. Maybe there’s another lavish gift. I guess, Nourm Jounn, do you have a gift prepared? 
+(pause)
+Keith (as Nourm Jounn): Yeah, I have a gift prepared. 
+Keith: How much authorship do I have here in terms of how this gift affects the inn? Cause I have an idea.
+Austin: It will raise one of our ratings by one. 
+Keith: What if the gift heavily implies that one of the ratings goes up specifically? 
+Austin: I think that’s fine. If everyone else agrees. 
+Ali: Yeah?
+Keith (as Nourm Jounn): I’ll say this, the absolute worst thing about this place are the horrible straw beds that I slept on. Literally outrageous that you would start an inn with straw beds to start! But I had such a great time with everything else, I’m sending over a pile, a heap of beds, a metric heap. 
+Austin: Great. All right. I’ve raised our Atmosphere to two. How do we say goodbye to this Mayor? To Nourm Jounn as he leaves. Is there a goodbye song, Cassin? 
+Ali (as Cassin): Yeah. 
+Keith (as Nourm Jounn): And sing it, please. 
+Ali (as Cassin): (laughs) Oh, gracious guests, you blessed us with your presence. I hope that you enjoyed your time here. (laughs)
+Sylvia (as Iris): Thank you for the presents.
+(Austin, Keith, Dre, and Ali laugh loudly and someone claps)
+Ali: There we go!
+Austin: Swish, dunk.
+Keith: Very good!
+Austin: Scene. (laughs) So, “Using your experiences: when you use one or more of your Adventure Experiences in the game, at the end of that game, you will choose one of those Adventure Experiences, cross it out and make a new Town Experience in your town job. Narrate a short scene that describes what led to this new experience. It does not have to be related to what just happened in the game because time is passing between games as well and characters have lives outside that work. These scenes should be about one to three sentences.” So what got used, I used Intimidation. Cassin, you used Inspiration. Iris, you used In the Rigging cause you did do that flip. And then, Aldrich you used Prestidigitation, you’ve already crossed that out. Do you already know what your your new skill is? 
+Dre: Yes. I’m going to take Clean Cut.
+Austin: What’s that do? 
+Dre: Clean Cut says “I mince, dice, chop and slice”. I think, like I said, you eat with your eyes. And so I’ve learned how to make just the most impressive and perfectly precise cuts and chops. 
+Austin: Yeah. Love it. Anyone else ready?
+Ali: We’re removing one and gaining another?
+Austin: Yeah. You’re removing one and gaining one from your town job. 
+Ali: And it doesn’t have to be the one we used. 
+Austin: It has to— I believe it should be the one that you used. 
+Keith: But the new one doesn’t have to be related to. 
+Austin: Right. So what we need there, Dre, is a scene, one to three sentences, that goes into you learning that. It doesn’t have to be directly related to the thing you lost or the thing that we just did. Sorry, the scene doesn’t have to be related, but the skill does. You replace that specific skill. Does that make sense? 
+Dre: Yes. 
+Austin: All right. So what is the experience that got you that new skill? That new experience. 
+Dre (as Aldrich): I’ve learned how to carve an onion to look like a pig. 
+Austin: Is that— Because, like, you’re like, okay, I had to do this in a way that isn’t just always…
+Dre (as Aldrich): Yeah. Well, now everyone’s heard about the pig. So like, I don’t have the components to cast, you know, that specific spell over and over to give everyone their own like actual living magic pig. But onions are cheap. They’re everywhere. So I’ve learned how to cut an onion into a pig. 
+Keith: Put that in Other Notes, “Onions are cheap and they’re everywhere”.
+Austin: Yeah. Love it. Anyone else ready?
+Sylvia: I think I have mine. What is your experience? So I think Iris took the like sort of nonplussed attitude towards the atmosphere of our inn very personally. And she was like, 
+Sylvia (as Iris): OK, well, the stuff we stole isn’t cutting it. I’m just gonna make my own stuff to decorate the place with.
+Sylvia: So she has basically devoted all the time now into making like designer ornaments and stuff in her free time because she wants to impress the people who come to the inn because, you know, she’s to be the best at everything she does. 
+Austin: Yeah, I like this. This is good. Anyone else? 
+Ali (as Cassin): I have mine. I’m thinking Pipeleaf, which is “to calm the nerves”.
+Austin: Fuck yeah. 
+Dre: Now we’re a real kitchen. 
+(Ali laughing)
+Austin: Hell yes.
+Keith: Guest is having a really bad time. Here, smoke this.
+(Austin and Ali laugh)
+Ali: I think that it’s specifically like— I think that there’s like— working with a crew in this way and seeing the differences in endurance required to do this other sort of skill is kind of profound for me. Because I think that when you go to a dungeon, it seems really stressful, you’re out for a month, but you have like lots of little breaks in between. And if you’d need opportunities to kind of like huddle, you have those if you need them. But like if you’re working, when you’re like running an inn, you have very busy hours you can account for. You have slow times that you can account for and you always have an eight hour day. So I think that Cassin is like trying to figure out new ways to kind of support this crew. And I guess this weed is it. (laughs)
+Austin: This weed is it. To calm the nerves. Love it. 
+Austin (as Roan): Um, I’ve crossed off Intimidation and I thought about picking something that would be like, “hey, you’re actually nice to people”, but I don’t think it works like that that quickly. But I do think that my Captain Iris did lecture me. Like I think, you tell me if this is accurate, Iris. But at some point you were like, “So how did you make it rain?” I was like, “oh, yeah. I just went and strong-armed the witches”. And you were like, “you what?”
+Sylvia (as Iris): We’re not doing that anymore!
+Austin (as Roan): And so I went back to try to make it right. And they don’t like me still. But this becomes a thing I end up doing where I’m going out more and more to meet with local groups. And as that, I end up taking a Priest thing. Scholar only has three things to choose from and I’ll probably get around to taking the other two. But I took from Priest, Ritual. “Ritual: knowledge of the traditions and customs of many different groups.” And so I have just been like going around to try to improve our reputation after I fucked up. And in the process, as a scholar, I begin to learn like, OK, like there is a way to go to a person and say, how do I get you to make it rain for me? But it is not by showing them the gun I carry around. It is by dealing with them, like regular people who have their own traditions and customs and mechanisms for asking for things and etc.. So I’ve started to do that stuff more than just gunboat diplomacy. 
+Austin: Who else. Is that it? Is that all of us?
+Keith: Do I do one?
+Austin: No, because you were not in this game as Volte.
+Keith: That’s what I thought. I just wanted to make sure. It does say you have a life outside the scene. 
+Austin: Yeah, but it’s only when you spend that Experience that you that you trade one in. All right. So we finished the game, so at this point I wanna ask if anyone wants to take a smoke break and we want to take five minutes away. If not, we can keep on moving. Note:e that was one game, so we don’t yet need to do the Wear and Tear. Does anyone have another game they want to play? (pause) I have not yet really browsed this list.
+Keith: You read them all out.
+Ali: I want to do… A Glass of the Gods.
+Austin: A Glass of the Gods. Okay. 
+Ali: Sometimes a troubled adventurer will come in looking for answers and letting them drink themselves to oblivion is the wrong answer. It’s up to you to mix the perfect drink, something perfect for the situation that can push the adventurer to look inside and find the answer on their own. 
+Austin: Dre, thank you for sharing this onion pig. Very cute onion pig. 
+Ali: Jesus Christ. 
+Keith: Awww.
+Austin: The mouth sure is.
+Keith: I like the worm nose… 
+Austin: I don’t think it’s worms. 
+Keith: It’s worms. 
+Austin: I’m closing it. 
+Keith: Looks like the start of the infection from.
+Austin: Don’t ruin onion pig. You’re right though— “A Glass of the Gods: Adventure is like a stiff drink and most of time you’re just looking for a good ale or cheap wine. However, sometimes a troubled adventurer will come in looking for answers and letting them drink themselves to oblivion is the wrong answer. It’s your responsibility to mix the perfect drink. Something perfect for the situation.” Blah, blah, blah. “Setup: One player is the adventurer. Another is the bartender. The adventurer can be a player character, a regular patron, or a new face. The bartender should be a player character or an NPC created for a Cuisine rating of three or four.” Can we not do this yet? Wait one second. “The bartender should be a player, character and NPC created for a cuisine rating of three or four.”
+Sylvia: I think it’s like we can only— if we’re not Cuisine rating 3 or 4, one of the player characters would have to do it, right? 
+Austin: Yes, I think that that’s totally right. Yes. Yes. So one of the player characters can do it. Who wants to be the adventurer here? Who wants to be the bartender? 
+Ali: I can take the bartender since I suggested this?
+Austin: Totally. 
+Keith: And there’s some overlap with Apothecary. 
+Austin: Totally. Does anyone have a cool adventurer in mind? (pause) I do. OK. I’m going to be someone from the Port Town who is on their way back from the Ancient Ruins. Sorry, “You have a trouble. Come up with something on your own or use the examples below.” 
+Austin (as the Adventurer): Oh, I just wiped in the Ancient Ruins, right? Like my part. I’m supposed to be the leader of this team. Not only did we not bust through these ruins and find the ancient mysteries and shit, but my team all got hurt real bad. And they’re fine. Like we used the Resurrection spell and turned to the clerics hut in the forest outside the ruins and all that. But I didn’t get hurt. And so I have a little guilt where it’s like, should I have gone down with the ship, so to speak? Should I have been more out there, more leading from the front where I can get hurt? Like I’m a ranger but I’m the leader. So it’s kind of weird, where I fight from the back and, you know, I have like a pet giant armadillo who is like shielded and shields me from attacks all the time. And so it’s like, I kind of came out looking good, but everybody else got hurt. And that kind of makes me feel like a bad leader, etc.. So that’s my trouble. 
+Austin: “Bartender. Describe the current atmosphere of the tavern and one detail about the adventurer that draws your attention.”
+Ali (as Cassin): I think the atmosphere is a little… It’s like kind of empty-ish. I think this is a little bit after that big storm that we just had. But it’s only a couple days later, so the ground is still kind of wet. And if people were traveling to get here, they haven’t gotten here yet because they either haven’t been able to leave their houses or it’s going to take them longer. You know what I mean? So it’s kind of like when you go into a restaurant on a Tuesday afternoon kind of thing and there’s like the people who work there, maybe one or two other guys, but like people just chillin’. And I think…
+Austin (as Kurtle): My name is Kurtle. Kurtle with a K and a T. Kurt-le. She/her. Some people call me Kurt, but I prefer Kurtle. What is one detail that draws your attention of me, the adventurer? 
+Ali (as Cassin): I think that I notice that there’s a part of leather on your equipment sack or whatever that’s more worn down. So I think that that’s like I either notice that you use that weapon a ton or that that’s where you keep something really important or where you keep something you use a lot because it’s kind of more— it’s a lighter color than the rest of it.
+Austin: Cool. “Mixing the Glass. The bartender asks questions, the adventure answers. Come up with questions on your own or use the examples below. Ask as many as are necessary.”
+Ali (as Cassin): OK. Why did you become an adventurer? 
+Austin (as Kurtle): I wanted to see the world. I wanted to get away from— you know, it’s one of those things where you live in a port town your whole life and you see people coming and going. And it makes the world seem so big. You see little bits and pieces of everything. You see someone come in and they’re wearing like a cool gold tiger. And like, I’ve never seen a tiger. But whoever made that armor, they were able to replicate the look of a tiger, which means there’s tigers out there. And so I wanted to, like, go see the world, not just bits and pieces of it, but see it with my own eyes, see the whole thing. 
+Ali (as Cassin): Yeah?
+Austin: Great bartender rapport. Yeah.
+(Keith and Ali laugh)
+Ali: My brain was like halfway between, oh, I would make a scene out of this. And like, I should just ask another question, so I didn’t know what to say.
+Keith: You might as well have said “interesting” and rolled your eyes.
+(Ali and Austin laugh)
+Austin: You may as well have typed back “haha, yeah”. 
+Sylvia: “woooow thats wild”
+(Austin, Ali and Keith laugh loudly)
+Keith: Sometimes the only thing to say is “aha yeah”. 
+Austin: Yeah, yeah, I know. 
+Keith: Cause you agree! And it’s a little funny.
+Austin: It’s a little funny but it’s not that funny. Um, no, the way this is gonna go is you’re gonna ask enough questions to once you feel comfortable that you have enough answers and a vision of who Kurtle is. Then you use my answers to create something for my trouble. “Is there a story to the drink? Where is it from? Who is it made for?” And then I will respond by describing what side of the trouble does this drink help me see. What part of it helps me forget or move on. And then you’ll just tell me the list of ingredients and stuff here. 
+Ali: Oh, ok. And there’s no like rolling or whatever. 
+Austin: No, this is just a fun sequence. We’ve introduced a new NPC, you know, etc.. 
+Ali: Yeah. 
+Ali (as Cassin): When was the last time someone served you your favorite meal? 
+Austin (as Kurtle): Right before we went in the dungeon. There’s a sandwich, a sandwich? No. What’s a good pre-dungeon food? It’s like a salad. It’s like a chicken Caesar salad, basically, where you use whatever proteins available. So it’s not always chicken, but it’s light enough to where you’re not going to necessarily feel like you’re weighed down when you start going into the dungeon. But it’s meaty enough, has enough ‘mmm’ so that you can, like, feel tough. And my, who in my party does this? Our priest. We have a priest. We’ve a cleric. And our cleric is our chef. And she made it for me. And it was really good. And I was thinking about it when that possessed armor put an ax into her chest. (pause) She’s OK, again. We’re all healed up, it’s fine. But I was like, oh, no, you made me that good salad.
+Ali (as Cassin): Yeah. Aldrich makes a great millet mix and I… have seen him through some tough times, too. 
+Austin: There you go.
+        Ali (as Cassin): Part of the job. Do you prefer fruit or vegetables?
+Austin (as Kurtle): I eat more vegetables, but I prefer fruit. 
+Ali (as Cassin): OK. OK. Sounds like a lot of people. 
+Austin (as Kurtle): Is that common? Do a lot of people… 
+Ali (as Cassin): Well, you know, fruit is sometimes hard to come by. And, you know, in your line of work, you want to be, you want to eat vegetables. So you’re—
+Austin (as Kurtle): That’s right. No, you got it. A lot of root vegetables, a lot of things you can just find in the forest. 
+Keith (as Volte): Lot of onions.
+Austin (as Kurtle): Oh, yeah, a lot of onions. 
+Ali (as Cassin): We have a great onion special, by the way. If you wanted one. 
+Austin (as Kurtle): Is it? I’ve heard about the pig. You can make a pig onion? 
+Ali (as Cassin): Mm-hmm. Do you want one with your drink?
+Austin (as Kurtle): Yeah, I would love a pig onion. How do I eat a pig onion? Thank you.
+Ali (as Cassin): I’m not gonna tell you, you have to see it and then I’ll tell you how we do it. But I’m not gonna spoil the surprise for you.
+Austin: I want to bring up the onion pig again (laughs) and I want you to imagine this being served at a restaurant for you?
+Ali: It’s just— It’s fine. 
+Ali (as Cassin): If you weren’t a ranger, what would you be doing?
+Austin (as Kurtle): I guess I’d probably be working in my mom’s shop. She made like fishing hooks and tackle and stuff. So, you know, a lot of metalwork, but like light metal work. A lot of like just running supply back and forth, a lot of dealing with customers.
+Ali (as Cassin): Mmm. And you weren’t interested in that? You’re more interested in tigers.
+Austin (as Kurtle): Tigers and climbing and, you know, being a leader. I’m not really interested in people, but like I want to be a leader.
+Ali (as Cassin): Um, sure. (laughs)
+Keith: “aha yea”.
+Austin: Yep!
+Ali: Wait, what did the Buffalo Wild Wings guy always say? (laughs)
+Austin: Oh my God. Was it just like, “That’s awesome!” Was that what it was? He was like, “awesome”. 
+Sylvia: Yeah. He just kept calling—
+Keith: Yeah, awesome. 
+Austin: This was at Gen Con, we went to a Buffalo Wild Wings for dinner at one point and whenever we ordered food. I wanna be clear, this is not like— he was not like, “oh, cool, you guys are here for Gen Con? Awesome.” It was like, “can I get a Diet Coke?” He was like, “awesome”. 
+Keith: Also, other point, he was the best waiter that we had the whole time we were there.
+Austin: Oh, easy. Easy. A hundred percent. 
+Sylvia: There was that one guy at that burger place we went to.
+Austin: See, I only went to that burger place once and we had that person who was trying extremely hard to be— 
+Keith: Very, very the sort of waiter that your boss wants you to be.
+Austin: Yes, exactly.
+Keith: Which is the worst kind of waiter to me. 
+Austin: Agreed.
+Keith: As a former waiter, it’s very difficult to be that sort of waiter and it misses a lot. 
+Austin: Let’s keep moving here. Any other questions or are you ready to mix this drink? 
+Ali: I think I’m ready to mix this drink. 
+Austin: All right. 
+Ali: “Use the adventurer’s answers to create something for their trouble. Is there a story to this drink? Where is it from? Who is it first made for?”
+Austin: There are some ingredients and stuff here, but go ahead. 
+Ali: Yeah, yeah, yeah. I think that it’s kind of like, it’s like a standard drink. It’s not. It’s one that has a lot of components, but it’s something you could order at the bar by name.
+Austin: Right. Right. Like a Manhattan or a Martini, whatever. It’s just like— it’s a drink. It’s a drink that like isn’t. Yeah. 
+Ali: Yeah. I think that it is. It’s like a little sweet, it’s iced. But it also does have kind of like a— there’s like a bitter quality to it. I think that there’s maybe some wormwood in it. Yeah. And I’m looking at this list (laughs). I don’t think that it’s particularly strong, but it has a kind of bite to it. It tastes like liquor when you drink it.
+Austin: You’re like, I’m fuckin’, I’m drinking some liquor. 
+Ali: Right. Yeah, yeah, yeah. It’s that, it’s like a Manhattan quality in that it’s like, here’s some booze, here’s like a fruit thing and then here’s a little bit of a bitter thing and here you go. And I think it’s a little bit remixed from that in that there’s an extra. I think the rim is salted with honey with another sort of— you dip the rim in honey and then you dip it in a fruit powder,  it’s a fruit that’s been dehydrated.
+Austin: Delicious.
+Ali: Yeah! I think that… Well, I guess “what side of the trouble does this drink help you see,” that’s something that you answer, I don’t have to.
+Austin: Yeah, that’s on me. I think it is like…
+Austin (as Kurtle): I have been… 
+Austin: I mean, I’m trying to decide if I want this person to learn the lesson that they should learn. 
+Keith: Is there a role for this? 
+Austin: No.
+Keith: Oh, great. Firebrands, sometimes you just do a scene. 
+Austin: I think that she… Kurtle drinks this, drinks another one and realizes that, to see the world, you don’t have to be a leader necessarily and that you’re allowed to… You’re allowed to be an average— This is an average drink, right? This is like a regular cocktail, you get this cocktail anywhere. But there’s a little extra touch on it, right? And so it’s like, being willing to… you don’t have to be the big fancy drink. You don’t have to be the thing that’s a unique, one of a kind, whatever, which is kind of how she’s thought of herself in the world. And so I think she’s gonna spend some time just like being in a party, instead of trying to lead a party. Not take on all that responsibility. You don’t have to redraw the map every time. You can be the ranger in a party. You don’t have to be the leader who is also a ranger. And so she’s gonna take a back seat. She’s still gonna do her best to, like, take a little flavor where she can, you know. A little just like, ooh, yeah, hey, this is my specialty. But she’s gonna take a step back. But she’s not going to give up on being an adventurer quite yet. So I’m just going to change it to a member of an adventuring party. “Freelance adventurer” is how I’m going to change her thing. “Freelance adventurer.” Boom, done. 
+Austin (as Kurtle): Thanks. 
+Austin: And then she crashes here for the night because she’s drunk. 
+Ali: Well, we’ve got new beds. 
+Austin: Hell yeah, we’ve got new beds, Atmosphere 2. That’s a scene. Does anyone want to take a smoke break or should we continue?
+Dre: I’m good to keep going. 
+Austin: All right. Does anyone have another game they want to play? Ideally, Dre or Sylvia or me, since we haven’t set one up yet. 
+Dre: I would like to play Sliced.
+Austin: All right, “Sliced: You can handle typical tavern food, fine. You’ve got a very nice stew, as established. Great bread from a baker down the street and plenty of ale. But sometimes supply routes get disrupted or maybe you just want to stand out from the rest of the taverns. Whatever the reason, you’re playing this game because you want or need to do one thing—cook with monster parts.” So “Setup: Cook. To determine what ingredients are at the core of your dish, draw three cards from a standard deck. For each card drawn, roll two six-sided die to determine how large the ingredient source is and where it’s from. Then, interpret the card based on suit and rank.”
+Ali: Sorry, Takuma’s saying in the chat that it’s Wear and Tear time because the First Step— 
+Austin: Oh, it does count. Gotcha. Oh, I did not reAlise the First Step counts. OK, cool. Thank you, Takuma. All right, then let’s do Wear and Tear and then we can come to Sliced after. Does that sound good?
+Dre: Yeah.
+Austin: All right. Cool. Thank you so much. All right. “Wear and Tear: There is always something to fix or clean or pay off. After playing the game, you may increase one of your tavern ratings by one. Anyone can play. Decide together what parts of the tavern need fixing and touching up and what the new features of the tavern are. Take turns choosing actions to take. Everyone should pick one.” And these options here are: “ask another player character for help: Describe how you combine one of your experiences with one of theirs to great effect. As you’re working: You observe a town person or another player character. Describe what you learn from your observations. You’re completely out of your element: Describe how with one of your experiences you worked so efficiently that the work is done early.” Takuma, does this count as using one of your experiences? I’m guessing it does, because I think one in three on these options, both say describe how you use your experiences, but I’m just double checking. 
+So, uh, yeah. So we take turns choosing actions to take and everyone picks one. I guess just actions. Are these actions from this set of three things? Or is this action? Do we mean just like, hey, we want— to fix up the Cuisine, we need to blah, blah, blah, blah, blah? OK. So it does count as using experiences. So what do we want? What parts need to be touched up here? And what are the new features going to be? 
+Sylvia: I mean, I think maybe if we want to go straight into Sliced after this, we could be trying to upgrade the kitchen in some way.
+Austin: Sure. Do you think that that— talk to me about what that means. Is it just like a better…
+Sylvia: It’s a couple of things. It could be expanding it. It could be replacing old equipment or makeshift equipment with proper equipment now that we have a relationship more with the town. It’s like an overall makeover too, just more organized. I’ve been imagining it as very cramped in there. Because like we’re a tiny little thing right now. Probably making it so we can have more than one person cooking at a time, I think, is kind of the goal.
+Austin: I have a proposal. Let’s knock the back out the kitchen. And have an outdoor grill underneath.
+Sylvia: Yes.
+(affirmative ooohs)
+Austin: Like, you know what I mean? Like out back. The indoor part will still be there and it’s still covered by a roof and all that. But like that way we can cook stuff in all these different ways. We can do coal. You know what I mean? Hot leeks that are grilled? Mm, love it.
+(Ali laughs)
+Austin: Anyone have any other thoughts on what we can redo? I don’t know if this Cuisine or Service. I feel like it could be either.
+Keith: I think this is Cuisine.
+Ali: This feels like Cuisine, yeah.
+Austin: So how do we do this? I guess, again, we choose these actions.
+Ali (as Cassin):: I would like to ask Iris to help me repanel some of the sections of the roof?
+Austin: Ooh, good idea.
+Ali (as Cassin): I’m a bird person, so I feel very comfortable up there (laughs)
+Sylvia (as Iris): And I have Sea Legs, I can balance on any surface.
+Ali (as Cassin): See? There you go, that’s why you’re up here with me. 
+Austin: Are you having any of your experiences to help, Cassin? Because it says “describe if you combine one of your experiences with one of theirs to great effect.” 
+Ali (as Cassin): Yeah, I think that I… let me look at my experiences.
+Austin: It can be your new ones too, which you won’t cross off, you’ll just keep those.
+Ali: Oh, okay.
+Sylvia (as Iris): Then maybe I’ll just use Repair. 
+(Keith and Ali laugh)
+Ali: Oh hey, that’s a good call.
+Austin: Yeah, weird. 
+Dre: Hey, I didn’t know that. 
+Austin: No, no, no. I got you. 
+Dre: I know. I know. 
+Ali (as Cassin): I think that I’m going to be using Alluring Voice because I think it’s a situation where Iris is able to balance and actually stand on the roof. But because I’m a bird person, I’m kind of flying to different points of the roof to kind of get different angles on how things are being laid out or how it should expand or how it should move or whatever, that I can be like, oh, hey, you should put this here. Oh, hey— you know, I’m trying to direct her a little bit.
+Keith: But singing it. 
+Ali (as Cassin): But singing it. Yeah. 
+Austin: Love a bird bard. 
+Sylvia: I love it. Yeah. I’m all the way in.
+Ali: Hell yeah. 
+Austin (as Roan): I’m going to burn through my endurance and say that I am completely in my element. “Describe how with one of your experiences you work so efficiently the work is done early.” Yeah. Nothing can stop me. I’m— at the beginning of the day, at the beginning of this plan everyone was like, “all right. It’s going to take a week to get the back of the kitchen opened up”. And I’m like, nah, it’s two days. And everyone’s like, “what?” I’m like, it’s two days.
+Ali: You Jon Taffering this?
+Austin: Yeah. (laughs) I’m Jon Taffering this. We can get it done in two days. And I do—
+Keith: You already have the theme. So it’s perfect. 
+Austin: It’s perfect. Exactly.
+Keith: You can rename it the Sea Bar. It makes way more sense. 
+Austin: We’ll use a letter C. Why? It’s the letter. And then. Yeah. 
+Austin (as Roan): My endurance. Nothing can stop me. It is just like, I am up all night. 
+Dre: You’re all the way up.
+Austin (as Roan): I’m all the way up. I’m at the Topside, just breaking the back of this thing open. I do it in a way that is like— I’m not sledgehammering it. I know we can use this wood again. And so it’s like— or if I am sledgehammering it, it’s to knock stuff loose. It’s like the soft hit of a sledgehammer. Not like the heavy, break-through-the-wall hit. And I’m just going for it. And so, yeah, completely in my element. Maybe I should have been a Builder instead of a Scholar, who could say? Just crossing that out. 
+Austin: Who’s next? Who else is helping in this? You also don’t need to. If you want to keep all your shit, you totally can. Or again, you can just use your… Or is it everybody? Everyone should pick one. Yeah. So everyone has to do this. 
+Dre: I know what I’m gonna pick. Aldrich is completely in his element because he has Fireball, mastery of flame. He knows how to set up the grill to have maximum control. To make it super efficient. 
+Austin: Hell yeah. Cool. I guess all we need is Volte now, or Volte and Iris should pick one too. I think Iris has to pick one, even though she already helped.
+Keith: I’m pretty sure that’s right.
+Austin and Ali: Yeah.
+Keith: Let’s see. 
+Sylvia: I have one really quick, Keith.
+Keith: OK, great.
+Sylvia (as Iris): I think I’m going to do “As you’re working, you observe a town person or another player character”. I’m gonna pick Roan and “describe what you learn from your observations”. And I think it’s kind of a combination of like, while we’ve been working on the roof, Cass and I, I see what Roan’s doing. Putting their all into getting this done as quickly as they can. And like, even though I know this has been a really tough transition for them, it makes me really happy to see my best friend trying to make this work. And so it just motivates me, I guess, is what I learned from it. It’s like, yeah, we’re all trying— Know everyone is here because they want to be and they want to make this work. It’s not like I’m forcing them to, like, settle down. 
+Austin: Yeah. 
+Keith (as Volt): And you know what, I’m going to pick— I don’t know if this works, but I’m going to pick… Yeah, this is sort of not “ask another player character for help”. But I was thinking— I’m trying to think of a way to use Holy Armor, my Divine Protection move, to protect the rest of the inn while it’s getting blown apart by hammers and exploding fire.
+Austin (as Roan): Well, we both said we were being very careful.
+Keith (as Volt): And this might help. 
+Austin: That’s possible, right? Holy Armor doesn’t need to be literal Holy Armor. Could you say a prayer to your god to like lock the rest of the— create like sanctuary, so to speak? 
+Keith (as Volt): Yeah. Yeah. To both the people around that are also helping that don’t have powers. And also to all of this wall that we don’t want to blow up. 
+Austin: All right. That’s everybody, right? I’ve upgraded our Cuisine to two. We have this outdoor grill now that lets us cook a bunch of different stuff. 
+Austin (as Roan): I’ve also crossed off my Endurance Fighter Experience and added a new Town Experience, which is “Keen Observation: Something only you could see.” And I think I get this from something completely unrelated. Or it’s a little related, I’ll color it a little bit with relation to this, which is, you know, it’s been two or three weeks since we did this, maybe a week since we did this. And it’s just working. Aldrich is back, you know, grilling some stuff up. I can just smell the onion on the outside griddle. And, you know, the meats are charring and it’s just like a perfect thing.  And I’m up on the roof, basically, like I’m just hanging out. Maybe we put one of the crow’s nests up there and I’m just hanging out with some of my books. And like, you know, every 20 minutes I stop to just look around and I just get a really keen sense of what is around us and what the world is. And I feel kind of at one and at peace for the first time since we retired. So I’m taking Keen Observation, something only you could see. 
+Ali: Are we all taking new…
+Austin: If you used one of your your Adventurer Experiences, you’re crossing it off, replacing it. Yeah. Ideally, with one from your job, but you can also pick one from another town job if you’d prefer. 
+Ali: So I’m adding a barbecue to the back of our inn. 
+Austin: Thank you. Oh, I love it. Look at that. 
+Sylvia: Excellent. 
+Dre (as Aldrich): I took Grill Master. 
+Austin: Oh, yeah, obviously. Is that really just what it is? Expert at grilling foods and subordinates. Love it. 
+Keith: And subordinates. 
+Austin: Yeah. You’re grilling someone. You’re being like, “all right. Tell me what really happened here”. 
+Keith: Chef Ramsey-ing it. 
+Austin: Yeah. Exactly. (laughs)
+Dre (as Aldrich): I put two onion pigs on either side of your ears and I scream, what are you? 
+Austin: (laughs) Volte? How about you? 
+Keith (as Volte): I picked Bounty. Your harvests are large and exquisite. And I feel like this is sort of just a more natural evolution of picking the right seeds and growing and just like working hard at doing farm stuff. Like there’s nothing that you can do to make like— I guess that’s not true in a magic world. But like, to grow your plants big and healthy, the thing you have to do is work hard at farming.
+Austin: Yeah. Can we get a scene for you, Aldrich? Is it just grilling? For this experience.
+Dre (as Aldrich): Yeah. Oh man. There’s probably somebody in the town over that. Like. Is a grill master that Aldrich went to learn from.
+Keith: Either that or the pile of ruined, charred meat next to the grill. 
+Austin: Cool. 
+Ali: Oh, I have one. 
+Austin: Yes, please. 
+Ali (as Cassin): I have Botanist, which is that “you know every plant in the area”. And I think that when me and Iris were fixing the roof, we started really, really early. So by the time we were done, it was like middle of the day getting into sunset. And I just chilled out there, because it was like, you know, I did this work. I’m just going to hang out. Now I’m gonna sit up here and smell this barbecue because it owns. And I got some time to really take in the area around us because I was up there. So, yeah, now I know every plant in the area.
+Austin: Nice. All right. Do we want to take another break here or do you want to keep going? 
+Ali: I think we were supposed to take a smoke break before Wear and Tear—
+Austin: We were, before Wear and Tear.
+Ali: —we should maybe take one now?
+Austin: Yeah, let’s take another five minute here. We’ll be right back. 
+———
+Austin: Hello. We’re back. We’re back for a couple more rounds. I think we’re gonna have to— I don’t think, we are going to end around 8:00 p.m. Eastern today because one of us has a hard out. But my guess is we will not finish the game tonight. I’d love to come back to it sooner than later. I know we say that a lot, but this is such a light pick up and play thing that I feel like we should be able to do it hopefully quickly. I know Thanksgiving in the States is hitting soon, but we’ll see. We’ll see about schedule. Dre. You had wanted to do Sliced, right?
+Dre: Yeah.
+Austin: Let’s pick up Sliced. (pause) Where did it go? There it is. “We’re gonna cook with monster parts.” I’m not going to reread the thing on Sliced, we’re gonna cook with monster parts. “Setup: Cook. To determine what ingredients are at the core of your dish, draw three cards from a standard deck. For each card drawn, roll two six-sided die to determine how large the ingredient’s source is and where it’s from, then interpret the card based on suit and rank. Each other player will then describe the ingredient in more detail to tell you a highlight of this ingredient or a difficulty you might have while cooking it. Your character is a competent cook. Just remember to mention how you get around an ingredient difficulty. You may be criticized for it at the end of the game.” So draw three cards, Dre, then play them out. 
+Dre: Oh, the graphics aren’t loading for me.
+Keith: No, I see mine. It’s in Memories under yours. 
+Austin: Oh, I see it.
+Keith: Yeah, it’s just down below.
+Austin: Weird shapes. Thanks, Roll20. All right.
+Dre: I literally cannot see them at all.
+Austin: Oh, really? You don’t see these at all? Try refreshing real quick. I’ve pulled them up to be under our map and our sketch.
+Keith: Because if you don’t see them, I don’t think anybody’s going to tell you what they are. 
+Austin: No, it’s not going to happen. 
+Keith: It’s not going to happen. So sorry. 
+Dre: We fucked up. No, I can’t see them. Let me try one thing really quick.
+Austin: I wonder if they’re marked weird. Like I wonder if it’s like— no, control by all players. Everyone should be able to see them.
+Sylvia and Keith: I can see them.
+Austin: Well.
+Dre: Now I can see them. 
+Austin: Also, so I’m gonna put them in. Let’s put them in number order— 
+Keith: Prove it.
+Austin: —yeah, prove it. What are they? 
+Dre: There’s a three of spades, five of clubs and a queen of spades
+Keith: Lucky guess, Mindfreak!
+(all laugh)
+Sylvia: Now get hit by this Hummer!
+(laughing)
+(Austin making car noises)
+(Keith laughing loudly)
+Austin: Give me 2D6 for each of these also. So give me 2D6 three times. You also can do 6D6.
+Ali: (laughs) I just saw Keith’s memory and I just want to give kudos to Keith.
+Austin: It’s good.
+(Keith laughs)
+Austin: Do you want to read that out loud?
+Keith: “Aldrich is being constrained by our reliance on onions.”
+Austin: True, well, that’s why we’re gonna do this Sliced. I’ll note that we should read our Memories real quick while we take a moment here.
+Austin (as Roan): Mine are “Cassin did that great cheer and everyone got so strong and not to hit people, but to serve food fast and efficiently. And Iris is really in this for us all. I knew I could protect people with my strength, but I didn’t know I could inspire people that way.” That was when Iris got inspired to help us repair stuff and stuff. 
+Austin: Can we get some other memories?
+Sylvia (as Iris): I just have one for right now. “Fixing the roof with Cassin was so fun. I can’t get the songs from that day out of my head.”
+Austin: Very cute.
+Ali (as Cassin): My memories are: “Aldrich truly saved the day with our distinguished guest with his clever recipes and tricks.” And then my other recipe is “Roun pulled their weight when we had to put that barbecue in. That fighting spirit must be fueled by ribs.”
+Austin: (laughs) Delicious. I’m writing these down. All right. So what do we get? We got— give me the cards again. There we go. Three of spades. 
+Dre: Five of clubs. And a queen of spades. 
+Austin: So spades are plants. So three of spades is a fragile plant. And it is a tiny amount. So the first— I’m just gonna write this out better. Tiny. So it’s a tiny amount. It’s from underground. It’s a fragile plant, too. 
+(Keith laughs)
+Austin: Yeah, uh huh, Keith, go ahead.
+Keith: I didn’t know you took the onion thing to heart that much.
+(Dre laughs)
+Austin: Two, the second thing here. You rolled a six and a one. A six means that there is “a colossal amount. You found it underground.” Found underground. 
+Sylvia: That works.
+Austin: “It is a fungi, lichen or other” because it’s a club. And because it’s five, it has an exoskeleton. 
+Keith: So you needed a little bit of an underground plant. You had a lot of underground plant, but it has an exoskeleton
+Austin: It has an exoskeleton. I’d say that’s probably a difficulty, right? 
+Dre: Yeah, you gotta crack in there. 
+Keith: But it’s fragile. 
+Austin: No, the fragile one is the first one. Fragile is the tiny amount, we have a tiny amount of an underground fragile plant, a colossal amount of an underground exoskeleton-having fungi. And three is another plant. We vegetarian in here. This is not a spade, but it’s a queen. And queens are ancient. So the third one is a person-sized amount of an ancient plant from the desert. 
+Keith: We were gonna get some monsters and you come back with a bucket of produce.
+Austin: Produce can be monsters. This is— I’ve read Dungeon Meshi. There is definitely— 
+Dre: You’ve played Pokémon. 
+Austin: Yes, exactly. 
+Keith: I’m not saying that— I’m not saying they’re not monsters. I’m just saying that it’s all a very specific kind of monster. 
+Austin: Right. So now we, the rest of the players, need to each describe the ingredient in more detail and tell you a highlight of the ingredient or a difficulty you have while cooking it. So let’s go around the table with that. Does anyone have a highlight or a difficulty that will come up here?
+Keith (as Volte): The carapace of this fungi. It’s got its own bowl built in. That’s great. What a useful thing. 
+Austin: That’s good. 
+Keith (as Volte): You have to scrape the fungi right out of its carapace.
+Dre: You’re describing like a Munyun— a, Munyun—.
+(Keith laughs)
+Austin: That’s what it’s called! 
+Ali: Munyun…
+Keith: It’s a fungal man-onion.
+Austin: You got it, Ali, you typing it for me? Perfect. It’s spelled like Munyu(u)n, but you put a U in there.
+(Ali and Austin laugh)
+Keith: It’s takes us to a O-U, M-O-U-N-I-O-N. The goblin claimed it.
+Austin: It’s a goblin Mounion.
+Austin (as Roan): I’m going to say that the person-sized amount that we have of an ancient plant from the desert is like— It’s like a cacti fruit. It’s like a little— the like cacti berries. You have to get them from a cacti. And I know what you’re thinking, does that mean that there are spines on it and that’s the difficulty? No. It’s that, as you heat them, if they go past a certain heat point, they explode. They go (pop) and it’s loud. And, I mean, that’s a difficult— maybe you can work with that, I don’t know. But they’re very heat sensitive, but they’re good. But you have to heat them to make them taste good.
+Sylvia (as Iris): I have a highlight for the one that we have a tiny amount of. And that is it has the perfect amount of sweetness and doesn’t overpower the dish. I really liked that example highlight there. And I thought it would be cute to apply to the thing we only have a tiny bit of. 
+Austin: Oh yeah, can you say that one more time? So I can write it. 
+Sylvia (as Iris): It has the perfect amount of sweetness and doesn’t overpower the dish.
+Austin: “Perfect amount of sweetness, not overpowering.” And that is— what type of food is that? I know it’s a tiny amount of a plant, but what type of plant is it? I guess actually is this to be interpreted as actually the cook interprets? So what’s up with that first tiny amount plant? Dre? 
+Dre: Oh, this is for me, OK. 
+Austin: Besides the fact that we know that it has the perfect amount of sweetness and it’s not overpowering.
+Dre (as Aldrich): I think the plant itself is probably really big. But the thing that you harvest out of it that is the ingredient is very small. And it’s just a tiny droplet of like a paste. 
+Austin: OK, cool. So we’ve done that, we know what the stuff is now. “Tasters. You are the test group for the new dish. The player characters, a small group of trusted regulars or a handful of strangers and a big tasting event. Each of you has something you want from the dish, come up with something on your own or use something from the list below, the examples below.” Do we want—
+Keith: Do we each come up with a dish?
+Austin: We each come up with a thing we want. It’s not a dish. We’re tasters. So we could be our player characters. We could be a big tasting event. We can be just like some regulars who stopped by. I kind of like it just being us. I kind of like it being like Aldrich has come up with a new dish and has been like, “All right, everyone, I want you to taste it.”
+Keith: To try to figure out if it should be on the menu. 
+Austin: Yeah, yeah, yeah. It’s like an internal taste test. Exactly. Go ahead, Cassin.
+Ali: I want to be somebody else. (laughs)
+Austin: Okay. Who do you want to be? 
+Ali: I’m also in this scene. No, you can go on. But I’ll introduce those people once we’re up to it.
+Keith: People? 
+Ali: Yeah. 
+Keith: All right. 
+Austin: Roan wants… What time of year it? (pause)
+Keith: Same time, this is late fall.
+Austin: So it’s like late fall, it’s getting kind of chilly. Roan wants something that’s going to warm their body up and make them feel like toasty. 
+Austin (as Roan): You know, just like, oh, wow, good. I want to sip a hot toddy with whatever we’re eating. 
+Austin: You know what I mean? I want that vibe. I want to listen to like someone play acoustic music. I want that to be what it feels like. 
+Sylvia: I know what Iris is looking for. 
+Austin: What is it? 
+Sylvia (as Iris): Everybody knows that the best food doesn’t need utensils. I want something that I can just eat with my hands. 
+Keith (as Volte): I want something with no visible onions, nothing at dice or bigger. As a flavor ingredient, it’s fine, but I’m sick of having chunks of onion in everything. And sometimes just a whole onion is sometimes what I eat.
+Austin: I just want to note, you said you’re sick of having onion in everything. But for a moment, I thought you were going to put a period at the end of “in”. “I’m sick of having onion in,” which is the most British phrasing.
+Sylvia: Fucking Scott Conant over here. 
+Austin: (laughs) Ali, what’s your deal? Who are you playing as? 
+Ali: I’m playing as three sisters who are staying at the inn currently. They’re traveling to the Ancient Ruins to paint it. They’re all 10 years apart, so I think like 50, 40, 30. And I think that the three of those girls want a new twist on a classic dish. I think that they all like they all grew up together, sort of, or at least in the same house. So they all have a, say, favorite food, which is like… I don’t know. I think it’s like a pasta sort of situation, like it’s a pasta with a certain kind of sauce. And they’re kind of craving that flavor palate, but not, you know. You know, they’re traveling. You’re far from home. They don’t want just some spaghetti meatballs, you know? They want something that feels like it’s unique but familiar. 
+Austin: Alright, I’m going to take a screen— I need to do a thing real quick. Actually I don’t need to, we can just do this with words. All right.
+Dre: Sylvia, what was your character’s thing? 
+Sylvia (as Iris): I want to even be able to eat this with my hands. 
+Dre: Right. OK. 
+Austin: So let’s go. Yeah. “Hands. Seasonally appropriate. So, no onions. Something to warm me up. A new twist on a classic pasta dish. Able to eat it with my hands.” 
+Keith: Pasta dish? I didn’t hear that it specifically had to be a pasta dish. 
+Austin: That is what the sisters demanded. The sisters have a last name or anything, Ali?
+Ali: I think that they’re the—
+Keith: Tortellini.
+Ali: Something with a C. They’re the Conte trio. C-O-N-T-E.
+(Keith laughs)
+Ali: Cortellini (laughs).
+Austin: Cortellini sisters.
+Keith: C-O-U-R-T…
+Dre: Molto bene!
+Austin: Oh my G—
+Keith: Callback to season 9! Very funny. 
+Austin: Very good. Oh my God. All right. Let me add this chart to the map real quick. Stewpot Sliced chart. Not the map but the screen. Because Dre, you’re about to roll three dice. Or, no, that’s not true. Not three dice. More than that. You are about to roll six dice. Yeah, it is four plus your Cuisine rating. And then you place dice on the following squares. There is Goal, there is Seasoning, there’s Presentation and there’s Texture. We’ll read what you place where as you do it. So can we, what did we say? 6D6. (pause) You got, I’ll go from top to bottom, a one, a four, a five, a five, a five, and a six. That’s damn good. 
+Keith: Where does that one go? 
+Austin: It doesn’t have to go anywhere.
+Keith: Oh, you roll six and you take the top four.
+Austin: You take the top four because we have two in Cuisine. 
+Keith: Wow. Wow. You got top marks in everything, I think. 
+Austin: If you want— No. No. Yes. Yes. Yes. You’re totally right. Holy shit. Yeah. You got top marks. I don’t even need this on screen. Do you wanna read—
+Dre: I can describe you what I’ve done. 
+Sylvia: There are also prompts at the end of each one. 
+Austin: Yes. Yeah. So go ahead, you pick your order, Dre. 
+Dre: I mean, I guess it doesn’t— Yeah. OK. So is this like I…
+Austin: “Resolve the prompts. If any character loved the dish, you may make one of them a permanently named NPC or write down a new NPC who has this as their favorite dish.” I say you would, as the chef, you should resolve these prompts in whatever order you want. And tell us… I want you to talk to us about what this dish is, honestly. 
+Dre (as Aldrich): OK, I’m going to start with Goal. Because the thing that I was really stumped about when I opened the basket and I saw all of the ingredients before me, I was like, how can I make something that you can eat with just your hands? And then I realized I could just use the exoskeleton. And so now what you have before you today is a collection of various Mounions and each Mounion, you can kind of shoot it like an oyster and it has a different taste profile to it.
+Keith: Spaghetti shooters.
+(Ali and Keith laugh)
+Austin: I love it. I have a question. Is a Mounion— I guess it’s a fungus more than a— It’s not an onion. So this is not—
+Dre: It’s a mushroom onion.
+Austin: —It doesn’t break the onion rule.
+Dre: No. Yeah.
+Austin: Okay. I just wanna make sure. 
+Dre: Yeah. 
+Austin: All right. Who? Who wants to give Chef Aldrich a compliment? 
+Keith: For Goal, no, not yet.
+Austin: Not for Goal. Does anyone want to give Chef Aldrich a— I guess this feels like it should be a compliment from whoever demanded no hands.
+Sylvia (as Iris): I can pick this thing up, no problem! Great hand-feel. Look at this, I got two at once! 
+Austin: Love it. All right.
+Dre (as Aldrich): Let’s see. I’m going to go with Texture. I’m trying to figure out how to make this a pasta dish was difficult. But what I realized was that I can actually achieve maximum harvest of the small plant that we use the paste from for the seasoning by if I put it in a grill with the exploding cacti. Because then the cacti explode and they finely shred the other plant here. So then I was actually able to get enough of the paste that I could work the paste into the pasta noodles themselves. 
+Austin: I love it. 
+Ali: Hmm hmm hmm. OK. 
+Austin: I don’t think there’s a— that’s just a Cook prompt, so you can keep going. 
+Dre (as Aldrich): Oh, I think the most difficult part here was figuring out how to make the cacti explode without killing myself. (laughs) And I think I had to actually improvise and use like an old suit of armor on top of the grill. 
+Austin: Love it. Presentation and Seasoning left. 
+Dre (as Aldrich): So for Presentation, I struggled to come up initially with a way to make this dish warm and filling because I know that’s important for our season here. What I actually determined was, I scraped out all of the Mounion inside of a shell and then filled that with a warm broth that you can then pour over your rightmost Mounion.
+Austin: Love it. 
+Austin (as Roan): Can I describe what place this reminds me of? Do you all remember the Devilish Lair of the Skeleton King Cuacula[???][02:33:39.12]?
+Sylvia (as Iris): Wait, that one?
+Ali (as Cassin): I try not to.
+Austin (as Roan): Well, I understand that many people were not fond of the boiling seas, which we had to swim through, where we would finally confront the evil necromantic lord. But as I was returning with sacks and sacks of gold and cursed books and carrying it all on my shoulders after one of the hardest fights we’d been through. I remember the way that the hot water boiled against my thighs and thinking, we’ve earned this. And when I slam back one of your Mounion shooters, right after I have poured the broth over it, I think, yes, this is a warmth I thought I would forget, now that I’ve hung up my gunstaff and have settled into a more normal life. But this brings that feeling back. But it’s mixed with a sort of autumnal bliss. And for this, I’m deeply grateful, Chef Aldrich.
+Sylvia: Iris wipes a tear from her eye.
+(Ali and Austin chuckle)
+Dre (as Aldrich): And then for Seasoning. Here’s something that a lot of people don’t know. Everybody says you’ve got to wash your produce. But sometimes I find that dirt is the best seasoning. So in your middlemost Mounion, I’ve actually left all the dirt on.
+Sylvia (as Iris): Does anybody want to try my middlemost Mounion?
+Dre (as Aldrich): Someone tell me what pleasant memory this dirt evokes. (laughs) 
+Keith (as Volte): This reminds me back when— (chewing) Oh, sorry.
+Austin (as Roan): No, no, no, it’s so chewy.
+Keith (as Volte): It’s a pasta. It’s… this is back— Do you remember when we were between those two cities? And there wasn’t a single tavern in between them?
+Austin (as Roan): I do. 
+Ali (as Cassin): That’s how we came up with the idea for this place. 
+Keith (as Volte): I know. And on the way there, we couldn’t eat— We couldn’t find anything to hunt. We’d have to dig up stuff from the ground. Which 90 percent of the time was an onion. And that last 10 percent of the time when we would find a carrot or something like that. 
+Austin (as Roan): Oh, those carrots were so good.
+Keith (as Volte): And there’s nothing to wash it off on. But you’d just get that lightly dirty carrot without even a hint of onion. And that’s what this is like for me.
+Austin (as Roan): Oh, I never tried it that way, Volte. I always used the onions as a sort of pressure bath to wipe the dirt away from the carrot. I would rub all of the dirt onto the onions I refused to eat because I had already eaten so many onions. And I thought, this is good.
+Ali (as Cassin): I remember your juiced onion carrots.
+Austin (as Roan): Yes. I would smash them in my hands to produce a juice.
+Keith: “I would smash to satiate my hunger.” 
+Austin: (laughs) Yes. Is that it? Have we done it? Have we created— Okay. I need to know what these sisters think. The Conte sisters. I gotta know.
+Ali: I don’t have to choose a prompt, but I am. Because I think the three of them are sitting at their own table and they start talking about a time that they had had together where they tried to make a meal together and it didn’t go well. And the entire time they’re like, 
+Ali (as the Conte Sisters): Oh, if we had only been able to cut our vegetables as well as this had been cut, or if we had added dirt to it, perhaps (laughs).
+Ali: They’re just, for the rest of the night, just involved with each other. Kind of reminiscing and having a very good time because they love this meal so much. I love them.
+Austin: Shout outs to the sisters. “Call those cards and reshuffle.”
+Dre (as Aldrich): Sisters, I’m just glad that you could come and enjoy my wonderful eats.
+Ali (as the Conte Sisters): Oh, we’re going to tell tales of this meal, near and far. 
+Austin: All right. I think we have time for one or two more. Does anyone want to take another break before we move on? Given our time, I’d be happy to keep on rolling. 
+Sylvia: I’m good to go.
+Austin: Sylvia, have you done a game yet? I can’t—
+Sylvia: I don’t think I have. So you and I both need to do one. 
+Sylvia: Has Keith done a game yet either?
+Keith: I did the very first one.
+Sylvia: Right, okay.
+Ali: Distinguished Guest. 
+Austin: Distinguished Guest. Yeah, got us that hot new Atmosphere boost.
+Sylvia: You know, Friendly Tavern Brawl could be fun. Or actually Off the Clock could also be really fun.
+Austin: I’m good with either. 
+Sylvia: Yeah. 
+Austin: Let me look at them both, we’ll see. Off the Clock. 
+Sylvia: I’m looking in the actual game.
+Austin: Off the Clock is: “Where do you go after the tables are wiped? Who’s heard every story you have about the worst people who walked in? You choose a prompt and describe what happens or roleplay out a scene.” And then A Friendly Tavern Brawl is: “Every tavern has its rowdy patrons. You know they’re good at heart, but sometimes, when the ale is flowing, the spirits are high, things get a little out of hand. How do you handle the situation? And some of the players are brawlers, either characters or NPCs, and some of them are de-escalators. And the de-escalators have to follow the steps to break up a fight.”
+Sylvia: I think I’m going to stick with brawl.
+Austin: OK. “Setup: One or more players are the brawlers. They can be player characters or NPCs. What is the disagreement that caused the first punch to be thrown?”
+Sylvia: And this is open to anybody. 
+Austin: Anybody can be here. 
+Sylvia: Does anybody feel like getting in a fight? Or do we want to think of some NPCs, think scrap? 
+Dre: I definitely want to be one of the scrap NPCs here. 
+Austin: I kind of want to be a scrap NPC, too, I know you would think Roan is built to scrap. Maybe Roan’s built to scrap. 
+Sylvia: Yeah, but that doesn’t mean they need to. 
+Austin: Yeah, I don’t think that they’re— Yeah, I think that they’re not scrapping in this way. I think that they are off doing something else, which I’ll get to. So yeah. Not, not that. I’ll happily be a backup scrapper. I don’t need to be “in the scene” in the scene. 
+Keith: I think that Volte is going to be here. 
+Austin: Scrapping, not de-escalating? 
+Keith: No, not— well. Volte is a paladin and paladins are pretty good at telling who is evil somewhere.
+Austin: Oh no.
+Keith: So, Holt— er, Holt. Volte is going to attack the most evil person who’s in the scrap. 
+Austin: Oh God, okay. So is that what’s happening here? Me and—
+Sylvia: Now I’ve gotta, ugh.
+Dre: Are you also in the scrap, Austin?
+Austin: I was gonna be your second in command or your— I was gonna be a backup scrapper. But you can take the lead here. So I’m curious, what are you imagining?
+Dre: Now I’ve got to be the most evil.
+Austin: Right. Are we like— we’re coming to this from the other direction? What if we’re people who are coming from the Ancient Ruins to do like to raid the Port Town, but we’re just like, you know, we’re from deep within. We’re like far into our journey, you know what I mean? We’ve come up from below or from— I don’t know, maybe these ruins go upwards. Or we’re coming down from above, from high level in this ruins. And we’re like, “oh, I’m so glad we fucking found this Topside Inn, where we can rest before we raid this Port Town.”
+Dre: (laughs) We’re talking about that very loudly.
+Austin: Yeah, absolutely. Yeah. 
+Dre: We don’t give a shit.
+Austin: I don’t give a shit!
+Ali: (laughs) I’d like to be a de-escalator. 
+Sylvia: I would also like to be—
+Austin: Are you Cassin? 
+Sylvia: —a de-escalator.
+Ali: Yeah.
+Austin: Okay. And Cassin and Iris are playing themselves? Okay. “De-escalators follow the steps to stop the fight, brawlers respond appropriately.” What type of people are we, Dre?
+Dre: Trying to think of a good name for our robber gang.
+Austin: Yeah. Are we bandits? Are we like… 
+(Ali and Dre laugh)
+Dre: You know what, I’ve already thought about that fact that he’s a goblin, I can’t— (laughs)
+Austin: God damn it. No, we’re not goblins! We’re not goblins. That’s a goblin naming convention.
+Dre: That’s a goblin naming convention. 
+Austin: We’re from the Ancient Ruins. What if we’re like automatons come to life?
+Dre: Oh hell yeah.
+Ali: Oh, you don’t say?
+Austin: You know what I mean? Like bronze— huh?
+Ali: I said, “You don’t say?”
+Dre: I don’t know what you mean. That’s something we’ve never done on this show ever before. 
+Keith: Sorry, I missed it. What haven’t we ever done before?
+Austin: We’re moving on. Automatons come to life. But these are different, Ali. These are ancient automatons—
+Ali: No. Yeah, I’m just dragging you, that’s fine.
+Austin: I know, that’s fine. It’s fine to drag me. Where ancient automatons come to life, not new automatons. slowly come to life. Why is there a card out? 
+Ali: I don’t know. I did it and I don’t know how to put it back.
+Austin: I got it, recall all.
+(Keith and Ali laugh)
+Austin: All right. We’re like a pair of all— was there two of us? 
+Dre: Yeah. I’m number 53.
+Austin: You’re number 53? And I am… I think it’s just like sets. I don’t think it’s like I’m number 12. I think I am like…
+Dre: Make it a prime number. We can be the Prime Gang. 
+Austin: Ooh, yeah. What’s another good prime number? Is 53 a prime number?
+Dre: Yes, it is. 
+Austin: Do you have them memorized? Is that your deal? 
+Dre: No. I said that. And then I was like, oh, fuck, I hope that’s a prime number. And it was.
+Austin: It happened to be. Here we go, prime number list. You’re number 53 and I’m 1907.
+Dre: Oh, wow. Well, we’re Primetime. 
+Austin: There we go. Primetime. 
+Austin (as 1907): What’s good? 
+Ali: You’re stars, how could you not shine? 
+(Austin and Ali laugh)
+Austin: Thank you.
+Austin (as 1907): I cannot fucking wait until we kick in the door at that fuckin’ port. The port guys— the people who run the port, kick that door in. I’m gonna steal all the shipments.
+Dre (as 53): I’m not— You know what the first thing I’m going to do is? I’m not even gonna steal something. I’m just gonna step on all the onions.
+(onomatopoeia by Austin—snap step step)
+Austin (as 1907): Oh I cannot WAIT.
+Austin: “The approach: De-escalators, the first thing you need to do is—” Oh, this fight just pops off, I guess. What do you do, Volte, to— Yeah, tell me what happens.
+Keith: You know what I need, I need more of this conversation until something is sufficiently inflammatory. 
+Dre: No, no. Here’s what I— here’s what happens. I say,
+Dre (as 53): I love fucking stepping on onions.
+Dre: And then I look.
+(Austin (as 1907) gasps)
+Dre: And someone’s walking by with an onion pig. And I fucking knock it off and I just step on it.
+Austin (as 1907): Fucking pig got what he deserved.
+Keith (as Volte): All right. 
+(Ali laughs)
+Keith (as Volte): I slam my drink. 
+Austin (as 1907): What’s up, farmer? 
+Keith (as Volte): You two, out!
+Austin (as 1907): Out where?
+Keith (as Volte): Outside. Outside. Out of the inn. You’re done.
+Dre (as 53): I see like three more pigs I could step on.
+Austin (as 1907): Yeah, bring out some pigs. We’ll step on them outside. I’ll step on things outside or inside. I’ll bring the table with me. *I pick up the table.* I’m taking the table with me. You’re gonna stay outside. We decided we wanted to sit outside.
+Dre (as 53): I’m going to take a chair.
+Keith (as Volte): Punch thrown. It’s thrown. I threw it.
+Austin: (laughs) OK. “De-escalators: Follow the steps to stop the fight. Brawlers: Respond appropriately. At least one experience should be used during one of the steps. The approach. De-escalators, the first thing you need to do is interrupt the fight. How do you draw their attention? Brawlers, how do you lash out? What do you say that you shouldn’t have?” So we’re fighting at this point. De-escalators? 
+Sylvia (as Iris): I’m going to get their attention by making a really loud noise. We’ve established that one of the plants we got, when it is heated up enough, it just makes a big bang, right?
+Austin: True. Yeah. The cactus berries.
+Sylvia (as Iris): I’m just gonna throw one of those in the fireplace. 
+Austin: Oh my God.
+Keith: So it’s basically a kettle corn.
+Dre (as 53): Just throw a bunch of really loud kettle corn. You’re just gonna throw a bunch of M-80s in the middle of this inn.
+Sylvia (as Iris): (loudly) You’re about hit someone with the chair I made. 
+Ali (as Cassin): Yeah. Not cool. 
+Keith (as Volte): Yeah. “You’re about to hit someone with a chair she made,” and I punch the automaton again.
+Sylvia (as Iris): He’s holding the chair I made!
+Austin: Cassin, do you have a way of deescalating here too? 
+Ali (as Cassin): Yeah. I didn’t know if it was like a joint action or I choose my own because I could just be like bringing out like a bucket of these fucking things for Iris so we can like... (laughs)
+Austin: Well, I’m going to lash out and say something I shouldn’t, which is like, 
+Austin (as 1907): (angrily) Good, I’m glad you’re blowing up all those stupid cactus berries because they taste terrible and your chef doesn’t know how to use them. 
+(Ali gasps)
+Keith (as Volte): Wow.
+Keith: I’m going to say something that I shouldn’t. And I’m going to say,
+Keith (as Volte): I’m going to destroy the unholy. 
+(Austin and Ali laugh)
+Sylvia (as Iris): Oh, no. Volte’s at it again.
+Dre (as 53): I break the chair over my own head to show just how out of control I am.
+Austin (as 1907): That’s right! (roars) 
+Austin: I’m flexing. I do The Outsiders finger point at you while you’re doing it, to kite you up, you know what I mean? NWO like. Yeah. Boom, I’m doing it in real life. I hope you can feel the energy through the microphone right now. I’m like shaking. I’m just doing the shake. The whole thing. 
+Keith (as Volte): I bring my hands together and I use the move Smite. 
+Austin: Wait, there’s more to this game, we’ve only gotten to the approach!
+Sylvia (as Iris): Hold on, don’t kill them!
+Keith (as Volte): Why, they broke the chair! 
+Austin: (laughing) Oh my God.
+Sylvia (as Iris): We’ve been over this. 
+Austin: We should get to step 2, the Separation. “De-escalators, how do you put space between the brawlers? Is there something else you can get them to focus on? Brawlers, try to start the fight back up again.”
+Ali (as Cassin): God, what do we do.
+Sylvia (as Iris): Yeah, I think if we get a chance, I’m going to actually shove myself in between them. But we need to—
+(Ali laughs)
+Ali (as Cassin): Yeah, I think that (laughs), upon seeing that— 
+Ali: Keith, what was your character’s name?
+Keith: Volte.
+Ali (as Cassin): Volt is about to smite these people (laughs).
+Keith (as Volte): Oh, my hands are together, that typically— whoever the most evil here is, is going to start bursting into flames. 
+Sylvia: Iris is sweating.
+Ali (as Cassin): I think that I try to start to push the tables in between you, since you’re stSylviang up at them. And then move more of them against those tables. So it creates a barrier, you know? Yeah.
+Sylvia (as Iris): I’m not very happy about using more of my furniture.
+(Ali laughs)
+Sylvia (as Iris): But I am standing on top of the table that is now in the middle of them. Just a small elf woman trying to hold these automatons from this paladin fight. 
+Austin: Brawlers try to start the fight back up again.
+Austin (as 1907): So I think I’m like a bronze automaton. You know what I mean? I look like a living bronze statue. And yet I pull a T-shirt off that is made of soft bronze and reveal just cut fucking abs. I’m just rippin’. I’m just— and I start spinning. I start spinning this t-shirt over my head. And at first, it’s like, OK, what are you gonna do with that T-shirt? And then it like it catches a lamp or something in the lamp shatters because it’s still bronze. I have like an ad hoc mace that’s just my soft bronze t-shirt underneath my automaton bronze body— or on top of my automaton bronze body. And I’m slamming it down into the tables and like scratching up all these tables. I’m like, “I’ll take it outside. You don’t want me to break any more furniture, then we gotta go. We gotta fight.”
+Keith: Volte reveals why he carries such a plain sword, because he picks up just a table knife and he’s not just a paladin, he’s a psionic paladin and now he has an energy source. 
+(Dre laughs)
+Austin: Is this your God? Someone asked earlier, I want to say B in the chat or Bo in the chat asked what your god, what you were a paladin of, Volte? Is it the psionics god?
+Keith: Is there a psionics god?
+Austin: Could be!
+Ali: That’s your choice. 
+Keith: Yeah, a psi— Yeah. That’s what it is. It’s a psionics god. I don’t know how they do yet, but that’s what it is. 
+(Ali laughs)
+Keith: It’s a holy ship that fell from the sky and where—
+(Austin and Ali laugh)
+Austin: 53? Are you also trying to get this fight back? 
+Dre (as 53): Oh, fuck yeah. See, cause you’re made of bronze, but I’m an older model so I’m actually made of wood. So I bust a bottle of liquor over my own head and then shove my head in the fire. Now my head’s on fire.
+Austin (as 1907): YES. YES. I’M GONNA FUCK— LET’S GO. WORLDSTAR.
+(Keith laughing in the distance)
+Ali: (laughs) This is so rowdy. Are we moving on to…
+Austin: The talk-down? (laughs)
+Keith (as Volte): I’m going to swing this psionic sword at these two robots.
+Austin: Does this just happen? Do you just fight us outside?
+Keith (as Volte): Yeah. No one has stopped me, apparently.
+Sylvia (as Iris): I have a talk-down that could keep this from happening.
+Keith (as Volte): Prove it. Prove that you can stop me!
+Sylvia (as Iris): I mean, I can’t, Volte. I’m not really— We’ll deal with you later! I’m mostly concerned with the guy who’s on fire. So I’m gonna be using— 
+Sylvia: Should I just get into the talk down here? 
+Austin: Yeah, go for it. How do you ensure the fight won’t break out again tonight? 
+Sylvia (as Iris): So I’m gonna be using my Bravado experience here, which is “never falter”. And I think it’s like, we’ve got Volte to leave first somehow. Just, “wait outside. It’ll be OK.” And then I stop them and I’m like, “look, you’ve caused enough damage to this place that honestly I’m debating going out there and helping my pal out. You guys think you’re big fancy bandits, right? You, you know, go around, pillage shit.” 
+Austin (as 1907): I don’t have to think about anything.
+Sylvia (as Iris): Fucking great. Do you think about who you’re talking to? Because I am Captain Iris Alphonse, scourge of the Barrel Coast. And I need you to stop fucking around my establishment before I cut your head off.
+Austin (as 1907): YO, you’re a pirate! Yo, this is Alphonse, Iris Alphonse! Hold up, hold up, hold up. You still— 53. Do you. Do you have the picture? 
+Dre (as 53): (rapidly) Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. Oh, yeah. yeah, yeah. And then I turn around and there’s just a picture carved in my back.
+Austin (as 1907): That’s right. Of Iris?
+Dre (as. 53): Mm-hmm. 
+Austin (as 1907): I pop out the knife— I like hold out my hand and, as if there’s another, I’m wearing a— you couldn’t tell this, but I have a long sleeve shirt on also. It just looks bronze so it pops out from a second long sleeve shirt that I guess had abs painted on it and give you the knife to sign 53’s back with.
+Sylvia (as Iris): Wh— This isn’t gonna hurt him, is it?
+Dre (as 53): Only in the best ways, ke-mo sah-bee, let’s do this shit.
+Austin (as 1907): Yeah, let’s get it! 
+Sylvia (as Iris): Yeah, let’s go! 
+Austin (as 1907): I’m gonna need some more than Mounion shooters. 
+(Keith and Ali laugh)
+Sylvia (as Iris): I will find this man back. With a knife. 
+Austin: And you do?
+Austin (as 1907): Oh, I— can we headbutt?
+Sylvia (as Iris): Not me. 
+Austin (as 1907): No, not you. But you’re great. We respect your work such a great deal. We respect your work—
+Sylvia (as Iris): Thank you, could you respect my other work, such as the table and chair that I made?
+Dre (as 53): I am so sorry.
+Austin (as 1907): You made those tables?! All these tables are sick!
+Dre (as 53): Okay. Well, I’ll make you a deal. When we go raid the Port Town, we’ll bring you some wood back
+Sylvia (as Iris): Don’t do that.
+Austin (as 1907): We’re gonna bring you the best wood, driftwood, imported wood. Did you know that there is wood from another continent that is just the densest?
+(loud laughter as Austin references one of the first stories from Clapcast 26)
+Austin (as 1907): We think some of that may be gotten shipped in and we think you could make some just top notch pieces with it.
+Sylvia (as Iris): You know what would really help me is, wood from the forest and the ruins that wouldn’t end up killing people if you took it.
+Keith (as Volte): (in the distance) I’m ready to smite out here!
+Sylvia (as Iris): Yeah, so I gotta go talk to my friend. Uh, it was nice meeting you.
+Austin (as 1907): It was so good to meet you. It was such an honor. We try to—
+Keith (as Volte): (distantly) HEY!
+Sylvia (as Iris): It’s always good to meet a fan.
+Dre (as 53): Listen, do you want my arm? Will that help fix this chair? 
+Austin (as 1907): Yeah. He can give you his arm. And a leg. 
+Dre (as 53): Yeah, it’s no big deal.
+Sylvia (as Iris): I’ll get back to you.
+Austin (as 1907): All right. So what’s the rates for, like, a night stay? 
+(Ali laughs)
+(Keith hitting a glass and screaming from outside)
+Ali (as Cassin): So, I think outside.
+Keith (as Volte): (distantly) FIGHT.
+Ali (as Cassin): Yeah. Outside. (laughs)
+Sylvia (as Iris): Yeah, I was gonna say.
+Dre (as 53): Oh, you have like a hammock situation? Y’all got yerds?
+        Dre (as 53): Oh, you have like a hammock situation?
+Ali: No, no, I’m with Keith’s character outside.
+Austin: Oh, Cassin is with Keith.
+Sylvia: We’re having the conversation about the night stay off-screen.
+Austin: Got it. Good.
+Ali (as Cassin): I think that I. I know Volte. Me and Volte have worked together a lot. And I know that, when Volte brings the energy to his sword, he needs to draw blood that night or he can’t—
+(Keith and Dre laugh)
+Ali (as Cassin): He fired up. He is going crazy. And I really don’t want him to murder our customers because it seems like Iris has gotten this handled. 
+Keith (as Volte): No, I don’t want, no— Don’t make me anxious. 
+(Ali laughs)
+Ali (as Cassin): I think that I’m going to use my bag of tricks to make it look like there is a camp set up not too far from our inn. And I’m gonna be like, yo, Volte. I think that those guys are with those other guys and they’re evil, too. So we should go fight those people because Iris is going to kick those people—
+Keith (as Volte): They’re still inside. They’re in there. 
+Ali (as Cassin): Well, all their friends are also gonna kill us over there! We have to go over there to fight them!
+Sylvia (as Iris): Can I suggest something? It’s that after you say that, you look in the window and see me with a knife stabbing it into the back of one of them? 
+Austin: That is true. That is what you see.
+Sylvia: And you’re like, “she’s got it handled”.
+(Austin and Ali laugh)
+Sylvia (as Iris): Cause I’m signing him.
+Austin: Amazing. 
+Keith (as Volte): Okay. Yeah, I guess they’re dead over there. That’s cool. 
+(all laugh)
+Austin: Love it. Is that the aftermath now? “Everyone has picked up off the floor and dusted off together, answer the aftermath questions.”
+Keith (as Volte): What happens when I get over to that tent and there’s no one there? (pause) Or I smite it from a distance. The whole thing goes up in flames.
+Austin: Yeah. That’s it. A hunDred percent. Yeah. God.
+(Keith and Ali laughing) 
+Sylvia: Volte’s scary.
+Austin: Volte’s scary. Don’t fuck around with Volte. “Were any of the player characters hurt—”
+Keith: He smashed that little pig. They said they would smash more.
+Sylvia: No, it’s fair. That’s really fair.
+Austin: “Was anyone hurt? If yes, how do you help each other recover?” I don’t think anyone was permanently hurt here.
+Sylvia: I don’t think I was hurt, no. 
+Austin: No. “Was there any significant damage to the tavern? If so, what’s it going to take to fix it?”
+Sylvia (as Iris): Yes!
+Keith: Yeah. You broke several tables and chairs, right?
+Sylvia (as Iris): I need to fix all this furniture! We’re like out like two tables and a half. 
+Austin: “How do you deal with the brawlers? Are they banned? Do they pay a fine?” 
+Austin (as 1907): I think we figured it out. Brawlers figured it out. We’re gonna come back with some stuff for you, don’t even worry about it. 
+Dre (as 53). Yeah, it’s fine. It’s chill.
+Austin (as 1907): It’s chill. We got you. Don’t worry about it. You’ll get a cut. And that’ll be how you fix the damage, I promise we will come back with the finest woods.
+Sylvia (as Iris): God. Thank you, Primetime. 
+Austin (as 1907): Ah ah ah! That’s our ad lib. We toss that in whenever we come in or leave. That’s our call. 
+Sylvia: You’ve got me thinking these guys are played by a buff Desus and Mero. 
+Austin: Oh, yeah, absolutely. Enchanted Ruins all day. You don’t even know. Sorry. Ancient Ruins. AR all day. 
+Keith: Probably also enchanted!
+Austin: Yes. They are also enchanted. What are we? Was that three? Is that the third, since? 
+Ali: That’s three, yeah.
+Austin: What was the second one? I feel like I missed one. 
+Ali: Sliced. Wait, no.
+Keith: Sliced was the first one. 
+Austin: I think we need one more. But let’s call it here.
+Ali: We had a smoke break, which doesn’t count. 
+Austin: Yes. Yeah. Let’s take a very extended smoke break as we pause the game for the night because we have a hard out. As always— 
+Keith: 300 feet of cigarettes.
+Austin: Well, let’s actually wrap this up. Did anyone use their own skills? So let’s do that and then we’ll sign off. Who used what?
+Keith (as Volte): Obviously I used Smite, “destroy the unholy”.
+Austin: You did obviously do that. 
+Keith (as Volte): Those fools in the tent won’t even get a chance to bother us.
+Austin: Yes. These get replaced. Yes. If they are your Adventurer Jobs. So, yeah. What are you replacing Smite with? Give me a tiny baby scene.
+Keith: I think it’s the animal one. I’ve got to find it, I got to scroll back up. There we go. I had planned on taking Weather Vane, but I’m actually going to take Caring For and Communicating with Animals because…
+Austin: What’s that look like? How do you learn that? 
+Keith (as Volte): Well, it was such a quick snap from when these two automata stepped on that little pig.
+Austin: Oh, you were like— (gasps)
+Keith (as Volte): (gasps) Oh, my God. Not the little pig. 
+Austin: So you put some time to spending time with animals.
+Keith (as Volte): I decided I have to protect the animals. 
+Austin: Love it. Cassin and Iris?
+Ali: We don’t have an Orator, ortor, or-ah-tor? 
+Keith: We do not have an Orator.
+(Ali and Keith laugh)
+Keith: And we still don’t.
+Austin: Wow, mean! 
+Ali (as Cassin): I’m going to take Parable, “a lesson for every situation”. I think that, me and Volte, we’re walking back from smiting that campfire, which we definitely smited. A bunch of people died for sure. Good job, Volte. But on the way back, I was like, you know, we’re running a restaurant now. We kind of have to figure out new, you know, solutions to the issues that come up in our lives and we really had like a heart to heart about it, and I think that I’m growing into that kind of role.
+Austin: Nice. Iris.
+Sylvia (as Iris): Yeah. So I took Crafter, which is “create useful or beautiful things”. And I think the scene we get for that, I’m kind of combining both of those descriptions here with what she’s been working on. I think it’s just this really nice, like ornate teapot that she’s been secretly working on at night in her free time for like weeks. And when she brings it in one day and it’s just like, check this thing out! And it’s like— maybe it’s shaped like a monster they fought, or something. We talked about the boiling hot water, so it’s something from there.
+Austin: Can I propose what it is? 
+Sylvia: Yes, absolutely. 
+Austin (as Roan): It’s a teapot that has like five spouts, one for each of us. And it was some sort of mammoth creature that had five trunks that spat out different— There was a poison trunk and a fire trunk, and a— you know what I mean? Like an enchanted evil mammoth demigod.
+Sylvia (as Iris): Yeah, for sure! I totally do.
+Austin: Love it. All right. We’re going to take a very extended smoke break. We’re gonna wrap this up for tonight. You can find this game Stewpot: Tales from a Fantasy Tavern at noroadhome.itch.io. Or you can search for Stewpot: Tales from a Fantasy Tavern on your search engine of choice, it will probably come up. It is, again, by Takuma Okada, who is a great mod for us in our Discord. 
+You can find me on Twitter @austin_walker, you can follow the show @friends_table, and you can support the show at friendsatthetable.cash. Sylvia, where can people find you? 
+Sylvia: Yeah,  I’m on Twitter @captaintrash and my show’s on there as well @emojidrome.
+Austin: Keith. 
+Keith: My name is Keith J. Carberry, you can find me on Twitter @KeithJCarberry. You can find the Let’s Plays that I do YouTube.com/RunButton, including on contentburger.biz, our Patreon, Let’s Play of Shenmue 1, the ongoing Shenmue 2, and the upcoming public Shenmue 3. 
+Austin: Cannot wait for that. Ali. 
+Ali: Hi. You can find me @ali_west on Twitter and you can find the show over @friends_table. Read tweets on both accounts! They’re all great. 
+Austin: They’re all great for real. And Dre!
+Dre: Hey, you can find me on Twitter @swandre3000.
+Austin: Awesome. Real quick. I just also want to take a moment to shout out the Friends at the Table transcript team because they do a great job and because we are in the middle of— we’ve been recently talking to the leadership there, the people who are running it, R and now Cole, who is taking over some of those duties. And I want to let people know that we’re probably sometime in the next couple of months, I hope, gonna start linking out to the completed transcripts because many of them are completed and are at a state where it seems like a good place to do that. But if you want to look at those transcripts now, you don’t have to wait for us to link out to them. You can go to twitter.com/transcript_fatt or tinyurl.com/fatttranscripts, F-A-T-T transcripts. And that will take you to the master list of everything. And thanks again to all those folks who are doing a great job. 
+I think that’s it. I think that’s all I got. I hope everyone has a good weekend and hopefully we’ll be back soon to wrap this up, because this was really fun. And again, a pretty light lift. So hopefully we’ll see y’all soon. 
+Keith: I actually I have one more small plug, if I can.
+Austin: Please!
+Keith: Run Button doesn’t do a ton of podcasts, but I do really like the ones we do get to do. We had a recent one, actually recent couple come out, including our 10-year anniversary podcast. We’ve been doing podcasts for 10 years, which is nuts, but we got that and then we had another one and then we have the upcoming Game of the Year podcast coming out to you. So that’s in podcast feeds and also on our YouTube. 
+Austin: There you go. Enjoy those things. And thank you again for joining us tonight. I hope y’all have a great weekend and a wonderful week. Bye.
+Ali: Bye.
+
+
+
+
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
