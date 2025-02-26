@@ -1,0 +1,891 @@
+﻿Live at the Table: Shooting the Moon Pt 1
+Transcriber: Lucy (@battlestarvalk)[1], thedreadbiter (copyedit)
+Settling In [00:00:00 - 00:01:44]        1
+Intro and Setting [00:01:44 - 00:19:45]        2
+Attributes [00:19:45 - 00:37:57]        14
+Attribute Complications [00:37:57 - 00:46:17]        27
+The Beloved [00:46:17 - 00:56:03]        34
+Person, Place and Thing [00:56:03 - 01:21:46]        42
+End [01:21:46]        60
+Settling In [00:00:00 - 00:01:44]
+Ali: [laughing] Before we start, can you guys make sure that you can interact with these dice?
+Jack: Oh, yeah, good call. Let’s see.
+Janine: Oh yeah, that was—
+Ali: You should be able to.
+Janine: Oh, I know how to fix that now, if.
+Jack: I’m making this white dice creep into this black pile.
+Ali: [laughs] I’m seeing that. Okay, okay, we’re good
+Janine: Okay, yeah, this works.
+Ali: You have to double-click them and then choose who has access over it?
+Janine: Yeah! I… this was a problem for me during our live Fiasco game because I just assumed, oh, if it’s on the token layer then players can interact with it.
+Ali: [interrupting, crosstalk] That’s just what I assumed.
+Janine: [continuing] No, no, no. And you can’t right-click, because that’s a different menu. It’s… you have to—I don’t understand why it wouldn’t be in the right-click menu that pops up on those things. But no, no, you have to double-click it. It’s fine. A good… tool.
+Ali: [laughs] I love Roll20 but it just feels like Roll20 isn’t… built what we use it for? But it literally is. So… who knows.
+Janine: Yeah.
+Jack: You know, I like that do this, and I can make all these dice sixes if I want [Ali laughs] I can just go “choose side”, it’s great. That one’s already a six.
+Janine: That’s because technically, the thing about these dice, technically they are built using a system that’s meant to rotate goblins and stuff on a board [laughs, Jack laughs]. Like… it’s—all the faces are pictures, and when you look into a tutorial of how to use this system it’s like “Yeah, and for 1 you can have a strong goblin and for 2 you can like, an archer goblin, and that way you can lay the token down and pick what kind of goblin it is”. [laughs]
+Jack: God… We don’t put enough goblins on the screen in Roll20, I feel.
+Janine: Mm-hm.
+Ali: Yeah, not a big enough variety, too.
+Jack: Ali, do you have goblin privilege right now?
+Intro and Setting [00:01:44 - 00:19:45]
+Ali: I do have goblin privilege right now. I am the game master of tonight’s session. Hello, and welcome to Live at the Table. [Jack laughs] This is also an actual play podcast focused on critical worldbuilding, smart characterisation, and fun interactions between good friends. Tonight we’re playing “Shooting the Moon”, and joining me is Janine Hawkins.
+Janine: Hey, you can find me @bleatingheart on Twitter.
+Ali: And Jack de Quidt.
+Jack: Hi! You can— [clears throat] I’m ill. [Ali: Aww.] You can find me on Twitter @notquitereal, and buy any of the music featured on the show at notquitereal.bandcamp.com.
+Ali: Perfect! So we’re here tonight playing a tabletop game, tonight we’re playing Shooting the Moon by… this person’s name is… at the top of this pdf. [laughs] We’re playing Shooting the Moon by Emily Care Boss. This is the second in a book of three different games that are focused on romance stories. It’s a pretty neat book, all things considered! The first one is like, two players play two people going on dates and then you roll dice to see how much they like each other, and then at the end of the game you’re like, oh, are they in a relationship now? There’s this one, which we’re about to play, and then there’s also the last one is like a group of friends, and… two of them are in a relationship and then they start hooking up with somebody else and it’s a whole LARP thing and it seems really intense, so… that’s an option?
+Jack: Oh, damn.
+Ali: [laughs] But tonight, tonight we’re playing Shooting the Moon, and I’m just gonna read what it says at the top here.
+        In Shooting the Moon, love brings together three characters and puts them through the wringer. Two Suitors work for the affection of the Beloved, who has overwhelming odds of their own to face. United and divided by their shared fears and entwined destinies, these characters discover what they’re made out of and what they will do for love.
+        So… I’m just gonna continue.
+        The Beloved is a person of power and a paragon of the world that the characters inhabit. The traits give you this character to reflect and determine what is sought after and desirable in this setting. The Beloved is drawn to the Suitor- drawn to the Suitors, and accepts their advances. The Suitors are movers and shakers, and [laughs] are moved and shaken in this world. They have strengths like the Beloved, but they are flawed and clay footed as well as heroic and enticing.
+        So that’s just kind of the main setup here. Do y’all have any other questions before we get into this? Because we can just jump into like, figuring out a setting, and figuring out a bunch of words.
+Jack: This game, when I was reading through it, seemed really fiddly. And then, the more I read, the kind of less fiddly it seemed?
+Janine: Yeah, the presentation is fiddly, but the game itself seems… kind of in line with what we normally do?
+Jack: Yeah. I think so.
+Ali: Yeah, there’s a lot of like, dice pools? Which I don’t feel like we use. [laughs]
+Jack: Every time someone says “roll a pool of dice”, I’m like ‘Oh God! What are you gonna make me do with them?” [Ali laughs] And this game’s just like- “Which are the highest numbers?”, and I’m like “Oh, okay, wasn’t so bad actually. I feel okay.” [pauses, Ali laughing] But I don’t like roll—and that’s why we can see these pools in the side, right, Ali, where there’s just you rolling a bunch of them?
+Ali: [crosstalk] Yeah, there’s mechanics all over the screen. [laughing]
+Jack: Oh—oh god, do you want to give viewers a little tour of the screen that they’re gonna be staring at for the next three hours?
+Ali: [laughing] Sure! You have the camera focus, so.
+Jack: Yeah, I’ll be your camera person
+Ali: Okay, so the basic setup of this game is, there’s three players, there’s the three of us. Two of us play Suitors and one play the Beloved. We figure out attributes for these characters, we figure out the setting, we figure out what their prize is and what the Beloved’s… like… aspirations are. Then we, [laughs] then we go through three different phases of three turns—three phases, one turn per player, so three turns. Three and three. [laughs] 
+But basically, what happens is. One Suitor will be in a scene with the Beloved, trying to be impressive, or help them out, or whatever else, and then the odd man out will be the hurdle and will introduce a problem in the scene. And then the person who introduces the hurdle gets to roll five dice, and then the other two have to figure out what their response is gonna be, and from their response they figure out how much dice they can roll and if they, like, win the situation, essentially. 
+So, we have all three, we have all three character sheets here, with a lot of space for a lot of different words. And then we just have the rules, in terms of, okay, if you’re the hurdle, you get five dice. And if you’re one of the Suitors, you get two dice if you use your first trait and then you get two dice if you suggest an action for another character, and you get one dice if you use a—your trait again, essentially. So in your like, in the defence turn, you can get up to six dice, is basically the thing. But that’s kind of jumping ahead! [Janine laughs] 
+We can get to that. For now let’s just start easy and figure out what we want the setting to be, which can be literally anything. The book suggests things like a bunch of pirates, a bunch of people working at a law firm, there’s a list here where you can either be super spies or in a witch war or a college gaming group. [laughs] So the world is really our oyster here.
+[pause]
+Jack: Witch war’s pretty good.
+Janine: Do you want to like—mmm. [Ali laughs] Do we want to like, each put forward an idea and then see?
+Ali: Yeah!
+Jack: Yeah yeah yeah.
+Janine: What we feel strongest about?
+Ali: Yeah. I can start, unless y’all want to?
+Janine: Go for it.
+Ali: Okay. Because the only like, suggestion that I had was that like, trying to stick to something that’s kind of contained within like environment or time? [Ali laughs] 
+I’m playing Mystic Messenger right now, which is very simple. It is, you enter a chatroom and then get to date the people in the chatroom because there’s a party in seven days, which is a very simple confines to be in. Whereas we could do something like, you know, we’re on a conference and we’re all professionals at this place or like, it’s a holiday market and we’re all running a stand or something like that. But as far as like if this wants to be in space or you know, a modern setting, or anything else, we can do whatever.
+Jack: What about a cruise ship?
+[Ali laughs]
+Ali: It’s not bad!
+Jack: Is this a—
+Janine: In my—I was gonna say, okay, so. My pitch is an old-timey toymaker’s shop.
+Ali: Ooh!
+Jack: Ooh.
+Janine: [laughs] Because those are some wildly divergent things, I’m interested in either one. [all laughing] They’re in sharp opposition, I think.
+Jack [announcer voice]: Welcome to the 1938 Toymaker’s Cruise. [Ali, Janine laugh] Thanks for boarding here in Dover.
+[Ali laughs]
+Jack: Well, I’d also been thinking about—I really love the aesthetic that’s going on in Howl’s Moving Castle? [Janine agrees] In terms of like, establishing a space quickly, and that has a real sort of old-timey toymaker’s shop vibe. Or were you thinking more-
+Janine: [interrupts] I mean, that does start with a haberdasher, and she’s like a hat making apprentice.
+Jack: Yeah, yeah.
+Ali: Oh, but it would be toy hats.
+[Jack laughs]
+Janine: Well, we could have a situation where the toymaker is the Beloved and the Suitors are the apprentices or something.
+Ali: Ohh, okay.
+Janine: Who are trying to like, figure out the next “it” toy or something, you know, something like that. [Ali laughs]
+Jack: Rival toymakers! [Janine laughs] There’s a street that just has three toy shops on it, for some— [laughs] for some reason.
+Ali: [laughs] Is it three toy shops, or do we all work at the same store, and it’s like, we’re employees in this place. The Beloved is the boss, I guess?
+Jack: There’s some power dynamic stuff there that is like, if we’re- if we’re apprentices then it’s like, toy maker students. [Ali laughing]
+Janine: That’s true!
+Jack: [deliberating noises]
+Janine: We could be like, aspiring toy makers, who are not yet apprentices. Like, the toy maker has a shop but we’re like, but the Suitors in general are like making stuff by hand and selling it at the market or something, maybe, but they want that prime shop.
+Ali: Oh.
+Janine: They want a window to put stuff in, not just a shelf on the back of a donkey.
+Jack: Yeah! And then they’re coming in and they’re like “Do you like this small doll that I’ve created, toymaker?” [Janine laughs] “It’s a mouse!”
+Ali: So this game does have something like, in it to make the relationship dynamics a bit more platonic if you want to go that way? What you do is set up for the Suitors as their “prize”, and it’s the same for both. And instead of, you know, having the prize be a date, or marriage, or whatever else, we can have the prize be like, earn a window in the toy shop store. So we also want to get close to this person, but it’s also this professional aspiration.
+Jack: And if Friends at the Table—if doing Friends at the Table has taught me anything, it’s that, you know, trying to put stuff in a shop window, and getting close to someone in that way, can be very romantic!
+Janine: Yeah, you can have both!
+Ali: Indeed.
+Jack: You can have both! Why settle for one? [Ali laughs]
+Janine: Sometimes you’re in love with the toymaker, but also you have a really good idea for one of those pull toys, where the head nods, and it’s like an animal.
+Jack: [contently] Oh. [crosstalk] I mean I’m happy to go with—
+Janine: [crosstalk] Or that robot goose.
+Ali: [laughing] Okay, um.
+Jack: What year is this? Like when you say “old timey”, are you talking about like old-timey New York? Or are you talking about like old-timey London, or are you talking about like weird Tudors and shit?
+Janine: Um…
+Jack: Or are we in the Alps?
+Janine: [continuing] I think Tudor toys mostly sucked. I’m not super— [Jack laughs] Suck it, Tudors…! I was imagining sort of like broadly a timeline where the toys would probably still have had dangerous paint on them. But beyond that I hadn’t really specified in my head.
+Jack: Oh, is this an opportunity for Ali to play Arthur Morgan again?
+Ali: [delighted laugh] Would love to. [laughs] I could go—yeah, I could do old timey. Do we wanna do like, you threw out Howl’s Moving Castle, do we wanna do like vaguely magical, still fantasy-ish?
+Jack: I mean, why lock ourselves out of that little box of tricks, right? [Ali, Janine agree]
+Janine: It’s nice and surprising that way, right?
+Jack: Also magical toys, there’s stuff there, you know?
+Janine: Yeah.
+Ali: Yeah, yeah yeah. Yeah, I don’t wanna just be talking about batteries for the rest of the night.
+Jack: [laughs] Old timey batteries: horses.
+Ali: Yeah. Mm. Okay, let me know if the font size is a little… bad for chat. There’s a lot to squish into the— [trails off]
+Jack: God, it’s so good that we can just write down the words “magic exists”, and that’s our job. [Ali laughs]
+[pause]
+Ali: Okay, Perfect! Is there any other like, establishing stuff that we wanna set up at this point? Keep in mind that as we set up the Beloved stuff, that will kind of speak more to the world, and then as we set up the Suitors, you can see that they also get a person, place, and thing, so we’ll have more opportunity to drive down what the city is, and everything else. [crosstalk] But do we wanna say—
+Jack: [crosstalk] I’m trying to think.
+Ali: Oh, this is… Is this shop on Main Street? Or is it 32nd Street?
+Janine: Uh. I mean, it’s December and we’re doing a game about a toy shop, so it should probably be like, a Main Street, like this is The Toy Shop.
+Jack: But there’s snow and like…
+Janine: Twinkly lights.
+Jack: Twinkly lights, and snow, and like.
+Janine: Lots of just dangerous candles. Just of those trees with the candles on it, because they didn’t have electric lights, so it’s just, everyone’s gonna die if you leave this in.
+Jack: There’s like a brass band playing. They’re playing some Creative Commons, out of copyright, Christmas song.
+Ali: Okay, yeah, decorations are in the air. But it’s not like a city—it’s not like Manhattan, right? It’s like…
+Jack: No! It’s like, Vienna or something, right? Or like… [Ali laughs]
+Janine: Yeah.
+Ali: I’m gonna write “smallish but still urban” which is, yeah.
+Janine: Maybe this is one of those weird, super old buildings that kind of gets built around? And it like, [Jack: Oh, yeah!] was originally made for- you know the ones that I mean? That are like they have a narrower base because the streets had to be a certain width, but then the top level is like, wider, and it looks like it’s gonna fall off at the sides?
+Jack: Yeah.
+Ali: Ooh.
+Jack: Man, I wanna see if I can find.
+Ali: Do you just wanna draw that in the—[laughing] thank you, Janine.
+Jack: Yeah, go for it, Janine.
+Janine: Oh shit, uhhh. Okay.
+Ali: [still laughing] If you wanna just describe that, and write it down, you also can.
+Janine: I need like the right shade of brown, that’s a problem.
+Ali: Oh, well…
+Jack: The other thing I’m thinking of, and this is definitely far too big for us is there is a very old department store in London called Liberty? And I’m putting it up on the stream now, and I put it in the chat, in that it’s just this gigantically wide mock-Tudor building.
+Ali: Oh, wow!
+Jack: That is just like, imagine it dressed up for Christmas and stuff, and it has like an archway and like… And the inside looks like a, you know, looks like someone crashed a department store into the Houses of Parliament? [Ali laughs] And I think this is too big for us but also, I’m into it.
+Ali: There is specifically, urgh, there’s a Sephora in Manhattan that, apparently, Ernest Hemingway used to write in or work in, or whatever? And I’m specifically thinking of the layout of this place, but I can’t.
+Jack: I knew he was a Sephora guy!
+Ali: You know?
+Janine: So this looks like a Victorian bird cage, but, uh…
+Jack: Oh, let’s see what Janine’s drawn.
+Janine: It’s most of the way to what I mean.
+Jack: Oh, it’s a cupcake!
+Janine: [laughs] It’s a cupcake in a cage.
+Ali: [laughs] Okay, I see it. I, so the thing I’m thinking of is this very specific Sephora, which is gorgeous. And, it’s like way deeper than you would think it is from street level—
+Jack: [interrupting] Oh my God!
+Ali: And then it’s also, so you see how there’s the double doors in the middle and there’s those circle windows on the side?
+Jack: Yeah. [gasps]
+Ali: Just that section of the store is like a second layer, so the whole main floor is super open but you also have some extra… you know.
+Janine: Wow.
+Jack: Now this is a fucking Grand Budapest Hotel Sephora right here. 
+[Ali laughs]
+Janine: You also say “oh, it’s actually much deeper than it looks”, and I was already looking at this thing like ‘Wow, that looks like it is bigger than some national library”.
+[Ali, Jack laughs]
+Ali: It does, you can see the depth. Okay, I’m just gonna write, I’m just gonna write “5th Avenue Sephora”. But I do, I especially like the windows in this place as well.
+Jack: Yeah, those round windows and stuff. [Janine agrees, pause] And there’s no like, cars and stuff right? Or is there like very old-style, Mr and Mrs Brown, Paddington Bear cars.
+Ali: [laughs] I could go for some steam engines, you know?
+Jack: But like lots of horses and stuff.
+Ali: Okay, horse, okay, yeah. Horses more than— [reading whilst typing] horses more than…
+Janine: Maybe like, you see a car sometimes but it’s an event when you do?
+Jack: Yeah, you’re like “Damn, I’m gonna go to the Sephora and write about that”.
+Ali: [laughs] What I wrote was “Horses more than cars, slash, some magical engines”, so…
+Jack: Oh, yeah, yeah yeah yeah, gotta have a magical engine!
+Ali: Yeah, you’ve got to, like, what are you doing? Okay. Well, we definitely—I feel like we’re not good, but we’re, this is a healthy setting at this point.
+Jack: We’re great.
+Ali: I feel like—we’re supposed to set it up at the point, but like if in five minutes someone has a good idea that you want me to write up there, I will write it up there, I don’t care about the rules that much. But let’s jump into the attributes, because this is a whole thing, and before we start it, I’m just gonna give a very high level of what we’re doing, so we know what we’re doing at the start. [Jack agrees]
+Attributes [00:19:45 - 00:37:57]
+Ali: So we’re about to pick six words that we feel describe the Beloved that are also things that are just, like, universally attractive in this world. And then, from those six letters—I mean six words, we’re going to choose three of them to make a synonym and an antonym for. So let’s say that the Beloved is attentive, we would have like, thoughtful and careless. From we would assign “thoughtful” to one of the Suitors, and “careless” to another Suitor, because they just get assigned out like that. And then, [laughs] on top of that, we get to like, fine tune the Suitors a bit more and add another word to that. So it’d be like, careless but quick on their feet. And thoughtful but stubborn, or whatever, right? And as we go through scenes, let’s say the two of you are standing outside the window and marveling over the shop, and talking about like what the future [laughs] window that’s gonna be there is gonna look like, and if I’m the one who’s outside of that scene, I would say “okay, you’re careless, you didn’t look at the weather and it’s raining, so this meeting you set up is now ruined, what do you do?”
+Jack: Right.
+Ali: And that’s the game. [laughs] So!
+Janine: Okay.
+Ali: Yeah. So, let’s start thinking of attributes for the Beloved. The weird thing about attributes is that they can be like character traits but they can also just be like, cool things that they have?
+Janine: Like, “best ship” in here, in this example? [laughs]
+Ali: [laughs] Uh-huh!
+Jack: [cross] I thought that, I underlined that, it’s so funny.
+Janine: [cross] [reading] In the setting Pirates, players choose the following attributes for the Beloved: Ruthless, daring, ambitious, infamous, carouser, best ship.
+[Ali laughs]
+Ali: It’s very good. The other thing, to just say while we’re on this, is that we also, at the end of a scene we gain traits and we assign them out depending on who wins the scene, it’s a whole thing. But the traits can also be really wide? One of the traits that the book uses is like “I met some girl in a prior scene” — 
+Jack: It’s so funny.
+Ali: [trails off, laughing] Which doesn’t seem right!
+Jack: One of the traits is “used to be turned into a frog.”
+[Ali laughs]
+Jack: It’s so good.
+Ali: So… yeah.
+Jack: [interrupting] Also, should we pick who is who at this point? Or does that come next?
+Ali: We… can pick who is who at this point. We can, yeah. I think the book—
+Janine: I think we’re supposed to do it at the end, though, right? Like, ideally they want you to form the Suitors and the Beloved, and then decide?
+Ali: I think you’re supposed to decide at this point. I’m fine with us waiting until we….
+Janine: [interrupting] Okay. I might be thinking of the names. I think maybe the name is something you’re supposed to do last.
+Ali: Yeah, I am.
+Jack: Okay.
+Ali: We’re not gonna have, like, a personal touch on these characters, but there’s a weird turn order so they want you to choose now?
+Janine: Mmm, okay.
+Ali: But we can, like, list out all of these words and say like, “Oh, that’s the one I wanna play”, because I don’t really… [trails off]
+Jack: Yep, totally.
+Janine: Yeah, I think that’s the best way to do it.
+Ali: Okay. Fair, fair, fair. Because yeah, I feel like it would be a lot of pressure right now to be like “Okay, you’re the Beloved” or whatever. But, we have to go—I’m just gonna give the turn order of me, Janine, Jack for now? Because.
+Jack: Works for me.
+Ali: [continuing] We each have to choose a word and that’s like a whole thing and… um, okay… So, what words do we want to think of for the Beloved? I chose myself first. I fucked this up. [Ali laughs, Jack laughs]. 
+Jack: Damn!
+Ali: Okay…
+Janine: I have a word if you wanna pass, but… [Ali deliberates] or like, loop around.
+Ali: Yeah, Janine—okay, so it’s going Janine, Jack, me. I’ve already— [laughs]
+Janine: Temporarily, it’s fine. Because the—I think we should use “ingenious” for the Beloved.
+Jack: Mm.
+Ali: Okay.
+Janine: Because like, that should be… the thing?
+Ali: [reading from screen as typing] Is that right? E-N?
+Janine: I think it’s an I?
+Ali: Okay. [laughs] Ingenious.
+Janine: I’m not 100% on that, I could be wrong
+Ali: Well. [laughs]
+Jack: I’m gonna pick generous.
+Ali: Okay. Let’s go with that one.
+Jack: I feel like a toymaker should be generous.
+Ali: [deliberates, reading out typing] Generous… I’m gonna cheat and just use the word I’ve had in my head for saying that example [laughing] which is attentive. Which I think also works for, you know, someone who works with their hands and owns a shop.
+Janine: Yeah!
+Jack: Has the best ship.
+Janine: Like, detail oriented.
+[Ali laughs]
+Janine: [deliberates] What’s the funniest thing I could attach to this thing that I ave in my head? [laughs, Ali laughs] [pauses] Best stuffed dog faces.
+Jack: Ohh.
+Ali: Yeah, that’s important.
+Jack: Yeah, that’s great. Janine comes up with a curveball that also fits… perfectly! [laughs]
+Janine: None of those like, little, oh, the mouth is just square of red felt, ohhh, it’s cute—no.
+Jack: We’re talking good.
+Janine: [audio briefly warps] …there is tongue, there is likf—
+Jack: [interrupting] Oh, jesus!
+Janine: [continuing] a sort of throat space? Um… [Ali: Wow.] There’s no teeth, because that’s too fierce, but you get a good symmetrical curve on the little, like, the little colon three mouth.
+Jack: Are these—
+Ali: [laughs] How detailed is—how much does the snout protrude?
+Janine: [instantly] It depends on the breed.
+Ali: Okay, of course, sorry, sorry. [laughs]
+Jack: Are these dog faces frightening? Or is… I mean, I feel like there’s an uncanniness that you want to avoid, and does best stuffed dog face design mean… I mean, what is the verisimilitude of these dog faces?
+Janine: I think… it depends, there’s a section—you know, it’s a very deep source, there’s a section for toys for five and under, and they have very soft cute faces. And then there’s a section for older children, and the toys are a little more realistic there because, you know, it’s like, a learning thing? You have to learn like, dogs aren’t all cute and fun, sometimes they’re a little scary, but you still love them.
+Ali: Mm.
+Jack: I’m gonna pick… “patient”.
+Ali: Ooh, that’s a good one!
+Jack: Mm. I feel like patient—patience is a good attribute, broadly.
+Janine: Yeah.
+Ali: Yeah. Um… hm. Now to round it out.
+Jack: Wealthy! No.
+[Ali laughs]
+[pause]
+Ali: What’s good about a shop owner? What would a shop owner be good at?
+Janine: [laughs] For some reason “sharpshooter” came to mind and that’s not— [Ali laughs, crosstalk] that’s not, but it’s funny.
+Jack: [crosstalk] Now, now hold on… Now, hold on.
+[all laugh]
+Ali: Now who’s playing Arthur Morgan? [pause] I’m trying to think of something that’s a little bit more, like, specific than resourceful?
+Jack: Mm. What about like, well-… I was gonna say well-connected, but that’s almost more interpersonal than… [sighs] like, in what way does their resourcefulness shine through?
+Janine: Adaptability?
+Jack: Ooh.
+Ali: Oh, sure, yeah. [pauses] Yeah, you would need to be very [typing] adaptable? [laughs]
+Jack: It’s the holiday season!
+Janine: Sometimes— [laughs] No, go ahead.
+Jack: Oh, you gotta start making the nutcrackers with the jaws that go [teeth clacking noises]. You gotta, baubles, tinsel.
+Ali: Yeah.
+Janine: Sometimes you run out of hinges for the nutcracker jaws and you have to like, cut some pins down and then secure them in yourself. You gotta—you gotta make do. You gotta have that “make do” toymaker spirit.
+Jack: Yeah.
+Ali: [laughs] I’m switching it to “good under pressure” which is a great, it is something that everyone who runs a store is putting on their resume. So. [all laugh] It’s all good.
+Jack: Yeah. That’s true.
+Janine: It’s honest.
+Jack: Okay.
+Ali: Okay. So now, Janine.
+Janine: Yes.
+Ali: You choose one of these, and then you write a synonym and an antonym, and I’m just gonna write all of these on the bottom here, so we can assign them out.
+Janine: Okay. Are we just gonna pick any at random? Or just do ours?
+Ali: So now you can just pick of the six… uh… one of the six Beloved ones. We choose what those words are, and then we assign them out.
+Janine: Okay.
+Ali: So it’s three pairs of words and then we decide who gets who. Again, we go in another round.
+Janine: [pause] I gotta do best stuffed dog face design. [Jack, Ali laugh]
+Ali: [laughing] Okay.
+Janine: Because I love the implications of both the synonym and the antonym of that.
+Ali: Sure.
+Janine: They’re very important.
+[Ali laughs]
+Jack: God, it’s so good. If we’d slept on this one we’d not be able to forgive ourselves really. [Janine agrees]
+[Ali is still laughing]
+Janine: I mean, so the antonym writes itself, right? Like… worst stuffed dog face design.
+Ali: Okay. Worst dog face design.
+Jack: [laughing] Ashley…
+Janine: Yeah?
+Jack: Ashley Campbell in the chat just says “Horrific dog designs”.
+[Ali, Janine laugh]
+Jack: Which is true.
+Ali: Do we want to say worst, or do we want to say too realistic? Or like…
+Janine: I mean, the opposite of best is worst.
+Ali: This is true.
+Janine: But worst can also mean… that they are too realistic.
+Jack: Yeah.
+Janine: It could also mean that like, instead of using eyes, they used, like, peach pits or something. It could be anything.
+Ali: But we’re storytellers and we should wait to… [trails off, laughing]
+Janine: That’s true.
+Jack: [cross] I’m gonna turn this car around.
+Janine: [cross] We should play to find out what happens.
+Ali: Okay.
+Jack: Okay. What’s your synonym for that, as well?
+Janine: Mm… maybe, like, best stuffed cat face design? Like it’s still like a stuffed animal?
+Jack: Oh, that’s good.
+Janine: I don’t know if that’s too close, though.
+Jack: No, it’s good because then we can…
+Janine: But there is something romantic about the two toymakers who make the best animal faces uniting, you know?
+Jack: Yeah.
+Ali: [still laughing] Okay. Okay. Best stuffed cat design.
+Janine: Sylvia[2] in the chat says “That’s just a taxidermist with a side hustle”
+[pause as Ali and Jack laugh]
+Ali: Perfect. Do you want to just assign these out at this point or—no, I wanna wait because I wanna see the full list so we can like—
+Jack: Yeah, before we start—before we start setting up people.
+Ali: Yeah, before we figure out which pairs we wanna make. So, Jack.
+Jack: I’m gonna pick… I’m gonna pick patient?
+Ali: Okay.
+Jack: And I’m gonna… my synonym is going to—let’s just do my antonym first, it’s “impatient”. I feel like the prefix really just does that thing for me. And then my synonym, a synonym for patience is… [typing sounds, pause] Thoughtful.
+Janine: Mm.
+Ali: Okay. [types] Okay. [pause] Are you locking that in? [laughs] Because you seemed unsure.
+Jack: Yeah, no, I’m locking that in. I’m locking that in.
+Ali: Okay. Okay, good.
+Janine: What does bilious mean?
+Jack: Bilious is like, ill, right?
+Janine: [reading] Affected or bi—[laughs] okay, nevermind. Yeah. I just-
+Jack: Hey, Janine?
+Janine: [laughing] I just always think of that word as just like a… yeah?
+Jack: [laughing] What did you think bilious meant? [Ali laughs]
+Janine: No, okay, so like, there is like, a word that’s— [sighs] it’s like bilious, it’s not like laconic or something. But it’s like a word for like—it’s like a word you use for someone who has, like, low blood pressure or something.
+Jack: Is it phlegmatic? 
+Janine: Like emotional low blood pressure… no, I don’t know, I don’t know what it is. It might be bucolic? Like, there’s all these words that don’t mean fucking anything, but it’s one of them for sure. [Ali laughs] Anyways… we should keep moving.
+Ali: For “attentive”, I’m gonna go with “observant”.
+Jack: Oh, yeah.
+Ali: And [sighs] what is my synonym gonna be… [pauses, deliberates] I’m gonna go with careless, even though it’s the obvious one. I just feel like all of the, like the other ones that I can think of are kind of mean, which are like, negligent, or inconsiderate, or stuff like that. [Jack, Janine agree] Like, that’s a little less harsh. Oh, caseless isn’t it though. There we go.
+Janine: Distracted, even?
+Ali: Oh!
+Janine: [crosstalk] It’s a little softer.
+Ali: [reading whilst typing] “Easily distracted”. That’s great. That’s gonna be fun to play. [laughs] So, there we go. 
+Okay, so, now we have our—we have, okay. [laughs] So we have six new words, and these have to be assigned out in pairs. So you couldn’t say like, oh, I want to Suitor One to have best cat design and Suitor Two to be easily distracted. Once you take ownership of the pair, you do the whole thing. So we’re back to Janine, and you don’t have to take the ones that you picked. But.
+Janine: I mean, I’m gonna.
+Ali: [laughs] Exactly.
+Janine: But I mean at this point it’s mostly just random. Give cat design to Suitor One and dog design to Suitor Two.
+Ali: Right. Okay. So we are making some…
+Janine: We’re making that first character move.
+Ali: We’re growing these characters here. So Suitor One has the best stuffed cat design, and Suitor Two has the worst dog face design. [Jack laughs, Ali laughs] Suitor Two really has a hurdle to get over to win the attention, and the affection of their Beloved. Whereas Suitor One…
+Janine: Or maybe it’s a thing they can bond over. Learning to make good dog faces!
+Ali: See! See… [pauses] Jack, you’re up.
+Jack: Uh, I’m gonna pick… [deliberates] I’m gonna pick, Suitor One has easily distracted.
+Ali: Okay.
+Jack: And Suitor Two is observant. Not observant of dogs’ faces. [Ali laughs] Or maybe just the observing is not the issue. [pauses] But they’re doing okay.
+Ali: [laughs] Okay. I’m gonna give… oh, this is tough, because then you fuck up the balance. I think I’m gonna give impatient to worst dog face, and thoughtful to…
+Janine: [laughing] Is that their name now?
+Jack: No, it’s not! No, hang on…
+Janine: We’re giving impatient to Worst Dog Face? [Ali, Jack laughs] That’s fucked up.
+[Ali laughs]
+Jack: Hey, I heard your dog faces are really bad. But guess what? [laughs] You’re also impatient! [laughs] Oh jeez.
+Ali: [laughing] They’re just like…
+Janine: That’s probably why they’re fucked up, really.
+Jack: [crosstalk, laughing] Yeah, they’re not spending enough the time…
+Janine: [crosstalk, audio warps slightly] Because they’re not taking enough time
+Ali: [laughing] It’s just such a clear… I obviously already know them as the cat designer and the dog designer— [breaks off laughing, Jack laughs] Okay. So, we’ve done this, I’m scrolling down, yadda yadda yadda… 
+Okay, so now we modify traits. Do we do this to our own? Or do we… do this in… a pair… no, we still do this in a round. So, we can keep doing this, and then choose who we are afterwards. So. Right. Okay, so now that we have easily distracted, thoughtful, best cat design for Suitor One, and Suitor Two has [laughs] worst dog face design, observant, and impatient. We modify these by saying “But…” So, you can say—say we had used generous as one of them, you could say like “Oh, they’re generous but—” Wait [laughs]. They’re generous but… cold.
+Janine: Gluttonous? Okay. That works too.
+Ali: [laughs] So…
+Jack: And these don’t have to be antonyms, right? Just so long as they add some new aspect to the attribute?
+Ali: Yeah yeah yeah. So, yeah, we’re just kind of remixing them a little bit here, we’re not like, trying to-
+Janine: It’s phrased like there’s a bit of a relation, but not like a direct… thing.
+Jack: Mm-hm.
+Janine: ...Necessarily, right?
+Ali: Yeah, it’s written just to add nuance, but it’s not specifically— [laughs] 
+Okay, it specifically says—the modification should strengthen, weaken, or give detail to what we know about a character based on their trait. So it doesn’t have to be, a specific—it doesn’t have to be linked in the same way that it was… there, but it should be related to that first word. You shouldn’t say like “worst dog face design, but smells nice”. You know? Like that’s not. [laughs, Janine laughs]
+Jack: Right.
+Janine: Well, you make terrible, terrible dog faces, but you smell like vanilla. [Ali laughs]
+Jack: Those dog faces smell great, but I can’t stand to look at them. [Janine laughs] I just put one in my pillowcase in my clothes drawer and it really improves the whole feel of the thing. [pauses] Okay, who goes first here?
+Attribute Complications [00:37:57 - 00:46:17]
+Ali: Is it still Janine?
+Janine: I have an idea.
+Ali: Go ahead.
+Janine: For worst dog face design.
+[Ali laughs]
+Jack: Ooh.
+Janine: Worst dog face design, but… best tail wagging mechanism. So you only wanna look at their dogs from the back.
+Ali: Wow.
+Jack: [laughs] Oh my god. And then you turn it around and you’re like “Oh!”
+Janine: [laughing] Yeah but that’s the, the display is all these little dog tail wagging, “Oh, it’s so cute, it’s so cute”. They pick one up, turn it around and— “Whoa!”
+Jack: Yeah, yeah. Abso— [laughs]
+Janine: We gotta go over to the cat stand.
+Jack: Absolutely.
+Janine: Yeah.
+Ali: [laughing] Okay. Okay.
+Jack: Play to find out what happens, you know. And it turns out that what’s happening is intricate dog construction.
+[pause, all laughing]
+Jack: Uh- I’m gonna pick… [deliberates]
+[a high-pitched bark in background audio]
+Jack: Who’s that?
+Janine: Someone with the best dog face.
+[Ali laughs]
+Jack: Yeah.
+Ali: [laughing] It’s my next door neighbor’s dog.
+Janine: Cat-dogs? Okay.
+[Ali laughs]
+Janine: I was really confused for a second. Okay.
+Jack: Um… I’m gonna pick… [deliberates] I want something with “easily distracted” that is like, that adds an aspect to it where it’s like, they flip between a lot of things, and they able to keep those in— they’re capable of spinning a lot of plates or something. Like, they’ll bounce between them, but they have a lot.
+Ali: I would say like, easily distracted but passionate? Maybe?
+Jack: Ohh! Yeah, that’s great, yeah.
+Ali: Okay. [typing]
+Jack: And there’s something interesting to be said, right? About a character who is like, genuinely passionate, but also is easily distracted.
+Ali: Yeah. Yeah. The affection for things is full and true, but [Ali, Jack laugh] you know, you get distracted sometimes.
+Jack: Yeah, yeah. Yeah!
+Ali: Um… [deliberates, laughing] Okay, okay. Janine, I don’t—I want you to— if you have a good idea, [laughs] please!
+Janine: I do, yeah.
+Ali: It’s my turn, and I was gonna apply something to best cat design, but I wanted to make sure you were not.
+Janine: Oh no, go for it, go for it.
+Ali: Okay
+Janine: My idea is for something else, you’re good. You’re all good.
+Ali: [laughing] Okay. [pauses] I’m writing ‘but legs are too short’.
+Janine: That sounds like a selling point.
+Ali: [laughs] You don’t know!
+Janine: Little short cats with good faces? C’mon!
+Ali: It’s not—you know, maybe people don’t—
+Janine: That’s Little Bub’s whole platform.
+Ali: Okay, wait wait wait.
+Jack: [sighs] My child will accept only the tallest toy cats. [Janine laughs]
+Ali: I was gonna—
+Janine: Maybe Egyptian Maus are really in style, or, like, the Oriental Shorthairs and stuff. And people are like, oh these little stubby cats just look so, eurgh.
+Ali: [laughs] I changed it to “legs are not even length”.
+Janine: Oh, that’s good. [Ali laughs] That would be sad.
+Jack: Oh, yeah yeah, totally.
+Janine: [laughing] All these little tippy cat toys.
+[all laugh]
+Jack: Keep falling over.
+Ali: I can’t put that on my shelf like this. [pause] Oh, fuck, Jack.
+Jack: No— [laughing] I just noticed the chat briefly suggested “legs are too long”. Which is very good.
+Ali: Oh! [laughs]
+Jack: But “not even” is incredible.
+Janine: I think “not even” is the best.
+Ali: Yeah, we need variance here.
+[pause]
+Janine: Observant but myopic.
+Ali: Okay.
+Jack: Ooh, yeah! [pause] Let me check what myopic means.
+Janine: So they’re very observant but they’re like, so narrow.
+Ali: Okay.
+Janine: In observing, and so, like, fixated on the details.
+Jack: Except the faces of the dogs.
+[Ali laughs]
+Janine: Well, that’s maybe—maybe, again, that’s why they’re bad. [Jack: Sure.] Because they fixated so much on, like, I gotta get the eye-shine realistic! But then it’s just like, well, the mouth is upside down and there’s a beetle under it, so. 
+[Ali laughs, Jack laughs]
+Jack: [laughing] Okay. I’m gonna pick, so my options now are thoughtful or impatient.
+Ali: Mm-hm.
+Jack: I’m gonna pick, [pauses] thoughtful, but brisk. So, like, their manner is quite brisk.
+Janine: Brisk or brusque?
+Jack: Bri—bru—bru—let me check the definition.
+Ali: [laughing] When I think of brisk, I think of, like, walking in a sunrise?
+Janine: I kind of think of like, a nice fall day.
+Jack: So maybe what I have been doing all this time is—either this is a British thing or I’ve just been using the wrong word forever. [Ali laughs] Let’s check.
+Janine: I think you could say—you still say someone’s like— [audio begins to warp] oh, he was very brisk with me.
+Jack: Yeah, no, the dictionary—
+Janine: [crosstalk, audio warping] That still sounds okay.
+Ali: [crosstalk] Oh, sure, yeah.
+Jack: [continuing] The dictionary definition is “showing a wish to deal with things quickly, slightly brusque” which I love that they raised the vowel sound from brusque to brisk when they need to make it slightly.
+Ali: [laughs] I’m gonna make it brisk slash short, because that’s the word that I would use for that.
+Jack: Yeah, yeah. But I want to be clear that I don’t think this shortness is necessarily like… often when I think of short, I think of someone who is being, like, cruel, without necessarily realising it? [Ali agrees] They’re just like “oh, I don’t care or whatever”. And I think like this briskness, or this brusqueness, or this shortness, kinda runs the gambit of both that and also, maybe just being quite brusque about things. I don’t know.
+Ali: Okay.
+Jack: Let’s see.
+Ali: Well, people are busy!
+Jack: People are busy!
+Ali: [pauses] And I’m gonna go with impatient but… [pauses] impatient but well planned—no, well. Does that work? Impatient but organised?
+Jack: Oh, that’s interesting.
+Janine: Maybe, like, methodical?
+Ali: Mmm.
+Janine: Where it’s like, they’re impatient but also they have to do—they wanna do things in a certain order and like cross their t’s and dot their i’s.
+Ali: Yeah, I think that’s what I’m going for. That’s closer to organised.
+Jack: Mm.
+Ali: I think, you know, someone who’s impatient but like… is… [laughs] is organised enough, and is like, on top of their shit enough that like that doesn’t always have to come through? Because if they’re well planned then they don’t have to be…
+Jack: Right.
+Ali: You know what I mean?
+Jack: Yeah, yeah. Like, yeah.
+Ali: Okay. Okay. Perfect. [laughs] Thank you for knowing what I meant. So, um, we’re done with that part. Now we are going to develop the Beloved a little bit more. And… I’m just gonna go in the same order? Because… okay, the only thing is—the only thing about this is if at this point we know who’s playing each of these characters, the Beloved gets to make their own dream. Which I feel like is kind of important? So I don’t know if we want to like, call dibs on people now.
+Jack: [sighs] Do any of us have a particularly strong desire to play any particular role?
+[Ali laughs]
+Janine: Not really?
+Ali: These are all great characters. 
+Janine: They are.
+Jack: [deliberates]
+Janine: I have an idea for the Beloved’s dream. But it’s also not a special idea that wouldn’t particularly matter either way.
+Ali: Okay. We can just keep going this way, like, we’re—I trust y’all enough to like [laughs] if I end up playing the Beloved, like, oh, Janine gave me this dream that I don’t feel close to [Jack laughs] or whatever.
+Jack: Right.
+Ali: So, in that case, with our turn order, what’s actually gonna happen is—well, if you have an idea for a dream you should probably do it, but it would be Janine doing the opportunity, which is why this Beloved is available, obstacle: what major challenge is the Beloved facing, and the dream: what is the Beloved’s goal or ambition in the world. [pause] So.
+The Beloved [00:46:17 - 00:56:03]
+Janine: [deliberates]
+Jack: Ooh! I have an idea for an obstacle.
+Ali: Yeah?
+Jack: What about, what if we do sort of a You’ve Got Mail situation, and the department store is opening a toy shop.
+Ali: Ohh, okay, depart—
+Janine: Is that what You’ve Got Mail is about?
+Jack: Yeah, You’ve Got Mail is about a little bookshop run by Meg Ryan, and then kind of—like, what’s the American bookshop called? The famous one?
+Ali: [crosstalk] Amazon dot com.
+Janine: [crosstalk] Barnes and Noble?
+Jack: [laughs] Barnes and Noble!
+Janine: Borders?
+Jack: I think it might be like, a fake Barnes and Noble slash Borders opens up, and is like “We’re gonna put you out of business!”, and Tom Hanks works for the people, and Meg Ryan’s like “You wouldn’t do such a thing!” And he does. [laughs]
+Janine: Oh.
+Ali: [sighs] Young love.
+Jack: Young love. Nora Ephron.
+Janine: There’s like, two big ways in which that movie doesn’t age well, huh.
+Ali: Uh-huh.
+Jack: Yeah, no. It’s, ah—it’s, ah, I had fun watching it.
+Janine: [laughing] I assumed it was just the one!
+Jack: No. It’s got a good dog in it. And then at the end they play “Somewhere Over the Rainbow”, and I cried.
+Ali: Aw.
+Janine: Aw.
+Jack: [laughs] Because… look, you know, romantic comedies of a certain time know how to pull the heartstrings, even as you’re watching going [sucks air through teeth] you know, with tears going down your face.
+[pause, all laugh]
+Ali: Perfect.
+Jack: Yeah… So we need an opportunity and a dream now.
+Ali: Mm-hm.
+Janine: The idea I had for the dream is just like, a really, like, basic like “Make the hot holiday toy”. Like make the thing that they can’t keep on the shelves.
+Ali: Ohh.
+Jack: Oh, yeah. I mean—
+Janine: [audio warps] —holiday. [audio recovers] Because I mean, you know, it’s December. It’s the game.
+Ali: Yeah. Do you wanna make it something like. Yeah, that makes sense. Okay.
+Jack: I was wondering if—
+Ali: I was gonna suggest something more personal, which is like make something that they’re super proud of, not that’s just like… you know what I mean? [laughs] Make the second best dog face design.
+Jack: [laughing] I was gonna suggest something in completely the other direction, which was like, make it into the, whatever the mail order catalogue’s top ten toys of the year or something is, like…
+Ali: Ohhh!
+Jack: Like the toy inspector comes round. But I love that Ali’s one was like let’s make it more personal. And mine was like, let’s make it, [laughs, Ali laughs] let’s try and get it into the catalogue.
+Ali: We can combine all these ideas! I think the idea of like, because this is like a magical setting, and newspapers are probably, who even knows, maybe there’s a make it into the magazine’s top best new toys of the season, or whatever.
+Jack: Yeah. I’m down.
+Ali: Does that work?
+Janine: Yeah.
+Jack: I’m up for that.
+Ali: [typing, laughs] I’m just gonna write “newsletters”—best top ten toys list… 
+Jack: And the town is like clamouring for this shit. They’re like— [Ali laughs] I’ve got to know the top ten! And I want some even legs in there.
+[pause as Ali laughs, Janine laughs]
+Ali: I just wanted to make it new because I really like the idea of this person being like, I’ve already got the best dog face in town and I have to wow them one more time.
+Jack: [laughs] It’s Oscar season, baby!
+Janine: Everybody used to talk about my dog faces but now, you know, everyone’s got a dog with a nice face I need to make something new to keep them coming. Because once you have a dog with a nice face you don’t need two!
+Ali: Right, exactly. I mean there’s different breeds but, you know.
+Jack: Sure!
+Ali: Okay, what’s the opportunity, why is the Beloved available. I’m like, my mind keeps going down the obvious highway, [laughing] which is like they fucking work retail during the holiday season, and they’re super busy. But there’s probably a better reason why somebody wouldn’t date.
+Janine: What if… it has something to do with the department store, like what if… what if someone ditched them [Jack: Ohh.] to go found the toy section [Ali: Ohh.] of the department store.
+Jack: Oh, they’re like…
+Ali: So recently. [laughs]
+Janine: Took their dog face secrets to the competition. [Ali gasps]
+Ali: Wow.
+Jack: Wow. There’s like a—what do you call like, the first mate? Position?
+Janine: First mate?
+Jack: Is that what it’s called? Off a ship? 
+[Janine, Ali laugh]
+Janine: [laughing] I think so.
+Jack: Where it’s like, I’m the first mate of this toy store! And that position is up for grabs, because the traitorous one went to… McGuddans… [laughing] to teach them how to make dog faces.
+Ali: Oh, yeah, okay. So it’s like a recently...
+Janine: [laughing] McGuddans is the funniest department—fake department store name I’ve ever heard in my life.
+Jack: [laughing] Is it a real thing? Let’s find… 
+Janine: It’s so gross!
+Jack: Let’s find… Let’s find out… [pause, typing, laughter] It’s not a real thing! Oh my god.
+Ali: What was that? You wanna spell that for me really quick?
+Jack: Yeah, sure, we have a choice here. It can either be—it can either be [laughing] M-C-G-U-D-D-A-N-S, or M-A-C-G-U-D-D-A-N-S.
+Janine: We have another—we have another choice, which is if we go with the first one, but instead of having the ‘c’, we make that an ‘a’. So it’s “MaGuddans”?
+Jack: [laughs] Oh, MaGuddans is great. MaGuddans feels like, before it felt, like, Scottish, now it feels like Victorian English. [Janine laughs]
+Janine: Oh, it’s something else. Wow.
+Ali: [crosstalk] Okay, I’m also just gonna—
+Jack: [crosstalk, laughing] Oh, wait, sorry, Ali. I’m afraid we changed the spellings as you were spelling it, sorry. I hate to disappoint you. Now it’s M-A-G-U-D-D-A-N-S.
+Ali: [laughing] Oh.
+Janine: I think you can still leave the ‘G’ capital, that’s still fine.
+Ali: Okay, okay, I love it. [Jack laughs] And then I’m just gonna, just so we know…
+Janine: [laughing] Mmm.
+Ali: ...The Beloved owns—okay, but no, we have that. I—you know, I—there’s a complication here immediately, which is why aren’t these people just going to work for the department store?
+Janine: ‘Cause fuck them!
+Jack: ‘Cause fuck the department store!
+Ali: [laughs] So we’re all… [mumbling] we’re all... pure hearts....
+Janine: [crosstalk] That’s all—that’s the thing that unites us out of the gate, is fuck them!
+Jack: [crosstalk] They come into this neighbourhood, yeah, fuck the department store!
+Ali: Mm-hm.
+Jack: I might not know how to make a dog’s face, but [laughs] fuck those guys.
+Ali: Well… It’s an easy hurdle!
+Jack: I’d rather make a bad dog’s face for a small business, than a great dog’s face for MaGuddans.
+Janine: I mean the answer is probably, really—god, uh. [laughs] The answer’s probably really that like they mostly manufacture in small factories, that are like in the middle of fucking nowhere. So it’s like, if you are into toy manufacturing as well as selling, I’ve got a good gig for you. The gig that would’ve been good for you, which is buyer and quality assurance and whatever, like picking out the products and marking them up and stuff, like, that job is taken by the trade.
+Jack: Right.
+Ali: Right.
+Janine: Like, if you wanna work the sales floor, cool, but no one’s gonna give a shit about your best tail wagging mechanism there. [Ali laughs] Unless you sell it to the company.
+Jack: MaGuddans—yeah, and like MaGuddans maybe has like, one shop floor toy maker. You can go watch the toymaker work or something, and I bet that’s the person who went—your first mate, who went over to MaGuddans is like, sitting on a fucking little stool, fucking churning out— [Ali laughs] elves, or some shit.
+Janine: But it’s like a total Penelope thing, too? Or like, the thing they do in historical re-enactment villages where it’s like, you see someone making a pair of shoes and what you don’t see is the second you leave they unstitch the shoes they just made and start over, like, it’s just like manufacturing theatre?
+[Ali laughs]
+Jack: What’s a total Penelope?
+Janine: [laughs] Well, I—
+Jack: [laughing] Also, I’m writing down ‘Total Penelope’ in my names list.
+[all laugh]
+Janine: You know, from the Odyssey. She makes, she has to—
+Jack: Oh, she does! Yeah
+Janine: She has all the suitors and she’s like “I have to make my shroud, fuck off until I’ve made the shroud, then I’ll marry you”.
+Jack: My shroud takes forever.
+Janine: So she makes the shroud and then unlooms, unweaves it every night.
+Jack: Yeah.
+Ali: Mmm.
+[pause]
+Jack: [tuts] Total Penelope.
+Ali: [laughs] Total Penelope! Okay. So, next step is that we make a person, place, and a thing for each of the Suitors. Which is pretty self-explanatory. We can just shout them out, or we can go in a line again per Suitor?
+Janine: Is person like what they are?
+Jack: No, it’s like a friend, or… [trails off]
+Ali: Person is like… yeah, [laughs] I guess it’s not self explanatory, sorry, let me actually read it. The person is a friend, ally, an enemy or rival, or another acquaintance of the Suitor. A place is somewhere the Suitor frequents or is associated with, or the player wants to see featured in the game. The thing is an object the Suitor uses or owns. Since all the players create these traits, they can range from positive to negative, as do their attributes. So… [typing noises]
+Jack: Okay.
+[pause, typing noises continue]
+Janine: Sorry, I’m typing very loudly.
+Ali: [laughs] It’s okay.
+Janine: [referring to screen] Oh, that’s not what I wanted.
+Ali: If we have ideas here, shout them out.
+Jack: [sighs] Hm.
+Person, Place and Thing [00:56:03 - 01:21:46]
+[pause]
+Jack: Okay. What about… What about a hot chocolate and strudel shop frequented by one of these people?
+Ali: [laughs] Okay.
+Janine: Ooh.
+Jack: Like, there’s snow in the windows, [crosstalk] there’s a little model… [trails off]
+Janine: [crosstalk] What’s its name?
+Jack: That—aw, Janine. [Ali laughs] Look, we can’t all do MaGuddans the whole time. [Janine laughs]
+Janine: MaGuddans was so good, though. I’m already on a name generator page, by the way. [laughs]
+Jack: This strudel shop is called something like… Oh, oh! It’s called, it’s called, let me just— [typing, reading] “Old names of trains”. It’s called…
+Ali: Great. Perfect.
+Jack: No, I just went to Google images as though it would be helpful to me, to see names. Oh Jesus Christ, there’s lots of subpages for names of trains and it’s killing me.
+Janine: This bakery name generator that I’m on is too modern because it just suggested “Those Buns Dough”.
+Jack: [crosstalk] Mmm—n—no. No.
+Ali: [crosstalk] No. Get outta here.
+Janine: [laughs] It also suggested “Snacka’ Muffins”. That’s not what we need.
+Ali: Hmmm.
+Janine: That’s not helpful here.
+Jack: It’s called… It’s called the, like, The Something Express, and it’s got in its window a little wooden train set that goes around and around, carrying strudels. And it was made by the Beloved. It’s called—
+Ali: Oh, okay. So this is… a past passion for the Beloved?
+Jack: Yeah. It’s called… The… [sighs, typing] List of named strudels.
+[Ali, Janine laugh]
+Jack: Like, The Strudel Express is too on the nose, right?
+Janine: It’s a little on the nose.
+Ali: But it could be.
+Jack: The Strudel Express is an animated movie [laughs] starring Tom Hanks.
+Ali: What if it was like, what do you use in strudel? Like, cinnamon, brown sugar. Uh, uh, butter. [laughs] That’s it!
+Jack: Eggs. The Egg Express. [laughs] The Egg Express is the name of our shop! [crosstalk] It’s the worst name.
+Ali: [crosstalk, laughing] The Egg Express… what about The Comfort Express?
+Jack: That sounds a bit like a hotel to me. Like, it sounds like a cheap hotel.
+Ali: Oh. [laughs] Okay, well!
+Jack: What about the Strudel’s—
+Janine: [interrupting] Did you know there’s—
+Jack: No, go on.
+Janine: There’s a dessert called the Summer Berry Grunt.
+Ali: [snorts] I can’t.
+Janine: And a Rhubarb Eton Mess?
+Jack: [laughing] What about The Lingonberry Express or something? No, I hate it. I said — [trails off, laughing]
+Janine: Old Fashioned Apple Pan Dowdy.
+Ali: [laughing] Okay, this is getting—
+Jack: Old Fashioned Apple Pan Dowdy.
+[pause as all laugh]
+Jack: Okay, I’m back on with Ali with like the Cinnamon Express or something. The Cinnamon Steamer. The Overnight Cinnamon—
+Janine: Nutmeg? Is also a good one? People like nutmeg. Old timey people fucking love nutmeg.
+Ali: What’s the most funniest spice [laughing] for us to make into… 
+Jack: List of spices.
+Janine: Anise is funny? It’s weird shaped.
+Ali: Hmm.
+Jack: Express… Hmm.
+Ali: It’s not funny to say out loud.
+Janine: That’s true.
+Jack: Yeah, we don’t want funny to look at. We want funny in the mouth. [Ali laughs]
+Janine: There’s a spice named Beeber[3]?
+Ali: Clove isn’t funny but it’s… interesting?
+Jack: Clove is… yeah. I’m looking at this list of train names again. List of passenger trains in Italy and Switzerland, I want to see how they name these. Hm. They just name them like, Heidi Express, IC Teodolina, Caravaggio. That’s just—you can’t just name it after one of your painters. Stradivari, that’s a violin maker. These aren’t fucking trains. God, the Italians are bad at naming trains.
+Ali: Didn’t these people know when they were naming these trains that we were gonna need them [laughing] for us to see how this shop—
+Jack: Three weirdos would— [laughs, trails off] Oh!
+Janine: Lovage? I guess that’s good for seafood though, that’s not really the same...
+Ali: Yeah, I don’t know.
+Jack: Okay, hear me out here. There is a Swiss passenger train that runs from Zermatt to St. Moritz, and it’s [Ali laughs] just called The Glacier Express.
+Ali: Ooh!
+Jack: Now I know it is not related to baking anymore, but it is kind of holiday related. What about a strudel shop called The Glacier Express that has a little train going around, and you can go in—and it’s warm, the windows are a little steamed up, you can take your coat off, you can sit by the fire, a little train called The Glacier Express will bring you a small and only slightly battered strudel. 
+Janine: I like it.
+Ali: Okay.
+Janine: At night they have whiskey ice.
+Jack: They have what?
+Janine: They have whiskey ice on hand.
+Jack: Oh, they do!
+Ali: Yeah.
+Jack: Yeah… 
+Janine: That’s where you go. That’s where you get it.
+Ali: [gasps]
+Janine: I mean, maybe this is also—maybe they also have an ice hookup, maybe that’s also—maybe they started out as like, because people used to have to literally get their ice shipped in from the fucking North Pole and shit? Maybe they started out as like, an ice broker, and then the ice business dried up? I don’t know. Or maybe during the winter months it’s kind of less of a thing? Ice?
+Ali: I’m already-- [laughs] I’m already writing that Suitor Two hangs out in the speakeasy behind The Glacier Express.
+Jack: Oh, wow, yeah!
+Ali: That’s where to get… ice.
+Jack: I love this idea that we have Suitor One, who’s like “Bring me a strudel, please!” and Suitor Two is like “Bring me a strudel AND a Brandy Alexander” or something. Is a Brandy Alexander a drink? Or is that like a biscuit.
+Ali: It is…. It might be both. Definitely a drink.
+Jack: It’s a drink. It’s a drink.
+Ali: [referring to screen] Oh, that’s so small, that’s not, we’re just gonna have to do it with the space here. You said that this was also run by the Beloved? Do we…
+Jack: Oh no, I—I guess I misspoke.
+Ali: Oh, okay.
+Jack: But it could also be—
+Janine: The train, the train was made by the Beloved.
+Jack: The train was made by the Beloved.
+Ali: Ohh! The train was made by the Beloved. Okay, perfect, I’m gonna write that.
+Jack: Um… yeah.
+Janine: I have an idea for a person.
+Ali: Okay.
+Janine: [deliberates] I had a last name and then I totally… okay, that’ll do, that’ll do. So their name is… ah, that doesn’t work. Shit, shit! Um. [pause] Fuck.
+Ali: [laughs] Do you want to describe who they are and work backwards?
+Janine: Yeah, I want a scrappy little urchin child kind of thing? [Ali laughs]
+Jack: Oh, yeah! Excellent.
+Janine: We need, we need one of those. Just…
+Jack: Absolutely. Bring me, bring me a dog with a messed up face the size of you, the one that’s in the window.
+Janine: Um… I think his name is [pause] Loyal Duncan.
+[Jack laughs]
+Ali: That’s amazing.
+Janine: [laughing] First name Loyal, last name Duncan.
+Ali: [cross] Perfect.
+Jack: [cross] Startlingly disloyal.
+Ali: Do you wanna assign a Suitor to Loyal?
+Janine: I think Loyal Duncan is probably… Mm. Probably the, I think Suitor One? Just because every now and again Loyal gets to pick up one of the cats with the especially egregious legs [Jack laughs] and that just makes his day.
+Ali: Uh-huh. Yeah. I… somehow lost the text that I should be using [laughs] but it’s fine! Okay. Back to Jack?
+Jack: [deliberates] I’m gonna pick a… Hm. I’m just rereading the person-place-thing real quick. Oh, it’s an object the Suitor uses or owns. 
+Oh, yeah! I know! It is a… It is a, like a… I want something like, absurdly alpine, and I can’t decide if it’s like a piano accordion? Or a, like one of those little horns that you blow. That you can play a little tune on. Not one of the huge mountain horns. The piano accordion is funny because as soon as you’ve played it, you’ve made an error, but the horn is like, smaller and more portable. 
+[pause] I think like little… what about if it’s just a trumpet, and they can play the trumpet really well. And I want to give that to… Suitor Two. It’s a cornet. Not a trumpet. Sorry.
+Ali: [laughs] Okay. [typing] Cornet. Is that.. C- [trying to spell it out]
+Jack: Like in the ‘eye’ I think? I think. C-O-R-N-E-T. Maybe—
+Ali: Just, okay.
+Jack: Yeah. C-O-R-N-E-T.
+Ali: Okay. …N-E-T. Okay, perfect. [exhales] Okay, um… [pause] I think that, mm, Suitor Two has a, like, design assistant? And I thought when I said that out loud I was gonna think of a name but haven’t.
+[laughs, pauses] I’m gonna go with… Stacey Lane? And I’m gonna put in parenthesis, “design assistant”. [typing] Oop! Okay. [laugh] I don’t have a ton of space here but it’s fine. We’re fine. Oh, I’m just gonna do it the way that I was gonna do it with Duncan which is… Okay. Okay. There we go. I’m just gonna say who they are at the top here. And now, Janine, you have a final thing to assign to Suitor One.
+Janine: I think that Suitor One has… [pause] an incredibly powerful horse.
+Jack: Oh? Like a Shire horse?
+Janine: Yeah. Yes.
+Ali: Powerful?
+Janine: Yes. It’s like, very, it’s like strong, it’s in the prime of life, it has never been sick. [Jack laughs]
+Ali: Wow.
+Jack: Damn.
+Janine: It’s never, it’s never… [laughs] I was gonna say “It’s never broken eye contact first”. [laughs]
+Jack: [laughing] Yeah, no, it’s true. I think that’s an interesting thing to know about this horse. This horse will just look at you from outside of the strudel shop. [Ali laughs]
+Janine: Um… what’s a good horse name? What’s a good name for like a really strong horse?
+Jack: Let me check my names list to see if I have anything suitable for an unbelievably strong horse.
+Ali: Yeah, my. The horse tat I have been using in Red Dead Redemption the entire time is named Greg. So I’m gonna leave it to y’all.
+Jack: God. That’s great.
+Janine: I named my horses in Red Dead— so I had an idea that was not a good idea, but I had three horses, so I was like, well, I guess I can just, I’ll just do this. And I was like, okay, this is a lady horse, I’m gonna name this horse Gretel. And this is a dude horse, I’m gonna name this horse Hansel.
+Ali: Ohhh.
+Janine: And then I was like, but what else goes with Hansel and Gretel, and I was like, oh, candy and nuts. So if I have another lady horse I’ll name her Candy. But then I ended up with a male horse as my third horse. [Jack laughs] So I have Hansel and Gretel and Nuts? [laughs]
+Jack: [laughing] Oh, that’s great. [pause] My horse is called Benedict. I only have one, and it’s called Benedict because I bought it with the money I got from bringing in a bounty called Benedict. [Ali laughing] And I was like “Okay! Thank you.”
+Janine: That adds up.
+Ali: Great.
+Jack: [continuing] Um, the closest thing to a name for a powerful horse that I have on my list right now is “Little Stressful”, but [laughs] that’s too on the nose for a horse that will just stare you dead in the eyes. [pauses]
+Janine: [deliberates] What about Ransom?
+Jack: Oh! Like the plant?
+Ali: Wow.
+Janine: What?
+Jack: Ransom? It’s a sort of flower [typing] Do you mean also like, the thing you do when you kidnap someone?
+Janine: Yeah, that’s more what I meant.
+Jack: Sure. A ransom is a—like a, it’s like a little white, mm. It’s kinda like a little white bluebell, almost. [pause] Oh! No! It’s wild garlic. 
+Janine: Oh!
+Jack: Which also tracks with just this unbelievably powerful horse.
+Janine: Yeah! Ransom just sounds like a horse that has lived a whole other life before it became this toymaker’s horse.
+Jack: Yeah, and it’s looking at me, can you make it stop looking at me?
+[Ali laughs]
+Janine: They definitely inherited Ransom, that’s probably what happened.
+Ali: Okay. Ransom is the, okay. [laughs] So. I’m just going to write “Ransom: powerful horse”, because I have the space for it here.
+Jack: [laughing] “Ransom powerful horse”. That’s my goal, I’m the villain.
+Ali: And I’m gonna write “type of horn”, just so we know. And then I’m going to think of the name for the speakeasy, and I just googled “words describing ice”. [laughs] I just thought—
+Jack: [laughing] I’d life one synonym and one antonym for ice, please.
+Ali: [laughing] God. Um… damn! What’s cold?
+Jack: Uh, icebergs are cold… [pause] What are some words to describe the North Pole? [typing] Words… to—Polar! Nah, it’s the Polar Express, isn’t it... 
+Ali: [laughing] You got it, you got it in one! [Jack laughs] I was going to say The Landslide but like.
+Jack: Ooh.
+Ali: Yeah, I’m just going to go with that…
+Jack: That’s my favourite of Hitman season one’s bonus levels.
+Ali: [Alaughs]
+Jack: Although we should now probably say, since we’re an alpine town. This is the speakeasy, rather than an actual landslide.
+Ali: Oh, yeah. Yeah. I was gonna write that in the corner but it works here too. And then Loyal, how did you describe Loyal again?
+Janine: He’s like scrappy? Young?
+Ali: [typing] A scrappy, young, shop kid.
+Janine: Like a scrappy urchin kid who like, they hire him to do odd jobs, kind of thing.
+Ali: [typing] Scrappy urchin kid.
+Janine: His hobbies probably include, like, stealing oranges and… yeah
+Jack: Mm-hm.
+Ali: [laughing] Okay, let me write this down. [typing] Hobbies include: Stealing oranges?
+Jack: Getting a big pot of water and pouring it on the path to make an ice slide.
+Janine: Ooh.
+Ali: Wait. Wait, how do you spell orange?
+Janine: Orange?
+Ali: [sounding out] Orange. There you go. I thought it was two g’s. It wasn’t. [laughs]
+Jack: No, that’s or-rang. 
+Janine: No.
+Jack: Uh, and we need one more hobby. [deliberates] Whistling?
+Ali: Thieving. Okay. That’s good. And then, okay. [typing] Yeah, and now we assigned three traits to [laughs] Duncan and Stacey, and, bah bah bah. Stacey is a design assistant, and her hobbies include—I’m so glad we’re just making them into Style Savvy characters.
+[all laugh]
+Ali: That’s all you need to know. [pause] Her hobbies include, scrapbooking.
+Jack: Mm.
+Ali: [pause] Do y’all have any?
+Jack: [goes to answer, pauses] What if she collects something? That might be a bit close to scrapbooking, actually.
+Ali: Well, similar hobbies. I’m gonna say collects coins? [Jack agrees, Ali laughs]
+Jack: And… I mean, do we want to get another animal in here? Does she own, uh, does she own a dog? Which might let us to do some sort of facial studies?
+Ali: Well, she’s the friend of the person who has the worst face design.
+Jack: [laughs] Dog with a really, really, really strange face. And this person is—this is not my suggestion. [Ali laughs] Hmm.
+Ali: [deliberates] Also, I’m gonna switch—I’m gonna switch from—wait, Roll20, Roll20, please. I’m gonna say that she’s a—[inhales] she’s a design assistant now, but I was like would either of these people have stores that have employees? I guess there’s Loyal… so it’s fine, that’s fine.
+Jack: Mm.
+Ali: I was gonna have like a design major. I’m gonna change her—she’s an architect now, I’m sorry. [laughs]
+Jack: Oh! Storytelling’s so good. We can just be like “oh, she’s an architect now”.
+Ali: [laughs] But she still scrapbooks and collects coins. And that’s good for now.
+Jack: Yeah.
+Ali: Okay. We don’t actually have to do this. I’m just. [laughs]
+Jack: No, no, it’s just getting a little extra detail, right?
+Ali: Okay. [pause] So. The prize is—we already said it was getting a window in the toy maker’s shop, right?
+Jack: Mm-hm. 
+Ali: A window… 
+Jack: Like a prominent window.
+Ali: [muttering, audio warps] ...maker’s shop. [says more, audio is extremely warped and unintelligible][4]
+Jack: Oh, wow. Ali, you’ve gone real robot-y for a sudden.
+Janine: [audio warping] Yeah.
+Ali: [audio extremely warped] What’s— [cuts off]
+Jack: Oh, I’m glad you were hearing that too, Janine.
+Ali: [audio extremely warped] Oh my god? Um… hm…
+Jack: Wow.
+Janine: [audio extremely warped] I think it’s the server maybe? [audio warps to unintelligible]
+Jack: Oh.
+Jack: [crosstalk] Janine is—Janine—
+Ali: [crosstalk] [audio warped] Is the stream okay? No, the stream is not okay.
+Jack: Mm. What if we all just leave the discord call and come back? Maybe?
+Ali: Yeah.
+Janine: Maybe? Although it seems okay now.
+Ali: Yeah, it was—
+Jack: Oh! It evened out.
+Ali: It seems good now. It was red for a second, and now it seems to be fine.
+Janine: Yeah, same.
+Ali: Okay.
+Janine: It must have been like, a Discord thing.
+Ali: Let me just reload YouTube.
+Jack: [exhales]
+Ali: Okay. Okay, we’re still live and seems to be good.
+Jack: Yeah, the stream didn’t drop, which I was surprised by.
+Ali: Oh, okay, well, perfect! Okay, so now we’re moving on to…. [typing] the structure of the game. So we’re done. Okay, so all we have to do is pick which character we want to play, and give them names. There’s also a conflict section that’s optional if you’re playing as two… you’re just playing as two people and then the Beloved is an NPC, essentially? I feel like we have a lot here.
+Janine: Yeah, I think we’re fine.
+Jack: Yeah.
+Ali: So I think we’re all good. But yeah, now’s the time.
+Jack: [sighs]
+Janine: Does anybody have any strong feelings? Strong inclinations?
+[pause]
+Ali: [laughs] I am good either way. [Jack starts to speak, and then stops] There is—so—okay, go on.
+Jack: I—oh, no, no, go ahead.
+Ali: I was just gonna say, really briefly, there’s not a huge difference between, like, playing playing? The Beloved gets a little bit more because you get the first scene, because the first scene is focused on the Beloved and their dream, and not the Suitor’s aspirations. The other thing is the [laughs] Beloved also, the Beloved turn is a little bit different? It’s kind of the same idea as the Suitors’ turns, but you have to choose something that can either sort of affect people, really affect people, or affect all three of you.
+Jack: Damn.
+Ali: And depending on what that is gets you more points, essentially. And you can see these little points underneath the prize is how we keep track of that stuff. So, the Beloved has a little bit more responsibility, but I’m sort of, like, the rules lawyer here, so I can just take care of that either way, in terms of explaining if you’re confused about stuff. So like, if you want to be the Beloved, by all means. 
+Jack: I’m leaning very slightly towards Suitor One. But I don’t know if Janine is also leaning towards Suitor One, because you gave them Loyal Duncan [Janine laughs] and the extremely powerful horse? So I would not be at all, like, my nose would not be put out of joint if you were like no, I want the very powerful horse, because I know I’m gonna get to meet this horse regardless of what I choose.
+Janine: [crosstalking] Here’s the thing is—I more than anything want to see what you can do with Loyal Duncan and Ransom the powerful horse. [laughs]
+Jack: Oh, okay.
+Janine: So…
+Jack: [crosstalk] All right, I’ll put myself down for Suitor One in that case.
+Janine: [crosstalk] That would be exceptional.
+Jack: [laughs] Thank you.
+Janine: [pause] I’d be okay playing either Suitor Two or the Beloved. I think my biggest, like, thing that’s affecting me either way is I’m still a little confused about how the turns actually look? But that’ll be resolved when we’re playing so it’s fine.
+Ali: [pause] Yeah, sorry, I’m just looking… [laughs] Yeah, if it’s purely a mechanics concern, I will help you, walk you through it, and be super clear.
+Janine: Yeah, I mean it’s been super fine so far, so I’m not too…
+Ali: Okay, um… 
+Janine: I’ll take Beloved, then.
+Ali: Okay, perfect.
+Jack: Damn, nice.
+Ali: Our ingenious… toy owner. Okay, I’m just gonna put our names at the top here, so we know who’s who, so Jack—
+Janine: I thought you were gonna say “RN Genius”. Like… R-N-G?
+Jack: That’s what I thought as well. [Ali laughs]
+Janine: And I was like, damn, that’s good, where’d she get that from?
+Jack: RN Genius is our gamer—our elite gamer name. [Janine laughs] We’re gamer of the year at the Game Awards. [laughs] What’s that fucking person called? Trending gamer.
+Janine: Content creator of the year or something. [crosstalk] Right? That’s the new one?
+Jack: [crosstalk] [groans slightly] Ohhhh.
+Ali: [crosstalk] [pained] Mm-hmmm…. 
+Jack: Anyway, we won. And we forgot to tell you.
+Ali: Yeah, we beat this game.
+Jack: Yeah.
+[Ali laughs]
+Jack: Okay!
+Ali: Okay. Do y’all wanna like… take a break real quick to figure out names? And before we get into it… or are y’all…?
+Jack: A break would be—
+Janine: I have a name. But… I can go either way. [laughs]
+Jack: [laughs] Oh.
+Ali: Okay.
+Jack: If we take a five minute break, it’s always nice to get up and stretch? 
+Ali: Okay, yeah.
+Jack: [continuing] And get another cup of coffee.
+Ali: Cool.
+Jack: All right.
+Ali: Just remember to deafen us on Discord… [laughs]
+Jack: Yeah, I’ll remember that this time. Thank you very much for reminding me, because if you hadn’t reminded me, I would’ve forgotten. Uh… I just push the button that says Deafen and we’re good, right?
+Ali: Okay, yep.
+Janine: Yes.
+Jack: Yeah, okay. Goodbye.
+End [01:21:46]
+
+
+________________
+[1] (t/n: hi! Some notes - jack is coughing pretty consistently through this, but I haven’t included these instances unless anyone on the call specifically calls attention to it. This is transcribing the podcast episode, not the youtube video!)
+[2] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
+[3] Berbere.
+[4] The stream is being broadcast by Jack, so their audio is not affected in this period.

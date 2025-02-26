@@ -1,0 +1,2367 @@
+﻿Gathering Information 02: Designing Astirs
+Transcriber: robotchangeling
+Ali: Hello, and welcome to Gathering Information, a behind the scenes– wait, what did I say the first time? [Sylvia laughs quietly] A behind the scenes look at setting the table for Friends at the Table. My name is Ali Acampora. Thank you for supporting us on Patreon. Today, I am joined by Sylvi Bullet.
+
+
+Sylvia: Hey, I'm Sylvia. Usual intro for one of these?
+
+
+Ali: Yeah, sure. Why not?
+
+
+Sylvia: Yeah. Sylvibullet on social places where I'm active. Check out all of the stuff we’ve been doing at the TikTok, which is friends_table; the Twitch at friendsatthetable. Twitch.tv/friendsatthetable, to be precise.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Yeah.
+
+
+Ali: [laughs quietly] And Andrew Lee Swan.
+
+
+Dre: Hello. It’s me. Do you want to know a fun fact about me that I just remembered because of Sylvi’s joke about the sound of three people clapping?
+
+
+Ali: [apprehensively] Yeah?
+
+
+Dre: I can clap with one hand.
+
+
+Sylvia: What?
+
+
+Ali: Wait, what? Wait, like, you…
+
+
+Dre: Yeah, I can clap with one hand. 
+
+
+Ali: [opening and closing hand] Like this? Like, you just close it?
+
+
+Sylvia: Whoa.
+
+
+Dre: Well, no, like, it’s more…okay, you're going to laugh when I do it, because it sounds like something else is happening, which is why I haven’t done this trick in a long time.
+
+
+Sylvia: Oookay! [Dre laughs quietly]
+
+
+Ali: What are you talking about? [laughs] 
+
+
+Dre: It’s like, my right hand is kind of like extra limber, so I can just do… [rapid hand sounds]
+
+
+Sylvia: Oh my god.
+
+
+Ali: That sounds like– that’s not what I'm doing. I'm just closing–
+
+
+Dre: I feel like– okay, hold on. Hold on. Hold on.
+
+
+Ali: I'm closing my fingers onto my palm.
+
+
+Sylvia: Welcome to our ASMR show. [Ali laughs]
+
+
+Dre: Hold on. We’re getting real here. So you can see what’s happening, I've turned on my webcam.
+
+
+Sylvia: Oh my god. [laughs quietly] 
+
+
+[Dre resumes hand sounds]
+
+
+Ali: Wow. Okay.
+
+
+Sylvia: Oh!
+
+
+Ali: Oh. Ew!
+
+
+Sylvia: That’s nutty!
+
+
+Ali: I don’t like this. I'm so sorry. [laughs quietly] 
+
+
+Dre: Yeah, no, it’s fair. It’s fair.
+
+
+Sylvia: Oh no, I'm going to hurt myself trying to do that.
+
+
+Ali: That wasn’t like you hitting your face. That was just your hand?
+
+
+Dre: No, that was my hand.
+
+
+Ali: Okay.
+
+
+Sylvia: That’s wild.
+
+
+Ali: Well, good to know.
+
+
+Dre: I can’t wait for this to go out and people to be like, “Hey, send me a video of you doing your weird thing.” [Sylvia laughs]
+
+
+Ali: We’re really sharing–
+
+
+Dre: It’ll be my first and only TikTok that I ever make.
+
+
+Ali: Uh huh. Yeah, we’re…
+
+
+Sylvia: That’s what you get behind the paywall. 
+
+
+Dre: Uh huh.
+
+
+Ali: [laughs] This is really a glimpse behind the curtain. Um, I didn't gather the two of you here today to talk about Dre’s… [all laugh] 
+
+
+Sylvia: No?
+
+
+Dre: Oh, you sure?
+
+
+Ali: Unfortunately. I mean, we can still keep talking about them. [laughter] But today, because we’re still in the beginning stages of PALISADE, I thought we would still dig into like character building type stuff and also discuss an emerging theme in PALISADE, perhaps.
+
+
+Sylvia: [sarcastic] Friends at the Table has themes? [Ali laughs quietly]
+
+
+Dre: Never.
+
+
+Ali: There’s some…I feel as though the two of you are playing with some ideas, [Sylvia laughs] and I think talking about the experience of piloting the mechs that you guys built might…
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: [laughs] Might shed some light on that.
+
+
+Sylvia: Yeah. Happily.
+
+
+Dre: Mm-hmm.
+
+
+Ali: Yeah. So, I guess first off is: how did it feel building out a mech in…Beam Saber? No, we’re not playing in Beam Saber.
+
+
+Sylvia: Armour Astir.
+
+
+Dre: Armour Astir.
+
+
+Ali: Armour Astir! [laughs] 
+
+
+Sylvia: Well, that’s a good– it’s good that you mention Beam Saber, though, because it is very different.
+
+
+Dre: Yeah.
+
+
+Sylvia: Like, I like the way that it’s different. I like the way that mechs work in Armour Astir. I think the, like…I was a little worried about the sort of…weapon pentagon? It’s not like a weapon triangle, because there’s five different types of magic.
+
+
+Dre: Mm.
+
+
+Sylvia: But I was a little worried about that bogging things down and ended up feeling fine. And then the mech itself; like, you get to…you have so much flexibility with it right from the get-go, so like, I was able to just go as hard as I could in making it fit the character, as opposed to the other way around.
+
+
+Dre: Did you find that overwhelming at all? Because that was my experience at first, was that because it was so open…
+
+
+Sylvia: At the start, yeah.
+
+
+Dre: Yeah. Just because it was so open that I was like, “Oh god, what do I do? What am I– what do I build?” [Ali laughs]
+
+
+Sylvia: The thing that really tripped me up was the Astir move or Altar move that we have.
+
+
+Dre: Yeah!
+
+
+Sylvia: But once I nailed that down and sort of figured out what I wanted to…what situations I wanted to be putting Cori in. The answer is bad ones.
+
+
+Ali: Mm.
+
+
+Dre: What a mood.
+
+
+Sylvia: But once I figured that out, I was like…it sort of shaped everything else. Like, that was when I clicked into place with wanting to be sort of a melee defensive mech. Like, I gave it a shield. I gave it, like, this big close-range sword. All of its stuff is based around taking…like, I take a 7-9 on a move of my choice before the roll, so I'm taking some sort of consequence on that with my moves in there, and the other one is directly tied to the Paradigm’s sort of like…I guess most jeopardized stat? Like, the way channeling works with, um… [Ali laughs] I don't know how else to describe it. The way channeling works with the Paradigm is it can go down, and so there’s a chance that the Input Channel, the move I have on my Chariot…
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: There’s a chance that that is just going to become, like, terrible, but I wanted to fuck with that.
+
+
+Ali: If Devotion gets upset with you.
+
+
+Sylvia: If Devotion gets mad at me.
+
+
+Ali: Which would never happen.
+
+
+Sylvia: No, never. 
+
+
+Ali: Yeah.
+
+
+Dre: Never. [Ali laughs]
+
+
+Sylvia: [feigning shock] What?
+
+
+Dre: It’s all good!
+
+
+Ali: Uh huh.
+
+
+Sylvia: I'm doing great.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: I'm going to strike down so many people. I mean, listen, I might. [Ali laughs] Like, this is the thing: that is genuinely still on the table. We can go anywhere with this.
+
+
+Dre: Listen, Cori’s too devoted to get demoted, okay?
+
+
+Sylvia: Damn.
+
+
+Ali: Yeah.
+
+
+Sylvia: Put that bumper sticker right on the Chariot’s ass. [others laugh] 
+
+
+Ali: How about you, Dre? When did it feel like it clicked for you finally, if you felt overwhelmed at first?
+
+
+Dre: Yeah. I can point to a very specific piece of equipment, and in the book it’s the Nova Whip, which is a Drain 1 weapon, because as I looked at it, I was like, “Oh, this helps me understand the Drain mechanics and stuff like that,” and also feel like, “Oh, this is the perfect kind of weapon to put on the mech that I want to build,” which is just a high risk, high reward, when you roll well, it goes great; when you roll bad, it goes terrible for everyone around you and you. [others laugh] Because that one is very much like…it’s got like a Vorpal tag, which is super, super strong, but also, it has the Dangerous tag. [laughs] So.
+
+
+Ali: Oh. 
+
+
+Dre: I think…remind me again, Ali. This is before second downtime, right, is when this will come out?
+
+
+Ali: Mm-hmm. Mm-hmm.
+
+
+Dre: So yeah, I think that came into play in our last session.
+
+
+Sylvia: I'm fairly certain you used them in the train fight.
+
+
+Dre: Yeah.
+
+
+Sylvia: I feel like them being dangerous was mentioned, but I could be wrong.
+
+
+Dre: Is that how I got Scorched? Maybe?
+
+
+Ali: You got Scorched because you were using some flame chains, I believe?
+
+
+Dre: Yeah, that’s what it is.
+
+
+Sylvia: Yeah. Mm-hmm. Yes.
+
+
+Dre: Yeah, yeah, yeah. Yeah, yeah, yeah.
+
+
+Ali: Uh huh.
+
+
+Sylvia: That is how you got Scorched.
+
+
+Ali: Yeah. Uh huh. [laughs] 
+
+
+Dre: So, yeah. But before that, I hit like four dudes at once, so yeah, the Ghost Rider giveth and taketh away.
+
+
+Sylvia: It is very Ghost Rider of you, down to the non-conventional head.
+
+
+Dre: What’s so funny is until Austin accused me of being Ghost Rider, I had never thought if it that way, [laughs] and then it was so obvious!
+
+
+Sylvia: The thing is: it’s sick as hell, and like…
+
+
+Ali: Mm-hmm.
+
+
+Dre: That’s true. Ghost Rider is cool.
+
+
+Sylvia: Yeah, absolutely.
+
+
+Ali: Yeah. Yeah, I guess that’s the other important question. [laughs] What was the most, like, “this is sick as hell” thing that you added to your sheet that was like, “I’m on one right now, but…”?
+
+
+Sylvia: Oh.
+
+
+Ali: I think, for me, it was building a giant sniper for the Blue Channel.
+
+
+Dre: Oh, yeah.
+
+
+Sylvia: You really…the Blue Channel is tricked the fuck out. It’s great. [Ali laughs] Thank you so much. 
+
+
+Ali: Yeah. You're welcome.
+
+
+Dre: Every time that Austin is like, “Hey, what about this incredible thing that’s on the ship?” I'm like, “Jesus Christ, Ali.” [laughs] 
+
+
+Sylvia: I always…I keep forgetting to bring it up, because it’s like, “Well, no, we’re protecting the ship. The ship is our base.” It’s like, no, this thing is a tier five! [Ali laughs]
+
+
+Dre: No.
+
+
+Ali: Yeah.
+
+
+Sylvia: This thing is like…it’s, ugh, GOATed. [laughs] 
+
+
+Ali: Uh huh. Yeah. I'm like truly playing chicken with putting Bane on the sniper, which makes you, like, avoid the consequence of fighting someone below you, because I was like, “I don't even know if there’s going to be a tier six thing in this game, but now I am making Austin make one.” [laughs quietly] 
+
+
+Sylvia: Yeah. You definitely are.
+
+
+Dre: Oh, nice. Yeah, yeah, yeah. [Ali laughs]
+
+
+Sylvia: But that’s fine. It’s going to be great when we kill it.
+
+
+Ali: Mm-hmm. Which we will definitely do.
+
+
+Sylvia: Definitely!
+
+
+Dre: It’ll probably be great for Brnine in character, too, when we kill it.
+
+
+Sylvia: We might not end up doing it in Armour Astir. We might have to do it in the story game, but we’ll do it. [Ali and Sylvia laugh] I know exactly what mine is, and mine was the sentence, “The pilot will feel everything,” for my move. [Dre laughs] I was like, “Yeah, no, I'm on it.” This is so…just self-indulgent. Like, a lot of…hey, guess what? The girl with six angel wings is a little self-indulgent for me. But like, I think that was the most just like, yeah, no, I'm going all the way in on the terrible things I like in my media. [laughs quietly] 
+
+
+Dre: Uh huh.
+
+
+Ali: Mm-hmm. I'm fully obsessed with Cori at this point. [Ali and Sylvia laugh]
+
+
+Dre: Oh, yeah. No, she rules.
+
+
+Sylvia: I'm so glad! 
+
+
+Ali: Yeah, I mean, she’s such an interesting character, and I think that she brings such a good dynamic to the group, in terms of being the newbie.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: Or being someone who’s, like, enthusiastic? Because I don't know that we have a ton of enthusiasm on the Blue Channel, unfortunately. [laughs] 
+
+
+Sylvia: Have we ever had a character who just wants to be, like, the hero? Because I don’t…
+
+
+Ali: No.
+
+
+Sylvia: I feel like we have people who are like, “Oh yeah, I've got a sense of right and wrong, and I'm gonna do good stuff,” but like, Hadrian was a very different vibe, and very quickly just became a sad man.
+
+
+Ali: Mm, mm-hmm. [laughs] 
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: I love him. I say that with all the love in my heart. He’s one of my favorite characters we’ve had.
+
+
+Dre: Oh, yeah.
+
+
+Sylvia: But, you know.
+
+
+Dre: Hadrian, the only dad in history that ever has grappled with what it meant to be a dad, and therefore: sad. [Sylvia laughs]
+
+
+Ali: Mm, mm-hmm. Yeah.
+
+
+Sylvia: But I just…I mean, a thing I really wanted to do—and it’s a thing I've been trying to do; I did it with Virtue a little bit—is just trying to play characters that are kind of out of my comfort zone.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: And so, I was like, “Okay, if I have to play like…” I can play all the like mean girls I want. That’s fun. You know, that’s me doing my John Cena Five Moves of Doom. That’s my Five Knuckle Shuffle right there. But… [Ali laughs] Everyone goes “You can’t see me,” when I'm bitchy to someone on the show. But…
+
+
+Ali: I'll do that. [Sylvia laughs]
+
+
+Sylvia: I love you, Ali. [Ali laughs]
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: I really wanted to play someone who just fully believed in something. Like, whether it is the cause or, in this case, Devotion; just is, like, a true believer in a lot of ways and how that can be both someone’s sort of power and also very dangerous to them.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: And, like, the ways that that can get used by people.
+
+
+Ali: [sarcastic] Yeah, no, Cori’s not being taken advantage of at all or, like, coerced, or…
+
+
+Sylvia: No.
+
+
+Ali: No.
+
+
+Sylvia: Nobody.
+
+
+Ali: As opposed to Figure, which is also completely voluntary for their role. [Sylvia laughs]
+
+
+Dre: Yeah, totally. Mm-hmm. [Ali laughs]
+
+
+Sylvia: Loves everything they’re doing.
+
+
+Ali: Mm-hmm.
+
+
+Dre: Mm-hmm, mm-hmm.
+
+
+Ali: I guess I don't know this, because I'm actually curious, in terms of like…for Dre: when did the Witch in Glass stuff come into play for Figure? And then, for Sylvi: when did you decide, “I'm going to carry Devotion in from Orbital”?
+
+
+Dre: Sure, yeah. I mean, forever. Like, since forever. She has been a part of Figure’s character since the very beginning. So far, what we have seen onscreen for Figure and the Witch is a lot, for me, the…because the Altar is a class that is supposed to be, like…you are supposed to be aware of and conscious about how your body is, like, different, and I think the book specifically references disability or differences in ability and things like that. I don't have any reference for that, as far as a physical disability goes, but where I'm pulling a lot of my kind of personal inspiration for this is being a person with ADHD and who basically has to take a substance every day that is highly regulated and that I get treated like I'm a drug addict for just wanting to get a refill once a month.
+
+
+Ali: Mm-hmm.
+
+
+Dre: So like, literally, Figure having to go back to see the Witch every so often is like I have to go see my psychiatrist once a month and pay a lot of money to… [laughs quietly] 
+
+
+Sylvia: If your psychiatrist is Clementine Kesh, run. [Ali laughs]
+
+
+Dre: No, it’s not, thankfully.
+
+
+Ali: Get out of there!
+
+
+Dre: Thankfully, I see a really nice nurse practitioner, and she’s great, and it’s not her fault that I have to go see her once a month. It’s the stupid law’s fault.
+
+
+Sylvia: Yeah.
+
+
+Ali: Mm-hmm.
+
+
+Dre: And, you know, I have to be randomly drug tested throughout the year, because they have to make sure that I'm taking my drugs and not just, I don't know, selling them to kids or whatever.
+
+
+Ali: Wait, is that the point of the drug test? To, like, show that you're actually taking it?
+
+
+Dre: Yeah. Uh huh.
+
+
+Sylvia: Yeah.
+
+
+Dre: Yeah. I mean, some people make you take it, because they’re like, “If you're taking anything else, I don't want to prescribe you things,” but specifically with ADHD stimulant medication, as it has been explained to me by both people I've seen and like psych people I've worked with, it is much more about making sure you're actually taking the drugs than it is about, like, screening for other substances.
+
+
+[0:15:11]
+
+
+Ali: Huh.
+
+
+Dre: Yep.
+
+
+Ali: Not ideal. 
+
+
+Dre: No, it’s–
+
+
+Ali: I mean, I guess… [laughs quietly] I guess you want to make sure, like, if you're prescribing someone medication, you want to check that their blood levels are okay, that there aren’t weird interactions, but like…
+
+
+Sylvia: Yeah…
+
+
+Dre: Sure, but that’s not what peeing in a cup does. [laughs] 
+
+
+Ali: [laughs] Yeah, no.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: Also, to be like, “Hey, I want to make sure you're not selling this,” is kind of a, um…it’s a difficult situation to be in, I guess! [laughs quietly]
+
+
+Dre: Yeah. But I mean, like–
+
+
+Ali: That sounds really awkward.
+
+
+Dre: That’s the experience of so many people who are reliant on some kind of controlled regulation in this country.
+
+
+Ali: Mm-hmm.
+
+
+Dre: Like, my mother-in-law has chronic pain and is on, you know, various painkillers that, because of the opioid epidemic have been vastly misunderstood and vastly painted as like, “Well, the only people who have access to these drugs are people who want to import them from Mexico to kill your kids with,” and stuff like that. [Ali laughs quietly] And because of that, her life is really fucking hard, because like, she literally needs these things to be able to get up out of bed and not be in constant pain all day. But she has to go through…I mean, she’s only told me like a fraction of what she has to go through. What she goes through is like way more invasive and way more judgmental. It sucks, man! It’s bad. It’s bad out here. So, for me, that’s where a lot of my, like, personal understanding and personal imprint of kind of Figure relating to the Witch in Glass comes from.
+
+
+Ali: Mm-hmm. And was that…like, when we were doing PARTIZAN and you were switching from Valence to Figure; rest in peace…
+
+
+Dre: Mm-hmm. [others laugh quietly]
+
+
+Ali: Were you just like, “Oh, you know, Clem has also made this shift recently, and I kind of want to mirror that or hang onto that in a way”? Or was it, like, through…I know I'm asking you, like, years ago questions at this point.
+
+
+Dre: It was three years ago or something. [Ali and Dre laugh]
+
+
+Ali: It was a little too long ago, that if you can't speak to that experience, it’s okay. But I am curious about it, because Figure…the reason I sort of did the last episode the way that I did it was because Keith and Janine were the two who were actually adapting their characters into a new system, whereas Figure was the Altar to begin with and then had to go to Beam Saber and then come back, right?
+
+
+Dre: Yeah, uh huh.
+
+
+Ali: Which I'm sure was fun in its own ways, but.
+
+
+Dre: Yeah. I honestly– man, I don't remember.
+
+
+Ali: That’s fair. That’s fair.
+
+
+Dre: And honestly, at the time, I probably was like still all in my head about Valence, and so… [laughs] 
+
+
+Ali: Yeah.
+
+
+Dre: I don't know how intentional I was being with a lot of my early choices and portrayals of Figure, which is also a reason why I am glad to be playing them now, and I can like give them more time and intentionality.
+
+
+Ali: Yeah, they definitely have a different vibe than they did in PARTIZAN. I guess it’s just, like, the difference in time, right?
+
+
+Dre: Yeah.
+
+
+Ali: And the difference in, like, being in a system that they were sort of designed for.
+
+
+Dre: Mm-hmm.
+
+
+Ali: But I've been happy with–
+
+
+Dre: Well, yeah, in PARTIZAN, they were just there to help! They were just here to be a helper.
+
+
+Ali: Yeah. Uh huh.
+
+
+Dre: And to, you know, be a good guy.
+
+
+Ali: Well, Figure’s still helping and being a good guy.
+
+
+Dre: Yeah, they just…they don't know if they believe that about themselves anymore.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Yeah, it definitely felt like Figure got disillusioned with a lot of things between seasons, just in terms of the tone.
+
+
+Ali: Yeah. Five years is a long time to have, like, a shitty boss and a life that you did not… 
+
+
+Sylvia: Yeah.
+
+
+Ali: [laughs] Consent to, I guess is the best way to put that.
+
+
+Sylvia: God.
+
+
+Ali: But Sylvi, let’s talk about Devotion for a second.
+
+
+Sylvia: Yeah! Devotion came about in a weird way, because it wasn’t, like…a lot of that just kind of came up on the fly with Orbital, like the cult thing kind of worked out really well.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Because what I…the only stuff I'd been talking about with Austin, if I'm remembering correctly, was that I wanted to play– one, I didn’t want Milli to come back. I wanted Milli to be off somewhere else doing something else. If people are worried about Milli, don't be. I'm sure that story’s not done, but I don't know, I needed space from it.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: So, there was that, and then I really wanted to play a paladin character is kind of just how I described it, because every time I've played a character with…I mean, I've only played like one other character with a relation to some sort of divine being, and that’s Ephrim, and we all know how that went. [Ali laughs] So, like, I wanted to sort of at least have a different starting point with a lot of things, right?
+
+
+Ali: Yeah, not have it start antagonistic.
+
+
+Sylvia: Yeah. I also…there’s a thing that I feel like we did okay with Orbital, which is that I wanted them to be sinister but not outwardly, like, outright evil.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Because, like…I don't know. It’s hard, because, originally, Cori wasn’t in a cult when I pictured playing this character. She was like…I think my original idea was something like…there’s a group of, like, knights in Escaflowne that gave me this vibe that I really liked. What’s his name? The long-haired blond boy is their, like, leader or whatever.
+
+
+Ali: Oh, it’s something with an A. Is it just Allen?
+
+
+Sylvia: Is it just Allen? It might just be Allen. I think it is just Allen. [Ali laughs] I was going to say Allen, and then I was like, “It’s not just Allen.” It is. It’s Allen Schezar. [Ali laughs] So like, there was just like an– I remember I was watching an episode of Escaflowne at like 2:00 a.m., and he’s dueling Van, and I was just like, “What if my character was like this dude, but instead of chivalry, it was a god?” [Ali laughs] And then that just sort of spun off into the tenets we were going to– the tenets changed into being these precepts of a Divine, as opposed to a sort of chivalric order, which was what I was trying to nail for a while. And the stuff we did with Devotion in Orbital just sort of, like…it came very naturally, in a lot of ways. Like, everybody just…it was nice to develop it in that game because of the way everybody was able to pitch in [Ali: “Mm-hmm”] and the way we were able to do stuff with, like, 3T sort of getting involved and them being involved in the community and not necessarily just out-and-out fucking evil, because like, even if a… [Ali laughs quietly] It’s like one of those things where I'm definitely going to be going in on, like, organized religion a little bit, later in the season. Spoilers. [Ali gasps in mock surprise] Spoilers that that’s already happening.
+
+
+Dre: [feigned shock] On Friends at the Table?
+
+
+Ali: Wow. [laughs] 
+
+
+Sylvia: I know, right? But I also wanted to be very conscious that we had at least some depiction of people whose faith, like, does help them. And there is a thing we can– I don't want to get into on this, because it’s, like, stuff to play out on the air.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: But I definitely want there to be themes of, like, how the main issue is not the actual faith itself but the way that the system absorbs it into itself and uses it or the way people turn it into the same sort of hierarchy stuff. I'm really on my woo-woo shit, is I guess the sort of long and short of it. [Ali laughs]
+
+
+Dre: Your what?
+
+
+Sylvia: Woo-woo? Just sort of a little, like…I’m a little “woo woo,” you know?
+
+
+Ali: Oh.
+
+
+Sylvia: I think that’s what it means. I got insecure is what I'm saying. [others laugh] I started being too sincere about my thoughts and ideas and, uh, it scared me. [laughs] 
+
+
+Dre: Sure.
+
+
+Sylvia: But yeah. I like what we’ve been doing with it a lot. It’s hard for me to talk about Devotion without being like, “It’s this and this and this,” but, um… [Ali laughs quietly] 
+
+
+Dre: No, that’s the good shit, though.
+
+
+Sylvia: We have put it on air that it takes the life of…like, it drains…
+
+
+Ali: Oh, yes. Yeah.
+
+
+Sylvia: Because that does happen in– I just realized that happens before the downtime, so I can talk about that.
+
+
+Ali: Yeah. You passed out.
+
+
+Sylvia: Yeah.
+
+
+Ali: Your blood was taken from you.
+
+
+Sylvia: Yeah.
+
+
+Ali: You took the Anemic tag.
+
+
+Sylvia: I took the Anemic tag. Wow, Evangelion hater Sylvi Bullet caught doing Rei Ayanami riff? [Ali laughs] Canceled. Genuinely, the thing that was a big influence on this is…has anyone else here played the game 13 Sentinels?
+
+
+Dre: No, but I really want to.
+
+
+Ali: I haven’t.
+
+
+Sylvia: There is a character– fuck, maybe– we should maybe stream that. I'll put a pin in that, but I own that game, so, like, I could do that.
+
+
+Ali: [laughs quietly] I played like the first chapter, and I've heard what people say about it, and I feel like it’s time. I just haven’t found the time.
+
+
+Sylvia: There’s a character who just, like, is always in the nurse’s office at the school, basically. 
+
+
+Ali: Mm.
+
+
+Sylvia: And like, that was kind of…I was like, oh, if there’s…after a mission, if Cori’s not going to the medical bay or whatever, it’s kind of out of the ordinary. So, I am– hey, everyone. Brace for impact this season. I'm playing my character like I'm driving a stolen car.
+
+
+Ali: Mm, mm-hmm.
+
+
+Dre: Nice.
+
+
+Sylvia: Austin said that to us before the live show at GenCon a few years ago, [Dre: “Uh huh”] and I genuinely was like, “I'm taking this to heart and always doing this,” because that went great, and then I was like, “Yeah, no, I just always need to be doing bullshit all the time.” [Ali laughs quietly]
+
+
+Dre: Mm-hmm.
+
+
+Ali: I feel like I…I’m always protecting my blorbo. [laughs] Like, I don't know if it’s like… 
+
+
+Sylvia: It’s hard! It’s so hard!
+
+
+Ali: Yeah. Sometimes you sit down, and you just, like, want to win.
+
+
+Dre: Uh huh.
+
+
+Ali: And that’s why it makes it difficult to make hard choices. Or you're just like, “But I…but they deserve good things!”
+
+
+Dre: Can I make a recommendation?
+
+
+Ali: Please.
+
+
+Dre: Uh, just make a very beloved character and get them killed.
+
+
+Ali: Mm, mm-hmm.
+
+
+Dre: And then you won't worry about it as much anymore. [Ali laughs]
+
+
+Sylvia: I'm going to link a screenshot of a tweet that sort of describes my relationship with my own blorbo, AKA Cori.
+
+
+Ali: Sure. [laughs] 
+
+
+Sylvia: I'm going to read–
+
+
+Dre: What the fuck, Sylvi?
+
+
+Sylvia: [laughing] “I used to have this Webkinz that I used to pour milk on and suck the milk back out of it, and it was sopping wet all the time. I used to slam it against walls, and it would make a loud thud.” [laughter] And it’s like, I love this thing, but I'm going to treat it terribly, and I'm going to slam it against the walls and make a loud thud.
+
+
+Ali: Mm-hmm.
+
+
+Dre: How bad did that thing smell?
+
+
+Ali: Probably pretty bad.
+
+
+Sylvia: I don't know! Listen, I'm not gonna pour milk on her. [Ali laughs] We don't need to worry about that.
+
+
+Dre: Yeah.
+
+
+Sylvia: But I was thinking about the– hey, look forward to the next downtime, because I was thinking about this during my downtime scene right at the beginning. [Sylvia and Ali laugh] I was like, “Oh, she’s such a wet cat right now. She’s such a damp, upset, sad cat right now.”
+
+
+Ali: Yeah. Poor Cori.
+
+
+Sylvia: Yeah. I love her.
+
+
+Ali: I'm learning a lot right now. This is a revelation. I'm shocked right now. [laughs] 
+
+
+Sylvia: Yeah. Yeah, no. I have had some…I’m truly just going, like…I’m trying to be as unhinged as possible on the show. [laughs quietly]
+
+
+Ali: Mm-hmm. It’s time, I think.
+
+
+Sylvia: I think so. I think we really, like…why the fuck not, right? You gotta…
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Go big or go home.
+
+
+Dre: Yeah.
+
+
+Sylvia: I'm assuming– I hope people have listened to Sangfielle, because like, hey, I did that there too. [Ali laughs] Also, the thing is: when you throw big shit out there, I know that everyone else on the show means they get to play with it too.
+
+
+Ali: Mm-hmm.
+
+
+Dre: Mm. 
+
+
+Sylvia: And I'm like, “Yeah, let’s make a mess, baby.” [Ali laughs] It’s so much fun! Like, that’s what tabletop games are about, right?
+
+
+Dre: Hell yeah.
+
+
+Ali: One hundred percent. Cori is definitely the character that I…well, I mean, I feel this way towards everybody, because, like…especially with Brnine being a character that I am always thinking about their relationships with people. Cori is such a fascinating one, because Cori just existing on the team makes me have to think about Brnine that I wouldn’t have thought about otherwise?
+
+
+Sylvia: Yeah.
+
+
+Ali: In terms of, like, what was the start of their career like? Or like, you know, what was their relationship with their parents, and is that going to come up through an interaction with Cori at some point? [laughs quietly] 
+
+
+Sylvia: Yeah. It’s very fun having a character who is just, like, completely new to this stuff. Because we always– our characters are always experienced in some way.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: And she’s very much just sort of right out of the training academy or whatever. [Ali laughs] I don't know what that situation is.
+
+
+Ali: I got my mech.
+
+
+Sylvia: Yeah, like, she’s mech certified and ready to kill. [all laugh] It’s also just like…I don't know. I gesture at, like, the awful– how horrible it is that we get young people to fight wars with Milli’s entire backstory, but I wanted to actually put that sort of thing onscreen.
+
+
+Ali: Mm-hmm. Now we have the child soldier.
+
+
+Sylvia: Now we do, yeah. She’s like… [Ali laughs] I literally, like, had the conversation with myself. I was like, “It’s a bit too far to be putting a 15-year-old in peril, so I'm going to make her just early 20s instead,” but I was like, “It would really hit hard if I did this,” but it’s a major trigger for a lot of people, kids in peril.
+
+
+Dre: Mm.
+
+
+Ali: Yeah.
+
+
+Sylvia: So, I decided: let’s not; we can just sort of play in the space by having her be a fucking total baby. [all laugh] 
+
+
+[0:30:00]
+
+
+Ali: She’s surrounded by, like, 30- to, like, a trabillion-year-olds anyway, so she’s like…
+
+
+Sylvia: Yeah.
+
+
+Ali: She’s spiritually 15, even if she’s still in her 20s. [laughs] 
+
+
+Sylvia: Exactly. Like, everyone sees her that way.
+
+
+Dre: Yeah, sure.
+
+
+Sylvia: So it’s like, whatever.
+
+
+Ali: To that end, Dre, I'm curious, for you, how much you think about Figure’s experience with combat training, in terms of how they came into that, how they feel about that, in terms of– I know they have the backstory of being a teacher beforehand, and then Clem was like, “Hey, go kill people for me.”
+
+
+Dre: Mm-hmm.
+
+
+Ali: So, like, the transition there. Is that something that’s in your head when you're playing them? Or do you have, like, the secret backstory that you’ve never said out loud on the show yet? [Ali and Sylvia laugh]
+
+
+Dre: I think, at one point, I did—half joking, half serious—on the show, say that before Figure died and was reborn that they probably did some kind of, like, shitty war reenacting as a hobby.
+
+
+Ali: Oh, I vaguely remember this, yeah.
+
+
+Dre: So, I think there’s that, but for the most part, I think of it more as kind of like…I don’t have a secret backstory. It’s more handwavy of like, I don't know, magic, and now they fly the mech good.
+
+
+Ali: Mm-hmm. [laughs] 
+
+
+Sylvia: I mean, like, it fits for the character, right?
+
+
+Dre: Yeah.
+
+
+Sylvia: Like, it’s a completely new life that you've been given.
+
+
+Dre: Which, you know, now that I think about it, is just another way in which Figure can be very sad, because the one thing that he thinks he’s very good at, he didn’t even make. It’s all because of the person that he hates, so that’s fun.
+
+
+Ali: Mm.
+
+
+Dre: That’s another fun thing.
+
+
+Ali: [laughs] Finally, I have this opportunity, and yet…
+
+
+Dre: Mm-hmm.
+
+
+Ali: Yeah. So, to be honest, the reason that I started to link Figure and Cori in my head is because, after the first downtime with the Figure scene where he goes to talk to Clem, we got an email that was like, “Oh, I think that you forgot a tag here,” for like, uh…it was like religious coercion? And I was like, “Well, if we’re going to tag for that, we should have done it for Cori this entire time,” so. [laughs] 
+
+
+Sylvia: Yeah.
+
+
+Dre: Mm-hmm.
+
+
+Ali: I think we ended up doing just “coercion” for that, because I think the like, “Oh, my brain is being probed, and I have to be a servant to this person,” is sort of blanket to that. But I was like, “Oh boy howdy, we’re really running into something here.” And then, in the last mission, when you both got to describe your mechs a little bit better, in terms of Cori’s blood being literally sucked out of her body.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: And Figure having to be in this space that’s, like, cramped and uncomfortable and not designed for consideration for the pilot at all.
+
+
+Dre: Mm-hmm.
+
+
+Ali: How did y'all come to that? In terms of like, oh…I feel like, “Oh, the mech is another body,” is a popular thing that… [laughs] I mean, not every mech has to get to.
+
+
+Sylvia: Yeah.
+
+
+Ali: But like, when did y'all come into the like, “Oh, I want the experience of actually fighting, of this powerful movement, to actually, like, wound the person who I'm controlling while doing it”?
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: There are a couple reasons why I went with it. One of them is just: I think it’s cool. I think it’s really neat. 
+
+
+Ali: Mm-hmm. [laughs quietly] 
+
+
+Sylvia: Like, some of it is purely just, “Wow, cool robot.”
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: And then another bit of it is, like, so much of the Paradigm is—or the way I read the Paradigm, at least, and, you know, I'm bringing a lot of my own baggage into this, obviously—is like, what are you…these tenets sort of set your restrictions, and what are you willing to sacrifice to meet those? And so, I think, building that around literal self-sacrifice—says the ex-Catholic—is, you know, fun. I think it just works well with the themes that I wanted to explore with her. I wanted to…we’ve had, like, enough of him onscreen to be like, yeah, I wanted people to be like, “Oh, Griesel, this man is sending his child to do this– like, to suffer this, and thinks it’s fine and thinks it’s just or whatever,” and people are willing to look the other way, because it is helping them win the war.
+
+
+Ali: Not even look the other way, but like, put her on a poster.
+
+
+Sylvia: Yeah, no, straight up. Like, valorize it. It is…to bleed yourself dry in pursuit of other people’s ambitions is a valorous thing was very much kind of what I was going for with the Chariot. And like, I also just think, in general, like you said, bodies and mechs are so linked. Like, I needed that, like…I don't know. Has anyone heard of, uh, gender before? Has anyone– you guys familiar with this? [Ali laughs]
+
+
+Dre: [deadpan] No. I– no.
+
+
+Ali: Mm.
+
+
+Sylvia: I've kind of experienced it now and then, and I thought, “Yeah, sometimes it feels like having the life sucked out of you by the body that surrounds you.” Yeah, I think that’s kind of– that’s where I was coming from with the self-destructive mech angle. [Ali laughs]
+
+
+Dre: Mm-hmm.
+
+
+Ali: Mm-hmm. And how about for you, Dre?
+
+
+Dre: Uh, I mean, with Figure, it is very explicitly that it is not like the mech is the body. It is that like, oh, yeah, this was not built for your body at all. There is no, like, merging of senses or things here. You are just in a coffin that also happens to have limbs and guns and stuff.
+
+
+Ali: That sounds sick. [laughs] 
+
+
+Sylvia: That’s such a good description of a mech. Fuck. Why didn’t I do that with my goth girl? What the hell? [Ali laughs]
+
+
+Dre: That’s the problem with mechs, is that they’re horrifying, but they’re also so fucking sick!
+
+
+Ali: Mm.
+
+
+Sylvia: I mean, yeah, absolutely. [Ali laughs]
+
+
+Dre: Like, I think Austin has said, you know, people have always asked, like, “Don’t you think it would be cool if we ever had mechs in real life?” and it’s like, no! No, it would be awful! It would be horrendous if we ever had mechs in real life.
+
+
+Sylvia: But when they’re in other things? Sign me up.
+
+
+Dre: Yeah. [Ali laughs]
+
+
+Sylvia: “Oh, that’s a big one! Wow!” That’s me when I'm watching a mech show.
+
+
+Ali: Yeah.
+
+
+Dre: It’s the big one. [Ali laughs]
+
+
+Sylvia: I did remember another thing too, by the way.
+
+
+Ali: Oh, yeah?
+
+
+Sylvia: Which is…this is, like, a little while back, but I watched just the first couple episodes of Macross with my girlfriend. 
+
+
+Ali: Mm.
+
+
+Sylvia: And the way that the kid—like, main character—just goes from being like, “I’m a pilot for fun. I just love flying. I think this is so great,” and then, all of a sudden, he’s being traumatized by the horrors of war was a big thing for me when making Cori. [Sylvia and Ali laugh quietly]
+
+
+Ali: There’s not going to be any horrors.
+
+
+Sylvia: No.
+
+
+Ali: Everyone’s going to take really good care of Cori.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: And it’s going to be fine.
+
+
+Dre: We’re all going to roll 12s. [Ali laughs] Yeah. She’s our sweet baby girl.
+
+
+Sylvia: Yeah.
+
+
+Dre: What could go wrong?
+
+
+Ali: Mm, mm-hmm.
+
+
+Sylvia: What did I say the first time she fought? “Red mist”? Was that in the…? [Ali laughs] I think that was the exact verbiage.
+
+
+Dre: Mm-hmm, mm-hmm.
+
+
+Ali: That was. That was.
+
+
+Sylvia: Yeah.
+
+
+Ali: That really set the tone for this season.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: I think that was like, as far as Cori’s introduction, being like, “Yeah, this is how this is going to go,” was fantastic.
+
+
+Sylvia: You gotta. Thank you. [Ali laughs] I'm so happy with it. PALISADE’s been so much fun so far. I've been so happy with everything we’ve been able to do.
+
+
+Dre: Oh, yeah.
+
+
+Ali: Yeah, it feels like–
+
+
+Sylvia: Oh, that is actually– go ahead.
+
+
+Ali: No, go on.
+
+
+Sylvia: Oh, I was going to say that is another thing, actually, because I think…I don't think it was…I think it was like between Orbital recordings that I found out that we were doing a faction game, and so being able to be like, “Yes, I'm giving you guys another religious order to play with,” [Ali laughs] definitely molded the Cult of Devotion stuff a little bit, because it’s like, “What would be…?” Because I've done the faction game before, so I was like, “Yeah, what would be fun with it?”
+
+
+Ali: That’s true. This is the faction game.
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: This is the original faction game, right here.
+
+
+Ali: This is faction game 01, yeah.
+
+
+Dre: Yeah, babeeey. [Ali laughs]
+
+
+Sylvia: I'm glad that– I like being able to have just one character to pour all my energy into, but I definitely do like when we can just get to, like, make up a bunch of people every week.
+
+
+Dre: Mm-hmm. [Sylvia and Ali laugh]
+
+
+Sylvia: Just like, “Oh yeah, no, this is just some random fucking guy,” and then like three weeks later, it’s like, “Okay, so, random guy–” I'm thinking of Sokrates, I think, right now. 
+
+
+Dre: Fuck him up! [Ali laughs]
+
+
+Sylvia: Or not Sokrates. Maybe it wasn’t Sokrates. Maybe it was his brother or something. The first person to have Integrity. 
+
+
+Ali: Oh.
+
+
+Sylvia: I was just like, “Yeah, this is like a cool throwaway thing,” and now Integrity’s, like, back in the main…I think someone important has that right now, and I can't remember who, because we have so many things going on. [Sylvia and Dre laugh quietly] Is it the…it might be one of the Princepts, I think, even, that has it, if I'm remembering right.
+
+
+Ali: Oh, maybe.
+
+
+Sylvia: Anyway, that’s…I’m getting off on a diversion. My apologies.
+
+
+Ali: No, it’s okay. [laughs] 
+
+
+Dre: [sarcastic] On Friends at the Table? Never.
+
+
+Sylvia: Hey, listen. [Ali laughs]
+
+
+Dre: I'm not saying that about you! I'm saying it about all of us. [Sylvia laughs]
+
+
+Ali: Yeah, I guess, where…for you, Dre, where has the consideration been, in terms of…I know we’re in a weird place right now, in terms of release order and just long term stuff, [Dre: “Mm-hmm”] that I know that you probably don't want to speak to long term about your plans with Figure. [laughs] But in terms of, like, where you think about where they are right now, how you were developing some of his hooks and things like that, like, is there…besides just thinking of the Clem stuff, have you thought through Figure’s relationship with Perennial, or…? You know, like, Figure’s so clearly a servant and aware of that [Dre: “Mm-hmm”] and sort of outside of themselves in that way, and like, to what Sylvi was saying, in terms of being able to portray a religious order but not making faith the bad guy or whatever, [Dre: “Yeah”] or like trying to include some lightness into that. Like, is there a consideration in terms of that that you're making for Figure as well? Or is it just like, “I want to show this person in this place, and that place sucks,” and, you know, play to find out what happens, in terms of how they’ll react to other sorts of support?
+
+
+Dre: Mm-hmm.
+
+
+Ali: Or like, where has your head been out in terms of playing Figure that way?
+
+
+Dre: Yeah, so, because it’s interesting when you said that someone said, “Hey, I think you forgot the tag,” for, you know…I forget how you said it, but basically someone being– uh, religious coercion. Because I had never thought of that aspect of it at all, because I think…and so I don't know if this is just me justifying me not thinking about this before, but like, Figure doesn’t think of Perennial at all. It’s just that like, Clem is the person, right?
+
+
+Ali: Mm-hmm.
+
+
+Dre: And she just so happens to have Perennial magic, but I don't think Figure thinks about Perennial at all.
+
+
+Ali: That’s interesting, because that’s such a Clem thing, right? [laughs] Like, she was given this gift, and the thing that she immediately did was like, “Well, I'm the leader, and I'm gonna have people under me, and they’re going to think about Clem and not anything else.”
+
+
+Dre: And I don't even know how much of that is explicitly Clem and how much of that is, you know, Figure. I mean, the thing with Figure and where they are starting this season is that, like you said, they are very aware of their status, and it is very hard for them to imagine a world where that is not the truth—like, capital T Truth—for them.
+
+
+Ali: Mm-hmm.
+
+
+Dre: And I think, at the point where we’re releasing this, that is slowly starting to be gestured at, that there is a possibility for the Figure to be able to live a different life.
+
+
+Ali: That sounds like an uphill battle. I guess we’re going to have to see what happens. [Sylvia laughs]
+
+
+Dre: Mm-hmm. Hey, trauma is very hard.
+
+
+Ali: Mm-hmm.
+
+
+Dre: It’s very hard. It is a very hard thing to overcome.
+
+
+Ali: And like, I guess that’s the other question that I'm curious in terms of how everybody at the table feels. Like, how much is the, quote, unquote, “time skip” in your head? I guess that’s less of a question for Cori, because Cori’s already a newbie.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: But do you think, in terms of her knowing– well, I guess she’s from the Twilight Mirage, right? So like, even the war, she wouldn’t be super aware of.
+
+
+Sylvia: Yeah. I originally had this idea that she was going to be, like, kind of a Millennium Break fangirl, and I think she is a little bit, in some ways, but it was going to be way more of a thing, until we were like, “No, she’s from the Mirage.” I feel like she’s got a loose understanding of past events that have happened in the past five years, with regards to the war and stuff, but like…
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Other than that, she’s just like, “Okay, but we’re on the good guys’ side, so let’s go,” [Ali laughs] you know? Normal things.
+
+
+Ali: She had some, like, current event lessons in her trainings and then also got some of the better Millennium Break Vines is what you're saying?
+
+
+Sylvia: Absolutely. [Ali laughs] Her For You page has some great Millennium Break memes.
+
+
+[0:45:05]
+
+
+Ali: Oh, wow! [Sylvia laughs] Oh my god. Who’s running Millennium Break’s social media?
+
+
+Sylvia: Oh. Um…what’s her name? What’s their name?
+
+
+Ali: Is it still Si’dra?
+
+
+Sylvia: Yeah. That’s who I would think. [Ali laughs] I don't think the official accounts are making the good memes, though. 
+
+
+Ali: [laughs] This is true. Yeah, yeah. That’s always– yeah.
+
+
+Sylvia: Austin can listen to this and figure that out, but that’s my stance.
+
+
+Ali: Yeah, yeah. Uh huh. You can’t go to the Millennium Break TikTok page, because that’s just all…
+
+
+Sylvia: No, because it…
+
+
+Ali: No.
+
+
+Sylvia: It’s like occasionally funny but not intentionally, because it’s like…
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: It’s a brand account. [Ali laughs] I say as someone who regularly tweets from our brand account, thinking I'm funny, so. [Ali and Sylvia laugh]
+
+
+Ali: We’re not a brand.
+
+
+Sylvia: We’re not. We’re a show.
+
+
+Ali: We are a brand, but…
+
+
+Sylvia: It’s weird. 
+
+
+Ali: It is.
+
+
+Sylvia: Like, you know, we’re independent artists on the internet.
+
+
+Dre: Mm-hmm.
+
+
+Ali: Uh huh.
+
+
+Sylvia: It’s just how you have to be.
+
+
+Ali: Uh huh. [laughs] And then, yeah, Dre, for you, same question. Like, in terms of…because Figure really is such a character that has such a weight on him. Like, is that timeline something that you think about? It’s been at least five years now, including a little bit of the stuff that took place in PARTIZAN. Do you think, like…did they ever serve any different roles under her? 
+
+
+Dre: Mm.
+
+
+Ali: Or is that span of time something that they think about, in terms of being like, “Oh, well, it is what it is,” you know?
+
+
+Dre: Yeah. Hmm. Probably. Like, I think the last or close to the last episode we had of PARTIZAN…I always get PARTIZAN and PALISADE mixed up in my head and I have to think.
+
+
+Ali: Mm-hmm.
+
+
+Dre: Was the thing where Figure, I mean, basically disobeyed Clem to try and save lives, and Clem was not happy, and so I think…a lot of my thinking was that there was probably…there were probably other jobs, and then as Figure tried to assert their own kind of independence or agency, those jobs became fewer and fewer. 
+
+
+Ali: Mm.
+
+
+Dre: And the mech piloting became more and more often, because that’s, like, more dangerous.
+
+
+Ali: So they’re fully outside of the, like…what is the word that I'm thinking of? It’s not outgoing. The like misbehaving part of their career? [Dre and Ali laugh] They had that experience of being like, “Well, let me find how much wiggle room there is, in terms of what Clem expects from me.”
+
+
+Dre: Yeah.
+
+
+Ali: And they have since found that there’s none.
+
+
+Dre: Yeah. For the most part, yeah.
+
+
+Ali: [laughs] Cool. Great. Happy for Figure. I'm sure that’s going well [Dre: “Mm-hmm”] and they’re super glad about it.
+
+
+Dre: I think everything’s great for my big, big rock boy.
+
+
+Ali: [laughs sympathetically] Oh, Figure. [Sylvia laughs quietly] I love Figure, because they’re such a tragic character, but they’re always really fun to have in a scene, [Dre laughs] because they’re not like an emo guy, you know what I mean? [Sylvia laughs]
+
+
+Dre: Sure. Yeah. Thank you.
+
+
+Ali: There’s like a way that you could be playing Figure that would be worse, I guess is what I want to say. [laughs] 
+
+
+Dre: Oh.
+
+
+Sylvia: Yeah.
+
+
+Dre: Thank you. Thank you. It’s not that I'm playing Figure well, it’s just it could always be worse, you know?
+
+
+Ali: No! No, no, no, no, no.
+
+
+Dre: No, I know. I'm just giving you shit. [Ali laughs] No, now I'm playing, like, the emo guy. [exaggerated downer voice] Oh, so it’s not that I'm good, it’s just that I'm the worst, huh? Okay. [Ali laughs]
+
+
+Sylvia: Is that, uh…fuck. Oh, fuck, I want to land it. Kylo Ren? Is that the guy?
+
+
+Dre: Yeah.
+
+
+Sylvia: Did I land the joke?
+
+
+Dre: Yes, you did.
+
+
+Ali: Wow. Kylo Ren.
+
+
+Dre: You know, Figure, probably built a little bit like that one meme picture of Kylo Ren without his shirt on. 
+
+
+Sylvia: Oh my god. [Dre laughs]
+
+
+Ali: You think so?
+
+
+Sylvia: But with a rock head. [Ali laughs]
+
+
+Dre: With a rock head, yeah! I mean, if you made me– if you said, “Hey, what’s the bulkiest, stockiest looking person you've ever seen in your life?” the thing that comes to mind immediately is that weird pic of Kylo Ren having, like, a chest that looks as broad as he is tall.
+
+
+Sylvia: Yeah.
+
+
+Ali: Is Figure ripped?
+
+
+Dre: Uh…I don't know. Are rocks ripped?
+
+
+Ali: [laughs] I did not know–
+
+
+Dre: I don't think so.
+
+
+Ali: This is like…oh.
+
+
+Dre: I think Figure is gravelly more than he is ripped.
+
+
+Sylvia: [quietly] Gravelly?
+
+
+Ali: …Okay. [laughs] 
+
+
+Sylvia: Gravelly?
+
+
+Dre: He’s not like a cool statue, you know?
+
+
+Ali: Sure. Sure, sure, sure, sure, sure. Just the comparison to Kylo Ren felt like a big revelation there, that we’ve had this diesel guy this entire time and did not realize it. [laughs] But I guess being a big rock person makes you strong, and…
+
+
+Dre: Yeah. [Ali laughs] Like, he– yeah. I mean, I don't know how much of– I guess I think– hmm. I think of diesel as being more big and strong than, like, ripped and strong.
+
+
+Ali: Oh, sure, sure, sure.
+
+
+Dre: Like, I don't think you have to have a six pack to be diesel.
+
+
+Ali: Yeah, that’s true. That’s true. That’s true.
+
+
+Sylvia: Yeah.
+
+
+Ali: Figure isn’t out there only working out their vanity muscles.
+
+
+Dre: Mm-hmm. [Ali laughs] Nah. Their muscles are too scorched to work out, so.
+
+
+Ali: Mm. Yeah, I can’t believe you got, like, burned. I can’t believe you got burned–
+
+
+Dre: I can!
+
+
+Ali: Yeah... [Ali and Sylvia laugh]
+
+
+Dre: You kidding me? I'm surprised it didn't happen sooner.
+
+
+Ali: Yeah. I guess you did make those flame whips, and that’s how that all happened. You saw that coming on the page way before I did, because you developed the flame whips. [Sylvia laughs]
+
+
+Dre: Mm-hmm. Mm-hmm.
+
+
+Ali: I guess that’s the thing: were there any interesting ideas that y'all threw out while you were developing your mechs?
+
+
+Dre: Huh. I don't think I did.
+
+
+Sylvia: I don't know if I did. Yeah, I genuinely think I kind of just went for it, in a lot of ways.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Like, I don't know. There definitely is. Like, the answer is yes, but they’re not so memorable that I don’t, like…that they’ve stuck, you know?
+
+
+Ali: Right. And that’s the ideal, right? That you…
+
+
+Sylvia: Yeah.
+
+
+Ali: You go for the idea that’s better. And Dre, for you, was it the same case? In terms of just like, “I know the experience that I want with this and can get to it pretty easily.”
+
+
+Dre: Yeah.
+
+
+Ali: Or were you like, “I really wish that I had a laser cannon,” or…? [laughs] 
+
+
+Dre: No, I definitely knew that Figure’s mech was going to be, like, heavily melee focused.
+
+
+Ali: Mm-hmm.
+
+
+Dre: I think when I first–
+
+
+Sylvia: [laughs] Did we– we all made melee mechs, didn't we? Isn’t that, like–
+
+
+Dre: Yeah.
+
+
+Sylvia: Yeah.
+
+
+Dre: What? Yeah.
+
+
+Sylvia: It’s just…
+
+
+Ali: Did that happen?
+
+
+Sylvia: Yeah, it happened last mission, because Phrygian is the one with the gun, but Phrygian was at the party. [Ali laughs quietly]
+
+
+Dre: I mean, I technically– like, Figure’s mech has a gun.
+
+
+Sylvia: You have, like, missiles, right?
+
+
+Dre: Uh…it’s like– I think I described it as almost like a magma thrower.
+
+
+Sylvia: Yes, I think it’s literally got magma in its name, actually.
+
+
+Dre: Yeah. But it is–
+
+
+Sylvia: I'm looking at your sheet a little bit.
+
+
+Dre: It’s the equivalent of the, like, fucking GM assault rifle from Gundam, right?
+
+
+Ali: Mm.
+
+
+Sylvia: Mm.
+
+
+Dre: It is not special or powerful or the point. [laughs] 
+
+
+Sylvia: Yeah. You’re not a ranged– regardless of having it, it’s not really a ranged weapon.
+
+
+Dre: Yeah. Yeah. Like, Deathscythe in Gundam Wing had head vulcans. Like, technically, that Gundam had guns, but…
+
+
+Sylvia: So true, bestie.
+
+
+Dre: Yeah. 
+
+
+Ali: [laughs] What other ways are the two of your characters like Duo Maxwell? 
+
+
+Sylvia: Oh, Duo Maxwell. 
+
+
+Dre: Oh.
+
+
+Sylvia: Oh, influential. 
+
+
+Dre: Man.
+
+
+Sylvia: So influential on me, shocking nobody. [Ali laughs]
+
+
+Dre: What a cool guy.
+
+
+Ali: I'm surprised that we don't talk about Duo Maxwell more, because he dresses up like a priest, for some reason?
+
+
+Sylvia: Yeah, I know!
+
+
+Dre: Yeah.
+
+
+Sylvia: He’s…
+
+
+Ali: Ah, that goes hard as hell.
+
+
+Sylvia: We don't have the time to get into how much that fucked with my brain when I was younger. [Ali laughs]
+
+
+Dre: Oh, man.
+
+
+Sylvia: Oh, here’s this boy who looks like a girl and dresses like a priest? 
+
+
+Ali: Uh huh. [laughs] 
+
+
+Dre: Why won't they let me post the good Duo Maxwell picture? What is a .avif?
+
+
+Sylvia: I don't know what an AVIF file is.
+
+
+Ali: This is a great picture, though, where he’s, like…
+
+
+Dre: It’s the one where he’s in his priest outfit, and he’s, like, leaning back in the chair with his cool sunglasses on.
+
+
+Ali: Uh huh.
+
+
+Sylvia: Oh, that’s good. I like the sunglasses.
+
+
+Ali: It’s a classic.
+
+
+Dre: Yeah.
+
+
+Sylvia: Love that guy.
+
+
+Ali: Now I'm just thinking about Duo Maxwell.
+
+
+Sylvia: That’s…you know?
+
+
+Dre: Yeah. Should we just do a podcast about Duo Maxwell? [Ali laughs]
+
+
+Sylvia: Not Gundam Wing. Just Duo Maxwell.
+
+
+Dre: Mm.
+
+
+Sylvia: Need to be very specific. I will find AU fanfic to read.
+
+
+Ali: Yeah.
+
+
+Dre: Man. Uh, I did just Google Image search for Duo Maxwell, and you don't have to scroll very far for…
+
+
+Sylvia: Oh, yeah.
+
+
+Ali: Oh. Oh, what? Duh.
+
+
+Dre: Oh, here’s Duo Maxwell as Lara Croft. Huh.
+
+
+Sylvia: Word? [Ali laughs]
+
+
+Dre: Yeah. I'm not going to copy paste it. You all can go search that, if you want. [Sylvia laughs]
+
+
+Ali: Okay, sure. Yeah, yeah.
+
+
+Sylvia: Yeah, of course. 
+
+
+Ali: To look through it myself, yeah.
+
+
+Dre: Yeah. [Sylvia laughs]
+
+
+Ali: Man, Duo Maxwell. I, of course, of the five of them, am more of a Heero Yuy person, but…
+
+
+Sylvia: Okay. Yeah, that does track.
+
+
+Dre: That’s fair. [Ali laughs]
+
+
+Sylvia: No, like, that’s good. Listen, Heero is up there for me. 
+
+
+Dre: Yeah.
+
+
+Sylvia: I was sort of split between Quatre and Duo.
+
+
+Ali: Oh, yeah.
+
+
+Dre: Mm. Cori definitely has much more Quatre vibes.
+
+
+Sylvia: Absolutely.
+
+
+Ali: Yeah. Oh, are we going to get a sick flute solo from Cori one day?
+
+
+Sylvia: Oh man, maybe. Oh my god. We’ve talked about the art of them as the band, right? The Gundam Wing boys as the band?
+
+
+Dre: I literally just found this picture. 
+
+
+Sylvia: We will both get a– listen, maybe not a flute, because I don't want to just lift the scene, but…oh my god, you found it with images added, with the... [Ali laughs]
+
+
+Dre: Little text added, yeah.
+
+
+Ali: I've never seen it with text.
+
+
+Dre: I'm sure the text is just shitty.
+
+
+Ali: Uh huh.
+
+
+Sylvia: “Something stinks. Maybe the weed or Wufei’s armpits.” Good one, Quatre. [Ali laughs quietly] 
+
+
+Dre: God damnit. 
+
+
+Ali: I guess the important thing to say about this image—if you're not looking it up yourself—is that they are all…well, Wufei’s shirtless. The rest of them are either wearing button downs with no buttons buttoned…
+
+
+Sylvia: Heero’s got a vest.
+
+
+Ali: Quatre’s has…
+
+
+Dre: Quatre has one button done.
+
+
+Ali: Yeah, and also has the collar ruffles.
+
+
+Dre: Yeah.
+
+
+Ali: And Heero’s just in a leather vest, apparently? This was the best thing that Gundam Wing did which was just, like, release a bunch of goofy art of their guys.
+
+
+Dre: Mm-hmm.
+
+
+Ali: Like, there’s the one of them in the Endless Waltz uniforms, sitting on that red couch, and, you know, what’s better than this?
+
+
+Sylvia: [sighs] Genuinely, I think Gundam Wing treating the boys like a boy band is one of the smartest things Gundam has done since…
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: Like, this was a great decision. The lesbian Gundam has been a great decision so far.
+
+
+Ali: Mm, mm-hmm, mm-hmm.
+
+
+Sylvia: Also a very big influence on Cori is that whole thing, very obviously. Oh, wow. You know, I didn’t–
+
+
+Ali: Yeah, I had a poster of this. [Sylvia and Ali laugh quietly]
+
+
+Sylvia: Such boy scout uniforms.
+
+
+Ali: I know! 
+
+
+Sylvia: They’re so dorky.
+
+
+Ali: I know.
+
+
+Sylvia: Oh my god! Out on the town! Let’s go, boys! Boys’ night! [Dre laughs]
+
+
+Ali: Yeah, with the fellas.
+
+
+Sylvia: Where they’re going, no one knows.
+
+
+Ali: Yeah, this is…
+
+
+Sylvia: I want a Yakuza mod that replaces the protagonists with these guys. [Ali laughs]
+
+
+Dre: Oh, man.
+
+
+Ali: Hey, me and my four friends saw you across the bar. [others laugh] If only.
+
+
+Sylvia: Says to Relena. 
+
+
+Ali: [laughs] Yeah, they’re all so good. We had to introduce…this might be coming out next week, for the audience, but we had to introduce Jack to Trowa Barton in the clown uniform.
+
+
+Dre: Oh, yeah.
+
+
+Sylvia: Oh my god.
+
+
+Ali: Because in Dream Askew, Austin is playing a clown robot, so…
+
+
+Sylvia: I think that might already be out, actually.
+
+
+Ali: Okay. [laughs] 
+
+
+Sylvia: Yeah, because I remember listening to this. I'm pretty sure that this is on the Patreon feed.
+
+
+Ali: Okay, perfect. I'm glad. I guess that was in character building, is that we had to mention Trowa Barton.
+
+
+Sylvia: Yeah.
+
+
+Dre: Mm-hmm.
+
+
+Ali: So, like, incredibly important research for Friends at the Table, Gundam Wing. You should always have it front of mind when you're listening, just in case we talk about it. [laughs] 
+
+
+Dre: Mm-hmm, mm-hmm, mm-hmm.
+
+
+Ali: Especially for this season, because, like, we’re truly going hard as fuck, as we’ve proven with what we’ve talked about here. Like, nobody feels like they’re holding back, if that makes sense?
+
+
+Dre: No.
+
+
+Sylvia: Mm-hmm.
+
+
+Dre: And I feel like, a lot of seasons, even if we end up in that place, it takes us time to, like…understandably so, to like feel stuff out.
+
+
+Ali: Uh huh.
+
+
+Dre: And figure out how we want to go hard as fuck. But I feel like everyone has just hit the ground absolutely running.
+
+
+Ali: [laughs] I feel like PALISADE has been, like, the easiest season to play so far.
+
+
+Sylvia: Yeah.
+
+
+Dre: Yeah. 
+
+
+Ali: Are you guys in that same space? Where it’s just like, it’s going smoothly, I'm tucked in every time I'm playing this character?
+
+
+Sylvia: A little bit.
+
+
+Dre: Yeah.
+
+
+Sylvia: I wonder if it’s the sort of consistency of the Blue Channel situation. It’s like, oh yeah, we’re always…when we were doing PARTIZAN, I think it also sort of helped, for the first half, to know like, “Okay, I'm going to be interacting with these party members [Ali: “Mm-hmm”] every time we record, and so, like, I can really get in on these…” We got Milli and Leap being best bros out of all of that, you know? [Ali laughs] It’s a fun time.
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: But I think that, like, having the practice of that and then jumping into PALISADE and just being like…because, like, the fun thing about this, for me, is being able to throw the hand grenade of a new character in among everybody that’s already been established. I forget how much of Phrygian is in PARTIZAN, but Phrygian’s in a lot of it.
+
+
+[1:00:23]
+
+
+Dre: Yeah.
+
+
+Ali: Yeah.
+
+
+Sylvia: Like, Figure is in a pretty sizable chunk too, but like you said, you've obviously changed them a lot. So, like, being able to just be like…I don't know, a new variable in that situation, [Ali: “Uh huh”] made it very fun for me and was very, like, I don't know, invigorating, I think is the word I'm looking for. 
+
+
+Ali: [laughs] Yeah, it definitely feels like…I mean, the system is really good for this, too. I feel like the way Armour Astir’s downtimes are developed are ideal, in terms of like, “Oh, you get two tokens to go interrupt somebody else’s idea,” is like…really creates overlap in those scenes that we wouldn’t have had otherwise.
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: But it definitely just feels like establishing relationships has been a lot easier, and, like, getting them onscreen to develop them has been a lot easier. [laughs] I think the thing that I was most surprised for was how immediately Janine went to go change one of your hooks. 
+
+
+Dre: Yeah!
+
+
+Ali: In, like, our first downtime. I was like, “Damn! Thisbe, coming for Cori already.”
+
+
+Sylvia: It’s so good. It’s so good. [Ali laughs] It’s so good. I love being able to play a fucking super energetic emotive character off of Thisbe. It’s so much fun. I love Thisbe in general. I ride with Thisbe, et cetera.
+
+
+Dre: Mm-hmm.
+
+
+Ali: Yeah.
+
+
+Sylvia: You know. Everyone knows this.
+
+
+Ali: I ride with Thisbe.
+
+
+Sylvia: I ride with Thisbe. [Ali laughs quietly] And that’s been really fun. Like, all the…I mean, that and being able to sort of almost force Brnine into a mentor role [others laugh] or like a role where someone’s looking up to you has been really fun.
+
+
+Ali: Yeah, because Cori’s really the only person that Brnine can, like, actually pull their shit off on, right? 
+
+
+Sylvia: Yeah, there’s mystique there.
+
+
+Ali: Uh huh. Everybody else, like, even on the crew…I guess besides Hunting, everybody else can be like, “You used to be a piece of shit.” [laughs quietly] 
+
+
+Sylvia: Mm-hmm.
+
+
+Ali: But Cori doesn’t have to worry about that, and Cori, you know…Brnine’s great. There’s no reason to have a bad feeling about them.
+
+
+Sylvia: Yeah, honestly, like… [Ali laughs] We’ll see what happens if she ever finds out about Brnine being a piece of shit, but, like…
+
+
+Ali: Brnine had their reasons.
+
+
+Sylvia: Brnine had their reasons.
+
+
+Dre: Yeah, I don't know what you're talking about. What did Brnine do?
+
+
+Sylvia: And like, that’s my captain, okay?
+
+
+Ali: Mm-hmm.
+
+
+Dre: I don't understand. What did Brnine do? Why’s everyone mad at Brnine?
+
+
+Ali: Nothing.
+
+
+Dre: Yeah, nothing.
+
+
+Ali: Well, Dre, you've been very supportive of Brnine for a long time, too, so even… [laughs] 
+
+
+Dre: Yeah.
+
+
+Ali: Even in their dark days, you were the one there for them.
+
+
+Dre: Mm-hmm!
+
+
+Ali: So, I appreciate that. [laughs] 
+
+
+Dre: Yeah. 
+
+
+Ali: But I…it does make me think that, like, Sylvi talking about Cori being so enthusiastic and Figure kind of being the opposite there. In social situations like that, are you trying to hold back Figure a little bit, in terms of, like, “Oh, I don't want to integrate to deeply into this group,” or just like, “Well, Figure has their own hangups”? Like, how have you been thinking through that, in terms of relating to the rest of the characters?
+
+
+Dre: Um…boy. [Ali laughs quietly] It’s really tough to answer this question, knowing that I can't talk about… [all laugh] 
+
+
+Ali: That’s true. I, uh…
+
+
+Dre: Uh, hey. Hey, you know what? Stay tuned. Stay tuned.
+
+
+Ali: Mm, mm-hmm.
+
+
+Dre: That’s what I'll say to answer this question.
+
+
+Ali: Mm-hmm. Yeah, there is a very specific answer to that that comes up very quickly in the next…what will probably be the next episode when they hear this.
+
+
+Dre: You know, Figure’s mindset…I think I can say this. This is easily able to be, like, seen and inferred from their actions so far. Figure’s mindset is that by keeping distance from the crew, that is how they can protect the crew from the Witch in Glass.
+
+
+Ali: Sure. And the Witch in Glass is only a threat, in Figure’s head, at this point. [laughs quietly] 
+
+
+Dre: Sure. Yeah.
+
+
+Ali: Well, they’re not wrong.
+
+
+Dre: Mm-mm.
+
+
+Ali: So I do understand that. [laughs] I guess, do either of you have any final thoughts that y'all want to talk about, with regards to the Chariot Mk II and the Devil’s Two Front Teeth specifically? Yeah, how did you come up with that name?
+
+
+Dre: Uh…
+
+
+Ali: Were you just like, “Oh, I'm going to build this fucked up mech that looks uneven”? Or…
+
+
+Dre: No, the name came first.
+
+
+Ali: Oh.
+
+
+Dre: Yeah. Um, I really don't…I don't know, man. When I am thinking up names, especially of mechs, it is a lot of just, like, what are words I can mash together, that even if they don't initially make sense, just sound cool together?
+
+
+Ali: Mm-hmm.
+
+
+Dre: I feel like I… [sighs] If it wouldn’t take forever to boot up, I would boot up my No Man’s Sky playthrough and just read off all the names of, like, freighters and starships that I've made, because they’re in a very similar vein.
+
+
+Ali: So you're just going out there. You're thinking tonally.
+
+
+Dre: Mm-hmm. Listen, I have been set free by Austin Walker, as to what counts as a name.
+
+
+Ali: Yeah. Mm-hmm.
+
+
+Dre: And now nothing can hold me back or tell me what is right or wrong.
+
+
+Ali: This is true. This is true. And…oh, Sylvi, what’s the Chariot Mk I like?
+
+
+Sylvia: Oh.
+
+
+Ali: Why does Cori get the upgraded version? [laughs quietly]
+
+
+Sylvia: You know what, I'll say what I said to…I think I said this to Austin. I might have said it during a character creation thing that didn’t end up going on the main feed, but it just killed the pilot too quickly. [Ali laughs]
+
+
+Dre: Mm. Sure. I mean, you hate to see it.
+
+
+Sylvia: Yeah.
+
+
+Ali: Back to the drawing boards, folks! They keep not coming back. [laughs] 
+
+
+Sylvia: Yeah, straight up! Yeah. I mean, the mech’s working great, but, uh…like, no, straight up, it was very much inspired by the permit system in Witch from Mercury, where, like, it overloads people.
+
+
+Dre: Oh.
+
+
+Sylvia: And that was like…
+
+
+Ali: Oh.
+
+
+Sylvia: The prologue is on YouTube, specifically is what made me think of this, because a lot of this was from before that show really kicked into high gear.
+
+
+Ali: Uh huh.
+
+
+Sylvia: But…I mention it, because it’s free for people to check out, if they’re curious. It’s basically just a thing where, when they sync with their mech to a certain degree, it puts too much load on the, like, brain, and they will die from it. And I was like, “Ooh…fucking, hell yeah, baby. Let’s go.” 
+
+
+Dre: Mm-hmm. Mm-hmm. 
+
+
+Ali: [laughs] Maybe I'll just…I’ll borrow that a little bit for my own…
+
+
+Sylvia: Yeah. I'll be taking that. [Ali laughs] Everybody does it, so, you know.
+
+
+Ali: It’s true. It is true.
+
+
+Dre: That’s fun. That’s fun.
+
+
+Sylvia: Mm-hmm. [Ali laughs quietly]
+
+
+Dre: Sylvi, I can’t remember: have you watched Iron Blooded Orphans?
+
+
+Sylvia: I've watched the first season.
+
+
+Dre: Okay. Because, like, the…I forget what they called it, but their direct nervous system plug-in system that they used.
+
+
+Ali: Oh, yeah.
+
+
+Sylvia: Yeah, that is also something that I was thinking about.
+
+
+Dre: Yeah, that was my main inspiration for Even having his big tentacles.
+
+
+Sylvia: Have you seen Thunderbolt?
+
+
+Dre: Uh, boy. I saw the first season a long time ago.
+
+
+Sylvia: The first season is specifically what I'm thinking of.
+
+
+Dre: Yeah.
+
+
+Sylvia: The, like, original four episode OVA or whatever.
+
+
+Dre: Uh huh.
+
+
+Ali: Oh, right.
+
+
+Sylvia: They have that with the Psycho Zaku, where the main character…hey, spoilers for Gundam Thunderbolt. [Ali laughs quietly]
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: Stop listening now. Like, has limbs removed so they can pilot it better.
+
+
+Dre: Yeah.
+
+
+Sylvia: And just the idea of, like, putting your body…making your body adapt to the weaponry of war, as opposed to the other way around, was a big thing in my head.
+
+
+Ali: Mm-hmm. And Figure’s body has pretty literally adapted to what’s been demanded of them.
+
+
+Dre: Mm-hmm. Yeah.
+
+
+Ali: [laughs quietly] It must be tough being a rock guy.
+
+
+Dre: Mm-hmm. It is. It’s tough. [Ali laughs] It’s very hard.
+
+
+Ali: Mm.
+
+
+Sylvia: Thank you. I didn't want to be–
+
+
+Dre: Mm-hmm.
+
+
+Sylvia: It wasn’t my place to say that, you know?
+
+
+Ali: Mm-hmm. Mm-hmm.
+
+
+Dre: Mm-hmm. Mm-hmm.
+
+
+Ali: Mm-hmm. Well, I think, on that note… [Sylvia and Ali laugh] This has been our episode of Gathering Information. Thank you both for joining me.
+
+
+Sylvia: Thank you. This was so much fun.
+
+
+Ali: Yeah.
+
+
+Dre: Yeah.
+
+
+Ali: It’s been really fun to learn more about people’s characters, just because I am forcing them to tell me about it. [laughs] 
+
+
+Sylvia: It’s nice to talk about the process, like, while we’re doing it, as opposed to just trying to remember everything we’re thinking during a post mortem.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Which is usually how it’s gone, so yeah, this was very…this was great.

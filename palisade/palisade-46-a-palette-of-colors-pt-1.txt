@@ -1,0 +1,2403 @@
+﻿PALISADE 46: A Palette of Colors Pt. 1
+Transcribers: Iris (sacredwhim), thedreadbiter [intro edits/formatting]
+Opening Narration / Recap        1
+Introduction        5
+Session Start        11
+Kingdom Troubles        19
+Features and Norms        23
+Facets        52
+Character Creation        70
+Character Introductions        78
+Relationships        84
+Goals and Obstacles        105
+[1:59:52]        115
+[2:15:00]        130
+[2:30:00]        142
+Opening Narration / Recap
+Austin: PALISADE is a show about empire, revolution, settler colonialism, politics, religion, war, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+[music intro - “See All Of This” by Jack de Quidt begins]
+Austin (as Narrator): It is the year 1430 of the Perfect Millennium, and in the center of the galaxy, Perennial tries to shut out the noise to focus in on only one place. But it is too loud on Palisade.
+-
+Particular Emphasis:
+You already know what it is, know who it be, Particular E on Palisade.
+Under violet skies with violent eyes, one final reprise, Palisade.
+Ships in the sky. (Palisade.) Nowhere to hide. (Palisade.)
+Bilats on the run, they under the gun, we promised we’d come. (On Palisade.)
+Mourning ain’t crying. It’s righteous where I am.
+Got a palette of colors that move in big numbers and knock down they walls.
+Like a battering ram. (Palisade.) Got ’em saying “god damn”. (Palisade.)
+Fuck a name, we the Cause, and we winnin’ them brawls. And history’s in our hands.
+-
+Layer Luxurious: Rival pilots, daring heists, divine companionship, war. These are the sorts of the topics we’ve covered this season on Perfect Imperfect, a podcast about the end of the Perfect Millennium. I’m your host, Layer Luxurious, and there’s really only one place we could end this season: on the pearlescent, peripheral world of Palisade itself, in the moment that these outsiders who oppose the Bilateral Intercession’s invasion fully join forces not only with the indigenous resistance from groups like Reunion and the Concrete Front, but also with General Mourning and her Qui Err Coalition fleet.
+The Bilats were cut off. The Mirage was all around them. And beyond, the Divine Principality, the Perfect Millennium was coming to an end. The only question was: what would come next? Let’s jump in.
+[voices overlapping][1]
+[background audio - excerpt of introduction to City City from PALISADE 03: Today Is A Monday]
+Narrator: It is the year 1430 of the Perfect Millennium,
+and in the center of the Milky Way galaxy,
+Voice 1: It isn’t a wheel, it’s a top, spinning, faltering, 
+reapplying spin with careful hands that…
+Narrator: Perennial tries to shut out the noise, 
+to focus in on only one place, one voice.
+Voice 2: You stole my power, so I stole your voice.
+Voice 1: It’s not as if we just keep spinning…
+Voice 3: Dying.
+Narrator: But it is too loud on Palisade.
+Voice 2: You lived as a tool, and so treated me like one.
+Voice 3: Falling.
+Voice 1: We need new words for old feelings, and new feelings for—
+Voice 3: Where is it?[2]
+Voice 2: No more visions of tomorrow for you.
+Voice 3: Slipping.
+Voice 2: Now, simply recollect.
+Voice 3: I hate her.
+Sylvi (as Cori): Who are you again?
+—
+Dre (as Levi): Oh, I just got here yesterday. My name’s Levitation, but you can call me Levi.
+Austin (as Voice 3): I hate you. You betrayed me.
+Keith (as Eclectic): Took long enough.
+—
+Austin (as Hunting): Who are you? How’d you get on board the ship?
+Austin (as Voice 3): I took advantage.
+Keith (as Eclectic): Eclectic, and easily.
+—
+Sylvi (as Cori): I’m Coriolis Sunset, pilot of a Chariot Mk II unit.
+Austin (as Voice 3): It’s fine. 
+—
+Janine (as Thisbe): I’m most commonly called Thisbe.
+Austin (as Voice 3): It’s fine. 
+Ali (as Brnine): My name is Kalvin Brnine, and I am an agent of Millennium Break.
+—
+Austin (as Voice 3): Valence will handle it.
+Dre: He is a humanoid man who is covered in rainbow crystals, and in fact, his head is just one giant rainbow, like, crystalloid.
+Keith (as Eclectic): Uh… Figure’s—Figure’s not coming back. I don’t think.
+Austin (as Voice 3): Motion.
+Austin (as Partial Palisade): Did Figure have people?
+Austin (as Voice 3): Perennial.
+Ali (as Brnine): No. Um…
+Sylvi (as Cori): We were Figure’s people.
+—
+Austin (as Voice 3): Autonomy Itself.
+Keith: “Wires and cables ripple and snap, sympathetically vibrating with the noises around them, contained within a buttoned white shirt and a tailored velvet jacket. The dancing components make an altogether convincing face.”
+Ali (as Brnine): Yeah, I, um… couldn’t have done it without Phrygian. But it’s a good thing. It’s a good thing that things are better.
+Austin (as Voice 3): Perennial. Her melody. Her eye.
+Janine (as Thisbe): I will miss their cereals.
+—
+Janine: “Fighting is not my purpose, but there is nowhere else for me until the fight is over.”
+Austin (as Voice 3): Perennial.
+Keith: “Leap says trust him number one, trust myself number two, and trust the Blue Channel crew number three, then trust no one.”
+Austin (as Voice 3): I can’t bear to look.
+Sylvi: “I need to find something to fight for other than revenge.”
+Austin (as Voice 3): I can’t.
+Ali: “I’m living on borrowed time. Keep up their fight.”
+Austin (as Voice 3): Don’t show me!
+—
+Austin (as Voice 3): There’s too much.
+Keith: “I am a scientist who is meant to be researching a god, but instead I am fighting a war, which is a worse job.”
+—
+Dre: “I’ve lived two lives; I would happily die for the truth.”
+Austin (as Voice 3): You’ve seen all of this… Don’t!
+—
+Austin (as Unknown speaker): Do you miss home?
+[music intro - “See All Of This” by Jack de Quidt ends]
+Introduction
+[4:00]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Ali Acampora.
+Ali: Hi. My name is Ali, you can find me at amorecivilizedage.net, which is another podcast that I’m on. You can also find me at friendsatthetable.cash. You can find all of us there, and you should go check it out.
+Austin: It’s true.
+[Sylvi laughs]
+Janine: True words.
+Austin: Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter at @swandre3000.
+Austin: Keith Carberry.
+Keith: Hi, you can find me on Twitter at Cohost at @KeithJCarberry. You can find the Let’s Plays that I do at youtube.com/RunButton.
+Austin: Janine Hawkins.
+Janine: Hi, I’m Janine. Why did I say it like that?
+[Ali and Sylvi laugh]
+Janine: Why did I start low? I don’t normally… that felt…
+Keith: It didn’t feel that weird.
+Sylvi: Yeah, I didn’t notice.
+Jack: “You’re tuning into WCTF, online with Janine. It’s 9 P.M.”
+Janine: Yeah. That’s the charitable way to interpret what that sounded like. I’m at @bleatingheart on Cohost. The thing I’m gonna plug is one, we’ve been doing multiplayer Stardew Valley streams and they’re really fun. Two, we have started doing a weekly roundup newsletter that covers Monday through Sunday and then it goes out on Tuesday, so there’s kind of like a weird overlap time, but it’s easier that way. And it’s a good way to keep track of what’s going up where in terms of like, what have we just streamed, what has been archived, what has been published podcast-wise, did someone put a picture on a thing that was funny? Important stuff.
+Austin: Also joining us, Sylvi Bullet.
+Sylvi: Hello. I’m Sylvia, you can find me across all your platforms and such at @sylvibullet. You can also hear me and a few other people here on mediaclub.plus. We’ve been doing our season on Hunter x Hunter, still going strong, as well as on the Patreon we’re gonna have some JoJo bonus episodes coming soon.
+Keith: Oh, that will absolutely be out by the time this is up.
+Sylvi: Well, we still gotta do the second one.
+Keith: That’s true. We have to record the second one. But the first one will be out.
+Austin: Is that out this week?
+Keith: That’s out this week.
+Austin: Okay. Well then, yeah. That’s out. Go listen to that.
+Sylvi: Enjoy. Enjoy me infodumping about stands for, like, 3 hours.
+Austin: That sounds perfect.
+Dre: I did. I enjoyed it.
+Keith: I enjoyed it.
+Sylvi: Yeah. It wasn’t a sarcastic enjoy. It was genuine.
+Austin: Art Martinez-Tebbel.
+Art: Hi, you can find me on Twitter at @atebbel, on Cohost and Bluesky @amtebbel, um… Do we have any more show-related—friendsatthetable.shop has some cool stuff that you can have.
+Austin: I mean…
+Ali: Oh, it does indeed.
+Austin: It may have new stuff by now.
+Sylvi: Ooh.
+Janine: I mean, ideally.
+Austin: It’s supposed to.
+Janine: That’s certainly what we’re aiming for.
+Art: Yeah, but I didn’t… Last time I said something like that, it was—it cut it a little close. So this time…
+[Sylvi and Jack chuckle]
+Ali: Yeah, but you still made it.
+Art: Sure. And I mean, you—it’s still gonna have stuff you can have.
+Austin: Right, it’s not gone. Well… we don’t know what tomorrow holds, let me tell ya.
+Janine: Yeah.
+Ali: If you’re listening to this—
+Art: It might have more than it does now, but whatever time you hear this, you can have something from there.
+Austin: For money.
+Art: If you go and spend money.
+Austin: If you go and give us money, yeah.
+Ali: I’m just gonna say, if you like Hieron, if you like Marielda, if you like Sangfielle, go to friendsatthetable.shop right now. I’m not being coy.
+Austin: You’re not. You’re being really straightforward. Those are the things…
+[Ali laughs]
+Art: And if you don’t like those things, thanks for sticking it out, I mean…
+Austin: Well, you know.
+Art: Fucking real of you.
+Janine: Ali has the power to cut that out, so.
+[Ali laughs]
+Austin: That’s true, that’s true.
+Janine: Really, she’s approaching this from a position of invulnerability.
+Austin: Yeah. Agreed.
+Ali: Yeah.
+Austin: Also joining us, Jack de Quidt.
+Jack: Hi, I’m Jack. You can find me on Cohost at @jdq, and you can buy any of the music featured on the show at notquitereal.bandcamp.com. I’m saying this now because it’s one of these instances where it hasn’t happened yet. You will be able to buy the finale theme for this episode that I have not yet begun to write.
+Sylvi: Banger, though.
+Art: Yeah.
+Ali: Uh-huh.
+Jack: That’s always exciting to write a little check and make sure I’m at the bank to cash it.
+Austin: Yeah.
+Ali: Mhm. Cha-ching.
+Austin: You gotta—the money has to be in the account, too. That’s the other half.
+Jack: It does actually have to have cleared, yeah.
+Keith: You upload those songs from the bank? You have to go to the bank for that?
+Austin: Yeah, the song bank.
+Jack: The song bank. Absolutely.
+Austin: The jukebox.
+Keith: Oh.
+Jack: The jukebox, yes. I get all my music, actually, by putting three quarters into a jukebox, and then somehow removing my own music that I’ve composed in a fugue state from it.
+Austin: This is an SCP.
+Art: I saw that episode of the Twilight Zone.
+Austin: Yeah, okay.
+Keith: Yeah, this is gonna go really bad.
+Austin: Wow, we just get the same reference with 50 years in between.
+[Art and Jack chuckle]
+Austin: We just needed Keith to reference the X-Files and we would have hit the trifecta.
+Jack: The trifecta.
+Sylvi: Oh, I’ve seen that X-Files episode.
+Austin: Yeah, there it is.
+Jack: Wasn’t that in Control? Okay, right. Let’s…
+Session Start
+[8:40]
+Austin: Today, we are playing Questlandia, a game of ill-fated kingdoms. The second edition of it by Hannah Shaffer and Evan Rowland. Our goals today—these are the same old goals we had before, but—portray a world entrenched in conflict, let the players make a difference, connect the magic and the mundane, and play to find out what happens. Questlandia obviously has its own set of not explicit principles in that way, but you know, player cooperation, shared worldbuilding, contributing ideas, declining ideas when they are ones we’re super not interested in, and playing not to win, but to play towards your character’s goal, because your characters are all gonna have goals. Questlandia is a GM-less game, everyone will have a character that they’re playing, but we will all be contributing towards the worldbuilding and scene-setting and everything else. For those of you who have listened to our Bluff City series, which should be everybody because I think Bluff City, especially season one, which is free, is really worth listening to. I think Bluff City season two is also worth listening to, but it’s not free, it’s just on our Patreon, so I get it if you haven’t.
+Art: And if this is your first episode of Friends at the Table…
+Sylvi: What are you doing?
+Art: This is a really bad first one. You should listen to a different episode.
+Ali: Welcome.
+Austin: I’ve adapted the, yeah, the Ali welcome. I’ve changed—
+Ali: Welcome.
+Austin: Here’s how I’ve changed over Palisade. In Palisade episode one, I said stop listening. In Palisade whatever number this is, I’m gonna say welcome. Thank you for giving us a shot.
+Sylvi: Yeah, you know what? Enjoy.
+Austin: It is a weird one, but fuck it.
+Art: Yeah, this might be confusing.
+Austin: It’s gonna be, but that’s okay. Everything we do is a little confusing, you know? Let’s just roll with it.
+Sylvi: I hope you enjoy it on your car ride with your friend.
+[Ali chuckles]
+Austin: Exactly. Exactly. Alright, let’s talk about Questlandia. Questlandia begins with us forming a kingdom. Obviously not a literal kingdom. It would be pretty fucked up if after all of that Millennium Break was like, you know what we need? We need a fuckin’ king.
+Janine: Burn thrones, build thrones.
+Austin: Build a fuckin’ throne. It’ll fix all this shit.
+[Sylvi laughs]
+Austin: We start by building a kingdom. A kingdom is any sort of organization or setting, it’s really kind of—it’s not just an organization, it’s really a society. We’re building a society here, and we’ll start with that. I’m actually kind of curious, for folks who’ve had a chance to read through this book, how much we want to leave it up to dice rolls and card draws, because the way this game is set up, you kind of leave it up to randomness to decide what things like the overall kingdom ambition is, and also the state of the kingdom.
+Jack: I was thinking about this. My proposal is that we choose the kingdom’s ambition rather than roll for it, but that we draw cards for the troubles, because I think we are in a place where we have a pretty good sense of what is extant trouble on the planet of Palisade. If you’re not familiar, the troubles are sort of grouped into clubs, meaning unrest and revolution, diamonds are wealth and resources, spades are war and external conflict, and hearts are for health and spirit. And I think we could pretty easily sort of like move up and down the levers of trouble on those in terms of how we understand Palisade. But I think in terms of our ambition, it might make sense to choose that one rather than roll on a table for it. I would also hear an argument for us sort of stat-ing it out ourselves if we wanted, like, a more authored introduction. I don’t know.
+Austin: I do like the kingdom troubles being random in the sense that it suggests, like, how has this past month gone?
+[Jack and Dre hum]
+Austin: How has the attempt to squash the Bilateral Intercession’s remaining military forces gone? Because if that spades, if that war/external conflict number is high, then we know, actually, we haven’t squashed it. But if it’s low, maybe we have. You know? There’s lots to play with there.
+Jack: Yeah. And to sort of spell the stakes of this decision out for the listener, who might not be so familiar with the game, the way we would traditionally choose the kingdom’s ambition is that we just roll a d6. And if we roll a 1, the kingdom’s ambition is for conquest or domination. That’s the burn thrones, build thrones philosophy.
+Austin: [chuckles] Uh-huh.
+[Dre chuckles]
+Jack: But I’m sure, you know, if we did decide to roll, some of these would be harder than others, but we could figure it out, probably. Number two—
+Austin: Very funny that we would end up with, yeah, two, devotion and transcendence.
+Jack: Devotion and transcendence.
+Ali: [laughs] Well…
+Sylvi: Oh, boy.
+Austin: These are all just Divines. Every one of these—
+Jack: Number three is culture or prestige. That’s us going “What if we figure out how to sell Motion back into the Twilight Mirage?”
+Sylvi: Oh, that’s the Mustard Red ending.
+Austin: Uh-huh.
+[Dre laughs]
+Jack: Four is technology/science. What if we could invent Motion 2?
+Austin: Mhm, mhm, mhm.
+Jack: I’m deliberately coming up with the worst ones here, but we could find them.
+Sylvi: Yeah, we can tell.
+Jack: Five is industry and trade, and six is control or unification.
+Austin: Which, you know, there ain’t none of these that are good in the—none of these are uncompromised or unproblematized, right?
+Sylvi: We’re not playing a well-fated kingdom, you know?
+Jack: Yeah, when you say a state has an ambition, [Austin: Right.] you are immediately sort of picking up a lot of baggage about statecraft.
+Austin: Oh yeah.
+Keith: I feel like Eclectic is coming up here with—there was a brief tense moment on the ship when Eclectic was like, “Yeah, they’re trying to take over the planet,” and everybody in the ship was like “What are you talking about? No we’re not. We’re trying to free the planet.”
+[Ali, Sylvi, and Jack laugh]
+Keith: And it’s like—[laughs] and now it’s like, kingdom ambition.
+Austin: Well, I guess, two things here. One is, what is the kingdom? Because, in my mind, the kingdom is Palisade. But it could also be the Twilight Mirage. I don’t think it’s Millennium Break or the Cause, though, right? Importantly, the kingdom is not just a political party or a particular one facet of control, right? Even if it was a king’s court, you might have—the kingdom might include different aspects of that, like the serfs along with the knights along with the, you know, the burgeoning merchant class.
+Jack: A food taster.
+Austin: The food taster, exactly, yeah. So that’s number one: is it Palisade? Are we locked on that? Is that what we’re feeling?
+Jack: We spent so much time and energy and, you know, listened to a lot of feedback internally and externally about making sure that we continue to center Palisade as a place, and as a place with people, and as an ongoing political project, and as a sort of site of oppression, that it would be interesting to get to this end state and go “And we’re gonna roll in this sort of tri-party Millennium Break, Palisade, the Twilight Mirage. That is our kingdom here.” What that would do is perhaps speak to the pieces on the board at this point a little more clearly, but I think I would advocate for—we’re talking about Palisade the planet here.
+Austin: Yeah, I think that’s right. That’s how I lean. Any other thoughts? Any other feelings?
+Jack: I’d be interested to hear what Blue Channel thinks about this. Or like, the Blue Channel players.
+Keith: Just, you know, pro-Pal—it would be really hard to switch to the Twilight Mirage.
+Austin: Yeah. I think that’s right.
+Sylvi: Yeah.
+Dre: Yeah.
+Ali: And I think that we have already said that we sort of want to be careful about not making this, like, a worldbuilding game about the Twilight Mirage, or like…
+Austin: Yeah.
+Sylvi: Yeah.
+Ali: …overfocusing on those details. Like, needing to see all of this through the lens of Palisade, I think, is what the story needs.
+Austin: Yeah. I agree with this. Alright. Well, given that, which of these ambitions do you think this game is about if we’re not rolling for it? It feels like control/unification.
+Sylvi: I was gonna say, like, I feel like that’s the closest to what we’re talking about here, but…
+Jack: Yes, I feel like—it’s odd, right? It’s almost like picturing a scale with a midpoint on it, and trying to figure out if the needle is on the left or the right of the midpoint, [Sylvi: Yeah.] where it’s like, if we’re on the left-hand side, and we’re still kind of figuring out how to, you know, defeat the Principality seriously, I could see conquest, right? Where it’s like, fight to get our planet back. But I think post-detonation of the Mirage bombs [Austin: Right.] and the kind of, like, transformation, we’re moving into six: control, unification.
+Austin: Alright. I’ve circled…
+Art: Yeah, I think that gives us some interesting things to sort of reckon with.
+Austin: Mhm.
+Art: These aren’t great words.
+Austin: No.
+Ali: Yeah, but there’s something about them, like, of this one—like, thinking about how Palisade is in a position where even if it gets rid of the Bilats, it also needs to find its, like, planetary identity.
+Jack: Yeah.
+[Dre hums]
+Ali: I think you can really see with the, like, Mourning–August Righteousness scene that there is not a desire there to just be like, “We’re in the Mirage now. Let’s follow your laws.”
+Austin: Mhm.
+Ali: So, like, control could easily be read as, like, steadiness, or like, you know, structure in that way. [laughs]
+Art: It sure can.
+Ali: But, you know, we’ve made a lot of—you know, these are all Divines, and this—looking at words is what we’re doing here.
+[Sylvi laughs]
+Austin: And it is worth saying—yeah, that’s true. I think that it is—
+Sylvi: Friends at the Table: Looking at words is what we do here.
+[Ali and Keith laugh]
+Austin: It is worth saying that this is, like, I actually don’t want to overemphasize these as being all fundamentally bad things. If you take a look at something like the Haitian Revolution, or the reconstruction period in the States post-Civil War, like, there were—there was not control and unification. Right? The Haitian Revolution was undermined by an international coalition to separate it from society at large and to put it deep into debt. That was a failure of control. The way that the United States government allowed, you know—the way that reconstruction was effectively abandoned and, you know, white moneyed interested were allowed to retain or take back control in the American south post-Civil War, that is a failure of unification, right? And a failure of control. These things do happen, right? Revolutionary movements do get undermined by counter-revolutionary groups. This happens again and again and again. And then, obviously, on the other side of it, it’s like, are we going to end up with August Righteousness as the head of the secret police? Like, I don’t know. We’ll have to play to find out what happens. But like, there is—
+[Ali laughs]
+Art: I mean, I could certainly see a world where in a generation or so, Palisade is like, “We gotta get Millennium Break the hell out of here.”
+Austin: Alright, so, and then, control/unification?
+Jack: Yeah.
+Sylvi: Yeah.
+Austin: Any other thoughts for a different one?
+Jack: No, I mean, I think it’s right, but I think it’s like Art said. It raises a lot of interesting questions immediately.
+Dre: Mhm.
+Austin: It sure does.
+Sylvi: Yeah, we’re gonna be walking a line here, for sure.
+Art: I mean, none of these words is without nuance.
+Kingdom Troubles
+[20:00]
+Austin: Right. Yeah. Alright, kingdom troubles. Shuffle the deck—
+Art: Maybe conquest. Conquest is without nuance.
+[Ali laughs]
+Austin: “Shuffle the duck—which was shuffled, I shuffled it—and draw six cards. Lay the cards face-up on the table grouped by suit. Each of the four suits represents a kind of trouble that might affect your kingdom.” We have the ten of hearts—actually, should we just pull all six out first?
+Jack: Let’s name them…
+Art: Where the hell are you?
+Ali: We’re in the Roll20.
+Austin: Oh, we’re in the Roll20. I’m all the way over on the right.
+Art: Oh, I couldn’t—oh, the cards are all the way over here. Okay.
+Austin: Yeah, I’m looking at the map of the kingdom.
+Sylvi: I wonder what type of molt we’re gonna get on this one.
+Art: Okay, you’re all in the Roll20 and this doesn’t even exist.
+Austin: Whoops.
+Art: The joker! What a conflict!
+Austin: I forgot to pull the joker card out.
+Jack: Okay, so what we’ve got to do now is I think we have to—
+Art: The joker’s here!
+Austin: Now we have to go to itch.io and let’s find a little journaling game that we’re all gonna play individually.
+[Jack, Keith, and Ali chuckle]
+Art: To the Joker, this is Twilight Reality.
+Jack: Woah.
+Austin: I mean, I did draw the adversary here, right? So, I have to, like—I’m gonna put the adversary on top of the six which came after it, and then I’ll draw one more. Okay. We got some cards here. We got some cards here.
+Jack: This is interesting. Okay, so the way this works is that the sort of intensity of the trouble that we are in is dictated not by the values of the suits that we drew, thankfully, because we drew some fairly high cards, but by the number of cards in each suit. So going from left to right, we can see we drew a ten of hearts. That is one trouble, that is a problem that is just beginning. You know, some people might know about it, it’s sort of rumbling on the edges. And a heart is health and spirit.
+Austin: Put a big one in health and spirit. What’s next?
+Jack: Yeah, that could be a lot worse. We can talk about what this means once we’ve kind of gone through the numbers. Then we have a seven of diamonds, that’s a one of diamonds, and diamonds are wealth and resources. Again, that’s a problem that is just sort of beginning. Then we drew two spades. Spades are war and external conflict. Two is that the problem has become more widespread, but an example that the book uses that I like a lot is that the majority has been spared from it at this point, you know? It is causing legitimate trouble for people, but not the majority yet. And then again, we have two clubs, and clubs is unrest or revolution, and then Perennial’s eye is blinking over that.
+Austin: It sure is. I mean, that’s just where I drew the Joker, which, you know, we can discard this, we don’t need to think about Perennial in relation to this, but it’s—
+Jack: No, but like Ali said, that a character making eye contact changed what system we played in, it means something in Friends at the Table when we draw jokers when we don’t expect them.
+Austin: Yeah. Totally. I guess there’s one more joker in there, so.
+Keith: It’s a weaselly little joker, too. Look at this guy.
+Austin: Yeah, I don’t like this guy.
+Sylvi: Little shit.
+Jack: Does he have a skull or is he just grinning? I need to zoom in. Oh, I don’t like this little fuck.
+Keith: Oh, he’s just grinning. Yeah.
+Austin: I think he’s just a little grin guy, yeah. He’s a little grinner.
+Keith: And then he’s got himself on a little stick. He’s got a little him.
+Sylvi: What a narcissist!
+Austin: Oh, he does.
+[Ali laughs] [Dre hums] [Sylvi laughs]
+Austin: This guy can’t get enough of himself. Fuck off.
+Art: Like a comic book villain over here.
+Austin: Generic. Don’t sue us.
+Art: I would give multiple people Oscars for portraying this man.
+Austin: We should note that theoretically you could draw six cards of one suit, theoretically.
+Jack: Oh, it’s real bad.
+Austin: Yeah. Going two, one, one, two is not so bad, which is the order over on the left. It goes war and conflict, wealth and resources, health and spirit, unrest and revolution. Let’s talk about what these—
+Art: That’s so weird. That’s not the order it goes in in the…
+Austin: In the book. I know, it’s very strange. It’s flipped clubs and spades. It’s actually—yeah, it’s just flipped clubs and spades from the book.
+Jack: Yeah, in case you were curious, four, if we’d hit four cards, that would be “widespread and causing significant harm in minutes”.
+Sylvi: Oh!
+Jack: Here, I just wrote down “five is a disaster”.
+[Sylvi laughs]
+Jack: And then six or more, because, you know, they can increase over the course of the game, [Austin: Right.] indicates “a kind of falling to ruin that may never be recovered from”. That’s like—it would be like an evil version of The Quiet Year if we just immediately drew six cards in wealth and resources and we were like, we have nothing.
+Austin: Yeah.
+Jack: Just nothing at all.
+Austin: Yeah, the war ruined the world, yeah.
+Jack: Yeah.
+Austin: I guess we should talk about what these mean, though. Actually, it doesn’t say that. It says don’t yet delve into the details of our troubles, we’ll have a chance to do that in the next section. So let’s not do that yet, I guess. Let’s talk about the features and norms.
+Features and Norms
+[24:39]
+Austin: “You now know a little something about your kingdom. Maybe it’s a kingdom bent on conquest, short on resources, its citizens on the verge of revolt. You may already have thoughts about where you’d like the story to go. The next step is to collectively establish features and norms of the kingdom.
+“Kingdom features include the appearance and nature of the people, architecture, and natural world. Norms are the laws and customs that define the society. When it’s your turn to suggest a new feature or norm, go with something that excites you. Bring in ideas from your real life interests. Simple and straightforward suggestions are just as welcome as the esoteric.
+“It’s helpful to begin by getting a sense of how your kingdom looks. Start by having any player describe one aspect of the kingdom’s architecture, then go around the table taking turns introducing a new feature or norm, expanding on the idea,” da-da-da-da-da, et cetera, right?
+We know a lot of these already, but I’d still love to, like—this is still an opportunity for us to highlight parts of Palisade as a setting that we’re all interested in. And hey, there’s eight of us, so we can list eight of these. We each get one. You know? Some examples that they suggest here are: what we eat, history and traditions, the form of our bodies, learning and teaching, geography and climate, taboos and crimes, animals and plants, religion and rituals, magic and the supernatural, social hierarchies, appearance and clothing, secrets and mysteries, art and decor, caring for the young and old. You know, so like, I could put down the Afflictions as a feature of this world, or the Diadem as a feature of this world, or a distrust of authority, you know, or a desire for authority, or whatever, right? Does anyone have a strong starting place here?
+Art: And it doesn’t have to be an aspect of architecture?
+Austin: I mean, it could be. Maybe I’ll put the Diadem down simply because it is that, right? And it’s always been—it’s shown up again and again throughout this fucking season.
+Jack: It’s on the cover art.
+Austin: Yeah, it’s on the cover art.
+Jack: Thank you, Erica.
+Austin: Thank you, Erica. So that’s—and that’s architecture. That counts. You know.
+Jack: Oh, did you hear the news about The Line, Austin? Did I share this with you?
+Austin: I did, I did. Do you want to say it to the people?
+Jack: Yeah, viewers, and let’s open this up to members of the call as well.
+Austin: We won. We actually won this fight.
+Jack: How do you think The Line is going?
+Keith: I think it’s going bad. I think that the buildings are sinking into the sand.
+Jack: Funnier than that. They’ve built the equivalent of 25 feet of it and have given up.
+Ali: Oh.
+[Keith laughs]
+Sylvi: I can relate.
+Austin: They expect to complete 2.4 kilometers by 2030 instead of the previously planned 170 kilometers, yeah.
+Janine: [cross] So they dug a hole? Or they built a—no, they didn’t dig a hole, they built it up and they built a tower. It is two towers, but…
+Sylvi: They kinda…
+Dre: That’s self-care, baby, you know? Sometimes we’ve just all bitten off more than we can chew and…
+Jack: Not only have we won, Austin, like you said—
+Austin: It’s so funny.
+Jack: We won in the way that anybody could have possibly predicted about a large-scale vanity architectural project, which is—say those numbers again? They wanted to build how much?
+Austin: 170 kilometers.
+Jack: And how much are they building before they’ve decided to give up?
+Austin: 2.4.
+Jack: I rest my case.
+[Sylvi laughs]
+Austin: To be clear, they have not built 2.4.
+Jack: No. [chuckles]
+Austin: They think they’ll build 2.4 by 2030…
+Keith: By 2030.
+[Ali laughs]
+Austin: …when they originally thought they would build 170 kilometers.
+Sylvi: Yeah, uh-huh.
+Keith: So they’re off target.
+Art: That’s still a lot of kilom—2.4 is a lot of kilometers though, right?
+Austin: They’re not gonna build it.
+Keith: They’re not gonna—yeah. I mean, that is their optimistic best guess, sounds like.
+Sylvi: They’re quiet quitting, is what they’re doing.
+Jack: [chuckling] They are quiet quitting.
+Austin: They’re quiet quitting. Yeah. I think there are bridges longer than this.
+Keith: No, I think they might just be regular quitting.
+Sylvi: They might be regular quitting.
+Jack: There are absolutely bridges longer than this. I think there are bridges that are like 20 kilometers long.
+Austin: Yeah, this is so funny to me.
+Art: There are 20—I don’t want to be on a 20 kilometer bridge. Is that the Verrazzano bridge? The Verrazzano bridge is unpleasant.
+Austin: [laughing] It’s not—the Verrazzano bridge is not 20 kilometers. How long do you think a kilometer is?
+Jack: [chuckles] Okay, so the—
+Art: No one has any idea how long a kilometer is. That’s one of the features of a kilometer.
+Keith: The longest—
+Janine: It’s a thousand meters.
+Jack: The longest bridge in the world is 164 kilometers long. It’s called the Danyang–Kunshan Grand Bridge. Rarely would I so readily accept that the name is accurate there, that is a grand bridge. It forms part of one of China’s most important railway connections, the high speed train between Beijing and Shanghai. How—what’s the bridge that you were talking about, Art?
+Art: The Verrazzano bridge is not very big at all. It’s less than half a kilometer.
+Jack: Okay. [laughs]
+Art: And I still find it unpleasant to be on.
+Keith: The longest bridge in the united states is the Lake Pontchartrain Causeway. It’s 300—it’s 38,000 meters.
+Jack: Is it in Louisiana?
+Austin: Hm.
+Ali: I’d like to add the Afflictions as my feature. [laughs]
+Austin: Love it.
+Sylvi: Cool, thank you.
+Austin: Also, Art, it’s like 4 kilometers. I just looked.
+Sylvi: Okay.
+Art: Oh. I—yeah. It’s like 4 kilo—that’s what we said.
+Austin: You said 20.
+Art: Yeah, that’s too long.
+Austin: Yeah, okay. It is too long.
+Art: When it was built, it was the longest suspension bridge in the world.
+Austin: Who’s got another one?
+Art: Until the United Kingdom had to one-up us in some sort of revolutionary war revenge scheme.
+Austin: Oh.
+Keith: The Causeway is the longest bridge over water, continuous, 1969.
+Sylvi: I think I might have an idea. It might need a little more time in the oven. But I want to have something that reflects adapting to being in the Mirage now.
+Austin: Ooh, interesting.
+Sylvi: ’Cause that—like, we talked about it a little in the last downtime, with like, we need a different movie player and shit, but like…
+Austin: Yeah. And with the Concretists needing to learn how to—not learn how to breathe, but get different equipment and different supplies, and with—
+Sylvi: Yeah.
+Austin: Yeah. Absolutely. So like, I mean, like, “in the Mirage” is a feature, you know?
+Sylvi: Yeah. Yeah. Just like, I think putting it here makes it more front and center, right?
+Austin: Yeah, totally.
+Janine: Doubt.
+Art: I have one.
+Austin: Sure.
+Art: And I want everyone to hear the apprehension in my voice as I say this. But what if everything’s just like, spookier?
+[Sylvi and Keith laugh]
+Sylvi: Hey, hold on.
+Austin: Let him cook.
+Jack: What’s this strange music I hear playing behind Art? Is it Clementine Kesh’s theme?
+Austin: It’s spookier.
+Janine: It’s the Goosebumps theme.
+Art: It’s spookier.
+Keith: I think someone’s banging violin bows on violin strings.
+Sylvi: [vocalizes Goosegumps theme]
+Jack: Woah.
+Ali: How is it spookier?
+Art: Yeah, what if the vibes were just a little worse?
+Austin: Yeah, yeah, wait, I got this, I got this. Ready?
+[slowed, low-pitched version of The Boys Are Back In Town by Thin Lizzy plays]
+Sylvi: [shouting] Yeah!
+Dre: Oh my god.
+Austin: That’s spooky to me.
+Jack: Wow!
+Dre: What? Where did that—
+Art: That’s pretty spooky. A skeleton’s probably singing that on the back of a motorcycle.
+Jack: Sorry, two things in case that doesn’t come through in the episode. 
+Austin: Yeah.
+Jack: That was in stereo, which surprised me.
+Dre: Yeah.
+[Ali and Art laugh]
+Keith: What is happening? I didn’t get anything.
+Austin: Weird.
+Jack: Wow, creepy.
+[Dre laughs]
+Jack: The second thing is I associate that move so strongly with Keith—
+Austin: You thought he did it.
+Jack: —that Austin—well, no, that you revealing you can do it is like a boss revealing that it has two health bars.
+[Sylvi laughs]
+Austin: Ah, yeah. Uh-huh.
+Sylvi: The weighted training clothes just came off.
+Austin: What do you mean—say more about “it’s spookier”.
+Sylvi: Yeah, please. I’m dying to know.
+Art: I think this is a little bit of Affliction stuff. I think maybe the Afflictions are a little more around. I think perhaps it’s just a little dimmer.
+Austin: Also, you’re Clem, and you have Iconoclasts, which we described as being like creepy Muppets.
+Art: But we’re not doing character stuff now, we’re doing world stuff.
+Austin: No, I know. My point is, also on top of the Afflictions…
+Jack: Yeah, to draw—to hark back to a previous episode, I think the words we said were “horrors walk the streets”?
+Austin: Mhm.
+Art: Yeah. Horrors walk the streets.
+Dre: Hm.
+Keith: And that was before the Afflictions.
+Art: And those streets are a little darker, and a really deep-voiced person is singing The Boys Are Back In Town.
+Austin: That’s right.
+Ali: Is it really spookier when, like, you get such good golden hour now?
+Austin: Oh, true.
+Sylvi: Oh, true.
+Art: Well…
+Austin: I mean, that actually is spooky.
+Sylvi: Palisade IG is popping off.
+Art: When you take those really good pictures, there’s like, faces in the background you didn’t think were there.
+[Ali hums]
+Austin: That’s weird.
+Art: All the reflections have, like, ghosts in them.
+Austin: Right, sure. I mean, I do think—
+Art: The boys are back in town.
+Austin: It is worth saying things like, you look up in the sky and see seven giant planets and Volition, a black inky moon sun, and also like, it’s never really dark anymore, it’s always twilight, it’s always like this strange un-day, you know? Like, there’s some weirdness.
+Jack: This is such a good, uh…
+Austin: Maybe “it’s weirder” instead of “it’s spookier”, or is that already “in the Mirage”?
+[Ali laughs]
+Austin: [cross] Spooky is different than… yeah, mhm.
+Art: [cross] Yeah, I don’t want to like… I don’t want to put a bow on a bow.
+Keith: Because it would have to be someone from the Mirage would come here and go “Oh, it’s spooky here.”
+Austin: I think someone who was in a coma for six months in Palisade would now wake up and go “it’s spooky here”.
+Jack: Wake up and go, “You guys have done what?”
+Keith: Well, I just mean, we’re in the Twilight Mirage, so it has to be spookier than the Twilight Mirage base, right?
+Austin: I don’t know that that’s true, because the Twilight Mirage is just—’cause we don’t know what this is like compared to Moonlock.
+Janine: Kingdom name Palisade.
+Austin: Huh?
+Janine: Kingdom name Palisade.
+Jack: Kingdom name Palisade, yes.
+Sylvi: Yeah, that’s something we need to refocus on scope-wise.
+Austin: Right, right, right. Because we’ve got a lot of features right now.
+Janine: I was gonna—I had a—I said a norm and then nothing happened.
+Austin: Oh, I missed it. What was it?
+Janine: Doubt.
+Austin: Doubt.
+Janine: I don’t think anyone should believe, like, literally—if someone says, like, “Hey, I promise I’ll pay you back next week,” I feel like there should be a lot more doubt in like, dude, what is next week? Like…
+[Ali snickers] [Jack laughs]
+Austin: Yeah, sure.
+Janine: Nothing is real, you know?
+Austin: Yeah, yeah. Good move.
+Ali: All the ATMs don’t work now because of the friggin’... static energy.
+Janine: Yeah.
+[Austin and Ali chuckle]
+Sylvi: Every time I high five my bro, we shock each other ’cause of all the static energy.
+Austin: That’s true, all the static.
+Ali: I keep going down at the Coinstar.
+Keith: And the ATMs!
+Austin: Yeah.
+Jack: Let’s see. I’m looking at Annie’s excellent map of Palisade as an inspiration, which is what it has been throughout the season.
+Austin: Mhm. Sorry, there’s big cards on it now, I can shuffle those back. Or I can discard those, I guess? Is that what we do? Those are discard?
+Jack: Okay, I’m gonna say a norm here that I don’t think—I think actually complements Janine’s norm of doubt, which is revolutionary potential. You know, this is a planet that was under the thumb of one kind of expression of the Principality, and then another kind of expression of the Principality, and then the Whitestar Fleet got deployed, and over and over again, you know, the combustor got shut down, all the combustors got shut down, Authority pillars fell, you know, Palisade is a place where political action is no longer reserved for the what if.
+Austin: Mhm. I like it.
+Jack: I didn’t realize we could cut off their heads.
+Austin: Damn.
+Sylvi: That’s hard as hell.
+Jack: That’s what Gucci says. That’s Gucci’s realization after Brnine kills Dahlia.
+Austin: Damn. We still need, what, two more?
+Keith: Yeah. So we’ve got now two norms and three features?
+Austin: Four features, I would say.
+Keith: Four, okay.
+Austin: And you know, we have a big map, right? Which is more than most games start out with, so—
+Dre: That’s true.
+Austin: Like, us not listing City City, it’s okay. We will remember City City, you know?
+Keith: Yeah.
+Sylvi: How could you forget?
+Austin: Some other examples from the book, here is a kingdom. “Mountain kingdom, poor above, rich below, snow melts, spring festival, fruits are dying, pollution, big helper animals, flying and digging animal companions, mushrooms/orchards for food, and food wars imminent.”
+Janine: I want to walk back “doubt” and say bug rodeos.
+Austin: Bug rodeos.
+[group laughter]
+Keith: How have we never thought of doing, like, big bugs before?
+Janine: Yeah, how…
+Sylvi: Keith, shut the fuck up.
+Ali: Friendsatthetable.shop.
+Austin: Right now.
+Keith: Right now.
+Austin: You can drink it.
+Art: Get your bug rodeo cowboy hats.
+Keith: [laughs] And lassos!
+Austin: We have real bug rodeo material right now, don’t we?
+Keith: Yes, we do.
+Jack: Yeah.
+Ali: Yeah.
+Art: I know, but a cowboy hat would be really fun.
+Ali: [laughing] Oh my god.
+Austin: We don’t have that.
+Janine: No.
+Ali: Go see our actual items.
+Keith: Right. We just have a lasso, a branded bug rodeo lasso.
+[Ali laughs]
+Jack: [singsong] Oklahoma, where the wind goes rushing down the plains!
+Keith: I, uh… I’m tempted to do, like, not just, um… I’m tempted to do the whole—oh my god.
+Austin: Divines?
+Keith: No. Close.
+Austin: The Delegates?
+Keith: The Delegates, right. I’m tempted to do the whole Delegate sort of system as a, like, one norm here is that we trap Divines underground and shave little bits off of them.
+Jack: Well, they trap Divines underground.
+Keith: Sure.
+Jack: We are the shaved little bits.
+Keith: The kingdom does.
+Austin: Well, the kingdom has, in the past, done that. If the kingdom is Palisade, Keith: Right.] then we are picking up the kingdom in this moment, but Keith is right that we, as far as—
+Keith: We the kingdom.
+Austin: We the kingdom, we gotta change that. We gotta make sure that fuckin’ stops, but there were…
+Keith: That’s our norm. Our norm is that we trap Divines underground, and shave little bits off of them, and turn those bits into servants or cops or whatever.
+Austin: Yeah, uh-huh. Cops and servants, and, you know. I don’t know. Some of them may have became Afflictions, we’ve maybe suggested before, who could say? Yeah, I like that. And then, yeah, my thinking is do we want to say Divines here? Do we want to—is that already caught in some of this other stuff? Do we want to say—
+Jack: Who hasn’t said one yet?
+Austin: Great question. Dre? Dre?
+Dre: Yeah, I guess me, yeah. Ooh…
+Jack: Okay, I’m just gonna throw out a few and we can see how we feel. I think Divines is worth keeping in mind, but I think, Ali, you know, Shenmue. Et cetera.
+[Ali chuckles]
+Jack: Millennium Break is here, that’s one.
+Austin: That’s kind of revolutionary potential, right?
+Jack: That is kind of revolutionary potential. The Principality is here, you know?
+Austin: The Principality is here. I mean, like, yeah, maybe one of these is like, counter-revolutionary potential.
+[Ali and Jack laugh]
+Austin: That is doubt, sort of.
+Ali: Well, I also don’t want to be the person vetoing Dre’s choice.
+Austin: No, yeah, that’s true.
+Dre: Remind me again, also, what’s the deal with technology here? At least our technology.
+Austin: I think that that’s in the Mirage—we’re in the Mirage.
+Jack: Yeah, what do you want, baby? They just have to ship it here.
+Austin: Yeah, the Mirage is special in many ways, right? Like, we had fully digital people being projected throughout the Mirage. We had, you know. Think about how the Mirage was. It was wild, right?
+Dre: Mhm.
+Austin: So, really high tech if you can get the stuff that’s built for this place. Really difficult if you have not had that. I think that’s part of what we’re trying to capture within the Mirage.
+Dre: So, what I’m wondering here is specifically in terms of conflict, then, of us and like the Bilats that got teleported here, how much of our weaponry and other tech is still working? And—
+Austin: It works.
+Dre: Okay.
+Austin: I want—I really need to double-check this. You may recall towards the second half of Twilight Mirage, guns stopped working. Do you remember that? Remember we got the guns?
+Jack: Yeah.
+Sylvi: Yeah.
+Dre: I think I remember that.
+Austin: In the finale, we undid “get rid of guns”. They re-invented guns. Guns got re-invented.
+Sylvi: Oh, cool.
+Jack: In fact, doesn’t Quire—
+Austin: Quire died, as a reminder. The planet died, and at that point, guns started working again. So, fundamental, you know, you pull a trigger on a gun, it’s still gonna fire here currently. So—and the big Perennial glitch was now weeks ago, and that, I think, gives us time to get back to a baseline, and so the question ends up being more of like, hey, if you’re a Concretist who needs to breathe differently, that’s an ongoing problem because you’re in the Mirage, but I don’t know that, like, mechs stopped working altogether, [Dre: Yeah.] or—the Blue Channel can still fly, you know what I mean, like? The Perennial Wave isn’t still freaking out, Kalmeria isn’t still working in unpredictable—newly unpredictable ways, I guess, right?
+Jack: Yeah. Brnine’s premonition of the Blue Channel in a tailspin is not as a result of the Perennial Wave glitching.
+Austin: Right. Right. Which I don’t mean to shut down the thing, because I guess, again, if that’s something you’re interested in, something we could emphasize is, you know, disparate technological levels or something, right? That like, some people get Twilight Mirage tier tech—you know, thinking about it in Armour Astir terms, a lot of—by the end of Armour Astir, y’all were up against Tier 4, like, regular Altars, like mech-sized mechs. The Twilight Mirage average mech might be Tier 5, you know? The Twilight Mirage microwave might already be Tier 4. I already got the Tier 4 microwave in the Twilight Mirage. You know? Everybody outside had Tier 1 microwaves. So, I don’t know what that looks like. You tell me. But, you know. A lot of stuff is happening.
+Jack: God, you know the microwaves there. We’ve said explicitly that we’re trying not to worldbuild about Twilight Mirage, and I don’t intend to, but you know their microwaves are crazy.
+[Ali laughs] [Dre and Jack chuckle]
+Sylvi: Yeah.
+Ali: I know a microwave’s crazy in there.
+[Sylvi and Jack laugh]
+Austin: We actually have lore on this.
+Jack: We do?
+Ali: Oh, stop it. [chuckles]
+Austin: Yeah. We have it. It’s from The Feast of Patina.
+Ali: [chuckling] Why…
+Sylvi: Of course it is.
+Jack: Why were we microwaving in the Feast of Patina? I thought we were just having a—
+Austin: It’s a hyper-quick—it’s a slow cooker, but it’s fast.
+[Jack and Ali laugh]
+Jack: What a good season.
+Keith: So it’s a pressure cooker?
+Art: Nailed it.
+Sylvi: We’re so dumb and smart at the same time.
+Austin: What did you say? Did you just say “like a pressure cooker”? Is that what you said?
+Keith: So it’s a pressure cooker, yeah.
+Janine: It’s just an instant pot.
+Austin: That’s what Ali said. Ali said, “Oh, a pr—” Janine, you said “it’s an instant pot”?
+Janine: It is.
+Austin: And then Ali said “Oh, a pressure cooker.”
+Keith: Three of us said it’s a pressure cooker.
+Sylvi: Oh my god.
+Austin: And then what I said was, “No,” comma, “faster.”
+[Ali laughs]
+Jack: Something old is new again.
+Austin: It’s like microwave fast, but it’s a slow cooker.
+Sylvi: Time is a flat circle.
+Art: No one does it like us.
+[Ali and Jack laugh]
+Sylvi: That’s true.
+Art: Also, our consistency is really amazing.
+Austin: It is. It’s pretty remarkable.
+Keith: Oh, so that stuff is all from the past.
+Art: I think the end of Twilight Mirage was 15 years ago.
+[Austin laughs]
+Jack: Something like that, right?
+Austin: The one that got me was about, I don’t know, 8 months ago at work, I was struggling to come up with the word “reverse engineer”, and I was like, wait, I think I’ve not had this word before. And I went looking, and in like four different seasons, there are examples of me struggling to find the words “reverse engineer”.
+[Jack, Ali, and Sylvi laugh]
+Keith: So you had to reverse engineer finding out the word “reverse engineer”.
+Austin: I literally did.
+Jack: This is the symptoms of a curse, I think, Austin.
+Austin: It is.
+Jack: I think you have a very specific curse.
+Austin: Yes. Yes. Yes.
+Keith: That’s like if you couldn’t remember what a house was, so you built one to see, “Right. This is a house, right. I get it. I remember now.”
+Austin: [chuckling] That’s right. Uh-huh.
+Jack: “Oh, it’s a house.”
+Art: You built one and then asked people walking by, “Hey, what’s this?”
+Austin: What’s this? Is this, uh… What’s that word? What is this? I don’t know what this is. Anyway.
+Jack: A shit ton of settlers are on the planet.
+Austin: Sure.
+Jack: I’m still just—I’m pitching things.
+Austin: Wait, I mean, this is still Dre’s decision. Right.
+Jack: Yeah, yeah, yeah, I’m just…
+Austin: Yeah, I mean, settlers is a real one. Or in general, the idea that kind of also speaks to maybe what Keith was getting at in the beginning, which was like, this is a disparate demographic—this population is not unified currently. And explicitly, there are lots of people here who are—who were specifically colonists, and settlers, and believed that this was their either holy or civil duty to arrive, or an opportunity for profit, right? They had these different motives to come here and take this place. That’s not a bad one to call out. Dre, which of these speaks to you in terms of things we want to call attention to and focus on?
+Dre: Okay, hold on. Give me the quick rundown again.
+Austin: I don’t—what do we have?
+Jack: Divines. We have Divines, we have disparate technology, we have counter-revolutionary activity, or, you know, the Principality, we have—then we talked about microwaves for a bit.
+Dre: Sure, yeah. I think that’s where I lost the plot for a second. [chuckles]
+Jack: And then we have—what was the one I just said?
+Austin: Settlers.
+Jack: Oh, settlers. A lot of settlers.
+Dre: Okay. I’m gonna say disparate technology.
+Austin: Okay. Disparate—is that spelled right? Let’s find out. Yeah.
+Jack: Oh yeah, ’cause the Twill have their own very specific technology as well that, like…
+Austin: That’s true. That’s true. Let’s make this smaller. I had to put it on two lines. Alright, so, “the Diadem, Afflictions, in the Mirage, it’s spookier, doubt, revolutionary potential, Delegate system,” and “disparate technologies”. Does anyone want to shift anything or change anything now that we’ve talked through everything?
+Keith: I’m good.
+Austin: Alright. This next one I think we are actually going to probably end up skipping, because we would have had to have done this at the beginning of the season, I think, for it to make sense for us, which is creating a language for our kingdom, we would have just played a whole game of Dialect for this, I think. But I’ll read it and see if it sparks anything.
+“Next, you’ll create the language of your kingdom. Go around the table and take turns suggesting word fragments like su, bini, or ren. These will form the base of your kingdom’s language. Continue until you have filled out the eight syllable slots on your sheet. This will be used throughout the game to name people and places in your kingdom.” I think we already have our own little naming schemas at this point.
+And then after that, there are also idioms and colloquialisms that they suggest. “What aspects of your history and values may have informed the language, what kinds of terms or sayings have resulted?” This, actually, we could maybe fill in with some stuff, right? There’s definitely stuff here that I feel like reflects what our deal—like, Divine is actually a pretty important term for us, and I’ll put that there. Or stratus, or Strand, right? The Strand is like, an important thing. Or strati is an important thing inside of this setting.
+Their suggestions on this stuff is stuff like you know, the mountain folk, for the people who live on the mountains, or the cavers, for the underground ruling class, there’s—they do a fantasy kingdom in this book is a, you know, thing. There are other—are there other terms or idioms that we use?
+Jack: I think the way… We talk about Bilats a lot. That has a specific meaning within the Stel structure.
+Austin: We do. We do. Yeah.
+Jack: Shoutout to—god, was it Serious Reading where that term showed up for the first time?
+Austin: I think that’s right, yeah.
+Keith: Sorry, which term?
+Jack: Bilats.
+Austin: Bilats, the Bilateral Intercession. Bilats.
+Keith: Oh, yeah.
+Jack: I mean, obviously the Pact, but, well, good luck to the Pact. They’re out there.
+Austin: Good luck to the Pact, yeah. Have fun, y’all.
+[Ali and Dre chuckle]
+Ali: I do think on the flip side, though, the Cause also has a very distinct thing.
+Austin: Yeah.
+Jack: Yeah. And that subdivision of like, Rose River, you know, Violet Cove, et cetera.
+Austin: Yeah.
+Jack: It meant something when the Stargrave and co. was like “I know your code names and who runs these places.”
+Austin: Yeah, that’s true. We didn’t have any, like, phrases in this the way we did in that very first Dialect game. We didn’t have—I mean, there’s no, like, special way on Palisade to say something is cool or wack, right? There’s no, like—
+Jack: No, they like basketball a lot.
+Austin: That’s actually so important.
+[Jack chuckles]
+Sylvi: I agree.
+Jack: There’s probably, like, a lot of basketball lingo. Let me see…
+Art: Yeah, they’re like, that’s playing game.
+Austin: Mhm.
+Keith: That’s playing game!
+Jack: Something that’s interesting is that there’s actually probably a lot of this that we have kind of… we have said is true about the world, but haven’t needed to go into detail in terms of like, [Austin: Right.] cultural production of the Paint Shop. I’m sure there’s actually a lot of idiom on Palisade that is culturally or politically significant. It’s just outside the realm of the camera.
+Austin: Right. There’s the stuff that, Jack, you and I will sometimes say back and forth from the various intros that are, like, “they’re moving on us now,” or whatever, right? Those are fun.
+Jack: Yeah.
+Austin: “On Palisade.”
+Jack: “Do not demand emergence if you ain’t ready for emergency.”
+Austin: “If you ain’t ready for emergency,” et cetera.
+Jack: “Nothing is stationary,” the works.
+Austin: “Nothing is stationary” I think is a pretty big one. Alright, yeah.
+Ali: Do you have it?
+Jack: Do you have it?
+Austin: Do you have it? Wait a second. Sorry to strati, but do you have it?
+Keith: Do you have it? Which has its roots in basketball, we now know.
+Austin: That’s right. Yes, we do know that.
+Sylvi: It is the ball.
+Jack: Do you have it?
+Austin: Do you have it?
+Ali: Can we add basketball as a ninth feature?
+Austin: I did.
+Ali: Okay, thank you.
+Austin: See it? It’s underneath the features. I did.
+Sylvi: Hell yeah.
+Jack: Austin’s written it down bigger as revolutionary potential, as it should be.
+[Ali chuckles]
+Dre: Mhm, mhm.
+Jack: I realized recently—
+Sylvi: [laughs] Sorry, you saying that made me think of the Castro Euro Step story.
+[Dre laughs]
+Austin: I was thinking the same thing.
+Sylvi: Yeah.
+Jack: Something I realized recently, I was thinking about “do you have it”, and I was thinking about how it comes from that advert that brought someone back to life. No, it didn’t.
+Austin: Just one person.
+Jack: That’s not true. Those were, like, four idiots on a podcast. I had kind of in my brain been like, at some point in history an advert brought someone back to life. Of course it fucking didn’t.
+Keith: Are you sure?
+Austin: What do you mean?
+Art: Yeah, it did. What?
+Austin: What are you talking about?
+Art: Jack…
+Austin: It was one per—it brought one person back.
+Sylvi: No, I’m team Jack here.
+Austin: You think they made it up? You think they would lie to us on CENTRE/line?
+Jack: On Joe Rogan?
+Keith: On CENTRE/line? You think they would lie about that?
+Sylvi: Yes.
+Keith: We interviewed the guy that was brought back!
+Austin: You guys hear about this advertisement? Hey, can you bring up this advertisement?
+Jack: Can you—Ben, bring up this advertisement.
+Austin: Ben.
+Jack: He’s bringing it up.
+Keith: I think the important thing is that you—that was all part of a criticism of the director.
+Austin: Mhm.
+Dre: Guys…
+Keith: So why would we have given them the credit where we could have denied it?
+Austin: That’s right. Dre?
+Dre: I think my girlfriend died and got brought back to life by the “do you have it” ad and then joined Millennium Break.
+[Jack laughs] [Austin and Keith chuckle]
+Austin: Alright. God.
+Sylvi: That’s a good episode.
+Dre: It’s a great episode.
+Keith: That should be a quote from an ancient video game intro.
+Austin: That’s what you determined. You found this. It was like an NBA 2k, right?
+Keith: It’s NBA 2k, yeah.
+Austin: That’s so funny.
+Jack: Do you have it?
+Keith: Do you have it? [laughs]
+Austin: Alright.
+Keith: It’s the—by the way, it’s the power to dominate, do you have it.
+Austin: That was the Krusty-est of your laughs I’ve ever heard.
+Dre: Wow.
+Austin: Like, Krusty the Clown.
+Keith: Me?
+Austin: Yeah, you really went into Krusty the Clown mode.
+Keith: Like, [clown laughter]? Like that?
+[Sylvi and Ali laugh]
+Austin: Yeah, you really did. It was great.
+Jack: The other day, I don’t know if we were on a recording or something, Keith revealed to me that he will not do a Homer Simpson impression because it’s so sacred to him.
+Austin: That makes sense. I believe this.
+Keith: Yeah, I won’t do it.
+Jack: I think that’s admirable. You find a line—everybody has a line.
+Austin: That’s right. Alright.
+Keith: Did I say that? Is that something I said?
+Jack: Yes. [chuckles]
+Janine: Yeah, I was gonna say, I don’t believe that at all. No, I don’t believe you.
+Dre: Wow.
+Keith: I didn’t watch the Simpsons until I was like, 27.
+Janine: I think this is a line you’re drawing for the sake of having a fun little fact to counter the “can do any sound” thing.
+Sylvi: How dare you accuse Keith of having a quirk.
+Janine: Or, actually, maybe your Homer Simpson is bad and you know it.
+Austin: Oh, wow.
+Art: Oh!
+Sylvi: The one sound.
+Austin: We have to finish this finale. We can’t—we can’t.
+Janine: And you’re keeping it to yourself—okay.
+[Ali laughs]
+Keith: I genuinely don’t know if this is something I said, or a joke Jack is telling, or a lie I made up and then have forgotten.
+[Sylvi laughs]
+Jack: Ain’t it fun. Alright, what’s next?
+Facets
+[52:53]
+Austin: Facets are next. “Important concepts, locations, and characters are owned by individual players. In a nutshell, ownership means that when a question comes up about something in the setting, the player who owns it will give an answer. Ownership exists to ensure that everyone has a voice in worldbuilding. Any part of the setting you take ownership over is called a facet. This can be a feature or a norm (the neverending festivals), or a trouble (the winter famine). Locations, objects, and NPCs are valid facets as well. Ownership can even be used for mysteries in the setting, like ‘Where did the dragons go?’”
+Jack: Great question.
+Austin: “In which case, the owner can choose to preserve the mystery by doling out partial answers or clues. When someone asks about a facet, the owner always has the first and final say. They can ask for input, but they alone decide what’s true about their facet of the world. For example, if Lydia owns the mushroom fairies, then questions like ‘What do the mushroom fairies eat?’ or ‘Do the mushroom fairies make art?’ are Lydia’s to answer. If you own an NPC facet—”
+Jack: Of course they make art. Everybody makes art.
+Austin: I agree.
+Jack: I’m just answering for the mushroom fairies here.
+Sylvi: Mushroom fairies might not.
+Austin: Alright, Lydia.
+Sylvi: Well, that’s Lydia’s responsibility, Jack, so please calm down.
+Jack: [chuckling] Okay, yeah, sorry.
+Austin: “If you own an NPC facet, you aren’t obligated to roleplay as them. You can invite other players to play them instead. At this point, each player will take ownership of one facet of the setting. Take turns choosing a facet that you’d like to own. This could be one of the features and norms, a kingdom trouble, or any other aspect of the setting that was discussed.” Have we talked about troubles yet? Did we skip troubles? We may have skipped—I guess troubles are just unrest, revolution, wealth, resources, and so on, right?
+Jack: What we should actually probably do is say what that means, right?
+Austin: It’s funny, because they were like, don’t say that yet, and…
+Jack: If we’re taking—I think this is the place for it, right?
+Art: Troubles was up—that’s what the cards were.
+Austin: No, no, no, but there’s a point on that page that says “Don’t yet delve into the details of your kingdom’s troubles, you’ll have that chance in the next section.” And then we didn’t actually do that. I guess maybe that was supposed to be part of features and norms?
+Jack: Maybe it’s when the map gets involved?
+Austin: I’m gonna do a search for troubles and see where that was—because I stopped us from having that conversation at the time. I’m not—I feel like I’m not seeing…
+Jack: The place to talk about the trouble.
+Austin: The place to talk about the troubles. So we should just do it now, maybe. Because we need to know it.
+Jack: I think that it makes sense, especially if we’re about to start taking ownership of things.
+Austin: Yeah, exactly. Exactly. So what’s going on? Again, let’s go over these one more time. We have a 1 in—we have a 2 in war and conflict, a 1 in wealth and resources, a 1 in health and spirit, and a 2 in unrest and revolution. Low is good, high is bad.
+Jack: None of these are terribly bad. 1 is really just sort of starting to rumble. 2 is happening kind of, but the majority of people are spared it.
+Austin: Mhm. Which is wild. The idea that like, okay. I mean, I’ll just start with war and conflict. It’s going well. It seems like maybe to the degree that the Principality, the Bilats are still here on Palisade, they have at least been penned in or cornered in some way that is separate from the bulk of the civilian population, or the civilian population that we put at risk, I guess. That’s one way to read this.
+Jack: Yeah, similarly, unrest and revolution, we can see that there has been some maneuvering from the Bilats in a sort of propagandistic space. We know that the Divine Future was able to be smuggled off planet [Austin: Right.] before Mourning and co.’s blockade came into place. And then we know that there was a lot of saber-rattling from Exanceaster March about the tribunals, about, you know, oh, they’re not letting me keep under house arrest, et cetera. All that stuff. And I’m separating that from the war, because I do think the war is like, Lucia is shooting people, but we’ve got her surrounded.
+Austin: Yeah, it’s probably worth saying that outright. I think war and conflict is “we are fighting people with weapons”.
+Jack: Oh, yeah, and it’s not Lucia, actually, because Clementine has Lucia in…
+Austin: Right, and then unrest and revolution is—is that specifically people who are buying into Future’s and Exanceaster March’s propaganda? Is it a general sense of unrest about the Cause and the Cause’s leadership?
+Jack: And the Mirage being here?
+Austin: And the Mirage being here? It could collect all of that, in some ways, right?
+Jack: Yeah. And at this point, it can, mechanically, right? We don’t actually need to pin this down very directly in terms of the way it’s going to function in the game.
+Austin: I mean, but I guess the thing that I want to be clear of is that number going up does not mean that, like, the Cause is doing better, necessarily. This is not the Cause’s revolution, right?
+Jack: No, yes, I don’t think it is, right?
+Austin: Right. That’s my read on it.
+Jack: I’d hear an argument, but… I think the tables have turned.
+Austin: Right, notably, if that—
+Keith: Yeah, I guess I’m struggling with how to—
+Austin: If that gets up to 6, it means the society has fallen to ruin and has become overcome by despair.
+Jack: So it’s not the Cause.
+Keith: So it’s not the Cause. So…
+Austin: Yeah.
+Keith: So then, what does that—where does that leave the unrest and revolution that we want to be happening on Palisade?
+Austin: I think that is the—
+Jack: That’s happening.
+Austin: I think that is partly…
+Keith: That’s a 1 in unrest and revolution. It’s a tug of war between a good revolution and a bad revolu—good unrest and a bad unrest.
+Austin: I don’t necessarily know. I think that we need to—I think because there’s a world, right, where that unrest number goes up because, for instance, part of the Cause breaks off and becomes its—the pirates break off and say we’re gonna institute a pirate state, right? And maybe that is the Cause—that is anti-Cause. But it’s not—you know what I mean? Is there a world where—I think it—yeah, I guess that’s what it means.
+Keith: The other thing is—
+Austin: If we’re thinking of the kingdom as the semi-temporary, the ad hoc state that got put into being through whatever intro I’ll record that summarizes the actions that were taken at the end of the last episode, where General Mourning came in and made an alliance with August Righteousness, and everybody kind of said “Okay, this is what we’re doing, here’s how this is working,” then yeah, that seems right.
+Keith: The other thing is, like, we could, you know, internalize the—which is not—it seems kind of out of step with that we are not playing the Twilight Mirage. Or the, um…
+Austin: The Cause.
+Keith: The Cause.
+Austin: Well, you’re playing your characters.
+Keith: Right.
+Austin: It’s just that the kingdom is bigger than the Cause.
+Keith: We can internalize that entity’s fight as the war and conflict fight. Like, we’re not in revolution anymore, we’re the government here.
+Austin: I mean, that’s what I’m saying. Yeah.
+Keith: Right, so then their thing against the, you know, the rest of the—the old government would not be unrest and revolution anymore, and then unrest and revolution would be a new unrest and revolution.
+Austin: Well, I think that it’s specifically—I think the difference here is war and conflict is against armed forces from the established Bilats. Unrest and revolution is like disaffected civilians, people who are convinced by fake Gur Sevraq’s, you know, new propaganda machine. Individuals who get bought out by Exanceaster March’s slush fund, right? And new groups that potentially could pop up and say, hey, we actually don’t want the Cause to lead us. So yes, I think that that’s—it’s a combination of all of those things that lead to the generic unrest and revolution score going up. You know?
+Keith: Yeah. It’s a little tricky with us not being the Cause, but I guess it does—it works.
+Austin: It is—again, it’s because it’s bigger than the Cause in some ways, right? And there’s things here that I don’t know—I don’t know—a thing that didn’t come up here were the Fabreal Duchy, right? And it’s like, are they—are they—what have they done? Have they given—are they part of a civilian population now? Are they—you know, if you were just some baron, you know, or whatever—if you were just some glass earl, if you were a glass earl, are you under arrest by nature of being that guy, are you under some—like, what’s happening to you, and are you part of unrest and revolution, potentially, the way that that sort of like—that sort of aristocratic class sometimes gets caught up in counter-revolutionary moments, you know?
+Keith: I would put the glass earl under arrest.
+Austin: Well, all five hundred of them? The answer might be maybe. The answer might be yes.
+Keith: Yeah. Five hundred people in a jail? Yeah, that’s—jail’s full of five hundred people.
+Austin: Yeah, mhm. This is control and order.
+Jack: This is when Keith said “shoutout to the Bastille” on a recent Clapcast.
+[Dre laughs]
+Janine: Yeah, I was gonna say, this works really well for [inaudible]
+Austin: Yeah, uh-huh.
+Keith: Yeah, I’m not—you know. What? They’re dukes. Fuck ’em.
+Austin: There’s one duke. There’s only the one duke.
+[Sylvi laughs]
+Keith: Oh, they’re earls, fuck ’em.
+Austin: It’s a Duchy, so…
+Keith: Right, it’s a Duchy.
+Austin: There are barons and baronesses and, you know. Marquesses or whatever.
+Sylvi: I think I agree with “fuck ’em”, though.
+Austin: Yeah. That seems like the case.
+Keith: Yeah, fuck ’em.
+Dre: Yeah. Yeah, yeah, yeah.
+Austin: But if some of them get out, that could be unrest and revolution. I don’t know why I’m going into a Yogi Bear.
+Jack: Booboo—
+Austin: Hey, Booboo.
+Jack: Booboo, we have to imagine a post-violent state, Booboo.
+Austin: That’s right. Alright, so facets.
+Art: Jack, your Yogi is not very good. [laughs]
+[Ali laughs]
+Austin: Yeah, your Yogi is very… It’s very British.
+Sylvi: It’s on par with Keith’s Homer.
+Austin: Yeah. [laughs]
+Ali: Woah.
+Keith: Hey, my Homer is really good. I just don’t want to shock anyone by revealing it.
+Sylvi: Oh, yeah? Show me.
+Jack: They don’t let us do Yogi Bear impressions in the UK.
+Austin: Legally?
+Jack: Yeah.
+Sylvi: Yeah, you have to do Basil Brush impressions.
+Jack: We have to do Basil Brush, boom boom.
+[Sylvi laughs] [Art chuckles]
+Austin: Alright. Someone should take ownership of a facet. Again, facets can be the features and norms here. They could also a kingdom trouble, or any aspect of the setting that we’ve discussed. I think, importantly, it should be something that you’re interested in, but not necessarily something you want your character to do scenes with or about, right? Because at that point, you will be monologuing with yourself in some ways.
+Jack: Yeah, this is great.
+Sylvi: Wait, hold on. I like the sound of my own voice.
+Janine: Can I have “it’s spookier”? Does someone else want “it’s spookier”?
+[Ali and Art laugh]
+Austin: All yours.
+Sylvi: You can have it.
+Austin: At this point, we should start taking these sheets below to put your name down on a character sheet, and you will see that there are these little—I put the little facet cards at the bottom of each in the notes section, and you can just write on there, sort of kind of.
+Dre: Ooh.
+Austin: You know, and then try to—you can group it so that they stay stuck together, but…
+Jack: Some context for the listener, we’re playing with a Roll20 that Austin has put together that is essentially one gigantic ten thousand pixel document that we will be exploring over the course of this finale.
+[Ali chuckles]
+Austin: That’s right.
+Sylvi: Yeah, we’re gonna get real familiar.
+Austin: God, what if I had hidden a secret on this page? Like Mode City.
+Jack: There’s still time.
+Austin: Yeah, that’s true.
+Sylvi: I thought you were gonna say “like mode seven”.
+Austin: This is a mode seven.
+Keith: This might be the hint that there already is a secret.
+Austin: That’s right.
+Jack: I would like to take “in the Mirage”.
+Austin: Go ahead. Write it on your facets sheet and I’ll group it up. Or your facet card. The reason these are cards is because—and I’ll say this—“From now on, new ownership will be established whenever somebody asks a question about an unowned aspect of the world. New facets will go to players who own the fewest—”
+Jack: Actually, sorry, I’ve changed my mind.
+Austin: Okay.
+Jack: I’d like to take “revolutionary potential”.
+Austin: Go for it. I believe cards end up also, like, switching in some cases. Also there’s cases where there’s, like, overlapping ownership and…
+Jack: Yeah, yeah, yeah.
+Keith: I would like to take Delegate systems.
+Austin: This is me saying, again, I would suggest not taking something that is the core of what your character is.
+Keith: I will take—I heard the opposite of that. I will take Afflictions.
+[Ali laughs]
+Austin: Yeah.
+Jack: I cannot believe that I fell into this trap too. I’m taking back “the Mirage”. I’m sorry.
+Keith: Okay, then I will take “revolutionary potential”.
+Jack: [chuckles] Okay. We’re playing games here.
+Keith: Yeah.
+Austin: Uh-huh.
+[Ali laughs]
+Austin: Friends at the Table.
+Dre: Then I will take Afflictions.
+Austin: Yeah.
+Ali: Fuck.
+Keith: Gotta be fast.
+Ali: I’m…
+Art: I was almost like, I will take “do you have it”, because I was in the wrong section of the page.
+Ali: Ooh.
+[Austin and Dre laugh]
+Sylvi: Dibs on basketball!
+[Jack and Ali laugh]
+Keith: [chuckles] That’s there.
+Austin: That’s one of them. That’s one of them.
+Art: That is one of them. You could take basketball.
+Sylvi: I’m thinking about it.
+Jack: Right, yeah, because these don’t just have to be the…
+Austin: Right.
+Jack: …features and norms. Sorry, Ali.
+Austin: Right. You could take “health and spirit”. You could take “war and conflict”.
+Ali: Yeah. I was gonna say that I’m torn between “doubt” and “health and spirit”. Because the troubles are up for grabs too, right?
+Austin: That’s right. And things that aren’t even on this list.
+Art: I would like to announce that I’m taking whichever one Ali doesn’t.
+Ali: Woah.
+Sylvi: Of those two?
+Art: Of those two. Not Ali picks one and I pick the other.
+Sylvi: Yeah, I was gonna say, like, I’ve gotta pick still, man.
+Ali: [laughs] I was like, damn.
+Art: Nope. Too late.
+Sylvi: Art’s GM’ing this one now.
+Ali: I think I’m gonna go health and spirit.
+Art: I’m not prepared.
+Ali: And then I can play Broun.
+Art: I didn’t mean it as a threat, I mean, you should take…
+Ali: Broun can be as doubtful as they need to be now. [chuckles]
+Austin: Wait a second. Who?
+Ali: Who? [laughs]
+Sylvi: Who?
+Janine: Busted.
+Austin: Did you for real say Broun multiple times? Who?
+Ali: [laughing] I gotta go. I’m sorry, I can’t do this tonight. I’m gonna go.
+Austin: Wow.
+Keith: Maybe it’s time to go back.
+Janine: Yeah.
+Austin: Doubt is right.
+Sylvi: Yeah, [chuckles] time to go back to the old me.
+[Ali and Dre laugh]
+Austin: I mean, yeah.
+Dre: Brnine with that Bugs Bunny art.
+Austin: Wait, I’m sorry. Who took—wait, what did you end up taking? Oh, I see what you’re saying. I see what you’re saying. Now I understand what happened here. Okay.
+Ali: Because I didn’t take doubt, Brnine can revel in it, yeah.
+Austin: Right. You can now be—yeah. You can be the person who is all about it. Revolutionary potential, group those…
+Jack: Similarly, because I didn’t take revolutionary potential…
+Austin: Right.
+Sylvi: it could be kind of fun to take the Delegate system.
+Austin: Sure. Go for it.
+Art: You didn’t let him say basketball.
+Austin: Basketball.
+Sylvi: I’m sorry. I think basketball is for the people and I don’t want to own it, you know?
+Ali: Trust it’ll show up.
+Sylvi: Yeah, maybe it will.
+Austin: Also available, war and conflict.
+Janine: Also, just…
+Austin: Also available, unrest and revolution.
+Janine: Having a blank card to be like “ask Sylvi anything about basketball” seems like a great way to never finish this.
+[Jack and Ali laugh]
+Austin: Oh, that’s true. That’s true.
+Art: It’s weird that also Japanese wrestling is on here?
+Jack: Weird.
+Sylvi: Yeah, I’m gonna write down “new Japan pro wrestling” on my card here.
+Ali: I’m gonna write “brawl out”.
+Sylvi: Oh my god, don’t get me started.
+Keith: How many Canadian teams are there on the NBA?
+Austin: One in Toronto.
+Sylvi: One. Just one. There used to be two, the Grizzlies used to be in Vancouver.
+Austin: Yeah. Now they’re in Memphis.
+Keith: Wow.
+Sylvi: And also CM Punk put Jack Perry in a headlock. Okay, I got it all out of my system.
+Keith: I think we should bring a Montreal exposé back, by the way. [laughs]
+Sylvi: Yeah.
+Art: I agree.
+Dre: I’m with you.
+Sylvi: I want to take war and conflict. I changed my mind.
+Austin: Go for it. Yeah, I love that.
+Art: I think there should be at least four baseball teams in cities where they don’t speak English.
+Jack: Oh, playing in a—because that’s true, Art.
+Sylvi: They speak English in Montreal.
+Art: Right, that’s—yeah. That would be one, I want three more.
+Keith: I think we should also add a team in, like, British Columbia.
+Sylvi: Yeah.
+Art: They speak English there.
+Keith: They do, but I just think there needs to be more teams over there.
+Jack: Who doesn’t have one?
+Art: Yeah.
+Jack: Not teams, I mean—
+Art: Vancouver, that’s a baseball team.
+Jack: No, no, no, I’m not talking about basketball. [chuckles] Okay.
+[Keith laughs]
+Sylvi: Okay, okay. Yeah, we got ’em all.
+Austin: I made some extra cards and put them over the sheet that I’m not using.
+Ali: Ooh.
+Sylvi: Yeah, I was gonna say.
+Austin: And we can move them when we need to, you know?
+Ali: Scary.
+Sylvi: The intimidating monolith of cards.
+Austin: Yeah.
+Ali: Yeah.
+Austin: Cori, do you want to slide over one or do you want to stay in the little corner?
+Sylvi: I like my little nook here.
+Austin: You like the little corner.
+Sylvi: Yeah. I wanted a corner. That was kind of my…
+Austin: Sylvi’s in the bottom right of the sheets, and so the empty one is just one over to her to the left, so. Anyway.
+Sylvi: Yeah. I like it. It’s where my dad would have been.
+Austin: So can we say these one more time?
+Sylvi: [laughs] Yeah.
+Austin: Everyone read yours off, in the order of your sheets, top left across, and then bottom left across.
+Janine: It’s spookier!
+Dre: Afflictions!
+Austin: Ding!
+Ali: Health and spirit!
+Sylvi: [softly cheering] Woo!
+Jack: In the Mirage!
+Sylvi: Yeah!
+Art: Doubt!
+Dre: Boo! [laughs]
+Sylvi: Boo! [laughs]
+Keith: Revolutionary potential?
+Jack: Hooray!
+Dre: Yaaay! [chuckles]
+Sylvi: Oh, war and conflict.
+Jack: Boo!
+Sylvi: Sorry, I was doing a lot of the noises.
+Austin: You were doing all the background noises, that’s true. Alright. At this point, everyone should have one facet. Again, whenever someone asks a question about an unowned aspect of the world, new facets will go to players who own the fewest. If players are tied for the fewest, generally you give the facet to someone who’s most excited about it. However, if a character is very involved with a facet, give it to a player whose character is less involved. That way players won’t be answering their own questions. Da-da-da-da-da…
+Ali: Does that mean we should dole out these extras or should we wait?
+Austin: We should wait until the questions come up.
+Ali: Oh, right, duh. Yeah.
+Austin: Per the rules, anyway. I’m also happy to be these if no one ends up being interested in some of them, right? “Overlapping ownership. Sometimes a question might involve overlapping facets. For instance, someone might say, ‘Who usually attends the pariah’s opera?’ And one player might own avant-garde music, and someone else might own high society. And so, you can collaborate on answers.” You know how this works.
+Jack: Pickman in Zevunzolia.
+Austin: Right, exactly. And also, importantly, not—you don’t always have to take ownership over something. If nobody objects and no questions are asked, then that just becomes part of the world and play continues. You can just say a thing sometimes, and in a scene you can introduce a place without it becoming a facet, right? If someone wants to do, like, a lunch meeting at City City, we don’t necessarily need to say, okay, now who owns City City? You know? But if it feels like it’s an interesting element, then we do.
+Keith: I own City City.
+Austin: Damn.
+Character Creation
+[1:11:45]
+Austin: Alright. Character creation. “Now, you’ll use cards and dice to create a cast of characters.” Again, I suspect we will probably just do this and not draw these cards, but I guess I’ll—if people want to, you probably can. It’ll just be a little weird. I’ll talk about what they mean. “You draw one card per player, plus one extra, and lay them face up in a row. Then for each card, roll a die and place it on top of the card. You’ll then use that to—” oh, I guess we don’t need to do this. Because this just rolls drive and recent luck. I guess that’s the thing I think we should draw on, is recent luck.
+Ali: No, mine is so determined. What are you talking about?
+[Sylvi laughs]
+Austin: Okay. Tell yourself…
+Janine: Yeah, I think this is true of a lot of characters. It feels like it would be kind of…
+Austin: Do you feel like you have a good sense of your recent luck?
+Sylvi: Eh…
+Janine: I just fused with a god?
+Austin: Okay. I see.
+Sylvi: God damn.
+[Ali laughs]
+Austin: Alright, then I’ll just say, fill out your dang character sheets. Just fill it out. Just do it. What we got here is—the ones to fill out, I guess, in this moment, are—role, and you do not need to only use the roles in the book, though it would be funny if someone here—
+Sylvi: Oh, but they’re good.
+Austin: I’ll read them out loud. “Laborer, merchant, warrior, messenger, outcast, magician, virtuoso, inventor, holy person, scholar, hero, aristocrat, royalty.”
+Sylvi: I was gonna take hero.
+Austin: I think Cori is hero.
+Dre: Yeah, that sounds right.
+Sylvi: At least, she thinks so.
+Art: I took outcast.
+Austin: Yeah, I think that’s right.
+Ali: I wrote down—
+Art: I think I want to roll drive, though. These could all work.
+Ali: [chuckles] I wrote down inventor, hero, warrior, because I was—
+Austin: Oh my god.
+Sylvi: Oh, multi-class.
+Ali: Yeah, I was torn between which I should.
+Austin: Sounds like a Lupe Fiasco record.
+[Ali and Sylvi laugh]
+Dre: Jesus.
+[Jack chuckles]
+Austin: Next thing is drive. There are…
+Art: Oh, that one doesn’t really work.
+Austin: Huh?
+Art: [chuckling] I rolled for it and—
+[Ali chuckles]
+Austin: What’d you get?
+Art: I got a 1, and “knowledge/truth” is really the one that isn’t Clem-like here.
+Austin: [scoffs] Yeah, damn.
+Sylvi: I don’t know if love and loyalty is either.
+Janine: I mean, ask her. If you ask her…
+Austin: Yeah, she might say she loves knowledge and truth. I think that the—it’s tough. 
+[Ali chuckles]
+Austin: She’s had opportunities for knowledge/truth, to even pretend to like knowledge/truth, and she always says power instead.
+Art: Yeah, I think she can pretend for all of the other ones, and knowledge/truth is the one that, like, doesn’t really…
+Dre: Bridge too far.
+Austin: There’s not much written here, but drive is listed as your core desire that motivates your character. They are knowledge, truth, love, loyalty, change, progress, tradition, preservation, adventure, wanderlust, and honor or glory. These drives do not come up in mechanics going forward, but they’re just good, you know, north stars by which to write your character. Then, recent luck: “This represents their current circumstances and prospects. If you start the game lucky, you may have just come into money, had your achievements recognized, or fallen in love. Starting unlucky might mean your big scheme flopped. You’re sick and need medicine, or you’ve just been dumped.”
+Sylvi: Brnine.
+Ali: Yeah, might have to roll for this. [laughs]
+Dre: I mean, maybe Levi’s unlucky too. It didn’t go great for him.
+Austin: You could draw. Y’all could draw. We could draw cards if you want to for this. The way it works is you draw a card, and the color of the card suit is your recent luck. Does it say which is which in here?
+Ali: [laughs] It’d be great if it did.
+Art: We can just decide, I mean…
+Austin: We can decide stuff.
+Keith: Yeah.
+Austin: The next one is name and pronouns, and then appearance, and then personality. They say it’s choose from two on the character sheet, or write in your own. And the ones listed are pacifist, high brow, jovial, gentle, daredevil, ambitious, old-fashioned, seductive, bumbling, notorious, morose, and dramatic. We’re almost at my favorite thing.
+Art: Someone talk to me about what they think Clem’s recent luck is.
+Keith: Extremely good.
+Dre: Yeah.
+Austin: I think so too.
+Dre: Frustratingly good.
+Austin: Yeah. Otherwise, I don’t think—otherwise, I think she’d be dead via hammers.
+Keith: Right, everyone Clem knows wants to kill her with hammers.
+[Sylvi laughs]
+Austin: Yeah. Uh-huh.
+Dre: Yeah. And yet…
+Art: Well, I guess it just depends on our definition of recent.
+Austin: I think this moment of her life post—I think recent is since we joined the Mirage. Since we entered the Mirage.
+Art: Well, then it’s pretty hit or miss.
+Austin: What went bad?
+Art: Oh, she was like, continuously failing at everything until the last thing happened.
+Austin: No, no, no, no, we only just entered the Mirage.
+Art: Oh, the Mirage—that, yeah. Mhm.
+Austin: Yeah. Reminder, it is two traits.
+Sylvi: Did we figure out the recent luck drawing thing? Because I’m having trouble figuring it out for…
+Austin: We didn’t—we didn’t say. Red lucky, black unlucky? Red unlucky? Red is the color of blood, unlucky. You’re in the black, it’s good. Yeah.
+Ali: Yeah.
+Dre: Okay, yeah, yeah, yeah.
+Sylvi: I got the queen of clubs.
+Austin: Boom. Lucky.
+Sylvi: Pretty good. Lucky.
+Ali: Yeah, I got a red five of hearts, and I was like, I don’t know what that means. I’m gonna roll a 1d6, and then I got a 5, and it was two 5s and I was like, I’m going with what I came in with, which is extremely lucky.
+Austin: Lucky, yeah. Two 5s, that’s fun.
+Dre: Ace of spades.
+Austin: Oh, ace of spades is lucky.
+Ali: I fought out of a fire, you know, a flaming building.
+Austin: Yeah.
+Dre: Oh, that’s true.
+Ali: And who’s to say, you know, breaking up with your situationship isn’t a good thing in the end?
+Sylvi: I would argue…
+Austin: Y’all broke up? That was a breakup? Okay.
+Ali: I don’t know. I mean, we’re gonna—I’m gonna talk to her in this game, hopefully, so.
+Sylvi: Oh, great, we’re gonna get the “what are we” conversation.
+[Ali giggles]
+Dre: Just, you know. Pointing everyone to the thing I posted in the channel earlier.
+Sylvi: I think I got all my…
+Austin: Okay. Now’s the fun one. Favored weakness.
+Sylvi: Oh, yeah.
+Keith: Yeah. Easy pick.
+Austin: “When things are going badly, characters engage in weakness to turn the odds to their favor. Cheat lets you reroll your own dice, lash out lets you reroll the opposition’s dice, flee lets you ignore losses, menace lets you win ties. Decide which kind of weakness your character is most likely to resort to. Mark that weakness as favored. You can use any weakness regardless of what one you marked as favored—however, using your favored weakness will get you a bonus. You can read a detailed explanation of weaknesses on page 58.”
+Art: Clem will lash out or flee?
+Austin: That’s a great question.
+Keith: That’s a good two to be stuck on, but I think it’s flee, right?
+Sylvi: She’s a flea because she’s real hard to get rid of.
+Keith: She’s a pest.
+Austin: I’m gonna read the engaging in weakness section if that helps. “Sometimes as the spotlight player, you won’t be satisfied with your options. This section describes how you can change your dice results at the cost of your character’s future.” I know I’m reading this after or without us going over what—how the dice work here. I guess I will try my best to do a two-sentence summary of the dice mechanics here. The way that this game ends up working is that you roll some dice, some of them are good dice and some of them are bad dice, and you have to try to like, roll higher on your good dice than on the bad dice. And the way that they pair up creates either, you know, it either eliminates positive things or negative things, whatever, right? But they’re—the results are big narrative things, like cause dramatic upheavals, or bring a reversal of fortune, or change your relationship, or impact the obstacles between you and your goal. Big narrative things.
+And the way the game works is sometimes—you end up basically needing to accept a set of narrative outcomes at the end of each of your turns, basically, and so you might want to say, “Hey, actually, I really don’t want the negative change my relationship. I want my relationships intact and good,” and so, weaknesses let you change what those outcomes are. “Sometimes, as a spotlight player, you won’t be satisfied with your options. This section describes how you can change your dice results at a cost to your character’s future. When pushed to the limits by desperation or ambition, characters can engage in weakness to turn the odds to their favor. Every time you engage in a weakness, start by marking misfortune on your character sheet. Fortune and misfortune will impact your character’s epilogue at the end of the game.” There’s a little bit of Fiasco here, except you can kind of put your thumb on the scale a little bit.
+“There are four kinds of weakness, each with different impact on the dice and story. Cheat: break the rules, don’t play fair—” and that is you get to reroll any number of your own dice, you can then choose new pairs. Lash out is “lose control, send them reeling,” so think about that for Clem. “Reroll any number of the opposition’s dice. The opposition puts their new three highest dice forward.” So you’re making them reroll their dice, right? So if they’ve done well, you’ll lash out and maybe make them do worse. You know, think about how that might fit for your characters.
+“Flee: escape in body or spirit. Ignore all losses from 1 to 5, they have no impact and no narration; you’re long gone. Losses on a 6 still count. Ties are unaffected.” So, you know, you’re ducking the consequences, you get away before you can be affected by what the consequences are. Again, maybe that is Clem, who could say? Or “Menace: intimidate, threaten, make them fear. Win all ties from 1 to 5. Ties on a 6 are unaffected,” so again, in that case, think about how you frame a scene with your character being scary in such a way that what would have been a tie suddenly tilts in your favor. Are we good? Are folks through this section?
+Sylvi: Yeah, I’m set.
+Austin: Alright. Let’s read these out, and then we’ll do relationships, and then I think we end up calling it here. No, we need to talk about goals. Goals are important, too. Alright. Introductions. Let’s go around and introduce our characters—
+Character Introductions
+[1:22:11]
+Sylvi: [chuckles] Before we do, I want everyone to guess what the most used trait is, because I took a quick look and there is a lot of crossover with one specific trait.
+Austin: I think I know what it is. It has to be dramatic, right?
+Art: It’s dramatic, right? It’s gotta be dramatic?
+Sylvi: We’ll see.
+Austin: Okay. Let’s go through. Maybe it isn’t. Okay. Thisbe?
+Janine: Yeah, I’m Thisbe. I’m she/her. My role is—oh, I put the—these are on the…
+Sylvi: My role is change.
+Janine: My role is messenger.
+Austin: [hums] Interesting.
+Janine: My drive is change, comma, progress. And my recent luck is good, in a bewildering way. My personality is gentle and powerful.
+Jack: That does sound like Thisbe.
+Austin: And your weakness?
+Janine: My weakness is cheat.
+Austin: Cheat. Alright.
+Janine: Specifically, I should say, like, Thisbe does not have the appearance of a cheater. I had a really long thought about these. Because Thisbe often uses strength or power or things like that to get out of situations, but I think when I think about her more recent power acquisitions, cheat is a little bit more of what, like, you know, getting in someone’s head to make them unable to do an action, I think, is cheating. You know?
+Austin: Yeah, sure. Sure. Yeah, that makes sense. Dre?
+Dre: Hey, I’m playing Levitation. He/him. My role is the scout, my drive is adventure and wanderlust. My recent luck, I’m so lucky, bro. I’m living my dream.
+Austin: Yeah, true.
+Dre: My personality is daredevil and ambitious, and my weakness is flee.
+Austin: Love it. Survivable. You get out of situations.
+Dre: Mhm.
+Austin: Ali.
+Ali: Yeah, I’m playing Brnine. They/them. My role I think is really hero, but I’ve also included inventor and warrior. My drive for the game is change and progress, but the real one that I have written is guilt/panic.
+[Austin hums] [Jack laughs]
+Sylvi: Oh, that’s good.
+Ali: [laughs] My recent luck is “extremely” with a smiley face.
+Keith: Extremely luck?
+Jack: Is that sort of a grimace?
+Ali: Eh, it’s a smiley face. [laughs] My personality is daredevil and bumbling.
+Austin: Bumbling.
+Sylvi: Let’s go.
+Ali: My weakness is lash out. Brnine is fundamentally a violent person.
+Austin: Mhm.
+Ali: My appearance, maroon shag hair cut, multiple piercings, no eyebrows, new visor, under-eye eye bags.
+Sylvi: Ooh. New visor.
+Austin: New visor? Tell us about the new visor. What’s the new visor look like?
+Ali: New visor.
+Sylvi: Same color?
+Ali: I think it’s the same color.
+Sylvi: New colorway? Oh, okay.
+Ali: [chuckles] Maybe the lens part is different. Maybe it was like a pink one before, and now it’s like a green.
+Austin: Yeah. Yeah, yeah, yeah.
+Ali: Different person, obviously, don’t worry about that. But yeah, Brnine built it during the last movie night. Didn’t you remember the last movie night?
+Austin: I do, I do remember, but I just wanted to know the deets.
+Sylvi: Oh yeah, yeah, yeah. I just, you know, I wanted to know if it looked the same.
+Austin: Yeah.
+[Ali chuckles]
+Austin: Jack.
+Jack: Yeah, I am playing August Righteousness. Pronouns he/they. I don’t know if August Righteousness’s—wow, I completely botched “Righteousness” there. I don’t know if August Righteousness’s pronouns were stated, I was looking for them.
+Austin: I believe that’s right. I’m 90% sure that it was he…
+Jack: The wiki, shoutout to fatt.wiki, states their pronouns as he/they. My role is rebel leader and cook. My drive is change and progress. My recent luck is lucky. It went really well for me suddenly in a kind of terrifying way, but you know, you take what you can. My personality is ambitious and cynical, and my weakness is menace.
+Austin: Love it. Down and around to Art.
+Art: Yeah, I’m playing Clementine Kesh. Pronouns she/her. Role: outcast. Drive: love, loyalty.
+Austin: Ah.
+Sylvi: Nice.
+[Jack chuckles] [Ali sighs]
+Art: Recent luck: lucky.
+Austin: Mhm.
+Art: Personality: notorious, dramatic.
+Austin: Uh-huh.
+[Sylvi laughs]
+Art: I don’t think anyone can argue I haven’t nailed this. And weakness, lash out.
+Jack: Yeah.
+Austin: Yeah, okay.
+Art: As discussed, unless it was cut.
+Austin: I don’t think it was. I guess we’ll see.
+Jack: God’s special princess.
+Austin: That’s right, god’s special princess.
+Art: God’s special princess.
+Keith: Which god?
+Austin: Wow, Cori might have something to say about that. Yeah, I don’t know.
+Sylvi: Yeah, wait, hold up.
+Jack: It varies. [chuckles]
+Austin: God.
+Art: Yeah, what god do you like?
+Sylvi: Well, wait, no, it’s the same one. It’s Perennial.
+Austin: Not anymore.
+Jack: Not anymore.
+Sylvi: Oh, I guess not anymore. Yeah, I’m with your ex now.
+Austin: [chuckles] Uh-huh.
+[Jack chuckles]
+Art: It’s going around.
+[Sylvi laughs]
+Austin: Keith.
+Keith: Hi, I’m playing Eclectic Opposition, pronouns he/him. My role is detective, my drive is adventure, wanderlust. Recent luck, unlucky. Personality is jovial and dramatic. Weakness is cheat.
+Austin: Makes sense.
+Keith: Yeah.
+Austin: And Sylvi.
+Sylvi: Yeah. So I’m playing Coriolis Sunset. My role is hero, duh.
+[Jack chuckles]
+Sylvi: My drive is love and loyalty, also duh. My recent luck, lucky. Which I think fits with the recent Perennial connection. I am the third of our daredevils.
+Austin: Daredevil is the most, actually. Wild.
+Sylvi: Which is our most selected trait for everyone who was wondering at home. And my other trait is protective. My weakness is lash out.
+Austin: Yeah, we wound up with three daredevils, two ambitious, and two dramatic.
+Keith: Two dramatics.
+Austin: Yeah.
+Sylvi: Yeah.
+Austin: And only one bumbling. That’s interesting.
+Keith: Only one bumbling.
+Ali: A lot of lash outs, too.
+Austin: A lot of lash outs.
+Sylvi: We’re at war.
+Keith: It feels—only one bumbling feels right.
+Sylvi: Yeah, I think the bumbling was correctly assigned.
+Ali: [chuckles] Uh-huh. And I’m proud to wear it.
+Austin: Yeah, uh-huh, fair.
+Ali: Thank you.
+Sylvi: Hey, you know?
+[Ali giggles]
+Relationships
+[1:28:15]
+Austin: Alright. Well, next up is relationships. “After the introductions, you’ll connect your characters with relationships. Relationships can take many forms.” We know this. We know what these are. “Whether a relationship is caring, asymmetrical, or antagonistic, it will propel you. So, you know, it can be those things, but both players must agree on the relationship. Working with your player sitting to your left and your right, come up with a relationship between your characters. Continue around the table,” et cetera. We probably will not end up doing the left and right, necessarily, but we should make sure that there’s not the duplicate thing, right? Or the, like—three people shouldn’t have—
+Sylvi: Make sure everybody’s got two.
+Austin: Everybody should have two, and everybody should…
+Jack: I’m really happy with my left and right.
+Keith: Maybe we should focus left and right.
+Austin: Does it work? If it works.
+Keith: I don’t know.
+Austin: I would love Brnine and Thisbe to have a relationship.
+Sylvi: Yeah.
+Austin: Right?
+Janine: Yeah, that’s kind of the big problem. It works for Cori, it does not work for Brnine.
+Austin: Yeah.
+Ali: Yeah, what do we change here?
+Keith: I also like the little personality test of how people have chosen to circle and mark their little things.
+Austin: Yes.
+[Ali chuckles]
+Keith: It really speaks volumes. Just look at who’s done a neat little circle or a box, who’s done the horrible X and a big fat line.
+[Jack chuckles]
+Austin: Janine has introduced a little star emoji, I believe.
+Sylvi: Yeah.
+Janine: Mhm.
+Austin: Yeah.
+Sylvi: Meanwhile I just kind of smudged mine out because when I just put a dot in it looked like a boob.
+Ali: Oh, wait, we have matching boxes.
+Keith: Yeah, I did the world’s most off-center X and then two bad circles.
+Sylvi: I’m shaking your hand.
+Janine: There’s a K here? Did Jack put a K in or was that Austin?
+Jack: Correct.
+Austin: I don’t have a character. That’s Jack.
+Sylvi: Oh, it’s the Shape.
+Austin: Oh, it kind of is the Shape.
+Jack: Oh, it kind of is the Shape.
+Ali: [laughs] Oh, no.
+Austin: You kind of drew the Shape. Uh-oh. Menace.
+[Jack laughs]
+Ali: I’m happy being in between Thisbe and August, because I feel like Brnine—I do want to keep the Thisbe relationship center a little bit, and I do think Brnine’s tension with being a Cause leader, especially without Gucci, is interesting. I could easily switch out that for Cori or Levi or Eclectic, though, if it feels like we don’t find those connections otherwise, you know what I mean?
+Sylvi: Mhm.
+Austin: I want to say something really quick about what the next step is as we’re thinking about this, because it’s important, and I don’t want to bamboozle you if you have not read this book.
+Sylvi: Okay.
+Austin: “Now, everyone will mark one of their two relationships as exhausted.”
+Jack: This game’s great.
+Austin: “An exhausted relationship has lost its spark. It’s become tired, rote, or uninspiring. Exhaustion can be and often is one-sided. This can lead to tragically asymmetric relationships. Imagine a rival who has moved on to more worthy competition, or a romantic partner who has fallen out of love. Go around the table deciding which of your relationships to mark as exhausted, and tell the other players when and why the relationship changed. An exhausted relationship isn’t the same as an antagonistic one. In Questlandia, even adversarial relationships can be animating and give mechanical bonuses. Exhausted relationships do neither.”
+Ali: I do have a question about this, because there’s like a mid-seed round, like, point spend where you can start a new relationship. And in my head, I thought a good thing of this system would be like, to start with an exhausted relationship and then through the course of play, like, make a new relationship with Thisbe, for instance.
+Austin: I believe that that does—I believe that that’s—it’s not from that exact mechanic, but I believe that there’s a story outcome—there’s a—there is an outcome that can replace an exhausted one including with the same character.
+Ali: Okay, cool.
+Austin: So there is a mechanic for that. I don’t know if it’s a mechanic you’re referencing, but there is a—it is the “form a new relationship” positive outcome from a scene.
+Ali: Okay, cool, yeah.
+Austin: And that can replace an exhausted one, including with the same character.
+Art: Clem doesn’t know any of these people.
+Keith: I feel like this is one of the weaknesses of going into this with a pre-existing campaign where people are like, well, we have to represent this in play.
+Janine: Yeah.
+Sylvi: Yeah.
+Austin: Compromise is the story of the day, and is unfortunately—also, we shouldn’t be playing with 7 people.
+Art: Well, we’re also like—I think the problem is that we also have two peop—we have 2/3 characters who just showed up.
+Austin: What’s the one that you think feels good for Eclectic?
+Keith: You know, uh… I do feel like I could be anywhere. I just don’t…
+[Jack laughs]
+Keith: I guess I’m like, it worked with Cori, it worked with—I guess maybe not Thisbe, Phrygian worked better with Thisbe. But it’s, you know, I’ve done stuff with Brnine. I’ve had, like, the only scene with Levi that Levi’s had besides the movie night.
+Austin: Mhm.
+Ali: Right. Can I suggest something, then?
+Keith: Yeah.
+Ali: Because I can either—we can either try to break the Thisbe–Brnine thing and tuck you in there, and then just like spend the relationship thing later if we want to pick that up, but there’s a way of tucking them in between Brnine and Levi and then, like, having it there and then maybe—Dre, this only works if this works for you, but like, if Levi’s dream has been to be—to work for this revolution that they’ve barely heard about, [Austin: RIght.] is there this, like, hero worship for who August is?
+Austin: For August.
+Ali: That can be, like, developed throughout the game.
+Austin: Yeah, yeah.
+Dre: Oh, potentially, yeah.
+Austin: That makes sense. That could work. And then we go August to Clem, Clem to Cori.
+Ali: Mhm.
+Keith: I think August to Clem makes sense.
+Austin: Yeah. I mean, they have—they were in the last—the last August scene was a Clem scene, the last Clem scene was an August scene.
+Keith: Yeah.
+Art: Yeah. Clem–Cori is a little tenuous, but fine.
+Sylvi: I think the Perennial link is enough.
+Austin: The Perennial connection is something. It’s a connection.
+Ali: Yeah.
+Art: Yeah, but it’s like they’ve heard of each other.
+Austin: Well, no. That’s not true. Cori was really good friends with the person you tortured, and now you’re on the same side of the war. Right?
+Art: Sure.
+Ali: [hums] Yeah.
+Austin: Like, that’s, I think, high stakes. And maybe Clem doesn’t give a fuck about Cori, but I know Cori has some feelings about the person who kept Figure on a leash.
+Sylvi: Yeah. We’re coming for you.
+Art: What’s the, like… eh, nevermind. I had a very strong…
+Austin: To you it’s Tuesday? Is that—to me, it was Tuesday? Are you—
+Art: No, it’s not this is Tuesday, it’s like the “Oh, I don’t think about you at all.”
+Austin: “I don’t think about you at all,” yeah, yeah. Uh-huh.
+Sylvi: Oh my god.
+Austin: Uh-huh.
+Janine: I don’t—
+Sylvi: Cori does have kind of a Ginsberg from Mad Men vibe sometimes.
+Janine: I don’t believe for a second that Clementine doesn’t have…
+Art: And this is gonna be the debut of Don Draper Clem, that’s what I’m telling you.
+Sylvi: What was that, Janine?
+Janine: I said, I don’t buy for a second that Clementine would be indifferent to Cori, because Cori has Perennial now.
+Ali: Mhm.
+Austin: Yeah, agreed.
+Janine: That was Clementine’s identity for how long?
+Austin: Five years.
+Janine: And that’s not a girl who lets go of identities easily.
+Austin: It was—the thing that’s complicated here is she was never really bought in. I think about the Tower game from PARTIZAN. She never really—it never really worked. Like, she was never… She—it was a power relationship, it wasn’t a—
+Janine: It was a means to an end, yeah.
+Austin: It was always a means to an end, and any time that she was like, now what’s Perennial want here? It was like, trying to decipher—it was like a dog trying to figure out what trick to do to get the treat.
+[Janine and Sylvi laugh]
+Keith: But it was, like, power, and it was hers.
+Austin: Yeah, that’s not nothing. Yes, a hundred percent, yeah. This looks like it works.
+Ali: Yeah.
+Keith: Yeah. I’m satisfied.
+Austin: Then we should write some relationships.
+Jack: Just kind of journeying over this Roll20 sheet to my character sheet.
+Austin: Uh-huh. These are…
+Jack: Setting off, taking a little break on Brnine’s.
+Austin: One sentences, I believe. Single sentence. I guess they don’t have to be, but they can be short, you know? And then one of them will be exhausted.
+Keith: Oh, this is hard that one of them has to be exhausted.
+Dre: Yeah.
+Keith: I don’t—I can’t—I basically can’t consider my relationship with Levi exhausted. It’s brand new.
+Austin: Then your relationship with Brnine might be exhausted.
+Keith: Yeah, yeah.
+Austin: And, again, exhausted doesn’t mean you’re mad, necessarily.
+Keith: No, no.
+Austin: It just means it doesn’t spark any sort of energy for you, you know?
+Keith: Sure.
+Austin: It’s not motivating for you.
+Keith: And these aren’t shared? These are—so like, I can have an exhausted relationship with someone and they don’t have to make their relationship side exhausted. It’s one-sided.
+Jack: Oh, yeah. It’s one-sided.
+Austin: Mhm.
+Sylvi: Because like, I was getting along well with Thisbe towards the end of Armour Astir, but I also really hate Clementine Kesh.
+Austin: Mhm.
+[Dre hums]
+Sylvi: So I’m torn.
+Keith: Right, that’s a hard one to play as exhausted.
+Sylvi: Yeah.
+Austin: Again, exhausted—
+Janine: I mean, exhausted can be stagnation, right?
+Austin: That’s right.
+Janine: Like, is it just that it’s plateaued?
+Austin: Yeah. Tired, rote, or uninspired.
+Janine: Like, there’s more of an understanding now, there’s—you know? Like… it just is what it is.
+Austin: Yeah, it could mean stable. But like, stable doesn’t mean inspiring, right? And it doesn’t—again, it doesn’t mean there was a big blowout, or blow-up, like, there was no fight or anything, it just kind of like “Yeah, okay, that’s my relationship with this person. That’s fine.”
+Sylvi: There’s like, an angle I’m thinking of for exhausting the Thisbe one that also ties into not having relationships with the other Blue Channel people in a way, where it’s like, after the Figure incident and everything, Cori’s distancing herself a bit from them.
+Austin: Interesting. Yeah.
+Sylvi: Just in case the worst happens to them and she’s, like, I don’t want to… yeah.
+Austin: That’s fun. I like that a lot.
+Dre: Think hard.
+Austin: Hm?
+Sylvi: I am.
+Austin: What’d you say?
+Dre: Thinking hard.
+Austin: Yeah, yeah.
+Sylvi: Oh, I thought you just said “think hard”, and I was like, I’m trying…
+Dre: [chuckles] I’m trying to remember, because I know Levi has been around Eclectic, and I’m trying to remember, like, I guess Eclectic gave Levi, like, his quote unquote interview or whatever.
+Keith: Yeah, you had to like, show that you were—you could join, and Brnine went inside and was like, “Can you take care of it?” And then you jumped really high.
+Dre: It’s true.
+Keith: Or did you shoot at the ground and—did you rocket jump? What did you do?
+Dre: Yeah, it was basically a rocket jump if instead of a rocket it was like a big piston.
+Keith: Yeah, like a spike.
+Jack: What’s, like, an aristocratic bird? It’s a peacock, right?
+Art: Most birds don’t have positions of authority, or any kind of society.
+Keith: Secretary bird.
+Jack: No, secretary bird’s a noble.
+Janine: I just saw one of these recently.
+Sylvi: Kingfisher? It’s got “king” in the name.
+Jack: I’m looking for it in an idiom less than a look.
+Art: Ravens are in parliament.
+Janine: Guinea fowl. That sounds…
+Keith: What is the—
+Sylvi: A royal tern.
+Keith: Turkey.
+Jack: I think I’m fine.
+Art: The people who wrote the constitution were so into turkeys.
+Keith: They were. The noble turkey. Beautiful…
+Janine: Why does that bird exist? Like…
+Keith: [mimics turkey gobbling]
+[Sylvi laughs]
+Janine: Like, you can—there’s a lot of birds…
+Jack: Any sound.
+Keith: That’s what they do. They walk around the woods, all those turkeys.
+Austin: Why does the turkey exist?
+Janine: There’s a lot of birds that you can look at and be like, this makes sense to me. But I just—I don’t understand what the turkey’s for.
+Sylvi: I don’t know if there’s a lot of birds where I look at them and think that.
+Janine: Hawks. They make sense.
+Austin: Why do they make sense alongside with a thousand other things that are just hawk variants?
+Sylvi: I just struggle with the wing stuff.
+Austin: And that’s all a turkey is, right? A turkey is just a variation on other sorts of ground bird.
+Janine: I guess I don’t understand why, like, a chicken exists, either.
+Keith: Well, there’s tons of bugs all over the ground. They eat all the bugs.
+[Dre and Ali laugh]
+Art: Yeah, but you’re only seeing the domesticated/farm chicken/turkey, you’re not seeing…
+Janine: Yeah, yeah.
+Austin: Yes, yeah. Like, a turkey historically probably looked more like a pheasant, right?
+Janine: Yeah, that’s what I was thinking.
+Austin: And likewise with chickens.
+Janine: I just feel like a ground bird is sort of like… you don’t need that. That’s what rodents are for.
+Keith: The size—
+Sylvi: What are we doing here?
+Keith: This is—no, I can’t.
+Jack: Nay, I shan’t.
+Keith: Yeah. The size of a turkey, a wild turkey, is pretty astonishing. They get pretty big. Although, a lot of them are lean, you see one every once in a while, and you’re like, “Oh my god. They’re enormous.”
+Sylvi: There is—isn’t there that video of you dealing with a bunch of wild turkeys Keith, like?
+Jack: Yeah, I think about that video all the time.
+Sylvi: Like, I do think about that. Yeah.
+Keith: Yeah, I drove onto the lawn and chased some turkeys with my car.
+Jack: You do donuts.
+Keith: Because they’re huge. I do—yeah, I do a big circle on the lawn.
+Art: I would like to read two paragraphs from the wikipedia entry for “turkey”.
+Austin: Carry on.
+Jack: And now the little custom music sting that we wrote for this comes in. Friends at the Table: Turkey Hour.
+Art: Yeah. “Turkeys have been known to be aggressive toward humans and pets in residential areas. Wild turkeys have a social structure and pecking order and habituated turkeys may respond to humans and animals as they do other turkeys. Habituated turkeys may attempt to dominate or attack people that the birds view as subordinates.
+“In 2017, the town of Brookline, Massachusetts, recommended a controversial approach when confronted with wild turkeys.”
+Keith: Peckin’ ’em.
+[Sylvi laughs]
+Art: “Besides taking a step forward to intimidate the birds, officials also suggested ‘making noise (clanging pots or other objects); popping open an umbrella; shouting and waving your arms; squirting them with a hose; allowing your leashed dog to bark at them; and forcefully fending them off with a broom’. This advice was quickly rescinded and replaced with a caution that, quote, ‘being aggressive toward wild turkeys is not recommended by state wildlife officials.’”
+Jack: Because you’re just teaching them to be aggressive with you?
+Art: I think there’s a lot you could take from the implication of this story, but…
+Austin: True, true.
+Art: It’s not in the text.
+Jack: Okay. I think I’m—
+Keith: Brookline’s a weird place, by the way.
+Jack: It’s pronounced “Brooklyn”.
+Keith: It’s pronounced “Brookline”. It’s a different place. It’s a rich suburb in Boston.
+Janine: I think it’s Brooklinen. They have nice sheets.
+Sylvi: Yeah. They sponsor podcasts?
+Janine: Yeah.
+Keith: Brookline, Massachusetts sponsors podcasts?
+Sylvi: No, Brooklinen, Massachusetts.
+Keith: Brooklinen?
+Sylvi: Don’t worry about it, man. It’s all good.
+[Ali, Jack, and Dre chuckle]
+Janine: Keith doesn’t know about sheets.
+Keith: Yeah, I just sleep on straw.
+[Sylvi laughs]
+Dre: Nice. A little burlap sack.
+Keith: Yeah, I wish.
+Austin: Damn.
+Keith: Raw straw. Loose straw. I collect it, I pile it up, I sort of fluff it up into the center, and then I collapse on it and let it poke me in the back and wake up with scratches all over.
+Janine: That’s the way to do it.
+Sylvi: Most of your day is spent assembling your nest, yeah.
+Keith: Janine’s like “I don’t understand chickens and turkeys,” and I’m like, ooh…
+Dre: Living that lifestyle.
+Keith: [laughs] I extremely understand chickens and turkeys.
+[Dre laughs]
+Austin: You can’t understand how they deal without…
+Keith: I eat bugs, I flip over—I use my feet to kick a stick and I eat a little bug under it.
+[Sylvi laughs]
+Dre: Oh, yeah, bro?
+Janine: Do you want to see a really sick nest?
+Keith: Sure.
+Austin: What are we doing?
+Sylvi: Yeah, man.
+Janine: Just trust—it’s fine. Just trust me.
+Dre: Are we waiting on something still?
+Austin: Keith doesn’t have both things.
+Keith: I’m done, I’m done. We can go.
+Austin: Okay.
+Janine: Okay. I put it in dog pound.
+Dre: I mean, I want to see the nest, too.
+Austin: That’s a sick nest.
+Janine: Yeah.
+Sylvi: Yo. They made a little archway. That’s architecture.
+Austin: They specifically gathered a bunch of blue straws and Snapple caps?
+Dre: Oh, wow.
+Janine: Yeah, it’s a bowerbird nest. They make, like, a weird little grass tunnel and they surround their nest with, like, sometimes it’s things of a certain color, they do really like blue, there’s a lot of examples of them using blue. Some versions like shiny stuff.
+Jack: Who’s that little piece of shit animated chef who speaks really condescendingly?
+Janine: Tiny chef?
+Dre: A lot of them?
+Keith: Tiny chef?
+Janine: Wait, no, animated chef? Not puppet chef?
+Jack: Puppet chef, yeah. I think that this set is for the movie where they kill him Wicker Man style at the end.
+[Keith laughs]
+Ali: Is he blue?
+Jack: Oh, no, the blue is just for the sort of decoration. I think he’s green. But we’ll put him in the middle and set him on fire.
+Austin: That’s very good. Alright.
+Keith: “Help me!”
+[Jack laughs]
+Austin: Let’s go around—
+Dre: Oh, you’re talking about the Swedish chef from Muppets, Jack. Okay.
+Jack: No, he’s fine.
+Austin: Janine, can I have Thisbe’s relationships?
+Janine: Yeah, yeah, yeah. Relationship number one, Cori. “Cori has been poisoned by conflict, but she is not beyond saving.” Relationship two, Brnine. “Brnine has been my anchor.” Past tense, exhausted relationship.
+Austin: Yeah, okay. Brnine.
+Ali: Thisbe, old friends. And then Eclectic, new crew member.
+Austin: Simple. Right to the point on that one.
+Ali: Yeah, you know what’s going on there.
+Austin: Eclectic.
+Keith: Levi, “The new recruit is enthusiastic, but for what?”
+Austin: Damn.
+Keith: Brnine, “I came to Palisade with a short list of who to trust, and Brnine was on it.”
+Jack: Should we be saying what’s exhausted here?
+Austin: We have been, I think.
+Keith: Oh, yeah, sorry. Mine with Levi is exhausted.
+Austin: Yeah, and—
+Ali: And mine with Thisbe is exhausted.
+Austin: Yeah, old friends. Yeah, I guess that’s—yeah, that makes sense. Levi.
+Dre: Sure. My relationship with Eclectic is “Eclectic seems cool enough, but he’s kinda boring.”
+Austin: Damn.
+[Sylvi and Jack laugh]
+Keith: Insane take but okay.
+Dre: And that one’s exhausted.
+Ali: Yeah.
+Sylvi: He teaches smoking lessons. Like, what?
+Ali: He’s a teapot.
+Jack: [chuckling] No, he’s not a teapot.
+Ali: [laughing] No, I know.
+Austin: You’re gonna get banned on Xbox Live. Be careful.
+Dre: Oh, a teapot. Yeah.
+Ali: Huh?
+Dre: No, he made me go through a job interview. Gross.
+Ali: That was me, no… [laughs]
+Keith: Yeah.
+Sylvi: Nepo baby ass.
+Dre: And my relationship with August is: “This is what a hero looks like.”
+Austin: Very funny. August.
+Jack: My relationship with Levitation is: “A skilled soldier with a bridge to the Mirage, but he’s late to a long war, and I am not easily impressed.” That’s exhausted.
+Sylvi: God damn.
+Austin: Uh-huh.
+[Dre laughs]
+Jack: And then I have a relationship with Clementine. “A violent, unpredictable dog. So it’s paying off tonight, but what about tomorrow morning?”
+[Sylvi laughs]
+Austin: A long history of Righteousness calling people dogs. I love it.
+Dre: [laughing] It’s fucked up that you exhausted me over Clementine Kesh.
+Austin: You gotta be careful with a dog. You know? A dog might bite you.
+Sylvi: Yeah.
+Keith: Get too exhausted, you fall asleep, dog will bite.
+Jack: Also, look, you’re a skilled Giantkiller. You got a lot to prove. How many young Giantkillers are in my ranks who I’ve known for years?
+Dre: Yeah, that’s fair. That’s fair.
+Keith: You’re a skilled giant, killer.
+[Sylvi laughs]
+Austin: As a reminder, Kalar is in your ranks. Worth noting, August. You have the Giantkiller.
+Jack: I know his kids’ birthdays.
+Austin: Yeah, uh-huh. Alright, Clem.
+Art: Alright. My relationship with August: “I won’t be betrayed this time.”
+[Jack laughs]
+Sylvi: Confident.
+Art: And my relationship with Cori, which is exhausted: “Nobody touches my stuff.”
+Austin: Oh my god.
+[Jack and Sylvi laugh]
+Austin: Lord.
+Sylvi: It’s so good.
+Austin: Lord. And we’re around to Cori.
+Sylvi: My relationship with the Witch in Glass is simply “hate, hate, hate.” I wrote it, and I was like, no that works.
+Austin: Yeah, that’s right. Yeah.
+Dre: Yeah.
+Sylvi: And my relationship with Thisbe is “always looks out for me,” and it’s exhausted to show the distance that’s emerged.
+Austin: Yeah. Sometimes when it’s a sure thing, you know?
+Sylvi: It’s hard, you know? It’s easier to not disappoint someone or hurt them when you’re not around as much.
+Jack: Wow, Griesel Sunset. I didn’t realize you were here.
+Sylvi: She’s her father’s daughter, you know?
+Keith: Hold on, let me… Yeah, that checks out.
+[Ali and Jack chuckle]
+Ali: It feels like the three of us are in the position of like, when you’re in a friends group, and then it’s a new year at school, and you don’t have the same classes together anymore…
+Sylvi: And two of them died.
+Dre: Traumatically and horribly.
+Ali: [laughs] Uh-huh. Yeah.
+Sylvi: Yeah, two of them died.
+Goals and Obstacles
+[1:49:08]
+Austin: “It’s time to come up with your character’s goal. Your goal is something big and difficult you need to accomplish. This is your life’s work, your magnum opus, your loftiest dream. Examples: I will end the war between the mushroom fairies and the slug kingdom. I will steal the sacred immortal goose and eat it, gaining its power.”
+Keith: That’s—I’m actually using that one.
+Ali: [cross] That’s mine. [laughs]
+Art: That goose is gonna come back to life in your stomach, don’t do it.
+Austin: “I will trap my naive father within one of my world-forming books.”
+Sylvi: Cori should have tried that.
+Austin: “I will grow new digestive organs that can metabolize my planet’s toxic plastics.”
+Sylvi: Dibs.
+Art: No, you should metabolize—get new digestive organs to metabolize the immortal goose.
+Jack: To—the goose. [laughs] 
+Austin: “I will bake a biscuit so delectable it turns my most bitter critic sweet. I will ferment a rebellion to dismantle the cyber-tocracy. Connect your goal to a relationship, kingdom trouble, or one of the kingdom’s features and norms. This will ensure that it’s relevant to the setting you’ve all created. And it’s okay for your characters to have contradicting goals. If two characters are vying for the throne, that’s great story fodder. However, if your goal involves some sort of direct action on another player, such as marriage, besting in a duel, or both, that player must give their okay.”
+[Jack chuckles]
+Ali: Mine is marriage. That’s what I’m playing this game for.
+Jack: Who are you marrying?
+Ali: [chuckles] Play to find out what happens.
+Austin: So it’s just generic “get married”?
+Art: Your goal is to marry anyone? Your life’s work is just to marry anyone.
+[Ali and Keith laughs]
+Janine: I actually kind of love that.
+Jack: Yeah, Brnine downloaded the Battle Pass and looked at what they were gonna do and it just says “get married, zero of one”. And they’re like, oh, shit, okay.
+[Ali and Keith laugh]
+Austin: God. The idea the Brnine’s—
+Janine: Sims style.
+Austin: Brnine’s scouter has been giving them, like—
+Keith: Blood types.
+[Ali laughs]
+Austin: —Battle Pass dailies for the last—for the whole war and Integrity—not Integrity, sorry—Asepsis has just been giving you dailies is wild.
+Ali: Oh, that’s so funny.
+Jack: Climb 38 feet.
+Austin: Right. But also, kill the emperor.
+[Jack and Ali laugh]
+Jack: Asepsis is just like, I’m gonna try a fun one. This one’s just for me.
+Austin: Kill one Princept, you know?
+Ali: Yeah, that’s my reveal. The entire season Brnine has just been being controlled by Asepsis.
+Austin: Sorry, this is just actually Mustard Red.
+Ali: Yeah. [laughing] I was about to say that too.
+Keith: Yeah.
+Austin: It is—literally, it is Mustard Red.
+Ali: Saved all these ideas.
+Austin: God, Mustard Red is on the same Battle Pass, but there ain’t a new one coming.
+Ali: Aw. She’s playing Halo.
+Keith: Oh, no.
+Jack: She’s gonna max it out. God, although…
+Art: Where are all these dice getting rolled?
+Jack: If she ever—if Mustard Bread—Mustard Bread.
+[group laughter]
+Sylvi: Mustard Bread.
+Art: Oh my god. We have to shut it down. Good night everybody.
+Keith: We have to pitch that to all the local bakeries.
+Jack: I was gonna say, if Mustard Red ever breaks containment, think about what a delight it could be. Oh, the Battle Pass comes back online.
+Austin: Yeah.
+Jack: And it’s a really weird one. Zeus is in it now, for some reason.
+Ali: I love her.
+Austin: What was your actual question, Ali?
+Jack: About getting married.
+Ali: I didn’t have one. I’m really lost on goals, which is annoying of me.
+Keith: I thought it was get married. Was that not real?
+Art: Yeah, get married to anyone.
+Ali: Brnine’s goal is to settle down.
+Keith: “Die/get married, parentheses, anyone.”
+Jack: Life’s work is really interesting.
+Sylvi: Life’s work is huge.
+Keith: Life’s work makes it tough.
+Jack: Especially for career revolutionaries.
+Keith: Especially for wanderlust.
+Art: Especially for just a weirdo.
+Jack: Oh, I mean…
+Art: Just a heckin’ weirdo at this point.
+Jack: God, I’m gonna message you something, Art.
+Austin: I’m gonna say that we do this next step as we reveal them, instead of going all the way around and then all the way around the next time. “Next, you’ll receive obstacles to complete your goal. Go around the table and share your character’s goal. The other players will come up with two obstacles standing in the way. For help coming up with an obstacle, review your kingdom’s troubles, features, and norms. Also consider the character’s relationships, traits, and favored weakness.” Their examples are things like “Your character’s trying to covertly unionize the asteroid miners, so their notorious trait will certainly get in the way.” Or “The angry sun no longer sets. You’ll struggle to raise the baby moonlings in the searing daylight.” Or “Your seven siblings also seek the crown, and they each have a uniquely dangerous animal-themed magical ability.”
+Janine: Well, as long as my siblings aren’t moonlings, I think it’ll be okay.
+Austin: You should be alright, yeah.
+Keith: [muttering] Fuck.
+Austin: Janine.
+[group laughter]
+Janine: My goal is to mend the scattered shards of divinity.
+Austin: Whew.
+Jack: Wow!
+Ali: Love it.
+Austin: Big one. Big one.
+Sylvi: That’s fuckin’ good.
+Keith: Obstacle, sound hard.
+Austin: Sound hard. Sounds hard.
+Sylvi: Sound hard. Me too.
+Austin: Me tired.
+Jack: Okay, mend the scattered shards of divinity. Alright. Here’s a pitch. I need, like, a word altered here that I’d like some help with, but my first pitch is the Principality employs dangerous and antagonistic Divines. But I want the word “employed” to reflect that like, Divines are working for evil willingly. You know?
+Janine: Deploys?
+Austin: Yeah, employed is the wrong word.
+Jack: Yeah, that’s the word I want changed. Employ.
+Keith: This is very—this is a more nuanced version of what I was thinking of, which was the Divines don’t want this.
+Austin: Divines don’t want this. Some of the Divines don’t want this.
+Jack: I mean, Order—well, not here, but Law is out there. You know?
+Austin: Mhm. Future is here.
+Jack: Yeah. Asepsis is here.
+Austin: And Future is a little sad, right? Future I could imagine, actually, you can have the big conversation with Future. Arbitrage exists is the—you know what I mean? There are—really evil Divines exist makes this tough, right?
+Janine: Evil people exist.
+Austin: A hundred percent. Yes.
+Janine: We still out here every day.
+Austin: Mhm. So I think that this is like, how did you frame it? What was your exact sentence, Jack?
+Jack: I said something like—and the word I wanted help with was employ—was something like, the Principality employs antagonistic and dangerous Divines.
+Keith: Contains?
+Austin: Yeah.
+Art: Features?
+Jack: [chuckles] Features.
+Art: But like, features like a song features, like…
+Austin: Like featuring, yeah.
+Art: [chuckling] Featuring antagonistic Divines.
+Austin: Uh-huh.
+Jack: Contains is maybe not bad.
+Janine: I don’t know that we even—do we even need the Principality part?
+Austin: No, it’s just like, some Divines…
+Jack: Are evil. Are antagonistic and…
+Austin: Don’t—like, are antagonistic and dangerous.
+Jack: And yeah, I want that specificity of like, they do not care for liberation in the way that the Cause does, you know? 
+Austin: Right.
+Jack: There’s like, I’m being serious when I say evil. There are evil Divines out there.
+Austin: Yeah. So, “are antagonistic, evil, and dangerous.”
+Jack: And yes, you are right when you say there are evil people out there, Janine, but like—and I mean, this is what Friends at the Table has been about—what are the similarities and differences between people and Divines? Because there are some of them.
+Ali: I think to Jack’s point there, what I was starting to think of, like, how do you include other versions of Divinity? Like, how invested is Thisbe in the Afflictions, for instance, or—
+Janine: Very. That’s the thing I said before, right? With the—that’s how I got to the saplings line, was that I wanted it to include Divines, Afflictions, Delegates, um… everything.
+Austin: Scattered shards, yeah.
+Janine: Yeah, exactly. That’s, again, that’s also the root of shards, is like…
+Austin: Yeah, I think that makes sense.
+Janine: I think Thisbe is less concerned with whole ass Divines, even, than she is with Afflictions and Delegates and Divines that are sleeping and whatever, like…
+Austin: Cool.
+Ali: The Divine sleep.
+Austin: There’s another part of what you were just getting at, Ali, which would bring it back to features and norms, which is doubt, right? You are framing it as “is Thisbe interested in”, and Thisbe’s answer is yes. The second question is “is Thisbe confident? Can Thisbe overcome doubt to do this?” This is a big ask.
+Ali: Mhm. Or how invested are the Afflictions in being considered—I mean, I guess that’s part of her obstacle, yeah.
+Austin: I would like to roll that into—and maybe I’ll put this as “some Divines and their shards are antagonistic, evil, or dangerous,” and antagonistic there reading as not interested in this goal. Right?
+Ali: Mhm. Yeah, yeah.
+Austin: But I think that’s the same. I think that’s pretty close to the same one, right?
+Keith: What does it mean to mend the Delegates?
+Austin: Play to find out.
+Jack: [chuckles] August Righteousness looking terrified at a briefcase. Oof.
+Austin: Right, right. I lean doubt, but I’m also interested in other interesting takes on this.
+Jack: Doubt is good.
+Austin: Gentle? Thisbe is gentle, but powerful. Maybe that cancels out.
+Jack: It’s hard, right? Because, like…
+Janine: Gentle and forceful cancel out. Gentle and powerful is different.
+[Dre hums]
+Ali: I…
+Keith: A little song.
+Jack: This could also, this could tie in with the doubt, and I’m wary of, like, in choosing an obstacle curtailing how Janine might want to play. But I think that’s, on some level, part of the way the obstacles work is like—
+Austin: That’s the game, yeah.
+Jack: Yeah, is like, talk through them. Why Thisbe, you know?
+Austin: Sure. Why should Thisbe be the one?
+Keith: There’s also, like, I don’t even know if this is worth—I guess it’s worth mentioning, it’s maybe not worth acting on, but the “some Divines and their shards are evil, antagonistic, and dangerous,” it sort of means two things, which is that, like, some Divines don’t want to be, you know, mended from a shard because they’re evil and dangerous and they’re antagonistic to the process of this, but also it means that there are, you know, some Divines are—you don’t want them in your soup. Get them out of your soup, you know?
+Austin: Yeah, I think that’s contained in that same… right.
+Keith: Okay.
+[1:59:52]
+Ali: Mhm. But I do think attached to what Jack was just saying, what I was starting to think of is a connection to in the Mirage, where like, not only does—is Thisbe lacking access to a lot of Principality Divines, but like, think of the—when Volition in last episode was like, “I sit in the center because I like to be here, but I wouldn’t want anyone else to take my place,” [Austin: Right.] like, not that Thisbe’s doing that, but you’re already re-entering, like, a social space that’s been established. I feel like there’s a conflict there that’s…
+Austin: Right, that like, the Twilight Mirage has its own sense of order here. Or of Divine—the people here—it’s tough, because it almost reduces down to the same thing of like, they don’t want it.
+Ali: But not that they don’t want it, but like, that Thisbe herself is an outsider. Her context of what… yeah.
+Austin: [cross] Right, why—yeah. I think “Thisbe is an outsider” is a really good way of thinking about it. I think that that’s really good. Do you want me to write this as an I statement or a you statement, Janine?
+Keith: I like it because it’s also like…
+Austin: What are their examples? I guess I’m just gonna write “Thisbe is an outsider. Why should she be the one to do this?” That’s two. Let’s move across. Levi. What’s your goal?
+Dre: My goal is to be a force for good acknowledged across the galaxies.
+[Sylvi laughs]
+Janine: I have something…
+Austin: We only have the one right now.
+Dre: So far.
+Art: Obstacle one: this is the only galaxy.
+[Ali laughs]
+Austin: That we’ve shown. It would be—
+Art: We’re gonna go some wild places in this finale.
+Austin: We could, shit. Janine, what were you gonna—you got one for this?
+Janine: Yeah, it’s really hard to be acknowledged as a force for good if you are dead from doing some stupid daredevil shit.
+Dre: That’s fair.
+Austin: Uh-huh. Yeah, yeah.
+Art: Yeah, only alive people are…
+Dre: Listen. You gotta risk it for the biscuit, but you’re not wrong.
+Janine: And then run away if it goes bad.
+Ali: I have a conflict.
+Sylvi: Sure.
+Austin: Uh-huh.
+Ali: It’s “you’re literally just some guy.”
+[Keith and Ali laugh]
+Janine: Yeah.
+Austin: Okay, Levi is—
+Art: That’s fuckin’ rich coming from Brnine.
+Ali: I know, but I’m saying, you have to overcome the odds. Those are odds. Overcome them.
+Art: The “just some guy”-est person in the universe.
+Austin: That’s the same. You’re just some guy, the world is dangerous, that’s the same.
+Sylvi: I’m just really picturing the Breaking Bad “you think you’re guy, I had a guy but you’re not him” scene with Levi and Brnine.
+Jack: Oh, man.
+Ali: [laughs] Play to find out what happens.
+Austin: There you go. You’re just some guy. Why wouldn’t you just die? Ah, I don’t want that to rhyme. I have to undo that.
+Sylvi: Oh, bars.
+Janine: Perish. Why don’t you just perish?
+Ali: Well, I think there’s two different things here, which is that Janine is saying this process is very dangerous, which is one conflict. I think I’m saying, like, you know, it is really difficult to be notable in a place where, you know, there’s—you’ve—there’s already been 90% of a war happening. Like, you’re not gonna be the hero of this unless you really do some shit.
+Austin: Okay, that’s different. “You got here late” is different. Because Levi is a nepo baby and can wield a giant mecha-scale weapon by himself.
+Dre: Wow, wow, wow.
+Austin: Those are not “just some guy” things, but “you got here late” is real, I think, and is different than “it’s dangerous.” Right?
+Ali: Yeah, yeah, yeah.
+Austin: Like, death is a constant real threat versus, you know.
+Ali: People can do this better than you. Or like, have been here longer than you.
+Austin: People have been—yeah, other people are already the hero. Right?
+Ali: Mhm.
+Austin: [typing] Other people have been here. Or other—here.
+Janine: The hors d’oeuvres are gone.
+Jack: The hors d’oeuvres are gone. The open bar is like, you know, it was like an open bar until 8:30 and it’s now 9:15.
+Austin: The hors d’oeuvres are gone. People are always saying that.
+Jack: Well, it’s because August Righteousness was a chef. Is a chef.
+Austin: Right, right.
+Jack: Was a cook.
+Austin: The hors d’oeuvres are gone.
+Ali: And Levi sent back that truck with all the food.
+Jack: With all the food! A catering company. Wow. Taps head three times.
+Austin: Yeah, yeah. Brnine.
+Ali: Yeah. I’ve written three to be annoying—
+Austin: You gotta pick one.
+Ali: —but I’m now considering the first once Valence’s and the second is Phrygian’s, so I’m allowed to have all of them.
+Austin: Nope. You’re not.
+Sylvi: Oh my god.
+Keith: Wow.
+Ali: And I’ve written—[laughs] I’ve written “make life better, bloody their noses”—I can still read it—and then “connect to the wider network of Millennium Break.” And I will be taking six obstacles, please.
+[Sylvi laughs]
+Austin: No, you will not.
+[Ali laughs]
+Austin: There we go. Connect to the wider network…
+Sylvi: Brnine is addicted to the trenches. Like…
+[Austin and Ali laugh]
+Ali: Come on.
+Jack: Okay, I’m gonna say one obstacle right off the bat. The Twilight Mirage is one of the most impenetrable known forces in the galaxy.
+Austin: Uh-huh. [typing] “Is impenetrable.” Boom.
+Janine: I also have a suggestion. It’s 60% serious.
+Austin: Uh-huh.
+Janine: You just got divorced.
+[Jack and Sylvi laugh]
+Ali: Come on.
+Austin: [typing] “You just…”
+Ali: And my ex got mad at me for this exact thing. I’m more emboldened than ever.
+Sylvi: Oh my god.
+Ali: That’s why she divorced me.
+Austin: But you haven’t mastered this yet.
+Sylvi: This is your equivalent of buying the racecar bed.
+[Ali laughs]
+Austin: My god. I mean, is there anything that is like—
+Janine: “Can I connect to the wider network of Millennium Break” is gonna be harder if Gucci is not your go-between in the same way.
+Jack: Yeah, it’s like the structure of Millennium Break connected to Brnine has become increasingly tenuous in the last few weeks.
+Janine: The sort of back-handed side of “you’re the captain now” is like, alright, you make that call. I’m not doing it.
+Jack: God, I forgot about that.
+Keith: I think there’s a world where not having Gucci around makes everything easier, and that’s always been the problem with Gucci.
+[Ali laughs]
+Jack: Two sides, two sides.
+Sylvi: I don’t think you’re wrong, necessarily.
+Jack: God, Keith has been banging the “Gucci is bad” drum—if there are no haters for Gucci left, Keith is the remaining hater.
+[Ali and Keith laugh]
+Sylvi: It’s hard to argue with him on it, too.
+Jack: I know, I know.
+Keith: Yeah, I agree.
+Jack: I don’t know, I feel like Gucci and Clem and Brnine are like awful suns orbiting each other.
+Austin: How about this? I don’t know if it’ll fit, but…
+Keith: Oh my god.
+Ali: Austin went in.
+Jack: Oh my god.
+Austin: “Emotionally stunted, refuses to deal with grief, won’t say the name of the person most important to them, betrayed by their situationship, captain of a ship that was meant to be a promise; a promise that may never be fulfilled.”
+[Ali laughs]
+Jack: Yeah, put it in.
+Sylvi: This is what Gucci texted them.
+Art: Is there no kind of, like, a pithier way of this?
+Ali: Okay, wait, if you’re gonna put a one point font on my obstacles, I’m getting my two goals back, I’m sorry.
+Austin: No.
+[Keith, Jack, and Sylvi laugh]
+Austin: Uh-uh. Pick one of these.
+Jack: Austin just made “emotionally stunted” huge.
+Keith: You’ve stamped it with a rubber stamp.
+Austin: Yeah, I want to—actually, that’s what I should do, is I should do it this way like a big government stamp.
+[Janine, Keith, and Art laugh]
+Sylvi: Holy fuck.
+Austin: I’ll put it over here.
+Keith: It’s so important that the visual of the original thing extended out of the obstacles box and across two different character sheets.
+Austin: Yeah. Uh-huh.
+Jack: This is Gucci stamping the document.
+Austin: Oh, for sure.
+[Ali and Keith laugh]
+Keith: Certified emotionally stunted.
+Sylvi: “Not over me.”
+Austin: I do think something about your ongoing refusal to deal with your grief or your emotions needs to be an obstacle.
+Ali: [laughs] Alright.
+Jack: Especially, right, Austin? Because it expresses itself not just in the sort of, like, things have been weird here, and a desperate desire to die, [Austin: Yeah.] but also, in Brnine’s constant bright “let’s have no civilian casualties on this mission, lads!”
+[Ali laughs]
+Austin: Right. Exactly, exactly.
+Jack: And if what they’re looking for is connecting to the wider network of Millennium Break, if the main way they’ve been connecting with them is like, “alright, no running in the hall,” or, you know, “don’t kill anybody we meet this time!”
+Austin: What is the pithy way of saying something about this?
+Jack: It’s emotionally stunted, right? It’s…
+Austin: I feel like that’s a very particular—I don’t know that it’s stunting… [chuckles] I mean, I don’t think Brnine is stunting on anybody.
+[Jack laughs]
+Ali: Yeah, I…
+Sylvi: No.
+Austin: I don’t think—I think that it is about grief and processing. I don’t think it’s about—Brnine was a full person. There was no stunting, you know? Stunting feels like it’s, like, you didn’t grow up or whatever.
+Janine: Guarded? Like, do we want to do something like guarded or like walled off…
+Austin: Walled off.
+Keith: In denial.
+Austin: In denial. I don’t know if it’s denial. I think it is walled off. Walled off is pretty good.
+Keith: Well, walled off from what?
+Janine: What if it’s the Twilight Mirage is impenetrable, and then Kalvin Brnine is impenetrable?
+[Ali and Jack laugh]
+Ali: I’m saving everything I want to say for the post-mortem.
+Austin: Mhm.
+Janine: Ooh.
+[Keith laughs]
+Jack: This is great, because what we’ve constructed here without realizing it is a roast.
+Sylvi: Wow!
+Art: I didn’t know we were allowed to be rude in that way.
+Sylvi: We’re finally having the, like, Real Housewives reunion set-up for the post-mortem.
+[Ali laughs]
+Austin: August, what is your goal?
+Jack: Bring the Principality on Palisade to justice.
+Austin: They’re slippery. Is that something?
+Jack: They’re slippery motherfuckers. Yeah, I’m not allowed to pitch my own roast.
+Austin: What are the difficulties in doing this at this point? I mean, maybe it’s not that they’re slippery, it could be they’re powerful still. Like, Crusade is a powerful Divine.
+Ali: Mm. I feel like August’s leadership is already a little bit compromised too.
+Austin: Ooh, that’s interesting.
+Sylvi: Yeah, especially after the Clementine stuff, right?
+Ali: Yeah.
+Austin: Yeah, yeah. [typing] “Compromised leadership.”
+Janine: It’s also very easy, you know, the phrase of like, “escaping into the chaos” exists for a reason. It’s easy to—when shit’s wild, it’s real easy to just melt back into the crowd and disappear.
+Austin: Right, yeah. That’s what I—you know, I was only half-joking when I said they’re slippery, right?
+Janine: Yeah.
+Austin: Like, it might be easy to scare them off or to run them away, but bringing them to justice is actually really hard.
+Art: And justice is fleeting.
+Austin: Mhm. Alright, who’s up? Clem. Your goal.
+Art: What Jack sent me in a DM was a screengrab of I believe a search of the transcripts that just had all the times this was said during PARTIZAN.
+[Ali snickers] [Austin hums]
+Art: And therefore, because Clem is incapable of change, the goal is “I want to rule Stel Kesh”.
+Austin: Is it just Stel Kesh? It’s not bigger? I mean, that’s possible.
+Jack: I think it could be bigger. Something that I was thinking about, and that I said to Art when I looked this up, is that at the time, that felt like such a hilariously gigantic goal.
+Austin: Yeah, yeah.
+Jack: When I said in session one, oh, my goal is rule Stel Kesh.
+Austin: Mhm. And now it feels small because you just delivered the scion of Stel Kesh to…
+Jack: Yeah.
+Austin: To August Righteousness and Gucci.
+Art: I mean, but that wasn’t that close.
+Austin: No, but it’s, you know.
+Art: No one then was even thinking about you know who we should put in charge over there?/
+[Jack laughs]
+Austin: Yeah, I’m fine with it. I’m good with it. I think it’s gonna be—I think obstacle number one…
+Jack: Kesh is out there.
+Austin: Stel Kesh is out there. Yeah, exactly.
+Art: Sounds like something a loser would say.
+Austin: Uh-huh.
+Jack: And then the second one is I want our own special version of what you wrote for Brnine, Austin, where it’s like, fundamentally incompetent, widely disliked.
+Austin: Yeah, yeah, yeah.
+Jack: She has no…
+Art: Oh, like that’s never described a monarch before?
+Jack: [chuckles] A ruler or a princept, or yeah, like a…
+Ali: [laughs] Oh, thinks all of the people who hate her are her friends.
+Austin: Uh-huh.
+Jack: That’s a big one. She doesn’t have applicable skills. [chuckles] You know? Clem is not good at statecraft. Um…
+Janine: It sounds like we’re kind of… what we want here is an expression of isolation, right? Like, she is…
+Sylvi: Well—
+Janine: She has a hard time relating to people in any way at all. She is sort of insulated from anything that would require her to develop those skills.
+Art: “Insulated from things that would require her to develop skills” is a pretty good one.
+[Ali, Jack, and Janine laugh]
+Sylvi: Yeah. Are we ignoring the obvious thing of, like, you’re not a Kesh anymore, technically? Like, is that…
+Austin: Yeah, that’s…
+Ali: I think we could make that part of the first one.
+Sylvi: Or is that part of—yeah.
+Art: I don’t think legalism is gonna be part of this, if that matters to you.
+Sylvi: Well, I don’t know.
+Austin: Yeah, maybe not. Fundamentally incompetent, widely disliked, you have no allies, only employees and enslaved creatures, thinks anyone who is her friend is a friend in denial…
+Sylvi: Get her ass.
+Austin: …no applicable skills including but not limited to statecraft, you’re a living monster and I don’t even mean the Iconoclast thing.
+Jack: Yeah.
+Keith: You’re a mean one…
+Sylvi: This is the, da-da-da, My Chemical Romance, I’m Not Okay. This is the music video.
+[Austin, Jack, and Ali laugh]
+Austin: No, I think that—I think that those two—“Stel Kesh is out there” is sort of… feels like maybe we can extend it to, like, “Stel Kesh is out there and you aren’t part of it, anyway” is one. And then no skills…
+Art: Tell that to anyone who’s ever conquered anything.
+Ali: What was broken, was that expelled? Is expelled the words that I’m looking for?
+Austin: No, yes, totally.
+Art: Everyone always starts out there, they gotta go there.
+Jack: She was expelled. She was—yeah.
+Ali: Yeah.
+Jack: She was sort of excommunicated, but for Kesh.
+Ali: Excommunicated.
+Austin: Yeah.
+Jack: But that’s for Catholicism.
+Austin: Exiled.
+Jack: Exiled. Well, they thought she was dead, and then she was exiled.
+Austin: No, no, no, you were stripped of your name.
+Jack: Oh, yeah, yeah, yeah, that’s true. Sorry.
+Austin: That’s exile. That was exile, right?
+Jack: Uh, yes.
+Austin: That was more than exile.
+Art: That’s not gonna stop anyone.
+Austin: No, well, it’s an obstacle. You have to overcome it. So fuckin’ overcome it.
+Art: Yeah.
+[Ali and Sylvi laugh]
+Jack: I’m curious—this is something that—
+Art: I’m trying. We’re not doing it today.
+Austin: But you’re disputing that it’s an obstacle.
+Art: Well, I’m saying historically it hasn’t been an insurmountable obstacle.
+Austin: It has. All the people who didn’t surmount it, we don’t know their names, because they didn’t surmount it. That’s most of them.
+Janine: There have been rulers in exile, right?
+Austin: We’ll see.
+Jack: You can absolutely rule in exile, in theory.
+Austin: Yeah.
+[2:15:00]
+Jack: How much power you can exert is funny. That’s some real antipope in Portugal…
+Austin: God, the ruler of Kesh in exile in the Mirage is so funny.
+Jack: But you also can’t contact Kesh.
+Austin: It’s out there.
+Keith: Right, so they can never tell you no.
+Austin: Right. The other one was something about being skill-less, right? Or like, not being able to develop…
+Jack: Yeah, she’s fundamentally not good at stuff.
+Austin: Right.
+Ali: Yeah.
+Jack: Here is what Clem is good at, actually. Clem is tenacious.
+Art: That’s true.
+Jack: Clem can—Clem is kind of viciously manipulative.
+Ali: I do think, like, because we can save that for later because that’s not an obstacle, I think what Janine said of like, you don’t have the skills and you’re cut off from the ability to make them is an obstacle.
+Jack: Yeah.
+Austin: Yeah. That’s it. Exactly. Has no skills and no…
+Art: Wait, I thought it wasn’t didn’t have the skills, it was incapable of learning the skills. I think that’s what Janine said.
+Austin: Yeah, yeah, yeah.
+Jack: There are so many reasons that a person becomes the kind of person that they are, and I don’t want to and I’m not even being coyly reductive, but it is worth remembering that this woman’s mother was Crysanth Kesh.
+Austin: Yeah, absolutely.
+Jack: I think that informs a lot of this.
+Austin: Absolutely.
+Jack: And that’s real sad, with this long view.
+Austin: Yes.
+Ali: Right, yeah.
+Jack: It’s great. We can answer this in a “play to find out what happens” if we don’t know the answer, I’m just curious if we have already spoken it already. Does the ruler of—if the ruler of Kesh is the Princept, as it stands now, are they still the ruler of Kesh? Is the head of House Kesh currently Cynosure?
+Austin: Yeah. Yeah, yeah, yeah.
+Jack: I think so. I think that’s how it works.
+Austin: That is super firmly established.
+Jack: Yeah. Okay.
+Austin: That is like a hundred percent—I mean, that is like, it goes back to—
+Jack: You can be on top of one of the houses and then you’re the Princept.
+Austin: And it almost always is Kesh. That’s gone on for a long time.
+Jack: Yeah, because we’re the oldest house.
+Austin: That’s what you say, anyway. But that was like, key to the farmer’s rebellion, right?
+Jack: Oh, sure. Yeah.
+Austin: Where are we?
+Ali: Eclectic.
+Austin: Eclectic. Goal. You say it, it’s yours.
+Keith: Win the war on Palisade by solving its unknowns.
+Art: Is there a less legible font that they have in there?
+[Austin and Jack laugh]
+Keith: I just feel like Eclectic has bad handwriting.
+Austin: Do you see what the name of this font is? It’s a very Eclectic name.
+Keith: “Shadows and Delight.”
+Austin: Shadows and delight.
+Dre: Ooh. Just like mysteries and secrets.
+Art: They should have called it “spaces between letters” and then puts them in there.
+[Keith laughs]
+Jack: So, I have a question about what you mean by solving its unknowns.
+Keith: Mhm.
+Janine: What’s the unknowns?
+Jack: What do you mean by solving its unknowns?
+Keith: Mysteries.
+Austin: We gotta get specific.
+[Sylvi laughs]
+Jack: Yeah. And what do you mean by win the war? [chuckles]
+Keith: Yeah.
+Austin: Well. Yeah, I mean, I guess, actually, the “win the war” is almost—I guess we don’t know if it’s done, but it’s like… in a way, it’s—
+Jack: It’s a hell of a lot more done than it was.
+Austin Yeah.
+Jack: I mean, we have the numbers. We are—what is it? It’s 1, right?
+Austin: Weirdly, it’s like, did you just do this already?
+Jack: Oh, it’s 2.
+Keith: Right, yeah. I mean, it’s really a question of, like, how the—how much is the kingdom not Millennium Break/the Cause? How does the Cause fit into what the kingdom is? And if it fits in in a way where they don’t have a war to fight to win, then I’ve gotta rewrite it, I guess.
+Austin: You know, war is still going to some—it’s absolutely still going, [Keith: Yeah.] because you know August Righteousness’s thing is—I mean, I guess it doesn’t necessarily mean that, right?
+Jack: I sort of—and this might be a way to also express the war—I think of my goal as very much like a sort of a post-war thing.
+Austin: Right.
+Jack: It’s bring them to justice, you know, we have in theory—
+Keith: Sure. But that is a—
+Austin: But the war is 2. It is not 1 or zero.
+Jack: Yeah, that’s true.
+Keith: The nuance there, I think, is also like the difference between the Cause and Millennium Break. Like, I came here from Partizan to help Millennium Break, not to help the Cause.
+Austin: So should the—is your goal actually more about that?
+Keith: Maybe.
+Austin: More about ensuring that Millennium Break XYZ?
+Jack: Yeah, is the way into this actually—would it help us if we talked a bit more about the mysteries?
+Austin: Right, which are…
+Keith: Eclectic’s always saying that.
+[Jack and Ali laugh]
+Austin: Which are…
+Ali: Which is, yeah.
+Austin: Where is Future? Future’s gone to ground, Future’s hiding.
+Keith: Yeah.
+Austin: What’s up with the Divines and the Delegates underneath the Caldera Stretch?
+Keith: Right. The problem was that this felt like two goals, and I knew that part of the rules was not having more than one goal.
+Jack: We learned that from Brnine.
+Austin: Right. Well, that’s why—from Brnine, yeah. But that is—but that is why I’m trying to also zero in here, right? Which is like—or again, why I’m trying to say also, is it important to Eclectic that Millennium Break is in a position of power at the end of this, or that Millennium Break leaves here, is able to leave here without staying and becoming part of the next, you know, part of the Cause leadership, you know what I mean? Like, is there anything there, which is not a mystery related thing. This is me saying if you care about—you had said something around your goal being to come here to support Millennium Break, not the Cause. And so I’m trying to unpack, is that an angle on what you actually believe in here in contrast to “I’m here to support the cause by XYZ”? And the answer might be no. The answer might be what you want here is mystery-solving.
+Keith: Yeah, I think it’s more important to do the job than to leave.
+Austin: Sure. I mean, I can come up with some obstacles for this, which is like, you know, the Bilats have done a good job of hiding their secrets. Hiding or destroying their secrets as they flee. Classic thing that happens that tyrants do on their way out the door, right?
+Keith: Right. Shred papers.
+Austin: Is shred papers, and, you know, kill the people who know the thing, or, you know, shut down or destroy the evidence, or wherever the evidence is, stuff like that, right? There’s a ticking clock, is maybe a fun one, right?
+Keith: Sure.
+Austin: But I do want to—but if it is as simple as like… There’s an interesting overlap, and maybe what we should do is lean into the overlap between yours and August’s. If August’s is bring the Principality on Palisade to justice, yours might be tied to that in some way, where it’s like, you know, find the secrets the Bilats tried to hide or destroy before they left. You know? Something like that. That’s not great writing, but if we interpret what you’ve written in that way, that might make sense, right?
+Keith: Yeah. The one point that sticks for me on that is, like, the coming with the Motion thing, solving the Motion secret, investigating the Motion stuff was—
+Austin: God, Motion, we didn’t say the word Motion at all here, huh?
+Keith: No.
+Austin: Damn, okay.
+Keith: Investigating the Motion stuff was supposed to, like, give something to Millennium Break, and I want it to be tied to that still.
+Austin: What do you mean by supposed to give something to Millennium Break?
+Keith: Like, it wasn’t an investigation—it was supposed to help the, like, war effort to figure, hey, I have this big thing, we gotta figure it out.
+Austin: That did happen.
+Keith: Yeah. Yeah, that’s what I’m saying. But I’m just saying that in rewriting this to be—I actually don’t even remember what it was that you said, but it felt too secret-focused and not like—like, to what end? And…
+Austin: I wonder if part of what we need to do is actually get to a different verb here, which is like, you know, thinking about it in the magnum opus sense of like, you could be compil—this is very bureaucratic, but like, compiling the report on the, you know, whatever the overall misdeeds of them are, you know what I mean, like? I’m thinking of you with a case file, you know?
+Keith: Yeah.
+Austin: And like, or publishing the—you’re not a writer, you’re not Alise Breka, right?
+Keith: No. But I have connections.
+Austin: But you have connections, and Eclectic being like, “Here’s the story of what they were doing here. Here is the comprehensive report on the horrors of what the Bilats did on Palisade” is at least a particular thing.
+Keith: Sure.
+Austin: It’s a little more writer than it is investigator, but like, you know.
+Keith: Yeah.
+Austin: There’s a little of that in…
+Keith: But it’s tough, because it’s sort of like, where does it go when I’m done investigating anyway?
+Austin: Yeah.
+Keith: It kind of just goes to Millennium Break, like…
+Austin: Well, it goes into the propaganda machine of Millennium Break, right?
+Keith: Right.
+Austin: It does go to Alise Breka, who turns it into a movie script or whatever, right?
+Keith: Right. A pulp novel.
+Austin: Yeah, a pulp novel or whatever.
+Ali: Yeah, there’s kind of like, there’s a reflection of August’s thing and then a reflection of what Keith wrote here where it’s not like, instead of doing “solving the unknowns” it could be, like, understanding the depth of what the Principality did, or like…
+Keith: Exposing.
+Austin: Exposing.
+Ali: Yeah. Expose, yes.
+Keith: That’s less writer.
+Austin: I mean, this is what I was getting towards was exposé, right, like?
+Jack: Right.
+Keith: Yeah.
+Austin: There is a sort of like—I mean, that’s the thing, right?
+Keith: We don’t have to write to expose.
+Austin: Creating a convincing—creating something that is a convincing exposé on what the Bilats did here that moves hearts and minds is a hard fucking thing to do for the reasons we’ve talked—which, again, we have not been talking about Eclectic in this way. Eclectic is not Gig, Eclectic doesn’t have the recorder on all the time, but there is something about that that feels more material when it comes to a goal, you know?
+Keith: Yeah. But you can release a dossier.
+Austin: Yeah, totally.
+Keith: That’s not the same thing as filming a vlog.
+Austin: Totally, yeah.
+Jack: And that kind of project, you know, could very easily be part and parcel with the process of justice as well, right? Beyond some sort of retribution, or beyond some form of, like, punishment, part of the process of justice is what took place here, and you know, how can we kind of gather that account?
+Austin: Also, unrest and revolution is 2. That will go up as, for instance, Future continues to propagandize and try to turn the somewhat naive people of the Twilight Mirage who sometimes might say, “Well, let’s just hear them out,” against you. Right? And begin to try to spread words of an even more, better future, right? A more future than what’s already here in the Twilight Mirage.
+Jack: Too much future.
+Austin: Hey, maybe the Twilight Mirage—right. Maybe the Twilight Mirage has been stagnant. Maybe it’s time for the Twilight Mirage to expand outside of this little corner, this little nebula that calls itself home.
+Jack: God thank god, it’s only at 2 right now. Which, again…
+Austin: Right? This is what it is, right? It’s so easy to say—it would be very easy for Future to do what 3T was doing in the Orbital game, but better, because of being a Divine, and specifically being the Divine Future.
+Keith: Well, and having been—it’s already happened, they’ve been given a gift.
+Austin: Exactly.
+Keith: How are they supposed to say no?
+Austin: Exactly. And that’s also what we know is Devotion’s plan. So like, in some ways, one of the stakes is will the people of the Twilight Mirage buy into that, how do you prevent them from doing it, is one of the ways proving to them how bad the Bilats have been on Palisade?
+Keith: Sure.
+Austin: Right? So maybe that does end up being, like, that’s not about winning the war. That’s just about exposing the Bilats—exposing the worst crimes of the Bilateral Intercession on Palisade. How’s that feel?
+Keith: That feels good.
+Austin: [typing] “Expose the worst—”
+Keith: I got that. I got it.
+Austin: You got it?
+Keith: Yeah.
+Austin: Oop, I fucked up. I fucked up.
+Keith: It’s okay. Oh, it’s gone. Yeah, it’s gone. [laughs]
+Austin: We were both editing this—I’m gonna let you do it. I’m just gonna let you do it. I’m gonna get over to an obstacle.
+Keith: Okay.
+Jack: Austin and Keith were both trying to telephone each other after the line dropped.
+Austin: That’s what happened. Obstacle number one.
+Ali: I have a really good idea of pulling doubt into here.
+Austin: Ooh, that’s fun.
+Sylvi: Ooh.
+Ali: Both that, like, people are going to be more closed off from sharing information, [Austin: Yeah.] but also doubtful that this is the best use of your time.
+Austin: Interesting. “Doubt runs rampant.” What was the first part of that? The second one was “is this the best use of your time”, but…
+Ali: People are closed off.
+Austin: [typing] People are closed off. Closed off.
+Ali: From sharing info.
+Austin: Yeah, yeah, yeah.
+Keith: That’s a good one.
+Austin: And then number two, I think, is what we said before, which is like, the Bilats are destroying evidence rapidly, right?
+Keith: Mhm.
+Austin: The Bilats are covering up their misdeeds.
+Jack: They’ve been doing this already. The Paint Shop is empty.
+Austin: The Paint Shop is doing this, exactly, yeah, yeah, yeah. I was thinking the same thing.
+Keith: Hey, I’ve got that briefcase.
+Austin: You do have that briefcase. That’s true. Alright.
+Jack: God, I wonder what happened to—what’s the Stargrave’s palace called? Tintagel?
+Austin: Tintagel. Yeah, look where it is now.
+Jack: Is it in Clem’s territory?
+Austin: It’s in Clem’s territory.
+Jack: Wow. Cool. It’s also in extremely awful swamp, [Austin: Uh-huh.] so I am sure that there’s, like, Iconoclasts moving awfully through the swamp, you know.
+[2:30:00]
+Austin: I was thinking about that today. The idea that the forest, the Brecheliant Forest, and all the swamplands there are just filled with Bloodborne monsters is fantastic.
+Jack: Yeah, Iconoclasts are simulating mosquitoes, mosquitoes are simulating Iconoclasts, it’s just awful.
+Sylvi: Oh, no. It’s Blighttown.
+Jack: We did Blighttown again.
+Austin: We did, yeah. Cori, what’s your goal?
+Sylvi: Yeah. My goal—super straightforward goal. My bloodied hands must break the wheel.
+Jack: [chuckling] Oh, god.
+Sylvi: You know.
+Ali: What else is there to say?
+Austin: I’ve written “Good luck, buddy.” as the first obstacle.
+Sylvi: I’m rockin’ with Perennial.
+Ali: Yeah, if Perennial couldn’t do it, what makes you so hot?
+Austin: Ow, yeah. That’s good though.
+Sylvi: Perennial never had a pilot like me.
+Jack: The empire is impossibly vast and old.
+Sylvi: Yeah.
+Austin: And, again, this is kind of an “it’s out there” one again, right?
+Keith: It’s out there.
+Sylvi: Yeah. My alternative one was like, something about like, it was basically the—actually now that I think about it, it was basically the August one, but I wanted it to feel…
+Austin: No, I think this is more big. This is more…
+Sylvi: I wanted it to be bigger, and I kind of wanted it to be also more unattainable.
+Austin: I say it’s out there because that is—in the same way that I said it for—
+Jack: Oh, for Brnine.
+Austin: Well, for Clem. It’s out there.
+Jack: Oh, yeah. I was thinking of Brnine connecting to the—connecting back to Millennium Break.
+Austin: [cross] Connecting to the Twilight Mirage. Yeah, yeah, yeah, totally. Yeah, there’s three of them here, right? Which are like, how do you do this thing? Even if you could do it, how do you do this thing without being out there, right? So, the Principality is outside the Mirage.
+Jack: This is a bigger question, but might tie nicely into, like, post-war Palisade, which is like, break the wheel and then what, you know?
+Austin: Mhm.
+Jack: It’s easy to break a wheel. You’re talking about pulling apart the Principality and then saying “What’s next?”
+Austin: Yeah.
+Sylvi: Yeah.
+Austin: How do you stop the empire after this one, right? How do you prevent the wheel from spinning in that way, [Sylvi: Yeah.] which is what Perennial’s big fear has been, right? Or big failure has been.
+Sylvi: And you are all assuming Cori has object permanence, which is interesting.
+[Ali, Jack, and Dre chuckle]
+Jack: When Perennial goes behind its hands, it disappears.
+Sylvi: No, more like it’s, “Oh, well, I cut off the heads of enough evil Principality nobles. We won.”
+Austin: Uh-huh.
+Jack: [chuckling] Oh, sure.
+Sylvi: That’s like, that’s how she thinks it’s gonna work.
+Ali: Oh, yeah, that’s a great conflict. Your only skill is violence.
+[Jack laughs]
+Austin: Oh, that’s a good one. That’s a good one, actually.
+[Ali laughs]
+Sylvi: Yeah.
+Jack: Yeah.
+Austin: Ooh, I like that better, yeah.
+Sylvi: Thank you.
+Jack: You’re very good at breaking. What have you built?
+Austin: “Cori’s only skill is violence.” Yeah. “Do you even know…”
+Art: Do you know it’s not a literal wheel?
+[group laughter]
+Sylvi: What the fuck? Perennial—Perry, what are you telling me?
+Austin: Yeah.
+Jack: Has Perennial ever vocally used the wheel language, or has that only ever come from her acolytes?
+Austin: I don’t remember.
+Sylvi: Oh, I don’t remember either.
+Austin: That’s a good question.
+Sylvi: I kind of assumed she would have gotten it from her.
+Jack: Yeah, I don’t know. We can…
+Austin: We can check that at some point.
+Jack: That’s not an answer that we need to find, I’m just curious if the acolytes over and over again keep coming back to the wheel language.
+Austin: Yeah.
+Sylvi: Yeah.
+Austin: The wheel turns, yeah. Yeah, yeah, yeah. God.
+Jack: Perennial’s like, “Why do you keep talking about a wheel?” She has a completely different conception of…
+[Austin chuckles]
+Sylvi: If she’s not down with it, we can use a different metaphor. I gotta cut the head off the…
+Jack: Cutting their heads off.
+Austin: You know where it comes from, I believe, I believe, isn’t it a—it’s a law that Clem assumed existed, isn’t it?
+Jack: On Chorus Island. Yeah.
+Austin: It’s one of the laws? Is that right?
+Jack: Yes, it is. The wheel turns. But I think we had been saying the wheel turns vis a vis Clem before that law came up.
+Austin: That makes sense.
+Jack: But in any case, I do like that it is—or rather, I don’t know if it’s what the case is, but there is something kind of amazing to think that Perennial never thinks about it like a wheel, you know? Perennial has a completely different sort of visual metaphor or understanding of what’s going on and the acolytes are the ones coming back to the wheel.
+Austin: Yeah. Alright. I think that—so right now, these are: the Principality’s outside of the Mirage. But I kind of think the other one is the stronger one, right? Which is like…
+Jack: What did Ali say?
+Austin: It was, um…
+Keith: Only knows violence.
+Sylvi: The only skill I have is—
+Austin: I mean, that’s there. I put that—that one I put there.
+Keith: Oh, okay.
+Sylvi: Okay.
+Austin: “Cori’s only skill is violence, do you even know how to build something?” But the other one being, like, how do you prevent the next empire from starting, you know? But maybe that is secondary to the Principality’s not here, buddy. Maybe that’s more important for you to solve. I don’t know, you tell me.
+Jack: [laughs] In fact, you are, weirdly, in the place where the Principality is least in the near empire, right?
+Sylvi: Yeah.
+Austin: Right. I guess that might be one. [typing] “How do you break the wheel from this place of relative peace?”
+Sylvi: Mark my words, gonna master both of them.
+Austin: I believe you.
+Sylvi: I play to win.
+Austin: Because it’s not necessarily you have to get out there. Maybe there’s other ways of doing it, you know?
+Sylvi: Yeah.
+Austin: If Brnine can connect to the wider network of Millennium Break, then maybe there’s a way to do that even though you’re not there yourself. Who could say?
+Sylvi: 1v1 whoever the current leader of the Principality is, get them to come here, we’ll be good.
+Ali: Good for me.
+Austin: And check this part out, because we’re done. “Finally, you will start the map of your kingdom. Write three or four locations on the kingdom map sheet. Anyone can suggest them.”
+Jack: Done.
+Austin: “Take inspiration from features and norms.” We did this.
+Ali: We’ve done it!
+Austin: We have this.
+Art: Take that, Questlandia rulebook.
+Jack: And when we say “we did this”, I’d like to shoutout to Annie Johnston-Glick.
+Austin: That’s right. I am gonna post their really funny but very cute—this is a great map. The map in the book of Mount Rucarry, their setting, is—
+Keith: Mount Drew Carey?
+Austin: Mount Drew Carey, uh-huh. He deserves a mountain.
+Keith: Yeah.
+Austin: What, Drew Carey doesn’t deserve a mountain?
+Jack: I remember what that guy did for the striking workers during the recent…
+Austin: That’s right.
+Jack: That guy’s great.
+Austin: And he’s good on Price is Right.
+Jack: And he’s good on Price is Right!
+Austin: A show that has—there’s no complications about that show.
+Sylvi: And Cleveland Rocks!
+Austin: And Cleveland Rocks!
+Keith: Cleveland Rocks.
+Art: And he’s stopped being as loud about being a weird libertarian lately.
+Jack: Good for him.
+Austin: I’m sure—I’m glad he was—okay, well.
+Janine: He was in the Sims.
+Austin: That’s happening to a lot of those folks, you know? We’ve talked about the Penn Jillette thing, right?
+Art: Yeah.
+Janine: Yeah.
+Keith: I thought he went—he goes back and forth like every other day, I thought.
+Austin: He thinks he’s like—I think he thinks he can save them, you know? From themselves. He can’t do that.
+Jack: Which is the fellow that talks, and which is the fellow that’s quiet?
+Art: Penn Jillette, like many magicians, wasn’t burdened with an overabundance of schooling.
+Austin: Well, he was schooled in the ways of magic.
+Art: And clowning. He was like a…
+Austin: Did he go to clown school?
+Art: He was like a carney glass eater when he met Teller.
+Keith: Ah, the school of hard knocks. Eating glass.
+[Jack chuckles]
+Austin: Eugh.
+Janine: Hard chomps.
+Art: He’s a very talented glass eater, supposedly, but you know, there’s a trick to that.
+Jack: Is there?
+Austin: We’re done for the night.
+Ali: Mhm.
+Art: Yeah, you grind the glass with your teeth.
+Austin: Okay. Time.is is the address…
+Ali: Have a good night, everybody.
+[music outro - “See All Of This” by Jack de Quidt]
+Austin: When we come back, we will play through three chapters that follow our characters as they pursue those goals. You’ll have three turns before the game ends with an epilogue. So get ready for that.
+Janine: I want to change my goal. I want to eat glass.
+Austin: Do that on your own time.
+________________
+[1] There is significant overlap between voices in the following sequence. Dialogue tracks from unnamed characters shift between left, center, and right audio channels. Left channel: Voice 1. Center channel: Narrator, Voice 3. Right channel: Voice 2.
+[2] For the rest of the intro, all voices are now centered as usual.

@@ -1,0 +1,1338 @@
+﻿Drawing Maps 24: The Hymn of the Mother-Beast Arc - March 2021
+Transcriber: Brigid (@woodlandmists / brighty#2727) 
+
+
+AUSTIN: Hello and welcome to the March 2021 edition of Drawing Maps.  I am your host Austin Walker.  Joining me today: Ali Acampora.
+
+
+ALI: Hi, I’m Ali, you can find me over @ali_west on Twitter, you can find Friends at the Table over @friends_table.
+
+
+AUSTIN: Sylvia Clare.
+
+
+SYLVIA: Hey, I’m Sylvi, you can find me on Twitter @sylvibullet and you can listen to my other podcast Emojidrome wherever you get your podcasts.
+
+
+AUSTIN: Andrew Lee Swan.
+
+
+DRE: Hey, you can find me on Twitter @swandre3000 and you can watch my ongoing let’s play of MS Saga: A New Dawn, a PS2 Gundam JRPG-
+
+
+AUSTIN: Ooh.
+
+
+JACK: Yo!
+
+
+DRE: On my Twitch channel, twitch.tv/ObiSwanKenobi.
+
+
+AUSTIN: Great name.  Jack de Quidt.
+
+
+JACK: Hi, you can find me on Twitter @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: And me.  I already said me, so that’s the last one, so I’m not gonna- I don’t need to  repeat that.  Is this stream flickering for other people or is that just my video thing being weird.  It seems like it’s maybe just my video thing.
+
+
+JACK: [crosstalk] It seems fine to me.
+
+
+DRE: [crosstalk] Let me go check.
+
+
+AUSTIN: Okay.  It’s fine.
+
+
+ALI: I feel like I saw a flicker out of the corner of my eye.
+
+
+AUSTIN:  Mm.  Chat would know.  Chat would probably have noticed it directly.  I hope it’s not flickering because I don’t know what would be causing that.  In any case, this is Drawing Maps.  For people who have not seen Drawing Maps before, which would be fair because this is kind of the new, exciting model of Drawing Maps where we have the whole cast here.  Drawing Maps is a show about- a kind of behind the scenes look about what goes into the episodes.  Sometimes in the past it’s been kind of a actual-prep show, sometimes it’s been a post-mortem, and sometimes it’s been kind of just explaining or exploring a bunch of prep.  Today we’re doing that post-mortem style, we’re gonna continue doing this for the kind of near future.  
+What Drawing Maps is a real behind-the-scenes look at the show.  It doesn’t always focus on the same game, but right now we’re gonna be doing a bunch of Sangfielle ones.  Hopefully we can discuss and provide some insight into what the process of making the show is and for me as a GM, it’s useful to have these conversations anyway, so it’s nice to have those.  We’re gonna do our best to avoid spoilers.  I said this last time and then we ended up spoiling a bunch of stuff and I had to cut me saying we’re going to avoid spoilers.  [ALI giggles]  So I will say: let’s be careful with spoilers and mark them and say them if we’re gonna say like, “Hey, I need to spoil blank to talk about this.”  At the very least we’ll have said that.  In general, I think it’s valuable to be able to talk about all of our past work, so I don’t want anyone to feel like they can’t say something, but let’s just be careful about spoilers so we can mark them for people who wanna listen away, who want to put on those earmuffs.  
+Nothing we say here is the show, so if we have a good idea for something, or something, in one of these conversations, if we say like, “Oh I hadn’t thought about that character in this way.”  Until it’s on the show, it ain’t real.  And I guess I’ll also add, this is not a show where we’re answering lore questions necessarily, though there is one lore-ish question in this mix I’d say, about the world.  This is not a like, Sangfielle Uncovered, you know?  Like this isn’t like, The Truth Behind the Mystery.  There might be some instances where I say, “Oh, I prepped XYZ, but it didn’t come up.  Or “Oh, here’s an idea I had, but blah-blah-blah.”  That stuff, again, if it’s not in the show, it’s not real, so if there’s ambiguity in the show I can’t kill that ambiguity here.  I don’t want to because Sangfielle’s specialness is about ambiguity, it’s about that sort of like, open-endedness and so I want to keep that open-endedness here, so in general a lot of the questions will be less about “what is X” and more about “how’d you make this? what thoughts went into X, how did you arrive at Y?”  
+
+
+So, with that said, let’s jump into it with this first one from Brandon who says, 
+
+
+“It’s obvious from listening to Drawing Maps character creation episodes that y’all put a
+lot of thought upfront into your characters and the world prior to the season starting.  But
+on the player side, I’m curious if there are any particular play-to-find-out-what-happens
+that helped you make on-the-spot decisions about your characters’ tone, voice,
+mannerisms, and whatnot in this first arc?”  
+
+
+And I guess I should say also, today we are talking about The Hymn of the Mother-Beast arc specifically, and I will say we should not spoil anything that comes after that, that you will be safe for.  Brandon continues: 
+
+
+“It’s fun to think about how characters might have turned out differently in the long run if
+they had done A versus B in the first session and how making that decision to do A
+affected how the players played the character from that point on.  Austin, any of these
+kind of moments that have shaped the world or NPCs in big, notable ways that we’re
+allowed to know about at this point?”  
+
+
+AUSTIN: Does anyone have one of these for this first arc, The Hymn of the Mother Beast, moments where you kind of went for it in a way that helped shape who the character was?
+
+
+DRE: The thing that comes to mind for me from this arc and I guess- I mean I’m talking about something that happened, so this is spoilers right?
+
+
+AUSTIN: Eh.  For this arc, you don’t have to mark spoilers.
+
+
+DRE: Okay, all right.
+
+
+AUSTIN: This whole thing is- when I say be careful with spoilers, I really mean, in the last episode we talked about spoilers from Partizan and Counter/WEIGHT.
+
+
+DRE: Oh, yeah, yeah, yeah.
+
+
+AUSTIN: Those are the ones that we need to explicitly mark.  Sangfielle spoilers, they’re good to go, but Hieron spoilers, past Divine Cycle spoilers, we should be careful of.
+
+
+DRE: Oh!  It is flickering.
+
+
+AUSTIN: It is, I just saw that.
+
+
+DRE: I just saw it too.
+
+
+AUSTIN: I think I can fix that, I think I can fix it, let’s see.
+
+
+DRE: Anyway, the part I’m thinking of is when I said, “Hey, can I floss my teeth with this holy relic that I found on the ground?”
+
+
+[laughter]
+
+
+AUSTIN: Yeah!  That’s true!  That was a moment of like, “Oh!  This is who Chine is.”  Was that in line with who you thought they were ahead of time or was that a moment where you were like “Ooh.  I see who this is.”
+
+
+DRE: A little bit of both.  I think definitely in that moment it was kind of like, okay.  This is a good chance to show that like, Chine is like, disconnected from norms.  Not in a like, “You believe this and it’s stupid” kind of way, [AUSTIN: Right, right right.] but like a “I don’t know, what’s the big deal?”
+
+
+AUSTIN: Just flossing my teeth over here!
+
+
+DRE: Uh-huh.
+
+
+AUSTIN: Normal thing.
+
+
+DRE: Yeah.  I eat a lot of stuff, things get stuck in there, I gotta-
+
+
+AUSTIN: It’s healthier, you’re right, that’s hygiene.  Anyone else have a moment from this arc?
+
+
+SYLVIA: That kinda reminded me- Well I had one and that reminded me of another one.  Dre reminded me- by saying that you believe in this but not in like, a snotty way type thing.  That’s- I did the opposite with Virtue.  I think like the way I decided to talk with the nuns kind of flavored a lot of her like, detachedness to everything a little bit more.  And that really helped out.  And also just when we met that dude who showed us to the cathedral stairs the first time [AUSTIN: Yes.]  and I gave him my coat and everything.
+
+
+[ALI laughs]
+
+
+AUSTIN: Yes.  Huge moment
+
+
+SYLVIA: That was just like, yeah, okay.  That's her.
+
+
+AUSTIN: There she is.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: How about for Marn or for Pickman?
+
+
+ALI: Um-
+
+
+JACK: [crosstalk] I think on- Oh, sorry, go ahead Ali.
+
+
+ALI: Okay sure.  [laughs]  For Marn it was definitely like, realizing how off-putting everybody else was being towards like, the first NPC we’d interacted with and being like, “Oh I have to be the one to address this.”  [AUSTIN and ALI laugh]  This is our first job ever, this is like, a “client,” quote-unquote.  And everyone’s just being like, really mean, like, what’s happening? 
+
+
+[laughter]
+
+
+AUSTIN: Yeah, well like, it was one of the moments where I realized that the way the party had been split-  You know.  Without going too deep into it, I definitely think that you could paint a- draw a scale or a spectrum of like, who is the rudest versus the least rude.  And on the least rude, most sociable side is like, Marn, and Es, and Duvall probably.
+
+
+ALI: Sure.
+
+
+AUSTIN: And Duvall’s made of bees, so like, that’s a whole other issue.
+
+
+JACK: Bees are very sociable.  Historically.
+
+
+SYLVIA: That’s true.  Actually.
+
+
+AUSTIN: [crosstalk] That’s true.  That’s true.  You got me there.
+
+
+SYLVIA: You got us there.
+
+
+AUSTIN: You got us there.  I did- A thing I wish we had enough time to do was like, read deeper into-  This is not a any of y’all stuff, this is an Art thing.  I wish Art and I had had more time to dig into various types of other sociality inside of bugs that are not just the traditional like-
+
+
+JACK: Oh yeah.  
+
+
+AUSTIN: ‘Cause there’s lots of bugs that are like, not social in the way bees and ants are, but are still of course social creatures because creatures exist in relation to other creatures and other things and so, that’s there and there’s work on that stuff out there and just did not have time to like, go to the library and dig into that stuff, ‘cause it’s not my field and, you know.
+
+
+JACK:  We got time.  We’re not done with this season yet.
+
+
+AUSTIN: No we aren’t, but like- My brain doesn’t work like this.  Like, with most things.  My brain is now thinking about how to start Partizan Two.  Like that’s where my, that’s where that part of my brain has been reformatted and that’s where it is now.  So it’s like, that part of my brain is back to reading about guerilla warfare.  You know?
+
+
+JACK: Yes.
+
+
+AUSTIN: Which never means never obviously but I wish in that period where we were conceiving of the character.  Anyway-
+
+
+JACK: I kind of-
+
+
+SYLVIA: [crosstalk] You have to be clear, guerilla warfare is not about Mow.  It’s different.
+
+
+[ALI laughs]
+
+
+AUSTIN: No, different.  Yes, thank you.
+
+
+JACK: Damn.  Excited to see more Mow.  I kind of had the opposite of this, at least for that very first recording, which is that I came out of that first recording not really feeling good about how I had sort of put my boots on the ground as Pickman.  It would be like, you know, getting out of the space shuttle to do the first words on the moon.
+
+
+AUSTIN: Uh-huh.
+
+
+JACK: You know, coming out with the character is always scary because you get one shot at it.  And I think over the seasons that we’ve done this I’ve gotten to a point where I’m just sort of like, you know, sometimes it’s not going to go the way you hoped, that doesn’t mean the character’s tanked, there’s more episodes to go.  You know.  But I did definitely get to the end of that first recording and was like, Pickman speaks too much and is too quippy and I would like Pickman to speak less and be like, more rude than quippy.  It’s like, Pickman is someone who just doesn’t really like talking very much and this is something that I did back in Counter/WEIGHT with Audy, who didn’t speak very much.  And so I definitely kind of came out of that first episode sort of kicking myself a bit and going like, “You spoke too much in-character.”  Which is, it’s weird right, ‘cause it’s like, we get to decide what the character is like.  There’s no sort of rules to be like-  But I think probably I was like “I want to play this kind of a person this season,” and I definitely came out of that first session going “All right.  Okay, that’s not quite what you put onto tape, so you have to decide whether or not you want to make an adjustment or whether or not you want to keep going down that line.”  So I sort of put a post-it note on the edge of my monitor that said “Don’t talk” and tried to like, keep that going forward in terms of like, how much Pickman speaks in character.
+
+
+AUSTIN:  We’ll have to revisit this when we get to another Pickman Drawing Maps, when we get to the next arc because we’ll see if that has held true.  I’m curious.  You know?
+
+
+JACK: Yeah.  Yeah.
+
+
+AUSTIN: Okay.  For me, it’s hard.  NPCs in that first arc.  There aren’t really that many standout ones in my mind.  I guess that’s not true, you did that whole-
+
+
+JACK: Polyte’s pretty great.
+
+
+AUSTIN: Yeah, but like, Polyte is like, coursing through my brain.  Like, that’s not a character, that’s like I was channeling something.
+
+
+JACK: It’s output.
+
+
+AUSTIN: Yeah, it’s output.  That’s not-  I mean it-  The thing I do is a very weird thing, is what I will say.  And there are times when I am shaping a character in play, I can think of examples from past arcs and past seasons.  Almost always with some major antagonistic character.  Like any of the big antagonists of past seasons are often found in the speaking.  Or if not antagonists, then antiheroes or you know, the sort of- just rivals, whatever you want to call stuff.  Those characters often come out of dialogue, where I know what they believe ahead of time, but I don’t know what their cadence is or something like that.  Polyte, I had enough down- Okay, I guess here’s the thing that I’ll say is that this season I’m doing a lot of writing a phrase to understand a person.  And so-  And most of these end up either coming up directly in play as something I quote or as something in the, what do you call it, the text, the episode description, where I’ll quote the thing that I have written to help me understand the character.  And so in some ways it’s like a little-  It’s not a mnemonic device because it’s not like, it’s not like it’s like a code that I have to like, remember or crack or something.  But it is like a phrase that when I say it, I slip into the character.  And I cannot find the one that I’m looking for unfortunately for Polyte.  I thought it would be in this document for this first episode, but my first episode notes are all over the place because they’re the first one.  Yeah, I can’t quite-  Oh here it is!  Yeah, this sort of came through, right?  This was-  Maybe I didn’t get through all of this but the-
+        
+        “My name is Akule Polyte, you can spell that any which way you like, just don’t call me ‘A-Cool Polite.’  But if you’d like, you can call me cool.”
+
+
+        And from there it’s like, okay I can just find that character from reading that again and again and taking it in.  But especially as one of those sort of like, long rambling things.  
+
+
+[TIMESTAMP: 15:00]
+
+
+AUSTIN: That tends to already live somewhere in my brain and it’s more like unplugging a bottle where the character is and it’s just gonna fall out, versus - I think in that first arc it’s probably more like Marisha, the nun of - Was Marisha the previous nun, the nun of the Mother-Beast?  Or is Marisha the Slumbous nun?  Marisha’s the previous nun.
+
+
+JACK: Yeah.  Stanislaka is the…
+
+
+AUSTIN: Stanislaka is the new one, right?  Yeah.  Marisha I think I found in conversation because I think the thing that I didn’t realize with - The two things I’d forgotten about her were, one: knows Chine.  Would have known Chine.  And then two: is familiar with the way things work and comfortable with the old ways, the way that things work above in such a way that when y’all were like, “Here’s what we want,” it didn’t seem unrealistic to me for Marisha to be like, “All right, let me see what I can do.”  And that pushed her toward practicality, which was interesting.  And away from being a sort of like, antagonist you needed to overcome.  Also it was one of those moments of realizing just like, this is still interesting if you just get what you want-
+
+
+JACK: Yeah.
+
+
+AUSTIN: -because the consequences just slide over.  So.  You know.  But otherwise this-  There’s other characters this season we can talk about in future arcs, but for this specific arc…  You know there just weren’t that many characters in terms of NPCs.  There’s Ekashi Wolff, who’s spiel I kind of knew, there was the NPCs that you fought, like the White Flower Beast and a lot of like, nameless Sisters of the Mother-Beast who like, were dealing with the dragon leg and all that stuff.  But in terms of speaking roles, not that many, so.  Let’s go to the next question.  Sound good?
+
+
+        Luke says: “This being your first time actually playing Heart, were any of you really
+nervous about having a PC die?  As a GM or a player, how do you feel about the
+Resistance/Fallout system so far?”
+
+
+AUSTIN: Did any of you come in thinking you’d get like, a day one death?
+
+
+[ALI giggles]
+
+
+SYLVIA: I thought it’d be really funny if I did.
+
+
+AUSTIN: It would be funny.  It’d be miserable, but…
+
+
+SYLVIA: [crosstalk] Considering just my whole character idea.
+
+
+AUSTIN: Yeah, yeah.
+
+
+SYLVIA: Coming back from the dead and then just getting immediately wiped out would be really funny.
+
+
+JACK: [crosstalk] Flattened.
+
+
+SYLVIA: Yeah.  Like an anvil dropped on her head or something.
+
+
+AUSTIN: Totally.  What would you had felt about that if that had-  If the dice had broke that way like, in an unavoidable, like truly ‘this didn’t work out’ way.
+
+
+SYLVIA: I mean it’s always disappointing, especially if it happens early into a campaign.  I do think I would have laughed a lot at it.  But yeah, I don’t know.  I feel like it would just be like, “Oh, there was so much unused potential with that idea, now she’s dead.
+
+
+AUSTIN:  Uh-huh.  Yeah.
+
+
+SYLVIA: But that didn’t happen!  So.  Spoilers: she lives through this arc.
+
+
+AUSTIN: I mean, again, that’s fine, not a spoiler for- yeah.  People should have assumed to have watched through this first arc.  Or listened through.
+JACK: I think-
+
+
+SYLVIA: [crosstalk] I- Oh, go ahead.
+
+
+JACK: I think what you were saying about like, laughing really hard as you’re feeling disappointment is- I don’t really get worried about characters dying even early, in much the same ways as how you’re articulating, Sylvie, where I’m like-  There’s a British tv show called Taskmaster where comedians try and do absurd tasks and sometimes those tasks break really bad and they just screw up spectacularly.  They do the equivalent of, you know, dying in the first session.  And one of the comedians after an absolutely monumental screw up, in the interview after the fact, he was like, “Yeah this sucked, but even as it was happening, I was thinking ‘Oh that’ll be really funny on the tape.’”  And that’s absolutely my feeling of like, if a character died, yeah it would suck and I’d be like “Oh my god.”  But A, I know that like, we would all be able to work on ideas for a new character and figure that out.  I don’t think that would be- It would be work, but I don’t think it would be beyond us.  And also, it would be really funny on the tape.
+
+
+AUSTIN: Yeah.  I have a question about this, which if y’all can roll in to any other answers to this question - One of the things that I see Grant and Christopher, who are the lead writers on this game, lead designers on this game, talk about a lot, is they say you know people, players may at first, be scared of Fallout, but eventually there is a sort of joy in seeing it happen and seeing what you get, like ticking the box, similar to like, getting a weird effect in like- getting a perk in Fallout or something like that.  Fallout the series, not the mechanic in the Resistance system.  I’m curious if that holds true for any of you because whenever they say it, I go “That sounds like it would be true for me, but I don’t know that that’s widely true for players.”  But I’m curious if it is, if when that Fallout hits is there any sort of like, “This is kind of fun” for y’all.
+
+
+JACK: Yeah!
+
+
+SYLVIA: Oh, yeah.  I think that even goes back to when we played like, Forged in the Dark systems with the Scar systems in those.  Not to go into any specifics at all!!
+
+
+AUSTIN: [laughs]  Yes, yes.
+
+
+SYLVIA: Like that really influenced a lot of characters throughout those seasons and I think it’s cool.  Like it is such a major thing that shapes your character and even with the Fallout stuff being not necessarily permanent, it can still like, be a thing that sticks with them when it’s quote-unquote “taken care of.”
+
+
+AUSTIN: Yeah.  Cause it’s a little major arc of your character’s life in some ways, right?
+
+
+SYLVIA: Yeah.
+
+
+JACK: I remember Art was the like, roguelike mode in the new Warcraft expansion and he messaged me one night saying “I picked up a perk which means that I can’t see anything at all, but I do 400% damage.” [SYLVIA and AUSTIN laugh]  And he was like, “If I can just not fall off this cliff, nothing will be able to kill me.”  And like that’s absolutely how I feel about taking Fallout, taking these kinds of things, where I’m like, “Oh wow, I can’t see, but I do do 400% damage, let’s roll the dice, let’s see what happens.”
+
+
+SYLVIA: There’s a lot of those in the book.  It’s pretty great.
+
+
+AUSTIN: [crosstalk] There are, there are, they’re very good.  Dre or Ali, do you have thoughts on Heart at this point or nervousness?
+
+
+DRE: I have not had Fallout yet, and I’m disappointed in myself.
+
+
+JACK: [gasps] You haven’t had Fallout yet?
+
+
+DRE: No, no.
+
+
+AUSTIN: Is that true?
+
+
+DRE: Yeah, I’m pretty sure it is true.
+
+
+AUSTIN: Huh.
+
+
+SYLVIA: Motherfucker’s a tank.
+
+
+DRE: Yeah, no.
+
+
+AUSTIN: [crosstalk] True, I guess so.
+
+
+JACK: [crosstalk] Holy shit, that’s incredible.
+
+
+DRE: [crosstalk] I guess that means that I’m not trying hard enough.
+
+
+AUSTIN: I did-  Before the first session of this game, before this session with y’all - I think this even makes the episode, when I was like, doing the prep, I sent Janine a message that said “Dre has made maybe the most powerful combat character we’ve ever had, out the gate anyway.”
+
+
+JACK: Yes!
+
+
+AUSTIN: Cleavers are so tanky.
+
+
+SYLVIA: I think you say that during this session even.
+
+
+AUSTIN: Yeah, totally.  Chine is so tough.  It’s one of the things that is so interesting to me because there are two major combat encounters in this arc.  There’s the White Flower Beast up top and then there is the magistrate at the end.  And I think partly because it’s a new game, it all feels so risky to like, get into combat, but then, Chine specifically just has so much protection out the gate, and the weirder things are, the more protected Chine is, that it’s like, “Come at me.”  You know?  Unless I’m doing really high damage to you, you’re gonna be okay, you know?
+
+
+DRE: Yeah.
+
+
+AUSTIN: I guess the thing to note actually now that I think about it is: Yes, you get more protection at higher tiers, but the damage that come in actually outscales that protection, so that like, a Tier 3 place is more than one point away from a Tier 2 place in terms of incoming damage at the height, so it is balanced to still be more dangerous for you, but that protection is just so good, you know?
+
+
+JACK: It’s just really funny, because I don’t generally think of you as an antagonistic GM, Austin.
+
+
+AUSTIN: Mm-hm.
+
+
+JACK: Like there’s often that stereotype of GMs being like, “I’m finding the clever way to like, fuck up my players.”  But given Chine, I do like to imagine you in a workshop trying to develop a Chine-killing machine.
+
+
+AUSTIN: Well, it’s funny, ‘cause someone in the chat asked, this is lvcw said “Did you feel like you GMed this first session with the gloves on?”
+
+
+JACK: Oh, interesting.
+
+
+AUSTIN: And I don’t know, I’ve never known how to answer these questions because the goal isn’t - It’s pro-wrestling.  I wanna put on a good show, I’ve always wanted to put  on a good show, which either means the gloves have never been off or they’ve always been off.
+
+
+JACK: Yes.
+
+
+AUSTIN: I think the systems produce a good show.  I don’t pick… I don’t fudge any dice, even though I am pro fudging dice, ‘cause I don’t - I don’t even know how to do it in roll20, frankly, especially not with various plugins and modded whatever, I just use all the - Most of the time I don’t even roll dice, I just let y’all roll dice and I roll with it.  And there are still ways to control things, like how many enemies are in a fight or whatever, but like, I - That magistrate fight could have gone bad.  You know what I mean?  The one vector that I -
+
+
+JACK: Could have gone bad?
+
+
+AUSTIN: Y’all did fine.  No one died.  Y’all were fighting on a bridge in the rain.  It could have gone bad.  You know.  That motherfucker has some weapons if he had been in a position to actually use them on you.  And so like, that is the - The ways in which I play with the odds is by like, starting that fight with a bag on his head.  You know?
+
+
+JACK: Yeah.
+
+
+AUSTIN: And his hands tied, you know?
+
+
+JACK: [crosstalk]  There’s that beat where he gets his hands free and that’s really scary.
+
+
+AUSTIN: [crosstalk] Yeah.  Yes.  Yeah, I love that beat, that beat’s great and it comes from me having it tied in the first place, so that it wouldn’t be a Risky fight, which is playing with the odds, but I don’t know that that’s playing with my gloves on, because it followed from the fiction and my goal is to have big exciting moments, not to have- not to kill player characters.  If I wanted to kill player characters, I’d kill player characters.  It’s easy.  [laughter]  Like, I don’t understand what the joy is.  You control the odds.  Like, add another goblin.  Like, “Oh yeah, another goblin comes out.”  [ALI laughs] Like?
+
+
+SYLVIA: You wanna play god, just do it pussy.
+
+
+AUSTIN: That’s what I’m sayin!
+
+
+[JACK laughs]
+
+
+SYLVIA: Sorry.
+
+
+[more laughter]
+
+
+JACK: Oh no, a vulva!
+
+
+AUSTIN: Sorry, someone else was gonna say something [breaks off into laughter].  Someone else was gonna say something and I stepped on it, I apologize.  Was it Jack?  Was it Ali?
+
+
+JACK: Oh I was just gonna say real quick that like, to what we were talking about earlier about you building NPCs on the fly.  Ezek barely speaks in that episode, but I feel like he’s like this primo example of a character coming through physicality and coming through mechanics, where like, even though that guy fell into a ravine and up to heaven, I felt like we got a real sense of who that guy is, through how he behaved, and it was fantastic to go into this first session and meet this NPC who was distinctive, not necessarily because of how they spoke, but because of how they- how they chose to fight us.
+
+
+AUSTIN: That was a really fun fight.
+
+
+JACK: It was a great fight.
+
+
+AUSTIN: To some degree that answers how I feel about the Resistance system so far.  I’m really enjoying it.  I think it’s -  I think the Heart book is a little hard to find stuff in sometimes, which means that this early onboarding segment, section is hard ‘cause it’s like, we’re still learning the ropes and there’s lots of checking for things.  I still, to this day, will always forget where how much stress the players take comes from unless I’ve done it already in a session where, like, it comes from the Tier of the thing you’re in or it comes from a particular enemy that doesn’t care about what Tier you’re in and it’s tied to them, but mostly it’s the Tier.  And so I forget that all the time.  There’s a lot to track that we’re not - that doesn’t fall on us because we’re using roll20 and I think that helps.  
+And I think - the most important complaint I have is very selfish, which is: We do an actual play show and so to go like three arcs in and then to get - you know, for a conversation to work it’s way towards us, in which it becomes clear that at least part of the fan base does not understand the system yet was like, okay.  This is a thing that we have to be especially careful with because we understand enough to have a game, but we’re not masters at it by any means, and if that’s as well as we understand it, then yeah, the audience must be a step even removed from that and we need to be careful about moving too quickly, because otherwise you lose the drama of the sequences because so much of the drama is in the mechanics, you know?  Any other Resistance system thoughts this early?
+
+
+ALI: Yeah, this is something I’ve - I’ve mostly noticed this from like, editing it, but there’s like something about the Resistance system that seems like so… like unavoidable?  [laughs]  Like compared to Beam Saber, a thing that I noticed myself doing because Beam Saber is so laid out, and like the math is clear, that I would be like, “Oh, I can’t do this thing, because that’s gonna spend my last thing and I’m gonna have this thing happen to me,” which is the wrong way to play that game, but the way that I found myself doing it.  Whereas like, with Heart, it’s just like- this is a very tiny, mild spoiler for a future arc, but like, Virtue tries to walk across a room and that requires a roll, and then it requires another roll, and then it requires another roll, just because of the way the system works.
+
+
+AUSTIN: Okay, but that room has some shit going on in it, to be clear.  I would never make you roll-
+
+
+JACK: [crosstalk] Virtue’s walking in an interesting way.
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: Yeah, Virtue was walking in an interesting way and across a-
+
+
+ALI: That’s vague as possible, but-
+
+
+AUSTIN: Uh-huh.
+
+
+ALI: That’s just like, there’s like - I mean, a lot of games, you do the thing and you incur risk, right?
+AUSTIN: Yes, yes.
+
+
+ALI: But with this, it’s like, you check the thing and then like, if the hammer drops, it fucking drops and it’s dropping right now, and there’s like, less ways to slide around that which is, I think, compelling and fun so far.
+
+
+AUSTIN: Yeah.  It’s weird because the domain and - In some ways it feels looser than Forged in the Dark because there’s so many stats that combine, right?  You have your domains and you have your skills.  Skills?  Is that what they’re called?  They’re not called skills.  What are they called?
+
+
+[TIMESTAMP: 30:15]
+
+
+JACK: Yeah, skills.  Right?
+
+
+AUSTIN: Sorry for people looking briefly at a - That’s a little preview you got of the New Day comic that showed up on your screen for a second.  [JACK laughs]  No one go back and look at that, that comes out July 7th.  7/7, go buy it at your local comic store.  I was looking for my Heart pdf and instead I showed everyone a page of a comic book.  [ALI laughs]  Things are going great.  Where is Heart at?  Here it is.  Let’s see.  Are they called skills?  Are they just called skills?
+
+
+ALI: I think.
+
+
+AUSTIN: They are called skills.  So all that just confirmed that they were called skills.  And there’s not less of these and there are in Forged in the Dark, but somehow it feels like… it feels like…  Think about how many conversations we have in Beam Saber that are like, “Well why can’t I use X to do Y?”  And it’s me going like, “Well, because you use Z to do Y.”  Or whatever.
+
+
+ALI: Right, yeah, yeah, yeah.
+
+
+JACK: “Would you prefer to use X for this?”
+
+
+AUSTIN: Right, and then I say, “Well that would be Risky instead of being, you know, whatever.  Instead of being… Safe.”  Risky… What’s the-?
+
+
+ALI: Standard.
+
+
+AUSTIN: No.  What’s the thing that’s safer than Risky?  ‘Cause it’s Risky…  See this is what happens when you take us out of Forged in the Dark for like six months and it’s just all out of our fucking brains.
+
+
+JACK: And meanwhile Chine is like, “I can eat bones,” and you’re like, “Okay.”
+
+
+AUSTIN: I’m like, “Okay,” but you can’t make that… I get to be a little firmer here, right?
+
+
+JACK: Oh yeah.
+
+
+AUSTIN: In Forged in the Dark, you can say, “Okay, well can I use blank instead to get across this room?  Can I use Sneak instead of Athletics or whatever.”  [referring to chat] Controlled, thank you El.  “Can I use Athletics instead?”  And here I can say, “Well yes or - “  I can say no.  There’s many more times in this where I say like, “No, it sounds like the thing you’re doing is Discerning.”  Or “The thing you’re doing is tracking, I’m not gonna let you roll Kill to track someone.”  And being a little firmer on that does mean you end up rolling the dice and sometimes not good dice.  I think domains especially are just, you cannot count on having the domain.  You just cannot.  There’s been so many times when you’re like, in a Wild domain or in a Warren domain or something, and it’s like, well no one has that.  I’m like, “Okay, but that’s where you are and that’s how domains work, so you’re not gonna get those dice in here.”  And part of my job as prep is to blend those places where you don’t have a lot of domains with interesting, but not necessarily fatal challenges, where I’m like, “Okay, it would be interesting if you failed a roll here,” and I can kind of count on that being a possibility, a better possibility because you don’t have XYZ.  And so that’s part of what my - that’s kind of - going back to like, how I have played this system, that’s a big part of it.
+
+
+Next one.  This is from Ko, who says:
+
+
+“Why so many scary flowers in this opening set of arcs?”
+
+
+AUSTIN: Light spoilers for the next episode, the next set of arcs that came out after Mother-Beast, for Roseroot Hall.  “Rose” is right there in the title.  This is a - At first I was like, “Huh, I don’t know.”  And then I thought about it for a second and I have two answers.  The first is: We have been very concerned about the depiction of gore in this season.  We are doing a horror season in which I have done my best not to use the word “blood.”  It came up in a recording yesterday and I realized - I was coming up with an idea for a cool thing that did some shit with blood.  Like, it was a gun that did some blood stuff.  Magic blood stuff.  And I realized halfway through talking about it that we’d gone out of our way to make a move called ExSanguinate have nothing to do with blood.  [SYLVIA laughs]  Because we know that blood is a trigger for a lot of folks.  We cannot be expansive on that decision, but what it’s made me do - In other words, we cannot have a horror season in which we fully avoid things that we know are triggering, including to ourselves, though we are obviously, you know, abiding by our own list of vetoes and lines and such.  And there’s been times when we’ve absolutely X-carded something in conversation.  So to be clear, we’re following all the safety principles.  
+But we’re also walking up to content - In fact, this just came up in that Live at the Table too, we had a whole conversation about this at the You Can Check Out But You Can’t Ever Leave Live at the Table where it was like, I want to be scared so I want some stuff that’s upsetting to me in this, but here’s the stuff that I really just don’t like thinking about and we can draw those lines differently.  
+But all of that had led me to be like, “Well what is some stuff that I can play with that is visually potent but is not blood and guts and flesh.”  And that’s not to say that this season will never get to blood and guts and flesh, but I did not want to open with it when I knew that so many people were concerned that we would lean in that direction constantly.  I wanted there to be an opening set of - I wanted there to be an opening arc specifically in which that opening combat was against something that could be dynamic and memorable without being like, bloody.  Because I think that would help people settle into the tone of the show and become comfortable with the way we were telling the story.  
+There’s so much that does not go into a list of content warnings and that we’ve struggled with, frankly, in explaining via content warnings what the tone - or what all the characteristics are of a particular topic that are not necessarily clear in just the short word.  And there are difficulties in trying to even modify that to words.  So like, I’m just gonna pull up one of the ones from this arc.  I’m not gonna look ahead at anything.  So like, The Hymn of the Mother-Beast part 3 has amputation as one of the tags, the content warnings.  I believe that’s because of the…  Is that because of the dragon leg?
+
+
+SYLVIA: I think so, that…
+
+
+AUSTIN: Yes, it’s because the nuns previously had amputated the legs of the Mother-Beast to use in the ritual, that’s why.  We’re not zoomed in on that.  We’re not talking about that in like a descriptive way where I’m going over tools or - Like, I’m being more descriptive now by saying the word tools than I was then, right?  It was very abstract.  But I’m not gonna put the content warning “An abstract discussion of amputation” in case someone says, “Well that sounds like it’s good enough for me, that sounds safe,” and then we get to whatever it is and my definition of abstract and their definition of abstract are so different that they would have rather just known amputation is there from the jump, right?  And obviously this is a thing we’re learning as we go.  But all of that in mind, I really wanted to immediately, out the gate, have a really interesting encounter with a fascinating creature that would compel the imagination to visualize something in a way where you might think it’s a creepy situation, but you wouldn’t have to turn the show off.  So that’s one.
+The second reason for it is - And I just do that again - Roseroot again, has a flower thing.  But that one’s more interesting and we’ll get there when we get to the Roseroot Drawing Maps, because I didn’t know how much of that would show up in that episode.  Or in that season, that arc.  None of that was prepped, really, in any meaningful way.  Not the like - the stuff that happens in that arc with the scary flower was very limited prep, in terms of the events that actually follow.  
+But I think the reason it shows up multiple times is a greater theme perhaps in Friends at the Table, one of the recurring ones.  I think a lot of people would identify, would say, “Oh, Friends at the Table is a show that’s interested in anticapitalism, it’s interested in queer love, it’s interested in like, identity.”  One of the ones that I don’t think has been pulled out in quite that way is my personal deep cynicism in the idea that the earth will help us save it or will be on our side.  Like, without getting into spoilers about past seasons, I would have you - I would say think about arcs about nature in Hieron, think about arcs about nature in Twilight Mirage, think about Sangfielle.  These are not places that want justice to happen.  They are places willingly, and often actively siding with oppressive forces because they are fundamentally passive and lean toward power and not against it.  And that is not a - This is not a, you know, a PhD thesis for me, this is a thing I’ve discovered in telling these stories, is an impulse I have to push against that sort of Mother Nature environmentalism that thinks that we have a natural ally in nature.  Which does not mean that we ought not fight for environmental justice.  It’s just that we cannot expect that the environment will fight with us.  And so in that way I feel like there is a - That is the other reason my brain often goes to things like flowers is because they’re ways that I can embody a sort of indifference to human interest, while still keeping the creatures themselves as interested, right?  They’re still - They have goals, but there’s no reason those goals should line up with the goals of justice.  And so that’s- that’s a fun thing I’ve recently realized about our own stories, so.
+Ko in the chat says, “the blood fields.”  Like, yeah, Sangfielle is called the “the blood fields.”  BUt again, I think that there’s a difference between “the blood fields” and me slowly describing something happening with blood.  And it can be… In general we’re gonna try to use - I have been trying to use, I’m not gonna promise we’re going to indefinitely, but I have been trying to use blood in that more abstract, romantic way.  In the like, sensual, like, boom big-picture, yes, blood fields, “it was a crimson day.”  Like that stuff.  Not the like, this is a flesh or this is a wound, this is a head wound.
+
+
+JACK: Here is blood.
+
+
+AUSTIN: Here is blood, yeah.  Yeah, discussion of, poetic use of, not depiction of.  Those are difference, those are differences.  Next one.  This is an easy - this is an easy one, I don’t know if we can be quick.
+
+
+“Austin you have described -”  This is from Hans.  “You have described Sangfielle as an
+area of land surrounded by Concentus, the Ringed City.  In the maps I’ve seen,
+Concentus looks to actually surround the entirety of Sangfielle and I’m trying to square
+that idea with how large of an area Sangfielle appears to be.  Do you conceptualize
+Concentus as a continuous metropolis of enormous size to surround that much area? 
+Or is the topology of Sangfielle itself warped in some way so that one could actually travel
+around the city relatively quickly while traveling through the middle would be exponentially
+longer?”
+
+
+AUSTIN: No, it’s a big city.  It’s a continent.
+
+
+JACK: [crosstalk]  Yeah, I’m on team “it’s massive,” right?
+
+
+AUSTIN: It’s a massive city.  It’s a city the size of the entire like, circumference of a continent.  It’s a wild thing.  One day maybe we’ll get to go there.
+
+
+JACK: Thousands and thousands of lives and deaths.
+
+
+AUSTIN: Yeah!
+
+
+JACK: You know.
+
+
+AUSTIN: In a little tiny bit.
+
+
+JACK: People living vast experience.
+
+
+AUSTIN: Yeah, it’s huge.  It’s huge.  It’s huge, it’s phenomenal.  It’s terrifying.  Yes.  The whole world came together.
+
+
+JACK: [crosstalk] They don’t have trains there.
+
+
+AUSTIN: The whole world, all of whom hate each other factionally-
+
+
+JACK: Yeah.
+
+
+AUSTIN:  Said “Well this is im- Sangfielle is so scary to us, the idea of history changing is so scary to us that we are going to make an incredible, cooperative decision and effort to box it in by building an entire city the shape of a continent.”  It has to be that.  It can’t be anything less than that, ‘cause if it’s anything less than that, it’s not fucking interesting to me. [laughs]  It can’t be “It’s New York but inside of New York is Texas” or something like that.  Like, it has to be - “Inside of New York is the state of New York,” you know?  It has to actually, truly be that someone took the whole of the United States of America, which we have not said that that’s the size of Sangfielle, but I think it’s big, it’s continent sized, it’s a large physical nation, and then went, “We gotta build a city all around this and fill it with magical wards.
+
+
+JACK: [crosstalk] Go, go, go!
+
+
+AUSTIN: Go, go, go, go, go!  Yeah, one hundred percent.  Yes, yes, yes.  Easy one.  Lathe writes in and says - I’m so curious about this one.
+
+
+“I was recently having a conversation with one of the people with whom I play tabletop
+games and we started talking about horror as a theme in rpgs and how we both feel like
+it’s difficult to actually evoke a feeling of horror movie or book fear at the table.  Like, the
+aesthetics are easy enough, but that actual unease seems really difficult to capture.  Do
+you all feel like you have similar issues when trying to run or play horror at your table?  Do
+you even want that uneasiness present?  How do you think Sangfielle’s focus on gothic
+or cosmic horror affects the atmosphere?”
+
+
+AUSTIN: Have y’all been scared at the table before or can you think of ways in which you have seen this evoked?  I know Ali, did you just do a Ten Candles?  Thirteen Candles?
+
+
+ALI: I did a Ten Candles recently. [laughs]
+
+
+AUSTIN: Ten Candles.  Yes.  I couldn’t remember how many candles it was.  Ten.  It’s ten.
+ALI: Yeah.
+
+
+AUSTIN: Did you find that you were able to produce that sort of effect?
+
+
+ALI: It’s tough with Ten Candles ‘cause I feel like so much of that is built in, right?  Where you do the little seance things and at the end of each turn you like, make it known that people are gonna die at the end of this and I think that that kind of naturally pushes people towards the thinking like, “Oh, but what’s the thing at the end of the hall,” or whatever, right?
+
+
+AUSTIN: Right, right.
+
+
+ALI: Whereas like, with Heart, which has a lot of unsettling things that could happen as a consequence or like, that you can run into or cause to yourself from your skills because it benefits you in some way, [breaks off laughing] that’s like a different version of that.  
+
+
+[TIMESTAMP: 45:05]
+
+
+ALI: I think the like, unease is something that we sort of have to bring to it because with Heart it’s more like aesthetics than it is tone, if that makes sense?
+
+
+AUSTIN: No, that makes sense to me.  It’s a dungeon delving game with horror flavor, right?  As designed, in terms of their own setting.  It is - It’s like Darkest Dungeon in many ways, which is like,  [JACK: Oh, yeah.]  a spooky-themed game, a game that - That’s another touchstone for us, obviously, this season, but like, that's not a game that makes me jump back from my monitor like I’m watching Jack and KB play a Hallowstream game, you know?  So I think that you’re right that mechanically speaking, it’s not built that way the way 10 Candles is.
+
+
+JACK: Some of my favorite moments in this season so - So I have an experience with horror that I think is probably not unique, I think a lot of people have this, which is that they pick and choose the medium in which they enjoy horror.  I think I enjoy horror in kind of all medium, but I find it so much easier, or I find it so much harder to experience in movies than I do in games or books or comics or whatever, in which I’ll actively seek out horror games or books or comics, but movies I have a slightly harder time with, I don’t know why.  But it’s something that I - It’s a genre that I really, really enjoy.  
+And some of my favorite moments in making Sangfielle have been when I have felt the inklings of that feeling of being scared.  I think the fact that we’re all friends and we’re all sitting around - I’m sitting in front of Audacity speaking into a microphone means that it’s hard - I get this music as well.  I find it really hard to write scary music ‘cause I’m like - I’m drinking chamomile tea and I’m sitting in front of my synthesizer trying to make the sound of an army of undead robots moving in or whatever.  But definitely in Sangfielle I have felt moments of a kind of creeping unease and they’ve been some of my favorite moments.  I like making - I’m so excited to be making a horror season because I want to be frightened by y’all.  Like, I want to be in exciting and interesting situations where the other characters do something or Austin does something.  There was a moment in Hymn of the Mother-Beast when we’re overlooking the abbey and we see them bring the prisoners out - 
+
+
+AUSTIN: That doesn’t make the episode.  That’s not in the episode, Jack.
+
+
+JACK: I know!  Can I say it?
+
+
+AUSTIN: Yeah, yeah, we can say it.  Yeah.
+
+
+JACK: Yeah, so like, this is a moment that didn’t make it into the episode, but there was originally a bit just after we find the leg where we are looking over the abbey from a hill and down in the distance we see a parade of nuns come out bringing the two prisoners, bringing Polyte and Semm.  And then some more nuns wheel out some gallows.
+
+
+AUSTIN: Yeah.
+
+
+JACK: And we just see it down in the distance.  And that was so exciting to me.  It’s fine that it didn’t make the episode because that’s how the show gets made - 
+
+
+AUSTIN: I mean it’s this thing.  It’s the question of this.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Finish your thing and I’ll explain why I felt I had to change it.
+
+
+JACK: Yeah, absolutely.  But like, as a player and as like, a friend of Austin’s, that for me was this really exciting moment because I was like, “Oh my god, I’m getting to make a horror season with my friends and I’m having this great moment where I have -”  I wasn’t frightened, ‘cause again, you know…
+
+
+AUSTIN: In front of Audacity.
+
+
+JACK: I’m in front of an Audacity.
+
+
+AUSTIN: Yeah.
+
+
+JACK: But I was feeling this thing of like, “oh shit, this is kind of scary isn’t it, this is quite exciting!”
+
+
+AUSTIN: Yeah!  So that section - there was like, a couple of reasons why I changed it.  So yeah for - again, behind the scenes, happy to say this stuff.  Originally, they were gonna show up just as both or one of, Polyte and Ezek, were going to be hung from a gallows to death.  And - 
+
+
+JACK: What an opening, huh!
+AUSTIN: Great opening.  Except!  Of the thing I just said.
+
+
+JACK: Yeah!  Uh-huh!
+
+
+AUSTIN: Which is, this is our first arc of Heart.  This is our jobs.
+
+
+JACK: Yeah.
+
+
+AUSTIN: I am terrified of that number going down and anyone not being able to make rent!  I have no qualms about just saying that outright.  And again, that does not mean - So that’s one.  Two, I think I was playing fast and loose with things I’m afraid of.  I think that moment is very scary to me.  And I think more broadly, do I think I could set up situations in a game that are terrifying and are scary to me?  Yes.  Those situations tend to be attached to feelings of disempowerment, feelings of interactions with authority figures, feelings of the helplessness when someone I care for is in trouble, or distance from them when they’re in trouble, senses of confusion about myself, confusion about who I am or where I am, confusion about how I got a place or how to get back from a place.  These are all things that are in the toolbox.  I, in fact, have a really good plan that no one in this call knows about yet to start the next arc.  I think we’re gonna do a special thing that’s gonna be fun.  I think it’s gonna be fun.  To deploy one of the things I just said in a more considered way than that image.
+
+
+JACK: Oh shit.
+
+
+AUSTIN: Which was a strong image, but it was an image that I didn’t want to deploy without a lot of confidence in it.  Because it was a scary image to me, but it wasn’t enough that it was scary, it had to provide something, and it had to not feel like it was closing off an opportunity - I mean this is the other half of this, and this is - Everything we do is overdetermined in this show, everything has eight reasons why I, you know, decide X or Y, or a player decides to, you know, pull the trigger or not pull the trigger, or decides to take this move or that move and then that, you know, spins off to be blah-blah-blah.  So for me, part of it, a lot of it was what I just said, but part of it is also about the rhythm of an episode, what I feel I owe the players, and one of the things I felt I owed you was the opportunity - Y’all hadn’t failed to get there in time, so why would I force that moment onto you, outside of it’s fun for there to be a ticking clock and a big fight at an abbey.  And that’s fun, again, I’m not saying I’ll never do that, but for the first arc - This is so much more of an art than a science.  There is no universal “I would never do blank.”  But for the first arc, it would have felt bad for me to tell you, “despite succeeding at this delve, you got there too late and the person you were here to retrieve is already about to be executed.”  There might be a time for that.  And probably it’ll be when someone you care about is about to be executed, not someone you’ve never met before.  That’s not interesting and it’s not scary enough, to be honest.  It’s scary because of the signifiers at play: religion, executi- [laughing] you know, the violence of the state, et cetera.
+
+
+JACK: Impersonal distance.
+
+
+AUSTIN: Impersonal distance, right, exactly, yes.  All that stuff.  The helplessness as someone is about to be killed too far away from you for you to even say anything to them.  All that stuff, really terrifying.  But yeah.  So I think that that’s - That’s a big part of it.  That said, I think we’ve done it before, gotten close to it, in other games.  I’ve said before I think we got there in Beam Saber once or twice; I think there’s some scary stuff in Hieron in certain places, and I think that game from Sage LaTorra, with the Bluff City movie studios, Catch the Devil, is so - 
+
+
+JACK: [crosstalk] Oh, Catch the Devil?  I still need to listen to that.
+
+
+AUSTIN: You should listen to it.  I don’t think I went as hard as I could have in terms of horror, but the characters are so disempowered.  Ali and Dre were in that - Sylvi, you were in that too.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Right?
+
+
+ALI: That wasn’t me, that was Janine.
+
+
+SYLVIA: Yeah, that one was really good.
+
+
+AUSTIN: [crosstalk] Oh, that was Janine, that was not you Ali, right.  Yeah, no one has powers in that game.  No one can eat a bone and turn into a were-shrew.  No one can do a “summon the spirit of their own vampire-hunter-killer to defend them in that game, [SYlVIA laughs] and I think that makes it a really good vehicle for it.
+
+
+SYLVIA: Yeah, I was actually gonna mention that, like I think one of the reasons why I - Like the moment you mentioned earlier, like there’s been stuff that creeped me out during Sangfielle, but during that Catch the Devil game, the helplessness of the characters really accentuated like, how stressful and like, anxiety-inducing that was and like, here, like you said, there’s a guy who can like, eat god meat and do cool things and I’ve got a fun ghost.
+
+
+AUSTIN: Yeah.  That changes - it changes it a little bit.
+
+
+SYLVIA: [crosstalk] It isn’t to say that you can’t do that.
+
+
+AUSTIN: Right, right.
+
+
+SYLVIA: It’s just, it makes it, from a player perspective like, it’s not going to like, shake me as much in the same way unless I’m like really - a bunch of shit’s already gotten me to the point where I’m at.  I think the - I can’t talk about what I was gonna say, never mind.
+
+
+AUSTIN: Upcoming episode.  Something in the upcoming episode?  Yeah.
+
+
+JACK: Yeah, that scared me too.
+SYLVIA: Yeah.  There’s some stuff…
+
+
+AUSTIN: [crosstalk] Okay.
+
+
+SYLVIA: [crosstalk] There’s some stuff we’ll talk about later.
+
+
+JACK: [crosstalk] Spooked me out.
+
+
+AUSTIN: Yeah.  Which is interesting -
+
+
+JACK: Some imagery in that.
+
+
+AUSTIN: When that episode drops I want people to think about the answer I said about the flowers and think about that in relation to that answer, so.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Specifically just the craft - Not the big picture, the earth won’t save us one, the other part of it.  All right.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Gonna keep on moving.  We kind of just answered this one.  Philip says:
+
+
+“Austin, I remember you saying during Partizan that campaign taught me a lot about making action sequences that sing.  Since this is the first arc that featured fights and delves, I wonder how your experience using those in Sangfielle has been so far, how is your approach to prepping and running Heart different from the one you used in Beam Saber missions, have you learned anything about portraying compelling action, has that carried over to Heart?”
+
+
+AUSTIN: I think this - I think that this had two really fun like, action sequences.  The fight against the White Flower Beast wasn’t really a fight so much as like a “please don’t hurt us, let’s navigate past this thing and keep it at a distance.”  Which, if Bloodborne 2 ever existed, it should have some fights like that, that would be sick.  [ALI laughs]  Where you’re like, “I just need to get across the room.  Bro, I swear, I just-”  I mean, I guess that’s like, moving through the world of Bloodborne, right?
+
+
+SYLVIA: Yeah.  That is most of this game.
+
+
+AUSTIN: That’s certainly the- me trying to get through that forest with the worst enemies in the game.  And also just like, “Please let me through to the stupid college, I’m begging you, I just wanna get there and I can move on with my life.”  [SYLVIA laughs]
+
+
+JACK: I never played that forest.  That was the point at which I said to Bloodborne, “Good night.”
+
+
+SYLVIA: Fair.
+
+
+AUSTIN: Fair, fair.
+
+
+SYLVIA: I went in that forest for exactly one second and realized why…
+
+
+AUSTIN: Yeah, uh-huh.
+
+
+JACK: [crosstalk] Uh-huh.  God willing, Bloodborne!
+
+
+AUSTIN: There was a good fight in there, in that, I liked the - There’s a fight in there I liked, in the area right after it, like the end of that spoke of that game is great, but… Well.  Anyway - 
+
+
+JACK: To me, I’m gonna mod in an AK-47, [SYLVIA laughs] and I’m gonna-
+
+
+AUSTIN: There’s a Gatling gun in that game.
+
+
+SYLVIA: Yeah, there are guns.
+
+
+AUSTIN: Yeah, so…
+
+
+SYLVIA: It would be compliant with the lore, I guess.
+
+
+[AUSTIN laughs]
+
+
+AUSTIN: This is my lore-compliant AK.  [laughter]  I think the combat has been fine so far.  We’re so early that I’m not too worried about being like, “and this was a sick action sequence.”  But I think the one with Ezek was a pretty good action sequence.  I think everyone’s abilities were cool.
+
+
+JACK: [crosstalk] Yeah, the second one was really good.
+
+
+AUSTIN: But that was mostly - I’m gonna give that to y’all for the most part because you all had really great, kinetic descriptions of the action in those sequences that let me bounce off that and fire back with really like, descriptive, kinetic stuff.  None of that is really what my concern has been, historically with action sequences, which tend to be about “can we please use the environment, let me make a note of what’s around, let’s make this feel like it’s in a space instead of just being in, you know, Final Destination.”  Not Final Destination, what’s the level in-
+
+
+SYLVIA: It is called Final Destination.
+
+
+AUSTIN: Is the level in Smash called Final Destination?!
+SYLVIA: I’m pretty sure.
+
+
+AUSTIN: Why is it called-!
+
+
+JACK: You keep getting killed by a big sheet of plate glass.
+
+
+SYLVIA: Is it not?  I might be wrong, hold on.
+
+
+AUSTIN: It is called Final Destination!
+
+
+SYLVIA: Okay, yeah, I thought so.
+
+
+AUSTIN: I want our fight scenes to be more like Final Destination the movie, not Final Destination the Smash stage.
+
+
+SYLVIA: I think we did a pretty good Final Destination: Bridge Edition.
+
+
+AUSTIN: Yeah, uh-huh.
+
+
+JACK: Yeah!  Also, something about that fight was I don’t remember if it was - I don’t know if before the fight or afterwards, Austin, you said something along the lines of “You motherfuckers have accidently kidnapped John Wick.”
+
+
+AUSTIN: Yeah!  That was during that fight.  Yeah.
+
+
+JACK: And like, hearing that was like such a good - That was like the code phrase for coming up with an NPC - 
+
+
+AUSTIN: [laughing]  Yeah, uh-huh.
+
+
+JACK: ‘Cause I was like, “Oh, this is what we have to do in this fight, this is now a John Wick fight.”  Oh, and also the high kick from Grosse Pointe Blank.
+
+
+AUSTIN: Yes, yes.
+
+
+JACK: Just knowing the textual language of that fight, I think really helped me be like “How are we staging this?”
+
+
+AUSTIN: Everyone needs to go watch Grosse Pointe Blank.  It’s so good.  I rewatched it recently, a couple of months ago, right before Sangfielle.  And you wouldn’t think that a movie about John Cusack going home for a a high school reunion-
+
+
+JACK: It’s so good.
+
+
+AUSTIN: -would influence Sangfielle, and yet.
+
+
+DRE: And yet.
+
+
+AUSTIN: That movie is genuinely still incredible, it has only gotten better with age.
+
+
+JACK: Soundtrack’s great.
+
+
+AUSTIN: Yeah.  I wanna rewatch it right now.
+
+
+JACK: Minnie Driver’s great.
+
+
+AUSTIN: Minnie Driver’s incredible in it.  Everybody’s great in it.  Everybody’s great in it.  Anyway.
+
+
+JACK: Dan Aykroyd shows up.
+
+
+AUSTIN: “Bing-bang-bang-boom popcorn!” is a thing he says in that movie.
+
+
+JACK: [crosstalk] Popcorn!
+
+
+AUSTIN: Yeah, uh-huh.
+
+
+SYLVIA: Can I just mention something that I think has helped with the fights scenes in part, in general -
+
+
+AUSTIN: Yes, please!
+
+
+SYLVIA: Is that the swings always feel very big, just with the way the Resistance system is sort of like, built.  It doesn’t always mean we’re going to be dealing like, big damage to the thing we’re dealing with.
+
+
+AUSTIN: Right, right.
+
+
+SYLVIA: But something is going to happen and that usually feeds into the next like - especially in fights and in like, more action sequences.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: It’s not always just like, you gotta beat up this guy.
+
+
+AUSTIN: Right, right.
+
+
+SYLVIA: I think it really helps with that and really helps with the momentum of things, so.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: The system with some of that too.
+
+
+AUSTIN: I think that it’s good that we’re coming off of so much Forged in the Dark, where we’ve kind of internalized that like, you have to overcome problems, not do HP damage, you know?
+
+
+[TIMESTAMP: 1:00:02]
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I think that that’s pretty good.  I’m gonna come back to this one from Ry, I wanna pass the mic around a little bit.  One second.  Here we go.  Are you good with this one, Sylvi?
+
+
+SYLVIA: The anonymous one?
+
+
+AUSTIN: Yeah.  Uh-huh.
+
+
+SYLVIA: Yeah, yeah, yeah.
+
+
+AUSTIN: Anonymous says:
+
+
+“Hey all.  This Q is for Sylvi.  Was wondering how early in the creation of Virtue did you know she was going to be one of the more morally dubious player characters of the season and how do you feel about playing the The Evil One™ of the season?
+
+
+SYLVIA: Like halfway through Partizan.  Pretty early on I kind of knew I wanted to play a quote-unquote like, bad guy at some point or close to it.  And like, this world that we were creating seemed like a pretty easy fit for it.  But like - I gotta say honestly, the thing that made me decide one hundred percent was just seeing Jack have fun with Clem being awful.  [JACK & DRE laugh]  Like, the stuff that we got out of having a character in the party that was.. not only-
+
+
+JACK: Awful?
+
+
+SYLVIA: Yeah, well awful, but also not always going to line up with either the mission we’re on or the party’s like, general intent, I thought led into some really interesting situations and this is one where - I know we talked a little bit about how the sort of like, prison setup for Partizan made us feel a little like, hamstrung at times.  I think like, I wanted to be like, “Okay, what if we had a shitty person who has literally no power over anybody in this situation, but thinks they do.”  And I don’t know.  The way I think about characters is just like, “what would I think would be a fun change of pace to do on the show at this point?”
+
+
+AUSTIN: Totally.
+
+
+SYLVIA: So after being Milli, who was like, gruff but generally pretty good, I wanted to try and be someone who did not have people’s best interests in mind.
+
+
+AUSTIN: A fun thing for me has been trying to pace that stuff out where I want those opportunities - Those opportunities will continue to come and so seeing things like you taking the Hymn of the Mother Beast book.
+
+
+JACK: [crosstalk] The book?
+
+
+AUSTIN: Which like, this is the only one and it’s important to this entire faith is so- is such a good swing early on, cause I had not planned on having a huge, evil, Virtue moment and you found one anyway.
+
+
+SYLVIA: Well, like - I -You know I wanna - This is actually something I didn’t think of until just now.  Something that really helped with figuring out how shitty Virtue was, was the Enlightenment drive.
+
+
+AUSTIN: Oh, sure.
+
+
+SYLVIA: Because a lot of that is just like, shitty academic-slash-archeologist.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: And I’m like, “Well yeah, she is kind of that.”  She’s going places to just steal from other people for her own gain.
+
+
+AUSTIN: Right, there’s no-  Your big picture goal is “I want to be powerful and live forever.”  That’s it, there is no secret like, good - There’s nothing there besides “you’re cool while doing it,” makes you like - that aligns you with other people.
+
+
+SYLVIA: Yeah.  I, at one point had thought of like, a way to make it more sympathetic and immediately threw it in the garbage.
+
+
+AUSTIN: Good.  Yes.
+
+
+[JACK laughs]
+
+
+SYLVIA: ‘Cause I was like “That’s not fun.  That’s not interesting.”
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Like - And it also loses a lot of what I’m trying to like - Like, the kind of shitty person I’m trying to get across as Virtue.  So yeah.
+
+
+AUSTIN: I’m very curious to see how that will - There’s a couple of choices so far that have been kept from the party, including from future arcs that haven’t completed yet.  I guess Roseroot’s completed, but we’re not talking about it today; where I’m like, “Huh, this could lead into some interesting inter-party stuff long term.”  So, looking forward to all of that and to see how Virtue goes when there’s like, really juicy stuff dangled in front of her that could break bad for other people.
+
+
+SYLVIA: [crosstalk] Yeah.
+
+
+AUSTIN: Ryan asks:
+
+
+“I’m a bit behind on the Drawing Maps, so forgive me if this question’s already been asked, but I wanted to ask what the prep looks like for an arc of Heart.  From the outside, these appear to be slightly more linear than other games played on the show, so I was curious how long of a leash, so to speak, the players have in dealing with the problems presented to them.  Is there a world where the PCs refuse a job and that causes other, immediate consequences?  What kind of contingencies does the system recommend for prep?”
+
+
+AUSTIN: This system is very low session prep, but it’s very high world prep in the sense that the book comes with an entire world already where, if you flip through the back pages of the book, you have Tiers One through Four worth of stuff to go to, out the gate.  Dozens of locations.  And so you can then build that in your game or like, place that stuff, and you have just enough from any single thing to like, generate an adventure or a situation between that and the very basic delve mechanics.  
+So again, just as like, an example of this: “Substation.  Default Domains: Technology, Warren.  Default Stress: d4.  Haunts: None.”  Some other places have Haunts, that are things like a clinic, or an altar, or a purification chamber.  Then there’s some description: “Ancient pumps, several stories high, used to suck the brackish water out of this place.  THe walls are porous and unstable and water would seep in.  Now the pumps are long broken and the furnaces powering them are cold.  The station is flooded at least waist high.  The flooding, and the creatures that scud malevolently around the abandoned tracks (Wretches, pg. 199) keep people out, meaning that there are untouched airtight rooms, lockers, tunnels, and even a vending machine that are presumably full of Vermissian artifacts.  The fact that no one’s been stupid or competent enough to get into them yet doesn’t stop tens of delvers drowning in here every year.”  
+Then there’s a list of resources: “Intact vending machine from the Vermissian Company, d12, awkward.”  That’s a great resource.  A vending machine.  Huge, awkward vending machine is fantastic.  “A box of damp information pamphlets: ‘The Pulse Line and You: Proper Train Etiquette.’  Something purporting to be a timetable that descends into a madman’s prophetic scrawl, d8, Occult.”  
+And then some potential plots.  “Afalrin, a jaunty Vermissian sage dispatches the delvers to salvage the research notes from a lost exploration team in the bowels of Substation, but why were they lost?  d8, Occult.  This old guy with one eye and fewer teeth at the back of a bar won’t shut up about, quote, ‘a giant eel with legs that lives in Sub.’  Says the Signal-Box Cultists (pg. 196) there worship it like a carnivorous god.”  
+And so that’s what a Landmark looks like in the book of Heart.  My prep is to produce those, effectively.  The thing about - if you picked up Heart right now you could just run this game ‘cause these are all pre-written.  I am making them up, not on the fly, but in between sessions, and I think, and I’ve thought heavily about this and it’s frustrated me.  That the fact that I have to do it bit by bit because I just have not had the time to sit down and knock out dozens of these, means the game feels much more on tracks.  I was very frustrated at myself at the end of the first session of the currently releasing arc, The Candle Factory.  That’s the name of the arc, Ali?  Is that right?  Is that what we decided on?
+
+
+JACK: I think so.
+
+
+ALI: Uh, yeah.
+
+
+AUSTIN: And not to get into it too deep, but I felt like it was the most railroad-y this has ever felt or, you know, it definitely felt like there were branches you could take, but you know, this was “Here is your job, you have a couple of places to go, but do it.”  And I think if I’d had the time to prep dozens of different locations the way the books has, then we could play in even more freeform.  And also if there was one party and we didn’t have to worry about timelines not matching up and stuff like that.  If you were playing at home, I think you could do the situation where you’re just kind of like “Okay what do y’all getting up to today?”  If you’re comfortable with, you know, coming up with stuff on the fly based on what you have available, and maybe you highlight certain things; you know they’re not at Tier 3 yet, so you don’t have to know all your Tier 3 places and the sorts of enemies or, you know, NPCs that might show up there, et cetera, then I think it’s a really good game to play with very little prep.  
+But because of the way we do it, it tends to be us like, calling our shots and then building around that.  In an episode that’s already out but is after this, so I’m not going to get into details, there’s a character who says “Hey I wanna do X,” then finds a - You know, searches out some way of locating X, and then will pursue that in the future.  And in some ways that’s that player flagging a type of adventure for me to then build.  And so that will come from that, but that’s pretty distinct from the sort of just like, “Here’s the map, pick a direction and go.”  You know?  
+But that’s also just - What I just said is kind of the prep for a session.  I know where the Landmarks are.  I also come up with delves with like - I tend to wanna have like five or six things that could happen on a delve, and I pick from those as you roll to come up with interesting little beats on that travel montage.  And then some NPCs and Landmarks and Haunts and stuff.  Otherwise, it’s pretty low.  It’s not quite as - I always describe Forged in the Dark prep as being like creating a Hitman level.  This is much less structured than even that and much more freeform, so it can be a little unwieldy at times for me.  I feel like I don’t have as many guardrails to make a final situation interesting sometimes because the work I’ve done is different.  The work is like, front loaded on the approach, more than “You’re at the place and it’s three floors, and here’s interesting stuff on each of these floors.”  And I’ve tried to do prep that way in this game, and it just hasn’t- it actually just hasn’t come up.  Like, it hasn’t really felt like, good when it’s been deployed and we’ll talk about that in a future episode, for sure.
+I think this is the last one.  This is the last one.
+
+
+“Beyond your episodes focusing on building out the world, you seem to do a lot, or a decent enough portion of your worldbuilding on the fly, which I really enjoy listening to.  I find it hard in tabletop rpgs or other storytelling types to not have everything decided beforehand to the extent that it impedes me from other, usually more important, things.  So basically, you have any tips for this more open-ended style of worldbuilding that can react to the story more dynamically?”
+
+
+AUSTIN: My answer to this is the same thing as almost always, which is like, ask your players questions.  I think I’ve done this - I think I might be doing this more with this season than any other so far, because I really feel like y’all all own different parts of the world in a way that has not been as true in the past?  Whenever a train thing comes up, I’m asking Jack about the train thing.  Whenever a weird creature thing comes up, I’m like “I don’t know.  Has Chine dealt with this before?”  And I think like, turning that stuff over means you’re going to end up with really interesting answers and it does mean that you don’t have to worry about having pre-prepped everything in the same way.  Has anyone else felt this in this season?  Am I off-base in thinking that? That sort of like, I feel like we’re being a lot looser in terms of prepping world details and being more happy to come up with stuff on the fly a little bit?
+
+
+SYLVIA: No, I think that’s true.  I think, like, it comes partially from the fact that we’re like, doing a completely new, like, world.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Right.  Yes, that’s true.
+
+
+SYLVIA: ‘Cause like, Partizan we were creating Partizan, but there was still a lot of like, stuff in that universe to bring in.
+
+
+AUSTIN: [crosstalk]  Right, right.  Yeah, Partizan’s like the opposite of this, where I did a ton of work ahead of time to situate literally everything about that planet and how everything there related to each other and blah-blah-blah, so…
+
+
+SYLVIA: Yeah.  And like, even though we were coming in with like, all new characters and everything, like, it’s different than coming into a, like, completely almost blank slate setting, aside from like, the basic genre stuff that we wanted to hit, you know?
+
+
+AUSTIN: Mm-hm.  Totally.
+
+
+SYLVIA: It’s been very fun.
+
+
+AUSTIN: Yeah.  Agreed.  A thing that hasn’t - A thing that came up, but not in this episode is one of Keith’s abilities that forces us to generate something very interesting on the fly.
+JACK: Oh my god.  It’s so good.
+
+
+AUSTIN: That has been so funny, so look forward to us talking about that in the next one.
+
+
+JACK: Also the - There’s a very weird dice roll that we do at one point in the downtime, just before we go shopping.
+
+
+AUSTIN: Uh-huh.
+
+
+JACK: And I think the fact that Sangfielle-
+
+
+AUSTIN: Oh yeah, that one’s great!
+
+
+JACK: I think Sangfielle allows for this kind of - Specifically the setting allows for these kinds of swings, where we can be looser, and we can be stranger, and we can try and figure it out in a way that we might not be able to do if we were playing in a more straightforward setting or in a place that was more solid.
+
+
+AUSTIN: Yeah, because there’s that fear of contradicting something that’s already been said.
+
+
+JACK: Yeah.
+
+
+AUSTIN: And I just don’t really have that so much here, for multiple reasons.  One being the setting is about a place that contradicts itself often, and the second being that it’s so early that even if we disregarded that, we would still be in a place where so much is left undecided that even that impulse just isn’t gonna show up that easily.
+
+
+JACK: Right.
+
+
+AUSTIN: So yeah.  Any other thoughts on this arc before we wrap up?  I really enjoyed it as an opening arc.  I like that little bat creature in the caves.
+
+
+SYLVIA: Yeah, I’m so happy with how that worked out.
+
+
+AUSTIN: That was good.  
+
+
+[TIMESTAMP: 1:14:57]
+
+
+AUSTIN: I’m happy with a lot of the like, “Is now the moment to do blank?  Is now the moment to use Marn’s, you know, pre-game pep talk skill?  Yes.  Is now the moment to bust out the weapon or to use the ‘call my spirit’ ability?  Yes.”  Hitting all of those things in that first arc felt very good to me, because I was so afraid that we wouldn't get characterful moments because we were so focused on just “how does this system work?  Let’s not mess it up.”  You know?
+
+
+JACK: Oh, I love that Pickman’s gun broke immediately.
+
+
+AUSTIN: Oh, that was so good.  That bit’s so funny.
+
+
+JACK: Having to borrow a gun from Virtue.
+
+
+AUSTIN: Or it was a rapier or something, wasn’t it; it was a sword.
+
+
+SYLVIA: It was a sword, yeah.
+
+
+JACK: Oh, it was a sword.  Pickman doesn’t really - You know.  We know that Pickman’s understanding of what a gun is, is… It’s limits-
+
+
+[AUSTIN laughs]
+
+
+SYLVIA: A gun is just something that Pickman can kill someone with, it doesn’t necessarily need to fire projectiles.
+
+
+JACK: [crosstalk]  Yeah, exactly.
+
+
+AUSTIN: Yes.  Yes.  Any other bits to shout out here?  Trying to think if there was anything else in this arc that I particularly…  I think one of the biggest other things that I - that came up here and that - You know, actual play shows are absolutely airplanes you - they’re planes you’ve built in the air.  Right?  That’s the saying. That’s how that goes.  And one of the biggest lessons from this arc was the slow realization of like, “Oh right.  You have to do a delve back.”
+
+
+JACK: Yes, it’s so good!
+
+
+AUSTIN: And I’ve found some ways to cheat this in the future that haven’t come out yet or also that we haven’t even gotten to yet, that’s exciting to me, but it’s a unique thing tied to the idea of doing a Haven based game, where everything is based in Blackwick means we gotta get back to Blackwick.  And so that realization is a double edged sword, because on one hand, it is so good to be like, “Oh we got Polyte, but we gotta get back.  We gotta get back?  Uh-oh.”  It’s another thing to be like, “We’ve been on this call for four hours.  Do we break here and then come back to just do this go home thing?”  Or Marn, you had to do the ritual, right?  To reconnect these two things to make future delves between them more simple.  And it was like, I want this to happen, but it’s so late already and it doesn’t feel like great pacing to just be like, “And then do this now at the end.”  You know?  So that’s a lesson for me, has been like, how do I work around that.  And so that’s a thing, again, when I say we’ve built it in the air, that like, still figuring out ways to address that and I think I've found some ways that’ll be interesting in the next couple of arcs that come out.  So, look forward to that.  Should be fun.
+
+
+JACK: Oh, real quick on music.
+
+
+AUSTIN: Yes.
+
+
+JACK: Polyte’s song was the track from this arc.
+
+
+AUSTIN: Yeah!
+
+
+JACK: I wanted to, at least in the early stages, to help establish the world, I wanted to try and make sure the opening arcs had their own music and that the first downtime had their own music as well, to kind of help set the tone.  And I always find something that I really like in horror is the kind of queasy sensation of not quite knowing how seriously you’re supposed to be taking something that is unsettling.  And so it was really important to me to try and get a track out early that was funny, or that felt light, or that felt characterful, because we’d done so much big talk about Sangfielle feeling dangerous, and overwhelming, and upsetting that I really wanted this track that was just like, “This is a weird guy telling a story,” and the music is going to lean into that and it’s gonna try and be fun.  But as I was writing that, and again this is something that we’ve recorded but I can’t talk about next, I knew what the - I already knew what the next track on the soundtrack was, which is the track from Roseroot Hall.  And so I was writing Polyte’s Story with this very specific feeling in mind of like, “Okay, we’re gonna do - These things are gonna be back to back on the album, so I want to lean into the feeling of those two tracks next to each other.”  Going from the way Polyte’s Story sounds to going to the way that Roseroot Hall sounds was important for me at least, in terms of like, trying to figure out how this season should sound.
+
+
+AUSTIN: That makes sense.  Okay.  That’s gonna do it for us.  You can send your questions to tipsatthetable@gmail.com.  We’ll do one for Roseroot Hall sometime in the coming weeks.  I have some time away from home coming up, so that might make it a little bit of a delay on this next one, but we’re gonna do our best to keep catching up on these.  As a reminder, we’ve combined Drawing Maps and Tips for the foreseeable future into one thing, just as a way to make sure we’re consistent on it and also because I think the questions are just a little more sharp and we still get to have the more general conversation, but it’s nice to have them with this context.  Am I forgetting anything?  Ali, am I forgetting anything?  I think that’s it.
+
+
+ALI: I don’t think so.
+
+
+AUSTIN: Tales From the Loop!  Impending.
+
+
+ALI: Oh yeah, we have the character, like, building episode out
+
+
+AUSTIN: Mm-hm.
+
+
+ALI: The first actual episode of that session should come out this Sunday.
+
+
+AUSTIN: Ooh!
+
+
+ALI: And then Sundays going forward for the next five weeks?
+
+
+AUSTIN: Ooh!  That’s a long arc.  We like, we did three?  Four sessions if you count character building?
+
+
+ALI: We had fun.  
+
+
+SYLVIA: It was so good though.
+
+
+AUSTIN: Yeah it’s a fun one.  I think that game is great.
+
+
+JACK: It’s very Bluff City.
+
+
+AUSTIN: It’s very Bluff City.  It’s very Bluff City in a really good way, so.
+
+
+SYLVIA: If you’re ever like, “Sangfielle’s too stressful and scary!”  I think it’s a pretty good, like, this has got-
+
+
+[laughter]
+
+
+JACK: It has some spooky looking monsters, but…
+
+
+DRE: Yeah.
+
+
+AUSTIN: True, true.
+
+
+SYLVIA: A little creepy here and there, but for the most part, fun times.
+
+
+JACK: The world’s coolest librarian.
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: Oh my god, I forgot about - It’s so good, look forward to Tales From the Loop, What Does It Mean to Be Young Near the Shore, coming to you soon.  All right, that’s gonna do it for us, let’s go to time.is, I hope everyone has a great night.
+
+
+[END TRANSCRIPT]

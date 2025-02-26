@@ -1,0 +1,1575 @@
+﻿Live at the Table 34: June 2020 - The Grand Tableau Character Creation
+Transcriber: Susie {35 min}, anachilles#0191
+
+
+Austin: Welcome to Live at the Table, an actual play live stream focused on critical worldbuilding, smart characterization, and fun interaction between good friends.
+
+
+Austin: I am your host, Austin Walker. Joining me today, Sylvi Clare.
+
+
+Sylvia: Hi, I’m Sylvia, you can find me on Twitter @sylvisurfer, and you can listen to my other show Emojidrome wherever you get your podcast.
+
+
+Austin: I’m sorry for using a cadence there that sounded like you were driving to the base line, [c] with my- I absolutely did!
+
+
+Sylvia: [c] It’s okay! It really surprised me.
+
+
+Austin: Also joining us-
+
+
+Sylvia: Ah!
+
+
+Austin: -Keith J. Carberry.
+
+
+Keith: Hi, my name is Keith Carberry, you can find me on Twitter @KeithJCarberry. You can find the Let’s Plays that I do at youtube.com/runbutton. We just did a big section of a lot of Silent Hill: Homecoming. It’s our first time recording Silent Hill since [c] the start of the pandemic.
+
+
+Austin: [c] Oh, I’m very excited.
+
+
+Keith: We’ve also got Shen Mue 2 !!! going up on the Patreon, content burger.biz.
+
+
+Austin: I am very excited to watch both of those. I’m keeping up. I’m keeping up with all those let’s plays. Content burger.biz. Where’s the beef? [laughs]
+
+
+Keith: Where’s the beef on this content burger?
+
+
+Janine: It’s at fuckdads.com.
+
+
+Austin: [c] Oh, it’s at fuckdads-
+
+
+Keith: [c] It’s in Shen Mue 1.
+
+
+Austin: It’s in Shen Mue 1, that’s where the beef is, Tom has it. Oh no! 
+
+
+[KEITH laughs]
+
+
+Austin: Also, that was the voice of Janine Hawkins.
+
+
+Janine: Hey, I’m Janine Hawkins, you can find me @bleatingheart on… Twitter. I almost said on YouTube-
+
+
+Austin: Well.
+
+
+Janine: -and that’s true, you can find me there, this month, and never the rest of the year. Only this month. On Mondays, Wednesdays, and Fridays, playing a little bit of Dragon’s Dogma for Halloween.
+
+
+Austin: Hell yeah.
+
+
+Keith: Ooh.
+
+
+Janine: Mm-hmm.
+
+
+Austin: Witching hour that I can get behind. And also, get onto sometimes, as I crash your stream and talk about Dragon’s Dogma, and give you tips.
+
+
+Janine: Yeah, that was fun.
+
+
+Austin: I will continue to do that occasionally, I promise. Uh, Janine, you know what I love about you is, you are one of the rare people on this- on this- the only other person on this call who does not have another form of their name that they say when the other one, the way that when I say Keith J. Carberry, Keith says Keith Carberry, when I say Keith Carberry, Keith says Keith J. Carberry-
+
+
+Keith: Uh-huh.
+
+
+Austin: -and likewise Sylvi and Sylvia. [SYLVIA laughs] Always makes me feel some sort of way, I don’t even know. Ali does it too.
+
+
+Keith: I have been doing it for years, pretty much on purpose.
+
+
+Austin: Ah- well, I’m glad you are. Ali doesn’t know that she does it. So… It’s fine.
+
+
+Sylvia: I don’t either!
+
+
+Austin: [c] It’s- I- you know what, I actually think it’s- I think it’s- [laughs] 
+
+
+Keith: [c] I have been doing it as a joke… A long, slow joke.
+
+
+Austin: I actually think it’s a good impulse, in the same way that I don’t like to use the same word twice in two adjoining sentences as a writer. And it’s like, a natural instinct not to repeat the same exact sounds. So I think it’s-
+
+
+Sylvia: Okay.
+
+
+Austin: That’s good performer instinct right there. Um… Today!
+
+
+Janine: What you’re telling me is that I should start introducing myself as Nadine Hawkins, [l] which for some reason is the thing that people call me most when they’re wrong about my name.
+
+
+Austin: Um, only if you start cosplaying Nadine from Twin Peaks. Get yourself…
+
+
+Janine: I don’t remember who that is.
+
+
+Austin: Uh…
+
+
+Sylvia: Eyepatch lady.
+
+
+Austin: Eyepatch lady-
+
+
+Janine: [c] Oh right. Yeah, she’s- yeah. All right. Yeah. Cool. 
+
+
+Austin: [c] -curtain runners, super strong, [laughing] occasionally has super powers.
+
+
+Janine: She’s just- she’s just a superhero.
+
+
+[KEITH and AUSTIN talk too, but the audio clips]
+
+
+Janine: She’s just fully a superhero, living her life.
+
+
+Austin: Uh… Um. Nadine. Shoutouts to you Nadine. I’m glad you found- I’m glad you found happiness in the end. Um, god, Twin Peaks. We are not here to talk about Twin Peaks. We are here to talk about and create characters for Quest, a tabletop roleplaying game by T.C. Sottek, that has been in, like, kind of, in the discourse this year, a little bit back and forth. It’s a game I’m super curious to check out, because it is- I think you could talk about the way it is being pitched, the way it is set up as a product, and you could talk about the game itself. And those things all join to make something that I think I’m very interested in, and also something that fits the mold for something that I’ve wanted to do for a while, which is have kind of a back pocket Live at the Table game that we could drop into and drop out of. [laughing] I kind of think of it as, like, pick up and play, or drop-in multiplayer almost? In my mind, what we’re gonna do with this. Low prep- still prep, still has a GM that in this game is called a Guide. You know, still has some degree of that traditional, kind of tabletop adventure roleplaying game. Structure, GM-focused structure, but is looser in terms of things like stats, is looser in terms of things like campaign tracker, and so I think it’ll fit our needs in that way really, really well.
+
+
+If you don’t know Quest, it is a system that is very clearly in conversation with Powered by the Apocalypse games, with lots of, sort of fiction first, fantasy- and not even just fantasy, you know, fiction first games from the last eight, nine, ten years, that still fit the general story game kind of genre space. You know, this is not an old school Renaissance game by any means. To that end, the character creation in this game is really interesting and really… focused on, kind of quickly sketching out a basic idea for a character, choosing some abilities that are interesting, that you’re excited by, and going forward from there. And so, we thought we would just show that on screen with at least some of us. The goal is for all of the members of Friends at the Table to have a Quest character that they can pick up and play. Including me, so that like, if Janine is like, I have a really cool idea for The Grand Tableau, which is what we’re calling this campaign- or this like, campaign setting space, I’d be like, cool, yeah, I’d love to play in that, I’ll come join as my character. And so we’ll walk through all that today. 
+
+
+I think we all have like- I’m curious, y’all have all read the book or at least peeked through the book a little bit at this point?
+
+
+Janine: Mm-hmm.
+
+
+Austin: Enough to like, decide what class you want. What are your impressions of this game so far?… I know Keith, you were talking before we started and you had some thoughts. Not to put you on the spot.
+
+
+Keith: Sorry, I was muted.
+
+
+Austin: You were.
+
+
+[laughter]
+
+
+Keith: To me… To me, this is game, is a game- like, it screams to me a game that is something that’s like Dungeon World that you could get someone who plays D&D only to maybe play. Where like, I know a lot of people who play D&D and really like Dungeons and Dragons and are extremely averse to playing anything else. And so, this feels like a game that might sort of, be something else that they would play. ‘Cause it’s like, it has some ideas in it that are really not around Dungeons and Dragons, or at least really dis… 
+
+
+Austin: Like, discouraged from that-
+
+
+Keith: Discouraged, yeah.
+
+
+Austin: -style of play, aren’t incentivized?
+
+
+Keith: Yeah.
+
+
+Austin: You know, there are moves in this game that are like, read a poem at the table, to get an effect.
+
+
+Keith: But it also uses a d20.
+
+
+Austin: It sure does. And in fact, I was listening to-
+
+
+Keith: You roll a d20 in this.
+
+
+Austin: I was listening to a… interview with the creator of this game recently, and he 100% was like, “Listen, if you don’t want to roll a d20, don’t roll a- you could do this with 2d6. You can play this system with a d10 or a d12 if you wanted to.” And, I was like, you can’t do- like, yes, that’s right, of course you can do that.
+
+
+Keith: Right.
+
+
+Austin: But like, make the case for why I should use a d20.
+
+
+Keith: Yeah.
+
+
+Austin: You know what I- stand by your game! Um… Or, or pick a dice resolution mechanic that you feel really confident about, and…
+
+
+Keith: For me, the fact that this game uses a d20, like whether I end up really liking the game or not, is so important, because it’s like… I don’t know. The d20 feels extremely, like, symbolic, or like-
+
+
+Austin: Yes.
+
+
+Keith: Like, talismanic of Dungeons and Dragons as a game. And if I’m right, and the thing that this game does is it gets people who won’t play a non-D&D game to play another game, I think that that’s like- that is like, the big representative thing that it’s like, “well, it’s the same thing you roll!” Which is…
+
+
+Austin: Right. Right.
+
+
+Keith: I don’t know why that’s important, but it seems like it is.  [SYLVIA and AUSTIN laugh]
+
+
+Austin: Yeah, and I think that there’s an incredible range of opinions about this game out there that I think are worth, like. Just. Go on Twitter and- I wish Roll20 was still around- not Roll20, uh, Google+ was still around, because I’m sure the conversations around this game there would have been really fascinating. But you know, people were talking about this game earlier this year on Twitter, talking about the kind of tension between wanting to bring the huge, overwhelming mass of people who only play D&D into the space of independent games, and at the same time, wanting to say like, and also we should not make games just for those people. Like, our end goal for game making should not be to tap into the commercial audience of D&D and bending our games and our ideas towards that audience. But, as someone who’s made stuff both for kind of niche and mainstream audiences over the years, I’m very curious to see how this thing plays and all of that.
+
+
+So! Given all of that- also, really quick, I do just wanna say that I think this game is really- or this book, is really pretty. It’s filled with really, really striking art, and while I think the writing can sometimes be a little… twee, or like- It’s actually not twee, it’s actually all over the place, because it has kind of a conversational tone that feels very, like, internet… Not internet humor in the meme sense. Internet new sincerity, like funny, do you know what I mean? 
+
+
+Sylvia: Yeah.
+
+
+Austin: Uh huh. That’s probably- that’s probably the, like, subset of- Like, John Hodgman could read you some of this stuff.
+
+
+Sylvia: Oh my god.
+
+
+Austin: Anyone on MaxFun could read you some of the way that this stuff is written, and it would sound like in that voice, because T.C. Sottek is, like, from The Verge, is an editor on The Verge. And I think that that really, really shows in the written voice. But also, sometimes this book is just like, “Well this is how- let me talk to you about how you would kill a fucking bear with a hammer.” And like, yo! What the fuck did that bear do? So it’s a little all over the place. But the art, I think, including- including- and I’ll just put one on screen. The art of a bear getting fucking smacked with a hammer, is also- it communicates the world better in some ways than [screenshot noise] the text- or not the world, but the kind of vibe of the space. I forgot that I have to like, take a screenshot to get it onto screen, this is a whole thing, so maybe I will not show you this bear getting whacked with a hammer. [SYLVIA laughs] But if you have the book, it’s on page-
+
+
+Keith: What page is that on?
+
+
+Austin: Eight. It’s on page eight.
+
+
+Keith: Eight? 
+
+
+Austin: Yeah.
+
+
+Keith: Oh. Right away.
+
+
+Austin: Right away. “You hear the trees rustle, as the ground rumbles. Birds jump from the canopy-“
+
+
+Keith: Oh my god.
+
+
+Austin: “-and flee the forest. Suddenly, a mighty bear bursts through the trees and attacks you. What do you do?
+
+
+The adventurer: I take out my magic hammer and attack. This furry menace picked the wrong day to mess with me.
+
+
+The guide: Okay. Roll the dice.”
+
+
+Keith: So this-
+
+
+Austin: Yeah.
+
+
+Keith: This bear is not just getting hit with a hammer.
+
+
+Austin: Yeah.
+
+
+Keith: It is being broken apart in astral viscera. 
+
+
+Austin: Yeah. But again, it is- and I think that’s- one, great phrase. Astral Viscera, the new game by Platinum Games. [SYLVIA laughs] Two, I think that the thing you’ve noted, actually, speaks to why I wanted to join this game with an idea that we talked about in a previous Live at the Table game, that is the kind of center fictional conceit of this game. Which is, that- this shot, this image of a bear being- a bear face being turned into astral viscera, very stylish, you know, and colorful astral viscera, seems like a thing that would happen when you defeat an enemy in like, an action-adventure fantasy MMO. In fact, this game’s book is filled with art that is bright and colorful in that way that, you know, something like Granblue Fantasy, or World of Warcraft, or more recently Genshin Impact, feels kind of at home with. And so, the basic pitch for The Grand Tableau- in fact, let me just read. Let me do the thing that GMs are supposed to do, apparently, which is look at their prep and just read word for word from it. Um…
+
+
+Keith: Soon I’ll figure out what Genshin Impact is and if I’m interested in it, or it-
+
+
+Austin: Keith, you specifically should try Genshin Impact, I think.
+
+
+Keith: Okay.
+
+
+Austin: The Grand Tableau is a new MMO taking the world by storm, which transports its players to a fantastical world of mystery, whimsy, and adventure. Featuring unique PvPvE mechanics, an expansive environment to explore, deep and varied lore, The Grand Tableau offers something for everyone. Players take the role of vivants [!!!], descendants of the lost empire of the Chimeric Crown, blessed with mystical powers and driven to rebuild the kingdoms of their ancestors. Unfortunately for you, the players, Janine, Sylvi, and Keith, you are just NPCs. And all of the superpower player characters are stomping around your worlds. And hey, you already have problems to deal with. It’s not like the monsters roaming the countryside, the ancient demonlords crafting nefarious plans in their keeps, and the unscrupulous politicking of the powerful and corrupt don’t provide problems all their own. Enter The Conservatory, an inter-continental organization that brings together the best and brightest of Tableau, which is the name of the world that this game takes place in, to explore, learn, preserve, and intercede on the behalf of the people whose lives have been shaken and shattered by the arrival of the Vivants. As members of the Conservatory’s newest cohorts, you’ll put your mettle and your luck to the test in the name of the world you call home.
+
+
+That is the basic pitch here. And the other half of this is, this world brings together a number of places that we visited over the course of the last few years of Live at the Table games. I pulled up the map that is an MS Paint map that I threw together, that I’ll put on the Patreon at some point for Mapmakers. And you’ll see here that there are kind of five major continents, or five major regions, and then each of them has a bunch of big dots and little dots that are all different elements of games we’ve played. So, for Janine and Keith, who were part of the Golden Sky Stories, you’ll see that Tsubomi-cho, the kind of flower bud village, I believe is what it was called, up in the northwest is in the region of Byllo, which is a region that much like the world of our Golden Sky Stories game, was this kind of sea of clouds, where a bunch of societies exist above the clouds. In that game, it was just the ones up on the mountains, like Tsubomi-cho or Snow Peak City, but also, Demaree is there, which again, [laughing] Keith and Janine, you we’re in our first Live at the Table game, where we did bees. Like, cool bee society. 
+
+
+Keith: Oh, in Downfall.
+
+
+Austin: In Downfall, correct. Where-
+
+
+Keith: That game ruled.
+
+
+Austin: That game ruled, 100%. And there was like- remember there was like, a hexocracy, and everything had sixes, and there was like bees who had to wear a blue… blue, like, paint, basically, if they were criminals, and there- it was good. And that world is just here. That world is here in Demaree, in Byllo. And then just across the kind of border, into Vyrd, there is The Cavern of Bees from our game of…
+
+
+Keith: Different bees.
+
+
+Austin: Different bees, but actually, are they? Or are they related? Is that why they’re close? Right?
+
+
+Keith: Fair.
+
+
+Austin: From our game of, um, Bell Songs. Uh, Bell Song? Bell’s Song?
+
+
+Keith: Damn, I’m three for three.
+
+
+Austin: Yeah, Keith is just killing it right now. Um, Keecha, down in Seare, is the name of the town- in- in- in- Feather, Beak, and Bone, Sylvi, you played that with me, and I wanna say Jack and Ali, there was a town called Kitcha Kitcha, and I don’t want to just use names from games directly when it’s not our names, and so like, listen. Keecha. It’s close enough. [SYLVIA laughs] It’s not Kitcha Kitcha, it’s not spelled exactly the same way. Likewise, the Titan’s Teeth Range, Harrowhall, the- I kept The Gilded Reef as The Gilded Reef ‘cause it’s sick and I don’t want to change it to like, The Golden Reef, I guess. But all of those are from our Spoken Magic games. The Marchmount Mountains were from the Shooting the Moon games, along with Velvet Manor. Niveldorf is just the name of a village I wrote, because I think it’s a cool name, and I wanted another place up in Firne, which is the kind of snowy area that’s on this map. I say snowy, it’s kind of just like a grey-blue on the map. It’s mountains and snow. And so on. In the northeast is, Sylvi, is our game of Stewpot, and the Topside, the kind of crossroads tavern that eventually became a whole little settlement.
+
+
+Sylvia: Yeah.
+
+
+Keith: Which one is that?
+
+
+Austin: That was- you were in that too, Keith. Right?
+
+
+Keith: I was in that too, yeah.
+
+
+Austin: Yeah, that’s the Stewpot game in the northeast. The Topside and what was just called “the port town” and [c] “the goblin town”.
+
+
+Keith: [c] Oh, The Topside, it’s written there.
+
+
+Austin: Right in the middle, yep, totally.
+
+
+Keith: Yeah.
+
+
+Austin: And so, yeah, we’ve kind of like- it was really fun to lay all this out and go through all these games. I did some of that during a Drawing Maps stream, I wanna say last month? Um… And, like, laying it all out and seeing, like, [laughs] dozens of locations- including many that are- there are some that aren’t just not even on this map likely, because they were said in passing as like, little world building asides. Like I am cert- I need to go back and listen to all four parts of the… Shooting the Moon game, ‘cause I wasn’t in that one, and so I need to revisit it to see if I can find stuff I just don’t intuitively remember. Also, shoutouts always to the transcripts team, because they made the prep for this so much easier. You can go to transcriptsatthetable.com to learn about the transcripts or to read the transcripts. Or if you’re interested in joining that effort, you can go to transcriptsatthetable.com, there’s links there for information on everything.
+
+
+So. That’s the basic gist of the world. I- I guess I’ll say a little bit more in terms of the… the setting before we create characters. Um. Fictionally speaking, this world came together at the end of the Spoken Magic game. I don’t want to spoil details, because if you want to go back and listen to that, you should. Also because I don’t think the people of this world know the events of that game. The people of this world basically believe that the world has always been like this, just there have been new recent connections between these distant places. So, the United Hamlets and Demaree do not have like, hundreds of years of civil relationships, you know, together. But they suddenly have come into contact. And they’re like, oh wow, I guess just over the mountains, or whatever, there are a bunch of bee people we didn’t know about. Right? But they don’t think this was all brought together by some magical intervention, let alone the fact that their world has actually become, or been duplicated into or whatever, into an MMO for human being consumption, you know, in the quote-unquote [laughs] real world.
+
+
+So that’s one thing. Two is, one of the foundational games that is not directly referenced on this screen right now, was a game that I think Art, Ali, and I played called Skeletons, in which we played a bunch of skeletons who were in a- a tomb, defending the tomb from adventurers and invaders. And the kind of big final- as the game continued, we kind of learned that we were all part of this thing called the Empire of Cats, or the Cat Empire. We were not cat skeletons, we were just human skeletons. And so, at some point, and we kind of laid out- we kind of laid out some things in that game that were really fun around like, oh, this is- I bet adventurers in the future- I bet this tomb is like, a raid in Destiny, basically. And so, the kind of- one of the core things about this world is that there are ruins everywhere, and those are ruins from something called the Chimeric Crown, which was a kind of conglomeration of- it was a super empire. It was like, there are five other empires, one in each of these kind of regions. The Empire of Cats up in Byllo, which is a bunch of like, necromancers. They presumably are the ones who ruined the ground so bad that people have to live on the tops of mountains and up in super big trees and stuff. The Empire of… Cats- Cats I said, uh, Birds. Which is down in Seare, the kind of desert-y region. Which, the only note that we had on them, uh, from that game, when we were like, naming the different empires, was, and I just want to read this word for word here… Um, da da da da da, they… “open air, running, not wearing shirts, Assassin’s Creed nonsense.” 
+
+
+[SYLVIA and KEITH laugh] 
+
+
+So that’s the vibe for Seare. Vyrd has the Empire of Mice, which is one of the newer ones, ones we did not mention in the Skeletons game. And I’ve written in our- I’ve kind of sent all of you a world building document, just a kind of three page sheet on like, here’s what the deal is. And in Vyrd, the Empire of Mice are the ones who built the roads, the mountain tunnels, and old fortresses across Vyrd. Probably unrelated to the Mouse Kingdom, but also, who could say? In Rei, which is the kind of sea area here, is the Empire of Fish, which we know from the Skeletons game is all about trade, all about fishing, all about keeping fish as pets. [sarcastic] We were really doing some deep world building during that game. [laughs] And then finally, the Empire of Dogs, up in Firne, who I’ve written that not much is known about them, they were likely fond of barking and biting, which is to say, I suspect that they are like, the type who talk shit and- and also get hit. [laughs] They do both of those things. They’re kind of, you know, your mountain-y warrior folks. And all those ruins dot the landscape. Those are, again, the sort of thing where if you were playing the video game version of this, you would go and- and dive those dungeons or those shrines or whatever pretty often. 
+
+
+So. I think that that’s like, the high level important thing to know- oh! Last important world building thing. At the edge of this world, and also presumably throughout it, there’s a thing called the Brume, the B-R-U-M-E, which is a fog, a mist, that separates this world from something else, and that is where these vivants, these kind of scions of this old kingdom who’ve decided- who’ve decided by spending $60 and downloading this game on Steam, that they are here to rebuild the ancient kingdoms of their ancestors. They don’t- they probably don’t understand how much they suck, because games are really bad at communicating how bad the politics of games are. But, they suck. Um… I think that those are- there are people who like, will show up to any city, and then when they leave the city, the city is in a worse place because of what- what happened. You know?
+
+
+Um. So I think that’s the big stuff. I think that’s like the general details. Are there any questions about the world or the current state of things before… we, uh, we jump into it? And start making characters.
+
+
+[pause]
+
+
+Uh, rain-
+
+
+Keith: How long have the vivants been a problem?
+
+
+Austin: [sighs] I don’t know, and I don’t- I wanna be clear, I think that we, the cam- the view- the players of this game, know that they’re a problem. I don’t know that the world necessarily does. I suspect that the world sometimes thinks that they’re useful, especially the powerful, who can like, pay the vivants to go do things for them without getting their own hands dirty, right? So it’s like, hey, if you wanted to expand your town into the mountains, but there was a dragon in the mountains, and you didn’t want to, like, go send a bunch of your own people to go fight that dragon because they would die and get mad at you and overthrow you, you could instead pay a vivant to go do it. Especially ‘cause it seems like the vivants are immortal, [laughs] and they can just come back pretty regularly? Um… So I think that’s- that’s part of the vibe to some degree. Like, I think that we know that- Anyway, your- to answer your question, I don’t know. Um… A year? Two years? Long enough for it to be like, we know- or maybe less than that. Right? Long enough for us to have built a thing called The Conservatory. So probably like, a couple of years.
+
+
+Keith: Right. 
+
+
+Austin: You know. Um… Uh. Anyway, rainwant [???] in the chat says, “Is the MMO thing part of Quest or is that- or is that, is Quest more generic?” Quest is much more generic. Quest has like a, kind of a, you know the common, ‘there is a multiverse’, ‘every game of Quest is happening in the same universe where every other game of Quest is happening in an alternate dimension’, like that sort of thing. All right. If there’s nothing else, then we should turn to the start of… of character creation. I’m not gonna go over like the first twenty pages of this game or whatever, that are just like, here’s how the dice work, here’s… da da da. Um. But if questions about how the game- you know, what things are on your sheet come up, we can absolutely talk about those things as you’re making your character, choosing abilities, stuff like that. 
+
+
+So, um. Character creation starts on page twenty one, um, after a cool image of a bunch of people walking on, like, illusory steps through a dungeon? Or… I don’t know, there’s the sky back there too, I don’t know, this art’s dope. Um. So. If you all go into your little side bars on Roll20, you will find that you have a character sheet with your name attached to it. Boom. And if you open it and then hit character sheet, you’ll see a profile page with the-
+
+
+Keith: Ooh, I do not have this.
+
+
+Austin: You don’t? You don’t see it?
+
+
+Keith: I just see Bio and Info and it’s blank, and I can’t edit it.
+
+
+Austin: Hmm. Oh, you were not in when I made all this work. One second. Boom. Now you should. 
+
+
+Keith: Okay.
+
+
+Austin: Was it good now?
+
+
+Keith: I checked earlier [c] and there was a… Okay.
+
+
+Austin: [c] Yeah, no worries, I set these up [crosstalk ends] last night, and- and- and you had not-
+
+
+Keith: Right.
+
+
+Austin: -seen that link at that point, ‘cause it was like, 4AM. [laughs] Um, which, fair. Uh, all right. So. This page is called [with emphasis] your character profile. It’s all caps. “This chapter will give you ideas to help you fill in the blanks and create a unique and interesting character. You can start right now by choosing a name. It can be anything. Choose what your pronouns are to let others know how to refer to you. Some examples are they/them, she/her, or he/him. Next, choose your age, with a maximum lifespan of 300 years, and your height, between three and eight feet tall.” I’m gonna say those are guidance. If you have like, a good idea for a character who’s 301 years old, or nine feet tall, you know. Let me know. Um. “Then, follow the steps in this chapter from one to eight to finish creating your character. Feel free to use your own creativity to fill in the blanks. You’re not obligated to use the examples in this book. Create a character that seems fun and interesting to you.” 
+
+
+Um, so, uh. The- We can can just kind of- I think we can walk through the steps of the- We don’t have to fill this whole sheet out. This stuff will get filled in as we go through the book, basically. But if you have names for your characters, you can go ahead and fill those in now. Uh. I’m doing that, because I already know who I’m gonna play.
+
+
+Does anyone have a name yet?
+
+
+Sylvia: No, I don’t- I’m struggling with a name.
+
+
+Janine: I do.
+
+
+Austin: Okay, we can-
+
+
+Janine: I have one.
+
+
+Austin: -always come back to that. What is your name?
+
+
+Janine: Odette vanYves. [???]
+
+
+Austin: Great name. [JANINE laughs] Good. Uh… I’m gonna see how it’s spelled. There we go. VanYves one word, huh? 
+
+
+Janine: Yeah.
+
+
+Austin: Love it. Uh, you are-
+
+
+Janine: I mean you could space it out, but-
+
+
+Austin: You are-
+
+
+Janine: -I think van gets connected directly, I don’t know.
+
+
+Austin: Right. Uh… How- how old are you? You could just read your sentences that you’ve filled out already.
+
+
+Janine: Um… I’m… So, pronouns are she/they. Um. I’m 28 years old, and stand 5’8” tall. I’m the party’s spy.
+
+
+Austin: You are the party’s spy, that is the class you’ve chosen. I am the party’s fighter. Uh… Keith and Sylvi, do you wanna say what classes you’re playing, as the first full step of this character creation?
+
+
+Sylvia: Yeah, I’m playing the magician.
+
+
+Austin: Hell yeah. Uh, and Keith?
+
+
+Keith: I’m playing the invoker.
+
+
+Austin: Do y’all wanna read the little descriptions on the ‘choose a role’ page on 22 for your roles?
+
+
+Keith: Oh sure.
+
+
+Austin: “Your role gives you a unique set of abilities and is a big part of your character identity. This is a brief overview of Quest’s eight roles. You can see their skills in the ability catalogue.” Let’s do reverse order. Keith, tell me about the invoker.
+
+
+Keith: Uh, “The invoker is a battle mage relying on the force of their ideals. They conjure protective wards, invigorate allies in a pinch, and smite enemies with radiance.”
+
+
+Austin: Uh. Cool. Then, was Sylvi next, I believe?
+
+
+Sylvia: Yeah, sure. “The magician specializes in conjuration and psychic manipulation. From parlor tricks to elaborate deceptions, they are master illusionists, capable of twisting the mind.”
+
+
+Austin: [laughing] I cannot fucking wait! I am so ready. [SYLVIA laughs] Um, Roan is a fighter. “The fighter takes charge to meet challenges up close. They are weapon masters and martial artists, relying on their physical might to overcome foes.” And Janine.
+
+
+Janine: “The spy is a crafty agent of stealth and subterfuge. They are master assassins and experts in the use of magical gadgets, chemicals, traps, disguises, and forgeries.”
+
+
+Austin: Perfect. “Step two: enter the scene. You can give your characters as much detail as you want, but it helps to start with a few distinctive features. Imagine what people would notice when you first enter a room. As a starting point, imagine the world is filled with human-like peoples who need the same things we do: food, safety, love, and fun. The features you choose may suggest a unique ancestry, but they don’t separate you from others. Assume that peoples of the world are compatible in matters of family, labor, and society. You can choose any of the things from this list or create your own. The only rule is that the features you choose to describe your characters cannot give them special powers.” And then, for people who don’t see the- the actual, um, book, there are… The sentence is, “When people see me first, they notice my blank, blank, and blank,” which in the book is body, face, and vibe. And the things listed under those include, like body iSylvia: “scales, worn scars, iridescent skin, rack of muscles, towering physique, speckled complexion, barrel-sized body- er, belly, head of tentacles, generous curves, elongated limbs, et cetera.” There’s kind of a lot going on in their suggested… their suggested collection of things. Um, uh. But again, you don’t have to use the ones here. 
+
+
+Also, just- I wanna speak a little bit to process. One of the reasons I’m going through this the way the book says to go through it is just ‘cause I’m curious to see how it plays out. One of the things I like to do with Live at the Table games is run the game as it’s written. It’s not saying we never hack things, but I do like doing that, just as a matter of like, hey, does this game work for me? [laughs] Um, so. So yeah, go ahead and figure out your three, um, kind of, um, noticeable attributes here. 
+
+
+Keith: What does it mean in terms of vibe to have a long shadow?
+
+
+Austin: I…
+
+
+Keith: Does that mean something-
+
+
+Austin: Yeah!
+
+
+Keith: -that I don’t understand?
+
+
+Austin: I think a long shadow means an imposing presence. If someone enters the room-
+
+
+Keith: Okay.
+
+
+Austin: -with a long shadow, it means that [c] it’s time to…
+
+
+Keith: [c] They’re bigger than they appear?
+
+
+Austin: Maybe? Or that they… [c] That they hold…
+
+
+Keith: [c] Like, their presence is-
+
+
+Austin: Yes, their presence is outsized.
+
+
+Keith: Bigger than their- yeah.
+
+
+Austin: Or- I mean, they can also be big sized. Um.
+
+
+Keith: Right. Sure.
+
+
+Austin: But their presence is outsized compared to other people of similar builds, is what I would actually say. You know what I mean?
+
+
+Keith: Yeah, yeah.
+
+
+Austin: A longer shadow than normal for someone like you.
+
+
+[pause]
+
+
+Keith: God, okay. I had a- I had a thought, and I’m trying to get off of it. I’m actually not trying to do this.
+
+
+Austin: Yeah?
+
+
+Keith: Um… When it- When the limit, which seemed arbitrary to me, but the limit of being 300 years old-
+
+
+Austin: Yeah.
+
+
+Keith: -um, uh, and you said, you know if you have an idea, I don’t mind. But then- So my first thought was like, I’m actually- what if I’m- what if I don’t know how old I am?
+
+
+Austin: Ooh.
+
+
+Keith: And then I was like, what if I’m 12? [laughter] I don’t know that-
+
+
+Austin: [dejected] You can’t be a kid. I don’t wanna- You’re gonna- I’m gonna have to swing a sword at you.
+
+
+Keith: Yeah.
+
+
+Austin: I don’t- I don’t think-
+
+
+Keith: That’s a good point.
+
+
+Austin: I don’t think the conservatory- Listen, I know that I just mentioned Genshin Impact, which is absolutely a game where children [laughing] fight monsters.
+
+
+Janine: That’s also Golden Sky Stories.
+
+
+Austin: And a- Well, so, Golden Sky Stories, you’re not fighting monsters though.
+
+
+Janine: No, but you’re kids.
+
+
+Austin: You’re kids, but its a game [c] built about kids.
+
+
+Keith: [c] No. Yeah.
+
+
+Austin: Not a game where like, one of the examples is, take this hammer to a bear’s face [AUSTIN and JANINE laugh] and turn it into ash- what was it, astral viscera?
+
+
+Keith: Well c- So- What is the- Explain to me the cosmology of this place again. Am I a real… person? Where- Where-
+
+
+Austin: Welcome to Friends at the Table.
+
+
+Keith: Do I have a physical body?
+
+
+Austin: Yes. Yeah. Yes.
+
+
+Keith: I have a physical body? And it’s not-
+
+
+Austin: Yeah, if you die, you’re dead. Yeah.
+
+
+Keith: Right.
+
+
+Austin: Yeah.
+
+
+Keith: Well, but is it a- But that be a digital body, with permadeath.
+
+
+Austin: You- you have no idea that there’s an MMO involved in this.
+
+
+Keith: Right.
+
+
+Austin: We do. We know. 
+
+
+Keith: I- It doesn’t matter- Right. It doesn’t matter. It doesn’t matter for… I guess- Okay, so let’s go back to my original thing. Like, um, uh… I- I think an adult character that wouldn’t know how old they are, that would be because they were- they’re there because there was a, like, a patch to the game that added this thing.
+
+
+Austin: Right. Sure. Um, uh. You would not think about that though. You would just not know how old you were. And then the answer would either be something you couldn’t find, or something that when you found, there would be a textual answer for it, that was like-
+
+
+Keith: Yeah.
+
+
+Austin: -oh, you were crafted in a lab. But you would not find in the world the patch note that- er- esp- Sorry.
+
+
+Keith: No.
+[0:35:00]
+Austin: Never is a long time.
+
+
+Keith: I wouldn’t be like, well I’m a patch note. It would be like- er, it would be like, oh I just don’t- I just-
+Keith:        No. Well, I wouldn't be like, well, I'm a patch note. It would be like, or, it would be like, “oh, I just don't — I just —“
+Austin:        I don't have a history, right, I came from nowhere. Yeah.
+Keith:        I just don't have, yeah, yeah.
+Austin:        Maybe I'm a ghost, I don't know.
+Keith:        I'll think about it.
+Austin:        Uh, uh, I, I want to be clear. Eventually, we should probably have a cool game where patch notes get addressed, [chuckles] you know what I mean? Uh, but I think like, to kick things off, there's a degree to which you should feel like — the Conservatory in my mind is that, is that rival NPC faction that, like, is framed as kind of the bad guys, but the bad guys are absolutely right about stuff, if that makes sense. And they're always like, showing up to [unintelligible]
+Keith:        Well then that means I'm 62.
+Austin:        Wait, why is that —
+Keith:        That's how old those guys are.
+Austin:        Okay, good. I'm glad. [laughing] There are also new recruits. You don't have to be 62. Uh, for instance, Odette, do you want to explain... you already said, you're, you're 28 right?
+Ali:        Yeah.
+Austin:        Yeah, exactly. Uh, wait, did you say that, or did I forget this, did I forget that, that bit?
+Ali:         No, I said that.
+Austin:        Okay. Good. Uh, [laughs] the, uh, I have my three adjectives, if y'all do. Or, my three descriptors.
+Janine:        I also do.
+Austin:        Do you want to tell me yours, Odette?
+Janine:         Uh... when people see me, they first notice my willowy frame, windswept face — I think they mean wind-burned? Like, when your cheeks and nose are very red from cold wind.
+Austin:        You can just write that, you don't need to use their terminology.
+Janine:        Yeah, because I don't know what windswept face means.
+Austin:        I know what windswept hair is.
+Keith:        My idea of what a windswept face would be a narrow face, because, because when your face is...
+Janine:        Because the wind swept most of it away, or...
+Keith:        Yeah, when your face is wet clay and the wind blows past it, it makes it narrow.
+Austin:        [chuckles] Mm-hm.
+Keith:        That's what, that's what I got from that.
+Janine:        Uh-huh. Windswept face to me means like, your hair is in your face. But that's...
+Austin:        Yeah, that's... yeah.
+Janine:        But that's not really a face thing.
+Keith:        But that would be windswept hair.
+Janine:        Uh... anyway, I'm going to go with windburned face... and flawless poise.
+Austin:        Love it. Good. Uh, uh, when people first see me, they first notice my towering physique        , my lion-like face, and my vermilion disposition. No, no relation to... Millie.
+Sylvia:        [laughing] Uh, I have mine.
+Austin:        Yeah, tell me yours. Also, do you have a —
+Sylvia:        I also have a name, yeah.
+Austin:        You have a name now, what is your name?
+Sylvia:        Uh... Mana Mixup.
+Austin:        Oh, I love you. I love this so much.
+Janine:        [laughing]
+Sylvia:        And so, when people see me —
+Keith:        Wait, what was it?
+Sylvia:        They first notice my sparkling eyes, mischievous grin, and my bat wings. [chuckles]
+Austin:        Mmm.
+Keith:        [laughing]
+Janine:        Hell yeah.
+Keith:        I like bat wings third, there.
+Austin:        Third, uh, bat wings —
+Sylvia:        Oh yeah, you've got to close with it.
+Austin:        Smiley face —
+Sylvia:        With a smiley face.
+Austin:        With a smiley face. Your name one more time? Because I spoke over you.
+Sylvia:        Uh, Mana Mixup.
+Austin:        I love it. So good.
+Keith:        Mana Mixup. Uh...
+Sylvia:        And her pronouns are she/her.
+Austin:        I love — I love Mana Mixup, because you know that Mana Mixup is like an entire, you know, Tumblr fandom's favorite NPC. Like... Mana just hangs out and doesn't really do too much, but everyone just —
+Sylvia:        Trying to get the [unintelligible] Halloween Man
+Austin:        [laughing]
+Sylvia:        [phone game].
+Austin:        Exactly, exactly.
+Sylvia:        Yeah.
+Austin:        Uh, I should note, I, I didn't — it, it's not written here anywhere, but Roan is a hobgoblin — I, I mentioned my vermilion disposition, and part of that is because like, that idea of being like, kind of red and glowering is important for Rone. Uh, they are, they are, uh, they are a big old warrior, and you may, you may remember them from Stew Pot.
+0:38:14.9        I'm just playing my Stew Pot character, which is a thing I should have said. You're all welcome to play characters you've played before in these games. Those characters still exist in this world.
+Keith:        I'm playing... baseball superstar, Keith Carberry.
+Austin:        That's a different world, unfortunately. [laughing] However, could I imagine someone creating a character in the world, in the game of the Grand Tableau, on an RP server —
+Sylvia:        Oh my god.
+Austin:        Where they play as baseball superstar Keith Carberry? Yes. [laughing] Uh, uh, really quick I just want to, I'm going to post this, I'm going to show this, hobgoblin D&D... uh, listen, I don't play D&D but I'll happily steal from it. I really love the look of hobgoblins in.... D&D 5th edition. And if you do a search for hobgoblin D&D or hobgoblin 5e, there's a specific image of this, uh, one with a cool quarterstaff that was the inspiration for Roan during our Stew Pot game. Uh, I don't think that their hair is as long. I think they specifically keep their hair kind of, uh, close-cropped. Uh, not close-cropped, that's not true. I imagine it being sort of combed forward, or brushed forward, uh, but, but kept, but kept closer than the kind of traditional hobgoblin, long dark hair situation. Uh, uh, which, which, is maybe, you know, I think a lot of the hobgoblin art in D&D they have these like, hypermasculine, uh, uh, like warrior, warrior bros, is the kind of vibe. Uh, and I actually think that the closer-cropped hair for, for Roan is, is part of, of being, uh, non-binary, like just is not down with that one part of, of masculine, like, uh, kind of gender performance.
+0:39:57.7        Uh... but does have sick sideburns. Does, not these like super long ones that turn into beards on these, on this character type, but does, does keep their sideburns like, very, uh, pointed and angular and sick. But there's nowhere on here where I'm like, I don't want to be like, Roan the [laughing] hobgoblin, that feels bad. Uh, but, so vermilion disposition is part of that, because this is a hobgoblin with like red skin and, and, I want to communicate that a little bit.
+0:40:24.9        Uh, uh, Keith, do you have your, your descriptors?
+Keith:        Yeah, I'm, let's go with... okay. Uh, when people see me they first notice my willowy frame, laughing eyes, and air of mystery. I dragged it... and now it says... logging eyesh.
+Austin:        What?
+Keith:        I, I accidentally dragged, you know how you sometimes drag letters? —
+Janine:        [laughing] What?
+Austin:        Oh, yeah, yeah, yeah.
+Keith:        Okay, laughing eyes, there we go.
+Austin:        Yeah, I see it, it's good. Uh, okay. Next up is our style. Choose how you present yourself to the world. Pick your usual outfit, and imagine what your character looks like when they move. It only takes a couple of features to help people imagine you, but you can be even more detailed if you like. Uh, I'm guessing, Janine, you have these already. [chuckles] You do
+Janine:        Oh yeah. Yeah, yeah, yeah.
+Austin:        Uh-huh. What are they?
+Janine:        Uh, I wear high-waisted fitted black stirrup pants, cropped gigot sleeve jacket/blouse —
+Keith:        What is a gigot sleeve?
+Austin:        Gotta Google that, I'm on it. Oh...
+Janine:        Gigot sleeves, they're also called, uh, I think they're called like lamb, lamb shank or lamb leg sleeve?
+Austin:        Sure.
+Janine:        It's those big, like, Victorian — you see them in a lot of like Dickensian adaptations. It's the big, huge, like, super, super puffy on top, very fitted around the wrist.
+Austin:        Mm-hm.
+Janine:        Uh, this is partially inspired by the, uh, Elie Saab Spring 2021 collection that was going around recently, although those are more like puff sleeves, those aren't really a full, those aren't like a gigot or — you know.
+Austin:        [chuckling]
+Janine:        But it's, it's, uh, there's one specifically that's like, that had like the trousers and then the puffy sleeves, and it's like, I want that energy. So I'm adapting that slightly. But the, the pants go under the cropped, uh, thing, not over. It's very important.
+Austin:        Good to know.
+Janine:        And move with an effortless glide. Also, there's no space here for like hairstyles or complexion or anything.
+Austin:        Yeah, I think that would have gone in the, people first notice me, but I would like to no — if, if you didn't put it there, I'm down to hear it.
+Janine:        Yeah. Uh, because I didn't, I didn't want to be like, people, they first notice my tan complexion. Like... eugh.
+Austin:        Yeah, uh-huh.
+Janine:        Anyway, though, I think she has a, a tan complexion, uh...
+Austin:        Being an American does mean, though, that when people first see me, they do, they do go, “oh, black. I've interpolated you as black.” So..
+Janine:        My dad thought you were mediterranean for a really long time.
+Austin:        Love it. I love it. Cool.
+Janine:        Yeah.
+Austin:        Shoutouts to Janine's dad.
+Janine:        Yeah. [chuckles] Uh, and, so she, she has sort of a tan complexion. It's still pale enough that you can see the sort of windburn on the cheeks very, very clearly. Uh, and she, uh, has hair that is kind of — it's hard to describe, because the hair that I like most that I have is, I have a picture in my inspiration folder of a Victorian maid smoking, and I, I can't find it anywhere, so it's not helpful. Uh, the best comparison I could draw is, uh, Anita from 101 Dalmatians, but with more curls, and probably like a, uh, maybe dark green, but like almost black.
+Austin:        Right.
+Janine:        It's like a, it's like an off-black. I haven't really settled on how off-black. But it's sort of that, like, pulled-back, there's like some stuff going on in the front, there's some volume, there's room for like curls to be pinned in along the side, and then there's kind of like a... thingy on the back. It's not quite a bun, it's not quite a twist. It's like some sort of something in between.
+Austin:        Sure, I get, I, I think I get, I think I understand what you mean, yeah. Uh... is this a thing? I've got to Google a thing.
+Janine:        Leg of mutton, thank you [unintelligible] [chuckles] that's the alternate name for those sleeves, not lamb leg. [chuckles]
+Keith:        Very close.
+Janine:        It was very close.
+Keith:        Although someone might think you have goat leg, and that would be embarrassing.
+Janine:        That would be.
+Keith:        The... leg of mutton? Yeah. [pause] Oh! It does look like, I mean, it does look like... like a lamb chop.
+Janine:        Yeah. It does. Uh, I can't decide if the jacket would have like a high collar or like a wide neck. I guess I'm probably going to want to vary it by occasion.
+Austin:        Probably.
+Janine:        We go to a party, you want like a wide-necked one. If we go to like a church, you go to the high collar.
+Austin:        You've got to mix it up, yeah.
+Janine:        [laughing] Yeah.
+Austin:        Uh... just a heavy step. Uh, I wear ornate platemail, belted bookstraps, and I move with a heavy step. Uh, in the Stew Pot game, Roan had retired from the life of being a fighter to become a scholar. Uh, and part of that game was that they were slowly, like, becoming more conscientious about the world, and like, learning about different people. Uh, and, learning how to like, journal and be more compassionate and thoughtful. Uh... and also just like, learning facts and trivia about everything. Uh... uh... you know, they were always someone who wanted to tell stories, and, stories about their adventures, basically. Uh, and so they, they, that became a focus for them. Now they've put that platemail back on, but they're also just like, you know, they've got like, leather bookstraps, uh, uh, and not a ton of them, it's not like they're covered in books. But, you know, they basically have pouches, uh, a couple of them on their big frame, where they have, oh, this is my book of history of this part of the world. Here's my part, here's the book where I'm keeping my, my notes about animals in this region. Here is my book about how do deal with this type of monster. Uh, they're like a walking strategy guide to some degree. [chuckles] And a heavy step. They move with a heavy step.
+0:46:25.3        I started off with a confident step, but I don't — eh, you know what? I'm going to go back to confident. I'm going to go back to a confident step. I thought, I thought on it for a second, and I'm back.
+Janine:        Heavy to me feels like stumbling, but confidence does have —
+Janine and Austin:        A heaviness to it.
+Austin:        Yeah.
+Janine:        Yeah. Confident step is like, you don't care if someone hears you coming.
+Austin:        Right.
+Janine:        Heavy is like, you can't control it.
+Austin:        Yeah, fair. Mana Mixup?
+Sylvia:        Yeah. I wear... a pointed hat, well-kept robes, and move with a self-assured stride.
+Austin:        Ooh, love it. Mm-hm. Uh... Keith?
+Keith:        Yes. Uh... I wear a fluttering cape, a tarnished ring, and move with a spring in my step.
+Austin:        What's up with the ring?
+Keith:        What is up with the ring?
+Austin:        We don't know. [laughing] It was added in a patch, actually.
+Keith:        Yeah.
+Austin:        Uh, step four, call home. Like the real world, the people of Quest of endlessly diverse. Use where you're from and what your people are known for as a starting point for how you relate to others in the world. Um, I think, home is really flexible here. You don't need this to be the place that you were born. This can be just the place that you think of as your home, the place that you relate to, the place that, uh, where, where people would, if you said you were from there, people would know what this is, and that doesn't necessarily mean, again, the place you were born.
+0:47:48.3        Uh, I say that because for Roan, uh, that is... where is it? A roadside inn. Uh, because that's, that's where the, the, uh, our Stew Pot game was. And that is Roan's home, at the end of the day. And though people there are known for...
+Keith:        [laughing]
+Austin:        Let's see... causing havoc. No, uh, um, their commercial success — [chuckles] no. Uh, [laughing] —
+Sylvia:        Basketball.
+Austin:        [laughing] That's true. That's just — write it in, right now. Known for basketball. Let's go.
+Sylvia:        God.
+Austin:        Their warm hospitality. Uh...
+Sylvia:        I'm like looking at these, and I'm really tempted to go with a place I can't name, known for a culture of secrecy, [laughing] but that's —
+Austin:        That's very funny. Well like —
+Sylvia:        Feels like a little much.
+Austin:        Would that be — the thing for me is like, is that true? Or is that a thing we all look at you and go like, “... okay.”
+Sylvia:        I think it's the — it's not true. Like, I think that the thing is like, no, absolutely not true.
+Austin:        Yeah. It's very funny.
+Sylvia:        But, claims it is. I'm going to go with that now, actually, now that I said it.
+Austin:        Do it. Uh, I said —
+Keith:        Do you need, do you want an air of mystery for when people first notice you?
+Sylvia:        Well, I'm... a great magician, they should have that.
+Austin:        [laughing]
+Sylvia:        I'm... a master illusionist. They should show me some respect.
+Austin:        [laughing] Why don't people respect my mystery?! [laughing]
+Sylvia:        Exactly!
+Keith:        [laughing]
+Austin:        Uh, I should note, and I've said this privately on, on, just in our chat, uh, this is like, one of the things I love about the framing of doing this as an MMO world, [chuckles] is, uh, in some ways, just like, you know how Twilight Mirage was like, oh, we can, we can be as extra as possible here?
+Sylvia:        Uh-huh?
+Austin:        This is even, in some ways, more extra, because it doesn't have to be coherent. It doesn't have to be consistent. The tone can be all over the place. Like, there's a monster hunter, like, dungeon, in Final Fantasy XIV. Motherfuckers don't care. Crossovers happen [chuckling], uh, they're, they're, all that you need to consider is that someone who was making this world said, “wouldn't it be cool if...” comma. [laughs] and then —
+Janine:        You could just drive that car around.
+Austin:        You can just drive that car around!
+Janine:        One of the first things that happened to me in that game was that — not one of the first things, but a thing that happened very early on in that game was that a lion driving the car from Final Fantasy XV pulled up alongside me with his arm hanging out over the passenger — over the driver's side door, as if he was going to ask me for my number, or if I wanted to go get dinner.
+Sylvia:        Oh my god. Yeah, I saw two cat boys riding in that car together, it was really sweet.
+Austin:        So fucking funny. God.
+Janine:        Well, they were going to get dinner. They had each other's numbers.
+Austin:        Uh...
+Keith:        What car is this?
+Sylvia:        In Final Fantasy XIV, you can just get a sports car.
+Keith:        Oh, okay.
+Austin:        It's the Final Fantasy XV sports car. It's so funny.
+Janine:        It's the, it's the... yeah. And it flies.
+Austin:        And it flies! It turns into the Batmobile.
+Sylvia:        [giggling] It does that in that game, too.
+Austin:        It does.
+Sylvia:        In XV.
+Austin:        It does do that in XV, yeah. So, yeah. So, so, that doesn't mean, like, then it's in the world and then we don't have to care about it. But, be your most... be your, this is, this is, another touchstone for me is Dungeon Meshi, uh, for this game. And, I think Dungeon Meshi is really good at having characters just have wild character traits, because they're fun and interesting to put into, into, you know, connection with each other. Uh, I think, again [chuckling], with the world, you don't need to like — the, the knight dude, you don't need to do the backstory on why he feels certain ways about different monsters. You just have to believe that that's part of who he is, and his weird curiosity doesn't need to be grounded, because, if you tried to talk through that, you'd be like, “wait, isn't this a world where these monsters are like, killing people they know?” And, I don't know, like, that's just not tonally the, the space that we're going for here. You know, we, we have other spaces to do that sort of storytelling. This is not that space.
+0:51:49.2        So feel free to be the mischievous grin, uh, you know, illusionist that you are.
+Sylvia:         You said Granblue, and that's when I knew, just like —
+Austin:        Yeah, another touchstone.
+Sylvia:        Do whatever you want.
+Austin:        Yeah, totally. Uh, Keith or Janine?
+Keith:        For which?
+Austin:        This is, you're from...
+Janine:        Where you're from.
+Keith:        Oh. Uh, I'm from a city in the mist, where my people are known for their sense of duty to each other.
+Austin:        Uh, cool. Do you know where that is, or do we not — it is that on the map already? Or is that a place that you want to add?
+Keith:        Uh, I don't know, and I'm having a roll20 problem where I can't move or minimize or see the whole —
+Austin:        Cool.
+Keith:        Extent of my sheet here. So I can't see the map. Maybe I'll just refresh.
+Austin:        Okay.
+Janine:        There is a lot of broom stuff going on.
+Austin:        That's true, there is a lot of broom stuff going on.
+Janine:        Like, there's a lot of cities in the mist that, that could work.
+Austin:        That could be, yeah, that totally makes sense to me. Uh... Odette?
+Janine:        Uh, I'm from the Marchmont Mountains.
+Austin:        Mm-hm.
+Janine:        So, a mountain town, where my people are known for — and I really struggled with this one, but I think I've settled on — their unhurried sense of time.
+Austin:        [chuckles] I love this. And is this the town, is this the toymaker town?
+Janine:        Yes.
+Austin:        Do you —
+Janine:        I really wanted to — I settled on their unhurried sense of time because, there's a lot of other things that like apply kind of, but only to individuals but not necessarily to the town as a whole.
+Austin:        Right.
+Janine:        So I settled on, like, to me, that game is very strongly associated with the holidays. And like, coziness, and, you know, being good to each other, and like, so, their unhurried sense of time feels...
+Austin:        Yeah.
+Janine:        Feels fitting for that. I want to get that, that holiday spirit.
+Austin:        That makes sense to me.
+Janine:        Christmas spy.
+Austin:        Yeah, Chris — Chris — Odette van Ives, Christmas spy, is good. Uh, I —
+Janine:        [chuckles]
+Austin:        Nieveldorf might be that place, but I didn't want to, I didn't want to give the name to that place, uh, uh, I just knew we —
+Janine:        I don't remember if that —
+Austin:        There isn't one, I checked. Believe me, I checked.
+Janine:        Okay.
+Austin:        The only thing that's close, the only things that are there that are named are the Marchmont Mountains, uh, more broadly, Velvet Manor, where there is a witch, and then I, I want to say there's like one or two other little things, like, places in town are named. But the town itself never gets named. Uh...
+Janine:        Yeah.
+Austin:        Which is why, I, I was like, well, we need one, let me write this in, and then if we hate it or if we, we, if it, it it's, if the people who ran that game don't like Nieveldorf, which is just like a play on “snow village,” basically, or, “ice village,” uh, then, then we can, that's just another town, you know? [chuckles] And you can come up with your own name for it.
+Janine:        Yeah.
+Austin:        Uh, all right. Uh, that's all of us for call home, I believe. Uh, next up is believe in something. [reading] Choose an ideal that guides your behavior. This is your moral core, the belief that will help you know what your character might do in lots of situations. You can choose one of these, or create your own. As an example, uh, there is, “I must ensure justice, I must ensure equitable and just outcomes for everyone.” It's your duty to deliver righteousness and fairness in the world. Compassion: “I know it will delay us, but we should help this stranger first.” You believe people deserve mercy and safety. Uh, Power: The only law that matters is the law of force. Uh, you think those who are strong deserve to make the rules. Pragmatism: it would be irrational to fight, we should negotiate. You value logic and efficiency above all other concerns. And again, you can totally make your own up, which I suspect I will do, once I find my sheet. There it is.
+0:55:22.8        
+Janine:        I think I'm going for compassion. Because, again, Christmas spy.
+Austin:        Christmas spy. Yeah, yeah, yeah, yeah.
+Janine:        The thing for compassion is, “I know it will delay us, but we should help this stranger first.” You believe people deserve mercy and safety.
+Austin:        Kind. Kind and good. Mine is, uh, I'm going to make mine up, and it's cultivation. And then in parentheses I'm going to say, mentorship, you know, counsel, et cetera. Roan is very much of the mind that's like, hey, most fighters don't live to 42. I've done that. I want to pass that on as best I can. AKA cultivate saplings, welcome to my self-insert character. Keith or Sylvi?
+Sylvia:        Yeah, I put I believe in pleasure, which is, you seek comfort and joy, and believe people should enjoy being alive.
+Austin:        What's the quote? And can you give it to me in character voice?
+Sylvia:        What's the point of living if we're not enjoying ourselves?
+Austin:        Absolutely, thank you, Mana.
+Sylvia:        Yeah.
+Austin:        Keith?
+Keith:        I'm split between two. I have one written, and it's salvation: making yourself and others righteous in the eyes of the true god or gods is the highest calling.
+Austin:        Huh. What's the other one?
+Keith:        The other one would be justice, which is: it is your duty to deliver righteousness and fairness in the world. And I think those two go together pretty neatly.
+Austin:        As long as your god is chill, right?
+Keith:        Well, I don't know. I mean, there's plenty of. I, I was thinking of the... the, like, the rival NPC faction whose like main villain... they're always like way into justice. It's just that they're also painted as the villain.
+Austin:        As the villain despite that. You're right. I'm just saying —
+Keith:        Or not just despite it, but also like their justice is a bad justice.
+Austin:        Is a bad justice, right. I'm just saying, presumably, righteous in the name of your true god or gods only works as justice if your gods —
+Keith:        Oh, sure.
+Austin:        If your gods are justice gods and not like, you know, injustice gods.
+Keith:        Right, yeah, yeah.
+Austin:        Among us.
+Keith:        They could be bad justice gods.
+Austin:        They could be bad justice gods, yeah. [chuckles]
+Keith:        The Divine of the justice still is bad, even if... we know. We've done our shows before.
+Austin:        Quick question — yeah, we've done our show before. You know, you know what it is. Uh... we haven't talked about gods. I have a lot of world-buildy stuff here. It's light and airy, and none of it has to do with the gods. So, partially like, they haven't come up in these live games to like pull on, as far as I remember, or as far as the transcripts I've read have reminded me. But, also because I'm happy to leave this to people playing characters who would interact with that part of this world. So, I'm curious — if you did go salvation... I mean, it's not even just that. You're an invoker, right?
+Keith:        Yeah.
+0:58:33.9        
+Austin:        And one of the things you brought up to me before we started was that a number [chuckles] of the invoker abilities reference the god you worship or the pantheon you worship, and I'm curious if you have ideas about that —
+Keith:        Yeah.
+Austin:        Or if you just want to talk it out.
+Keith:        Uh... I was thinking on it a little bit, uh, and I don't feel like I have any solid ideas yet. Or at least, like, the ideas that I do have are not solid enough to start on.
+Austin:        Mm-hm.
+Keith:        So, that would be something I would come back to.
+Austin:        That's fair. I would definitely, one of the things I would, I would, the thing, of the things that we've talked about that I'm interested in that we haven't really done, as like an active thing, is a PC who has a pantheon that they worship and not just a singular god, or not just their favorite god in a pantheon.
+Keith:        Yeah.
+Austin:        I think that could be fun. That's, that's, yeah, or, or I guess what I'm saying is, if I can think of a contemporary, if I can think of the way in which I think the religion of the this world might work, it's probably pantheon – or like, the dominant religion in the world — presumably, just like there are countless cultures and peoples, there are probably countless faiths and religions and belief systems.
+Keith:        Right.
+Austin:        But I would suspect that if you looked at the biggest locations of, if you look at the place where, where a group like the conservatory is built, I bet that you have churches and temples that are, that have pantheons that bring together, in fact, that bring together different pantheons, you know what I mean? Or have —
+Keith:        Yeah.
+Austin:        Aspects that cross over from culture to culture or something, I think that could be fun. Uh... all right. Uh... the next thing is — I scrolled away like a fool. Be vulnerable, six, be vulnerable. Nobody's perfect. Choose a flaw to make your character complicated and believable. Like your ideal, you're free to choose one of these suggestions, or create your own. Examples include [laughs] fearful: you shy away from danger, and are often last to action in confrontation — there's no way I'm going in first, someone else should do it. Megalomaniac: I won't rest until I rule every inch of this world. You have delusional fantasies of wealth and power. Oblivious, which the quote is just “dot dot dot,” truly bringing that NPC energy.
+Keith:        [laughs]
+Austin:        You don't see what's right in front of you, even if it has fangs... et cetera. I'm again creating my own, as the book says I'm allowed to do, and I'm doing lethargic. I'm old and scarred and tired. I'm not old, but you know. I'm scarred and tired. Roan's been at this a long time. Roan is 42 and has been a fighter for most of that lifetime. And so, I think sometimes, sometimes Roan can be like, “is this really necessary?” Like, that style of tired. Uh... does anyone have one of these already?
+Janine:        Mm-hm.
+Austin:        What's up?
+Janine:        Uh... I was going to go with hedonist, but I think hedonist is... there's like a, there's a certain connotation to hedonist that's not quite what I'm after for Christmas spy...
+Austin:        [chuckling] Uh-huh.
+Janine:        So I went with indulgent. Because, hedonism is a lot of like, I want to drink booze and fuck and gamble and [laughing] a lot of stuff like that.
+Austin:        Shoutouts to hedonism, gang gang.
+Janine:        Shoutouts to hedonism... uh
+Sylvia:        [laughing]
+Janine:        [laughing] What I'm after more is, though, like, oh, she like walks past a really cute cafe that she's never been in, and it's like, okay, but what if we stop there and I get everyone a doughnut?
+Austin:        Right.
+Janine:        Like I want that energy, I want that... that hot chocolate, that like, coziness, the reckless pursuit of coziness.
+1:02:49.9        
+Austin:        Reckless pursuit of coziness, I love that.
+Janine:        Yeah. So, indulgent is my choice there.
+Austin:        Cool. Mana?
+Sylvia:        I have one.
+Austin:        Yeah.
+Sylvia:        Yeah. So mine, uh, is overeager. I just kind of keep thinking I can do more than I can... getting way in over my head.
+Austin:        I love that.
+Sylvia:        Yeah.
+Austin:        Uh-huh. Keith?
+Keith:        I couldn't decide between a couple again, so I put my own in here. I was sort of like...
+Austin:        [laughing]
+Keith:        Who am I? Am I impish? Am I foolish? And I, and I decided that actually, no, I'm just easily distracted.
+Austin:        Ha! [laughing] That's so good.
+Keith:        I think it can fit a lot of different things, and will be easy for me to do.
+Austin:        Yeah, definitely. Next up is dream big. Finally, give your character a dream to work towards, a reason that fuels their desire for adventure. I dream of blank. And their examples include everything from... finding a corner of the world to make my own, to becoming a master artisan, to dying an honorable death, to making every stranger smile, which... dream bigger, darling. [chuckles] uh...
+Keith:        Every stranger, that's a pretty big dream. That's incredibly demanding.
+Austin:        I guess that's true. Every stranger?
+Keith:        You're going to waste away and die, doing that.
+Austin:        I, I feel like, has any of you ever played Twisted Metal on the Playstation?
+Keith:        Oh yeah. Yeah.
+Austin:        You know how the end of — Twisted Metal is a game about car combat, everyone has like a car that has guns on it.
+Keith:        It used to be a genre.
+Austin:        Used to be a genre. It was a weird time [chuckling] for everyone. Uh...
+Sylvia:        It was a bad genre.
+Austin:        It was a bad genre. Uh, the premise of that game was —
+Keith:        Hey, Twisted Metal Black ruled. Also it was bad.
+Austin:        It was also bad. The premise of that game's fiction was that there was a tournament between these car combatants, and the winner would get a wish from a superpowerful dude in a suit name Calypso. And it would always be the sort of like, monkey paw curled version of the wish coming true.
+1:04:47.7        So, for, so — I, one, I just mean to say, making every stranger smile is the sort of wish that Calypso would have a lot of fun with.
+Keith:        [chuckling]
+Austin:        He would just like Jokerify everyone in the world, and be like, “ha-ha-ha, you got your wish, now, haven't you?”
+Keith:        Yeah! Twisted Metal is a very early Jokerfication.
+Sylvia:        Yeah, it really is.
+Austin:        [laughing] It super is. The one that I remember is, the character I like to play the most was this guy Spectre, who was very much Johnny Cage energy —
+Keith:        Yeah, yep.
+Austin:        Like he was, he was like a movie star with a cool car. And his wish was that he wanted his face to be seen around the world. And so Calypso stretched his face across the whole of the atmosphere.
+Keith and Sylvia:        [laughing]
+Janine:        Oh my god.
+Austin:         Until it was the sky!
+Keith:        Eugh, that's not a monkey paw, that's the whole monkey fist.
+Austin:        Really bad. Anyway... does anyone have one of these?
+Janine:        Well, you mentioned both of the ones I was considering, and then you made fun of one of them...
+Keith:        [laughing]
+Austin:        Oh, no!
+Janine:        [laughing] It's fine, I think I'm going to go with —
+Austin:        But you're a Christmas spy. A Christmas spy can be whatever.
+Janine:        Yeah, but it also feels a little, it feels a little like cheesy to me to be like, “the Christmas spy wants to make everyone smile.” That's a little too simplistic.
+Austin:        Uh-huh.
+Janine:        A little too like, I don't know. So I think I'm going to go with, becoming a master artisan.
+Austin:        Okay. [keyboard clicking] What type of artisan work are you doing?
+Janine:        So, my concept for this character, and why I was giving you not a hard time in our Discord before this, but kind of pressing a little bit about, should we have jobs, should we have a backstory? Is because Odette is, is an ice dancer.
+Austin:        Ooh!
+Janine:        So she is like a dancer but she specifically specializes in figure skating and things like that, and is sort of on the side a, not corporate spy, corporate is too strong a word for Christmastown.
+Austin:        Industrial spy? [chuckles]
+Janine:        Yeah, industrial spy is probably closer.
+Austin:        Personal spy? Like, like a, you get hired the way you would — like a private spy? Like a private eye, but a private spy?
+Janine:        Mm-hm.
+Austin:        I'm going to keep just saying things.
+Janine:        It's along those lines.
+Austin:        Yeah.
+Janine:        That's also why she has those windburned cheeks, is because she's always out in the cold doing cool shit.
+Austin:        Gotcha. Roan's is, publishing a book that's found in every home.
+1:07:13.3        Roan really, really — I'm going to change that to writing, because Roan isn't trying to get into the publishing field...
+Sylvia:        [laughing]
+Austin:        Specifically... but, but, Roan, you know, the image for me for Roan is like, you've done a job your whole life, and then you get to like, spend some time, you have that one vacation where you realize, oh my god, I love salsa dancing, I cannot believe I spent the last 25 years of my life not salsa dancing. And for Roan, that's like books and stuff. Roan spent —
+Janine:        That's how I feel about watercolors.
+Austin:        There you go. Roan spent their whole life like, fighting things, and then got to chill in this tavern for a couple of years, and while there, was like — yo, y'all heard of books? Books are fucking sick as shit! And now is like, wants to write a book. And I think it's probably nonfiction. I think it's probably something to do with the world, and it might be like, a tavern guide. I think they have a bunch of ideas. I think they have a bunch of ideas for what it could be. It could be like, become the Anthony Bourdain of Tableau. But it might also be something more academic or — maybe, maybe some poetry. Roan's been known to read some poems. So... so we'll see.
+Sylvia:        I like that Roan used to be the, “is this music?” guy, but for books.
+Austin:        100 percent.
+Keith:        [laughing]
+Sylvia:        I have my one.
+Austin:        It never —
+Keith:        Yeah, those are the best videos on the whole internet.
+Austin:        [laughing] They're so good!
+Sylvia:        They really are. They're the funniest shit in the world.
+Keith:        I, yeah, I... at least once a, at least once a week I remember the one where there's a plant next to a speaker, and it says, “mmm, is it coming from the green or from the black? From the black?”
+Austin:        From the black? Cool. That's great. I love that. That's like, Gabriel Gundacker. Goon-dacker? Gun-dacker?
+Sylvia:        I think it's Gun-dacker.
+Austin:        Guy who likes music. Also know, of course, for Zendaya is Meechee, and —
+Sylvia:        The Coinstar?
+Austin:        The Coinstar, it never works.
+Sylvia:        Okay —
+Keith:        Also, the lesser-known concept album about wanting to meet Richard Dreyfuss, which [unintelligible]
+Sylvia:        Oh yeah!
+Austin:        [laughing] Mm-hm. Okay.
+Sylvia:        Yeah. So I have my, my dream.
+Austin:        What is your dream?
+Sylvia:        I dream of being a world-famous you illusionist, because, you know —
+Austin:        I love this.
+Sylvia:        People don't respect illusion magic enough.
+Austin:        Is this a truth about this world, people think illusion magic is like, bad?
+Sylvia:        Kind of. I think it's more like, “oh, you can only do illusion magic? That's really weird.”
+Austin:        Right, like, “why would you spend — so, you can't do XYZ other thing?” And like, “no, but this is really cool.”
+Sylvia:        No. I'm just good at little tricks...
+Austin:        Love it. I love it. Uh... who's missing? Keith, do you have yours?
+Keith:        Yeah, I'm... I'm thinking of, uh... I'm torn between a few of these and between a couple ideas that I've had. I'm not sure if I can nail myself down on one of these yet, but, the one that I'm leaning closest towards that's on the list is, sparking an idea that transforms the world, sort of in... how familiar are we all with the antagonists from Pokemon games?
+Austin:         Very, sure. Yeah.
+Sylvia:        Which one?
+Keith:        The, the, I think Pokemon games are like the clumsiest —
+Austin:        Oh, I thought you meant the category of Pokemon. Did you mean a specific one?
+Janine:        Also, wait, do, do you mean rival, or like Team Rocket?
+Keith:        No, like Team Rocket.
+Austin:        The teams, okay.
+Janine:        Okay.
+Keith:        The like, they're like the clumsiest version of that idea of like, the villain who's, uh, actually right —
+Austin:        Right, yes.
+Keith:        Where it's always like, “we shouldn't be battling these Pokemon, so we're going to steal and kill them all!”
+Austin:        [laughing]
+Keith:        Or, “we're going to shoot them into space,” like, but it's — always like —
+Janine:        Convert them into juice or whatever.
+Keith:         We're going to take everyone's Pokemon and then they'll realize... they're, they're basically trying to make, they're doing a really horrible thing to, uh, and I don't plan on doing a really horrible thing, I don't think, but they're, they're trying to do some big thing that will get everyone to realize that Pokemon fighting is bad.
+1:11:18.3        
+Austin:        Right.
+Keith:        When the game just wants to go, like, “actually, Pokemon fighting is what friendship is.”
+Austin:        Yes. Right. Right. And you are that for this.
+Keith:        But that's what I'm leaning closest to.
+Austin:        You are that for this game that is like, revanchist imperial heirs have come to reclaim the land that they believe has been, you know, denied them, even though there are now different people already fucking living here.
+1:11:41.4        And that's bad, but the players are like, “yeah, but if I conquer a little bit more land, I get a cool spin attack.”
+Keith:        Yeah. Yeah.
+Austin:        Uh-huh. Great. Uh... I just peeked in the chat. Largerfruitsalad says, “Mana Mixup erased Keith's character's name, no one could ever remember it.”
+Sylvia:        [laughing]
+Austin:        Mana!
+Keith:        [laughing]
+Sylvia:        God, I wish. That'd be such a cool trick.
+Austin:        Uh-huh. Uh, all right. So now we can move onto the 8th step, which is the last step of this part of character creation. And it's, gear up: your character profile is finished. Now grab your character worksheet, page 17. You may choose any three common weapons. Additionally, you may choose any one useful item from this list. You begin the game with these items, so be sure to mark them on your inventory. So there's an inventory tab here that has... what is it? 1, 2, 3, 4, 5... 10? 12? 12 slots? I believe that that's right, let me just double-check the actual sheets and make sure that matches to what is here. Quests... da-da-da... character profiles and worksheets. I love a worksheet. Yeah, 12 items is right.
+1:13:02.2        So, the way that combat works in this game is not too dissimilar from when we were playing dungeon world, in the sense that, remember in dungeon world, characters just had damage they did, and you didn't really —
+Keith:        Yeah.
+Austin:        Worry too much about, “this is a whatever weapon.” Uh, in this game, without a weapon, you do 1 damage. Unarmed attacks like punches and kicks deal 1 damage. You can also make unarmed attacks with extra style. For instance, if you want to throw a book at someone really hard, you can count it as an unarmed attack that deals 1 damage. Then there are common weapons, which are like, swords, bows, spears, hammers, knives, and more. And they all deal 2 damage each. You can choose any 3 common weapons to start the game with. So you can, you can just pick 3 things here, and those are your starting 3 weapons. I believe those go into your inventory slots, because they're items that have worth that you could trade away. So, yes, so they would take up slots. Uh... Mana, I saw your first one and I laughed, it's a good joke.
+Sylvia:        [laughing] Thank you.
+Austin:        Useful items, I'll read the useful items that are listed here. Lockpicks, a set of 5 lockpicks that can be used to try to bypass doors and other things with simple locks. Magic rope, a 50-foot rope that can automatically coil itself. It can shrink to any size — sorry, it can shrink to the size of a spool of yarn [chuckling] for easy carrying. Not any size — the size of a spool of yarn — and expand back to its normal size on its owner's command. Magic flask, a magic flask that automatically replenishes itself with a spirit of your choice. Choose once. Magic candle, a powerful candle that can light itself and snuff itself out on its owner's command. It drips wax, but never seems to lose any. Kiln gauze, a container of magic gauze that can be used to repair broken metal weapons like swords. When the gauze is wrapped around the severed weapon, it welds the weapon back together in a flash. There's enough gauze in each container to repair one weapon.
+1:15:00.7        Friend flute. This is a small, magic whistle, that knows who your friends are. When you blow in the whistle, only your friends nearby can hear its sound. Skycaller amulets, a pair of magical amulets that allow their owners to communicate with each other at any distance within the same world. When held in the hand, the amulets allow the bearers to communicate with each other telepathically by wishing for the link to be created. Each pair of amulets can only communicate with each other, and can only be activated up to three times each day. Each time the link is activated, the wearer may communicate for up to 5 minutes. The, I'm going to call this... we have a trio of mages in this world who, because they know what happened to the world, are in a uniquely-suited position to become the sort of mages whose names get brought up in spell names and shit, uh, from our Spoken Magic game. You know how, again, in roleplaying games like Dungeons and Dragons, you'll get like, “oh, this is so-and-so's magic arrow,” or whatever.
+1:16:01.8        Or, uh, uh, god, what's the actual one I'm thinking of?
+Keith:        Ulic Qel-Droma's lightsaber.
+Austin:        Right, like that... classic D&D thing. [laughing] Uh...
+Keith:        It's just that, I don't know any D&D stuff, but that's an example.
+Austin:        What's the acid arrow? It's Melf. Melf's acid arrow. Uh... named for Melf, who is...
+Sylvia:        Uh-huh. [chuckles] I love Melf.
+Keith:        Did you say Melf or Smelf?
+Austin:        Uh... [laughing]
+Janine:        [laughing]
+Austin:        Uh... where the fuck the melfs at on here?
+Sylvia:        [laughing]
+Austin:        Uh... uh... anyway, but that style of thing. And so, and so in this case, I think I'm going to say this is Estacar's tent in a tin, a colorful tin canister that's magically pressurized. When you unlock the canister and set it on the ground, the lid blows off for a few moments — uh, a few moments later, deploying a large magic tent that can fit 30 people. Sound cannot escape inside of the tent — or, from the inside of the tent, which honestly, is terrifying. That's a —
+Janine:        You could just pop that tent up to murder people in.
+1:17:00.6        
+Austin:        Yeah! That's the Dexter tent.
+Janine:        That's a good strategy.
+Austin:        Uh-huh. A switch on the side of the tin teleports the tent back inside and closes the lid. What happens if you do that when you're inside the tent? Uh... anyway.
+Janine:        Doesn't matter, because you hear it.
+Austin:        Yeah. So...
+Janine:        No one ever knows.
+Austin:        What do we god, what do we got here, do people have things?
+Janine:        People got things.
+Austin:        What are your things?
+Sylvia:        I got things.
+Keith:        I don't know, this is a weird one. Because I, like... I'm thinking of my character, and the idea that I would have, like, 3 different weapons on my seems like a lot.
+Austin:        Think of them as money you can spend immediately, then. Because if you don't give a fuck about it, that's stuff you could trade away for other shit you do care about.
+Keith:        Okay.
+Austin:        Also, think about like, a GM can break these things.
+Janine:        Also, sometimes a weapon is a tool.
+Austin:        That's true. Uh... Odette?
+Janine:        Yeah. Uh... Odette's got a whip.
+Austin:        Yeah.
+Janine:        Odette's got a crossbow and some crossbow bolts. Odette's got an elegant butterfly knife. And Odette's got 5 lockpicks.
+Austin:        Okay. And you said the bolts, right, for the crossbow? Did you say that?
+Janine:        Yes, yeah, yeah.
+Austin:        That's good you wrote that down, because I remembered I needed to do the same, uh, —
+Janine:        Yep.
+Austin:        For my stuff, which I'll get to in a second. Mana?
+Sylvia:        Uh... I'm actually just coming up with one more weapon really quick, and I want to make sure I have a description for it.
+Austin:        Uh, Roan —
+Janine:        Could you turn a weapon — could you turn one of those, what are those balls that you touch, in your hand, it like makes sparks on your hand?
+Austin:        Like a Tesla ball thing? Whatever those are actually called.
+Janine:        Yeah. Or — oh, you could have like fushigi balls as a weapon, that'd being fun.
+Austin:        You could — [laughing]
+Janine:        That'd be a fun one.
+Austin:        [laughing] You could do that, that's true. All that's important is, it does 2 damage. That's really it.
+Janine:        Hocking a glass, metal, whatever the hell those things are ball at someone's head would definitely do 2 damage.
+Austin:        Mm-hm.
+Keith:        What, like the contact juggling things?
+Janine:        Yeah, yeah.
+Austin:        Yeah.
+Keith:        Those are heavy.
+Austin:        Uh, you don't, to be clear, the book does say, up to 3 weapons. If you don't want to choose 3 weapons, you don't have to choose 3 weapons. I'm just saying it's useful, because one of the consequences for failure can be, “oh, you lose the weapon that you have,” you know? And I should note also, if you choose a ranged weapon like a bow or crossbow, you must also use one of your item slots for ammunition. You don't need to keep track of how much ammunition you have, but you might run out of those if you lose equipment as like a consequence. I've written here, gunstaff, long knife, uh, uh, black powder and pellets, and then magic flask. I don't know what's in it yet, I need to go back and check the Stew Pot game to see if there was a particular drink that we came up with... uh, because, if there is, I want to reference that.
+1:20:12.3        Uh... as a reminder, Roan has like, a big walking stick, like a quarterstaff, that has, at the top of it, a sort of like, cannon... uh... if I remember right, there's like a specific... this is like a real thing, now that I think about it. Cannon staff. Because I based it off of something. Because I thought it looked cool. Now I'm Googling it. Uh...
+Janine:        I know in the animated Mulan they had like, single shot cannons that were like, really long and on sticks, and they would jam them into the dirt, and then aim them and then fire them.
+Austin:        Uh-huh. That sounds cool.
+Janine:        That's relevant.
+Austin:        Doing a search in our internal chat for “staff” is not working. How would I even find this thing? I guess what I could do, again, is... look at the transcripts. Shoutouts, again, Transcripts at the Table. If anyone else has something, you can do that while I'm Googling —
+Keith:        Okay. Let me know if this is not okay.
+Austin:        Uh-huh.
+Keith:        So... first, I don't think this will be a problem. I have three swords.
+Austin:        I love this so much.
+Keith:        It's the same sword 3 times. I have backups.
+Austin:        Is this like a, what, who, is this, did you get this from like your favorite blacksmith? Are these like mass-produced swords? Like, what's the deal?
+Keith:        Yeah, these are like the Bic pen of swords.
+Austin:        I love that.
+Keith:        These are like, you go to, these are off-the-shelf, off-the-rack, uh, closeout bargain swords. And I buy them in packs of 20...
+Austin:        Mm-hm.
+Janine:        [chuckles]
+Keith:        Uh... 20's maybe a lot. I buy them in packs of 5, but I can only carry 3.
+Austin:        Great.
+Keith:        And then —
+Sylvia:         [chuckles] [unintelligible]
+Keith:        So, I didn't know what sort of, I have a magic flask as well. And I was not sure what sort of thing you put in a flask in this game, so I was searching, it says you can put it with a spirit of your choice. And so I control-F spirit...
+Austin:        Keith... uh-huh.
+Keith:        And, uh... the second thing was, spirits are ethereal creatures who do not have physical bodies, think of them like ghosts —
+Austin:        Yeah, uh-huh...
+Keith:        Who float through the world. Many spirits —
+Sylvia:        Oh my god.
+Keith:        Are invisible — animals, bosses, minions, commoners, plain — uh... I will have a ghost spirit, please, and not a liquid spirit.
+Austin:        I'll allow it!
+Sylvia:        Ha!
+Austin:        I'm allowing it.
+Keith:        I have one written — I might change that.
+Austin:        Sleep on it.
+Keith:        I'm going to sleep on it. I had that there just because it's the premise, not the specific thing that I'm —
+Austin:        Right. Uh-huh. Uh, uh, the, the, the specific, I have, I have now, I haven't found the exact one of these things, but if, the original hand cannons, which are literally a gun that is shaped like a quarterstaff basically, are basically what I mean here, for, for, for Roan. If you search for hand gun — handgonne, G-O-N-N-E, one word — you'll find some of these things.
+1:23:33.8        You know, the real ones would probably break if you used them as a quarterstaff to hit people with. But, for our purposes, it's cool. [chuckles] And I've taken that twice, because it's, it's, it's two — I don't want to spend 1 slot to get both a cool melee weapon and a cool ranged weapon. Plus it's like, hey, the gun part could break separately from the staff part, you know? So that's good. Does anyone else have theirs? Or is that everybody's? Are we done?
+Sylvia:        I have my one.
+Austin:        What is yours, Mana?
+Sylvia:        I'm just writing the last description out really quick.
+Austin:        Uh-huh.
+Sylvia:        So, first of all, just from the book, I took the friend flute, which is the small magic whistle that knows who your friends are, and when you blow on the whistle, only your friends can hear it. My weapons are, a knife, the description — it's a knife. Deals 2 damage.
+Austin:        Good.
+Sylvia:        My light staff is another one. More of a walking stick, suitable for whacking as well. Deals 2 damage. And then my third weapon is, the fancier knife in her boot, which is the nicer knife that she doesn't want to use as much. And that also deals 2 damage.
+Austin:        What does she use the knife for — is it just like, this is a good knife?
+Sylvia:        It's just like, it's just like, decorative, it's just cool.
+Austin:        I gotcha.
+Sylvia:        She's just like, yeah, this is neat.
+Austin:         Gotcha. I love this.
+Janine:        She just [unintelligible] during the idle animation.
+Austin:        Right.
+Sylvia:        Yeah, exactly.
+Austin:        Yeah, yeah. The idle animation knife, when you're like, well, why can't I use that? And the answer is... because you don't have the attack animations for it.
+Sylvia:        Yeah, because she doesn't want to. In character, we wrote it into the story.
+Austin:        God, all right. Uh... is that everyone's equipment stuff? I think it is.
+Keith:        Yeah.
+Austin:        All right. So... the ability catalogue. Choose your path to greatness. Have you ever closed your eyes and wished for something magical to happen? Perhaps to talk to the animals, to grow wings and fly, to become invisible, or travel through time and space? Quest is a magical place where those things are possible. In this section, you'll discover all of the special abilities that make each role unique. In the next few pages, you'll learn important rules and key words that explain how abilities work.
+1:25:52.1        Really quick, I'll note — everyone should have 10 hit points. And I believe, everyone starts with 10 AP, 10 adventure points, but I'm double-checking. Uh... where is it? Why did I think that that came up earlier? 12 things, got that. Yes. Everyone starts with 10 adventure points. I say this because, as you start to look at your... kind of playbooks, your ability catalogue, depending on your role, you'll see lists of abilities. So for people who, again, don't see the book in front of them, there are... there are, for each role, a number of pages each tied to a sort of, actually, let me just read from the book. Uh... choose 6 abilities for your role from this catalogue before starting the game. This is your starting set of abilities, and you can use them in your first session. At the end of each game session, you may choose 1 new ability to learn from the catalogue. So, at the end of every session, you're going to level up and get a new ability.
+1:27:16.1        Learning paths. Abilities belong to learning paths like the ranger's friend path, shown below. Below is an image that says friend, and then it has a list of abilities — speak with animal, animal partner, courier, pair bond, whisper on the wind. It goes from left to right. There is an arrow indicating that this goes from left to right. You can learn abilities from all of your learning paths. You don't need to learn all the abilities in one path before learning abilities in another. For example, you could choose the first ability from each path to start the game, or learn a bunch from 1 or 2 paths. You can earn as many or as few abilities in each path as you want, as long as you learn the new abilities in order. In the example below, if you wanted to learn pair bond, you'd first have to learn speak with animal, then animal partner, then courier. Legendary abilities. There are some abilities so powerful and rare, that you can only learn them if your adventure provides the opportunity.
+1:28:09.4        Your guide will decide when and how your role's legendary abilities can be learned. Finally, adventure points — if you see an ability in the catalogue with an activation cost, you must spend AP to use an ability. When you spend AP, adventure points, to activate an ability, you must immediately deduct it from your adventure point balance — then there's examples of what those look like. So there's like a little kind of arrow tab thing, that says 3 activation cost looks like this. This ability would cost 3 AP to use.
+1:28:38.7        Some abilities can be used in different ways and have multiple activation costs. So, for instance, 2 adventure points for — you create a small bolt of flame, 4 for — you create a huge fireball. If an activation cost has X, it means you may choose to spend how many AP you want to on the ability. And if it says zero, it means that if an ability's features has an activation cost of zero, you can use it without spending AP. As the spy, there's a note here for you specifically, Odette. The spy's tool kit — the spy is a master of practical means, and is the only role that can craft bespoke magical items. These items are listed in the catalogue alongside abilities, and the spy can acquire them at the end of a session, like you can any other ability. However, these items can be lost or broken like any other object. The spy may spend 2 AP to rebuild a lost or broken item. Items must be rebuilt during downtime in the story.
+1:29:33.2        Other creatures may hold the spy's items, but only the spy can activate their magical capabilities.
+Janine:        And that's specifically for skills that have like, “you made the thing!” It's not just like in general across the board, right?
+Austin:        Yeah, like I don't think, you have a skill...
+Janine:        There's one for like, making a little magic gun, there's —
+Austin:        Yes.
+Janine:        One for like, making...
+Austin:        Making poisons.
+Janine:        Weapons and poisons.
+Austin:        Right. So, yes to those, whereas I wouldn't say, you have one that's like — unless you're actively searched by another creature, you can conceal up to 2 weapons in your clothing without being noticed. I don't think, like — that isn't an object that I would take away from you, you know what I mean? That's just a thing you know how to do.
+Janine:        But also doesn't have a cost or anything.
+Austin:        Exactly. Totally, totally.
+Janine:        Just a thing.
+Austin:        Yes. Yes. So, you get six of these. Again, you can pick them up from across your playbook's, your role's catalogue, as long as you get them linearly. There are, there's a list of other things that are like, important on this page, in terms of key words. So if you don't know, you can look there, or ask me, I guess. I guess these other two important things for these abilities — at the table, quote/unquote. If an ability asks you to do something at the table, that means do something in the real world. If you can't do it, that's okay. You may ask another player to assist you, or just ignore the requirement. If you're uncomfortable performing one of the game's abilities, like reading poetry, you may describe how your character performs the ability instead of doing it yourself.
+1:31:01.2        So, if you had an ability that was like, “sing a song,” but you're like, “I'm not going to sing a song,”... don't fucking worry about it. We'll find a fun way to talk about that ability without you having to sing a song into a microphone. Roll the die — if you see this badge in an ability, it means you have to roll the die to see what happens when you use it. Any time you roll the die, there is a possibility of failure. As usual, the guide will declare what the consequences of the dice roll are. But if it's an ability that lists a special set of consequences, the guide will use those instead. All right. Let me also look at these and give Roan some abilities. Uh... I think I know what they are. So that helps.
+Keith:        Uh... do we know how this game is defining the word creature?
+Austin:        Yes, we do.
+Keith:        Like is creature, like a non-intelligent —
+Austin:        No.
+Keith:        It's anything.
+Austin:        So, creature is one of these important key words — any sentient being, including both NPCs and player characters. People, humans, dogs, aliens, talking trees, yes, anything. So, sentient, there. Not necessarily sapient, because later in this list of key words, animals is different. Animals is sentient creatures without self-awareness or personhood — like cats, dogs, giant, eagles, and insects.
+Keith:        All — sorry, what was the word for that one?
+Austin:        That's animals.
+Keith:        Oh, animals. So all animals are creatures, but —
+Austin and Keith:        Not all creatures are animals.
+Austin:        Correct.
+Keith:        That's one of those things like, in D&D, creature would be, it would exclude sapiens.
+Austin:        Something, right, yeah.
+Keith:        Yeah.
+Austin:        That's not — I was like, wait a second, I didn't do a good job of that, there we go.
+Keith:        So that makes, that makes some of these moves much more useful.
+Austin:         Because it's not just...
+Keith:        Right. I was looking at these, I looked at these a few weeks ago, when we first were looking at this book.
+Austin:        Yeah.
+Keith:        And I was looking at it earlier before we started. And I've got to say, they, they give you like a quick start guide —
+Austin:        They do.
+Keith:        And, this is one of the better quick starts. Like, I'm having a hard time not —
+Austin:        Choosing the ones that it gives you?
+Keith:        Following it. Yeah.
+Austin:        Yeah. I'm curious, is it giving you a bunch for one thing? Is it giving you a little mix of stuff?
+Keith:        No. There's two that I'm getting two from, and everything else I'm getting one from.
+Austin:        Oh, that's cool.
+Keith:        But it's like, hard to be like, it's giving me one from inquiries, which is like, uh... like, sort of like mental, this like psychic/magic seeing people's desires, or seeing them across distances. And it's hard to be like, get rid of soul gaze, where you can peer into their eyes and learn the creature's ideal, flaw, and the best and worst thing they've ever done.
+Austin:        [laughing] Yeah, that's a good one, I wouldn't give that up for anything.
+Keith:        That is a good one.
+Austin:        Yeah.
+1:33:52.9        
+Keith:        And then, in the ones that they only have one in, I'm like, I don't really want the second one in this. I'm good.
+Austin:        Yeah, yeah.
+Keith:        Impression is — you brush against a creature for a fleeting moment, feeling its desires. The guide chooses and reveals to you something specific that the creature routinely craves. You become cursed to also crave that thing, and cannot use impression again until you fulfill the desire.
+Austin:        Uh-huh.
+Keith:        When you fulfill it once, the curse is lifted. I think that sounds cool, but I don't necessarily want to be using that all the time.
+Austin:        You don't — yeah [laughing] yes. There we go, add that... here's a hot tip for copying and pasting from this book. If you open up a browser tab, and paste into the browser tab search bar thing, it will remove all of the formatting, and put it all, all those words and all the line breaks, it will erase all of those and make them just straight out, so you can just paste it all in.
+Sylvia:        Oh my god.
+1:34:49.7        
+Austin:        Sorry, I should have said that earlier.
+Sylvia:        No, thank you, thank you so much.
+Keith:        Oh, I, I actually like that it's keeping most of these line breaks here. Oh, I see, though.
+Austin:        You see what I mean? Because sometimes it's —
+Keith:        It's very narrow.
+Austin:        Yes, it's very narrow, and I have some moves that are long, and so... [unintelligible] scroll. I'm still keeping some of them in there, because, yeah.
+Keith:        Yeah. Like, I like the bullet, like having the separate bullet points.
+Austin:        Yeah.
+Keith:        I don't want that gone. Okay. So I have a little wiggle room at the end. Do I want two magic attacks?
+Austin:        Hm...
+Keith:        Or do I want one magic attack and something else? And that's tough.
+Austin:        That's tough. This is tough. Uh... I can go ahead and read mine, since I'm done, just to fill time a little bit. Roan has 6 abilities — 3 of them — I mean, everybody has 6 abilities, that's not unique to [chuckling], to Roan. 3 of them come from the camaraderie school, which is really an interesting school, I think, for fighter. The first is, summon the blood. When you regroup — and regrouping in this game is, whenever you... so, I said before that you have 10HP and that you have 12, no, 10 adventure points.
+Keith:        10 in each?
+Austin:        10 in each, it should be 10 and 10. Uh, when you, uh, uh... whatever the thing is I just fucking said, chill out. It's probably not called chill out, right?
+Keith:        Regroup?
+Austin:        Regroup. When you regroup, you regain up to the halfway point of your maximum hit points. For example, if you regroup while at 3 HP; you would recover 2 HP. If you regroup while at 0 HP, you would recover 5 HP. So you go up to your half. 10 is the maximum, so you'd go up to... you'd go up to, up to 5. I guess, maybe there are some abilities or magic items that raise that, I'm not sure. Contrast that with resting, which is, when you complete a full night's rest in a safe place, you recover all of your hit points. And while I'm here, I guess I should note that the way injury and death works is that, when you get to 0 HP, you are then at death's door.
+1:37:04.5        That does not mean that you are knocked out, as far as I can tell. Being at 0 HP does not take you out of a scene. It just means that you're at death's door until you regroup, rest, or heal.
+Keith:        Yeah, it said if you get hit while at 0, you have a chance of dying.
+Austin:        Yes. So, the way that that works is, you roll — if you get hit, however much damage you received — for instance, if a sword hits you, it does 2 damage. You roll a D20, you roll the die, because there's only one die in this game, and if you roll under the 2 that you got on damage, you would then die. So that's like a pretty low chance of dying, I guess, if you drop under zero. Also, this is another example of where this game needs to commit to a die. Because rolling, for instance, a D12 or a D10 there instead of a D20 greatly increases the chance that you die. Rolling 2D6 greatly decreases your chances of dying, because you can't roll a one on 2D6. Which means you would never be able to die from a punch in this game. Anyway... I, this, these are the things that get under my skin sometimes about game design stuff, where like, you gotta, you gotta think through the ways at which stuff scaffolds out in your game. Anyway... summon the blood. When you regroup, you bolster the spirits of your party by reciting a poem. You must recite a poem at the table for your friends. You can write your own, or read one from another author, like from a book, movie, or TV show.
+1:38:33.9        When completed, your party recovers an additional 3 HP from regrouping. God. I think I'm just going to get a list of public domain poems, and Roan is going to have a book that they bought from, that like, is the sort of poetry that's in this game because some programmer or writer added a bunch of public domain poems to it. Maybe I'll write my own sometimes, but that seems fun. That's my first ability. My second, also from the camaraderie, uh, school, is valiant soliloquy. You inspire your allies with a rousing speech. You can write your own, or borrow one from a play or movie. It can be short — reading a few powerful lines is enough — and when you do that, you must give the speech at the table. When you complete it, each member of the party gains the option to redo their next roll. This option expires at the end of your scene if it has not been used.
+1:39:30.5        And that you can use in, in combat or in, you know, in an action seen, and not just during the regroup. That costs 2 AP. War story — once per game session, you may earn 2 AP by recounting a battle from your past adventures. You can only use this ability during a downtime in the story, like when you regroup or undertake a journey. You can't spout [lore] — history, during combat. You must recount a different conflict each time you use this ability. If there's no battle to recount, you can make one up from your character's past. This is important because gaining AP is really rare in this game. Uh, you get 5 per, at the end of the session. The book says, for hanging out with your friends, the guide, the GM, can give additional AP from time to time for like, doing cool shit, uh, basically.
+Keith:        Big assumption that your party members are going to be your friends.
+Austin:        Damn, get 'em.
+Keith:        Yeah. I'm just saying. It happens.
+Austin:        I guess so. You earn 5 AP at the end of each game session as a reward for spending time with your friends. The guide may also reward players with AP for roleplaying well, solving puzzles, defeating villains, reaching goals, or encouraging fun. So, you know, play fast and loose with that, I think, as a guide.
+1:40:45.4        And I have two abilities from the... first school, the dueling school. Counterattack, which is a zero-cost thing. When an enemy within reach rolls a tough choice or worse on a basic attack against you — and I think that that's a, I think that that's a 6 to 9, a 5 to 9, if a remember right... it's been a second since I've looked. 6 to 10. You parry their attack and take no damage. If they roll a failure or worse, you may immediately roll the die to make a basic attack on them. This counterattack does not count as a turn.
+1:41:21.4        God, that's so god. The fact that that changes — in a, traditionally, for everybody else, if the GM rolls a 6, they hit you. For a fighter who has this, they don't. They just don't. As long as it's an enemy within reach. So maybe, that maybe makes me want to change one of these other abilities to be something a little more tanky, because just having that extra 5 points of a roll being not a hit on me is really strong.
+Keith:        Yeah.
+Austin:        Uh... now that I'm like thinking about it and all. The next one I was going to pick was wild attack. You attack with reckless power, disregarding your safety. Describe a signature style for this attack, and what it looks like when you make it. A 20 is quadruple damage, 11 to 19 is double damage. 6 to, 6 to 10 is you deal double damage but the enemy counterattacks you. 2 to 5 is, you miss and all enemies within reach may counterattack you immediately. And 1 is, your weapon breaks... which sucks.
+1:42:18.7        
+Keith:        Yeah, that's got some high highs and some low lows.
+Austin:        But I might — I love it. Yeah, and another note, this is a great ability that explains, or, reminds me — there's no bonus to this. I don't like check this against my strength score. I don't add anything.
+Keith:        It just does.
+Austin:        You roll the die. Yeah, one of the —
+Keith:        You have 10 points and you can just put them... wherever.
+Austin:        [chuckling] Right, exactly. Uh, one of the, one of the, uh, the things in this game that made me realize it would be a good fit for this idea of like an MMO, where there's an asymmetry between PCs and NPCs was this line in the GMing section of the book called, only roll once. Because the chance to succeed is always the same in a die roll, it is not a test of skill, it is a test of fate. Players only need to roll the dice once to see what happens in a given situation. And that's really interesting to me, because it's like, I'm just this character in this world, and, and I'm kind of caught by, by the fate of the world. I'm not, I'm not — or the programming of the game or whatever. I'm not able to like, go practice my, my staff fighting skill and make wild attack stronger. I might have abilities that make the repercussions lighter, you know... but I'm not able to just like, ignore that part of it. And then my last one is, size up. You evaluate the capabilities of a nearby creature or group of creatures. The guide will give you useful insights into their capabilities — strength, vulnerabilities, and/or resistances. At a minimum, you'll receive an accurate assessment from the guide about whether they would pose a fair fight.
+1:43:51.0        The guide will deliver this information to you narratively. For example, they might say, “you notice the giant spider flinching at the sight of your torch,” rather than just telling you that it's vulnerable to fire damage. Uh, but I might give up wild attack. I think I'm going to give up wild attack in favor of provoke — make a nearby creature angry at you by saying something or making a gesture.
+Sylvia:        [laughs]
+Austin:        Your target must be able to understand your intent. For the next minute, the target focuses its attention on you, ignoring all others. The effect ends if the target is hit by another creature or if hostilities subside. And I think that that fits Roan's cultivate goal, or cultivates whatever the character thing's called, the thing I believe in, cultivation.
+Keith:        Cultivation.
+Austin:        Cultivation, yeah. More than wild attack. I'm like, I'll get wild attack at some point, wild attack seems fun. But, but, with the power of counterattack, I feel like it's hard to, to miss this idea that like, oh yeah, Roan is like, you know, an older, veteran fighter who wants to, to keep the people around them safe and help them become, you know, the next generation's great heroes, or whatever. So, I'm going to switch that to provoke. Is anyone else done?
+Keith:        I'm done.
+Austin:        Tell me about your abilities.
+Keith:        All right. So, reminder, I am playing the invoker. Uh... and —
+Austin:        Which is like, we haven't said this, but the invoker is very much like, paladin-y in some ways.
+Keith:        Yeah, like a paladin, like a mage-paladin.
+Austin:        Yeah, mm-hm. Magic-y, I think, than most, what we think of as paladins.
+Keith:        Yeah. Uh, and it, it actually even gives paladin, actually, it says right here — the invoker is a good choice if you want to play a character who channels greater truths to achieve their goals. They can be devout paladins serving a righteous god, oath-keeping warriors, quixotic vigilantes, or dark knights.
+1:45:40.7        So, my first sort of path here is invocation.
+Austin:        Mm-hm.
+Keith:        Uh, I have the first two there, declare, which is 0 action points. Once per scene, you may declare a reason for intervening in a matter, steeling your resolve. The reason should be based on your ideal and the scene's context. For example, if you believe in order, you might tell highway robbers that they're breaking the law. Or if you believe in honor, you might say there's no honor among thieves. Choose one result — I, uh, you immediately make a successful basic attack on a nearby foe, you compel an NPC to explain what they're doing, but they may lie to you —
+Austin:        [laughing] great.
+Keith:        Or you convince commoners to leave.
+Austin:        I've never seen –
+Keith:        I've seen that a few times, the commoners thing...
+Austin:        Yeah.
+Keith:        What is that?
+Austin:        I think that's people — in this world, in our world, or in the book Quest?
+Keith:        In the book Quest, what do they mean when they say commoners?
+Austin:        Normal people, common animals, or other average creatures. Think of them like extras in the background of a movie.
+Keith:        Wait, so, so like... your neighbor or a squirrel?
+Austin:        [laughing] Yeah, you know! Commoners! Yeah.
+Janine:        But maybe in this world, your neighbor could be a squirrel.
+Austin:        That's correct.
+Keith:        Sure, yeah.
+Austin:        [laughing] That is true.
+Keith:        Your neighbor, the emperor squirrel, or the regular animal squirrel that lived in the tree.
+1:46:56.7        
+Austin:        Yes. Yeah, just as, just as a note, again, for people who do not have access to the world building document that I sent to the players of this game, I noted that the species included humans, animal folk, like mice men, humanoid birds, man-sized [sweet] frogs and more, think Redwall. Bee people... we don't really love Beeple. Spirits, ghastly or legendary, so long as you're currently constrained to a mortal form that can do the moves of your class, go for it. Animals who are animals but they talk — does a leopard wear pants like this or like this? And, magical robots. Some of them defend ancient ruins, others run your local guild counter, so some probably do adventure stuff too, right? And then other fantasy stuff. I checked and we definitely had like goblins and gnomes and giants, and probably some fantasy races that don't start with too — start with G, too. Gelves is funny, though. [laughing] I'm still mad no one's played a Gelf. What, uh, keep on going here.
+Keith:        Uh... I've got petition here, which is 2 AP. When you regroup, you may choose — you may close your eyes and calm your body. You recite a short petition and receive a boon. You must recite a petition at the table that contains all of these parts: an address line, like, “in the name of the gods,” or, “for the love of wisdom.”
+Austin:        [laughing] Uh-huh.
+Keith:        A request, like, “I ask for strength,” an adulation like — or, and an adulation, like, “for I am giving — I am your humble servant,” or, “for you are the truth.” When you are finished reciting the petition, all of your hit points are restored.
+Austin:        I'm happy that this is, uh, this is the Sailor Moon, “in the name of the moon,” move here, so...
+Keith:        [chuckles] Uh... and then...
+Austin:        And wait, what's that do? Oh, you receive a boon.
+Keith:        I receive a boon.
+Austin:         Huh. But it does not say what the boons are, right? There's not like a list.
+Keith:        It says, when I'm finished reciting the petition, all of my hit points are restored.
+Austin:        Oh, that —
+Keith:        So it seems like it doesn't matter what I ask for, it seems like the boon is that I'm fully healed.
+Austin:         That's huge, yes, okay.
+Keith:        Yeah. It is huge, but I kind of wish there was more, like, options.
+Austin:        I'm going to add that here. Because it does not, you did not add that into the Word, where it says this happens. There you go.
+Keith:        Where? What do you mean?
+Austin:        You did not include where it says, “when you have finished reciting the petition, all of your hit points are restored.”
+Keith:        Oh, sorry, yes I missed it in my copy.
+Austin:        No, it's fine, it was like, well, what do you get for it, you know?
+Keith:        Right, right.
+Austin:        I think that whoever GM this should, uh, whenever you're in a game. And I'll be GMing, you know, probably a bunch of these, you know, boons are broad, you know?
+Keith:        Okay.
+Austin:        So...
+Keith:        So you're saying I get a boon and I get hit points. Or?
+Austin:        Probably. Mmm, let's say or. Let's say or.
+Keith:        Okay.
+Austin:        I would like to say, like — because I don't want to cut into other people's abilities, you know what I mean?
+Keith:        Yeah, yeah.
+Austin:         Anyway, keep on going.
+Keith:        All right, we've inquiries here, this is, this is the next path.
+Austin:        Oh, gotcha.
+Keith:        I have the first one here — soul gaze, which is a die roll. Your eyes turn black — I read part of this. Your eyes turn black like shimmering gateways to eternity as you peer into the eyes of a nearby creature. They become momentarily transfixed on your gaze. On a 20, I learn the creature's ideal and flaw. I also learn the worst and best thing they have ever done. On an 11 to 19, I learn their ideal and flaw. On 6 to 10, I learn their ideal and flaw, but one is false.
+Austin:        [laughing] Uh-huh.
+Keith:        And then on a 1 to 5, they resist my invasion, and briefly glimpse my recent thoughts.
+Austin:        Cool, good. I'm glad that can blow up in your face.
+Keith:        Yeah.
+Austin:        Okay. Is this next one also from the inquiry school?
+Keith:        No. Going down to verdicts, I have inspire —
+Austin:        Okay.
+Keith:        For one. You inspire a nearby NPC to recite a meaningful statement to them. You may invent a famous quote or proverb, or borrow one from the real world. The creature must be able to hear and understand you, and cannot currently be hostile towards you. Until the end of the day, the NPC shapes their behavior around their ideal, and cannot fall victim to their flaw.
+Austin:        That's interesting. Uh...
+Keith:        Yeah.
+Austin:        They changed this move. There was a previous edition —
+Keith:        Oh, really? This is my weakest-link move.
+Austin:        They fixed this move, is what I would say. Uh...
+Keith:        Okay.
+Austin:        Let me see if I can find the original one, that fucking sucked. Uh... that I was kind of pissed about. I'm going to, I'm going to, I'm going to read it, just as like evidence that, that this is like an ongoing thing, and people have been giving them feedback. There were a number of moves, for sure, that were like — wait, what are you saying with this move? This is a little weird? Uh... let's see... you know what, no, it was not inspire. There's another one... one second.
+Keith:        Is it one of mine?
+Austin:        I thought it was one of yours, but, but —
+Keith:        Okay.
+Austin:        You know what? If it comes up it, it comes up.
+Keith:        Yeah.
+Austin:        The long and short was, it was a similar thing to this, except that it very much was like — oh, I remember the keyword to look for here. Uh... uh... there's a spell on the doctor class called “Relieve.” You say something comforting to a nearby creature, alleviating them from anxiety, pain, and discomfort for one hour. In this state, the creature cannot be affected by fear or confusion. For a brief time, they feel better than they've ever felt before, so far. Okay. Cool. The next line was — this spell has an addictive effect. If you cast it more than three times on the same creature, they will obsessively seek it out. I was like, what?
+Keith:        Eugh.
+Janine:        Eugh.
+Austin:        Is that — what — your experiences with therapy have been different than mine. Mostly, it's really hard for me to do, still, even though I know it's good for me. Uh... so, hey, that's, for instance, and ability that no longer says that in this game, it just, they fixed that. That's just gone. [laughs]
+Keith:        Okay, that's good.
+Austin:        Anyway, I thought that was inspire, but it is not.
+Keith:        This is, this is still, this is still my weakest link one, uh...
+Austin:        If between now and when we play a session you want to change it, I'm happy with that. I'm got going to lock you in.
+Keith:        Yeah, yeah. Uh... we're down to wrath — these are my attack moves.
+Austin:        Okay.
+Keith:        Uh... I have fiery avenger. Choose a phrase to use for this spell. It costs 1. You speak the phrase of power, igniting your weapon in a magical flame of any color. While the weapon is on fire, it acts as a torch that casts light nearby. The flame increase the weapon's damage by one. The flame persists until you roll a failure or worse on an attack with that weapon. You may dismiss the flame at any time.
+Austin:        That's useful. Just an extra damage in a —
+Keith:        That is useful.
+Austin:        System where like, 2 is what swords and guns do, [chuckling] is good.
+Keith:        Yeah, it makes, it, it makes my sword 50 percent better.
+Austin:        Yeah. Then?
+Keith:        Uh... thunderous word. Choose a word to use for this spell. You speak the word of power, releasing a thunderous shockwave in the direction you are facing. The wave knocks up to three creatures backwards and hits them each for 2 damage. Creatures affected by the spell are briefly dazed and cannot use special abilities during their next turn. I think this move is extremely powerful.
+Austin:        Yeah, that seems really good, especially because that —
+Keith:        I can do 6 damage and prevent 3 special abilities.
+Austin:        Yeah. The special abilities are, the way that NPC enemy types work in this game is, is that, I kind of would have, like, sort of like a — they each kind of have a creature card, is maybe one way to think about it, where, where they have like special abilities written out, and, and additional like, you know, aspects of who they are. So for instance — let me just pull one up really quick. Uh... if I look at the... god, this layout is weird. The... uh... why does this not have — sorry, this is like for printing. Their like, monster list is meant to be printed out, and so everything is like sideways and stuff, which is kind of annoying. Life tap, for instance, is an ability in this game, that let's you, uh, like suck the life out of, of, player characters, if your NPC hits it. When the creature damages an adversary, it recovers hit points equal to the amount of damage dealt. Being able to shut that off is very good. [laughs] uh...
+1:55:29.8        You have shield written here, too. Is that because you're going to change that out, or what?
+Keith:        Oh, do I have seven? Did I take one that wasn't —
+Austin:        You took one more, yeah, you took, you took an extra one.
+Keith:        Oh, okay. Shield is — okay. Then maybe I'm getting rid of inspire, then, maybe that wasn't on my list.
+Austin:        You're taking shield? Okay.
+Keith:        Yeah, taking shield instead. Forget inspire. It was my weak link.
+Austin:        Mm-hm.
+Keith:        What did I add? Okay.
+Austin:        Uh... do you want to read shield?
+Keith:        Yeah. Okay. Shield, sorry, didn't mean to read one that I didn't actually want. Uh... I was reading it, and I was like, this doesn't sound super familiar. And I guess it's just because I went to the wrong one and copy and pasted it and then was like, “I guess that's real.” Shield, 1: you may summon a magical shield that appears as an aura of soft light around your body. The shield blocks up to 3 points of damage. Any damage dealt in excess of 3 HP passes through the shield and hits you. Now, this part I'm a little bit confused on. The shield lasts until it takes 3 or more damage in a single hit.
+Austin:        Yeah. It's very strong.
+Keith:        All right, so, this means that, if I get hit with 2 damage...
+Austin:        It doesn't break.
+Keith:        It doesn't break. And then the next turn —
+Austin:        Yeah.
+Keith:        It's full-strength.
+Austin:        I believe... I believe that's the next... hmm...
+Keith:        The shield lasts until it takes 3 or more damage in a single hit.
+Austin:        Yeah, I think that that's true, yes. I think immediately, it still exists. So, so basically, it's very good at protecting you from weaker enemies. Uh...
+Keith:        Yeah.
+Austin:        Uh... uh... the thing to note is that like, veteran enemies, or big enemies, are going to do more damage than that, right?
+Keith:        Yeah.
+Austin:        The way it basically works is like, commoners have 2 HP and do 1 attack, minions have 4 HP and do 2 damage. Bosses do 4, right? And, even minion class characters can have special abilities or can have some additional trait that gives them a little bonus damage. But it's still very good.
+Keith:        Yeah, yeah.
+Austin:        All right. Odette or Mana, do y'all want to do your stuff?
+1:57:39.0        
+Sylvia:        I've got mine ready.
+Austin:        All right. Well let's hear from Mana Mixup.
+Sylvia:        So, I decided to go, like, all-in on one of these schools —
+Austin:        Okay.
+Sylvia:        For like 3 of my moves. So, in the magician —
+Austin:        You are, again, you are the magician. Do you want to read the magician, what the magician's breakdown is on 83?
+Sylvia:        Yeah, sure. The magician flicks their wrist, delighting an audience with a parade of illusory animals. They mesmerize an adversary, freezing them in place. They peer beyond of the eyes of another, entering their dreams and shaping their reality. Choose the magician if you want to use spells that affect the mind and the senses. This role is a great choice for people who want to play a dazzling performer or a devious manipulator.
+Austin:        Ah,I see, I see, I see.
+Sylvia:        What about both? So... [laughs] my first, I went all the way in on the mannekin's learning tree.
+Austin:        Ooh, okay.
+Sylvia:        The first ability is splitting image. 1 AP cost.
+Austin:        Mm-hm.
+Sylvia:        You vanish momentarily, reappearing with two illusory duplicates at your side. Your duplicates travel alongside you and perfectly mimic all your movements. If a creature attempts to target you, the guide must flip a coin. If it turns up heads, you are targeted. On tails, one of your duplicates is targeted. If one of your duplicates takes damage, it disappears.
+Austin:        Amazing. So, you get two duplicates from that, which is great. So you get two potential misses, you know?
+Sylvia:        Yeah. The next one is called phantom menace —
+Austin:        Great.
+Sylvia:        Which is 2 AP. You read the mind of a nearby NPC and produce an illusion of a creature they find extremely irritating. Only you and the target of the spell can see and hear the illusion. For the next 10 minutes, the illusion relentlessly mocks and taunts your target, provoking their full attention. You may control the illusion directly, and have it manipulate small objects. For example, you can have it steal an item from the target or lead them on a chase. Or you may let the illusion go wild, allowing the guide to narrate its behavior.
+Austin:        Fantastic. Good.
+Sylvia:        And then finally — this can cost 3 or 4. I'll read when it can cost 4 at the end. But, illusory creature, which, standard costs 3 which is, imagine a creature. You create a convincing illusion —
+Austin:        Great, I love that sentence. Imagine a creature!
+Sylvia:        [laughing] Yeah, I know, it's really good. You create a convincing illusion of it that appears nearby. It looks, moves, and sounds like the creature you imagined. It even feels real to the touch. The illusion has 6 HP and vanishes at 0. The illusion can behave independently and travel away from you. You can program the illusion's routines. For example, you may have it clean a house, patrol an area, pretend to be busy, or give it a combination of tasks and behaviors. You can also set rules for it, like, “don't harm anyone for any reason,” or, “don't let anyone pass through this door.” You share a telepathic bond with the illusion when it is nearby, and you can control it directly during your turn. You can make it move, act, and speak your lines. It can hold and use weapons to make basic attacks —
+Austin:        I can't believe you've hacked the game to create [laughs] an NPC of your own.
+Sylvia:        I know. [laughing] After one day, the illusion will automatically travel out of sight of other creatures and then vanish. This spell — this is when it costs 4 AP. This spell costs 4 AP instead if you use it to create an illusion of a creature that already exists.
+Austin:        Mmm.
+Sylvia:        You create a perfect double of the creature that looks and sounds like them. It can fool anyone but the creature's closest friends and family.
+Austin:        Great. Definitely can get up to some fucking hijinks with —
+Sylvia:        Yeah.
+Austin:        Uh... all right then, you have 2 more? 3 more? 3 more.
+Sylvia:        3 more. So, next I have... I believe the next two are from this misdirection playbook? Yeah, they are. Uh... I have magic tricks, which is zero-cost. You produce a tiny magical effect to surprise, delight, or confuse those around you. Choose any combination of these effects each time you use this ability. Light — you create a harmless display of light, like a flickering flame, or a pattern of sparks. You can also snuff out or ignite small light sources like torches. Sound, you create a small, brief sound effect like a wind chime, an audience clapping, or someone whispering. Smell, you can conjure a smell of any kind, like a freshly-baked pie, or a cesspool.
+Austin:        Cool.
+Sylvia:        Yeah, great. Touch. You give one or more nearby creatures a general physical sensation like someone tapping them on the shoulder, a chill breeze, or the feeling of goosebumps.
+Austin:        I want to note something here. Actually, you keep going. Keep going and then I'll note something at the end.
+Sylvia:        Okay. Mesmerize, which is, 1 cost. And you dazzle a niche commoner or minion with an optical illusion. The creature must be able to see. Until you leave the area, the creature cannot move, take actions, or respond to conversation. The spell ends if the creature is harmed.
+Austin:        Okay. And finally —
+Sylvia:        Finally, I have magic eye, which is one cost, and — you briefly gain the ability to see beyond physical reality. For the next hour, you are able to see the following —
+2:02:49.8        Magic, a faint aura surrounds any person or object currently affected by magic. Or, illusion. Any illusory creature or object slightly flickers, but you do not see its true form.
+Austin:        The thing I want to note is, none of your abilities require you to roll the dice. If you want to create – if you want to imagine —
+Sylvia:        Yeah.
+Austin:        A creature and then make an illusory version of it, that works, that does things, that just costs you AP. If you want to see through magic or create some sort of magical trick, you can just do that. If you want to like, meet the shitty mayor of a town, and then create [laughing] a version of that mayor that convinces everyone except their closest friends and family, that just costs you 4 AP.
+Sylvia:        Yeah, that's why I really like this playbook —
+Austin:        Yeah.
+Sylvia:        Is because it's really flexible without having to rely on chance stuff. It's just AP management while playing.
+Austin:        That's really cool, I like that a lot.
+Sylvia:        Yeah.
+Austin:        All right, thank you, Mana Mixup.
+Sylvia:        No problem.
+Austin:        I can't wait to see your, your — I feel like you should have a stage show. And I think that you —
+Sylvia:         That's why I laughed when I said I could conjure an audience clapping, you know?
+Austin:        Right, yeah, uh-huh.
+Sylvia:        Great, perfect.
+Austin:        It's a great night on the show again. Clap clap clap clap clap, every night's a great night at the Mana Mixup show.
+Keith:        Oh, I guess we're all clapping.
+Austin:        [laughing] Yeah, exactly. All right. Odette van Ives, the Christmas spy. Tell me about your abilities. Also, I guess, read me spy first. Also, are you gone or muted? Perhaps. Janine, you're muted.
+Janine:        I'm muted, sorry.
+Austin:        It's fine.
+Janine:        [laughs] Uh... the... spy smiles and offers an uncanny greeting, walking through the front door with confidence. They slip in and out of the shadows, striking foes when they least except it. They craft remarkable bespoke tools that give them an edge in their pursuits. You should play the spy if you want to roleplay a supremely skilled character who relies on practical means to achieve their aims.
+2:04:47.8        It's a great choice for playing a secret agent, or a roguish assassin.
+Austin:        Or a Christmas spy.
+Janine:        Or a Christmas spy!
+Austin:        All right.
+Janine:        Uh, so, the first one I took is from the termination tree.
+Austin:        [laughing] I love a Christmas spy!
+Janine:        [chuckling] I love a Christmas termination. Uh... it's sneak attack. Once per round, when a nearby foe attacks a creature than you, you may exploit their focus. You may immediately move behind them to perform one of the following actions. For 1 AP, you make a basic attack on them. For 1 AP, you incapacitate a commoner or minion by touching one of their pressure points. They fall to the ground unconscious for the next 10 minutes, or —
+Sylvia:        God.
+Janine:        Until they are harmed.
+Austin:        Yikes!
+Keith:        Oh my god.
+Janine:        Three, you kill a commoner or minion instantly. Describe how you take them out.
+Austin:        Done. It's not — again, a thing I like about this is it's not — there's two things I like about is. One is, it is not the tradition — it's not backstab. It's not sneak up and do this to someone. It's, when a nearby foe attacks a creature other than you.
+Janine:        Yeah.
+Austin:        So it's literally like a reaction to one of your party members —
+Janine:        They're distracted, it's —
+Austin:        Yeah, I like that a lot.
+Janine:        Seizing that very narrow window of opportunity, it's not about positioning necessarily.
+Austin:        I think that's really fun, yeah.
+Janine:        Yeah. So, the next one I took is from the concealment tree. It's strap, it costs 0 AP. Unless you are actively searched by another creature, you can conceal up to 2 weapons in your clothing without being noticed, provided you are wearing enough to reasonably conceal them. Let me tell you... about leg of mutton sleeves. [chuckles]
+Austin:        Excuse me?
+Janine:        Putting a butterfly knife in your leg of mutton sleeve.
+Austin:        [laughing] Okay.
+Janine:        Very easy to do, I'm sure, if you have sleeves that are built for it.
+Austin:        Uh-huh. I really like the idea of, uh, Keith's character with three identitical swords, doing this, because, uh, they would show up at the place, they'd get searched, they'd be like, hey, you have to take these off —
+Janine:        Fuck — 2, you can have 2.
+Austin:        Well, I'm imagining there's 1 being worn in public, and so Keith would turn that one in —
+Janine:        Oh, sure.
+Austin:        And then the person would be like, “oh, sorry, we have to search you,” [laughing] and then find two identical swords in the sleeves.
+Janine:        [chuckles]
+Keith:        [laughing]
+Austin:        Anyway, please continue.
+Janine:        Uh... I also, so I went a little bit deeper into the tree that I think is most appropriate for this character, the stenography tree...
+Austin:        I love — I do, you know, there's things about this game that I'm not in love with. One that I, one of those is not the fact that it has a stenography tree. What?!
+Janine:         Mm-hm.
+Austin:        Okay.
+Janine:        So the, first one I grabbed, of course, is dossier. It's a magic item. A magic book that copies things. You can make a dossier of any size, from a pocket-sized folio to a coffee table book. You can use the book copy any kind of writing or drawing that is pressed against its pages. For instance, if you press a handwritten letter against one of the dossier's pages, a legible but imperfect copy will appear inside.
+Austin:        Ooh.
+Janine:        0 AP.
+Austin:        Love that. Love to just have, uh... like, basically a Xerox machine ready to go.
+Janine:        Yep.
+Austin:        The size —
+Janine:        Yep. Adds a little bit of artifacting, but it's fine, it's fine.
+Austin:        Yeah, yeah.
+Janine:        Uh, the next thing I grabbed from stenography was mimic, of course, because you have to grab them in order. A magical pen that guides your hand to copy any writer's personal style. On the end opposite the pen tip is a magic stamp that can create forgeries of official seals. By bringing the mimic within reach of a handwritten document, it automatically learns how to reproduce the document's handwriting styles, signatures, and seals.
+2:08:24.1        For 2 AP, you use the pen to create a single document forged in any style the pen has previously learned, including the reproduction of any official stamps or seals.
+Austin:        You would be a terror in the toymaking town —
+Janine:        [laughing]
+Austin:        Truly ruining everyone's Christmas, honestly.
+Janine:        It's fine, I'm compassionate, though. I use my powers for compassion.
+Austin:        Oh, that's true, you are compassionate, that is true.
+Janine:        Uh... I also took, in stenography, listener. A small magic gem that can be activated to record sounds nearby for up to one hour. If you have the cloner — I don't have the cloner — but you can use listener into the socket in the amulet. The cloner, like, intercepts other transmissions.
+Austin:        Ah, I see.
+Janine:        So you could make it record the transmission, is basically [unintelligible]
+Austin:        Right, right right right right, gotcha.
+Janine:        The device can record up to one hour of sound, and you can squeeze it softly to have it [laughing] audibly play back the sound.
+Austin:        [laughing]
+Janine:        Using the device to record makes it completely forget the previous recording. So, for 1 AP, you activate the listener. It records anything it hears, paying particular attention to spoken words. It's like, so it's like —
+Austin:        It's a Yakbak?
+Janine:        It's like a Yakbak, but a jewel that you squeeze.
+Austin:        Love it. Yeah. Okay. Good.
+Janine:        Mm-hm. Uh, and the last one I grabbed is, not from the impersonation tree, it's the entire impersonation tree, because it's just the one thing in there.
+Austin:        Oh, interesting.
+Janine:        It's persona. You carefully prepare a convincing alternate identity. You cannot create a persona of an existing person, or the identity of someone who holds an exclusive position, like the ruler of an existing nation. Each persona consists of a wardrobe, credentials, and a backstory. You may create and describe each element of the persona. When you use your alternate identity, you must outwardly present yourself as that person by wearing their costume.
+2:10:09.0        For 2 AP, you create the persona of a common person of average means, like a farmer, artisan, traveling salesperson, priest, soldier, or teacher. When using a commoner's identity, you can effortlessly blend into crowds, and travel unnoticed in public spaces. For 4 AP, you create the persona of an officer, someone in a position of formal authority, like a politician, judge, military officer, guild leader, or a ship captain. When using an officer's identity, you may enter restricted areas that your rank and affiliation gives you access to, give mundane orders to people you are outrank, like running errands or keeping watch. For 6 AP, you create the persona of an aristocrat, like a prominent socialite, wealthy business owner, ambassador, or governor. When using an aristocrat's identity, you may — enter exclusive spaces for the rich and famous, like private clubs or balls. Seek audience with local rulers. Spend 1 AP for a get out of jail free card that pardons you for minor crimes.
+Austin:        [chuckles] Hey, uh... this is the Hitman move, Janine.
+Janine:        [laughing]
+Austin:        [laughing] Uh... I'm just writing two —
+Janine:         Hitman — 47 just fine, he's got, this is, this is more, there's more craft here, that's more construction.
+Austin:        Have you heard how, how great 47 plays the drums? I don't know.
+Janine:        [laughing] That's true.
+Austin:        This is very good. And Morgan Jay in the chat says, everything the spy does and has is literally just like, James Bond shit but it's magical. This is bonkers. Yeah. It's sick. I really like it a lot.
+Janine:        [chuckles]
+Austin:        Uh, and, and yes, also, Weston Humphrey says, love the implication that you can create the persona of a leader of a non-existent country. Like, yeah, that's the, the 6-step thing is basically like —
+Janine:        Yeah.
+Austin:        Yeah, I'm a governor. Of where? Uh... yep.
+Keith:        You haven't heard of it.
+Austin:        Uh... deep in the mountains, of, of the Marchmont Mountains, there's another place. You don't know it? It's —
+Janine:        Flavortown.
+Austin:        Yeah. [laughs] Uh-huh. Yes. God. All right. Well. Those are all of our abilities and all of our roles, and all of our equipment. And I think that that means we've made our characters here.
+Keith:        Yeah.
+Austin:        This is, you know, from here, we would, I would then, you know, start a session and go over where we're all from and stuff like that. But, but, we're not going to do that today. I think this same group of people will probably do the first session. I have like a loose idea for a, for a mission. But now that I know these three characters, I have enough info to start building, you know, an actual session. So, look forward to that. My guess is, other people will make their characters maybe off-mic, if someone else wants to join that first Quest session. I don't want to say like, no, you do, you weren't at the live thing, you can't.
+Keith:        [laughs]
+Austin:        Uh, uh, so, but I did want to share some of what this character creation look liked, with the folks who were around today. So I hope that was enjoyable. I'm really excited to get into this.
+2:13:02.6        I think the moves in this game are really cool, and we'll have a lot of fun with it. So, so yeah, thank you for hanging out and watching us today. Hopefully everyone has a good week, and stay safe — I almost did the Wavepoint signoff, because that's where my brain is at right now.
+Sylvia:        [laughing]
+Austin:        I mean, fuck it, we can say fuck capitalism, whatever, I don't, you know [chuckles] —
+Keith:        When we were setting up, Austin said, hopefully this will take 60 to 90 minutes, which means it'll take 90 minutes to 2 hours. And so I told Isaac, that means it'll take 2 hours to 2 and a half hours.
+Austin:        And that's where we are. So...
+Keith:        [laughing] And that's where we are.
+Austin:        Yep. 100 percent. Turns out reading out moves takes longer than my brain thought it would.
+Keith:        It does, yeah.
+Austin:        That's, that is what it is. Anyway, thanks for joining us, everybody, have a great night.

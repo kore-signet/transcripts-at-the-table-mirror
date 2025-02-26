@@ -1,0 +1,911 @@
+﻿Gathering Information 08: Chaos… Again!!
+Transcriber: Mikah
+Introduction        1
+The Most Chaotic Friend [00:01:35]        3
+The Moves of Detective Eclectic [00:06:35]        8
+Ultimate Meta Gaming [00:14:50]        12
+Thoughts on Character Death [00:20:15]        15
+Judgment Dre [00:30:10]        21
+The Maths on Figure [00:33:10]        23
+The Length of a Season [00:37:35]        27
+Figuring Out Gur [00:41:50]        31
+Figure's Mech [00:52:10]        40
+Eclectic Style [00:53:55]        42
+Thoughts on How to Make the Show Good [01:02:45]        46
+Downtime Activities [01:11:00]        50
+Media Club Plus Chat [01:15:25]        54
+Bonus! (Still Talking About Hunter x Hunter) [01:21:40]        59
+Introduction
+Ali: Hello, and welcome to "Gathering Information," a behind-the-scenes look at setting the table for Friends at the Table. This is your November 2023 episode. My name is Alicia Acampora, and I am joined by Keith J. Carberry. 
+Keith: Hi, my name is Keith J. Carberry, you can find on x.com and cohost.org @keithjcarberry. You can find the Let's Plays that I do at youtube.com/runbutton, and you can find a smattering of Friends at the Table people at twitch.tv/friendsatthetable and then later uploaded at youtube.com/friendsatthetable.
+Ali: That's true! 
+Dre: That was very thorough.
+Keith: Yeah. Should I not– should I have done less?
+Dre: No! No no no.
+Ali: No! No, no. 
+Dre: Killed it.
+Ali: Yeah. Practice makes perfect, you should test this as many times as you need to.
+Keith: Yeah. 
+Ali: [laughing] I am also joined by Andrew Lee Swan.
+Dre: Hey! You can find me on Twitter @swandre3000.
+Ali: Perfect, hi. How are you both doing? 
+Keith: I'm doing good. [Dre: Good.] There's a new taco place down the street. 
+Ali and Dre: Oooh.
+Keith: And we're going to get some tacos. 
+Dre: Fuck yeah. 
+Keith: They will be here during this. 
+Ali: Oh, okay, so we should wrap this up.
+Keith: No, no, it's okay, I'm just going to eat them. 
+Dre: Okay, this has been Gathering Information, November…
+Keith and Ali [laugh]
+Keith: It's fine, you'll never know when they arrive and you'll never know when I'm eating them. 
+Dre: Mhm.
+Ali: Wow.
+Keith: Yep.
+Ali: Okay, well…
+Dre: The Keith Carberry promise.
+Keith: Yep. 
+Ali: We're just going to have to keep throwing to Keith at inopportune moments [Keith: laughs] and see if we can catch him, catch him with a taco. 
+The Most Chaotic Friend [00:01:35]
+Ali: But yeah, hi! So right before we started recording, I guess, Keith asked, "what are you– what are we talking about?" Which is a great question. [laughs] Because…
+ Dre: [laughs] 
+Keith: 'Cause you just said math. 
+Ali: I just said math.
+Dre: [cross] You did say math. 
+Ali: I just said math. 
+Dre: Hold on, you said something else. You said…math, and then you also said, uh….
+Keith: Rolls! [pause] I think, is what it was.
+Dre: Gaming, numbers, etcetera. 
+Keith: [laughing] Okay, yes.
+Ali: Gaming, numbers, etcetera. And I feel like that about covers it, [Keith: Yeah.] so I'll give the two of you the floor. 
+Dre: Okay.
+Ali: No, okay, so I guess really to– last episode with Art and Jack, there was this like aside conversation that was "who is the most chaotic person on Friends at the Table?" And I'm sure everybody has different answers and I'm sure everybody has different meanings of chaotic, 'cause for Art it was simply "willing to go off topic." 
+Dre: [laughing] That's a very Art answer. 
+Cast [laughs]
+Keith: I just– I'm trying to think of a– I mean it's– I feel like it's me. 
+Ali: Sure, yeah! Yes.
+Dre: Mm.
+Ali: Well, I– yeah, for me–
+Dre: I'd say you're up there, yeah. 
+Ali: Yeah, for me I think of chaotic as more of like a risk taking perspective and I think for me the two of you [laughing] are who came to mind.
+Dre: [laughs]
+Keith: Mmm. 
+Ali: Because I think that there– you know, maybe there's part of Armour Astir that has inspired you in this way, Dre, or um, you know…I'm curious if this is like something you feel has developed over your time as tabletop gamers, but I feel like the two of you both tend to think of things… [sighs] I guess have less friction with mechanics. [Keith and Dre: Mm.] Or are able to think of things on a technical level in systems, [Dre: Sure.] to create these sort of like big outcomes? As well as are sort of like willing to not be super safe with your character, [laughing] I suppose I would say?
+Keith: Yeah…
+Dre: I don't, I don't know how that applies to my current character. 
+Keith: [laughs]
+Ali: You know…who could say?
+Keith: Maybe the ultimate expression of that, [Ali and Dre: laugh] honestly, is what's going on with Figure right now. 
+Ali: Right. And you know, attached to Figure and Eclectic, you know, new character sheets recently, new characters literally for Keith, so we can kind of check in with that, and just talk about, you know…odds, and… [laughs]
+Keith: Yo, I just bit the dust for the first time in this system! [Dre: Mhm.] I've never bit the dust before, ever. 
+Ali: Yeah!
+Dre: It's stressful. 
+Keith: That was fun, that was very stressful, but it did– [Ali: laughs] I mean, I won't say, I guess. I don't know when this is coming out. 
+Ali: Sure, sure. I think that by the time this comes out, that will have happened in the episode? Um, let's just, for safety's sake, feel like we can talk about this entire arc and I will decide when I release this based on what we talk about. 
+Dre: Okay!
+Keith: Yeah. Sure. And what's the name of that arc? [smiling] For the listener, and for me?
+Dre: The train?
+Ali: Oh, the name of the current arc is…Seize the Chance, I believe? Let me go look…
+Keith: Seize the Chance. Yeah yeah yeah, that is what it is.
+Dre: Mmmm.
+Ali: …friendsatthetable.net, and yeah. So, Seize the Chance is the name of the arc, this is going to be Palisade 30 to 35?
+Keith: Mhm.
+Dre: And this is the one we just finished…
+Keith: Yeah.
+Ali: Yes yes yes [Dre: Wrapped up.], this is all the stuff with Dust, this is all the…
+Dre: Train Brain. 
+Ali: Train Brain. Train Brain!
+Dre: Hashtag Train Brain. 
+Keith: Train Brain is such a funny set of words.
+Dre: It's great. 
+Ali: [laughs] Yeah. Yeah. Austin…you know?
+Keith: Mhm.
+Ali: We keep hitting bangers, but I feel like really Austin knocked it out of the park with this one. [Dre: Oh yeah.] I feel like we ran into a very fun way of pacing things where it took three entire episodes for…this episode to start. [Keith and Ali: laugh] The first episode of this arc was episode four of this arc. 
+Dre: [giggles]
+Keith: Wait, what do you mean? 
+Ali: Well, because the first three episodes are us just like fucking around in that tunnel. And then the like–
+Dre: Oh.
+Keith: Well that's part of it.
+Ali: Well, yeah, but the like– I guess also you weren't in the tunnel during this part so you–
+Keith: No, I wasn't there, I was off doing other stuff.
+Dre: Yeah. 
+Ali: Right.
+Dre: Things were kind of popping off for Keith from the jump. 
+Ali: [laughing] Uh huh.
+Keith: Yeah. Yeah yeah yeah, that's fair. 
+Ali: But for me it feels like a thing of Austin set up this thing that was like, "and then what's going to happen is they're going to go into the weird Dust visions," and that…there was a lot of the minutia of the whatever before.
+Dre: Yeah.
+Keith: Yeah, it did take a while to set off the dream dimension. 
+Ali: [laughing] Uh huh.
+Keith: But I didn't, I guess I didn't know until the very end that you were meant to have done that faster? 
+Ali: Sure. Yeah.
+Dre: We got there.
+Keith: Yeah.
+Ali: And we spent as much time as we needed to in the dream zone. 
+Keith: Yeah. 
+Dre: Mhm.
+The Moves of Detective Eclectic [00:06:35]
+Ali: I guess while we're just talking about this arc…Keith? 
+Keith: Yeah.
+Ali: How are you feeling about Eclectic?
+Keith: Um…so far, so good. You know, I don't have a lot to work with, so it is kind of tough, like we are pretty deep into the season, like deep enough where other people have a lot of tools in their belt? [Ali: Mhm.] And um…you know, I'm used to having access to those tools at this point? And you know, Austin's been like writing for people with all of those tools this whole time, or you know, increasingly so, anyway? And so it was kind of harrowing to be like, oh, all of a sudden I'm out in the open, I need to be doing stuff, and I have in a real sense no stuff to do. [laughing] 
+And so like I'm looking at the stuff that I could be doing if I was level three or four and you know, if I had like time to get some new gear, stuff like that, and seeing how things could have been a bit smoother. But it was really fun being like, on this first mission, investigating, me and Eclectic, investigating really for the first time together… [Ali: Mhm.] And…realizing like, oh, I don't really know how to do this.
+Ali and Keith: [laugh]
+Keith: I have no…like I have one button to press and it's sort of like "blend in." Like I have the Assassin's Creed sort of "blend in" move, [Dre: laughs] like that's all I can do, right now. And I mean, it's not even a move, it's just something I can say that I'm doing and then I get a bonus based off of that. 
+Ali: Right. It's also kind of tough because you were also B plot, [Keith: Yeah.] so it's not like you had the protection of the team to help or hinder, [Keith: Totally.] or sort of pad you around these failures. 
+Keith: And it's also like, you know, I was so powerful as Phrygian.
+Dre: Yeah, you were.
+Ali: Mhm.
+Keith: Phrygian was kind of unbelievably powered? [Dre: Yeah!] Like the things that you could do with a halfway decent roll as Phrygian, like whoo! And so I…
+Dre: You blew up a warship!
+Keith: I blew up a warship in one shot. And that was a real highlight for me in Friends at the Table as a whole, I think, like I was so excited that that happened. But when I'm making a new character, one of the things that I wanted to do was make sure that…uh…that I wasn't overpowered anymore. [laughs]
+Dre: Mm. 
+Ali: [laughs]
+Keith: Not because I didn't like being overpowered or that it wasn't useful or that the story was worse because of it, but just to do something different, just to have less capability, to have different capabilities I guess is maybe a better way to put it. And I never really felt willing to flex the…the B plot muscle as Phrygian, because every time I was in the B plot, it was like a big chunk of firepower not in the main crew. [Dre: Mm.] And so I've chosen to just permanently do that.
+Dre: Now you live in the B plot. 
+Keith: Yeah, now I live in the B plot. I mean, I could be in it, I could be in an episode if I wanted to, but um…[Ali: Right.] It made it really tough to choose to be in the B plot, is– was part of the thinking. 
+Ali: Yeah. Yeah, that's fair. As I've been editing this last arc, I can feel that you're really detective mode-ed…
+Keith: Mmm.
+Dre: Fully detective pilled. 
+Ali: Yeah, like fully, because like, if a conflict or a question comes up in somebody else's scene, you would be like…"what does that mean?"
+Cast: [laughs hard]
+Keith: Do you have an example? Do you have a– or a full example?
+Ali: I think…
+Dre: God. She's right, though. I remember you doing that all the time. [laughing]
+Keith: Is this not something that I do usually? 
+Dre: It's you had your Eclectic voice when you did it. 
+Ali: Yeah. [Keith: Oh.] Yeah, you were being…
+Keith: That's funny.
+Ali: You were being…it was that register in that sort of like intrigued tone that it's like, oh, Keith is in it right now. [Keith and Ali laughing] Keith is embodying Eclectic.
+Dre: You're method acting Eclectic. 
+Keith: Yeah. I mean, first of all…and I…[sighs] Not talking during an episode is excruciating for me. 
+Ali: [laughing] Uh huh.
+Keith: It's hard to be in a B plot and go like, I'm not there, I have no input. [Ali: Mhm.] You know, I can't make a decision, I can't choose anything, I can't get– I don't have actionable…I don't have anything actionable that I can do. And one of the things that I spend time doing in every Friends at the Table recording, you know, at least since somewhere in Twilight Mirage, is like very conscientiously– or not conscientiously, consciously biting my tongue to not be interjecting and asking questions and interrupting and free associating through everyone's turn? All the time? [Ali: Mhm.] And maybe being Detective Mode opened that valve a little bit, [laughing] let some questions through.
+Dre: Yeah, sure. 
+Ali: [laughs]
+Keith: It's a hard– it's impossible for me to know where the line– I just fully cannot find the line? And so I have increasingly erred on the side of caution. [Ali: Mhm.] And it slips, like I've– Dre, I've been editing Media Club Plus and the last episode that I was editing, I was like, fuck! I interrupted Dre like twelve times.
+Dre: Well, I feel like last episode we're even now, [Keith: laughs] 'cause I interrupted you like every time you talked in that episode. [laughing] To be like, "I don't know, Keith! I think you're wrong."
+Keith: [laughing] No, it's fine, I mean, I love the disagreement as a generator of discussion for the show. [Ali: Hmmm.] Like the things that I was interrupting you with was just like…nothing. It was just like– it was like– not that the thing that I said was like bad or wrong, [Dre: Mm.] it was just like, I could have just waited two and a half seconds for you to finish your sentence that you were clearly about to be done with. Um. [pause] You know, I just get excited. 
+Dre: Yeah!
+Ali: Yeah.
+Keith: It's just the– I have that thing. It's two things. I have pretty bad ADHD and there's that part of your brain that's finishing people's sentences and jumping in, [Dre: Uh huh.] and then there's the other thing which is like, my whole family is like this. We're overtalkers, we're like communal overtalkers. [Dre: Mm.] And so I feel like I have it double bad because of that. 
+Ultimate Meta Gaming [00:14:50]
+Dre: I will say, Keith, though, one thing that I appreciate about that part of you is that like, there are times where because you're so engaged with what's going on even when you're not there, like sometimes you will pop in and be like, "hey, no, I know how you could do this." 
+Ali: [laughing] Uh huh.
+Dre: Like I'm thinking about the stuff with like Brnine. Right? And you were like, "no no no, here's how we could do this!" 
+Ali: [laughs] and Keith: [sighs]
+Dre: "If you take this level, and then you do this thing, you'll get another level, and then you could take this thing," I was just like what the fuck, Keith! [Keith: laughing] Like Keith was like seeing through the Matrix of the Armour Astir rulebook. 
+Ali: [laughs] Uh huh.
+Keith: Ali, was I doing too much? 
+Ali: No! No no no. 
+Dre: No, it was awesome!
+Keith: Okay, okay. Alright. Good. 
+Ali: Yeah, these moments of combined effort are always a highlight.
+Keith: Okay, good. 
+Ali: And I feel like I'm also…I do that sometimes too, where it's like–
+Dre: We all do. 
+Keith: Yeah.
+Ali: And it's a weird thing — bleed thing with, with Brnine being a captain, too, where it's hard to find the line of like in-character wanting to be like, "hey you should do this," and out of character being like…you know, this is what I've been thinking you should do– or because I have this understanding of your character's guns or whatever, like what your gear is, maybe if you should do this. So I think it's better the more that we do that.
+Keith: Yeah. Well, it's also like it's a very natural table thing. [Dre: Oh yeah.] Like I think it's sometimes it's a little too easy to silo yourself when we're all on Discord, you know, but in a real life situation, [Ali: Mhm.] I think there's a lot…I think there's…maybe not a lot, but I think there tends to be like an easier entry into out of character, out of position table talk about stuff like that. [Ali: Yeah.] To me is a very natural way to play games like this, [Dre: Yeah, totally!] it's just how I've always done them. 
+But yeah, the Brnine stuff was so much fun, that was a blast trying to figure out how to get [laughing] the levels and get all the rolls right. [Ali: laughs] And your willingness to just be like, "I just want– I'm ready to– I'm ready to kill today." [Ali: Yeah, so it was…] It was like, alright, let's figure out how to kill! 
+Dre and Ali: [laugh]
+Ali: I guess I should talk about this a little bit, because I haven't– I didn't get a chance to on previous episodes, of like how that even felt like it all happened was that after the Combustor arc, I was just talking to Austin sort of casually about you know, what was going on, and I think that I expressed something that I felt bad that like…um…you know, I had left that whole arc without taking any harm, and you know, I sort of had this internal plan what I'm going to do when Brnine dies and I've had it since the beginning of the season? 
+Dre: When!?
+Keith: Wow. 
+Ali: [laughing] Or if. You know, we'll see what happens. That like, you know, Brnine being the captain and being in the carrier a lot mechanically is beneficial so I feel like I am already a really protected character and then I left this big tense thing without any harm and I was like, man, I could've died there, I should've died there or whatever, like this could have been that opportunity, and Austin on the low was like, "do you want that to just happen?" [laughs] "Like do you…"
+Dre: Yeah, bro, you wanna die? We can do it. 
+Ali: We could just do a pickup where like you're letting go of Brnine, do you want to do a pickup of like, you know…
+Keith: Yeah, just do a quick Possum Kingdom. 
+Dre and Ali: [laugh]
+Ali: Yeah. So I think that's why he…he set up like, l remember him being really excited about putting Brnine in front of Dahlia and making this like Valence rhyme situation happen. [Dre: Mm.] Like the two of you can either go down together or you can sacrifice yourself for this, or you know, listen to them and stay in prison? But I really wanted– if Brnine was going to go I wanted it to be based on rolls and not because it was just a decision that I was making? [Keith and Dre: Mhm.] Which is why we ended up with this like very careful Jenga thing of like, [laughs] how do I kill this person and also sort of have my mechanical goal getting out of here alive? 
+Keith: Yeah. 'Cause you really could have died. Like.
+Dre: Oh, yeah.
+Ali: I really could have.
+Keith: That was, I think, maybe the closest that anyone has come to death without dying…in Friends at the Table. [Ali: Yeah! Yeah, I mean–] Uh, maybe there's– I'm sure there's some stuff that I'm forgetting 'cause I'm just not good at remembering those specific kinds of moments, but.
+Ali: Yeah, I know as Hella I had a death roll that I succeeded at. Um, I think maybe somebody else had a sort of check in Dungeon World, because Dungeon World also had a similar mechanic where it was like…dying isn't dying, it's like a saving throw. [Dre: Yeah.] I think that's how a lot of the Nacre stuff came about, actually. And then, like you said Keith, you also just bit the dust. 
+Keith: Yeah. Did you bite the dust twice? 
+Ali: Did I bite the dust twice? I don't think so, I think it was just the one time, [Keith: Okay.] and then I got like a super success on my Bite the Dust. [Keith and Dre: Mmm.] I got like a 12 plus something on that [laughing], so yeah, that was fun. 
+Thoughts on Character Death [00:20:15]
+Ali: But Dre!
+Dre: Yeah!
+Ali: While we're going around the table here, how is the new Figure sheet treating you?
+Dre: Man, it's so fun. [Ali: laughs] Really I think my philosophy as a player on this podcast is I am not like Keith, where I can like line up everything to be like the most synergistic thing? Instead I'm just like, what is the most interesting things I can do? [Ali: Mhm.] Like from the perspective of…[sighs] When I first played Minecraft when it first came out, every time I would play Minecraft I would build the most intricate base, with like the most perfectly set up everything, and then I'd be like, well there's nothing left to do, let me spawn in a hundred TNT boxes and blow this shit up. [Keith: laughs] And I feel like that's kind of how I play characters in Friends at the Table sometimes. [laughs]
+Ali: [laughs] Okay, sure! 
+Keith: It's taken a long time to set up those TNT boxes with Figure. 
+Ali: [laughs]
+Dre: Well, you know. But now they're like lining up and every time– I guess now because it's a chance–
+Keith: [cross] Yeah. Well, I guess really what I mean is there's been a lot of false– there's been a lot of things that felt like they were TNT boxes and turned out not to be. 
+Dre: Mhm. Yeah. Yeah.
+Ali: Yeah, that's really interesting 'cause I feel like I…is it just like an excitement thing for you, like the sort of chasing what the like–
+Keith: [jokingly roughly] Is this how you get your kicks?
+Dre: Yeah.
+Ali: Come on. [laughs]
+Dre: It's the only way I can feel. 
+Keith: [giggles]
+Ali: Well, I just feel like there's definitely…you were more careful with Throndir, right? 
+Dre: Oh yeah, that was my baby boy.
+Ali: Right, yeah, and it's fair to just say that out loud, [Dre: Yeah!] and to feel like this sort of player shift over time. Is it just like, have you had more fun doing it this way, or is it just something about the sci-fi?
+Dre: Yeah. Um, I think it's definitely a shift over time, right? Of just being more comfortable in doing what we do, and thinking more about this as not just a thing I do for fun with my friends but a thing that people listen to? [Ali: Mhm.] And thinking of it more as a production and okay, what would make this interesting to listen to. I mean, I still think like, in certain ways I have been very careful with Figure, like I've had a lot of conversations with Austin of like, there are certain ways that I know I don't want Figure to go out. Right? [Ali: Mhm.] I am not against Figure dying, but you know, I said to Austin, if it can be avoided, I really would hate for the end of Figure to be that like Clementine Kesh kills them, or like reclaims them, or whatever. [Ali: Yeah.] Because that would suck. That would just suck. [laughs] [Keith: Yeah.] But so I think it's like finding certain things to be protective of? But not the whole character themselves. 
+[pause]
+Keith: It's interesting, 'cause one difference, Dre, between us is like…you know, getting into trouble but in my mind I'm like…I will do everything to not have the– I know that I just intentionally killed a character.
+Dre: Mhm.
+Ali: [giggles]
+Keith: I will do everything to not have the character die. Like I want it– it's almost like, uh…it's almost like greedy, where I'm like, I want to set up this really dangerous thing and then like, I will wriggle and squirm to make sure that it all works out right. [laughs]
+Ali: [laughs] Yeah, you're a self-admitted worm.
+Keith: [laughing] Yeah. I did say that just the other day! I said it!
+Dre: He said it! He said it!
+Keith: What did I– why did I say that the other day? 
+Ali: I…
+Dre: You were a worm!
+Keith: About rules lawyering, yeah. 
+Ali: Yes.
+Keith: Yeah yeah yeah. [laughs] But yeah, of course I'm not– it's almost, it's sort of like, um…I can do all this stuff, I can set it up in this way, it'll be really fun, it'll be crazy, and like I'll suffer the consequences that come to me, but like…you know…Austin's gotta work to make 'em stick. Is the sort of like, you know…
+Ali: Mhm.
+Dre: [laughs] He's gotta earn it.
+Keith: Yeah, he's gotta earn it. [Ali: laughs] 'Cause I know I usually fundamentally don't want to stop playing a character, is the…usually. 
+Dre: Yeah. 
+Ali: Sure, yeah. [wistfully] Yeah…it's tough. I don't know, I feel like…I…of course this season I went into the plan of like, if it happens I know it's going to happen, [Keith: Yeah.] and I know who my next character is going to be, so I feel like I'm…willing to with Brnine because Brnine is a character whose path would still be interesting if that happens? But I know with like…I didn't feel that way about them in Partizan, right? Because I liked playing them a lot. [laughs]
+Dre: Mm.
+Keith: [laughs]
+Ali: And I think there was like…I think maybe Hella technically should have died in Hieron, but that there was some sort of weird loophole that let me play her, [Keith and Dre: Mmm.] like she got a new body or whatever, and sometimes I wonder if like…should I have just ripped the Bandaid off then and accepted [laughs]...
+Dre: No.
+Keith: May– maybe!
+Ali: …what was happening. Maybe! And then Aria of course was, I would have…I just don't, I don't know. I like…[laughs] it's sad to me. I don't want people to die.
+Keith: It's sad! Well, part of it to me is like, you know…we do, we have a lot of dramatic irony and we have a lot of players intentionally complicating things for their characters and whatever, but as far as like being able, for me, being able to play a character and make their choices interesting is like…it's very abnormal for a character to not be doing their best to make sure they don't die. 
+Ali: [laughs]
+Dre: Sure. Yeah.
+Keith: And so I think it's a very honest way to play to desperately not want your character to die, [Ali: Uh huh.] it's like a very easy way to click into their brain, is to like feel a sort of desperate self-preservation because that's how I would be if I was there and I can imagine for most of my characters they also have that…and like, it's then the sort of meta layer on top of that is like, how do I do that and also still do something interesting. This is part of why I had a really hard time making the decision with Phrygian to do the…that move, I can't remember now what it was called. The Soldier move…
+Dre: Oh, yeah.
+Ali: Oh, yeah! Um…
+Keith: Anyway, people will know what I'm talking about. Is because it was like…it was so much, you know, Keith making the decision. Like I had to make it…there's no in character way to make that decision? [Ali: Mhm.] Like it's purely like a meta layer on top of the game? [Dre: Mhm.] Which I don't have any actual problem with, it's just outside of how I normally deal with character stuff. 
+Ali: Yeah, I mean this is pretty much– like that's similar to the thing I just said with Brnine, like I wouldn't want Brnine to die through a move like that, because it feels like it's me making the decision, not the dice making the decision.
+Dre: Mhm.
+Keith: And I don't feel judged by that. 
+Ali: [laughs] Right. Right, no, I'm…
+Keith: [laughs hard]
+Ali: [laughing] I'm saying I agree with you.
+Dre: Damn. 
+Keith: I'm sorry. 
+Ali: [laughing] It was– I'm sure it was very difficult for you to do that. I'm– yeah.
+Keith: Yeah. No, I'm sorry, I set a, I set a, I set a trap just to have fun. 
+Dre: [laughs]
+Ali: [sighing] Uuuugh, it's funny because I've been thinking of the bit that you do where you pretend like you're a victim.
+Cast: [laughs hard]
+Keith: That's an old bit.
+Ali: I know, and I keep feeling like I have to stream more video games so Keith can do that. 
+Keith: Yeah, I don't, I don't do that very much anymore.
+Ali: Well…
+Keith: Maybe I'm wrong, maybe I do do it. [Dre: Mm.] I don't know, and I'm just not…
+Ali: I don't think you've ever done it on Friends at the Table but we'll see. We'll see.
+Keith: I remember it came up once like in the last year or so, and I don't remember the context but I do remember like within fifteen minutes I did it to you. [Ali: laughs] And wherever that is, I don't remember– it's somewhere out there and it was very funny.
+Ali: Mhm, mhm, mhm? Mhm.
+Dre: [giggles]
+Judgment Dre [00:30:10]
+Ali: Anyway…[laughs] Dre, while we're judging, [Dre: Uh huh.] Keith is speaking of this very sort of natural instinct for self-preservation, how do you feel about that? What is your opinion on this?
+Dre: [laughs] No, I mean, I agree. [Ali: giggles] I think I've only ever had one character where I reached the point of like okay, I'm ready to let this person go. And that was Chine. I think I've talked about that plenty. Right? 
+Keith: Mhm.
+Ali: Oh sure sure sure. Sure sure sure. Oh yeah! Yeah, Chine I didn't even fit into this, [Dre: Yeah.] which is another…yeah. Wow.
+Dre: But yeah, for the most part–
+Keith: Yeah, I thought about Chine when you were like maybe it was a sci-fi thing and we moved past it but I was like, wait, what about Chine? 
+Dre: But no, yeah, I think Keith's right, um…yeah, I don't think I have ever played a character where I started off being like, oh yeah, this person's, this person's dead as hell. [Ali and Keith: giggle] Like, I had no intention for Valence to die. It's just the dice started rolling in a certain way and it was like, [Keith: That's true.] these are the options we have. 
+Ali: Yeah…[laughs]
+Dre: I was sad, that sucked.
+Keith: Yeah. 
+Dre: But it felt right. 
+Ali: [sighing] Yeah? Yeah…yeah.
+Dre: And then it ruined Brnine's life. 
+Ali: [defensively] Brnine's doing fine, nothing's ruined about Brnine's life.
+Dre: Ehhhh?
+Keith: Brnine's life has taken some interesting turns since then. 
+Dre: Mhm, yeah.
+Ali: [laughs] Brnine's doing better than ever, one could say.
+Dre: Brnine named their very expensive spaceship after a Taking Back Sunday album. [Ali: Yeah!] People that are okay don't do that. 
+Ali and Keith: [laugh]
+Keith: Um, the, uh…at the very least Brnine's professional life is going really well.
+Ali: Mhm.
+Dre: That's true.
+Ali: Yeah! Yeah!
+Dre: Yeah!
+Ali: Yeah, I'm, you know…I'm respected amongst my community. 
+Dre: Yeah, Gucci thinks you're great now. 
+Ali: [sighing] Ohhhhhhh, we're not going to get into another Gucci argument. Um.
+Dre: Oh, I'll do it.
+Ali: Yeah, is it, is it a thing of like…because that's especially, with the Number of the Beast thing, [Dre: Uh huh.] the, you know, the elephant in the room. Is it really just like, oh, this is such a shiny thing [laughs] that I cannot help?
+Keith: It's so good.
+Ali: It's so funny.
+Dre: It's both that and then it's also like, man, I'm going to barely fail a roll now. [Ali: laughs] Like I don't know if I have…I don't think I've gotten…this probably isn't true, but I don't think I've gotten XP from failing a roll since I took Number of the Beast.
+Keith: Uh, you briefly– you, for one move you got Gur back.
+Dre: [cross] That's true, I failed one move. Yeah, uh huh.
+Keith: But actually there was one more during a down time as well. [Dre: You're right.] So two times. 
+Dre: Yeah, you're right.
+Keith: And hey, you should check that you got Spotlight for those. [Ali: Yeah.] Because we moved past it very quickly. 
+Dre: Oh, that's right, I didn't mark Spotlight from that last one. [aside] I'mma do that right now.
+The Maths on Figure [00:33:10]
+Ali: [laughs] Oh, that's the other thing, we should talk about Gur. We should– what's going on with Figure right now? 'Cause that's like…
+Dre: Man. I feel bad. 'Cause like, I was so excited to have Gur be back, and then I'm just rolling too good. [Keith: Mm.] And Gur never gets to be the homie anymore.
+Keith: It is very funny that like fictionally, Gur is like a big headache too. Like.
+Ali: [laughs]
+Dre: Yeah.
+Keith: Just get outta here! 
+Dre: Yeah.
+Ali: Pretty distracting.
+Keith: Yeah. 
+Dre: Man, I gotta– hold on, let me find this cohost post that Austin posted, where someone did like a deep, [Ali: Oh. Yeah] a deep math dive onto like, [Keith: Oh yeah, I saw that.] "how likely is it for Figure to die?" This is…
+Keith: It was pretty like, it was like 3%.
+Dre: Yes. This is cohost user Kabanaw with a "k." [spells it out] 
+Keith: Oh, I know Kabanaw! Kabanaw, very old school Run Button viewer. 
+Dre: Oh, nice!
+Keith: We met at PAX one time, we played– Kabinaw was very upset– no, man, I shouldn't– yeah, I'll say this and Kabanaw, you can correct me, if you hear this. Kabanaw was very upset that we didn't like "Yoshi's Cookie" enough, and so, uh, we…at PAX East one time we played "Yoshi's Cookie" again with Kabanaw telling us how to play it. Um, and that was very fun. 
+Ali: What's "Yoshi's Cookie?" 
+Keith: "Yoshi's Cookie" is like a weird kind of Tetris-y Yoshi game, like puzzle game?
+Dre: Oh man, yeah, "Yoshi's Cookie" was great. 
+Keith: Um, but we didn't like it and so we had to play it again at PAX. [laughs] 
+Ali: [laughs]
+Dre: You know what? I bet if I played "Yoshi's Cookie" now– because it had the whole mechanic with the cookie– like the egg pieces right? And you were always trying to set up the eggs to like–
+Keith: No, that's a different [laughs]– that is a different Yoshi puzzle game.
+Dre: That's a different? [sighing] Ughhh.
+Keith: And may have actually been the one–
+Dre: [cross] That's what I'm thinking of.
+Keith: –that we played with Kabanaw and I'm forgetting. [Dre: Okay.] But there is two. Yeah, there is two. Sorry. 
+Keith and Ali: Anyway. 
+Ali: [giggles]
+Keith: Shoutout to Kabanaw. 
+Dre: Uh, shoutout to Kabanaw. So what Kabanaw discovered…uh, running all of these numbers, that, for example, when rolling with disadvantage, you normally have a 33% chance to succeed. With Number of the Beast, I have a greater than 50% chance of succeeding. 
+Ali: [impressed] Ooh!
+Dre: That's wild. Let me also find how– what on average, how long is it going to take me to die probably. Uhhhhhh. Boy, this is a lot of math words that I don't know. [Ali: giggles] And so this is making it very hard to find. 
+Keith: Uh, that other game is just called "Yoshi," by the way. 
+Ali and Dre: Oooooh.
+Keith: "Yoshi's Cookie" was on the Game Boy, "Yoshi" was on the NES. 
+Ali: Okay. 
+Dre: Here we go. "When Will Figure Die? …that means any time Figure rolls, they have a 2.58% chance of dying." [laughs] "That sounds pretty low - but if we do a bit of analysis we find that the point at which it's more likely to roll 3 6's is just 27 rolls. {And} the likelihood reaches over 75% about 50-55 rolls, and around 100 {rolls} it becomes near certain." 
+Ali: Hmm.
+Dre: So…we're gettin' close!
+Keith: Yeah.
+Ali: Place your bets!
+Dre: Yeah!
+Ali: Yeah. 
+Keith: Can I put– I'm going to say…[Ali: Wow.] that it'll happen…[Ali: slight gasp]...f– six sessions from now. 
+Dre: 'Kay.
+Ali: I don't– six sessions? 
+Keith: Yeah.
+Dre: That's a weird Babe Ruth pointing to the home run wall, but– [laughs]
+Keith: Yep..
+Ali: Does that– just us, or does that include Art and Jack…
+Keith: No no, just sessions that Dre is in.
+Dre: Like six recordings.
+Keith: Yeah yeah yeah.
+Ali: Okay. 
+Dre: Yeah. 
+Ali: Okay, okay, so that's our next downtime and…the next arc maybe? 
+Keith: Yep.
+Dre: Mhm.
+Ali: [laughing]
+Keith: Hey, just in time to either start the next– the following down time or end the next arc.
+The Length of a Season [00:37:35]
+Ali: [sighs] Yeah. That's another thing that the Friends at the Table office has been pretty stressed about, is When. Is Palisade. Over? 
+Dre: Never. 
+Ali: [laughing] Never, hopefully.
+Keith: I'm literally never stressed out about the length of a season. [laughing] This is not something that is part of my– the scope of my job. 
+Ali: [laughs]
+Dre: Sure.
+Keith: And as far as I'm concerned, we could do a hundred episodes of Palisade, I don't care.
+Ali: [softly] Yeah…
+Keith: I've never felt the like– the nagging feeling that we've got to get onto a new game. If anything, I've felt that our seasons run slightly too short. 
+Ali: Wow, okay.
+Keith: I'm sort of like, every season should be, maybe not fully Twilight Mirage? But like closer to Twilight Mirage than to………something– something shorter than that.
+Dre: Mhm. Sure. 
+Ali: Sure, yeah. Yeah. I wonder where we're going to end up, I don't want to say anything now, obviously, ‘cause, I mean, things could… 
+Keith: [cross] No. We have zero insight. 
+Ali: Uh huh. But like, you know, it's– 
+Dre: [cross] Ali probably has greater than zero insight. But.
+Ali: [laughs] I can probably–
+Dre: [cross] Keith and I have zero insight. 
+Ali: I can say…well, here's the thing, right. Is that I can say pretty confidently, if we…the time that it would take to do this faction game, the next downtime, one more arc, brings us through at least January, right?
+Dre: Oh, yeah. Especially with everybody's holiday travel schedules and everything. 
+Ali: Right. Yeah. 
+Keith: That's the thing, I'm like, one more arc? Like, that are you talking about? [Ali: giggles] I just feel like we've got–
+Dre: Keith just got here!
+Ali: No. Yeah yeah yeah.
+Keith: I feel like the stuff we just got through was like our halfway point, not…
+Ali: [laughs] Well, you also think that the season started with the Combustor arc, so…
+Dre: That's fair.
+Ali: Maybe that is a little skewed!
+Keith: [laughs] That was a metaphor! That was a metaphor.
+Ali: Right. Oh, I bet it was. And I only say January just in terms to be like– if we end with one more arc, but just to be like– I can at least sort of like think based on how many arcs we might do when the time of the year that it would be?
+Keith: Sure.
+Dre: Yeah. 
+Ali: But yeah. Because it is technically a season…a sequel to Twilight Mirage, I feel like we do have a little bit of wiggle room, you know? 
+Keith and Dre: Yeah.
+Ali: But.
+Keith: I feel like we could easily have four, five more arcs.
+Ali: Wow, okay. Well, we'll see what happens.
+Keith: Before– yeah, we'll see. 
+Dre: I could see that, though. 
+Keith: Yeah!
+Ali: But Keith, to your points–
+Keith: Yeah. I could see a 60 episode season. That's what I…
+Ali: Okay, but to your point, we're about to…we felled two pillars so far. [Keith: Yeah.] And we're about to get a third. [pause] Like, immediately. 
+Dre: Oh, sick. For the faction turn game? 
+Ali: Probably, because we have, we have, um…the paint shop in our sights, basically. 
+Dre: Oh, yeah.
+Ali: That's everything that Eclectic has been sort of working on in this thing, this past arc, at least. 
+Keith: Yeah.
+Dre: Mmm.
+Ali: To say.
+Keith: But as far as divisions go, we're one out of three. 
+Ali: [laughing] Sure. Yeah, uh huh. [pause] And Kesh has some stuff going on. [Keith: Yeah.] We're about to have a new…[Dre: Ooooh.]...yeah. We're about to have a new... I'm sure you guys have heard the Lucia news. [laughing] So there's that. 
+Dre: The what? 
+Keith: I have heard the Lucia news. 
+Ali: That Lucia Whitestar is going to be the new Kesh…anyway, so yeah. So yeah, length is hard to know with that. So. [laughs]
+Keith: Yeah, it's impossible to know. 
+Ali: Uh huh. Um. How did we get here? What were we on before we got here?
+Keith: This has been slightly freewheeling, but–
+Dre: Fuck if I know. Yeah.
+Ali: [laughs]
+Keith: Uh, I think that we were on Dre. We were talking about Dre and rolls and death and Valence.
+Dre: Probabilities…
+Ali: We were talking about probabilities.
+Keith: [cross] The probability of the Number of the Beast, yeah, that's what it was. 
+Ali: Uh huh, and how many…how many more rolls could possibly be left, I think, yeah.
+Keith: Yeah, we got into the minutiae of arcs, because I was like, I think that it's going to be one more arc, basically. 
+Figuring Out Gur [00:41:50]
+Ali: [sighs] Ooooooh. Well, Dre…[Dre: Yeah!]...what are you gonna do? 
+Dre: I– we'll figure it out when I get there!
+Keith: Figure it out, yeah.
+Dre: Yeah. Ha ha! [Keith: laughs] Get it? Get it? We'll figure it out? 
+Ali: Ah.
+Keith: Ah, will the Figure it out.
+Ali: Uh huh.
+Dre: It's like every time Austin uses the word "figure" to describe a human person as opposed to me.  
+Keith: Every time! Every time it gets me. 
+Dre and Ali: laugh
+Ali: But yeah, I guess, you know, the specifics like– coming out of the gate with…I guess you didn't come out of the gate with Number of the Beast. [Dre: No.] But coming out of the gate with Number of the Beast and with the Gur thing, I just really want to know like what was going through your mind when you chose the Wither. You know, what were some other possibilities that you took, [Dre: Mhm.] you know, what does your heart say about Gur Sevraq? You know, [Dre: Man.] to bring them back? Let's talk about our feelings here.
+Dre: So, when I first…when Austin and I first started talking about what was going to happen with Figure and having this class change, there were four playlists that he shared with me, and he said, you know, "you don't have to pick one of these four, but these are four that I think would be sick and would probably fit Figure." [Ali: Mhm.] Um…I'm trying to remember what they were–
+Ali: [cross] And that choice was presented to you…
+Dre: Go ahead.
+Ali: …pretty similarly in show too. [Dre: Yeah. Mhm.] In terms of like…
+Dre: Yeah. Mhm. It was basically like, okay, Figure is free from Clementine Kesh, what is the means of that freedom? So let's see, the classes were, the Tempest…um, and I think that was the one I actually was initially most learning to…um, the Tempest is basically like…is very much like, you're– it's kind of Imposter-y in that it's all about pushing yourself and burning the candle at both ends to do some pretty powerful stuff. The Ordained is like a cleric-y, paladin-type character. Um…and then the Revenant was the most interesting one, because you die and you become a ghost and you haunt your mech but then you can also go haunt other stuff. [Ali: Mmmmm.] And if I was just picking like, which one sounds sickest, it was the Revenant, a hundred percent, but I was like, I don't want Figure to die! Um.
+Keith: Even if you're a ghost? 
+Dre: Yeah…I don't want Figure to die.
+Keith: That's fair.
+Dre: And so the Wither was the one that I was the most like, ugh, I don't want to do this– besides the Revenant, it was also the one that I was like, eh, I don't know. 'Cause when I first looked at it, I was like– there's a move on there, which I don't think I'll ever take with Figure, that is basically like, "hey man! Your face is fucked up! Whenever people look at your face, they don't like it!" [Ali: Mm, mhm.] And it just felt like, I don't know, man, like to me an important part about Figure is community and relationship building, and so I don't want to play the class that's like, "everybody is scared of you and thinks you're gross." 
+Ali: Right.
+Dre: But the more we talked–
+Keith: [cross] Hey, that was true about Phrygian [Dre: That's true.] and people loved them.
+Ali: [laughs]
+Dre: That's true. That's true. But the more we talked about it and the more we talked about the Wither being the Perennial class, the more I was like, okay. Yeah, let's do it, this sounds cool. [Ali: Okay.] And I don't know how many more Wither moves I'm going to take when I level up, if I level up, I guess. You know, if I'm just rolling too good and I never level up again. 
+Ali: Well…or if you Burn the Spotlight! Let me tell you something about Burning Spotlight. 
+Dre: That's true! [Ali: laughs] Everybody's new favorite move is to Burn the Spotlight. 
+Keith: I cannot believe you've been doing that, I'm reeling. Every time you're doing that, I'm like, what is going on? 
+Ali: I've only done it the one time.
+Keith: Didn't you do it twice?
+Ali: Did I do it twice? I feel like– 
+Keith: I think you did it twice, almost in a row. [Ali: laughs] Like you did it at the end of one recording session and then at the very beginning of another. Maybe I'm– I think it was twice. [Ali: Mmmmm.] Maybe you just were considering it a second time and didn't do it, but I thought you did it twice. I could be wrong.
+Ali: Sure. Sure. Sure. Um. 
+Keith: It's really specifically though, you who didn't level up at all [Ali: laughs] for the whole game, [Ali: Yeah!] and then we went through– part of the…part of the joy for me of killing the…[Ali: The Princept. Dahlia.]...the Princept was like, you leveled up like three times! [laughs]
+Ali: [laughing]
+Dre: Yeah.
+Keith: And I was like, I'm finally getting Ali her levels! [Ali: laughs] And then you're like, "I'm going to burn the rest of this."
+Ali: Well, I– you know, I've…what more moves do I need after that? You know? [laughs]
+Dre: True.
+Ali: Why not spend this for others? [mumbling] Or for myself technically still because I'm just avoiding harms and shit like that. 
+Keith: Well, we're all in it together, so. 
+Dre: Uh huh.
+Ali: Uh huh, yeah.
+Keith: It's for everyone if it is for yourself.
+Ali: Uh huh, uh huh. I guess I was also curious about the Gur stuff, because I feel like–
+Dre: Oh, yeah yeah yeah.
+Ali: –obviously Valence had a connection with Gur…um, I feel like, you know, in the way that it was– [laughing] I can't this out loud. 
+Dre: Yeah you can, come on. No. Come on. Say it. Say it, coward!
+Keith: What are you trying– I don't even know what you're trying to say. 
+Dre: Me neither. 
+Ali: What was the thing in Twilight where it was like Team Edward or Team Jacob? 
+Dre and Keith: Yeah.
+Ali: I think for Valence there was a little bit of a Team Broun or Team Brnine. In terms of like who–
+Dre: Oh! Yeah! Yeah yeah yeah yeah yeah. 
+Ali: [laughing] –who was in Valence's heart. 
+Dre: Yeah, sure.
+Keith: Wait. Between Team Gur and Team Brnine? 
+Ali: Yeah!
+Dre: Yeah, sure!
+Ali: Who is, you know, who is Valence's real crush there? 
+Keith: I believe that.
+Dre: Uhhhhhh? Not crush wise, but like, philosophical wise, yeah. 
+Keith: Do you think Valence was teetering philosophically between those two characters? 
+Dre: Uh, yeah, dog!
+Keith: Okay. Well it's been so long!
+Dre: [cross] Valence got a gun! 
+Keith: I remember all the Gur stuff! [Dre: laughs] I didn't remember the Broun stuff.
+Dre: [sighs] To me that was– I don't even know if that was something that was very explicitly on screen, but like…yeah, man. Valence got a gun. In the back half of the Valence stuff, [Keith: Yeah.] and that is not a thing Valence would have done if not becoming radicalized by Kalvin Brnine. 
+Ali: Sure.
+Dre: Or–
+Ali: Wait! Who radicalized who? Wait, who– what are we talking about here? [laughs]
+Dre: Po-tay-to, po-tah-to. 
+Keith: Look, yeah, sometimes two people radicalize each other. 
+Dre: Yeah!
+Ali: [laughs] Oh. [sighs] Brnine truly is a violent person. [Dre: Yeah.] And that is the influence that they had on Valence.
+Dre: Well, I don't even think about it necessarily in terms of just violence for violence's sake, right? [Ali: Uh huh.] But I think it was like…Broun radicalized Valence in terms of what resistance needs to look like? [Ali: Mmm.] And then Valence radicalized Brnine in terms of why you resist in the first place and for what.
+Ali: Sure. Sure.
+Keith: Yeah, I almost feel like Broun at the very beginning was– Broun comes out of violence for violence's sake [Dre: Sure.], you know, with their background in being a war criminal. 
+Ali: Uh huh. Yeah. Mhm.
+Dre: We've all done stuff.
+Ali: We've all done stuff. 
+Dre: You know?
+Ali: Uh huh. 
+Keith: I've never done anything.
+Ali: But yeah, let's– [giggles] Let's…what's the fun there for you, in terms of having Figure have this relationship with Gur again? 
+Dre: [sighs heavily]
+Ali: 'Cause it's fun. It's very funny to me.
+Dre: It is fun. Um, I mean definitely a big part of it was just like, oh, man, it would whip to get Gur Sevraq back on screen. [Ali: Mmm.] And I am kind of sad that we haven't gotten more of him, and that the little bit we've got has been…like 60% him kind of being like…he's a ghost but he's the most haunted person on the show? 
+Ali: Mhm.
+Keith: Mm.
+Dre: And he just can't deal with that. [laughs] And he's just talking in circles trying to figure out what the fuck he means.
+Keith: So I would like…I would love to get more Gur, but I also on the other hand feel like the way that Gur is sort of slowly been poking back into the show has been really fun. 
+Dre: Yeah. And he did say some scary shit last time, so. 
+Ali: Yeah! And also somebody who's like breaking through this orbit of Clementine as well, [Dre: Mhm.] is a fun sort of mirror.
+Dre: Yeah.
+Ali: Oh, Gur. [laughs]
+Dre: You know, at least, at least he's with…he's with Figure now. Right? [Ali: Yeah…] He's free of Clementine Kesh. 
+Keith: And that's all anybody could ask for. 
+Ali: Mhm. 
+Dre: Yeah. Uh huh.
+Keith: Ughh. I hate her. 
+Dre: I guess at some point potentially I'm going to have to figure out if Figure would kill Clementine Kesh or not. 
+Ali: Oh, sure! 
+Keith: Oh, you think maybe not? 
+Dre: I don't know! 
+Keith: M'kay. 
+Dre: I mean, like that was something that I could not even think about until very recently.
+Ali: Sure. Yeah.
+Keith: Um…uh…uh…fucking. Fuck! 
+Dre: Uh huh?
+Ali: Yeah? Uh huh?
+Keith: Leap would do it. 
+Dre: Oh, okay, cool. 
+Ali: [laughs]
+Keith: Leap would do it.
+Dre: Alright, well. I'll call Leap! 
+Keith: Yeah.
+Ali: Yeah, let's go DM Leap. 
+Dre: Yeah, will you just do it?
+Keith: Yeah, I'll just do it. 
+Dre: Yeah, alright.
+Keith: Yeah, I'll do it. We'll just do it offscreen. Take care of it off–
+Dre: Alright, uh…downtime, let's go. 
+Keith: Mhm.
+Ali: [laughs] Yeah. Well, you know, it's a tough thing 'cause it's like…Clem is in such a weird place in this season, where she's out of the orbit and also not a direct antagonist, but is definitely a direct antagonist to…Figure? [Dre: Mm.] So. It's tough. It's tough, maybe you get the chance to line up the shot. We'll see. 
+Dre: Yeah. Maybe. Maybe. I do have a really big gun on my mech now. 
+Ali: Ooooh.
+Keith: That helps. That always helps. 
+Figure's Mech [00:52:10]
+Ali: [sighs] Yeah…um. [pause] Yeah, talk to me about the new mech, too. 
+Dre: Yeah!
+Ali: I guess we can go over your character sheet. [laughs]
+Dre: Sure! No, yeah! Um, I knew I wanted a…I wanted like a shield character, basically. [Ali: Oh.] Like I wanted this mech to be big and strong and basically be like, I stand in front of everyone else. I absorb the hits, I take the blows…that's why I have the Astir part that I do, the one that basically lets me weave magic to take a danger from an ally and put it on myself. 
+Ali: Oh, that's right! Yeah.
+Dre: Haven't had a chance to use it yet, but. 
+Keith: Yeah, we almost used it and then it turned out that that would have been bad to do. [laughs quietly]
+Dre: Well, I think it was that I couldn't. I thought I could use it in a way that I couldn't. 
+Ali: Yeah, it's not a help or hinder roll, [Dre: Yeah, yeah.] it's a separate thing where you're taking a harm. [Keith: Right.] So there's–
+Keith: Yeah, I think that it was you would have Bit the Dust, I think if we– maybe, maybe I'm misremembering.
+Dre: No, no. It was just, I was helping Cori and I was like, oh yeah, I can do this as part of a help roll, right–
+Keith: [cross] Ooooh, right. Okay. I understand.
+Dre: –and he was like, no. That's like its own thing, it's a whole separate roll. Yeah.
+Keith: Sure. 
+Ali: Yeah. That's fun, though. I…[laughs] I'm still, I'm loving where Figure is here. 
+Dre: Yeah, no, it's great! 
+Keith: Yeah.
+Ali: The idea of Figure as a shield is really fun. Keith, where did the…[laughs]...the sequence come from for you? 
+Eclectic Style [00:53:55]
+Keith: Uh…oh, the sequence! I don't know where the– oh, I actually do. Okay. [Ali: laughs] So. [laughs] I was listening to music on shuffle a few months ago, like towards the beginning of the summer, and some Steely Dan started playing, which is just in my library, and I've been a fan since high school of Steely Dan, [Dre: Sure.] but it had been a while since I really listened to a bunch of Steely Dan? And all of a sudden I was just like, I was reading a book, and I was like, this fucking song is so good! And I listened to it like a dozen times in like a couple days, and at some point I was like, you know, I bet Jack would like this song and hasn't listened to a lot of Steely Dan. 
+So I asked, and I sent them the song, and then we just spent multiple months just listening to a huge chunk of the Steely Dan discography. And I got into a groove of…back when this was coming out, or back when I was thinking about Eclectic, I had been thinking about the song "Gaucho" off the album "Gaucho," and there's a line in the chorus…"who is the gaucho, amigo? Why is he standing in your spangled leather poncho and your elevator shoes? Bodacious cowboys such as your friend will never be welcome here high in the Custerdome." 
+And I've just been thinking about that image [laughs] for like two weeks, while I was listening to the song over and over. And so Eclectic's outfit is massively inspired by the bodacious cowboy in the spangled leather poncho.
+Ali: [laughs]
+Dre: Sure. [thoughtfully] The Custerdome…
+Ali: Spangled leather poncho, and you heard that and you were like sequins, obviously.
+Keith: Yeah.
+Dre: Yeah! What else would you think?
+Ali: Yeah, obviously. 
+Keith: Well, I just– I didn't want to do spangled. 
+Ali: Mhm.
+Dre: That'd be a ripoff.
+Ali: Oh sure, you wanted to put your remix on it. Of course, of course.
+Keith: Yeah. 
+Ali: Yeah. And you know all detectives have a…Columbo has his coat [Keith: Yeah.] that everybody makes fun of...
+Dre: Mhm.
+Keith: Yeah, and I think the gaucho character is…what's the word? Like, um…I'm blanking on the word, like um…like loud. It's sort of like a loud thing. Um. Like when someone's wearing kind of…a bunch of jewelry?
+Ali: Flamboyant? 
+Dre: Like ostentatious?
+Keith: Ostentatious! Yeah, I think that the gaucho from "Gaucho" is kind of ostentatious in a way that Eclectic isn't? But I did– I just…the delivery on that chorus just really stuck in my brain. [Dre: Mhm?] And so I was like, well, let's just adapt this very audacious character into, you know, a more low key thing but kind of keeping a couple of the twinkly hallmarks of it. [Ali: Mhm.] So that's– maybe it's, it is– I mean, not maybe, it's by far the most, the most…I'm struggling to think of another time that I've just like…that I've had something like this where I'm like, oh, this thing from this thing, I want to do that as my character's look. 
+Ali: Ooooooohhhhhh.
+Keith: I almost never do that, 'cause it's not…it's rare that I have a look in my head 'cause I don't think that way. 
+Ali: [laughing] Yeah. It's not like how I've been, where it's like, look at this one Nike catalog. [laughs]
+Keith: No, my thing is normally that I don't give it even one single thought and then when I'm asked to provide a look, I just sort of make something up on the spot. [Ali: Wow.] But this time I had the– this was a pure adaptation from the gaucho from "Gaucho."
+Ali: [laughs] I love that.
+Keith: Yeah. 
+Ali: I love that. Yeah, that's really interesting, I was not expecting that involved of an answer. [Keith: Mm.] And it kind of makes me wonder in terms of…Eclectic being a detective, is there specific influences that you're pulling from there, or are you just like reaching into that archetype, or have you like…been playing "Phoenix Wright," or– [laughing] playing Phoenix Wright as a detective– or reading some Sherlock Holmes, or whatever.
+Keith: Um…I've always liked the sort of detective genre, even though I'm not– I wouldn't call myself like steeped in it or anything. [Ali: Mhm.] But you know, I have like a small but solid base of characters from detective genre stuff [Dre: Mhm.] that I really like. And then also just a lot of cultural stuff. We actually, we were just talking about Judgment before we started the call?
+Ali: Oh, right. Yeah.
+Keith: Judgment has been a huge thing that I've loved for the last few years. And uh…the X-Files is a big one for me. [Ali: True…] And a few years ago, watched Veronica Mars for the first time and really enjoyed parts of that? And the…there's like, the two different, you know, detective-y main characters, the– Veronica Mars and her dad are both like pretty big twists off of the typical thing that they're doing? But there's still a lot of it in there still. 
+And, uh…um…you know, I'm sure there's more things that I could pull out, but I didn't really have anything specific in mind? It was really based on finding the playbook and having this sort of puzzle game going on, where I'm like, I wanna play Leap, but I want to do something new, but I'm not sure exactly how it's going to go…I don't want be an overpowered character, but I also want to stay true to the pirate thing. And so I was heavily looking at the Almoner class for Leap. 
+Ali: Mhm.
+Keith: And it sort of somehow got twisted into…not playing as Leap but playing as sort of a Leap fanboy? And sort of being inspired by Leap who went off and became a pirate, being a Leap fanboy who went off and became a detective, so there's like the thing that I'm most inspired by I think is the idea of someone who's like playing at being a detective, but taking it very seriously in the same way Leap did for piracy in that– that we didn't see on screen, sort of as a way to like illustrate how serious Leap has been taking it out there by proxy, basically. 
+Ali: Oooooh. Okay. Yeah, yeah yeah yeah.
+Keith: Being like you can read into Leap based off Eclectic. That's sort of the idea that I had. 
+Dre: Hm. 
+Ali: Right, it's an opportunity for you to still be able to characterize Leap [Keith: Yeah.] but be able to play this other character. 
+Keith: Yeah, yeah, totally. 
+Ali: That's fun!
+Dre: Yeah, that's interesting. 
+Keith: Uh, and I also thought it was really funny as like an expression of like really wanting to play Leap 'cause I was like, oh, I love Leap, and then to bring in a character that like– instead of playing Leap because I love Leap, playing a character that loves Leap because I love Leap.
+Dre: Mhm.
+Ali: [laughs]
+Keith: That was it. [laughs]
+Dre: Hell yeah. 
+Ali: A real "having your cake and eating it too" moment for you.
+Keith: Yeah. Yeah yeah yeah.
+Ali: Extremely galaxy brained. 
+Keith: And Eclectic's been a blast, I've had a lot of fun. 
+Ali: Yeah. 
+Thoughts on How to Make the Show Good [01:02:45]
+Keith: And it's sooooooo much easier than Phrygian, oh my god. [laughing] It's so much easier. 
+Ali: [laughs] Keith…
+Keith: And it's not– you know, this is nothing against Phrygian, and of course the playbook was a blast, but the roleplaying, like, ugh, so much work to play– [breaks off into laughter]
+Dre: Mhm. 
+Keith: I'm not going to have to figure out like, what's a thing Phrygian would say? Oh my go– like, yech. Just like, like…
+Ali: [laughs hard] You have to stop talking like that.
+Keith: I know, every time, every time…because Ali, it feels like I've been on every single one of these. [Ali and Keith: laugh hard] And every time I get off of it, and I'm like, [clicks tongue] I shouldn't have said so much. And then I just…yeah, who cares. 
+Ali: [giggles]
+Keith: But what I want to get across is that it's like…it's not about wanting to have an easier time and do things that are less complicated and not have to work as hard to make the show good? Although it's a little bit the last thing. But it's like, the– to me, the thing that makes the show better is the immediacy of a good reaction to something. 
+Ali: Mhm.
+Dre: Sure. 
+Keith: Like, I really like when we get into a groove where everyone's just going and going and going, in character, out of character, whatever, but having good and productive ideas that all flow off each other, and when I'm playing as Phrygian, it's…it's harder to contribute in a way that feels productive, because there's all of these things that I want to say and do that I feel like I can't. [Ali: Mmm.] And I can sort of cheapen Phrygian as a character by doing them anyway, or hold back. [Dre: Sure.] So it's not– it is sort of coincidence that me having an easier time roleplaying is, to me, what is good for the show. Like it's not–
+Ali: Right, yeah. 
+Keith: For me I don't think it's a productive way of playing a character to like, really fucking have to work super hard to get it out right. [laughing] 
+Dre: Yeah.
+Keith: It just doesn't feel like a good way to make a good show, I don't know. To me. I don't want…I don't want to feel bogged down by that? And I don't feel like feeling bogged down is a productive way to contribute to the show. 
+Ali: Right. Yeah, I– that's interesting 'cause it does sort of echo a little bit of what we were talking about at the beginning, which is like, finding the best opportunities to want to speak during a scene and having to make those decisions? [Keith: Mhm.] So it's…to feel like your experience with Phrygian was complicating that…'cause I feel like that's something that every player has to sort of deal with? And every character has their own variance of like…how involved with the group am I going to be? How much of a leader am I going to try to be? [Keith: Mhm.] Things like that. 
+Keith: And, um…especially coming off of playing characters that I do feel free doing a lot of that stuff as, [Ali: Mhm.] it makes it extra hard to switch into this mode where like…you know, Phrygian– like there's so much stuff that I care about that Phrygian doesn't care about. And so– [laughs]
+Ali: [laughs]
+Keith: So I'm just like–
+Ali and Dre: Sure.
+Keith: –I want to talk about this but Phryigan doesn't care! So I'm stuck, you know? [Ali: Uh huh.] And I don't think…I think that I got the most out of it, and I think that I made– I walked a line that I felt comfortable with? Sort of by, you know, by asking questions out of character, [Dre: Mhm.] by having conversations out of character, by stretching the things that Phrygian would want to know and is interested in talking about. 
+Ali: Mhm.
+Keith: There's a really funny scene that is like– that I think is good in the show and plays…plays and also is funny, but like is also a little bit…like real characterization, but is also illustrative of this problem, which is the scene where during a downtime Austin puts Phrygian and Thisbe together and they're both just like, [mumbles incoherently] "Buhthe buh. Bzuh buh thuh." [Ali: laughing] And it's like…
+Ali: You and Janine just couldn't get there.
+Keith: And it's like, [emphatically] that's not me! That's not me, I'm not like that! But I'm like, what the fuck does– what the– what the fuck– in the same way that Brnine is like unable to read Thisbe, like, uh…it's so– like Brnine is consistently bringing stuff to Thisbe's attention that Thisbe is just like, "shrug" at. 
+Ali: [laughing] Uh huh. 
+Keith: You know, Phrygian is like the opposite, Phrygian is like, "I know exactly what Thisbe cares about, and I also don't care to figure out something to talk about with Thisbe, we're both just fine." [laughs lightly]
+Ali: [laughing] Right. I do wonder how this plays in for you with Dre and Figure 'cause…Figure for a while had to be sort of this hidden information character. So like, how is it changing how you're playing Figure in terms of like…you know, they're able to be more open and honest [Dre: Mhm.] to your earlier point. So how has that been coming up for you, and how do you feel generally sort of this question of like, how much should my character talk, question mark? 
+Keith: Great swerve, Ali.
+Ali: [giggles] 
+Dre: She's such a pro. 
+Ali: [laughing] Fuck off.
+Dre: What? 
+Keith: I was being serious!
+Dre: Me too! [Ali: laughing] Man, well I guess Figure's never going to compliment Ali. 
+Keith: [laughs hard] 
+Dre: Uhhhhmmmmmm, sorry, I need to get back to your question. [Ali: Mhm.] Um? I don't know if I've thought about it as much as Keith thought about things [laughs]. Um, it definitely has been like a change into, you know, Figure is now fully bought in to the crew and feels much more willing to like, have input and not strictly follow the chain of command and stuff like that. Um. So, you know, before I tried to have him– or them, do a lot of deferring to Brnine? [Ali: Mhm.] And still doing some of that, like I think in the train episode, you know…was radioing in to Brnine explicitly to say like, "okay, here's what's happening, this is what's going on." 
+Ali: Right.
+Dre: But also it wasn't "hey, this is what's going on and now what should I do?," it was like "hey, this is what's going on, this is what I'm going to do. See ya!" 
+Downtime Activities [01:11:00]
+Ali: Uh huh. Yeah, I'm going to have to figure out what to do with my unruly crew this next downtime, I think. 
+Dre: [sighs] We learned it from you. 
+Ali and Keith: [laugh]
+Ali: Yeah, that's the thing. I'm really excited for this downtime, I feel like there's a lot to do.
+Keith: I feel like that this downtime is going to be bizarre. 
+Ali: Yeah. Uh huh. 
+Dre: Yeah, I agree. In a great way, though. 
+Keith: Oh yeah, it's definitely going to be a blast, I just like…it just feels like anything could happen? Like I don't know what the vibe is at all. Like I don't know–
+Dre: Sure. 
+Keith: –what's going on with the rest of the…uh…the resistance? I don't know what is going on with the politics of the galaxy? I don't know what's going on between people's characters right now? Uh, that's just because I don't remember the last downtime. [Ali: Mhm.] And Eclectic doesn't know any of these people!
+Ali: [laughs]
+Dre: That's true. 
+Ali: Remember this bet of six sessions? [laughs] 
+Dre: Yeah.
+Keith: [laughs hard] What if it's the next one? That's the thing, that's what's so great about it.
+Dre: [cross] It could be any time.
+Keith: It could always just be the next one. You know?
+Ali: Yeah.
+Dre: Yeah!
+Keith: It's not that hard to hit a 3% chance! [Dre: No.] Like it's tough, but it's like…not that tough.
+Dre: Yeah.
+Ali: [laughs] 
+Keith: I remember years ago when Genshin Impact came out…[Ali: Mhm.] and uh…it was the first gacha game I ever had any experience with. And it was like, three or four pulls I got Venti. And I was like, is this good? And it was good. [Dre: Mhm!] But that's like, that could be you, Dre! That's likely barely harder odds.
+Dre: It's true.
+Keith: It's like almost the exact same odds. 
+Ali: What do you roll during downtime, though? You just…it's token spends, and then a plan and prepare, basically, right?
+Dre: Yeah.
+Keith: Yeah, you could roll whatever you want. [Ali: Yeah, you do…] You could do a move during downtime. Last downtime Dre rolled twice, one of them was to bring you back from the thing!
+Ali: That's true…
+Dre: That's true!
+Ali: Yeah, and I did do it a bunch of…
+Keith: [cross] Oh yeah, you rolled a bunch! Yeah. That was a special case.
+Dre: [cross] Man, you rolled so much, though.
+Ali: Uh huh. I'm hoping for a less…a less exciting downtime.
+Dre: Yeah. 
+Keith: Yeah, you want a more down downtime?
+Dre: You ready to chill?
+Keith: Instead of the uppest downtime of all time?
+Ali: [laughs] Yeah, after the most high stakes B plot in the world, and the most up downtime? I'm looking for a down downtime, I think. 
+Keith: Yep. 
+Ali: Mhm.
+Keith: Eclectic can solve a mystery.
+Ali: Oooh. 
+Dre: Mm!
+Keith: I'm close! I'm close on that thing.
+Ali: Yeah.
+Dre: Yeah? 
+Keith: Yeah, I think I'm at four or five out of six?
+Dre: Oh, on that clock? 
+Keith: Yeah, on my investigation clock. [Dre: Gotcha.] And that won't solve it, it will just get the next clock, I think? But.
+Dre: Sure. 
+Ali: Sure.
+Keith: That– I'm thrilled about having a permanent investigation clock? That's a blast to me. 
+Dre: Mhm. Clocks are good! 
+Keith: I really can't wait– like I was in a dire situation but the interplay between getting a bunch of extra opportunities to Read the Room plus getting a…having an item that gives me an extra question on Read the Room, [Ali: Ooooh.] plus a move that lets me downgrade my Read the Room tier from full success to partial success or partial success to failure? That doing that adds to that clock once? 
+Ali: Oh right, yeah, you had your Dr. House moment recently.
+Keith: Yes. Yeah, yeah. So even on a– I think that if I get a partial success and then downgrade that to a failure, I still get one hold on Read the Room. Pretty sure there's no functional difference [Dre: Hm.] between a partial success and a failure for me– well. Between my failure and your partial success, I think is the…yeah.
+Ali: Mmmmm. Mhm, mhm. Mhm.
+Keith: Anyway. 
+Ali: Yeah, I'm looking forward to it. 
+Keith: Me too.
+Media Club Plus Chat [01:15:25]
+Ali: Anybody have any final thoughts before we wrap up this episode?
+Dre: I don't think so.
+Keith: Uh, you should listen to Media Club Plus! The podcast–
+Ali and Dre: Oh, yeeeeeaaaaah!
+Ali: Well, yeah, actually, yeah, let's talk about Media Club Plus while we're here. [Keith: Sure.] How's that been going?
+Dre: It's been going great.
+Keith: [cross] I think it's been going great. 
+Dre: Yeah.
+Keith: I'm really enjoying it, it's been a ton of fun. It's been a lot of work, but it's totally worth it. 
+Dre: I think we just released the episode where Jack very confidently says that they know for sure that Killua is going to pass the Hunter exam? [Keith: laughs] And seeing people who have watched Hunter x Hunter before and know what happens next reacting to that is [kissing sound] muah, muah. Chef's kiss. Chef's kiss. 
+Ali: [giggles]
+Keith: Honestly every time…every time they make a statement like that, it– even when they're right, it's always great. [Dre: Yeah.] Just like any declarative, it's like, well we'll figure that out in ten episodes.
+Dre: Yeah. At least twice per episode, Jack will say something that leads me to go type into the Discord DM that is me, Keith, Sylvi, and Austin, [Ali: cackles] all the people who have watched Hunter x Hunter before, and me saying like, "JACK, YOU DON'T EVEN KNOW WHAT YOU'RE SAYING!" [laughs]
+Keith: [laughs] Yeah, it's great. It's great, and I'm glad that Hunter x Hunter is how it is.
+Dre: Yeah. 
+Ali: I'm excited to catch up. Yeah, where– there's such a mismatch between what's been released and what's been recorded…
+Keith: Yeah.
+Ali: [laughing] …with Media Club Plus, that it is a little tough to know…'cause I've only been on one episode so far and it was past the Hunter exam stuff.
+Dre: Mhm.
+Keith: Yeah, so you'll, you won't, you'll be on in a couple episodes. 
+Dre: Yeah. We are just–
+Keith: [cross] I think we're on episode nine? And we just released episode six.
+Dre: Yeah. 
+Ali: Oh, okay. Okay. 
+Dre: We are just about to do Yorknew City. Like that's happening next episode.
+Keith: Yeah.
+Ali: Oooohhh. 
+Keith: Yeah, we just recorded episode twelve, so episode thirteen is the start of the Yorknew arc. It's going at a clip!
+Dre: Mhm.
+Ali: Yeah!
+Keith: But then of course we're going to get to the one thing that prevents it from feeling like that.
+Ali: [laughs] Yeah, how's that been? How's the non-actual play podcasting life been? Not that this is either of yours first experience with that, but. Is it– [Dre: Uhhhh?] Is it doing the Media Club Plus, is it doing the original Media Club thing of being like, "oh, this is making me think about Friends at the Table in a brand new way."
+Dre: No. 
+Keith: No.
+Ali and Keith: [laugh]
+Dre: No.
+Ali: Well…
+Keith: Maybe for Jack, but you know, I'm– [Ali: Oh, yeah.] I've definitely referenced Hunter x Hunter in like, in other seasons already? 
+Ali: Yeah. Uh huh. 
+Keith: But that's maybe that's something we'll have to prod Jack on and see if they have any thoughts about…[Ali: Please, yeah.]...about Friends at the Table based on Hunter x Hunter stuff. And even though we've been doing it for a few months, it is still early. [Dre: Yeah.] Like I still feel this is early Hunter x Hunter, we're about to break into not early anymore? [Ali: Mhm.] But we're right on the verge of that, so.
+Ali: Okay.
+Keith: You know, it feels like we're about– we keep saying this, but it keeps being true, like…ah, you know, as a metaphor, you know, the Zoldyck gate where it's like exponentially heavier, the doors, [Dre: Mhm.] when Killua goes home and opens three and then his dad opens like the fifth or sixth one or whatever. Hunter x Hunter really is a series of these, where the door keeps opening wider and wider, so we've had several of these moments. But a new door is about to– a new heavy door is about to open, for sure, on the show.
+Ali: Mhm, mhm. 
+Dre: Mhm.
+Keith: But you can listen to that in its own feed! You can go to your podcast app or mediaclub.plus to get the RSS and to get episodes. And for Friends at the Table, and this is to the Patrons, so the Patrons…I hope that they'll turn up for this.
+Dre: Is this a 'sclusies? Is this a hot 'sclusie?
+Keith: No, no, this is a call to action. 
+Dre: Oh, okay. 
+Ali: Mm, mhm. 
+Keith: Uh, you know, the listeners of this self-select for people who really like Friends at the Table. [Ali: Mhm.] So, if you haven't, you should go to Apple podcasts, and then rate and review Friends at the Table and Media Club Plus on there.
+Dre: Mhm.
+Keith: That's always good, it always helps. It's like one of the few ways that people find out about Friends at the Table and Media Club Plus is telling friends, posting about it online, and rating and reviewing it on Apple podcasts, those are kind of the ways. 
+Dre: Feed the algorithm. 
+Keith: And I'm…you know, I expect good things from the Patreon listeners.
+Ali: [giggles]
+Dre: Yeah. We've started reading five star reviews that people leave in Media Club Plus recordings?
+Ali: Woooow. 
+Keith: That's true, yeah.
+Dre: Yeah. 
+Keith: But yeah, the…the expectations are high that people will please listen to me. [Ali: laughs] And go do that.
+Dre: Yeah. And if you don't want to listen to Keith, please listen to Sylvi! Or Jack. Or me!
+Ali: Yeah. Please do that. Also, word of mouth.
+Dre and Keith: Yeah.
+Ali: Also thanks for your support! 
+Keith: Yeah!
+Dre: Yeah! 
+[pause]
+Keith: But support us more!
+Keith and Ali: [laugh]
+Ali: Well, goodnight, everybody. 
+Dre: Yeah, on that note…
+Keith: [continues laughing]
+Ali: See you later!
+[pause]
+Bonus! (Still Talking About Hunter x Hunter) [01:21:40]
+Ali: [deep sigh] Ooohhhh. 
+Keith: Ugh. That was good, that was a good one.
+Ali: What is either of yours– I guess we would know this if we listened to Media Club Plus but, just straight up, who is both of yours favorite Hunter x Hunter characters? 
+Keith: Killua, probably. 
+Dre: [sighs] Kurapika. 
+Ali: Wow.
+Keith: Kurapika is up there. [Dre: Yeah.] I love Kurapika.
+Dre: They're so great.
+Keith: Yeah. 
+[pause]
+Keith: Um…it's been very funny watching Sylvi go so hard to bat for transfemme Kurapika, [Dre: Uh huh?] because I watched the show with Isaac, who is like, reading it in the full opposite way. 
+Ali: [laughs]
+Keith: And I've gotta say! I think that the text supports Isaac on this. 
+Ali: Wow. 
+Dre: Mmm.
+Keith: You know, it is like..it's very confusing to me, you know, based on having watched it this other way to go from like, no, Kurapika's actually closeted transfemme. Like…every episode, multiple times, getting readings of this. 
+Dre: Mhm. God. It's– I cannot wait for Jack to see Kurapika's nen powers. Oh!
+Keith: Oh yeah, hey, we're only got between like one and– next session we'll be talking about them [Dre: Yeah.]  but then we'll really see them in like…three from now.
+Ali: God. I can't–
+Keith: Ali has no idea, so. You're going to get there.
+Ali: I can't wait to get up to nen now. I've been having some anime opinions? I saw some of Jack's responses to this without knowing anything about it, and I was having reactions to Jack's opinions without even really understanding Jack's opinions. [laughs] So I'm hope–
+Keith: Can I hear about that real quick? 
+Ali: Well, like, we've– I've DMed you about this privately when I…I think the other day I was like, is this Jack's first interaction with a shonen power scale? 
+Keith: Yeah. 
+Ali: 'Cause…I was also…[laughs]...I had to clean my apartment a lot this past week, so I was putting on RDCWorld talking…I think their podcast episodes are called Back & Forth? RDCWorld is like a YouTube channel…a bunch of guys doing shorts about sports and anime, basically.
+Dre: M'kay.
+Ali: And they were having this conversation of like, which anime has the best power scale? And Hunter x Hunter was part of that conversation and um…I'm a Jojo's person, so I really think about like stands and all the particular rules around that. Keith, we were talking about how Dragon Ball doesn't really have like specific rules in that way, but it definitely does this thing of like, you know, the power scanner is a classic Dragon Ball Z thing [Dre: Mhm.] to be like, [Keith: Yeah.] this is how strong this person is and for some reason we need a metric attached to that? 
+So the idea of like Jack…you know, interacting with something that's sort of foundational to the genre and being like, "this sucks!" [Keith: laughs] Whereas people who live and breathe about this genre are like, "this is one of the most interesting one of these that I've ever encountered!" [Dre: Mm.][Keith: Yeah.] is like very funny to reach those two opinions at the same time in a calendar week, [Dre: Yeah.] that I was like, I'm looking forward to both catching up with Hunter x Hunter and then also Media Club Plus.
+Dre: Yeah.
+Keith: Nen is very much like stands. [Ali: Mhm.] But the trouble I think for Jack has been that they, instead of rolling it out, they…
+Dre: They did a PowerPoint.
+Keith: Yeah, they do a PowerPoint. They bring you to school.
+Ali: Oooohh. 
+Dre: Yeah.
+Keith: So, you…
+Dre: Jack is down to see nen happening. Jack just doesn't want to hear, you know, the…
+Keith: Right. 
+Ali: Okay…okay. Okay. 
+Dre: Yeah. 
+Ali: Okay, well–
+Keith: [cross] You really– Killua–
+Dre: [cross] Which is me, too. That stuff happens and I glaze my eyes over. 
+Ali: Okay, let's not spoil Media– future episodes of Media Club Plus too much here, though. [laughs]
+Dre: Yeah yeah yeah.
+Keith: Yeah. 
+Ali: Let's keep that in mind, but. Yeah. 
+Keith: Um. Oh, this is still in it. This is in the show. 
+Ali: Oh, yeah.
+Dre: [cross] Oh, yeah, I thought we were–
+Ali: We still haven't clapped yet. 
+Keith: [cross] That's true, we haven't clapped yet. 
+Dre: Yeah, but this felt spiritually like after the show.
+Ali: [cross] Yeah, I can cut this out. I just feel–
+Keith: [cross] No no no, it's fine.
+Ali: –it can be a fun teaser. Anyway, what were we…
+Keith: But yeah, the…I think that yeah, there is a little bit to…that people who have a lot of familiarity with different, you know, power systems in different shonen or whatever, are like so used to there not being school and like any rules? [Dre: Mhm.] Or the rules are introduced piecemeal. You know, when there's a new character that does a new thing, they explain that thing and then move on? [Ali: Mhm.] And that sort of like…kind of slapdash approach to it can cause a lot of issues. 
+Dre: Sure.
+Keith: Or you have the Dragon Ball Z thing where they just never explain anything and just like, everyone can just make different color slash shape energy balls, and it's fine.
+Dre: God. And the closest they ever get is when Goku's like, "oh yeah, Super Saiyan Blue is me going into Super Saiyan God and then going Super Saiyan." 
+Keith: Right. Yeah yeah yeah. 
+Ali: [laughs] 
+Keith: And it took them thirty fucking years to come up with that.
+Dre: Yeah.
+Ali: Mhm. 
+Keith: And um…so, I think that if you've seen a lot of this kind of thing before, you're very primed to receive positively some instruction on this, 'cause it feels like a unique twist on something you've seen a thousand times? Versus like…being like, "hey we're going to go to the water park." And it's like, "yeah! Water park!" And then it's like, "and here is the two hours of rule video that you have to watch before we can go down the slide." And it's like, "what!?" 
+Ali: Mm, okay, yeah. I can understand that.
+Keith: I really like this stuff on repeated viewings. On my first viewing, I was like, come on, I get it! 
+Cast: [laughs]
+Keith: But it's not that bad.
+Dre: No, it's not that bad. It's like two episodes.
+Keith: I bet it's easier to get through in the manga, too. 
+Ali: Oh yeah, that's true, and you have the benefit of not having time to…
+Dre: [heavy sigh] I just got the manga volumes from my library that are like after the anime ends, and I'm very excited to read those.
+Ali: Ooohhh.
+Keith: I really want to read those. I'm not– you know, I'm just putting it out there! I would cover that stuff too. 
+Ali: [giggles]
+Dre: Yeah.
+Keith: Just putting it out there. 
+Ali: What's really funny is that–
+Dre: One of the manga, the cover is just Hisoka's ass. 
+Ali: Ooohhhhhh.
+Keith: [scoffs] Of course it is.
+Dre: Yeah.

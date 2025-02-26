@@ -1,0 +1,5237 @@
+﻿Live at the Table 28: December 2019 - Stewpot Pt. 2
+Transcriber: meko
+
+
+
+
+AUSTIN: Welcome to Live at the Table, an actual play livestream, focused on critical world-building, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, joining me today: Sylvia[1] Clare.
+
+
+[pause]
+
+
+SYLVIA: You had to pick me; I was eating!
+
+
+[Ali and Dre laugh] 
+
+
+AUSTIN: I’m sorry! You were first on my list!
+
+
+SYLVIA: I had a French fry in my mouth!
+
+
+AUSTIN: You were right there! Sylvia, you’re the second person! 
+
+
+SYLVIA: Yeah, I know. I know, I fucked up. I’m Sylvia, you can follow me on Twitter @captaintrash and you can listen to my other show Emojidrome on your podcast apps.
+
+
+AUSTIN: There you go. Alicia Acampora. 
+
+
+ALI: Um, hi, you can find me @Ali_west on Twitter. You can find Friends at the Table over at @Friends_table on Twitter.
+
+
+AUSTIN: Also joining us, Andrew Lee Swan.
+
+
+DRE: Hey, you can find me on Twitter @Swandre3000.
+
+
+AUSTIN: And Keith Carberry.
+
+
+KEITH: [hoarsely] You can find me on Twitter @KeithJCarberry and you can find the Let’s Plays that I do at youtube.com/runbutton.
+
+
+AUSTIN: Keith, still sounding a little sick but getting better.
+
+
+KEITH: [clears throat] Yeah, yeah, I was better ten minutes ago.
+
+
+AUSTIN: But then you talked with us for ten minutes and now— 
+
+
+ALI: Aww.
+
+
+KEITH: Yeah, it ebbs in and out. But, you know, it’ll get better, it’ll get worse.
+
+
+AUSTIN: That’s life, baby. That’s it. 
+
+
+KEITH: That’s life, yep.
+
+
+AUSTIN: As always, you can support us at friendsatthetable.cash. Really, really, really appreciate the support that you give us. We just won some awards, apparently? Which is sick. We just won a bunch of Audioverse awards so thank you to anybody who supported us via those, who voted for us, who nominated us. It was all fan voting so—and fan nominations so we know that it was y’all. Y’all are out there, tryin’ to shout us out and get us noticed; I really appreciate that. I’ve said it before, but I think that there is—
+
+
+KEITH: I—
+
+
+AUSTIN: What’s up?
+
+
+KEITH: I have a question about this, though.
+
+
+AUSTIN: Yes?
+
+
+KEITH: So you go to the Tweet, right? 
+
+
+AUSTIN: Yeah.
+
+
+KEITH: “For improvised production, @Friends_table, congratulations!” and a picture that says “Best improvised production, Friends at the Table—”
+
+
+AUSTIN: Yeah.
+
+
+KEITH: You scroll down— 
+
+
+AUSTIN: Yes.
+
+
+KEITH: For improvised production, another show, “Congratulations!”
+
+
+AUSTIN: Yes, there are five winners per category. 
+
+
+KEITH: Okay, that makes sense.
+AUSTIN: If you look, there are, like, fifty nominees in each category. 
+
+
+KEITH: Okay, so there’s multiple winners.
+
+
+AUSTIN: There are multiple winners. Correct. Correct.
+
+
+KEITH: Okay.
+
+
+AUSTIN: Because there are that many— because it’s all fan-driven, right? Like, this was not— 
+
+
+KEITH: And there’s so many podcasts in the world. 
+
+
+AUSTIN: There are, it turns out. And this was just the improvised podcast subcategory, had fifty things. You can’t check right now, ‘cause I think that website is down. I don't think that they were ready to get hit with people looking at results like that. But I just wanted to say, thank you for that because that means a lot. We have been running this show for over five years. I will say that it is weird to be running a show for five years because on one hand you feel like— especially one that has found some support on Patreon, where it’s like “Wow! We’re pretty stable.” Like, we have a diehard audience. But also, we are not—I think it is always a joy to be mentioned in an article that says, “Oh, you know, Friends at the Table or Critical Role: actual play podcasts.” 
+
+
+We get—I checked today— we get like three percent of the weekly listens that Critical Role does. We are not a big podcast. We are a successful podcast because we’ve managed to build a great relationship with fans and because we make stuff that I think we’re all really proud of but any help you can give us in terms of direct support or—direct support via supporting us on Patreon, as you’re already doing, or direct support via spreading the word and trying to get us in front of more people, nominating us for awards. Stuff like that really goes a long way and it gets us in front of more people. And we have a lot, a lot, a lot of growth to do, I hope, still, so, again, thank you for your support so far and here’s to 2020 being hopefully another year of making good stuff and telling good stories with each other. I hope you’ll stick around!
+
+
+ALI: Woo-hoo!
+
+
+AUSTIN: Yeah, absolutely. So! Hey, what the fuck were we doing? 
+
+
+[Ali sighs]
+
+
+AUSTIN: This is Stewpot; we’re playing Stewpot. We are playing Stewpot: Tales from a Fantasy Tavern by Takuma Okada by Takuma Okada. You can find more of Takuma’s games by going to noroadhome.itch.io, including this game. It is a tavern simulation roleplaying game for three-plus players. We played the first episode of this back in—I guess we played it in November. It’s been a couple months. We wanted to pick up immediately but we couldn’t do that because we got sick and then it was the holidays and we were still sick and it was bad. Bad scheduling. But, we’re back. This will probably be a shorter game than most Lives, because we only have a little bit to go but we want to wrap it up. So yeah, Ali, I know you have a list here of what games, what minigames, we’ve played already [staticky background noise]. And I think I can associate a player for each of these [static continues]. Is that me? Is that buzzy sound me?
+
+
+KEITH: I’m not sure who that is.
+
+
+SYLVIA: I, uh, I can hear it too. 
+
+
+AUSTIN: Okay. 
+
+
+DRE: Ooh, well I can’t hear it. So does that mean— 
+
+
+ALI: Huh?
+
+
+KEITH: It’s like a bouncy, buzzy sound.
+
+
+AUSTIN: It stopped, it stopped. We’re good now. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: But—
+
+
+ALI: People want to check their OBSs? 
+
+
+DRE: I don’t have any weird thing on my OBS.
+
+
+ALI: Oh. Well.
+
+
+AUSTIN: It means Audacity—no, not me. Anyway—
+
+
+ALI: Well then, we’re all good.
+
+
+AUSTIN: So, do we want to go game by game—maybe we just start by intro—reintroducing our characters. And then we’ll talk about what we did already [laughs]. 
+
+
+KEITH: Okay, who’s gonna introduce my character? 
+
+
+AUSTIN: [dryly] Aha. That’s very funny Keith.
+
+
+KEITH: Thank you.
+
+
+[Ali and Dre laugh] 
+
+
+AUSTIN: Do you want to go ahead and go first?
+
+
+KEITH: Sure. I’m playing a guy named Volte. Who was a paladin with plain sword, thin platemail and gentle eyes. Who retired to life on the farm. And that’s...all it says here. Oh, I have some memories!
+
+
+AUSTIN: You do have some memories.
+
+
+[Ali laughs]
+
+
+KEITH: I remember—if I think back, I can remember Aldrich was being constrained by our reliance on onions. I’m remembering that, too many onions. 
+
+
+AUSTIN: Uh-huh, what else?
+
+
+KEITH: Muonions are not different enough from onions. Sorry—Muonions are man-onion monsters. 
+
+
+AUSTIN: Is that right? Is that what we decided—
+
+
+KEITH: Yeah, they’re like humanoid onion monsters.
+
+
+ALI: What?
+
+
+AUSTIN: I see a message here from Ali that says “Muonion, mounion, mounion.”
+
+
+DRE: I thought they were underground onions?
+
+
+AUSTIN: Yeah, I don’t know that they’re—
+
+
+KEITH: Just because they’re underground doesn’t mean they’re not humanoid.
+
+
+AUSTIN: I don’t—were they man-mounion—man onions?
+
+
+SYLVIA: I don’t...remember that part.
+
+
+AUSTIN: Me either. 
+
+
+KEITH: They’re definitely onion-monsters; I remember them being humanoid. 
+
+
+AUSTIN: I think Ali—
+
+
+ALI: I thought they were a food? 
+
+
+DRE: I thought they were pig-shaped?
+
+
+KEITH: They are a food, yeah. 
+
+
+AUSTIN: They have a carapace. We—okay. There’s a carapace and they—their carapace was used as a bowl.
+
+
+DRE: Right. 
+
+
+AUSTIN: I don’t think it was a person.
+
+
+ALI: Sure. I—you know what? Sure. 
+
+
+KEITH: Okay, alright. Maybe they’re not humanoid. 
+
+
+ALI: This is our game; we can change the lore between sessions [laughs].
+
+
+AUSTIN: We’re not changing it to them being humanoid!
+
+
+ALI: Okay. Sure.
+
+
+KEITH: They don’t need to be humanoid. I just remember that. But I guess it’s—
+
+
+AUSTIN: Maybe you’re right.
+
+
+KEITH: Maybe there’s something else that’s humanoid. Um—
+
+
+AUSTIN: They’re mushroom-onions. Thank you, Andrew Potts. I appreciate it.
+
+
+ALI: Mounions…
+
+
+KEITH: And then I’ve got—Wait, what did Andrew Potts say?
+
+
+AUSTIN: They’re mushroom-onions. 
+
+
+KEITH: Mushroom-onions. Okay. The other thing I remember, oh yeah, we got into a bar fight and I went outside for some reason, but while I was outside, Iris brutally killed—
+
+
+[Austin laughs]
+
+
+ALI: Uh-huh.
+
+
+SYLVIA: Right.
+
+
+KEITH: —the horrible, rude men that were destroying our good time.
+
+
+AUSTIN: Yeah.
+
+
+DRE: Mm-hm.
+
+
+KEITH: While I was—oh, I was pretending to surrender.
+
+
+AUSTIN: Yes.
+
+
+DRE: Yeah.
+
+
+ALI: Yes.
+
+
+KEITH: Okay. 
+
+
+ALI: Right. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: And I had, like, distracted you. 
+
+
+AUSTIN: Well, you told Volte that you would go kill us—‘cause Dre and I were playing—we were playing two troublemakers, two troublemaker automatons—
+
+
+DRE: Two rude boys. 
+
+
+AUSTIN: Yeah, from the ancient ruins [Ali snorts], who were breaking chairs, who were breaking furniture...we promised to come back with the good wood, but you—to keep Volte, who was a paladin, from killing us evil creatures, you convinced him that you were gonna kill us instead. Iris—Iris did? Was it—who was playing as Iris?
+
+
+KEITH: It was Iris, yeah. 
+
+
+ALI: I tricked Volte into thinking that there were more evil people in a forest so I could get the anger out of him [laughs].
+
+
+KEITH: Oh, is this while pretending to surrender—it wasn’t—it was you pretending to surrender but you were actually pretending to pretend to surrender. 
+
+
+AUSTIN: Yes. I thought you—
+
+
+KEITH: I thought—
+
+
+AUSTIN: I thought you made Volte go in a tent or something. I remember there being a tent.
+
+
+ALI: Yes.
+
+
+KEITH: Yeah, yeah. That’s what it was.
+
+
+AUSTIN: Yeah.
+
+
+ALI: Yeah, and then—
+
+
+KEITH: “There’s more people outside, go get them.” There wasn’t and then while I was outside, let these people go—
+
+
+AUSTIN: Right.
+
+
+KEITH: And pretended to kill them so that I would think—
+
+
+AUSTIN: Yes.
+
+
+KEITH: —we had dispatched with the unholy...whatevers.
+
+
+[Ali and Dre laugh] 
+
+
+AUSTIN: Please, they were number 53 and number 1907. We were Primetime. We were very powerful and good.
+
+
+ALI: Mhm.
+
+
+AUSTIN: Uh, alright. Dre [snorts a little]. 
+
+
+DRE: Woah, hey, woah. What’s the derision for? 
+
+
+AUSTIN: No, no derision! I’m saying it’s your turn to talk about your character and your memories. 
+
+
+DRE: Uh—
+
+
+KEITH: Yeah, Dre. 
+
+
+DRE: Aww. 
+
+
+AUSTIN: I’m not mad! [Ali laughs] There’s no—I’m not mad! 
+
+
+KEITH: Yeah, we’re not mad.
+
+
+SYLVIA: We’re not mad, Dre. 
+
+
+KEITH: Just tell us about your character, Dre. 
+
+
+SYLVIA: Just tell us! 
+
+
+KEITH: Just tell us.
+
+
+SYLVIA: Come on.
+
+
+AUSTIN: This is making me uncomfortable. 
+
+
+DRE: I don’t like—
+
+
+KEITH: Everyone’s acting—
+
+
+[Sylvia and Ali laugh]
+
+
+KEITH: Everyone’s acting regular, Dre. 
+
+
+AUSTIN: I hate this!
+
+
+DRE: Uh...my character’s name is Aldrich Blue and he’s a gnome that used to be a wizard and now he’s a chef.
+
+
+KEITH: [flatly] Great. 
+
+
+[Ali and Sylvia laugh]
+
+
+AUSTIN: I should’ve made Keith introduce your character, maybe he wouldn’t be such a jerk!
+
+
+[Ali and Sylvia keep laughing]
+
+
+DRE: Uh, I’ve got two memories. I guess a third one now—
+
+
+AUSTIN: Yeah.
+
+
+DRE: —which is getting a verbal wedgie from Keith? 
+
+
+[all laugh]
+
+
+DRE: My first one is “I can’t believe that Iris and Cassin went along with that living pig thing,” and I think I made—I turned onions into a pig statue or something? 
+
+
+AUSTIN: You turned it into a living pig.
+
+
+KEITH: Yeah, it was a—
+
+
+AUSTIN: An onion-pig. 
+
+
+KEITH: A living onion-pig. 
+
+
+AUSTIN: As a gift. As a gift to the gob—to Nourm Jounn, the goblin-cum-mayor.
+
+
+[Ali and Dre laugh]
+
+
+ALI: [laughing] Nourm Jounn. 
+
+
+AUSTIN: Right? 
+
+
+SYLVIA: Yeah, Nourm Jounn.
+
+
+DRE: Nourm Jounn!
+
+
+AUSTIN: N-O-U-R-M J-O-U-N-N, Nourm Jounn. 
+
+
+ALI: Oh, this was before PARTIZAN, and I kept getting mad that we kept making U names, ‘cause that was my bit. 
+
+
+AUSTIN: Yes. 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Yes, there is in fact on one of the screenshots here—er, in the chat, you say—Sylvia said: “Doun, D-O-U-N, pronounced ‘Don’, do not do that,” and Ali said: “This is PARTIZAN spoilers.” [laughs]
+
+
+[Ali, Dre, and Sylvia laugh]
+
+
+AUSTIN: Anyway. So yeah, that’s why you made a gob—not a goblin-pig, Jesus Christ. An onion-pig to give to the goblin mayor, Nourm Jounn. 
+
+
+DRE: Mm-hm.
+
+
+AUSTIN: And then what else? What’s your other memory?
+
+
+KEITH: [hoarsely] Short for “Normal Jounn.”
+
+
+DRE: “After watching Volte deal with those ruffians, I should listen when he orders no onions.
+
+
+ALI: Hm. 
+
+
+AUSTIN: [laughing] Great, good. Let’s go over to Iris, who I think is Sylvia?
+
+
+SYLVIA: That is me!
+
+
+AUSTIN: Yeah!
+
+
+SYLVIA: So I am playing Iris Alphonse, pronouns are she/her. She is the Swashbuckler who has become an artisan. Her whole thing is that she used to be pirate captain who helmed the ship that has become the Topside. 
+
+
+AUSTIN: Right, which is the name of our tavern. 
+
+
+SYLVIA: Mm-hm. And, uh...right, I—should I go over—I guess I’ll just go over memories first. 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: “Fixing the roof with Cassin was so fun; I can’t get the songs from that day out of my head,” “I can’t believe Roan actually apologized to those wizards, I’m glad he’s starting to settle in.” And—
+
+
+KEITH: Sorry, it’s “Roun” [Ron].
+
+
+AUSTIN: It’s Roan. 
+
+
+KEITH: It’s Roun.
+
+
+AUSTIN: It’s not “Roun”
+
+
+KEITH: It says it in the notes. 
+
+
+AUSTIN: That’s not—that’s a different person! That’s Roun the goblin server I’m Roan [Ali giggles], R-O-A-N. 
+
+
+KEITH: No, you’re right.
+
+
+[Ali, Austin, Dre, and Ali all laugh]
+
+
+SYLVIA: Okay! 
+
+
+KEITH: I think it’s actually “Ran.”
+
+
+AUSTIN: It’s not! It’s not Ran!
+
+
+[Ali keeps laughing]
+
+
+AUSTIN: [laughing] Continue. Continue, Sylvia.
+
+
+SYLVIA: And the last one is, “I can’t believe how much Volte hates onions.”[Austin laughs]  ‘Cause he got really mad about onions. 
+
+
+AUSTIN: Damn, I don’t remember this onion thing! I need to—I need to relisten. 
+
+
+SYLVIA: I just remember—I think it was like he just got sick of the mounions and the onions.
+
+
+AUSTIN: Yeah...
+
+
+KEITH: There were several things that all contained onions and I picked up on it and I made one of my memories that there’s too many onions around, and then I made one of, like—there was a cooking challenge and my challenge was this has to not have onions in it. 
+
+
+AUSTIN: I do—yes, that was the cooking challenge for sure, from you. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: There was no—we could each, I think, name a thing that we wanted or something and yours was “No onions.” ‘Cause we did the onion-pigs and you were sick of onions.
+
+
+KEITH: Yeah. Yeah.
+
+
+AUSTIN: Alright. Um, Cassin. 
+
+
+ALI: Hi, yeah, I am playing Cassin. Who’s she/her. She has a sturdy bow—
+
+
+[Keith sneezes]
+
+
+AUSTIN: Bless you.
+
+
+ALI: —a cursed leather armor, and her eyes are birdlike because she is a bird-person. 
+
+
+AUSTIN: Right, okay. I—yeah. I need to make sure again [Ali giggles], you are a bird-person. And real quick, Iris, you’re a human?
+
+
+SYLVIA: I’m an elf.
+
+
+AUSTIN: You’re an elf. 
+
+
+SYLVIA: And also I want to really quickly apologize for getting Roan’s pronouns wrong in my memory. 
+
+
+AUSTIN: Appreciated. Um, also Volte, are you a human?
+
+
+KEITH: Uh, yeeah, I’m like ninety-five percent sure that Volte is a human.
+
+
+ALI: Hmm.
+
+
+AUSTIN: Okay. Cassin, who is a bird-person.
+
+
+ALI: Yeah, I think I specifically said rose finch coloring, and she’s like four feet tall. Still pretty round. She was formerly a bard, she is now an apothecary. And my memories are: “Aldrich really saved the day with our distinguished guest with his clever recipes and tricks,” “Roan really pulled their weight when we had to put the barbeque in—” Oh right, we put a barbeque into our—
+
+
+AUSTIN: We put a barbeque in—
+
+
+ALI: Yeah.
+
+
+AUSTIN: —We upgraded the spot with—
+
+
+ALI: Yeah, we, like, took down the back wall and put the barbeque in. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: “That fighting spirit must be fueled by ribs.” [laughs]
+
+
+AUSTIN: Yo, I gotta get some robs. Now, I’m gonna get ribs for dinner. 
+
+
+ALI: [laughing] Yeah, I really want some. And then my last memory is “I can’t believe Iris stabbed that guy!” 
+
+
+SYLVIA: You know.
+
+
+ALI: Because me and Volte were outside.
+
+
+AUSTIN: Right.
+
+
+ALI: Watching her stab somebody [laughs].
+
+
+AUSTIN: Right. But fake-stab somebody?
+
+
+ALI: Sylvia—
+
+
+SYLVIA: I was signing their back! [laughs]
+
+
+ALI: Yeah.
+
+
+AUSTIN: Right, that’s what it was!
+
+
+ALI: Yeah. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: With a knife, yes, right. [laughs] Because we were automata
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Which means that it’s—yeah. 
+
+
+[Ali laughs] 
+
+
+SYLVIA: I had to carve it in. 
+
+
+AUSTIN: Yeah, got it. Perfect. I am playing Roan—
+
+
+KEITH: I now finally remember that whole scene, thanks to [Ali laughs] three of us having it in our memories. 
+
+
+AUSTIN: Oh, God. Roan uses they/them pronouns. I have a hand cannon-slash-staff has a weapon. 
+
+
+ALI: Ohh.
+
+
+AUSTIN: I wear ornate plate armor and I have sleepy eyes. My memories are that “Cassin did that great cheer and everyone got so strong, and not to hit people but to serve food fast and efficiently.” [Ali laughs] And “Iris is really in this for us all. I knew I could protect people with my strength but I didn’t know I could inspire people that way.” I don’t remember—I don’t remember what Iris did to hype people up, but—oh, did you give a speech? You gave, like, a speech at some point, with your Bravado, I think. 
+
+
+SYLVIA: It might have been that, it also might have been when—‘cause I think I used the Bravado with the automatons, actually. 
+
+
+AUSTIN: Oh, maybe you’re right. 
+
+
+SYLVIA: I think what that might have been was when I asked Roan to apologize to the wizards. 
+
+
+AUSTIN: Ohhh. 
+
+
+SYLVIA: And Iris was taking it very seriously.
+
+
+AUsTIN: That makes sense. That makes sense to me.
+
+
+ALI: Ohhh, right.
+
+
+AUSTIN: Yeah, I—we can go over what we did here. So, the first step—we have gone through one, two, three, four—fff—one, two, three, kind of four, five, six scenes. One of those—four and five are the same thing, they were Smoke Break, which was a big step away and Wear and Tear, which was upgrading the town and describing that. 
+
+
+So, first step was just setting up what the place was and what our kind of first memories of the space were. You know, of the place that we were in and kind of people we may know or may have worked with. So our tavern is called the Topside. It’s location is in the wilderness, at a fork in the road. The fork goes to a human town, some ancient ruins, and a friendly goblin village. We talked about how our big thing as adventurers was that we brought peace to the goblins and the humans—or like the humanoid town, the port town, that was our big success before we retired. We also tried to get through the ancient ruins but we were never able to get all the way through them and complete that dungeon, so to speak. 
+
+
+I don’t know why we had a boat—I want to say it had something to do with bringing peace to the goblins in the port town...I can’t recall but whatever, now it is our tavern. It rains a lot nearby and we’ve turned the sails into an awning over some outdoor seating. And we also again—you know, we did—we blew out the rear wall and turned it into a barbeque. There’s some NPC—oh sorry, we have a cuisine rating of two, an atmosphere rating of two, and a service rating of one. The NPCs we’ve introduced are Roun, he/him, a goblin server. Quote: “It sounds like Roun,” says Roun [Sylvia laughs]. Gen, or Jen, with a ‘g’? She/her, a bookseller. Nourm Jounn, he/him, a goblin town mayor. Kurtle, K-U-R-T-L-E, she/her ranger, freelance adventurer...that was the adventurer you served drinks to, Ali. Who didn’t want to be—
+
+
+ALI: Yes.
+
+
+AUSTIN: Wanted to be a leader but probably shouldn’t have been a leader, and you were like “Yo.” 
+
+
+[Ali laughs]
+
+
+AUSTIN: The Cante sisters? Is that right? C-A-N-T-E.
+
+
+ALI: Yesss.
+
+
+AUSTIN: And they were three painter sisters traveling to the ruins. And I think you added four exclamation points here?
+
+
+ALI: Yess [laughs]. 
+
+
+AUSTIN: And then Primetime, the automaton gang, numbers 53 and 1907. Those are the NPCs. We played, again, all those games—so we did the first step, we talked about how we got here. We did A Distinguished Guest, which I think that was Keith, you did the Distinguished Guest. 
+
+
+KEITH: I did the first one, whatever the first one was. 
+
+
+AUSTIN: Yes, Distinguished Guest is the first one. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: The first step is just the broader descriptions. So yeah, the first one was A Distinguished Guest, which is when Nourm Jounn came to visit and we all had to get ready. I remember intimidating wizards and also unintentionally bullying Iris into helping me with that by mistake [Sylvia laughs]. Somehow? Bullying wizards to get it to rain—or witches to get it to rain. I don’t remember what other people did.
+
+
+KEITH: Oh yeah.
+
+
+AUSTIN: What did other people do for that one?  
+
+
+SYLVIA: I think—
+
+
+ALI: I did that cheer. 
+
+
+AUSTIN: You did the cheer.
+
+
+ALI: Which is why you have a memory about it, yeah.
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: I think my part there was the thing we discussed earlier, where your memory came from. 
+
+
+AUSTIN: Yeah, that makes sense. And then, Aldrich, that’s when you did—you kicked ass with the roll, I remember you doing good rolling. And then you also did the onion—the living onion-pig. Is that right? Dre? 
+
+
+DRE: Yeah, that sounds right.
+
+
+KEITH: I thought—I think the onion-pig was for Distinguished Guest. 
+
+
+AUSTIN: That’s the—that is the game I’m talking about. 
+
+
+KEITH: Oh, okay. I thought we had moved on to the witch thing.
+
+
+AUSTIN: No, the witch thing was me trying to make it rain so that— 
+
+
+KEITH: During Distinguished Guest, right. 
+
+
+AUSTIN: Right.
+
+
+KEITH: Yes, now I remember 
+
+
+AUSTIN: So that the Distinguished Guest would be happier to be inside our tavern. 
+ 
+KEITH: Right [laughs]. 
+
+
+AUSTIN: Bad plan.
+
+
+KEITH: Makes perfect sense.
+
+
+AUSTIN: Yeah, totally. A Glass of the Gods...was that the bartending game?
+
+
+ALI: That’s—yeah, yeah, yeah. 
+
+
+AUSTIN: Do you want to talk about that one briefly? Is that kind of just what we said already?
+
+
+ALI: Um, yeah. Uh, you know, an adventurer comes through, you ask them questions about them, and then you serve them a drink. 
+
+
+AUSTIN: Right.
+
+
+ALI: It was that lady. 
+
+
+AUSTIN: Give them advice, yeah, okay, cool.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Then we did Wear and Tear/Smoke Break. Every three games you do—you have to do a—you ask if there’s gonna be a Smoke Break after every game, and then every three games you take a Smoke Break and do Wear and Tear. Wear and Tear is the one that lets you upgrade your place. Um...then what? 
+
+
+ALI: Then we did Sliced.
+
+
+AUSTIN: What is Sliced? Sliced is the new food.
+
+
+DRE: Yeah.
+
+
+KEITH: The monster food, yeah.
+
+
+DRE: That was mounions. 
+
+
+KEITH: The monster-parts. 
+
+
+AUSTIN: Right. That was mounions and some other food types. Exploding ancient cacti—oh, right, you had—what did you—? Two people have written “Courtellini” down, so that’s something.
+
+
+[Keith and Ali laugh] 
+
+
+AUSTIN: Okay, our—we had demands. I think we had demands.
+
+
+ALI: Yeah, I—I think y’all all played your characters but I played the Cante sisters.  
+
+
+AUSTIN: Yes!
+
+
+ALI: And they were specifically looking for something that was, like, something you wouldn’t make from home. So you go to a restaurant and you don’t want something that you can make but they wanted something that was, like, familiar.
+
+
+AUSTIN: Right. Yes.
+
+
+ALI: Yeah.
+
+
+AUSTIN: And reminded them of a season or something?
+
+
+ALI: Yeah.  
+
+
+AUSTIN: Am I making that up? I don’t remember.
+
+
+ALI: I think you are, but it’s fine [laughs].
+
+
+AUSTIN: But whatever, we made some food—okay. We made some food.
+
+
+ALI: Yeah.
+
+
+AUSTIN: So that’s all that happened. So we’ve done—and we did a fight, which we’ve talked about at ends now, or at, you know, multiple times [Ali laughs]. So the games we’ve not done: NPC Sidequest, Romancing a Stranger, Off the Clock, Festival Day, uh…A Bard’s Tale, and then the final game, In the Rhythm of Things. God. So who has not done a turn? And we’ll have another Wear and Tear after this game, I believe. [typing] ‘Cause we will have done smoke—Sliced and then the fight one, which is A Friendly Tavern Brawl. Um, so wait—
+DRE: I’m pretty sure I picked Sliced.
+AUSTIN: Yeah, that makes sense. And then Ali picked Glass of the Gods…
+ALI: Mhm.
+AUSTIN: Keith picked Distinguished Guest…who picked Fight? Was it me or you, Sylvia?
+SYLVIA: Uhh, that might have been me?
+AUSTIN: Okay.
+SYLVIA: I think? I don’t remember. I’m happy to go if it wasn’t.
+AUSTIN: I think it must have been you, because I would have picked a scene with my character in it, probably.
+SYLVIA: Yeah, right?
+AUSTIN: Probably. That feels like a thing I would’ve done.
+SYLVIA: That makes sense [Ali laughs].
+AUSTIN: Yeah. Alright, so let me look at these real quick. Um…these all sound good to me, but let’s see…“During your time as an adventurer—” I’ll read what they are real quick. A Bard’s Tale: “During your time as an adventurer, you accomplished many daring deeds. In fact, some of those deeds are retold this day by travelling bards.” In that game, one person is a bard, another is an adventurer. The adventurer should be a player character. The bard may be a player character or NPC. And you take turns kind of telling the story about you and your adventures. 
+The next one that we haven’t done is Festival Day. “Your town has a few festival days a year and they’re some of your busiest. How do you prepare? How do you handle the influx of people?” That’s fun. “Anyone can play.” That’s fun. We should definitely do that before we’re done. 
+Off the Clock: is: “Where do you go after the tables are wiped down? Who’s heard every story you have about the worst people who’ve walked in? Anyone can play; each player describes the first thing their character is doing to wind down, let loose, or otherwise forget about work for a while.” I kind of like that, that might be a good one to get back in.
+Romancing a Stranger says: “Someone in the tavern makes eye contact with you and their gaze lingers a little longer than you’d expect. Your coworkers urge you on and make every excuse they can to send you over to talk to the lovely stranger.” That game requires a pair of players; one player plays the romancer and one player plays the stranger. 
+And then NPC Sidequest...is: “Your adventuring days may be over, but there are plenty of people in town that could use your help. One person plays; decide where you are when you encounter this sidequest. Are you in the tavern, walking around town, on the road leading in? There are three scenes to this game; if you already have a quest in mind, go straight to the scenes. If you need to come up with a quest, use the creating quest instructions below.” 
+Um...I think I kind of...I think I kind of want to do the quest? I think I want Roan to try and make up with the witches. Like, I’ve done this apology already but I think I’m gonna do NPC sidequest and hopefully this’ll be quick. I hope this isn’t a big, long thing...let’s see. “One person plays; decide where you are when you encounter this sidequest. Are you in the tavern, walking around town, on the road leading in? There are three scenes to this game; if you already have a quest in mind—alright, I have a quest in mind, I think. Which is, that I think they need me to—wait, where’s this—am I missing a—undertaking the quest...oh, okay, sure. Yes. I thought there was was third page here, and there isn’t, and I was like “Wait a second, how do I do this?” So they have an initial request with me, this is actually really simple. I think that they come to me to basically cash in—when I apologize to them before, I basically said if you need anything, let me know. And they finally do. And the thing that they need is, uh—so it says “What are they asking—”
+ALI: Oh—
+AUSTIN: Yeah, go ahead? 
+ALI: [clears throat] You have to deal the cards to figure what kind of quest it is?
+AUSTIN: I don’t—
+ALI: Oh.
+AUSTIN: Because it specifically says “If you already have—”
+ALI: Oh, when the—okay. Sorry.
+AUSTIN: —If you need to come up with a quest, use creating a quest. Otherwise, just jump to the scenes.
+ALI: Okay.  
+ 
+AUSTIN: And so, I think that this is just gonna be a quick narration thing.
+
+
+ALI: Yeah, sure. 
+
+
+AUSTIN: Which is, they basically come to me and they—the rules say describe how you accomplish what they do using one of your experiences. And my adventurer experience—my only adventurer experience left is “Legendary Weapon: you wield an artifact of immense power,” which is just a gun that’s a big staff. And they’re not coming to ask me to fight anything, they’re not coming to ask me to defend them, they’re not coming to ask me to go intimidate someone else. 
+
+
+I think that they literally are doing some sort of ritual ahead of—we should set up now that there’s some sort of festival coming in the coming months. And ahead of that festival they need to basically melt down something that has touched the sands of the Seven Deserts, right? And it’s like “Yeah, we’ve done that. I’ve been to the Seven Deserts, of course.” And they need something that has the essence of the Seven Deserts. And it’s like “Well, I threw out all my old boots, I threw out all my old scarves, and all my old, you know, waterskins. There’s just this.” 
+
+
+And they call on that favor and so I kind of, like, hang with them as they melt down this gun that is again this big walking staff that’s also a gun. And they don't—the book says “Did you come back exhausted, triumphant, irritated? What did they promise to give you in exchange for your help? Did they deliver, give you something else, or give you something more than what they told you?” And the answer is nothing, at least not yet. They didn’t give me anything; there was no reward here outside of—I don’t even think they were like “Alright, now we’re cool.” It’s just like “Alright, thanks, bye.” But I think what Roan gets out of it is a sense of like “Yeah, okay. I’m not the person who carries around the big gun anymore. I’m not the person who, like, that is how I define myself; I have to be something else now.” 
+
+
+And so, yeah, I’m gonna cross that out and then take—how’s it go after every—whenever you use a…“When you use one or more adventurer experiences in a game, at the end of that game, you will choose one of those adventurer experiences, cross it out, and mark a new town experience in your town job. Narrate a short scene that describes what led to this experience—which I kind of just did. It does not have to be related—oh, I guess this is a different thing, right—It does not have to be related to what just happened in the game because time is passing between games as well and characters have lives outside their work. These scenes should be one to three sentences.” 
+
+
+Um...let me look at Scholar again...is there another Scholar thing I actually want? [considering pause] Definitely not going to invent my way out of a sticky situation, so I might take it from something else. Here’s what I’m taking. I’m taking the Guard skill...Friend of the People. Which is “The people know you and come to you with their problems.” So I think sometime over the next few weeks, you know, with this having happened, it just starts to be a thing where, like, Roan is sort of an odd-jobs person, or an advice giver. Over time, partially because of, like, having fixed this relationship with wizards and witches, partially because of taking on this different attitude, they become someone that locals just trust.
+ 
+And it’s really awkward and weird for Roan at first; I think we get a lot of shots of Roan being like—finishing the day and being like, “Well, I didn’t get anything done today.” And it’s like “Yeah, but you just helped seven different people. You helped this person mow the lawn, you helped this person put up decorations, you listened to this person talk about, you, the bad week that they had and gave them advice…” But it’s Roan slowly coming to understand that you can still help people in a way that is not as direct as pointing a gun and pulling the trigger. So that is my turn. And that is our third thing in a row—that’s Sliced, Fight, and then NPC Sidequest. So we should both do a Wear and Tear and take a Smoke Break. I feel like we should maybe do Wear and Tear first since we’ve just started and a Smoke Break is kind of when we step away. Does that make sense?
+
+
+KEITH: Yeah.
+
+
+ALI: Yeah, sounds good.
+
+
+DRE: Sure.
+
+
+AUSTIN: Okay. Does anyone have the Wear and Tear rules in front of them?
+
+
+ALI: Noo.
+
+
+AUSTIN: I will get them, I will get them...uh, there we go. “There’s always something to fix or clean or pay off. After playing this game, you may increase one of your tavern ratings by one. Setup: anyone can play; decide together what parts of the tavern need fixing and touching up and what the new features of the tavern are. Working together, take turns choosing an action to take. Everyone should pick one. One: ask another player character for help. Describe how you combine one of your experiences with one of theirs to great effect. Two: as you’re working, you observe a town person or another player character. Describe what you learn from your observations. Three: you’re completely in your element. Describe how, with one of your experiences, you work so efficiently that the work is done early.” What are we increasing? Right now: two cuisine, two atmosphere, one service [chuckles].
+
+
+[Dre laughs]
+
+
+ALI: Mhm. 
+
+
+KEITH: I feel like this is a pretty easy case to make for service. 
+
+
+AUSTIN: Sure.
+
+
+DRE: I don't know. 
+
+
+AUSTIN: But how are we—
+
+
+DRE: What if we are incredible and just have shit service? 
+
+
+ALI: We don’t want that! 
+
+
+SYLVIA: That, you know—
+
+
+AUSTIN: The thing is—
+
+
+KEITH: I kind of respect that though.
+
+
+AUSTIN: Let me go over what these all are again, really quick. “Cuisine: your cuisine rating determines your tavern’s ability to make food. It’;s not just the cooking ability; it includes aspects of food preparation, like storage or how easy it is to do business with suppliers. It determines how many ingredients you can use in the Sliced game and how many components you have in Glass of the Gods.” At two, which we have, we have “A modest kitchen, a couple of ovens, a regular supply of essentials, a few bottles of the good stuff.” At three, we would have “Plenty of room to move around, brand new cookware, and a well-stocked spice cabinet.” 
+
+
+Atmosphere is “Your atmosphere determines a broad range of visual and other aspects of your tavern. It’s the vibe, the feeling, the experience that your patrons get. The smells, the decorations, the chatter of folks eating at tables around you are all part of the atmosphere of your tavern.” At two, we have “Canvas cots, freshly-painted walls, and clean windows.” At three, we would have “Serviceable mattresses, beautiful artwork, and abundant light.” 
+
+
+And then service is “A measure of how your tavern operates. Is the food getting out quickly and to the right places? Are the beds clean and comfy? Service also represents your tavern being able to hire more people to work the tavern. Every time you gain a point in your service rating, create a NPC employee who represents one of the many new hires. Come up with one or use one of the examples listed.” And their examples of this is, at two—or at one—it’s “A former farmhand, an injured local guard.” At two: “An experienced line cook, good waitstaff.” So it would be a new NPC if we went up in service. What were your cases? You—it sounded like there was some difference [Ali chuckles] between service and something else here? 
+
+
+KEITH: I—well, I kind of was convinced that, you know, I kind of like the idea now, after saying—after being the one that said, you know, the case for service seems pretty good, having, you know, great food or great atmosphere, and then good of the other thing, but then, like, whatever service...I kind of like that. I don’t—I kind of don’t give a shit about service [Ali laughs]. And as a former waiter, I don’t give a shit about serving, so [laughter intensifies]. I kind of find, like, “Oh, wow, you have amazing food and it’s pretty nice in here,” and that’s all that really matters.
+
+
+AUSTIN: You go amazing food over amazing atmosphere? 
+
+
+KEITH: I’m kind of—I could go either way, but I think so. I think so. But I’m not, you know—honestly, it could go either way, as long as service stays one.   
+
+
+[Austin, Ali, and Dre laugh]
+
+
+SYLVIA: Oh my God.
+
+
+AUSTIN: Are there other arguments here?
+
+
+KEITH: Total 180. 
+
+
+ALI: Uh.
+
+
+AUSTIN: Any other arguments here from—about not doing that? 
+
+
+ALI: [laughs] I care about service! I’m not gonna—I’m not gonna put my foot down, but I think it’s nice to, you know [laughs]—
+
+
+AUSTIN: No, it has like a—
+
+
+ALI: —[laughing] that being part of a priority of a business that you’re running. You want people to have a good time. You want people who are, you know—
+
+
+KEITH: [Snivelling, toadying voice] “It is my pleasure to serve you today.” Fuck off!
+
+
+ALI: [laughing] That’s not how—
+
+
+AUSTIN: Jesus Christ! 
+
+
+[Keith guffaws]
+
+
+ALI: Holy stromboli! My goodness! 
+
+
+AUSTIN: I feel like that’s a little aggressive, Keith! 
+
+
+ALI: [laughs] I don’t think going from a former farmhand to an experienced line cook is like—
+
+
+AUSTIN: We’re not—yeah, we’re not bougie. 
+
+
+ALI: —anything that you have to, like, wear a bowtie and a tophat or whatever.
+
+
+AUSTIN: Yeah. To be clear, level three is “An interior decorator, a skilled executive chef.” Level four is “An accomplished head of staff, a prestigious sommelier.” We are not getting those.
+
+
+ALI: Yeah. Right, but a good waitstaff [laughs], you know, having something that’s good isn’t bad in life. 
+
+
+AUSTIN (as Roan): Roun is fine. Okay, one: Roun is fine. 
+
+
+KEITH (as Volte): Roun is fine. 
+
+
+ALI (as Cassin): Roun is fine, yeah. 
+
+
+DRE (as Aldrich): Yeah, why’re you trying to put Roun out of work? 
+
+
+AUSTIN (as Roan): But, I will say—
+
+
+KEITH (as Volte): Yeah, all of a sudden, is Roun not good enough? 
+
+
+SYLVIA (as Iris): Now hold on! 
+
+
+ALI (as Cassin): Roun could be like a shift leader! You know—
+
+
+[Dre laughs]
+
+
+SYLVIA (as Iris): We didn’t say that Roun was getting fired! 
+
+
+AUSTIN (as Roan): I know—well, that’s what I’m saying. Is there a world where—I guess, Aldrich, as the chef, do you have a need for more service? Could you use a line cook? Could you use someone to help you out as, like, a prep chef?
+
+
+DRE (as Aldrich): Hmmm. I mean, I wouldn’t say no but I don’t know if I need it. 
+
+
+AUSTIN: This is how you don’t get budget in the New Year. This is a hundred—[Ali and Dre laugh]. This is someone’s grumpy budget conversations being like “Eh, we could use it.” That’s how you don’t get it! 
+
+
+DRE: Mm-hm. 
+
+
+AUSTIN (as Roan): I lean service or atmosphere. I wanna be a place people want to be. And I’m gonna tell you: we—people are gonna want to stop here and eat food no matter what. And that’s not ditching—dishing—dishing, mm. Dissing Aldrich’s food. I think Aldrich’s food is pretty good. Pretty damn good. I helped make that barbeque, you make great barbeque mounions. But I, I’m definitely of the mind that I want someone to leave feeling like they had a good time and that they have fond memories of the place—and I think that can be achieved through really good atmosphere or pretty good service. Or, like, the atmosphere we have now but pretty good service. 
+
+
+DRE (as Aldrich): Is there anything else, like, really cool that we would want to do with modifying the fact that we live and work in an upside-down ship? Via the atmosphere?
+
+
+AUSTIN (as Roan): Right, I see what you’re saying. Another kind of cool boat thing. 
+
+
+DRE (as Aldrich): Mm-hm. 
+
+
+SYLVIA (as Iris): Flip it...back the right way.
+
+
+DRE (as Aldrich): Oh shit!
+
+
+SYLVIA (as Iris): Yeah. Think about that one. 
+
+
+KEITH (as Volte): Feels like work.
+
+
+SYLVIA (as Iris): Um, personally speaking, I am leaning—I guess I’ll just say I am leaning towards atmosphere here, especially with the festival coming up. 
+
+
+AUSTIN (as Roan): Right. Right. 
+
+
+ALI (as Cassin): Yeah.
+
+
+AUSTIN (as Roan): And I think—
+
+
+ALI (as Cassin): If I— 
+
+
+AUSTIN (as Roan): Go ahead. 
+
+
+ALI (as Cassin): Oh, sorry.
+
+
+AUSTIN (as Roan): No, no, you. 
+
+
+ALI (as Cassin): I was gonna say, if we don’t do service, I’m leaning atmosphere as well.  
+
+
+AUSTIN (as Roan): I think we could really—we can make up for the level one service, I’m not gonna say bad service [Ali giggles], for the service that we have. I feel like we, with our abilities, with our stick-to-it-ness, with our own, you know, personability, we can bring—we can turn up the service when we need to. You know, what the fuck am I doing? I can be a server, it’s not a big deal.
+
+
+KEITH (as Volte): But—yeah, that’s—yeah. This is sort of what—like, yeah, the good food is the service, the nice—the being in a spot that’s nice to be in is the service.
+
+
+AUSTIN (as Roan): That’s what I think. I think it’s about the spot. I think it’s about—
+
+
+KEITH (as Volte): It’s about the spot. It’s—yeah.
+
+
+ALI (as Cassin): Mhm. 
+
+
+KEITH (as Volte) Well, the food is—the food, I think—
+
+
+AUSTIN (as Roan): The food is good! I’m not here to—I’m not going to—I’m not going to implicitly insult our chef, Volte! 
+
+
+KEITH (as Volte): No. 
+
+
+[quiet laughter from the table] 
+
+
+AUSTIN (as Roan): I think it’s—
+
+
+KEITH (as Volte): I could go atmosphere. Yeah, I’m totally down with atmosphere.
+
+
+AUSTIN (as Roan): Let’s go atmosphere! Let’s do that. 
+
+
+AUSTIN: I lost the rules of this game.
+
+
+KEITH: Especially because, like, at two for food, it’s like—it doesn’t say anything about the quality of the food, just a slightly constrained workspace. 
+
+
+AUSTIN: And—
+
+
+KEITH: But for atmosphere, three is “Serviceable mattresses.” 
+
+
+AUSTIN: Right!
+
+
+[Dre laughs]
+
+
+KEITH: We have unserviceable mattresses right now. 
+
+
+[Ali laughs]
+
+
+AUSTIN: No, we have comfortable cots right now. That’s not—
+
+
+KEITH: It doesn’t say comfortable, it says “canvas.”
+
+
+AUSTIN: It says canvas? [laughing]
+
+
+SYLVIA: Or we have wimpy guests instead of unserviceable mattresses. 
+
+
+DRE: Yeah. 
+
+
+SYLVIA: That’s another way to look at it. 
+
+
+AUSTIN: Right, true. Um, alright, so let’s do the game, which is that we each have to pick—I’ve lost the rules again. We each have to pick a…where—
+
+
+SYLVIA: We each choose one of the actions.
+
+
+AUSTIN: Yes, right. We each do either: Ask another player character for help, describe how you combine one of your experiences with one of theirs to great effect. Observe a town person or another player character, describe what you learn from your observations. Or describe how, with one of your experiences, you work so efficiently that the work is done early. I’m gonna say...I’m gonna say...hmm. 
+
+
+AUSTIN (as Roan) Alright, Volte, can I ask you for help with something?
+
+
+KEITH (as Volte): Depends.
+
+
+AUSTIN (as Roan): Alright. So—
+
+
+KEITH (as Volte): Probably. I’m sorry, probably.
+
+
+AUSTIN (as Roan): No, it’s fine, it’s fine. I have—I have Well Read and Ritual Knowledge, I’m deep in these books right now.  
+
+
+KEITH (as Volte): Okay.
+
+
+AUSTIN (as Roan): And I read something about the festival coming up. And about this kind of, like—
+
+
+KEITH (as Volte): What do you mean you have Well Read?
+
+
+AUSTIN: That’s a skill I have. I have—one of my experiences is Well Read.
+
+
+KEITH (as Volte): Okay. 
+
+
+AUSTIN (as Roan): I am well-read. I also happen to know— 
+
+
+KEITH (as Volte): Oh, you are well-read? Got it. 
+
+
+AUSTIN (as Roan): I am well-read. Exactly. And I know. 
+
+
+KEITH (as Volte): Doesn’t sound well-read—I’m sorry. 
+
+
+AUSTIN (as Roan): I didn’t say I’m well-spoken, I said I’m well-read.
+
+
+KEITH (as Volte): Okay, fair. Sorry. 
+
+
+AUSTIN (as Roan): Let’s get it straight. 
+
+
+KEITH (as Volte): Yup.
+
+
+AUSTIN (as Roan): The—I recently read that for the Harvest Festival that’s coming up, that it is good luck to have a good relationship with animals. And in some cultures, including in the goblin village, they have kind of a culture of—what do you call them? Petting zoos. And I know that you’re good with animals—
+
+
+KEITH (as Volte): Yeah, I have Handler. 
+
+
+AUSTIN (as Roan): I don’t—what’s that mean? You have Handler?
+
+
+KEITH (as Volte): Oh, sorry. I am a handler. 
+
+
+[Dre laughs]
+
+
+AUSTIN (as Roan): I gotcha, yeah. You’re a handler. And so I was hoping that you would help me set up a petting zoo. 
+
+
+[Ali gasps]
+
+
+        AUSTIN (as Roan): Of, specifically, big birds. 
+
+
+KEITH (as Volte): Okay. 
+
+
+AUSTIN (as Roan): It’s a big bird—
+
+
+KEITH (as Volte): Is that gonna be weird for Cassin?
+
+
+AUSTIN (as Roan): I hadn’t thought about that. 
+
+
+ALI (as Cassin): What would be weird about it?
+
+
+[Austin and Sylvia laugh]
+
+
+KEITH (as Volte): Cassin is—you’re a bird. 
+
+
+AUSTIN (as Roan): Bird-person.
+
+
+KEITH (as Volte): Bird-person. 
+
+
+AUSTIN (as Roan): Would it be weird for you if there were apes? Or me?
+
+
+KEITH (as Volte): I don’t get it.
+
+
+AUSTIN (as Roan): Okay. I also read about—
+
+
+KEITH (as Volte): I don’t see the connection. 
+
+
+AUSTIN (as Roan): Yeah, given you’re not Well-Read [laughs]. 
+
+
+KEITH (as Volte): No. 
+
+
+ALI (as Cassin): Well I—
+
+
+KEITH (as Volte): But I am Handler. And I am Healing Touch [Ali and Austin laugh]. 
+
+
+AUSTIN (as Roan): Cassin, go ahead?
+
+
+ALI (as Cassin): I—you know, I work here and it would be fine. 
+
+
+KEITH (as Volte): Okay.
+
+
+AUSTIN (as Roan): We could—
+
+
+ALI (as Cassin): They could just take it outside, right? 
+
+
+AUSTIN (as Roan): We could—yeah. And we can do a rotating petting zoo. Where, like, for the upcoming festival, it’s good luck to have large birds but we could then—
+
+
+KEITH (as Volte): Uh-huh. 
+
+
+AUSTIN (as Roan): —switch it off and then in another season, we could have a different type of animal to pet. 
+
+
+ALI (as Cassin): But what happens to the large birds?
+
+
+AUSTIN (as Roan): They...go back…
+
+
+ALI (as Cassin): It doesn’t sound like you’re up for the responsibility of a petting zoo.
+
+
+AUSTIN (as Roan): I don’t have Responsibility [Dre laughs]. I have Ritual Knowledge and Well-Read.
+
+
+KEITH (as Volte): But I have Handler, which I think is—
+
+
+AUSTIN (as Roan): Yeah.
+
+
+KEITH: Means I’m up for the responsibility of the petting zoo. 
+
+
+AUSTIN (as Roan): Okay, yeah! So maybe what this is is, is—Right now, we have a petting zoo but eventually we could have livestock. We don’t have livestock yet. If we did, our cuisine rating would go up ‘cause we’d have fresh milk and eggs and things and we don’t have that. But for now, it’s a petting zoo and maybe over time, Volte could turn it into more than a petting zoo. 
+
+
+KEITH (as Volte): Okay, and you want to start with large birds?
+
+
+AUSTIN (as Roan): That’s what’s good for the ritual festival coming up. The Harvest Festival. 
+
+
+KEITH (as Volte): Okay. It’s not really good for transitioning into a not-petting zoo.
+
+
+AUSTIN (as Roan): Why?
+
+
+KEITH (as Volte): …On a large—I just, large birds seems really—
+
+
+AUSTIN (as Roan): They have eggs! They have big eggs.
+
+
+KEITH (as Volte): They do have big eggs. But if we got—
+
+
+AUSTIN (as Roan): We could ride them!
+
+
+KEITH (as Volte): —goats and sheep and cows, it would be like, you know, a bunch of different sorts of things. 
+
+
+AUSTIN (as Roan): But what if we could make it a stable? We could also make it a stable. We could have, like, big bird trail rides. 
+
+
+DRE (as Aldrich): Are you just giving us chocobos? 
+
+
+AUSTIN (as Roan): I—they’re big birds. I don’t know shit about what a chocobo is. Well Read, not Well Played. 
+
+
+ALI (as Cassin): Mhm.
+
+
+AUSTIN (as Roan): I don’t play no Final Fantasy. 
+
+
+[Keith laughs]
+
+
+KEITH (as Volte): Um, yeah, I can do a petting zoo. 
+
+
+AUSTIN (as Roan): Alright. 
+
+
+
+
+
+
+AUSTIN: Yeah, ostriches have eggs, thank you. Thank you, Ellis. But not—
+
+
+KEITH: They all have eggs. You can’t be a bird and not have eggs. 
+
+
+AUSTIN: Yeah. That’s probably true.
+
+
+DRE: Is that true?
+
+
+AUSTIN: It has to be true. 
+
+
+DRE: Okay. 
+
+
+KEITH: Yeah, there’s no—I mean—
+
+
+AUSTIN: Platypus? Platypi? Are those—those aren’t birds. What are they?  
+
+
+KEITH: Imagine giving—no, they’re not birds. 
+
+
+SYLVIA: Mammals.
+
+
+KEITH: I didn’t say all egg-laying things are birds. 
+
+
+AUSTIN: Right, sorry, they’re egg-laying mammals; that’s the thing that a platypus is, right? 
+
+
+KEITH: Yeah. They’re one of two.
+
+
+AUSTIN: [googling] Non...egg-laying...birds…
+
+
+KEITH: The other being the echidna.
+
+
+DRE: No, it seems like—it looks like they all—
+
+
+SYLVIA: A peacock!
+
+
+DRE: Ooh.
+
+
+SYLVIA: Does not lay eggs.  
+
+
+AUSTIN: I looked it up on Quora. And there’s a picture of Larry Bird.
+
+
+SYLVIA: Oh wait, never mind. 
+
+
+KEITH: Yeah, I’m pretty sure that laying eggs is a prerequisite for being a bird. I don’t think that—
+
+
+SYLVIA: [laughing] I Googled this and the answer was “Peacocks don’t lay eggs because they’re the boys. Peahens do, though.”  
+
+
+[Keith and Dre laugh]
+
+
+SYLVIA: And I feel really tricked that I’ve been—like, I feel really tricked that I’ve been engaged in gender again. It’s not fair. 
+
+
+AUSTIN: Yeah, uh-huh. They fucked you up. That’s not fair. 
+
+
+SYLVIA: They really got me! 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: God. 
+
+
+KEITH: Roosters don’t lay eggs!
+
+
+AUSTIN: Shut the fuck up, internet! Get outta here!
+
+
+SYLVIA: Ugh.
+
+
+AUSTIN: Anyway [laughs]. 
+
+
+AUSTIN (as Roan): Who else is helping? That’s what—that’s how I’m helping. 
+
+
+KEITH (as Volte): How is it that you’re helping? By asking me to do—
+
+
+[laughter from the table] 
+
+
+        AUSTIN (as Roan): We together—we together are gonna put together a petting zoo!
+
+
+        KEITH (as Volte): Okay. Got it.
+
+
+AUSTIN (as Roan): We’re co—I’m combining one of my experiences with one of yours to great effect! It says “great effect”. 
+
+
+KEITH (as Volte): [placatingly] No, no, you’re right, you’re right. Yeah, you thought of the idea, you did Well Read.
+
+
+AUSTIN (as Roan): [indignantly] You didn’t think of the idea! I’m also helping you! I’m a big, strong person!
+
+
+KEITH (as Volte): Okay, so you’re gonna help me do, like, the fence?
+
+
+AUSTIN (as Roan): I’m gonna help setting up the fences—exactly!  
+
+
+KEITH (as Volte): Okay.
+
+
+AUSTIN (as Roan): I’m helping to corral people—
+
+
+KEITH (as Volte): Okay. 
+
+
+AUSTIN (as Roan): I also have Keen Observation and Friend of the People! The people know and come to me with their problems!
+
+
+ALI (as Cassin): Mhmm.
+
+
+AUSTIN (as Roan): Maybe the birds come to me with their problems! I—not like you, because you’re a Handler, you have Animal Handler, I don’t have that.
+
+
+KEITH (as Volte): Right. You don’t know them like that. 
+
+
+AUSTIN (as Roan): I don’t know them like that. But if one of them comes and is like “BWAKK”  [Ali laughs] and you know that that means that they need a coat—
+
+
+KEITH (as Volte): Yeah.
+
+
+AUSTIN (as Roran): —I could figure out how to get them an ostrich coat or a chocobo coat or whatever.
+
+
+KEITH (as Volte): Yeah. Yeah, yeah, yeah, yeah. 
+
+
+AUSTIN (as Roan): That’s all.
+
+
+KEITH (as Volte): Coatabo.
+
+
+AUSTIN (as Roan): Thank you.
+
+
+ALI (as Cassin): Mhm.
+[Dre laughs]
+
+
+AUSTIN: That’s me. Who else is doing stuff this Wear and Tear? 
+
+
+DRE: Umm...I’m going to use my Arcana to build a magical ventilation system to make sure that our place just doesn’t smell like onions 24/7 anymore.
+
+
+AUSTIN: Hell yeah. 
+
+
+KEITH: Nice.
+
+
+ALI: Oohh.
+
+
+AUSTIN: Is this, like, a magic—like a magical ventilation system?
+
+
+DRE: Yeah, I think I imbue it with some sort of wind elemental or something.
+
+
+AUSTIN: Mhmm. That’s good. I like it.
+
+
+SYLVIA: I can use my town experience here too.
+
+
+AUSTIN: Yeah, you can totally use your town experiences. 
+
+
+SYLVIA: I think I’m just gonna use Designer then, if we’re redoing the atmosphere.
+
+
+AUSTIN: Sounds good. That makes perfect sense. 
+
+
+SYLVIA: That’s a trained eye for color and shape. I can help with designing the...petting stable and any other renovations we’re doing.
+
+
+AUSTIN: Love it. Um…
+
+
+ALI: I—
+
+
+AUSTIN: Cassin?
+
+
+ALI: I—sorry, I’m flipping between the Wear and Tear rules and the improvement chart. Um, I think that I am so focused on painting. I’m, like, a short person so I can get the bottom of the walls really good. 
+
+
+AUSTIN: Mhm.
+
+
+ALI: And I’m also a bird, so I can get the top of the walls really good too [laughs]. 
+
+
+AUSTIN: It’s true [Ali keeps laughing].
+
+
+ALI: So I think that I’m, like, you know, it says “You’re completely in your element. Describe how one of your experiences—how, with one of your experiences, you work so efficiently that the work is done early.” You know, I think...that I did some pipeleaf [laughs].
+
+
+AUSTIN: Okay. Uh-huh!
+
+
+ALI: And then I was, like “You know what? I got painting, I’ll see you in a couple hours.” And I did it. 
+
+
+AUSTIN: “I got it, don’t even worry about it.” 
+
+
+[Dre laughs]
+
+
+ALI: I zoned in, and yeah. It got done. And it’s good that it got done early because, you know, if you’re painting stuff as well as moving stuff around you really wanna get that paint on there fast and dry so you can move the beds and stuff. So.
+
+
+AUSTIN: Love it.
+
+
+ALI: It’s done, it’s good.
+
+
+AUSTIN: It’s done.
+
+
+[Ali laughs]
+
+
+AUSTIN: Volte, did you want to do a different thing on top of the one you did with me? Or are you good?
+
+
+KEITH: Yeah, I’m do. I’m also gonna combine a skill but I’m gonna combine a skill with Aldrich.
+
+
+DRE: Mhm!
+
+
+KEITH: I have Preservation, “Make food taste better and last longer.” Aldrich, you are a chef, and I assume you can do stuff like mince, dice, chop, and slice.
+
+
+DRE: I can!
+
+
+KEITH: And, I know that there’s not a lot of room in the kitchen, but we could jar up some pickles.
+
+
+DRE: Aw, hell yeah.
+
+
+KEITH: And we can sort of, like, stack them in the main area on a shelf and, you know, people can look at them and order them. And also wouldn’t take up any room, in the kitchen. 
+
+
+DRE: I like that. 
+
+
+AUSTIN: That’s awesome.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: I’m down with that. Cool, I’ve raised our thing up to a three. Up to a—our atmosphere up to three. Also, Aldrich, you just used your last adventuring experience.
+
+
+DRE: Mm-hm.
+
+
+AUSTIN: Do you want to get a new town experience?
+
+
+DRE: Yeah, I’m gonna take Parts Unknown. 
+
+
+AUSTIN: Mm!
+
+
+DRE: So I appreciate different foods and how to prepare them
+
+
+AUSTIN: Love it. How’d you get that? What’s that look like?
+
+
+DRE: I think it goes back to the Sliced game.
+
+
+AUSTIN: Right.
+
+
+DRE: Where Aldrich had to really improvise a lot.
+
+
+AUSTIN: Also, sorry it’s Aldrich? It’s a hard “ch”, not a—?
+
+
+DRE: Yeah.
+
+
+AUSTIN: Okay. Apologies. 
+
+
+DRE: And from that time has basically just made it a point of, whenever a trader comes through, he’ll just ask “Okay, what’s the weirdest thing that you’ve got right now that I can cook with?” And just try to make something with it.
+
+
+AUSTIN: Hell yeah. Love it. No one else used one of their adventurer skills, right? Adventurer experiences.
+
+
+KEITH: No.
+
+
+AUSTIN: Alright, cool. Then it is time to take a Smoke Break. You take a Smoke Break after—actually it says before, but after Wear and Tear in this case. We’re gonna take a quick break, five minutes. Everyone should step outside the room you’re currently playing in, or at least step away a good distance from the table if you’re in a large room. We’ll be right back with more Stewpot.
+
+
+[pause]
+
+
+AUSTIN: Hi, we’re back! 
+
+
+KEITH: Hi. 
+
+
+SYLVIA: Hi. 
+
+
+AUSTIN: Hello. Uh, what’re we doing, what’s next? Who has a game? So that’s all of us, we’ve all gone through once, at this point. My guess is that we will not all go another time based on the way the endgame happens. The endgame is gonna trigger when we’ve all used all of our adventuring experiences. Right now, there are only two adventuring experiences left on the table. That is Volte’s Healing Touch and Iris’s Sea Legs. So that can be as few as one game or as many as it takes to spend all those. You know, we kind of can spend them as we want to. But at this point, I think open the table for, like, if anyone wants to choose the next game. 
+
+
+[pause]
+
+
+AUSTIN: I know I’d like to get to Festival before we wrap. But I don’t know if that’s what we want to do next. I’ll go over them one more time; they’re in the side-thing and they’re in the book, obviously, but. Ones we have not done: Romancing a Stranger, Off the Clock, Festival Day, A Bard’s Tale, and that’s it. From things we have not done.
+
+
+[pause]
+
+
+KEITH: Um...Festival—I feel like we can do Festival Day at any time, it feels like maybe a good penultimate one before—
+
+
+DRE: Yeah.
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: —in the Rhythm of Things, but. 
+
+
+AUSTIN: Agreed. Agreed.
+
+
+KEITH: Is Off the Clock an everyone—an all—is that an all-play?
+
+
+AUSTIN: [laughs] I think that’s an all-play [Dre laughs]. Anyone can play. Each player describes the first thing their character is doing when they wind down, let loose, or otherwise forget about work for a while.
+
+
+KEITH: Okay. I could put forward all—Off the Clock [Ali laughs]. I almost said all-play [laughs].
+
+
+AUSTIN: Hey, I’m good with that. I’m good with that. Where do you go after the tables are wiped down? Who’s heard every story you have about the worst people who’ve walked in? Anyone can play.  Each player describes the first thing their character is doing when they wind down, let loose, or otherwise forget about work for a while. Actions: take turns. On your turn, choose a prompt from the list below or come up with your own. Ask one or more players to join you. Describe what happens together or roleplay the scene out. If nothing comes to mind,you can pass or look at the time and realize you have to get back to work. When everyone has passed in a row or gone back to work, the game is over.
+
+
+The prompts here: Grab some food around the corner; what’s familiar about it? There’s a travelling troupe of performers here for a few days; have you met any of them before? It’s the middle of summer, it’s scorching and you desperately need to swim; where’s the secret spot you found together? Sometimes sparring is the perfect way to blow off steam; what fights do you remember most fondly? There’s a ball game in the square; who is the better player? We can also come up with our own.
+
+
+DRE: I do love the idea that we also have an intramural basketball team. 
+
+
+AUSTIN: Um, yeah—okay. Who are the teams? Like, it’s the Topside—?
+
+
+DRE: I guess it’s—are we playing five-on-five? Are we playing two-on-two?
+
+
+AUSTIN: It’s a good question. But I meant more like, is it—are we playing teams from Port Town, from Goblintown? From the ruins? From the witch camp [Dre laughs]? Like, do you know what I mean? Who’s out here?
+
+
+KEITH: Do full court or a half court?
+
+
+AUSTIN: Has to be a half court, probably. Well, I guess—
+
+
+DRE: Yeah. 
+
+
+KEITH: Has to be half court. 
+
+
+AUSTIN: It’s two-on-two or five-on-five, right?
+
+
+KEITH: I think it’s three-on-three-on-three.
+
+
+ALI: [through yawn] Ooh. 
+
+
+AUSTIN: You think it’s a—oh yeah, of course. 
+
+
+DRE: It’s fantasy basketball.
+
+
+AUSTIN: Fantasy basketball. 
+
+
+KEITH: Yeah so, when you’re on defense, you sort of, like, are tentatively aligned with the other defending group. 
+
+
+SYLVIA: Okay.
+
+
+KEITH: But you’re on offense, you’re on offense.
+
+
+[Sylvia laughs]
+
+
+AUSTIN: Is it one basket? Or two baskets? Or three baskets?
+
+
+KEITH: One basket, so you gotta check it.
+
+
+AUSTIN: You gotta check the ball. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Wow, that’s really—wait, it’s three-on-six, then, effective?
+
+
+KEITH: Yeah, it’s three-on-six on offense. But six-on-three on defense. But, half of those groups are not gonna get you that ball. 
+
+
+AUSTIN: Low-scoring game, though. Or are you saying the defenses don’t always sync because they’re also competing against each other?
+
+
+KEITH: Right, yeah. Exactly.
+
+
+AUSTIN: Okay. 
+
+
+KEITH: So it’s like a fluid three-on-six.
+
+
+AUSTIN: Three-on-three-on-three, but—yeah, I gotcha. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Who represents the Topside? 
+
+
+SYLVIA: Hi, yes. Definitely.
+
+
+[Ali, Austin, and Dre laugh]
+
+
+SYLVIA: Kidding!
+
+
+AUSTIN: Wait, are you kidding?
+
+
+KEITH: Wait, no, that tracks.
+
+
+SYLVIA: No, I’m not kidding! 
+
+
+AUSTIN: Oh, you’re not kidding.
+
+
+KEITH: I thought—
+
+
+SYLVIA: I’d be a great point guard!
+
+
+AUSTIN: What did you think?
+
+
+SYLVIA: Hm? 
+
+
+AUSTIN: Sorry, Keith was saying “I think.”
+
+
+KEITH: Well, who—wait, well then what are you—who—I guess I don’t—what do you mean by “represents?”
+
+
+AUSTIN: Who is the Topside’s team?
+
+
+KEITH: Okay.
+
+
+AUSTIN: Who plays for us? If we’re doing—if we’re playing against all, like, the locals. I’m looking at five teams right now. I’m looking at Port Town, Goblintown, Witch Camp, Topside, Ancient Ruins. 
+
+
+KEITH: Well, if Volte is anything like me—
+
+
+AUSTIN: And listen the Cante—and then Cante sisters. The Cante sisters, that’s three people; that’s a team! 
+
+
+KEITH: Yeah [laughs].
+
+
+AUSTIN: They’re playing a fantasy basketball league. 
+
+
+[Dre laughs] 
+
+
+KEITH: If Volte is anything like me, he’s not good at basketball. At all.
+
+
+AUSTIN: Okay. Are you coaching? Or are you just watching?
+
+
+KEITH: I mean—I think I’m just watching. 
+
+
+AUSTIN: Alright. So Iris is in.
+
+
+SYLVIA: Yeah. 
+
+
+DRE: Aldrich is in. 
+
+
+AUSTIN: I’m in—unless, Cassin, you want to get out there.
+
+
+ALI: No, I’m fine, yeah.
+
+
+AUSTIN: Let’s do it. 
+
+
+SYLVIA: I love this. 
+
+
+AUSTIN: We’re goin’.
+
+
+ALI: I’m here to watch. I’m a bard, I can cheerlead. 
+
+
+AUSTIN: Hell yeah. Hell yeah. Yes! [Ali laughs] We need songs, we need chants, we need people to be out here—are we a traveling team? Is there—or is there a court somewhere nearby that we all go to? 
+
+
+SYLVIA: [laughs] Is there one in the ruins? 
+
+
+DRE: [laughs] Yes!
+
+
+AUSTIN: Oh, that would be—we have go to the ruins, yes! And it’s like a Pokemon or Yugioh thing, right? Where it’s like we—or Yu Yu Hakusho, or a—it’s a tournament. And the—you have to win the tournament [Sylvia laughs] to then challenge Primetime, [Ali gasps] who—there’s only two of them, but they’re very good.
+
+
+ALI: Oh.
+
+
+[Dre laughs]
+
+
+AUSTIN: So it’s like us versus the Cante sisters in Round One, while Port Town plays against Witch Camp, and then Goblintown plays another team that we—the Kurtle Squad [laughs]. Which is not the Squirtle Squad! Different thing. 
+
+
+ALI: [through yawn] Uh-huh.
+
+
+AUSTIN: But it’s Kurtle’s whole crew. 
+
+
+KEITH: They all wear transitional lenses. 
+
+
+AUSTIN: [laughs] Is that—is that a thing? They wore sun—the Squirtle Squad wore sunglasses, is the thing. 
+
+
+KEITH: At least one of them did.
+
+
+AUSTIN: One of them did, the main one. How do we do?
+
+
+KEITH: No, no, they all had sunglasses. It’s just the main one had the best ones. 
+
+
+AUSTIN: Oh! Okay, good. 
+
+
+KEITH: I looked it up to make sure.
+
+
+AUSTIN: How do we do—
+
+
+SYLVIA: If I need to use a skill here to make us win, I will do it. 
+
+
+[Dre laughs]
+
+
+AUSTIN: What skill do you have here?
+
+
+SYLVIA: Well, so I was just thinking, I was looking at it and Sea Legs—
+
+
+AUSTIN: True. 
+
+
+SYLVIA: —would be really good if, you know, say someone was trying to break your ankles on the court.
+
+
+AUSTIN: That’s true. 
+
+
+DRE: Mm-hm.
+
+
+KEITH: Oh, I also have Healing Touch, so I can do that. 
+
+
+AUSTIN: Break your ankles, not literally—
+
+
+SYLVIA: Not literal. It’s when you fall over when someone is dribbling around—
+
+
+AUSTIN: Dribbling and it crosses you up. 
+
+
+SYLVIA: And you don’t know where they’re gonna go.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I’m gonna say—
+
+
+KEITH: Well, if someone broke their ankle, I could fix it.
+
+
+AUSTIN: Okay. I—yeah [laughs]. I—
+
+
+ALI: That’s why you’re on the call.
+
+
+AUSTIN: I am Healing Touch, yeah. 
+
+
+[Keith laugh]
+
+
+AUSTIN: With my Keen Observation—I think my Keen Observation reads the defense real well. Something only I can see, it’s like that anime thing where it’s just like [whooshing noise] “Wseew!” Closeup on my eyes and I see the play we could make to bring it to the basket. 
+
+
+SYLVIA: Oh my God.
+
+
+AUSTIN: Aldrich, we really a third thing here; is there anything you can bring to bear? 
+
+
+DRE: Yeah, I’m the Grill Master, which means I’m the expert at grilling food and subordinates. So I’m always talking—
+
+
+AUSTIN: You’re talking that mad shit! 
+
+
+DRE: Yeah, uh-huh. 
+
+
+SYLVIA: The tiniest Kevin Garnett.
+
+
+AUSTIN: Oh my God. Do we beat—here’s what I think we do. I think we roll some dice real quick. I think we do—we do 3d6, one for each of our experiences. Blades in the Dark—Forged in the Dark style.
+
+
+[Dre laughs] 
+
+
+SYLVIA: Oh man.
+
+
+AUSTIN: Right? Let’s do it. 
+
+
+SYLVIA: Yeah, sure. 
+
+
+AUSTIN: I’m rolling it, 3d6. Six is success, four to five is a mixed success [laughs], one to three is a failure [Dre laughs]. Highest number here. Alright, five, it’s a mixed success. What’s that mean in this situation?
+
+
+KEITH: Well, it means you win the game.
+
+
+AUSTIN: It does, right, we do win the game. But.
+
+
+[Sylvia laughs]
+
+
+DRE: Oh man.
+
+
+AUSTIN: But what happens? Do I get injured? Does someone get injured?
+
+
+KEITH: Who—what—which team were you playing?
+
+
+AUSTIN: Well, we would have won—this is the whole—we were doing one roll for this whole thing.
+
+
+KEITH: For the whole tournament?
+
+
+AUSTIN: So we got to the—we got up to Primetime, for sure. 
+
+
+DRE: I mean, Volte probably wasn’t very happy when he found out Primetime was still alive. 
+
+
+AUSTIN: Ohh, true. Primetime was—
+
+
+SYLVIA: That’s okay though, ‘cause we’re killin’ them on the court.
+
+
+AUSTIN: We are killin’ them on the court, that’s true.
+
+
+SYLVIA: Uhh—
+
+
+AUSTIN: Give me that mixed success juice. 
+
+
+DRE: I’m thinking…
+
+
+SYLVIA: [chuckles] Do I just, like, tear a muscle or something?
+
+
+AUSTIN: Oh nooo.
+
+
+SYLVIA: I’m in a sling for the festival.
+
+
+AUSTIN: Is this why your Sea Legs get expended? 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: You literally—
+
+
+SYLVIA: Maybe that’s it. I tore my ACL.
+
+
+ALI: Aww. 
+
+
+DRE: Oh no! 
+
+
+AUSTIN: [sadly] You tore your ACL...Iris, no! 
+
+
+SYLVIA: That’s a bit too intense. 
+
+
+AUSTIN: I—yeah. 
+
+
+DRE: I knew we should have load-managed Iris [Austin laughs]. I knew it.  
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: What is a less serious basketball injury?
+
+
+SYLVIA: I’m trying to think. Everything—
+
+
+DRE: You could twist your ankle. 
+
+
+AUSTIN: Yeah, like an ankle-twist or a—
+
+
+SYLVIA: Yeah, I could twist an ankle.
+
+
+KEITH: [disgruntled] Oh, everyone made fun of me for having Healing Touch [Ali and Dre laugh], and now, all of a sudden, someone broke their fuckin’ ankle. 
+
+
+SYLVIA: That’s why you didn’t help me—
+
+
+AUSTIN: That’s the thing, is we were like “Don’t do it!” And we were like “No! She really broke her ankle!” And you were like “That’s not what you said was going to happen [Keith grumbles in the background]. You said that was a euphemism, that was a saying.” Alright, I love it. I love it. God. How does Primetime take this loss? Do we get anything, is there an award for this? 
+
+
+SYLVIA: Uh—
+
+
+AUSTIN: It’s a trophy, presumably. 
+
+
+SYLVIA: It’s a trophy. 
+
+
+KEITH: Yeah, next year, uh—
+
+
+AUSTIN: We host!
+
+
+KEITH: Primetime has—no, next year Primetime has to compete and you’re the final boss.
+
+
+AUSTIN: Ohh, we’re the final boss. 
+
+
+ALI: Ohhh.
+
+
+AUSTIN: True. But also can we host? Can we have—next year, around Harvest Festival time, can we host the fantasy basketball—like people have to come to the Topside.
+
+
+SYLVIA: We’ll have to build a court. Yeah. 
+
+
+AUSTIN: We have a year, we can build a court in a year. Think about all the business we’re gonna do.  
+
+
+DRE: Mm-hm. 
+
+
+AUSTIN: So good. Alright, that’s what we did. Cassin, and also Volte, was this a relaxing time off for you? Did you actually contribute—not contribute, but did you actually relax?
+
+
+KEITH: No, I actively refused to contribute.
+
+
+[Ali and Dre laugh] 
+
+
+AUSTIN: Great. Great. Do you also—
+
+
+ALI: Um—
+
+
+AUSTIN: —do something off the clock? Or yeah, go ahead, Cassin.
+
+
+ALI: Oh yeah, I was gonna say that it’s, like, not super relaxing if my friend gets hurt? [laughs]
+
+
+SYLVIA: I’m not super upset about it, cause we won. 
+
+
+ALI:Okay.
+
+
+AUSTIN: Right, we won. 
+
+
+SYLVIA: If that helps. 
+
+
+ALI: Yeah.
+
+
+AUSTIN: Did you—did you play through it?
+
+
+KEITH: Did you break it in the last play?
+
+
+SYLVIA: Yeah. I went up for a—I did a really good windmill dunk—
+
+
+AUSTIN: Hell yeah.
+
+
+SYLVIA: But I didn’t land on my legs properly.
+
+
+ALI: Ohhh. 
+
+
+SYLVIA: So the ball went in, but my—
+
+
+AUSTIN: Just in time, the buzzer goes off. 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: The buzzer is magical—
+
+
+SYLVIA: Oh, yeah, no, actually, I shot the ball and it bounced four times.
+
+
+AUSTIN: Okay.
+
+
+ALI: Ooh. 
+
+
+AUSTIN: I see.
+
+
+DRE: Uh-huh.
+
+
+SYLVIA: And then I just fell and hurt my ankle ‘cause I was so excited. 
+
+
+ALI: Mm-hm. 
+
+
+AUSTIN: Incredible. So then, Cassin, what did you do to relax if it was not this?
+
+
+[Ali and Sylvia laugh]
+
+
+ALI: Well, I was there. I was cheering you on. 
+
+
+AUSTIN: Right.
+
+
+ALI: There is a prompt in the Off the Clock thing that I really like. Which is…”There’s a travelling troupe of performers her for a few days; have you met any of them before?” And I think that, yeah, there’s a group of, like—I was a bard but I think it’s like a group of crafters that are coming through. 
+
+
+AUSTIN: Oooh.
+
+
+DRE: Ooh.
+
+
+ALI: Maybe it’s like a group of five of them and it’s a situation where three of them are in the basketball thing—
+
+
+AUSTIN: Right. 
+
+
+ALI: And, like, me and this person who makes like—like paper murals?
+
+
+AUSTIN: Okay. 
+
+
+ALI: You know, those papers that you can stretch out and you fold them and it’s a whole thing? I think it’s like a fantasy version of that where it’s like somebody has these cool scissors and they make a bunch of cuts in this folded piece of paper and then they stretch it out, but the image isn’t repeating, it’s like this whole thing. And I think that I know them previously because had I sang a song at a thing and then afterwards they were like “Hey, here’s this cool paper thing about the song that you just sang.
+
+
+AUSTIN: Oooh. 
+
+
+ALI: So I think chilling with them has been great, and I also—[laughs]
+
+
+AUSTIN: I love All-Star Weekend. People make connections!
+
+
+[Sylvia laughs wildly]
+
+
+AUSTIN: You know what I mean?
+
+
+[Ali laughs] 
+
+
+ALI: And I also think that they make a big paper thing of the tournament and give it to the winners. 
+
+
+AUSTIN: Oh, that’s so nice! [excitedly] Can we hang it up?
+
+
+ALI: Yeah!
+
+
+AUSTIN: Hell yeah!
+
+
+ALI: We can do whatever we want with it. 
+
+
+AUSTIN: We should hang it up. 
+
+
+SYLVIA: I can’t believe—
+
+
+AUSTIN: I can’t believe we started making a sports bar. Fuck. 
+
+
+[Ali laughs]
+
+
+SYLVIA: God.
+
+
+AUSTIN: It’s like when you go into a restaurant and there’s, like, a trophy case and you’re like “W-why is there a trophy case?” and then you learn that some seedless basketball star happens to own this barbeque shack—[Ali laughs] 
+
+
+DRE: Mm-hm. 
+
+
+AUSTIN: —and you’re like “Yeah, okay. Sure. Sure.” Um, alright. That’s Off the Clock, it sounds like, unless Volte, did you have another thing? 
+
+
+KEITH: Yeah, I do have something.
+
+
+AUSTIN: Ojkay. 
+
+
+KEITH: I go to the Goblintown inn. I go to hang out at some other person’s inn.
+
+
+AUSTIN: Oh, okay! Sure.
+
+
+KEITH: ‘Cause it’s a small town.
+
+
+AUSTIN: Yeah, no, I gotcha. 
+
+
+KEITH:You know, it’s hard to get away from the problems when there’s, like, what do have, like twenty-five people living in the same space? So I take a—I hike over to the goblin town; I stay at their inn.
+
+
+AUSTIN: Nice. How is it? You have a good time? 
+
+
+KEITH: Yeah, it’s nice. 
+
+
+AUSTIN: Is it nice being served? Oh, you like being served? Is that—oh, look at me, paying attention. 
+
+
+KEITH: No, they also have a one in service. 
+
+
+AUSTIN: Okay.
+
+
+KEITH: But they have a three in cuisine. 
+
+
+ALI: Mmm. 
+
+
+AUSTIN: Oh, so you get food you really love?
+
+
+KEITH: Yeah, I get some good food. 
+
+
+AUSTIN: What’s the—is there food that you’re like “I wish we could cook this thing?” 
+
+
+KEITH: Uh, yeah, anything without onions.
+
+
+[Ali laughs]
+
+
+AUSTIN: Okay. I got it. I see.
+
+
+[Keith laughs]
+
+
+AUSTIN: Uh—
+
+
+KEITH: I love onions, by the way. 
+
+
+AUSTIN: No, I know. I got it. 
+
+
+KEITH: But in everything?
+
+
+AUSTIN: Yeah, they’re good.
+
+
+[Ali laughs]
+
+
+DRE: Mm-hm. 
+
+
+KEITH: What if it’s actually their onions are better and it’s onion rings? They’ve created onion rings.
+
+
+AUSTIN: Oh, that’s very good. 
+
+
+DRE: [laughs] That’s so—fuck. 
+
+
+AUSTIN: I love that. I love that. [Sylvia laughs] Oh, I want some onion rings. 
+
+
+ALI: Wow. 
+
+
+AUSTIN: Alright. That’s all—
+
+
+KEITH: Mounion rings. 
+
+
+AUSTIN: Hm. Send Tweet. 
+
+
+ALI: Blooming Mounion. 
+
+
+AUSTIN: [laughs] Blooming Mounions [Keith laughs]. Blooming Mounion Mondays. Um, alright. I think that’s Off the Clock.
+
+
+ALI: Mm-hm.
+
+
+AUSTIN: Is it festival time? Are we rested? Are we ready?
+
+
+KEITH: Yeah.
+
+
+ALI: I think so, yeah. 
+
+
+AUSTIN: Festival Day: “Your town has a few—” Also wait, real quick: does anyone want to take a Smoke Break before we do Festival Day? That is the rule of the game, that I need to ask that.
+
+
+ALI: Oh, um—
+
+
+KEITH: Is this the last one?
+
+
+AUSTIN: The last Smoke Break? No, just after every session—after every game, we should pause and see if anyone—
+
+
+KEITH: No, no, no. I mean is this—are we doing—are we entering into the last thing before, uh—
+
+
+AUSTIN: I have no idea because it depends on whether or not you use Healing Touch.
+
+
+KEITH: Ohh, okay. I forgot about that. 
+
+
+AUSTIN: We move into the last game the game after we’re done converting adventurer experiences.
+
+
+KEITH: Someone better get hurt.
+
+
+[Sylvia laughs]
+
+
+KEITH: [laughs] I’m kidding. Well, I’ll do another one.  
+
+
+AUSTIN: Ali, it sounded like you had something. What were you saying?
+
+
+ALI: Um, I was gonna say that Keith hasn’t done—I was just gonna say that. 
+
+
+AUSTIN: Oh, that Keith has his Healing Touch. 
+
+
+ALI: Healing Hands is still there. 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: The festival will not be the last game. There is a game after whatever that happens with. But we won’t—there will not be—once that happens, there is not a game—like, we can’t do Festival—we can’t do something until Keith uses Healing Touch and then do Festival and then do the last thing. I guess we could, but that’s not the rule. And so I’m trying to play by the rules, like a nerd. But you can—
+
+
+ALI: You rules-follower.
+
+
+AUSTIN: You can use experiences in Festival Day, is the thing. 
+
+
+KEITH: Yeah.
+
+
+ALI: Yeah.
+
+
+AUSTIN: So. Um, Festival Day: “Your town has a few festival days per year, and they’ve become some of your busiest. How do you prepare? How do you handle the influx of people. Setup: anyone can play. Both player characters and named NPCs can be played.” Oh, Ali, did you want to name those artists? Or do you just want to write “an artists’ collective”, is that fine?
+
+
+ALI: Oh, sure, sure, sure. Yeah. 
+
+
+AUSTIN: Okay. I’ll let you do it.
+
+
+ALI: Um—
+
+
+AUSTIN: Can you edit this thing?
+
+
+ALI: I’ll write it down—yeah. Yes, yes, yes.
+
+
+AUSTIN: Okay. “Anyone can play. Both player characters and named NPCs can be played. Describe what kind of festival is happening today.” We said Harvest Festival, I guess. “Each player describes one decoration or feature of the festival. Does your character like the festival? Hate it? Are they ambivalent? Each player can use one experience once per game for an automatic coin. At the end of the game, you have a number of coins equal to the number of people that played the game plus two.” Plus...sorry...“If, at the end of the game, you have a number of coins equal to the number of people that played the game plus two, you succeed and can upgrade the tavern. If you have less than the number, describe how each of your characters recuperates from being overwhelmed.”
+
+
+Um, so, let’s start with just describing the festival. All we’ve said is it’s a harvest festival and I know that calls certain things to mind, but it can look like whatever we want. So each of us gets to describe one decoration or feature of the festival. [typing sounds] Um, I think there’s a parade. I think there’s a parade that goes from Port Town to Goblintown and back. 
+
+
+ALI: Yeah. That’s what I was thinking, a parade. 
+
+
+AUSTIN: Totally. And that’s—we’re right in the middle of the parade line. It’s perfect. Mad people are coming through. There’s, like, we had to bust out the old cots for extra sleeping space. It’s very—it’s very big for us. So it’s like a weeklong festival, I think, that’s my suggestion. And it’s like, yeah, like you said, Ali: parade. Anything else? What else is happening here?
+
+
+KEITH: I have a quick question. When it says “Use an experience once per game,” is it saying each challenge is its own game?
+
+
+AUSTIN: No, this is a game. 
+
+
+KEITH: No, that’s what I thought. This is the game. 
+
+
+AUSTIN: This is the game.
+
+
+KEITH: Yeah, that’s what I thought.
+
+
+AUSTIN: We’re still at the actual describing the actual festival thing, so. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Decoration or feature of the festival.
+
+
+KEITH: I think we do the unveiling of the petting zoo, right?
+
+
+AUSTIN: Oh, definitely. Yeah. Totally. 
+
+
+KEITH: We got all sorts of the biggest birds you can even imagine! 
+
+
+AUSTIN: Absolutely. They’re the best. They’re fantastic. They’re beautiful. You can pet them.
+
+
+KEITH: Downy.
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: I think maybe there could be like a market or something.
+
+
+AUSTIN: Sure.
+
+
+SYLVIA: Where people just bring their stuff. Like, people from all over coming to the festival set up booths and things. 
+
+
+AUSTIN: Yeah, I love that. I love to walk through those markets. Like a farmers’ market.
+
+
+SYLVIA: Mm-hm.
+
+
+AUSTIN: But also like an artists’ market, you know that style of— 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: It’s like what if a farmers’ market and Artists’ Alley [laughs] could combine?
+
+
+[Dre and Ali laugh]
+
+
+AUSTIN: Anything else? Dre, do you have any thoughts on the type, the decoration, or a feature of the festival? 
+
+
+DRE: Hmm...jeez, um, I dunno. Big mounion floats.
+
+
+[Sylvia laughs]
+
+
+KEITH: [laughing] Big mounion floats...
+
+
+ALI: Big mounion floats...
+
+
+AUSTIN: Are they like the mounion pig? Do they look like something? Or are they just, like, that’s a mounion.  
+
+
+KEITH: No, they’re mounions that we put helium into. 
+
+
+DRE: Mm-hm.
+
+
+KEITH: And they just expand. 
+
+
+AUSTIN: Oh. Okay. Yeah.
+
+
+KEITH: Yeah, they don’t pop, they just get big. Bigger than before.
+
+
+AUSTIN:Are they—wait, are they floating floats? Are they the floats that go in the sky? Or are they floats like a parade—like a, you know, how you also use the other word ‘a float’ where it’s just like a truck. 
+
+
+KEITH: It’s a  truck with some paper mache on it [laughs].
+
+
+[Dre laughs]
+
+
+AUSTIN: Yeah. Which is it, Dre?
+
+
+DRE: Uh, I love the idea that you can inflate helium into a mounion and it just floats.
+
+
+AUSTIN: Okay. Done! [Keith laughs] Is it just mounions?
+
+
+DRE: The Mounion Blimp.
+
+
+AUSTIN: The Mounion Blimp. Oh right, of course. The Goodyear Mounion Blimp [Keith cough-laughs]. 
+
+
+DRE: Mm-hm.
+
+
+AUSTIN: Alright. Love it. What a beautiful festival harvest we’re having. Um, so—
+
+
+ALI: Oh—
+
+
+AUSTIN: Go ahead.
+
+
+ALI: I have a thing.
+
+
+AUSTIN: Oh yes, please.
+
+
+ALI: Sorry. Um [laughs], I’m a botanist now. 
+
+
+AUSTIN: You are a botanist now. 
+
+
+ALI: And I was thinking that, since I know every plant in the area, I’ve been working really hard on, like, decorations for the festival. I think that’s there’s, like, each table has a nice flower arrangement— 
+
+
+AUSTIN: Yes.
+
+
+ALI: —There’s some flowers hanging up outside of the restaurant...and I think that also—you know those, like—you know when you go to a nice hotel and they have the nice water with the stuff in it? [laughs]
+
+
+AUSTIN: Mm-hm.
+
+
+ALI: It’s like a lemon and some mint and stuff like that. I think that, because we have a seating area outside, we have a big thing where you can get your own water. And it’s filled with mint and a berry or whatever, so it’s nice flavored water. And then if you’re walking around town or on the picnic route you can be hydrated at our place. 
+
+
+AUSTIN: Perfect. I love this [Ali laughs]. This is beautiful. So does that give us a coin?
+
+
+KEITH: Artisanal water. 
+
+
+AUSTIN: This is giving us a coin. So that’s one coin. 
+
+
+ALI: Oh, do we get coins yet?
+
+
+AUSTIN: We—well, so this is the thing, is [Ali laughs]. It says each player can use one experience once per game, and I think the game is Festival Day.
+
+
+ALI: Oh. 
+
+
+AUSTIN: So—to get an automated coin. To get an automatic coin. So that sounds like you using that to get a coin. 
+
+
+ALI: Yeah. I got a coin. 
+
+
+AUSTIN: So that’s one.
+
+
+KEITH: I assume there’ll be time in the challenges to use those.
+
+
+AUSTIN: Yeah, I suspect so. 
+
+
+KEITH: ‘Cause there’s so many.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: There’s a ton of challenges in this one.
+
+
+AUSTIN: We’re gonna go through all of these challenges.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: I  believe. I guess it doesn’t explicitly say “Go through these one at a time,” but we’re gonna go through them one at a time, that’s the whole thing. ‘Cause what we need to get is [typing sounds], we need to get coins equal to us plus two to win.
+
+
+KEITH: We need seven coins. 
+
+
+AUSTIN: Yes. Yes. Um...Challenge number one: “You severely underestimated the amount of prepped ingredients you would need for the festival and have to use a knife faster than you ever have before. Flip a coin.” Dre, I think you have to flip this coin. One is heads, two is tails.
+
+
+DRE: Just rolling a 1d2, right?
+
+
+AUSTIN: Yeah. 
+
+
+[Roll20 boop]
+
+
+DRE: Aaahhhhh.
+
+
+AUSTIN: That’s a tails: “You accidentally cut deep into a finger [Dre laughs] and have to sit out nursing your wound for a while.” 
+
+
+[Ali gasps]
+
+
+KEITH: Damn. What if—what if one of us had something that could directly compensate that?
+
+
+[Ali laughs]
+
+
+AUSTIN: That would be great. And would give us a coin!
+
+
+KEITH (as Volte): Here, let me touch your hand.
+
+
+[Sylvia and Dre laugh]
+
+
+SYLVIA: Awww.
+
+
+AUSTIN: Is that how Volte does it? That’s cute! It’s cute!
+
+
+KEITH: Yeah, it’s Healing Touch! 
+
+
+KEITH (as Volte): Let me touch it! Give me your bloody hand. 
+
+
+DRE (as Aldrich): Please touch my hand. 
+
+
+KEITH (as Volte): Here, what part? Here.
+
+
+KEITH: I just sort of rub all over.
+
+
+AUSTIN: It’s bleeding [laughs]. 
+
+
+KEITH: Yeah [laughs].
+
+
+AUSTIN: Alright, that’s two. 
+
+
+KEITH: It’s healed, I healed it!
+
+
+AUSTIN: That’s—okay. 
+
+
+KEITH (as Volte): How d’you feel? How’s your hand feel? 
+        
+DRE (as Aldrich): This is great. You have a strange bedside manner, but you are truly gifted [Austin and Dre laugh].
+
+
+KEITH (as Volte): What do you mean, bedside manner? 
+
+
+AUSTIN: Service one.  
+
+
+DRE: Service one [laughs]. 
+
+
+AUSTIN: Also, I think you mean I—you are a bad bedside manner—
+
+
+KEITH: I need to wash my hand. I hold out my bloody hands.
+
+
+        KEITH (as Volte): I need to wash these. 
+
+
+AUSTIN: Oh, gross. Gross. Alright. 
+
+
+        KEITH (as Volte): Is there a basin we’re not using later? 
+
+
+        DRE (as Aldrich): We have a sink [laughs] you can wash your hands in.
+
+
+AUSTIN: “A mishap occurs sorting guests’ luggage and you need to track down several lost bags. Flip a coin.” I’ll do this; I feel like that's the sort of odd job thing that I’ve fallen into here...alright, that’s a one! “You put the pieces back together and track down the bags in no time at all. Gain a coin.” We’re up to three coins.
+ 
+“A very upset guest is causing a commotion. You draw lots and you’ve given—and you are given the short straw. Flip a coin.” Who is dealing with this guest that’s causing a commotion?
+
+
+ALI: Um, I’ll take it. 
+
+
+AUSTIN: Alright, flip a coin. 1d2. 
+
+
+ALI: [typing] 1d2…[Roll20 boop]
+
+
+AUSTIN: That’s a two, which is a failure [laughs].
+
+
+ALI: [sighs] Ohh. 
+
+
+AUSTIN: “They talk your ear off and you barely manage [Ali laughs] to excuse yourself hours later.”
+
+
+DRE: [laughs] Oh God. 
+
+
+KEITH: Oh my God. 
+
+
+ALI: Yeah...it happens.
+
+
+AUSTIN: You got anything here that can help here?
+
+
+ALI: Oh, uh, yes! Yes, I do. Um, well...
+
+
+AUSTIN: I can tag in and get this—I can do this. I can help you. 
+
+
+ALI: Oh, sure!
+
+
+AUSTIN: Because I’m a Friend of the People. 
+
+
+ALI: Ohh. 
+
+
+AUSTIN: The people know me and come to me with their problems. And I’m literally just taking this bullet for you, Cassin [Ali laughs]. I don’t have more important shit to do. Let me just listen to this person tell me their problems. 
+
+
+KEITH: The alternative is she can smoke ‘em up. 
+
+
+AUSTIN: [laughs] That is—
+
+
+[Dre laughs]
+
+
+ALI: Yeah. The alternative—also, I was thinking, I have Parable, which is “a lesson for every situation.”
+
+
+AUSTIN: That is true!
+
+
+ALI: So I think that we can tag team on this a little bit. Where, like, they’re complaining to you, like heavy, heavy, heavy. 
+
+
+AUSTIN: Right. 
+
+
+ALI: And being like [disgruntled noises] “mrmrmrmrm.” And then I can be, like, “Well, you know…uh, a lesson...” [laughs]
+
+
+AUSTIN: Great parable. 
+
+
+KEITH: A lesson. A lesson is—
+
+
+ALI: Oh, you know, “You’ve learned that you don’t like coffee that’s hot. We have iced coffees, you can order those.” 
+
+
+AUSTIN: [laughs] My favorite parable. 
+
+
+ALI: I’m just trying to twist it, you know, I don't know. 
+
+
+DRE: [amused] Aesop’s fable about iced coffee. 
+
+
+AUSTIN: About iced coffee. 
+
+
+KEITH: “You don’t like hot coffee? Drink iced coffee. The end.” 
+
+
+AUSTIN: [laughs] The end. And the moral is—
+
+
+ALI: I—
+
+
+AUSTIN: Yeah?
+
+
+ALI: Yeah, I think I’m trying to be productive in my talking them down from the upsetness.
+
+
+AUSTIN: I gotcha. 
+
+
+KEITH: Okay.
+
+
+AUSTIN: Okay, I’m— 
+
+
+KEITH: For the—for the sake of later, which one of you actually uses the skill? Is it you, Ali? 
+
+
+AUSTIN: Oh, we both could! We both are allowed to.
+
+
+KEITH: You both could, yeah. Sure, why not? 
+
+
+ALI: Yeah. 
+
+
+AUSTIN: I’ll burn it. Right? ‘Cause it’s not like it undoes the roll, that’s just—we’re just doing this on our end.
+
+
+KEITH: Yeah, we’re just—yeah. 
+
+
+ALI: Oh—
+
+
+KEITH: So I guess that would—what, does that bring us up to five? 
+
+
+AUSTIN: Five, yeah. What were you gonna say, Ali? 
+
+
+ALI: Two things. Am I allowed to do two things in that way? And then the second thing was I didn’t realize that when you used your town experience, you also burned those. 
+
+
+AUSTIN: No, you don’t. 
+
+
+KEITH: No, no, you don’t burn the town ones. 
+
+
+AUSTIN: You don’t burn—you don’t the town ones. Town ones are forever. 
+
+
+ALI: Oh, oooh okay. Yeah, yeah, 
+
+
+KEITH: We just can only use one thing per round.
+
+
+AUSTIN: In this game, yeah, exactly.
+
+
+ALI: Oh, okay. Okay. I think I already did one, then. So you should—
+
+
+AUSTIN: Did you?
+
+
+ALI: I did the botanist thing. 
+
+
+AUSTIN: Oh, you did do the botanist thing. You did—no, yeah, yeah. Right, right, you did. So, okay, that’s— 
+
+
+KEITH: Right. Okay.
+
+
+AUSTIN: So up to four, then. Not up to five.
+
+
+KEITH: Okay.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Cool.
+
+
+KEITH: So, Iris still has one to use.
+
+
+AUSTIN: Iris still has one to use. 
+
+
+DRE: I still have one to use. 
+
+
+AUSTIN: Aldrich still has one to use. Yes.
+
+
+KEITH: Okay.
+
+
+AUSTIN: Yes. Which means we still—we need some wins here. 
+
+
+KEITH: We’re at four, yeah. We need some wins.  
+
+
+AUSTIN: Yeah. The regular egg you—sorry. 
+
+
+[Dre and Ali laugh]
+
+
+KEITH: No, “The regulars egg you on.” Sorry, I stumbled over this in my head, so I know how to say it.  
+
+
+AUSTIN: [laughs] Go ahead.
+
+
+KEITH: “The regulars egg you on to take part in a contest while you’re working and they’re very insistent. Flip a coin.” 
+
+
+AUSTIN: Who is doing this? 
+
+
+[Ali laughs]
+
+
+AUSTIN: Who—
+
+
+SYLVIA: I’ll do it. 
+
+
+KEITH: I read “the regular eggs” three times in my head earlier. 
+
+
+AUSTIN: Hell yeah. What’s the—what’s the contest? What’s the contest? 
+
+
+DRE: Slam dunk contest. 
+
+
+AUSTIN: Oh shit! 
+
+
+SYLVIA: I can’t! 
+
+
+[Keith laughs]
+
+
+AUSTIN: (as Roan): No, but you have to! We’re all busy. Iris, you have to! 
+
+
+SYLVIA (as Iris): Alright. 
+
+
+SYLVIA: I put the crutches down for a bit and—
+
+
+AUSTIN: Oh no! [laughs] If you’re literally still on crutches—
+
+
+SYLVIA: No, no, no, no, no! I’m doing it because I have Finesse to keep manual dexterity. I’m sure that’ll help.
+
+
+AUSTIN: Yeah, true.
+
+
+KEITH: Yeah, the regulars knew that she was on crutches [laughs].
+
+
+AUSTIN: True. 
+
+
+KEITH: They can see her. They remembered. 
+
+
+AUSTIN: Please succeed. Please succeed.  
+
+
+SYLVIA: Yeah, so I’m rolling, what? 1d2? 
+
+
+AUSTIN: 1d2. One is a success, two is a failure 
+
+
+SYLVIA: Okay [clicks]. That’s a one!
+
+
+AUSTIN: That’s a one!
+
+
+KEITH: Nice! 
+
+
+DRE: Can’t fake the funk on that nasty dunk!  
+
+
+SYLVIA: It turns out I’m healed.
+
+
+AUSTIN: “You put it away with the best of them, to roars of approval. Gain a coin.” 
+
+
+SYLVIA: I do that Vince Carter honey dip dunk where he taps his arm in. 
+
+
+AUSTIN: Hell yeah! 
+
+
+[Dre laughs] 
+
+
+KEITH: So, that’s six. That’s six. 
+
+
+AUSTIN: It’s five. It’s five.
+
+
+KEITH: It’s five.
+
+
+AUSTIN: Are you also burning your Finesse to make it real good? 
+
+
+SYLVIA: Uh—
+
+
+AUSTIN: Or are you saving that?
+
+
+SYLVIA: I mean, if I already succeeded, I—let’s—we can save that.
+
+
+AUSTIN: Let’s save it. Yeah, let’s save it. We’ll do something else. Alright, “An adventurer is a little careless handling a magical artifact [Ali gasps] and it goes haywire in the middle of festivities. Flip a coin.” This feels like a Volte thing to me.
+
+
+KEITH: Yeah, this does feel like a Volte thing.
+
+
+KEITH (as Volte): I got it! 
+
+
+AUSTIN: Oh, wait, are you—you’re not a wizard. Who is a wizard? I guess Aldrich is a wizard. 
+
+
+KEITH: I’m a paladin. 
+
+
+DRE: I’m a wizard. 
+
+
+KEITH: It’s evil—it’s an evil artifact. 
+
+
+AUSTIN: It is an evil artifact. It’s up to y’all who does this. Also, I’m crossing off your Healing Touch. 
+
+
+KEITH: I’m flipping.
+
+
+AUSTIN: Okay, flip it. That’s a two.
+
+
+        KEITH (as Volte): I said I got it! 
+
+
+AUSTIN: “You have to shepherd guests out of the room and wrestle with the magical mayhem alone for the rest of the night.” [exhales] 
+
+
+        KEITH (as Volte): It’ll take a while, but I got it! 
+
+
+AUSTIN: Does anyone have a skill here that can help? I don’t—
+
+
+DRE: [laughing] I don’t know if I did. 
+
+
+AUSTIN: I don’t think so. Yeah, I don’t see anything on Iris’s or on Aldrich’s that could really—what’s the artifact then, Volte?
+
+
+KEITH: Um...let me see what the text of the thing—what did the text of the thing say? It said that, uh—
+
+
+AUSTIN: Magical artifact.
+
+
+KEITH: “Wrestle with the magical mayhem alone for the rest of the night.”
+
+
+AUSTIN: Yeah. 
+
+
+KEITH: I—well, I think—oh, you know what it is? It’s um, Primetime—Primetime is trying to build new—they’re trying to generate new automata. And so this thing is—
+
+
+AUSTIN: They need a third person on the team to go toe-to-toe with us.
+
+
+KEITH: And so this thing is spitting out robots that are, like, knocking things over and shooting lasers, ‘cause they’re babies.
+
+
+AUSTIN: Right, they don’t know any better. 
+
+
+KEITH: But if you—if I hold the thing shut, then it can’t [Austin laughs] spit out more robots so I’m wrestling with the thing to keep it from spitting out more of these little things. 
+
+
+AUSTIN: And eventually it runs out of energy and it can’t do it anymore and you’re free.
+
+
+KEITH: Yeah, I’m just shoving them back in as they pop out. 
+
+
+AUSTIN: Like putting them back in the—you’re corralling back into whatever this magical artifact that prints automata is. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Auto-mata? Automata, I’m right. Okay.
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Good. This next one is definitely for Aldrich. “Supplies are running low and there’s no chance to replace them exactly. You’re going to have to try to improvise with what you have.” Please give me that success. 
+
+
+DRE: You want me to roll for this?
+
+
+AUSTIN: Oh yeah, definitely? 
+
+
+DRE: Yeah. [Roll20 boop]. Fuck. 
+
+
+AUSTIN: “You can’t seem to get it quite right. You get bogged down trying to make it work for a long time.”
+
+
+ALI: Aw. 
+
+
+DRE: I’m going to use my Parts Unknown skill here.
+
+
+AUSTIN: Hell yeah!
+
+
+DRE: Yeah.
+
+
+AUSTIN: What’s this look like?
+
+
+DRE: Um...God, so it’s just that we’re out of stuff and I have to improvise, right? 
+
+
+AUSTIN: Yeah, totally.
+
+
+DRE: Um...we ran out of mounions.
+
+
+AUSTIN: But it’s the Mounion Festival! 
+
+
+DRE: I know! We ran out of mounions. So I came up with a way to braise carrots. And they taste just like mounions. 
+
+
+AUSTIN: That sounds good. Would you—
+
+
+DRE: I can’t tell you the secret. 
+
+
+AUSTIN: Okay, that’s fine. It’s a secret, I get you.
+
+
+DRE: Mm-hm. 
+
+
+AUSTIN: Would even Volte like these, ‘cause they’re not mounions, they’re carrots? Or is the fact that they taste like mounions still gonna put him off? 
+
+
+KEITH: It’s the latter. You’re now making other ingredients [Austin laughs] that already didn’t taste like onions taste like onions! What are we doing?! 
+
+
+AUSTIN: [laughs] Oh, it’s so good.
+
+
+KEITH: This is why our cuisine is a two still.
+
+
+AUSTIN: Yeah. Alright, final one. “There is a rough storm on its way but you might be able to board everything up and weather it out if it just grazes you.” I think we should all roll this.
+
+
+KEITH: [snorts] What does that mean?
+
+
+AUSTIN: There’s five of us.
+
+
+KEITH: Okay.
+
+
+AUSTIN: And we should all roll—
+
+
+KEITH: And take the average? 
+
+
+AUSTIN: And take the higher number. We’re either gonna have more successes or failures.
+
+
+SYLVIA: I could—Could I use Repair here? “Fix anything with enough with enough time and help.” 
+
+
+AUSTIN: Yes, you definitely could. And that would just give us the success. But I want to know in my heart—
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: —if we roll for it. 
+
+
+SYLVIA: Oh, I know. I’m just saying, if we fuck this up. 
+
+
+AUSTIN: Yeah, definitely. 
+
+
+KEITH: Okay, so—by the way, there is a coin flip button that we can just do a 3-2-1 press on.
+
+
+AUSTIN: Where is that at? What?
+
+
+KEITH: It’s in the bottom corner. Oh, did I make this on my own?
+
+
+AUSTIN: You must have made that on your own.
+
+
+KEITH: I thought—yeah, I must have made a coin flip button.
+
+
+AUSTIN: Unless...yeah, I don’t see that macro here. 
+
+
+KEITH: Okay.
+
+
+AUSTIN: I’m gonna just roll a 1d2. 
+
+
+KEITH: Alright.
+
+
+AUSTIN: That’s one success. That’s one failure. 
+
+
+ALI: Oh, we’re all rolling?
+
+
+AUSTIN: Yeah, we’re all rolling. Give me a roll. 
+
+
+DRE: Wow. Wow. 
+
+
+KEITH: Alright, we failed.
+
+
+AUSTIN: Ali should still roll. 
+
+
+KEITH: Full wow, we really failed!
+
+
+AUSTIN: [laughs] So Dre is the only person who [Dre laughs]—Aldrich is like “I got it!” 
+
+
+[Ali sighs]
+
+
+AUSTIN: And then we all dropped the ball. [reading quickly] “It’s a big storm, it’s coming, it’s hurrying. You misjudge how strong the storm would be. Everything threatens to break each moment as you run around frantically trying to keep the wind out.” But, Iris, you still have your last skillset.
+
+
+SYLVIA: Repair!
+
+
+AUSTIN: Repair. What’s it look like?
+
+
+SYLVIA: So it says fix anything with enough time. 
+
+
+AUSTIN: Yeah. 
+
+
+SYLVIA: So I think—who succeeded on the roll? Aldrich?
+
+
+AUSTIN: Aldrich.
+
+
+SYLVIA: Aldrich—
+
+
+KEITH: I think technically some of us shouldn’t have even rolled, because I was stuck—I’m stuck wrestling the thing all night. 
+
+
+[Dre laughs]
+
+
+AUSTIN: Well, no, it’s a multiple day—this is a weeklong parade. 
+
+
+KEITH: Okay.  
+
+
+AUSTIN: Like it would—they’re going from Port Town to Goblintown and back. Maybe even two week long. 
+
+
+[pause]
+
+
+SYLVIA: Yeah, so. I think Aldrich probably just warned me about something and, like, I didn’t really see what the big deal is. Because I flipped a coin and landed on tails.
+
+
+AUSTIN: Right. 
+
+
+SYLVIA: But, because someone did see what was happening, they were able to sort of like guide me even though I was like “I’ve been through worse storms! I’ve sailed through worse than this! You people need to relax!” And then I end up  boarding all the windows anyway.
+
+
+AUSTIN: Batten the hatches. Yeah.
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Totally. Alright, we have gotten seven points. That’s two more than the number of people we are. That means that we get to increase one of the—we can upgrade the tavern. What are we upgrading? Cuisine, atmosphere, or service? 
+
+
+KEITH: I think it’s either cuisine or atmosphere. 
+
+
+AUSTIN: [laughs] Even though?
+
+
+SYLVIA: Yeah.
+
+
+DRE: Agree. 
+
+
+KEITH: No, yeah.
+
+
+AUSTIN: Like, double down. You’re like “Fuck it, man.” 
+
+
+KEITH: Yeah. Yeah. It’s casual—Look, one service to me doesn’t mean bad service, it means a different style of service, which is very casual.
+
+
+ALI: Mmm. Mm-hm.
+
+
+KEITH: Casual service, great atmosphere, great food. 
+
+
+SYLVIA: That’s our slogan.
+
+
+AUSTIN: [laughs] The rec—just for the record again here. Level three—or sorry, level four atmosphere would give us “Feather beds, roaring fires, and lavish tapestries.”
+
+
+ALI: Ooh. 
+
+
+KEITH: I’m not really about that. 
+
+
+AUSTIN: Level three cuisine would give us “Plenty of room to move around in, brand new cookware, a well-stocked spice cabinet.”
+
+
+KEITH: Mhm, yup. That’s it.
+
+
+AUSTIN: Level two service would give us “An experienced line cook or good waitstaff.” Or another NPC that we want to recruit. 
+
+
+KEITH: [whispers] Cuisine. 
+
+
+AUSTIN: I think we gotta—
+
+
+DRE: I mean, I—
+
+
+AUSTIN: Go ahead. 
+
+
+DRE: I’m down for cuisine but I do also love the idea that we have the nicest beds. 
+
+
+KEITH: I just, lavish tapestries? Nah.
+
+
+DRE: Yeah.
+
+
+KEITH: I don’t need that.
+
+
+AUSTIN: What—
+
+
+ALI: People like to sleep! In nice, you know—
+
+
+KEITH: We have serviceable—our mattresses are fully serviceable! 
+
+
+ALI: Well, it doesn’t have to be, you know, it’s not like a fancy—well maybe we had this—maybe someone stayed and they had a tremendous time and they loved us and they—
+
+
+AUSTIN: And they decided, let’s stay. 
+
+
+ALI: You know, they were like “Hey, I’m a fabric seller, I have this fabric tapestry. Maybe you should use it.”
+
+
+KEITH: I just—I feel like if I was going to an inn to stay—
+
+
+ALI: Mm-hm.
+
+
+KEITH: And I came back and someone was like “How was your trip?” and I was like “Well, the bed was amazing, the food was okay, and the service was kind of weird,” like, but if I was like the, you know, “The atmosphere was great and the food was really great—”
+
+
+AUSTIN: I actually—you're actually conceptualizing this—this has backfired on you which is now that I think about the stories I tell when I travel, service one is a story I tell a lot. 
+
+
+ALI: Yeah.
+
+
+AUSTIN: In a bad way. 
+
+
+KEITH: But I don’t think this is ser—Service one to me is the Buffalo Wild Wings guy that called our drink order “awesome.”
+
+
+AUSTIN: No, no way. 
+
+
+ALI: Uh-uh.
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: That’s a service three, Keith! 
+
+
+[Dre laughs]
+
+
+KEITH: No, no, you’re conceptualizing—
+
+
+AUSTIN: A service one is we never even talk to that guy ‘cause there’s not enough people hired. Because he’s just like—he’s there and then forty-five minutes, an hour, later he comes back and goes like “Oh, did you guys order yet?” And you go like “What the fuck are you talking about? [Ali laughs] We’ve ordered with you twice!”
+
+
+KEITH: I don’t—
+
+
+AUSTIN: “We given you this—” That’s service one! That’s service one. 
+
+
+KEITH: I don’t think that’s what service one means. 
+
+
+AUSTIN: Service one is explicitly there’s not a lot of people here, which means you can’t keep up! It’s not about—it’s not about the quality, it’s not like “Oh—” it’s specifically whether or not food is getting out quickly and to the right tables. [pause] I don’t—I don’t want a restaurant where the good work that Aldrich is doing making food, with the vegetables you’re growing, is going to the wrong tables! What if you came and you ordered something and you were like “Can I get no mounions, please?” and, again and again, a server brought you over mounions ‘cause we had service one, and you’d be mad. You’d be mad, I bet. I think we gotta—
+
+
+KEITH: I don’t really get mad at restaurants. 
+
+
+[Austin sighs]
+
+
+KEITH: It’s been—it’s been—it immediately—when you work at a restaurant, it just leaves you. Like, there’s no—
+
+
+AUSTIN: But what if you—what if you had an allergy?! What if you had an allergy and you’re like “I can’t have mounions.”
+
+
+KEITH: Send ‘em back.
+
+
+AUSTIN: And then it comes back and it’s mounions again, ‘cause we had service one!
+
+
+[Ali laughs] 
+
+
+KEITH: I don’t know, I feel like—okay, I’ve been to so many fucking restaurants. I—bad service just doesn’t exist—it never happens. It just never happens! 
+
+
+AUSTIN: I’m also—listen, I tip more than—I tip as much as I can. I am with you that I have a high tolerance for this but there is such a thing as terrible service. 
+
+
+DRE: Mm-hm.
+
+
+KEITH: The last time I had bad service was two-and-a-half years ago and I ordered a burger, Isaac ordered a burger, his burger came out with cheese even though he ordered no cheese, we sent it back, it came back again with cheese, we sent it back, I was done with my burger, and they still made us pay for his burger even though they—
+
+
+AUSTIN: That’s service one! You’re describing service one!
+
+
+KEITH: That—but, like, that’s service zero. Like, that doesn’t—it just doesn’t exist.  
+
+
+[Dre and Sylvia laugh] 
+
+
+AUSTIN: It isn’t service zero in the game, it’s service one! 
+
+
+KEITH: Alright. 
+
+
+AUSTIN (as Roan): I think we gotta—I think Cassin’s right. It’s time to step up the game a little bit. We gotta hire one more person. 
+
+
+KEITH: I—
+
+
+[Ali laughs]
+
+
+        AUSTIN (as Roan): I’m not talking about hiring thirty new people!  
+
+
+KEITH: I just, you know, we’re playing the game; I feel like service one is what we want service to be.
+
+
+AUSTIN (as Roan): Also, we’re making money! I want to pass the money around! We’re doing okay, we had a big festival season! 
+
+
+ALI: Yeah, I think we can take more people on. I was making an argument for really good atmosphere, ‘cause on Keith’s initial argument, like, if you go to a place and you’re like “The beds were amazing.”  
+
+
+AUSTIN: Right. Right. 
+
+
+ALI: And everything else was just okay, like, that’s—
+
+
+AUSTIN: The beds are enough. 
+
+
+ALI: That’s what you want out of an inn! 
+
+
+AUSTIN: Yeah, that’s true. 
+
+
+ALI: You know? But, I also—
+
+
+KEITH: I guess the thing—I guess really the priorities are what’s different here. All—I just want a cool place where the food is really good. Those are the only two things that I care about. 
+
+
+AUSTIN: I, at this point, for me priorities—I would go service two, atmosphere four, cuisine three. In terms of where I’d want these points to be. 
+
+
+ALI: Okay.
+
+
+KEITH: So you add a point to everything.
+
+
+AUSTIN: I could be convinced—atmosphere four could bring me over. But I want to hear—I want to hear from Iris and from Aldrich. 
+
+
+SYLVIA: I honestly—I think I’m more on team service, especially as we’ve sort of chatted about what service one could mean [Dre chuckles]. ‘Cause I experience that a lot and I would rather us have enough people to take care of our guests.
+
+
+AUSTIN: I’m with you. 
+
+
+DRE: I think I’ve been swayed to Team Service too. 
+
+
+AUSTIN: I’m pumping my fist in the air. 
+
+
+ALI: [giggles] Did it.
+
+
+AUSTIN: Roan is “Aw yeah, we can hire another person!” Who’re we hiring?
+
+
+ALI: Do we want to hire an established NPC?
+
+
+AUSTIN: I’d be happy to.
+
+
+ALI: Or just a rando?
+
+
+AUSTIN: I’d also be happy to hire a rando.
+
+
+AUSTIN (as Roan): Volte, you can help us pick who we’re hiring! It’s not like there isn’t work that needs to get done around here. We have to build a basketball court by this time next year! [Ali laughs] We got a lot to do.
+
+
+KEITH (as Volte): See now, I feel like this is another expression of our totally odd priorities.
+
+
+AUSTIN (as Roan): We won the tournament!
+
+
+KEITH (as Volte): We have to hire a waiter because there’s a basketball court to build? I just don’t understand! 
+
+
+AUSTIN (as Roan): We have to play b—we won the tournament. We got the mural. We have to defend the mural next year! Part of the responsibility of being a champion is that you have a court to play on.  
+
+
+KEITH (as Volte): No, you three all said—you said that to them. You said “Can we host it next time?” and they said “What’re you talking about? We always have it in the ruins—”
+
+
+AUSTIN (as Roan): It’s the tradition I’m—
+
+
+KEITH (as Volte): “It’s the only basketball court.” 
+
+
+AUSTIN (as Roan): That’s the tradition; I’m well-read. Trust me. 
+
+
+[Sylvia laughs]
+
+
+KEITH (as Volte): I don’t know, I feel like if that was the tradition we would have been playing at the Prime—at the Prime Adventure—at the—what are—at the Primetime gang’s.
+
+
+AUSTIN (as Roan): No, ‘cause they lost. 
+
+
+KEITH (as Volte): No, but they had won the year before though. 
+
+
+AUSTIN (as Roan): Which is why they hosted!
+
+
+KEITH (as Volte): Don’t they live at the docks or something?
+
+
+AUSTIN (as Roan): No, they live in the ruins! Where we left—
+
+
+KEITH (as Volte): They live in the ruins? 
+
+
+AUSTIN (as Roan): Yes!! That’s their whole thing! 
+
+
+KEITH (as Volte): Oh. 
+
+
+AUSTIN (as Roan): You don’t remember when they threw up the AR sign and they said “Ancient ruins all day, let’s go!”
+
+
+KEITH (as Volte): No, the only thing I remember about that is that Iris killed them. [Sylvia laughs] Is the only thing I remember about them. 
+
+
+AUSTIN (as Roan): Iris—
+
+
+KEITH (as Volte): Is that they were supposed to be dead.
+
+
+AUSTIN (as Roan): I don’t—well, they’re not dead.
+
+
+SYLVIA (as Iris): Uh, yeah, that’s—things got, you know—sometimes things aren’t what they seem. And they got better! 
+
+
+AUSTIN (as Roan): We could recruit them? They could come help us build the court. 
+
+
+ALI (as Cassin): Ohh. 
+
+
+KEITH (as Volte): [whining] No! I was gonna kill them! I really was looking forward to him. 
+
+
+AUSTIN (asRoan): I didn’t like them at all, from what I heard about them, but then we played them on the court and they seemed—they seemed cool. Anyway, this is really—
+
+
+KEITH (as Volte): Look, I just hear we’ve gotta hire a waiter, we gotta build a basketball court—
+
+
+AUSTIN: It doesn’t have to be a waiter, it could be—
+
+
+KEITH (as Volte): And maybe we’re gonna be big best friends with your enemies. Your mortal enemies.  
+
+
+AUSTIN: They could be—
+
+
+KEITH (as Volte): And we lied to you also. 
+
+
+AUSTIN (as Roan): I didn’t—I wasn’t even there that day! 
+
+
+SYLVIA (as Iris): “Mortal enemies” is very strong. 
+
+
+KEITH (as Volte): Who else am I en—who else could be my mortal enemy? They’re my nemeses. 
+
+
+DRE (as Aldrich): I make a lot of stuff—I make a lot of stuff with onions. 
+
+
+KEITH (as Volte): But that’s a—that’s a difference in tsae.
+
+
+DRE (as Aldrich): Okay.
+
+
+KEITH (as Volte): And a reality of the available resources. 
+
+
+AUSTIN (as Roan): Aldrich, what do you need? As our chef.
+
+
+DRE (as Aldrich): [exhales] I mean, I dunno. It kind of works for me that we have a small kitchen. I mean, I’m a gnome.
+
+
+AUSTIN (as Roan): That’s true. 
+
+
+ALI (as Cassin): Mm.
+
+
+KEITH (as Volte): Look, we hire a waiter or you get some spices to put on the food so that we don’t have just onions as the only flavor! [Dre laughs] It’s—that’s literally the thing, we’re building a fucking spice cabinet! 
+
+
+DRE (as Aldrich): I mean, the problem isn’t that everything tastes like onions; it only tastes like onions ‘cause it takes so long to get it out.
+
+
+KEITH (as Volte): It’s not a problem for you.
+
+
+AUSTIN (as Roan): I see what you’re saying. 
+
+
+DRE (as Aldrich): No, it’s—yeah, you know, it’s ‘cause they’re sitting there, you know? So.
+
+
+AUSTIN (as Roan): In the onions.
+
+
+DRE (as Aldrich): Yeah. 
+
+
+AUSTIN (as Roan): You can’t—you don’t have the—you only have the one stovetop and everything tastes like onions ‘cause there’s onions in all the pots. 
+
+
+DRE (as Aldrich): Mm-hm.
+
+
+AUSTIN (as Roan): In all the pans.  
+
+
+KEITH (as Volte): Oh my God, clean the pots! 
+
+
+AUSTIN (as Roan): We don’t have a person to clean the pots, Volte! That’s the thing I’m saying! If we get a dishwasher then we can have the pots clean and it won’t taste like onion all the time.
+
+
+DRE (as Aldrich): True.
+
+
+AUSTIN (as Roan): See? And maybe they could bring—
+
+
+KEITH (as Volte): Look, it’s not my decision. You wanna hire someone, hire someone. I—I’m not gonna pick my new mortal enemy. 
+
+
+AUSTIN (as Roan): You haven’t even met them yet! You don’t know that they’re your—they might also hate mounions just like you! 
+
+
+KEITH (as Volte): We’ll see.
+
+
+[Dre laughs]
+
+
+AUSTIN: Does anyone have an idea for an NPC who could be like a short-order cook and dishwasher? 
+
+
+DRE: Um...a goblin named Soun [pronounced Shawn]. 
+
+
+AUSTIN: How’s it spelled?
+
+
+ALI: Mm-hmmmm. 
+
+
+DRE: S-O-U-N. 
+
+
+AUSTIN: Yeah, okay. I felt that that was gonna be the case. 
+
+
+DRE: This is—this is a bad idea. Don’t do that. 
+
+
+[Austin laughs]
+
+
+ALI: What’s Kurtle doing? 
+
+
+AUSTIN: I—that’s what I’m thinking! Maybe we bring Kurtle on board! Kurtle didn’t win in the ancient ruins, didn’t win the basketball game in the ancient ruins…
+
+
+[Austin, Dre, and Ali laugh]
+
+
+ALI: Time to get out of the ruins. 
+
+
+DRE: Maybe it’s time to wash pans.
+
+
+AUSTIN: Yeah! But listen, that’s good life experience. I remember kind of playing her as kind of bougie and, like, she hadn’t really worked a real job in her life, you know?
+
+
+KEITH: [slightly posh voice] “Maybe intramural basketball will be my thing. [Austin and Ali laugh] Nope, no it won’t be.”
+
+
+AUSTIN: Oh, is it called intramural basketball ‘cause when you win, you get a mural? 
+
+
+[Keith and Dre laugh]
+
+
+ALI: There you go.
+
+
+SYLVIA: [faintly] Oh my God.
+
+
+AUSTIN: Yeah, let’s do it. Let’s hire Kurtle. I’m down.
+
+
+ALI: Yeah.
+
+
+AUSTIN: I’m doing it; I’m writing it down.  
+
+
+ALI: Would love to bring her in.
+
+
+AUSTIN: Hell yeah. And then, uh, former freelance adventurer, new hire...boom. Also, Ali, I like that you’ve named your papercrafter “Rube.”
+
+
+ALI: Oh, thanks.
+
+
+AUSTIN: Uh, alright. We did it. Do we need to take another smoke break before we wrap up, or do y’all just want to wrap up?
+
+
+DRE: Uh—
+
+
+ALI: Wrap up, please!
+
+
+DRE: Yeah, I’m good to wrap up.
+
+
+AUSTIN: Okay.
+
+
+ALI: [laughing] Sorry! 
+
+
+AUSTIN: [reading] “Of course, the goal of a successful tavern would be to be able to operate indefinitely, but all games must come to an end and eventually—to an end eventually, and hopefully you can walk away from your game of Stewpot knowing your adventurers have settled down comfortably. When every player has switched all of their switched adventurer experiences to town experience, everyone plays the Rhythm of Things together to end the game.” This is, I believe, the last game in the book...it is. 
+
+
+“Time passes, rough edges are sanded down. Before you know it, life in town has become like breathing. You gather in your favorite part of the tavern and wonder where the time has gone. This is the last game. Everyone plays. Everyone describes a habit that your character has picked up from living in this town to start. Then, proceed to ending questions.” So, what is a habit you’ve picked up from living and working at the Topside?
+
+
+ALI: What page are you on?
+
+
+AUSTIN: The fi—the next-to-final one...fifty-four.
+
+
+ALI: Okay, thank you.
+
+
+AUSTIN: Yep. Um…
+
+
+ALI: Um, I think that living in one place has been kind of an adjustment. Like, staying in one place for so long.
+
+
+AUSTIN: Yeah.
+
+
+ALI: Has been, like, it’s been nice, you know, waking up in the morning and, you know, kind of knowing where you are and feeling familiar with the place. But I think that I go for a walk ever night. 
+
+
+AUSTIN: Aw.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Nice. You go anywhere special or is it just kind of like, “I’ll go in a direction”?
+
+
+ALI: You know, we’re—you know, we kinda can, you know, I think it varies ‘cause there’s a lot of places to go here. But it’s just nice to kind of get out and get some fresh air. 
+
+
+AUSTIN: Yeah. Um. I think Roan develops maybe one of my least favorite habits, which is telling the same stories over and over again.
+
+
+[Ali chuckles]
+
+
+AUSTIN: Not remembering that he told the story to somebody already or overemphasizing how im—well, not overemphasizing. I think the time adventuring means a lot to them. And so, there’s a lot of, like “Oh, do you remember when we did this thing at Skull Cavern?” And It's like “Yeah, Roan, we talked about Skull Cavern two weeks ago, my guy. You gotta let it go.” And it’s not—it’s very good with strangers. It’s incredible with strangers. But I do think it’s a little grating for their friends. Other habits? Volte or Iris or Aldrich.
+
+
+SYLVIA: I think Iris has become even more of a showoff. 
+
+
+AUSTIN: Mmm.
+
+
+SYLVIA: Because she’s not getting the thrill of adventuring as much anymore opening and, like, because opening this tavern is no longer the new adventure. She’s always just like “Oh yeah, I can do that! Watch me do this!” whenever people are talking about anything. Like, it could be from, like, some customer complaining about shepherding and Iris being like “I can fuckin’ take care of your sheep, no problem.”
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA: Or someone talking about, like, “Oh, I saw a guy do a backflip!” And then Iris, of course, is like “You wanna see someone do two?” And then she does. But it’s just constant one-upping people, I think, when she feels like she can.
+
+
+AUSTIN: [typing] Love it. Aldrich or Volte?
+
+
+KEITH: I feel like Volte got roped into a lot of extra responsibility with the petting zoo [Dre laughs]. And so, I feel like one of my habits has been collecting a bunch of eggs and we’ve got a bunch of birds and they’re in, like, a pen and so you gotta to walk ‘em. And so, some of them are flighty birds but some of them are flightless birds and I guess I just gotta run them around town, do a couple laps, bring them back to their pen. And then by the time I’m there, there’s more eggs I gotta pick up.
+
+
+AUSTIN: Get the eggs.
+
+
+KEITH: Yeah.
+
+
+ALI: Did you see—I have footage of this happening, I’m gonna throw it in our Roll20 chat [laughs].
+
+
+SYLVIA: [laughing] I think I know what this is. 
+
+
+ALI: Oh, I’ll put it in Discord, ‘cause Roll20’s worried about links. Um...Patreon...there we go. Just a—
+
+
+AUSTIN: Oh, it’s gone. This image is gone.
+
+
+ALI: What? Aw.
+
+
+KEITH: It doesn’t appear in any feeds. 
+
+
+ALI: [disappointed] Man.
+
+
+AUSTIN: Yeah.
+
+
+ALI: It was a man running on the street with two parrots on leashes. 
+
+
+AUSTIN: Oh that—yes.
+
+
+ALI: The leashes are flapping their wings.  
+
+
+AUSTIN: The leashes are flapping their wings. 
+
+
+DRE: Oh yeah.
+
+
+KEITH: I did see that a few days ago.
+
+
+ALI: Yeah.
+
+
+AUSTIN: I think I posted it in Bluff City chat. It’s lit—
+
+
+DRE: I posted it in Bluff City.
+
+
+AUSTIN: You did, you did.
+
+
+ALI: Okay.
+
+
+KEITH: Yeah, you both did. 
+
+
+AUSTIN: Okay [laughs].
+
+
+KEITH: That’s where I saw it. 
+
+
+[mixed laughter and crosstalk]
+
+
+KEITH: No, you—Dre, you posted it and then a couple hours later, Austin, you posted it. 
+
+
+AUSTIN: It’s good. Yeah, it’s a great video. It’s a perfect video. Look at this, look at this. Oh, I love it. 
+
+
+KEITH: So it’s—some of it is this. But it’s also, like, Road Runner.
+
+
+AUSTIN: Gotcha.
+
+
+ALI: Mhmm.
+
+
+KEITH: Or, like, walking an ostrich.
+
+
+AUSTIN: God. 
+
+
+ALI: Put it in the ol’ Youtube chat for the—
+
+
+AUSTIN: Alright, who, um—who else?
+
+
+KEITH: This is so funny, this guy.
+
+
+AUSTIN: It’s very good.
+
+
+KEITH: Oh my God. 
+
+
+AUSTIN: Aldrich?
+
+
+DRE: You ever had a, um—oh shit, what’s it called when you have a party and everybody brings one dish? 
+
+
+SYLVIA: A potluck?
+
+
+KEITH: Potluck.
+
+
+AUSTIN: A potluck.
+
+
+DRE: Yes, a potluck, thank you. Have you ever had a friend bring a very, like, off-the-wall or unexpected dish to a potluck and it just doesn’t really get eaten. 
+
+
+AUSTIN: Yeah.
+
+
+DRE: Like, a couple people take parts of it to be polite. 
+
+
+AUSTIN: Yeah.
+
+
+DRE: I think Aldrich just becomes that person. That is just always trying to make weird new food.
+
+
+AUSTIN: Right. Everyone’s like “...Cool.”
+
+
+DRE: Yeah.
+
+
+AUSTIN: “No mounion rings this time, huh?”
+
+
+KEITH: But no one likes it?
+
+
+DRE: Yeah, well I think this is—this is Aldrich’s side effect of being, like, cuisine two. Aldrich is like “Inside, I’m a cuisine five. But I’m here at a cuisine two.” So to—
+
+
+ALI: Yeah...
+
+
+SYLVIA: I get it. 
+
+
+AUSTIN: Yeah.
+
+
+DRE: So, you know, to work out all my ideas after the things were closed—
+
+
+SYLVIA: Damn.
+
+
+KEITH: We’re average in two things instead of good in one and subpar in another. 
+
+
+DRE: Mm-hm. After we’re closed, I will sometimes corner someone and be like “Hey, Kurtle, you gotta try this thing!” 
+
+
+AUSTIN (as Kurtle): [awkwardly] Uh, no, I’m good, thanks though [Ali laughs]. I’m stuffed from all those—I had—I tried it a few hours ago and it was so good. 
+
+
+AUSTIN: There’s no marks in it. Definitely no one tried any. It’s like a mac-and-cheese—
+
+
+DRE: There’s probably a symbiotic relationship here where Aldrich will listen to Roan telling the same story over and over again—
+
+
+AUSTIN: Exactly.
+
+
+DRE: [laughing] —if they’ll eat his food. 
+
+
+AUSTIN: Yeah, totally. Definitely. Alright, “Take turns asking each other questions. The person asked is the next person to ask someone a question. Come up with your own or use the questions below. The game is over when everyone has been asked twice.” Uh...I’m gonna ask, while this is happening, while Aldrich—I’m chowing down on whatever this thing is you made me, I’m gonna ask you:
+
+
+AUSTIN (as Roan): We’ve been here a bunch of years now. What do you think the best dish you ever made was? Or your favorite dish that you ever ate that one of us made. You or somebody else here.
+
+
+DRE: Um...hmm. I think there was a day that I was really sick and couldn’t cook. And—who would have made me like a nice chicken noodle soup or something?
+
+
+AUSTIN: I don’t know. [contemplatively] Who would have made Aldrich a nice chicken noodle soup? ...I would have done that for you. That seems in the Roan wheelhouse of things they could make.
+
+
+DRE: Okay. 
+
+
+AUSTIN: That’s not that—you know, I think that’s like—
+
+
+DRE: You’re well-read. You’ve read that recipe.
+
+
+AUSTIN: I’ve read that recipe. Exactly. I have ritual knowledge of the traditions and customs of many groups and many different groups eat chicken noodle soup.
+
+
+[Dre chuckles]
+
+
+ALI: Mhm.
+
+
+AUSTIN: Eat noodle soup with chicken in it. That’s a lot of things. So yeah, I’ve done that. That’s really nice, thank you. I didn’t know that meant that much. Now you get to ask someone else a question.
+
+
+DRE: Um, I want to ask Cassin, what is your favorite memory of building up the tavern?
+
+
+ALI (as Cassin): Oh, um...you know, I still think it’s the day that we put in the barbeque. It was like our first big project in doing this, and it was the first time that I really felt like I could do this for a long time and that we had really invested something into it. So, yeah. 
+
+
+AUSTIN: Now you get to ask a question.
+
+
+ALI: Yeah. Um, I’m gonna ask Volte, what do you not miss about adventuring?
+
+
+KEITH (as Volte): Most—now, most of my mortal enemies aren’t trying to kill me. None of my nemeses have magic powers. It’s mostly just small feuds, it’s much safer. 
+
+
+ALI (as Cassin): Mm. Mm-hm.
+
+
+AUSTIN: Alright, Volte. You get to ask a question.
+
+
+KEITH: Let’s see...Iris, what was the worst dish you remember eating?
+
+
+[Ali and Sylvia laugh]
+
+
+SYLVIA: Um, oh God, I’m trying to—I think it was a dessert that Aldrich made. And I thought it was gonna be something else. I thought—it looked very fruity but it ended up being a mounion souffle.
+
+
+AUSTIN: Oof. 
+
+
+KEITH: Yeah, of course it did.
+
+
+SYLVIA: And it didn’t work out. So probably that one. My turn to ask a question?
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Yeah.
+
+
+SYLVIA: Has everyone been asked one?
+
+
+AUSTIN: I have not yet.
+
+
+KEITH: Yeah.
+
+
+SYLVIA: You have not yet?
+
+
+KEITH: Oh, okay, sorry.
+
+
+SYLVIA: Perfect, I wanted to ask Roan one anyway. 
+
+
+AUSTIN: Okay.
+
+
+SYLVIA (as Iris): What surprised you the most about living in town?
+
+
+AUSTIN (as Roan): That no one tried to ruin it for us, really? Like, Primetime cam around that one time but, like, we spent years not being able to stay in one place. ‘Cause wherever we went, trouble followed. We went to a lot of towns that I thought were pretty cool. We went to a lot of castles where we were well-received by kings and queens, and the inevitably someone assassinated the queen, or the king turned out to be a corrupt asshole who was secretly trying to sap our magical power or steal our knowledge. Or we would stay out—we’d go to, you know, the sea kingdom and hang out down there and then eventually someone would pollute the ocean and we’d have to bounce.
+
+
+KEITH (as Volte): Yeah. We all remember. 
+
+
+AUSTIN (as Roan): Yeah. and so, like, I was sure within a year someone would be like “Aha, you created your tavern on an ancient ley line!” And we did [Keith laughs loudly], but no one has fucked with us about it, which surprised me. So, I’m happy. 
+
+
+KEITH: [laughing] Had that come up before? That was funny.
+
+
+AUSTIN: No, [laughs] but we’ve since learned. I got one, for Volte.
+
+
+KEITH: Yeah.
+
+
+AUSTIN (as Roan): Volte, who’s your favorite bird in the zoo? 
+
+
+[Keith laughs] 
+
+
+KEITH (as Volte): Lyle is so tall. It’s really funny, it fucking cracks me up every time. Lyle will be sitting down on his dumbass long-ass legs [laughter from the table] and look so little. And then you pet him on the head, he stands right up, and he’s fuckin’ eight-and-a-half feet tall! 
+
+
+AUSTIN (as Roan): He’s so tall! 
+
+
+KEITH (as Volte): It’s hilarious.
+
+
+AUSTIN (as Roan): [laughing] Lyle is so tall!
+
+
+KEITH (as Volte): [laughing] He’s so tall! 
+
+
+AUSTIN: Alright, your question.
+
+
+KEITH (as Volte): Um...Aldrich, what was the hardest part of fitting into the town?
+
+
+DRE (as Aldrich): Um...learning how to play basketball. [Sylvia laughs]
+
+
+AUSTIN (as Roan): Yeah.
+
+
+DRE (as Aldrich): You know, it’s—there’s a certain, distinct height advantage. 
+
+
+KEITH (as Volte): That you have?
+
+
+DRE (as Aldrich): That I had.
+
+
+AUSTIN (as Roan): By being a gnome?
+
+
+DRE (as Aldrich): By being a gnome.
+
+
+AUSTIN (as Roan): Yeah.
+
+
+KEITH (as Volte): You had to overcome your natural advantage.
+
+
+AUSTIN (as Roan): You’re just so good at the Eurostep, you know? 
+
+
+DRE (as Aldrich): Mm-hm. I got sick handles.
+
+
+AUSTIN (as Roan): [laughing] Yeah, it’s true.
+
+
+DRE (as Aldrich): Ninety-nine handles. 
+
+
+KEITH: What is a handle? 
+
+
+DRE: It’s a term for being good at dribbling in basketball. 
+
+
+KEITH: Okay.
+
+
+AUSTIN: When you break someone’s ankles, it’s because you have good handles. 
+
+
+DRE: Yeah.
+
+
+ALI: Ohhh.
+
+
+DRE: I bought all the 2K points, and now I’ve got ninety-nine handles.
+
+
+SYLVIA: Please don’t call me out.
+
+
+[Dre and Austin laugh]
+
+
+AUSTIN: [clapping between words] Spending money on microtransactions is valid. 
+
+
+SYLVIA: [laughing] It’s not.
+
+
+AUSTIN: It’s not.
+
+
+[Ali laughs]
+
+
+ALI: It is.
+
+
+DRE: Oh boy. Okay. Let’s see, what’s left?
+
+
+AUSTIN: You can also make things up.
+
+
+DRE: Yeah. Uh, Volte, what do you not miss about adventuring?
+
+
+ALI: Wait, I—I asked Volte that same exact question.
+
+
+AUSTIN: That same question. That exact question.
+
+
+DRE: Oh did you? Shit. Sorry.
+
+
+[Ali laughs]
+
+
+KEITH: It’s fine. I think—I’ve already been asked two. 
+
+
+AUSTIN: Remaining: Cassin, Roan, and Iris. 
+
+
+DRE: Okay. Um...let’s see...Iris, what is your favorite place in town?
+
+
+SYLVIA (as Iris): My favorite place in town is—well, it’s like a place and time. It is right when the sun’s almost set. You can get on top—if you sit on top of the Topside, you get a great view. And that’s kind of just how I wind down when I get the chance.
+
+
+SYLVIA: Uh, my question? 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: I have one for Cassin. Cassin still has one to go, right?
+
+
+AUSTIN: Yep. 
+
+
+ALI: Mm-hm.
+
+
+SYLVIA: Have you written any new songs since we settled down in here? Like about the town, I guess, I don’t know.
+
+
+ALI (as Cassin): Umm, yeah. Yeah, I mean, I still find time to write every day. It’s mostly cheers, the basketball thing really needed it. I didn’t realize basketball would be such a big part of my life [Austin laughs] when I moved in.
+
+
+SYLVIA (as Iris): It sneaks up on you. 
+
+
+ALI (as Cassin): And then I had all of those cheers for the waitstaff, which was also not something I was expecting to do. I guess I’m not telling stories anymore? I’ve been working on something. But I feel like I haven’t had the moment to compile all of the years that we’ve spent here. 
+
+
+AUSTIN: Aww.
+
+
+ALI: [laughs] Who still needs a question?
+
+
+AUSTIN: Me. I need one more, and then we’re done.
+
+
+ALI: Oh, sure! Ooh boy. Okay.
+
+
+AUSTIN: Mm-hm.
+
+
+ALI: Hmmm. Which of your new skills is your favorite?
+
+
+AUSTIN (as Roan): Wooof, that’s a tough one [Ali laughs]. I think it’s Keen Observation. At first, I thought it would be Well-Read; I say I’m well-read a lot and that means I must like it. And I do. Um—
+
+
+KEITH (as Volte): You do say it a lot, you mean?
+
+
+[Ali laughs]
+
+
+AUSTIN: Yeah, I say it all the time. You might think it would be Friend of the People, because people come to me and ask for help. But in some ways, that’s kind of what I did already when we were adventurers, was just like “Hey Roan, shoot that thing,” and I would be like “Yeah,” [chuckles] and I would. I think that’s the difference, is like I didn’t use to see for myself before. I used to be a big wrecking ball you could point in a direction, and I would go that direction and I was lucky because I was surrounded with people who were trustworthy and friends. You know, you all pointed me in the right directions. But it would have been really easy for me to wind up with somebody else. And they could have pointed me any way they wanted to. And now I know how to point myself. And that is something I could have only done by staying in one place and learning to look around. And the only way I could do that is because you all made a place that was safe and warm, and where the food was good, and there was music, and the beds were comfortable, and I could always count on mounion soup to be there for me [Dre chuckles]. So, thank you. This is the only place I want to be, in the whole world. 
+
+
+SYLVIA: Aww. 
+
+
+AUSTIN: And that is the game. The game is over when everybody has been asked twice. That has been Stewpot by Takuma Okada. Which you can find at noroadhome.itch.io. Where can people find y’all on the internet? Sylvia?
+
+
+SYLVIA: Yeah, you can find me on Twitter @captaintrash and you can listen to my other show Emojidrome on any podcast app you want. Pick one.
+
+
+AUSTIN: [laughs] Pick one, go for it.
+
+
+SYLVIA: It’s up to you.
+
+
+AUSTIN: Keith.
+
+
+KEITH: My name is Keith J. Carberry, you can find me on Twitter @KeithJCarberry. And you can find the Let’s Plays that I do at youtube.com/runbutton. We did our Game of the Year podcast last week. Patron—Patreon subscribers have access to the whole thing, but we’re gonna be releasing the first half of it this week and probably the second half of it a few days later. Something like that. So. 
+
+
+AUSTIN: Hell yeah. Hell yeah. Contentburger.biz. Did it. 
+
+
+KEITH: Yes, that’s the Patreon contentburger.biz. If you please.
+
+
+AUSTIN: Uh, Ali?
+
+
+ALI: Uh, yeah. You can find me @Ali_West on twitter.com. 
+
+
+AUSTIN: And Dre?
+
+
+DRE: Hey, you can find me on Twitter @Swandre3000.
+
+
+AUSTIN: As always, you can find me on Twitter @Austin_Walker. You can find the show at Friends_Table. You can support us at friendsatthetable.cash. There will be another PARTIZAN episode up this week, it’s a fucking good one. And I think everyone on this call has heard it.
+
+
+KEITH: I fuckin’ can’t wait.
+
+
+AUSTIN: Me either. It f—it’s wild. It’s so good. 
+
+
+KEITH: It’s such a good episode!  
+
+
+AUSTIN: I’m so excited for it to hit. So look forward to that. As always, you can get all of the music that we do at notquitereal.bandcamp.com. I think that’s it, I don’t think there’s any other shoutouts. Or announcements or anything. Right, Ali? I think we’re good.
+
+
+ALI: Um, yeah, um...Catch the Devil should be finishing up this week. 
+
+
+AUSTIN: Oh, right.
+
+
+ALI: The Tips episode that was recorded last week should also be sometime this weekend.
+
+
+AUSTIN: Hell yeah.
+
+
+ALI: And the next PARTIZAN episode owns. 
+
+
+AUSTIN: It’s so good.
+
+
+ALI: And then the episode after that fucking slaps. [laughs] So, don’t need to—
+
+
+AUSTIN: I don’t even know what the one after that is, is that—that’s the first downtime?
+
+
+ALI: I think so, yeah. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: I guess we decide what the next episode is [laughs]. 
+
+
+AUSTIN: Yeah, we have to figure out exactly how that works. But yes, agreed [Ali laughs].
+
+
+ALI: Um yeah, continue listening to PARTIZAN and liking it. 
+
+
+KEITH: Is there more recorded than just your side’s downtime?
+
+
+AUSTIN: No, no.
+
+
+ALI: No, yeah, y’all gotta—please. Thank you.
+
+
+AUSTIN: We have to do a downtime soon. Yes. I know, I know. Alright—
+
+
+KEITH: We’ve only cancelled twice! 
+
+
+AUSTIN: It’s the holidays.
+
+
+ALI: We—
+
+
+AUSTIN: I was out of town for a week.
+
+
+ALI: Every single one of us got sick in a row. 
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Yeah.
+
+
+DRE: Mm-hm.
+
+
+KEITH: I think Sylvia—Sylvia, you might have been the only one that didn’t cancel—
+
+
+ALI: Shut up!
+
+
+KEITH: —because you were sick.
+
+
+ALI: Shut up!
+
+
+SYLVIA: I got sick though!
+
+
+KEITH: But you didn’t cancel because you were sick. Everyone else ended up cancelling. 
+
+
+SYLVIA: Because I’m the most reliable one, clearly. 
+
+
+DRE: Mm-hm. 
+
+
+AUSTIN: This is true. 
+
+
+SYLVIA: I was on duty and everyone knows that. 
+
+
+KEITH: Oh, I mean, if we’re counting reliability—
+
+
+AUSTIN: Oh my God.
+
+
+KEITH: Think of all the times I was sick after cancelling twice [Dre and Ali laugh]. And also, yeah, I had the same thing. 
+
+
+AUSTIN: I can’t listen to the COUNTER/Weight Kingdom game because you refused to quit and you sound so sick in that recording.
+
+
+KEITH: People love it. 
+
+
+AUSTIN: It’s unlistenable, it’s brutal. Anyway. 
+
+
+KEITH: People love it. People love how sick I was.
+
+
+[Ali laughs]
+
+
+AUSTIN: I know they do. It’s true. 
+
+
+KEITH: I was sick in that game.
+
+
+AUSTIN: You were sick in that game [Keith laughs]. Alright. Thank you all.
+
+
+KEITH: People love the Sokrates, but I don’t remember it at all.
+
+
+AUSTIN: That’s how this is. There’s so much stuff that I, like, “Yeah, I guess we did that. That sounds right.”
+
+
+[Ali laughs]
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Sure. Alright, I’m gonna end this podcast. Thank you all for listening. I hope everyone has the remainder of a good Sunday and a good week. Bye bye bye.
+
+
+KEITH: Bye! 
+
+
+
+
+
+
+
+
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

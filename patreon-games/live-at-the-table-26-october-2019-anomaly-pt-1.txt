@@ -1,0 +1,726 @@
+﻿Live at the Table 26: October 2019—Anomaly Pt. 1
+Austin: Welcome to Live at the Table, an actual play livestream focused on critical worldbuilding, smart characterization and fun interaction between good friends. I’m your host, Austin, and someone is honking outside my window. 
+Sylvia: They’re ready to go!
+Austin: Joining me today, someone honking outside my window. And also Sylvia[1] Clare. 
+Sylvia: Hi. Actually, I am the person honking outside your window. 
+Austin: Hi! Aww. Happy holidays! 
+Sylvia: I’m very excited to play this game with you. 
+Austin: Thanks for coming over! 
+Sylvia: I have to go now, to record this. On my computer.
+Austin: Yeah. But thank you for coming through for a minute. Yeah. I’ll see you in a second. 
+Sylvia: By the way, I’m Sylvia, and you can follow me on Twitter @captaintrash. And I have another podcast, Emojidrome, that you can listen to wherever you get your podcasts. Beep, beep.
+Austin: Beep, beep. Honk, honk. 
+Keith: Sylvia, what’s your go-to coffee? 
+Sylvia: I don’t drink coffee. 
+Keith: All right. None, go-to.
+Austin: Asked and answered.
+Sylvia: My go-to coffee is water. I’m very exciting.
+Austin: Well, that’s not a coffee— Keith! Keith Carberry also joining me. 
+Keith: Hi. My name is Keith J. Carberry. You can find me on Twitter @KeithJCarberry and you can find Let’s Plays that I do at YouTube.com/RunButton. 
+Austin: And Janine Hawkins. 
+Janine: Hi, I’m Janine Hawkins. I’m @bleatingheart on Twitter. 
+Austin: You can follow us all on Twitter at twitter.com/— I mean, you can’t follow us all, but you can follow the show @friends_table. You can support us at patreon.com/friends_table, friendsatthetable.cash. And I’ll say right now, on this holiday shopping weekend, there might be a surprise coming at some point either today or Monday. We’ll see how things shake out. But we may have a really cool treat available for purchase, so save a couple bucks for shopping. Because we got a cool thing coming. Kind of a holiday—
+Janine: Everyone’s (clap) getting (clap) a (clap) flat (clap) white (clap).
+(Keith laughs)
+Austin: That’s right. We’re ordering everyone one flat white exactly.
+Keith: If you live close enough, it’ll be drinkable, maybe still.
+Austin: (laughs) Gross. Also, you have to pay for it! So.
+Keith: Janine, do you have a go-to coffee? 
+Janine: I like anything with a hazelnut, like a scoosh of hazelnut in there.
+Keith: Scoosh? I don’t even know how much that is.
+Austin: It’s like a Canadian measurement.
+Keith: It sounds like a lot, actually.
+Austin: Does it? You think a scoosh is a lot?
+Keith: A scoosh? Yeah.
+Janine: A scoosh is like a scosh, but you slip.
+Keith: You slip and accidentally add way too much. 
+Janine: A scosh is like a dash.
+Austin: I thought a scosh was how hot something was. It’s short for Scoshville, right? It’s like if something has like 300 scoshes, it’s really hot. That’s where we get the word scorch from. It’s a fuckup. It’s like you messed up the word scosh. 
+Keith: Sylvia, were you about to make a joke about this? 
+Sylvia: No, I just don’t get it. Isn’t it Scoville, not Scoshville?
+Keith: Nope, it’s Scoshville.
+Austin: It’s Scoshville, Scoville is an abbreviation. 
+Keith: Yeah, it’s an Americanization. It’s wrong.
+Austin: Yeah. It’s like aluminium to aluminum. It’s the same thing.
+Keith: If you watch like Hot Ones or whatever and the guy, whatever that guy’s name is, goes this hot sauce is blah scovilles?
+Austin: Can you remind me what his name is, Keith? 
+Keith: Bald? (laughs)
+(Janine laughs) 
+Austin: Wow.
+Keith: Bald, shaved head guy?
+Austin: You’re gonna be on that show one day. He’s gonna be like, so I’m a big fan of Friends at the Table. And you once called me…
+Keith: It’s him and it’s Paul Rudd, I know his name.
+Austin: Oh, my God. Paul Rudd is on a— Mm, okay. 
+Keith: Yeah. He’s on there, isn’t he? 
+Austin: Uh huh. I’ve seen that. It’s a good one. What’s-his-face was just on that. 
+Keith: Paul Rudd.
+Austin: The other one. 
+Keith: I don’t know.
+Austin: Brad Bonappetit.
+(Keith laughs)
+Keith: Brad Leone.
+Austin: Is that right? Wasn’t he just on there?
+Sylvia: Yeah, he was.
+Keith: I haven’t seen it. I don’t watch that show or I would know his name. He looks like a Scott. Is his name Scott? He looks like Scott. 
+Austin: He does look like a Scott, I don’t think he’s a Scott.
+Sylvia: What the fuck is it— I watch this show, now I’m annoyed I don’t know his name.
+Austin: Fuck is his name. (typing) “Hot Ones host.” Sean. Sean. Sean Evans. 
+Keith: He also does look like a Sean, yeah.
+Austin: Yeah, that’s such a… that’s such a name.
+Keith: He’s such a “that guy”. Sean is such a Scott guy. 
+Austin: Yeah, right? Anyway, we should do a podcast about role playing, we should play a game. Today, we’re gonna play Anomaly, a game about a supernatural investigation by Carter Richmond, who y’all might know from the Friends at the Table chat as sniperserpent. Carter has been a mod in the Friends at the Table chat for a long time. This is our second mod game in a row, I’ve just realized because we did Stewpot last week. We’re going to come back to Stewpot really quick. You can find both of those games on itch.io. Support the creators, pleeease. And I believe sniperserpent is also in the chat or if isn’t yet, will be, hopefully, as we will probably have questions as we play. “Anomaly is a tabletop role playing game about a team of researchers investigating a supernatural anomaly. Key media touchstones for the genre are the SCP Foundation, the Magnus Archives, Warehouse 13 and the Concern from Friends at the Table,” a thing I hadn’t noticed until Keith pointed that out today. “From a game design perspective, much of the inspiration comes from a Avery Alder’s game, The Quiet Year.” OK. Sorry, someone in the chat said that Sean Evans is a palindrome and it isn’t. But it took me a second to double check that it wasn’t. I was like, wait, ah my brain. OK.
+Keith: “Shvan—”
+Austin: “Shvan”
+Janine: I mean, if his name was Snave Evans, then it—
+(Keith and Austin laugh)
+Austin: Someone write down Snave Evans. Thank you, Thomas Whitney in the chat for linking out to sniperserpent.itch.io/anomaly where you can find this game. All right. So here’s what we’re gonna need. We’re gonna need several six-sided die, a deck of tarot cards and a few pieces of paper. I put down some white sheets here on our play surface as paper. We got a tarot deck in the bottom right. Do y’all see that? I’m gonna turn off my Pinterest thing real quick. How do I do that? Can I say don’t do that on this thing so it doesn’t show up?
+Keith: Don’t do Pinterest? 
+Austin: It’s showing a Pinterest logo over the tarot deck so I could see—
+(Austin and Keith laugh)
+Austin: —other pictures, and I need it to not do it. I need it to not do it. This is still going to do— I’m gonna refresh this page and hope for the best. Anyway, we have those things. So. “Though the story of each game of Anomaly will be different, there are a few features that will be constants. There will be a supernatural anomaly. an organization that is aiming to study the anomaly, a team of researchers and operatives sent to the anomaly for this task, a community of people living (supposedly) unaware of the anomaly’s presence in the area and the location the whole thing takes place in. Before the game starts, it’s best to discuss these aspects and what they will look like, so everyone is on something of a same page as to what type of story is aiming to be told. At the same time, a large part of the game is learning more about these things, so don’t get into too much detail. Think about giving a broad genre for each of these things. For example, the organization could be a shady extra-governmental task force, a secret society, a university’s paranormal investigations department, a cult, a cyberpunk mega corporation, or an institute of witchcraft and wizardry.” My gut is we should just do the Concern, it’s in the book. But I’d be open to talking about other things we could be. We also don’t have to do this in Bluff City. We could be in a different place, but I feel a little bit like it’s made for it. You know? I’m curious what other folks think about here. 
+Janine: I think my only thing that I would want to pay special attention to if we do the Concern is that it still feels as open as it should if we were making something relatively new.
+Austin: Yeah. I don’t want this to tie to anything we’ve already, in terms of lore. Do you know what I mean? I want this to be a C plot.
+Janine: Exactly. If we’re tripping over canon, this kind of game becomes a lot less fun. 
+Austin: Yeah. And so I don’t care about like inter-Concern beef. I don’t think anyone listening to this should need to know what the Concern is outside of, there is a weird group that exists in Bluff City that investigates strange shit that has weird origin. You think that makes sense?
+Janine and Keith: Yeah.
+Austin: Cool. That’s what it should be— Sorry, that’s what the organization could be. There’s also what the anomaly could be and what the setting could be. Carter’s suggested anomaly genres are “a building with strange properties, a cursed machine, a piece of super advanced technology, a broken piece of reality, a strange creature.” But you can also think about a billion other things here, right? This is anything and everything that could have weird properties. I don’t have a ton of background in SCP, but like cursed videotapes. Or if you’ve played Control, think about the stuff that shows up in Control as Objects of Power. You know, an old telephone or a jukebox or, you know, stuff like that, right? It could be anything but it could also be a creature. It could also be a room or a building. I’m curious if anyone has any big ideas as to like, boom, this is a thing. 
+Janine: Refresh my memory, have we ever done a shitty parking lot carnival type thing? We ever reused something like—
+Austin: I don’t think so. And that’s a very Bluff City thing that we’ve never used. I’ve been to so many of those in church parking lots and like flea markets. 
+Janine: Which is like, you shouldn’t be able to just build a ferris wheel here overnight but you did. So okay. (laughs)
+Austin: But you sure did. (laughs)
+Keith: Labor day weekend outside the JCC. Let’s go. 
+Austin: And here is six dollars. I will be going up in it and hating every minute of it. 
+(Janine laughs)
+Keith: One of the rides at the one nearby my house is a thing that they call the Zipper, which is just like this loop—
+Austin: Bad name! Love it
+Keith: It’s like, imagine a short, very, very fast ovular ferris wheel.
+Austin: I think I got it!
+Keith: Like really close, like where you go up where you go down— and then you sit in a cage and the cage also spins upside down. 
+Austin:  I’m going to show you a video and you’re going to tell if it’s this.
+Janine: No thanks.
+Austin: Is it this?
+Keith: This is gonna be on the live thing?-- Oh, it’s that, it’s that, yeah, that’s what it is.
+Austin: This is a nightmare. 
+Janine: That’s like one of those digging machines but they decided to put people in it.
+Austin: Yeah, that’s an excavator. Uh, anyway, quick question, is this our anomaly? 
+Keith (laughs): It’s terri— oh, it goes faster than this, though. 
+Austin: Shut up. 
+Keith: It does. Yeah, for sure. Pretty significantly faster than that. 
+Austin: Oh, I have to close this video. There’s a moment in this video where it cuts to black and then new text shows up that says “from right underneath the ride”. And then it’s a video looking up at the ride as it does this. And that’s scary to me. That’s so close!
+Keith: Later on, it does go a little faster. But I’ve now gotten to the part where it’s full speed. I think the one that I’ve been on is a little faster, but it’s like, yeah, three days a year you can go to this sketchy carnival and pay three dollars to basically like be very close to death. 
+Austin: Yes. The food at this place costs more than this ride, for sure. 
+Keith: (laughs) It’s definitely harder to get a fried dough. 
+Austin: Yeah. Anyway, is this our anomaly? Is the setting—
+Keith: That’s close.
+Austin: Or is it just a ride— do we not want to get specific here? Is the anomaly the entire carnival?
+Janine: This could be like the epicenter.
+Austin: Right! That’s what I’m thinking. 
+Keith: My counter to “is this ride the anomaly” is that I’ve been spending a lot of time talking with friends about weird old videogame glitches and rumors. And I think that’s some good fodder for anomaly stuff. The weird stuff you can or can’t do in early Pokémon games or stuff from Digimon World.
+Austin: Yeah, old creepypasta type cursed Majora’s Mask— Or you’re saying but actual shit that does exist in our real world. 
+Keith: No, I mean like… Anything from like “I heard there’s a Mew under this truck” to, “if you’ve talked to this guy and then fly to here and then ride up and down, you’ll have 999 candies when you used to only have one candy”. 
+Austin: Right. Right. That style of like, not just glitch, but like hacking the RAM of the game.
+Keith: Stuff that, if it was real, it would be magic or terrifying. 
+Austin: Right. Right. It is literally pattern magic but videogames. But some of that stuff does work. Like you look at something like the Super Mario World speedruns where it’s like, oh yeah, if you jump on Yoshi on this frame-perfect—“
+Keith: Oh, the universes! 
+Austin: Yeah. That stuff too. Right. The parallel universe stuff. Or just like look at Super Mario World. If you go up and look at the fastest possible time to beat Super Mario World, it just involves jumping onto Yoshi at a certain point in time and a certain frame that glitches out and puts you in the end credits and that’s beating the game. So it’s very funny.
+(Keith laughs)
+Austin: Anyway, the thing I like about going towards the carnival space is that it gives us a lot to play with with physicality. Sylvia?
+Sylvia: I just want to say I think we could probably bring in some of that stuff about the reality-warping aspect of those things that Keith mentioned to the carnival. The carnival could be causing stuff like that. Similar to the rare candies, someone going in there with something in their pocket and coming out with something completely different. 
+Austin: Totally. So then maybe we make the whole carnival the anomaly and then we have a space to play with a bunch of this stuff. 
+Keith: A parent let their kid on the ride and two kids came back.
+Austin: Ew. Let’s not start authoring because we don’t want to do stuff until we get into the— At this point, it should just be, what is the anomaly? And so we, like the book says, a large part of the game is learning more about these things. So let’s not get into too much detail at this point. But, you know, start brainstorming cause we’ll get there in a moment. Is this just in a Bluff City parking lot somewhere? It’s doubly funny because Bluff City has amusement piers and stuff. (chuckles) And so, you have to really be in your head, to be like, you know what? I could go to the cool amusement pier, but my church is having a carnival this weekend. I’m going to get funnel cake there. Also, I hear it’s cursed. 
+Janine: I mean, the parking lot one is the one you go to when you want like a really lawless amusement park, right? Like where, you know you want a bootleg Pikachu that’s wearing Sonic’s shoes and shit. And you want to pay too much for the rigged game to get that thing. (chuckles) And you want to eat some fucking deep-fried CBD Snickers or whatever the fuck—
+(all laugh)
+Janine: —that you know you shouldn’t be having.
+Keith: Are they selling CBD candy carnivals now? That’s crazy.
+Austin: They should be. All right. Let’s do that. This all sounds good. All right.
+Keith: Fucking go on the Zipper and mellow out. 
+(Janine and Austin laugh)
+Austin: “All of these things are different and will affect what the game looks like, but are still broad enough that they can be explored in play, while still sticking to the basic concept of the game’s genre.”
+“Safety Procedures: Anomaly is a horror game. This means, by its nature, the game will often contain disturbing imagery and content. Because of this, before we start the game, it’s good to think about any content we don’t want to include in the game and discuss it with the table. No one should need to justify why they don’t want something to appear. If, during play, someone wants something another player suggests taken off the table, do it. You’ll be able to come up with something else to replace it that won’t make anyone at the table uncomfortable.”
+I’m like, I think there’s a place for like schlocky gore, but I don’t think it’s this. That’s not what I want to explore here. So I’d rather not like— you can gesture at like, oh, something bad happened, but I don’t want like detailed descriptions of dismemberment or like gory carnival death in that way. Do you know what I mean? Does that make sense? That’s what I’m drawing a line on here. Again, you can be like, oh yeah, people died on that ride. But I don’t want details necessarily. Anyone else have something here in terms of safety stuff, stuff they don’t want to talk about? I think in general, if something comes up that you’re like, ooh, this might be on the line, let’s talk about it before we jump into actual description, if that makes sense? And as always, the group of us also just has a space where, if we think something’s coming up that you want to like vet privately before you put it in front of an audience, you can always message us. We can always message each other in our own chatroom that way we don’t necessarily spring stuff on people. Anyone else? Want to make sure the door is open long enough for people to bring stuff up if there is anything else they want to bring up. 
+Sylvia: I can’t think of anything for me. 
+Austin: OK.
+“Action Draft: Once the basics are decided, we take turns taking one of each Action Type,” and I’ll post those on the screen for us all in a second. “This further helps to find the game’s starting scenario. Projects created during this phase do not advance until normal gameplay has commenced. Once this is finished, the regular cycle of the game begins.” So if you’re looking at the book right now, it is on the fourth page, “Taking an Action”. I’m also going to quickly put this into a handout. Let me save this. “Anomaly Actions.” And then I can do this… I’ve also included the Lacuna names, by the way. A sheet from Lacuna, because we know the Concern uses similar names to this. So if we need to generate an NPC at some point and we need a name, then that’s in our Handouts section. So New Handout. That is… (typing) Anomaly Actions. All players. And where did I save this? Boop. Save changes. OK. So if you… put this into here. Cannot do that? Cannot. Uh, there we go. 
+So there are 1, 2, 3, 4, 5, 6, 7 actions that could come up in play. We’re going to do one of each of those now. We don’t have to do them in this order necessarily. But this is kind of like generating our seed a little bit. “Those are: introduce a character, secure or endanger something, acquire or lose something, add a fact about something, Anomalous Action, and projects.” Oh, and “team meeting”. Should I read through all these or do we want to pick one at a time and read through— We’re gonna do them all right now. So I guess my first question is, does any one of these jump out at anyone as anything they want to do during this setup phase? And we can just start there. And I’ll read the description then. Or do you really go through everything and read all the descriptions of what these things are now? 
+Janine: It feels like, for pacing, it makes more sense to read them as we do each action not in a big batch.
+Austin: Yeah. Do any of these basic action things call to anyone? Does anyone want to immediately do one of these things?  (pause) I feel like it might be good to start with an Anomalous Action as sort of like, “hey, here is what’s up with this carnival”. You know? 
+Keith: Yeah, that makes sense, sort of as like— We’re starting from the position that the Concern is already here watching? Or is this like, there could be an Anomalous Action and that is what gets them going? 
+Austin: That is what I’m thinking. I’m thinking there’s an Anomalous Action that we write down because we know what happens. But then that is maybe what draws the Concern in, you know. 
+Keith: Yeah, I think that makes a lot of sense. 
+Austin: All right, cool. Does anyone have an Anomalous Action for this place? Also, do we know a name? Do we have a name for it? Is it tied— I’ve been saying church carnival but I doesn’t have to— church parking lot carnival. Is it a completely independent carnival that just rents out parking lots and goes from place to place? Is it tied to a particular institution?
+Janine: This might just be me because I like quaint things, but I’m feeling something kind of antiquated feeling, something kind of like the— I want like a name and I want it to be a convoluted person’s name, like Spannheuser Funfair or something like that?
+Austin: The Banheiser—
+Janine: Spannheiser with two Ns.
+Austin: Oh, Spannheiser?
+Janine: Something like that, where it’s just a weird thing that means nothing to people who didn’t grow up seeing it appear in a parking lot every Summer.
+Austin: Right. Is it like Spannheiser Funfair and Amusements Co. or something like that?
+Janine: Yeah, it should totally sound like a… It should sound like a business. One second.
+Austin: I just need you to know that I wrote Spannheiser Funfair and Amusements Co. and Google decided to auto complete that with Jersey, as if it were a real thing already.
+Janine: (laughs) That’s a good sign.
+Austin: That’s a good sign. That’s a good sign.
+Keith: That’s anomalous!
+Austin: That’s anomalous, it is.
+Janine: I was going to say, it should sound like a company that you could rent things from. And maybe they have a desk for that. But whenever you try and actually do it, you get run around in circles. 
+Austin: Mm-hmm. Is it Funfair, F-U-N-F— it’s F-A-I-R, right? It’s not F-A-R-E?
+Sylvia: Yeah, it’s F-A-I-R.
+Austin: Yeah. OK.
+Janine: Yeah. It’s not a renaissance fair.
+Austin: All right. And Spannheiser is what you said.
+Janine: Yeah. Spannheiser, Spannheimer. There’s a lot of places (chuckles), there’s a lot of directions.
+Austin: There’s a lot— I don’t know if I spelled -heiser right.
+Janine: I think you did.
+Austin: Because you could also do it the other way, you know. There’s a lot of ways to spell -heiser. Anyway. Like H-E-U, you know? Is that better? Like that. Now it spells “Spannhouser,” but it’s “Spannheuser”. Like Anheuser. Is this tied to the Anheuser Busch Co.? No one knows. 
+Janine: Maybe that’s the anomaly. It’s like a Berenstein, Berenstain thing. 
+Austin: It could be. I’m leaving it. So what is the first Anomalous Action that we see here? 
+Keith: Speaking of Berenstain Bears, this is first thought, so if this ain’t it, whatever. What if some people, even people from the Concern, remembered going last weekend. Like, “didn’t they come last week?”
+Austin: “Weren’t they just here?”
+Keith: “Weren’t they just here?” 
+Austin: Yeah. I like this. I should read this description, by the way. “Anomalous Action: the anomaly does something weird. Is it dangerous? Is it disruptive? Does it follow with what the anomaly has been doing before? Use this to bring focus to the anomaly and what it does, and push its story in an interesting direction.” I like that as a first thing. Is that just like—
+Keith: Half of people remember it just having happened.
+Austin: To the degree that it’s even on the radio. We get a radio host that’s like, you know, “if you’re not tired out from last weekend’s Spannheuser Funfair, well, good news. They’re back in town this weekend!” And the rest of the people like, “what are you talking about?” Yeah. That’s good. I like this. That’s a good starting Anomalous Action. Could someone be on notes on this besides me, since I have to also do it? Can we do like, I don’t know what we want to use. I kind of have that one here as a map if we want a map at any point. But just anywhere here as just facts about the anomaly? Let’s make the middle one—
+Janine: I have the loudest keyboard, so it should not be me. 
+Austin: OK. “Facts about the Anomaly.”
+Janine: I am taking some hand notes, but those aren’t useful to people. 
+Austin: Can someone type, underneath Facts about the Anomaly, (1) people remember going to it. But we’re sure they didn’t go to it?
+Keith: I’m willing to make special effort to take the notes, but I am naturally not very good at this.
+Austin: I know.
+Sylvia: I am also very bad at this, naturally, but I’ll try.
+(Austin sighs)
+Keith: OK, how about Sylvia and I will team up to try and do this well.
+Austin: I’ve already got this one.
+Sylvia: The ADHD gang is here.
+Austin: Great. (chuckles) I’ve already got the first one. “People have false memories of visiting the Funfair.”
+Keith: Where are we putting these notes?
+Austin: Underneath Facts about the Anomaly, which the middle one. I’ll make this bigger so that it’s— boom.
+Sylvia: What font are you using? I want to keep it uniform. 
+Austin: I’m using Light, I believe.
+Sylvia: Thank you.
+Austin: All right. So that’s Anomalous Action. So everyone just remembers that, people are having false memories of that. All right, cool. (pause) Let’s see. (pause) I am going to start a project from the Concern. “Projects are events that multiple turns.” I’ll make this third thing over here Active Projects. Or Projects. Boom. “Projects are events that take multiple turns. They can be an effort to build something, destroy something, or take other actions that are too large in scale to be interestingly done quickly. Projects don’t have to be tasks that the team is undertaking. They can be from the community, any other person of significance or even something the anomaly is doing on a longer timescale.” That’s great. Love it. I love that. (chuckles) That it could be something the anomaly is doing. “Choose a number between one and six when you start a project. This is how many turns it will take to complete. Place a die to represent the project with the chosen number upwards. When projects advance, tick the die down. When it would go to zero, the player who started the project explains how it went in the end. Feel free to adjust the die when something happens that would seem to affect how long it would take.” So the project I’m starting is that the Concern is looking to figure out when did this carnival first show up. It’s kind of like investigating when was the first time that the Spannheuser Funfair first came to town or started or whatever, you know? 
+Keith: Do you mean historically?—
+Austin: Historically.
+Keith: —Or do you mean this set— how many weekends have we remembered that “wasn’t this last weekend?”
+Austin: I actually mean historically. I’m gonna give a four step clock, if that makes sense. Does that add up for folks? Did not mean to make that clock so big. 
+Sylvia: Yeah! Sounds fine.
+Austin: (typing) “Investigate Spannheuser—“ Spelled it wrong. “History.” All right. And that will not advance during this process. Still not showing up. Why is this not—? Oh boy, I think it’s all players. 
+Keith: Do clocks advance next time…
+Austin: Not during this phase. Not until we get into The Game, basically.
+Keith: Right. Got it.
+Austin: So that is two! So, we still have to do: introduce a character, secure or endanger something, acquire or lose something, add a fact about something, and team meeting. 
+Janine: Oh. I’d like to introduce a character. 
+Austin: OK.
+Janine: Something just hit me like a truck.
+Austin: Should I read this? I’ll read this and then you can introduce?
+Janine: Yes.
+Austin: “Introduce a new character to the narrative. This can be creating someone entirely new or adding details and motivation to someone who is previously an unnamed background character. After this action, people at the table should know who this person is and what their deal is. Don’t keep secrets! In this type of game, someone whose goal is mysterious is fine, but if you say that, be prepared for another player to have a good idea and do their own reveal.”
+Janine: So the character that I want to introduce is Agent Barker. And Agent Barker, I think, is at the helm of this investigation into the anomaly.
+Austin: Agent Barker. (typing) Head of the investigation into the anomaly. 
+Janine: I was combing through this list like I need to pick the most carnival-ass name ever. 
+Austin: And Barker is definitely it, 100 percent.
+Janine: Barker’s right there.
+Austin: It’s right there. All right. So, there’s a character, cool! “Secure or endanger something, acquire or lose something, add a fact about something, team meeting.” It feels like team meeting should be last?
+Keith: Yeah, that feels right.
+Austin: But yeah. (pause)
+Sylvia: Wanna do Secure or endanger something? 
+Austin: Yeah. Do you have an idea?
+Sylvia: I’m trying to figure out what that could be.
+Keith: Yeah, that’s what I was looking at and I was like, what do we have? What is our roster of things that we have to either secure or endanger? 
+Austin: Think anything in real life or at this carnival. I’ll read. “Either something that is at risk is removed from risk to some degree or something not endangered is put into danger. Protecting something can help stop something interesting from being destroyed and allow it to be built on or prevent outcomes that aren’t interesting to you, while putting something in danger can create interesting conflict and set the story down a new path. In either case, discuss how this happens and the consequences thereof. Sometimes protecting one thing might endanger another.”
+Keith: I’m definitely leaning endanger, but that hasn’t helped me pick something to endanger.
+Austin: What if people get stuck there? (pause) Like can’t leave the carnival.
+Keith: Physically? Or— is there a physical barrier or is it just like—
+Austin: They can’t find the exit. And it’s not a lot of people. What if it’s one person? 
+Keith: And just no matter who’s helping them, they can’t. 
+Austin: What if it’s Agent Barker? (chuckles)
+Keith: OK!
+Austin: What if Agent Barker can call into base, is still at the head of the investigation, has set up shop somehow inside of this fucking thing, you know? But can’t leave it. And is endangered in the sense that they cannot—Janine, did you set pronouns for Agent Barker?
+Janine: I didn’t.
+Austin: OK. Do we want to? I’m deferring to you since you introduced them.
+Janine: I have no strong feelings one way or the other.
+Austin: All right, I’m going to write she/her and she is stuck in the anomaly.
+Keith: So, OK. She knows she’s stuck.
+Austin: Absolutely. 
+Keith: OK. This isn’t like, every time she gets close to the exit, she, like, has an idea of like, oh, I should get some of those—. Like, she’s like, “I’m stuck. I’ve got to set up an HQ in the Funhouse or something, on the really, really small roller coaster for children” or something. 
+Austin: Right. I think that’s totally the deal. I added under People, Places and Things but, yeah, Sylvia, if you also want to add to Facts about the Anomaly, which is like, at least one person has found themselves stuck there. Also, Carter in the chat notes— also hi, Carter in the chat— that one thing that you could endanger or secure are metaphysical things like trust. You think about the end of Twilight Mirage, we used things like that a lot in the way that we played that finale. And that totally makes sense here, where you could endanger relationships between people and stuff like that.
+Keith: In that way, the first fact about the anomaly is “we’ve endangered people’s memories”.
+Austin: Right. Exactly. Exactly. Yes. Yeah. All right, cool. Then. So what do we have left. We have “acquire or lose something” and we have “add a fact about something” and then we have “team meeting”. At this point, I’m just gonna read, “acquire” and “fact” because that way we know what they are and maybe they’ll spark something, “Acquire or lose something. Add a new object or resource to the narrative. What is it, who has it and what can it be used for? Alternatively, what object or resource does someone not have and why do they need it? Use this to create the potential for new interesting situations based around the object or resource or the need for it. And then… Wait, did we already do “add a fact”? No, we did “endanger”. “Add a fact about something. Take any detail that’s been discussed, and add something that makes it more interesting. Use this action to bring spotlight to something you thought was interesting and add more to that conversation.”
+Keith: This is maybe a slight shot in the dark for “add a fact”. But what if Agent Barker is very aware that she is stuck, but other people can’t seem to grasp that. She’s stuck. They know that she’s there to do the mission. But anytime that she tries to explain that she can’t get out, it’s like static. Or not static, but like, I guess, static in a more abstract sense. Like there is something preventing them from grasping that part of the situation.
+Janine: What if the way that manifests is, when she tries to explain that she’s stuck, it gets interpreted as if a kid was trying to explain that they want five more minutes. So she’s like, “I’m stuck. I can’t get out of here.” And her, you know, supervisors or whatever are just like, “OK, you can stay for a bit longer. It sounds like you’re having fun. Whatever. Don’t worry about it. We’ll cover for you. Just bring back some cotton candy, you know I love that stuff.”
+Austin: Yeah, totally. I like this a lot. I’ve added “her supervisors don’t understand that she is literally stuck”. All right. Now we need to acquire or lose something and then we need a team meeting.
+Janine: So did we define where she’s set up? Or just that she is—
+Austin: Just that she is set up, vaguely. We did not set up an HQ inside of it. But we could, if that’s a thing you want to acquire here. We also don’t need to stay just on this one character. We could immediately begin to go broader here. Because I have an idea for “acquire something”. What it is, is a coupon for one free ride this weekend. And who has it is everyone who has a copy of the Bluff City Current. They print it, it’s in the newspaper, it runs every day this week, so everyone has five tickets. And this coming weekend, anyone who bought the paper for five days has five free rides. And so it’s a coupon for free rides and everyone in the city gets it.
+Keith: That’s so many free rides!
+Austin: It’s a lot of free rides. (pause) I’m going to put that under People, Places and Things, I think. (typing) “Free Ride Coupon. Tons of these are out there.” Is that it? Now we can do a team meeting? I believe that’s—
+Keith: Yeah.
+Austin: OK. So. Team meeting says: “the team discusses something”. I’m guessing the team here is the investigation team, so our subgroup of the Concern that Agent Barker is in charge of. “Pose a question from the point of view of someone in the team or a statement/order from someone in the organization. Each person responds, representing the perspective of another part of the team or organization, ending again with the person who posed the question.” Does anyone want to kick this off? (long pause) I think someone from inside of the Concern, not inside of this particular group, sends, you know— basically, opens the question to the Concern writ large like, ahead of this weekend, when everyone has these rides, do we need to quarantine this place and prevent anyone new from going to it? So that is the question. Should we quarantine the Spannheuser Funfair? 
+Sylvia: Well, I mean, that seems like a lot of company resources. I’m not sure about that one. 
+Janine: I think it would be quite valuable to see what happens.
+Keith: Quarantining the park would just let people know that there’s something wrong. If they don’t know there’s something wrong, then they won’t even be worried about it. 
+Austin: Heard. Heard and answered. Great. I was not calling on Agent Herd there just I heard it. No one knows what’s up with Agent Herd these days. All right. So that’s the Action Draft. We are now in the phase of playing the game. “Anomaly doesn’t have any player characters. When playing the game, you primarily represent the perspective of the team. They are the central characters of the story. But also feel free to bring in the perspective of the organization, the community, the anomaly or anything else that comes up. At the start of the game, very little about the situation you’re in will be known. Because of this, you have extreme freedom in early turns. Don’t hesitate to say something big about the state of the world, the nature of the anomaly or anything else in these early turns. Making big decisions quickly will give the other players more to build on. The game operates in turns during which a single player makes decisions and describes their thought process. While thinking through and coming up with something is fun and cool and important, don’t second guess yourself. There will be plenty of time to build on ideas in future turns, and the game will drag if every decision takes several minutes. During a player’s turn, they do three things. One, resolve a card. Two, advance projects. Three, take an action.” Do you want me to go first and walk through this stuff? Does someone else want to go first? Is anyone ready to draw a card and want to be the first person to do that?
+Janine: I’d be ready, I feel like I get it.
+Austin: All right. “Resolve a card: At the start of each player’s turn, they draw a card from a deck of tarot cards. Each card has a question associated with it.” So go ahead and draw a card, Janine. 
+Janine: Okay. (pause)
+Austin: You got the seven of wands, which I’ll go read the question for a second. Actually I’ll just go do that now, seven of wands, right? 
+Janine: Yes.
+Austin: Here we go. So this is a multiple choice thing. I’ll note a fun thing is, I was talking to Carter about this before we began, and there are two things listed here, if you check the book. I thought that one of these was for if it was drawn normally and one was for if it was drawn reversed. It’s not, it’s the either/or thing from A Quiet Year. But I do think a fun hack to this game, and I’m so curious how would play, is if you did it with reversed being the right column. But all the minor arcana give you a choice. The major arcana do not give you a choice. So seven of wands says— also, let me just note really quick before I forget… (typing) “Roll20 tarot deck.” This deck that we’re using is the Pixel Tarot Deck, which is eight bucks, $7.99, by Chee Seekins on the Roll20 marketplace. It’s very pretty. Very good pixel art. So shout that out. All right. “Seven of wands: Either a breakthrough is made, greatly advancing research. What great cost did this breakthrough come at? Or, the team decides to forgo a promising experiment. Due to ethical concerns, who within the team argues against it?” 
+Janine: OK. I think that a breakthrough is made, greatly advancing research. So I think the breakthrough is concerning the history. And it’s that the Funfair was founded in 1883… a number that I pulled out of nowhere. So started in 1883 by, I’m gonna say, the son of a mid-range magnate who owned a company that made candy and a company that made tires.
+Austin: (chuckles) Candy and tires?
+Janine: Yes.
+Austin: OK. 1883 by… You said son? 
+Janine: Yes.
+Austin: Of a candy/tire magnate. OK.
+Keith: One of them was made with the byproducts of the other, but they never say which came first. 
+Janine: Chewing gum, man. It is what it is. I think also that their names would be John-Peter Foster Jr. 
+Austin: Great. Whoa, I made that way bigger than I intended. That’s good. Thank you, Roll20, for having a bug that you’ve had for the last 15 years. (chuckles)
+(Keith laughs)
+Austin: John, what was it? John Foster.
+Janine: John-Peter, here should be a hyphen between John and Peter. John-Peter Foster Jr. 
+Austin: John-Peter Foster Jr. Okay. So not Spannheuser! They’re not the Spannheuser Family. 
+Janine: No.
+Austin: Okay. Good. 
+Janine: No. Because that wasn’t originally the name of it. I think the name was a change that happened probably in the 50s to make it fit current tastes a little more. Or something like that. I don’t think those were current tastes at the time, but you know what I mean? It was probably originally called something like the Quality Products Show from Foster Tires and Candy or something like that. You know how it goes. 
+Austin: Gotcha. I do. 
+Janine: The cost of this is that the person who was researching— who made this breakthrough, they were on the outside of the carnival. Or the fair. They were doing that research and then they realized I need to get in and see— I heard there’s a plaque on the back of this particular ride because it dates from this time. And I need to go in and actually see this plaque and I need to just look for it and find it. And now they can’t get out either.
+Austin: Great. Do we have a name for them? Or just a second agent has gone in, for now?
+Janine: They are Agent… Tinker. 
+Austin: Agent Tinker.
+Janine: On the list.
+Austin: On the list. (typing) “Agent Tinker. Researched history, now also stuck.” Great. 
+Keith: And is it— not everyone that goes in gets stuck? 
+Austin: Not that we’ve seen, no. That’s not established.
+Keith: Like, other agents are going in and working with Barker and then going back out.
+Austin: Yes, 100 percent. And don’t understand— Oh, this is an important question. Does Tinker now understand that Barker’s stuck? 
+Janine: Yes.
+Austin: Okay. Great.
+Keith: What if neither of them understand—
+Janine: I mean, it would be amazing if it’s like, well, I’m stuck but why don’t you just leave?
+Keith: Neither of them get that the other one is— (laughs)
+Austin: Can we at least say it takes like an hour for the both of them to understand this as a fact? That they both— Actually, here’s— 
+Keith: Why not say a day? It’s funny for a whole day.
+Austin: So, this is an important thing. At that point, do does Barker then realize, oh, no one… I guess Barker’s already known no one understands that she’s stuck here, right? Okay. 
+Keith: Well, yeah. 
+Austin: Barker… they/them? I feel like we’ve used? Or, sorry, not Barker, Tinker. Tinker, they/them?
+Janine: Sure.
+Austin: OK. 
+Janine: I’m totally picturing Tinker and Barker finally trying to walk towards the gate, hand in hand. And just like staring very angrily at each other and like, oh, OK. Neither of us. OK.
+Austin: Right. We aren’t advancing projects because you advanced that project all the way through. So that is done. “Third step is take an action. After advancing projects, the player then takes an action. On any turn, a player may start a project, hold a team meeting or take an action based on the suit of the card they drew.” So you could start a new project, we can hold a team meeting or, based on the wands, because you drew the seven of wands, wands suit cards let you add a fact about something. 
+Janine: Oh, weird. I was going to start a project, but it’s sort of a weird thing to make into a project and it kind of makes more sense to have it be a fact that we add. And I think Tinker getting trapped in the fair is a good way to sort of learn this detail. Barker’s base that she set up here, she is using a portion of a dark ride that had been blocked off. Darkrides— I think they’re called darkrides, are things like Mr. Toad’s Wild Ride or things where you’re in a car at a track and it brings you through the dark. They are a very popular turn of the century kind of ride that stuck around. But more importantly, they specifically are supposed to be themed around hell and death and spooky stuff. 
+Keith: I don’t know that I’ve ever heard of a darkride. 
+Austin: I’ve always heard things like Space Mountain is a darkride.
+Keith: Never been to Space Mountain, I’ve been to Disney—
+Janine: I think that’s a more contemporary understSylviang of a darkride. Like a darkride… Mr. Toad’s Wild Ride is a really classic example, but Mr. Toad’s Wild Ride is even based off of traveling fair rides, where it’d be like, here, sit in this car and you’re gonna go see hell. 
+Austin: Right. But even things like…
+Janine: Haunted Mansion is a darkride, I think. 
+Keith: Oh, I’ve been to a Haunted Mansion. 
+Austin: Makes sense. Cool. Do we know what one this is? 
+Janine: What do you mean, what one? 
+Keith: The name of the… 
+Austin: Yeah. What is the name of the darkride? 
+Janine: Oh, um. 
+Austin: Right. The Tunnel of Love, as Katie notes in the chat, also a darkride.
+Keith: Okay.
+Janine: Yeah. I think it is called…  the… I want it to sound as shitty as possible, but the risk— Whenever you make a thing that sounds shitty, it’s hard to make it sound shitty on purpose. It’s called The Woods of Woe. 
+Austin: The Woods of Woe. Love it.
+Keith: Is it like kitschy and tacky? 
+Janine: Yes.
+Keith: Or is— OK. Or is it like genuinely scary?
+Janine: It’s like faces in trees and weird, diaphanous, dirty-looking fabric hanging off of stuff.
+Austin: Right. Old recorded ominous laughs, but you can hear the kind of metallic tinge to their voice because the speakers are broken.
+Keith: Yeah, right.
+Austin: (high-pitched, robotic) Ra-hahahahahaaa. That stuff.
+Janine: It probably has that sort of aura that the— I believe this is true, The Pirates of the Caribbean ride at Disney used to have real skeletons in it because they were cheaper than prop skeletons.
+Keith and Sylvia: WOW. 
+Janine: And then they went and removed 99 percent of them, except for the ones that were like built into props and couldn’t be removed.
+Austin: That’s fantastic and terrifying.
+Janine: Like part of furniture and stuff. So it probably has… And you know, there’s also that famous mummy that was just like famously in a haunted house. It was a real person’s mummy. So I bet there’s rumors about that shit in The Woods of Woe. 
+Keith: Like the guy that somehow was…
+Janine: He was like a cattle rustler or something?
+Keith: Yeah, he was like a cowboy. Or an outlaw. 
+Janine: And they found out he was full of coins because people put coins in his mouth. 
+Austin: Gross. Let’s keep moving.
+(Keith and Janine laugh)
+Austin: Can someone write down that thing, or Janine, can you write down the name of this thing under People, Places and Things? Let’s just do it on our turn. If it’s our turn, let’s do the writing. Even for me, it’s a little clicky. Let’s go and turn over now at the bottom. Keith, are you ready to draw a card?
+Keith: Yeah, I’m ready to draw a card.
+Austin: Go ahead and draw a card!
+Keith: Let’s do it. Draw one card. Love that. Draw. 
+Austin: You can just click it and drag it out the top and it’ll go right onto the front. You got the Night of Pentacles. So. “Either: someone on the team has stolen something. What? And why? Or: someone on the team has found a way to use the anomaly for profit. What sort of profit? Is this safe?”
+(Sylvia, Janine and Keith laugh)
+Keith: I’m like a 100 percent number two. The Concern is very that, I think.
+Austin: Yeah
+Keith: ‘Someone has stolen something” is also a good one, but, paired with— that one, with the Concern, it’s like, yes, one of these people and probably like an in-charge person, like someone who is not just an agent. 
+Austin: Right, not someone who’s like a field agent, like someone who is making bigger decisions. God, how do you use this thing for profit? What’s an aspect of it that we know… Hmm.
+Keith: I have a backup idea, but I want to try and think of something before I even pitch that. Let’s see. What are our facts about the anomaly so far? “People have fake memories of visiting the fair.’
+Austin: And then, at least two people have been— Thank you for updating, Sylvia, to “two people have been trapped inside and cannot find the exit”. 
+Sylvia: No problem.
+Austin: Is it something about those memories? Is it evidence of the memories? Is it…
+Keith: Yeah, I’m thinking like… how do you…  How do you take someone’s money if they aren’t remembering things right? I’ll pitch my gut thing, maybe as a way to get back— get to something, I think, is more interesting… My initial pitch about what the anomaly could be included the item doubling glitch in Pokémon. And like, it could just be paying kids five dollars to ride the Zipper, and, every time they come off the Zipper, they’ve got like, sometimes it’s 10 bucks, sometimes it’s 50 bucks, and you just take the extra money. 
+Austin: Or what if it’s not that they come out with extra money? What if it’s like, you know, rides where people lose their wallets? You know what I mean? “Oh, my wallet fell out.” Or like, “my glasses came off.” You know what I’m talking about?
+Keith: I have such a good one of those. Yeah, I totally do.
+Austin: What if that’s happening? But also, they’re not losing them. Do you know what I mean? (laughs)
+Keith: Their wallets are flying off during the ride (crosstalking) but they’re still in their pockets. 
+Austin: (crosstalking) But also they still have their wallets. Yeah, you’ve duped the item somehow. The book says to go big, you know what I mean? The book says we can still establish big, weird things here.
+Keith: Yeah, yeah.
+Austin: And I know it was a thing you wanted to do anyway. You said you had a good one of these? Do you mean you had a good—
+Keith: Oh, I have a very good story about losing something on a rollercoaster.
+Austin: Oh, no. 
+Keith: When I was a child, I went to the Six Flags in New Jersey, and we went on the Nitro. At the time it was the fastest rollercoaster in the world.
+And my dad was like, “I’m not leaving my cell phone in the ‘leave your hats and cell phones here’ box because someone will steal it,” which is not true! People don’t steal things from those boxes typically. Anyway, nearing the end, the last big burst of speed that the rollercoaster goes through, his cell phone falls out of his pocket and makes an enormously loud shattering sound when it hit the tracks. And everybody on the rollercoaster thought that they were going to die because it sounded like the rollercoaster was about to break and everyone was going to fall. So it was a big crash and people screamed. And then I looked down and I saw my father’s, at the time, very nice cell phone in a hundred pieces falling to the ground.
+(Keith and Janine laugh)
+Austin: Oh my God.
+Keith: It was very expensive to be cynical that day. 
+Austin: God. (pause) I’ve added: “People who lose things while riding the Zipper have those things duped, retaining the originals, but leaving the duplicates.” Actually, that’s not fair. “Retaining…” We don’t know which is the duplicate and which is the real, right?
+Keith: No, we don’t.
+Austin: “One copy while another lies inside of the ride.”
+Keith: And, putting this out there, they could both be real or both not be real. 
+Austin: Yes.
+Janine: I like the idea that neither of them is actually the original.
+Austin: Yeah, exactly. Do we have a name—
+Janine: The original is somewhere else.
+Austin: Do we have a name for this person? There’s the name list in the Handouts section. Wanna grab one of those? 
+Keith: Are we specifically using this or…
+Austin: We don’t have to, but this is a great starter. This is a great like, oh, yeah, these are good names. 
+Keith: Sean Evans (laughs).
+Austin: Sean Evans. Agent Evans, Agent Sean Evans. Agent Bald.
+Sylvia: Agent Snave.
+(Keith laughs)
+Austin: (chuckles) Agent Snave. Agent Snave would absolutely do this. I’m writing it. Agent Snave, he/him. Scamming the Zipper. 
+Keith: Yeah. There are people who are like hooking up diodes to things and Agent Snave has got like a butterfly net, trying to catch wallets.
+(Keith and Austin laugh) 
+Janine: I hate that I’m picturing him as one of the lizard Pokémon with the sassy eyes. 
+(Keith laughs)
+Austin: Oh, yeah. Uh huh. No, you’re right. I’m making it smaller because we’re gonna run out of space if we keep using this big font. All right. “You’ve more to do. You can, at this point—” Well, again, we don’t have any current projects. So “you’re not going to advance any projects. But you can take an action. You can either introduce a new project, hold a team meeting, or, because you drew pentacles, introduce a character.”
+Keith: What was the first thing that I can do?
+Austin: Start a new project.
+Keith: OK. Project, meeting or—
+Austin: In this case, introduce a character. Yeah.
+Keith: Which I feel like just happened. 
+Austin: Yeah. Me too. Me too. 
+Keith: So I’m going to start a project. 
+Austin: All right. What is the project you’re gonna start? 
+Keith: The Concern agents have decided that the best way to figure out what the anomaly is doing is by trying to increase the potency of its effects. And so they’re trying to see if they can supercharge the anomaly. 
+Austin: How long is this going to take? Between one and six.
+Keith: I think this is a five or a six.
+Austin: OK. I’m down with that. 
+Austin (as a Concern Agent): These motherfuckers.
+Keith (as a Concern Agent): What do you mean?
+Austin (as a Concern Agent): They’re going to supercharge the anomaly?
+Keith (as a Concern Agent): How else are you gonna figure out what it’s doing really? 
+Austin (as a Concern Agent): Yeah, fair. You know what? You got me. 
+Keith: And Snave is like, “yeah”.
+Austin: “Absolutely.”
+(Keith laughs)
+Keith (as a Concern Agent): What if we could make this do it more? 
+Austin (as a Concern Agent): What if we could do it more?
+Austin: All right, there, boom. All right. Let’s go with five steps. Great. Cool. All right. It is my turn. We’ll do one loop and then we’ll take a break maybe and I’ll talk about how the game ends because otherwise we won’t know how the game ends— (laughs) how the flow of the game is, so. All right. I’m drawing a card. It is the King of Wands. “One: The organization sends another team who hide key information from existing researchers. What have they found? And why don’t they want the others to know?” Or, “the team hides a key finding from the organization. What information is too dangerous for the organization to know? Who is unhappy about keeping the secret?” These are both good.
+Keith: What was the first option there?
+Austin: “The organization sends another team who hides key information from the existing researchers. What have they found and why don’t they want the others to know?” And I have an answer and that is what happens. A second team goes in and they come out with Agent Barker and Agent Tinker. Who are still stuck inside of the anomaly. So what they don’t want the main team to know is that they’ve extracted the main team safely. Which one’s the original? I don’t know! Something is duplicating in here, including people, maybe. So they’ve hidden the fact— or they don’t want the others to know that what they have found is Agent Barker and Agent Tinker seem to have been duplicated. They don’t know how to different differentiate one from the other, except that this Barker and this Tinker were able to be extracted safely. So there’s one!
+Janine: That’s what they get for going on the Zipper in someone’s pocket. 
+Austin: (laughs) Yep, exactly! Then I will advance this clock by one. “Supercharged the anomaly.” And then— what did I draw? What did I draw? King of Wands? Wands do what again? I should just add this chart to the screen is what I should do. 
+Keith: Fact? I think Wands are “add a fact”? 
+Austin: Yes, they are. Do I want to do that or do I want to introduce another clock? Uh, I’m going to introduce a clock, and that clock is gonna be the weekend. And I think that’s a four step clock. This is the weekend where all the kids are coming, where everyone is coming with free rides, which I introduced as an idea before, but did not introduce a clock for it. This is a project not being done by the Concern, but being done by the anomaly itself. (typing) “Name: Free Ride Weekend.” I think that’s four step? That way it can be long, but like, if we’re treating this as days, it’s like, the weekend is hitting in four days. 
+Janine: Morning, afternoon, morning, afternoon. That’s two days.
+Austin: (laughs) Perfect. Yeah. But I’m saying it starts when this clock finishes, you know? And I mean, again, no cards on the table left hidden. All cards on the table. The plan that I have for this is just like, it wants more people stuck here. And so it wants to bring in as many people as possible. Right? Or I don’t know if it wants it, I don’t know if it wants. But that is the—
+Keith: That’s what it does.
+Austin: Right, that’s what it does. What it does is—
+Keith: It tends towards doing that.
+Austin: Yes, exactly. Alright, that’s my turn! Sylvia, draw a card. 
+Sylvia: The two of Wands.
+Austin: Two of wands! There we go. “An expert among the team makes a startling discovery. What’s the discovery? What’s their area of expertise?” Or, “the anomaly is defying conventional testing. How? What can the team learn from this?”
+(long pause)
+Sylvia: I’m kind of struggling here, if I’m being honest. I’m leaning towards the first one and I’m leaning towards it being something related to the pull that this fair is having. Like, maybe it’s like, they have someone who monitors like social phenomenons within the Concern and what they discover is that there is something more going on than just good advertising. That, basically, there is something here that is actively drawing people, whether it’s like a form of hypnosis or something like that is unclear at the moment. But there is a magnetic pull.
+Austin: So is this like— this person interviews someone is like, “so why are you headed to the Funfair? Is it because you got the free ride ticket?” And they’re like, “what free ride ticket?”
+Sylvia: Yeah. It’s like, why wouldn’t I be going to the Funfair? 
+Austin (as the Interviewer): When did you first hear about the Funfair?
+Sylvia (as the Eager Attendee): I’ve always known about the Funfair.
+Austin: “Right, I have been waiting for this moment my whole life.”
+Sylvia: Yeah.
+Austin: Love it. 
+Keith: This is interesting because it sort of reminds me of like… I don’t do a lot of fishing, but my understSylviang about fishing is, one of the tactics of picking a lure is that you don’t just want it to look appealing, you also want it to move in an appealing way. And so like, so far we have this thing that’s got the regular draw of being a carnival that people want to go to. It has the curiosity effect of people remembering having gone last weekend. “That’s weird. We should check this out.” And now it has this third thing that is like, even if those first two things aren’t working, there is just something else about it. Like a shimmering lure that people want to go to. 
+Austin: (typing) “People are attracted to the anomaly.”
+Keith: Thank you.
+Austin: No worries. Do you have a name for the social researcher?
+Sylvia: Um.
+Keith: Let me look at the names really quick. 
+Sylvia: Let’s go with Agent Trotter. Number 90 on the Lakuna names, I like that one.
+Austin: It’s a good name. Agent Trotter. 
+Sylvia: I almost said Agent Taylor, but we already have Tinker, we can’t do both.
+Austin: Yeah. We can’t do both (chuckles). 
+Sylvia: So I can add effect—
+Keith: Agent Spy is really funny.
+(Austin, Sylvia and Keith laugh)
+Austin: What are Trotter’s pronouns? 
+Sylvia: He/him. I think he’s like a, if people want a description, like an older guy in the company. Like, been doing this for a while, so that’s why I know when something’s up. 
+Austin: Yeah, “this smells fishy”. So, yeah, I’ve advanced the clocks for you. And so, yes, you can start a new project or discover— wow, we’ve got a lot of Wands. Discover a fact, I believe, right? Or hold a team meeting.
+Sylvia: Did we shuffle the deck? (laughs)
+Austin: We did, 100 percent.
+Sylvia: OK. (laughs) Just, we have been getting a lot of Wands.
+Austin: I will double shuffle it. I don’t mind that, boom. 
+(pause)
+Sylvia: Tell me if this would work as a fact about something, is that we have not seen employees leave. 
+Austin: That’s a great fact. Would that work? That’s a great fact. Add that to the list.
+(Janine laughs)
+Sylvia: Just making sure that wasn’t one of the other categories. 
+Austin: (laughs) I’m sorry that I adopted the cadence of the Gremlins 2 skit from Key and Peele.
+(Sylvia, Janine and Austin laugh)
+Sylvia: “That’s a great gremlin.” Um, let me read the rules here for when we end the game. Then we’ll take a break because we’ve basically done everything else except “continue to play”. So, all right, there’s one other little thing and then the ending the game. So “1. Accelerated Play: A normal game of Anomaly takes between 2 and 4 hours. If you need to play in less time than that, my recommendation is to play as normally, but only take actions if you have an idea immediately. While actions are very useful, interesting, it can sometimes take a while to come up with a good one. If you’re playing this way, I recommend focusing mainly on projects when you do take actions as they are the action that most quickly directs the action of the game towards conclusion.” I think we’re good. I think we’re at a good pace right now.
+“Ending the Game: The game ends when the team is no longer investigating the anomaly. This could be because they found everything they were looking for, they abandoned their quest, the community turned against them and forced them out or it was destroyed and they had to flee. Feel free to discuss as a group what happened to the characters afterwards. But at this point, their story no longer can be told within the game itself. A game of Anomaly typically lasts between 2 and 4 hours. A game will often naturally lead itself towards conclusion, but to help it get there, consider taking the more dramatic option when possible. For example, when drawing a Major Arcana, do the scarier thing that pops into your head, start projects that will make big changes to the status quo and use projects from the point of view of the anomaly to create problems that need to be addressed to drive the story forward.” All right. Let’s take a quick break. And when we come back, we’ll go into the second round of of action here. Sound good?
+Keith: Yeah. 
+Austin: All right. We’ll be back in just about five or six or seven minutes maybe. BRB.
+———[01:10:50]
+Austin: All right. We are back with more Anomaly. Let me bring the actual thing back up. There we go. Boop. All right. We just finished Sylvia’s turn. We just finished a full rotation of the game. And now we are going in to the second turn. Do you want to draw card, Sylvia? 
+Sylvia: Oh, shouldn’t—
+Austin: Oh, sorry, Janine, Janine. You just went. Sorry, Janine started us off, not Sylvia. Apologies. Janine, go ahead! (pause) The six of Pentacles.
+Janine: Six of Pentacles.
+Austin: Do you want to read—
+Ali: We have only gotten Pentacles and Wands.
+Austin: It’s true. Very creepy.
+Keith: Lots of coins and sticks all over the place.
+(Austin laughs) 
+Keith: Is that what a Pentacle is? 
+Sylvia: I believe it’s supposed to be, yeah.
+Austin: Is it a coin— Wait, no, isn’t Coins a different thing? Isn’t Coins another—
+Sylvia: Maybe it is, yeah.
+Austin: No, Cups is the other one, right?
+Keith: Pentacles, Cups…
+Sylvia: Yeah. I see them depicted as like coins with stars on them most of the time. 
+Austin: Yeah. Anyway. Six of Pentacles.
+Keith: Penis tentacle.
+Sylvia: Fucking great.
+Austin: “What’s the weather like in the area? (chuckles) How does this affect the team’s research?” Or, “what unusual local phenomenon first brought the area to the organization’s attention?”
+Janine: I feel like we’ve already answered that. 
+Austin: Yeah. The weather one seems more interesting to me, given what we’ve already set up.
+Janine: Yeah. OK. So I’m gonna make the call that one of the lowkey strange things about this fair… One of the things that’s like— it’s not the most strange thing, so when you’re talking about, “hey, that fair is strange,” it’s not really a thing that rates. But it’s like late fall and this is kind of maybe when the fair should be packing up and going South and not being up here. And there is like a bit of weirdness to that. But once you go into the fair, you realize like, “oh, this is like early September, late August weather”.
+Austin: Perfect fair weather.
+Janine: It’s perfect fair weather. It’s perfect fair weather for like, you can still feel good about eating some more summery foods, but also you can still feel good about eating some more cozy fall foods. Like you get that perfect overlap where you just want to eat like a spiced apple popsicle or whatever the fuck. Like you just want to… perfect overlap. 
+Austin: Uh huh. And that’s regardless of what it is outside. 
+Janine: Yes. 
+Austin: Like ongoing. OK, great. Good. Safe.
+Keith: Even rain? Does it negate rain?.
+Janine: Yeah.
+Austin: Does this make the team’s research easier? Or harder.
+Janine: I guess it depends on if they like white noise when they’re working. I find working in the rain very soothing. But, you know (chuckles).
+Austin: You can’t hear the thunderstorm around you. It’s like clear.
+Janine: Maybe the thing that sucks is that, when they went to the fair, they were like, “oh, it’s overcast, it’s pretty cold, I’m gonna bring a coat” and stuff, they’re not really dressed for this. They’re a little bit overdressed. They’ve got layers, so they could take the layers off, but then they don’t have sunscreen. So it’s like, “I gotta keep this sweater on or else I’m going to get red”. 
+Austin: “I don’t want to spend all the fucking money for the sunscreen that they sell at the gift shop, it’s a fortune!”
+Janine: God, no.
+Austin: They have people come in with sunscreen deliveries? Though, again, at this point, people still don’t understand, right, that Tinker and Barker are stuck here. We’ve not changed that fact. All right. I’ve advanced the two clocks. Free Ride Week only two away, Supercharge the Anomaly only two away. Gonna be a big turn in two turns! Love it. “Take an Action”. So you can start a project, hold a team meeting or, because we drew Pentacles, introduce a character.
+Janine: I would like to introduce a character. This character is going to not be a nameless character, but it’s going to be a… fakenamegenerator.com character.
+Austin: Love it, great. 
+Janine: Because that’s important.
+Austin: Wait, I have a question. Janine, this is just— is it a Fake Name Generator character? Do you know what I’m saying? No, but do you know what I’m saying?
+Janine: No (laughs). I absolutely don’t.
+Austin: I can’t talk about this yet because this episode isn’t out yet. But is it a Fake Name Generator— Is it the sort of character who would use a Fake Name Generator name? I think, on this call, only Janine should know what that means based on—
+Janine: I don’t know what that means.
+Austin: I’m going to message you. I’m going to message you. (typing)
+Janine: Oh, that’s. I don’t. I didn’t know that was a thing. 
+Austin: Yeah, because remember there was the ideal of like, it removes the aestheticization of it. Think this will make sense to everyone—
+Janine: I don’t think I was there for that conversation. 
+Austin: You were, absolutely. People will hear it in the next Bluff City episode. 
+Janine: OK (laughs). Well, look. I just wanted a person’s name.
+Keith: Is there somewhere where I can see what you’re talking about?
+Austin: You will hear it in the next episode that comes out!
+Keith: OK.
+Janine: Anyway, the too-perfect person that I got from this is Maria R Carvagal. C-A-R-V-A-G-A-L. (typing) That’s the wrong prompt. And Maria… Whoa, sorry. OK, so Maria, she is, not a ride operator, but like the person who does the games? Is there like a special name for that?
+Austin: Like who operates… Is that. Is that not a barker? I guess a barker’s just calling people.
+Keith: A barker does like, yeah.
+Austin: They’re not attending to…?
+Janine: I want a person who hands out goldfish.
+Austin: I guess the thing is, these days, a lot of people have to do both of those things at these carnivals. 
+Janine: That’s true. I guess we could just say she’s staff.
+Austin: Operator, staff. Yeah, staff is fine. 
+Janine: She’s 59 years old, she’s a Taurus. 
+Keith: I like operator. 
+Austin: OK. 
+Janine: Fake Name Generator gives you websites and stuff, and the website it gave me for her, I’m not going to read it out loud, but I am going to put it in our chat. Anyway, she is… She’s a barker, she’s staff. She operates… I think people go from game to game kind of depending— I don’t know that things are locked down in this cursed fairground. But yeah, that’s her— I think it’s one of those things of like, whenever you look up and you notice a game, you notice that she’s the one there. It’s like, oh, right, that’s— you told me your name is Maria, OK. I guess she’s working there today. 
+Austin: OK. That just keeps happening.
+Janine: Yeah.
+(typing)
+Austin: OK. you got it. Okay. “Staff everywhere.” Boom. All right. Keith, it is your turn to draw a card. 
+Keith: Not your turn? I went before you?
+Austin: You go before me because we’re going in the order in the bottom left.
+Keith: Okay. 
+Austin: The four of Swords, our first Swords. “Who on the team are long-term friends? What is their relationship like?” Or, “who on the team are bitter rivals? What is their relationship like?”
+Keith: OK. So right now we have Trotter, Snave, Tinker and Barker.
+Austin: Yes. Let me move this over here and then I’m going to do… I’m moving stuff around so that it’s…
+Keith: I think Trotter and Snave are rivals. Trotter sees Snave as nothing more than a basic conman, when, if you pay a little bit closer attention, you can organize a much bigger con. 
+Austin: Oh, the rivalry there is that Trotter thinks that the scam should be bigger. Or like, looks down at…
+Keith: Not even the scale, but the money isn’t in picking up wallets off the ground. “Oh, you figured out where you can make a couple bucks but why not engineer something that will generate money.”
+Austin: Right. Let me see how this looks, one second. Eh, I’d rather draw a line. It’s fine. Cool. Oh, did we forget to advance clocks last turn? We did. Boop, boop. Or did we? Wait, chat, do you remember if we—
+Keith: I think that that’s correct. I think it’s now correct.
+Austin: You think with one more is correct? 
+Keith: Right.
+Austin: But that’s correct after your turn.
+Keith: No.
+Austin: I think so. I think I just said “in two turns”. I’m pretty sure I advanced them last time. Chat will remember.
+Keith: Who created Free Ride Weekend?
+Austin: Me.
+Keith: So if it’s only two and your turn is next turn, it should complete at the end of your turn.
+Austin: It should complete in the middle of my turn. Yeah. So then this is right. This is right after your turn then. Cause one was Sylvia, two is Janine, three is you.
+Keith: OK, I’m looking at Free Ride Weekend, which still only has two out of three.
+Austin: It should have three now. Just added a third.
+Keith: Oh I don’t see it.
+Austin: Uh oh. Do you not—
+Keith: I guess that’s what the disagreement was about, is that I’m not seeing…
+Austin: That’s a problem. There should be three for Free Ride, are people not seeing three for Free Ride?
+Keith: I see everything for Supercharged, but I see top right and bottom left for Free Ride. 
+Austin: You don’t see bottom right? How about now?
+Keith and Sylvia: No.
+Austin: What? What? 
+Keith: Oh, my God. New anomaly.
+Austin: New anomaly. I’m going to delete it and redraw it. That’s wild. Now?
+Keith: Yes.
+Austin: Weird. OK.
+Keith: Wow. What’s the opposite of duping? Roll20 is stealing ticks, it’s stealing clocks.
+Austin: What was the— Oh, I was drawing a thing over here. All right, so you have Swords. We got rivals.
+Keith: Does this rival thing go under People, Places and Names?
+Austin: Yeah, I’m going to make the connection as soon as I get a second. But, with Swords, “you can either start a project, have a team meeting or secure or endanger something”.
+(long pause)
+Keith: I’m leaning towards using my special Sword ability to secure or endanger something. 
+(pause)
+Austin: Either is interesting. 
+Keith: Yeah, I guess— What do we feel like at this point the vibe is at the carnival outside of the group? Like the weather is nice, people are getting— like, are people still liking the carnival? 
+Austin: Yeah, I think so. I think we are pending two big… If the mood is going to change, it’s gonna be this weekend when the Free Ride Weekend hits, a bunch of people show up and the anomaly gets supercharged. How are they supercharging the anomaly? What’s that look like, by the way? I forgot— I’ll ask this next turn. 
+Keith: Yeah, we have put off until it succeeds to describe it. So I guess the thing that I was toying with was, what if right before they successfully supercharge the anomaly is when things start looking really weird.
+Austin: And the vibe starts to turn just a little bit?
+Keith: Right. And it’s not severe enough or not enough time to reverse the supercharge project. But it is enough time for everyone to be like, “I think that this is a bad idea” right before it happens. 
+Austin: By everyone you mean the community, the people from the neighborhood, the people from the city who are going to this thing?
+Keith: Right. Well, I mean, the Concern observing that things are becoming more unsettling are now like, “is the supercharged thing a good idea?” And then it happens right before.
+Austin: I see. So the thing that is being endangered at this point, then, is the Concern’s ambivalence? Like the sort of like… 
+Keith: Right. Yeah. Yeah. 
+Austin: I don’t mind that. What triggers that? What is the thing where the Concern is finally starting— the mood, the vibe is changing? Is it just like the weight of things?
+Keith: I think someone gets stuck in a smaller area.
+Austin: Ooh, that’s good. That’s good. They’re like, “yeah, I’m over near the Ice Cream Zone and—”
+Keith: But the people outside of that area, even the ones stuck in the whole carnival, don’t understand. 
+Austin: Is this another new person or is it one of already stuck people that we’ve established?
+Keith: I think it’s gotta be Barker.
+Austin: Okay, so Barker. Where is she stuck? 
+Keith: I don’t know. I think it’s like… You know how these types of carnivals have got like, here’s a couple rows where all the games are and here’s where all the food is, and here’s the aisle of rides. I think it’s at the end where the Egg Scrambler is,  and there’s just one ride, there’s one fried dough stand and there’s one game. There’s just like this rectangle.
+Austin: OK. “Now stuck in small zone.” Great. All right. It is my turn. I’m drawing a card. The Tower!
+Sylvia: Oh, my God.
+Austin: I just want you— I don’t know what this means because I haven’t searched yet, but if I scroll up in the chat of ours, people have been chanting “Tower, Tower, Tower”, says Alex C. So I have no idea what I’m about to hit. “The Tower: Something critical is destroyed utterly.”
+(Sylvia and Keith laugh)
+Austin: “What is it? How does the team/community react?” Ughhhhh.
+Sylvia: Y’all chanted for us to get this?
+Austin: Y’all chanted for us! Y’all for real. You’re out here, who are you rooting for?
+Keith: I’m just proud to be part of something that people will chant at. 
+Sylvia: That’s true. 
+Janine: I’m retroactively chanting for it.
+(Keith laughs)
+Austin: Ughhh, can I— Can I do this in reverse order? Or not reverse order, I want to destroy the entrance/the exit, but I want it to happen after we’ve supercharged and brought a bunch of people into it. Which is ticking. Both of those are happening this turn.
+Keith: Can I throw a suggestion out, which is can we destroy the exit but people still are coming.
+Austin: Can get in. Uh huh! Yes.
+Keith: They were outside of the carnival, they meant to go there, they show up there…
+Austin: They can’t get out, the exit breaks. Just the turnstile won’t turn. It just won’t turn. And if you climb the fence, you’ve climbed the fence to another part of the carnival. 
+Keith: Is this the Dark Souls fog gate mod? 
+Austin: Yeah. God, you wanna explain what that mod is? It’s so funny. 
+Keith: So it’s— maybe I shouldn’t explain, I’ll explain it because maybe my lack of knowledge of Dark Souls will help here. Which is that it seems like there’s loading points that are covered in fog, like where things load, and there’s a Dark Souls mod where every time you would go through one of these loading areas instead of bringing you to the other end of that loading area, it brings you to any other fog point at any other point in the entire Dark Souls world?
+Austin: Yeah. And in Dark Souls 1, there’s a lot of those that are not just boss fights, they’re just like zone connection zones. And so you’ll go through a fog gate with this mod and just show up in a different level entirely.
+Keith: Right. Or you’ll show up where there’s a boss that you weren’t expecting and you’ll beat the boss, and then you’ll try to leave, and it’s another boss.
+Austin: It’s another different boss, yeah. (typing) “The entrances work…” OK. Love this, I love this! This is safe. Thanks for rooting for this one for us, everybody. This was kind of you, you know?
+Keith: This is what I love about clocks, because we pulled a card that let us destroy the entrances and exits, but we have a clock going that necessarily uses the entrances, so it doesn’t matter whether we destroy the entrances, people still are going to show up.
+Austin: People are still going to show up. Let’s talk about your Supercharge the Anomaly, Keith?
+Keith: Yeah. 
+Austin: What? How did it end? How did it go in the end? 
+Keith: So I think, with the duplicating, the expected result was going to be looked like… I don’t know, maybe the things that are duplicated will be bigger? Maybe it’ll duplicate more things, instead of *a* duplicate wallet dropping, there’s three or four? But actually it’s changing the quality of what is being duplicated. So a wallet that had five dollars is now a wallet that has five hundred dollars. 
+Austin: Oh, interesting. OK. So it’s like you’ve turned the sliders up on the thing but the thing is still the thing. Love it.
+Janine: Is it actually still the thing? Or is it like a leather wallet turns into a polyurethane wallet, turns into a duct tape wallet? 
+Keith: Well, the thing that Snave wants out of the wallets is the money, not a better wallet.
+(Austin and Janine laugh)
+Keith: That’s why it’s better money. More money. 
+Sylvia: What?
+Austin: So, in fact, this has now been supercharged specifically in a way that benefits Snave. Sylvia, you also had something.
+Sylvia: I was just going to suggest because the quality changing thing, I’m just imagining someone opening one of these wallets and it’s like, “this is not American currency in here” as well. Like, it’s not always going to be 100 percent for Snave. 
+Keith: Sorry, I didn’t mean to imply that things were revolving around Snaith, but it’s revolving around the observer of the phenomenon. It is improving quality, whatever that means to the person that’s expecting something of it.
+Austin: Which doesn’t mean they can leave (chuckles). So they might be like— does it mean, in fact, that they are like… Oh, God, my brain hurts. All right. Before this happens, you climb a fence to leave. What happens? You show up in another part of the fair. 
+Keith: Instead of leaving the grounds, you’ve left the queue for the ferris wheel or whatever.
+Austin: After this happens, you climb the fence. And what do you see? You don’t get to leave, but you see the place in the fair that you kind of like the most, even though you kind of hate this whole place (laughs). And maybe that changes the next time that you climb the fence. But it’s giving you the feeling of like, “oh, no, it’s fine. You’re still here. Remember? You really like the Arcade. And now here’s the Arcade.” Something else happens here, which is I get to take an action and, with a Major Arcana on top of starting a project or having a team meeting, you can do another Anomalous Action. As a reminder— What’s up? 
+Keith: Did we describe Free Ride Weekend happening?
+Austin: We didn’t. A ton of people show up. A toooon of people show up. More people than fit comfortably. So the lines get longer at every ride. And most of these people haven’t been stuck here for a week already. So they’re just excited at this point. They don’t learn that they can’t leave until tonight. And I kind of want tonight to be the next— I don’t want to hit tonight yet. We’re in the weekend. Or maybe— is it good? Should we get to the point where people start to realize they can’t leave? No.
+Janine: They only just got here! 
+Austin: They just got here. They just got here! It’s Saturday. 
+Keith: Here’s my pitch, though. There’s a lot of types of people at carnivals. And I remember a very specific experience of being at a carnival when I was younger, when my even-younger sister was not having a happy day. And that led to my mother being like, “we’re just leaving then. We’ve been here for 40 minutes, we’re going home”. Maybe that’s the first person that realizes. 
+Austin: Right. And they’re like, “I can’t get out of this place. The exit is broken. Honey, it’s fine. Honey, it’s OK, we just have to wait until they fix the exit. We’ll just wait here by the Ice Cream Zone”.
+Keith: Which doesn’t really mean anything.
+Austin: No, but you’re a parent, you want your kid to not be upset. “Honey, we can’t go until they fix the exit.”
+Keith: Yeah. Maybe she even believes it at the time.
+Austin: No, totally!
+Keith: Like the thing’s, “oh yeah, the exit is not working, we’ll just wait until it’s fixed”. And then it’s the next day, you realize, “wait that didn’t mean anything”. 
+Austin: “The exit doesn’t work? We’ve been here for six hours.”
+(Janine and Keith laugh)
+Austin: Also, people aren’t Concern agents, which means that the speed— remember, it took Barker and Tinker a day to figure out that both of them were stuck here. So it might take everyone a long time to understand that they are stuck here for real. Or that the other people are also stuck here. There might be this thing of like, “I’m stuck here. Oh, fuck, no one will understand that I’m stuck here”. But that’s not being communicated clearly to other people who are also stuck here. Anyway, I like this. I get to take an action. I’m gonna take the Anomalous Action, “the anomaly does something weird. Is it dangerous? Is it disruptive? Does it follow with what the anomaly has been seen doing before? Uses this to bring focus to the anomaly and what it does, and push its story in an interesting direction”. Boy, that night it gets announced on the news, on the radio news, of course, that— “Such a great turnout tonight at the Spannheuser Funfair and Amusement Park… carnival… ride… over at the St. Andrew’s Church parking lot, that they’re adding a second location.” And they open a second Funfair at the other side of town. So now there are two Spannheuser Funfair’s running in Bluff City at the same time. They just call it Park Two. You know they call it this because the next morning more coupons are printed and they say, you know, “acceptable at either the original or Park Two”. 
+Keith: This place sucks.
+(Keith and Sylvia laugh)
+Sylvia: Yeah. Maybe just a little bit. 
+(typing)
+Austin: All right. That is my turn. 
+Sylvia: Okay. Let me draw a card.
+Austin: Please!
+Sylvia: The 10 of Cups.
+Austin: The 10 of Cups. This is our first cup? Think so. “A member of the team is badly injured while researching the anomaly. How serious is the injury? How will the team manage without them?” Or, “a danger from the anomaly is found and a costly solution is presented? What is the danger and what costs must be paid to prevent it?”
+Sylvia: Wow.
+Austin: I’m gonna add— there was some other stuff here, right? Let me add some more facts from last turn. You can keep going.
+Sylvia: Mm-hmm. (pause) The only thing I can think of for— I’m probably leaning towards option two just because of the sort of things we laid out at the beginning, and I can’t think of anything that isn’t kinda gross for that first one. Anything that can go wrong is kinda gross.
+Austin: The first one, Keith, was “a member of the team is badly injured”. I don’t mind someone being injured. I just don’t want to get gory with particular description. 
+Sylvia: My idea isn’t quite gory so much as it’s like, oh, they like we’re getting duplicated, but it stopped halfway through. Austin: Ooh, brutal. 
+Sylvia: And there is part of them growing out of them. And there’s no blood or anything, there’s no gore at all, really. That’s kind of what makes it more unsettling. And I think it’s got to be one of the people who came back, Barker or Tinker.
+Austin: Ohhh. So you think it’s the version of them that left the park? Now have… We only ever see this in silhouette or something, you know? And this just happens over night? What happens here?
+Sylvia: Yeah, I think it is just one of those things where it’s like, much like how stuff with the Anomaly is just like you turn around and something has changed, they’re just working and all of a sudden this is like— people don’t look at whoever it happens to for just a split second, they turn their back. And then when they look back, this has happened and they need to quarantine and make sure this person is not dying from what happened, stuff like that.
+Austin: So, Agent Barker? Is it both of them, Barker and Tinker? Or just one of them. 
+Sylvia: Yeah, sure. We can have it be both of them to varying degrees, maybe. Use your imagination. People are asking, “what side?” And I’m like… 
+Austin: You figure it out! Yeah. Again, we don’t…
+Sylvia: It wouldn’t be perfectly in half either, if we try to make it interesting. Wouldn’t be a side, it would be all over the place. 
+Austin: It would be all over the place. 
+(Sylvia laughs)
+Keith: Besides, I don’t think anything is more in spirit of this particular anomaly than like five people drawing fanart of it and it’s all different ways.
+Austin: It’s all different? Yeah.
+Sylvia: And then, OK. Are there any clocks to advance? 
+Austin: Not right now. No, we’ve advanced them. I still feel like I’m missing something. One second. Let me just ask really quick: duplication effect, other things are enhanced in quality, that’s from the supercharge, the first Funfair is filled with people from the Free Ride Weekend, second Funfair is open across town. I feel like I’m missing a thing that we did. Barker is stuck in small zone.
+Keith: This all seems right to me.
+Sylvia: There was a turn where Maria was introduced, but that was written down.
+Austin: We have that, “staff everywhere”. OK. We’re good. 
+Sylvia: Okay, so I keep accidentally closing Roll20. I’m torn between doing… I actually do think I want to do the Cups action here, “acquire or lose something” at this point, because things have progressed so much that I think whether or not they lose something to there or pull something out, it is monumental at this point in the case. And… Part of me just wants them now to acquire some sort of ephemera from the park, like a carnival game or one of those things you put a quarter into, like that fortune teller thing. 
+Austin: Yeah. One of the things that like stretches a coin. Know what I’m talking about? That like imprints it with a new thing?
+Keith: Yeah, the Penny Smasher!
+Austin: Sylvia, what do you have?
+Sylvia: I think we could tie this into the thing Keith brought up earlier where it changes the quality of things, where this is like a Penny Smasher but you don’t get coins out of it, you get other small bits and bobs, like a thimble has come out, a… But it only takes pennies though. 
+Keith; And maybe it’s even stuff that people feel like they need at the time?
+Austin: “I really need some bubblegum, I’m so nervous I need to anxiety chew something. Oh, hey, some gum came out of this Penny Smasher.”
+Sylvia: But I think something that’s kind of important about this is that there is no side effects to them using it, outside of the thing. This is like a thing that they can study with less risk.
+Austin: And they pull it out, they retrieve this device.
+Sylvia: They pull it out. Yeah. Probably through that dark ride thing, they found a way.
+Austin: I guess that’s a big thing here, is how do they get it out at all? Because we don’t have an exit right now. So this is doubly important. Like do they even understand how they got it out of the place? 
+Sylvia: I wonder if it is one of those things where it’s a tie-in to the sort of stuff that I’ve pulled here. These side effects to the duplication start happening to Tinker and Barker. And also this Penny Smasher appeared in the office. It’s clearly from the Funfair and it ties in, it’s got the logo or something on it. But it’s there maybe between the two of where they were stSylviang before this happened.
+Austin: (typing) “…instead of smashed pennies.” Done. All right. I also remember the thing that was bugging me was that I did not write down that the second Funfair is called Park 2. It is called Park 2. (typing) All right, cool. 
+Austin: That’s turn two. Does anyone need a break or do we wanna keep rolling? 
+Keith: I’m good for now.
+Austin: Me, too.
+Janine: I’m okay.
+Austin: Janine. Time for you to draw a card.
+Janine: I lost my cursor, one second.
+Austin: OK (chuckles).
+Janine: What—
+(blows air)
+Janine: I truly don’t know where my mouse cursor is.
+Austin: On your screen at all? 
+Janine: Also I can’t Alt + Tab?
+Austin: Uh oh. I hear you fine.
+Sylvia: Yeah. 
+Janine: What is going on?
+Keith: Third anomaly.
+Austin: (ominous robotic voice) “Janine, you are in Park 3.”
+(Keith laughs)
+Janine: Shit.
+Austin: Can you Ctrl + R refresh? Can you do anything? Can you type? I can hear you typing.
+Janine: I mean, it’s wild because like I still see Audacity behaving. 
+Austin: Oh, this is a nightmare. And you can’t Tab away from it. 
+Janine: No, I can’t Tab at all.
+Austin: This is spooky.
+Janine: I’m moving… the… what the fuck? What even?
+Austin: What do we do? 
+Janine: I just realized the lights are off on my keyboard, too.
+Keith: Oh, did your keyboard die? What if you unplug and plug back in your keyboard?
+Austin: Yeah, you could try that. I’m sure that’ll be very convenient.
+Janine: It won’t (laughs). One second.
+Austin: Let’s take five minutes and let Janine do this. We’ll be back in five.
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

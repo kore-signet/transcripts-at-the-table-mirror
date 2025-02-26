@@ -1,0 +1,2231 @@
+﻿Live at the Table 60 -August 2022 - The Road to PALISADE: Orbital Pt.3
+Transcriber: anachilles#0191
+(transcriber’s note: pending copyedit and timestamp fix)
+0:00:01.0        
+Austin:        Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Keith J. Carberry.
+Keith:        Hi, my name is Keith Carberry. You can find me on Twitter at @keithjcarberry. And you can find the let'splays that I do at YouTube.com/runbutton. Or you can find the Shenmu 3 let'splay that I do at contentburger.biz, the Run Button Patreon.
+Austin:        Ali Acampora.
+Ali:        Uh, hi. You can find me over at @ali_west on Twitter, and you can find the show over at @friends_table.
+Austin:        Jack de Quidt.
+Jack:        Hi. You can find me on Twitter at @notquitereal, and you can buy any of the music featured on the show at notquitereal.bandcamp.com.
+0:09:41.3        
+Austin:        And, Sylvi Clare.
+Sylvi:        Hey, I'm Sylvia. You can... listen to my other podcast, emojidrome, wherever you get your podcasts, because that's the only thing I've got —
+Austin:        Uh, excuse me?
+Sylvi:        Emojidrome 2.0! Thank you, Austin.
+Austin:        That's right. Get it right.
+Sylvi:        That's, fucking — that's, you're a real one.
+Ali:        [snorts]
+Austin:        People need to —
+Sylvi:        Anyway —
+Austin:        Go to your pod catcher, do a search —
+Sylvi:        Yeah.
+Austin:        Emojidrome, 2.0.
+Sylvi:        2.0.
+Austin:        That's not like a —
+Jack:        Then add the second number.
+Austin:        This isn't like a funny gimmick. We're not like, doing a bit.
+Sylvi:        No. We had to make a new feed. We... the — we cannot take down the old one, and we had to make a new one. So this is why we're at, we're 2.0. It's very important.
+Keith:        Yeah. I remember, because I remember when you were having feed problems, and I went and I resubscribed to emojidrome, when it came up and it still wasn't right.
+Austin:        Is the original feed still there? Is that part of the problem?
+Sylvi:        Yeah, totally — Think so, yeah.
+Keith:        It was, as of like 3 months ago, it was.
+Sylvi:        I don't know if it's still working. I haven't checked in on that. [chuckling]
+Austin:        Ooh.
+Sylvi:        But basically, I think I mentioned it before, that the company that was hosting us, does not exist anymore.
+Austin:        Right, right, right. That'll do it.
+Sylvi:        Which means, getting in touch to my great things and all that is pretty much impossible. So...
+Austin:        Annoying.
+Sylvi:        2.0.
+Austin:        2.0.
+Sylvi:        It's important.
+Austin:        It is.
+Sylvi:        Give us a review on iTunes or something, please.
+Austin:        [laughing] Uh, as always, you can support the show by going to friendsatthetable.cash, our Patreon, which, if you're listening to in in the main feed, we would have recorded this months ago at this point. We're recording this in August of 2022. Uh, who knows — I guess, Ali, we've talked about what our rollout looks like for this, and it's late fall by the time this is in the feed, right? Or mid-fall or something like that?
+Ali:        Mmm.
+0:11:23.5        
+Austin:        I do want to say, for people who are listening to it on the regular Patreon feed, that we're probably going to do some sort of rework of like... what content is coming out under what streams, or like, how often we're putting out various things. Partly because we have internally been wanting to do a reset on this stuff since before Covid. And then Covid happened, and let me tell you, a thing that will make you go — nope, don't touch anything... is, uh, a, the economic crisis that comes with living through a pandemic. Where you're like, I don't want to touch anything in case all of our money disappears. But, we are now caught up on Live at the Table. This will be our August 2022, and you'll note that it's the beginning of August, and we probably won't finish Orbital today.
+0:12:07.7        We might. Maybe things go really interestingly and really well and we wrap it up. But if we don't, we're not going to not play the next one of these until September. Because we have to finish the Road to Palisade, so we can start Palisade. Uh, I'll say that the road will probably continue to be in production — we're going to be building the road as it, as it moves out into the main feed, just by necessity at this point. But, my suspicion is, we will be reworking some part of how the Patreon works, in terms of — how many pieces of content we put out a month, what that type of count is categorized under.
+0:12:40.9        I think after that, after that livestream, the Fundraiser for the National New York of Abortion — nope, the National Network of NNAN, right? The National Network of Abortion Funds. NNAF.
+Ali:        Mmm.
+Austin:        Uh, you know, it seems like it would be fun to do some video game streaming, a thing I wasn't allowed to do when I was at Vice or Giant Bomb. And like, it would be fun to be able to toss some of those things into, into a Patreon feed. Uh, all of that stuff, uh, is, is up for, up in the air, in terms of how we're going to rework some of it. But we know we have to keep making this [chuckling] this road. Uh, and so we can't just do one Live at the Table a month at this point. Uh, and while we have other Bluff stuff in production, we have other behind-the-scenes fun stuff spinning up, I want to make sure that we are, you know, putting stuff out. And also putting stuff out at a pace that's like, sustainable for us.
+0:13:35.4        Which, currently, we both are head of the curve on Live at the Table, and impossible – it's impossible to catch up with some other stuff. Uh, and so expect a bigger breakdown of like, what all's happening. We appreciate your support, as always. And hopefully, you know, we'll be able to use some of our past, uh, surveys that we've given y'all about what's important to you, to help guide us in terms of what we're cutting back on, what we're sliding stuff around for. I just want to give everybody a heads-up on that. So... okay, where were we? We had been...
+Ali:        Orbital.
+Austin:        We had been, we'd been playing Orbital. We are on the brink. Let's start with threats. Hundreds of military starships are using a nearby moon as a staging area. True. Uh... two. Residents have been disappearing, emerging days later as new members of a strange cult. True.
+0:14:26.7        A huge shipment of blue oranges has pushed the Brink to the brink. There are too many people to safely house, to keep well-fed, et cetera. All is true. [chuckling] Uh, do we want to go around the table and say who we are? Maybe just a short version of it today. Just character name, pronouns. Uh... and then it's like, premise? I don't, I don't... you know, we can just, we don't need to go super deep in.
+Jack:        Sure. I'm playing Paris France. His pronouns are he/him. He is a broker, and a salesman, onboard the Brink. And he's also wrapped up in bad stuff involving two rival spies that have descended on the station.
+Austin:        Mmm.
+Sylvi:        I'm one of those rival spies, I can go next.
+Austin:        I was going to say, speaking of spies...
+Sylvi:        Yeah.
+Austin:        Uh-huh.
+Ali:        [giggling]
+Sylvi:         So, I am playing Deutsche Synchro, whose real name is lament. Pronouns are they/she. She is a sort of humanoid android, that is... on the brink to kill three specific people, and is also kind of manipulating 3T, and uh, is mixed up with Paris, like we said. And last time, I killed somebody, and then a rival agent showed up and started shooting at me, which is like —
+Austin:        Hey, was that person you killed one of the three people you're supposed to kill?
+Sylvi:        Oh, no, that was, that was, that was new orders.
+Austin:        That's bonus.
+Keith:        Bonus, that's a bonus kill.
+Austin:        Yeah, uh-huh.
+Sylvi:        That was bonus, that's overtime.
+Austin:        Uh, since you mentioned me, I will go. I'm playing 3T — Telios Triton Tanager, a musician and influencer who believes that the people of the Twilight Mirage should be more active in the fight against the Principality, and in fact, should be getting directly involved in the war, something that I think many people in the Mirage have lots of reservations about. Uh, uh, and I'm currently being, like you said, misled by lament. And also, getting involved with the, with the friends of devotion, a seemingly, a cult, that people have been joining and coming back from. Uh, I'm looking for support. I'm looking for support from people who think we should be doing more. Uh, I believe that that cult is also connected to the orchard syndicate, right?
+Keith:        Yep, yep.
+Austin:        They're the front, and I've also been with the orchard syndicate because, uh, Keith's —
+Keith:        [laughing] Oh, it ain't good.
+Austin:        Keith's character, uh, Pushy, Cheel Pushy, has heard rumors, and then, I wouldn't say seen me — I mean, heard rumors I was loading guns, uh, uh, onto the blue orange shipments. Saw me loading something onto the blue orange shipments. Don't know what that something is, quite yet. So...
+0:17:19.3        
+Keith:        I can go, because I, uh, I'm the seer. Uh, my name — my character's name is Cheel Pushy. He's a disgraced gardener turned club owner —
+Austin:        [chuckling]
+Keith:        Uh, whose main interest right now is that, uh, his crowd of... uh, you know, trucker patrons who come in and, uh, you know, spill their troubles, are all spilling troubles about the, uh, the freaks who are being weird with their trucks, and are not being stopped by, uh, Ali, what is your organization's name again, that I keep forgetting?
+0:18:03.8        
+Ali:        Oh, uh, the Brink Proxy.
+Keith:        The Brink Proxy. Yes. Along with the, the, the disappearances that seem to be connected to that.
+Austin:        Ali, that leaves you.
+Ali:        Yeah. Uh, I am playing Mustard Red. She/her. Mustard Red, as mentioned, is working for like a community effort, slash like maintenance organization for the Brink called the Brink Proxy. Uh, she's also a little bit of like a stalker/hacker/creep.
+Sylvi:        [laughing]
+Ali:        Uh, doing her best.
+Austin:        Uh-huh!
+Sylvi:        Uh-huh.
+Ali:        She — [laughing] she's currently been investigating some of the cult stuff, and, you know, is trying to help people.
+Austin:        Oh yeah, that's all.
+Keith:        Is there anything else you feel like you've done?
+Ali:        Well... [laughing]
+Keith:        [laughing]
+Ali:        Uh, I was in the market for a magazine that —
+Austin:        [laughing]
+Ali:        [laughing] Is mentionable because it's, uh, a relic of the Brink history, uh, it happens to murder people who look at it, it's fine. Look at some pages of it, it's fine.
+Austin:        Mm-hm.
+0:19:18.9        
+Ali:        Uh, and because it was super rare, I bought it, you know, from a marketplace, uh...
+Jack:        What marketplace was that?
+Ali:        Uh... what is that called?
+Austin:         The Divine, Arbitrage.
+Ali:        Yes. The [chuckling] Divine, comma, Arbitrage. [laughing] You know, a new little... you know [laughing]
+Keith:        See, it occurred to me how funny that name is.
+Ali:        [laughing]
+Austin:        It's super funny, you know?
+Keith:        Yeah, what a funny joke [chuckling]
+Ali:        Uh... you know, you know, sometimes you get a coupon to sign up... get 20 percent off. And you really want that magazine that's going to kill people.
+Sylvi:        You entered your email for 10 percent off?
+Austin:        Ugh...
+Ali:        Yeah.
+Austin:        God. Uh, cool. Does anybody want to go over everybody's past 5 things that have happened, maybe?
+Sylvi:        [laughing]
+Austin:        Just so we're all on the same page of the past, let's see... I'll go back to here. Cheel discusses —
+Keith:        I love the timeline.
+Austin:        Yeah, it's great. Discusses with the assemblage about — remember, no meetings — uh, the cult with Craig [Moseurtor Momentor], who tells Cheel to be careful of her. Uh, who wants to read the next one?
+0:20:29.7        
+Ali:        Uh... Mustard meets Joe Devere, to [unintelligible] to track a cultist.
+Austin:        Right, right.
+Sylvi:        I can go? It's the Lament checks one, right?
+
+
+
+
+Austin:        Mm-hm.
+Sylvi:         Lament checks whether Nighton is one of their targets. They aren't, but she's encouraged to kill them anyway.
+Austin:        Right.
+Jack:        3T meets with CTH Pasodoble, who is the sort of ostensible cult leader of the Friends of Devotion, and begins a relationship with the Friends of Devotion.
+Austin:        Mmm.
+Keith:        Read the station — should the Brink assist with the new war on Palisade?
+Austin:        What was the vibe there?
+Jack:        That was just — depressing, Austin.
+Austin:        Uh, yeah, well just like — some people yes, some people no, basically?
+0:21:12.3        
+Jack:        It was, it was the full spread. There were —
+Austin:        Yeah, okay.
+Jack:        No war, there was some war, and there was, what if we became imperialists, and —
+Austin:        Mm-hm.
+Jack:        And took Palisade.
+Austin:        And took Palisade, right. Uh, Lament assassinates Nighton, and then gets into a fight with Gimme Gimme. The magnet is stolen, and gravity goes out.
+Jack:        Oh god. [wheezes]
+Sylvi:        [chuckling]
+Austin:        Finally — Keith, do you want to read this last one?
+Keith:        Yeah, sure. The Orchard Syndicate does a magnet ritual. No one knows what's up?
+Austin:        [laughing] Great. Good.
+Jack:        And then, uh,...
+Austin:        Was there more?
+Jack:        There was one more scene, right?
+Austin:        Was there?
+Jack:        Paris visited Mustard —
+Austin:        Oh. Oh, yes.
+Jack:        Uh, and learned about Arbitrage, and sort of like brokered access to messages from Arbitrage in exchange for like, rounding up a load of Brink proxy volunteers, and also paying — calling in favors to get the gravity turned back on.
+Austin:        Mm-hm.
+Jack:        Oh, because Arbitrage was like, “I'll do it.”
+Austin:        It was 20 more, Uh, Brink Proxy members.
+Jack:        It might have been 30? Was it 30 or 20?
+Austin:        It was 20. You promised 10, and then Joe Deveve was like, “you can get more than that.” And then you went up to 20. [chuckling] Uh...
+Jack:        God.
+Austin:        Okay. Oof! Uh... who is up? Where do we want to start today? At the beginning of a new turn cycle. Does anyone feel like they have a good kickoff? Where are we at in terms of upcoming events? I know we have the cycle day stuff coming up, right?
+Ali:        Mm-hm.
+Austin:        I forget where that, is that under your thing, is that under the station itself? I forget where it is.
+Ali:        Yeah, yeah, yeah.
+Austin:        Somewhere in there. What is that actually called?
+Ali:        [unintelligible]
+Austin:        Sorry, say again?
+Ali:        Uh, the, the, the, class thing, quote/unquote is called the Unaffiliated —
+Austin:        Right, The Unaffiliated.
+Ali:        Then the upcoming event is the Cycle End Fest.
+Austin:        How, how away is that? How far away is that, and how far away is like, the — the blue orange shipment going out?
+Ali:        Uh, yeah, I would say... I think in my head it was the, the blue orange shipment is like, in process.
+Austin:        Okay.
+Ali:        And is going to be out like, a day or two before that feast. Sort of like a Black Friday — well, no, that's the opposite way.
+Austin:        Mm-hm. Right, yeah.
+Ali:        You know what I mean. [laughing]
+Austin:        But yeah, it's like connected in that way.
+Ali:        Right, yeah, yeah.
+Austin:        Uh... but are we like... are we... a day away from that? Are we three days away from that? Another one in here is like, how close are we to that weekend? 3T was like, “oh, I have this big concert coming up this weekend.”
+Jack:        Oh, right, yeah.
+Austin:        But I don't know how close we are to that. And, I think the Friends of Devotion, either —
+Sylvi:        They were going to be involved with it. They said they'd help.
+Austin:        They said they'd help, and then also, we got, uh, Corasin Seventine off my back to help me, uh, to make sure there was no security at that concert. Yeah, so that's coming up. And I don't know if we're there yet. I don't think we're at that concert, or at the... big festival yet? I feel like that's, I feel like it's going to be shipments throughout, then concert, then cycle end festival the next day. Does that feel right?
+Ali:        Mm-hm. Yeah, that seems right.
+Sylvi:        Yep.
+Ali:        Yeah.
+0:24:52.8        
+Austin:        Yeah. Uh... given that, uh, maybe I just want a real minor scene to kick things off.
+Jack:        Yeah.
+Austin:        [sighs] I wish I knew more about what was going on with this magnet. Uh, actually, can I, can I — I can't make somebody else give me a scene with my scene, right? That's not a thing I can do?
+Jack:        Uh, no, you can. You, you don't have to have your character in the scene. I, I think we talked this over —
+Austin:        For a minor scene — oh, right, right. No... minor scene is yours.
+Jack:         Oh, minor scene does have to be your character.
+Austin:        Yeah. I could pick up —
+Jack:        Yes, you're right. I was thinking of the —
+Austin:        One of these other ones and do a, a major one. But I feel like if I'm doing the minor — the thing I have for a minor scene is something I've kind of already established, so I'd rather not do that. Uh... I don't know that I have anything right off the bat.
+Jack:        Let's see.
+0:25:50.2        All right, yeah. Okay. Uh, where we pick up is, uh, when we last saw Paris France, he was scuttling off to the markets to — parrot in tow, pushing his way through the grasping vines, birds alighting on neon signs and things. I — for some reason, with the combination of grasping vines and birds, there was a, there's a level about halfway through the original Bioshock called Arcadia —
+Austin:        Mm-hm.
+Jack:        Which is like, uh, it's where they grow all of Rapture's, like, plants, and it produces all the oxygen or whatever. But by the time, you know, Bioshock begins, it's this great sort of like Deco setting that has been completely overrun by trees and neon lights, and wildlife. That's how I'm picturing a lot of these like cramped indoor garden spaces that are also within another, bigger structure.
+0:26:37.5        Uh, and I think I went off and, you know, I spoke to the guy who, uh, I, uh, you know, sell some fish to, who knows how to handle, you know, uh, uh, uh, engineering systems, and got him to help with that, and then there's the woman and her kid who know how to do the whatever, and they help me out there. And that went pretty well, but now we're seeing Paris coming back the next day to try and fulfill the second part of his bargain, which is, rustle up these Brink Proxy members.
+Austin:        Mmm.
+Jack:        And it is going, uh, ambivalently —
+Austin:        [chuckles]
+Jack:        In the true sense of the term. There are definitely people who are like, yeah, totally, sign me up. I had a great time when I did it last, I'm going to do it again. There are people who are like, absolutely not, I don't want to do that, I, I, I would rather be doing something other than sitting at a desk.
+Austin:        Mm-hm.
+Jack:        And then there are people who are like — do you know how busy it is? Uh... how much I am preparing for here? There's the feast coming up, everything is being moved around constantly. I understand that Brink Proxy is really important but this is not something that I'm able to do. Strike my name off your list. Uh... but I think, you know, Paris is just getting increasingly tired, and, and the list is filling up, but it's filling up slowly. And it's requiring a lot of sort of emotional elbow grease to get it into place.
+Austin:        Uh, cool. That's a minor, right? You're not looking for a bigger scene there? You're just kind of like, that's like, the background image here?
+Jack:        Yeah, I don't think so, no. Unless you have something particularly compelling, of trying to draw some theme out here, but no, I think.
+Austin:        Not especially. I'm thinking about what I could do with Arbitrage, uh, or honestly, with the war, too. Uh, because, I'm — I'm curious — you know, one of the things, one of the places we left the Twilight Mirage was, here's a place where fundamentally, the obstacles and, and, uh, the obstacles to people like, helping each other have been understood and addressed. Maybe not eliminated, right?
+Jack:        Right.
+Austin:        Uh, but like, the things that, uh, work against solidarity have been addressed. Uh, and, and there are strategies to continue, to continue to address them. Uh, uh, and so the idea of like, it's hard to, it's hard to wrangle up some 20 people on a station to help out feels like something else must be happening, right?
+0:29:11.0        
+Jack:        Well, I think we know what is happening, right? Which is, it's the three threats.
+Austin:        Mmm.
+Jack:        I think that really — I think that the primary response isn't, “fuck the Brink Proxy, they're just a bunch of pen-pushers and I don't want to spend time doing that.”
+Austin:        Right.
+Jack:        Uh, I think it is much more like, “look, I've done it before, I will do it again, but right now, you know, there are all these trucks coming through. There's all this —“
+Austin:        So then what's the, so then what is actually — uh, if they're, if these people are all like, “hey, I'm doing this thing, and if I stop doing this thing, there will be problems.” Or, I don't want to stop doing this thing, because I prioritize thing A over Brink Proxy. Is there an effect from pulling those 20 people off of whatever their various things, A, are? Or, or, does it turn out you can pull 20 people away for a couple days, and it's not the end of the world? Like, is there a consequence from pulling those 20 people onto this project, besides they're grumpy about it because it's not the type of work that they're particularly interested in doing for these three days? I just came up with three days, by the way. It might be one day. It might be a week, but... I mean, I guess, no it isn't.
+0:30:19.7        
+Jack:        Yeah.
+Austin:        It's, it's, this is the thing. What, I, maybe I'm wrong actually, wait. Do you remember, Ali, what Mustard — did Mustard ask for 20 — Mustard asked for 20 more members at Brink Proxy, right? Not 20 people to help today.
+Keith:        20 volunteers, I think was just how it was framed.
+Ali:        Yeah.
+Austin:        Okay.
+Keith:        When I heard that, I didn't imagine it being like, for a day or two. I was like —
+Austin:        You imagined it was ongoing. 20 more members of Brink Proxy —
+Keith:        Yeah. Like maybe you sign up for a day a week —
+Ali:        Right, yeah.
+Keith:        Or something.
+Austin:        Right, right.
+Keith:        Like, forever [laughing] — or for a year, or —
+Ali:        Yeah.
+Austin:        I mean, for — yeah, right, for a term, whatever that is.
+Keith:        Yeah, yeah.
+Austin:        I mean, then, then that's my question, is like — in your scene, do we see those people — what are they not doing? Are they, is it just this is a day they would normally have off, and now they're working? Is it... you know —
+Jack:        Yes, I think it is.
+Austin:        Okay.
+Jack:        I think that this is, this is stress, in the sense of the way that if you bend a piece of plastic too many times, and in the sense that even [chuckling] in the instances that we see them in our world as we exist, equitable communities, uh, come under stress.
+Austin:        Nevertheless, yeah.
+Jack:        There are points when, there are points when even the most equitable type situations go, “oh my god [laughing] god.” So, yeah, I think that there are people who would be resting, and who aren't able to rest.
+Austin:        Mm-hm.
+Jack:        Or there are people who would be spending time with their children, uh, and their children are having to be looked after by childcare, or are going to have to come sit on the edge of a barrel, or, or, at the edge of a desk, while their mum fills in all these pieces of paper. Uh... I think that, that... the feeling that grows is a sense of sleeplessness. Uh... or a sense of, uh, mounting exhaustion. And I think that we see that, in the same way that the characters in this game are sort of reflective of various bits of the station, as well as the aspects. We see this in Paris, too, who, probably, what, what he does is, he fills 19 seats, and then goes, and is like, “all right, I'm seat 20.”
+Austin:        Right, mm-hm.
+0:32:40.8        
+Jack:        I had stuff that I needed to do. I had people that I needed to talk to. I really wanted to finish watching a box set of whatever.
+Austin:        Mm-hm.
+Sylvi:        [chuckling]
+Jack:        But I can't do that, because this stuff needs to be done.
+Austin:        Mm-hm.
+Sylvi:        Yeah.
+Austin:        I like that a lot.
+Jack:        Full of bickering, you know.
+Austin:        [chuckling] All right. Uh, god, I thought about having 3T volunteer for this, but I feel like maybe I should just admit that he's a little too busy. But it's a great PR move, isn't it? To be like, “oh yeah, the — my home needs help, I'm going to help out.” By the way, I have a concert this Friday.
+0:33:24.6        
+Sylvi:        Oh my god.
+Jack:        What would the consequence be for you, like, what is 3T neglecting?
+Austin:        I think the consequence for that would be, 3T not paying close enough attention to the various spinning plates. Uh, and that's part, part of why I'm like, is he foolish enough to go for the PR maneuver when he's also seemingly setting up some sort of strange, behind-the-scenes tactical maneuver, you know? Uh, so —
+Jack:        Adding another plate that will physically require time.
+Austin:        Yeah, I think he knows better.
+Jack:        Yeah, do you want to pull the trigger on that? Or do you think he [chuckling] knows better?
+Austin:        Mmm... [sighs]
+Jack:        Especially because we know that part of the reason Brink Proxy is busy is because he has called the troublemaker —
+Austin:        Yes. Yes. Uh-huh. And the troublemakers have reported — well, the troublemakers have actually technically taken something off the plate. I guess, unless what you're saying is, the troublemakers are adding, are making trouble by like spray painting and stuff, doing graffiti, and that's adding stuff to Brink Proxy, right?
+0:34:28.0        
+Jack:        No, didn't we... oh, we did resolve, uh, because at one point, 3T was like, explicitly like —
+Austin:        Oh yeah, send in those forms.
+Jack:        Newspaper subscribers —
+Austin:        Yeah, yeah, yeah, but that was only about getting —
+Jack:        Yeah, but that's happened, yeah.
+Austin:        Corasin off, off of his [unintelligible] yeah, yeah, yeah. Exactly. Uh, uh... the thing that I would like, let fall is too big of a thing, I think. And I think 3T, I'm going to keep 3T in my back pocket. I'm going to keep that thing from falling, and not do the PR thing. Mmm... no, he's young.
+Sylvi:        [chuckling]
+Austin:        I'm going to do it. I'm going to — so, here's the consequence. [chuckling] Uh... ugh. The... someone finds out, what it is that I've been putting on these, these ships. Who is it that finds out what I've been putting on these ships, these blue orange ships? Some of which are already on their way.
+0:35:25.1        
+Keith:        Well, I, I feel like I already know.
+Austin:        Well you think it's guns, right?
+Keith:        I think it's guns.
+Austin:        It's not guns.
+Keith:        Oh, it's not guns.
+Austin:        Uh-uh.
+Jack:        If you are at Brink Proxy working, and that's how it comes out, it would make sense that it was Mustard or me, or maybe both of us.
+Austin:        Oh, I was, I was putting it as a way of being like, one of those things where, because you're at your day job, you have to call someone else to like do the dirt for you, to go do the deal?
+Jack:        Oh, then it's Corasin, right?
+Austin:        Oh, I guess so. Corasin finds out — but I want it to be a player character [chuckling].
+Keith:        I think it, I think it would be me.
+Austin:        You still think, you just like, keep digging, Pushy?
+Keith:        Yeah.
+Austin:        I mean, anybody could play Corasin. Corasin can be a player character, that's just how these games work, right?
+Keith:        Yeah.
+Austin:        But, uh, but yeah, I guess if you were, are you like, how would you find out, Pushy?
+Keith:        Uh, I mean, you're loading them onto trucks and I have a direct line to the people driving the trucks. This is how I originally heard that you were loading guns onto the trucks, and uh, uh, if I'm getting more information about this, then it's something that I would investigate.
+Austin:        Uh —
+Keith:        And I would have time to do it, because [unintelligible]
+Austin:        Yeah, then, then I'd say here's the specific thing that you learn is that — and then, Jack, let me know is this enough of like a thing, in terms of like, I'll play [unintelligible] smash. They are... kind of polyhedral, you know, like, you know, uh, uh, big, kind of — not, not like spheres, but almost like, uh, almost like an underwater mine, uh, uh, and, uh, the specific deal I've made with a bunch of people, including many who just truly are true believers of the like, we've got to, we've got the punch the Principality in their nose is — once they get a certain point away from the Brink, uh, to jettison these big devices, at which point, don't worry about what happens. Uh, and some of them are already out there. They've already been jettisoned, they're free-floating, almost like a minefield around the Brink. I'm going to say that they don't —
+0:37:35.0        
+Keith:        Almost like a mine field because these are not mines, or almost like a mine field because it's not quite a field?
+Austin:        It's not quite a field yet, because it — the full field hasn't been built.
+Keith:        Okay.
+Austin:        And you don't know they're mine — they sound like mines, or bombs.
+Keith:        Right.
+Jack:        Yeah, I mean, that's, it, it, yes. Absolutely. This sounds like enough of a problem, and we're early enough in the session that I think we can pull on that thread without unraveling it completely right now.
+Austin:        Sounds good. Yes, we can do the big — yeah, mm-hm. Okay. Uh...
+Keith:        Do I see you with —
+Austin:        With Brink Proxy?
+Keith:        With... uh, I was going to say, do I see 3T either like, with the Orchard Syndicate, with the boxes that are then revealed to be —
+Austin:        Oh, maybe you see, maybe you see Orchard Syndicate people helping to load them onto, onto trucks.
+Keith:        And I know that you had these.
+Austin:        You know that they're, I've been moving stuff. Maybe there's a mark that you recognize, or a like — oh yeah, I wrap all — you heard that the guns were wrapped in blue tarps, you know? [chuckling] Or something. Some distinguishing feature, and now you're like —
+Keith:        Right.
+Austin:        Oh, well those aren't guns. That's not the shape of a gun. You know, you've seen them unload it still in the blue tarp. You know, maybe it was in crates, and people thought that they were guns because those look like they could be guns. Maybe someone's jumping to — maybe someone heard it was a weapon, and they jumped to, to gun. Uh, but...
+Keith:        I would like to use a move.
+Austin:        Let's do it.
+0:39:09.6        
+Keith:        Uh, when you witness a shady deal, I can introduce an outlaw with ideas above their station.
+Austin:        Love it.
+Keith:        And I'm going to introduce one of these Orchard Syndicate characters, Sly Dente.
+Austin:        Sly Dente.
+Sylvi:        [cackling]
+Ali:        Ooh.
+Austin:        One word? Two words?
+Keith:        Two words. Sly, first name, Dente, last name. This is one of the scoundrel names in the thing that I really liked.
+Austin:        Mmm.
+Keith:        Uh, this is a scoundrel with, that is desperate to prove themselves.
+Austin:        Ooh.
+Keith:        They are involved in, uh, uh, they're involved in smuggling, and,... they having a heated disagreement.
+Austin:        Mmm. With?
+0:40:09.9        
+Keith:        Uh, I think that during this transition, they're having a disagreement with the, with the middleman. Not 3T.
+Austin:        The troublemaker.
+Keith:        The troublemaker.
+Austin:        Uh, so they are, they are having a disagreement with whoever's like, giving them the seemingly mines to load onto the stuff.
+Keith:        Yeah.
+Austin:        Okay. Uh... do you, do you know what that, what's the, what's the, what's the, you know, what's the argument? What is the fight?
+Keith:        Uh, well, I guess, I, I have, I have questions about the troublemakers, and like, so... if you doing this, you've definitely, you've definitely got like a... there's striations of troublemaker, then —
+Austin:        Oh yeah.
+Keith:        They're like, they're not just going to give any troublemaker [unintelligible]
+Austin:        Uh, god, I had a good, I had a good name for like, my super troublemakers. Did I write it down here?
+Keith:        [chuckling]
+Austin:        Fuck, I don't think I did. Ugh. I'm a fool. Why did I do that?
+Jack:        The real ca — the real cadre...
+Austin:        Yeah...
+Jack:        The folks who are like, you know, and they've got a tattoo, maybe.
+Austin:        Right, they have a exactly, that — yeah, I didn't — ugh, it wasn't like — oh, of course. I think it was just the double troublemakers.
+Keith:        [laughing]
+Ali:        Mm-hm.
+Sylvi:        Oh my god.
+Jack:        [chuckling] That's really good. That's great.
+Austin:        Uh-huh.
+Keith:        Do, do they know what they're transporting? Or is this on trust that...
+Austin:        This is, this is a, there are definitely people involved who are on trust. And they're maybe — I don't know who's tight enough with 3T at this point. We haven't introduced a character yet who's tight enough to know. Uh, I don't think we have, anyway.
+Keith:        Do you, do we want to, we can introduce another one of these scoundrels as the double troublemaker.
+Austin:        Totally, totally. This is... okay, this is, I know, I know what this is. This is a person who, you know, they're a double trouble — I don't know that they actually are a double troublemaker. They're a troublemaker —
+Keith:        Okay.
+Austin:         Well, they're [sighs] they have double troublemaker status, do you know what I mean?
+Ali:        Mm-hm.
+Austin:        They're — also, is this a scene? Are we doing a scene? This feels like it's a scene.
+Jack:        Yeah, I was going to say, it's [unintelligible]
+Keith:        This feels like like a scene.
+Austin:        You want to pull —
+Jack:        But, I think we've transitioned out of Paris —
+Austin:        Yeah, I think so too, I think we're in Cheel's scene at this point, right?
+Jack:        Yeah.
+Keith:        Yeah, yeah, yeah.
+Austin:        Or my scene, depending on who ends up wanting another one. Uh, this is someone from... deeper in the Mirage, who is, who, it's another person who sees 3T as a good pawn to use. One of the many people who are hawkish on this situation, uh, uh, and, and comes from a, uh, you know, comes from a military background such as, such as there are those in the Mirage. This person is descended from one of the great saints, from the era of Quire when the various kind of, uh, uh, settlements on Quire, before Twilight Mirage even began as a season, uh, uh, had their like, their, you know, royal guards and stuff, right? I don't know if you remember like, Saint Auger and all of them, Saint Winter and all of them. This person is not a saint. Uh, I think actually [chuckles] saint is in their title, like if you, if you, if they were filling out a form where it's like, “what is your title?” And it would have doctor, whatever, they would put down saint. And their name is Decario Dicario. Uh, D-E-C-A-R-I-O, D-I-C-A-R-I-O. Uh, pronounced deca — Saint Decario Dicario.
+0:43:59.2        Uh, and this is another person who is like, and I might even go the other way it. It might be that this is the person who has been whispering in 3T's ear to begin with. Uh, uh, extremely, uh, extremely hot in, I mean, let's just be honest. This is just Romeo and Juliet Leonardo Dicaprio, whispering in... like, with the armor, with the, with the masquerade armor on, you know? If you've seen that sequence. Uh, uh, and this is person who has been like —
+Austin (as Decaprio):        We have it great here. Why is it that we're not getting more involved?
+Austin:        Uh, you know, whispering sweet nothings about war in the bed. So, let me add this person to our list. Uh, and this person absolutely knows what they're loading, onto the, onto the ship.
+Jack:        And they are currently in a big, in a big argument with an Orchard Syndicate — with, uh, Sly Dente.
+Austin:        Correct. Yes. Well... what, uh, so what's this conversation look like? I'm just, I'm just going to jump into it.
+Keith:        Okay. I'm trying to figure out the axis of their disagreement.
+0:45:27.8
+Austin (as Decario):        I don't, I don't understand why you're, why you're having trouble putting one of these on the ship. Two per ship. That was the agreement.
+Keith (as Sly):        Okay.
+Austin (as Decario):        You say you want one, that makes me scared. That makes me think you're going to take it away and open the box. You're going to do a little poking around. You're not going to poke around with it.
+Keith (as Sly):        I'm not going to poke around with it. Why would taking less make me more likely to fuck with this stuff? I don't want to fuck with this stuff.
+Austin (as Decario):        Well, it just, it makes you look, it makes you look strange, it makes it look like you're afraid of it.
+Keith (as Sly):        I am afraid — I am afraid of it.
+Austin (as Decario):        Well, then, connect me to somebody else who wants the pay, and we'll move it on a different ship.
+Keith (as Sly):        Do you want to be paying someone who's not afraid of this stuff, to move it around.
+Austin (as Decario):        I — I'm going to be paying someone who wants to move it around. Ideal, it's true believers. I get that you might not be a true believer. Maybe you work for some true believers, and that's why they put us in contact.
+
+
+
+
+Keith (as Sly):        I truly believe that I'm going to move this thing, and not die moving it.
+Austin (as Decario):        Well then I don't know what the problem is. Take two.
+Keith (as Sly):        I'm take — I'm, I'm taking, I will take them both.
+Austin (as Decario):        Okay.
+Keith (as Sly):        I've taken all the other ones.
+Austin (as Decario):        And you dropped them where we said to drop them?
+Keith (as Sly):        And I dropped them where they said to drop them.
+Austin (as Decario):        You have a record, you have jettison record?
+Keith (as Sly):        They're bumping around back there, two at a time. The people who said two at a time didn't check the ship that good —
+Austin (as Decario):        Well, it's a bunch of different ships. We assumed, you know, one of the — one of the requirements was that you could adequately transport two of these things. And if you're telling me you can only do one...
+Keith (as Sly):        I just go where they tell me to go.
+Austin (as Decario):        It needs to be two. If it's one — here's why it needs to be two. If it's one, and there is another one nearby, it could be bad. Two, it's great.
+Keith (as Sly):        What?
+Austin (as Decario):        One is bad. It's like uh, an acid-base, you know, they cancel each other out, type of thing? You know what I mean? Or like a salty and sweet type of thing. They blend really well together. You don't want too salty, you don't want too sweet.
+0:47:45.5        
+Keith (as Sly):        [sighs] Why? Why does — why is that how it works?
+Austin (as Decario):        Well, now you're asking me about, I don't know, chemistry. I'm not a chemist.
+Jack:        Uh, I would like to make a move here.
+Austin:        [chuckles]
+Jack:        Uh, from the station itself.
+Austin:        Mmm.
+Jack:        Uh, one of the boxes starts making a sound. It is, it is a mechanical sound. It sounds like —
+Austin:        What is the move you're making?
+Jack:        Uh, uh, this is — trigger an ominous countdown.
+Austin:        Mmm.
+Jack:        Uh, it sounds like a lot of marbles in a jar, and the jar has been turned over. Uh, and the sound stops for long enough that you think, maybe that's not, uh, a problem. But it makes a sound, uh, again, after about 20 seconds. Is this something that Decario notices?
+Austin:        Yes.
+Austin (as Decario):        All right, we either have to ship this or get it offboard right now.
+Keith (as Sly):        Okay. Double it.
+Austin (as Decario):        Fine. Doubled.
+Keith (as Sly):        Done.
+Austin (as Decario):        Busting my fucking chops.
+Austin:        Uh, so then you just... you move them out into space?
+0:48:58.7        
+Keith:        Yeah, I move them out into space. I pocket the doubling. You
+Austin:        Uh-huh, of course. Yeah, you're not going to give that back to the Syndicate.
+Keith:        No.
+Austin:        That's the whole point.
+Keith:        Right. They don't know that it made that sound. And I got to double it.
+Austin:        Mm-hm. Uh, and then, and then we can get a shot of 3T ignoring IMs from Decario being like, “hey, there was a weird noise.” [chuckles]
+Keith:        [laughing]
+Austin:        And, it's just 3T with, uh, another member of the Brink Proxy, maybe it's just straight up with you, Paris, uh, you know, with a clipboard, and a flashlight, looking at some wiring, or trying to deal with — oh yeah, someone said there was some like, mice chewing on some wires. And we're like, I guess, I guess these could be myself. I guess. I don't know anything about mice. Let me pull up some mice facts to see if this is what mice bites look like. No, these look more like squirrel bites.
+0:49:52.6        
+Jack:        Water is coming out of my shower and won't stop. I tried to [wheezes] turn the faucet off, and it came off in my hand.
+Austin:        Ugh. That's happened to me before. Nightmare.
+Jack:        Ugh. Uh, that hasn't happened to me, but once, uh, a car I was in, we were going downhill, and our front headlight fell out, and then we ran it over —
+Austin:        Amazing.
+Jack:        Which I feel is like a similar kind of vibe.
+Ali:        [snorts]
+Sylvi:        Oh my god.
+Jack:        Is, is 3T ignoring the messages because he is legitimately busy? Because he's like —
+Austin:        Yeah. Yeah, yeah, yeah.
+Jack:        Putting his back into it, and he's like — yeah, all right.
+Austin:        Yeah, mm-hm. Definitely.
+Jack:        Doing the work, maybe if someone comes around and takes a photo, that's not the end of the world.
+Austin:        That's good, that's, that's great.
+Jack:        If someone says, “hey, look — “
+Austin:        That, like, would take the photo before responding to this IM, right? It's like, I think in 3T's head it's like, it's all about this concert. Everything else — like, everything just has to move smooth enough to the concert, there's the encore. When I hit the encore, I can do the thing, and then the thing's going to happen, and it doesn't matter if things are rocky between now and then. And I need to get as many people tuned in to the concert as possible.
+Jack:        God.
+Keith:        Can't spell grindset without 3Ts.
+Austin:        That's right. That's right. You can't.
+Ali:        [snorts]
+Austin:        Where's the — were's the third T? You've got to look for it. You're not grinding hard enough.
+Keith:        [laughing] You can't stop looking for it.
+Austin:        Mm-hm.
+Jack:        [chuckling] Do you — do you mean grintset? You
+Austin:        Yeah, grint — no, oh, — glintcoin? Glintset?
+Keith:        [laughing]
+Jack:        God.
+Austin:        Uh... all right. Who — Mustard, Lament — y'all got anything going on?
+Ali:         Yeah, I'm in, uh... I guess I'm torn here, because... it feels like with all of this, like, Brink Proxy activity or whatever, I should be like, I could do like a minor like, onboarding scene.
+Austin:        Mm-hm.
+0:51:59.8        
+Ali:        Uh, but I don't want to like, not move things forward. I guess like, big picture, I sort of want to make a move against one of the cultists or whatever.
+Austin:        Mmm.
+Ali:        But I don't know when the opportunity for that is going to be. I don't know if I'm wait for it the way that you're waiting for the concert.
+Austin:        If you want to pull the trigger on it, I would not feel bad about that, you know?
+Ali:        Sure.
+Austin:        Totally.
+Ali:        Then, yeah. I mean, I guess it would follow that like, by, you know, in the story she would, she would have a lead on someone enough to like, get them, uh, like a loan or, find someone who, who is involved with the cult that she could speak to.
+Austin:        Didn't we have someone's cousin or brother or something that came back —
+Keith:        Uh, yeah, Tosta Roaster.
+Austin:        Tosta Roaster. Tosta Roaster. Right.
+Ali:        [laughing]
+Austin:        Who had gone in and had come back out, right?
+Keith:        Toaster Roaster is the cousin of the guy who doesn't like meetings.
+Austin:        Correct, yes.
+Ali:        Mm-hm. Mm-hm. Right, she had to like, collected a — she had made everybody, she had made everybody at that not-meeting, uh, the assemblage — like, write down the names and information for all of the —
+Austin:        That's right, you gathered — right, you had, right, uh-huh. Uh-huh.
+Ali:        [laughing]
+Keith:        Oh, so, we literally don't ishave to handwave the backs, the uh, the, the investigation that you did. You actually did do that investigation.
+Ali:        Ah, and then I had Joe, I had Joe Tail, one of the cult leaders, I think.
+Austin:        Right.
+Keith:        Dan Roaster's cousin.
+Austin:        Dan Roaster.
+Ali:        [giggling]
+Austin:        Uh, you know, I don't, it's, it's, here's the thing. It's Twilight Mirage. So Toaster Roaster's cousin is probably more likely to be like, another weird rhyme, than just using the last name. It's [chuckling] you know.
+Ali:        Oh, sure.
+Austin:        Boffee Coffee, you know what I mean? Like —
+Keith and Jack:        [laughing]
+Austin:        Also can you give me like two seconds? I just have to run a thing into another room, I'll be right back.
+Ali:        Sure sure sure.
+Jack:        It's like a strange mine-type thing that might not be a mine. Austin's loading two of them into a truck.
+Keith:        Oh, no.
+Ali:        Mm-hm. Yeah, well, watch out, Austin.
+Jack:        We better... yeah, we better watch out.
+Keith:        I wonder who Austin got tricked into wanting to go to war against.
+Jack:        [laughing] God. Oh, it do be that time of the world right now, huh?
+Keith:        [laughing]
+Sylvi:        Oh, boy.
+Jack:        [chuckling] Getting tricked into going to —
+Sylvi:        Ugh...
+Jack:        Ugh.
+Ali:        I'm actually also going to be right back.
+Jack:        Okay. Sounds good. I feel like in the Mirage, it would either be like, another rhyming name, or it would just be like... Rachel Roaster. It would be the David and Smack Talk —
+Sylvi:        Yeah.
+Keith:        See, that's what, that's the, that's what I was, uh, thinking when said Dan Roaster.
+Jack:        Hey, isn't Toaster Roaster some method of heating the toasters to more accurately —
+Keith:        Yeah, it's, yeah, when you need to roast a toaster. Yeah. It's when your toaster's too cold, and you have to heat it up.
+Jack:        Yeah, because they —
+Sylvi:        I was going to say, or if the person who makes your toast messes it up and you've got to just insult them for a little while, then you're a toaster roaster.
+Jack:        Yeah, what's your best toast r-[wheezes] I can't think of someone, like, like a toast-based way I would insult someone for making toast badly.
+Keith:        [laughing]
+Sylvi:        Ugh.
+Keith:        Uh, I have a convection oven, toaster oven. Uh...
+Jack:        Off to a good start.
+Keith:        I have a convection toaster oven, and one of the ways that they advertise toaster ovens is by showing you the biggest chicken that it can fit.
+Austin:        [somewhere in the background laughing]
+Keith:        And [wheezes], like, it really will say like, can cook a 12 pound chicken or something. And so —
+Austin:        We're having a [Ron Popeel] what are we talking, what are we talking about? Are we talking about Ron Popeel? Who are we talking about?
+Sylvi:        No, we're talking about, uh, a convection toaster oven.
+Keith:        Yeah, my convection toaster oven was advertised as being able to roast a chicken. So I have... I own a toaster roaster.
+Sylvi:        I don't know who Ron Popeel is.
+Austin:        Oh, wow, how times change.
+Keith:        I actually also don't know who Ron Popeel is, but I know that I've heard the name.
+Austin:        Ronco? Set it and forget it? The rotisserie chicken guy?
+Keith:        Oh! Okay.
+Ali:        Oh...
+Austin:        This was like, this is like a classic infomercial that would be on TV all the time as a kid for me.
+Keith:        Did, did this guy invent set it and forget it?
+Austin:        Yeah, this is set it and forget it.
+Ali:        [laughing]
+Austin:        Well, okay, he probably didn't actually invent it, but I mean... you know?
+Sylvi:        I don't know if this like, just reached Canada. I don't, or maybe it did, and I —
+Austin:        I mean, I would bet that that's — I would bet you're right.
+Sylvi:        I don't know. I don't recognize any of this shit on the Ronco Wikipedia page.
+Austin:        Yeah, I mean, I, yeah, that makes sense to me that... you know. I don't know that he came up with it, but Ronco, Ron Popeel, was a — and the thing that you're describing was all over these ads, was all over these infomercials, was like... you know.
+Keith:        This thing can cook a 14-pound chicken!
+Austin:        He wouldn't — no, no, no, you're missing — that's not how Ron Popeel was.
+Keith:        Oh.
+Ali:        Woah.
+Keith:        Sorry, that — I was doing the other, I was doing the Oxiclean guy.
+Austin:        You were doing Oxiclean, that's the thing is, the ox — okay. Oxiclean was a sea change in this stuff — I mean, that's not true, because Oxiclean is just a continuation of the guy with the money all over, the question marks? Nope, the dollar signs. I was thinking, the guy who looked like the Riddler, but with dollar signs? What's that guy called?
+Jack:        [laughing]
+Keith:        Monler. The Monler.
+0:57:31.5        
+Austin:        No, no, the real guy. The guy who's like, “I can save you money! Buddy!” No, now I'm just doing [unintelligible] from Bioshock.
+Keith:        [laughing]
+Austin:        Uh...
+Keith:        [laughing]
+Sylvi:        Oh, I have no idea.
+Austin:        What is this? Matthew Lesco? You've not seen the Matthew Lesco commercials?
+Sylvi:        No, I don't know what that is.
+Austin:        All right, guess what —
+Sylvi:        I'm Googling this guy, too.
+Austin:        I've got to, here we go.
+Keith:        I thought you were doing the Arcade game where are you, with the monopoly guy, where you roll a quarter down —
+Sylvi:        Uh...
+Austin:        Yeah, you've not, you don't know this guy?
+Sylvi:        Like, who?
+[video playing in background]
+Sylvi:        Who? Wait, who are you asking?
+Austin:        Matthew Lesco. I linked in chat.
+[video continues]
+Austin:        He's like one of these guys —
+Jack:        He really is the —
+Austin:        Yeah. So, wait, he actually just straight up has question marks.
+Keith:        He has dollar —
+Sylvi:        Yeah, he has question marks.
+Keith:         Question marks.
+Ali:        Wow...
+[video continues]
+Keith:        No, I don't know this guy.
+Austin:        Anyway, he's bad. Uh, I actually don't know that he's bad, I suspect that he's bad. My, my instinct is... what he sold was access to — access to how-to guides to get government funding for things, basically. Uh... but in ways that I always felt were like, I don't know.
+Keith:        Matthew Lesco's free money — how to get government grants for the whole family.
+Austin:        Oh my god, this quote — in an interview with the Washington Post —
+Ali:        [giggling]
+Austin:        In 2007 —
+Sylvi:        [unintelligible]
+Austin:        Lesco admitted to having assembled his books from government guides to grants and loans, quoting Lesco as saying of his first book, “I plagiarized the whole thing, and I didn't write a lick.”
+Keith:        I do know this guy —
+Austin:        Wait! Lesco later added, “I get stuff for free, and I sell it for as much as I can get.”
+Ali:        [laughing]
+Austin:        The Divine, comma, Arbitrage.
+Jack:        [laughing]
+Keith:        I —
+Sylvi:        Okay, so now we know what the Divine looks like. It's like a [unintelligible] silly suit.
+Austin:        Ha-ha!
+Keith:        [laughing]
+Austin:        Oh my god. Anyway.
+Keith:        I, I swear to god, I saw a video of this guy a month ago —
+Austin:        Uh-huh.
+Keith:        Saying those exact words.
+Austin:        Yeah, incredible.
+Keith:        Like, as an old man being like, “yeah, I got — I just took it all from government stuff and just sold it in a book.”
+Austin:        Yes. Yes. Uh-huh. And who knows if any of it was legal, actually, who could say. My point is, Ron Popeel was like your, your nice grandpa. Hey, do you guys ever want to, you know, come over and have a little chicken? I can help, I can, I've got this great device, I got this great invention that I made to help you chop your food, and do a rotisserie chicken in a tiny air grill. Anyway.
+Keith:        I bet he says, “look at that,” a lot.
+Austin:        He, he does. That's the type guy he is. Look at that.
+Keith:        Look at that. Look at that.
+Ali:        [giggling]
+Austin:        Yeah, that's, isn't that — that's just great. That's the type of guy he is. Anyway, my point being, Oxiclean guy is an extension of Matt Lesco, but the Ron, but the Ron Popeel has kind of vanished from this scene. It's all Matt Lescos now, it's all Oxiclean guys now. You don't, there's no Ron Popeel of crypto. It's all fucking Oxiclean guys.
+Sylvi:        The Popeels lost.
+Austin:        That's right.
+Sylvi:        Wow. You can't spell Popeel without L. That's something.
+Austin:        In 2, in 2, in 2000, we had Ron Popeel, Steve Jobs...
+Ali:        Wow...
+Austin:        Et cetera. Anyway —
+Ali:        Hi.
+Austin:        Can we go back to this game that we're playing?
+Sylvi:        This guy's name is Po Peel, uh...
+Austin:        Ha-ha-ha-ha!
+Jack:        [laughs]
+Austin:        Ugh. Actually, do also know what the Divine, Arbitrage, looks like. Which, it's always looked like this in my mind. It is in Mass Effect 1. You do a question for a, what are the little guys called in Mass Effect?
+Keith:        The, uh, the minions.
+Austin:        The minions. [chuckling] You do a quest for a minion. What are they called?
+Sylvi:        And he asks you to get a [unintelligible] banana.
+Austin:        He goes, “banana,” right. What are they called?
+1:01:10.6
+Keith:        The little guys?
+Jack:        That's the Elkor, the Hannar, the...
+Austin:        Nope, nope, nope. It's a V.
+Sylvi:        They're the little... oh.
+Austin:        It's not the [unintelligible]
+Sylvi:        They're like the walrus-looking ones, right?
+Keith:        I can't even imagine who you're talking about.
+Jack:        No, they look like a tardigrade.
+Austin:        Volis, the Volis. They do look like a tardigrade. You do, uh, uh, a question for, for a tardigrade, for a Volis, and at the end you have to go interact with like a little computer — a wall computer, that is supposedly tied to the shadow broker, Bar Lavan. You do Bar Lavan's question at the very end. You go like talk to a wall, and then the wall sparks, sparks up. And, you know, it [laughing] sparks, it sparks up.
+Keith:        I forgot about the Volis.
+Sylvi:        Hell yeah!
+Keith:        [laughing]
+Sylvi:        Shoutout!
+Austin:        The wall has a fucking joint! [laughing] uh...
+Sylvi:        Smoke 'em if you got 'em!
+Jack:        [chuckles]
+Austin:        And at the end of that question, you go talk to this thing and it burns, and of course, it's revealed, oh, no, there is a shadow broker, there a person, uh, that is a shadow broker, and it's like a big fucked up monster or whatever, right?
+Keith:        Yeah.
+Austin:        But, in my mind, what if the wall was just the shadow broker, and that is Bar — or, that is, the Divine, Arbitrage, to me, and always has been. Uh, also similar to that, is Benny Babs from Friends at the Table Season 2, COUNTER/Weight — just a computer on a wall.
+Ali:        Mm-hm.
+Jack:        Yes. A booking computer. It was the Trolley Herald.
+Austin:        Yes.
+Keith:        I'm only now realizing —
+Austin:        Yeah, uh-huh?
+Keith:        I'm only now realizing that the shadow broker, being a monster that you have to fight, is the dumbest thing I've ever heard of.
+Austin:        It sucks so bad! [laughing] it sucks [unintelligible]
+Sylvi:        Damn.
+Austin:        Anyway.
+Sylvi:        Yeah... yeah. Maybe don't go back to those games. Keep your memories intact, everyone.
+Austin:        Yeah.
+Ali:        Mm-hm.
+Keith:        I'm, I'm a longstanding, Mass Effect 1 is my favorite Mass Effect.
+Austin:        Same.
+Ali:        Yeah.
+Keith:        Uh, and that's —
+Austin:        I like 2 a lot, but —
+Keith:        Probably the least dumb.
+Austin:        1 is, 1 is, 1 is the one, for me.
+Sylvi:        Yeah.
+Ali:        Uh-huh. Yeah, same.
+Sylvi:        I'm, it's like asking me what my favorite flavor of dirt is, you know?
+Keith:        [laughing]
+Austin:        Wow.
+Jack:        [laughing]
+Austin:        But you could do it.
+Jack:        Woah, Sylvi, you [unintelligible]
+Sylvi:        Like, I could.
+Austin:        You could.
+Keith:        You could.
+Sylvi:        [unintelligible]
+Austin:        Anyway...
+Jack:        In any case, so what's happening here?
+Austin:        Good question.
+Jack:        Toaster... you're researching, you're trying to get to the bottom of what this cult disappearance is, right, Mustard?
+Ali:        Yeah, uh, I... it sounds like I... yeah. I was trying to get, like, a meeting with someone who's involved with the cult. Is sort of what I was trying to set up. But I don't know which character we would want to use there, in terms of like, is it Toaster Roaster's cousin, or is it the guy we established who Sylvi was playing? Or someone new?
+Sylvi:        I guess it kind of depends on what you're trying to meet [unintelligible] because like, if you're trying to meet them in like an official capacity, I think it would be Pasodoble, the guy I played last time. But if you're just trying to figure out what the deal is with the everyday cultists, I would suggest the Roaster cousin, I would imagine.
+Ali:        [laughing]
+Sylvi:        Because I feel like the other guy's just going to bullshit you.
+Ali:        Sure, I guess we, yeah, maybe we need the experience of like, someone who's been onboarded, what their [unintelligible]
+Austin:        Yeah, just like, a, a regular person who is like —
+Ali:        What they [unintelligible] yeah, yeah, yeah, uh-huh.
+Austin:        So, who wants to play Toaster Roaster? I don't know what's going on with had this cult, so...
+Keith:        I don't think anyone does, but...
+Sylvi:        Yes, kind of freeform, still.
+Ali:        [laughing]
+Keith:        I, I would be remiss to not throw my hat in the ring to be a cultist.
+Sylvi:        [laughing] Yeah, you, go for it.
+Austin:        Is this, this is a cultist of devotion — this is a friend of devotion that we're seeing.
+Keith:        Yeah.
+Jack:        Who is presumably, you know, some sort of, some sort of Divine deep within the station, that is also involved, the cultists have got a large magnet and they're trying to do something there, they turned the — the magnet succeeded in turning the gravity off. I'm just making sure that we've got the, the facts that we know about this cult, right? Which is, they seem to be worshiping a Divine.
+Austin:        That seems to be the case. But also a Divine that is... no one seems to know about. And also, like, we're living in the Twilight Mirage. Divines don't have to hide to be worshipped. And also, it's changing nature of, it seems like it's extending the connection to the Mirage, in a way that, uh...
+Jack:        Oh, right, yes, like —
+Keith:        Sorry, what feels that way?
+Austin:         Devotion. The Divine, presumably the Divine Devotion seems like it is extending the connection of the Mirage, because we're at the edge of the Mirage. But it's act — things are acting as if we're connected to the Mirage still. Or it's, it's, duplicating whatever the Mirage does, in terms of keeping us safe from the Perennial Wave, powering systems, enabling a high disagree of augmented reality, et cetera.
+Keith:        And this is...
+Austin:         Devotion.
+Keith:        Connected to the cult.
+Austin:        This is the cult. The cult is the Friends of Devotion, and we've been calling it, the force that does this, the Fervor, or Devotion. But we don't know what's going on inside of that cult, we don't know what —
+Keith:        Right.
+Austin:        We don't why they, Toaster Roaster would go in and then come out, or why anybody would go in and then come out? Why aren't they just staying in?
+Keith:        Which is all that they've been seeming to do.
+Austin:        Yes. And also, our part — we, we know, are also part of the larger parent organization that includes the Orchard Syndicate. Or the Orchard Syndicate is a front, I guess.
+Ali:        Mm-hm. Also, they seem to be coming out and like doing rituals that are disruptive.
+Austin:        Mm-hm.
+Keith:        Yeah.
+Sylvi:        They laid hands on the trucks, I think, is the way we specifically described it.
+Ali:        [laughing]
+Austin:        [unintelligible] and they've been doing, yeah, the magnet shit, which we don't understand at all.
+Keith:        Are, are we still in zero G? Or did that get fixed?
+Jack:        That's been repaired.
+Austin:        That has been repaired.
+Keith:        Okay.
+Austin:        Without Arbitrage.
+Keith:        The day after the meeting with, uh, — okay.
+Austin:        Yes.
+1:07:35.6        
+Ali:        Uh, so, yeah, Keith, you're playing this character, this is Toaster Roaster's cousin. Do we have a name for —
+Austin:        No, this is Toaster Roaster.
+Keith:        No, this is Toaster Roaster. The cousin is not officially named.
+Austin:        Right.
+Ali:        Oh, so this is another meeting with —
+Austin:        This is meeting with — Toaster Roaster was the name of the cousin who was in the cult and got out of the consult. My cousin —
+Ali:        Oh, okay, I thought Toaster Roaster was at —
+Keith:        Yeah, yeah, [unintelligible]
+Austin:        Right. No.
+Ali:        So it's at the — okay. Sorry.
+Keith:        Yeah, at that original meeting, the guy was like, “my cousin, Toaster Roaster, is a cult member.”
+Ali:        Sure.
+Ali (as Mustard):        Well, Mister Roaster, thanks for meeting with me today.
+Keith (as Toaster):        Many greetings. If you're well, then that is good. And I'm well, too.
+Ali (as Mustard):        I, I am well, that's great to hear. Uh, I just wanted to talk to you about the last, uh, couple of weeks that you had —
+Keith:        I check my pulse.
+Austin:        Right, I forgot about the pulse-checking.
+Ali:        [laughing] I note that but do not say anything.
+Ali (as Mustard):        I, uh, have been hearing from some of your family, and people that you worked with, that you disappeared for a little bit. But they weren't able to contact you usually.
+Keith (as Toaster):        I couldn't have disappeared.
+Ali (as Mustard):        Uh, well you didn't show up for work, and you weren't answering your calls for a couple of days... do you have any recollection of this?
+Keith (as Mustard):        Of course. [unintelligible] doing well.
+Ali (as Mustard):        Uh, so can you explain to me what you were doing, during that time?
+Keith (as Toaster):        Today, I am feeling well.
+Keith:        I check my pulse.
+Ali (as Mustard):        Sure. And, let's say today, but like a week ago, how were you feeling then?
+Keith (as Toaster):         Under the weather.
+Ali (as Mustard):        Can you tell me why? Can you describe your symptoms?
+Keith (as Toaster):        Oh, it was nothing serious. I just... felt it was best to stay home.
+Ali (as Mustard):        Oh, so you were home.
+Keith (as Toaster):        As I've said, I didn't disappear. I couldn't disappear. I'm here, now.
+Ali (as Mustard):        True. Well, did you, have you met anyone new recently? Uh, have you taken up any new hobbies?
+Keith (as Toaster):        Hm... everything I've been doing, I've been doing for a long time.
+Austin:        [chuckling]
+Ali (as Mustard):         Mmm, mm-hm. Uh... well, that doesn't appear to be the case.
+Ali:         And... I'm going to [unintelligible] Sorry, I was looking at my [unintelligible] I'm like —
+Ali (as Mustard):        Uh, well, I, I hate to, to take the conversation this way, but I think that you're lying to me.
+Keith (as Toaster):        Ooh, I also hate to take the conversation this way.
+Ali:        [laughing]
+Ali (as Mustard):        Perhaps you could be honest with me, uh, and I could make you a promise, or I could ensure you that this would stay between us, because I'm really just concerned for the people of the Brink, you know, uh, and having, uh, a correct idea of how you spent your time would, would help with that.
+1:11:06.2        
+Keith (as Toaster):        Do you have evidence that something I've said was a lie?
+Ali (as Mustard):        Uh, well, you said that you were home.
+Keith (as Toaster):        Mm-hm.
+Ali:        Uh, and, I think that she, like [chuckling] raises like a little tablet on her computer, or like on the desk or whatever in her things, and like, turns it towards him and shows a video of him leaving his house. Uh, and is —
+Ali (as Mustard):        You left at this time, and, uh, didn't return for, for a couple days. I would say it was about 83 hours, give or take.
+Keith (as Toaster):        And is there a reason why I should tell you my business, and why you shouldn't be satisfied with my answer?
+Ali (as Mustard):        Well, again, I, I'm reaching out to you because —
+Keith (as Toaster):        No you're not.
+Austin:        [chuckling]
+Ali:        [wheezes laughing]
+Ali (as Mustard):        I reached out to you, for this meeting, uh, because your, your friends and family are concerned.
+Keith (as Toaster):        I am reaching out to you.
+Keith:        And I stretch out my... hands. And I say —
+Ali:        I think she —
+Keith:        Oop, no, you can say it.
+Ali:        She keeps her hands still, like if you wanted to grab her hand, you could.
+Keith:        No, I'm just holding them — I mean, you could grab them. But I'm just holding them there.
+Ali:        Okay.
+Austin:        You're making the offer. You're not taking her hands. You're basically saying like —
+Keith:        Right.
+Austin:        Meet me halfway.
+Keith (as Toaster):        I am reaching out to you.
+1:12:49.0        
+Ali (as Mustard):        Uh...
+Keith (as Toaster):        My business is my business. I've done nothing suspicious. I've been going to work, I've talked to my cousin, who I'm sure sent you here. If he's concerned, he can talk to me himself. Which he has done.
+Austin:        [chuckles]
+Ali (as Mustard):        Well, Mister Roaster, let me put it like this, then. What if I told you that I was feeling unwell?
+Ali:        And I take your hands.
+Austin:        Ali — or, Mustard? You feel your pulse —
+Ali:        [wheezes]
+Austin:        And you feel Toaster Roaster's pulse. And you feel a third pulse. And it brings yours and Toaster's into sync. So that blood is pumping through your bodies at the same time, at the same rhythm. You can tell me, if this omen is clarifying or confusing, or if this vision is clarifying or confusing. But you feel the whole ship. You feel the possibility. What would it be like, if for one minute, even, one second — everybody's blood moved through their body at the exact same time, at the exact same rate? A perfect, functioning vessel.
+1:14:26.8        
+Keith (as Toaster):        This is what it's like to reach out to someone.
+Ali:        Uh... I don't let go. [laughing] Uh...
+Ali (as Mustard):         If I wanted to know more about this, what would you tell me?
+Keith:        Uh... I reach into my pocket, and I have a little drawer, like a pocket drawer —
+Austin:        [chuckling]
+Keith:        That I open up, and there's — have you ever seen like, magnetic, not magnet — have you ever seen, uh, uh, uh, like microscope slide trays?
+Sylvi:        Mm-hm.
+Jack:        Yeah.
+Austin:        Yeah, of course.
+Keith:        Uh, it's like that, but it's like a, it's like a chip, like a data chip. And I take one out. It's, it's, uh, it holds like 30 and it's missing like, 10. I take one out and I hand, I hand it to Mustard. And I say —
+Keith (as Toaster):         All the information you need's on here.
+Ali (as Mustard):        Thank you. This is, this is, I appreciate this. Thank you.
+1:16:04.7        
+Ali:        Uh, I think that she just sort of pulls it, and puts it in a safe place. Uh...
+Ali (as Mustard):        I'll let your family know, if they have any other concerns, uh, that I, I think that you're doing well.
+Keith (as Toaster):        Thank you. I think that you're doing well, too.
+Ali:        [chuckling]
+Ali (as Mustard):        And if, if, if, if I wanted to get... involved.
+Keith:        I point to the chip.
+Ali (as Mustard):        Right, right, okay. Just checking, because... cool. Well, thank you. This has been great. Uh, do you have any concerns that you would like to, to, to say me, in terms of your living situation, or how your job is going, or, you know, suggestions?
+Keith (as Toaster):        I am completely absent of all concern.
+Austin:        [chuckles]
+Ali (as Mustard):        Great. That's what we love to hear.
+Ali:        Cool, well, I guess that's a scene.
+Austin:        That's a scene.
+Ali:        [laughing]
+Sylvi:        Sure.
+Austin:        Uh... it's you or me, Shadow —
+Sylvi:        Yeah.
+Austin:        Or Lament, rather.
+Sylvi:        It's okay, people confuse me for Shadow a lot.
+Austin:        [laughing] ah...
+Sylvi:        So, I've been thinking a little bit about what I want to do with the, Lament's actual mission of these three people that she needs to assassinate. Uh, and I kind of decided that she was planning on taking care of one of them at the concert.
+Austin:        Mmm, mm-hm.
+Sylvi:        And so I think the scene might be just checking, checking in about the security situation.
+Austin:        Oh, there's no security. [laughing] There's not going to be any security.
+Sylvi:        Exactly. Last she heard, it was —
+Austin:        Yeah.
+Sylvi:        There was going to be security. Uh... and that, we can have that be a really quick conversation, then, of just like, “did you take care of that thing with... “ what's that guy's name?
+Austin:        Corasun?
+Jack:        Seventine?
+Sylvi:        Corasun. Seventine. Yeah.
+Austin (as 3T):        Yeah, the troublemakers came through.
+Sylvi (as Lament):        Good, good.
+Austin (as 3T):        Yeah, I know, it's —
+Sylvi (as Lament):        I love when the troublemakers come through.
+Austin (as 3T):        I'm so ready. I'm like... buzzing. And I... uh, I've been doing all this work this week. Like, throughout the Brink. You know, sometimes it's just like helping people's pipes and plumbing, but other times it's like — I also helped people move boxes from one side of the ship, of the station to the other side.
+1:19:05.8        I did some, just like, cleaning. It was weird. Like, I had to clean troublemaker graffiti at one point, and I had, I had to be like, “ah ha-ha.” I put a story up about it, which is kind of like, irony. Uh, uh, but it made me feel connected to everybody, you know? Like, even though I was washing my own message away, it's like I was touching someone else's hand, who'd been touching the mess — you know what I mean? The wall, and I felt like I was with everybody. And so I think, I think it's all coming together. I think everything's in sync, I think the performance is going to go good. I have my set list down. No security, obviously. And everything is in place.
+Sylvi:        Like, barely listening for most of that.
+Austin:        Uh-huh, yeah, of course, yeah.
+Sylvi:        Then you say, no security, and she's just like —
+Sylvi (as Lament):        Ah, that's great. T, you're doing some good stuff out here.
+Austin (as 3T):        Thank you.
+Sylvi (as Lament):        Uh, can't wait to see all the festivities. Uh... anything else I should — no other changes to the situation at all? Just no security now, everything's still —
+Austin (as 3T):        That's it. I mean, you know, it's a small venue, because it's just Pushy's, but we'll be broadcasting everything to the whole station. It'll be up on all the walls. Anybody, anybody can obviously have the feed, but it's also just going to be out there. Uh, and then, you know, there's going to be the encore. So that's when it's going to go big. That's when people are going to finally see it.
+Sylvi (as Lament):        All right. The encore. That sounds like it'll be pretty flashy then, yeah?
+Austin:        Big, toothy grin. All the glowy nails and my hair turn bright, uh, oranges and greens, uh, uh, and, uh, know, some blues. And I go —
+Austin (as 3T):        Yeah, you could say that.
+Sylvi (as Lament):        Sounds perfect. Really looking forward to it.
+Sylvi:        Uh, I am debating whether or not to play — I think I'm going to hold onto it for now, the make someone an accessory to your mission thing. That is definitely what's in the process of happening here.
+Austin:        I mean, yeah, that's happening. Yeah, that seems like it's happening.
+Sylvi:        Yeah. Yeah, okay. And I think that would be it for my scene, probably.
+Austin:        Okay. Uh... I'm up. Is it time to just do this concert? And then we can be on the other side of it, instead of continuing to draw it out.
+Sylvi:        Sure.
+Jack:        Yeah.
+Austin:        I think so. All right. So, it's Friday. Pushy, what's your place like on the inside, again?
+Keith:        Uh, it is, uh, it's, uh, low lights, low stage. Uh, there's nooks, like, uh, you know, like booths away from other spots, but there's also a lot of like, floor tables, which are normally, uh, right up against, not like literally against — but they're close to the stage, but those have all been like, cleared out to make room, standing room for the concert. Uh... and, uh, there's, uh, a long bar, like across one of the walls, where, you know, like opposite the booth seats. And I would, I would say that it is like a small, like, this is a sub-thousand, definitely, like this is like a 200 to 300 person venue.
+Austin:        Mm-hm.
+1:22:43.6        Uh, and, uh, how is it without security, and with too many people onboard?
+Keith:        Uh, it's loud. Uh... it's, there's too many people. One of the things that security does is tell you when there's too many people.
+Austin:        Right, and they're not — there's no one here to tell you that.
+Sylvi:        They're not there.
+Austin:        No, they're just not there.
+Keith:        Yeah.
+Austin:        Uh-huh.
+Keith:        Uh, so this place is a, this place is a fire marshal's worst nightmare right now. I think there's probably people on tables, uh, which normally wouldn't be allowed. Uh... I think that, uh, there's... uh, mostly, though, people like waiting for the show. Being rowdy, because they want a show to start.
+Austin:        And it does. And, for the first, you know — I mean, there's an opening act. Who's our opening act? What's a good opening band. Is this one of the — did I let someone from Devotion who's just like, a musician, from the Friends of Devotion, do an opening act for me?
+Sylvi:        Oh my god.
+Jack:        Yes, absolutely.
+Sylvi:        Yeah?
+Austin:        What, what was their — what's their vibe?
+Jack:        Uh, they are...
+Keith:        It's a — they're a comedian.
+Sylvi:        [laughing]
+Keith:        Comic act.
+Jack:        Go ahead.
+Sylvi:        I, I was going to say Switchfoot, but that's better.
+Ali:        [laughing]
+Keith:        Everyone knows that it always goes really well when you have a comedian opening for a musician.
+Austin:        Open for a, for a musician.
+Ali:        Mm-hm.
+Austin:        Yeah, uh-huh.
+Keith:        Yeah, it goes really normal [chuckling] and everyone really loves it.
+Ali:        Mm-hm.
+Austin:        Everyone is very anxious for music to begin.
+Keith:        [laughing]
+Austin:        Like, it's that thing where you're at, you're at a show, and like, the, the opening act goes away, and the, like the regular music, you know, like the piped-in background music, you know, feed comes on. Everyone's like — whew, this is so much better than that last act. Which is just, that's brutal. Uh, and then, Tanager comes on and does, for the most part, a regular show. It's intimate, even though it's cramped. Uh, there is a lot of, uh, uh, this is, I think this is probably just, uh, I guess I don't have any tokens left, so I don't think I'm taking any particular moves besides taking action and leaving myself vulnerable, which I'm really going to do in a second. The, the — I do all my best songs, uh, and I have history with this place, so I think there's good vibes. I do Blue Limit, I do Problem Not a Problem, I do All Xed Out, I do Bonjour Horizon, I do Makeup Breakup Fakeup... uh, uh, and I leave. And everyone's like, woo, more, more, more, more more.
+1:25:32.4        And I come out to do the encore. And I tell everybody that I'm going to debut a new song, just for you. I know people like to hear the hits, and I'll go back to the hits after this song. Uh, but it's a new one, it's burning a hole in my heart, and I have to get it out. And I say...
+Austin (as 3T):        This is song is called Morning Mirage.
+Austin:        And feeds open up, outside of the Brink, and out into the dark. And you can see the purple light of Palisade, uh, off in the distance. And, all at once, there are these explosions of light in the dark, uh, as the Mirage bombs I've been planting across the sector go off. It's synthetic Mirage. Empyrean made the Mirage, many many thousands of years ago, you may recall. Uh, and Empyrean is not with the Twilight Mirage anymore. But we've figured out how to — by, by we I mean, someone, someone told 3T that we basically figured out how to make more of the Mirage, and it's expanding. So these bombs go off, and, you know, big, bright, color, like — you know, huge splashes of, of uh, pigment, across the dark black sky, growing to connect to the mirage, and expand it closer and closer to Palisade, closer and closer to Principality space. I mean, like, these explosions are huge, right? Because space is big.
+1:27:06.8        You have to understand, like, these explosions are like, the size of like, planets. And the, the ink or whatever kind of stains the sky, goes for huge amounts of distance. And it's like fireworks, but permanent, in a way. Uh, and —
+Austin (as 3T):        And I dedicate this to, you know, everybody fighting for freedom in the galaxy. I say that everybody should stand up and raise their fist and punch the Principality in the face. I say that I think this needs to get, anybody who doesn't do this is a coward —
+Austin:        I get very insulting in terms of the rest of the Mirage, you know, how dare we stand behind —
+Jack:        And you're, you're with the Principality.
+Austin:        Yeah, exactly. 100 percent.
+Jack:        You might as well be —
+Austin:        You might as well be with the Principality. Yeah, exactly. Uh, uh, and that like, there's no better, you know, we've been living a life of intense privilege, and we've been given an opportunity to act, and if you're not angry about this, then you're not a real person. And I play this song. I believe that I am stoking someone's anger to sway them into acting against their best interests.
+1:28:24.9        
+Jack:        Uh, uh, yes, if that night, a group of young people board a ship and leave with —
+Austin:        Oh, one? One ship, Jack?
+Jack:        A militia, they just —
+Austin:        One of the, one of the branches of the Brink breaks off, because it's big enough to carry hundreds and hundreds of people. There's a gap on the —
+Jack:        What are they armed with?
+Austin:        Makeshift weapons, uh, stuff that they can produce onboard the ship. The Twilight Mirage is very powerful, you know? You can just, we can — I don't know if we have like, Star Trek replicators, but we certainly have the ability to produce weapons. We certainly have great 3D printing. We can print 3D print guns, now.
+Jack:        Yeah, they're 3D printing cannon onto the front of the ships.
+Austin:        Yeah. Yeah.
+Jack:        Like line sprayer equivalents are like, [unintelligible] over the ships and —
+Austin:        Mm-hm.
+Jack:        Covered in, covered in 3T graffiti. People singing, people singing Morning Mirage as the ship takes off to —
+Austin:        Towards Palisade. You know. Hey yo, fuck the Principality.
+Ali:        [snorts] Is what it is.
+Austin:        Should the Twilight Mirage cover all of the galaxy, like 3T says in the song? [chuckling] I don't know.
+Jack:        [chuckling]
+Ali:        I love that song, “I Don't Know.”
+Austin:        Uh-huh [laughing]
+Keith:        [chuckling]
+Austin:        A galactic of color, a galaxy of touch, is, is a lyric here. You know.
+Ali:        [snorts]
+Keith:        Uh, is, is this... is this against the law?
+Austin:        Probably, yes.
+Keith:        Is there a law against blowing up Mirage bombs?
+Austin:        These don't — no one knew these existed. I would imagine... I mean, I don't know. Again, we left the Mirage in a place that is hard to know what, how much central organizing there is versus, you know. Local communal organizing, with a degree of kind of communication and, and — but I, I, at the very least, this is — I don't think you expand the Mirage without people signing off on it somewhere.
+1:30:44.9        
+Jack:        No, yeah. I think that, I think that —
+Austin:        Without people — I don't mean leadership. I mean without like — this was a unilateral — well, it wasn't unilateral, but it was, it was unilateral from a group. It was unilateral between 3T, and Decario —
+Keith:        It was surreptitious.
+Austin:        And the Devotion — it was — and it was not voted upon. It wasn't Democratic in any way.
+Keith:        Right.
+Austin:        No one could object to this. This wasn't even a plan presented in public for people to say, “hey, this seems like a bad idea.”
+Keith:        Yeah. So, my question is, does someone with the authority to put you in jail —
+Austin:        Oh, please.
+Jack:        Oh...
+Keith:        Want to put 3T in jail now?
+Ali:        [chuckling]
+Austin:        That seems likely, right? Uh...
+Keith:        Yeah. It does seem very likely.
+Jack:        Does it — well, hold on. Something we know about the Mirage is that they have a lot of thoughts about carceral justice.
+Austin:        That's true.
+Jack:        And I think that, I would hope that, they would understand the rhetorical results of —
+Austin:        Doing that —
+Jack:        Locking 3T away.
+Austin:        Yeah. Yeah.
+Jack:        I think, I could totally see that happening on, we've known that happening on, say, Fort Icebreaker —
+Austin:        Oh, for sure.
+Jack:        But in is the Brink, right?
+Austin:        For sure.
+Jack:        Well, but —
+Austin:        But what is the, the specific question here is like, what is happening when it comes to harm reduction —
+Jack:        Yeah.
+Austin:        Preventing 3T from continuing to arm people, or, or spread this?
+Jack:        Yeah.
+Keith:        I —
+Austin:        But [unintelligible] people decide — Keith, sorry.
+Keith:        If I could speak from the perspective of someone who wants to arrest 3T...
+Austin:        [laughing] I thought you were going to say from the perspective of an anarchist.
+Keith:        No, no, no, no. I'm in — I'm like —
+Austin:        You're in character.
+Keith:        I'm like, thinking about consequences in character.
+Austin:        But remember, your character lives in a world where like, you got in trouble for breaking the law, and you didn't get arrested, you now get to run a bar.
+Keith:        Okay. Well, but, but, you know, but, I'm just trying to think through unforeseen consequences, and I'm like, okay. So there's a lot more mirage now...
+Austin:        Mm-hm.
+Keith:        And one of the things about this place is that it was sort of on the border, and it's really difficult, temporally, to move through the Mirage. And, has this musician just destroyed our ability to get —
+Austin:        Yes.
+Keith:        Anything shipped here from anywhere —
+Austin:        Mmm, mmm. It's the other way, Keith. Palisade is deeper in the — is more on the edge. It's easier, to go from Palisade to here. If Palisade gets to be where, like, the thing that's, the thing that is good about Palisade for the principality is, it's a nice stepping stone where you can try to figure out how to build something that gets you into the Mirage quickly.
+1:33:21.2        If Palisade is nicely on the border in that way that, uh, you can imagine a planet, uh, you can imagine a planet's rotating. And half of it is in the Mirage and the other half is out. I mean, let's not talk about whatever the actual, literal physics of this is, because it's bullshit. But, the thing that I think is true is, the more something is on the border like that, the easier it is to get things from outside in, if you have that, that sort of — it's almost like a bridge between outside and in. And in a really bad way, what 3T has done is extended out where that bridge line is, from being where the Brink is, to being where Palisade is. It hasn't like, equalized time, necessarily —
+Keith:        No, that's what I'm saying, yeah. This is what I'm trying to say, is, is that, is that he ruined it. He ruined the —
+Austin:        Oh, yeah, yeah, yeah.
+Keith:        Yeah, yeah, yeah.
+Austin:        It's made it way, it's made it way more likely for... I think it's made it way easier for people to get between these two places quicker.
+Keith:        Oh, okay, that's not what I was saying, so —
+Jack:        Just as a reminder —
+Ali:        I mean, it also devalues the Brink, is what you're trying to say.
+Austin:        Yeah, I mean, it does. Yeah.
+Ali:        Yeah.
+Keith:        Uh, the, the way that the time thing works, because I know that it's a hyperbolic time chamber...
+Austin:         Sort of, yeah.
+Keith:        Uh, so, you, you fly in, say you're going to the Mirage, you spend a year there, and then you leave, and it's actually been less time.
+Austin:        It has, no, it has been more time outside.
+Keith:        More time outside.
+Austin:        Yes.
+Keith:        So I guess this like 3 years —
+Austin:        We've had 500 years —
+Keith:        In, like, for the truckers to be like, oh, I went on this trip and like, normally it would have taken me a month, and now it took me 6 months, like of outside time.
+Austin:        It definitely fucks with time in ways that are hard for people to comprehend.
+Keith:        Yeah.
+Austin:        It's, it's definitely changed those schedules in big ways. And it's, I think it's made it easier for the principality to get for — I mean, it's made it easier for the Mirage to get, to get forces to Palisade, but also for the Principality to potentially get forces from Palisade if they can get stuff up and running, into the Mirage.
+Keith:        Yeah. Yeah. Uh... I, uh, oh, —
+Austin:        It's bad.
+Keith:        Just to, just to rewind, if, uh, if you're looking for an anarchist's perspective, it's bad, that's dumb. Don't do that, don't —
+Ali:        [giggling]
+Keith:        [laughing]
+Austin:        You're telling me anarchism isn't just a thing where anybody is allowed to do whatever they want?
+Keith:        Yeah, yeah, that's not what it is.
+Austin:        Because, that's, I heard from some libertarians that, that's what anarchism is, and that's why they're better than anarchists.
+Keith:        Yeah. Anarchism is when an outside agitator does something bad.
+Austin:        [laughing]
+Jack:        [laughing]
+Austin:        Ugh... god.
+Jack:        Ugh. And as far as the centrists are concerned, it's when someone lights a car on fire, right?
+Austin:        That's it, yeah. Uh-huh.
+Jack:        That's anarchism?
+Austin:         That's anarchism.
+Jack:        Yeah. I mean, I'll say this, if we're talking about consequences. The Brink is, uh, receives a signal from Seneschal's Brace, that evening. And they are sending a general to the Brink. They have noticed that there has been an active act of war by the Brink to, uh, uh, engage with Palisade, uh, and, uh, uh, a cruiser is being dispatched.
+1:36:39.4        
+Austin:        Can I ask a question, Jack?
+Jack:        Yeah.
+Austin:        Are you adding to the interstellar war page? Are you adding — because that's not one of the militaries that we have listed right now. Do we — is this — is the thing that 3T did just increase this war... like, formally, by making me need to go, name the four sides, instead of the three sides, and adding Seneschal's Brace, or adding the Mirage, like I don't — I — you know.
+Jack:        I, so, I —
+Austin:        Because what you're doing is, uh, you, you marked me with the ire of a senior officer.
+Jack:        Uh, yes, definitely, in which case —
+Austin:        But that's not one of the four sides. Or three sides.
+Jack:        Nope. But it's not even like, you know, when you list belligerants and defenders, uh, in [chuckles] uh... yeah, I think, I think, ugh, I think so, right? I mean, like, if there is some sort of leadership, some sort of senior officer, is arriving. Yes, obviously, you can't detonate bombs and then send a load of soldiers without expecting there to be a consequence —
+Austin:        Mm-hm.
+Jack:        From the country, or from the quote/unquote state that you...
+Austin:        Mm-hm.
+Jack:        Say you represent.
+Keith:        I don't know...
+Austin:        [snorts]
+Keith:        [laughing]
+Jack:        I think it's, I think it's, I invaded Wales?
+Keith:        Yeah.
+Austin:        I mean, it really depends on how much your country wanted to you to do that, anyway.
+Jack:        If my country really wanted me to invade Wales, then what they would say is, “Jack de Quidt is a brave fighter for the things —“
+Austin:        Yeah.
+Jack:        There's Jack de Quidt battalion. Now, we should [unintelligible]
+Austin:        Or Jack de Quidt —
+Jack:        Masterfully into [unintelligible]
+Austin:        Shouldn't —
+Jack:        Jack de Quidt's history.
+Austin:        Right, yeah. Jack probably shouldn't have acted unilaterally, but as a patriot, they were just doing what they thought they needed to, and we should give some clemency.
+Jack:        And also, unrelatedly, we're going to maybe start shipping weapons towards the Southwest of England. [chuckling]
+Austin:        [chuckling] Right.
+Jack:        Uh, as opposed to —
+Keith:        If I could give some advice to England is, don't go to war with Wales —
+Austin:        [laughing]
+Keith:        Don't if you ever heard [laughing] —
+Jack:        Ugh...
+Keith:        And, no offense, Jack — don't do it through Jack?
+Austin:        [laughing]
+Jack:        I would go, I would go to war — I'll say it on, on recording —
+Austin:        Oh, no.
+Jack:        I would go to war with Wales so badly that I don't think anybody would even realize a war was happening.
+Keith:        You mean poorly, not like intensely.
+Ali:        [giggling]
+Sylvi:         Aw, come on, [unintelligible]
+Keith:        [laughing]
+Austin:        God...
+Sylvi:        They're just big fish, what can they do to you? You're fine.
+Jack:        [laughing]
+Ali:        Mmm.
+Jack:        Oh, god. Uh, also worth saying that, uh, you know, the, the, the they're listed in our threats here, but, uh, remember the last game of Lancer? These are the kind of munitions that we're talking about, that the Principality can bring to bear.
+Austin:        Oh yeah. Oh yeah, it's bad. I mean, the Mirage is not a joke. And you know —
+Jack:        [unintelligible] when we say it's easier for things like Under The Radar, now, to reach the Brink —
+Austin:        Yes, yes.
+Jack:        Uh, you know.
+Austin:        But is, is, is, is the Principality ready to go up against fucking... you know, uh, Anticipation?
+Jack:        Something that barely looks like a mech, yeah.
+Austin:        Against, uh, whoever's left here that we haven't even — yeah, against Arbit? Come on.
+1:40:02.1        
+Jack:        I mean, I think the short is no, but it's going to be — when Divines fight, millions of people die.
+Austin:        Ah, I've heard that somewhere before, Jack.
+Jack:        Uh... okay! Well...
+Austin:        So, yes, I'm adding Seneschal's Brace to one of the sides of this war.
+Jack:        Yeah, totally.
+Austin:        Seneschal's Brace, for people who don't remember, was one of the planets, uh, in the Quire System after the midseason jump in Twilight Mirage.
+Jack:        But the people there, after, are sort of... uneasy truce for a long time, drove out a group called the Democratic Free States. Uh, they, they are the DFS, right?
+Austin:        The DFS, the Democratic — the, the, no, the Divine Free States.
+Jack:        The Divine Free States —
+Austin:        Ends up becoming the Divine Principality.
+Jack:        Who ends up becoming our dear friend, the Principality.
+Austin:        Mm-hm.
+Jack:        Good old Aram Nideo and his, and his buds.
+Austin:        Uh-huh. It's, it's worth saying, Seneschal's Brace was specific a cadent plus Declan, Declan's Corrective thing. It was a fleet and earth group, which is to say, not a Qui Err group. Uh...
+Jack:        No.
+Austin:        Which is interesting here, if the Qui Err are not —
+Jack:        Uh, or weren't, then.
+Austin:        But I, no, I mean, yeah, I mean, that's the question. My question here, I mean, I don't know what the state of the Twilight Mirage is, right? Like, we — this is not, I'm not sitting on secret, you know, lore about what then happened to the Twilight Mirage post-TM. And so, I guess my question is, is this particular group sending a general and presumably some sort of ship, maybe enough ships to guard the Brink, you know? I don't know. Uh, uh, is there... is that happening separate from something that the Qui Err... are they not part of this? Or, or is there a... you know, is this, is this yet another individual group making a decision, versus the, the more unified front? Though Marm in the chat does note that, that —
+Jack:        Yeah, I think that's what happened.
+Austin:        They believe that Seneschal's Brace dissolved in the epilogue. I'll have to check.
+Jack:        I feel like, because —
+Austin:        That feels right. That feels like a thing that —
+Jack:        Notion was aligned with Seneschal's Brace, [unintelligible]
+Austin:        No. The Notion — [chuckling] The Notion barely existed at the end of Twilight Mirage.
+Jack:        Yeah, the, the —
+Austin:        Uh, and specifically, Gig and Echo were, were Qui Err at the end, and that pushed very strongly for the Qui Err contingency, is that what the name of the, the Qui Err group was called?
+Sylvi:        Oh, I don't remember the name of the group specifically.
+Austin:        God. It's been so long.
+Jack:        3,000 years ago.
+Austin:        Uh...
+Keith:        Uh, I have this thought every once in a while, but it really feels like it's time to relisten to all of the Sci-Fi seasons that we've done, so that I can remember —
+Austin:        Uh-huh. Coalition.
+Keith:        Anything about any of them.
+Austin:        Mm-hm. They're long, it turns out.
+Jack:        Ugh.
+Austin:        Uh, the Qui Err Coalition is the other —
+Keith:        I'll listen at 2x speed, I don't mind.
+Austin:        Mm-hm.
+Keith:        I don't recommend it.
+1:43:17.3        
+Austin:        Uh, I'm just —
+Sylvi:        I don't recommend or condone this, but I will do it.
+Austin:        Ah... sorry, I am, I am just checking this.
+Sylvi:        Yeah, no worries.
+Austin:        This, in the transcript, to make sure. Keith bragging that the Qui Err coalition has to scarcities at the end of the game — we are spoiling the end of Twilight Mirage here, y'all know this. I should be very clear about it, but I hadn't been yet today, so... uh, yep, here it is. Here it, here it is.
+Keith:        No scarcities, and the sickest water slides in the Twilight Mirage.
+Austin:        [chuckling] That's 100 percent true. Uh, [reading] Austin — “Yeah, and like, here's my real question. How long until there's no Seneschal's Brace, and there's just the Qui Err Coalition?” Dre — “Yeah.” Me — “Like, how long until Seneschal's Brace is like, listen, this is... people are at the Qui Err Coalition at this point, like, the DFS, think about this, too, which is the DFS left, which means the Qui Err Coalition runs Skein and Moonlock” uh... I'm fixing a typo on this. Uh, and so, yeah, I think...
+1:44:19.5        Yes. According to what we're looking at here, there is effectively a land-back movement. Qui Err Coalition becomes the de facto government. There is a, a sort of reunification of everybody here. Uh... yeah. So, it would be the Qui Err Coalition and not Seneschal's Brace, Jack. Are you still good with that?
+Jack:        Yeah. Yeah, in fact, I'm really glad that we talked this through —
+Austin:        Yeah.
+Jack:        Because the, the character that I want to put on table is, uh, uh, [chuckles] I feel like we said this at the beginning of every episode in Twilight Mirage — when we throw words like utopia around, we are not saying that it is without trouble, or that we don't want to spend time thinking about it. But I want to see what utopian generals and a utopian, uh...
+Austin:        Great question, Jack.
+Jack:        [chuckling] A utopian military is interested in. And I want to introduce that character coming from a place, uh, uh, that character is going to have problems, but I want to begin by saying, this is someone from — we've now learned the Qui Err Coalition — who has presumably spent a lot of time thinking about things like this.
+1:45:22.3        
+Austin:        And not a lot of time fighting wars of aggression or being part of a large military-industrial complex that profits off of invasions, or —
+Jack:        Yes. Oh, but has, uh, come from a culture and a history that has dealt with those things in the past.
+Austin:        Right.
+Keith:        In, in the far past. Well, who knows.
+Austin:        500 years. 500 years ago, which is a long time. Uh, and, and —
+Jack:        Yeah, but the thing about the —
+Austin:        Presumably we, we do know — sorry, really quick — we do know that the, in the quote/unquote the epilogue of Twilight Mirage, advent continued to try to invade the Twilight, the Twilight Mirage for years to come, and kept getting beaten until they eventually were destroyed completely. And I suspect that took quite some time because of how Advent was a criminal and military organization that extended across the entire galaxy. Not as like, leader not in like, uh, not like the Rapid Evening where it controlled territory, but existed galactically in that way. So...
+Jack:        Yeah. Uh, I think it's, yeah, it's, it's worth saying, if you are not familiar with the Twilight Mirage, that the Twilight Mirage, and especially the Qui Err Coalition are not people who have like, lived a life blissfully free from conflict, or free from war. Uh, like, these are people who have, they have got to the place that they are now by working through those ideas. Uh... and maybe, I would hope that there are people now in the Twilight Mirage who have lived their whole lives without war. We know this to be true. But, their culture isn't one where it's like, we have come from a long culture of never having been in any strife.
+Austin:        Mm-hm.
+1:47:01.0        
+Jack:        So, yeah, I think it's definitely a fourth, a fourth, uh... side.
+Austin:        Okay, add it. Uh... do you have a name for this Qui Err, uh, general?
+Jack:        Uh, yeah, this is General Mourning.
+Austin:        And is General our title here?
+Jack:        Uh, General is the title I have been thinking, but I... uh...
+Austin:        You want to come back next week and it could be different?
+Jack:        We can come back and be like, “what if they called general” — this is like a very high, this is like a fleet admiral. The, the Principality would call this Admiral somebody or other. You
+Austin:        Yeah, yeah, yeah. For sure. Uh...
+Jack:        And, uh, she is inbound on, uh... the Brink is, the Brink Proxy receives this signal. She's inbound on one of those ships that we last saw the Notion flying, that that like big, gold, uh, sails?
+Austin:        Mm-hm. Love that. Love those big, gold sails.
+Jack:        Uh, which I, uh, realize are, uh, probably not in the fiction, but definitely in our thinking, are in advancement of Apostolosean deep flight ships.
+Austin:        Oh, for sure. Yeah, I love that. I think we've seen them do something like that, even in road to season 6. They still had that deep flight stuff. That's still, that's still a thing that they do.
+Jack:        Oh, the Apostoloseans? Wow.
+Austin:        Mm-hm. Uh, the Branched also have a version of it, if I recall right, which is fun. Anyway... that's a turn, or a round.
+Jack:        Yeah, it is a fucking turn. Someone declared war.
+Austin:        Uh, is hundreds of military starships are using a nearby moon as a stage area, still active as a threat? Or have we resolved that as a, as a part of our story?
+1:48:47.2        
+Keith:        Uh, that doesn't feel resolved, unless I missed something.
+Jack:        It might be more of a threat.
+Keith:        Yeah, I think it's worse.
+Austin:        Remember that resolved does not mean it's solved. It means — I'll read from the book, in terms of what it, what it means. Uh... let's see.
+Keith:        There's nothing you can do, anymore.
+Jack:        [chuckling]
+Austin:        Right, exactly. Uh... da-da-da da. This might mean that they were averted, or have already come to pass.
+Jack:        Hm.
+Sylvi:        I don't know if I — [sighs] has it come to pass, though? It just kind of feels like the situation got worse.
+Austin:        I guess it — it just got worse. Okay.
+Sylvi:        Yeah.
+Austin:        The thing that I want to say is, it may never — it's certainly not going to be that we beat them. That's not on the table at all.
+Sylvi:        Right.
+Ali:        Sure.
+Austin:        And, that would only — if we're talking about only they beat us or we beat them, it will never get resolved if that's the scale that we're talking about.
+Sylvi:        I mean, I don't think that it then necessarily has to be the scale, though, right? Like, they're still imposing a military force on the Brink. Like, their guns are still pointed at the Brink, right? You
+Austin:        That's my point. My point is —
+Jack:        I think —
+Sylvi:        Okay.
+Austin:        If we, if it's going to, if the only way for us to say it's resolved is... I guess I don't know, what's resolution look like, if not, okay, we're not getting out from this? It's gotten worse.
+Keith:        Uh, yeah, that was sort of the thing, is it felt like it had room to get either better or worse from here. And not that this is just like, the new —
+Austin:        You think it could get better from here?
+Keith:        Uh, well —
+Austin:        Because I don't think it could get better at this point.
+Keith:        I was being generous.
+Austin:        I think we've moved, we've moved — the Twilight Mirage.
+Keith:        [unintelligible] resolved, there's a war now, for real.
+Austin:        We added, we added the Qui Err Coalition to the war. We moved the ship to the Brink. Military vessels, there. At that point to me, that feels like as, as resolved as we could potentially get.
+Keith:        Yeah.
+Austin:        I mean, again, maybe — actually, maybe that's not true. Maybe resolution is, there's a decision not to attack, or there's a decision to attack. So yeah, maybe it could, maybe we could — I, but I think we could play this game forever, right? We could play this game until there's no more, until we don't do Palisade. This could be Palisade, right?
+Keith:        [laughing]
+Austin:        Uh, uh, but in terms of trying to think about, what's a good resolution look like, what's a bad resolution look like? What's the space, what's the canvas, what's the shape of the canvas? I'm having a hard time knowing, what resolution looks like. Maybe I'll, maybe it's a know it when we see it thing. For what it's worth, uh, I definitely don't think residents — the cult thing, has resolved.
+Keith:        Yeah, uh, it has not.
+1:51:33.4        
+Austin:        And, but maybe blue oranges have. Maybe that's done. Maybe that's the thing that's done, because those were the ships that were being used to move the Morning Mirage.
+Ali:        Mm-hm.
+Austin:        So maybe that's the thing that's no longer active. And things are, things... things are cooling down, in the sense that there are not as many workers here, anymore. But, it's still the cycle feast. So maybe that doesn't go away until after that.
+Keith:        You know, I'll, I'll say that I'm more ready to call threat one done than threat three.
+Austin:        Okay.
+Keith:        Because it, it still feels like the, yeah, the too many people thing is an issue, especially because we introduced —
+Austin:        Right.
+Keith:        Uh, potential supply chain complication.
+Austin:        Yeah, that's true.
+
+
+
+
+Keith:        Like, that feels like more stuff could happen. And then, now, like, I don't know if 3T's going to be out there trying to put more stuff on blue orange ships —
+Austin:        Oh, sorry, yeah — am I arrested? Am I being, am I being...
+Keith:        Uh, someone is going to try to arrest you, I think.
+Austin:        I mean, Jack introduced this character. Jack, was your point that General Mourning would be bringing me onboard her ship?
+Jack:        No — no.
+Austin:        Okay.
+Jack:        You have been asked to, uh, wait for General Mourning to arrive, with the understanding that you will.
+Austin:        I'm not going anywhere. I'm exactly where I need to be.
+Keith:        Wow. Inspirational.
+1:52:59.6        
+Jack:        In fact, I think what they actually, I think the message that comes through is, “don't go to Palisade.”
+Austin:        Mmm.
+Jack:        Uh, anticipating that you might be like, in the — “and on the next ship!”
+Austin:        Mm-hm. Right, right right right. Yeah.
+Jack:        Remain on the Brink. Keith, is there, is there additional 3T sentiment? Like, [chuckling] you were going to try and arrest him. Is there something like that, not a try to arrest, but is there like — what is happening?
+Keith:        It, well, it... it felt sort of like, uh... the, uh, fuck, I can't believe this?
+1:53:44.8        
+Austin:        What's up?
+Keith:        I just can't remember the name of, uh, Mustard Red's comes again.
+Ali:        Uh, Brink Proxy.
+Austin:         The Brink Proxy. They're not cops.
+Keith:        The Brink Proxy.
+Austin:        They're not police in any way.
+Sylvi:        They're like social workers, from my understanding of it.
+Keith:        Oh, okay, the boss is a security guard that is been harassing people, and she spends all of her day looking at —
+Austin:        That's, that's one person.
+Keith:        Security cameras.
+Austin:        That was one person. What they primarily are, their two directives are, “bread, water, and rest, “and —
+Keith:        Okay.
+Austin:        “Maintain the upkeep and development of the station.”
+Keith:        Okay, but —
+Austin:        They mostly keep — remember, they're, they're, what they actually are is, a human version of the life support system.
+Keith:        Okay.
+Austin:        Right uh, there was a guy whose job is security —
+Jack:        Because all the AI is [unintelligible]
+Austin:        And like, who had, I mean, he presumably had some security officers. But a handful for the whole station. I don't think that they were primarily cops, and you can tell that because I made a bunch of people write letters in, and they were like, oh yeah, we just won't put the cops there that night. The cops —
+Ali:        [giggling]
+Jack:        Yeah.
+Austin:        Would never do that.
+Ali:        [snorts]
+Keith:        No — well...
+Jack:        There's also the thing that like, when someone came to Brink Proxy and said, “this guy is harassing me,” they were like, “all right, let's move this guy off this operation. Let's figure out what's going on there.”
+Keith:        Look, I'm not, I'm not saying that all caps are as bad as US cops, but it's early to recognize —
+Jack:        They are.
+Keith:        The early signs of copdom.
+Austin:        Mm-hm.
+Keith:        These are proto, at least protocops.
+Jack:        Ugh...
+Keith:        In that they have the ability to do those things in the first place.
+Austin:        We actually don't know that they have the ability to detain anybody, even. We don't know what they — we know that they have someone called security, right, who specifically —
+Keith:        Right. We framed him as like a boss with an office, and his own vending machine—
+Austin:         Yeah, I think that that's — he did have his own vending machine. I do think that he was the head of security in that way. Uh, but I don't think that he was the head of... he's not the head of Brink Proxy, right?
+1:55:32.0        So, yes, I think that there was a cop strain inside of the Brink Proxy, in the same way that that often happens any time you have any group of people who are like — you know, bouncers can be like cops, sometimes, too. But also —
+Jack:        Yeah. Neighbors can be like cops.
+Austin:        Oh, for sure.
+Keith:        So, so, I would... I would say that those people would try to detain 3T.
+Austin:        I think I just stay locked in my own room. If they want to break into my room and arrest me, then they're —
+Ali:        Well, is it like a house arrest situation then? Is it like a...
+Austin:        It's like de facto house arrest —
+Ali:        Right.
+Austin:        Even if it's not [unintelligible]
+Keith:        If we're not even sure if they have the ability to detain, I think they probably do, but... I think that maybe, it'd be like, “well, fine, then we'll stand here and make sure you don't come out.”
+Austin:        [chuckling] I, I guess here's a question. What was the response to the shootings that were happening last night? When there was an assassination, and then a —
+Ali:        [laughing]
+Austin:        Couple of assassins have this zero-G shoot shootout.
+Sylvi:        [laughing]
+Austin:        Because how the station responds to that will help us understand.
+Jack:        They got people, they got people out and locked it down, is that —
+Austin:        Okay.
+Jack:        Did they say, did they say, uh, we're putting up some sort of, uh, like a, like a border on their, on that area, everybody's being evacuated, and shelter is being provided for them. Uh, when we don't see assassins, like [unintelligible] Columnar robot —
+Austin:        [laughing]
+Jack:        With caterpillar tracks come out, people are sent in to, to, to reenter that space — I'm trying to think, what is the, what is the response there? It's, shut it down, and get everybody out who could be hurt, right?
+Austin:        I don't know.
+Ali:        Yeah.
+Keith:        Uh...
+Jack:        Oh, and also like, presumably some sort of escalation of like, hey, [chuckles] hey, why are people – yeah, I think General Mourning is also like, “why are people firing guns on the Brink?” [laughing] “what's happened?”
+Austin:        Great question.
+1:57:30.9        
+Ali:        I mean, it's not like people haven't had guns here before, right? Like that's the... we're ungovernable. There's seedy people here.
+Austin:        I think, no, I don't think that we're ungovernable, I think that we're... right, I think that's the thing, right?
+Jack:        Post-government?
+Austin:        I don't know even that we're post-government. I think that we are... Brink Proxy is gov — is part government. If, if you can get people to volunteer for this, some sort of governance is happening. Where the governance is, is question mark, question mark.
+Jack:        Right.
+Ali:        Mm-hm.
+Austin:        But, to your point, Ali, scum and villainy does exist on the ship, or on the station, because of how the station is, right? So, yes.
+Ali:        Right.
+Austin:        We've definitely had guns on the ship, because we have the Orchard Syndicate and the Broken Circle. And we have Sly Dente. So...
+Ali:        Right. I guess it like, it, it definitely like, the, the people paying attention to the Brink now in like a, a national sort of way...
+Austin:        Mm-hm.
+Ali:        Uh, like, is an issue, because you don't want —
+Austin:        Mmm. Mm-hm.
+Ali:        That attention to be drawn to this place, because you get away with those things —
+Jack:        Right.
+Ali:        Being sort of under the, the, the book. So, if someone is coming from offworld, they would probably be like, “well, why did — what happened there?” [chuckles] “What's, what's going on here?”
+Austin:        Yeah.
+Ali:        But overall, I don't know that it's an internal, like, scandal.
+Austin:        All right.
+Jack:        The neutrality's over. Over, over. Done —
+Austin:        Yeah. Yeah.
+Jack:        Done and gone. The Brink is no longer a neutral space.
+Austin:        It is an anti-Principality space.
+Jack:        Yep.
+Keith:        Does that cause any... friction on the station?
+Jack:        We'll find out, I guess.
+Austin:        I mean, I imagine that, I, I wonder if they're — yeah, I guess we'll find out, but yes. I image there is like, someone here, someone in scum and villainy or the markets — I mean, the Divine, Arbitrage, certainly does sell drugs in the community. Does do work with the Principality, right?
+Keith:        [laughing]
+Austin:        [chuckling] Like, so... uh... but, yeah. We should just advance to this next, this next round. And see what happens.
+Jack:        Austin, that was absolutely the right call to do the concert and then move past it, because like —
+Austin:        Yeah, yep. Mm-hm.
+Jack:        Yeah.
+Austin:        Time to live, time to live with consequences. Who's up?
+2:00:09.2        
+Ali:        Uh, yeah, I guess this is another tough one for me. I was, I was sort of teeing up going to a cult meeting but now I feel like —
+Austin:        [chuckles]
+Ali:        Uh, the ship broke off...
+Austin:        I mean — true.
+Ali:        Uh, and there's [chuckling] probably a lot of general discourse.
+Jack:        Oh, God, I —
+Keith:        You're talking about General Mourning?
+Ali:        [laughing]
+Austin:         The Vice-general Discourse, General Mourning's second in command.
+Ali:        Right. Yeah, yeah, yeah.
+Austin:        Uh, I mean, I, I would be curious to know, like, is there part of, is there part of Mustard that is like, “wow, a lot of really scary things are happening right now. I wonder, I wonder one —“ I mean, I have no idea what's inside of Mustard's head. I don't know if Mustard is some person who's like, “and this group can help structure my response to this.”
+Ali:        [laughing]
+Austin:        Or it's someone that's like, “I wonder if they're behind it.” Uh, uh, —
+Ali:        Right.
+Austin:        Uh, you know, I, my lyrics very much explicitly talk about reaching out, right? You reach out, and — I, I, I, I mentioned, or maybe I didn't say it exactly. But the thing of like, uh, uh, you know, the, the whole galaxy is, is, you know, in color, you know, everybody in the galaxy is touching. That's the, it's sort of like the anti-Independence, right? Independence's thing of being like, “you never actually can touch another person, you can never actually know another person, and so you never really know yourself.” 3T is, is taking this message, picked up — I mean, already in his brain, and then also partially, it seems, whispered to him by Friends of Devotion of the like, “we can reach out and touch each other, we can do that. We have to do that.”
+Ali:        Mm-hm.
+Austin:        Uh, and so, I don't know if it's Mustard as conspiratorial, or Mustard as needing, uh, uh, that sense of connect, connectiveness. But I can imagine you going there still, and doing that sequence. And still having it tied to the mood on the ship, you know?
+Ali:        Yeah, I wonder if it's even the thing of like... I mean, I don't know what cult outreach is, [laughing] at this point, right?
+Austin:        Mmm.
+Ali:        Because, like, getting the information from Toaster was sort of cagey anyway, but I wonder if it's like, like, if cult people are like, “oh, if you're feeling upset —“
+Austin:        Right.
+Ali:        You know. [chuckling]
+Keith:        I, I had put in, uh, my little, uh, my little drawer, implying that I had given out 10 of my clips already.
+Austin:        Yes. Yes.
+Ali:        Mm-hm. Sure sure sure.
+Keith:        Of my 30 little cards.
+Austin:        Uh-huh.
+Ali:        Right.
+Keith:        So, if we can, if we math that out to everyone who's been taken, that seems to be probably a big [chuckling] chunk of the people.
+Austin:        Right.
+Ali:        Right.
+Keith:        [unintelligible] [laughing] Millennium Break.
+Austin:        If Toaster — unless Toaster Roaster is just a — is just a fucking ace. Is just the —
+Ali:        [laughing]
+Austin:        Best salesman ever.
+Keith:        [laughing] And maybe, hey, maybe that's true.
+Austin:        No, I like it the other way. It's very funny. Maybe everybody else did 8, and Toaster Roaster got 2 more, you know?
+Keith:        Yeah.
+Ali:        Mm-hm.
+Austin:        Toaster Roaster was like, I can get more. I can, I can reach out a little further.
+Ali:        Uh, but yeah. I feel like the reach out can even be extended even more so with like a general like, fear and uncertainty amongst people.
+Austin:        Yes, yes.
+Ali:        So, yeah, I think I'm at this sort of crowded, uh, I don't know what it's like. Is it like a [chuckling] pot luck situation? Is it like a meeting?
+Austin:        Oh, that's very funny.
+Ali:        Uh...
+Austin:        The road to season 8 is very pro-pot luck.
+Ali:        You know?
+Sylvi:        I was going to say, I think it might be. They're like, really stretching this community thing, right? Like, everyone bring something to feed everyone else, right?
+Austin:        Mm-hm. Yeah.
+Sylvi:        Reach out with your food, not just your arms, or whatever.
+Austin:        Wow, true.
+Ali:        [chuckling]
+Keith:        [laughing]
+Jack:        [laughing] Reach out with your food...
+Austin:        Reach out with your — yeah, uh-huh.
+Sylvi:        Yeah.
+Jack:        [chuckling]
+Keith:        Reach out and feed somebody.
+Sylvi:        Yeah.
+Austin:        Right.
+Sylvi:        Everybody's —
+Jack:        Reach out with your food is big, “the little aeroplane is coming in to land, open wide.” [wheezes laughing]
+Austin:        Uh-huh.
+Sylvi:        Yeah. Everybody's tummy is gurgling at once, instead of their blood flowing at once.
+Austin:        Mmm...
+Ali:        [giggling]
+2:04:20.5        Yeah. We have the scene of Mustard, like, looking at the card and seeming really confused when it's like, “bring a meal.” [wheezes laughing] bring — bring some food. But then it's her, like, with a seven-layer dip or whatever, in this like —
+Austin:        Odd —
+Ali:        Basement of a, an office or whatever. But I don't know that there's — are there offices on the brink? Are you —
+Austin:        You work in one, don't you?
+Ali:        Right, yeah, yeah, yeah. I, I, I, it's, it's tough to think of like, cities in this place —
+Austin:        Yeah.
+Ali:        Like office buildings and [unintelligible]
+Austin:        I know what you mean, yeah.
+Ali:        When it's like repurposed trucks or whatever. But yeah, I'm, I'm doing some sleuthing. Uh...
+2:05:05.1        
+Austin:        Is CTH here? Is CTH Pasodoble?
+Sylvi:        Probably.
+Austin:        Probably.
+Sylvi:        I think would, would have to be. I have this idea of them always hovering around these things.
+Austin:        Mm-hm.
+Sylvi:        They're not necessarily the center of attention, but he's there.
+Austin:        Sure.
+Sylvi:        Uh...
+Ali:        Yeah, what is the vibe like? Is it like, is it like, sort of like, AA meeting adjacent? Like, people sitting in a circle, talking about themselves? Is it like, someone standing at the front of the stage, doing like a...
+Sylvi:        I think it's... [sighs] if it's after the concert, I think it's a lot of like, there's like, people talking about how things are... it's not scary that things are escalating. It's an opportunity.
+Jack:        [laughing]
+Sylvi:        Like, we can reach more people this way. We can put an end to this conflict, and if we do, then more people will want to join hands with Devotion.
+Austin:        Mmm.
+Jack:        [laughing] Ah...
+Ali:        Join hands with Devotion. What a weird, what a weird thing to say.
+Austin:        [chuckles]
+Ali:        What a weird... [laughing]
+Sylvi:        Yeah.
+Austin:        Is Toaster Roaster at this event?
+Ali:        Keith stepped away, so —
+Keith:        Uh, no-no, I'm, I'm here.
+Ali:        Oh, okay.
+Keith:        Uh, yeah, yeah.
+Austin:        Okay. Is there that sort of follow up that happens, where you're like, “oh, you made it.”
+Keith:        Oh, there definitely is. I think, you know, the cult hit rate, I think, is not super high.
+Austin:        Right, right.
+Ali:        Mm-hm.
+Keith:        Like, it's like high enough, like, unless your cult is going to fizzle out. And it doesn't seem like this one's going to fizzle out.
+Austin:        Uh... is there a further, is there, is there a move to bring people further in? Or is this just kind of that style of like... maintenance and make people feel good about the association?
+Keith:        My experience with church stuff...
+Austin:        Mmm.
+Keith:        Is, that there's always this sort of, uh, slight bit of too much pressure, even in the best of times, to like, be doing more and be showing up more, and remember to come on Sunday, and remember this and that.
+Austin:        Right.
+Keith:        And I think that not doing that is a, uh, a great sort of social loss leader. Like, the people that you lose by not reminding them to come back is worth the people that you gain by not bugging them.
+Austin:        Right. So it's not that style —
+Keith:        And so I think that this is —
+Austin:        Of, yeah, [unintelligible] hard sell.
+Keith:        Yes, this is — there's something, the thing, I mean, everyone that's here had that moment.
+Austin:        Mm-hm.
+Keith:        And I think that that is an intriguing enough thing to carry the, the kind of people that we want to see are the people who, that carries them to two meetings.
+Austin:        Right.
+Ali:        I guess the question for me is like, what's the gap between, like, someone just showing up at this meeting, and somebody like disappearing for a week or whatever? If, if, if Mustard's intention here is to find out more about this organization from like a... not like a security standpoint, but from, I guess like, I guess it is from a security standpoint, but like, if she was Batman, but she was really bad at being Batman, you know?
+Austin:        Uh-huh.
+Ali:        [laughing] What's the, if, if, if this is her trying to be like, the detective. Uh...
+Austin:        Mmm. Mm-hm.
+Ali:        To find an in, or like, really figure out intentions. Uh... is there like a... “you can volunteer for this thing, or you can talk to this guy.” Or is there like a, like a, like a talent scout or whatever, who's like trying to find people who look like [wheezes laughing]—
+Keith:        I, uh, I think it's, I think it's important for the cult, because this is a small ship, and the style of recruitment is very strange. The like, disappearing and reappearing is extremely jarring. And so, I think that part of, I think that everything else, obviously their attitudes are weird. I think that everything else has to look like it's on front street. And so, I'll say, I'm going to say that there's like, literally a schedule, like a corkboard schedule, like, on the wall, with like, information about events.
+2:10:30.4        And, that's sort of where, that's like the one thing of being like, hey everyone, just check out our, you can check out our schedule. That's, that's where we're going to be. We're going to do the stuff that we've got planned. And then that's sort of it.
+Ali:        Okay, sure.
+Austin:        So there is no... that second, that second thing doesn't happen here. That, that join, get, that, that thing of like, “and for people who really want to commit, or for people who really want to,” you know, further their connection to Devotion...
+Keith:        Uh...
+Austin:        It's just the, the stuff that's on the, the corkboard does not include disappear for a week.
+Keith:        Right, it, no.
+Sylvi:        Yeah.
+Austin:        In euphemism.
+Keith:        I'll, I'll say that the thing is that, like... if you are at this meeting, the chance, like, you're, you're a target. You're targeted.
+Austin:        Right, totally. But I think what I was asking is like, what's that step look like? What's the move from targeted to invited to be here for a week? Or, kept here for — whatever that looks like, I don't know what it looks like in this particular instance.
+Keith:        Uh...
+Austin:        And does that —
+Keith:        Okay, well, well let's just add a retreat.
+Austin:         Ah.
+Keith:        Yeah, they're just having a, they're doing a retreat.
+Austin:        So that's what they're called, they're called retreats?
+Keith:        They're called retreats, yeah.
+Austin:        Uh, someone shows up who knows you. Uh, uh, it's not Joe. I thought about bringing Joe here for a second, but I'm actually going to bring —
+Ali:        Oh, I think Joe is like, the person who's like, the like, getting the like Uber update or whatever, in terms of being like, this is where I went, I will text you in an hour, if I don't text you in an hour —
+Austin:        [chuckling] That makes perfect sense.
+Ali:        Yeah.
+Austin:        Uh, Toaster Roaster's cousin, the one who doesn't like meetings, has shown up. Uh, and I think, I think comes over to you and says, uh, this person's name is Kenjin, Kenjin Engine. Uh, and says, uh...
+Ali:        Bravo.
+Austin (as Kenjin):        Well... a retreat isn't like a meeting, so that's a plus in its favor.
+Keith (as Toaster):        No, it's an extended assemblage.
+Austin (as Kenjin):        You, know, this isn't —
+Ali (as Mustard):        Retreats are almost like vacations.
+Austin (as Kenjin):        The opposite of a meeting.
+Ali (as Mustard):        Yeah.
+Austin (as Kenjin):        I gotta tella, I had the wrong idea about this, Toaster. I thought it was a whole... spooky —
+Keith (as Toaster):        No, it's much less than a whole.
+Austin (as Kenjin):        Well, how are you spelling it? I was spelling it with a W, are you —
+Keith (as Toaster):        Yeah.
+Austin (as Kenjin):        Okay.
+Keith (as Toaster):        It's a fraction.
+Austin (as Kenjin):        Huh. It's a fraction. All I know is, that seven-layer dip, it, it's real good.
+Keith (as Toaster):        Oh.
+Ali (as Mustard):        Oh, thank you.
+Keith (as Toaster):        It's lovely. What was — sorry, what was the second and fifth layers?
+Ali:        [laughing]
+Ali (as Mustard):        Uh, well, of course the second layer was jalapenos. Uh, [chuckling] and the fifth layer was, was — ground spinach.
+Keith (as Toaster):        Wow.
+Ali (as Mustard):        Sauteed —
+Austin (as Kenjin):        Wow.
+Ali (as Mustard):        With some minced garlic.
+Austin (as Kenjin):        Oh, with garlic.
+Keith (as Toaster):        Those, I think, layers, are standout layers.
+Ali (as Mustard):        Thank you, thank you. I spent a lot of time on each of the layers, so —
+Austin (as Kenjin):        I think you could do a whole layer of garlic. I wouldn't say no.
+Ali (as Mustard):        Eeee... [cackling]
+Keith (as Toaster):        I'm going to agree. You cannot have too much garlic.
+Ali (as Mustard):        I agree with you. I've brought this dip to some parties where other people wouldn't, so I try to play it safe.
+Keith (as Toaster):        Mmm.
+Austin (as Kenjin):        Mmm. Play the crowd.
+Ali:        [snorts]
+Austin (as Kenjin):        Anyway, so, what, what type of activities are at the retreat? Is it like a spa, is there swimming, is it... you know.
+Ali (as Mustard):        Yeah, what should we pack?
+Keith (as Toaster):        Uh, there is a pool.
+Austin (as Kenjin):         Oh.
+Ali (as Mustard):        Mmm.
+Keith (as Toaster):        There is meditation. There are group discussions.
+Austin (as Kenjin):        I do like to talk.
+Keith (as Toaster):        Guest speakers, music speakers.
+Austin:        I definitely think that there was a 3T special message at some point during this.
+Keith:        [laughing]
+Sylvi:        Oh my god.
+Austin (as 3T):        What's up, troublemakers? Uh, I couldn't make it there today. They got me in the room, obviously. But I do want to send my love. I saw a lot of y'all at the concert the other day, I know a lot of y'all believe in the mission. Morning Mirage is real. Morning Mirage is a movement. Morning Mirage is not just a single or a costume. It is, it is a way of life. And I think it's, you know, I'm friends with the Friends of Devotion because I think we're walking the same path. So thank you, everybody, for your sport. I'm going to be out of here soon. I love all y'all, and I just, you know, keep in touch, you know? Reach out and keep in touch.
+2:15:42.7        
+Ali (as Mustard):        Damn.
+
+
+
+
+Keith (as Toaster):        Damn.
+Sylvi:        Lots of people check their pulses.
+Keith:        [laughing]
+Austin:        Oh, yes, right? For sure.
+Sylvi:        Yep.
+Austin:        God. Yeah, so yeah. I think Kenjin is going to go to this retreat.
+Ali:        I'm also going.
+Austin:        Okay.
+Jack:        Oof.
+Ali:        Joe, pack your bags, get some flip flops.
+Austin:        Oh, is, is Joe coming, too? Is Joe —
+Ali:        [cackling]
+Austin:        Did you sign Joe up?
+Ali:        I might need some, like, personal security.
+Austin:        Yeah, yeah, uh-huh.
+Ali:        I feel like that would be hilarious if Joe was there, IMO. Uh...
+Sylvi:        Ugh... god.
+Keith:        Are they, are they going to be upset that Joe has not met with these people and is going to the...
+Austin:        Good question.
+Sylvi:        Play to find out what happens.
+Ali:        No... I think, I mean, like, if you're — I mean, I shouldn't be the one saying this, but I feel like if you're organizing cults, and you're doing cult outreach, if somebody comes up to a meeting and then goes to a retreat and is like, “I brought my friend to the retreat,” you would be like —
+Keith:        Yeah.
+Ali:        Come on in.
+Austin:        Yeah.
+Keith:        Well, but you've got to be paranoid.
+Ali:        Well this is two for one, though?
+Keith:        Okay. Joe... upon meeting Joe, he does sort of seem like someone that might join a cult.
+Ali:        [snorts laughing] Exactly!
+Keith:        Like, he right away sort of reveals, hey, I am susceptible to cult messaging.
+Ali:        Mm-hm.
+Sylvi:        God.
+Ali:        Uh, but yeah. I think that might be scene?
+Austin:        Yeah.
+Ali:        Cult retreat upcoming?
+Austin:        Yeah. Mustard goes to Friends of Devotion pot luck, decides to join their weeklong retreat. Great. Uh... slide your thing over.
+Ali:        I feel like I'm like, so on the cusp of discovering the [chuckling] situation's worse than predicted. Like, I [wheezes] the situation is just, it's right there, right?
+Austin:        Yeah. Yeah. Uh-huh. I feel like you're in the first 30 minutes of a horror movie.
+Ali:        Mm-hm.
+Austin:        And minute 31 is coming, you know what I mean? Minute 31 about to be here.
+Ali:        Uh-huh.
+Austin:         I mean, maybe. I don't know. What's more Twilight Mirage than like a headfake with something truly terrible. I mean, we know now that Devotion has — the Friends of Devotion and the Orchard Syndicate have been part of this push to expand the Merge, and to use 3T as a mouthpiece for whatever is happening there.
+Ali:        Mm-hm.
+Austin:        What the... who knows, what's going on there, more broadly. I don't know. Anyway. Uh... who has the next scene? What's Paris been up to? Truly, I mean, Paris was working as a, as a Brink Proxy person. But I am curious —
+Jack:        Yeah.
+Austin:        More broadly.
+Jack:        Yeah. I mean, I, I think I want to, I want to explore... I want to explore one of these, it's like, ask, what's the question of a scene as it relates to one of the threats?
+Austin:        Yeah.
+Jack:        And I think the fact that Paris is in Brink Proxy at the time of this all going down, especially if we're not getting that via Mustard's point of view, uh, because Mustard is, uh, joining a cult, in order to [chuckling] in order to root it out.
+Austin:        God.
+Jack:        Uh, I wonder if, uh,... oh god. Yeah, I would like to know, how does Brink Proxy respond to part of the station breaking off to go to war? That's, I think that's the question that I want to ask.
+Austin:        Good question.
+Jack:        Uh... I think it is, uh, let's begin with Paris in, uh, at a desk, uh, surrounded by people who want to know what is going on. And, all across the room in Brink Proxy, there are people who are doing the same. Uh, there are also people who have been assigned to fill in the gaps that have been left about a portion of the station leaving. You know, the way we talked about it, Austin, is it's like ships welded on —
+Austin:        Yeah. Yeah.
+Jack:        Want to make sure that they, that they just took some of those.
+Austin:        Yep.
+Jack:        So I'm sure there are some people who are like, “hey, I think my friend —“ actually, I mean, maybe this is a good place to begin, right? Someone is missing, and we don't know whether they went to join the war, or if they were just on the ship when it left.
+Austin:        Yep.
+Jack:        Would anybody like to be a distressed, I guess parent or brother or kid or... or cousin.
+Austin:        Uh, uh, it's someone you know already. Uh —
+Jack:        Oh yeah?
+Austin:        Uh, it's, it's false fruit.
+Jack:        From the Orchard Syndicate.
+Austin:        Yeah, uh-huh. But it is an Orchard guildsman, uh, and Paris's rifle fruit trader. Uh...
+Ali:        Woah.
+Austin:        And —
+Jack:        All right, next, please!
+Ali:        [laughing]
+Austin (as False):        Hey...
+Jack (as Paris):        Oh god. Hi. Uh... I'm sorry.
+Austin (as False):        [sighs] You doing, you doing this now? What are you —
+Jack (as Paris):        Don't give me any of that. They needed, they needed people working on the desks. You can see why.
+Jack:        Gestures around.
+Austin (as False):        Yeah, they need people doing a lot of things these days. Now, uh, look, uh, have you, uh, how long have you been doing this? You know your way around? Or do I need to talk to somebody who knows what they're doing?
+Jack (as Paris):        I've been on Brink Proxy before, a couple of years ago. I've been doing, I've been sitting at this desk for, uh, 72 hours, but it's felt like, you know, a week longer than that.
+Austin (as False):        Well, uh...
+Austin:        And he looks at the other lines to be like, could I get back in line to go, if I went back to the back of the line, how long would it take for me to get to another person?
+2:22:00.3        
+Jack (as Paris):         Look... listen. Let's put it on the table. I don't like you very much. You don't like me very much.
+Austin (as False):        You're an absolute prick, so we're equal.
+Jack (as Paris):        Hey, look, I think you're an absolute prick. How can I help you? Welcome to Brink Proxy.
+Keith:        [laughing]
+Austin (as False):        Uh... you know... maybe you don't. You know Qualitative? My kid?
+Jack (as Paris):        The, the little one? The, the, the, short little squirt?
+Austin (as False):        Uh, used to be. Uh... growing fast. Teenager now. Uh... I was... so. I was handling the blue orange stuff, I was on my way back from a shipment.
+Jack (as Paris):        Uh-huh.
+Austin (as False):        Uh, when the whole... [chuckles] hoo...
+Jack (as Paris):        Yep.
+Austin (as False):        The mess happened.
+Jack (as Paris):        Mm-hm.
+Austin (as False):        Uh, and as I was docking, you know, uh, uh, I saw the... uh, the ship leave. The big one. The Calico Mice.
+Jack (as Paris):        Yeah.
+Austin (as False):        Uh... Quali was visiting a friend on the ship.
+Jack (as Paris):        Oh, god.
+Austin (as False):        [chuckles] A little... a little support would be nice. Oh god makes it sound like it's... irrecoverable. It's not irrecoverable.
+Jack (as Paris):        No, no, it's not irrecoverable. That's, uh, okay, right. You've come to the right place. Uh, when was the last time you saw them?
+Austin (as False):        Before I went out on the last hall.
+Jack (as Paris):        And you haven't heard from them?
+Austin (as False):        Uh-huh. But I thought maybe because they're out of the — out of the range, but with the — [sighs] with the new Mirage, they should be in the same range, right?
+Jack (as Paris):        Yeah.
+Austin (as False):        I should be able to hear from them, so, what, what I want to know is, maybe they're not on the ship. Maybe they're somewhere, somewhere, somewhere else. Maybe —
+Jack (as Paris):        Yep. Well, we can put out a call. You —
+Austin (as False):        I mean, can't you just check to see? Can't you just check to see.
+Jack (as Paris):        It's — there are, uh —
+Austin (as False):        I didn't even che — you didn't even check. Just check.
+Jack (as Paris):        These systems are opt-in. I'll check. I'll check.
+Jack:        And I pull up the, I pull up the, the, uh...
+Austin (as False):        They're a little kid, what do you mean they're opt-in? The kids should be opted in, for safety.
+Jack (as Paris):        All right then, False Fruit... uh, they're not coming up. They're not showing up here. Uh, whether this is because they're not part of the system, or whether because they're not onboard, that's not something I can tell you. Look —
+Austin (as False):        You're saying, Qualia's on a ship of idiots, on their way to fight against some other pricks that I don't know from the back of my hand.
+Jack (as Paris):        We don't, we don't know that they're there. They could still be on the station. What we need to do is, is make plans for both eventualities. So that we should respond —
+Austin (as False):        Eventualities... don't use words like that. Huh? How would you like it? If I, you, you were sick or something and I came in and said, “well, either you're dead or you're dying, but we should make plans for both eventualities.” Piece of shit.
+Jack:        Okay. I'm going to make a weak move. Commit to provide for someone you know you can't support. Uh...
+Austin:        Mmm.
+Jack:        And take a token. Uh... without knowing why, I'm going to check my pulse. It's racing.
+Austin:        Oh! Ugh.
+Keith:        [laughing]
+Jack:        I'm going to put my hands on the table, I'm —
+Austin:        Uh-uh, no, no, no. It's, you feel the second pulse. You don't know why. You feel a second pulse. And something tells you that it can help you find Qualia.
+Jack (as Paris):        Okay. We're going to find them. I promise. We are going to find your kid, and we're going to get them back to you. I don't know where to start. I'm being honest with you, I don't know where to start. But I'm going to go down to the night market, and I'm going to start asking everybody I know. That's the best I can do right now. Do you want to come with me?
+Austin (as False):        I want my fucking kid. So, yeah, I'll come with you.
+Jack (as Paris):        Okay, all right, everybody behind Fruit—
+Austin:        Uh, that was — that was absolutely something coming from Devotion, to be clear.
+Jack:        Yeah, oh yeah, no, 100 percent.
+Austin:        I'm making sure we're clear, yeah.
+Jack (as Paris):        Uh, everybody behind Mister Fruit, I'm afraid this desk is closed now. This sucks, I'm sorry, I can't do anything about it.
+Jack:        I flip the little sign on one of those little —
+Austin:        [laughs]
+Jack:        You know, ring bound signs that says, “next person” on one side, and on the other side it says, “go to adjacent desk.” Uh, and on the desk next to me, there's some woman who's just, you know, got her head in her hands as her queue doubles. Grumbling. And, I, yeah. I'm now going on a man hunt. Uh, I don't how to do this. Uh, Mustard is the person who would know how to do this.
+2:27:34.7        Uh, this is, uh, commit to provide for someone you cannot support, not because my heart isn't in it or my commitment —
+Keith:        Or that second, new heart.
+Jack:        Or that second, new heart that I'm feeling —
+Austin:        Yeah, that specifically is — offer strength at a great personal cost. The specifics just haven't come to be yet, is what I would say.
+Jack:        Right, yes.
+Austin:        Right? Uh... but Devotion is saying, in, in feeling, in a sort of affective language, in an affective communication, there is, “I can pull on us to do this. I can't do it myself, but, we, we, we can do it.” Which, you know, your response was like, “do you want to help me do this?” I think that part, some of that is Devotion trying to pull you in.
+Jack:        Yeah.
+Austin:        I don't know what that specific offer of strength is going to actually look like, or what the cost will be. But that, that, that, the door is open, right? The paperwork is on the table.
+Jack:        Yeah, 100 percent.
+Austin:        Uh...
+Jack:        We got two harassed fruit sellers, one of whom is, uh, currently masquerading as a... [chuckles] community worker.
+Austin:        Uh-huh. God.
+Jack:        Going out to hunt for a child that might be on a warship by accident.
+Austin:        Frank Web in the chat says, “it worked out well for the last person to get that commitment from Paris.” The commitment of helping them, even though you can't.
+Jack:        Yep.
+Austin:        Uh-huh. Where is Nighton, huh? Where is Nighton String? Uh... who's next?
+Sylvi:        So... [wheezes laughing] I have ideas, but I'm trying to figure out which way to direct them. Uh... my plan was to... uh, take out one of my targets at the —
+Austin:        Oh, right, you were going to do that at the —
+Sylvi:        Concert.
+Austin:        We can retroactively do that, though.
+Sylvi:        Okay, cool.
+Austin:        We can like, frame it as you watching footage of it, or erasing footage of it, so people don't find it. But it's letting us see the sequence, you know what I mean?
+Sylvi:        Yeah, sure. I'm, I'm happy to have this be a quick thing, too.
+Austin:        Okay.
+Sylvi:        The main reason — the thing I'm trying to decide, uh, I guess I can put... let me just start from the top here.
+Austin:        Yes.
+Sylvi:        Let me just... let me just rewind here. This target is specifically someone who, uh, is... uh,... so I don't know what, the military presence on the Brink itself, they're just, most of it is ships that are just off of the Brink, right? There's not a lot of like personnel from the, the factions on here?
+Austin:        None of the, I mean, at this point, I think the only people, the only people from the [chuckling] four sides who are here, are you as a spy from the Curtain of Divinity.
+Sylvi:        Mm-hm.
+Austin:        Potentially other spies from the Pact, theoretically. It's easy to imagine that. Uh, potentially, I can imagine an envoy from Millennium Break being here, but we haven't met anyone there. And then now, Qui Err Coalition people. There's no one stationed —
+Sylvi:        Right, and they only showed up after the concert, so...
+Austin:        Right, exactly. Yes.
+Sylvi:        Uh, okay. I think... I think my target might have been a — the, the thing that I'm trying to do here is, kill someone that would make the cold war tensions rise, basically.
+Austin:        Right, right.
+Sylvi:        Uh, and so I'm trying to — I think a diplomat from one of the factions would make sense, someone who's like, trying to reach out and like, improve relations with the brink, that's why they're going to this concert, because they're like, “I'm one of the people.” And then they end up getting like —
+Austin:        Oh, another group that it could be could be, uh, someone from Stel Orion. Some sort of business from Stel Orion that is like —
+Sylvi:        That's perfect.
+Austin:        Hey, we're here to trade with you, even though — you know, we want to make sure whatever happens in the future with the Twilight Mirage, we're part of that relationship, and we're not here to invade. We are just a — we just sell, you know, [unintelligible]
+Sylvi:        I got it, I, you mentioned — everything just clicked, Austin.
+Austin:        Okay, I love this for you.
+Sylvi:        This is an exec who's trying to — from Orion, who's trying to —
+Austin:        [laughing] Oh, yeah, of course it is.
+Sylvi:        Yeah, yeah, yeah. Of course it is. Uh, there's a little bit of just like, yeah, we're here to do business, but there's this concert happening. Let's go fucking party. Uh, from this guy.
+Austin:        [laughing]
+Jack:        Oh my god.
+Sylvi:        Uh, I might have —
+Austin:        Ugh...
+Sylvi:        Because, because —
+Jack:        We're in the Twilight Mirage!
+Sylvi:        Yes.
+Jack:        The height of beauty and culture, and —
+Sylvi:        Uh, because their cover as Deutsche Synchro involves them being a bartender, I think that —
+Austin:        Right...
+Sylvi:        She was working the bar that night. Uh, the footage she's deleting is specifically of her leaving the bar. Uh, I'm not doing anything where she like, poisons them or anything. I don't want to do any putting stuff in drinks stuff with this.
+Austin:        Sure, sure.
+Sylvi:        Uh, I want to be very clear that we're avoiding that.
+Austin:        Yep.
+Sylvi:        I think it is just like, keeping an eye on this dude the whole night, until he's shit-faced enough to wander off somewhere. Uh... and then they find him cut up in a bathroom.
+Austin:        Jesus.
+Sylvi:        I mean, listen...
+Keith:        And he's a diplomat from Orion, you said?
+Sylvi:        This is an exec from Orion, yeah.
+Keith:        Ooh, exec. Okay.
+Sylvi:        Yeah.
+Austin:        God...
+Sylvi:        And it's, it happened, happening on the same night as these Mirage Mines going off.
+Austin:        Uh-huh.
+Sylvi:        And so I'm, I need to... when I'm making someone an accessory to my mission, how big can the someone be? [chuckling]
+Austin:        I think you can make the offer to any player character, right?
+Sylvi:        Okay, well, so I was — so if we're just going with player characters, I was going to offer it to you, Austin.
+Austin:        Sure.
+Sylvi:        I don't know if you're a willing accessory to this, but, it's definitely, that was sort of the, this implicating 3T as more of an —
+Austin:        Active, right.
+Sylvi:        Active, like combatant, uh, or like, at least affiliated with some sort of — there's probably people being like, “are they part of Millennium Break, is this going on?” Like, all this fucking speculation when the news gets back.
+Austin:        Was there a second, was there another person you —
+Sylvi:        My other one was just implicating the Brink itself.
+Austin:        Oh yeah. I think that's probably too big —
+Sylvi:        That's a little too big.
+Austin:        That's, here's my pitch for 3T, because we did not see what happens between 3T leaving the stage and going home that night, and it's like... 3T walks into an assassination that he confuses for... an attack or a fight, a drunken fight, and then like, helps you get rid of the body, right?
+Sylvi:        That would be perfect.
+Austin:        Right? Or like, helps you get out the —
+Jack:        Wow.
+Austin:        Back door, or like —
+Keith:        Where does this take place?
+Austin:        Oh, at Pushy's.
+Sylvi:        At Pushy's [chuckles].
+Ali:        [giggling]
+Keith:        Okay. I would like to use a move.
+Austin:        Oh, sure.
+Sylvi:        Okay. Please.
+Keith:        I'm going to use a Scum and Villainy move.
+Austin:        Uh-huh.
+Keith:        When you visit a seedier part of the station, or within a shady deal, entangle a resident with a criminal obligation. That's me. I'm — Cheel Pushy is entangled in a criminal obligation now.
+Austin:        Ugh. What, how — so, you do you break in, so, do I stumble into an assassination and think, “oh my god, someone's hurting my friend and confidant, uh,” I keep forgetting your fake name. What is your fake — Deutsche, Deutsche.
+Sylvi:        Deutsche Synchro is my fake name, yeah.
+Austin:        Deutsche, yeah, Deutsche Synchro.
+Sylvi:        There's a real, like, the [chuckling] this guy might be already be mostly dead when you come in —
+Austin:        Right, but I don't know that.
+Sylvi:        But a real like, “ah, help!”
+Austin:        Right, exactly.
+Sylvi:        [laughing]
+Keith:        Yeah.
+Austin:        And then I stumble in, and then, and then, Pushy, did you stumble in after me? And like, I'm helping lift a body, and you're like —
+Keith:        Stumble in, I'm opening the bar!
+Austin:        Ugh — so wait, are you — when you're implicated, or — I'm implicated. You're entangled.
+Sylvi:        Oh... yeah.
+Keith:        I'm entangled.
+Sylvi:        You come looking for me because I'm supposed to be serving drinks, is that what happened?
+Austin:        Oh god. Yeah...
+Keith:        Sure. Yeah.
+Austin:        So the three of us have this secret of a dead Orion executive.
+Keith (as Pushy):        I'm not having another dead executive in my bar.
+Sylvi (as Deutsche):        Another?
+Keith (as Pushy):        Look, people die.
+Sylvi:        [laughing]
+Sylvi (as Deutsche):        Pushy, I really appreciate your insights. [chuckling]
+Austin (as 3T):        I just think we should just get rid of this and move on, because this person clearly, was clearly self-defense.
+Sylvi (as Deutsche):        I mean, clearly.
+Keith:        Big frown on my face.
+Austin (as 3T):        No, we could, you know what? No, no, no, listen listen listen, listen. We could go to Brink Proxy, it was self-defense, it would, they would, it would be fine. Some weirdo from Orion comes in here and, I don't know what happened, but like... I'm glad you're okay. And we'll be fine.
+Keith (as Pushy):        If anyone is going to Brink Proxy for anything, it would be to erase camera footage of any of us being around here at this time.
+Austin:        [laughing]
+Sylvi (as Deutsche):        Thank you, Pushy. I just think that it's better if this, you know, keeps quiet, you know, no harm done — I mean... some harm. I guess... no harm done, and —
+Keith (as Pushy):        No, no foul. Some harm, no foul.
+Sylvi (as Deutsche):        Exactly, just —
+Austin:        Head in hands —
+Austin (as 3T):        I can't —
+Keith (as Pushy):        You just started a war. I don't want to hear from you.
+Austin (as 3T):        I didn't start a, I, the war was always already going. We were just conveniently leaving ourselves out of it, and letting other people suffer, which I didn't want to do here, either, so I got involved. Fine, I'll help you move the body, and... fine.
+Sylvi (as Deutsche):        All right, cool.
+Keith (as Pushy):        And guys? No killing people in my bar.
+Austin:        [laughing] I've got the sign, above — yeah, I got the sign above the door, it says no killing people in my bar.
+Keith:        Yeah, no killing people in my bar!
+Sylvi (as Deutsche):        Okay, Pushy, can you just... [sighs] I think one of his fingers rolled under the sink over there, can you grab that?
+Austin (as 3T):        Ugh... eugh.
+Keith:        Can I... no.
+Sylvi:        [laughing] We can move on from that if we want to.
+Austin:        Yeah, I think that's it. I think that's a scene. Jesus Christ.
+Sylvi:        Oh, I love it
+Austin:        Uh, and now...
+Sylvi:        I should my mark my token, get rid of my token, because I used it.
+Austin:        Oh, yeah. Did you use another strong token?
+Sylvi:        Yeah, yeah, yeah. To implicate someone, or to make someone an accessory is a strong token.
+Keith:        And this is one of the actual targets, this is someone —
+Sylvi:        This was one of my targets, yeah.
+Keith:        Meant to kill, okay.
+Sylvi:        This was one of the —
+Keith:        You're not going around killing more [laughing] [unintelligible]
+Sylvi:        No, this was part of, okay. I can like reveal two, like the other name on the list, too, if we want to go into it. This is part of the plan to — Mourning is one of my targets, as well.
+Austin:        Ah...
+Sylvi:        And like, the reason why I was part of this plan was to get Mourning to show their face, you know?
+Austin:        Jesus.
+Sylvi:        Yeah.
+Austin:        Okay.
+Sylvi:        That one — listen, you introduced that character, and I was like, oh, everything fell into place.
+Austin:        Yeah, that's great. Uh, speaking of Mourning, I would love to have my scene be thing conversation between General Mourning and 3T, if you're up for that, Jack, as the person who — I mean, if you're playing General Mourning.
+Jack:        Yeah, totally.
+Austin:        You don't have to, obviously.
+Jack:        Yeah, totally. Something here is that, you know, I want it us to figure out what the quote/unquote center of the Mirage, how they would approach this together.
+Austin:        Uh-huh.
+Jack:        Because I don't know that I can confidently improvise the Twilight Mirage's reaction to a war.
+Austin:        Yeah. Great question.
+Jack:        This is a real play to find out what happens sense, in the sense that it's not play to find out what happens, let's just improvise the scene and figure it out. Uh, I would like to try and work this out. And I would like to try and use General Mourning as a... but I can say what happens, which is that, the next morning, described, a light ship on golden, uh, you know, deep flight sails comes in, uh, and word gets around that General Mourning has arrived on the station. And it's a bit of a to do, because she has come from the Qui Err coalition. Uh, and the gangplanks come down, and it is, uh, an older woman in a flight suit. Uh, the, the, uh, I'm face-casting her as the, uh, neo-surrealist artist Louise Bourgeois, who, if, you'll get a lot of her art if you search, it, but —
+Austin:        Oh, right, sure, of course.
+Jack:        But she did a lot of art when she was older, uh, and I think she is, we would say she's probably in her late 60s. And she is holding, with her, uh, a baby, who is wearing headphones. Uh, because it's very noisy on the dock, and the baby's got headphones. And she walks towards 3T's apartment, and knocks on the door, uh, and waits to be let in.
+2:40:49.2        
+Austin:        Lets you in. Uh, this is like my, you have this studio space, like I imagine I'm just staying there, which is more comfortable for me, in my open studio. Which, in my mind, by the way, was open, like open to the public. You can come see me make music, you can come see me do graphic design.
+Jack:        Oh yeah, you're right, yeah.
+Austin:        But, it's been closed, since, you know, on your suggestion, since then. The last couple of days, or however long it's been, since, since this has happened.
+Keith:        Can I tell you that being a French sculpture artist named Bourgeois is really funny?
+Austin:        That is very funny.
+Jack:        It is really funny. The first time I saw her name written down, I was like... surely it's not spelled that way.
+Sylvi:        [wheezes]
+Austin:        There it is.
+Jack:        And it is. Uh, and I think she says —
+Jack (as Mourning):         Mister Tanager, uh, or, how would you like me to address you?
+Austin (as 3T):        Tanager's fine, no Mister.
+Jack (as Mourning):        Tanager, uh, my name is General Tamara Mourning, from Qui Err. This is my granddaughter, Ellalin.
+Austin:        Does a little wave.
+Jack (as Mourning):        Her father, uh, is not able to, uh, look after during the period, and I took on the responsibility. Short notice. She's okay to just run around here and, uh, she's mostly listening to her music, but, uh...
+Austin (as 3T):        Yeah, no, that's fine. Uh...
+Jack (as Mourning):        Do you have [unintelligible]
+Austin (as 3T):        There's a graphics board — yeah, yeah, yeah. Absolutely. Uh, third drawer, second screen.
+Jack (as Morning):        It's been a long journey. Do you have something that I could drink?
+Austin (as 3T):        Yeah.
+Austin:        And pours you some water, or whatever. Pours you some blue orange —
+Austin (as 3T):        Do you want blue orange juice or do you want water, or do you want —
+Jack (as Mourning):        Goodness, this blue orange... does it, does it hurt your heart to have to serve it?
+Austin (as 3T):        No. You know, people just moving it through —
+Jack (as Mourning):        Okay, I just know it's been very busy for you.
+Austin (as 3T):        No, you know... blue oranges today, something else tomorrow.
+Jack (as Mourning):        Fair enough. All right, let's get down to business. Uh, you know why I'm here.
+Austin (as 3T):        Mm-hm. I think. I think you don't approve.
+Jack (as Mourning):        No, I don't approve. What you did was very dangerous. Uh, but I figured that the best thing that I should do, and that my organization back in the coalition should do, was dispatch one of us to come out and talk to you. Uh, and my number was called, and it turns out, so was Ellalin's number. So, uh, here we are. Just what do you think you were doing the other night, following the performance? [pause]
+2:43:28.4        
+Austin (as 3T):        Uh, it's hard for me to even hear you say that. Because it seems like I was very clear about what I was doing.
+Jack (as Mourning):        I'd like to hear it in your own words.
+Austin (as 3T):        My songs are my own words. I write my own music, I write my own lyrics, I record everything. But... for you, uh, you know. We have an empire knocking on the door. And stomping on other people's faces.
+Jack (as Mourning):        
+Austin (as 3T):        People who are our neighbors. And... you — [sighs] when I was little, they told me about the Twilight Mirage. And, all the good things that we had, and the ways that we suffered to get it. Uh, the people who were hurt. How we came together, to push people out who were hurting us, and who would use what we had to hurt others, and how we allowed for different types of life to prosper. And that was good. That's what inspired me to be an artist. I thought, there are all these other great artists in our time, in our culture. I looked at Glass, I looked at Grand Magnificent's work, these are inspirations to me. Morning's Observation.
+2:45:00.4        All of these people from that era, where — what we are now was solidified. And I thought, great. I'm going to try to speak to that in some way. I didn't know [chuckles] that what was left out from that story is that, when we pushed those people out, they kept moving. It's like... it's like if I had roaches in this room, and I've had roaches in rooms before. And I got rid of them by moving them to my neighbors. And then I said, “what I beautiful apartment I have, no vermin at all.” And the roaches spread from my neighbors to their neighbors, and from that building to the building next to it. And the whole city filled with roaches, but not my apartment. And I'm in here saying, “couldn't be me. I wouldn't have a single bug in here.”
+2:46:03.2        The bugs came from in here! And you're saying there's no responsibility, to go out there and clean it up? Come on. It's a, it's a, it's a mark. It's a sin.
+Jack (as Mourning):        I agree with everything that you're saying.
+Austin (as 3T):        Then why —
+Jack (as Mourning):        I think that you're misunderstanding what is happening, uh, when, uh, uh, a 70-year-old general from the center of the Mirage that you talk about is dispatched to talk to you. I agree with so much of what you're saying. You're so nearly there.
+Austi (as 3T):         [scoffs] I'm past there. This is the difference — you, you have all these thoughts, but then, what? You sit on Skein, you sit on Seneschal's Brace, you sit on Glass, and go... “would be nice if someone did anything,” for 500 years. 500 years! 5,000 years out there. Five. Thousand. Years! More, because they fuck with the calendar! Those people don't even know what year it is out there! Trillions of people. Count it. Add another comma. Add another comma. Zillions of people! But on Glass, you said, “oh, uh, sure would be good if we did something for the people on Palisade one day.” Come on.
+2:47:41.8        We made a mockery of ourselves by doing nothing. And it didn't even take much.
+Jack (as Mourning):        All right.
+Austin (as 3T):        I set off some fireworks. Those people got on a ship that night. You see how little you had to do, to get people involved?
+Jack:        All right, let's figure this out. Okay.
+Austin:        [chuckles] Figure this out, meaning, what is, what does General Mourning actually do with this, and what is Mourning's position?
+Jack:        Yes. Mourning's position is this. We have waited too long, and people are being hurt. It is time for us to act in some way. But, the people who are going to be hurt the most by going to war need to be — like, they need to be as involved — False Fruit needs to be as involved with this as Tanager does. There needs to be something, the word that I've beening thinking of, and it's wrong, is something approaching a union, where it's like —
+Austin:        [gasps]
+Jack:        We want the parents, we want children...
+Austin:        Oh, okay!
+Jack:        Not to fight — a, a country going, a country taking something as intense and as rife, for, uh, bad actors, as engaging in a war — the people who are going to be hurt the most by it have to be involved in that process in some way.
+Austin:        I think, if I can unpack a little bit of where... 3T's going wrong, or what's wrong with this — because I want to be clear about, my perspective is, liberation is everybody. Imperialism anywhere is, is a failure, right?
+Jack:        Uh, and critically, the thing that, the thing that Mourning has spent her whole life thinking about, and presumably, are...
+Austin:        [chuckles]
+Jack:        Theorizing, philosophizing [chuckling], is, how do we stop this from being an imperialist [chuckling] project?
+Austin:        That is — to me, this is the failure. The failure for 3T —
+Jack:        Right.
+Austin:        Is explicitly, as we saw [laughing] in the last scene, where we saw that Deutsche is actually on the imperialist side, using this to justify, you know, further Principality invasion, further Curtain, you know, control. Uh, but even inside of, it seems like, Devotion and the Orchard Guild, or the Orchard Syndicate, opportunists at the forefront, instead of liberators —
+Jack:        Yep.
+Austin:        True liberators. Uh, people who now, the people who are operating this movement are those who have been allowed to be at the forefront of it, are those who are looking for opportunities for themselves. And, you know, for that matter, the Divine, Arbitrage, excited to profit off of this.
+Jack:        Yes.
+Austin:        Uh, uh, this is not a... decolonial project from people who, whose objectives are... are, are, you know, altruistic. Or, if, it could have been that, and the Twilight Mirage failed to act, right?
+Jack:        Yeah. Yeah.
+Austin:        There, there was a lot, we, this is like also us dealing with something that's true about our setting, which is, and also just, this is a fun reflection of... [unintelligible] fun, it's a weighty reflection of what happens when a thing that we say is, we don't touch that season, right? When I say, the end of COUNTER/Weight, I'm not going to touch COUNTER/Weight again until we've gotten some time from it — I'm definitely not going to undo what was won at the end of COUNTER/Weight.
+2:51:29.1        At the end of Twilight Mirage, I go, okay... what you won in the Twilight Mirage is safe, until something else happens, right? And like, part of what I wanted to pitch with this whole, with Palisade, was like, we have to now reckon with the guilt that the people of the Twilight Mirage, have to sit with this idea that like, when they... when the Divine Principality is born at their border, they let it fester. And it spreads.
+Jack:        Yep.
+Austin:        And it conquers other people, just the Rapid Evening did previously, just like Advent had done elsewhere. And so like, I think that that is a true fact about, about the thing. And what we're seeing is, that's boiled over in such a way that now, the first people to act on that are naive and being used as pawns, and are opportunists who are, who are using them as pawns. I guess. We don't know —
+Keith:        Well, it's almost difficult to keep track of —
+Austin:        Enough about Devotion yet.
+Keith:        How many different people are controlling —
+Austin:        Oh yeah.
+Keith:        3T. [chuckling]
+Jack:        3T.
+Austin:        Yeah. Uh-huh. 3T is the ultimate pawn with a good right? 3T is truly the anti-Ibex in a lot of [laughing] in a lot of ways, unfortunately.
+Jack:        [laughing] Yeah, no, and I think critically, like, specifically you talking, the — I had roaches in my apartment and I moved them to my neighbors, is something that Mourning has —
+Austin:        Right.
+Jack:        Feels very deeply. There is a, there is a real vein of agreement here. Uh, I was thinking a lot about, what this character would be like if it was Severin. Or, Severine, or someone.
+Austin:        Yeah, uh-huh.
+Jack:        Or, or, you know, or if it was someone who said, now, now, look. We need to just fill in the proper paperwork are you know? I, I think that we need to just wait and see how things develop.
+Austin:        Right.
+Jack:        This is not something that Mourning is saying. Mourning is saying, you know, what you have done, with your stupid maneuver, has now forced us into taking action more — you have fired the starting pistol, and now we need to start actually figuring out how the hell we're going to do this. But there's no question — she is a military leader. Like —
+Austin:        Right, right.
+Jack:        She, there's no question in her mind that, now — in the last episode you were talking about what it meant to be a broker in the Twilight Mirage.
+Austin:        Mm-hm.
+Jack:        And how brokers would either be exploitative, or would have spent a lot of time going, “what is my job?” [chuckling]
+Austin:        [chuckling]
+Jack:        Uh, and Tamara Mourning has been, is a, is, is worse than a soldier. Is a, is a military planner. You know, is someone who goes, “well, okay, how do we do, how are we going to do a war?” You know, in the Principality, she would be someone going, “now, what planet are we going to take?”
+Austin:        Right. Right.
+Jack:        Or, “what are the resources here?” Or whatever.
+Austin:        Mm-hm. We got some new weapons to try out, et cetera. And like, that is not... you, that is not who this character is.
+Jack:        No. Uh, uh, if anything, the thing, the thing that she is, the first move that she's prepared to make, and I'm interested to talk this through with everybody, is — [pause] hm... she needs to safeguard the people of the Brink against reprisal.
+Austin:        Right, yep. Yep.
+2:54:29.1        
+Jack:        From... so the first thing that she, you know... she is, she's not even making the argument that the people you sent out there will die. She knows that some of them will die, and that's war, and she's fully prepared to understand that Tanager has put that into his equations. I think Tanager has thought about how it might even be glorious for some people to fall on Palisade, if they're depending... uh, the people of the Twilight Mirage. I think she is also, like, we're, we're probably stronger than them, even armed with impromptu weapons. So, you know, we might win. But there is going to be a reprisal.
+2:54:59.8         The question that I'm interested in is, what that kind of protection looks like, in such a way that it doesn't, uh, or tries to avoid escalating, in the way that, for example, a no-fly zone does.
+Austin:        Ooh. And I think this is the thing that's like, the difference between Tanager and, uh, Mourning, is —
+Austin (as 3T):        Are you for real? I gave that whole speech, and you're for real like, “how do we make sure we don't get hurt?” You're just building another Mirage.
+Jack:        They're going to, okay, they're going to come and strike. This is me speaking out of character, you know.
+Austin:        Yeah, yeah, yeah.
+Jack:        What if their next move is bomb the Brink?
+Austin:        Oh, totally, totally. But the, but the... I think that the, the line that we can still draw between the two of them is, if that isn't the first step of them putting people on Palisade, connecting with Millennium Break, whatever that looks like, connecting with the people on Palisade who are currently being occupied, then all we're doing... I think maybe that's the, the that's the state of the debate between these two characters, if that makes sense. Because you're right —
+Jack:        Yes, although, I think that, I think also, that connecting Millennium Break and putting people on Palisade to see how the war is going is absolutely up there on Mourning's agenda.
+Austin:        Mm-hm.
+Jack:        But I think it's the way you talk about, uh, 3T operating unilaterally by just like, arming a bunch of people, detonating bombs, and putting them on ships. That's very different to —
+Austin:        Oh yeah.
+Jack:        Let's make a connection with Millennium Break.
+Austin:        The... [sighs] I think here is, the, the thing that he says is —
+Austin (as 3T):        We have to do both. I can help you do both. I can't — I could help you do just my thing, but I'll help you do both.
+2:56:45.5        
+Jack:        This is like watching — this is like, uh, from Mourning's perspective, this is like an undergrad going off in a seminar.
+Austin:        Totally. 100 percent.
+Jack:        She's, she's, she's like, yeah, fucking fine. Okay — she doesn't say that, because Ellalin is, uh, over there, painting.
+Austin:        Painting. Yeah. Uh-huh.
+Jack:        Uh, but she's like, I mean, I think she's like —
+Jack (as Mourning):         Well, we need people like you, you know. You are as much a part of the mirage as anybody else is. Uh... uh... you know, uh, we're going to be holding a series of assemblages [chuckling] over the coming days —
+Austin:        [laughing]
+Jack:        Uh, or it's like —
+Jack (as Mourning):        Okay, we're going to speak to Brink Proxy. You are involved in this, you will be involved with this. Uh... uh, I've —
+Austin (as 3T):        Yeah, I missed two Brink Proxy ships, by the way, because you asked me just to stay in my room.
+Jack (as Mourning):        Uh, that's a, uh, I understand that that is a sacrifice that might have to have been made.
+Austin:        [laughing]
+Jack:        Uh, Mourning's like, yeah, fucking fine, okay. People are missing ships for all kinds of reasons. I didn't want you to send any more soldiers.
+Austin (as 3T):        So what are we saying?
+Jack (as Mourning):        Look. I've asked for some space for me and my granddaughter, and for the various, uh, conversations, uh, and movements that we all need to make over the coming weeks. The war has begun in earnest, thanks in part to your actions. Uh, I look forward —
+Keith:        Very generous to say in part.
+Austin:        Yeah. Uh-huh.
+Jack:        I mean, war had been brewing for a long time.
+Austin:        I mean, I didn't fucking — yeah, I didn't bring them to Palisade.
+Jack:        And you know, that in — there are, people have presumably been designing things —
+Austin:        [chuckling] Yes!
+Jack:         In Seneschal's Brace, or in... you know, like, there are hawks all over this. And there are even hawks within Mourning's organization. Uh...
+Austin:        And there, I think there are plenty of people who are just like, “oh, they're going to come to invade us. They're going... that's, they, it's very clear that's what they want to do.
+Jack:        It would be stupid of us not to start thinking this through. Uh, so I think that, you know, she gives him her card, and on the back of it she writes a place and a time. Uh, which is when the first assemblage is going to place.
+Keith:        [laughing] I'm just laughing that we just keep using assemblage.
+Jack:        [chuckling]
+Keith:        [laughing]
+Jack:        Uh...You know, and she scoops up Ellalin, and —
+Austin (as 3T):        I'm sorry for yelling in front of the kid, I'm very... [sighs] I was very worked up over...
+Jack (as Mourning):         Yeah. I think we all are.
+Keith:        Uh... [unintelligible] trouble for starting a war.
+Jack (as Mourning):        You can, you know, I don't know what exactly they call staying in your room here on the Brink, but, uh, that's, you know. You're out.
+Austin (as 3T):        Like baseball.
+Jack:        Like a gesture of like — [laughing] a gesture of like, all around the station.
+Austin:        [chuckling] Uh-huh. That's the same as the boat party hand gesture.
+Jack:        Oh, is it? Yeah. [chuckling] And that turned out really well.
+Austin:        Yeah, it was great. Well, okay.
+Jack:        God, yeah, and then immediately over the coming days, you know, figures out some ongoing child care for Ellalin.
+Austin:        Mm-hm.
+Jack:        Moves a bunch of desks into, uh, uh, an empty office space. Uh... brings a vending machine, uh, shortly afterwards, you know, like two more, uh, light sail ships arrive, with, you know, attaches and people who also come in and get stuff set up, get a project — get a really good projector going.
+Austin:        [chuckling] And we'll have to do that next one, next time. That's the end of a, of a, of a turn, a round. And it's probably the end of the recording tonight, I feel.
+Jack:        Yep. The war has... started.
+Keith:        Did we not have one more in that, in that round?
+Austin:        No, that was it, I was the last one. We had, uh, we can check. We had... or maybe we did miss one? Did we miss one?
+Keith:        I thought that one of these was me or you, because —
+Austin:        Yeah, didn't you do —
+Keith:        We were both sort of in it.
+Austin:        Oh, did you not do one? Oh, hm... maybe you're right. Let me see. I did... that was last — my show was last turn. Then Mustard went —
+Ali:        Yeah, the interrogation scene was your scene, right? And then —
+Austin:        That was my scene, yeah. Was there not a different Cheel scene?
+Keith:        I don't think there was. Maybe I'm wrong.
+Austin:        Because then the body-hiding was Deutsche.
+Sylvi:        That was mine, yeah.
+Austin:         Paris and False Fruit. Mustard and the pot luck. So, yeah, maybe there was no Cheel scene? I don't remember, yeah, I don't remember a Cheel scene, I'm thinking about it. If chat can remind us.
+Keith:        I, I, I'm not, I'm not remembering, was it last round, this was —
+Austin:        It was last round, there was one that was either one of us, I think.
+Keith:        Okay. Okay.
+Austin:        I think. Maybe I'm wrong.
+Keith:        It's hard to remember what your scene was, when you're like, in other scenes, you know?
+3:02:23.8        
+Austin:        Yes, yes. Definitely.
+Keith:        And I'm like, well, I was in two scenes, but were those my scenes?
+Austin:        Yeah. Uh, erase the footage, going to erase this footage of killing the first target —
+Sylvi:        So there's five of us...
+Austin:        And, 3T, and... uh, Pushy helping to cover it up.
+3:02:50.5        
+Keith:        So, 5 scenes ago is, Mustard meets with Toaster Roaster.
+Austin:        That was last round, for sure.
+Keith:        That was last round. So...
+Austin:        Beginning of this round was Mustard goes to the Devotion thing. My end of last round was, I did the end of the last round, and then, this is then, just now was 3T and, uh, uh, General Mourning.
+Keith:        Okay. All right. So, yeah, that is only four.
+Austin:        And discuss the situation.
+Keith:        I mean, if we're done, I can just do a minor —
+Austin:        No, you can do — yeah, what's your minor?
+Keith:        Uh... I, uh, oh, you know? Uh...Hmm.
+Jack:        How does Pushy feel — you know, Pushy, as a understand it, uh, feels a degree of, of guilt about some sort of past crime. Is that right, Keith?
+Keith:        Uh, yeah, we have vaguely referenced that, uh, that there was some sort of, uh, disaster with that first community garden.
+Austin:        Yeah.
+Keith:        And that it was, uh, Cheel's fault.
+Jack:        And now he's covering up a murder. Is this sort of —
+Keith:        Yeah.
+Jack:        Like, uh, inflecting that in any way?
+Keith:        Yeah, was considering using a weak, doing a scene where I use a weak move based on that. Uh, because I actually haven't used a move as Cheel. I've only used a move as aspects.
+Austin:        As aspects, yeah.
+Keith:        Yeah. Uh... —
+Austin:        I just have a question, which is, when you said earlier, again, executives, don't kill another executive in here, or whatever — is the first, is the ghost a ghost of a previous dead executive that watches over you?
+Keith:        [guffawing] Okay, how about — how do we get to, this is a ghost that died —
+Austin:        [laughing] I don't know!
+Keith:        Of an executive that died in my bar, [unintelligible] watching over me. Is
+Jack:        The Executive enters the fray!
+Austin:        [laughing] Oh, no, The Executive is here! Ugh...
+Jack:        Ugh...
+Keith:        Uh...
+Austin:        God.
+Jack:        He's only got one... suitcase. He's coming out in his clothes and a single bag.
+Keith:        Oh, okay. We've got to do, we've got to get the stupid ghost on the scene.
+Austin:        Uh-huh.
+Keith:        So, we've got to do something with the ghost.
+Austin:        Mm-hm.
+Keith:        Uh... this... it should be something that we've introduced before, so that it doesn't feel totally shoehorned, even though that is technically what we're doing.
+Sylvi:        [laughs]
+Keith:        Uh... [sighs] my initial idea was just to do a short scene where I give bad advice because I was brooding instead of paying attention.
+Austin:        Yeah.
+Jack:        [chuckling]
+Keith:        But I don't have anyone to give bad advice to?
+Austin:        Uh, you have an employee, you have Craig, you have...
+Keith:        I have Craig.
+Austin:        Uh, and you have a ghost, and you have...
+Keith:        Uh, maybe Craig is [laughing] complaining — no, that's mean. I was going to say Craig is complaining about Mustard Red, uh, and —
+Austin:        Damn!
+Keith:        Well, this is, this is who Craig is.
+Austin:        Oh, right, right, right. I forgot about that, true.
+Keith:        Craig is, we invented that these were the same people. What is, Ali, what is the thing about, Craig was your mentor turned to your harshest critic?
+Ali:        Mm-hm.
+Keith:        Is that what the wording is?
+Ali:        Yeah.
+Keith:        And, uh, Cheel knows and likes Mustard Red, but maybe is like, Craig, I was thinking that maybe Craig was talking to, uh, uh, sort of venting about this. You know, his one topic that he's always talking about, which is like, fucking... Mustard Red. No, I don't like that.
+Austin:        I feel like we gotta get the ghost in. I feel like the ghost is —
+Keith:        Gotta get the ghost in.
+Austin:        But I don't know what the ghost is, is up to.
+Keith:        Is the tentacle, is my, are my vines a ghost?
+Ali:        Mmm...
+Austin:        Oh! Haunted, haunted vines.
+Keith:        Yeah, seems like they're, they're not just, they're not just the normal helping vines, but these are —
+Austin:        Is this why you became, is this why you're not allowed in your garden anymore, because you made sapient vines?
+Keith:        We do have the grabbing vines. Uh, yeah, maybe they're more intelligent, or at least these ones are more intelligent, than they let on. Uh, or than I let on, anyway. Uh... but, but what's the scene with them.
+Austin:        I don't know. What do you, what do you, I was thinking about the three threats, and asking a question about them, as the book suggests.
+Keith:        Okay.
+Austin:        Is this a, is this a lighter scene about trying to help people with the Brink being over, overwhelmed right now? Is it, uh, is this more cult stuff?
+Ali:        Are the vines like, like... like entwining with each other, they like cover up holes or whatever?
+Austin:        Oh, to help repair the ship where the — help the Brink Proxy?
+Ali:        Right.
+Austin:        [chuckling] The vines have joined Brink Proxy.
+Ali:        Well, I mean, I guess if you're like a vine, right [laughing] and air is escaping through the thing that you're in, there's part of it that's self-preservation too, but I can see a scene of somebody being like, “these vines are acting weird, we've got to go to, we've got to go talk to... “
+Austin:        Oh, sure. Is it someone from Brink Proxy being like — you're the person who first made these vines, they're doing something weird. What are they doing, why are they doing this?
+Keith:        Yeah. Uh... and then, I, I, I just want to put it out there, the other thing that I was considering was, sell out one of your regulars to protect yourself.
+Austin:        Oh my god.
+Keith:        So I was considering selling out 3T.
+Austin:        Yeah, well...
+Ali:        Uh... yeah. Sorry.
+Austin:        [laughing]
+Ali:        I was going to suggest that, uh, you could know that me and, uh, Kenjin Engine —
+Austin:        Thank you.
+Ali:        Are planning on going to that retreat —
+Keith:        Okay.
+Ali:        And being like, “well, why are you roping this person into this cult stuff? You're supposed to be helping. But I don't know that's where you want to go with this.”
+Keith:        Yeah, I, I, I think that that —
+Austin:        You like that more than vine stuff, yeah? I guess so.
+Keith:        Uh... the, the ghost watches out for me.
+Austin:        [snorts]
+Keith:        Watches over me.
+Austin:        Watches over you.
+Keith:        All right, I've got it. I go to sleep. And, the vine —
+Austin:        Are you, [chuckling] are you more of a honk-shuu?
+Ali:        [giggling]
+Jack:        [laughing]
+Austin:        [laughing]
+Keith:        Uh, no, this is an unbelievable senator. Like an outrageous...
+Austin:        Oh, okay. Okay.
+Keith:        Like, uh, like dangerous-sounding senator.
+Austin:        Oh my god.
+Keith:        My grandmother used to senator like a wild animal snarling in the night. Uh...
+Sylvi:        [laughing]
+Jack:        [laughing]
+Austin:        Wow...
+Keith:        This is what I'm thinking of.
+Ali:        [cackling]
+Jack:        What a description!
+Austin:        I don't know that animals snarl in the night!
+Keith:        Animals snarl in the night.
+Ali:        [still laughing]
+Austin:        In the night?
+Keith:        In the night. I — I lived in the woods.
+Austin:        You lived in the woods.
+Jack:        Austin, his grandmother used to snore like a [unintelligible] beast.
+Ali:        [unintelligible]
+Sylvi:        Oh, was she snoring like that to ward off predators?
+Austin and Keith:        [laughing]
+Sylvi:        If you lived in the woods?
+Keith:        No, because my grandma didn't live in the woods.
+Sylvi:        Okay.
+Keith:        This was not my grandma that was my neighbor, this is my mother's mother, who lived closer to Boston.
+Austin:        Ugh...
+Jack:        Foul creature from the fell regions... crept into the city at night. So was the snarl —
+Keith:        I would do an impression of it, but I don't want to gross anyone out.
+Austin:        No, I'm good. I just believe you. Jack, what was the horseshoe —
+Keith:        It really sounded like a wild, like a feral hog.
+Jack:        It's, it's honk-mi-mi-mi-mi-mi.
+Ali:        [laughing]
+Austin:        Honk-mi-mi-mi-mi-mi, yeah. God damn.
+Keith:        So, Cheel is asleep, uh, snoring like my grandmother, which is to say —
+Sylvi:        Like a beast snarling in the night.
+Keith:        Right, like a beast snarling in the night. If anyone happened upon it, they would be nervous. Like if you heard this, you would be afraid of it.
+Austin:        [chuckling] Keith's grandma's moving into her second mode as a Bloodborne boss.
+Keith:        [laughing]
+Sylvi:        You're grandma's Vicar Emilio?
+Austin:        [laughing]
+Keith:        Uh...
+Austin:        Oh, no...
+Jack:        Oh, you little runt. Thought you could get away with that, did you?
+Sylvi:        [laughing]
+Austin:        [laughing]
+Keith:        Uh, so, ferocious snoring aside —
+Austin:        Yes — where we were?
+Keith:        Or, under the cover of ferocious snoring —
+Austin:        Ah, I see.
+Keith:        The, uh, uh, the vines, hearing the events of the day, which they do every day.
+Austin:        They do a total check-in. Yeah.
+Keith:        They take it upon themselves to crawl out into the Brink Proxy facilities and delete that footage that I said —
+Austin:        No, they — we did that, we did delete that. That's gone.
+Keith:        Oh, we already did do that?
+Austin:        Yeah, yeah, that was the actual scene. The actual scene of Deutsche was deleting that footage. And it was — the footage is where we were seeing the, the thing happening. I'm sorry to take this from you.
+Keith:        Oh! I missed that.
+Austin:        Because it happened during the concert, so it couldn't have happened after the concert.
+Keith:        Right.
+3:13:34.8        
+Austin:        So our little device for it was to do it [unintelligible]
+Keith:        Gotcha, okay, okay. Uh...
+Austin:        They could help clean up, they could...
+Keith:        They already help clean up.
+Sylvi:        Uh, you could still be deleting it, and we could say that I was copying it.
+Austin:        Oh, that's fun. You have —
+Keith:        Okay, so you have the copy.
+Austin:        You have the copy.
+Sylvi:        I have my own copy of if, yeah.
+Keith:        Yes.
+Austin:        Yes.
+Keith:        Okay.
+Austin:        Are you controlling the vines, or are they just doing this?
+Keith:        They're just doing this.
+Austin:        Do they only work like this when you're asleep?
+Keith:        I don't think I know that they can do this.
+Austin:        Huh.
+Keith:        I know that they can move around. They help me clean. But I don't, I didn't know that they could get out of my backpack like an octopus escaping from like a lab —
+Jack:        Shit, it's a [teracacal]
+Sylvi:        I was going to say!
+Austin:        Oh my god. Unbelievable.
+Keith:        It's infected another 'verse. Uh...
+Jack:        Through the gate, through Sanction for the Steel Chorus.
+Keith:        Uh... [chuckling] okay, maybe we can slightly switch it up to that,. Uh, uh, it finds, if you copied and deleted this stuff, maybe I've gone and alter your copy to take Cheel out of the footage.
+Austin:        Ooh.
+Sylvi:        Uh...
+Keith:        That's watching over me. We don't have to do that.
+Sylvi:        No, you can do that.
+Keith:        Okay.
+Austin:        Do you not notice these fucking vines in your room?
+Sylvi:        I'm probably not there.
+Austin:        Ah...
+Keith:        She's honk-shuing
+Sylvi:        I'm slinking around!
+Keith:        Oh.
+Austin:        You're, you're, you're being a little slinky spy.
+Sylvi:        I believe they've described me as slinking around the ship, which is why I did not define a room at the beginning.
+Austin:        Yeah, that's true, that's true.
+Sylvi:        Yeah, I slink about the station without a fixed home, so... the vines can slink as well.
+Austin:        So now, it's just you and me hiding a body. Great. Fantastic. It's all going to go great for 3T. Okay. On that note, we're going to wrap up here today. We'll be back next week for another one of these. Oh, I guess we should say, did any of these resolve?
+Ali:        [laughing]
+Jack:        Yes. Yes.
+Ali:        Not yet.
+Jack:        I think that the, the ships, the thousands of ships might have done. 3T fired a starting pistol in a very real way.
+Sylvi:        Yeah, I'm fine with that.
+Austin:        Uh-huh.
+Jack:        Uh, and I think the fact that then Mourning showed up, and rather than being like, “stop what you're doing,” being like, “well, now I guess we've got to do it.” Or like, you know. Yeah, it's war now. Rather than, oh, no, no, we have to pull back!
+Austin:        Yeah, that makes sense. And that was kind of the agreed-upon strategy — so, are we not going to do these, maybe we'll do them eventually anyway, but like, we're not, uh, we don't need to wait for the first of these assemblages to say that that is what the mirage is going to do.
+Jack:        I think that, I think between 3T, making an impassioned, uh,...
+Austin:        Right, I will actually, yeah, maybe I should, what I should, I thought about doing this at the time, but I thought that you were going to, I wasn't sure what our timescale was. I will spend the token to explicitly sway an audience into impassioned action, and using that to be the kind of... double, you know, the double of, you saying, we need to protect the Brink, but also, we're going to start investigating ways to connect to people who need our help outside.
+Jack:        And I think also —
+Austin:         That was the agreement that, that 3T was looking for. Was like, I will throw my weight behind you, and spend a strong it token, and be at those, at those assemblages, pushing for both of those things, instead of just pushing for — and also pushing for, let's use these assemblages, instead of pushing for just go do it, you know?
+Jack:        And I think, you know, uh, at this point, uh, General Mourning thinks that war is a moral imperative.
+3:17:38.1        Uh...
+Austin:        Right, right.
+Jack:        Or rather like, we can't sit back now.
+Austin:        Yep.
+Jack:        So I think that, you know, even in the assemblages, both of those people, albeit for very slightly different ways, would be saying, “all right... we've entered the cool zone.”
+Austin:        Okay. Then, yeah, I think that that's enough, then, to change this from active to resolved, by saying, boom. Boom. Boom. Look at that. Now it says resolved.
+Jack:        Oh, it... fills me with such confidence. [chuckles]
+Austin:        [chuckles] As ships, more and more ships pull in around the Brink, hovering in a sort of defensive perimeter, replacing a minefield, uh, uh, that turned into more of the Mirage, with a literal mine field, with a literal, you know, uh, armada.
+Sylvi:         Great.
+Austin:        That's it.
+Sylvi:        What could go wrong?
+Austin:        Oh, wow, you put, you did a little, look at that!
+Jack:        Yep.
+Austin:        You went, boom. Yeah, fantastic.
+Keith:        [laughing]
+Sylvi:        [laughing]
+Keith:        [laughing]
+Austin:        For people listening, we're hitting buttons in the Miroboard to make emoji pop up.
+Sylvi:        Oh, what the fuck!
+Austin:        What's up?
+Sylvi:        How do you do that?
+Austin:        In the top right.
+Keith:        There's a thing — yeah, it says reactions.
+Austin:        Yeah. Uh, Jack, you've raised your hand. I see your hand raised?
+Jack:        This sucks!
+Austin:        Oh, okay. Yeah.
+3:19:03.2        
+Keith:        I wish there was 100 more of these to press.
+Austin:        [snorts] Uh, yeah. Time.is?
+Jack:        Let's do it.
+Sylvi:        Yes.
+Keith:        Time... dot is.
+Austin:        In the chat William Wolf says, “I'm a devoted fan of the podcast. I'll try to buy some merch, as I think that supports creators more, and it works better for me.” Let me tell you, our cuts on merch have never been good. We've never really made money on merch.
+Ali:        [laughing]
+Austin:        We've made, you know...
+Keith:        Yeah. It's been a nice extra thing to have.
+Austin:        Truly, a single month of, of your support via Patreon, might get us more than if you bought a tee shirt. 5 dollars.
+Keith:        When I think about the margins on that —
+Austin:        Yeah, it's not —
+Keith:        Like when I think about the size of my last check, versus how much I know was sold... it's infuriating, honestly.
+Ali:        [laughing]
+Austin:        In terms of, oh, your last merchandise check, you mean. The last time that we got paid from —
+Keith:        Yeah, the last time that I got a check for merch, versus how much I know we must've sold for me to get that —
+Austin:        Yep.
+Keith:        Mathematically.
+Austin:        Yep. Yep. Yep.
+Keith:        Is unreal.
+Austin:        Uh, I always suggest to people if you can, do support the Patreon for a month, and just see what's out there. There's so much content on the Patreon at the five dollar level, that you could end being like — really enjoy it for a month, and then cancel it.
+Keith:         Yeah.
+Austin:        No, I have no problem with that.
+Keith:        As someone who has, has two Patreons, and one of them is a lot smaller, like, there is some, like, there's a point where, like, enough people are signed up to a Patreon that it don't — you know, a chunk of people who will sometimes sign up for a month and disappear, is better than... like —
+Austin:        Yeah.
+Keith:        Them not doing that. Because, as long as I've got like, the core people who are kind of always on the Patreon, then it's, it's, it's always like, oh, great, it was just like, a little bit bigger this month. Uh, and then, obviously with Friends at the Table it's a lot more diluted, so... in a good way.
+Austin:        You also just said that you were 45 minutes behind on the chat, and not to spoil you. So, I'll see you in [laughing] 45 minutes. You'll hear this in 45 minutes.
+Keith:        Yeah, okay.
+Austin:        Thanks for listening, everybody.
+Keith:        Uh, can I read, can I read the time.is quote for the day?
+Austin:        Ah, sure.
+Keith:        Very pertinent.
+Austin:        Ah.
+Keith:        Your struggle today is not altogether for today. It is for a vast future also.
+Ali:        Hm.
+Austin:        Mmm, I love it when a nation has done something truly reprehensible, and just puts off doing anything about fixing it forever, until finally it can only resolve it in a bloody, terrible conflict. Abraham Lincoln. Uh... what's up?
+Keith:        Abraham... Tincoln-Tanager.
+Sylvi:        [unintelligible] clapped yet.
+Austin:        40, 40 seconds?
+Sylvi:        Sure. [clap]
+Austin:        All right.
+Keith:        That sounded like one other person clapped.
+Austin:        Uh-huh! Same. That can be good, though.
+Everyone:        [chuckling]
+Austin:        That can be good.
+Keith:        Yeah.
+Austin:        All right, everybody. Thank you so much. Bye-bye bye.
+Sylvi:        Bye.
+Ali:        Bye.

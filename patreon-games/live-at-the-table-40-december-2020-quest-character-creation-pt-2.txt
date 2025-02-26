@@ -1,0 +1,4995 @@
+﻿Live at the Table 40: December 2020 - Quest Character Creation Pt. 2
+Transcriber: robotchangeling
+
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Andrew Lee Swan.
+
+
+Dre: Hey, you can find me on Twitter at @swandre3000.  I was trying to think of a Kings of Leon joke, but I don't got it. [Ali chuckles] 
+
+
+Austin: That’s fine. Jack de Quidt.
+
+
+Jack: Hi. You can find me on Twitter at @notquitereal or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+Austin: Art Martinez-Tebbel.
+
+
+Art: Hey, you can find me on Twitter at @atebbel, where ooh ooh ooh, my tweets are on fire. [others laugh, someone applauds]
+
+
+Dre: god. Ah, see? I'm glad I didn't even try to step to the heat. [Austin and Jack laugh] 
+
+
+Art: And don't do that thing I said before. That wasn't real. 
+
+
+Austin: That's not real. 
+
+
+Art: That was a joke about (??? 0:44) people. Don’t do it.
+
+
+Austin: We're dragging Kings of Leon, because of being shitheads. And Ali Acampora.
+
+
+Ali: Hi, you can find me over at @ali_west on Twitter, and you can find the show over at @friends_table. 
+
+
+Austin: Today, we are continuing our campaign of the Grand Tableau. We are gonna create characters for the players who have not done that yet. For people who are tuning in for the first time and also for the sake of myself and the players, I'm gonna reread this introduction of what the Grand Tableau is for people just to get us all on the same level. The Grand Tableau is a new MMO taking the world by storm, which transports its players to a fantastical world of mystery, whimsy, and adventure. This is the opposite in tone to Sangfielle. It's gonna be a nice, light retreat [Art chuckles] from a world of blood, metal, dust and a ichor. Ichor’s already blood, so I didn't really need to do that one twice. Actually, I think I did, given… Featuring— 
+
+
+Ali: There’s no dust? 
+
+
+Austin: Hmm? 
+
+
+Ali: There's no dust here?
+
+
+Austin: Uh, I guess there could be dust. There's dust here some places. You know what, that's true. [Ali laughs] But it's like prettier dust, is what I would say.
+
+
+Ali: Sure, sure, sure, sure.
+
+
+Austin: Featuring a unique PvPvE mechanic, an expensive environment to explore a deep and varied lore, the Grand Tableau offers something for everyone. Players take on the role of Vivants, descendants of the lost empire of the Chimeric Crown blessed with mystical powers and driven to rebuild the kingdoms of their ancestors. Unfortunately for you, you are just an NPC, and all of those superpowered player characters are stomping around your world. And hey, you already have problems to deal with. It's not like the monsters roaming the countryside, the ancient demon lords crafting nefarious plans in their keeps, and the unscrupulous politicking of the powerful and corrupt don't provide problems all their own. Enter the Conservatory, an intercontinental organization that brings together the best and brightest of Tableau—the name of this world—to explore, learn, preserve, and intercede on behalf of the people whose lives have been shaken and shattered by the arrival of the Vivants. As members of the Conservatory’s newest cohort, you'll put your mettle and your luck to the test in the name of the world you call home. We've done one adventure of this so far, that involved a town in a valley with a kind of sn— I guess he wasn't sneering. He was a liar, a lying noble nearby, and then an ancient bath that was being invaded and basically run as a dungeon by a group of Vivants who were trying to kill like a slime god. And that was bad because the slimes were in the bath and were helping to, like, cleanse the local water supply. That's like what they did. 
+
+
+Dre: Mmm.
+
+
+Ali: Mm-hmm. 
+
+
+Austin: And so they had to kind of come to the defense of this ancient slime god, who was the boss of that dungeon. Some wild shit happened, including them like basically convincing one of the player characters to turn on his friends. Also, it was very clear that he was like a fourteen year old who was very excited [Jack chuckles] and like hanging with his cooler friends. And, you know, it was a good time. Everyone had a good time. And we also did some light hacks to the game that we'll talk about as we go through character creation. The thing to remind people of more broadly is that what the Grand Tableau is, is a setting. It's sort of like a reverse Isekai anime comprised of many—not all, but many—of the settings that we've come up with over the last few years of Live at the Table games. These include places that didn't have names before but have names now that have been kind of brought together in various places. What was the name of where we just did...was that Nievelmarch? 
+
+
+Ali: Nievelmarch? Yeah.
+
+
+Austin: So like, Nievelmarch is one of those places. A village in the Marchmont Mountains, which I'm gonna say is a town at this point, given how broad that place seems. [Ali laughs] Places like Snow Peak City and Tsubomi-chō, which were in our...god, what was the...what was the name of that game where...I was just talking about this game with people. Where you turn into henge.
+
+
+Ali: Golden skies?
+
+
+Austin: Golden Sky Stories. Yes. 
+
+
+Ali: Mm-hmm.
+
+
+Austin: Demaréé, the city of honey from our Downfall game, which is how we started our Live at the Tables. And in fact, even the Chimeric Crown, this idea of there being this ancient empire of various kind of minor kingdoms of—I believe they’re like crows and cats and some other stuff, cats, birds, fish, dogs and mice—come from the game of Skeletons that Ali and Art and I played forever ago.
+
+
+Ali: Oh, right.
+
+
+Jack: Huh.
+
+
+Austin: At the end we realized, like, oh, this whole thing is from like this empire that fell apart. And we joked at that point that one day we could imagine like this would be a dungeon in a game like Destiny where, like, you would come in and find like, [Ali laughs] oh yeah, here's an (??? 5:40) Skyrim. 
+
+
+Jack: Wow.
+
+
+Austin: So like, here it is. This is it. It is literally that, and player characters are coming to like pick through the bones of our— of literally our skeletons. Yes, the— 
+
+
+Ali: Can we play as a skeleton?
+
+
+Austin: You could totally play as a skeleton. I think that's possible. I wouldn't say no to that.
+
+
+Ali: Mmm, okay. Thank you. 
+
+
+Austin: Yes, the kid who was playing was named Kevyn Sevyn, with a...Kevin with a Y, Seven with a Y. 
+
+
+Ali: Aw.
+
+
+Dre: [laughs] Hell yeah.
+
+
+Austin: So. He was pretty good. He was a fighter or something. We are playing this game in Quest, an RPG that is extremely simple in many ways. It has been a really interesting thing to play with. I think to some degree it's very clear, as we've been playing it, that part of what this is, is like...we don't really do actual play as game crit that often, but I think we all have lots of questions about what does a simplistic like story game look like, what goes into the choices of this thing. This is a very pretty game that we're constantly like oohing and aahing at the art. I think there's some really, really cool abilities in this game. And it's fun to kind of hack at it both as critics and as like game designers to be like, oh, let's change this a little bit. Let's kind of play with this thing to see how it works this way or that way. And then again, to kind of reiterate, part of why we wanted...part of why I wanted to do this specifically was something extremely light that anyone could run games with. You know, we don't have an...we have a set cast, obviously, but we are not...despite that, that we don't ever have like an open table vibe. For people who don't know, in RPGs there's this idea of the closed table versus the open table. The closed table is what we— is what I think probably every RPG I was ever part of has been, where you're like, alright, the campaign is these players, and we do it with those players, and that's that. The open table is more like, hey, there's a big group, a big pool of players. And it's not necessarily campaign-based so much as...or maybe a campaign forms over time. But it's like, hey, who's around Thursday? Let's do a game. And Quest seems like a pretty straightforward way to do one of those inside of our own cast where, you know, we want to do a Live at the Table. I can just say, hey, is anyone around this Thursday? And we'll just do a session of Quest, knock it out and then be done with it and move on to a different thing. So, again, very episodic in nature, very much like not building towards anything off the jump. And it should be fun to to give that a shot. So, I'm not gonna do like a huge explanation of what Quest is, ‘cause I've done that before and we've had the book now for a long time. And so I guess I'm gonna just jump ahead to character creation, unless any of y'all have any questions about the book, the setting, basic rules, et cetera. [brief pause] Alright, I'm gonna jump ahead to page 15, which seems to basically be the beginning of character creation, more or less. I guess that's not even true. I guess it's a little bit after that. Let me read the...hmm. Where do I want to...where do I want to jump in here? I guess we could just go all the way to character creation. Alright. Let's actually then on page 21. Character creation. Say your name. This page is called your character profile. If all of you open your sheets, you'll see that here. It begins with “Hello.” 
+
+
+Dre: Uh, Austin, I do not have a sheet. 
+
+
+Austin: Oh shit. Do you not? You do not. My bad. 
+
+
+Dre: [laughs] I don’t. It’s okay. 
+
+
+Austin: Let me fix that. I'm sorry. 
+
+
+Dre: It's okay. 
+
+
+Austin: Boom. Oh, I already made it. I just didn't...yeah, wait one second. [Ali laughs] There we go. Save changes. Do you have one now? 
+
+
+Dre: I do. Thank you.
+
+
+Austin: There you go.
+
+
+Jack: Oh, this is so good. This Roll20 setup is great.
+
+
+Austin: Yeah, it's very fun. Oops, I did this backwards. One second. I made it so that everyone can control your character, Dre, not just you. Let me fix that. 
+
+
+Art: Quick, everyone. [Austin and Ali laugh] 
+
+
+Austin: Pa pa pa pa pa. And also let me move us over to that display. Boop. There we go. Oh, that’s the wrong one.
+
+
+Art: This extremely rules. This is one of the best Roll20 integrations.
+
+
+Austin: Yeah, it's nice. It's kind of just built in really nicely. There's stuff here that I wish was— 
+
+
+[0:10:03]
+
+
+Art: Aah.
+
+
+Austin: Sorry, that's me clicking around on your sheet, Art.
+
+
+Art: [laughs] Oh, I thought I was doing that somehow. I was like, what the…mouseover? [Austin and Ali laugh] 
+
+
+Austin: No. No. I will keep my own sheet for my character up just as guidance. [reading] “This page is called your Character Profile. This chapter will give you ideas to help you fill in the blanks and create a unique and interesting character. You can start right now by choosing a name. It can be anything. Choose what your pronouns are to let others know how to refer to you. Some examples are they/them, she/her, or he/him. And/or he/him. Next, choose your age with a maximum lifespan of 300 years and your height between three and eight feet tall. Then, follow the steps in this chapter from one to eight to finish creating your character. Feel free to use your own creativity to fill in the blanks. You're not obligated to use the examples in this book. Create a character that seems fun and interesting to you.” If you don't have names yet, I know how this works. Sometimes you want to fill in the rest of that stuff. [Ali chuckles] Or if you don't have age or height or pronouns, all of that stuff, totally fine. We can wrap back around to it. But if you do have a name and the rest of that stuff, let me know and we can read that.
+
+
+Ali: I have a name.
+
+
+Austin: What is your name?
+
+
+Ali: It's Royce.
+
+
+Austin: Spell Royce.
+
+
+Ali: With an I.
+
+
+Austin: With an I? Love it.
+
+
+Ali: [laughs] No, with a Y. 
+
+
+Austin: With a YEAH.
+
+
+Ali: R-O-Y-S-E— no, C-E.
+
+
+Austin: Okay. So just Royce the way Royce is spelled. 
+
+
+Jack: Roys.
+
+
+Austin: Yeah, not Roys. 
+
+
+Ali: Yeah.
+
+
+Austin: Yeah, okay. [Ali laughs] Roys the 5’9”. Yeah. Uh huh. 
+
+
+Ali: Uh, I…
+
+
+Art: Great, now I have to change my character's height. [Austin laughs] 
+
+
+Ali: Aww.
+
+
+Austin: [laughs] Ah, that’s very funny. How tall are you, Royce?
+
+
+Ali: I have written...what did I write? Did I write 6’8”? Yeah.
+
+
+Austin: You tall as shit, girl. [Ali laughs] 
+
+
+Art: Whoa!
+
+
+Austin: Let's go.
+
+
+Ali: I just opened the…‘cause I was like...I was initially like what if I was just like a really big skeleton person? 
+
+
+Austin: Mmm. 
+
+
+Art: Mmm. [Jack laughs] 
+
+
+Ali: And then now I'm like, I'm a Ranger, though, so like...skeletons can range, right?
+
+
+Austin: Yes.
+
+
+Jack: Yeah. Sure. [Ali laughs] 
+
+
+Austin: They range from about three feet to eight feet. [Jack and Ali laugh] So, Ali. Ali is the Ranger. A reveal here.
+
+
+Ali: Yeah. Royce the Ranger.
+
+
+Austin: Real quick, is Royce da 5’9” five foot nine and that's why his name is Royce da 5’9”?
+
+
+Art: I do believe that's correct.
+
+
+Austin: That's very funny.
+
+
+Art: What else is the…
+
+
+Ali: Royce the 5’9”.
+
+
+Austin: He’s a rapper. He’s a rapper.
+
+
+Dre: Oh, yeah, it's even stylized that way, with the with the five foot, nine inch. Yeah, okay. 
+
+
+Austin: Yeah. 
+
+
+Art: I mean, if you want to tell me he's got five feet of cocaine, that's a lot of cocaine, but I don't think… [Austin laughs] 
+
+
+Ali: Yeah.
+
+
+Dre: Google says that when you search Royce da 5’9” height, it does say that he is 5’9”.
+
+
+Austin: 5’9”.
+
+
+Ali: Look at that.
+
+
+Austin: Yeah, but I feel like it would get thrown. Do you know what I— yeah, it's his height, apparently. Yes. 
+
+
+Dre: Eminem is only 5’8”. Didn't know that. 
+
+
+Ali: [laughing] What does that have to do with anything? 
+
+
+Austin: Wow, wait. And Royce is in a duo with Eminem. So, do you think that's a diss to Eminem?
+
+
+Ali: Wait.
+
+
+Art: Yes. Uh huh.
+
+
+Jack:  What, like, I'm an inch taller?
+
+
+Austin: Yeah.
+
+
+Dre: I hope so.
+
+
+Austin: I hope so.
+
+
+Ali: That’s hilarious.
+
+
+Austin: That's very funny to me. Alright. So, Royce, she/her, 6’8”.
+
+
+Ali: Yeah.
+
+
+Austin: Don't have an age yet for you, Ali? Is that one of these things or was that not one of these things?
+
+
+Ali: Age is one of these things, yeah. Okay, so I had written… [laughs] I had written 197.
+.
+Austin: Okay.
+
+
+Jack: Great age. Incredible.
+
+
+Austin: Incredible age. [Ali laughs] 
+
+
+Jack: The specificity. 
+
+
+Art: Why did we let Ali go first? Everyone's gonna like, really… [Ali and Jack laugh] 
+
+
+Jack: Did you intend to play a skeleton before Austin talked about the skeletons?
+
+
+Ali: No, no, no, no, no. Yeah, no.
+
+
+Jack: He said skeletons, and you went, “Here we go.”
+
+
+Austin: This is the energy I want.
+
+
+Ali: I was like, skeletons are on the table, you know?
+
+
+Austin: Mm-hmm.
+
+
+Ali:  And then I wrote 197, and then I deleted it, ‘cause I was like, what if I don't want to be a skeleton in like five minutes? But this is like (??? 14:00)
+
+
+Austin: You could just be a really old person. [Austin and Jack laugh] 
+
+
+Ali: Yeah, I’ll just be a really old person.
+
+
+Austin: Alright. Anyone else have their stuff ready to go?
+
+
+Dre: I’ve got some of mine, yeah.
+
+
+Jack: What are Royce’s pronouns?
+
+
+Austin: Royce, is she/her, I believe.
+
+
+Jack: Sick.
+
+
+Ali: Yeah. 
+
+
+Austin: Art or Dre. Dre, was that you? 
+
+
+Dre: Yeah, that was me.
+
+
+Austin: Okay. Can you tell me your name, Dre?
+
+
+Dre: Uh…
+
+
+Austin: Actually, you know what? Tell me your pronouns first. 
+
+
+Dre: He/him. 
+
+
+Austin: How tall are you? 
+
+
+Dre: I'm seven feet tall. 
+
+
+Austin: What is your age? 
+
+
+Dre: I am four years old.
+
+
+Austin: And I would love to hear your name. If you have a nickname afterwards, that’d be good to know too.
+
+
+Dre: Yeah. 66 22 48 99 80 22. [Jack laughs] Or you can call me 22s for short. 
+
+
+Ali: 22s. 
+
+
+Austin: 22s.
+
+
+Jack: Oh, it’s so good.
+
+
+Ali: Can we call you Deuces?
+
+
+Austin: Say that again?
+
+
+Art: [softly] Lil mama super thick. [laughter]
+
+
+Austin: She say she 22! Ah.
+
+
+Dre: Ah.
+
+
+Austin: [clapping rhythmically] We in room 222! Alright.
+
+
+Art: Hold on. I have to go back to scratch on this, and now I have to put a hip hop reference in. [Austin laugh] (??? 15:05) 
+
+
+Austin: Oh, lord. Alright. Well, I'm glad Dre is trying to one up Ali. This is an incredible game already. 
+
+
+Ali: Mm-hmm. [laughs] 
+
+
+Austin: Jack. Can we bring it back to reality a little bit?
+
+
+Jack: Well, hold on. [laughter] I have some questions. Why are you four?
+
+
+Austin: We'll get there!
+
+
+Dre: We'll get there, yeah. 
+
+
+Ali: Mm-hmm.
+
+
+Austin: We’ll get there. There's more questions to answer that I can see and that you're not allowed to. 
+
+
+Jack: I suppose.
+
+
+Austin: I'm covering them so you can't cheat and look at the screen. [Dre laughs] 
+
+
+Jack: Yeah, fair enough. Well, so, I wrote down a fairly normal name here, but now I'm wondering if I need to up my game.
+
+
+Austin: Well, okay, let me...okay, here's...you want to know what the rest of the crew is named so we get a little bit of a vibe. We have Mana Mixup, which is Sylvi’s character.
+
+
+Jack: Great name.
+
+
+Austin: She is a magician. She's like a cute witch. She definitely...it doesn't say here that she has like the anime fang, but I'm 99 percent sure she has the little anime fang. 
+
+
+Dre: It’s Sylvi.
+
+
+Austin: Yeah. Then Keith’s character March Manera, who is an invoker, which is like paladiny. You know, I don't have an image in my head for March, but March, I guess it says here: fluttering cape, spring in his step, laughing eyes, an air of mystery. If I remember correctly, he has some sort of...he has some sort of magic flask, and inside is a spirit, but not like an alcohol. [chuckles] It's like an old monk—
+
+
+Jack: Mmm.
+
+
+Austin: —who helps him with investigations who comes out sometimes. [Jack laughs] 
+
+
+Dre: Okay. Alright.
+
+
+Ali: Right. 
+
+
+Austin: And then Odette Van Ives, who is, I understand to be a Christmas spy. She is from Nievelmarch, and if I had to guess, probably has a history with the Oddjob boys. They are...they have so many fashion things that it goes off the screen here, leaves...Janine wrote so much that it isn't contained inside of the Roll20 space. [Jack and Ali laugh] But, you know, there you go. Odette Van Ives, March Manera, Mana Mixup. And then, Jack, your character feels within that realm.
+
+
+Jack: Yeah, totally. Okay, my name is Eleanora Cooperforth. 
+
+
+Austin: Mm-hmm. 
+
+
+Jack: Her pronouns are she/her. She's thirty years— mmm, she's 25 years old. 
+
+
+Austin: Okay. 
+
+
+Jack: And she is six foot two.
+
+
+Austin: Six foot two.
+
+
+Jack: And she is the party's Doctor.
+
+
+Austin: Oh, yeah, and I guess, Dre, we should say...what is 22's class? 
+
+
+Dre: I’m the Naturalist. 
+
+
+Austin: If you couldn't figure that out from 66 22 48 99 80 22, that that would be a Naturalist, I don't know what to tell you. 
+
+
+Jack: Mmm.
+
+
+Dre: And four years old. Yeah.
+
+
+Austin: And four years old.
+
+
+Art: A cliche Naturalist name, honestly.
+
+
+Austin: Yeah, honestly, a little on the nose, Dre. [Austin and Ali laugh] 
+
+
+Dre: It’s been a rough day. Don’t have the A game.
+
+
+Art: Okay.
+
+
+Austin: Art?
+
+
+Art: So, I had an idea, and maybe I need to scrap it.
+
+
+Austin: Uh huh?
+
+
+Ali: Oh.
+
+
+Art: But the...I've got...I'm Jonah Hagan. My character is Jonah Hagan. Pronouns he/him, 28 years old, stands five foot ten.
+
+
+Austin: Uh huh.
+
+
+Art: And is the party's Wizard. 
+
+
+Austin: Uh huh.
+
+
+Art: And I was reading the role description in the book, and it was like, [reading] “The Wizard is a powerful spell caster with a diverse set of magical abilities. At the height of their power, they can travel to other worlds and transcend their mortal selves.”
+
+
+Austin: Uh huh.
+
+
+Art: And my idea was, I want the most boring, white bread, nothing person— [Austin chuckles] 
+
+
+Dre: Mmm.
+
+
+Art: To then transcend their mortal selves with magic power. 
+
+
+Austin: Uh huh.
+
+
+Art: But if everyone else is gonna be at twelve...
+
+
+Austin: [laughs] You can't be at four.
+
+
+Art: Maybe six feels like a two. 
+
+
+Austin: Yeah. 
+
+
+Ali: We can hang out with him, though.
+
+
+Austin: Ali.
+
+
+Ali: We can just hang out with him. [laughs] 
+
+
+Austin: Mm-hmm. Your boring guy can chill.
+
+
+Ali: [laughs] Well, you have all the magic powers. That's cool.
+
+
+Art: Yeah, but like, he’s also...he does like woodwork, and... 
+
+
+Austin: Is he...where is he from? What, where...what is his deal? Why is he...why was he boring to begin with?
+
+
+Art: Well, I've been watching King of the Hill. 
+
+
+Austin: Okay.
+
+
+Ali: Perfect.
+
+
+Austin: Great intro.
+
+
+Art: And I’m sort of just like...yeah, like what if Hank Hill was a cosmically powerful wizard? 
+
+
+Austin: Well, now I’m back on board. [Ali laughs] 
+
+
+Jack: Hmm!
+
+
+Art: He would still have a drawer full of six glues, you know? [Austin laughs] 
+
+
+Jack: Wrapping back around. 
+
+
+Dre: Mm-hmm.
+
+
+Austin: Yeah, I’ve wrapped back around to Jonah being great.
+
+
+Dre: Yeah.
+
+
+Austin: Jonah Hagan. What if Hank—
+
+
+Ali: Yeah.
+
+
+Austin: [laughing] We've had what if Han Solo used to be Beyonce, and now we have what if Gandalf used to be Hank Hill. 
+
+
+Art: Yeah. Uh huh. 
+
+
+Dre: Sell fireballs and fireball accessories. 
+
+
+Austin: [laughs] Yeah.
+
+
+Ali: This is perfect, because then we just get to be your boys, right?
+
+
+Austin: Yeah.
+
+
+Ali: Like, we can just hang out with you. [laughs] 
+
+
+Austin: That’s true. 
+
+
+Art: Yeah. 
+
+
+Ali: In your back yard, drinking some beers. 
+
+
+Austin: Drink beers, yeah. Hanging near the trash cans.
+
+
+Art: Yeah. Mm-hmm. [Dre laughs] 
+
+
+[0:20:00]
+
+
+Austin: I love this. 
+
+
+Ali: I'm there. Me and Royce are there. [laughs] 
+
+
+Austin: Alright. I love it so much. I feel like...I feel like we have...yeah, there is room for this. I'm down. Alright.
+
+
+Art: Does it need to be...should I change the first name to Hans? Is the H alliteration important here?
+
+
+Austin: No, I like Jonah. 
+
+
+Art: Alright.
+
+
+Austin: Jonah feels more in line with the thing you pitched us. 
+
+
+Art: Yeah. 
+
+
+Austin: Alright. Well, at this point, we should all just read these these role descriptions for what you're playing as. Your role gives you a unique set of abilities. This is a big part of your character's identity. This is just a brief overview of Quest’s eight roles. You can see their skills in the ability catalog. Art’s read us Wizard. Who wants to read theirs next?
+
+
+Ali: I can go.
+
+
+Austin: Yeah, Ali, go ahead. 
+
+
+Ali: This is just from the like page with the…
+
+
+Austin: Yeah, that little tiny...yeah, yeah, yeah.
+
+
+Ali: Okay. The Ranger closes their eyes and places their hand up— whoops.
+
+
+Austin: That is not the one I meant. That is not— I should have— 
+
+
+Ali: [laughs] No.
+
+
+Austin:  I meant the one that’s on the choose the— you could read that one too. That's fine. I was talking about the one on the Choose a Role page but…
+
+
+Ali: It's fine. 
+
+
+Austin: It’s 20…
+
+
+Ali: The Ranger is outlander, hunter, and skilled navigator thriving on the fringes of civilization. They keep faithful pets and have a special bond with beasts.
+
+
+Austin: That's nice. That's good. Do you want to also read the other one? Did you like the other one more?
+
+
+Ali: [laughs] No, I just was on that page. The Ranger— 
+
+
+Austin: You should that one too, anyway. Yeah.
+
+
+Ali: The Ranger closes their eyes and places their hand on a tree trunk, learning the secrets of the forest. They stop and chat with a local squirrel, making a new friend. They speak myth, earning the favor of strangers. The Ranger is a great choice for people who want to play a skilled hunter and survivalist who lives on the fringes of civilization.
+
+
+Austin: Love this giant skeleton. 
+
+
+Art: Yeah, where are these alternate class descriptions?
+
+
+Austin: On the ability page.
+
+
+Dre: Catalog.
+
+
+Austin: The catalog. 
+
+
+Dre: In the catalog section.
+
+
+Austin: Yours, Art, is on page 50...92. 92. [Ali chuckles] 
+
+
+Art: Oh, I gave up way before the 90s. I was like, this is gonna be in the first 15 pages.
+
+
+Austin: Let’s just read yours now, so we get that one done. We’ll be done with both of your descriptions. [Ali laughs] 
+
+
+Art: Well, I'm scrolling through this book with a scroll wheel so, uh, I’m gonna need to vamp for a second here. 
+
+
+Austin: It’s 90— okay. 
+
+
+Art: The Wizard utters a word of power, sending a wave of force that knocks back everything in its path. They imagine an object needed in a pinch and conjure it from thin air. With a wave of their hand, they open a rift to unexplored dimensions, seeking answers beyond space and time. 
+
+
+Austin: You can keep going.
+
+
+Art: You can use the Wizard’s dynamic role to play as any kind of magic user, from a studious sage… [stumbles over word]
+ 
+Austin: Okay. That says seekadueling?
+
+
+Art: Seekadueling? [laughter]
+
+
+Austin: Seekadueling. Thas to be a find replace.
+
+
+Art: A typo? Yeah.
+
+
+Austin: It has to be a— yeah. Uh huh.
+
+
+Art: Seeking, or seekadueling, [Ali laughs] spell books, to a megalomaniacal mage pursuing absolute power.
+
+
+Austin: Love to seekaduel. I bet this used to say dueling other...something. Dueling...I don't know. I don't know. I don't know. [Ali laughs] 
+
+
+Austin: Because you're not dueling spell books.
+
+
+Austin: You're not dueling spell books. You're super right. You're not. Who is up next? Dre, Jack?
+
+
+Jack: I can go next. 
+
+
+Austin: Go ahead. Talk to me about the Doctor.
+
+
+Jack: So, my short description…
+
+
+Austin: Yeah. 
+
+
+Jack: Is: The Doctor is a magic scientist who tinkers with the forces of life and death. They reverse or advance the effects of damage, disease, and decay. And then my Doctor description says: The Doctor gently touches the arm of an ally, mending their body and spirit. They lean down to examine the dead, discovering what caused their cruel fate. They sense the departed and speak with lost souls. The Doctor is a good choice for people who want to be the party's healer or someone who plays with the forces of life and death.
+
+
+Austin: Normal shit. Love it. Great.
+
+
+Jack: You know, like a doctor.
+
+
+Austin: Like a doctor does. And then that leaves us with our Naturalist, right? 
+
+
+Dre: Yes.
+
+
+Austin: Talk to me about the Naturalist.
+
+
+Dre: Let me go back to the right page. The Naturalist channels their connection with nature to manipulate the elements, commune with animals, and even transform themselves into wild beast.
+
+
+Austin: And then the long one on…
+
+
+Dre: Yeah, 57.
+
+
+Austin: 57, yeah.
+
+
+Dre: The Naturalist whispers to a field of flowers, inspiring them to bloom. They take a wolf’s form, streaking across the steppe. With their hands to the sky, they summon a storm, bringing forth nature's wrath. Play the Naturalist if you want to explore an intimate bond with the wild creatures and raw elemental forces of your world.
+
+
+Austin: Fantastic. Alright. So, at this point, we've chosen our roles. Now it is time to enter the scene. You can give your character as much detail as you want, but it helps to start with a few distinctive features. Imagine what people would notice when you first enter the room. As a starting point, imagine the world is filled with humanlike peoples who do the same things we do— or, who need the same things we do: food, safety, love and fun. The features you choose may suggest a unique ancestry, but they don't separate you from others. Assume the peoples of the world are compatible in matters of family, labor, and society. You can choose any of the things from this list or create your own. The only rule is that the features you choose to describe your character can't give them special powers.
+
+
+Ali: Whoa.
+
+
+Austin: And so when people see me, they first notice my blank, blank, and blank. I will read my— I haven't introduced my character. My character's name is Roan, R-O-A-N. They use they/them pronouns. They are 42 years old. They stand six foot ten. They are the party's fighter. [Ali gasps in realization] This is my character from our Stewpot game. When people first see them, they notice their towering physique, lionlike face, and vermillion disposition. Those are my three things.
+
+
+Ali: Wowee zowee. 
+
+
+Austin: Mm-hmm.
+
+
+Ali: 6’10”, huh? [laughs] 
+
+
+Austin: 6’10”, yeah. I believe is a D&D style hobgoblin, if I recall, and they're pretty big.
+
+
+Ali: Oh, sure, sure, sure.
+
+
+Austin: [typing] Oh, it's gonna show me the character from...yeah, great. There's— yeah, this image is the one, the one that I'm showing on the screen right now. Love this image. Fantastic. Anyway. So, who has description stuff? 
+
+
+Dre: I can go.
+
+
+Austin: Okay. Tell me about what people notice when they look at 22s.
+
+
+Dre: Sure. When people see me, they first notice my whirring exposed gizmos, beaming face, and calm demeanor. I'm a robot.
+
+
+Ali: Sure.
+
+
+Jack: Ah! Sick!
+
+
+Austin: Uh huh. [chuckles] 
+
+
+Dre: Mm-hmm.
+
+
+Austin: We’d had robots before.
+
+
+Jack: Yeah.
+
+
+Austin: In Stewpot. Remember those two ancient like robots who came down from the dungeon? Or, down from up—
+
+
+Ali: Oh, sure, sure, sure.
+
+
+Austin: Yeah, down from the dungeon and like, try to start a bunch of shit at the bar. [laughs] It was great.
+
+
+Dre: God. [laughs] 
+
+
+Jack: The robots try— I haven't heard Stewpot. I should listen to that game.
+
+
+Austin: Oh, Jack. Please listen to Stewpot. 
+
+
+Dre: God, Stewpot was so fun. [laughs] 
+
+
+Ali: Oh, yeah, Stewpot is great.
+
+
+Austin: Stewpot’s fantastic. Yeah. That's here. That's in this world, so. Awesome. Those are good ones. Whirring exposed gizmos, beaming face, and calm demeanor.
+
+
+Dre: Mm-hmm.
+
+
+Austin: Anyone else have their first noticed things?
+
+
+Jack: I can go.
+
+
+Austin: Yeah.
+
+
+Jack: I went straight from the book. I picked from the catalog. 
+
+
+Austin: Love that.
+
+
+Jack: When people see me, they first notice my sculpted hair, skeptical eyes, and tightly wound energy.
+
+
+Austin: A great doctor thing. I love to walk into a doctor's, to a clinic, [Art laughs] and be like, this doctor is a little tightly wound. Everything alright, Doc? [Ali laughs] I guess this year I'd be like, yeah, you know what? 
+
+
+Jack: Uh huh.
+
+
+Austin: Yep, mm-hmm. That's fair. 
+
+
+Dre: Yeah, I feel you. 
+
+
+Austin: I feel you, homie. [Ali, Dre, and Austin laugh] You need me to get you any water? You want some tea? [Ali sighs] 
+
+
+Jack: Nice work with the hair, but please try and relax a little. 
+
+
+Austin: Please.
+
+
+Jack: I understand it's hard.
+
+
+Austin: Also, please believe me. Stop looking at me so skeptically.
+
+
+Jack: Yeah, with skeptical eyes.
+
+
+Ali: Yeah.
+
+
+Austin: Ali or Art? 
+
+
+Ali: It’s— 
+
+
+Art: I can go. Oh. 
+
+
+Ali: Yeah. No, no, no. You go. 
+
+
+Art: Alright. [Ali laughs] When people see me, they first notice my fair complexion, tidy haircut, and firm handshake.
+
+
+Austin: [laughs] Great. Good. 
+
+
+Ali: Mm-hmm.
+
+
+Austin: Very straightforward.
+
+
+Jack: Tidy or tiny? [Austin laughs] 
+
+
+Art: Tidy.
+
+
+Jack: Okay.
+
+
+Dre: Oh, I thought...I also heard tiny. [laughs] 
+
+
+Austin: My little tiny haircut. My little baby…
+
+
+Jack: I’d like your smallest haircut, please, barber. [Austin and Ali laugh] Right this way, sir. Bzzzt. Done.
+
+
+Austin: I like what you've done, but could you make it a littler? [Ali and Jack laugh] 
+
+
+Art: Firm handshake counts as a vibe, right? That's a person. 
+
+
+Ali: Yeah.
+
+
+Austin: Yeah.
+
+
+Ali: Yeah, yeah, yeah.
+
+
+Jack: Oh yeah.
+
+
+Austin: Ali, you're having trouble, is what you're saying?
+
+
+Ali: I feel like choosing a vibe at [laughs] this part of the process is like such a...commitment. 
+
+
+Austin: I get you. Listen, nothing you write down here is set in stone.
+
+
+Ali: Sure. Yeah, yeah, yeah.
+
+
+Austin: And also, we can come back to it, so I don't mind moving on.
+
+
+Ali: Sure. Sure, sure, sure.
+
+
+Austin: We’ll wrap back around.
+
+
+Ali: Yeah.
+
+
+Austin: I just think some of these prewrite themselves. I think severe jawline is right—
+
+
+Ali: Yeah.
+
+
+Jack: So good.
+
+
+Austin: [chuckles] —for someone who just has a jaw out there. 
+
+
+Ali: Elongated limbs.
+
+
+Austin: Yeah. Uh huh. 
+
+
+Ali: You know. 
+
+
+Austin: Yeah. Mm-hmm. 
+
+
+Ali: It's all there. [laughs] 
+Austin: The next step is even more style stuff. It's choose how you present yourself to the world. Pick your usual outfit, and imagine what your character looks like when they move. It only takes a couple of features to help people imagine you, but you can be even more detailed if you like. And that's I wear blank, blank and move with blank. Again, as an example, my character Roan wears ornate plate, male belted boot straps and moves with a confident step. I think boot straps are like— or, book straps. I said boot straps. I meant book straps. [Ali chuckles] They just have books all like belted to them in various places. Like you do. Like a bad final fantasy character.
+
+
+Ali: Is there like...but there's like gear in this game too, right?
+
+
+Austin: Only sort of. 
+
+
+Ali: Okay.
+
+
+Austin: So, again, as an example, if I take a look here at March, there is like...you get like...you can have like a weapon, right? But you're basically always doing the same basic common stuff, like most regular weapons due two damage, period. 
+
+
+[0:30:16]
+
+
+Ali: Okay.
+
+
+Austin: You'll find like lock picks or items in that way, and you'll actually pick some of these in a moment. But unless something does something special, it's not gonna be just like “You get plus two armor” or whatever. You know what I mean? 
+
+
+Ali: Sure.
+
+
+Austin: Most of that stuff is in abilities. So, again, I would pick the thing that...I mean, I would look at their list of things to see what it’s talking about, but…
+
+
+Ali: Sure, sure, sure. Do you remember that plant orb that I sent you? [laughs] And I was like, got my Quest character. 
+
+
+Austin: You know, Ali, I don’t remember. What was it?
+
+
+Ali: You know what, Austin? That's okay, because in these moments we come prepared, and I am just gonna send you a link so you can show the chat too. [laughs] 
+
+
+Austin: Oh, I love it. Thank you. Great. Let's see here. New biOrb update. [soft music playing from video] Eight months old, amazing plant growth. Are you wearing this plant? I’m gonna mute this, so we don’t get muted. [music cuts off]
+
+
+Ali: Yeah, I want to carry it around.
+
+
+Austin: Oh, this is like a thing you carry. Is this in— is it like on a strap? Is it in your ribcage? Like, what's the vibe?
+
+
+Ali: Okay...
+
+
+Dre: Whoa, this is cool.
+
+
+Austin: This is very cool.
+
+
+Ali: [chuckles] I was thinking that it would be like over the shoulder strap situation. 
+
+
+Austin: Okay. Sure. Look at this thing. 
+
+
+Ali: It fucking rules. And there's the little fishies in there, and they’re just hanging out.
+
+
+Austin: There’s little fishies in there hanging out.
+
+
+Ali: Imagine if you were a Ranger, and you were like, I know the trees are also I have this orb too. [laughs] 
+
+
+Dre: And also I have one. 
+
+
+Austin: Yeah. I love that. That's fantastic. 
+
+
+Ali: Yeah.
+
+
+Austin: Alright.
+
+
+Ali: But yeah, I didn't know if I should mention it here or if there's gonna be a place for it out there.
+
+
+Austin: This is the place. 
+
+
+Ali: Okay. 
+
+
+Austin: That is a thing someone sees with you and immediately is like, oh, that's a thing that person has.
+
+
+Ali: Uh huh.
+
+
+Austin: You know? 
+
+
+Ali: Yeah, fair.
+
+
+Austin: Anyone else have some of their stuff here?
+
+
+Art: I need a little bit of help. 
+
+
+Austin: Yes.
+
+
+Art: What do you call like one of those belts with a lot of pouches in it?
+
+
+Ali: A utility belt?
+
+
+Austin: Utility belt. Good answer.
+
+
+Austin: Is there a better word than utility belt? [Ali laughs]
+
+
+Dre: Oh, um...god, what is it? Mmm...what's the thing that like Chewbacca wears? There's a special name for that.
+
+
+Austin: That’s a bandelier.
+
+
+Art: A bandelier. But like, that goes across your chest.
+
+
+Austin: Yeah, that goes across your chest. 
+
+
+Art: I guess it's a utility belt. I'm sorry.
+
+
+Austin: Whoa, Art. You just got way better. Your audio just improved by a thousand percent. What just happened?
+
+
+Ali: [laughs] It was like it was a different Art.
+
+
+Art: [chuckles] I leaned a little closer to the table. 
+
+
+Austin: That was a little— 
+
+
+Art: I can’t record like this, so if you like it, it's too bad. [Dre laughs] 
+
+
+Ali: [still laughing] It was literally like there was a second—
+
+
+Austin: It was a second Art. Yeah.
+
+
+Ali: There was a different Art on the call. [Ali and Dre laugh] 
+
+
+Austin: Are we— which Art are we speaking to? Art, I feel like you're...I feel like the real Art has been kidnapped.
+
+
+Art: No, there's nothing to worry about. Not kidnapped at all. [Ali laughs] 
+
+
+Austin: [doubtful] Hmm.
+
+
+Jack: Tell us something only Art would know. 
+
+
+Art: I would need to sit on the floor to get the thing you want for this. [laughs] 
+
+
+Austin: Oh, that sounds fun. 
+
+
+Art: But then the computer’s all the way up here. 
+
+
+Jack: I think about this all the fucking time. The problem is that because I'm recording so late, if I try any recording method other than sitting upright at my desk, that's it. I sleep.
+
+
+Austin: Right.
+
+
+Ali: Right. Yeah.
+
+
+Jack: We’d get halfway through a recording, and then it's good night to Jack, and that would be deeply embarrassing for everybody.
+
+
+Austin: That would be very funny, but bad, yeah.
+
+
+Jack: Also, Ali...sorry, I dropped something very important and was looking for it a second ago, so I was enjoying the podcast as a listener rather than a participant for the last five minutes. [Jack and Ali laugh] 
+
+
+Ali: It’s fine.
+
+
+Jack: That biOrb is incredible. 
+
+
+Ali: Oh, yeah.
+
+
+Jack: And I want someone to...I want to pay someone to build me a synthesizer around one of those things. [Ali laughs] 
+
+
+Austin: Ooh, that’s fun. 
+
+
+Dre: Ooh.
+
+
+Jack: That's all. I found it, and I'm back. [laughs] 
+
+
+Austin: Welcome back. Broonloops in the chat, I promise we did a whole bit around Art’s tiny haircut, ‘cause we all also heard that. [Ali laughs] 
+
+
+Art: Well, maybe if I was over here, it would sound better, and people would be able to hear my consonant sounds, but I won’t do it.
+
+
+Dre: Oh, your annunciation is impeccable. [Austin chuckles] 
+
+
+Art: Annunciating Art is dead. [Austin laughs]
+
+
+Ali: Goodbye, Art.
+
+
+Austin: RIP. 
+
+
+Dre: Long live annunciating Art. 
+
+
+Austin: [chuckles] Alright. Who has their outfit? Art?
+
+
+Dre: Uh, I could go.
+
+
+Jack: Me!
+
+
+Austin: Or Dre. Or Jack. 
+
+
+Dre: Oop.
+
+
+Austin: Aaah!
+
+
+Dre: Yeah, Jack, you— no, Jack go, I went first last time. 
+
+
+Austin: Okay.
+
+
+Dre: So I’ll go last this time.
+
+
+Jack: I wear a white coat.
+
+
+Austin: Mm-hmm.
+
+
+Jack: Like, if you were making an MMO, and you had a doctor in it— 
+
+
+Austin: Yeah. 
+
+
+Jack: They’d probably wear a white coat. 
+
+
+Austin: Yeah. Mm-hmm.
+
+
+Jack: A plain blouse. I think underneath she's just sort of dressed, you know, for work, ready to go.
+
+
+Austin: Professional. Yeah.
+
+
+Jack: And move with studious purpose. 
+
+
+Austin: Okay. Eleanora.
+
+
+Jack: I think Cooperforth has kind of just...sort of just graduated or is like…
+
+
+Austin: Is she a doctor? Does she have...is she Dr. Eleanora Cooperforth? 
+
+
+Jack: Mm-hmm. Yep.
+
+
+Austin: Dr. Cooperforth? Okay.
+
+
+Jack: I'll put that in, actually. 
+
+
+Austin: Yeah Thank you.
+
+
+Jack: But she's kind of a new doctor.
+
+
+Austin: Okay.
+
+
+Jack: She's sort of just going out into the world.
+
+
+Austin: Has been recruited here to the Conservatory, ‘cause they need doctors. So, why not?
+
+
+Jack: There’s fucking player characters everywhere.
+
+
+Austin: Mm-hmm.
+
+
+Jack: It's a bloodbath.
+
+
+Austin: [laughs] Ali or Art.
+
+
+Art: I guess I should finish, ‘cause I had the utility belt aside.
+
+
+Austin: Yeah, utility belt. Yeah. 
+
+
+Dre: Mm-hmm.
+
+
+Art: Tightly fitted tunic, utility belt, and move with a singular purpose. 
+
+
+Austin: Fanta— what's the purpose? 
+
+
+Art: I mean, just to to get the next task done and move on to the next thing.
+
+
+Austin: Oh, okay, gotcha. Just whatever is on— yeah, okay. Ali?
+
+
+Art: Yeah, to fix the next thing or to have a beer in the alley. [Austin and Ali laugh] 
+
+
+Austin: A singular purpose.
+
+
+Ali: Okay. [clears throat] I’m gonna start from the sentence ahead that I skipped.
+
+
+Austin: Mm-hmm.
+
+
+Ali: Which is: [chuckles] when people see me, they notice my elongated limbs, timeworn face—because I don't have one. 
+
+
+Austin: Right.
+
+
+Ali: —and sparkling gaze. 
+
+
+Austin: Very timeworn face. [Austin and Ali laugh] 
+
+
+Ali: Extremely timeworn. I wear fingerless gloves, an orb of aquatic life on a strap, and move with no sense of urgency.
+
+
+Austin: Great. Hey, your sparkling— 
+
+
+Jack: Extremely slow skeleton.
+
+
+Austin: Yeah. Is your sparkling gaze like a literal sparkle? Or is it like a… [Ali laughs] Just a way you carry yourself, you know?
+
+
+Ali: It could— eh.
+
+
+Jack: Oh, shit. No, go on, sorry. 
+
+
+Ali: [laughs] It’s okay.
+
+
+Austin: I know where you're going. I think I know what you're going, Jack, but go ahead, Ali.
+
+
+Ali: I'm overwhelmed now. [laughs] I think that I'm just like a friendly person.
+
+
+Austin: Mm-hmm.
+
+
+Ali:  I'm a personable six foot eight skeleton.
+
+
+Jack: I suppose my question is, [Ali chuckles] if you had gems for eyes…
+
+
+Austin: Mm-hmm.
+
+
+Ali: Sure. [laughs] 
+
+
+Austin: Yes. Which would they be? 
+
+
+Jack: What would they be?
+
+
+Ali: Sure. Sure. Oh, that's a big question.
+
+
+Jack: I, for example, would like sapphires.
+
+
+Austin: Ooh.
+
+
+Ali: Right. Right.
+
+
+Art: Mmm.
+
+
+Ali: I should put a gem or two in there, right. Just so people have something to look at.
+
+
+Austin: [laughs] When you say a gem or two, it makes—
+
+
+Art: Something to look at in your giant skeleton face. [Austin and Ali laugh] 
+
+
+Austin: If you have— if the way—  
+
+
+Art: Always gotta keep people entertained. 
+
+
+Austin: The way you said “a gem or two” made me feel like you were saying, I’ll just put like a handful of loose tiny ones in the sockets.
+
+
+Ali: Yeah.
+
+
+Art:  It's just like resting on a...like on a shelf. [chuckles] 
+
+
+Ali: Yeah. Why not?
+
+
+Austin: Fingerless gloves, very funny, Ali. I don't want to sleep on that. Skeleton with fingerless gloves, extremely good. 
+
+
+Ali: Oh, thank you. Thank you for the (??? 38:01).
+
+
+Jack: They’re also kind of fingerless fingers, as well, if you're a skeleton.
+
+
+Austin: A little bit. Well, you have the fingers. You just don't have the stuff around the fingers.
+
+
+Ali: Yeah.
+
+
+Jack: Mmm, that’s true. 
+
+
+Austin: Right?
+
+
+Dre: Yeah.
+
+
+Ali: Yeah.
+
+
+Jack: Yeah.
+
+
+Austin: Dre. 
+
+
+Dre: Right. And this is the what we wear, right? 
+
+
+Austin: I wear and blank, yeah. Yeah.
+
+
+Dre: Yeah. I wear a necklace of animal charms.
+
+
+Austin: Mm-hmm.
+
+
+Dre: A very worn pair of thong sandals, and move with a soft whirr and a constant hum. 
+
+
+Austin: Love it. Is your...is this the point where I can just ask you, like, what your robot body looks like literally?
+
+
+Dre: Yeah. I'm thinking very much like kind of clockwork style robot.
+
+
+Austin: Cool.
+
+
+Dre: Like a lot of exposed gears and stuff like that.
+
+
+Austin: Yeah. I like that. That's fun. 
+
+
+Dre: Somewhere between like a...somewhere between steampunk and Beast Wars aesthetic. 
+
+
+Ali: Mmm.
+
+
+Austin: [chuckles] Okay. Touchstones, love it.
+
+
+Dre: Mm-hmm.
+
+
+Art: That's a big valley to be in the middle of.
+
+
+Dre: Yeah, you know, we'll figure it out. 
+
+
+Austin: Yeah, we'll get there.
+
+
+Art: Sure.
+
+
+Ali: Um…
+
+
+Austin: Yes, Ali?
+
+
+Ali: I have an answer for the gems. They’re my eyes, and it's crystal opals.
+
+
+Austin: Crystal opals. Love that.
+
+
+Jack: Oh, beautiful. 
+
+
+Austin: That's a beautiful gem. Next up is: like the real world, the people of Quest are endlessly diverse. Use where you're from and what your people are known for as a starting point for how you relate to others in the world. And again, that sentence is like, “I'm from blank, where my people are known for blank.” And I think that that's...I think they’d say, “I'm from blank, where my people are known for blank!” Roan is from a roadside inn, where their people are known for their warm hospitality.
+
+
+Art: Jonah is from a remote village, where my people are known for creating a world wonder. And I think it's just like a big guy. You know, like the Colossus of Rhodes? 
+
+
+Austin: Yeah.
+
+
+[0:40:00]
+
+
+Art: Kind of like that. 
+
+
+Austin: Just like that. Did you— 
+
+
+Art: It’s like, who’s that big man?
+
+
+Austin: [laughs] That's the village you're from.
+
+
+Dre: Ooh, throwback. 
+
+
+Austin: Mm-hmm. Is that a...did you work on the big man?
+
+
+Art: Uh, yeah, of course.
+
+
+Austin: Okay.
+
+
+Art: I was a carpenter.
+
+
+Austin: Mmm.
+
+
+Art: Slash Wizard.
+
+
+Ali: Right.
+
+
+Austin: [chuckles] Right, I guess we talked about woodworking already, so.
+
+
+Art: Yeah. 
+
+
+Austin: Yeah. Anyone else have answers for these yet?
+
+
+Art: I do. 
+
+
+Austin: Alright. Tell me about 22’s home.
+
+
+Dre: I'm from the Gilded Reef. 
+
+
+Austin: Hell yeah. We got—
+
+
+Jack: Oh, shit. 
+
+
+Dre: Oh? Oh?
+
+
+Austin: [chuckles] This is my favorite part about...my favorite part about Quest is...Dre, do you know what’s up with the Gilded Reef? Did you listen to Spoken Magic? 
+
+
+Dre: Nope.
+
+
+Austin: So you just— 
+
+
+Dre: I just saw that it was like rich as hell. 
+
+
+Austin: Mm-hmm. Yeah. Go for it.
+
+
+Dre: And I was like, that's probably a place where people made robots.
+
+
+Austin: Mm-hmm. [Ali chuckles] 
+
+
+Jack: Wow.
+
+
+Dre: I’m from the Gilded Reef, where my people are known for our unexpected awakening to consciousness and pottery. [Austin and Jack laugh] 
+
+
+Austin: Mm hmm. 
+
+
+Dre: I made my necklace myself.
+
+
+Jack: Austin, do you have like a list of these places to hand, or…?
+
+
+Austin: Yeah, they’re in the icon— or, they’re in the thing called the Grand Tableau. I'll link you, one second.
+
+
+Ali: Oh, yeah, it was in the chat a second ago.
+
+
+Austin: Yeah, I think think it was there.
+
+
+Ali: I got it. 
+
+
+Jack: Oh, great. Thank you. 
+
+
+Austin: Yeah, me too. Nice work. [Ali chuckles] They are towards the established— they’re under Established Locations. That’s where you're looking.
+
+
+Ali: Oh, here we are. Huh.
+
+
+Austin: Mm-hmm. I feel like there was a big statue in Spoken Magic too. But I don't remember…
+
+
+Jack: You might be thinking of the time when we made ourselves really big and destroyed an entire mouse kingdom.
+
+
+Austin: Yeah, the ruins of the Empire of Mice. That's in here. [chuckles] Sorry, I'm wrong. Ruins of the Empire of Mice. It was the mice who built the roads, the mountain tunnels, the old fortresses. Probably, question mark, unrelated to the Mouse Kingdom. Who knows? Good. [Jack laughs] Oh, yeah. There we go. The Mouse Kingdom in the Titan’s Teeth range. Hate wizards. [laughs] Probably ‘cause that time we got big and stomped on all their shit!
+
+
+Art: Oh, they hate wizards so much there. Hmm.
+
+
+Austin: Oh, it was the Tomb of Glass and dragon. The Tomb of Glass and dragon, a tomb to a giant heroine and her pet dragon. Do not disturb. I don't think that was...that was probably not the statue your people built, Art. That was like a different big statue, right?
+
+
+Art: No, I think the world can have more than one big statue in it.
+
+
+Austin: Yeah, it makes sense to me. Anyone else have their place or their whatever? Yeah, we have a lot of cool places. 
+
+
+Ali: Yeah.
+
+
+Austin: Keecha, which was the name of our city in Bird, Feather, and Bone. 
+
+
+Ali: Oh.
+
+
+Austin: It was a bunch of bird people. There was...the devilish lair of the skeleton king Koakila (spelling???), and I’ve just written, “Don't worry about it.” I think that was from Spoken Magic. [muffled laughter] I think we just, in the past, had dealt with that, apparently.
+
+
+Jack: God, imagine if this was a design document for an actual MMO—
+
+
+Austin: Ah.
+
+
+Jack: —and the game designers and producers were looking at it like, oh, fucking hell. Alright. Okay.
+
+
+Austin: Mm-hmm.
+
+
+Jack: Here we go.
+
+
+Austin: It says here that the Velvet Manor has a witch and maybe a counter witch? What the fuck does that mean? Why would you send this over? This isn't done. [Jack laughs] How am I supposed to— what, am I supposed to draw a counter witch without any note on what that means?
+
+
+Ali: Yeah. You just draw the first witch, and then figure out a second one.
+
+
+Austin: [chuckles] To counter the first.
+
+
+Ali: Like it’s hard. [laughs] 
+
+
+Austin: Ah, the United Hamlets. That game was great, too. Was that...Bell Songs. Bell Songs was also fantastic.
+
+
+Jack: Ruled by the hamlets? [laughs] 
+
+
+Austin: Yeah, you should listen to Bell Songs, Jack. If you haven’t listened to Bell Songs, there's so many...I know you're technically the composer of Friends at the Table, but I'm gonna say that Art, Keith, and I wrote— 
+
+
+Jack: I've heard there are some really good songs going there, yeah.
+
+
+Austin: Some of the best songs. Really, some of the best song, if I remember right. There's only one song. [Jack laughs] 
+
+
+Art: No, there's two songs. Each half had one song, as we couldn't remember the song the second time. 
+
+
+Austin: Right. Right. [Ali laughs] 
+
+
+Jack: What can you tell me about the Coalition of Owls?
+
+
+Austin: Oh. They control a forest that runs across the northwest of Vyrd. They were in between the United Hamlets and the Cavern of Bees, and we had to cross through it. And the Owls— Art played a fantastic owl. I can hear Art’s owl voice in my head right now. [Jack chuckles] If I remember right, they give badges or something to people who’ve done them favors, so that they can cross the Coalition's like territory without being eaten. They're very big. 
+
+
+Dre: Mmm.
+
+
+Austin: They're giant owls, so. Or I guess everything else is very little, but I think for the sake of Quest, like Bell Songs people are the same...are three to eight feet, you know what I mean? 
+
+
+Jack: Mmm. Mm-hmm.
+
+
+Austin: So that means these owls must be 20 to 30 feet, you know?
+
+
+Jack: Big fucking owls.
+
+
+Austin: Big owls. They got a whole coalition going on. 
+
+
+Jack: Oh, yeah.
+
+
+Austin: So.
+
+
+Ali: Yeah. Organized owls. 
+
+
+Austin: Yeah.
+
+
+Ali: Can we...I have a question.
+
+
+Austin: Yes. 
+
+
+Ali: So, one of the Quest like sample “I'm from”s... 
+
+
+Austin: Yes. 
+
+
+Ali: Is a traveling caravan?
+
+
+Austin: Sure.
+
+
+Ali: I'm into it, and I want to do that. But like, should I assign that place—
+
+
+Austin: Eh, just say a traveling caravan for now.
+
+
+Ali: Yeah.
+
+
+Austin: And then if you have a good idea, we can come up with how it connects in. 
+
+
+Ali: You know.
+
+
+Austin: This is a very light game in terms of like, what we're doing with it, you know what I mean?
+
+
+Ali: Right.
+
+
+Austin: What I would say, maybe— 
+
+
+Ali: Also, caravans go to and fro, you know? So like... [laughs]
+
+
+Austin: Exactly. Yeah, that's exactly it, right? Yeah. So, they're everywhere. And there is a map to this place that's like very loose. I'll pull that up for you all right now. It's actually not very loose. It's actually very...it’s very done, but it's just not very pretty. [Ali laughs] So, you can kind of see where things are in this world as you're looking at these locations. 
+
+
+Ali: Sure.
+
+
+Austin: So. Ithrasea is the place in Spoken Magic where you went to where there was like a...like, religion tourism happening. Crystalline Forest— this is like the whole...when I built this, I was like, I have to be able to map out Spoken Magic's literal journey. And so it was like, Jungle of the Panther Queen, to the Crystalline Forest, to the shores of terror, up to Ithrasea, across the Meadow Eternal, to the Tomb of Glass and Dragon, out to the Gilded Reef. And then it gets a little weird, ‘cause I think then it has to go like to Harrow Hall, I think? And that's a big jump. But I don't know. We went past...we went northwest a little bit. It's fine. And so on. And then you see the United Hamlets is very close to the Cavern of Bees, and the Cavern of Bees is kind of on this mountain range that you can't see here because it's just a black line. But there's a mountain range there that separates it from Demaréé, which is the big bee city from Downfall. And that's just like hanging out like high up in the skies of Byllo, which is also where Tsubomi-cho from—I keep forgetting the name of that game—Golden Sky Stories is, so. All sorts of stuff. Is the rest of your caravan skeletal? Or are you a skeleton in a caravan?
+
+
+Ali: I think I am a skeleton in a caravan. 
+
+
+Austin: Gotcha. [Ali chuckles] And then what is your...what are your people known for?
+
+
+Ali: My people are known for making and selling fine lanterns.
+
+
+Austin: Ooh, a lantern caravan. That's fun.
+
+
+Ali: Mm-hmm. Mm-hmm.
+
+
+Austin: And what has brought you...I guess that's...well, that’s the next thing. The next thing is sort of like your beliefs and stuff, so we'll get there.
+
+
+Ali: Ah.
+
+
+Austin: Anyone else have their location stuff? Art, you’ve already gone. We need, what, Jack?
+
+
+Jack: I think I could go for...yeah, I could go for one. I think I am from… [sighs] The Marchmont International—
+
+
+Austin: Ah.
+
+
+Jack: —School of Medicine.
+
+
+Austin: Love that.
+
+
+Jack: So, this is not an Nievelmarch. This is…
+
+
+Austin: No. Somewhere else in the vicinity?
+
+
+Jack: Within the realms of Marchmont. And I'm picturing like a sort of like massive Gormenghast style castle, like—
+
+
+Austin: Mm-hmm.
+
+
+Jack: But with less of a medieval vibe and more of like British mid century industrial or white collar architecture of just like, you know, [serious, pretentious voice] this is where people go to learn medicine. And inside there are like medical theaters with people on wooden benches and tables and students taking and then having raucous parties in the night—
+
+
+Austin: Mmm.
+
+
+Jack: And professors waking up and banging on doors with their canes, and, you know.
+
+
+Austin: Mm-hmm. [chuckles] 
+
+
+Jack: So, this has been Marchmont International School of Medicine. It accepts— it says it accepts students from anywhere. Where my people are known for the foremost understanding and teaching of the art of...of the arts of life and death.
+
+
+Austin: Mmm. 
+
+
+Jack: Now, you might be wondering. Proctor so-and-so, I don't know what his name is, the dean of this place.
+
+
+Austin: Mm-hmm.
+
+
+Jack: Aren’t maybe the Wizards or the Warriors in charge of the arts of life and death? To which Proctor so-and-so would say, “Well, do they know what a spleen is?” [Austin laughs] He's like a real dick.
+
+
+Austin: That guy sucks.
+
+
+Jack: Yeah. That guy sucks.
+
+
+Austin: Okay. I think that’s...is that everybody? That's everybody. Next thing. Believe in something: choose an ideal that guides your behavior. This is your moral core, the belief that will help you know what your character might do in lots of situations. You can choose one of these or create your own. 
+
+
+[0:50:00]
+
+
+Austin: So, examples of these might be compassion: you believe people deserve mercy and safety. I know it will delay us, but we should help the stranger first. Or power: you think those who are strong deserve to make the rules. The only law that manifests is the law of force. Roan has: I believe in cultivation, mentorship, counsel, et cetera, but my— and this is the second half of this, is vulnerability. Let's— actually, I’ll read vulnerability too, and that way you can think of these as a pair. Be vulnerable: nobody's perfect. Choose a flaw to make your character complicated and believable. Like your ideal, you're free to choose one of these suggestions or create your own. Roan's is lethargic: I am scarred and tired. Which is to say, you know, Roan, they’re an old warrior. They've done a lot already, and they're a little like...they drag their feet a little bit sometimes. For the sake of knowing what other people's stuff is, Mana Mixup believes in pleasure, but her overeager side can get in her way. Odette Van Ives believes in compassion, but her indulgent side can get in her way. And March Manera believes in salvation, but his distractibility side can get in his way.
+
+
+Art: Should we endeavor not to repeat?
+
+
+Austin: Eh. It's fine, you know what I mean? Like, endeavor not to, but endeavor more softly than in like a main season campaign, you know?
+
+
+Art: Alright. I just also want to take compassion. 
+
+
+Austin: Compassion’s a good thing to have. 
+
+
+Art: But I could change it to honor. Let’s do that, yeah.
+
+
+Austin: What's honor say? “You believe in a code. It's your duty to uphold it. I made a promise, and I must fulfill it at all costs.” That's fun. Yeah, I think that that also fits some of the Hank Hill vibe, right?
+
+
+Art: Yeah. And then vanity in the sense that you care about how you're perceived, but like, I'm using vain as like a social pressure. 
+
+
+Austin: Right. Right. 
+
+
+Art: Like not about like how pretty am I but how...how am I perceived by the community? 
+
+
+Austin: Yeah.
+
+
+Art: How am I…
+
+
+Austin: Deeply normative. I don't want to— 
+
+
+Art: Maybe there’s a better word than vain. Yeah.
+
+
+Austin: I know what you mean, though. Like, you don't want to rock the boat. You want to just kind of like…
+
+
+Art: Yeah. Conformist side feels a little too like…
+
+
+Austin: Conformist. Eh.
+
+
+Art: Feels a little edgy middle schooler for me, but I'll write it. I'll…
+
+
+Austin: [amused] Write it.
+
+
+Art: Alright. 
+
+
+Austin: Yeah. 
+
+
+Jack: I have one.
+
+
+Austin: What is it?
+
+
+Jack: I believe in pragmatism. What does it say here? I’m on the vulnerability page. It says, “You value logic and efficiency above other concerns.” But my conservative side can get in the way. And this is kind of just like two sides of the same coin. I think Dr. Cooperforth is like, look, we can solve any problem. And I think Dr. Cooperforth is also like, there is a fact in the universe and we just have to find what that fact is. 
+
+
+Austin: Right. 
+
+
+Jack: And then we'll solve it.
+
+
+Austin: And then that'll be it, and we’ll be fine. 
+
+
+Jack: Yep. 
+
+
+Austin: Love it.
+
+
+Jack: Objectivity, you love to see it.
+
+
+Austin: [laughs] Dre or Ali? Feeling any which way?
+
+
+Dre: Yeah.
+
+
+Ali: [softly] Yeah, I can...Dre, go ahead.
+
+
+Dre: Sure. I believe in generosity, but my reckless side can get in the way. 
+
+
+Austin: Mmm.
+
+
+Dre: Just reading the example for reckless is, “Wow, that's a lot of tigers. Time to go pet the big kitties,” [Austin chuckles] was like, ah yeah, that's that's the vibe I'm going for here, so.
+
+
+Austin: That’s 22s for sure. [Ali laughs] 
+
+
+Dre: Mm-hmm.
+
+
+Austin: God.
+
+
+Ali: I believe...I believe in. [laughs] I believe in the ends.
+
+
+Austin: Mmm.
+
+
+Ali: But my foolish side can get in my way.
+
+
+Austin: Their thing on the ends is: “You don't care what it takes, as long as you get where you're going.”
+
+
+Ali: Uh huh.
+
+
+Austin: “Sure, a lot of people got eaten, but it was worth it.” [Austin, Ali, and Jack laugh] And what was your— your foolish side. Okay.
+
+
+Jack: Yeah. Ooh, what does this big red button do?
+
+
+Austin: [laughs] Great heroes. Uh huh. [Ali laughs] “Everyone thinks it's a silly idea. That's exactly why you do it.” Fantastic.
+
+
+Ali: The ends is so funny.
+
+
+Austin: It is.
+
+
+Ali: We’re— it's fine. [laughs] 
+
+
+Austin: Listen. You get there. Uh huh. Finally, number seven, dream big. Finally, give your character a dream to work towards, a reason that fuels their desire. I dream of blank. For Roan, it is writing a book that's found in every home. For Odette...did I put Odette? There we go. It's becoming a master performer slash artisan. For March, it is...nothing. Keith didn't write anything down. [laughs] And then when I asked the next session, Keith still hadn't written anything down. And then the third session, that was also the case. Mana: “I dream of being a world famous illusionist,” and then a little heart, so.
+
+
+Ali: Yeah.
+
+
+Austin: Mm-hmm. 
+
+
+Art: I got one. 
+
+
+Austin: What is it?
+
+
+Art: I dream of having a simple home at the edge of a black hole.
+
+
+Jack: Whoa!
+
+
+Austin: That's fun. Is that one of these or did you make that up?
+
+
+Jack: I love Outer Wilds.
+
+
+Art: I hope— I hope I didn't. [Austin chuckles] I hope that's not one of them. I thought I made it up.
+
+
+Austin: I don’t see it. Yeah. Uh huh. Great. [Ali laughs] Love that.
+
+
+Art: I want to say I'm flexible about whether it's a literal or metaphorical black hole.
+
+
+Austin: I appreciate that. Can you write that next to it? So I have that in mind. There's some flexibility. Or like a magical black hole would be fine, presumably?
+
+
+Art: Yeah, or like just something that is like a black hole.
+
+
+Austin: Right, right. I got you.
+
+
+Ali: Mmm.
+
+
+Austin: But not as simple as a chasm.
+
+
+Art: No, that's not like a black hole.
+
+
+Austin: What about...what if it was a complex home, but then the black hole wasn't as fancy as a black hole? Do you know what I mean? Is this a...is there a chart here?
+
+
+Art: No, if it's a complex home, it has to be more black holey.
+
+
+Austin: Oh, so those two things are linked going up, not going...
+
+
+Art: Yeah. If you're gonna go…
+
+
+Austin: I get it.
+
+
+Art: Yeah, if you're gonna go one way, it's gotta go the other way. 
+
+
+Austin: I getcha.
+
+
+Art: if it's a complex home, it has to be within the event horizon of a black hole.
+
+
+Austin: I see. I see. So that can go the other way, then. [chuckles] Like a little shack next to a hole in the ground.
+
+
+Art: No, I don't think that works either. [Austin and Jack laugh] 
+
+
+Austin: A sleeping bag near a garbage can. Is that acceptable? Is that…
+
+
+Art: I think you have to think of a simple home as maybe the nadir of a bell curve. 
+
+
+Austin: I see. 
+
+
+Art: So I think either way it has to…
+
+
+Austin: In both directions, the black hole has to get bigger.
+
+
+Art: Yeah, it has to be a very nice house [Austin laughs] far from a black hole. Yeah. 
+
+
+Austin: And a really— okay. 
+
+
+Art: I’ll have a graph for the next...
+
+
+Austin: What about a mansion with a trash compactor? Or a garbage disposal.
+
+
+Art: With a tr— no, mmm.
+
+
+Austin:  How about a garbage disposal? It’s like a really little black hole you put stuff in. 
+
+
+Art: I think the gravity part of the black hole is really the…
+
+
+Austin: Mmm.
+
+
+Art: The force.
+
+
+Austin: I gotcha.
+
+
+Art: The cosmic force is really what I'm talking about, in a way that I don't feel like a garbage disposal really does.
+
+
+Austin: It's not just a place stuff goes. I gotcha. Yeah. Perfect. Drinking my beer standing next to the black hole, with my buds. [Ali laughs] Alright, Dre.
+
+
+Dre: Yeah. I dream of befriending a creature that has never been seen before.
+
+
+Austin: Aww. Nice.
+
+
+Jack: Ah, sick. 
+
+
+Austin: Shoutouts to that creature. Jack or Ali?
+
+
+Ali: I feel like this is a tough one for me. 
+
+
+Austin: Yeah.
+
+
+Ali: Just ‘cause I, like my modern American life is so far from what a skeleton would be out about doing, that like it’s hard for me…
+
+
+Jack: I—
+
+
+Ali: Like, if you were a skeleton, what would your…
+
+
+Austin: But you're a skeleton who's been living for years, question mark?
+
+
+Ali: Right. Yeah, yeah, yeah. 
+
+
+Austin: In a caravan, right? Selling lamps.
+
+
+Ali: No, I— but like, you know.
+
+
+Austin: Lanterns, sorry. 
+
+
+Ali: Yeah.
+
+
+Austin: I am not above— or, I don't think we need to be above, like, just picking one from this list that we think is fun.
+
+
+Ali: [laughs] I know, I know.
+
+
+Austin: You know what I mean? 
+
+
+Ali: It's just...it's a tricky thing to...
+
+
+Austin: Like, if you want to become a notorious gambler or find the source of eternal life—
+
+
+Ali: Sure. Yeah. 
+
+
+Austin: Or...you know. Meet your parents for the first time. I guess you're a skeleton.
+
+
+Ali: Right. I just feel like being a skeleton is like such a specific version of being alive, that like… [laughs] 
+
+
+Austin: Fair.
+
+
+Ali: I just...you know, I’m just trying to think of what the ambition would be. But I'm not the only skeleton who's out and about, so it's like not that. 
+
+
+Austin: Right. That's the thing, right? It’s...
+
+
+Ali: Like, I probably know a skeleton who is like a really good lawyer. And like, that’s fine.
+
+
+Austin: Definitely. A hundred percent know a skeleton lawyer. Definitely. A good one.
+
+
+Dre: Yeah.
+
+
+Austin: You probably know a bad one.
+
+
+Ali: Yeah.
+
+
+Austin: Or you know of a bad one. There's stories about a bad one. You’re like, oh, don’t fuck with that one.
+
+
+Ali: Don’t call that one, yeah.
+
+
+Austin: That guy’s no good.
+
+
+Art: Skeleton lawyer jokes are the worst. [Austin laughs] 
+
+
+Ali: Mmm.
+
+
+Art: I don't have one, but I will. I'll get one. [Ali laughs] 
+
+
+Austin: We’ll get there. Uh huh.
+
+
+Ali: Also, I can talk to squirrels. I'm out here talking to squirrels. What’s that life like? 
+
+
+Austin: I don't know.
+
+
+Ali: What would I want if I could do that? [laughs] 
+
+
+Austin: These are all good questions. [Jack laughs] 
+
+
+Ali: You know, it's tough. Games are hard.
+
+
+Austin: We can come back around, maybe after you've seen moves and abilities and stuff. 
+
+
+Ali: Yeah. 59:33
+
+
+Austin: Jack, do you have one?
+
+
+Jack: Yeah. I dream of tenure [Austin chuckles] and an end to death.
+
+
+Austin: Okay. In that order? 
+
+
+Jack: Mm-hmm. 
+
+
+Austin: Figure the first one frees you up to kind of research the latter a little bit, probably, right?
+
+
+Ali: Mm-hmm.
+
+
+Jack: Yeah, totally. And academia is so difficult, so once you've got that sort— you know, you try and clear the high bar first—
+
+
+Austin: Yeah.
+
+
+Jack: —before you work on an end to death. 
+
+
+Austin: Yeah. [chuckles] Alright. Step eight.
+
+
+Ali: You know what I dream of?
+
+
+[1:00:00]
+
+
+Austin: What's that? 
+
+
+Ali: [laughs] Mapping the entire world.
+
+
+Austin: Okay. That's fun. Yeah, you're from a caravan.
+
+
+Jack: Exploring, carrying your aquarium globe around.
+
+
+Ali: Walking around with my guys. Yeah.
+
+
+Austin: Yeah. That's fun. [Ali laughs] Gear up. Your character profile is finished. Now grab your character worksheet, page 17. You may choose any three common weapons. Additionally, you may choose any one useful item on this list. You begin the game with these items, so be sure to mark them in your inventory.
+
+
+Austin: The...let me talk, I guess, a little bit about this inventory page. This is your character worksheet. You get to track your hit points, Adventure Points, and items here. If you take a look at like abilities, I think abilities is where like...I think its abilities has hit points and stuff on it, right? Yeah. There we go. And Adventure Points. And that's also where you'll write your abilities. You’re free to stash things anywhere, like on a horse or in your home. But a character can only personally carry a total of twelve things. [Austin and Jack chuckle] Each of your twelve things should be reasonably able to fit in a backpack or on your person. You can choose any configuration of packs, but all together they can only hold twelve things. If something is a kit, like a sewing or first aid kit, it only counts as one thing. The outfit you're wearing and miscellaneous items that are mundane in— uh, sorry. That you're wearing and miscellaneous items that are mundane in your weight list, like a personal letter, a pen, or a decorative pin, don't count against the limit. The Guide, who is me, is responsible for deciding what counts against your inventory limit. So, yeah, you get to pick, at this point, three common weapons if that's a thing you need. And then one of these items that is on page 29. As a note, one, you are unarmed. You are not— sorry. If you're unarmed, that's still a weapon. You're not obligated to carry a weapon. But in desperate times, you can always use your body as one. Remember, your unarmed attacks like punches and kicks do one damage. You can also make unarmed attacks with extra style. For instance, if you want to throw a book at someone really hard, you can count as an unarmed attack that still deals one damage. Common weapons—like swords, bows, spears, hammers, knives and more—deal two damage each. You can choose any three common weapons to start the game. If you choose a ranged weapon like a bow or a crossbow, you must also use one of your item slots for ammunition. You don't need to keep track of how much ammunition you have, but you might run out if you lose equipment. And then—
+
+
+Art: What do I need three weapons for if they all do the same thing?
+
+
+Austin: They don't all do the same thing, because it's a story game. A bow might do two damage and a sword might do two damage, but you use them in much different circumstances. It might be more dangerous to use a dagger against someone who has a spear than if you had a spear yourself, for instance, right?
+
+
+Art: Mmm.
+
+
+Austin: Things like ranges are different. If you had a big spear, you could pole vault with it. You could tell me you’re pole vaulting with it. Whereas if you had a dagger, I don't think that that's potentially available to you. [laughs] You know?
+
+
+Art: I think you're underrating the danger in pole vaulting with a spear.
+
+
+Austin: Eh. It's a high adventure game. I think you're underrating how much this is a cartoon. [Ali laughs] 
+
+
+Art: Mmm. Don’t cut your hands, is what I'm saying.
+
+
+Austin: Don't use the blade part! You're using...you put the blade in the ground, and then pole vault with it. You're not—
+
+
+Art: Oh, I don't like that either.
+
+
+Austin: Okay. [Ali laughs] Art’s never watched Looney Tunes or fucking anime, apparently.
+
+
+Ali: What's the blade in the ground hesitation there?
+
+
+Austin: Eh, it’s gonna break.
+
+
+Art: I feel like you're losing a lot of surface area.
+
+
+Austin: Okay. [chuckles] 
+
+
+Ali: Mmm. Okay. [laughs]  
+
+
+Art: I think you're gonna fall sideways. 
+
+
+Austin: Mm-hmm. [chuckles] I guess, for the record, Roan—just so I can keep you all updated on my character—Roan began with a gun staff. A gun staff. It's the same weapon. It's just the two sides of the weapon. A long knife, and then black powder and pellets for the ammo, and then a magic flask. But I didn't put anything in that flask, 'cause Keith has, like, a monk detective ghost, so I was like, damn, one upped me. I don't know. [Ali laughs] I think it’s just good water in here. I don't know. [laughs] 
+
+
+Ali: Yeah, some fantasy Gatorade.
+
+
+Austin: Fantasy Gatorade, exactly. Useful items include things— you can take one of these as well to begin with. Lock picks, a set of five lock tricks that can be used to try to bypass doors and other things. Magic rope, a 50 foot rope that can automatically coil itself. It can also shrink to the size of a spool of yarn for easy carrying and expand back to its normal size on its owners command. A magic flask that automatically replenishes itself with the spirit of your choice, choose once. Keith, again, really working the rules on that one. Magic candle, a powerful candle that can light itself and snuff itself out on its owner's command, drips wax but never seems to lose any. Kiln gauze, a container of magic gauze that can be used to repair broken metal weapons like swords. When the gauze is wrapped around a severed weapon, it welds the weapon back together in a flash. There's enough gauze in each container to repair one weapon. A friend flute. This is a small magic whistle that knows who your friends are. [laughs] That would be great if that was the end of the sentence, [Ali laughs] the end of the description. When you blow in the whistle, only your friends nearby can hear its sound. 
+
+
+Ali: Mmm.
+
+
+Austin: Sky caller amulets, a pair of magical amulets that allow their owners to communicate with each other at any distance within the same world. When held in the hand, the amulets allow the bearers to communicate with each other telepathically by wishing for the link to be created. Each pair of amulets can only communicate with each other and can only be activated up to three times a day. Each time the link is activated, the wearer may communicate for up to five minutes. And Brel’s tent in a tin. I think I've changed this to one of the Spoken Magic names’ tent in a tin. A colorful tin canister that is magically pressurized. When you unlock the canister and set it on the ground, the lid blows off a few moments later, deploying a large magical tent that can fit thirty people. Sound cannot escape inside of the tent. A switch on the side of the tin teleports the tent back inside and closes the lid. [chuckles] 
+
+
+Ali: Wowee. I have a question.
+
+
+Art: Dibs. [Austin and Ali laugh] 
+
+
+Austin: Uh huh?
+
+
+Ali: How does the friend flute handle breakups?
+
+
+Art: Oooh.
+
+
+Austin: That's a good question. I think it’s a play to find out what happens, isn’t it? [Ali laughs] 
+
+
+Art: Ah. There's a very sad song about it.
+
+
+Ali: Ah, uh huh.
+
+
+Art: But unfortunately, the person who was broken up with couldn't hear it, ‘cause it was composed on the friend flute. [Ali and Austin laugh] 
+
+
+Austin: Oh, damn. RIP.
+
+
+Ali: So, it's up to three weapons and one useful item? 
+
+
+Austin: And one utility item. One of these items, yeah. 
+
+
+Ali: Wonderful. 
+
+
+Austin: Totally.
+
+
+Art: I'm ready.
+
+
+Austin: Yeah. Tell me what you got.
+
+
+Art: Staff, parentheses, wizard. 
+
+
+Austin: Good. A wizard staff. 
+
+
+Art: Hammer.
+
+
+Austin: Yeah, uh huh. You can build things with a hammer.
+
+
+Art: A knife.
+
+
+Austin: Oh, wait, you're— of course you got a hammer. You're a carpenter. 
+
+
+Art: Yeah.
+
+
+Austin: Right? So a hammer and a knife. 
+
+
+Art: Yeah.
+
+
+Austin: Sure.
+
+
+Art: A hammer and a knife.
+
+
+Austin: Yeah.
+
+
+Art: And then the tent in a tin, ‘cause that sounds great. 
+
+
+Austin: Okay, good. [chuckles] 
+
+
+Art: Gonna use it all the time.
+
+
+Austin: [laughs] Fuck, what were our Spoken Magic character names? [typing]
+
+
+Art: Is that on Roll20 still?
+ 
+Austin: I mean, yeah, but I can get it quicker.
+
+
+Jack: I was Domenico Smokeacre.
+
+
+Austin: Right, of course.
+
+
+Jack: Art was Eze Ki’el.
+
+
+Art: Mmm.
+
+
+Austin: Oh, fuck!
+
+
+Ali: Huh?
+
+
+Jack: What?
+
+
+Austin: It's fine. [laughs] I’m gonna just type something. [laughs] One second. Let me just go over here into our podcast chat. [Dre laughs] [typing] Unrelated to the one Art played in Spoken Magic, FYI. Okay, that's a little private note for a different season. [Jack, Ali, and Art laugh] Very funny. Anyway. Jack, you seem to have three things. Or wait, you— 
+
+
+Jack: Well, so...
+
+
+Austin: Hmm. Yeah.
+
+
+Jack: I think I need one more.
+
+
+Austin: You do.
+
+
+Jack: So, my gunpowder and bullets will count as one of my weapon slots?
+
+
+Austin: I don't think they do. I think you can take...
+
+
+Jack: So I can basically get like three weapons plus gunpowder and bullets plus thing?
+
+
+Austin: Yeah. Yes.
+
+
+Jack: Yeah.
+
+
+Austin: Yeah, it just takes up a slot.
+
+
+Jack: Okay.
+
+
+Austin: Alright, then, let's go to Dre. Dre, did we get you? No. Dre, you're up.
+
+
+Dre: Yeah. Alright, my three common weapons are a big walking stick—
+
+
+Austin: Mm-hmm.
+
+
+Dre: A slingshot and a set of stones to sling shoot. And then I picked the magic rope. 
+
+
+Austin: Perfect. Magic rope seems really good. 
+
+
+Dre: Mm-hmm.
+
+
+Austin: Yeah, so— right, okay. Well, no. Okay, really quick. This is unrelated to you, Dre. Your stuff is great. Love it. Except, actually, you get a third thing, because you only picked two weapons here. You got a big stick and a slingshot. The stones I'm saying don’t count, if you don't—
+
+
+Dre: Oh.
+
+
+Austin: If you want a third thing.
+.
+Dre: Oh. Are we just going against what it says in the book?
+
+
+Austin: Oh, does the book explicitly say you can't?
+
+
+Dre: Yeah. It says if you choose a ranged weapon, you must also use one of your item slots for it.
+
+
+Austin: Oh, I missed that line. Then, yeah. 
+
+
+Dre: Mm-hmm.
+
+
+Austin: Then, yeah, I'm going against it. 
+
+
+Jack: Oh, okay. Then I should— 
+
+
+Ali: Oh.
+
+
+Austin: You can take a third weapon if you want to. 
+
+
+Jack: Oh, I can take a third weapon.
+
+
+Dre: Oh, okay.
+
+
+Austin: Fuck it. Yeah. 
+
+
+Jack: Okay. Yeah.
+
+
+Austin: I'm saying this because of how I did this already that way. [Ali laughs] And if it works for me, it works for everybody.
+
+
+Ali: So, here's the thing.
+
+
+Austin: Mm hmm.
+
+
+Ali: [laughs] Is that I do want a whistle—
+
+
+Austin: Yeah.
+
+
+Ali: —that’s like, not the friend flute, but is like, you know, has other uses for making noises.
+
+
+Austin: Just like, a whistle. Just like a—
+
+
+Ali: Just a whistle. 
+
+
+Austin: Yeah, you can just have a whistle. 
+
+
+Ali: Okay.
+
+
+Austin: That's one of those things that you could have on your body, like a pen or a piece of paper or whatever.
+
+
+Ali: Okay, cool.
+
+
+Austin: Yeah. 
+
+
+Jack: Does my, like, doctor's bag count?
+
+
+Austin: I think you could be expected to have...in the same way that rope is not on this list, but magic rope is, anything that would be in your basic doctor's bag should be fine. You don't need to list it. 
+
+
+[1:10:08]
+
+
+Jack: Okay, cool.
+
+
+Austin: Do you know what I mean? Like, again, anything that— 
+
+
+Jack: Yeah, yeah, yeah.
+
+
+Austin: Anything that you could fit on your body that is just regular shit is not a thing we write down.
+
+
+Jack: Okay, I'm there. Oh, sorry, no, go on, Ali.
+
+
+Ali: Oh, sure. I, yeah. Okay, so. I have a magic candle. We know the magic candle. 
+
+
+Austin: Yes, 
+
+
+Ali: [laughs] I have a set of poison throwing knives. I've written here they make you itchy. 
+
+
+Austin: Okay.
+
+
+Ali: I have a big mallet. The handle— 
+
+
+Austin: I think those might not be common. I think that that's an uncommon thing. I think you could have throwing knives—
+
+
+Ali: Sure.
+
+
+Austin: —but getting poisoned throwing knives is a gold.
+
+
+Ali: What if I’m a Ranger who’s getting the poison through the leaves and through the grounds?
+
+
+Austin: Well, then you better point me at a move you have that lets you do that. [Ali laughs] 
+
+
+Dre: They just make you itchy, though. It’s not like...
+
+
+Austin: That's a big thing. If you— I would not— 
+
+
+Ali: Sure. 
+
+
+Austin: That's a big thing. That opens up all sorts of stuff around itchiness.
+
+
+Ali: Sure. [laughs] I’m scrolling down just to check, but otherwise I'll delete it.
+
+
+Austin: No, I bet you have...I bet you can take...this is what I'm saying is, I guarantee you you probably have some shit. Some class has some shit about making their shit poisoned.
+
+
+Ali: Okay.
+
+
+Austin: Or not poisoned thereof.
+
+
+Ali: Sure.
+
+
+Austin: You might, in which case take that move, and then you can use it, you know?
+
+
+Ali: Okay, so, for now they're just knives. And then I have a big mallet. The handle fits into a loop on my orb sash, 'cause I already...
+
+
+Austin: Ooh. I love that. That's fun. Yeah.
+
+
+Ali: And I… [laughs] I also have a whistle, and I've written “makes bird noises, I guess” and it, you know.
+
+
+Austin: Yeah. Okay. That’s what I’m saying, is you don't need to give up that whistle. That doesn't need to be a slot. You can just have a whistle.
+
+
+Ali: [gasps] Oh.
+
+
+Austin: This regular shit doesn't take up any of these twelve inventory slots. 
+
+
+Ali: Okay.
+
+
+Austin: This is for weapons and magic shit, basically, right?
+
+
+Ali: Okay.
+
+
+Austin: Or big, big things. Things are like...if you were like, I also carry around, [Ali chuckles] you know, a...what's a big thing that's regular? That's neither a weapon nor magical? Some sort of like...not an— anvil’s too heavy, but, you know, like forging equipment or something.
+
+
+Ali: Sure. 
+
+
+Austin: I would say that that takes up a slot, you know? 
+
+
+Ali: Okay.
+
+
+Austin: Unless you were the Blacksmith character class, at which point I'd be like, no, of course you can just carry that stuff around, that's built into your class. [brief pause]
+
+
+Ali: That's me.
+
+
+Jack: I— 
+
+
+Austin: Okay. Art, I’ve added the word Estecar’s to your tent in a tin. I decided off mic before we started this season that our Spoken Magic wizards all just made a bunch of money as soon as the world collision happened at the end of Spoken Magic, because they were the only people who remembered that that happened and could become the three most powerful wizards in the world after that. And so they really, really, you know, were able to corner the market on crossover magic. So, just like how 
+
+
+Art: Couldn’t happen to a better or more competent group of people.
+
+
+Austin: [laughs] A more deserving trio. Jack, you were gonna say something?
+
+
+Jack: I have a breach loaded pistol. 
+
+
+Austin: Uh huh.
+
+
+Jack: The idea of a pistol that you load, [Austin chuckles] I don't...it's very funny to me. It's a small...no, a muzzle loaded pistol. 
+
+
+Austin: A muzzle loaded.
+
+
+Jack: You have to put the bullet in the front. 
+
+
+Austin: Mm-hmm.
+
+
+Jack: I have a Marchmont iron dagger, which is a dagger forged in the foundries and the factories of of Nievelmarch. 
+
+
+Austin: Mm-hmm.
+
+
+Jack: I have gunpowder and bullets for my muzzle loaded pistol, and I have a witch hazel wand blessed by a witch. Now…
+
+
+Austin: What is that? 
+
+
+Jack: This is a common item—
+
+
+Austin: Uh huh.
+
+
+Jack: Because...it is very cheap. [Ali laughs] 
+
+
+Art: Ha!
+
+
+Austin: And because it does two damage is the other thing, right?
+
+
+Jack: Yeah, uh huh.
+
+
+Austin: Got you.
+
+
+Jack: Yep, it does. I really love the idea of a wand—
+
+
+Austin: Uh huh.
+
+
+Jack: —that is from a witch or, you know, was given to you by a witch, that is entirely average.
+
+
+Austin: Just a basic, simple, nothing thing.
+
+
+Jack: Like, as you're going into Marchmont forest or whatever, the equivalent of like the park Ranger place—
+
+
+Austin: Yeah.
+
+
+Jack: You can pay someone 30 dollars, and they’ll— [Austin laughs] And it works. Like, it doesn't not work. Right.
+
+
+Austin: But it does the one thing, basically. And it does it alright. 
+
+
+Jack: I mean, who knows what it'll do. 
+
+
+Austin: Yeah.
+
+
+Jack: It might, you know. They might trip on a rock or something, but it'll do two damage.
+
+
+Austin: [chuckles] Uh huh.
+
+
+Jack: And be careful, ‘cause it's made of wood! 
+
+
+Austin: Uh huh.
+
+
+Jack: And that's it.
+
+
+Austin: Fantastic.
+
+
+Ali: I have a weapons question. 
+
+
+Austin: Sure. 
+
+
+Ali: How do you feel about a big net? 
+
+
+Austin: That’s a weapon. Absolutely. Yeah.
+
+
+Jack: Oh shit! [Jack and Ali laugh] That’s my weapon for bugs.
+
+
+Dre: That sounds like a weapon, yeah.
+
+
+Austin: That's a great weapon. 
+
+
+Art: You get hit by a net and it does two damage? [Ali laughs] 
+
+
+Austin: Well, no, you like capture the person. They fall. They hit their head on a rock. Two damage. Boom.
+
+
+Dre: Yeah. Uh huh.
+
+
+Ali: Yeah.
+
+
+Austin: You put them in the net, and then someone else stabs them while they're netted. Two damage. You know, we’re not playing D&D here. Each role is not a swing. Even in D&D, a roll isn’t a swing of the die. It's a cinematic moment, you know, for us, so.
+
+
+Ali: Sure. Yeah. Okay. Okay, I'm glad to have…
+
+
+Austin: Big net. Love it.
+
+
+Ali: Big net.
+
+
+Dre: Big net!
+
+
+Austin: Big net! [Ali laughs] Is that everybody? Does everyone have their stuff? Dre, did I get yours? No. 
+
+
+Dre: I picked my last one. I got a wrench.
+
+
+Austin: Classic robot thing to have, huh?
+
+
+Ali: Oh, there we go.
+
+
+Jack: Now that's a two damage weapon if ever there was one. I've played Bioshock.
+
+
+Austin: That’s a motherfucking two damage weapon right there. [Ali laughs] 
+
+
+Jack: Just blacked us out four health.
+
+
+Austin: Yeah.
+
+
+Jack: By these accounts.
+
+
+Austin: Alright. Now is the most fun thing, the ability catalog. Have you ever closed your eyes and wished for something magical to happen? Perhaps to talk to animals, grow wings and fly, become invisible, or travel through time and space? Quest is a magical place where those things are possible. In this section you’ll discover all the special abilities that make each role unique. In the next few pages, you'll learn important rules and keywords that explain how abilities work. How abilities work: choose six abilities for your role from this catalog before starting the game. This is your starting set of abilities, and you can use them in your first session. At the end of each game session, you may choose one new ability and learn it from the catalog. Abilities belong to learning paths like the Ranger’s Friend path shown below. You must learn abilities in each path in order from left to right, starting with the first ability in each path. You can learn abilities from all of your learning paths. 
+
+
+Ali: Ooh.
+
+
+Austin: You don't need to learn all of the abilities in one path before learning abilities in another one. For example, you could choose the first ability from each path to start the game or learn a bunch from one or two paths. You can learn as many or as few abilities on each path as you want, as long as you learn new abilities in order. In the example below, if you wanted to learn Pair Bond, you'd have to first learn Speak With Animal then Animal Partner and then Courier. Legendary abilities: There are some abilities so powerful and rare that you can only learn them if your adventure provides an opportunity. Your Guide will decide when and how your role’s legendary abilities can be learned. If you see an ability in the catalog with an activation cost, you must spend Adventure Points to use that ability. That icon is like a little black flag thing with a number in it in white. When you spend AP to activate an ability, you must immediately deduct it from your adventure point balance. Activation costs look like this, is what it says here with kind of an image here of the little black icon with the three in it. Some abilities can be used in different ways and have different multiple activation costs. Take the example below. Two AP: you create a small bolt of flame. Four AP: you create a huge fireball. In this example, you could spend two AP to create a small bolt of flame or instead spend four AP to create a huge fireball. If an activation cost has an X, it means you may choose how much AP to spend on the ability. Zero AP: if one of the ability’s features has an activation cost of zero AP, you can use it without spending AP. Let's see. Some additional things here. We don't have a spy on this set, so I don't have to read the spy's toolkit. At the table: if an ability ask you to do something at the table, it means doing it in the real world. If you can't do it, that's okay. You may ask another player to assist you or just ignore the requirement. If you're uncomfortable performing one of the game’s abilities like reading poetry, you may describe how your character performs the ability instead of doing it yourself. So don't feel like, oh, I really like this ability, but I don't want to sing in public, so I'm not gonna take the ability. We don't need to sing in public. You can. It's fun if you feel like it, but it's okay if you don't want to. Roll the die: if you see this badge, in an ability, it means you have to roll the die to see what happens when you use it. Anytime you roll the die, there is a possibility of failure. As usual, the Guide will decide what the consequences of the die roll are, but if an ability lists its own set of special consequences, the Guide will use those instead. There's a bunch of important keywords here on page 32, and so if you need— if you have a thing that you're like, I don't know, what's a minion? [chuckles] Well, first of all, pay more attention to pop culture. [Ali laughs] But if you go to 32, it'll explain that in this game, minions are creatures that are more powerful than average, like a villan’s groupies or the town guard. So actually, they're not even like minions. They're better than regular— I guess minions might be better than regular enemies.
+
+
+Dre: God damnit, Austin.
+
+
+Austin: Are minions good? I've never seen a minion.
+
+
+Art: You've never seen a minion? 
+
+
+Austin: I've seen a minion, but—
+
+
+Art: What a liar.
+
+
+Austin: I've never seen the Minions. 
+
+
+Dre: Oh, like one of the movies they’re in. 
+
+
+Austin: No.
+
+
+Ali: Oh. You didn’t see Despicable Me or anything?
+
+
+Austin: I've never seen Despicable Me, no. No.
+
+
+Ali: Those movies are— eh, they’re okay. 
+
+
+Austin: Yeah.
+
+
+Ali: (??? 1:19:50)
+
+
+Dre: They say “banana” a lot.
+
+
+Art: Those movies are of varying levels of quality.
+
+
+Austin: Uh huh. 
+
+
+Ali: Mm-hmm.
+
+
+Art: The Minions movie is god awful. 
+
+
+Austin: Ah.
+
+
+Ali: Really? 
+
+
+[1:20:00]
+
+
+Art: Oh, yeah. [Ali laughs] 
+
+
+Austin: Mm-hmm.
+
+
+Art: I don't want to, like, speak too broadly here—
+
+
+Ali: Mmm.
+
+
+Art: —but any modern movie set in 1960s England is bad. [Ali, Austin, and Jack laugh] 
+
+
+Austin: Okay, well.
+
+
+Dre: Yeah, yeah, yeah.
+
+
+Jack: Oh, you know. Yeah, Art, I'm not gonna argue with that.
+
+
+Art: I'm not gonna interrogate this too closely, 'cause it might not be true, but it really feels true.
+
+
+Austin: Sure. Okay.
+
+
+Ali: Yeah. Okay. I won't…
+
+
+Austin: Yeah, won’t go further on that one.
+
+
+Ali: Mm-hmm.
+
+
+Art: And anything that...any movie that features the song “London Calling.”
+
+
+Austin: Any movie that features “London Calling”?
+
+
+Art: Any movie that like...that has a scene where— 
+
+
+Austin: Why was that song in that— that song is not from the 60s. Why would it be in that movie? 
+
+
+Art: I don't know that it is, but it feels like— [Austin and Ali laugh] I feel like there's this thing where when like a show or a movie goes to London—
+
+
+Austin: Mm-hmm.
+
+
+Ali: Mmm.
+
+
+Art: —they play “London Calling.”
+
+
+Austin: Mmm.
+
+
+Jack: Hold on a second. 
+
+
+Art: Yeah.
+
+
+Jack: Art, are you doing make up a guy to get mad at? [Ali and Art laugh] Except with the idea that “London Calling” might be in the movie The Minions, and that's enough?
+
+
+Austin: Have you seen this movie, Art?
+
+
+Art: Yeah. Oh yeah. Uh huh. [Jack laughs] 
+
+
+Austin: Okay. Just, you know, I feel like I had reason to ask.
+
+
+Jack: Ah, what are some other movies I'm mad at because they might have “London Calling” in them? Fucking Watch Dogs: Legion.
+
+
+Austin: [laughs] That must, right? I played that game. I don't remember if they got that one.
+
+
+Ali: How many…
+
+
+Austin: Six abilities.
+
+
+Ali: Six?
+
+
+Austin: And a thing— 
+
+
+Art: Just like, when was the last time you heard “London Calling” and were like, “Yeah!”
+
+
+Austin: That song is alright. I was just looking at the cover of that the other day, because of...I guess a couple of weeks ago. Why was I looking at that? [typing] Why would I have been doing— oh, because Phoebe Bridgers smashed the guitar, and a bunch of assholes were like…
+
+
+Jack: Oh! [laughs] 
+
+
+Austin: “Nyeeeh!” And then a bunch of people decided to reply to that with the cover of “London Calling,” which—
+
+
+Ali: Ah.
+
+
+Austin: It features someone breaking a bass guitar.
+
+
+Jack: And those things are heavy.
+
+
+Austin: Those things are heavy, so.
+
+
+Dre: Those things are heavy. 
+
+
+Austin: Yeah.
+
+
+Jack: I have my abilities.
+
+
+Austin: Ah, wait, wait. Don't...I need to finish talking, because there is something that might make you want to change your abilities.
+
+
+Jack: Oh, sure.
+
+
+Austin: And I wanted to actually say that first, which is...and this comes out of a hack that we've added to the game from when we played our first session.
+
+
+Dre: Ah.
+
+
+Austin: And that is...let me just find it here. Let's say...okay, so, part of this is just like, y'all haven't played this yet, and so one of the things you might not know is...here's a situation. Let's just...here’s like a little quick one. There's a little chasm in front of you that's, you know, seven feet in in length, pretty far. What do you do? Someone tell me a thing your character might do to try to cross this chasm. 
+
+
+Dre: Uh, jump.
+
+
+Ali: Mm-hmm.
+
+
+Austin: Alright. Roll D20. 
+
+
+Jack: Huh!
+
+
+Austin: That's a two, so that's gonna be bad no matter what. That's a failure, right? 
+
+
+Dre: Yeah. Mm-hmm.
+
+
+Austin: This is the way all dice rolls work in this game by default. There is not...in this game, there is not a skill system or a improvement system outside of the abilities that you get, right? And I like this as a true fact about the world. It's why I talked about luck being what you do. I think there is something...here it is. Because the chance to succeed is always the same in a dice roll, it is not a test of skill. It is a test of fate. Players only need to roll the die once to see what happens in any given situation. For example, let's say a player rolls a success on an attack against a monster. The outcome on an attack— sorry, the outcome of that role is all you need to describe the consequences of an entire situation. Because the player was successful, it’s assumed the target of the attack was not successful in avoiding it. If you invent your own abilities and situations, design them around this rule. For example, if you create a spiky floor trap that a player walks over, you might ask the player to roll the die to see if they dodge it. But you're not adding stats to it, because in this world it is not about are you skilled enough? It's are you fated enough. And for me that had a really sweet synchronicity with the idea of like, you know who doesn't get to level up in games really, is NPCs. It's rare that you're like, that character's gotten better. In fact, this is why things like Shadow of Mordor’s orcs who come back and they're better felt so distinct, was because that never happens in games. But one of the things that we found was it was very hard— outside of abilities and like deferring to “can I do this?” and me saying like, “well, yeah, you're the spy, so you should be able to do this” versus “you're the magician, you should be able to do this,” it became very easy to feel like there was no mechanical differentiation between characters. And so a thing that we decided, that I pitched and then we used it in the second full session and it worked really well, is that if you have an ability in a path...for every ability you have in a path, that path is like a skill that you could use on a roll. And I think, likewise, it's also maybe how we decided helping should work. I’d have to go back and look at my notes. But in other words, Jack, you said that you were good, right? Tell me...tell me what path you have moves in at this point.
+
+
+Jack: I have moves in…
+
+
+Austin: Mm-hmm. 
+
+
+Jack: Let's see. Healing.
+
+
+Austin: Yep. 
+
+
+Jack: Alteration.
+
+
+Austin: How many do you have in healing?
+
+
+Jack: Two.
+
+
+Austin: Two. Alright. So, let's say you wanted to...let's say there was an NPC who was hurt, and you're like, “I want to see if I can stabilize them,” right? And obviously, you have moves, right? You have mend. You could just use mend. But let's say you were out of Action Points, right? That means you couldn't use mend to heal them. I could say, “Hey, roll me a D20 plus however many points you have in healing.”
+
+
+Jack: Oh, sure.
+
+
+Austin: Right? And this is fun, because your other things include things like alteration and necromancy and harm. And those are really broad. [laughs] And likewise, for instance, Ali, you have a path called like Friend, right?
+
+
+Ali: Mm-hmm.
+
+
+Austin: And that's really like...I love the idea that that's a skill you have. You have a skill called Friend. [Ali laughs] And I think as written, those moves are about being friends to like animals or something, right?
+
+
+Ali: Uh huh.
+
+
+Austin: But like, you're just friendly. You just...if you have three moves in Friend, that means you get to roll plus three when you're like trying to charm someone, you know? So I want to give...whenever you think that could apply, and we could talk about it, you know what I mean? 
+
+
+Ali: Mm-hmm.
+
+
+Austin: Like, that ends up being an almost category of thing you're good at. This is a magical thing that happened in the world. As always, whenever I hack a game or we change systems, I want it to represent something. This has been happening ever since these adventurers have been coming in contact with Vivants, the player characters. It's like their ability to level up has rubbed off, and you now feel yourself able to to touch fate, to change fate a little bit based on your skill sets. So, given that, you should look at moves, not only pick moves you think are cool, but think about the ways in which, hey, if I put two things into Friend, that's a plus two on those rolls. It's also a D20 game, which means plus two kind of sucks. [laughs] So this is enough to make it feel like there's differentiation, but not necessarily so much that it feels like you could game it a hundred percent, you know what I mean? You could still fill up a whole path and still fail in many cases, ‘cause some paths only have like two or three things. So. That said, Jack, if you're happy with your moves, you're also happy with your moves.
+
+
+Jack: Yeah, I think actually this kind of worked out well in terms of the kind of character I want to be. 
+
+
+Austin: Awesome. So, tell me about your moves.
+
+
+Jack: So. I have Mend.
+
+
+Austin: Mm-hmm.
+
+
+Jack: Which is the first on the Healing track.
+
+
+Austin: Mm-hmm.
+
+
+Jack: “You gently touch a creature, immediately restoring five HP and mending minor wounds like cuts and bruises. The spell does not remove impairments, heal permanent wounds, or cure disease. You cannot use this spell during combat,” which sucks.
+
+
+Austin: That does suck. 
+
+
+Jack: Then I have Relieve, which is also in Healing.
+
+
+Austin: But also, I just want to note, that's a very powerful spell in many ways, because if I remember right, everyone starts with ten HP. So being able to heal five is very good.
+
+
+Jack: Holy shit.
+
+
+Austin: Yeah.
+
+
+Jack: That's amazing. My second spell is the second on the Healing track.
+
+
+Austin: Mm-hmm.
+
+
+Jack: Which is Relieve: “You say something comforting to a nearby creature, alleviating them of anxiety, pain, and discomfort for one hour. In this state, the creature cannot be affected by fear or confusion. For a brief time, they feel better than they have ever felt before.” This is kind of fucked.
+
+
+Austin: [chuckles] It used to be more fucked, Jack!
+
+
+Jack: It— yeah. I have the hard copy of this book. 
+
+
+Austin: Uh huh.
+
+
+Jack: It has been really interesting to… [Austin chuckles] I was reading these moves from the hard copy earlier and going, oooh boy.
+
+
+Austin: Uh huh.
+
+
+Jack: And reading them here is good.
+
+
+Austin: This is a move that previously had an addiction component to it, if I remember correct.
+
+
+Ali: Ah.
+
+
+Jack: I read it, and I was like, why do fucking fantasy games keep doing this? [chuckles] 
+
+
+Ali: [whispering] Why?
+
+
+Austin: I don't know. Especially ones that...with this game specifically where it is presenting such a tone of like, [soft voice] this is a progressive game. We're welcoming everybody at the table.
+
+
+Jack: Softness. Uh huh.
+
+
+Austin: Soft, yeah, exactly. Soft, bright, like everyone’s here. You know, all that shit. And meanwhile, therapy is an addiction you need to be careful of, because it will twist you inside. Anyway.
+
+
+[1:30:00]
+
+
+Art: I hate when people get too much therapy. [Austin and Jack laugh] 
+
+
+Dre: Me too. 
+
+
+Austin: Ahh. But listen. But listen. But listen.
+
+
+Jack: Well, so, moving on.
+
+
+Austin: Moving on, yeah.
+
+
+Jack: Now I have… [Dre chuckles] 
+
+
+Art: Just the right amount of therapy is (??? 1:30:16).
+
+
+Jack: Sleep. Sleep.
+
+
+Austin: Okay. Sleep, from the Alteration school. 
+
+
+Jack: Sleep. Uh huh. “You whisper a brief lullaby, putting any number— [chuckles] putting any number of nearby commoners to sleep.” I understand that what they mean here is like not boss level people, but again. [Art and Austin laugh] Putting any number of nearby commoners—
+
+
+Austin: “Normal people, common animals, or average creatures. Think of them like extras in a background of a movie,” says the book. Yes. [laughs] But it is very funny to—  
+
+
+Jack: I was playing World of Warcraft earlier. There are things in World of Warcraft called peons. 
+
+
+Austin: Yeah. Uh huh.
+
+
+Dre: Mm-hmm.
+
+
+Jack: The Horde just call like orcs who are carrying stuff around peons?
+
+
+Austin: Yeah, that's a Warcraft— 
+
+
+Art: Zug zug.
+
+
+Dre: Zug zug, yeah.
+
+
+Jack: Huh.
+
+
+Austin: That's a Warcraft thing. Yeah. Uh huh. Anyway.
+
+
+Art: Warcraft invented that.
+
+
+Jack: What is going on there? I don't...I don't care for it. 
+
+
+Austin: Well, you see, Games Workshop made a game called Warhammer, and Blizzard stole it—
+
+
+Jack: Ah.
+
+
+Austin: —and kept most of it. [Dre and Jack laugh] So.
+
+
+Jack: Okay, I see.
+
+
+Dre: Yeah. Yeah, they did, huh?
+
+
+Jack: You whisper a brief lullaby— 
+
+
+Art: Who do you think’s made more money, Games Workshop or...?
+
+
+Austin: Or Activision Blizzard? Blizzard. 
+
+
+Jack: Blizzard. Activision Blizzard. Blizzard. They own Irvine.
+
+
+Austin: Have you— 
+
+
+Art: Off of this thing. Not like…
+
+
+Austin: Blizzard. A thousand percent Blizzard. Games Workshop does okay, right? They're doing well.
+
+
+Art: Their new edition of Warhammer sold out like instantly everywhere in the middle of a pandemic, so.
+
+
+Austin: Yeah.
+
+
+Art: When you definitely can't play Warhammer with anyone. It’s the least...
+
+
+Austin: [chuckles] Definitely.
+
+
+Jack: Pretty good. 
+
+
+Austin: Yeah. 
+
+
+Dre: Warhammer and graphics cards, that’s the…
+ 
+Ali: Wait.
+
+
+Jack: Yes?
+
+
+Ali: Those tables are pretty long. [all laugh]
+
+
+Austin: Yeah. Fair. You could have a friend over for like a garden Warhammer party, but you couldn’t go— 
+
+
+Jack: [distantly] How are you doing over there, Austin? 
+
+
+Austin: [distantly] I'm moving my T’au Battlesuits twelve inches closer. [laughter continues]
+
+
+Jack: [distantly] I’m gonna throw you a ruler.
+
+
+Ali: I'm just saying, if somebody wants to wear two masks and come over to play that Star Wars fighters game with the little fighters, come on through.
+
+
+Austin: Mmm, yeah. Okay.
+
+
+Jack: Yeah, totally. Get me a visa, Ali. I'm there, vaccine or no. [Ali and Austin laugh] 
+
+
+Art: I want the like garden party part of garden Warhammer party to like…
+
+
+Austin: Yeah.
+
+
+Art: I want people wearing like dresses and hats and playing Warhammer. [laughs] 
+
+
+Austin: Yeah. You gotta dress up for it. Yeah, absolutely. Sunday fits.
+
+
+Jack: Uh huh. Like, Agent 47 is here for some reason.
+
+
+Austin: Yeah.
+
+
+Art: Mmm. The Hitman level set at a board gaming convention is gonna be amazing.
+
+
+Austin: Ah! Can’t wait.
+
+
+Jack: Oh my god. 
+
+
+Ali: Oh. 
+
+
+Jack: Wow.
+
+
+Art: Does Janine take pitches? Does Janine get to decide what the…
+
+
+Austin: [sarcastic] Yeah. She loves it when people tell her to put something in the game, [Jack laughs] because of how it's in her ability to do that. She loves it so much.
+
+
+Ali: Mm-hmm. Yeah.
+
+
+Art: Great. Hold on. I'll just send her a message real quick. [exaggerated typing]
+
+
+Dre: BRB. [Austin, Ali, and Jack laugh] 
+
+
+Austin: Jack, while Art’s doing that, do want to finish reading the move Sleep?
+
+
+Jack: Totally. “You whisper a brief lullaby, putting any number of nearby commoners to sleep for up to one hour. You can write your own lullaby or borrow one from another author. Read it at the table. Creatures affected by the spell collapse and enter a dreamful state but wake up immediately if they are harmed. You can intensify the spell to affect nearby minions. Add one AP for each minion you wish to put to sleep.”
+
+
+Austin: I wanna put to sleep all them motherfuckers. [Austin and Jack laugh] That's expensive, but yeah, okay, sure. So that's one Alteration. And then what else? What else do you got here?
+
+
+Jack: Death Sense.
+
+
+Austin: Ah.
+
+
+Jack: “You naturally sense whether any remnants of the dead, brackets, spirit creatures, are nearby but not their positions.” [chuckles] There’s a ghost. Not gonna tell you where. 
+
+
+Austin: [chuckles] I don't know where!
+
+
+Jack: “The Guide will notify you when this sense is triggered.” AP one— so, that's cost free. AP one: “you sense whether any sentient creatures have died nearby and how long ago they died. You can sense the location where any creatures died as well as the general nature of their death. You sense if they were killed by natural causes, an accident, or foul play.” This is a bit like seeing the ghosts in Dark Souls games just absolutely get flattened by something that you don't know what it is.
+
+
+Austin: [laughs] Yes. It’s very good.
+
+
+Jack: AP one: “you extend your vision, allowing you to see spirit creatures who are invisible. This effect lasts until you leave the area.” I fucking love this. I don't know what spirit creatures are. I'm excited for Austin to tell us.
+
+
+Austin: Well, so far we have one. And it's a monk who's a detective [laughs] who helps Keith’s character—
+
+
+Jack: [laughs] Who’s in a bottle. Okay. Cool.
+
+
+Austin: And lives in a bottle. Yeah, uh huh.
+
+
+Dre: Mm-hmm.
+
+
+Jack: Commune With the Dead. This costs one.
+
+
+Austin: Another Necromancy. This is the second Necromancy thing you’ve had, right?
+
+
+Jack: Mmm, mm-hmm.
+
+
+Austin: Mmm.
+
+
+Jack: If you are— yeah. “If you are aware of one or more spectral creatures nearby, brackets, like ghosts—”
+
+
+Austin: Mm-hmm.
+
+
+Jack: “—you may communicate with them. You do not need to be able to see a spirit, as long as you have sensed its presence, like with the Death Sense spell. You may have a conversation with the spirits for up to a minute—spirits on the clock—and you communicate with them telepathically. You must share a language to understand each other. Spirits must want to respond. If they choose not to speak to you, your adventure point is refunded.” [chuckles] 
+
+
+Austin: That's very fun.
+
+
+Jack: Presumably by the MMO, which I think is, you know.
+
+
+Austin: Yeah. [chuckles] Well, that's the thing, is like, I don't know...we haven’t figured out if the MMO is working on— like, you don’t see menus and shit, right?
+
+
+Jack: No.
+
+
+Austin: You're living a life, right? So, in your experience, it would be like you feel that magical energy returning to your soul or whatever, you know?
+
+
+Jack: And finally, I have Corrupt.
+
+
+Austin: Mmm.
+
+
+Jack: “You grip an organic creature within reach and create a necrotizing wound.” I hate it. I hate it. 
+
+
+Austin: That's brutal. 
+
+
+Jack: Yeah. “The wound turns flesh black-green and branches out from where you touched them. The spell hits for one HP—” This is why I picked it. 
+
+
+Austin: Ah.
+
+
+Jack: “The spell hits for one HP immediately and again at the beginning of the target's next turn, a total of two damage. Affected creatures can only recover those hit points with the Restore spell.”
+
+
+Austin: Mmm.
+
+
+Jack: So, if we're talking MMO characters, I have a damage over time spell.
+
+
+Austin: You got a damage over time that cannot be healed except by a specific spell, which is brutal.
+
+
+Jack: Mm-hmm.
+
+
+Austin: Yeah, great.
+
+
+Jack: Yeah. And that's my moves.
+
+
+Austin: And that’s a Harm thing, so anytime you want to do Harm, you get a plus one to it. So that's fun. Alright. Those are your moves. 
+
+
+Jack: Yeah. 
+
+
+Austin: Love that.
+
+
+Art: Wait, is that enough moves? 
+
+
+Austin: Six. One, two, three— 
+
+
+Jack: Six, yeah.
+
+
+Austin: Four, five, six. Yep. 
+
+
+Art: Wow.
+Austin: Mm-hmm.
+
+
+Art: I really thought it was fewer than that. I don't know what's going on with me. [Austin chuckles] 
+
+
+Ali: There was an interruption. 
+
+
+Austin: Yes. [Ali laugh] Oh, there was, yes.
+
+
+Art: But it was me. But, Black Dynamite, I'm interrupting. [Austin, Ali, and Jack laugh] 
+
+
+Austin: Yeah. Uh huh. Oh, while you're on this page, everyone should quickly add— or should should write that you have ten HP and ten Adventure Points. I believe it's ten Adventure Points.
+
+
+Ali: I have mine, if…
+
+
+Austin: Yes, please.
+
+
+Ali: Sure. Okay. So, my first one is Speak With Animal. 
+
+
+Austin: Mm-hmm.
+
+
+Ali: “You touch an animal that is not currently hostile to you, forming a telepathic bond with it for the next minute. You are capable of interpreting the animal's thoughts and feelings, and you can have an exchange of communication with it. It can give basic information about things like how it feels, what it has seen, what it wants, but it does not understand complex ideas.”
+
+
+Austin: That sounds like an animal to me. Yeah. What a friend.
+
+
+Ali: Yeah.
+
+
+Jack: We got Safewater. [Ali laugh] 
+
+
+Austin: Uh huh. God, Safewater was great. Remember Safewater?
+
+
+Ali: Oh, yeah. 
+
+
+Austin: Safewater was cool. 
+
+
+Ali: The next one is— Austin, I'll go back and add the traits for this.
+
+
+Austin: No, it’s fine. I got ‘em.
+
+
+Ali: Okay.
+
+
+Austin: Yeah.
+
+
+Ali: Okay. [laughs] My next one is Track, which is...if there's like a zero thing on it, it's just like you have that, and then the one is you spend it and get it, right?
+
+
+Austin: Correct. Yeah, yeah, exactly.
+
+
+Ali: Okay. So, this one is: “when you find tracks, you can instantly identify the type of creature that left them. If it's an animal, the Guide will sure will share a fact that you know about them, like their habits or personality traits.” [Austin chuckles] And then the spend on that is…“you can pick up on the trail of an animal of your choice, even if there are no tracks nearby, as long as it is native to the environment you're currently in. You must choose a type of animal to find. like a boar or a squirrel. You can't use this to find a specific creature. You can find the creature after a short search.”
+
+
+Austin: That’s a good combo.
+
+
+Ali: So I can be like, “I want to find a squirrel,” but I can't be like, “I want to find Tony.”
+
+
+Austin: Tony the squirrel, right, yeah, exactly.
+
+
+Ali: [laughs] Yeah.
+
+
+Austin: But that's a good combo with Speak With Animal, right? Where you're like, I want to know what happened here. Can I use my track skill to find like a deer that was nearby when this happened and talk to them about like what happened here, you know?
+
+
+Ali: Yeah.
+
+
+Austin: So that’s fun.
+
+
+Ali: My next one is Read the Winds: “You concentrate on the language of the wind, sensing weather patterns in your region of the world. You are able to glimpse at a weather forecast for the next few days in the region of your world.” And then the spend is, “If you spend two AP on this ability, you may choose the weather that you foresee in the region in the next few days, as long as it is seasonally appropriate.” 
+
+
+Jack: Whoa. Great move.
+
+
+Ali: “You might choose light rain, a thunderstorm, fog, a heat wave, or any other weather pattern except for natural disasters like tornadoes or hurricanes.”
+
+
+Austin: That's very fun.
+
+
+Ali: Yeah. My next one is Remedy: “You scavenge your area for a short time to find a plant-based remedy for an ailment. You find enough for a single dose. The remedy cures temporary illnesses and eliminates poison.”
+
+
+Austin: That's the opposite of itchy daggers. 
+
+
+[1:40:00]
+
+
+Ali: Yeah. [laughs] I don’t think there’s a— 
+
+
+Austin: You could un-itchy a dagger.
+
+
+Ali: Yeah. I don't think that there's one on this that will let me itchy a dagger, though.
+
+
+Austin: I think Spy has itchy daggers, unfortunately.
+
+
+Ali: Sure. That's fine. I’ll just have to talk to…
+
+
+Austin: Yeah. Talk to Odette and see if you can borrow some itchy dagger serum.
+
+
+Ali: [sighs] Yeah.
+
+
+Austin: It’s probably a dust more than a serum. 
+
+
+Ali: I feel like if I could make an itchy dagger antidote, I should know how to make— but that's fine. [chuckles] That’s games.
+
+
+Austin: That's games.
+
+
+Ali: That’s games.
+
+
+Austin: You could also just, as soon as we start, be like, I want to go figure out how to get some itchy daggers, and that could be a fun starting adventure. 
+
+
+Ali: Sure, sure, sure, sure.
+
+
+Austin: You know?
+
+
+Ali: Yeah. Yeah, yeah, yeah. Just— 
+
+
+Austin: Also, what you're doing is flagging that you want an itchy powder, [Ali laughs] to me, and at some point you'll earn itchy powder. That's how this goes.
+
+
+Ali: I think I changed my inventory to [laughs] “A set of throwing knives. They will one day make you itchy.” So that’s…
+
+
+Austin: Good. Great. Yeah.
+
+
+Ali: The flag is there.
+
+
+Austin: As big a flag as I can read, yeah. 
+
+
+Ali: [laughs] My next thing is Commune (pronounced: COMM-une).
+
+
+Austin: Or Commune (pron: comm-UNE) probably, the other version of that word that spelled the same way, right?
+
+
+Ali: Right. Right. Yep, those are two different words. 
+
+
+Austin: Those are two different words. [Ali laughs] It’s fine.
+
+
+Ali: “You use the language of outland folks, gaining the trust of a nearby commoner. You must invent a local saying to exchange with the NPC. It could be something like ‘it's raining cats and dogs’ or ‘don't judge a book by its cover.’ Explain what it means to the table. Then—”
+ 
+Austin: I just want to really quick...points off for the writer of this book, who, again, I think this is a very interesting book that’s really good at a lot of places. You needed to invent two new sayings here. If you're asking the players to invent a local saying, you should have invented two local sayings in this text description example. [Ali laughs] That's all.
+
+
+Ali: It's important to get the vibes down.
+
+
+Austin: Okay, well, one of them should be it's raining cats and dogs. The other one should be something completely bananas that is fun. That's all.
+
+
+Ali: Sure. Sure, sure, sure. 
+
+
+Austin: Anyway.
+
+
+Ali: Sure, sure, sure. Well, now I know I have to go above and beyond when I want to use this move. 
+
+
+Austin: Mm-hmm.
+
+
+Ali: I can't just say, like, you know. [Austin chuckles] You know, what's one? What's an idiom I like? Uh, anyway. [laughs] “Explain what this means to the table. Then, if you ask any of these questions, the NPC will answer to the best of their ability: Is anyone causing trouble? [Austin chuckles] Where can I find the leader? What are folks talking about lately?” And then my next one, which I think is… [mumbles]
+
+
+Austin: Boom, got it. Survivalist.
+
+
+Ali: [laughs] Survivalist.
+
+
+Austin: So those have been Survivalist, Story and Song, Survivalist. So you got two in Survivalist.
+
+
+Ali: Uh huh.
+
+
+Austin: Pathfinder, Hunter, and Friend. So, that’s fun.
+
+
+Ali: Yeah. And then Shroud is “You entreat nearby flora to provide the party with protection while camping in wilderness. There must be plants nearby. Shrubs and thorny vines will merge around the campsite to provide concealments. The shroud lasts until you leave the camp. The shroud conceals the light from the small campfire. If hostile creatures advance on the party's campsite, the trees will rustle and howl to provide five minutes of early warning.”
+
+
+Austin: Plenty of time. 
+
+
+Ali: Yeah. [laughs] “Creatures can pass through the shroud, but they are hit for one HP if they push through.”
+
+
+Austin: Which, again, is lot in this system.
+
+
+Ali: Yeah.
+
+
+Austin: It’s not nothing. Yeah. 
+
+
+Ali: When you Regroup, which seems to be like a capital...like a proper noun in this game.
+
+
+Austin: Yeah, Regrouping is...yeah, it's like healing basically, if I remember right. 
+
+
+Ali: It's like a proper verb. [laughs] 
+
+
+Austin: Yeah. It's like a...here it is. “When you rest for a short time with no enemies nearby, you regain up to the halfway point of your maximum hit points. For example, if you Regroup while at three HP, you would recover two HP. If you Regroup while at zero HP, you would recover five HP.”
+
+
+Ali: Oh, so this says “When you Regroup inside the Shroud, your party gains the benefit of a Rest.”
+
+
+Austin: Okay, well, a Rest is not a Regroup. A Rest is better than a Regroup. A Rest says when you complete a full night's rest in a safe place, you recover all of your hit points.
+
+
+Ali: Hehe!
+
+
+Austin: So that's much better. Yeah, you’ve made a little like inn in a JRPG for people to stay in to get their full health back.
+
+
+Ali: Mm-hmm, with my little leaves, yeah.
+
+
+Austin: Yeah. I guess I'll read, just while I'm on this page, this bit about how hit points work in this game. “Your character's mortality is measured by a number called Hit Points or HP. It's simple. You lose points when you're harmed, like if you get struck by a sword. We also call this damage. Bad things happen if you run out of HP. If you're damaged while at zero HP, there's a chance you'll die. Fortunately, you're also deadly. Your basic unarmed attacks like punches and kicks deal one damage. Most common weapons like swords and bows deal two. You lose hit points when you're damaged by weapons, spells, and other things that can cause harm. For example, you can lose two HP from being hit by a sword, while standing in dragon's fire breath might harm you six HP. You begin with ten HP. This is the maximum amount of HP you can have. Injury and death: You can't be seriously hurt until you run out of hit points. But when you drop to zero HP, you're at death's door. You can't go below zero HP, but you will remain there until you Regroup, Rest or Heal. If you are hit while already at zero HP, roll the die. If the result is equal to or less than the hit, your character dies. For example, if a sword hits you for two HP while at death's door, you are killed if you roll a one or two.” So like, let's say you get hit [claps] and you drop to zero HP. Then you get hit again [claps] and then you take one damage from that. Then, you have to roll a one to die on a D20. So, it's pretty hard again to die. [Ali laughs] “If you survive a death roll, you might still fall unconscious or even receive a permanent injury. Losing a character doesn't have to mean you're out of the game. If the story isn't finished, you may start a new character and rejoin the game when it makes sense for the party to meet someone new. So, it's one of those things where it’s like, this is a pretty strict death rule in the sense that there is not like a...this is not like Heart or like Blades in the Dark or anything like that where there's like a degree of player control over that stuff. Heart is a little bit more strict, but there are still ways to navigate that as a player, especially around like end of campaign shit. But, at the same time, you know, if you're gonna do...let's say you were standing in a dragon's breath, you got six damage while you were at zero, you would still have to roll under a six— or, I guess, six or under—to resist that death and fail it to die. So you have a lot of wiggle room there. So, it's a pretty generous—maybe generous is the wrong word, but you know what I'm saying—system. Alright. Ali, those are your moves. Who is up next? Either Art or Dre.
+
+
+Dre: I can go.
+
+
+Art: I’m ready. Oh, go for it, Dre.
+
+
+Austin: Go for it. 
+
+
+Dre: Okay. Alright. My first ability is Animal Form.
+
+
+Austin: Which is Shapeshifter.
+
+
+Dre: Yes. Mm-hmm. Let me pull all these...the trees back.
+
+
+Austin: I got it.
+
+
+Dre: Yeah.
+
+
+Austin: I got it. Don't worry about it. Yeah.
+
+
+Dre: Yeah, my first three are all from Shapeshifter. 
+
+
+Austin: Damn. Well, three in Shapeshifter. Love it. 
+
+
+Dre: Mm-hmm. So, Animal Form is two AP. “You take the form of a wild animal, adapting its shape, senses, ranges, motion. You may choose any creature that is no smaller than a mouse and no larger than a horse. Everything you carry becomes a part of your animal form.”
+
+
+Austin: Great.
+
+
+Dre: Mm-hmm.
+
+
+Austin: You can keep going. Yeah. 
+
+
+Dre: Okay. “While in Animal Form, you have six HP. You may make basic attacks that hit for two HP. You can't cast spells, use items, or speak languages while transformed. You can return to your normal form at any time, and when transforming back, you regain the hit points you had before you transformed. Falling to zero hit points while transformed instantly returns you to your normal form.”
+
+
+Austin: Classic shapeshifter stuff here.
+
+
+Dre: Mm-hmm.
+
+
+Austin: Next one?
+
+
+Dre: Gills: “You enchant a small amount of water in a container you're holding. When you spritz the water on a creature, they grows small but visible gills, allowing them to breathe underwater for up to one hour. The spell enchants enough water to use six times.”
+
+
+Jack: My gill spritzer.
+
+
+Dre: Mm-hmm.
+
+
+Austin: Yeah, listen, the whole party gets gills for an hour. Love it. 
+
+
+Dre: Yep.
+
+
+Austin: For an hour? Did I say that right? Yes. It is an hour. Yeah.
+
+
+Dre: Mm-hmm. Uh huh.
+
+
+Austin: Yep. Next up?
+
+
+Dre: Steel Sprout: “You extend your hand and close your eyes, permanently turning a nearby metal object into a weave of delicate plants. The object cannot have magical properties or be larger than a door. [Austin chuckles] Describe the plants that the object turns into.”
+
+
+Austin: I'm gonna say, just for the record right now, when we say larger than a door, we mean a door that you would find in a home. 
+
+
+Dre: Right.
+
+
+Austin: So like, if you went to like the gates of Mordor, which are not in our setting, you couldn't— no one could tell me that's a door, even though it's conceptually a door. [chuckles] What we mean is a door like a person would have in their abode. That's a cool move, though. 
+
+
+Dre: Mm-hmm.
+
+
+Austin: I do love the idea of like, nah, this is plants. [Dre laughs] 
+
+
+Jack: Now, what about a giant’s home?
+
+
+Austin: No. Too big, unfortunately. That's part of why adventuring in a Giants home is so dangerous. It's ‘cause you can't— 
+
+
+Jack: Mmm.
+
+
+Austin: —easily use your Steel Sprout spell to turn their doors into plants.
+
+
+Dre: Right. Also, it's just hard to open the door. You can't reach the handle.
+
+
+Austin: Yeah, how are you gonna even touch it, you know? 
+
+
+Jack: Right. 
+
+
+Dre: Mm-hmm.
+
+
+Austin: Also, my favorite thing about this is it doesn't work on wooden doors, for instance. It's just metal objects. [laughs] But, you know, that could be the handle of a door. That could be a lock. It could be a sword. Someone like swings a sword at you, and you fucking Steel Sprout it. Love it. Great.
+
+
+Dre: Mm-hmm. Okay.
+
+
+Austin: Keep on going.
+
+
+Dre: Next one is Command Nature, which is from Ecologist.
+
+
+Austin: Mm-hmm.
+
+
+Dre: This is either a zero or one cost. The zero cost is, “You whisper a rhyming couplet to the living plants around you. You can write your own or borrow one. [chuckles] Use one that plants might appreciate, [Austin laughs] like ‘Hear my voice ring, and welcome the spring.’ Your brief poem entreats the plants to produce a harmless effect by moving or growing slightly. Things you want to manipulate must be within range. You may make trees rustle, cause leaves to fall, get plants to boom— bloom, [Austin and Dre chuckle] vines to expand, and seeds to sprout.” If I spend one and I can explain how, I can have the effect deal two HP of damage to a nearby target. I could have vines grow thorns and lash a creature or have a tree shake its acorns on their head violently. Those seem like different levels of violence, but okay. [laughs] 
+
+
+[1:50:28]
+
+
+Austin: Agreed, but maybe they're big acorns. 
+
+
+Dre: Yeah.
+
+
+Ali: Mmm.
+
+
+Dre: Or it's a really tall tree.
+
+
+Austin: Really. Yeah, that— 
+
+
+Dre: It's a giant's tree.
+
+
+Austin: It’s a giant’s tree. Yeah. Definitely. 
+
+
+Dre: Uh huh.
+
+
+Austin: Aquadrop25 says, “an eight foot tall person?” I think, by the rules, yes. So, a door that an eight foot tall person could comfortably go through. [chuckles] That is the scale, based on what…
+
+
+Dre: God, that’s a big-ass door.
+
+
+Austin: It's a big door. It's a big door. So that's like a ten foot tall door. That makes sense to me. You know?
+
+
+Dre: Yeah.
+
+
+Austin: Or a nine foot tall door. Something like that, you know?
+
+
+Dre: Yeah.
+
+
+Austin: Somewhere in there.
+
+
+Dre: Okay.
+
+
+Austin: A couple more moves here. 
+
+
+Dre: Yep. Next one, Freeze, which is from Elementalist. It's a zero or a one cost spell. The zero cost is: You blow cool air, creating freezing winds that swirl around a nearby creature or object. Affected creatures feel a deep chill in their bones and are hit for one HP. I can use this spell to snuff out small fires.
+
+
+Austin: Love it. For free. 
+
+
+Dre: For free. 
+
+
+Austin: Yeah.
+
+
+Dre: The two cost version is: you freeze in nearby commoner, minion, or object, encasing it in ice until you leave the scene. If you freeze a creature, it cannot move or act. If the ice shatters and the creature is freed— oop. The ice shatters and the creature is freed if it takes any additional damage. There we go.
+
+
+Austin: That's extremely powerful. The idea of like, okay, that minion’s frozen and won’t unfreeze until I leave, is— 
+
+
+Dre: Yeah, you just can’t do stuff now.
+
+
+Austin: Yeah, that's very good. 
+
+
+Dre: Yeah.
+
+
+Austin: Yeah.
+
+
+Dre: Last one, Burn, which is also Elementalist. Zero: You blow hot air, creating scorching winds that swirl around a nearby creature or object. The heat is enough to make creatures very uncomfortable, but not enough to harm them. If I spend one, I can overcharge the spell and ignite the target in flame instead, hitting it for two damage and setting it ablaze.
+
+
+Austin: Love that. Love to just be able to...it's like a free ranged attack, I guess, right? You know? 
+
+
+Dre: Yeah. 
+
+
+Austin: And fire. Fire does special stuff sometimes, so. You gotta deal with the fire at that point. Alright. That is your set of abilities. So that is what, three Shapeshifter, one Ecologist, and two Elementalist?
+
+
+Dre: Yep. 
+
+
+Austin: That's a fun combo. It’s a lot of good shapeshifter stuff, which we'll figure out when that makes sense. Like, maybe that's like...hey, when I am an animal, I can do stuff better, you know?
+
+
+Dre: Mm-hmm.
+
+
+Austin: We'll sit on it. Art, finally, you are up. Jonah Hagan. Hagan? Hagan, Hagan? 
+
+
+Art: I think it's Hagan (pron: HAY-gan). 
+
+
+Austin: Yeah, I think it's Hagan. Art, is it okay if I fix your— the way these look?
+
+
+Art: Yeah, I just copy pasted them from the rulebook.
+
+
+Austin: I know. I know. It's just hard for me to— my brain can't...and I like fixing it. 
+
+
+Art: Hey, take care of your brain. 
+
+
+Austin: Yeah, I'm on it. Alright. You're up. Talk to me what you got.
+
+
+Art: I took Magic Strike, which I’m just gonna say is magic missile. I don't know if this is a…
+
+
+Austin: [feigning ignorance] What's that?I don't know what that is.
+
+
+Art: ...trademark thing, if this is…does Wizards of the Coast own magic missile or something?
+
+
+Austin: Probably.
+
+
+Art: And if you use magic missile, you have to pay them.
+
+
+Austin: Does Pathfinder have magic missile? ‘Cause if it doesn't, then my answer is yes, it's definitely a trademark thing.
+
+
+Art: I have no idea. 
+
+
+Austin: Mmm. What’s it do? 
+
+
+Art: It shoots a magic missile. 
+
+
+Austin: Read me the text.
+
+
+Art: [laughs] For zero points: “You must be holding a pointed object like a wand, staff, or sword to use this spell. Used to shoot a shimmering missile force in a straight line at a target you can see, dealing two damage.” I guess that makes it different from magic missile, which, of course, does not need to go in a straight line.
+
+
+Austin: That's correct. Yeah.
+
+
+Art: It's a magic missile.
+
+
+Austin: Yeah. 
+
+
+Art: For two points: “You overload the missile.” Oh, see, now they’re calling it a missile. [Austin laughs] “Increasing its damage to four and hitting the target automatically. You do not need to roll the die if you overload the spell.”
+
+
+Austin: Right. Okay. What's interesting here is it doesn't say it, but you do have to roll then for the zero cost, right? Presumably.
+
+
+Art: Yeah. Oh, it's in the...it says roll the die in the…
+
+
+Austin: Ah, it does say roll the die. There you go. Let’s just add “roll the die.”
+
+
+Art: But I couldn’t copy paste that, 'cause it’s a…
+
+
+Austin: Boom, got it. Okay. Next up.
+
+
+Art: Also in the Evocation school, I took Kindle. For zero points: “You rub your hands together, causing a flammable object you can see nearby to ignite in flame. The spell can ignite textiles, wood, paper, and other combustible material. The spell cannot be used directly on creatures, but it can be used to ignite flammable things they're wearing or carrying. Igniting something on a creature deals one damage to them,” which I think is very kind. [Austin chuckles] I think if your clothes caught on fire, you would not take only one damage, but I mean, I respect the need to…
+
+
+Austin: Depends on how quick you get them off and step on them to put them out, you know?
+
+
+Art: Sure, yeah.
+
+
+Austin: Okay. What's up next?
+
+
+Art: I took Blink from the Plane Shifting path. “You teleport to a location of your choice nearby. You vanish, leaving behind a gentle gust of wind, and then instantaneously reappear nearby.”
+
+
+Austin: This is the Nightcrawler maneuver, huh?
+
+
+Art: Yeah. They were gonna call it BAMF, but then the magic missile people were like, you know, we're not— we don't own this, but you should really think about it.
+
+
+Austin: [laughs] Yeah. Your next one. That was Plane Shifting, right? 
+
+
+Art: Plane Shifting. 
+
+
+Austin: Yeah. Next up.
+
+
+Art: From the Magecraft path, I took No.
+
+
+Austin: We can do this again. Ready?
+
+
+Art: Yeah.
+
+
+Austin: Art, can you read me the name of your next move? 
+
+
+Art: No. [Ali laughs] 
+
+
+Austin: That seems really hostile. 
+
+
+Jack: Mmm.
+
+
+Dre: Haha! Haha!
+
+
+Austin: [laughs] Ah, we can just go. We can just go. But know that we could have done like an hour on that, for sure. [laughs] 
+
+
+Art: [laughs] Yeah, we could have done this ‘til all five viewers left.
+
+
+Austin: [laughs] Read me...read me your next move!
+
+
+Dre: Uh, it’s at 64 watching now, Art. Please.
+
+
+Art: Yeah, well, I could outlast all of them. [Austin and Dre laugh] 
+
+
+Austin: [laughing] Art, can you please read me your next move? 
+
+
+Art: No, [Austin laughs] comma, Magecraft.
+
+
+Ali: No. Okay. I was like [laughs] I kept on...I was like scrolling really far down to the Wizard thing to, like, try to get the joke, and I get it now, and that’s funny.
+
+
+Austin: You get it now. The name of the move is No. Yeah. Uh huh.
+
+
+Ali: Yeah. Mmm. Mm-hmm. Mm-hmm. [Ali, Dre, and Art laugh] 
+
+
+Austin: So, what's the move do, Art?
+
+
+Art: “For two points and rolling the die, by uttering the word no, you attempt to neutralize the spell that you can see an NPC casting nearby. You must declare you're using this ability before the Guide describes the consequences of the spell.”
+
+
+Austin: If I fuck up and describe consequences first, you can still do this, for the record.
+
+
+Art: Sure.
+
+
+Ali: Oh.
+
+
+Art: Yeah. [Ali laughs] 
+
+
+Austin: Anyway, what happens? 
+
+
+Art: And then, yeah, there's various effects it does. Are we— you want me to read the— 
+
+
+Austin: Yeah, read ‘em. Yeah.
+
+
+Art: Alright. On a twenty, the spell is violently canceled, and its caster is hit for one HP, as if their clothes were set on fire. [Austin laughs] 
+
+
+Jack: Jesus.
+
+
+Austin: That was some editorializing from Art at the end there.
+
+
+Art: At eleven to nineteen, the spell is stopped before it's cast. Six through ten, the spell misses and hits another nearby creature or target. Two to five, the spell takes place normally. One. you accidentally amplify the spell. If it’s a harmful spell, the damage is doubled.
+
+
+Austin: Great. And your last— or no, you still have two more. So, yeah.
+
+
+Art: Yeah. From Trickery, we got Speak. For one point: “For the next minute, you may speak silently into the mind of a nearby creature. Your lips move normally as if you were speaking aloud, but no sound comes out. Instead, the target of the spell hears your voice inside their head. The creature can tell that your voice is inside their mind.”
+
+
+Austin: Creepy. 
+
+
+Art: Mm-hmm. 
+
+
+Austin: And lastly, also in Trickery.
+
+
+Art: Also from Trickery, we have Pinch. It's two points. “You imbue your fingers with supernatural strength. For the next minute, you can effortlessly pick up and move objects of any weight, as long as you can reasonably handle their size and shape. For instance, you might pinch the shirt of a bully and raise them up in the air or casually move a giant anvil.”
+
+
+Jack: Mmm.
+
+
+Austin: That sounds good. Yeah.
+
+
+Jack: You see, that's how you could close the door in the giant’s house.
+
+
+Austin: That is how. You use Pinch, and then you're good to go. 
+
+
+Ali: Ah.
+
+
+Art: Yeah. 
+
+
+Austin: Uh huh. Fantastic. I really love the end of the Trickery skill path, which gets you to like, undoing the past on a creature, which is wild. So, that's cool. Or, I guess it's the other way. It's...hmm. 
+
+
+Art: It only works on objects. 
+
+
+Austin: Oh, you're right. It does only work on objects. Okay. But still, you could undo a door, for instance. [laughs]
+ 
+Art: Yeah. It says...and yeah, for four points, it's any amount of effort, which to me says you can turn a castle into a pile of stone, you know?
+
+
+Austin: Yeah, definitely, right? Yeah, a hundred percent. That's fun. That's not even a legendary move. The legendary moves in this game fucking whip ass also, so that's fun. Alright. Those are our moves. We are not gonna play a session today, because we've already gone, you know, a substantial amount of time. And I don't have a session prepared, [Ali chuckles] because I didn't have characters to prep against.
+
+
+[2:00:12]
+
+
+Ali: Mm-hmm.
+
+
+Austin: But those are—
+
+
+Art: Do you want to do like 20 minutes of No before we get out of here?
+
+
+Austin: Uh, no. [Ali, Jack, and Austin laugh] It's the same bit, it’s just me disagreeing for 20 minutes. [Art laughs] No. That's gonna do it for us. Thank you for joining us. I'm pretty sure that's the final step. I don't think there's anything else in this book that comes after that where you're like, hey, heads up, more character stuff.
+
+
+Ali: Yeah, not as far as I could see.
+
+
+Austin: Yeah. So yeah, we'll be back in the near future with another adventure. I'm excited to see this crew. And then after that, it'll be all mixed up. It'll be like, you know. There is not— this is not a— there is no ice party/boat party divide here, you know?
+
+
+Ali: No.
+
+
+Austin: It’s just gonna be whoever’s around and then back to a status quo where, you know, you...I don't know. You go back home and switch parties and mix it up the next time and go somewhere else. And again, if anybody who's on this call or anyone watching wants to— not anyone watching. Anyone else in Friends at the Table wants to— [laughs]
+
+
+Jack: Oh, Austin.
+
+
+Austin: I mean, listen. Anyone can run a game, you know, period. That's fine. I just probably won't show up, ‘cause of being busy, you know? [Ali laughs] But if the rest of the cast wants to run a game, I'd be happy to swing in as my fighter, my level one fighter character. 
+
+
+Ali: Oh, yeah.
+
+
+Austin: And that could be fun. I'm not gonna do a big outro thing. Y'all already know where to find all of us. Do we have any announcements? If you haven't heard it yet, you should go listen to the Season Seven trailer. It's very fun that that's out there now and we can, like, talk openly about it. Sangfielle will launch next week, which is cool.
+
+
+Ali: Yeah. This coming Thursday—
+
+
+Austin: Yeah, as of time of recording.
+
+
+Ali: —we will have a new season of Friends at the Table.
+
+
+Austin: Wild. 
+
+
+Jack: Wow.
+
+
+Austin: We did it. 
+
+
+Ali: No worries.
+
+
+Austin: It’s coming out, huh?
+
+
+Ali: I guess there haven't been big announcements, uh...Clapcasts.
+
+
+Austin: Yep. 
+
+
+Ali: They're still going.
+
+
+Austin: More Pusher stuff coming.
+
+
+Ali: If you are— yeah.
+
+
+Austin: More Drawing Maps. I guess I'll say here, because I said this in the Sangfielle thing, but a lot of Drawing Maps coming.
+
+
+Ali: Yes.
+
+
+Austin: I did a conversation with everyone, at least one conversation with everyone on the cast about their characters to...and like how their characters fit into the world. And kind of like...and that's a conversation before we did character creation, so it's a lot of like, hey, what's going on here? What's...how do we fit these together? And those are really fun to record. So, I'm gonna edit those soon and start putting those up once we’re there, you know? Ali, do you have anything else?
+
+
+Ali: I guess the only thing is that I've been emailing out postcard updates and then also updates if you're on the, like, highest book tier. Is that the Pala-din tier? So, if you're like, Patreon doesn't have my most recent email…
+
+
+Austin: Mmm.
+
+
+Ali: Check that. [laughs] If we as a company owe you something—
+
+
+Austin: Yes.
+
+
+Ali: —check that your email is correct on Patreon.com or send us a message on Patreon, and I'll get back to you.
+
+
+Austin: Look into it. Uh, loose timeline on those Drawing Maps? I don't know. I’ll have to talk to players and see if they want...because I know that there is probably a divide on this internally, but I know some people like want their character debut to feel cool, and so it depends on what they feel. This coming episode will not have player characters in it. It's worldbuilding. In fact, the next two is my guess, Ali?
+
+
+Ali: Yep. [laughs] We’re gonna see.
+
+
+Austin: We’re not gonna do all that worldbuilding in one episode, right? There's no way. 
+
+
+Ali: Yeah.
+
+
+Art: That was two recordings.
+
+
+Austin: That was two recordings. Yeah, yeah, yeah.
+
+
+Art: There’s no way that’s one episode. That would be…
+
+
+Austin: Three episodes. 
+
+
+Ali: It was three recordings, wasn't it? Yeah. So, we're gonna see.
+
+
+Austin: Yeah, we’ll see.
+
+
+Ali: That's something I'm gonna be determining on Monday, so we're gonna have a… [laughs] 
+
+
+Austin: Yeah, I feel you. I feel you.
+
+
+Ali: A talk about that on Monday.
+
+
+Austin: But in other words, in other words, it might not be this— it will definitely not be this week that we start going over character, like the Drawing Maps character stuff. That'll probably be late March more than early March. Unless there are players who are like, “Fuck it, I don't care. That can be how they hear about my shit,” in which case that’ll be how you hear about it. So, we'll see. In any case, that's all coming soon. So, look forward to that.
+
+
+Art: Oh, I— 
+
+
+Austin: Art?
+
+
+Art: I have a...tune in for the next episode that I'm in of Grand Tableau, because I have another Kings of Leon Twitter plug joke, that...
+
+
+Ali: Wow.
+
+
+Austin: You'll remember it. Sure. 
+
+
+Art: ‘Cause I thought we were gonna do another one, but I'm now gonna save it for next time. 
+
+
+Austin: I see. [Jack laughs] 
+
+
+Art: And tune in, because it might not make it to the episode. That might be live only. 
+
+
+Ali: Wow.
+
+
+Art: Ali might not think the…
+
+
+Austin: Right. Ali might think it's a bad joke.
+
+
+Art: Kings of Leon jokes are worth it, yeah.
+
+
+Austin: Gotcha
+
+
+Ali: Yeah, I'm often cutting out jokes based on quality on this show, which is… [laughs] 
+
+
+Austin: Yeah. Which why it's not very funny. Ali cuts out all our good material. She’s just such a harsh critic. 
+
+
+Dre: Mm-hmm.
+
+
+Ali: Yeah.
+
+
+Austin: People say more people would listen to our show if we had better jokes. Unfortunately, we just don't. So, you know.
+
+
+Ali: Yeah.
+
+
+Jack: It's a shame. 
+
+
+Austin: It's a shame.
+
+
+Art: Go watch, uh...one of those other shows.
+
+
+Austin: Other podcasts, TM.
+
+
+Ali: Mmm.
+
+
+Art: Yeah. 
+
+
+Dre: Go “watch” another podcast. [laughs] 
+
+
+Austin: Yeah, well.
+
+
+Ali: Good night, everybody! [Austin laughs] 
+
+
+Dre: Wow.
+
+
+Jack: And that’s it.
+
+
+Austin: Ali with the “allegedly, allegedly, allegedly” Bodega voice. [laughter] Come through. Alright. That's gonna do it for us. We'll be back in a bit. Talk to y'all later.

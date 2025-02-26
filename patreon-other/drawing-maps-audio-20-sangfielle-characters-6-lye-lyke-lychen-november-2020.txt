@@ -1,0 +1,1974 @@
+﻿Drawing Maps 20: Sangfielle Characters #6: Lye "Lyke" Lychen - November 2020
+Transcribers: Laura (laura_GPO#1876) and robotchangeling
+
+
+Austin: Welcome to Drawing Maps. I'm Austin Walker, and joining me for this edition is Keith J. Carberry. Hi, Keith.
+
+
+Keith: Hi.
+
+
+Austin: For people who are jumping into Drawing Maps for the first time—for you, Keith, because this is the first time you've been on it—let me just do a quick rundown of like what the show is.
+
+
+Keith: I'm not allowed, mostly.
+
+
+Austin: You're not allowed to be, mostly. Eh, yeah. I think once they're out, you know? It's like…it's weird.
+
+
+Keith: Yeah.
+
+
+Austin: It's a weird show. I think like, for instance, all the PARTIZAN prep ones would be fine for anyone to have listened to before we started PARTIZAN.
+
+
+Keith: Ok.
+
+
+Austin: But it's different from the mid-season ones where it's like, “And here's–”
+
+
+Keith: I like to go in fresh, regardless.
+
+
+Austin: Yeah, totally. That's fine. In any case– I mean, it's important, because here's what the show is. The show is actual prep. We go over– it's actually doing the work of prep.
+
+
+Keith: Right.
+
+
+Austin: It is not just reviewing notes. It is various shows and games. This episode is obviously Season 7 focused. It is discussion and insight that contrast, again, with just like, "Here is the raw information. Bye." [laughs quietly] Hopefully–
+
+
+Keith: [feigned dread] Ooh, I'm gonna have to have insight. Euuuuugh...
+
+
+Austin: Ehh, you'll be fine. It'll be fine.
+
+
+Keith: Yeah.
+
+
+Austin: And then it's actual like asset creation and idea creation and like management of that stuff if we're mid-season, so it's like, yeah, NPCs get written here. Factions get directed.
+
+
+Keith: Mm.
+
+
+Austin: Monsters get weak points or special abilities. You know, you've seen me in past episodes– not you, but an audience theoretically has seen me, [Keith: “Right”] in the past episodes, think about a fight and how to frame a fight sequence or whatever.
+
+
+Keith: They know that in all– every episode of Friends at the Table, we always could have shot inside the mouth for double damage, and we haven’t been doing it.
+
+
+Austin: They know that there's double damage. Exactly. Exactly. What the show is not is unchecked or unannounced spoilers, so we'll be careful around like, "Hey, do you remember that thing in Hieron? Remember that thing in Twilight Mirage?" Try to be mindful of that. And in general, just like, not what the show is: it's not a Q&A or a post-mortem in that way. Nothing here is permanent or unchangeable. We could have what we think is a really good idea, Keith, and then a week from now be like, "That was a bad idea."
+
+
+Keith: Yeah.
+
+
+Austin: We shouldn't feel locked into it because we said it into a microphone here. 
+
+
+Keith: Mm-hmm.
+
+
+Austin: Nothing is real until it is on the show and the show is out, so nothing here should feel like you're stuck to it. This is not a tutorial or a lesson. I think that those require more work than what we do here. This is just doing the thing; it's not explaining how to do the thing. It's not design by committee. You know, unless we otherwise explicitly ask, we're not looking for like feedback on an idea at that point, where it's like, “Hey, you should make it so that the character is associated with the color blue, because I think that that's a cool, you know, element to bring into the forefront.” Like, that's just not what we're doing here. [laughs quietly] 
+
+
+Keith: Yeah.
+
+
+Austin: And then, finally, it's not complete or finished. In the same way that it's not permanent or unchangeable, it's also like, we don't need to finish the ideas that we come up with or talk about here today. We don't need to feel like…let's say we're on question number three of the 15 questions or whatever I sent over. We don't need to stay on that question until we have the best possible answer. We can move on from it. 
+
+
+Keith: Yeah.
+
+
+Austin: And likewise, the answers we come up with don't need to be super polished.
+
+
+Keith: Well, then it wouldn't be actual play. It would be…
+
+
+Austin: Exactly. Right, exactly. It would be just– that would be just a writers room, you know?
+
+
+Keith: Right.
+
+
+Austin: So yeah, we shouldn't feel like we need to finish any of the big ideas that we have here today.
+
+
+Keith: And I certainly don't!
+
+
+Austin: Yeah, exactly. [laughs quietly] So, Keith, you are playing the Junk Mage class from Heart. 
+
+
+Keith: Yeah.
+
+
+Austin: Which is…how would you pitch Junk Mage in like a sentence or two?
+
+
+Keith: As written by the Heart book?
+
+
+Austin: Mm…I guess as written from the Heart book.
+
+
+Keith: As interpreted by Keith Carberry and Friends at the Table.
+
+
+Austin: Let's start with how they write it and then you interpret it. Let's do both.
+
+
+Keith: Okay. I'll try and shoot down the middle with it. 
+
+
+Austin: Mm-hmm.
+
+
+Keith: The Junk Mage is someone who is obsessed with magic [Austin: “Mm-hmm”] and magical stuff and new ways of doing magic and new avenues for channeling magic.
+
+
+Austin: Mm-hmm. Or extremely old ways that have been lost of doing magic, right?
+
+
+Keith: Right, right. Yes.
+
+
+Austin: But like, not novel ways of doing magic.
+
+
+Keith: Right. Yeah, “new” both in like “not done” and also…like, okay, not done in both because it's brand new and because people stopped doing it.
+
+
+Austin: Mm-hmm. Mm-hmm.
+
+
+Keith: Yeah.
+
+
+Austin: Totally. 
+
+
+Keith: And that's important.
+
+
+Austin: Yes.
+
+
+Keith: That it's both old and new.
+
+
+Austin: And new, yeah.
+
+
+Keith: But from the same angle of like, um…searching for a word. Uh, I don't have it, but like... 
+
+
+Austin: Yeah, but I know what you mean. I totally know what you mean. 
+
+
+Keith: Shit's not mainstream. 
+
+
+Austin: Yes. Yeah. Deep underground magic.
+
+
+Keith: Yeah. 
+
+
+Austin: For real practitioners only. Yeah, and I'd say the book probably leans– goes as far from obsession to like addiction, whereas I think your interpretation, the way we've talked about it, is more…like you said, obsession, or like…
+
+
+Keith: Yeah.
+
+
+Austin: Like the hobbyist mage but like hobbyist in the way you think about like…I mean, one of your particular touchstones is like an– ah, amateur is such a loaded word.
+
+
+Keith: Yes, yeah.
+
+
+Austin: But someone who has made their life audio engineering and audio [Keith: “Right”] like doodads and technologies but not someone who is like…we're not talking about someone who is like a professional pop music mixologist or whatever, you know what I mean? Like, you're not sitting at like a soundboard making the next big hit single. You are an expert in old speaker technology [Keith: “Right”] and understand drivers really well and can build the best possible–
+
+
+Keith: Mm-hmm.
+
+
+Austin: Can go into a room and understand how you would build three or four different speaker configurations for the acoustics in the room or something like that.
+
+
+Keith: And I guess it is kind of funny, because it's like, actually, the mage is a practitioner. 
+
+
+Austin: Yes. Totally. 
+
+
+Keith: In a way a musician would be.
+
+
+Austin: Yeah, totally.
+
+
+Keith: But it's not…that's not what the Junk Mage is about. Like, sure, the Mage does, but the Junk Mage…does that make sense?
+
+
+Austin: I think so. I think so, yeah.
+
+
+Keith: Like, everything's got a mage in it. The thing that makes the Junk Mage the Junk Mage, for me, is the like, getting in there, looking at–
+
+
+Austin: Is the junk.
+
+
+Keith: Is the junk, right, yeah. I guess it's sort of obvious, but…
+
+
+Austin: No, no, that makes sense to me, right? Like, I think that that is the difference. The difference between that and like, when I've talked to…the other two most magey classes among our player characters are probably the Deep Apiarist by Art and then the Witch from Janine.
+
+
+Keith: Yeah.
+
+
+Austin: And those both have magic going on, but they're not…there's an almost innateness or a…the way that they've talked about it doesn't sound like they'll be casting spells or looking at books or like looking at components and putting stuff together in that way. You know what I mean? Like, they don't have that part of what we think of as the practitioner mage or the like, you know, the sort of like, “Okay, what's on my shelf? What can I put together to get this effect that I want?” And I think my vision of the Junk Mage, as you've described it, it is much more in that space. I think.
+
+
+Keith: Yeah.
+
+
+Austin: You're not just like–
+
+
+Keith: Yeah.
+
+
+Austin: It's not like you just– you don't just have like X-Men powers. You understand that if you combine X and Y and do an incantation to whatever, then some magic shit happens, right?
+
+
+Keith: Yeah. Yeah. And it's like, you know, I think that that is sort of…so, Heart, I feel like, is a really grody book. 
+
+
+Austin: Yes, extremely.
+
+
+Keith: It's like dirty. Everything's dirty and grim and like…
+
+
+Austin: Yeah.
+
+
+Keith: There's a lot of like mucking around in the dirt, both physically and like spiritually. And I just think that there's parts of the Junk Mage that I wouldn't have fun doing if I did it exactly as–
+
+
+Austin: Right.
+
+
+Keith: Like, if I took these vibes and just did it, that wouldn't be fun for me. But there is sort of like this grime to like weird tech stuff, like DIY tech stuff and like making your own speakers and soldering shit.
+
+
+Austin: Mm-hmm.
+
+
+Keith: And like looking through wires, like trying to figure out the best wire. I mean, there's people that like, you know, they… [laughs quietly] Like, I was thinking a lot about wires and like, no one can prove that the good wires are any better than the bad ones, if you look at the math of it.
+
+
+Austin: Mm-hmm.
+
+
+Keith: But there's people who swear that, [Austin: “Right”] “I can hear the difference between this wire and that wire. [Austin laughs quietly] I can. It doesn't matter that you're not proving it, but…”
+
+
+Austin: Right.
+
+
+Keith: “Because if I have them side by side, I can tell.”
+
+
+Austin: Right. You can hear the difference, and you would be consistent on hearing the difference, even if whatever the engineering tools are [Keith: “Right”] that read those wires say that they pass the current the same way or whatever.
+
+
+Keith: Right.
+
+
+Austin: Right. 
+
+
+Keith: And so I think of the Junk Mage as like looking through trash, literally sometimes.
+
+
+Austin: Right. Mm-hmm.
+
+
+Keith: To be like, “I bet I can get 3% more out of this.”
+
+
+Austin: Right.
+
+
+Keith: Or half a percent more out of this.
+
+
+Austin: Right, right, right. That makes sense. 
+
+
+Keith: Yeah.
+
+
+Austin: So, before we get into the junky Junk Mage part of it, I am just curious: do you have thoughts on where your character came from, in terms of wider cultural or species or civilization-based stuff? Like, I'm guessing you're playing just like a human?
+
+
+Keith: I think that I'm playing a human.
+
+
+Austin: Okay. 
+
+
+Keith: I haven't done a human since Gig.
+
+
+Austin: Right. Sure, yes. Totally.
+
+
+Keith: So, I think I'm a human. 
+
+
+Austin: Okay. 
+
+
+Keith: I was like, I had this thought. This is why I have that in my head is because I was like, “Should I be a human? I feel like I'm always playing humans.” And then I was like, uh, Phrygian…
+
+
+Austin: Leap.
+
+
+Keith: Leap. Fero.
+
+
+Austin: Fero.
+
+
+Keith: And like, oh, Gig. I guess it's been a while. 
+
+
+Austin: Yeah, totally. Outside of like Bluff City characters, obviously. 
+
+
+Keith: Right, yeah, yeah.
+
+
+Austin: But yeah, totally. We do have to just like, at some point, go over like what the cultures and species and stuff are. 
+
+
+Keith: Yeah, I feel like I have a pretty loose…
+
+
+Austin: And so if, at some point, that does take your…something takes your, you know, fancy, then go for it.
+
+
+Keith: Yeah. 
+
+
+Austin: But.
+
+
+Keith: I mean, it's so easy to be like, “What if I'm a big bug?”
+
+
+Austin: Right, totally.
+
+
+Keith: “What if I’m a praying mantis?” 
+
+
+Austin: Yes, totally, totally.
+
+
+Keith: Like, you know, I could be a praying mantis if I want. 
+
+
+Austin: You could be. Yeah, no one would stop you, right? 
+
+
+Keith: Yeah. 
+
+
+Austin: Praying mantis Junk Mage is kind of fun. But yeah, we'll see. So, then let's focus on the Junk Mage stuff. Are Junk Mages a thing in the way that you think of like, “This set of wizards goes to this school”? Or is it like a common noun, which is like, “Oh, you're just a fucking junk mage,” or, “Oh, you're one of those junk mages,” in the sense that like, you do the thing, and that's how you get the title. Do you know what I mean?
+
+
+Keith: I think it's more that– I think that this is like a tendency and maybe an affiliation. 
+
+
+Austin: Mm-hmm.
+
+
+Keith: Like, it's a way that you can be. I think it's, you know, like…
+
+
+Austin: But like, you could be that from any school of magic or something. Like, you could theoretically be…
+
+
+Keith: Yes, yeah.
+
+
+Austin: Whether you were trained in this huge school or trained inside of this like, you know, this coven of lowercase W witches. Not the type of witch Janine is playing, but just a general, like, here's a witch.
+
+
+Keith: Or you're some guy who learned how to do…yeah.
+
+
+Austin: Or you're just some– totally, who read books and like, this is just your natural affinity towards doing this sort of stuff. You’re, you know, self taught or whatever. Any of those people could end up as, quote unquote, a “Junk Mage”.
+
+
+Keith: Yes, totally.
+
+
+Austin: Cool. Right. Okay. [coughs] Is there–
+
+
+Keith: Coming down with something? 
+
+
+Austin: Oh, dude, I am still on my last days of COVID. Yes. I got COVID this month.
+
+
+Keith: I didn't know you had COVID.
+
+
+Austin: Yeah, uh huh. I got COVID this month. No good. 
+
+
+Keith: That sucks. 
+
+
+Austin: Yeah, dude, it sucks. It happened while I was filming that Vice show. We like went in for two days. 
+
+
+Keith: Ugh, miserable.
+
+
+Austin: And we took tests on those days. It was the only place I've been, and so like three days later, I started coughing, and then it became real COVID.
+
+
+Keith: I can't believe that–
+
+
+Austin: It sucked. 
+
+
+Keith: I saw you saying in one of the chats [Austin: “Uh huh,” coughs] that you were like on your last days of quarantine. 
+
+
+Austin: Mm-hmm.
+
+
+Keith: And I just was like, “Oh, he got like exposed and is just doing…”
+
+
+Austin: Nope. All the way, dude.
+
+
+Keith: That fucking sucks!
+
+
+Austin: I was like on my ass for a week. It sucked, yeah. I'm fine. 
+
+
+Keith: You know what's wild?
+
+
+Austin: Like I didn’t have to go anywhere or anything, but. Yeah, what's up? [coughs]
+
+
+Keith: You're the first person that I like know know that got COVID.
+
+
+Austin: Um, yeah, that's weird. I mean, that's…you know, I think people have generally been safe, right?
+
+
+Keith: My cousin thinks that she got it, but like, that's it.
+
+
+Austin: Yeah. I could totally– so, here's the thing: I could totally see…if I hadn't gotten the– so, I had a test on, let's say…it was a Tuesday that was before the shoot. It was at the start of the shoot. And then that was fine. That was negative. And then, the next week, when I started feeling bad– like, I started feeling bad like that Friday, Saturday, after the shoot. Over those next several days, I was like, “This is just a cold. It's fine.” And then it was like, “Mm, this is the flu. I'm like tired and fatigued and in pain.”
+
+
+Keith: Yeah.
+
+
+Austin: “I should go get a test,” and I did, and the rapid test was negative again. 
+
+
+Keith: Yeah.
+
+
+Austin: And then, days after that, the like real test came back.
+
+
+Keith: I’ve heard so much of that. That's sucks.
+
+
+Austin: It sucks, dude, because it was like, “Well, now what the fuck am I– like, I guess I'm okay. I guess it's just the flu. Like, I don't know.”
+
+
+Keith: It's so miserable to think of how many people like got those rapid tests like right before Thanksgiving or whatever and then like went home.
+
+
+Austin: Yes. Yep, totally. “Well, I’m cool,” and then they– yeah, totally.
+
+
+Keith: Yeah.
+
+
+Austin: 100%. How many people did that exact thing, then got the PCR test back, and then were like, “Well, fuck, I guess I exposed my whole family. Whoops.”
+
+
+Keith: Yep.
+
+
+[0:15:00]
+
+
+Austin: Anyway, it sucks. It sucks, and it especially sucks 'cause I didn't even want to go shoot this show, and like, I just, the whole thing. 
+
+
+Keith: Yeah, I was gonna say like, at least you got to go do the shoot! [sarcastic] Seems worth it!
+
+
+Austin: It’s fine. It’s done. It's done! You know? 
+
+
+Keith: Yeah.
+
+
+Austin: Yeah, whatever. It's whatever.
+
+
+Keith: Yeah.
+
+
+Austin: Hmm. So, hopefully, I'm not…hopefully this is like the last few days of this cough, you know?
+
+
+Keith: Yeah.
+
+
+Austin: We’ll see. I'm basically gonna stay in the house until February, and then be able to go back outside. It's been– like, New York says I'm good to go outside now, but I'm like, I'm still coughing. Let me not do that. 
+
+
+Keith: Yeah.
+
+
+Austin: Anyway, let me figure out where I want to come back in. Is there…once you are a Junk Mage, is there like…so, they obviously don't– they're not tied to a single school or sect or whatever, but is there any sort of like post entry like professional organization, the way that you would have like audio conventions or whatever, where you're like, oh shit, all the Junk Mages are gonna get together and like share their notes or do a competition or whatever the–
+
+
+Keith: Yeah.
+
+
+Austin: Whatever version of that there is.
+
+
+Keith: I have…in our like little notes thing, I have…
+
+
+Austin: Yeah.
+
+
+Keith: Let's see what I wrote. Um…shop slash salvage centers, affiliate clubs.
+
+
+Austin: Ooh, sure.
+
+
+Keith: And then short literature, pamphlets, et cetera. Stuff like that. 
+
+
+Austin: Yeah, that makes perfect sense. 
+
+
+Keith: Like, it feels…I think, in our language, convention makes a ton of sense. But I don't know that like… 
+
+
+Austin: But that’s not what we’re talking about here.
+
+
+Keith: I don't know that Heart has conventions. [laughs] 
+
+
+Austin: No. But it might have festivals or…
+
+
+Keith: Yeah.
+
+
+Austin: Like, you know, some sort of…God, there's definitely a version of it. Obviously, shops and salvage centers makes a lot of sense. Affiliate clubs, I think, makes a lot of sense, right? Where it's like, certain big Havens across the Heartland have like, you know.
+
+
+Keith: Yeah.
+
+
+Austin: Oh, this town has a practitioners’ club or whatever, a corner club.
+
+
+Keith: Maybe you have a coin that lets you see some special stock.
+
+
+Austin: Yes. Yeah, exactly. Yes. Yes, yes, yes. Like, what's under the table? What's in the back room? 
+
+
+Keith: Yeah, yeah.
+
+
+Austin: What’s the special shit that you have? Yeah, stuff like that makes sense. And then, yeah, pamphlets.
+
+
+Keith: Stuff that seems like a treasure to a Junk Mage, so they hide it away, but probably no one even cares about it anyway.
+
+
+Austin: No one gives a fuck about, yeah. [Keith laughs] This like old dirty amber or whatever it is. [laughs quietly] 
+
+
+Keith: Yeah, yeah. Like, what does a mage need with this weird glass orb? 
+
+
+Austin: Right, exactly. Like, this is…
+
+
+Keith: It's not obviously magic.
+
+
+Austin: Mm-hmm, mm-hmm. You just don't understand how light works with it. Now I can use light as a component, because it passes through this orb or the right way or whatever.
+
+
+Keith: Yeah. You get enough heat in there… 
+
+
+Austin: Totally. So, I guess we already hit this one. “Is your type of magic something that all different cultures can use?” and we kind of hit that pretty strong already. 
+
+
+Keith: Yeah. Mm-hmm. 
+
+
+Austin: And then, so, your character specifically–
+
+
+Keith: And I also think, if I can add to that.
+
+
+Austin: Yeah, please.
+
+
+Keith: I think that's like important to being a Junk Mage. Like, Junk Mages want to learn more about magic. I think Junk Mages also want other people to be Junk Mages. They like the magic that they do.
+
+
+Austin: Right.
+
+
+Keith: Like, come on. Like, let me show you– regular magic users are like, “No.”
+
+
+Austin: “Just open your eyes a little bit. There’s so much more to this.”
+
+
+Keith: “No, come on. Just let me show you.”
+
+
+Austin: Yeah, yeah, yeah. Totally, totally. Don't just take the kind of stock answer on the way a fireball spell works. Like, there's a better way of doing it. There's other ways of doing it. 
+
+
+Keith: Right. Mm-hmm.
+
+
+Austin: And there's ways from different parts of the world, and there's– you know what I mean? 
+
+
+Keith: Yeah.
+
+
+Austin: Like, that's the part of it too that I kind of see as the like, you know, again, you can think about like…here you can think about directly a musician who is like, “Listen, we don't just have to use the scales that we were taught. There are so many other ways to compose and perform music around the world that are not part of the like dominant like mode of teaching music,” you know? 
+
+
+Keith: Yeah. Yeah.
+
+
+Austin: I think that that fits in really nicely. Given all of that, though, did your character come from– where did your character first become a mage before they were a Junk Mage or like how did they get put on that path? Do you have any ideas?
+
+
+Keith: Um, this is like a “think more about” area for me.
+
+
+Austin: Sure.
+
+
+Keith: But my attitude towards it has been like, normal– this is the thing, is like, I don't know yet what normal magic looks like.
+
+
+Austin: Totally. 
+
+
+Keith: And so a lot of the Junk Mage stuff, for me, is like wrapped up in like, well, it can't be that, so I need a better understanding of that stuff first [Austin: “Mm, mm-hmm”] to really form something that is not opposed to it, but is the other Venn diagram circle, you know? But…
+
+
+Austin: Right. I would say that there's like, the circles that exist are things like what you see from the other kind of magical classes, which, I mean, in some ways, it's everything, right? Like, every class in this book has some sort of magic. The Cleaver draws on the power of the Heart Itself. The Deadwalker has this interesting relationship with death and the place beyond. The Deep Apiarist is tied to the Hive and this kind of like orderly magic that's powered by these bugs. The Witch has…this, for Janine, is tied to this like special sort of like possession that happens between these kind of like immaterial spirits who can embody or like, again, can possess someone once they get contracted to do it and bring their magic to them. And so a lot of those things are about much more innate kind of magical abilities.
+
+
+Keith: Mm-hmm.
+
+
+Austin: And so then I imagine that the other– so that's one circle, and then the other circle is people who come from particular schools or sects that have like a very strict set of guidelines for how they do magic, right? And so that, to me, is like…that, to me, probably looks like like what we think of as D&D magic, in the way that you go like–
+
+
+Keith: Yeah. I think a lot of Junk Mages are dropouts from that.
+
+
+Austin: Totally, right? And so like, that's the version of like, “Well, first I learned my level one spells, and I was focused on illusion and enchantment spells, and then when I became a level five mage,” you know what I mean? 
+
+
+Keith: Okay.
+
+
+Austin: Like that style of very strict…
+
+
+Keith: Here’s–
+
+
+Austin: And then, also, that can be the same thing around cleric-y people, people who…
+
+
+Keith: Yeah.
+
+
+Austin: Priests who come from different things stick to their thing, by and large. I will say that there is a religion that is kind of a catch-all religion, that we'll talk about at some point, that's kind of like a great pantheon of a bunch of minor gods, and– I mean, they're not necessarily minor gods. Some of them, their, you know, believers believe in them as major gods, but there's almost like a big tent of faiths that need…that kind of contribute to each other's bottom line by allowing members of that given religion to use their like chapels and temples for services as they're traveling around the Heart and stuff like that. And so like, inside of that space, there's probably a little bit more comingling of like divine magicky stuff.
+
+
+Keith: Yeah.
+
+
+Austin: But if you’re from one of the bigger like singular religions that's not part of that, then you probably learn like how to call upon your one god. You're not dealing with any other Old Gods. You're not dealing with any other new god.
+
+
+Keith: Yeah.
+
+
+Austin: You're just like, “I know how to call on the three gods of entropy, and that's all I touch. I'm not fucking with the frog god of wealth. That's over there. Someone else can deal with that shit.”
+
+
+Keith: Yeah.
+
+
+Austin: Whereas, I would imagine the group that you're in is a little bit more like, “I'm gonna play with everything.”
+
+
+Keith: Okay, here's my sort of tentative pitch. 
+
+
+Austin: Mm-hmm.
+
+
+Keith: We talked a little bit like really briefly on a call a few weeks ago about, like, how much magic is there? 
+
+
+Austin: Yeah. 
+
+
+Keith: Like, and I can't remember exactly. I remembered that my answer was that I do– I don't think that magic is like something that you can go…like, not even your whole life. But like, I think people are seeing magic fairly regularly. Is that–? Are we sort of…?
+
+
+Austin: Yeah. Or at least some version of it, yes, definitely. 
+
+
+Keith: Right.
+
+
+Austin: I mean, at the very least, they're seeing supernatural strange things in the Heart all the time, right?
+
+
+Keith: Yeah.
+
+
+Austin: And so, like, when you think about magic…when magic is an adjective, as in like, “Yo, that tree is floating magically,” they're definitely seeing that, right? all the time. 
+
+
+Keith: Right.
+
+
+Austin: Very regularly, unless you're in the ringed city or in a tier one place and you literally never ever leave it, but even then, I bet you see someone on the street doing magic once in a while if you're in a big Haven, right?
+
+
+Keith: Sure.
+
+
+Austin: Or the stuff that I think Janine raised of like someone who can do some, like, you know, who uses magic as part of whatever their daily craft is.
+
+
+Keith: Yes. Okay.
+
+
+Austin: Whether that's like repairing rips in pants or whatever. 
+
+
+Keith: Right.
+
+
+Austin: You know what I mean?
+
+
+Keith: This is sort of what I was trying to remember. 
+
+
+Austin: Yeah. I think that that's where we ended up. That's about where I–
+
+
+Keith: So, here–
+
+
+Austin: To where, so, like, you know, what I don't want is: to be a bartender, you have to go to bartender wizard school, and now you're a wizard bartender. Like, it's not that.
+
+
+Keith: No.
+
+
+Austin: But one in a hundred–
+
+
+Keith: But what if you took a class at a learning annex [Austin: “Right”] to dry dishes?
+
+
+Austin: And that might be like one in a hundred people do that inside of that given, you know, thing. 
+
+
+Keith: Right.
+
+
+Austin: But like, what I don't think is I don't think everyone is doing it, but I think that there's like…everyone who's washed dishes professionally has done it with someone at some point or heard a story about someone else who knew a little bit of magic, you know?
+
+
+Keith: Right. Okay. 
+
+
+Austin: And maybe some people hate that. Some people are like, “Just, no, this is dangerous shit. Don't fucking…”
+
+
+Keith: Yeah, just wash your damn dishes.
+
+
+Austin: Just wash your damn dishes. Right, yes.
+
+
+Keith: My tentative– okay, so I'm thinking tentatively [Austin: “Mm-hmm”] that my guy is one of those.
+
+
+Austin: Okay. 
+
+
+Keith: Maybe.
+
+
+Austin: So like, someone who picked up..who started by, “I'm washing dishes, and I found a little spell, a little incantation I can do that dries them a little quicker.”
+
+
+Keith: Yeah.
+
+
+Austin: Or whatever.
+
+
+Keith: Or something. I don't know what. 
+
+
+Austin: Whatever it is, right? Means I don't have to go draw another bucket of water or something, you know? It keeps the water cleaner longer or something, right? [laughs] It dissolves some of the dirt more easily, right? 
+
+
+Keith: I’d love that.
+
+
+Austin: Something, right? And so that was your like entryway into, “I could learn some more fucking magic.”
+
+
+Keith: I could learn a little more magic. Or I could learn how to do– this spell can be better.
+
+
+Austin: Right. Right. That's interesting, because then it's like, it starts at tinkering from the jump. 
+
+
+Keith: Right. Yeah.
+
+
+Austin: And then once you learn you're able to figure that out, or like on the way to doing that, that means getting deeper into understanding, like, how magic works, because to tinker means to understand the process and not just how to understand the mechanism. Or actually, [Keith: “Yeah”] how to understand the mechanism, not just how to use the mechanism, I guess, because then you’re like building new mechanisms and stuff, so to speak. 
+
+
+Keith: Mm-hmm.
+
+
+Austin: Alright, cool. I like that. It’s very blue collar mage, which is fun. One of the big things that comes up across the Junk Mage stuff is…and this is the other way that– we already said there's like the “addicted to madness and magic” part of the class as written.
+
+
+Keith: Yeah.
+
+
+Austin: There are ways in which that's really built into the flavor, where like it says, “You've tasted the dreams of the ancients. You know vastly powerful things slumber in the city beneath, and you know the secrets that plumb your brain directly into their vast alien consciousnesses.”
+
+
+Keith: Ugh. I fucking relate, though. [both laugh] 
+
+
+Austin: So, here's the thing, is that like, how do we want to frame– this is a very cosmic horror class, at points.
+
+
+Keith: Yeah. Yeah.
+
+
+Austin: There’s a lot of like reaching to the Old Gods. And I'm curious how we want to keep that stuff but maybe like do our best to stay away from the like, “and it makes you craaazy!” like Lovecraftian… 
+
+
+Keith: Right. It’s you don’t understand…
+
+
+Austin: Right. 
+
+
+Keith: “I couldn't figure this out, and now I'm crazy!”
+
+
+Austin: Yes.
+
+
+Keith: “And then I died!” 
+
+
+Austin: Right. Yeah. [Keith laughs] And is it just to stay in that realm of…because like, Keith, you love tea.
+
+
+Keith: Well, instead of crazy, what if they're just cool?
+
+
+Austin: Right. Well, that's what I was gonna say. You love tea. Your love of teas is never going to kill you.
+
+
+Keith: Right. That’s exactly where– yeah.
+
+
+Austin: The difference, of course, is…
+
+
+Keith: I was about– I was gonna say this earlier when we were talking about specifically like the audio stuff, where I was like, this also– I feel like this applies to– this is like very hobbyist.
+
+
+Austin: Yeah, totally. 
+
+
+Keith: Yeah, you said hobbyist. It's a weird word. 
+
+
+Austin: It’s a weird word that has connotations that are pejorative often, and I don't mean it in that way.
+
+
+Keith: Yeah. But they're great! Hobbies are great. It's one of the best things about life.
+
+
+Austin: People should have more– yes. Life should allow us to have hobbies more than it does. 
+
+
+Keith: Right.
+
+
+Austin: Living under capitalism makes hobbies very difficult to have. 
+
+
+Keith: Yeah.
+
+
+Austin: Despite the fucking promise that that factory owner said was, “Hey, you can make enough money here to have a hobby one day.” Fuck off.
+
+
+Keith: Yeah, all you have to do is work more hours and make less money.
+
+
+Austin: Yeah. [laughs] Exactly. So, yeah, so I think it can be that stuff. And I think maybe the big difference here, the difference between being a tea or audio hobbyist versus being a mage is it could break bad. It could kill you, but it doesn't have to like drive you, quote, unquote, Lovecraft insane on the way there. You don't have to become a babbling mess, right?
+
+
+Keith: Hey, there's enough volts in those big amp capacitors to kill you, [Austin: “Right, stly. Totally”] even after they've been unplugged for minutes.
+
+
+Austin: Absolutely. I'm sure there are…
+
+
+Keith: But no, you're right. I’m… [laughs] 
+
+
+Austin: There are foods and drinks that, like, consumed wrongly would have a toxic effect, you know? 
+
+
+Keith: Yeah.
+
+
+Austin: You could get alcohol poisoning, you know? [laughs quietly] Not that you’re drinking– not that tea has alcohol in it, but you know what I'm saying, right? That is a hobbyist…
+
+
+Keith: You could drink some heicha and accidentally get some bad mold.
+
+
+Austin: See? There you go, right? And that's not that dissimilar from you've cast the spell wrong and now you've, you know, you've wound up enthralled to, you know, the god of fire or whatever, right? 
+
+
+Keith: Yeah. Yeah.
+
+
+[0:30:00]
+
+
+Austin: So I think that we can play up the danger but play down the loss of control and the sort of like maddening addiction part of it.
+
+
+Keith: Right.
+
+
+Austin: I think it’ll be fine.
+
+
+Keith: And there is like, you know…what is it? You can get really into a hobby, [Austin: “Mm-hmm”] and it can be your whole world, and that is still different than being so addicted to magic that it drives you crazy and kills you.
+
+
+Austin: Totally. And it can still be unhealthy without it being that sort of Lovecraftian stuff, right?
+
+
+Keith: Right.
+
+
+Austin: Like, it can still be like, “I'm doing this to the extent that I've lost my personal relationships, that I'm not taking care of myself. I'm not feeding myself well. I’m not…” you know. 
+
+
+Keith: Yeah. I mean, what are we doing in these games? 
+
+
+Austin: Probably dangerous shit.
+
+
+Keith: We’re going into this like nightmare zone. 
+
+
+Austin: Yeah. Mm-hmm. Yes. Yes, exactly, yes. [both laugh] We're already doing fucking dangerous stuff that's putting you in harm's way, yes. 
+
+
+Keith: Right. Yeah. 
+
+
+Austin: All right, so let's then pivot to some more specific ability things. A lot of abilities in Heart have really flavorful text but also have like elements of the move that help to situate what it is you're doing in a way that does build towards the world, right? 
+
+
+Keith: Yeah.
+
+
+Austin: And I guess I’ll just start by saying the basic abilities for you. Right, everybody starts with some core abilities on top of whatever minor and major abilities they end up taking, and so…I mean, the first one of these is, “You crave the touch of what others called madness, the glimpses of truth that ravage your frail mortal mind give you unimaginable power. When your Mind Stress is four or higher, roll with Mastery when you attempt to cast the spell.” And I think that we can just– and again, the word madness doesn't have to come up there. Really what that means is just, like, when your Mind Stress is high, you do well. You're like good under pressure in that way. You like being pushed in that way. You like trying to juggle a bunch of stuff. 
+
+
+Keith: Yeah.
+
+
+Austin: And then the other one, again leading right into this shit, is Sacrifice: “You are willing to sacrifice anything for another hit.” Again, that's just them playing into this version of this class, but the actual mechanical part of it is: “Before you cast a spell from this class, you can opt to destroy a resource with the Occult domain. When you do, roll the resource’s dice. The amount rolled is added to your protection value against any Stress incurred as a result of casting the spell.” And so that's like, if you have something with the Occult trait—and like, for instance, you start with a vial of cursed ink, right?
+
+
+Keith: If you're carrying–
+
+
+Austin: You start with a D6 vial of cursed ink. You can kind of like use that to make a protective ward as you're casting a spell, basically, right?
+
+
+Keith: I can't believe Janine’s not playing the cursed ink character.
+
+
+Austin: Seriously. Well, her character starts—let's see—with tattered finery: a silk scarf, worn jewelry, et cetera, D6 Haven, so. 
+
+
+Keith: [laughs] Fair.
+
+
+Austin: And then either a sacred blade, a goat’s leg carbine, or a physiker’s bag. So.
+
+
+Keith: Goat’s leg carbine. That's cool.
+
+
+Austin: That's a great– isn’t that great? It's so good. [laughs] 
+
+
+Keith: Yeah, that's great.
+
+
+Austin: I love to have a witch who just has a fucking gun made out of a goat's leg. Incredible. Anyway, so yeah, you know, she'll be fine. 
+
+
+Keith: Yeah.
+
+
+Austin: So yeah, I think those abilities just make sense. Again, the idea of like you reaching into your pocket and thinking, “What the fuck can I do to make this spell a little bit better or a little bit safer for me?” or whatever, I think, just perfectly makes sense.
+
+
+Keith: Yeah. Yeah.
+
+
+Austin: And those are already in line with what we already know.
+
+
+Keith: Some of these are like very analogous to stuff you'd see in another game or, like, have very easy ways to strip off the “craving touch of what others called madness” vibe. 
+
+
+Austin: Yes, totally.
+
+
+Keith: Some of them do not have easy ways to do that. [laughs] 
+
+
+Austin: No, and we’ll get to those. I've tried to ID the ones that are the most like that.
+
+
+Keith: Yeah.
+
+
+Austin: And again, you can always just not take those ones, right? But like…
+
+
+Keith: Yeah, yeah.
+
+
+Austin: So, the first one is not that problem. This goes the other way, which is there's Litanies of False Power, which says: “You know the gods of the world are distant, dead, or disinterested; but you pay attention, for they may reveal useful secrets.” And that's a move about getting the Religion domain and broadening out that sacrifice ability we just said to include Religion and not just Occult stuff.
+
+
+Keith: Mm.
+
+
+Austin: So I was curious if you as a character had a particular patron deity or if Junk Mages had some sort of like patron saint type figure. You know how there's like…this came up in the conversation with Ali, but like St…God, why have I blanked on this? St. Anthony. St. Anthony is like the saint of lost things, [Keith: “Yeah”] and so a lot of sailors historically had like a little shrine to St. Anthony on the boat, to be like, “Hey, I hope I don’t get lost at sea.” 
+
+
+Keith: This was my grandmother’s favorite saint.
+
+
+Austin: Right, totally, a hundred percent. My Catholic grandmothers love St. Anthony. [laughs quietly] 
+
+
+Keith: Always telling you to pray to St. Anthony.
+
+
+Austin: A hundred percent. And, so, is there something like that for Junk Mages? Even if it's not an official thing, not like you go to that church, but like you have some sort of, like, a patron deity of solving things, of like the MacGyver deity. Do you know what I mean? [laughs] 
+
+
+Keith: Yeah. I…um…
+
+
+Austin: The god of duct tape, you know? Like something that is like that style of thing. And again, we could cross this bridge if you ever take this move.
+
+
+Keith: Yeah.
+
+
+Austin: You don't need to have an answer right now. 
+
+
+Keith: Yeah. 
+
+
+Austin: But I do think that we could start thinking about that just in case, because it does make that move good.
+
+
+Keith: Hmm. Which–? Litanies of False Power, that's this one?
+
+
+Austin: Mm-hmm, mm-hmm.
+
+
+Keith: [reading quietly] When you sacrifice…
+
+
+Austin: The biggest thing there, one, is you could roll a die on Religion checks, because you just know shit about religion, but also the sacrifice opens up from just Occult stuff to Occult or Religion stuff, so that's pretty useful.
+
+
+Keith: I don't know if this is the angle I want to go down, [Austin: “Cool”] but my gut instinct here is that because Junk Mage has sort of like a broad– like a Junk Mage can come from anywhere 
+[Austin: “Yeah”] and be any kind of mage, that like, maybe there's this Junk Mage thing of like, oh, we can get in and out of…I guess the way– I'm thinking of it like jumping around. Like, ah, it's fine. It's no big deal. We can do whoever. [laughs quietly] 
+
+
+Austin: We can just pull– right, right, right. It's just like having– if, previously, you had a list of the right cables to use, now you have the list of the right gods to invoke in any given–
+
+
+Keith: Which could be dangerous.
+
+
+Austin: Totally could be dangerous.
+
+
+Keith: But it’s sort of like, ah, the risk/reward. I'll just jump in, jump out; they won't notice.
+
+
+Austin: Right. Right, they won't miss that this is the first time I've ever invoked their name in the last six years, and I'll pull on some of their power. That’ll just get mixed up in the mess of all the other people praying to that god, right?
+
+
+Keith: Right. Yeah.
+
+
+Austin: And that way, maybe the thing that ends up making sense is to associate them with the group that I think we've been calling like the Conclave or the congregation or something, which is that kind of big tent, hundreds of different deities. And maybe you just– if you end up taking this move, it's about like having a really good recall for all of the different groups tied into that thing?
+
+
+Keith: Ah, what if I've got– I've got my cursed ink, right? 
+
+
+Austin: Yeah.
+
+
+Keith: What if I'm writing down the names of true believers [Austin: “Ooh”] and like signing my prayers as other people? 
+
+
+Austin: Yeah, that's very fun. That's good. I love that. The next few are all based on the same thing, which is like, once you get out of your minor abilities and into the major abilities, and your minor abilities are all very cool, but like minor abilities tend to be around the same basic set, which is like, get a different skill and then maybe a special little bonus to it, you know?
+
+
+Keith: Yeah, yeah.
+
+
+Austin: You know, you can– one of them gives you the Delve skill and lets you smell sources of power and identify what type of magic it is. You know, one of them is like, you can sneak, and hiding is always safe for you, basically, versus it being risky or dangerous. But then when you get out of those and you get into your major abilities…
+
+
+Keith: These are rough.
+
+
+Austin: And your major abilities pull from tend to be like, hey, you can do X, and you do it by invoking—and here's the ones that the book lays out—the fae spirits of the Sky Court, which tend to be like air spells, air being very broad. Air means both, like, this one that is like, you gain plus one protection to all resistances because you are filled with the mercurial energy of the Sky Court. [laughs quietly] But there's also a Sky Court spell that is like a mind controlly, like, everyone around you is compelled to seek pleasure.
+
+
+Keith: Have a good time.
+
+
+Austin: Have a good time, exactly. So that's the Sky Court for air spells, the Red King of Fire for fire spells—or just the Red King for fire spells—the Court of the Drowned Queen for water, and then the Stone Chorus of imprisoned Old Gods for like earth and stone and stuff. And those make up all of your major and zenith moves, so I would love to like– I mean, one, we can't just use the Red King and the Court of the Drowned Queen and the Stone Chorus and the Sky Court, [Keith: “Right”] because that's just, Heart already did those. So I would like to figure out what those look like, but also just like, what is it that you…what does…do you have an idea for where these sorts of things would come from or how you want to frame any of these?
+
+
+Keith: No!
+
+
+Austin: Uh huh? [laughs quietly] 
+
+
+Keith: No, I have no idea!
+
+
+Austin: None! None idea.
+
+
+Keith: I mean, I've been thinking. I'm just like…
+
+
+Austin: But you'll pick one of these to start with, right? And maybe that's the way to end up thinking about it [Keith: “Right, yeah”] is when you pick the first one–
+
+
+Keith: And when do you get your first major ability?
+
+
+Austin: You start with a major ability.
+
+
+Keith: You start with one major ability.
+
+
+Austin: You start with three minor and one major. 
+
+
+Keith: Okay.
+
+
+Austin: And then the way it works is as you take– so, if you look at your Calling, whatever your Calling is, like if you’re Adventure, right? you have these minor beats and major beats and zenith beats, and at the end of a session, you select what you want to kind of flag for me in the next session, and it's anytime you fill a beat, you get a move of that type. So anytime you get a major beat, and you're only picking a couple of these, I believe, per thing. I don't think you're picking like– you're not picking like six, you know what I mean? [laughs quietly] Let me find the exact thing here. “Character advancement: Each Calling is made up of a core ability and several beats, which are split into major, minor, and zenith. These beats can be thought of as goals, achievements, or scenes that better shape your character’s story. When you hit them, you can choose a new advance from your class. Minor beats earn you a minor advance; major beats earn you a major advance; and zenith beats unlock zenith abilities, the most potent options available to your character. At the end of each session and before the first one begins, each player chooses two beats from the list provided. It’s the GM’s responsibility to introduce elements in the following session that allow you to start pursuing those beats. In general, minor beats can be fulfilled in a single session, major beats can take between two and three to properly achieve, and zenith abilities are generally selected to signal the beginning of the endgame for the character,” because zenith abilities tend to mean the death or retirement of your character, basically.
+
+
+Keith: Right. 
+
+
+Austin: And so…
+
+
+Keith: And so, the minor beats underneath the major abilities. Those…
+
+
+Austin: Those you would get–
+
+
+Keith: Like, you can take those after you unlock the major one?
+
+
+Austin: Correct, yeah.
+
+
+Keith: Right.
+
+
+Austin: So, let's say you took…what's the most simple one here? What's the one that’s just…?
+
+
+Keith: Uh, Fire King.
+
+
+Austin: Fire King? Is it Fire of the Red King?
+
+
+Keith: Or Fire of the Red King. Yeah, that’s the simple one.
+
+
+Austin: It’s just like, you get a spell that gives you range to your unarmed attacks.
+
+
+Keith: Yeah.
+
+
+Austin: You would take that either at the start of the game or after– let's say you had the Adventure Calling, right? You could say, “Hey, I want to do this major beat: ‘Slay a beast that's at least five times your size,’” right? Or “Save a Haven from destruction and doom,” or “Connect three Havens to one another with permanent paths.” Pick one of those. You succeed at that maybe after an arc of play, and then you would then get the…then you would say, “Okay, I'm gonna use that advance to take Fire of the Red King.” And then, if you also had or maybe after that had done one of the minor beats, like “Rescue someone from peril,” or “Get in trouble with the Hounds,” or “Defend a Haven from an attack,” or, you know, whatever. “Have a cocktail, fighting move, or legendary beast named after you,” right? 
+
+
+Keith: Yeah. 
+
+
+Austin: Then, you could say, “Okay, well, now I'm gonna spend that on the Fire of the Red King minor kind of element, minor ability.” “Your unarmed attacks inflict D6 Stress rather than D4,” or “In melee, your unarmed attacks have the Piercing tag,” right? And so that that ends up being the way you kind of level those up even more. So yeah, who knows? You know, you can think about this as like, if you manage to succeed at one major beat per arc, you'll still only end up with a few of these by the end of a season, you know what I mean? 
+
+
+Keith: Yeah.
+
+
+Austin: So, we don't need to go through and outline. We don't need to just fully replace what these four gods are or what these four sources of power are, but it's useful for me, because if there's another Junk Mage or something that shows up that touches on them, that can be useful.
+
+
+Keith: Mm-hmm.
+
+
+Austin: Do you know what I mean?
+
+
+Keith: Yeah. 
+
+
+Austin: And it's also just fun to come up with bullshit. So, we can also start talking about it once we get everyone, like, post this step, once it's kind of like I've synthesized what we already have and can lay out, like, “Okay, here are the major religions in the world. Here are the major, you know, schools of magic,” because maybe you'll look at that list and be like, “Oh, well, this is clearly a spell that could tie into this god,” you know what I mean? Like, there is a fire god that that is part of…there's a trio of gods that we have that are like tied to a religion of entropy and ash, basically. That's sort of like the…the elevator pitch is like a god and a religion that's meant to feel like There Will Be Blood, and if they're just like gods that– they’re just priest who like dig up old things and burn them for their power. They're like oil priests, you know?
+
+
+Keith: Hmm.
+
+
+Austin: They have ash, and, you know, fire and sparks as their kind of– the three symbols and the three gods are like, there's a god of spark, a god of flame, and a god of ash, who's also the god of death, the smiling god of death. And so, like, that's where our god of flame might be, you know? [laughs] Like, it's in that…
+
+
+[0:45:08]
+
+
+Keith: Right.
+
+
+Austin: That trio of gods. And so we already have one there that might be perfect for these flame ones, right? 
+
+
+Keith: Yeah.
+
+
+Austin: So like, by the time we're done building all this out, we might have a group to pull from, but I want you to feel comfortable being like, “Hey, I have a really good idea for a wind god or for god of ancient– like, I know what the Old Ones are,” or something. Do you know what I mean? So.
+
+
+Keith: Right. My interpretation was that all of these were different Old Ones, Old Gods.
+
+
+Austin: Yeah. That's kind of how I feel too. That's my read, is that, like, the class is so strongly written to be about knowing about the Old Gods, [Keith: “Yeah”] that that is how they should all go, you know? and it's just different variations thereof. It’s just like, what if you talked about the fae courts as being Old Gods as well, you know?
+
+
+Keith: Right.
+
+
+Austin: And not just–
+
+
+Keith: Or servants to an Old God. 
+
+
+Austin: Totally, totally. 
+
+
+Keith: Yeah.
+
+
+Austin: Yes. Yeah, exactly. So, yeah, if you don't have any answers for that stuff now, that's totally fine. 
+
+
+Keith: Yeah, I'll think on it.
+
+
+Austin: But we should still go over some of these.
+
+
+Keith: Religion is not something I've had to do any work on in all of Friends at the Table, pretty much, so.
+
+
+Austin: Totally, totally. And it's not what the main thing of this class is, so that's the thing, right? is like, if instead, you're like, “I want to think about this as elemental, you know, materials magic,” or something, we can go that route and then like talk about what the chemicals are and the–
+
+
+Keith: That’s tempting.
+
+
+Austin: You know what I mean?
+
+
+Keith: Yeah.
+
+
+Austin: Because that would also be pretty…would differentiate you from anyone who's pulling on that sort of magic, right? That sort of god-y magic stuff. You know, god-y.
+
+
+Keith: God-y, G-O-D-Y. 
+
+
+Austin: [laughs quietly] Uh huh. Exactly.
+
+
+Keith: Hey, but ask a Junk Mage, and maybe it is G-A-U-D-Y magic.
+
+
+Austin: Totally. Yes. The first one we talked about, Curse of the Sky Court, is the one that says, “Roll Compel plus Occult to cast the spell by drinking strong liquor or taking narcotics and intoning an ancient contract.” Obviously, we could change that part of it, because we already have lines and veils around like alcohol and narcotics this season, and specifically– like, not just generally, not just like there won't be bars. There will probably still be bars you can go into and people will still be drinking, but anytime that you're leaning towards, again, that sort of addiction narrative, we want to pull the veil there, or not include it at all, actually. And so that one's like, eh, but more importantly, that move is like mass area mind control, [Keith: “Yeah”] which is a troubling direction to go in, and I’d rather just kind of earmark it is something that we really have to either avoid or…
+
+
+Keith: I don't– like, I get the usefulness of like, a bunch of people stop paying attention to you. 
+
+
+Austin: Yes. Yes.
+
+
+Keith: But like, this one and then the other one that is the sort of biggest like…and actually, you had it earmarked in the Junk Mage thing that we have, is also Kiss of the Drowned Queen. Like, these don't even feel like ones that I would take anyway.
+
+
+Austin: Right.
+
+
+Keith: And so, I just feel like it's not…I mean, if–
+
+
+Austin: Oh, right. Kiss of the Drowned Queen is…so, like, the Kiss of the Drowned Queen one is interesting, because that's the one that says, “You've glimpsed the sunken Court of the Drowned Queen, where she slumbers and awaits. With a touch, you can conjure saltwater in the lungs of those who oppose you. This spell functions as the following weapon: Kill D6 Piercing. If the target is at least shin deep in water, it inflicts D8 damage.” The thing there is that like I want you to have the ability to take a move that gives you a Kill D6 Piercing weapon that does–
+
+
+Keith: Yeah. But I have that. I already have that in Fire of the Red King.
+
+
+Austin: Well, that move is– right, but that move is not as…so, that is true. You do have that, but what you don't have– that starts as a D4, because it's an unarmed attack.
+
+
+Keith: Okay, fair. 
+
+
+Austin: Right? And it does not do the thing of, like, if someone is in water or in something, it inflicts extra damage, right?
+
+
+Keith: Right.
+
+
+Austin: And again, like, there's other stuff in that move that I bet is cool. Like, one of the minor abilities there is: “You no longer need to breathe air; no matter the situation, you will not asphyxiate.”
+
+
+Keith: Ah, it’s on another page, so I keep not reading those.
+
+
+Austin: Yeah, uh huh. It's really good.
+
+
+Keith: Yeah.
+
+
+Austin: Or interesting, at the very least. You can walk on water is one of those, and one is: “You may no longer remove Blood Fallout or Stress by using Haunts.” Haunts are elements of landmarks. Certain landmarks let you relieve different types of Stress. Blood Stress and Fallout are like physical damage. “However, once per session, choose one of the following when you spend at least an hour submerged in water: remove all Stress from Blood, remove all minor Blood Fallout or downgrade one major Blood Fallout to minor,” and like, that's a really good healing spell that I don't want you to not have access to. 
+
+
+Keith: Yeah, fair, yeah. 
+
+
+Austin: And so, for me, the difference between the two is like, I would probably say let's X card the The Curse of the Sky Court one that's about like making everyone drunk and horny [laughs quietly] or rewrite it to be just like in a daze, you know? or something. 
+
+
+Keith: Right.
+
+
+Austin: But really have to like think hard about including that one at all, whereas I think the Curse of the Drowned Queen one can be less about…we can get around the bit of it that's like super gross, the lungs part.
+
+
+Keith: Right, because it's just flavor text.
+
+
+Austin: It's just flavor text, and we can say like–
+
+
+Keith: Because it functions as a weapon, Kill D6 Piercing.
+
+
+Austin: Exactly. Exactly, yes. Whereas the Sky Court spell functions as, “I've made people do something they don't want to do,” right?
+
+
+Keith: Right.
+
+
+Austin: And that is…I mean, again, you should take the moves you want to take, first and foremost. But I do want to earmark both of those as like, hey, if we decide you want to take those, let's do some work on them to make them not gross.
+
+
+Keith: And I think it ends up being a pretty…like, the path gets easier with the introduction of like, maybe we just get rid of the Old Gods aspect of this, because it's not…
+
+
+Austin: Mm-hmm.
+
+
+Keith: It is not as necessary to the changes we've already made to Junk Mage.
+
+
+Austin: Right.
+
+
+Keith: And it's like kind of not really what he's about mechanically. Like, all of the gods stuff is flavor.
+
+
+Austin: It’s so weird that the major abilities are all tied to these god things when you don't start with the Religion domain, when you start with the Occult domain. I guess the thing is, you know what, I guess here’s the difference.
+
+
+Keith: It’s like the delving deeper thing?
+
+
+Austin: Well, yeah, it's exactly that, right? Because, according to the way the book is written, Religion as a domain is gods and things worshiped like gods, whereas Occult things are hidden knowledge and black magic. And so, yeah, the reason it's all Old Gods stuff is, like, those are Occult, right? Those are not Religion. No one has a church [Keith: “Right”] to the, you know, the Red King or the Sky Court, or if they do, it's a secret church. It’s not a–
+
+
+Keith: The Stone Chorus.
+
+
+Austin: Right. The Stone Chorus is not like in the major cities. There's not a temple to the Stone Chorus, because it's an Old God. So I guess that makes sense. That's an important distinction in terms of theme, I guess, you know?
+
+
+Keith: Yeah. 
+
+
+Austin: Anyway.
+
+
+Keith: I don't feel like I need it.
+
+
+Austin: Yeah, totally. The one place where we are going to need something is probably the zenith moves, because those are so tied to something bigger, and we can talk about them in other terms– we can talk about those when we get there.
+
+
+Keith: Yeah.
+
+
+Austin: You know, eight months from now or whatever.
+
+
+Keith: How are we doing–? Are we…
+
+
+Austin: Are we doing zenith moves?
+
+
+Keith: Are we all just gonna die?
+
+
+Austin: If you take a zenith advance and get it and take a move, yeah, but that's on you. 
+
+
+Keith: Okay.
+
+
+Austin: Right?
+
+
+Keith: Yeah. Okay.
+
+
+Austin: You know, the zenith beats are very big. “Find the secret you have so desperately sought and use it to solve your impossible task”? You know?
+
+
+Keith: Fair. Yeah, that’s big.
+
+
+Austin: That's the end, you know?
+
+
+Keith: Yeah.
+
+
+Austin: “Find the secret you have desperately sought and destroy it so no one else can have it.” The Pentinent ones are like, “End the control that your master has over you,” or “Take bloody revenge on your master.” Those are meant to be like big ending things. And so then, for you, right, the three zenith moves that you would have available, whichever one you– one of them; you don't get all of them. You know, one of them let you open the door to the King of Want, the Red King, a writhing town-sized knot of jealousy and fire and iron-hard scales. And so, that's, you know, that's a specific thing, right? 
+
+
+Keith: Yeah.
+
+
+Austin: That's like you're summoning a dragon, basically.
+
+
+Keith: On a success, you become the new Red King.
+
+
+Austin: Yes, right? And so, like–
+
+
+Keith: A furious engine of desire. 
+
+
+Austin: My guess is when we get to zenith abilities, we'll look at these and either know in our hearts already what they should be or rewrite them to fit us, because they all very specifically are like, the queen is here, the Stone Chorus– you are able to seal something away in the Stone Chorus where all the Old Gods or some of the Old Gods are locked away. And so that ends up being like, okay, we'll have to figure that out, but. 
+
+
+Keith: Yeah. 
+
+
+Austin: Speaking of the Stone Chorus, I guess we've already kind of hit that. And so then, yeah, I guess the last thing here on the moves type stuff is you do have Occult as your starting skill. And I think maybe we have an answer on this already, but like, can you talk a little bit about what you think is fun about Occult and like distinct from the other classes that have Occult? Again, being that like Deep Apiarist is tied to this magical beehive somewhere, this magical bug grouping. We don't know if it's bees yet. I'm trying to push Art away from bees, but we'll see. And then Janine’s thing is like, it's just tied to being a sort of ghostly figure. And it sounds like, for you, Occult is about digging deeper and knowledge more than ability, if that makes sense. 
+
+
+Keith: Yeah, yeah.
+
+
+Austin: So I think that's pretty straightforward. Let's see. We already talked about this one. This next one was about like places, landmarks that you'd like to see that are associated with Junk Mages, where you wrote “Shops, salvage centers, affiliate clubs, short literature, pamphlets, et cetera.” I think that's fun. I like those a lot. Think about those if we ended up doing like a world building game for the city that we start in, the Haven, because it'll be good to have something like that tied to your character. 
+
+
+Keith: Mm-hmm.
+
+
+Austin: Do you have a Calling? Do you have one of the five Callings that like speaks to you at this point? 
+
+
+Keith: Um…let me see the list.
+
+
+Austin: Adventure, Enlightenment, Forced, Heartsong, and Pentinent. Penti– hmm. Penitent. There we go.
+
+
+Keith: Um…I was looking at these, and I sort of forget which one I liked best.
+
+
+Austin: Well, we're not doing a character sheet yet anyway, so when we get there, we get there, right?
+
+
+Keith: Yeah. 
+
+
+Austin: So that's fun. And then, you know, one of the big ones here for me is to start thinking about why it is you want to be part of the Haven and help the Haven. 
+
+
+Keith: Yeah.
+
+
+Austin: And, again, that’ll come into clarity a little more as we build it.
+
+
+Keith: For Callings, I want to say probably—just to go back for a sec—probably Adventure or Enlightenment. Probably one of those two. 
+
+
+Austin: That makes sense. 
+
+
+Keith: Yeah.
+
+
+Austin: Yeah, I think that makes sense, given the way we've talked about the character. 
+
+
+Keith: Yeah.
+
+
+Austin: Definitely not forced.
+
+
+Keith: No.
+
+
+Austin: I doubt Heartsong. Heartsong leans so hard into the like, “The madness is driving me,” stuff. 
+
+
+Keith: Yeah. 
+
+
+Austin: You don't have to play it that way. It's not, you know.
+
+
+Keith: Yeah.
+
+
+Austin: It's much more about–
+
+
+Keith: Any way that I would interpret Heartsong to be less with the Cursed thing just makes it sound like Adventure or Enlightenment.
+
+
+Austin: Or Enlightenment. Yeah, totally, totally. I will say, look at the beats, and also look at the moves also.
+
+
+Keith: Yeah.
+
+
+Austin: Because each one does have a starting move. And then, yeah, Penitent. I kind of think it'd be fun if there was some wild thing, but we've already not associated you with like an order, so it doesn't feel like “you've betrayed an order,” you know, makes a lot of sense for that.
+
+
+Keith: Yeah.
+
+
+Austin: But if you decide that you committed some great betrayal and want to go that road, that would be fun. But I'm totally good with Adventure or Enlightenment. I think those make a lot of sense and also then help explain why you're committed to helping the Haven, which is like, they're helping you get towards Adventure and Enlightenment. Your goals are just like…
+
+
+Keith: Yeah.
+
+
+Austin: You're enjoying this. You enjoy doing this, basically. 
+
+
+Keith: Yeah. Yeah. 
+
+
+Austin: So that just makes sense. And then, also, you know, clearly you have a lot of skill, so that's probably why the Haven is more or less happy to have you. This is an easier question with you than, let's say, the ghost what possesses people by contract or the bug guy, [Keith laughs] the guy who's being turned into a beehive, right? Where I have to be like: okay, well, what's up with the Haven that they're chill with you? So, yeah. And then finally, yeah, the final question is just about this kind of, like, these ideas of contradiction, uncertainty, and community, which are kind of the throughlines this season. I'm curious how you feel the Junk Mage fits into those in an interesting way, or I just want to like, open…I want to say those words so that the brain automatically starts playing in that space, you know what I mean?
+
+
+Keith: Yeah. So, I have to think more about contradiction and uncertainty.
+
+
+Austin: Mm-hmm.
+
+
+Keith: Written here as “(un)certainty.”
+
+
+Austin: Yes. Because it’s both uncertainty and certainty, you know?
+
+
+Keith: Right.
+
+
+Austin: It is the recognition that nothing is promised or definite and then the insistence on certainty or the admission of uncertainty in the face of that, if that makes sense. 
+
+
+Keith: Yeah.
+
+
+Austin: That's kind of the space I'm interested in.
+
+
+Keith: We touched on this a little bit, but I have written: “Communal efforts to understand magic. Junk Mages understand it in a particular way, and they want to understand it better but also want people to understand how they understand it.”
+
+
+Austin: Right, right. Which, again, connects back to that earlier idea of them being like, they want to share what they know, right? 
+
+
+Keith: Right. 
+
+
+Austin: That's like a huge part of what they are.
+
+
+Keith: And I would– I imagine they're– not successful in the way that they want, but I bet there's like…I bet a bunch of different schools of magic are taking like 2% of Junk Mage shit.
+
+
+Austin: Yes. Totally.
+
+
+Keith: Like, they find this small little thing of like, “Oh, that's actually extremely useful,” and then–
+
+
+Austin: Right. And is not so deviant that we can't use it or whatever, right? Like, you know, “This is basically– in fact, they probably took this from us. They probably learned this from one of us, actually,” right?
+
+
+Keith: Right. Yeah. And they probably did. 
+
+
+Austin: [laughs] Right. Yes, actually, right? Yeah. They found some old lecture notes that everyone else ignored because they were just like, you know, scribbles or whatever. 
+
+
+Keith: Right.
+
+
+Austin: And the Junk Mage was like, “No, there's actually good stuff in here.” You know?
+
+
+[1:00:00]
+
+
+Keith: Yeah, and then they're like, “Yeah, there is good stuff. Our good stuff. Thank you.”
+
+
+Austin: Yes. Exactly, yeah. Totally. [both laugh] Which explains, again, kind of like why people put up with you is because, at the end of the day, you're kind of a horsefly that like pushes everything forward a little bit, even if you're kind of annoying or refuse to like stick to dogma or, you know, to the syllabus, you know?
+
+
+Keith: Is that a saying or did you just pull horsefly? 
+
+
+Austin: That's like a way that people talk about Socrates.
+
+
+Keith: Oh, okay. I actually do remember this.
+
+
+Austin: That Socrates was like horsefly of– 
+
+
+Keith: I remember that, yeah.
+
+
+Austin: Or I guess the– sorry, the gadfly, but…
+
+
+Keith: Gadfly, yeah.
+
+
+Austin: I always thought of it as a horsefly. Yeah, a gadfly that bites a horse and moves Athens forward is basically the way that–
+
+
+Keith: Yeah. I totally remember. 
+
+
+Austin: And that's just drilled in my head from philosophy classes, even though that's not like…
+
+
+Keith: It’s funny, because I had the same reaction when I learned this in a philosophy class as when you said it now, [Austin laughs] which is that I just associate horseflies as the thing that really hurts when I'm trying to swim in the swimming pool. 
+
+
+Austin: [laughs] Yes. 
+
+
+Keith: And I duck underwater and splash all around to get the horsefly away.
+
+
+Austin: Ugh, they’re fucking gross. They're so gross. I hate them.
+
+
+Keith: They hurt! They really hurt!
+
+
+Austin: They do really hurt. They absolutely hurt.
+
+
+Keith: They hurt so bad that they hurt horses.
+
+
+Austin: Right! And horses are big!
+
+
+Keith: And horses are big. They're, I mean…I would go as far as to call them megafauna, some of the last.
+
+
+Austin: Some of the last of the megafauna, you're right. God, there's a type of bug that I grew up with that might just be a horsefly, but there's like a name for it in…oh, yeah, greenheads, greenhead flies. Do you know about green–? Are those just horseflies?
+
+
+Keith: I don't know. I don't think– I don't know greenheads. That’s not a thing for me.
+
+
+Austin: They sucked. They sucked so bad. Yeah, “Greenhead horse fly, salt marsh greenhead, or simply the greenhead fly, greenhead, or greenfly is a species of biting horsefly commonly found around coastal marshes in the eastern United States.”
+
+
+Keith: Yeah. This is them. This is what hurts me.
+
+
+Austin: I fucking hate these things so much. Yeah, they're like a classic, like…they're like a classic I hate going fishing because I'm going to get bit by greenheads all day, and it's miserable.
+
+
+Keith: Yeah.
+
+
+Austin: They hurt! They hurt!
+
+
+Keith: They really hurt. They really genuinely hurt bad. 
+
+
+Austin: Yeah. 
+
+
+Keith: Like, worse than a bee sting, easy.
+
+
+Austin: Definitely. Definitely. 
+
+
+Keith: They’re like on the level of hornets. 
+
+
+Austin: And like, unlike a bee sting, they don't go away. It’s not like they– when they bite you and get your blood, they get to stay around. 
+
+
+Keith: Yeah.
+
+
+Austin: They don't die from that shit.
+
+
+Keith: This is an offensive bite. This is not a defensive bite. 
+
+
+Austin: Yeah. Yeah! 
+
+
+Keith: They fly around, and they bite you. Yeah, this is why when there's a horsefly in the pool, everyone goes underwater and splashes all around until it goes away. 
+
+
+Austin: Yes. Ugh.
+
+
+Keith: Or you're gonna get bit on like the back of your neck or like your ear, and it fucking sucks.
+
+
+Austin: Ugh, ruin your whole fucking day. Yeah.
+
+
+Keith: Yeah. 
+
+
+Austin: Anyway, you're one of those, but people like you, [both laugh] 'cause it’s good. No, no. 
+
+
+Keith: I feel like I'm not that bad. [laughs] 
+
+
+Austin: No, I don't think so. 
+
+
+Keith: I don't know. I haven't played this character yet, but I feel like I'm not as bad as a greenhead.
+
+
+Austin: Yes, yes. Totally. God. All right. I think that's it, then. Thank you for chatting about this. 
+
+
+Keith: “People have tried for decades to poison greenhead flies. The flies, for the most part, just laugh at you. Humans have not done a good job of eradicating greenhead flies.”
+
+
+Austin: Wow. Decades! That's wild. 
+
+
+Keith: Yeah.
+
+
+Austin: They suck. They suck so bad.
+
+
+Keith: Oh, we have made them resistant to pesticides.
+
+
+Austin: Yeah, of course. Of course we have. Yeah, that makes perfect sense. [Keith laughs] Fucking, we're dumb. We're dumb as shit, man. 
+
+
+Keith: We’re so stupid.
+
+
+Austin: Ugh, God. [Keith laughs] All right, on that note, we should wrap up. Thank you, Keith, for joining, and I hope– we only have one more of these. Jack’s is the next one, last one to do, and then I can start synthesizing ideas.
+
+
+Keith: Is that– that's not tonight, right? The one Jack’s doing.
+
+
+Austin: That's tonight. That’s 7:30.
+
+
+Keith: That is– oh, wow. That's late.
+
+
+Austin: Jack set the time. That's not on me. Don’t look at me.
+
+
+Keith: Okay. All right.
+
+
+Austin: [laughs quietly] So yeah, so that's exciting. 
+
+
+Keith: Yep.
+
+
+Austin: Let's do a clap. Let's do an outro clap.
+
+
+Keith: Okay.
+
+
+Austin: Let's do 40 seconds? Plenty of time. [clap] All right.
