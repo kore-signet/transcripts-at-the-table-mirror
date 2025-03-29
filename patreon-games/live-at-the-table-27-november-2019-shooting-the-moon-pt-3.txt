@@ -1,0 +1,878 @@
+﻿Live at the Table Audio 27: November 2019 —Shooting the Moon Pt. 3
+Transcriber: Lu
+Rules and Recap [00:18:40]        10
+Scene One - Carroway [00:31:50]        17
+Scene Two - Mellow [1:06:15]        1
+Scene Three - Dovie [01:38:50]        1
+
+
+[music intro - “Atop the Marchmont Mountains Cold” by Jack de Quidt]
+Jack: Hi.
+Ali: Hi! [laughs]
+Jack: Your microphone—
+Ali: Hm?
+Jack: Janine is—Janine is on her way. 
+Ali: Wait, how can we hear you, but other people can't?
+[stream echoes in the background, Ali laughs]
+Jack: Oh, wow. We can just relay to listeners what you're saying. Oh.
+Ali: [sighs] Well… hi.
+Jack: Hi! [Ali giggles] Oh, god, have we now lost Janine? 
+Janine: Yes? No?
+Jack: [laughing] No no no, you're back.
+Janine: Okay, okay, we’re okay.  All right.
+Ali: Hi.
+Janine: I turned the audio off of the thing… [laughs] How’s—am I very quiet?
+Ali: [crosstalk] [giggles] How are you doing?
+Janine: I shouldn't be quiet, I'm like almost in the yellow. I can bump myself a little—how’s everyone else? We all good? I’m a little sc—I can't listen 'cause— ‘cause that didn't work before. [laughs]
+Ali: No. But people are saying we're audible, which is important.
+Janine: [crosstalk] Hashtag notspons.
+Jack: [crosstalk] Uh-huh. That's the minimum possible standard. Uh-huh! [Ali chuckles] Good levels.
+Ali: Uh-huh.
+Janine: Okay…
+Ali: Yeah, so—oh!
+Janine: We have to do an intro [laughs], and also clap, and—
+Ali: [crosstalk] Yeah, I was—I'm waiting. [laughs]
+Janine: [laughing] Okay. Go for it.
+Ali: Just waiting for the time—okay, so, welcome to Live at the Table. This is also an actual play podcast focused on critical worldbuilding, smart characterization, and fun interactions between good friends, um… we’re returning with Shooting the Moon, which is a game by Emily Care Boss. I personally purchased it in the Romance Trilogy, which is a book of three games about different relationships. The first one is like, you play two people going on different dates, and then at the end you see if they even like each other. [laughs] And then there's Shooting the Moon, which is what we’re playing, which is two Suitors, uh… vying for the love of a Beloved, who has dreams of their own. And then the third one is like a LARP about people who are all friends but are dating and also I think broke up. They're all really good, there's a bunch of really good hacks for them in the book, I strongly recommend it. We played this game a year ago…? [laughs]
+Janine: Yeah.
+Jack: Yeah! Pretty long, right?
+Ali: It was last December on the 13th, I think, that we started this? And now we’re back! Um... I don't think I can think of anything else for a intro. [laughing] 
+Jack: Welcome.
+Ali: I am joined by my good friends, Janine Hawkins.
+Janine: Hey, I'm Janine Hawkins, you can find me @bleatingheart on Twitter.
+Ali: And Jack de Quidt.
+Jack: Hi, I'm Jack, you can find me on Twitter @notquitereal, and buy any of the music featured on the show—including the holiday bop, soon—at notquitereal.bandcamp.com.
+Ali: [laughs] And I am Alicia Acampora, you can find me @ali_west or you can find this show, Friends at the Table, over @Friends_Table. Um… I'm really excited to return to this. [laughs]
+Janine: Me too.
+Jack: Yeah. This game rules, and our version of this game also rules.
+Janine:  Yeah.
+Ali: Uh-huh! I… It's so weird 'cause like, it's been an entire year, and I haven't written a single thing down, or remembered any of the things that I’ve thought about, but there's definitely been times in my life where I've like, been in the shower or whatever, just idly thinking of curses [laughing] to bring up in this game later. Um… and now we’re back!
+Janine: [crosstalk] I’m the same, but with names for Odd Job Boys. 
+Ali: [sigh] Good, good. I'm glad. Um…
+Jack: Oh, also in the last recording I was ill, and I'm ill in this recording as well.
+Ali: Uh-huh.
+Jack: And I think you also are, Ali?
+Ali: I'm—yeah, I'm getting over some sort of infection?
+Jack: [crosstalk] Tis the season.
+Ali: I’m like out of the—yeah. I'm out of the like, sick symptoms phases, except that I'm running at like, 80% energy. [laughs]
+Jack: Ohh… Yep. Mm-hm. I feel you.
+Ali: [amused] Which is a great time to be really focused with this very number-y, mechanical game. That we’re gonna play flawlessly a second time. Um… Jack was very nice to make some notes on our previous session, and I'm just kinda go through them now—we can talk about our characters and sort of what we’re doing here?
+Janine: Yeah.
+Ali: Do we wanna start with characters maybe? Are y'all on the Roll20—okay, yeah.
+Janine: Yes, and I can switch us over—and now everyone’s on the Roll20.
+Ali: Perfect. Okay. Oh—Sylvia[1] is asking for a Youtube link in our Discord, I’m gonna share it… uh… okay, alright. So yeah, so this game is focused on, as I said, two Suitors pursuing a Beloved? But they also sort of have aspirations of their own, and the way that we set it up is that our Beloved is a toy designer who owns a toy shop and was recently burned by their—as I was listening to us say this I was like—are we trying to think of the word ‘apprentice’? But it was a little more than that, 'cause it was like…
+Jack: Mm.
+Janine: I mean, I think it's just like, ‘business partner’, or like…
+Ali: Right, yeah.
+Janine: I mean, there's even like, ‘collaborator’?
+Jack: We settled on ‘first mate’. [Ali laughs] Which is wrong!
+Janine: [amused] When I was listening to that I realized—the reason we settled on first mate was because… because—I forget—the discussion was like “What's the name of the person—the first mate on a ship?” and it was like “Well, first mate, that's what that's called” and we just left it there. [laughs] 
+Jack: Uh-huh. Yep.
+Janine: We didn't interrogate the metaphor at all. 
+Ali: [giggles] Um… Janine, do you want to speak a little bit more about Dovie? 
+Janine: Yeah! Um… so, I was playing the Beloved, Dovie ‘Dove’s Wings’ Bluett. Bluett—it—I realized also listening to this it was worse than I thought in t—it sounds like I named her Dovie Fuck-up. [all laughing] But it was supposed to be—it's fine. Bluett’s like, it's blueberry—she owns a store called Penny Many-Things, where many things are a penny but not all of the things, it's a toy store that we modeled after a Sephora. [laughs] Um… and she is ingenious, generous, attentive, she makes the best stuffed dog faces, she's patient, she's good under pressure, and she's a little scared of being put out of business by MaGuddans, which is the store that poached her collaborator. And her collaborator is doing kind of like, toy making theater there, I think we described it as? Where it's like a historical reenactment thing where you just make the same thing and unmake it and it’s just so people can come look and be like “Ooh, they make the toys here”, and they fucking, they don't make the toys there. Um… [laughs]
+Ali: They don't. 'Cause it's like a horrid department store, and there's 20 of them throughout the lands…
+Janine: So she—in terms of her motivation, she… her dream is to make it into the newsletter’s best new toy, 10 toys list—she wants to make one of the hottest toys of the season. But she… is very aware that—y'know, Dovie Bluett is not a subscriber to like auteur theory of like, you just need a genius with a vision to make the perfect toy—like, no, you need people who have different backgrounds than you, who can give you different perspectives, and then together you will make something very good. But she has to find that person that complements her in the right way. Um… and that's where Carroway and Mellow come in.
+Ali: [laughs] Yes. Carroway and Mellow are our Suitors, who both dream of having a window in the toymaker shop. Jack, do you wanna go over Carroway and then I'll follow up with Mellow?
+Jack: Sure. Carroway, she's a toy designer? She is extremely good at making, um… stuffed cats, stuffed toy cats, with the exception that she's very bad at making sure that the legs are all the right length, which is—[laughs] I guess fairly important. Um… I think Dovie was like “Well, it wouldn't matter if, y'know, some of them were—” Basically they're all the wrong length. There is no way these cats can stand up. She is easily distracted, but very passionate about her work, she sort of flits from one thing to another, but when she finds something that she wants to do well in, she sticks to it—this does not include cat’s legs—[Ali laughs] um… She is thoughtful, but brisk. She's sort of—I think she has the capacity to just sort of be like… we talk about this in the previous episode, about trying to find the exact word for this, where it's like… she can be consumed enough by something that distractions or relationships can fall by the wayside, because she's sort of like “Well, yes, we’re doing this, this is what's happening now”. Um, she's close friends with Loyal Duncan? [Ali and Janine chuckle] Who is… [laughing] I don't know, is he the head of the Odd Job Boys, or is he an Odd Job Boy?
+Janine: I think he's perhaps just a particularly congenial Odd Job Boy.
+Jack: [laughing] Sure, sure, okay. He's a Odd Job Boy, who we initially set up to be kind of alpine… sort of urchins? [Ali laughs] Y'know, when you say “fetch me a turkey, the one as big as you”? That is an Odd Job Boy that you're talking to. But I think over the course of the game we discovered that they sort of have like a fairly formalized operation. You can like, go and ask for some to do specific jobs and they'll assign you Odd Job Boys to do things. But I think they're all children. Um… Carroway loves to hang out at the Glacier Express, which is a… a strudel shop? It's small, it has round tables packed close together, there's condensation on the windows, it serves—there's a nice smell of pastries inside, hot chocolates… I guess where this game takes place is very cold, so in the winter everybody goes and hangs out in this strudel bar. There's a wooden toy train that runs around the strudel bar—runs? Goes around the strudel bar, and that was made by Dovie some years ago. Carroway also owns an extremely powerful horse called Ransom? [Ali giggles] Whom Janine introduced by saying “Ransom has never broken eye contact first”? I think this is just Carroway’s horse, or Carroway has some kind of connection to this horse—it has not showed up on screen yet, [crosstalk] but I have spent an entire year—
+Janine: [crosstalk] No, we have done so little with Ransom and it's a shame. [Ali laughs]
+Jack: December 18th was when we played that game last, it's now December 30th, and uh—31st—I've been working on Ransom [Ali and Janine cackle]. He’s been getting bigger over the year. That horse is gonna show up. Um… yeah, and then I guess we can go over traits in a bit, once you've described Mellow and we have more of a sense of how these characters fit together?
+Ali: Yeah, absolutely. So I'm playing the second Suitor, Mellow Aster. She [laughs] unfortunately has a problem designing dog faces? But does incredible tail wagging, so she… [laughs] persists nonetheless.
+Janine: And her tail wagging is—the secret of her tail wagging is like, carbonated water, it's like seltzer, right?
+Ali: Yes, right. 
+Janine: Perfect. 
+Ali: It's like a—[laughing] 
+Janine: [crosstalk] It’s silent.
+Ali: You hold it up your ear and it sounds like the dog is purring, I guess, [Janine overlaps] and it doesn't add any weight or—
+Janine: [amused] Or popping.
+Ali: Yeah, yeah. [laughs]
+Janine: [laughing] Love to sit by the hearth with my popping dog.
+Ali: It's—okay, I don't want to brag, but I listen to a lot of Friends at the Table—[laughs] 
+Jack: [laughing] Uh-huh, yeah?
+Ali: Listening to the stream was like the most intense, like “What the fuck are you even saying”—
+Jack: It’s so good…
+Ali: [laughing, Janine cackles] that I've had listening to myself. Um—and I know it was because I was like “Oh, I have to know how to play this game and also play it”, um… and here we are again, I'm on a different desk on another coast with a bottle of seltzer [laughs] playing Shooting the Moon! Um… god. Okay, yeah. So, Mellow is also observant, but she's myopic—is that how you pronounce that? [laughs] Which means that she is very detail focused, but can get really tunnel vision-y about those details? And she's also very impatient, but she’s methodical, so. She—I guess uses her time really wisely, and because of that, when there are things that seem as though they will waste it, she gets very testy about those things. Her best friend is Stacey Lane, who is a town architect. She hangs out at the Landslide, which is a [laughing] speakeasy that is behind the Glacier Express?
+Jack: Like that Hello Kitty in Irvine.
+Ali: Exactly, yes yes yes. Yeah, as we were developing a cool bakery called the Glacier Express that used to deliver—that used to sell ice to people in the town until people could just have their own ice, I think is how we set that up? I was like “Oh, well, if they were doing that, there's a bar in the back that owns.” [laughs]
+Janine: I think it was that it's like, off season for ice. Like, in the summer they probably still do ice business, but now it's winter and you can just—
+Jack: There's fucking ice coming from the sky.
+Ali: Right, yeah. Exactly.
+Janine: Yeah. You can just hang your shit out the window, if you need to be cold. 
+Ali: Um… and her thing is a cornet, which is a type of horn, which we also haven't done anything with and I'm excited to get into. Um… Potatonaught in the chat asks “​I missed the first time around, does anyone know why "conflict" is crossed out on the sheets?” And that is because the conflict stuff is like an optional thing that you can add if you're playing this game with two players? I… don't remember exactly why, [laughs] but. That's what that's there for and that's why we’re not using it. Again, a thing that I really, really like about this book is that there's a ton of suggestions on how to, like, play these games differently, or hack them, or—like, there's a version of Shooting the Moon where it was like “If you wanna be werewolves on a mountain [laughing] instead of three Suitors in this thing, you can play it that way.”
+Jack: It’s not too late.
+Ali: Here you go. It isn't. Um. There’s so many curses that we could have. But yeah, so that's kind of the basic structure of our characters—oh, just to say, all of the player characters are she/her, these are three women who are all toymakers and uh… y'know, their fates are intertwined. [laughs] 
+Rules and Recap [00:18:40]
+Ali: So just to talk kind of high level about the way that this game works, and the way that the turns are structured, it's kind of a round robin thing, where you go through three different phases of three different turns? Each of the Suitors get their turn where they're sort of appealing to the Beloved, and who… what they want out of their prize while the Beloved is chasing their dream. Again, for the Suitors the prize is to have a window in Penny Many-Things and for Dovie it is to make it onto the newsletter’s best new toy top 10 list? [snorts] I guess that’s like a post holiday thing? It's like “Oh, Christmas is over now, but here's the top 10…?”
+Janine: I think it’d probably still be pre-Christmas, it's probably like… a gift guide, kind of, like “Here's the stuff that they can't keep on the shelves” so it's like a little bit informed by shopping? But also probably a little bit informed by insider business, y’know. [Ali giggles]
+Ali: Right. Yeah, fair. I guess we didn't really set up—we were like—when we had set up the… the curses hurdle, it was sort of like “the holiday season is approaching and we’ll need all of this velvet coming up”.
+Jack: [crosstalk] Mm. Mm-hm. All the velvet. [laughs]
+Ali: [laughs] Yes, this is more of like an early December sort of situation. But before we talk about all of that, let me go over sort of what the… I’m gonna continue going over what the turns are like, so we can talk about what happened during them [laughs]. 
+So, like you said, each Suitor gets their own turn. In the first scene, we had Carroway talking to Dovie about cakes, as Dovie was like “Hey, I would love for you to, maybe, come work for me or maybe not?” [laughing] Very non-committal.
+Janine: It's like, I need to get to know you first, 'cause I don't really know—y'know, when the only thing you know about a person is that they make a good cat face, it's like—you need something else, you need to spend some time.
+Ali: Yeah, yes, absolutely. And the hurdle in that scene was that Carroway, who is easily distracted, was easily distracted by a cake that was there? [laughs] That was—I guess rude to do, 'cause you can't like have this professional conversation with a stranger and then be like “Excuse me, I need to have all of the information that I can about this cake”. Um… for Mellow, she was in Penny Many-Things just looking at the toys and had a similar conversation with Dovie. And then the hurdle there was that someone showed up and sort of like, tried to hire her, which was rude and annoying. [laughs] And there we go! And then once both the Suitors have their turns then the Beloved has their turn, and what Janine has to do is set up a hurdle for either both the Suitors or all three of us. Um… [laughing] that was that, um… velvet—there's a velvet—not manufacturer, but like, supplier.
+Jack: A press!
+Ali: [laughs] A velvet press, yes. And, um… all of the velvet has been cursed. And you can't like, make toys for children and give them curses? [laughs] Or maybe you can, which is a—
+Janine: Yeah, I think it was specifically like… there is still velvet, but because the nature of the curse is unknown, that velvet is—there's like a... an act, a government act, law kinda thing that says that you can't use that kind of thing for like, sensitive—[laughs]
+Jack: [crosstalk] Right, the mayor was unhappy.
+Janine: [laughing] For like, sensitive tasks, so. Nothing with children, or probably the infirm. Or—y'know, pregnant women—pregnant people in general, like nothing—you can't use something that might have a mysterious curse on it for anything where a person who is in a vulnerable position might be affected. So you can probably still use it for like, if you wanted to make some kind of big ornamental velvet tent, just sit in your yard and do nothing.
+Jack: [crosstalk] Can they do curtains? [Ali giggles]
+Janine: They could probably do curtains.
+Ali: Yeah, the curtains just sit over there, you're not gonna get cursed by a curtain.
+Jack: What about pregnant folks in the front row?
+Ali: I—yeah, I suppose.
+Janine: I mean it’s—yeah… it could—
+Jack: “Folks, these curtains have been cursed, please… sit at a safe distance.” [Ali laughs]
+Janine: I imagine if a curse is unknown then the strength of the curse is also probably not potent enough to reach like, ten feet or more.
+Jack: Mm, true, true.
+Ali: Well, you can't—the curse is unknown, you can't know that about the curse.
+Janine: That's true.
+Ali: If you had more information about the curse you would know the curse’s range, the—[cackles]
+Janine: It could also be a curse that doesn't actually—the effects don't actually hit you for 20 years, so like…
+Ali: Right, exactly, yeah. Um… so that is why our genius characters in that scene decided to come up with a plan to… god, both get more information about the nature of the curses and see if there could be some sort of curse reversal. [laughing] And I think that was very rudely suggested by Mellow, that Carroway both do it and pay for it!
+Jack: Yeah! And pay for it! [laughs, Janine cackles] It was great! I was reading the transcript and Mellow is like “Well, so we’ve determined that the Odd Job Boys employ something called a counter-witch”? His name is, I think his name is Hex’t Linus? [Ali giggles]
+Janine: Hex’t Linus, yes [laughs].
+Jack: Yeah, Hex or Hex’t Linus. I've written him down as ‘The counter-witch for the Odd Job Boys’. And Mellow is like “Yeah, go find him! Um… but he will probably require payment” and Carroway’s like “Yes, good point, he probably will'' and Mellow is like “Well, bye! [laughs] Good luck with that!”
+Ali: [laughing] I remember just being—it was 4 hours into a 4 hour recording? And I remember also being just like… remembering that Mellow was furious in the previous scene, and then also the immediate start of that scene was Carroway being like [insinuating] “Well, I saw Dovie’s back room” and I was like, “I'm so mad in this moment that I do not care”. [Janine laughs]
+Jack: [crosstalk] Yes! I saw the velvet. Oh, extremely good.
+Ali: So that is where we start…
+Jack: Also, I don't have any money, right? Like, I'm pretty sure I described Carroway as going pale because she realizes that she just doesn't have the cash to pay for a counter-witch. 
+Ali: [laughs] Yeah, and that is the new complications for these characters as we continue this game. We are on—we’ve done one full round, and now we’re here for two and three tonight, hopefully!
+Janine: Yeah. We don't have to create characters, so that saves us… all of the time in the world. [laughs]
+Ali: Yes. The one thing that I wanted to make note of as like, a—a playing thing, is that traits are so important in this game? And like, listening to it again, as we were trying to figure it out, I was really struck by that? That like, you should constantly be thinking about your own traits and the way that you can use them, but you should also constantly be thinking about other people’s traits, and the way that you can either like, use them against them, or—especially in your position, Janine, or—I mean, any of us—a way that you can get extra dice in this game is by suggesting things for other people based on what traits that they have? Um… so, just keep really aware of those things, 'cause that's how you fuck with people. That being said, do we wanna go over our traits?
+Janine: Yes. [laughs] Probably.
+Ali: Jack, do you wanna start?
+Jack: Or should we start with Janine, since she started—do we wanna go in that order?
+Ali: Oh, sure.
+Janine: We could go either way. Um… I have the fewer traits, so it's a quick one. I’ve got ‘tried a new dessert’ because we really leaned into the fact that traits feel a little bit like Sims moodlets.
+Jack: [laughs] Yeah. [Ali giggles]
+Janine: ‘Relieved’—I don't remember why ‘relieved’.
+Jack: You’re relieved because, um… Mellow didn't jump ship to go work for Mr. Click when he arrived and made his slimy plea to come work with MaGuddans.
+Janine: Right, right.
+Ali: Right.
+Janine: Um… and ‘short on components’, because of the velvet.
+Ali: Right, you are currently… supplying some of your own, non-cursed—[laughs] pre-cursed velvet supply to other craft-people in the town, because you are a generous person, because it was suggested by Carroway during the crafts meeting when we found out about the curses, and also because-y'know, it's a nice thing to do. But you are running low on velvet and cannot supply it—resupply it until we figure out these curses. [laughs] Carroway?
+Jack: I ‘shared a lovely breakfast with Dovie’ in the Glacier Express. I am ‘busy finding counter-witch’. Uh—[laughs] this says… This says ‘holiday convenience fee deposit’? [Ali and Janine laugh] Hey, what does that mean?
+Janine: Yeah, what?
+Jack: [amused] I mean, I assume we must be talking about like, the fee for the counter-witch? Or the fact—like—w...
+Ali: Yeah. It was set up that not only is there a fee to speak to the counter-witch, but because this is both a rush job and a holiday job, [laughing] there's an upcharge for that.
+Janine: Holidays means haulin-days, they need all their hands out haulin’... [Ali giggles]
+Jack: Yeah, they need all their hands out hauling!
+Janine: If you want someone not haulin, then you better be a-callin, with money in your hand.
+Jack: With money. And apparently they're hauling—just a log.
+Janine: Just a broken log…
+Jack: With a boy on top. Um, okay. Fucking great, holiday convenience fee deposit. I'm also ‘determined’, I think because Carroway just, like, received the chaotic energy that was pouring off Mellow and was like “Well, fucking fine, I'm gonna go and get that witch”—sorry, that counter-witch, and just storms out of the—I guess town hall, or something, where the meeting is….
+Ali: Yeah, and I am ‘headhunted’, because there is a—Mr. Click, of MaGuddans, the newly arrived department store, wanted to hire me as a clockmaker, even though I make dogs, I make toys, I don't know what's up with that… I am ‘furious’ about that. [laughs] Because I'm a toymaker, I don't make clocks. But I also feel sort of positively about the fact that I'm gaining [stammers] ‘notoriety’ in the town? Not only did Mr. Click approach me to be like “Hey, I would like you to work for me”, but the Beloved Dovie also did in that same scene, so it's a very warm feeling for Mellow. Um, Mellow is also ‘cursed’ [laughs] and it's something she keeps to herself—
+Jack: [crosstalk] As a child, right?
+Ali: Yes yes yes, she was cursed as a child, but she's been living with a curse her entire life. Um…. I think—oh my god, I was—I said it in the episode, what she has to do to not be cursed, but I didn't say what the curse was? [laughs] I think it was—
+Jack: Yeah! Carroway asks, and she's just like “It's very personal”.
+Ali: [cackles] But I think that she said that she has to drink rose oil on the first three full moons of the year or whatever? Um… which is great, good for me. [laughs]
+Jack: Yeah. Hell yeah.
+Ali: Good job there. And I'm also feeling a little bit ‘guilty’ about supremely overreacting during the crafts makers meeting by being like “Hey, are you gonna find that witch and pay for it?” Um… so, that is where Mellow Aster is at at the start of this game. Or, at the start of this session.
+Scene One - Carroway [00:31:50]
+Ali: [sigh] So, Jack, it is going to be—we’re gonna start with your turn, you're Suitor Number One…
+Jack: Okay.
+Ali: And just to go over sort of the, um… I copied and pasted some of the stuff from the rules here, just to kind of jog your memory, and say [reading] “In this scene, the active Suitor tries to get in good with the Beloved. To do so, they may help the Beloved, and the Beloved can come to their aid. For example, the two of them hatch a plan to ambush their enemy or study hard for the big test of the year.” It's weird because in the system it says that Janine should be setting up the scene that censors—bluh—centers the Beloved and then the active Suitor sort of arrives in that scene, and describes how they interact? But I don't mind you being like—‘well. I'm doing this other thing [laughs]. We’re both doing this other thing together.’
+Jack: Should this scene include the Beloved directly? Or if I'm working—essentially, can I go hunt for a counter-witch, or do we need to position it such that Dovie is also here.
+Ali: Um, I don't think that… I mean, it is sort of focused on how you're pursuing her? So it has to be centered at least your feelings in that way? And it also has to be you like, appealing to the Beloved. So—I mean, it's probably better for the story if she’s there? But that can be by chance, it doesn't have to be like…
+Jack: Right, right, right. Like, by design.
+Ali: Yeah, like specifically seeking her out or—yeah.
+Jack: Okay [pause]... Yeah. Oh, go on.
+Janine: [crosstalk] We could also do… like, the bulk of the counter-witch stuff on the Beloved turn, right? 'Cause isn't that about the big conflict that kind of…. Isn't that kind of the deal?
+Ali: Right.
+Jack: [crosstalk] Oh, yeah.
+Ali: Yeah. So, for the Beloved’s turn, uh… [sings to self] what you end up doing is choosing a level of the hurdle? Depending on if you wanna target us or yourself is how devastating it is, I guess? And then we—we kinda all act together to overcome it. So yeah, if you wanted to keep that big, sort of, uh…. Overarching stuff to that part of the game, you can, but it can also be, y'know, whatever. I keep wanting to say Dovie is your character and not Janine’s, and it’s [laughs] fucking me up. [Janine chuckles]
+Jack: Um… okay, so I think that the first thing we see is a gloved hand lighting a match? And we see snowflakes swirl around the flame of the match? And then the match lights a lantern, and the glow of the lantern illuminates more snow, which is falling quite steadily. And it is being held by Carroway, who is riding on the back of Ransom [Ali laughs], through the town square of this sort of alpine town—I think that there are trees, there are like boughs and branches have been strung up between the houses in the roads, there are lights in the sky, there’s someone selling hot chestnuts—it's like holiday shit, there's a market, I assume there's people clamoring around like [mumbling] “Oh, there's no velvet, I can't get any good velvet at this time of the year.” And just like, the massive sort of dinner plate sized hooves of Ransom are kicking the snow as he makes his way into the town square. And from the top of her horse, Carroway spots Loyal Duncan. Um—does anybody want to play Loyal Duncan?
+Janine: I can, I—I'm not gonna do an accent! [Ali giggles] Um… which is out of respect and also fear.
+Jack: Maybe Loyal Duncan doesn't have an accent.
+Janine: Yeah. I mean, everyone has an accent, but…
+Jack: [laughing] Everyone has an accent. Maybe Loyal—what I meant to say is, maybe Loyal Duncan just sounds like Janine! 
+Janine: Maybe—[laughs] maybe he just sounds like Janine with her hands on her hips and her posture slightly changed. [Jack chuckles]
+Jack (as Carroway): Duncan!
+Janine (as Loyal Duncan): What can I do you for—[laughs]
+Janine: I said I wasn't gonna do an accent and then immediately-! [Ali cackles] Immediately just kinda slipped a little bit, just tripped a lil bit—
+Janine (as Loyal Duncan): What can I do you for, Carroway?
+Jack (as Carroway): Duncan, you sound well! Are you cold?
+Jack: Like, hops down off the horse.
+Janine (as Loyal Duncan): I got some of those hand warmers in my pockets, and they're doing a real good job.
+Jack (as Carroway): Yeah, I saw them being handed out back at HQ last week, I didn't realize that—you must've put in a big order or something—did you get them from MaGuddans?
+Janine (as Loyal Duncan): Uh… y'know, we have a guy.
+Jack (as Carroway): [amused] Oh, you have a guy!
+Janine (as Loyal Duncan): Yeah.
+Jack (as Carroway): Look, Duncan, do you know Linus?
+Janine (as Loyal Duncan): Oh, Hex’t Linus? Yeah, we don't see him around that often, but I do know him. I feel like I see him, y’know, once a month when he comes in to get his oranges.
+Jack (as Carroway): I'm sorry?
+Janine (as Loyal Duncan): When he comes in to get his oranges?
+Jack (as Carroway): Does he—is he a big oranges fan?
+Janine (as Loyal Duncan): We all get oranges every month.
+Jack (as Carroway): From whom?
+Janine (as Loyal Duncan): Uh. Union. 
+Jack (as Carroway): [laughing] From the union? God! Y'know, toymakers—we gotta—no one is giving us oranges. Look, I need you to set up a meeting or something, 'cause this whole velvet thing is really bothering Dovie? And I… y'know, I've got a crush, Duncan. And I'm motivated. By love.
+Janine (as Loyal Duncan): All right, can you wait about—probably be like three weeks, till orange day?
+Jack (as Carroway): No—no, I need to see him like, tonight. And I thought that—since we go way back, and it's—they're dire circumstances, really, Duncan.
+Janine (as Loyal Duncan): Mm-hm.
+Jack: [amused] Snow just falling on our shoulders in the middle of the square, Duncan with his hands in his pockets.
+Janine (as Loyal Duncan): Well. If you can't wait until orange day…
+Jack (as Carroway): I can't. I can't, it's very important…
+Janine (as Loyal Duncan): Then I say you gotta bring orange day to you. You gotta bring orange day on your timeline.
+Jack (as Carroway): Do you mean that I have to get oranges? And then—
+Janine (as Loyal Duncan): Yes. [pause] And bring them to the union hall.
+Jack (as Carroway): Okay. Why oranges?
+Janine (as Loyal Duncan): [crosstalk] And then Hex’t Linus, he’ll hear. Hex’t Linus loves his oranges. [whispering dramatically] Loves them. 
+Jack (as Carroway): Is that to do with his job? I don't really know how counter witches work.
+Janine (as Loyal Duncan): I mean, y'know—more than most us, he’s in caves and stuff, so it's—it's good for his system. He knows it, he’s trying to take care of himself.
+Jack (as Carroway): Mm. Mm-hm. Vitamins and stuff.
+[Ali laughs]
+Janine (as Loyal Duncan): We’re all trying to take care of ourselves, it's a hard—we do a lot of hard work, it's not good on the body, long-term—have you ever seen an Odd Job Boy over 15? You have not. Joints.
+Jack (as Carroway): That's really dark!
+Janine (as Loyal Duncan): We take care of ‘em, but—y'know, we just don't make em work.
+Jack (as Carroway): Okay. Would you—and I realize that I'm not doing myself any favors here—wouldn't you prefer money?
+Janine (as Loyal Duncan): We also have money! [laughs]
+Jack (as Carroway): Than oranges?
+Janine (as Loyal Duncan): The oranges are a bonus, y'know?
+Jack (as Carroway): [laughs] Okay, fine. I just had to ask—how many oranges are we talking about, Duncan?
+Janine (as Loyal Duncan): Uh...hm… I mean, I can't expect you to keep up with the union in terms of the oranges, it's not like I'm gonna ask for a bag each, but… um…. Y'know, probably—if you backed up a wagon full of oranges, those would probably be gone. I'd probably take those off your hands. So about a wagon full.
+Jack (as Carroway): It's December, Duncan! [Ali giggles]
+Janine: I think Duncan like, pulls—[laughs] sorry, Loyal—pulls his—
+Jack: [laughs] Yes, his first name is Loyal…
+Janine: We have not been consistent on that, but y'know—I think Loyal puts his hand warmer out of his pocket? And holds it up, and it's like, a… I think it just looks like a… [laughs] Oh! I think it looks like an actual historical handwarmer, which is like those little gold mesh balls that have like a little thing inside, but instead of being like an oil lamp that stays upright? These are real things that I don't remember the name of—uh… but I think instead of having a flame in there, it is just like…. It looks like some kind of syrup, it just looks like a glass bottle with some kind of syrup in it—surrounded by a little metal mesh cage. And I think Loyal just kind of like, holds it up and shakes it a little bit, so the syrup sloshes around, and is just like—
+Janine (as Loyal Duncan): We got two of these each. You can find some oranges. Look, this is magic—this thing is—I don't have to put this in the oven, I don't have to put it in a fire, I don't have to sit on it to warm it up. It's just warm. You can find oranges. In the winter. Union does it, you can do it. I believe in you.
+Jack (as Carroway): [unhappy] Wow. Thank you for your vote of confidence, Loyal. [Janine and Ali chuckle] Y'know, it's been one thing after another.
+Janine: Am I allowed to invoke traits at this moment? I don't know, 'cause I guess I'm playing Loyal Duncan, it's not like—
+Ali: [laughing] Yes, you are. So I've been reading the book while you guys have been doing this, and it specifically says, uh, I fucked up. [laughs]
+Janine: Uh-huh. [Jack laughs]
+Ali: The scene begins in free play, which focuses on interaction between the active Suitor and the Beloved
+Jack: [crosstalk] And the Beloved. 
+Ali: [cackles, Jack chuckles] And I realized that this is important, because for me to introduce a hurdle, it has to involve, um… the attributes—or the Beloved’s attributes, or the opposing Suitor’s attributes… but that was nice color, so—
+Janine: [crosstalk] What if I get Dovie involved? I can get Dovie involved at this point.
+Jack: [crosstalk] Yeah, go for it.
+Ali: Yeah. Mm.
+Janine: I think Loyal Duncan says—
+Janine (as Loyal Duncan): Look. You said you're close with Dovie—you said you're tight with Dovie. 
+Jack (as Carroway): Hopefully!
+Janine (as Loyal Duncan): Well, Dovie’s… aunt, on her step-dad’s side, twice removed? Orange farm, winter orange farm.
+Jack (as Carroway): Dovie has an aunt?
+Janine (as Loyal Duncan): On her—sort of. I walked you through it, I'm not gonna walk you through it again. There's a connection. [laughs]
+Jack (as Carroway): Fine. Okay. Where does she live?
+Janine (as Loyal Duncan): Y'know, I never asked, it's just—it's—y’know, suppliers, sometimes you see names on boxes.
+Jack (as Carroway): Okay. Well, you, uh… I’d say stay warm, but I think you're warmer than I am. Are you okay?
+Janine (as Loyal Duncan): I'm definitely warmer than you are. You gotta get one of these things.
+Jack (as Carroway): Yeah. 
+Jack: Just like, smash cut to Carroway entering Penny Many-Things just like, face red from the cold, shivering.
+Jack (as Carroway): Dovie. Your aunt? The—oranges, the orange lady. 
+Janine (as Dovie): Oh yeah, my aunt on my stepfather’s side twice removed.
+Jack (as Carroway): I knew there was a link! Um… [Ali laughs] how many—I hate to ask a favor…
+Janine (as Dovie): You shouldn't hate to ask a favor.
+Jack (as Carroway): Yeah, but it's this time of the year, you’ve got so much on your plate with the whole cursed velvet thing—I need a truck full of oranges? Um… because the—the counterwitch really wants oranges, for some reason, and I explained to Duncan how this is a hard time of year to get them, but he said that your aunt… on your father’s side—might be able to—
+Janine (as Dovie): Stepfather’s side twice removed.
+Jack (as Carroway): -stepfather’s side twice removed might be able to help us out?
+Janine (as Dovie): Yeah!
+Janine: Um… Ali, can I really quickly—can we walk through how we get dice and stuff?
+Ali: Yeah, absolutely! Um… so, the only thing is that I introduce the hurdle? And then, once I do that, you guys sort of combine efforts to figure out how to get the dice. So, you get two dice if you use one of your own traits as a response, you get one die if you use ... [laughs] you get two dice for the first use of a trait, and then one dice for the second use of one of your own traits, and then you get two dice if you make a suggestion for someone else that they take. Um… and that's like a player-to-player suggestion, not like a character-character suggestion. So if you wanted to be like “Oh, I think that Carroway should use ‘determined’ to get over this hurdle,'' Um… then whatever else. I was just waiting for the opportunity to—[laughs]
+Janine: That's fine.
+Ali: —to introduce the hurdle to the scene. Um, did we ever name your former… ex?
+Janine: I don't know that we did…
+Ali: Okay. Um… yeah, let me—let me give y'all a complication. I was like… [laughs]
+Janine: I feel like Dovie should also like immediately—I think this is a pre—um… What's the word I want? Pre-complication thing is Dovie would be like “Yeah, I can help you with that” but then there has to be—I'm saying the complication wouldn't be Dovie being like ‘no’, probably. 
+Jack: Right, no, it wouldn't.
+Ali: [crosstalk] Right, yes yes yes.
+Janine: 'Cause she’s generous and good under pressure, et cetera…
+Ali: Right. Yeah, I was trying to think of a hurdle that wouldn't be specific to the scene, 'cause it sort of has to be like that? Um… and I don't know—the first idea I had was like, a customer coming up and asking you about the old co-worker who used to work here, and being like “oh, they were such a good designer! Can I get their information?” Which I guess is, uh… going to be the thing, yeah. There is a woman who—[laughs] approaches the stand, hearing you guys talk about oranges, and says—
+Ali (as woman): Oh, um… didn't you—speaking of oranges, didn't you use to sell these incredible miniature fruit? I don't see them on display anymore.
+Janine (as Dovie): Yeah, um… those—we no longer have the rights to those particular items. We have large scale—
+Ali (as woman): You don't have the rights?
+Janine (as Dovie): —realistic—no. No, 'cause they weren't my product? So… I released the rights when…
+Ali (as woman): [crosstalk] I thought that this was... I shop here because I thought this was—y'know, designer goods by the store owner. 
+Janine (as Dovie): It is, and there were two designers who owned the store, and… one of them left—
+Ali (as woman): Oh. Do you have—
+Janine (as Dovie): Well, I mean, we had a contract written up, but I thought it was fair to just let them take their intellectual—y'know, I didn’t need to keep it for, y’know, whenever...
+Ali (as woman): [sighs] Well, do you know where I can find them to find these—I'm not buying full sized fruit.
+Janine (as Dovie): No, uh… I suppose it is a little awkward for small hands. Um… 
+Jack (as Carroway): Can I suggest some alternatives? I don't think you need to go elsewhere, necessarily. Does it have to be fruit?
+Ali (as woman): Ugh… well, yeah, I was looking for fruit. My niece really wants very small grapes, and…. I thought that they would be here, and they're not, and now I have—I guess, y'know, MaGuddans has everything.
+Janine (as Dovie): Well, they have small fruit.
+Jack (as Carroway): Well, I wouldn't say everything. 
+Ali (as woman): [laughs] Well, they have more than—
+Janine (as Dovie): [crosstalk] There’s a lot more in the world than small—we have the small vegetables still. Would she like some small broccoli?
+Ali (as woman): No! She hates broccoli.
+Janine (as Dovie): Uh… we have small okra, we have….
+Jack (as Carroway): We have peas, which are basically like very small grapes, and green.
+Ali (as woman): Are they full sized...
+Janine (as Dovie): We have small tomatoes—they also have small tomatoes, 'cause it's like—no one really can agree. [pause]
+Ali (as woman): On what?
+Janine (as Dovie): On if the tomatoes are small vegetables or small fruit.
+[Ali sigh]
+Janine: [laughing] Sorry Jack.
+Ali: That's not—[laughs]
+Janine: [amused] We should go back to the thing Jack said. [Ali laughs]
+Jack (as Carroway): Look, the selection here—y'know, it might not necessarily be—
+Jack: And Carroway kind of gulps, and looks down to the floor—
+Jack (as Carroway): -as large as what you might be able to get at MaGuddans, but the service that we’re able to offer you—that Dovie is able to offer you—is completely different from what you'd find there.
+Ali (as woman): [scoffs] I just can't believe that I've been shopping this store for as long as I have and I didn't even know that there was a change in ownership!
+Ali: And she's getting like, increasingly loud, and customers are kinda looking over and being like [mumbling] “Oh, I didn't know that the shop had a new owner.''
+Ali (as woman): How—how long ago did this person leave? How has this affected your goods? I mean, it's clearly affected your inventory in a major way, you only have small vegetables! People don't want vegetables for the holidays!
+Jack (as Carroway): We don't only have small vegetables!
+Ali (as woman): As far as I'm concerned, you can only offer me small vegetables! And that's not—
+Janine: [crosstalk] Ali, your real life experience dealing with Karens is really showing? [laughing] it's really coming through [Ali cackles] It's very—it's a lot.
+Jack: Oh, god…
+Janine: [laughing] It's like, acute, it's like…. Precise? [Ali giggles] It's very weird, 'cause it's making me feel like protective and defensive of a person that doesn't exist in a store that doesn't exist [Ali cackles]. It's very good, I'm just saying. Wow. Whew.
+Ali: Thank you… anyway, so you have a growing situation here where your customer base thinks—is feeling, I guess, betrayed, by the lack of knowledge about [laughing]—like, store? Ownership situation?
+Janine: Yeah, I guess—maybe one of the things that broke up that partnership was that they… y'know, the other partner—we should just give him a name. Uh, that… Spencer Crisp. Um—Spencer Crisp always like—do we already have someone named Spencer Crisp?
+Jack: We have someone named Click.
+Ali: [crosstalk] I don’t think so, yeah. No, yeah.
+Janine: I like the idea of Crisp working for Click, I'm gonna—[laughs]
+Jack: Mm-hm.
+Janine: He probably thinks he can turn that into a whole thing, but it's not gonna happen. So I think Spencer Crisp sort of—they probably came up together as toymakers, and he was probably always a little more interested in working in the back, and just kind of—he didn't want to have to deal with customers, he liked kids at arms' length—he liked the idea of kids more than actually interacting with them. He just liked designing things, and making things, and all that, so maybe stuck to the backroom so Dovie was always like, the front facing thing—so it'd be totally easy for this woman to assume that Dovie was it.
+Ali: Right. Um…
+Jack: So, Ali, you get five dice—
+Ali: Yes, yes.
+Jack: Right off the bat, to just be like, this is your crew of dice.
+Ali: Yes, um… and then you guys think of responses to this? Which, you've sort of played this out, so if you just want to say —“I’m gonna use ‘thoughtful’ for being as defensive as I was” you can do that. But… yeah, so you can—[sighs] you each can either get 5 or 6 dice? I think that you get three responses, and you guys choose which of those that you wanna do. [laughs]
+Jack: Okay! Can we use our person, place, and thing as traits? Or are we explicitly talking about these?
+Ali: Um, it's traits or attributes, so if you—yeah. If you wanted—
+Jack: [crosstalk] Oh, okay.
+Janine: Passionate would be good. Passionate and brisk—maybe.
+Ali: Right. Yeah.
+Jack: Mm-hm. Okay, 'cause—so I think that… Yeah, I think that I'm gonna take ‘passionate’ in the sense that I am—I'm leaping both to Dovie’s defense kind of like, directionlessly? And also—[amused] I'm kind of just acting as though I also work in this shop? [Ali giggles] Which I super don't, I'm just like “Yeah, we can sell you all this stuff!” So I'm gonna take two dice for that. Does the color matter?
+Ali: No.
+Jack: No, okay. Let's see if I can grab these two dice. I'm—also, I wanna say that in the background, um… Ransom, the horse that never breaks eye-contact, [Janine laughs] is just standing directly outside of the window? Making very intense eye contact with the bach of this customer’s head.
+Janine: Just waiting.
+Jack: The horse is just like standing outside just looking, yeah. 
+[pause]
+Ali: And, um… yeah, Janine, do you have a trait that you wanna—bluh—do you have a trait that you wanna use? I think that—I guess, Jack, you're getting one dice for using Ransom as your trait, and then you're getting two dice for using ‘passionate’, which is technically taking Janine’s suggestion on that.
+Jack: Janine suggested…
+Ali: Passionate.
+Jack: ‘Passionate’, yeah. 
+Ali: So Janine, I guess you could either—for a third response, you could either use one of your traits, or, um… Jack could independently, uh… suggest one of their own, for one more dice. Or two more dice if you suggest one of your own, 'cause that would be your first time.
+Janine: I have ‘good under pressure’, so that seems like a thing that would be very—[laughs] I actually have a lot of traits that would work for this, but ‘good under pressure’ seems like the best one.
+Ali: Mm-hm. Perfect. Um—okay, I'm gonna move these down over here… and then so we just roll and then we see who has the most sixes, and then if it's a tie, or we don't have any sixes, we go to the fives and see who has the most there, and so on and so forth.
+Jack: Okay. I’m gonna—random side. 
+Ali: So I have two sixes, and you—oh, wait, I have two fives. You have one six, I have no sixes, so you win! Hurrah!
+Jack: Hell yeah!
+Ali: So what you're sort of competing here is not only—you get points towards your goal. Uh… let me actually get to the... [laughs] I was like “I've listened to this game once, I absolutely know how to play it” and I don't. [laughs]
+Jack: [amused] Yeah. I’ve been exactly the same.
+Janine: It's a lot, it's complicated and it changes just enough as you go through to be a little bit  befuddling, as much as I love it.
+Ali: Yeah, but—okay, so if the active Suitor and the Beloved win, the active Suitor and the Beloved each gain a new trait chosen by their own player, so what traits would you like?
+Jack: I would like ‘acted as Penny Many-Things shop attendant’. [Janine chuckles, Ali snorts] And I went in the back room, and saw the velvet!
+Ali: [laughing] Damn it.
+Janine: Um… I'm trying to think of an equivalent of like… like, a concise way to state that maybe Dovie has realized that there were problems before? Like, people shouldn't have been assuming that everything was her work, and maybe that contributed a bit to Spencer leaving and—even if he didn't actually say it, it was like “Maybe I could've done more here to”—you know, like, I need a way to phrase that. Other than like humbled, maybe? But… I don't know if that works.
+Jack: It’s like the scales are falling from your eyes, kind of.
+Janine: Yeah.
+Jack: It's not very concise, but y'know. 
+Ali: Um… I think humbled works if you want to say like, humbled… on role as store owner, or just to kinda, um, throw it out there. Yeah. Or if there's like, awareness… I don't know. [laughs]
+Janine: It's tough. [laughs]
+Ali: I think humbled is the word, so—I get what you mean. If you wrote down humbled, I would understand what you meant.
+Jack: [crosstalk] Increasingly—yeah yeah yeah.
+Janine: Um… yeah, I'll just go with humbled, it's… the shortest to type—oh, that's tiny. [Ali cackles] that's teeny teeny tiny! Itty bitty teeny tiny—I can't even reselect it well.
+Ali: That's how you feel, being humbled in this manner. 
+Janine: [laughs] I should type ‘feels small’. That's too big now. None of these are the right size, somehow. [laughs]
+Ali: Yeah, that's really weird. Okay, yeah, humbled…
+Janine: Okay, okay. That's fine.
+Ali: Perfect. [giggles] And then, just before we move on, do we want to go with they or he for Spencer, 'cause we kinda switched—even though like, he/they is completely… um—viable.
+Janine: Yeah, he/they is— I usually—this is a thing that causes a lot of confusion—when I'm not sure about a character’s gender but I want to keep talking about them to try and form them in my head, I'll just use they? Or I'll use—sometimes if I'm talking faster than I'm thinking I'll use they. Uh… that's—that's kind of the thing.
+Ali: Yeah, for sure.
+Janine: So I think it’s he/him—
+Jack: Do you think he/they? Oh, he/him?
+Janine: But yeah, he/they is—we actually don't do a lot of he/they, don't we? 
+Jack: No, I don't think so.
+Janine: We usually do like, she/her, he/him, or they/them. 
+Ali: Yeah.
+Janine: We should do that more, let's do he/they then.
+Ali: Okay, cool. I'll write it down. Um… and now we have a name and a little bit of a backstory for our dear Spencer.
+Janine: [laughing] Slow down. Dear? [Ali cackles, Jack chuckles]
+Ali: I guess they are like a weirdo who’s working for a horrible factory. Or um, department store.
+Janine: Yeah—I don't know that we’ve determined that he’s a weirdo, but like—is maybe like a bit of a jerk.
+Ali: I just, yeah [laughing] I guess—
+Jack: [amused] Making and unmaking toys. For Mr. Click.
+Ali: I use weirdo very loosey and very goosey, and that's a shortcoming that I have. [laughs] So yeah, and then in addition to the traits, you each earn one point toward your goal, so you can add that to your sheets. And then another big benefit to, uh… winning a scene, so to speak, is that you get to narrate the outcome. 
+Jack: Oh my god. It says first—under our things it says “Points gained: first turn —1 point, second turn —2, third turn —3”? Do we—do we gain two points, or?
+Ali: Oh, sure! If that’s what it says!
+Jack: Also, why do I have substantially more points than Mellow?
+Ali: I lost my scene, and then had to… fight to win it and still didn't? Or only got one point for that.
+Jack: Oh, okay.
+Ali: Whereas you had spectacularly won your first scene and have now won again. Um… and then I think you got another point from the Beloved’s turn, but I don't… remember how, or why. I just know that I'm big time losing ‘cause I'm playing like a bit of a jerk I guess. [laughing, unintelligible]
+Jack: Okay, so I will gain, I guess, two point.
+Ali: Yeah, congrats.
+Jack: [laughing] Thank you? Um… okay. I think Carroway just comes from the back of the shop—this conversation has sort of been going, and Carroway just sort of disappeared, and has come from the back of the shop. And her hands are just overflowing with bright colored marbles? [Janine chuckles] And she’s like—
+Jack (as Carroway): Happy holidays! These are marbles. [melody plays in the background] They're small, they're round, they're colorful—
+Jack: Is there a beautiful tune happening?
+Janine: [laughing] It's like a beautiful tune!
+Ali: [crosstalk] Yeah, it's my ‘stop work’ alarm. [Jack and Janine laugh] We’re all good.
+Jack: I have some bad news, Ali. [Ali cackles]
+Ali: I know, I know. Anyway. Go on.
+Jack: Yeah, they're just like, spilling out of her hands—
+Jack (as Carroway): I can put them in a bag for you, we can sell them to you cut-price—
+Jack: And she just sees the reproachful stare of Ransom through the window—
+Jack (as Carroway): I mean, we can sell them to you full-price—it's the holidays, no discounts, I'm sorry.
+Jack: [amused] And the horse just looks approvingly through the window.
+Jack (as Carroway): Isn't that right, Dovie?
+Janine: I think Dovie like, maybe shared an alarmed look with Ransom very briefly there? [laughs] There was like—“I'll discount these marbles that aren't mine to discount”? But it's okay, ‘cause it came to—it's okay, yeah, it seems to have come to a point that Dovie can sell some marbles, sure.
+Jack (as Carroway): You'll take them, won't you?
+Ali (as woman): [sighs] Can you at least give me all of the same color, and a knitted bag with a leaf on it, so it looks as though they're grapes. 
+Jack (as Carroway): What color?
+Ali (as woman): [stutters angrily] What color are grapes?
+Janine (as Dovie): Well, I don't know what color the grapes that come in a bag with a leaf on it are. [laughs]
+Ali (as woman): It’s to make them look bunched, I thought you designed toys! [Janine laughs]
+Ali: And, scene! [cackles]
+Janine: [laughing] I was really close to saying “Yeah, good toys!” [Ali cackles]
+Jack: Yeah, I think what happens is—[laughing] Dovie says “Yeah, good toys” and at the same time Carroway says “No?” and then we just cut to like, the doorbell ringing and the person like, leaving...
+Ali: And yet, a very successful, um… overcoming of your hurdle there!
+Jack: It’s romantic to…
+Janine: Y'know why it's successful? Yelp doesn't exist here. [Ali laughs]
+Jack: Yeah!
+Janine: This is pre-Yelp. 
+Ali: [laughing] This person would definitely have like… It would be one of those situations where you would see that she wrote a bad Yelp review? But then you would like, “Let me just see the other reviews that she's written” and they're all horrible, and you would be like “Okay, I'm just going to ignore this”. [Jack chuckles] Anyway—
+Jack: “Grapes too big”! [Ali and Janine cackle]
+Ali: The holidays are stressful.
+Jack: The holidays are stressful. 
+Scene Two - Mellow [1:06:15]
+Ali: Anyway, now that we’ve had Suitor One’s turn, it is now my turn to set up a scene with Mellow, um… and Dovie! Hm… I think that Mellow is…[pause] I think that Mellow does indeed feel a little guilty about the very... [laughing] the very prickly attitude that she had during the craftsmen meeting. And—waking up in the morning and fully understanding the scope of the curse, and the situation that not only the three characters are in, but the entire town is in, um… [laughs] wants to try to help Carroway with the situation, but also appeal to Dovie. And I think that she is gonna try to do that in… [pause] I think that she might be trying to raise funds? Or she might be—oh, I know! Okay, so I think that she goes to Dovie and asks if Dovie would like to accompany her going to other businesses in town and trying to see if there are other people who can donate materials and velvet in the way that Dovie is willing to do. Um… I bet that Dovie has a lot of really, um… soft, and sort of kinda like smaller cuts of velvet, y'know? 'Cause you mostly focus on toys, but like, someone who makes couches or whatever is going to have both different types of materials and also need different sorts of sizes and things of that nature. So, I think that that's… the invitation that's extended there. 
+Ali (as Mellow): So yeah, I have this big bin with me, and I just thought—y'know, if you had an hour to kill, we could try to—y'know, get to know everyone, the other business owners in the town, and then sort of see what other people are willing to donate—since you've been so generous, and that's so nice of you. But it should be a town effort.
+Janine (as Dovie): Yeah, um…
+Janine: I think, to be clear, Dovie does probably not have an hour to kill? [Ali laughs] but is the kind of person who would—y'know, she finds that hour. She cuts some other things a little short that day, 'cause—y'know, this is worth doing. And also, realistically, the more velvet other people give, the less velvet she has to give?
+Ali: Mm-hm.
+Janine: And she's not in the best position to be dumping out her velvet stores, as much as she does wanna help everyone. So I think she puts on her good door-knocking bonnet.
+Ali: Yes. [laughs] Yes!
+Janine: [amused] I kinda picture Dovie often dressed as like a… old timey caroler, like with a muffin front, and a bonnet, and a really big skirt… that's just my thing though. [laughs, Ali giggles]
+Ali: Yeah, I think that Mellow is sort of… I've imagined her pretty strongly as like, a beanie person. And this is a very winter game, so I think she's wearing like, a knitted hat, with one of those big pom-poms at the end, um… and it’s one of those knits that has glitter in it, a little bit, and I think that she's also very… she's a big layers wearer? So I think she's wearing like a turtleneck, with a cardigan over it, with a lighter coat 'cause she already has all those layers, but it's like a long coat that goes to her knees, tights… and I think that she's—y'know, taking this opportunity to be like…
+Ali (as Mellow):  [sighs] Y'know, Penny Many-Things has been in this town for a couple years now, but—y'know, did you work anywhere else before you started it, or…
+Janine (as Dovie): Yeah! I did an apprenticeship. It was actually—I did the apprenticeship with my former business partner, we… We were pretty competitive back then. And we did the apprenticeship at um… Uh…. The Copper Poppy. [Ali laughs]
+Jack: Woah! Yes! Perfect! That was a big swing and a big hit. [Janine cackles]
+Ali (as Mellow): I—do you work with copper as well?
+Janine (as Dovie): Not real—I mean, sometimes, but it wasn't really my prior—copper’s quite expensive. 
+Ali (as Mellow): Oh, yes, ugh. It's beautiful, I love to work with it, but it can be very hard to come by.
+Janine (as Dovie): We worked with brass and tin a lot more than copper.
+Ali (as Mellow): Oh. Yeah, I mean—you can still get the same effect in most cases. I'm sure your designs even then were, y’know, fantastic.
+Janine (as Dovie): Yeah! Um—do you know the little train that runs at the Glacier Express?
+Ali (as Mellow): I do, yeah! I always—no matter what it is, I get my breakfast from the second car.
+Janine (as Dovie): [chuckles] It's like, lucky, right? It's like a lucky car?
+Ali (as Mellow): Right, yeah, in the inside there's that woman sitting with her three cats, and it's my favorite car on the train, so I like to eat from it.
+Janine (as Dovie): I'm glad to hear that! I put that in there, and Spencer was like [mumbling] “They don't let cats on the train” and I was like “Shut up Spencer, they let cats on some trains”.
+Ali (as Mellow): You designed the train in the Glacier Express? 
+Janine (as Dovie): Yeah, it was my sort of… it was the first—well, I guess it was the last big commission I worked on before I opened Penny Many-Things. It was my last big commission at the Copper Poppy.
+Ali (as Mellow): [crosstalk] Maybe we should start—Oh. Yeah, I mean, there's gotta be so much copper on that tr—oh my god, I can't believe that you designed the Glacier Express! [laughs] Train. Not the store—Anyway, we should—[laughs] Since you already have a relationship with the owner, I assume, maybe we can start there and ask if they have any, um… maybe if they don't have craftsman material we can get some cookies, so as we continue our journey we can convince people even better with food.
+Janine (as Dovie): That's a good idea! I think that we should definitely get food—I don't know how much velvet the Glacier Express would have.
+Ali (as Mellow): [sighs] Yeah, I think that they sometimes use velvet to cut ribbons for cake boxes and things of that nature? But I… really think that they might be good for the bargaining .
+Janine (as Dovie): And they do have that red velvet cake, and that's like, thematic? People might appreciate that.
+Ali (as Mellow): Ohhh, we can trade velvet for red velvet. That’s genius.
+Janine (as Dovie): People love red velvet. 
+Ali: [laughs] Yeah, and so they enter into the Glacier Express, um… I guess Mellow sort of—there's probably a line of people who are… actual customers? [laughing] Which Mellow is not, in this manner, but she is sort of patiently waiting in line to get to the front of the counter? But once she gets to the front of the counter, is actually like—
+Ali (as Mellow): Um, well—I actually don't want to order anything, I just didn’t wanna interrupt but is there a manager that I could speak to? Or if the owner is here, um… we’re local business owners that kind of wanted speak to them, um…
+Jack (as manager): [in a very gentle voice] Oh yes, of course! Hi, hello! You were wanting to talk to me, I think. I'm kind of the duty manager at the moment, how can I help you?
+Ali (as Mellow): Oh, hi! Yeah, so, I don't know if it affects the pastry business much, but the town has sort of recently been rattled by a velvet shortage. And because me and, uh…
+Ali: She kind of points to Dovie—
+Ali (as Mellow): And Dovie here are toymakers who work with velvet, we’ve been trying to sort of create more of a—y'know, kind of get everyone together to deal with the issue as a community! So we were wondering if there were… [sighs] maybe anything that you had to spare to help? Dovie here has been donating velvet supplies that she has that are not cursed to other business owners? And we were thinking, if we spoke to other people and got buttons, or different sorts of fabrics, that, y'know, if we had a pool of these things to use, she wouldn't have to be the only one… opening her purse, so to speak.
+Jack (as manager): Of course, of course, I understand! Curses, they make things so hard. I have some experiences of how hard it can make the toy making business, my husband is a toymaker. He comes home every—
+Ali (as Mellow): Oh, really?
+Jack (as manager): Yes—um, I didn't catch your name?
+Ali (as Mellow): Uh, my name is Mellow, oh, it's so nice to meet you!
+Jack (as Marguerite): My name is Marguerite, I'm Marguerite Crisp. [Janine chuckles] My husband, Spencer Crisp, he works—
+Janine: [amused] I knew it was coming.
+Jack (as Marguerite): He's at MaGuddans now, I think, and he comes home every day talking about how hard it must be for these people, for toy makers, you know, who don't necessarily have the support of an institution like MaGuddans. So I—of course I'd be more than happy to help!
+Ali (as Mellow): Excuse me? [laughs]
+Jack (as Marguerite): Spencer, my husband—I don't know if you’ve—if you go into MaGuddans, he's usually the one in the toy store, y'know, working away. 
+Janine (as Dovie): He's very good. 
+Jack (as Marguerite): He is, isn't he. Um… yes, we’re thinking of, you know, putting some more of his stuff around the shop—I [stammers] recently took over the managementship of here and we’re thinking of sprucing the place up a little. 
+Ali: [laughing] I think Mellow is just like… beside herself? I—Mellow being ‘furious’ makes me think that she gets—[laughing] like, angry really easily! And I think that there's this heat rising in her chest that's like “You're married to the”—[laughing] She's so mad about it she doesn't know what to do with that information, like—
+Jack: It’s just like ‘bing bing!’ The train goes past [wooshing foley] [Ali cackles]
+Ali: Being… and then also being like “What do I do to be the most”—
+Jack: 'Cause she's offering help!
+Ali: Right, but also how do I be self-righteous in this—um… in an appropriate way in front of this woman that I would like to work for and kiss. [laughs]
+Janine: [amused] Work with and kiss.
+Ali: [laughing] Yes, yes, please, sorry, excuse me.
+Janine: It's an important distinction.
+Ali: It is. Um… and—Jack, is this your hurdle, or is this just scene setting—
+Jack: Yeah, this is my fucking hurdle! [laughs, Janine and Ali chuckle] Marguerite Crisp has taken over management at the Glacier Express.
+Ali: Yeah, so I think that the trait that I'm going to offer first is, um… I don't know how this is overcoming a hurdle, but [laughing] I think that it is that Mellow is a furious person, and the like, edges of her ears are turning red a little bit, and like—
+Jack: [amused] Under her beanie. 
+Ali: [giggles] Yes. Dovie can see sort of her expression—'cause she was like “Oh, yeah, hi!” and then slowly see her mouth close, and become a straight line, and just be like—
+Ali (as Mellow): [sighs] 
+Ali: [laughs] I'm trying to think of a thing for her to say that would be… mean, but not like, mean, right? But it would be her being like “Y'know, I… I don't know that we need the support of MaGuddans' ' or whatever. And just with the worst fucking… like, spitting the name MaGuddans out. And that is my [laughs]—I’m gonna take my first two dice for that. 
+Jack: Let me grab five dice real quick. [Ali laughs] Oh! I just drew a big box. [laughs] Around the five dice—is there a control z?
+Ali: [crosstalk] Yeah, I got it.
+Jack: Yeah, there we go—[amused] oh, you deleted it as I pushed control z. Um…. grab these—
+Ali: Perfect.
+Janine: Um… can I use… I feel like I should either use ‘patient’ or ‘tried a new dessert’? [Ali and Jack laughs] I think I want to use ‘tried a new dessert’ just 'cause it's more interesting than ‘patient’, just in terms of like…. That new dessert was under this new lady’s—this was under Marguerite’s management, that was a nice dessert. That like, brightened up my day… I can't entirely be like “Well, this new lady doesn't know what the fuck she's doing” 'cause clearly she does? It's just—y'know, she's coming from a different place and she doesn't know…
+Ali: Right. Also, what does she care about your relationship history—[starts laughing]
+Janine: No, I don't know that she would even know, like it’s not even—it's past.
+Ali: Uh-huh.
+Janine: So I think that's just in terms of like… y'know, Dovie, is I think able to keep her head a little bit just in terms of, y'know, this is what happens. People move on.
+Ali: Yeah
+Janine: This lady seems fine, I don't wanna take it out on her, I don't think we should—[Ali giggles]
+Ali: Uh-huh. Yep, um, b—fuck MaGuddans. Um, anyway—[Janine laughs] Anyway, so, we have four dice, each from our traits, and now we get a third… uh-huh… So we can either just think of another trait for ourselves or suggest one, so. Let me...[pause] There's—I mean, there's something in Dovie especially being recently humbled? By being like “Oh, not only am I able to identify that there were maybe cracks in this relationship, but this person is now married to someone, [laughs] and is like, doing fine.” Um… that I think would work here.
+[pause]
+Janine: Um… I wonder if maybe that gives like, closure? Like…. I wonder if maybe there was, in the back of Dovie’s mind, this idea that she had to really find the perfect partner because… y'know, what if Spencer came back.
+Ali: Mm…
+Jack: Right.
+Janine: She needed to make sure she wasn't just bringing someone in to have someone—y'know, it was the thing of like—you don't get in a relationship just cause you're lonely. You don't get a business partner just cause you are working alone. So… the idea that maybe she needed some form of closure to be like “Right, that chapter is officially—that's over.” And it's time to find something else and move forward, 'cause he evidently has—they evidently have.
+Ali: Yeah. Okay cool, that's six dice for us… I'm gonna roll them. 
+Jack: I'm gonna roll these.
+Ali: We are getting through this incredibly awkward situation as a pair.
+Jack: [gasps] Oh no.
+Ali: Oh my god, you win! So… [Janine chuckles] We each have one six, so you go down to the fives—I don't have a five, but Jack does, so Jack wins. Um…. oh, Janine, you don't have to add another trait.
+Janine: Oh, I don't?
+Ali: No no no, so—I guess you will in a second, but you're using your humbled trait at my suggestion.
+Janine: Oh, okay, okay, I thought it was a new trait that we were talking about there.
+Ali: No no no, um… yeah, you would’ve had the option to either be like “Oh, I don't wanna do that” or “You should use yours instead” and then we would’ve figured out the dice there. But since we—
+Janine: Okay, am I gonna add this trait in a second anyways?
+Ali: Probably [laughs].
+Janine: [laughing] Okay, I'll leave it there.
+Ali: It's actually—I think that we did it wrong the first time, because if the opponent wins, per the book, it says “No points are awarded and the opponent narrates the outcome of the situation”? But we have the option, if we wanted to take negative traits that Jack suggests for us or suggest negative traits for ourselves, we can—[hums to self] I think that you just roll again.
+Jack: It says—is it the second pool bit, underneath the…
+Ali: Yeah.
+Jack: Where it's like “you get four dice if I make a suggestion, and three dice if you use your own”…?
+Ali: Yeah, actually, so what it—yeah, um, right. Oh, okay, yeah. So we keep the dice—we keep the roll that we just had and then we would add four more dice and then roll them, and then redo the—so if I rolled another six then I would win, 'cause I would win on the sixes. 
+Jack: Right, right, right. Okay.
+Janine: Okay.
+Ali: Um… I'm losing! [laughs, Jack chuckles] So much that I feel like I should go for a second pool again. Um… because—especially if I have more traits, I can just burn them during this next turn and get more dice there? Um—
+Janine: And you only need one six, right?
+Ali: Yeah, and I don't wanna lose! [laughing] That was so cool! Oh, it's fine, she’ll live a full and happy life even without this, if that's how that ends—anyway. So, Jack, would you like to introduce a new trait for me?
+Jack: Yeah, you want four dice?
+Ali: I would like four dice unless I don't like your suggestion, and I'll take three on my own please [laughs].
+Jack: Hmm, uh-huh. Hm. [amused] God. [long pause] Oh—[laughs] what if… what if she makes a donation? What if she gives you something and your trait is ‘received x in bad grace’ [Ali laughs] or like “got x and is mad about it” or something. Um… I don't know what it is. Like, the most petty thing for me to give would be velvet, but I have no idea why this woman has velvet in the… like, she's not gonna take off her apron—have a weird velvet baker’s apron or something, like—what does a baker give to the cause, that you can be mad about.
+Ali: Um…
+Janine: I can explain why she would have velvet—like, if we do—there's ideas, there's options.
+Ali: [crosstalk] Yeah, I can also—yeah. I think that there's something really… like, that both Mellow would feel like she was betraying herself and also feel very deeply bitter about the fact if, um… this person was like “Yeah, my husband has tons of velvet!”
+Jack: [amused] Yeah, exactly! Like “Spencer, can we spare a box?” [laughs]
+Ali: [giggles] Y'know, um… because the department store doesn't have to deal with this cursed velvet situation, they have their own supplies…
+Jack: [crosstalk] No! Like the velvet truck comes down from the mountain, and it's like—
+Janine: The thing I was gonna suggest was that, um… when Spencer left, they divided up the materials? Because they were partners in the business, and maybe Dovie didn't necessarily know that he was gonna go to MaGuddans or whatever. So, I was—maybe the thing is actually that Spencer’s old materials that he doesn't need or use are just in storage—
+Jack: [crosstalk] Doesn't need! 'Cause MaGuddans gives him—
+Janine: -at the Glacier Express, 'cause they have a big storage space for all the ice, but they don't have ice right now. [Ali and Jack sigh] So it's just storage for a bunch of velvet and material and whatever that Spencer doesn't really care about, it's just there.
+Jack: God. Yeah! Okay, so I think that what happens is she just gives you a slice of strudel, and a little thing of coffee, and says like—
+Jack (as Marguerite): Oh, just wait a moment, I'll be right back.
+Jack: And goes into the back and comes back with like a wicker basket just full of folded velvet, and just puts it on the counter. [amused] So the trait I am giving you, is, um… is like ‘bitterly received velvet’. [Janine and Ali laugh]
+Ali: Perfect. I will take that for my four dice to hopefully regain control of the scene.
+Jack: [crosstalk] Okay, let me give you… Oh I was...
+Ali: Oh, on the dice—do you wanna type the bit while I roll these.
+Jack: Oh, put it in your traits? 
+Ali: Yeah.
+Jack: Yeah, yeah, yeah. 
+Ali: Okay.
+Jack: ‘Rec…’ This velvet is cursed but in a different way.
+Ali: Right, yeah.
+Janine: [amused] It's burdened.
+Jack: [laughing] Burdened velvet. It's less dangerous to children and pregnant folks.
+Ali: Um… okay, I got a five, which means that we tie on the fives, and then we go down to fours and I win on the fours.
+Jack: And you win! Yes! Okay.
+Ali: Thank god…
+Jack: Holy hell.
+Ali: God, I love the way—I do really like—this system is very complicated [laughs]. But I do really like the going down the list seeing if you won sort of situation, it's very exciting to me.
+Jack: It's very like, tense, as you get down to lower and lower numbers [Ali chuckles]
+Ali: Um… oh my god, I love my traits. Cursed, guilty, bitter. [Jack laughs] Good for Mellow. But yeah, me and Janine gain control of the scene again, which is good, and… let me just see… I guess since we won we each also still gain a new trait. And earn a point or whatever.
+Jack: Oh, sweet. [Ali echoing] Two points, because it's season two—round two. [Ali giggles] Season two…. [amused] Shooting the Moon: Partizan. [Ali laughs]
+Janine: Wait, was I supposed to add points before or no? Did I forget to add points?
+Ali: Yes.
+Janine: Okay, should I  have added two points then?
+Ali: You should've added two points, yeah. And now you get another two.
+Janine: Okay, of course. Hurray.
+Ali: Yeah, you have your own dreams and aspirations.
+Janine: Make these a bit darker…
+Ali: [giggles] What, um… okay, let me think about the outcome before I think of the trait that I have...
+Janine: I should just put ‘has closure’ here again, even though I deleted it [laughs] 'cause I didn't know that was gonna happen.
+Ali: Um…. So yeah, I think that… Mellow is still just beside herself, and as—what's the name of the counter person again? I keep forgetting it.
+Jack: Marguerite, Marguerite Crisp.
+Ali: Marguerite. And as Marguerite disappears, she kinda glances at Dovie and doesn't really know what to say—and then, as Marguerite produces all of this gorgeous, but recognizable velvet—because I think that if it’s like, old—it’s old Penny Many-Things velvet that just hasn’t been used—
+Jack: [amused] It’s clearly Penny Many-Things velvet! 
+Ali: yeah, right, like it’s just—
+Janine: I mean, we just went through that and distributed it, so like… that stuff is fresh in mind.
+Ali: Right, yeah. Um… that like, she's slowly sort of piecing the situation together, and… y'know, they leave the store, they go back onto the streets, they have their streusel and their big thing of velvet. And um… feeling kind of bitter, and very [laughs] thrown off by this whole situation, just looks at Dovie and is like—
+Ali (as Mellow): That… seemed intense. Um… she was very nice, but are you okay?
+Janine (as Dovie): She was very nice, yeah.
+Ali (as Mellow): Um… we don't really have to talk about it, but—I mean, since we have all of this, we don't really need to keep wandering around. If you wanted to get dinner or something instead? We could talk about literally anything. [Janine chuckles] We don't even have to say the word velvet once, if you don't want to. 
+Janine (as Dovie): [chuckles] I feel like I’ve thought enough about velvet for a lifetime at this point. 
+Ali (as Mellow): [laughs] Um… yeah—
+Janine (as Dovie): Might try and get denim going—do you think people would like denim bears? It'd be tough. Like, sturdy. 
+Ali (as Mellow): Ohh, but they would be so cute!
+Janine (as Dovie): They would—I mean, sturdy is a good thing, you want a sturdy toy. I mean, on the one hand, it means you'll sell fewer 'cause people won't need to replace it, but… y'know, people like it.
+Ali (as Mellow): Yeah. And like, there's so many different denim washes that you could have these really nice dark wash bears, and they could be like a whole set—like, the little bear family of different… scales of denim? That would be adorable! People would love that.
+Janine (as Dovie): Yeah!
+Ali: And… okay, yeah. [laughs] I’m gonna add the trait as, um… [sighs] what's the best Sims way to say this? I was gonna say ‘trying to… having tried to cheer Dovie up’? Um… I don't know how to make that distinct. [pause] I guess ‘learned more about Dovie’ is what I'll write for now. Oh, ‘feels closer to Dovie’ is a trait to have, and… a very—oh my god! [laughs] Is a, um… something that Mellow would hold very close to her heart in this moment. It feels like a victory to her despite… the weird faux pas of velvet borrowing and getting in the middle of relationships that she… [laughs] 
+Janine: For what it’s worth, I feel like Dovie also handled it pretty well, like, she—y'know.
+Ali: Oh, yeah, no, absolutely. Well, I do think that there’s—
+Janine: [crosstalk] I'm also now just thinking about the denim—I feel like in the late 90s they actually marketed a denim teddy bear, and you could draw in it with markers? That was the whole thing? Remember that? Yeah.
+Jack: [crosstalk] Oh, yeah!
+Ali: [crosstalk] Yeah, absolutely. 
+Jack: Awful. [Janine chuckles]
+Ali: But yeah, I do feel like there's something in the—being a witness to that sort of weirdness in someone else’s life. [laughs] You know, you feel like…
+Janine: Yeah, and also like, getting it too, right? 'Cause Dovie—at no point did Dovie say like “Oh right, this was Spencer’s velvet” and at no point did Marguerite necessarily say “Oh, this is all of my husband’s extra fab-” maybe she did, but like… it feels more powerful if, in terms of Mellow’s character growth, for her to recognize it without being explicitly told? And then be like “Oh, right, I know this, I knew enough to recognize this”.
+Ali: Yeah.
+Janine: That would make you feel closer to someone for sure.
+Ali: [sighs] Yeah… so, perfect. There we go, I... and then I guess they go out to dinner. I'm allowed to say that 'cause I won.
+Janine: Yeah.
+Jack: Yeah! [Ali laughs]
+Janine: They should go to Landslide, I was like—I was very close to suggesting that Mellow take Dovie to Landslide, and that seems like the way to do that 'cause they're right there anyway.
+Ali: I know, and it's really funny to be like—
+Janine: [crosstalk] It’s like, why don’t we just—let’s just go to the back. [laughs]
+Ali: [laughs] Be like “yeah, I know the best place, come around here” and it's through the alley between—I'm assuming that Penny Many-Things and the Glacier Express are right next to each other, I don't think that they are. But.
+Janine: Same street, probably.
+Ali: Yeah, but I think it's very funny that it's like “Yeah, come down this alley with me, past this bakery that we just left and then like, just turn the corner again and go past this like, trashcan, and then go up these stairs,” and then it's this cool bar that they're now hanging out in. Um… yeah, perfect. Good for Mellow. 
+Scene Three - Dovie [01:38:50]
+Ali: Okay, so I'm just going—for our sake—just read what the Beloved’s turn is. [laughs]
+Janine: [amused] Please.
+Ali: Just so you know, just so we all know.
+Janine: Yes, 100%.
+Ali: Here we go. Uh… [reading] Beloved turns: during the Beloved turn, the Beloved player is the opponent. They create hurdles for both the Suitors at once. In return, they, as well as the Suitors, have a chance to gain multiple points toward their goal. The Suitor players create separate dice pools that they will roll against the Beloved player and each other. Similar to the Suitor turns, the player receives dice pools via narration. So, beginning of a turn. The Beloved player creates a hurdle—a challenging situation facing both Suitors. Before doing so, the Beloved player set the level for the hurdle. The level determines the degree of reward and risk at stake, winning a higher level means more points towards the character’s goal. Level One gives the Suitors a challenge, and offers the reward of one point. Level Two, the Suitors face danger and harm, and all seek a reward of two points. Level Three, the Suitors and the Beloved face a danger, but the reward is three points—oh, I think the reason you have so many more points than me is that I didn't add my three level… points?
+Jack: [crosstalk] Oh! Yeah. That would explain it.
+Janine: Ohhhh.
+Ali: 'Cause I saw one… 
+Jack: [amused] Mellow is back in the game. [Ali giggles]
+Ali: Perfect, there we go. One, two, three… I think you're still winning, but at least I'm in—
+Jack: No, we’re even, right? Are we even?
+Ali: Oh—[counting]
+Jack: One, two, three, four, five, six—one, two, three, four, five, six. Yeah, wow.
+Ali: Thank god—okay. Oh, it's ‘cause I got—I also won both of the challenges that I did. Perfect, okay. Here we are! [laughing] The game has changed.
+Jack: [amused] The game has changed.
+Ali: Um… anyway, at level three the Suitors and the Beloved face a danger, and is rewarded three points. Uh… [hums] the hurdles—once the Beloved choses a level, they describe the [stammers]—bluh—the specifics of the hurdle for the Suitors. A separate circumstance may afflict each of the Suitors, or one big mess of a r—of a monkey wrench may come down on all the characters at once—which is sort of what we did with the velvet thing, which is like, this whole town is… y'know, up in arms about this velvet thing, but you could have been like, oh, your specific dog wagging mechanism [Jack chuckles] and cat whiskers are cursed, and it’s just happening to you two. When this turn is resolved, the person who wins applies a new trait to each of the characters. Um… it may be the same trait for all, or unique for each. [hums]
+Janine: Okay. Um… I think I got most of that, but… [laughs]
+Jack: Before—Yeah.
+Ali: And then from—so, Janine is gonna set up the hurdle and then from there we each get three responses each, which is similar to how the Suitor rolls work, but it's all independent? And then there's a huge menu of—we get two dice if we involve our own trait, we get three dice if we… um, involve a trait but also add a new trait? We’ll talk about this later. There's a section here for advice for creating hurdles, if you’d like me to read that for you. [laughs]
+Janine: No, I think I have some good hurdles in mind.
+Ali: [amused] Okay, perfect. That's what you're best at.
+Janine: [laughs] I guess? [Ali giggles] Okay.
+Ali: [amused] I think like of the friends at the table crew, you have like a very high hurdle score. [Janine laughs] 
+Jack: Mm-hm.
+Ali: And I like that about you. [laughs]
+Janine: I appreciate it. So… I think Carroway’s—so, first of all, I wanna do a level two. I wanna threaten the Suitors, specifically. Um… and I want to do—instead of a joined thing, I want to do a threat to each of you. So, I think, in Carroway’s case, we need to address the counter witch.
+Jack: Mm. Mm-hm…
+Janine: So I think. Carroway has successfully—y'know, this is established, Carroway talked to Dovie about getting in contact with her aunt on her stepfather’s side twice removed about the—about getting a shipment of oranges? And I think… to me, I think money is the least interesting problem there? So I just don't want to deal with it, I think—
+Jack: Okay, yeah.
+Janine: I think that Dovie is… y'know, Dovie is a person with a reputation, and family—has a decent—decent relationship with family, and like, people are willing to go out on a limb if she's vouching for someone. And also knowing that this is a big deal and like, it'd probably get her in with all these different trade whatever groups, etcetera—y'know, the wagon of oranges is on its way, basically. I think the actual threat here, though—[laughing] a threat that I have—I just have to set this up. Um… the horses break loose. [Ali gasps, Jack laughs] The horses pulling the cart of oranges through the mountain pass break loose—they are gone in the snow. The oranges are stranded there? I think it is—probably the way that it becomes clear that something is wrong is that there is an expected delivery time, and… people are very good about delivery times, there's a lot of clocks. People are—it's a meticulous community, even sort of outside of the city. Um… so I think it is very obvious when that shipment doesn't arrive, I think the Odd Job Boys get a little restless. 
+Jack: Their oranges have not—orange day…this is bonus orange day.
+Janine: Orange day—there was a bonus orange day promised, word was spread throughout all the fringes of Odd Job Boy, that they wouldn't be getting a full bag but would still be getting, y'know, like a paper bag maybe. Of oranges. [Jack hums, amused] They are in the process of turning up, but… if word spreads that those oranges aren't there, there are certainly some Odd Job Boys who are not going to make the full trek.
+Jack: Mm-hm. Yeah, okay. Am I in town, or am I on the orange cart, that is now stranded in the mountain pass. In the…
+Janine: I think you would be in town. Cause I think this is a shipment that's coming in at your bequest. 
+Jack: Okay, right. Right. Um, let me just—‘Swiss mountain passes’—[Ali chuckles, Janine laughs] I want a name for the mountain pass… um… okay, I have some—[laughs]
+Jack (as Carroway): I have some terrible news. The oranges have gotten lost in the Pragel Pass. [Ali and Janine laugh] 
+Jack: [amused] That's P-R-A-G-E-L. 
+Janine: Of course.
+Jack: The oranges have come loose. And presumably the spell that is on the orange cart, that is stopping the oranges from becoming blighted, is—has a clock on it, right? The spell was cast when they left the orange place, so that they don't freeze on the road—and now it’s stuck up there, the clock is ticking before these oranges—the spell is gonna dissipate and the oranges are gonna freeze. Oookay. 
+Ali: [chuckles] So, let's just pause here for a second. That is a hurdle—
+Jack: Sure is.
+Ali: Because it's two different hurdles, let's just kind of do the hurdle and responses and dice-getting separately and then we’ll all roll at the end? So Janine, you get seven dice for—why can’t I move anything? You get seven dice just for suggesting a level two hurdle. I guess this—yeah, this is level two. So you get that, and then Jack, it is your turn now to figure out responses, and I am just gonna go through this chart so you know all of the cards you can play with.
+Jack: Okay.
+Ali: Um… so, you've got a menu of options here, you get two dice if you involve a trait of our own character or the Beloved to get over this hurdle. You get three dice if you involve your own character’s trait and add a new complicating trait to your sheet. You also get three dice if you create a complication for the other Suitor that the Beloved player approves? I… I guess for right now, if I suggest one—or, well I guess, um… in this situation, I think that the way that you’d do it is if you were like “well, these oranges are also affecting Mellow’s situation in some way”.
+Jack: Right right right.
+Ali: You also get three dice if you flirt with the Beloved. You get four dice if you take a suggestion from me. Something that goes wrong for the active player and the complicating trait that they gain? You have the option to say “Hey Ali, suggest something for me” or I can suggest something and you'll just accept it. Um… and then you get 5 dice if you decide to sacrifice, which is, um… cross off a trait or attribute off of your character sheet and replace it with one that substantially changes your character and that all of the players agree on. 
+Jack: Damn, okay.
+Ali: And the examples in the book here are “best friend turns into a bitter ally, a jaded character becomes touched by wonder, [amused] a magic sword becomes inhibited by a wild demon, etc” [Janine laughs] Um… they may only pay one sacrifice per turn per Suitor, so you can't get like 10 dice because you—
+Jack: [amused] You can't get like 15 dice, yeah.
+Ali: No, no, no. yeah. Um… but it is a very powerful thing to do, if you wanna… y’know, not be ‘determined’ anymore or whatever else. But it does have to be fundamentally—
+Jack: Right.
+Ali: Because these—yeah. It wouldn't be like “Oh, I'm not busy anymore” because—
+Jack: [crosstalk] Yeah, 'cause I'm doing this. Give me five dice! Yeah, no—[Ali laughs]
+Ali: Yeah…
+Jack: It's a big move.
+Ali: But—and then, is this-—I'm just gonna copy and paste this for our… I'm gonna put it in our separate side chat, if you just wanna look at the words while you're thinking.
+Jack: Okay.
+Ali: [singing] Ah, and I didn’t keep the… beep.
+Janine: I could also set up Mellow’s thing too, and then that way you could suggest things to each other.
+Ali: Oh, sure, yeah.
+Jack: Yeah, yeah, yeah, let's do that.
+Janine: Rather than having to like, do one thing and then do the other, and then do—et cetera.
+Ali: Yeah.
+Janine: I think Mellow’s issue is a little more… local. A little less harrowing in some ways, and way way worse in others. Um… so I think that Mellow is maybe working her stall or something like that, when one Spencer Crisp shows up. [Ali and Jack gasp] Um… Spencer Crisp is incredibly—
+Jack: [crosstalk] The person themself!
+Janine: [amused] -incredibly dapper, like—combed back hair, nothing is out of place, big fluffy kind of silk scarf necktie kind of situation… really well fitted vest, just like 100% fantastic looking, honestly. Because, y'know, they're dressed to sit in a room with a big window where people watch them all day. So Spencer shows up, and… I don't know that Mellow would know him at first look, but, um—I think he introduces himself pretty quickly. He introduces himself while holding one of the tail wagging dogs, in hand? And says—
+Janine (as Spencer): My wife Marguerite told me that you came by for some velvet. I'm not here—I'm not here because I have any objections to that—by all means, I think it should help the community, they certainly need it. I was actually wondering… y'know, maybe… favor repay favor, I've been looking for someone who could help me develop kind of a paw shaking mechanism? To work into some of the designs at MaGuddans. And, y'know, you make these tail wagging—I obviously don't want to take the tail wagging away from you, but—that's your thing, that's your signature, and I respect that. But… I thought it might be a good collaboration, y'know, I could—MaGuddans pays its contractors pretty well. And I would really like to work with you, Marguerite said nothing but good things. Said you were a very nice young lady, and—y'know. I'm always looking for up and coming local toymakers to collaborate with.
+Jack: This motherfucker! 
+Ali: Yeah, this fucking jerk… 
+Jack: Y'know what I hate about Spencer is he’s really nice as well! [Ali and Janine laugh] And he dresses so well!
+Janine: I don't think Dovie would hang out with someone who was actively a shithead!
+Jack: Right! Yeah, exactly! [Ali giggles] 
+Ali: Yeah—they're basically doing the same thing that… Dovie did.
+Janine: Yeah.
+Ali: Almost word for word.
+Jack: Right!
+Ali: [laughs] There's nothing wrong with being like “Hey, I recognize that you're talented in this way and I would like to use that talent in a very specific way.”
+Jack: Yeah, the bad way to do it is to show up and say [Mr. Click voice] “would you like to make some clocks”? [Janine chuckles]
+Ali: [laughing] Right, yes, yes. Um… yeah, but—perfect. Is—is Mellow’s heart set on achieving her real dream, or is she going to go for the thing? What a hurdle! Okay. [laughs]
+Janine: Enjoy, folks! Have fun.
+[Jack laughs]
+Ali: Yeah, um… [laughs] So we each get three responses here, so I guess we can just kinda go back and forth on this, might be the easiest way to do it, Jack.
+Jack: Okay, yeah. Um… I am going to take three dice. I'm going to flirt with the Beloved. [Ali chuckles] Snow fall, it's—the blizzard that trapped the oranges in the pass has not reached the town yet, but snow is falling slowly in wide flakes. And in the porch outside—the heated porch outside the Glacier Express, Dovie and Carroway are sitting next to each other, sipping—I guess like mulled cider or something. Um—and Carroway is looking out ahead of her at the road that goes up the hill, out towards the mountain pass. And I think it's like a… “What if we were two girls, in light snowfall, waiting for the orange delivery” style of flirting? [Ali and Janine laugh] Where it's just like, conversation, looking in at the windows of the other shops—the conversation is like, moving in slow circles back towards the oranges and the mountain pass, and then just like, looking in to the windows—and talking about the cider, and talking about each other—I think Carroway maybe just offers Dovie her scarf or something—it's classic ‘we’re in the snow’ flirting. I think it's also powered by a deep anxiety about the fact that all those oranges might be ruined? But, y'know. [Janine and Ali laughs] That's how it's gotta be sometimes.
+Ali: Mm-hm, sure. 
+Jack: So I will take three dice.
+Ali: Yeah. Um… cool. I… [pause] I'm going to… I'm gonna take five dice for crossing off—it's funny 'cause I have ‘headhunted’ and ‘gaining notoriety’ and I think that we fucked up the rules and they're both very similar? So, would anyone feel especially vexed if I burned both of them? Because [laughs, Jack overlaps] they should probably be the one thing. 'Cause I think that—sorry, Jack, I assumed you were saying ‘no, I don't mind’. [laughs]
+Jack: No, I was saying go for it, yeah.
+Janine: Yeah.
+Ali: [laughing] Okay. I completely interrupted you, did not let you respond.
+Janine: It's not like you're trying to get 10 dice for doing that, so—y'know, whatever. 
+Ali: Yeah. Um… But I think that at this moment—like, it's not just a ‘no, I’m not interested’, right? She is… y'know, an aspiring toymaker with some very important shortcomings in her skill. But like, refuses his offer in such a way that like… she is really cutting that snake at the head and also losing sort of the buzz that she's getting as her craft is getting more… y'know. [pauses] Popular or whatever. [laughs] But yeah, I think it's very much like—I've been thinking of this as a sort of inside-outside toymaker situation, where it's like, Dovie has her nice shop, and then Mellow and Carroway sort of are in the holiday market in the town square, or sort of a situation like that. But where like—her reaction is such that it not only gains attention from the other salespeople around her booth, but like, Spencer goes back to MaGuddans and is like—“this person is a jerk”. [laughing, Janine cackles] “Like, really told me to not come back there ever again”. So let's—fuck it. You know.
+Janine: I'm just imagining Mellow telling Spencer to get fucked and then this entire christmas market going silent.
+Ali: [laughs] Exa—it’s that like—
+Janine: There’s just like children holding—like, a child holding a candy cane drops it and it shatters on the ground, their mother hurries them off with their hands over their ears…
+Ali: Yeah, like—as much as a good time you were having at that holiday market, as much as you might like those ugly dogs with really good tail-wagging, you're like, not gonna buy a dog from someone who just told someone to fuck off in front of your kid. [laughing] It's like, very much a wound to her reputation in that way, but she is also the sort of person who would put her foot down that way as well.
+Janine: I think the other way to look at it is also that like… in terms of who is hiring and who is looking to work with toymakers in this town, the people with the money are MaGuddans. So like, if you piss off MaGuddans, that immediately curbs a lot of your opportunity, because everyone else has a lot less money, has a lot less resources to work with other people so—y'know, even in the sense of—it's not like every toymaker in town necessarily would be shitting on Mellow Aster behind closed doors, [Ali: No no no.] but there is—y'know. Yeah. That's a very big bridge to burn.
+Ali: [laughs] It's a huge bridge to burn, and I also think there's the aspect of like, the person who is an actual amateur clockmaker across the like, market waypath, would be like, “oh, I was thinking about making a new—like a wall clock, and I was thinking—y'know, those tails are basically like the hanging clock thing, but I haven't figured that out myself, I thought we would collab—but I'm definitely not gonna do it with this weird hothead”.
+Janine: Yeah…. I bet she's a nightmare to work with. 
+Ali: Oh, yes [laughs] and I'm taking my five dice for that. Um… Jack, it is your turn.
+Jack: Okay! I'm going to use one of my traits and add a complicating trait, so I'm going to take three dice? 'Cause I think what happens as Dovie and Carroway are sitting in the booth—and y'know, Marguerite has come out and refilled—man, y'know how when you're in a diner, and they keep bringing you coffee, and it’s—it is both a deeply luxury experience and also you are drinking far too much coffee? [Janine laughs] God, what if the alpine town version of that is that they keep refilling like, mulled cider? Like, someone just comes out with a jug and tops up some mulled cider—that would be great. I was just thinking about that, this is not a plot thing.
+Janine: And you have to look at the orange slices floating in it and being like “ah, shit, shit”.
+Jack: Right! Well, it's fucking Marguerite Crisp, of course she's got orange slices! [laughs] Um, but I think that as they're talking what happens is there's a commotion—I guess another commotion, 'cause elsewhere in the town right now Mellow is telling Spencer to fuck off? Um… [Ali laughs] and it's the sound of paws on snow, like skidding paws, and a horn is blown in the distance. And, um—running down the street, come, I would say, 15 Saint Bernards? Complete with the...
+Janine: Yay! Lil’ barrels? Barrel necks?
+Jack: With their barrels around their necks, and at the back of them is a very very very big Saint Bernard being ridden by like, two or three people carrying lanterns and telescopes and everything, and they go screaming by the… the Glacier Express and up off the hill towards the mountain pass. And, uh… this is because Carroway has spent the last of her savings on securing the services of the mountain retrieval brigade? Which is 15 Saint Bernards, one really big Saint Bernard and a crew of people whose job is to go up into the mountains and get things that are stuck there. So, I am using my trait ‘busy finding counterwitch’ and I'm adding the trait, uh… ‘broke’. [laughs, Ali and Janine chuckle] Like, completely. Before it was like “I don't have enough money to get a counterwitch” and this is “fuckin—I had to hire 15 dogs, one big dog, and some people with lantern poles and telescopes? And now I have no money at all”. But 15 dogs, one big dog and some people are on the case.
+Ali: Um… perfect. 
+Jack: I'm gonna take three dice for that.
+Ali: Yeah, you've earned your three dice. Um… I think that I'm gonna flirt with the Beloved as well?
+Jack: She's fucking hanging out with me! But—
+Ali: [laughs] Hang on! Hang on!
+Janine: I was gonna—I was gonna suggest that this doesn't necessarily have to be happening concurrently.
+Ali: [amused] Right, yeah. We can be very broad with the timeline here, because—
+Jack: [mumbling] Okay, fine…
+Ali: [amused] There have been situations happening, to two people—You can't just be like “Oh, it's my scene, we’re together”. [cackles]
+Janine: [crosstalk]You don’t just get to lock down… [laughs]
+Jack: I started flirting first!
+Janine: I’m holding hands and I'm not letting go, so there.
+Ali: [laughing] We’re having this beautiful time together, and only I’m able to do that, I win because I said that out loud! That's how that works! Anyway, I'm going to flirt with the Beloved, because I think later that night Mellow… is kinda shaken by the experience, both knowing that she has been increasingly [laughing] losing her nerve, and I think knowing that—I think that the velvet stress is really getting to her. Um… and I think that she's telling Dovie about this situation, and not so much about like “Oh, your ex came, and-” blah blah blah—more in terms of being like, y'know, another person from MaGuddans came and reached out to me, and I know that I overreacted, and I know that this—[sigh] I know that I fucked up, and that it's probably not going to be good for me in the long run, but I—I really wanna just be able to make my own way, the way that you did. 
+Ali: And I think that she is appealing to Dovie that way by being, um… by being—I keep playing Mellow as this very easily—[laughs] very easily impressed and also like… a fan of Dovie? But I think that in saying—y'know, “I'm very determined to be… successful by my own merit” would hopefully appeal to Dovie in some way. Or at least I think that she hopes so, in this moment. [laughs] And that is her attempt to—[laughing] I keep drawing dots all over these dice, instead of picking them up! And you can just see all of them there, [Janine laughs] it's very funny to me. Um… but yeah, that's my three dice. Jack, it's your turn. This is your final response.
+Jack: Yeah… um—give me a complication!
+Ali: Sure! Okay, so… [humming] That’s an interesting way to… [pause] something that goes wrong for the active player and a complicating trait that they gain. Okay, um… so these oranges are at risk, you hire these dogs—
+Jack: And a big dog, and some people who ride them, and stuff.
+Ali: Right. Yes. [laughs] Well, you didn't hire the dogs. Well, you did hire the dogs, it's—okay.
+Jack: I mean, maybe I hired the big dog, maybe he's their boss, I don't know.
+Ali: Ohh, yeah, there's no way to say. [pause] Hm… It's weird, 'cause I'm trying to think of a way that's like, not further… like, putting on, on Carroway…? [laughs] Like my first idea was like, maybe the orange person wants something from you in return. But like, I don't know if further indebting you is [laughing] an interesting way to complicate Carroway’s life in this way, um…
+Janine: I have an—
+Jack: [amused, overlapping] It's wintertime and Carroway Sticklepath needs money. What was your idea, Janine?
+Janine: Um… I don't know if you want to save this for a scene resolution, but the complication could be that the dogs are too short to pull that wagon, like at the shoulders? And they need a horse up there or something?
+Jack: Well, they could just get the big dog to do the—
+Janine: Well, he's too wide. 
+Jack: Ohh!
+Janine: That's a suggestion, [Ali giggles] I don't know if we wanna go that way, but that's a—
+Ali: Um… and what would the trait be? Like ‘hiree wrong dogs’ or something? [cackles]
+Jack: [laughing] ‘Get stronger dogs’. Well I mean, these are Saint Bernards, I've really exhausting my options, I’m in the top end of strong dogs!
+Ali: Yeah, um…
+Janine: I mean, I think the leading thing there would be, it would have to be a trait related to Carroway having to going into the mountains with Ransom.
+Jack: God, y'know when you spend your last shiny silver dollar to—and you hire the wrong dogs? [Ali laughs]
+Janine: And the dogs come back and they’re like “yeah we found your oranges” .
+Ali: God—the only other idea I had was that like—oh, the oranges are safe, but they're like pre-cloved or something, and therefore they’re not—
+Jack: [laughs] Wrong oranges!
+Ali: -acceptable—yeah, but that's—huge. [laughs] I… yeah, ‘cause I guess we’re not gonna know of the fate of the oranges until the result of this scene.
+Jack: Right.
+Ali: I'm just reading… I'm just reading the win state for this—for what this is, just so we have—we’re finishing this with more. Um… once the winner has been determined, that player gains points and adds traits to all of the characters. Um… oh, okay. Okay, so we just all get another trait at the end anyway. Um… yeah, I think that—yeah, I think that there's—I think the dog thing makes sense. Because your hurdle is like—you thought the orange situation was over and it is not.
+Jack: Mmm.
+Ali: And I think that even when the hurdle is over, this is something that you're gonna have to continue to deal with. So… yeah. I think that—
+Jack: So what's the trait? ‘Hired wrong dogs’?
+Ali: [sigh] Y'know, it's sitting with you that you hired the wrong dogs! [laughs]
+Jack: [amused] It is sitting with me that I did hire the wrong dogs. Um… [laughs]
+Janine: There were mixed animal groups that you could have hired, but you went with the all-dog crew.
+Ali: Yeah… You don’t want all dogs…
+Jack: They're famous! I mean—I didn't fall for their fame, they're successful, renowned. I just—look. ‘Hired wrong dogs’, I'm typing it down.
+Ali: I already did, and I'm assigning you your four dice. So you got three for flirting, three and then four. Um, and then this is my final response… [hums] [pause] It’s so funny, I could create another complication for you in this moment if I wanted to. [laughs]
+Jack: Right dogs show up, and they're put out.  [Janine laughs]
+Ali: Um… but yeah, I mean—was that [cuts out] in the suggestion there, Janine, was that like—Carroway would have to… y'know, take Ransom and figure out this orange situation on her own?
+Janine: That was just an idea.
+Ali: Okay.
+Janine: I would’ve also suggested Carroway like, leaping onto Ransom’s back and riding off as flirting [Ali laughs]. That would have also—
+Ali: You just really—yeah, you just want some on-screen Ransom, I don't blame you.
+Janine: We need more Ransom. We got big dogs, we got big horses, we gotta use em both. 
+[pause]
+Jack: Ransom did some customer intimidation.
+Janine: That's true.
+Ali: Yeah, yeah, yeah. Yeah.
+Jack: Ace would never. Ace absolutely would, is the other thing. [Janine laughs]
+Ali: Oh my g—imagine if there was someone rowdy at Red Jack’s bar, which is also just Ace. Ace kicks them at the other customers—yeah, yeah.
+Janine: [crosstalk] Ace would kick them.
+Ali: Yeah, yeah. Ace is great at customer service. And by that I mean kicking. 
+Jack: [crosstalk] Yeah. At that point the bar just leaves. Yeah! [Ali laughs] [fondly] Oh, Ace.
+Ali: Um… it's so funny, I'm looking at my character sheet and I'm like, “Oh, I'll just get three dice for like, playing my trumpet to try to calm down” [laughing], which—
+Jack: Time for me to calm down—[trumpet foley] [Janine and Ali laugh]
+Ali: It feels… um, it feels realistic. It's an easy way out, but I am going to [laughing] involve my trait—I guess it's not a trait. But, much like Ransom, I would like this horn to be on screen. So yeah.
+Janine: Is there like an open mic night at Landslide?
+Ali: [cackles] There must be. Yeah, okay, I'm just gonna take the two dice for that. My trait is that I have a trumpet, and I'm unwinding with it, which is a way to overcome a hurdle, in my opinion. 
+Janine: Yeah!
+Ali: So. Write that in your book. [laughs]
+Jack: [amused] I love to relax by playing musical instruments.
+Ali: [laughs] Um, okay, so… after the three responses, each Suitor will have a pile of dice in front of them, forming their own personal dice pool. The scene level suggests the Beloved’s dice pool, which is why Janine has seven. Um… and we’re gonna—did you just roll, Jack? 
+Jack: No, I just moved. I just moved some dice.
+Ali: Okay. I'm gonna roll my dice, let's all roll our dice. Everybody ready?
+Jack: Yeah!
+Janine: I rolled. 
+Jack: Oh my god, Ali! 
+Ali: Hoo-ee, okay! I… super win, I think? [laughs] I have—
+Janine: Wait, I don't even see Ali’s.
+Ali: Oh, I have four sixes, which I think neither of you even come close to.
+Janine: No.
+Ali: Perfect, good for me, um… all ties are broken, yadda, yadda—once the winner has been determined, that player gains points and adds traits to all the characters. The number of points gained is equal to the number of points offered as a reward for the level. So, we just did…
+Janine: Two, it’s two. 
+Ali: Okay, yes.
+Janine: I specifically picked two because I wanted the last round to be tense.
+Ali: Ooh.
+Jack: Thank you Janine. 
+Ali: Thank you for that…
+Jack: Janine here, gaining her credentials as the complication introducer. [laughs]
+Ali: Yeah… Okay, so—
+Janine: 'Cause if I picked three, then Jack could fill up their thing in the first thing and then it's like, well…
+Jack: You know…! Janine, I’ve thought of a great career path for you. What if your job was fixing Eurovision results? [Janine and Ali laugh] 
+Janine: I’d love that.
+Ali: God. Um, [reading] base the traits on the events of, uh… [quietly, singing] fill in the… wait—the number of points gained is equal to the number of points offered as a reward for the level. Fill in as many circles for the character’s goal under the winning character on the character sheet. This is the—oh, okay. So it’s just me. There was a thing about the Beloved, I thought that you—
+Jack: [crosstalk] I don't get any?
+Ali: No. Um, I won! [laughs] Um, so! Base the traits added on the events of play. They may reflect the hurdle, or some action taken by the character, or some facet of their personality that was highlighted. If appropriate, the same trait may be applied to all three characters. Okay, I don't think that's what's happening here. What traits are we gonna have, okay… so. [laughs] I guess I'm leaving the scene—does Carroway know what happened with these oranges, or is it still just the anxiety of waiting for the oranges, not knowing…?
+Jack: Well, do the—do the mountain retrieval crew come back with no oranges, and two climbers who were stranded and were rescued—y'know, coincidentally, because they always do their work—and the person on the head of the dog train is like “wrong dogs, boss, can’t pull it”. Like, am I given at least the news that the oranges are really fucked.
+Ali: Yeah, I think that… I mean, if—I'm taking the power here to give you sort of an orange -based trait, which I think that I—I'm gonna be generous and say that I think maybe some of the oranges were recovered? They weren't able to recover all of them?
+Jack: [amused] One orange per dog.
+Ali: [giggles] Y—y'know—
+Janine: Every—What if every dog comes back—y'know the meme thing, where the dog pulls the egg in its mouth? And then gently—it's very gentle with the egg?
+Jack: Yes! Yes!
+Janine: [Ali snorts] [laughing] That, but oranges?
+Jack: Carrying one single orange.
+Janine: Very gently.
+Jack: Tenderly.
+Ali: You know—I'm willing to give you five oranges for dog or something in that manner? Um… 'cause I think—these dogs are professional, they're capable, they were not right for this job.
+Jack: [crosstalk] That’s seventy-five oranges, okay!
+Janine: How many oranges fit in a little neck barrel?
+Ali: How does this—wait, I thought there were three dogs.
+Jack: There are 15 dogs! [Ali cackles] I didn't spend my last silver florin on a small number of dogs, [unintelligible]
+Janine: [crosstalk] There are at least 75 Odd Job Boys too, so…
+Ali: Oh, okay, all right. So if there's 15 dogs I will give you an orange per dog, sorry, I didn't realize the scale of dogs that you—I thought you said there was a Saint Bernard and then two others.
+Jack: N—there's 15 Saint Bernards, there's one huge Saint Bernard.
+Ali: [with accent on the first syllable instead of the second] Bernard. 
+Jack: [accent on first] Bernard. [Ali cackles, Jack laughs] Being ridden by three folks, humans—
+Ali: Ohhhh.
+Jack: Carrying lanterns and telescopes and stuff. So we’re talking 16 dogs, one of which is bigger than the others, plus three or four humans.
+Ali: [laughs] Okay, I think that the three humans each have five oranges in the backpacks that they' brought. 
+Jack: Each have five oranges, okay.
+Ali: [laughing] And you—I'm adding the trait ‘has 15 oranges’ to your—
+Jack: So the dogs aren’t carrying any oranges, I just want to get this straight as to who has got the oranges. 
+Ali: The people do, the dogs have the people.
+Jack: Okay, okay. Okay.
+Ali: And you now have the trait ‘has 15 oranges’?
+Jack: [laughs] Okay.
+Ali: Um… I—where’s Mellow in this situation? Um, Mellow is… feeling dejected. Feeling as though she is putting all of her eggs in one basket, but wants to feel confident about that decision. What’s a good trait. [pause, laughs]
+Janine: Independent?
+Ali: Yeah, I guess so. Yeah, sure. I'm like—[laughs] it's so weird, because I'm trying like, trying to be like “Oh, what's sort of mean?” But I won, I can say what—like, I could write has—y'know. ‘Is very attractive and nice’ if I wanted to, um—
+Jack: [crosstalk] 16 oranges.
+Ali: I have 16 oranges, yes. [laughs] Um… I think that I'm going to add—you know what, fuck it. I'm also gonna be determined.
+Janine: The other alternative is ‘gets dirty looks at the Glacier Express now’.
+Ali: [laughs] It's fine, I always did, I was always hanging out back… [Janine chuckles] Determined is a bad trait, but it's funny to repeat the one that you have to me, personally? So I'm just gonna write it and that's fine. And then Janine… Dovie’s trait is going to be—it's weird, because Dovie wasn't really centered in either of these, so how did Dovie make out on this? Um…
+Janine: I feel that in both cases Dovie’s role was as like, emotional support for these two people that she’s sort of getting closer to?
+Ali: Yeah.
+Janine: Where it was like, Carroway was nervous about the oranges and did not need to be waiting alone for that to settle, and Mellow felt really weird and conflicted about shooting Spencer down so bitterly, and probably needed a little bit of reassurance there too, that she’d made the right call or hadn’t shot herself in the foot.
+Ali: Um, do you think it should be more of a trait of like, an overall sort of… y'know, being comforting, or is it more specific in like… 'cause you're—I'm looking at your things here… your opportunity was that you were recently burned… are you feeling less... In making these new relationships, are you feeling less—I guess ‘humble’ and ‘has closure’ covers those things.
+Janine: Um… maybe like ‘present’? I think the sort of arc of this second round has been Dovie learning that maybe there was—y'know, maybe she wasn't like, meeting Spencer’s needs perfectly, and here are these two people who are really promising, and she’d like to work with them, and like, she wants to make sure that she can meet their needs in the way that she maybe fell short with Spencer. So like, being present with them, being aware? 
+Ali: Yeah, um…
+Janine: Something like that? And that also kinda goes with the opportunity of ‘recently burned’ of like… trying to prevent that in the future.
+Ali: Um… yeah, I'm gonna write ‘feeling…’ [laughs] um… useful isn't the thing, but I think feeling… I guess… Connected?
+Janine: Yeah, that works!
+Ali: Yeah. I'm just gonna write that 'cause we know what I mean. 
+Janine: I mean, this whole thing for her has also been about trying to feel a connection with someone other than this person that she’d been working with for a really long time. 
+Ali: Right.
+Janine: So that's—that's an important thing. 
+Ali: Yeah. Um… perfect. Okay, those are my traits. I was about to change ‘determined’ but I actually think that it works.
+Janine: It's good, don't worry about it.
+Ali: It’s a different—yeah. [laughs] It's a different sort of determined than being like “oh, I wanna be a toymaker now, and now that's what I'm gonna be”. Okay, so… now we know what each of the turns looks like, and… time to go around once more, this is our final turn. I don't think that there's any—I'm gonna double check, but I don't think that there's any changes for the final turn except that the.. each people get three points gained per—um. And then we have a whole endgame situation. But yeah, Jack, it's on you again. As Suitor One, it's your scene. I guess—I don't mind the “Oh, I'm doing a thing and then I'm doing another thing with Dovie” but it is—it is supposed to be focused on interactions between those two characters, 'cause it's uh… opportunity to strengthen their relationship.
+Jack: Could we take just 5 minutes before we start this next round?
+Ali: Oh, sure! Yeah, yeah, absolutely.
+Jack: Yeah, rad. Okay, we will see you back in 5 minutes, I guess.
+Janine: I'm gonna—I'll deafen Discord and then play some music again.
+Ali: Okay, cool. Thank you. 
+Jack: Okay, bye!
+
+
+
+
+
+
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

@@ -1,0 +1,1466 @@
+﻿PALISADE 18: How It Always Looks Pt. 1
+Transcriber: robotchangeling
+Opening Narration        1
+Introduction        3
+Game Introduction [0:09:06]        10
+Discussing First Actions [0:32:00]        26
+Jack’s Idea [0:54:58]        47
+Jack’s First Move [1:07:18]        55
+Art’s First Move [1:13:08]        59
+Jack’s Turn [1:27:07]        72
+Discussing Jack’s Outcome [1:52:25]        91
+Opening Narration
+Austin: PALISADE is a show about empire, revolution, settler colonialism, politics, religion, war, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+[“Nothing is Stationary” by Jack de Quidt begins playing]
+Austin (as Baldwin Home): Broadcasting live from the caves of Sinder Karst—that’s right, we’ll tell you where we live, ‘cause you can’t reach us, not in a way that matters—it’s your boy, Baldwin Home, a.k.a. Black Screen, Concrete Front, you already know what it is. Hitting you with another missive from the front lines, giving you an update on their missiles and known crimes, so you can move under their noses and know where they sharpen their knives, so you can recognize it by sound [crosstalk] and get your own honed too, because they need to be. 
+(as an agent): [crosstalk over radio] [walkie talkie chirp] Bank, this is Church. I’m at position alpha. [chirp] 
+(as Baldwin Home): What did I say? Play it back! Play it back! [audio skipping] They’re— they’re— they’re moving on us now. Bilateral Intercession, yet they got three heads, so I gotta break it down for you. It’s like this. Stel Kesh, they’ll try to confuse you with half-true museums and the shine of gold and silver, so let’s keep it simple: they wear a lot of fancy shirts. I'm not kidding; you should see they closets. And that’d be fine by me; you should see mine! But I know who made my shit, and I know they didn't make it at gunpoint, direct or indirect. Kesh? Kesh only know what’s on the label. With Kesh, it’s always about labels. 
+(as an agent): [chirp] [crosstalk] He has no idea. Listen to him go. [chirp]
+(as Baldwin Home): [crosstalk] For as long as there’s been a Kesh, they’ve been breaking everybody and everything down so it fits into little drawers, little boxes. It been the same since before any of us were living here on Palisade. Next up, Stel Nideo. They run the churches and the schools and the cameras and the swords and the blood-colored jewels. What can I even say that they haven't said themselves? Their little prophet and their big Divines treat words like prison cells. It’s a prison faith. It’s a prison ideology. They locked up they own selves with a warden psychology. They preach fields into gardens but turn land into landmines. They practice [crosstalk] metaphysical arson and replace homes with confines.
+(as an agent): [chirp] [crosstalk] You gotta give it to Connadine. They all speak on rhythm. [chirp]
+(as Baldwin Home): Which leaves us with just one more head on the hydra, one more round in the chamber, one more villain inside the Intercession war procession. Exanceaster March, you're worth half a bar, lightweight, but fuck it, I'll give you eight. 
+(as an agent): [chirp] [crosstalk] Roger. Executing now. [chirp]
+(as Baldwin Home): [crosstalk] You're the ideal mosquito, bloodsucker supreme. Turned your back on your people so you could follow your dream of monopolizing the future, ‘cause fuck it, you want more. [weapon powering up] Well, so do I, which is why I rhyme and why we’ll knock down— [explosion]
+(as an agent): [chirp] Kill confirmed. [chirp]
+[song ends]
+Introduction
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Art Martinez-Tebbel.
+Art: Hi, you can find me on Bluesky at @amtebbel, and…
+Austin: [intrigued] Oh.
+Art: Yeah, there’s… [whispering] There’s nothing over there yet, but like—
+Austin: I'm over there, but I haven't done anything.
+Art: You're the only person I follow. That’s not true anymore, but for a while, you were.
+Austin: Mm, mm.
+Art: Because I didn't want to put the effort into following anyone, so I was just like, I'll find Austin, I'll figure it out from there.
+Austin: Should I follow— I'll follow you. 
+Art: Sure.
+Austin: Oh, damn. A bunch of people followed me. Not that many people, but you know.
+Art: Yeah.
+Austin: Damn. I'm getting tweets. Or I'm getting— what are they called over there?
+Art: I don't know. Skies? Blueskies?
+Austin: Bloops?
+Art: Bleeps?
+Austin: Okay, blueskies.
+Art: Bloops?
+Austin: People are messaging me about podcasts we put out.
+Jack: Huh.
+Austin: This person’s talking to me about what Jars of Clay song I was referencing on a previous Friends at the Table song, so you know.
+Jack: That is the sort of thing you do.
+Austin: It is.
+Jack: So they must be right.
+Austin: It must be right. Anyway.
+Jack: You must be the Austin they’re talking to.
+Austin: It’s true. Exactly. I guess I'm over there too, at austinwalker.bluesky.social, which I should just make my own thing. You can do that with that, right? Also, that was Jack de Quidt.
+Jack: Hello. I'm Jack. You can find me on Cohost at @jdq and buy any of the music featured on the show at notquitereal.bandcamp.com. I don't have a Bluesky, and if I'm being perfectly honest with myself and in my soul, I will not.
+Austin: I don't— yeah, I don't… [sighs] 
+Art: It’s getting so shitty over on Twitter.
+Austin: It’s so bad on Twitter, but also Kevin Durant joined a live chat on Twitter entitled “KD isn’t a top five player” to argue in defense of himself. [Jack laughs]
+Art: Yeah.
+Jack: Whoa, no better platform. I mean, look.
+Austin: Miserable. Hellfire. Fuck Elon Musk. You already know what it is.
+Jack: Yes. Yes.
+Austin: I might have to go to— uh, let me be clear. My actual day-to-day shit is mostly Cohost now. I'm cohost.org/austin. But like— and I'm not posting, because I'm just, like, stepped back from posting a little bit.
+Jack: Yeah.
+Art: Yeah, you're just chilling.
+Austin: I'm just chilling, but that’s where I'm chilling, you know what I mean?
+Jack: Yeah.
+Art: Yes. And like, furthermore—
+Austin: And truly— really quick, I just want to show you a post.
+Art: Yeah.
+Austin: My top post right now on Cohost is this from a person on Twitter— fuck, on Cohost [Jack laughs] — who says, “A new restaurant opened up near me, and I was checking it on Google Maps, and this place looks incredible.”
+Jack: [chuckles] Holy shit.
+Austin: And can we just— I mean, I'll just read their own descriptions, because they put on alt text here: “Photograph of the exterior of a building with a mural of a sugar skull holding a beer and the word CANTINA.” Then the second one is: “Kind of washed out interior photo of a restaurant with a fair number of people, kind of pinkish light, and Mexican paper cutouts hanging from the ceiling.” Then the third one says: “A photograph of a fucking lit up robot man on the dance floor?” [Jack laughs] And the fourth one says: “The same robot man, only now it's looking down at what appears to be a man wearing a gigantic plastic baby head.” So!
+Jack: Yep.
+Art: I can't believe you didn't give proper credit to Cohost user Asses Davenport.
+Austin: You know, I was trying to keep Asses’ name out of the streets, you know? I don't want to put that heat on ‘em. [quiet laughter] But yeah, 100%. Yeah.
+Jack: The top one on—
+Art: Could be assess? How do you spell— is assess spelled the same way? 
+Austin: [laughs] It could be assess. It could be—
+Jack: Uh…
+Austin: It could—
+Jack: No.
+Austin: No.
+Jack: “Assess” has another S in it.
+Austin: A second S, yeah.
+Jack: That is Asses. The top post for me on Cohost is a description of how— it’s from Johnnemann describing how The Maltese Falcon is now in public domain [Austin: Oh.] and which means that there are lots of cheap ebooks of it on Amazon [Austin: Oh.] but they do have to provide their own art.
+Austin: Oh, that’s great.
+Jack: Which means that we’re entering a golden era of Maltese Falcon covers that look like this. Uh, let’s see…
+Austin: Oh my god. Well, that’s not in the public domain. That’s the Atlanta Falcons logo. [Austin and Jack laugh]
+Art: Yeah, that is not in the public domain.
+Jack: Johnnemann’s description here is: “A field of photorealistic grass with the Atlanta Falcons logo on it, and the book title in some free horror movie font.”
+Austin: That’s great.
+Art: Yeah, that’s Goosebumps.
+Jack: Cohost is great is what we’re saying.
+Austin: That’s Goosebumps. Yeah, uh huh.
+Art: The top post for me on Cohost is from Friends at the Table.
+Austin: Okay.
+Jack: Oh.
+Art: So, I need to branch out my Cohost follows a little bit, it seems. [laughs quietly] 
+Austin: I'm getting a second one here. This one is Shel shared by Willow. “Are you new to Philly?” Philly is in blue font. “You should know about hoagies,” in green font. “You can make them from different ingredients like,” and then these are all in red font, “bread, lettuce, mayonnaise, bugs, monster tails, and scarabs. Different ingredients have different effects, like making you feel bloated or tired. I can't believe you've gotten this far in Philly,” blue text, “without knowing about hoagies!” green text. “Here, take this.” Which has happened to me. This happened to me in Philly, at least twice.
+Jack: Oh, yeah.
+Art: Is this a reference to something?
+Austin: I think it’s a reference to the way in Nintendo games different— like in Zelda.
+Jack: It’s a Tears of the Kingdom thing, right?
+Austin: Yeah.
+Art: Okay.
+Austin: When you go to— Zelda will always highlight special words in different colors, you know?
+Art: Okay.
+Jack: It’s very similar to the way screenplays work, where when like an interesting or notable noun is introduced for the first time in the text, it gets put in all caps.
+Austin: Right, uh huh. And then also in, like, Papyrus font. [Jack laughs]
+Art: Yeah.
+Jack: And in Papyrus.
+Austin: That’s in Save the Cat, right? It says, “Now, make sure…”
+Art: Yeah, it says use Papyrus.
+Austin: Uh huh. [laughs] 
+Art: For people, it’s Comic Sans.
+Austin: Uh huh.
+Art: Jess will send me TikToks of this sandwich shop making these really good looking sandwiches, [Austin: Mm.] and this shop is in Boston?
+Austin: Impossible.
+Art: And like, it’s just torture.
+Austin: Mm-hmm.
+Art: It’s just torturing me.
+Austin: Mm-hmm.
+Jack: Oh, yeah.
+Art: You know, like, I can't have this.
+Austin: You're not going there.
+Art: I'm not gonna take a trip to Boston to eat a sandwich.
+Austin: I'll say this.
+Jack: You could take a trip to—
+Austin: You could find a worse reason to go to Boston.
+Jack: Yeah.
+Art: But then what? I’ve…
+Jack: You could visit Keith.
+Art: I've seen Plymouth Rock.
+Jack: Mm.
+Austin: Plymouth Rock fell on us. Uh, landed on us.
+Art: Landed on us.
+Austin: Landed on us. Landed on us.
+Art: Yeah.
+Jack: Landed on them?
+Austin: No.
+Art: No. This is, uh…
+Austin: "We didn’t land on Plymouth Rock. Plymouth Rock landed on us."
+Jack: Oh.
+Austin: This is a Malcolm X quote.
+Art: Malcolm X quote.
+Jack: Oh, shit!
+Austin: Yeah.
+Jack: It’s a good quote.
+Austin: Yeah.
+Art: Yeah, he had some good quotes. [Austin and Art laugh]
+Game Introduction [0:09:06]
+Austin: Uh, today, we are continuing our game [Art laughs] of Armour Astir by Briar Sovereign. Our goals, as always, are to portray a world entrenched in conflict, to let the players make a difference, to connect the magic and the mundane, and to play to find out what happens. Whew! How’s it going?
+Jack: It’s all go, isn’t it, on Palisade?
+Art: Yeah.
+Austin: It’s all go on Palisade. We’re recording this before the fourth episode of this arc drops, [Jack laughs] and so there are people out here in the world being like, “What if I become, like, a Griesel fan? What if I, like, become…what if— oh, I can't wait to see— oh, Cori really went through it already.” And they haven't heard the fourth episode of that arc yet.
+Jack: No, yeah. My composing project files are all named for the scenes rather than for the tracks— 
+Austin: Right. Right.
+Jack: So that I know exactly what is happening in the thing, and so, right now, I am currently working on a song called “Cori kills Griesel.”
+Austin: Great.
+Jack: That is just the name of my project file.
+Austin: You know, there—
+Art: Well—
+Austin: Go ahead, Art.
+Art: So, the “faction game only” listeners have now just been [Austin: Well.] devastated by…
+Austin: Right.
+Jack: Oh, well, it gives them…they wouldn't know otherwise, since they’re only listening to the faction game.
+Austin: Right.
+Art: No, I don't think such a listener exists.
+Austin: You don't say that. You said— it’s real now. Now someone’s invented the, you know…I don't know.
+Art: Faction game only?
+Austin: Basil order of listening to Friends at the Table.
+Jack: Yeah, so named after Basil Cliff, the inventor of listening to things in a truly fucked up order. [Art laughs]
+Austin: Exactly, yes. Exactly.
+Art: Patron saint of Friends at the Table fandom. [Austin and Jack laugh]
+Austin: Basil Cliff. We ended the last arc with a big open question, or at least it was an open question. I guess we haven’t— we might go back and do a pickup to kind of clean up the outro of that, that summarizes a lot of off mic conversation, both— er, not both. Fully out of character conversation about what to do with the spy points. They left the last session— I mean, cards on the table: they left the last session with me saying, “All right, you've earned three spy points from the three spies you've picked up,” not including the character who, like, you know, turned herself in, Elle, Elle Evensong, a.k.a. Ellie. “That one didn't count for story reasons,” is what I said, and then I kind of softened on it and was like, “You know what? That should count, and then also, because you did kill or capture a bunch of spies, let me remove one of the grip that the Authority has on Violet Cove.” 
+So, the current state of things is— or at that point, the state of things was Violet Cove had one grip from the Authority on it, and then they had four points—spy points; this is official terminology—spy points to spend on the following things: remove one grip from Violet Cove— sorry, I guess they had— no, that’s right, yeah. So, Violet Cove had had two grip on it from the Authority. That got reduced down to one, [Jack sighs] for free, for what they did. Jack is sighing. 
+So, their options were: remove one grip from Violet Cove; remove one tick from Uncover the Cause as you feed false information to spies, therefore making it easier— you know, harder for the Authority to figure out who all the members of the Cause are; add one grip to a Stel Kesh pillar, or I guess remove one grip in Armour Astir terms, which is to say the Cause would potentially be able to strike at it once each of those has lost all their grip or once you think of the Cause as having their own three grip on it; or gain one benefit for the Blue Channel. For instance, voting power or more resources or greater autonomy or the safety of never being sent into something without a clear, you know, and true briefing on what it is they’re walking into. I would say there was lots of conversation and then also lots of consideration, during which it wasn't clear if it seemed like anybody could agree on where it was going. Think that’s fair to say?
+Jack: There was, like, some full-on voting happening about this.
+Austin: Yeah. I'm looking at the result of the final vote here, and I would say that there were a bunch of different perspectives offered. Some people wanted to reduce the Uncover the Cause Membership, since that seemed like such a strong in-character motivation, you know, for like, Brnine for instance really wanted to make sure that the Cause’s full membership didn't get seen.
+Art: Mm-hmm.
+Austin: There was definitely some “Hey, we should just totally clear Violet Cove off and make that be a place where they’re completely safe again.” There were people who said, “Well, what if we lean into the thing of like, we get not just, you know, some autonomy but authority inside of the Cause,” and there’s a world where, you know, the end of this ends up being that, you know, Brnine gets a vote at the Cause tier. You know, Brnine becomes— replaces Gucci or, you know, also gets a vote or something on matters of what happens with the Blue Channel or what happens with Cause stuff altogether. None of those things ended up winning, and in fact, what we ended up with was Keith’s plan, which I think is the biggest swing. Is that fair to say?
+Jack: It is…yeah, and I say this without a value judgment attached: it is very aggressive.
+Austin: Yeah. So, can we—
+Art: I'm gonna say it with a value judgment: it was very aggressive. [Austin and Jack laugh]
+Austin: They’re trying to win a war over there.
+Jack: Yeah. Oh, yeah.
+Art: Yeah, and I'm trying to make them lose a war over here! [Jack laughs]
+Austin: Isn’t that the weird thing about what’s happening here? And like, this is one of the untested things about the game that I think is fun, is in Armour Astir as it’s written, the faction game is played by the players of the crew of the flagship or whatever.
+Jack: [cross] Yes, this is fascinating.
+Austin: You know, the Cause main protagonists, right? There is no divide like what we’re doing, and I think that that creates a different affect in play. You think that’s fair to say?
+Jack: Yes.
+Art: Yeah.
+Jack: And I am…I want the Cause to win very badly. That’s the story that we’re telling. But these fuckers keep getting in the way of all our plans.
+Art: I want the Cause to lose! I'm here to— I'm— [Jack laughs]
+Austin: You're both also playing Cause sides.
+Jack: [laughs] We’re playing the Cause!
+Austin: It’s just that you have a much closer feeling, maybe, to your Authority-sonas, because those are the ones that you crafted most directly, right?
+Jack: [sighs] Are we saying Authority-sona? I don’t…
+Austin: No, I don't like it.
+Jack: I don't know that I like it.
+Austin: But also, if you don't like it, maybe that’s good.
+Art: No one’s helping— none of the primary Cause players are helping my Authority-sonas.
+Austin: No, I gotta tell you. Have you listened to the other side of the podcast? [Austin and Jack laugh] Sometimes it feels like they’re helping you quite a bit. Sometimes they make decisions over there.
+Jack: Oh, we got some really good decisions. They just fucking gave me back an Iconoclast.
+Austin: They did. They sure— well, that Iconoclast is in the sea now, Jack.
+Jack: Uh…well, hmm. Hmm.
+Austin: And prob— I don't know. We’ll find out.
+Jack: Yeah.
+Austin: We’ll find out. I have plans. I have thoughts. 
+Jack: I don't think you can kill one of those that easily.
+Austin: Uh, yeah. I think you’d have to do a project to recover that situation. That thing blew the fuck up.
+Jack: Yeah. That’s true. It was—
+Austin: It was Striked Decisively.
+Jack: That was great.
+Austin: Yeah. So.
+Jack: So, as it stands, we…
+Austin: Yeah, explain what Keith’s—
+Jack: When we last left it.
+Austin: Yeah, explain what Keith did, what Keith convinced enough people to win the vote to do.
+Jack: We had two grip points on the Diadem Gravtrain. So, the Cause was beginning to get control of the Diadem Gravtrain, and that was it. They had four points of grip to spend. They spent one on the Diadem Gravtrain, bringing it up to its maximum grip of three. That is to say: it can be fallen either by a successful sortie or by a victory by the Cause faction, I believe, Jade Kill. 
+Austin: Mm-hmm.
+Jack: And then, they put three grip on the Stargrave Elcessor’s position, bringing that up to a maximum of three grip.
+Austin: I believe they may have already had one on the Stargrave.
+Jack: No, they can't have done, because they had…oh, wait. They spent four, didn't they?
+Austin: Yeah. Yeah, they spent four.
+Art: And this is six total ticks.
+Austin: Yeah, so that means— I believe— well, Jack is saying that they had two on the— maybe you're right. Maybe it was one and three. Jesus, was it? How do I see old versions of a document?
+Jack: Now I am starting to feel less confident. It might have been one and one. I'm trying to think how they would have gotten— oh, because they fucked with the Facer Canceller, maybe?
+Austin: Yes, it was the Facer Canceller.
+Jack: That might have put one on the…
+Austin: Yes, and that was on this side. Maybe. Maybe it was Facer Canceller. Maybe it was a different thing. I don't remember. What was their second mission? Oh, oh, oh. It was interrupting the coronation, right?
+Jack: Yeah. Gem.
+Austin: Yeah, exactly. So, I think that’s what it maybe came from. Uh, a thing that I haven't noted here— so, the point being: the Diadem Gravtrain and the Stargrave Exelsior…Elcessor?
+Jack: Elcessor.
+Austin: Elcessor.
+Jack: Elcessor.
+Austin: Have been…they’re both vulnerable, in the same way that a player— 
+Jack: Yeah.
+Austin: Or that an NPC or a player character can become vulnerable to be struck decisively against, both of those pillars of the Bilateral Intelligence Service—of Kesh, really—are now vulnerable. And they've done this for a reason, which is at the beginning of every faction turn, Stel Kesh’s Bilateral Intelligence Service has an ability which says what, Jack?
+Jack: It says, uh…let me see. Do I have this written down on my—?
+Austin: It’s in—
+Jack: Yes. Every turn, place one grip on a faction or pillar of their choice. That is to say: I can put something on a faction, putting grip on it, or I can remove one grip from a pillar.
+Austin: Right. And like Alexander the Great, Keith looked out and said, “If we are not aggressive here, any wins we make will be peeled away by Kesh.”
+Jack: Mm-hmm. It’s true.
+Austin: Because if they had decided to only raise the grip of one of these such that they could try to make it fall and try to capture it, you would have just pushed that back immediately to make it unvulnerable again. Not unvulnerable. You know what I mean. 
+Jack: Uh, yeah. Yeah.
+Art: Not vulnerable. 
+Austin: Not vulnerable.
+Jack: Secured.
+Austin: Secured, exactly. To resecure it. But now, you cannot automatically do that.
+Jack: Uh, no. I can knock one of them down.
+Austin: Yep.
+Jack: But I can't knock both of them down.
+Austin: Yep.
+Jack: The first thing I put—
+Austin: Which means there will be a dice roll, during which there’s a chance that it could go down, if the right faction of the Cause succeeds.
+Jack: Yes.
+Austin: Or produces an opportunity for the Blue Channel to knock it down in their next sortie.
+Jack: Yes.
+Austin: Which would be the first hit against stability, against the Authority, against the Bilateral Intercession yet this campaign. 
+Jack: Yeah. And that is probably consistent with the way I see this story being paced.
+Austin: Right.
+Jack: I don't think we are at a point— or rather, we are at a point where a big push like this feels narratively and structurally appropriate.
+Austin: Mm. Well, and we’ll see, right? We’ll see how it goes, which is part of the thing that’s interesting to me.
+Jack: Yeah. 
+Austin: It was very interesting for me to kind of try to herd the cats of this vote or of this discussion into a vote eventually, because I don't have a horse in the race specifically. If the Cause starts, you know, felling pillars? Awesome. If they somehow come up short with this window of opportunity? Then, awesome. I have stories for that too. You know, I know how to make that play also. And likewise, a thing that I was trying to be clear with them about was like: hey, you choosing not to spend points in certain ways also means something. 
+Jack: Mm-hmm.
+Austin: So, for instance, they did not remove all of the grip from Violet Cove, and I think that that speaks to the fact that, like, if you're in Violet Cove, these people showed up; they gave the Viceroy of the planet back to his bodyguard and to his forces, giving up any leverage you might have against them; and then they immediately, you know, that group started bombarding the place. And in the middle of that, the Blue Channel people started arresting people you know. [laughs quietly] 
+Jack: Yeah. Midway through a festival.
+Austin: Including people who seemed to be fighting in defense of the Dim Liturgy and the Devotees. And like, you will convince many of those people, “Oh yeah, they were spies. Here’s the evidence,” but some of them you may not, and so, to some degree, Violet Cove does keep a point of grip on it from the Authority. So like, that’s one thing that is true about this, right? 
+Likewise, they did not spend any points for the benefit of the Blue Channel. You know, giving them more voting power, giving them more autonomy, giving them more information, et cetera. And so, like, I'm going to continue to turn that knife, you know? They have not— and, you know, fictionally, what that means is they decided to be very aggressive with the information they could get from these spies. They spent their attention and their time and the people that they connected with in the Cause leadership being like, “Let’s get information that we can act on.” And like, what is that information? You know, it’s train timetables. It’s reconnaissance points. It’s the, you know, it’s what is the Elcessor’s personal schedule, right? When will she be vulnerable? What type of tea does she like to drink? Give us the dossier on all of her closest, you know, bodyguards or all her closest confidants, right? Here are the keycodes and ciphers for the Gravtrain entries on point A, B, C, D, right? 
+But it also means that failing to get certain other things, other autonomy and stuff, means that like, future missions might be them going into the dark again. They will continue to be used and instrumentalized. They did not win themselves— because they didn’t spend the time sticking out their chest and arguing with Cause leadership in that way. They didn't spend those resources and say, “Listen, we’ll give you the spy, but you have to give us blank.” There was no leverage for them. They gave up their leverage in a way in order to get this situation, which maybe won them certain allies inside of the Cause but doesn't give them material change in what their circumstances are. So, we’ll see how that continues to shake out in the future, for instance.
+Jack: Yeah. I know they were—
+Austin: Go ahead.
+Jack: I know they were also— there was a lot of conversation about the anxiety about the extent to which the BIS was determining Cause membership.
+Austin: Right.
+Jack: I know something Brnine was really worried about was, “Can we protect ourselves [Austin: Yep.] from them uncovering us?” And they did not act in any way to strengthen that.
+Austin: Mm-hmm. And here it is, right? It’s at three of four. That clock could finish today, right? We have ways of advancing schemes, so that scheme could complete today, along with these other schemes that are ticking up. And then something else happened, which is I was pretty clear at the end of it all that: the failure of the Cause and the Blue Channel to go help liberate Baseline means that other Baseline cities, other sort of model cities begin being built all across the planet. The model works, right? They showed that they could put together something that stabilized itself, that put down its own internal revolution and, you know, converted people to the Cause— to not the Cause but to the Authority, basically, and broke an internal rebellion. And because of that, I'm gonna add a new clock. It’s a four step clock that is Reinforcements for the Authority.
+Jack: Ooh. And settlers are coming too, right?
+Austin: That is who I mean.
+Jack: Lots and lots of— oh, okay.
+Austin: I actually mean that, right? So, like, that is who I'm talking about, is it’s reinforcements in both senses, right? It’s a bunch of civilians are coming. It’s specifically I was explaining that it’s the secular community, right? [laughs quietly] It’s the people who are here who don't— who have not bought into the Temple of the Threshold and the New Asterism stuff. It’s the people who don't have ties to Kesh royalty. It’s people who just— who, quote, unquote, just want a good home for their families, who just want good opportunities for their children, who hear the schools on Palisade are good. That style of, you know, colonial maneuver. And so yeah, those are coming, and with them is additional support, right? Because like, those are people that will join the military. Those are people whose presence requires additional reinforcement, right? So yeah, Settlers and Reinforcements for the Authority, and that is at one of four. It’s a quick one. Whoops, that’s not what I meant to do. Let me put that there. They’re on their way. Those are popping up, and once that completes, it’s like, hey, the situation has changed. There’s just too many people here to keep operating in the way that we were. Are there any other, like, state of the board things we want to hit? A lot happened. [pause] Um, okay.
+Jack: I don't think so. There’s bound to be stuff that we will hit as we play, of like, “Oh, yes, and this is also going on. We forgot to mention that,” but.
+Austin: Absolutely. Yes.
+Art: And there’s strategy stuff I want to get to, but that might not be for right now.
+Austin: Well, if it’s big picture strategy stuff, I think we should start with that then, or we should talk through it.
+Art: Well, I really want to drill in on how we can make the choices that they made bad for them.
+Austin: Uh huh. Say more. [Jack laughs]
+Art: How can I use my powers [Austin: Uh huh.] to make them regret the choices they made? And some of them are hard, because I don't have control of, like, the hierarchy of the Cause, you know?
+Austin: Mm, mm-hmm. Fictionally or literally.
+Art: Right. I mean, I guess I have a little fictionally, in that like— or literally, in that I can talk to you, Austin, and be like, “It would be fucked up if you made them go do blank.”
+Austin: Uh huh, yeah. Right.
+Art: But I don't have that idea right now.
+Austin: Okay. If you do, you let me know.
+Art: But I want to use the mechanics of the game to turn the screws on them going full hog on this.
+Austin: Right, right.
+Jack: [chuckles] Full hog?
+Art: Full hog?
+Austin: Whole hog. 
+Art: Is that an expression?
+Jack: Do you mean “whole hog”? [laughs] 
+Art: Whole hog!
+Austin: Whole hog.
+Art: They went…yeah, full— that’s probably something else, and I don't want to know.
+Austin: Full frog is what you were thinking.
+Art: Full frog.
+Austin: They went full frog on this one.
+Jack: Difficult to catch.
+Austin: Yeah.
+Jack: Violently explosive in movement. 
+Austin: [laughs] I mean—
+Art: Gross to touch. [Jack chuckles]
+Austin: Do we want to go over what each of our Bilateral Intercession factions can do? Or divisions, rather, can do. Oh, sorry, one more thing: I think that this is a point of disfavor, maybe two points of disfavor for the BIS, right?
+Jack: Oh, yeah. I fully think it is. 
+Art: Yeah.
+Jack: This is a massive fuckup, especially because, and we’ll talk about this as we go in—
+Austin: You think it’s more than two points?
+Jack: No, I think it’s two.
+Austin: Okay.
+Jack: I'm not gonna ask for extra homework.
+Austin: [laughs] Yeah, uh huh.
+Jack: But I do think it is bad. On our screen, it looks like six little green boxes checked, but the ramifications of this are tactically and visibly noticeable on the planet right now.
+Austin: Mm-hmm.
+Jack: And I think that you could not— everybody knows that they beefed it.
+Austin: Mm-hmm. What I love, what’s so interesting to me about this is that you did set up the Bilateral Intelligence Service as the lead sub— like, the lead pillar effectively of the Kesh division here, and the Paint Shop is the only thing without grip on it from the Cause. It’s clean.
+Jack: Yep.
+Austin: You know? Connadine is in the Paint Shop, nice and safe. Whereas the Gravtrain and Elcessor have now been made vulnerable, and that is great.
+Jack: Well, I think there’s something— yeah, there’s something interesting here as well with the BIS’s left had often doesn't know what its right hand is doing, [Austin: Mm-hmm.] and I think that’s been fascinating during this last arc. You know, we saw stuff with Alpenglow launching an assault on [Austin: Mm-hmm.] potentially BIS spies, and so I have to imagine that there is some real…this is a real pinch point inside the BIS right now. There are arguments behind closed doors about like, “How could you let that happen?” “What let that happen? I didn't do that; you did that,” or whatever.
+Austin: Right, right. “You were supposed to brief so-and-so.” “I was told never to brief so-and-so.”
+Jack: And I think it speaks to…yeah, it speaks to, I think, Connadine’s, uh, real or not, squeaky-cleanness, [Austin: Mm-hmm.] that his Paint Shop hasn’t been breached as other people are getting all caught in the mire of it, but I do think that that pans out as disfavor. 
+Austin: Well, and the Adagio was working and did work.
+Jack: Oh, the Adagio is— and is still working.
+Austin: Right. At the end of the day, they went back to the festival. 
+Jack: Yep. Yeah, the problem was when some fucking chivalric knights decided to come in and start blowing everything up. 
+Austin: You can feel Connadine being like, “If you had just not gone off script, this would have worked.”
+Jack: Yeah. Yeah. Although, of course, it’s the chivalry…he has been hoisted by his own petard, in a big way here, right?
+Austin: Yes. Yes, yes.
+Jack: In like, encouraging Alpenglow’s sort of [Austin: Right.] chivalric tendencies, this has come back to bite him.
+Austin: So yeah, let’s…should we jump into it a little bit and go through the actions of this?
+Jack: Yeah.
+Austin: Where do we want to start?
+Jack: I think you're right, Art. I would love to talk about making this spiny and unpleasant. But yes. Should we just go down the list, talking about what happens when we win?
+Austin: [huffs] Sure. 
+Jack: Because this might—
+Austin: In other words, so that we can have that conversation about planning.
+Jack: Yes, this might guide how we want to plan this.
+Austin: So, you—
+Discussing First Actions [0:32:00]
+Art: Well, should we start with our every turn actions?
+Austin: Yes, start with every turn actions.
+Jack: Okay. Every turn, I can— every conflict turn, not every step of the conflict turn.
+Austin: Right, right.
+Jack: I can place one grip on a faction or pillar of my choice. This also means that I can put one grip on a faction and remove one grip from a pillar.
+Austin: Mm-hmm.
+Jack: I can— when I win a conflict scene, I seize a faction with three grip, so for example, I could have done that to seize Violet Cove if I had pushed in that direction before what the Cause did. I learn a secret— the Authority learns a secret about the Cause or a faction, so the director may force a reroll during a conflict scene this turn. 
+Austin: Art?
+Art: Oh, my every turn action, not what…
+Austin: Yeah, first every turn.
+Art: Not what I think the grip should be.
+Austin: Yeah, yeah, yeah.
+Art: What we should do with it.
+Austin: Yeah.
+Art: Start or advance a four step clock titled Take Something That Isn’t Theirs, and my four step clock Take Something That Isn’t Theirs is at three of four, so.
+Austin: That’s completing, this turn.
+Art: That’s completing, this turn. I don't know what I want to take, but…we can talk about it.
+Austin: We’ll talk about it. Yeah. Then, your when you win a conflict scene ones.
+Art: When I win a conflict scene, I can start or advance a four step clock titled Take Something That Isn’t Theirs. [Jack laughs] There’s a theme going on.
+Austin: Mm, mm-hmm, mm-hmm.
+Art: The Authority starts a new scheme or advances an existing one.
+Austin: Mm-hmm. Which we should go—
+Art: Or a vulnerable—
+Austin: Go ahead.
+Art: Sure. And a vulnerable or exposed asset or actor is fortified or hidden.
+Austin: Right, which is not a pillar, but it is something like Elcessor, you know, herself is safe. Or, oh, if Gur Sevraq, phony, was in the lines of the crosshairs, you could, you know, move them into safety for the next sortie or whatever, right? Or give them a bunch of extra defenses that then I would have to put into the sortie. Your thing of advancing an existing scheme is interesting, because we now have Settlers and Reinforcements for the Authority Arrive, which is at one of four. We have Take Something That Isn’t Theirs, which we’ve already said is going to complete. We have Uncover the Cause’s Membership, which is three out of four. We have Harvest the Fundament Nodes, which is four out of six. And those are the ones you need to care about. Alert, three out of eight, is not— don’t worry about that. In fact, that’s four out of eight now. Don't worry about it.
+Jack: If I—
+Austin: Sensors indicate some outside, uh…sensors indicate that the system is being probed by long-range reconnaissance vessels, but that’s basically always happening anyway. Goes up four out of eight. 
+Jack: [laughs quietly] Cool.
+Austin: What were you gonna say, Jack?
+Jack: Oh, I was gonna ask when that clock appeared.
+Austin: Forever ago. Uh, our second…I think our second thing, and it advances on this turn, and it advances during the faction turn.
+Jack: During the faction game.
+Austin: Yes. Yes.
+Jack: Okay. Cool.
+Austin: I believe that that’s right. So yeah, it’s halfway up there now. My—Frontier Syndicate’s—every turn ability is the director may force a reroll during a conflict scene this turn, which could be a way to prevent Jade Kill from winning a faction— a fight, right? And therefore felling a pillar. Very important. And then, when I win a conflict scene, it’s the Authority learns a secret about the Cause or a faction, the Authority starts a new scheme or advances an existing one, or the director takes two extra tokens during the next downtime. Which, again, is a place that I can advance some of this stuff, right? As a reminder, during downtime, I have been able to…you might recall that when we last left the last faction turn, I don't think Uncover the Cause’s Membership was at three of four. That pumped up during the [Jack: Yeah.] downtime sequences, so. So, all sorts of things we can do here. Big picture, given all of this, what’s the strategic thinking y'all have? Because, from the—
+Art: It’s tricky, because we’re much more vulnerable than they are.
+Austin: Right this second, right.
+Art: And it’s hard to, like, put…we were in a good spot, and now we’re not in a good spot.
+Austin: Right.
+Art: And so there’s something to be said for, like, having kind of a rebuild turn.
+Austin: I was gonna say, are we gonna rebuild? Are we… [Austin and Jack laugh quietly] To continue the sports metaphor.
+Art: You know, tap a bunch of factions, try to get…I would say try to get grip, but that’s very hard.
+Austin: Well, it is and it isn’t, because remember, grip is…grip is the result of both mechanics and fiction, right?
+Art: Mm-hmm.
+Austin: So…I’m just double checking here, right? So, I mean, one, Jack just places grip on factions pretty much directly every time, or every turn so far they've been able to do that. Obviously, this turn, they might not do that. They might— we’ll see what you decide, Jack. But I think things like Take Something That Isn’t Theirs or learning a secret, I think some of these things end up being ways that grip could be also earned, right?
+Art: Sure.
+Austin: I don't know that we get a— it would be wild if you somehow got the Violet Cove back up to three this turn, but you could theoretically start putting grip out there depending on what you decide to do.
+Art: And I think we sort of have to be looking at the long term tax of making them untap factions.
+Austin: Right. And the windows (??? 37:42)
+Jack: Yeah. They don't like that.
+Art: I don't know that that’s gonna…I don't know that that’s going to benefit us, [Austin: Mm-hmm.] but you know, if they’re using their downtime actions to untap factions, they’re not using them for other things, and can we gain an incremental advantage over time with that?
+Austin: Right.
+Art: And the answer might be no, but we won't know that it’s no until…
+Austin: Until we see some scenes and see what those look like.
+Jack: Well.
+Art: Or, I mean, until the season’s two thirds over. [laughs quietly] 
+Austin: Oh. Right, I mean, yeah. Mm-hmm.
+Jack: Yeah, it’s tough though, right? Because last time, we put them in a really bad position with the…with the tapped factions, and they recovered from that to such an extent that they were able to deliver a real blow against us.
+Austin: Well, not yet. This is the thing.
+Jack: [sighs] Yeah.
+Austin: They may have just overextended themselves also.
+Jack: They may have done.
+Austin: We’ll see. We’ll see how this goes.
+Jack: The proof is in the pudding.
+Austin: Yes.
+Jack: They have not yet delivered a pudding.
+Austin: Yeah, there’s no pudding yet. I can smell something cooking, but is it pudding? As the saying goes.
+Jack: Or is it death?
+Austin: Right.
+Jack: Yeah. I mean, I… [sighs] I feel like I should take this grip off one of these pillars. I don't want to leave both pillars at three.
+Austin: Because there’s a chance that they win one during this faction turn and then they hit the other one in a sortie.
+Jack: Yeah. The book specifically talks about a situation that can be produced in a very similar way [Austin: Mm.] where pillars start to fall like dominoes.
+Austin: Right.
+Jack: And while, at the same time, I don't want to be the frantic person, you know, bailing water out as more water is coming in, I suspect it would not be advantageous to just go, “Oh, no, I'm gonna focus on Violent Cove— violent. I'm gonna focus on Violet Cove and put a grip there.” Does that sound in line with what you're thinking, Art?
+Art: Yes.
+Jack: Okay. With that in mind, I…hmm. The problem with Elcessor is that she holds in her hands the most dangerous device in the universe. Well…
+Austin: Mm-mm.
+Jack: Eh, it’s Friends at the Table.
+Austin: Mm-hmm.
+Jack: An extremely— an unbelievably dangerous device. 
+Austin: Uh huh.
+Jack: We called them, um…there’s a name for this type of weapon. Not a stellar combustor, but we call them, like…oh, no, they were built to destroy, like, Cataclysm-Class objects or something, right, Austin? Way back in COUNTER/Weight.
+Austin: Annihilation-Class objects? Yeah, I mean—
+Jack: Annihilation-Class objects.
+Austin: Are you sure you're not thinking of stellar combustor?
+Jack: Uh, no. I think the term I was thinking of was, like, oh, a stellar combustor is a weapon of such astonishing magnitude.
+Austin: Is an Annihilation-Class object?
+Jack: Yes. Yeah.
+Austin: I think Annihilation-Class object comes from Twilight Mirage with the Rapid Evening referring to various things that pop up in the Twilight Mirage, like Volition, as an Annihilation-Class object.
+Jack: Well, but jokes on them, because the stellar combustors are an Annihilation-Class object, 100%.
+Austin: Yeah.
+Jack: And they got worse between COUNTER/Weight and Twilight Mirage, and I have to imagine they’ve got worse between Twilight Mirage and now.
+Austin: And now. Mm-hmm.
+Jack: It is also worth saying that the person holding the trigger is not having a super fantastic time of it, uh, spiritually.
+Austin: Mm-hmm. 
+Jack: In that sense, I am probably inclined to remove a point of grip from the woman with her finger on the nuclear bomb than I am the trains, although I understand the tactical value of the trains.
+Austin: Right. You know, as committed leftists, the fact that we are going after— the fact that the trains could end up being the first thing that the Cause gets control over is, you know, that makes sense. 
+Jack: Right, Kropotkin’s Conquest of Trains.
+Austin: Fucking love trains over here.
+Jack: Yeah.
+Austin: We love to have a good train system.
+Jack: But I've really been backed into a corner here by Keith, because either I amend the trains and the woman with the nuclear bomb falls under the eye of the players [Austin: Mm-hmm.] or I sort out the bomb and the trains fall under their eye.
+Austin: Right. I have two questions that are opposite questions. One is: Jack, as a storyteller, which of these is the most interesting for you? What do you want to see the Cause do? et cetera. The other is: Jack, as Stargrave Elcessor, who’s theoretically the one calling the shot here? Or, I don't know, you tell me. Who is calling the shot? What is this— what does this look like in the Kesh offices this week, you know?
+Jack: Oh, it’s bad. I've been thinking about this a lot. I mean, I can answer your first question first, which is: especially as we move towards the mid and late game of this story, the late acts of this story, the threat of this—
+Austin: You're gonna get— sorry, you're gonna get absolutely hounded for saying that we’re moving towards the late acts of this story.
+Jack: By whom? Who is going to hound me?
+Austin: The fans.
+Jack: Oh.
+Art: Yeah, they’re— you're gonna have this quote thrown at you when it’s November and we’re…
+Jack: Oh, right, because we don't understand how timing works.
+Austin: Yeah, yeah, yeah.
+Jack: Yeah, yeah.
+Austin: We are not in the late— I mean, I truly don't think we’re in the late run of this yet.
+Art: You never know.
+Austin: I mean, you never know.
+Jack: As we move in that direction. We are—
+Austin: I mean, I guess Stargrave Elcessor could hit the button, and then we’ve got the end of a podcast right here, right? End of a season. So.
+Jack: Well, this is what I'm gonna say: it is more interesting, for me, to leave that sword hanging over the table [Austin: Right.] than allow the players to remove it.
+Austin: Right.
+Jack: Obviously—
+Art: Counterpoint. Counterpoint.
+Jack: Art?
+Art: Do you think that group of—and I use this term with all the love in my heart—idiots [Jack and Austin laugh] could do this mission and not end it with a complete destruction of the planet?
+Jack: Uh, I think that that would be a real risk. That would be a real— and we’re not destroying the planet.
+Austin: And you know I'd do it. I just want to be 100%...
+Jack: Oh, yeah, no.
+Austin: I would do it.
+Jack: We talked about this, Austin.
+Austin: Yeah.
+Jack: We have put the Stargrave, specifically because of the thing she can do [Austin: Yep.] on the board in— we wouldn't have put her on the board if we weren’t…it’s the same as, you know, sending Kalar out to fight Ramondre or something.
+Austin: Yes.
+Jack: You know? Play with the toys.
+Austin: I'm not— you know. Oh, did you hear Friends at the Table cut their season short because a character blew up the sun? Yeah. 
+Jack: Also—
+Art: Yeah, and like, they’re not gonna take it seriously enough, because they don't take anything seriously enough. [Austin laughs] 
+Jack: Yes.
+Art: And what if we…what if we put…what if we pointed the gun at them? And let them be like, “Well, that definitely has a flag that says ‘bang!’ in it. Point it at my head and pull the trigger.”
+Jack: If they touch the Stargrave, whether or not they do it with the best of intentions, stuff is gonna get really scary, really quickly.
+Austin: Mm-hmm.
+Jack: The Stargrave is not in a good place, and I think we are gonna see some of her today. I hope we see some of her today.
+Austin: Mm-hmm.
+Jack: We might not. They are gonna have to do some very clever footwork, which is very funny, because like you say, Art, their last attempt at clever footwork involved them, I think, pulling a naked Iconoclast out of prison, flooding a monastery twice, ending a festival, and crashing a starship into, like, the ocean? [laughs] 
+Austin: Mm-hmm.
+Art: Yeah, they’re “secret agents,” quote, unquote. They went to a party with glasses that had their own name on it! 
+Jack: [laughs quietly] Yes, they did.
+Austin: It’s true!
+Jack: Hmm. If I take one little green X off the Diadem Gravtrain… [sighs] I'm just…I’m pinching the bridge of my nose. What is gonna happen is that the ground team are going to immediately mobilize a sortie to fell a pillar, because they are, rightfully, going to be very excited.
+Austin: If it gets that far, Jack!
+Jack: What do you mean, if it gets that far?
+Austin: Jade Kill could do it today!
+Jack: Oh, you mean Jade Kill— Jade Kill could do it today. Yes.
+Austin: I want to make sure you realize a thing. Jade Kill’s thing doesn't say “fell a pillar of the division you just beat.” Jade Kill can do it by beating anybody.
+Jack: Right. And actually, this is a thing.
+Austin: Jade Kill doesn't have to beat the Stel Kesh major division strength five. They could beat Frontier Syndicate or Stel Nideo minor strength three and get that outcome. 
+Jack: And that’s—
+Art: Oh, and then we could flip a coin, and on tails that’d become a wayward faction, because they take the weapon and become weird, uh, what’s the—?
+Austin: [laughs quietly] No, you're reading this backwards again. Sorry, you're reading this backwards. [Jack laughs] The vulnerable division— oh, oh, you're saying the vulnerable division could become a wayward faction.
+Art: Are you sure that’s what it means?
+Austin: 100,000%. Jade Kill doesn't become a wayward faction when they win.
+Art: Well, they do if they get the weapon and they become, uh, Christian Slater’s crew from Broken Arrow.
+Austin: From Broken Arrow. Yeah, no, that’s not what they’re talking about. [Jack and Austin laugh] Also, this wouldn't be destroying a vulnerable division. I don't think we have any vulnerable divisions right now. To be a vulnerable division, you need to have nine disfavor, so.
+Jack: If—
+Art: All right, well, I am gonna just bring up a note on my phone [Austin: Uh huh.] and type—
+Austin: Broken Arrow. Yeah, mm-hmm.
+Art: “Broken Arrow RPG,” question mark?
+Austin: Yeah. Uh huh. That’d be fun. [Jack laughs quietly]
+Art: Okay, we’ll just…yeah.
+Jack: It is more interesting—
+Art: No one listening to this has seen this movie.
+Jack: I haven’t.
+Art: It’s you and me, and…
+Austin: It’s just us.
+Art: That’s it.
+Austin: It’s just us.
+Jack: Broken Arrow. Wait, have I seen this movie?
+Austin: A Broken Arrow situation, [laughs quietly] as explained in the movie, the 1996 film Broken Arrow, anyway, is when—
+Jack: Oh, this is a John Woo joint.
+Art: The 1996 John Woo movie.
+Jack: Yeah.
+Austin: Yeah, yeah, yeah, uh huh. With Travolta and Slater. Is when a nuclear bomb goes missing, basically, it’s a Broken Arrow situation.
+Art: It’s a Broken Arrow.
+Jack: This movie was written by Graham Yost, who wrote Speed, so I will basically watch any movie he makes.
+Austin: Uh huh. It’s in the mix.
+Art: Oh, this movie rules.
+Austin: Yeah. I haven't seen it in 20 years. Uh, I bet we watched this in college, Art. Oh, shit!
+Art: Yeah, probably.
+Austin: I haven't seen this in 20 years! [laughs] 
+Jack: Oh no!
+Art: [dismayed laugh] Yeah, huh, hmm.
+Austin: Not quite there. Not quite there.
+Art: But John Woo, in this time in his career, did not miss.
+Jack: No. No.
+Art: Hard Boiled, Hard Target, Broken Arrow, Face/Off, Mission: Impossible 2. I said it: all bangers.
+Austin: Including Mission: Impossible 2!
+Jack: Uh…
+Art: Mission: Impossible 2.
+Austin: Yikes.
+Jack: Is Mission: Impossible 2 the one with Philip Seymour Hoffman? 
+Austin: No!
+Art: No, it’s worse than that one.
+Austin: It’s way worse than that one.
+Jack: Okay. That’s Mission: Impossible 3?
+Austin: Mission: Impossible 2 has, I think, seven scenes about masks.
+Jack: Oh, god.
+Austin: That makes it sound way cooler than it is. [Jack laughs]
+Art: At the end, people fight with motorcycles.
+Austin: They do. It’s true. It’s true.
+Art: It’s like a kung fu fight, but the weapon is motorcycles that they’re riding.
+Austin: Uh huh.
+Jack: That does sound sick as hell.
+Austin: Anyway.
+Jack: To your point, Austin.
+Austin: Yes.
+Jack: It is more interesting to me if we make the Blue Channel have to deal with Elcessor than Jade Kill.
+Austin: Right. Sure. But I'm saying you might not get that— oh, oh. So in that way, what you're saying is that’s why you're going to take a point off of Elcessor.
+Jack: I think so.
+Austin: Yeah.
+Jack: Or that is the argument for doing that, although I really do— I truly respect your, uh, you calling their bluff here, Art, which is saying, “Oh, you wanted a nice recovery arc? No.” [laughs quietly] 
+Austin: Right. Well, again, there is a world in which— I'm just putting this out there in the sense of like, there’s a degree to which we may have to just let the chips fall where they may on this.
+Jack: Mm-hmm.
+Austin: Imagine a world where you take a point off of Elcessor, and then Jade Kill gets the gravtrain. Then, does the Blue Channel decide, “Fuck it, we’re going after Elcessor”? Because they could put a point of grip and also get a faction outcome or also— you know, if they get a—
+Jack: They could do that in their downtime or something.
+Austin: They could do that in a mission. If someone puts a third point of grip on a pillar in a mission, am I really gonna be like, “And now I'm not also gonna give you a chance to knock it down”?
+Jack: Right. Yeah. Totally.
+Austin: That’s just how it works, you know? 
+Art: What if we just agreed to not engage with Jade Kill this session?
+Austin: That’s not happening.
+Art: Isn’t— why?
+Austin: Because I get to decide who the defenders are, or we get to decide who the defenders are, right?
+Art: Yeah, and I'm saying we could— 
+Austin: No. [Jack laughs] No, no, no. We are playing— we are playing both sides. We’re not gonna not take an opportunity. The interesting thing here is that there is an opportunity.
+Jack: Now, we could force them to reroll.
+Art: Well, I think the most interesting thing here is the Broken Arrow scenario.
+Austin: Yeah, well.
+Art: And that’s not even supported by the rules!
+Austin: It’s not on the table! [laughs] 
+Jack: [laughs] God. God! Now, something we could do, Art…
+Art: Yeah.
+Jack: We haven’t started play yet, but it is worth having these conversations.
+Art: It’s only been an hour. That’s how we do things on this side.
+Austin: I do have a way of getting us to a Broken Arrow situation, and it doesn't involve the Cause at all.
+Jack: You can…oh, cool. You can protect the bomb, Art. Elcessor could fall, but you could secure “a vulnerable or exposed asset [Austin: True.] or actor is fortified or hidden.” The idea of it just being this, like, scared person clutching a detonator in a helicopter is…that is some Mission: Impossible shit, at that point.
+Art: And then brought to take sanctuary in a church? Yes, I do know what the John Woo would… [all laugh]
+Austin: Oh, Gur Sevraq has the…gets the button.
+Art: Gets the bomb.
+Austin: Fake Gur Sevraq.
+Art: But I have to win a conflict scene, and that’s very difficult for a minor…
+Austin: Mm-hmm. That is the other half of the strategy talk here is we can't count on Art and I to win those scenes.
+Jack: No.
+Art: Oh, who gets the— how do we get that reroll? Is it—?
+Austin: I have a reroll that I can do.
+Jack: Uh, Austin has one, and I can win one.
+Austin: Yeah.
+Art: Okay. Oh yeah, okay. That might be how we [Austin: Prevent.] secure the weapon.
+Austin: Uh huh.
+Art: Is by spamming rerolls on the Nideo scene. 
+Jack: [laughs] Oh, god. So, that’s if—
+Art: Or, or we should probably be considering: Take Something That Isn’t Theirs is going to fill.
+Austin: Yeah.
+Art: Is there something shiny enough that we could take to distract the Blue Channel into not…is there a shiny enough object [Austin: Mm-hmm.] to get them away from the pillars?
+Jack: No. The vote will go— the vote will begin after a lot of intense conversation, [Austin laughs quietly] and they will ultimately vote for the sortie. 
+Austin: Let’s talk it over. Wait.
+Jack: I guarantee it.
+Austin: But what’s— okay. Is this because the Blue Channel doesn't really care about anything except themselves?
+Jack: I think it’s because they will want to get the— they will want to fell a pillar.
+Austin: Okay, but wait. They will want that; you're right, 100%. 
+Jack: And that will eclipse any— I would be saying the same thing, if I were on the other side of the table.
+Austin: There’s no NPC they care about enough? They don't care about Gucci like that. I guess if Cori’s dad was still alive, there’s a chance. Cori could make that case.
+Jack: No, no. Cori would make the sacrifice.
+Austin: Uh huh. Kalar they’re not gonna save. Kalar would want them to go after the…
+Jack: Kalar would want them to. You know, yep, they have those whistles. That would play off that plotline nicely. Them being like, “Kalar can handle it.”
+Art: I want to say: this doesn't say “take someone that isn’t theirs.” I don't… [laughs quietly] I think we’re—
+Austin: Well, they don't care about things. What do they care about that’s a thing? The Blue Channel. That’s kind of it.
+Jack: The Blue Channel was the thing I was— [laughs] steal their ship.
+Austin: It’s very funny, but I think that’s a fucked up thing to do without them being able to roll against it.
+Jack: I don't think we could do it, especially because the Blue Channel is fucking massive.
+Austin: We would get them on a call. Yeah.
+Jack: Yeah.
+Austin: Yeah.
+Art: Ugh.
+Austin: I mean, you could steal the ship the way you steal a spaceship. You’d get on board and steal it.
+Jack: Oh, Austin. Austin.
+Art: Yeah, I know how to steal a spaceship.
+Austin: Yeah.
+Jack: I already have someone on board the Blue Channel.
+Austin: Oh, right. I forgot.
+Art: So, is there really nothing that we could take?
+Austin: This is what I'm saying, is like, what do they care about like that?
+Art: Uh…
+Austin: We could take someone who hasn’t been introduced yet, but that seems— but also, who?
+Jack: Eh…
+Art: Well, I mean, if—
+Austin: And again, I keep going to “who,” but like, or what? What’s a thing that they care about enough, truly?
+Art: Um…
+Austin: Looking at their sheets. That isn’t one of them.
+Art: I mean, what about…what about someone they used to be?
+Austin: [intrigued] What’s that mean?
+Art: I mean, I'm breaking the rules of Friends at the Table here.
+Austin: Uh huh.
+Art: But like, some people played different characters last season.
+Austin: Right. Well, this is what I'm saying, is that, like, Milli and Leap feel like they’re safe out there right now. I don't think…you could show up with Leap, but Leap hasn’t been here. And Milli, I think, is on a farm somewhere?
+Art: But Keith is the one who could win votes, and that’s what Keith would care about. [laughs quietly] 
+Austin: I mean, you're right. [laughs] Keith would have us rescuing Leap instantly, but I don't know that Leap is here. We didn't put Leap on the— we didn't. Leap might be— but also, I don't know. Keith just won a vote, so Keith might lose the next vote. You know how incumbency works, you know? People get—
+Art: No, I think…
+Austin: The midterms come around. People go like, “Eh, I don't know.”
+Jack’s Idea [0:54:58]
+Jack: I'm gonna say something I hate, and I don't think this is good play, [amused] but I want to say it.
+Art: Okay. Do go on.
+Jack: We could take a point off the Diadem Gravtrain and tell them that if they pursue the Stargrave, she’ll pull the trigger. [Austin laughs quietly]
+Art: They’ll just do it!
+Austin: And then she’ll pull the trigger, maybe. Or they’ll get to her first. It’s very fun.
+Art: [thoughtfully] Nothing shiny enough. What…?
+Austin: Um, you think, would they…?
+Jack: Yeah, something shiny is a season of Friends at the Table. We will destroy PALISADE. [Jack and Austin laugh quietly]
+Art: We’ll make you play Sangfielle next week. [Austin and Jack laugh]
+Austin: Listen, we gotta get Realis going, y'all. [Art laughs] Friendsatthetable.cash on that one, soon.
+Art: Or we’ll blow that one up too. [Austin laughs] I'll do it!
+Austin: Is it, uh…I mean, they care— I'm looking at their hooks, and I'm looking at their gcs. You know, Thisbe cares about the Twill, wants to protect those people. Is Partial Palisade important enough? Do people care about Partial Palisade? 
+Jack: Uh, I think they do, but they would pursue a pillar over that. Because here’s what they would say.
+Austin: Even if Partial Palisade potentially could give— be worse than a pillar, losing Partial Palisade? Like, in a world where the Frontier Syndicate successfully harvests the Fundament Nodes, and the Cause has Partial Palisade, and they know the Cause’s membership, which I don't know if this all comes together.
+Jack: Oh, sorry, you mean the Authority has Partial Palisade.
+Austin: Sorry, and the Authority— yeah, yeah, yeah, the Authority has Partial Palisade and the Authority has the Fundament Nodes and the Authority has taken Partial Palisade, and then it’s like, “Oh, with this power, we can blah blah blah.” I don't actually know that Partial Palisade can do anything, to be clear. Like, I don't think that that’s— the way I've written that character is very much—
+Jack: That man is sad.
+Austin: To be a sad man who used to be very powerful and a different type of being and is now in this other body and like— but also, harvesting the Fundament Nodes, like, you know, you could super science it, right? You could turn this person into a weapon. That feels very Authority to me. That’s kind of a fun thing to do. Eh. Eh. 
+Jack: Yeah.
+Austin: I don't know. I think the Stargrave stuff is more fun, because it pays off stuff we’ve been building.
+Jack: Which Stargrave stuff?
+Austin: The idea of threatening to destroy the season, [laughs quietly] threatening to blow up the planet.
+Jack: Oh, no, no, not the planet. The star.
+Austin: Sorry, the star. The star. I know. I know. I know.
+Jack: It is worth being— oh, I know you know.
+Austin: Yeah, yes.
+Jack: But it’s worth being clear about these stakes down the microphone.
+Austin: Yes.
+Jack: What happens when we last saw the— well, we've seen stellar combustors go off a few times, and they are the most violently destructive force that— one of the most violently destructive forces we have seen.
+Austin: Yes.
+Jack: They kill billions of people in their first detonation, and subsequent bombs go off to destroy, essentially, galaxies, right? They were first used to—
+Austin: Well, no, not galaxies. We’ve only ever been in one galaxy.
+Jack: Oh, right. Yes, we’ve only ever been in one galaxy. They can destroy arms.
+Austin: You need to— yeah, well, what you need to be able to do is cut off the point of— a whole arm hasn’t died. The bridges between the arms of two previous galactic arms were destroyed. Like, there’s a bridge of stars between them, and what they did effectively was blow them up from two directions going inwards.
+Jack: Right, yes.
+Austin: So that it didn't spread out to the arms, but you have to do that sort of…the cut and the fire, the forest fire thing, right? Using the—
+Jack: Oh, yeah, like a firebreak. 
+Austin: A firebreak, exactly. And so you have to…they’ll have to do that to contain this, theoretically. Now, part of the difference, though, is the closest thing to this is the Twilight Mirage, not other stars. There are other stars. I bet they’d be— I bet that would be trouble, you know? But the closest actual thing is the Twilight Mirage. I don't know how the Twilight Mirage reacts to…I know things come in there slower, but I don't know how much slower, you know?
+Jack: Yeah. It’s worth saying that specifically part of the reason that they sent a Stargrave here was to hold that knife over the Twilight Mirage.
+Austin: Right.
+Jack: Not just over the planet of Palisade, right? They—
+Austin: Well, and to ensure also that, like, the Pact of Necessary Venture doesn't get the Twilight Mirage, right? At the end of the day, if anybody but us gets it, blow it up. Blow it all up.
+Jack: Yeah. Or, I think when we first spoke about her, it’s like, if we think we’re going to lose.
+Austin: Yes. Yes. And I'd do it. I'm not above: they did a season about war, and the Authority who you've been setting up as being truly terrible people used a weapon unlike anything we’ve ever seen before, and it was so powerful it ended the season or caused a big time jump or caused…you know, this is the first season in a long time I haven't been, like, “Oh, could we switch off to another game at some point? Could we pivot off to—” That’s not true, I guess. PARTIZAN I was really happy with Beam Saber all the way through, and I had it. We’ve talked about Sangfielle and having trouble with Heart sometimes. That’s a me thing more than a game thing. That’s just I think it didn’t click with me the way I wanted it to. 
+But in those cases even, I was like, “Okay, well, how do we shift up the story in some way?” With PARTIZAN, it was like, “How do we get to the Millennium Break stuff?” right? “How do we get to a revolution forming?” And with Sangfielle, it was like, “Okay, we have to get a single story going and move off the episodic stuff.” This season, I don't feel like that. Nevertheless, I would do a big terrible time jump where everyone has to roll new characters because the bomb went off. I would do the Figure in Bismuth has found a route towards something else, and then it gets chopped off because they and the rest of everybody on this planet and everyone for X, you know, many light years around gets ghosted by this, you know?
+Jack: It’s awful.
+Austin: Which is to say, if you do that, I will play that sortie with tension and stress, and everyone will be stressed listening to it, because they now know that I'm dead serious about it. I am showing the barrel of a gun for fucking real.
+Jack: Yeah. Well, the barrel would—
+Austin: But we could also just choose to go the other way.
+Jack: Yeah. The barrel would also be the ultimatum, right? Would be: if you don't want this to go off, you can go and do something else, you know?
+Austin: Right, right.
+Jack: Enter the— step within the forests around Tintagel and X.
+Austin: Right. 
+Jack: So, that’s an option. [Art laughs] The other option is that, yes, I take one tick off Elcessor and we prep for them to start taking the gravtrain. 
+Austin: Right.
+Jack: I have some thoughts. I have a couple of different scene ideas based on, you know, what we might want to do there, and I could leave them a sting in the— or I could try and leave them a sting in the tail on the gravtrain.
+Austin: Mm, mm-hmm. I would be cautious about being like, “How do we win, even when we lose the gravtrain?” because you'll have lost.
+Jack: Yeah. Yeah.
+Austin: You know, it’s not a…they will get it, or the pillar will fall, right? And part of not having grip on it means you don't know that you— you know you don't have grip on it, but you don't know where that grip is loosest fictionally. Do you know what I mean? 
+Jack: Yeah. Yeah, you're right. 
+Austin: So, what are you doing? That was the moment. Or we could wait on this one and do someone else’s turn first, but every time you do that, you work where both of those things have full grip on them for the Cause.
+Jack: Yeah. What do you think, Art? Where are you at?
+Art: I don't know. Um…I mean, I like the idea of trying to win a scene and getting that asset protected, but again, that’s so hard.
+Jack: Yeah.
+Art: And maybe that’s not enough. Or like, it’s literally enough, but you know.
+Jack: Uh, it would be asking too big a thing, protecting the bomb?
+Art: Right, certainly in any sort of timeline.
+Austin: I think that’d be a fine— if you win the conflict scene and you get “a vulnerable or exposed asset or actor is fortified or hidden,” I think that would save the bomb part, even if the Elcessor herself remains…
+Art: Sure. Is—
+Austin: Or her castle or her logistics center or whatever the thing that represents the pillar is destroyed.
+Art: Is that interesting? Is, like…is moving the thing interesting?
+Austin: Yeah, I think it’s…
+Jack: Yeah.
+Art: Or is leaving the thing where it is interesting?
+Austin: We’re not a Saturday morning cartoon, right? Let’s play it out, if we’re gonna play it out.
+Art: Yeah.
+Austin: And we’re not in— we’re not gonna have seven seasons of just PALISADE, right? The world where, like, this is a four season show, and like, oh, in the middle of the first season, the Elcessor sneaks away with the bomb and then comes back in season two or season three to be dealt with is interesting, but the idea of like— but also, you know, I'm not gonna take that ability away from you, so eh, I could go either way. I am confident we will make a fun story happen regardless.
+Art: I think you should put the grip on the train and make them not destroy the world. 
+Jack: It is the most…
+Art: Make them, like, dance on that knife’s edge.
+Jack: It is the most frightening thing.
+Art: Doesn't bother me at all.
+Austin: I will tell you that here’s what the situation will be if we do this. The Cause will vote on it. They will not get a vote, and there will be a tie, and Mustard Red will vote not to go after the Elcessor. And then the Blue Channel will have a choice to make, whether to again discard the Cause’s orders—
+Art: Oh, they’re the Broken Arrow.
+Austin: [laughs quietly] And go after the Elcessor or to agree.
+Jack: But it’s worth being clear that the ultimatum will still stand, right? Doesn't matter who enters the…
+Austin: Yeah, yeah, yeah. But it would be on them, in that way. It wouldn’t come down to…we would get this good double up of what we just got, which was them disobeying orders, right? And so they would again be ordered, “Don't go over there and touch this thing.” [quietly] But what if we went over there and did it? What if we got it? It’s weak. It’s vulnerable. But again, this is now a situation where— or I guess, no, this is a situation you could just make happen, Jack, because you could just pull the thing off the gravtrain and then make this ultimatum.
+Jack: Yep.
+Austin: And behind closed doors, let me be clear: it’s because there is a voice in Mustard Red’s ear saying, “Oh, but if you go after the Elcessor, the whole world would be destroyed, and everything we’re working towards would fall apart.” [Jack laughs] And that voice is from the Divine, Arbitrage.
+Jack: And I mean, in that— just in the words alone, that voice is not wrong. Uh, it would destroy everything.
+Austin: Mm-hmm. Mm-hmm.
+Jack: [sighs, then laughs] It’s so scary! It is the most interesting. 
+Austin: Yeah, I think we’ve found it.
+Jack: I think it is the most interesting outcome that we have talked about.
+Art: Yeah.
+Austin: Yep. And, well, okay.
+Jack: Agh.
+Austin: And again, I want to be clear, because I want to put it on the table: we might not get that far, because Jade Kill might get a win.
+Jack: Yes. What happens if—
+Art: Yeah, that’s what we have to make sure doesn't happen. Jade Kill—
+Jack: What happens if Jade Kill gets the win, vis-à-vis the ultimatum?
+Austin: They get the win. In the same way that if the player characters got the win and managed to do the infiltration, not being seen, you know, ran some sort of jamming device to stop the signal or went to the stellar combustor itself, wherever, you know.
+Jack: God, going to the stellar combustor is one of the images I have had in my mind ever since we put the fucking stellar combustor in this season. [Jack and Art laugh]
+Austin: Yeah. Uh huh.
+Jack: Being like, oh, we have to get there.
+Austin: We have to get there.
+Jack: The timer is going.
+Austin: We have to go. Yeah. Uh huh.
+Jack: I don't know. I have thoughts about how the trigger mechanism works. We can get there.
+Austin: Uh huh. For now, should I take a point off the gravtrain?
+Jack: [laughs] Yes. Yeah, yeah, yeah. 
+Austin: Boom.
+Jack: Take it off, and I'll tell you how that goes.
+Jack’s First Move [1:07:18]
+Austin: What’s this look like?
+Jack: [sighs] What does this look like? I had a really good idea for what a point coming off Elcessor looks like, but we had a better idea. That’s Friends at the Table! [laughs quietly] We discovered the better idea. [Art chuckles] It’s a ramping up of control of the rails, not just in terms of troops, because there…you know, the first thing that you notice is that there are more troops of every arm of the Authority. Skirmishes from the Cause are getting thwarted more and more by like— there’s just more presence on the stations. There’s more presence on the trains themselves.
+Austin: Mm.
+Jack: I don't know if, like…there’s some sort of weird combination of March and Resonance shit going on in terms of, like, the way these things are surveilled. But also, more trains are being built, [Austin: Mm.] and these are just great hulking heavy patrol trains, bristling with gunports on the side, lying squat on the tracks. In fact, maybe they are— they’re much lower on the tracks, because they’re closer to the way you have to crouch in a tank than you can sit in a train, and these awful patrol trains are, you know, moving up and down the tracks. And it is very clear that this is a direct response to having poked the gravtrains, as it were, you know?
+Austin: Mm-hmm.
+Jack: BIS headquarters— and this might have been the Stargrave, but if I'm honest, I don't think it is. I don't know if this is Connadine. It’s probably…we’ve talked about how Connadine has people working under him. He has sort of a head of artistic endeavors, Fool Factotum, who we met back in the sort of first encounter.
+Austin: Right, yep.
+Jack: But I have to imagine he also has sort of soldiers, and this is just like, okay, we are making a hard countermove against this. However many patrols you thought there were gonna be, there are now five times as many patrols. However many armed trains you thought there would be, they’re coming by every, you know, 15 minutes now. The tracks of the Diadem, the lines of the Diadem are just smoke-belching horrid low tank trains now, moving. And you know, we’ve talked about how the Diadem isn’t just the band around the planet, it’s these little sort of spidery networks running to the north and south of it, so in the cities and local towns and communities of Palisade too, you know, you get these sights of these low trains moving slowly through, like, fields of— or like apple orchards and things like that. It’s very unpleasant.
+Austin: Great. Love it. Can I add one other thing that I think maybe they start rolling out too?
+Jack: Yeah, of course.
+Austin: Is, uh, like fake trains, trapped trains, trains that if you board them…trains that they know that they’ve lost certain intel, and so there’s like resource trains that continue to run that first week after on the right schedule, right?
+Jack: Yeah.
+Austin: And it’s like, oh shit, they’re gonna get those through. You know, these are the trains that they could capture. And when they go in, everything seems right, and they start to, you know, pack up and unload the resources, and then all the doors slam shut and, you know, the body’s electrified, straight up.
+Jack: Yeah.
+Austin: Done. Right? Stuff like that is happening, right? You’re… 
+Jack: Yeah.
+Art: Is that…? Hmm.
+Austin: What’s up? 
+Art: Is that from— not “is that from something,” like “are you stealing everything,” but have I seen something like that before?
+Austin: That sounds like a thing that could exist. I don't know.
+Jack: Uh, it sounds like one of those stupid traps in the great Escape Room movies, Art.
+Austin: Ah, it does sound like one of those.
+Art: Oh, maybe, yeah.
+Austin: I've not seen those movies, but I have seen the trailer for those movies.
+Jack: Uh, yes, it is! It’s an electrified train.
+Austin: Love it.
+Jack: That is absolutely what it is. I also want to highlight that, just because the Adagio is rumbling along…
+Austin: Mm.
+Jack: This was predicted. It was predicted that this would happen.
+Austin: Mm-hmm.
+Jack: And the… [laughs quietly] doesn’t matter, as Connadine would say. [Art laughs] It doesn’t matter whether this prediction is real or not.
+Austin: Mm-hmm.
+Jack: People were told that this would happen if Millennium Break kept doing stuff like this. You know, you'd have to go through all these checkpoints.
+Austin: Uh huh.
+Jack: This is going to happen, and it’s going to happen on this day, and lo and behold, so it does.
+Austin: Well, and it helps the Adagio, right? Because now, the kind of security theater of it all, right? It adds to—
+Jack: Well, and the timetables.
+Austin: Right, that’s exactly right. Exactly. The timetables are tighter, more specific. And then it’s like, if what you need is 100 people to raise their hands in a day— and I know that this isn’t pattern magic, right? Like, it’s not that. But if the idea is like, air travel looks like this, or in this case, train travel looks like this, and it can only look like this. You don't have the thing of like, “Oh, this train station has tighter security than this one.” No. It has uniform security. Everybody is on cycle in this way.
+Jack: This is how it works.
+Austin: Yeah, mm-hmm.
+Jack: Yep.
+Austin: Right.
+Jack: Yeah, I think “it can only look like this,” or “it has always looked like this, and this is how it always will look” is a really good sort of summation of the way this stuff is getting rolled out.
+Austin: Right. New arrivals to the planet will never know there was a time before the security measures on the trains.
+Jack: Yep.
+Austin: They literally won't have experienced it here.
+Jack: And again, grip is still two.
+Austin: Yeah.
+Jack: And the way that is felt is that there are fights, you know? There are skirmishes. But they are being squashed with more efficacy than…
+Austin: Mm-hmm.
+Jack: It is a bad fucking time [Austin: Mm-hmm.] on the gravtrain lines for everybody, really.
+Art’s First Move [1:13:08]
+Austin: Should we resolve the other “at the beginning of a turn” thing? Which is yours, Art.
+Art: [sighs] Yeah, probably.
+Austin: Or do you want to save that?
+Art: I mean, you have one too, right?
+Austin: Mine is a passive that just stays, which is the reroll thing.
+Art: Oh, right. Um…
+Austin: Uh, okay. Art, here are some suggestions. This is…
+Art: Yeah.
+Austin: It took a second.
+Art: Oh, you put the map up.
+Austin: I put the map up, which helps, right?
+Art: I haven't been over here for a little bit.
+Austin: No, me either. My suggestions aren't even on that map.
+Art: Ah, well.
+Austin: They’re in the text field of our…
+Art: They’re in your secret list of stuff.
+Austin: They’re in my Listserv. I'm running a Listserv, just me. [Jack laughs] Which, not useful, actually. 
+Art: Yeah.
+Austin: And I have— I guess I have two categories, and five things are in one category, and maybe one thing’s in another one? I don't know. Maybe that’s too much. Maybe that’s too…ehh. Ehh? All right. I'm gonna just list the things. One of them’s very easy that we should have just said right away, which is you could take that grip on the Bontive Valley back. [Jack laughs] Right? Push ‘em out.
+Jack: Just, “Fuck you guys.”
+Austin: Fuck you guys.
+Jack: Get out of here.
+Art: Well, is that true?
+Austin: It’s something that isn’t yours.
+Art: But can you use it for grip purposes?
+Austin: I think it’s up to us to decide.
+Art: Okay.
+Austin: Right? I think it is something that isn’t yours.
+Art: Yeah.
+Austin: I think that there’s…in this specific case, it’s literally territory. Right? It’s the fiction overlaps with this. I think if I had lost three points of Composure’s Coliseum because all of the cyber athletes who work there had rebelled, I don't know that I could use “take something that isn’t mine” to get that back, right? But this is literally territory on the ground. If you took it back, the reason you lost the grip would be gone. And this is one of those, like, “if it happens, it happens.” You know, to do it, you do it. The fiction maps, in this way. I don't think you could free up Stargrave Elcessor this way, because that’s about having— that’s about all this intel that they know about Elcessor. You're not taking anything back there, you know what I mean? I don't know how you would even begin to take back intel, you know? So, that’s an option.
+Art: Sure.
+Austin: You could take someone who’s important in a faction, like Kalar or one of the leaders of Jade Kill or any other factions, Veronique or Fealty. You could take something valuable on the—
+Art: [scoffs] I'm not trying to get my house bombed. [Austin and Jack laugh]
+Austin: You could take something valuable on the planet that we haven't talked about yet. I don't know what that is. That’s a thing, you know? And then I'd say there are two things in this other category, which is like, things that you don't know what they really are yet. Uh, I guess three things. Eh. One of them is an Affliction. What happens if Stel Nideo just gets an Affliction? If they just take one.
+Art: Oh, that would be fun.
+Austin: Right? It’s not yours, and you just start doing Stel Nideo shit with it. One is a thing we’ve hinted at, which is Chimera’s Lantern, the strange moon, [Jack: Woo.] one of the two moons of Palisade.
+Jack: Currently being investigated by…
+Austin: Currently being investigated by the Blue Channel, because that’s where the Figure in Bismuth is going to get their— theoretically get some control and autonomy over themselves again, by freeing themselves from the need to return to the old Witch in Glass, Clementine, by going to attune to something up there in that moon. So, you could try to take that moon. You could take something related to this clock that I keep filling up that says “Alert” with a bunch of question marks.
+Art: I was told not to worry about that one.
+Austin: You don't have to worry about that one. But if you did, you could get something related to that. Those are my, like, suggestions. I mean, or anything else that we haven't talked about that we can come up with.
+Art: Well, the idea of a mystery box is just fascinating.
+Austin: Mm-hmm.
+Art: Really plays to all of my weaknesses.
+Austin: Right. I would say that there are at least two, three mystery boxes if you count an Affliction. I kind of know what the Afflictions’ deal is at this point, but that would still be a cool mystery thing, and I do think what’s up with Chimera's Lantern is also a mystery still.
+Art: Yeah. And it pushes the plot, I think, the most.
+Austin: More than the question mark, question mark, question mark Alert thing does, because we don't even know what that is.
+Art: It could be anything. 
+Austin: I think that that’s probably the right call.
+Art: Yeah, I think so too.
+Austin: And also it sets up a future mission pretty cleanly around going to Chimera's Lantern and needing to deal with Stel Nideo people up there on top of whatever else is going on on that fucking moon. 
+Art: Yeah, it gets screen time for my people.
+Austin: Yeah, exactly. 
+Jack: Ha!
+Austin: Yeah, totally. We’ve been very Kesh focused so far. We've had a little Nideo, but like, you know.
+Art: Yeah.
+Austin: Yeah, exactly.
+Art: And it’s something that I can do— I mean, they’re not going to, but that’s something that could feel important enough to take them away from Stargrave.
+Austin: Sure. Totally.
+Art: Because I'm now threatening Figure’s…
+Austin: Autonomy.
+Art: Autonomy.
+Austin: Yeah. Totally.
+Art: Yeah. Yeah! So, great.
+Austin: Cool. What’s this look like?
+Art: Uh, do I fill this?
+Austin: Yeah, fill the clock. Make it a four instead of a three. I don't think it changes color or anything, but we’ll find out.
+Art: Done!
+Austin: Oh, it says “done”! That’s great.
+Art: Check!
+Austin: Check. And I will add, after a colon, “Chimera's Lantern.” And I want to give some details, but I don't want to spoil what Chimera's Lantern is about, right? Because that’ll be the sortie at some point, you know.
+Art: No, I sort of want to just focus on what it looks like in, like, what the news broadcast is like.
+Austin: Sure. Tell me what that is. That’s great.
+Art: It’s exact— and this is gonna feel a little strange, considering this is a world in which interplanetary travel is not only a thing but not totally— well, I mean, it’s uncommon, but it’s not…
+Austin: Right. 
+Art: Compared to how interplanetary travel is on Earth right now.
+Jack: Now.
+Austin: Yeah. Yeah.
+Art: You know, people probably know people who have been to other planets, kind of.
+Austin: Mm-hmm.
+Art: I think it’s the moon landing.
+Austin: Interesting.
+Art: I think it’s on every channel.
+Austin: Mm-hmm.
+Art: I think it’s the same—
+Austin: Thanks, Connadine.
+Art: I think it even has bits of— like, “Khhk. This is one small step for— khhk.”
+Austin: Right, right.
+Art: And, you know. I think it’s aggressively the moon landing.
+Austin: And it’s all of us. We all did this. We all went to Chimera's Lantern.
+Art: Yeah. We all did this. This is the…the end result of all of the hard work, and all of the stel’s treasure [Austin: Mm-hmm.] and work has pushed us to this fantastic accomplishment.
+Austin: Well, and there’s a degree of like…
+Art: And then someone’s driving around a little rover.
+Austin: Right, uh huh. Well, the—
+Art: Which, again, isn’t necessary. 
+Austin: Right. The moon— that moon is weird. It’s called Chimera's Lantern because, one, it lights up. It has a sort of orange glow sometimes. And two, like, I imagine it as being sort of lantern-shaped, in that like tall rectangular…I actually kind of see it as like a…you know, like a classic-ass…that shape but made of rock and stone, right? And I don't know why that—
+Art: Sure. I was gonna ask if it’s moon-sized, but I've just recently learned in my regular life—
+Austin: Right, well, what’s a moon?
+Art: That our moon is huge for a moon.
+Austin: For a moon. Yeah, there’s lots of smaller moons.
+Art: We have one of the biggest moons.
+Austin: Yeah.
+Jack: Huh. I didn't know that.
+Austin: We got a good moon going, in my mind.
+Art: Like, our moon is bigger than, like, all of Jupiter’s moons.
+Austin: Right.
+Jack: I knew we were better than that stupid stormy planet. [Austin chuckles]
+Art: Yeah, eat it, Jupiter! Also, that might not be true. [Austin and Jack laugh]
+Austin: But you know what I mean, right? Like a— I don't know if lanterns have names, but like a Bloodborne lantern. You know what I mean?
+Jack: Yeah.
+Art: Yeah, I'm sure lanterns have names.
+Austin: Yeah, I mean, you're probably right. Uh, can I copy this image please?
+Art: Jeff. Steve.
+Jack: Almost like a railway lantern, Austin? Like a handheld railway lantern?
+Austin: Railway lantern. Let me see. Yeah. No. No, not a railway lantern. Not that. Um, like— I need to just find the name.
+Jack: What about olde fashioned lantern with an E?
+Austin: Old fashioned with an E. The E is at the end of old?
+Jack: Yep.
+Art: Yeah.
+Austin: Olde fashioned lantern. Where’s this? No. Because I'm getting— these are like hand lanterns. I'm talking about, like, an outdoor— you go up and knock on the door, and the guy inside goes, [Bloodborney voice] “[coughs] Hunter. You aint supposed to be out this late, is ya?” [Jack laughs] And then you go away.
+Jack: [same voice] “Attracted my lantern, was ya?”
+Austin: Yeah, exactly, exactly.
+Art: Oh, like a lantern on a stick?
+Austin: No!
+Art: Or like a…
+Austin: Like a sconce? Is it a sconce? Maybe I'm thinking of a—
+Art: Like a streetlamp?
+Austin: Like a street— it’s not a sconce. The thing that’s killing me is the sponsored image— I'm just gonna screenshot this. I can't— it will not let me copy this image from the website or from anywhere else. Like this. You know.
+Jack: Oh, oh, yeah. It’s like a…right.
+Austin: Oh my god. I swear to god.
+Jack: Like a fucking Haunted Mansion-ass lantern.
+Austin: Yes! [Jack chuckles]
+Art: Yeah, an outside— an outdoor lantern. [laughs quietly] 
+Austin: Uh huh. An outdoor lantern.
+Art: A building’s lantern.
+Austin: A building’s lantern.
+Jack: A building’s lantern is a…
+Art: You picked a gothicky one.
+Austin: And it is, because it has this build to it. It has this gothicky…like, it tapers down. It’s boxy, but it tapers. And it’s rounded on the top and bottom, but like, it’s flatter than it’s round. Do you know what I mean? 
+Art: If you're listening to this and you want to find it, it’s the Kichler 9357 Tournai 2 light. [Jack chuckles]
+Austin: Yes.
+Art: And then there’s something else, but it cuts off.
+Austin: Uh huh. 
+Art: You can find it on build.com.
+Austin: Yeah, uh huh. But it’s one of these, right? It’s not necessarily this one, but it has that sort of taper. And I think part of the thing has to also be about, like, dismissing any sort of superstition around it, right? Because people are like—
+Art: Sure. But if this was moon-sized, I could drive a cart on it.
+Austin: Yes! 100%. Because it would have gravity.
+Art: It would have gravity.
+Austin: Yeah. Uh huh.
+Art: Not a lot.
+Austin: Right, but enough that the thing would stay on it, no matter what side it was on.
+Art: Yeah.
+Austin: Yeah. 
+Art: And how big it was.
+Austin: Now, if it had gravity, why wouldn't it be a sphere? Great question. Sometimes asteroids aren't spheres, you know?
+Art: No one knows how gravity works.
+Austin: That’s correct.
+Jack: And it’s not related to the shape of an object.
+Austin: That’s also correct, scientifically. So yeah, so it’s a big propaganda deal. It’s a creepy thing to see happen, because people don't like looking at it, but I think there’s probably enough pomp and circumstance that, you know, y'all start moving shit in.
+Art: Yeah, and they’re selling little plates with the logo of the mission on it.
+Austin: Mm-hmm. Is there a fun name for it?
+Art: Um…uh huh. Don't hear me googling things. [Austin laughs quietly]
+Jack: Does Gentian come out and speak?
+Art: Hold on. I can only, uh…
+Jack: Oh, do the one.
+Art: Think about one thing at a time. [laughs quietly] Um…I think it’s just Operation Lamplighter. 
+Jack: Oh, wow!
+Austin: That’s great.
+Art: But the logo is one of those little things they use to put out the lamp.
+Jack: A snuffer. 
+Art: The little, like, thing that—
+Austin: Mm.
+Art: Yeah, a snuffer on a stick.
+Austin: That’s great!
+Art: Yeah. It’s, um…
+Austin: Great bit of counter-thinking there. Love to have the lamplighter’s logo be the thing that takes out the light from a lamp.
+Jack: Also worth mentioning that the Lamplighters are what the surveillance and wiretapping division of John le Carré’s Circus is called.
+Austin: Oh, sure. Great.
+Jack: Le Carré’s Circus is of course a big inspiration for the Paint Shop.
+Austin: Unrelated, in this case. This is not— there’s no Paint Shop stuff involved here, I'm sure.
+Jack: I don't believe so. No, no, other than—
+Austin: There’s no listening posts. There’s no…
+Jack: No, no.
+Austin: Right.
+Jack: And if, uh, a nondescript looking man happened to be seen leaving a meeting with several Nideans, [chuckles] you know, in the weeks prior…
+Austin: No, he wasn’t. No, he wasn’t.
+Jack: No, he wasn’t.
+Austin: You're sorry. No, he wasn’t. [laughs] Perfect. Amazing. Love it. I think you immediately begin getting reports back that there is some strange shit on that moon. I think the first message you get back is just like, “We weren’t here first.” [Jack laughs]
+Art: Moon’s haunted.
+Austin: Moon’s haunted.
+Jack: Moon’s haunted!
+Austin: Uh huh. I always get— I always get “moon’s haunted,” and then the rest of “moon’s haunted,” which is what, like, “*cocks gun* moon’s haunted,” or something like that?
+Art: Yeah.
+Jack: Right.
+Art: Yeah.
+Austin: And the other one about the moon. Uh…or like, it’s the image of an astronaut looking down at the Earth and one of them says, “Wait, it’s all Ohio?” and the other one says, “Always has been.”
+Jack: “Always has been.” [laughs] 
+Art: Mm-hmm.
+Austin: I always combine those two to “Moon’s haunted. Always has been.” [Art laughs]
+Jack: [pensively] Always has been.
+Austin: Yeah.
+Jack: Yeah. That is the scariest thing to get back from a first space message.
+Austin: Uh huh.
+Jack: Oh, god, it’s also— we’re still deep in, like, the PARTIZAN/PALISADE technology thing, right? So I bet it comes through on like a weird crackly receiver.
+Austin: Mm-hmm. Mm-hmm. Yeah, they don't have the Strand tech. Cool. All right. Should we start our first scene, 90 minutes into this episode? No, longer than 90 minutes, maybe, depending— I guess we took a little break.
+Art: I have an hour and 45, but we took a break, yeah.
+Austin: We took a break. We took a break. 
+Jack’s Turn [1:27:07]
+Austin: Stel Kesh, do you want to start?
+Jack: Oh, man. I probably should, because if I win, I can unlock a conflict scene reroll, which is probably good to have.
+Austin: Right, right. Yeah.
+Jack: Now, I had thoughts for this, but they were all blown out of the water by, like, fucking just swinging a sword directly at the players.
+Austin: Mm, mm-hmm. 
+Jack: The thing I was thinking, and I understand that it is difficult because we’ve been trying to keep the Blue Channel out of this. Ha. We’ve been trying to, you know, not involve the Blue Channel, because they can’t roll against them.
+Austin: Right.
+Jack: But I do think that it was notable that Elle was willingly arrested, Agent L.
+Austin: Not for the reasons you think. I have a plan for Elle already. Elle is accounted for, Jack. I'm sorry.
+Jack: Ah, now I need to think of a new scene. Okay. 
+Austin: Yeah. Apologies on this one. Elle is a well-established NPC whose seed I was…you would know this if Cori had talked more to Elle. Understandably, she didn’t. But yeah, I…unfortunate on this one. I'm going to make the rare GM—uh, what do you call what I'm looking for—fiat thing, which is: Elle is my character. And I can gesture at this mechanically: Cori declared Elle a rival, right? And so I have been working on what that stuff looks like already. I would love to keep that if I can.
+Jack: Yeah. Okay. Um, then, maybe…
+Austin: And I want to say something really quick. I agreed earlier when you said you have someone on the ship, and I didn't mean Elle.
+Jack: Well, let’s see. Who do I still have? Do I have any spies on the ship?
+Austin: I guess! I agreed.
+Jack: [thoughtful pause] Were you thinking of— you were thinking of someone.
+Austin: I was thinking: is one of the crew members a spy?
+Jack: Oh my god. I have been thinking about this from the start but didn't want to just outright say, “I've got a spy on the Blue Channel.”
+Austin: Mm-hmm.
+Jack: Especially because I'm working towards Uncover the Cause’s Membership.
+Austin: Right. Well, that might fill, so. 
+Jack: If this is—
+Austin: So yeah, that makes sense. That makes sense, because if you already had it, you would know. I don't think any of the core crew doesn’t know who the other— hmm. No, they all— they just went around and delivered stuff to everybody. They know. So, if they know, then you would know, right?
+Jack: Oh, right, yes. It would have— unless they are under deep cover.
+Austin: Right, and have not returned—
+Jack: Unless they don't know yet.
+Austin: And have never sent you back a thing to reveal that, but if that’s such a core thing, you would have gotten that message back. That’s a key enough thing.
+Jack: It would feel like yes.
+Austin: Yes, yes.
+Jack: The thing I am thinking about is I haven’t actually done much, like, spy games.
+Austin: Yeah. 
+Jack: I chased down the boat. So, I was thinking of doing a Covert Op.
+Austin: That makes sense.
+Jack: And it seemed like the most immediately compelling target for a Covert Op would be…we ended last time with the Blue Channel being like, “We are welcoming a bunch of spies to our organization as—”
+Austin: Right. I mean, you do, I guess, have all of those people on board, right?
+Jack: Yes, although—
+Austin: You do have, uh…who lived? You have Em. You have…did they end up arresting…? They had four total, so they got a bunch. Let me slide us over there. Em, Queue, Zedd, and Elle.
+Jack: Yeah.
+Art: We need more distinctive code names. [laughs quietly] 
+Austin: Nope! No one knows this. This isn’t a thing that anybody in the world can comprehend. This is an affect of our genre space, [Jack: Yeah.] not a real thing in the world.
+Jack: This is, like, we’re in a heightened mode. We can…
+Austin: Yeah, exactly. It’s like how in anime, people have pink hair, and no one is like, “Whoa, your hair is pink today.” You know? It’s just normal.
+Jack: Yeah. Although, they will comment on how you have, like, two buns.
+Austin: Right, yes, exactly.
+Jack: And talk about that constantly.
+Austin: Mm-hmm.
+Jack: God, nobody talks about—
+Austin: Somebody might think Zedd is a weird name, but Zee would be fine, you know?
+Jack: Yeah. [laughs quietly] Here’s the situation I'm in: there is a thing on board the Blue Channel that is very good at warning people about whether or not spies are on the Blue Channel.
+Austin: Mm. Mm-hmm.
+Jack: And right now, its calibration is completely out of whack, because there are a lot of spies on the Blue Channel.
+Austin: Mm-hmm.
+Jack: And I would love to get some information about the Divine Asepsis back to the Paint Shop.
+Austin: And so you're looking at a Covert Op here, right?
+Jack: I am looking at a Covert Op.
+Austin: Can you read what it says?
+Jack: Yes. A Covert Op says: “Everyone plays. The director assumes the role of various Authority or Cause characters, while other players act as agents for the opposite. Discuss what kind of undercover operation you are leading and what happens should you fail. Who are you? What part of the division or what factions are you tied to? Why were you chosen for this? What do you think about the mission?”
+Austin: “Playing the scene: players freely roleplay, issuing challenges to escalate and complicate the scene. Continue playing until at least three rolls have been made or the scene reaches what feels like a natural end. Look at the resolutions below for what that might look like. During the scene, anyone may issue a challenge.” And then there are a number of challenges, and then there’s a list of potential resolutions. And so, yeah, I guess, you know, normally the Cause determines who they’re countering with, but it seems like this would be countering with the Blue Channel, right?
+Jack: Yeah, which is why…I’m really of two minds about this.
+Austin: Mm-hmm?
+Jack: On the one hand, there is something kind of low about putting the Blue Channel into play in this way without the people who actually comprise the Blue Channel. On the other hand, this feels like the way it would happen.
+Austin: Yeah, I think so.
+Jack: You brought a spy onboard. 
+Austin: Yep.
+Jack: [laughs quietly] I think that there is a mitigating factor, because I have to imagine that the Blue Channel is guarding these people legitimately.
+Austin: Yeah.
+Jack: But I do think that either something about the Adagio rumbling into effect or it might actually be the Cause pulling them in another direction for a second.
+Austin: I mean, it’s that. We’ll see what happens. Remember, Sea is in the wind, right? That could give the people on board a chance. What we do know is they got the points and they spent the points, so this is happening at some point after that initial, you know, infodump.
+Jack: Yes. This actually raises a good point: what are they gonna do with those spies?
+Austin: They’re probably transporting them somewhere right now.
+Jack: I think that this is where the point of vulnerability happens.
+Austin: Mm-hmm.
+Jack: It happens in this transfer or at that moment of like, we can be sure about them when they are on our ship in our— they don't have a brig.
+Austin: Right. Right. 
+Jack: They don't have a brig!
+Austin: That’s one of the things that they didn't spend a point—
+Art: Mm-hmm.
+Austin: That was one of the things they could have spent a point on was upgrading the Blue Channel.
+Jack: They don't have a brig.
+Austin: Uh huh.
+Jack: How many prisoners do they have on the ship right now?
+Austin: Four. Four.
+Jack: They have four prisoners?
+Austin: Uh huh. Well, that’s what it seems like, at least, right?
+Jack: Yeah.
+Austin: They brought them probably to some site where they could be interrogated, and now they’re bringing them somewhere else.
+Art: I think that this is fine, because this isn’t the sort of thing that I think any of the player characters would be involved in countering.
+Austin: Well, if they’re on board, they might. But we’re just going to abstract it out in the same way we abstract out the other stuff on their side, right? You're not able to play all the Kesh characters. I think this is fine.
+Jack: Yeah. All right. Zedd.
+Austin: And— yep, go ahead.
+Jack: This dirtbag, uh…this dirtbag boyfriend [Austin: Mm-hmm.] has been unable— he/him pronouns on this guy, right?
+Austin: Yes, correct.
+Jack: Has been unable to hide a smirk upon realizing that they don't have a brig. At first, he thought that they were being put in this sort of holding room with a lock on the door, like a guard on the door, because they were waiting to be transferred to the brig or maybe there wasn’t enough room in the brig.
+Austin: Mm-hmm. 
+Jack: And as more and more time passed and he realized, “They don't actually have somewhere to put us that is designed for us,” [Austin: Mm-hmm.] the more his smile grows. Let’s see. What is the moment that he is able to…he notices that there is a— [chuckles] a shelf on the back wall, containing— what is some Blue Channel-ass stuff to put on a shelf? Four houseplants. [chuckles] 
+Austin: Mm-hmm.
+Jack: An empty fishbowl full of, like, VHS cassettes; some loose change; and a series of books on, like, combat triage. And behind that, he can see a corner of, like, the most uncomfortably cramped vent access.
+Austin: Mm.
+Jack: And during a certain window, the number of spies in this room goes down from four to three or three to two.
+Austin: I'm gonna issue a challenge.
+Jack: Yes.
+Austin: You take a few— you know, you're going through the vents. You have no idea what the layout of these vents are.
+Jack: His hands are bound.
+Austin: Right, uh huh.
+Jack: But you know, he’s a—
+Austin: He’s a spy.
+Jack: Unlike Em, he is not a novice.
+Austin: Right.
+Jack: He would read the Dim Liturgy’s propaganda and go, “I can pretend to be someone from the Dim Liturgy. Okay.”
+Austin: Right. Exactly. And the words here are, “a magical trap bars the way. Do you take a slow route around or roll to disarm it?” and I think that the magical trap, in this case, is the clicking sound, the taps of an Asepsis drone wandering through the vents, always on patrol, looking for anything out of the ordinary. And it’s that sort of metallic “tink tink tink tink tink,” as it walks around inside these vents. [Jack sighs] You can take the slow route around, but of course that would mean that there’s a longer time for the folks onboard the Blue Channel to realize that you've gone missing and begin an active search, right? Or you could roll to disarm it.
+Jack: Yeah. I'm gonna roll to disarm it, because…I want to be honest about the amount of information that, [Austin: Right.] up until this point, Connadine and his crew has about the Blue Channel, but he’s been starting to get inferences and rumors.
+Austin: Mm-hmm.
+Jack: And being a good spymaster, he’s not going to act on these rumors unless it is going to be advantageous for him to do so, but I think one of the things he has heard is that there is something aboard the Blue Channel. Like, in addition to the revolutionaries, there is some…
+Austin: Mm, mm-hmm.
+Jack: Some people say it’s a Divine. Some people say it is, like, a weird set of drones. Sometimes it gets blown way out of proportion, and they’re like, “Oh, they have a monster robot onboard,” [Austin: Mm-hmm.] and of course they’re just talking about, like, Thisbe or something or Phrygian.
+Austin: Right, right.
+Jack: But, you know. [Art chuckles] And so I think that when Zedd…Zee?
+Austin: Zedd.
+Jack: Zedd?
+Austin: Z-E-D-D.
+Jack: Sees this little fucking drone, a part of him is like, “Oh, good. This is actually a way in— this is a line of inquiry that I can take.”
+Austin: Mm-hmm.
+Jack: [sighs] So, remind me of what I'm rolling here, again? Just, uh…
+Austin: You are rolling, I believe, 1D6?
+Jack: 1D6?
+Austin: And you're trying to roll— I'll double check that that’s right. I'm pretty sure. Yeah, you roll a D6. If the scene is tied to the Authority's major division, a 5 or above is a success for the Cause. If it’s below, it’s a success for you. So, you need to roll a 1, 2, 3, or 4, I believe. Yeah. 
+Jack: Yes, and I am going over to the actual conflict turn page so that we can mark down…
+Austin: Yes, I've heard that exists.
+Jack: We should clear these scenes.
+Austin: Yes, let’s do that.
+Jack: Because it is very useful.
+Austin: Yeah. Oop. You got it.
+Jack: I am, uh—
+Austin: You are ahead of me by a step. Go ahead.
+Jack: I am cleaning them, and Austin is clicking them in again. 
+Austin: Uh huh. [Jack and Art laugh]
+Jack: Okay. I'm rolling 1D6.
+Austin: Mm-hmm.
+Jack: That is a 2.
+Austin: That is a 2, which is a success for you.
+Jack: How big are these little Asepsis drones?
+Austin: Bigger than a football, smaller than a…smaller than whatever my hands are now. A dog?
+Art: Than a giant novelty football? [Jack laughs]
+Austin: Than a giant novelty football. The size of the frame, the picture frame I'm looking at. That doesn’t help. You know, two feet tall. One and a half to two feet tall. Two feet tall.
+Jack: I want a great, weird, horrid scuffle in the vent.
+Austin: Mm-hmm.
+Jack: I'm thinking of the, like, great vent scenes in Alien or the vent scenes in, like…it’s not a film I love, but Event Horizon has some good vent stuff in it.
+Austin: Mm-hmm.
+Jack: And I like the idea of Zedd fighting like a cornered rat, you know, with his hands bound. This is as much fighting with elbows and teeth and, you know, just trying to tread this little drone, [Austin: Right.] and the drone fighting back too. And, you know, Asepsis’s little alarm going off, but it’s like a candle in the sun. You know, there are spies onboard. [laughs quietly] 
+Austin: Right, right, right.
+Jack: And presumably Marn has been— not Marn! [laughs] 
+Austin: Wow! Brnine? [Art laughs]
+Jack: Presumably Brnine has been having to assuage Asepsis this whole time. We talked about this in the last thing, right? Of like, “No, it’s okay.”
+Austin: Yep.
+Jack: You know, “We understand what’s going on here.” But there’s just this shrill rise in cortisol from Asepsis that then subsides as the sort of little processing unit or whatever is torn, is ripped out of this little drone, and Zedd continues down the vents.
+Austin: Do you think this is also an opportunity for Zedd to get his hands untied via the sharp edge of one of these Asepsis drone things or the laser unit or something?
+Jack: Yes. Yes, it is, and his wrists are cramped, because he’s been in, you know.
+Austin: Mm-hmm.
+Jack: He’s cramping all over, because he’s having to crouch in this horrible vent and has just had to fight, like, the weirdest spidery little droid.
+Austin: Mm-hmm.
+Jack: But yes, he’s like rubbing blood back into his wrists.
+Austin: Mm-hmm.
+Jack: And he has pocketed the handcuffs, because he knows that he is going to go back into the room.
+Austin: Ah, sure.
+Art: Mm.
+Jack: Well, I want to be honest to their four spy points, you know?
+Austin: Right. Right.
+Jack: They could make use of these spies.
+Austin: Oh, sorry, I thought that you were— we did not, in fact, sync on this when I said this. I imagine this as after the interrogation under which the four spy points were spent. 
+Jack: Oooh. Yeah, god, all right. Let’s see if we can swing this into an escape.
+Austin: And now you're being transported somewhere else, you know? Otherwise, we’ve closed off the possibility space too much, right? Because then you can't die. 
+Jack: [laughs] Yes, you're right.
+Austin: Frankly, right?
+Jack: They walk into the room, and Zedd is just dead.
+Austin: Right.
+Jack: He managed to get back, and then bled out. No. Not good.
+Austin: Yeah.
+Jack: Yeah, yeah, that’s true. And this opens the possibility for death, but it also opens the possibility for effecting an escape.
+Austin: Or maybe it’s happening— here’s another place where maybe it’s happening. It’s…Zedd’s been interrogated aboard the ship already and then gets sent back to the quarter or whatever, the holding room.
+Jack: The pseudo brig.
+Austin: The pseudo brig. And so we’ve gotten Zedd’s point already. We don't necessarily need…you know what I mean?
+Jack: Yeah. That’s true.
+Austin: That way this one’s accounted for.
+Jack: Yeah. That makes sense to me.
+Austin: Anyway, where’s Zedd going?
+Jack: I am…oh, what have I done? I have removed, almost Matrix-style, from a pin behind my ear, an extremely thin piece of, like…it’s like a probe. It’s like a…it’s not a tracking device, but it’s almost like something like they would use to check tire pressure or check—
+Austin: Mm.
+Jack: You know, that you could touch to contacts and check an engine light or whatever.
+Austin: Yeah, yeah, yeah.
+Jack: And crouched over—
+Austin: Like a diamond checker but not that big. [laughs quietly] 
+Jack: Yeah, and it was stored in his skull.
+Austin: Great.
+Jack: You know, he removed it, [Art: Mm-hmm.] and touches it against the bits of Asepsis that he pulled out, trying to guide himself towards— he doesn’t know that Asepsis is, like, fully distributed, [Austin: Right.] or at least is partially distributed, but he’s trying to get a reading on where to move to extract valuable information from this or potentially disable it.
+Austin: Disable the…disable Asepsis in general.
+Jack: Yes.
+Austin: Right.
+Jack: Which is something that we know, as players, he probably can't do in one turn. That’s a scheme or whatever.
+Austin: Right. 
+Jack: I'm not gonna take that away.
+Austin: Right, right, right.
+Jack: But the spy doesn't know that.
+Austin: Right. Right. Then yeah, like, being led basically to the nearest vent out into a hallway that would lead to, like, Brnine’s room where the Asepsis stuff is kept, right?
+Jack: God, this is great. This is genuinely spooky.
+Austin: Yeah.
+Jack: This feels like a…this feels like I'm playing a stealth game now, appearing for the first time this season in the actual environment the player characters have been in.
+Austin: Yes, yeah, totally. Well, and I think this is “tight guard patrols threaten to catch you. Roll to see if we can evade them,” as Routine, probably, Rennari, the former Kesh Apostolosian prince turned revolutionary. Big, buff, tough, walking these hallways. And I think, to continue going down this path where I've slowly been turning him into a Noah Baumbach character, he’s like smoking a cigarette and reciting a poem he doesn’t understand. He’s trying to get his head around some sort of sonnet. He doesn't get it. He knows he’s— [Art laughs] he thinks it’s good, and he likes the rhythm of it. [Jack laughs] Do you know what I mean?
+Jack: Yeah, absolutely.
+Art: Doesn't understand literally or figuratively?
+Austin: Uh, let me just pull up a random Shakespeare sonnet.
+Jack: “Drink to me only with thine eyes.”
+Austin: Right, this is exactly what I mean. This is Sonnet 30.
+(as Routine): When to the sessions of sweet silent thought
+I summon up remembrance of things past,
+I sigh the lack of many a thing I sought,
+And with old woes new wail my dear time’s waste:
+Then can I drown an eye, unus’d to flow,
+For precious friends hid in death’s dateless night,
+And weep afresh love’s long since cancell’d woe,
+And moan the expense of many a vanish’d sight: [hesitates]
+Then can I grieve at grievances foregone?
+And heavily from woe and woe tell o’er?
+The sad account of fore-bemoaned moan,
+Which I now pay— I new pay! I new pay? Fuck! I always— I new pay as if not paid before.
+But if the while I think on thee, dear friend,
+All losses are restor’d and sorrows end.
+Jack: Uh, Zedd is—
+Austin: Stops. Turns. 
+(as Routine): When to the sessions of sweet silent thought…
+Austin: Et cetera.
+Jack: Zedd is memorizing this, because he doesn't know if this is— [Austin laughs] like, this is just Routine Rennari reading a fucking poem.
+Austin: Yes. Yes.
+Jack: But Zedd is like— who has also just come out of the Dim Liturgy, where he has been just drilled and presumably instructed by Sea who has been instructed by Connadine [Austin: Mm-hmm.] to just be like, “Get me all the…get me all the words.” 
+Austin: Mm-hmm.
+Jack: “I need to pull this all apart.” But uselessly memorizing it, and yes, is…god, what is he—? He is making a dive into a side room to get out of the path of Routine Rennari in this moment.
+Austin: Okay. That seems like a roll to me.
+Jack: Yeah.
+Austin: Oh, sorry. Uh, yeah, yeah, yeah, see if you can evade them. That’s correct. So, 1D6. Phew, easily done with a 1.
+Jack: This room is a…hmm. It’s a room that Phrygian just was but isn't right now.
+Austin: Wait. That’s not— I don't— then it’s empty space.
+Jack: Oh, no, Phrygian can be— right, yes, you're right. [laughs quietly] Phrygian doesn’t possess a room like a…
+Austin: Right, right, not like a ghost. Phrygian becomes a—
+Art: Like a—
+Austin: Could it be an empty room that Phrygian filled in?
+Art: Well, what is the space—? Wait.
+Austin: Normally, Phrygian produces a room inside of the cargo hold, which is this huge open space, and Phrygian can just become a room inside of it, including the walls, is my understanding.
+Art: Because the outside of the ship doesn't get bigger.
+Austin: No, correct.
+Jack: Oh, it’s just a tiny little— it is— so, what’s actually happening is Routine is walking in the direction of Brnine’s office or study or quarters, and what happens is Zedd…I want to get some competent spies in here, so Zedd just ducks into, like, a tiny thing in the side and then instantly begins shadowing Routine [Austin: Mm.] as he continues to walk— Routine, he?
+Austin: Routine, he.
+Jack: As he continues to walk down this thing, matching his footsteps just soundlessly.
+Austin: Uh huh.
+Jack: You know, if he turned round, he would see this spy right there, [Austin: Mm-hmm.] but Zedd is like— his body language and everything, this guy is focused on this weird message he might be reciting, so I am just gonna follow him. 
+Austin: Mm-hmm.
+Jack: Yeah, and then ducks into Brnine’s quarters.
+Austin: [deep breath] What does…what does Zedd find inside of Brnine’s quarters? Is this “Your intel turns out to be inaccurate. What’s wrong, and how do you improvise?” because you've now realized it’s a Divine? [Jack laughs] There’s, like, the moment of a Divine…you know, we’ve seen a lot of Asepsis communicating to Brnine via the bunny ear scouter, right? Which is sort of, uh…and maybe appropriately here, kind of clean. It is…we’ve removed a lot of the hard edge of what it is to be communicated to via a Divine. You know, it’s kind of scrubbed down to just, oh, there’s a little interface, and it says things in little words. 
+So, we have not seen what it is for a Divine to make its presence known to someone the way we have in the past, and so, is this Zedd…this isn’t a roll. This is just, again, the question of…where’d it go? “Your intel turns out to be inaccurate. What’s wrong, and how do you improvise?” Where all the questions— “Oh yeah, there’s a monster on board.” “There’s a robot.” “I heard there’s a Divine,” and everyone goes, “No, there’s not a Divine. The Cause doesn’t have Divines. We have Divines. You know, we’re the Bilateral Intercession. Divines intercede on our behalf.” There’s this thing of like, Asepsis is in the room with you, and it fills your heart with something, right? Every lie you've told in the last year you can feel, you know?
+Jack: Yeah.
+Austin: And let me tell you: you've told a lot of fucking lies.
+Jack: Oh, this is great.
+Austin: Every deception, every— and like, and let’s get physical with it, right? Because this is not an Authority Divine, not an Authority Altar, so it doesn’t do the specific, “Oh, you smell something because it’s blank,” da da da da da. But it does have a different, another physical feeling, which is you feel dirty. It feels like you haven’t showered in weeks. You feel the grime under your fingernails. You feel old cold sweat on your back. You know, you do begin to sweat. Et cetera. 
+Jack: And this is Asepsis saying, “I might not be able to communicate this to the crew, but I know what you are, and…”
+Austin: Right. Exactly.
+Jack: You know? We are looking at each other, face to face, [Austin: Yeah.] in Brnine’s otherwise empty quarters.
+Austin: Mm-hmm.
+Discussing Jack’s Outcome [1:52:25]
+Jack: God. What’s the question? The question is how do I…yeah, “What’s wrong, and how do you improvise?”
+Austin: How do you improvise?
+Jack: What’s wrong is this is a Divine. And how do you improvise? Hmm. What can I possibly— what advantage can I possibly leave this place with other than they have a Divine that takes the form of weird little drones? Because the question is, essentially: how are your plans changing? Okay. I can't just steal whatever they've got and make off with it.
+Austin: Right, right.
+Jack: And I want to do better for the BIS than just rocking up to the Paint Shop and saying, “They’ve got a Divine,” as valuable as that information is. What is it about this Divine that I could try and take or make off with [Austin: Uh huh.] or hamstring in some way that would cause me to start improvising?
+Austin: Great question.
+Jack: What if I could…oh, I've got a grim thought here.
+Austin: I'm interested.
+Art: Yeah, I'm here for it.
+Austin: Edge of my seat.
+Jack: What if I can throw off its readings?
+Austin: Mm.
+Jack: Like the way I've been doing now, continuously.
+Austin: Mm-hmm.
+Jack: Like, something goes wrong with the way it— or rather, Asepsis’s accuracy is now skewed, and the way this works is that Zedd is living in the corridors of the ship. You know, the thing never dies down, because Zedd is like: oh, I can throw them off by offering myself to this Divine, basically. I will be the thing that this Divine will be working on.
+Austin: Constantly. I'm gonna live aboard the ship. I'm gonna be a…what’s that called? It has a terrible name.
+Jack: Uh, phrogging, PH?
+Austin: Phrogging with a PH. I hate it.
+Jack: Well, but there’s a double cost to this as well, right?
+Art: Oh, it’s horrible.
+Jack: Of like, I am going to Picture of Dorian Gray myself with the sensation that Asepsis gives me.
+Austin: Right.
+Jack: Asepsis knows I'm here.
+Art: Mm.
+Austin: Right.
+Jack: And it is just gonna keep shrieking, and it is going to shriek…well, then, hold on. There’s something…
+Austin: The party will find you and kill you the second downtime starts.
+Jack: Yes. This is what will happen, because it will keep going, and they will get me.
+Austin: Yeah.
+Jack: Especially because they’ll be like, “Well, one of the spies went missing.”
+Austin: Yeah, uh huh, and Asepsis is saying there’s a spy aboard.
+Jack: Flush it out. Yes.
+Austin: Flush it out.
+Jack: Whereas the thing I was trying to get, right, would be like, can we break Asepsis? I want Asepsis to be the horrid little fuck that cries wolf.
+Austin: Right, right.
+Jack: Right? Where like, [Austin: Yeah.] they had spies on board. Asepsis started screaming. They got this sorted. They got all the spies off. Asepsis kept screaming. They’re like, “Well, we know we have no spies.”
+Austin: Right.
+Jack: But they won't make that assumption. They won't go, “We know we have no spies.”
+Austin: No.
+Jack: They will continue to hunt the spy. 
+Austin: Yes.
+Jack: There is something here though, especially with the way that Saffron Septet triggered the Asepsis alarm. 
+Austin: Mm-hmm. Right, I mean, this is the… [sighs] This is the thing. Zedd doesn't have enough information to, like, feed false intel about…
+Jack: No.
+Austin: Zedd can't be like, “You can't trust Saffron!” because Zedd doesn't know who the fuck Saffron is, right?
+Jack: No. No.
+Austin: As far as I know. But is there…is this a MacGuffin situation? Do you have some sort of spy— you already had your one little spy tool in your skull. Do you have a second one that we haven't found? Is there…or is there a piece of training that the Paint Shop has given you to deal with Divines? Which is a wild thing to say. But also you're at war against— you're at war against the Twilight Mirage and against the Pact.
+Jack: Oh, they would absolutely have…
+Austin: Divines are against you pretty often.
+Jack: Yeah.
+Austin: And I don't want to make it, like, “Oh yeah, there’s an anti-Divine bomb.” That’s kind of boring, you know?
+Jack: No. I'm also…I think you're right; they would find me and kill me immediately, but the idea of just, like, someone is living in the walls during downtime is terrifying.
+Austin: Right. Can I give you a pitch?
+Jack: Yeah.
+Austin: We get the…here’s a way to maybe make it throw itself off is to succeed at a roll in which what you do is you look at it in its face and you say, “I'm not a spy. I'm supposed to be here,” and win and convince it and make it doubt its own… [Jack laughs quietly] 
+Art: Mm. 
+Jack: Especially because—
+Art: You Larry them.
+Austin: You what them?
+Jack: You Larry them.
+Austin: Yeah, you Larry them.
+Art: You Larry them.
+Jack: Yeah!
+Austin: Uh huh.
+Jack: Especially because we know you can do this with Asepsis. This is Brnine’s [Austin: Mm-hmm.] whole argument about having Asepsis, right?
+Austin: Yep.
+Jack: Is like, “Asepsis is a useful little guy that I can train,” basically.
+Austin: Well, sorry, I want to be clear: my point isn't you've convinced it that you belong here and so you can live in the vents, though that’s also fun. I mean that you shake its faith in itself such that it starts to recalibrate all of its settings. Confronted with— you make it sweat, because you no-sell it.
+Jack: Oh, yeah.
+Austin: You use all of your spy training to keep a straight face. You look at God and say, “All right. And I'm not?”
+Jack: Yeah, this is unreal, because this is a mortal going up against a Divine who is doing the thing the Divine is supposed to do, right?
+Austin: Right, right, right.
+Jack: That is an unbelievably difficult thing to do.
+Austin: Yeah. Maybe too much. Maybe Zedd doesn't have it.
+Jack: I think it might be too much, because this is the Divine Asepsis.
+Austin: Mm-hmm, mm-hmm, mm-hmm. Then I kind of like, [lying] “Oh no, I'm supposed to be here. I'm with the crew, but I'm better at saying it than Austin is.” 
+Jack: [laughs] Yeah.
+Austin: Or something else. Or as simple as: I've gotten some intel from Brnine’s room. Right? The easiest version of this is: in a rush, you grab something from a table. You just start grabbing things and breaking things and fleeing and looking for a way off the ship, no matter where you are.
+Jack: Hmm.
+Austin: What is the outcome you're trying to get, again?
+Jack: I want to take something meaningful back to the Paint Shop, beyond—
+Austin: No, I mean, what is the division? What is the conflict scene outcome?
+Jack: Oh, the conflict scene outcome that I want is that I can reroll.
+Austin: So it’s not a secret about the Cause or a faction.
+Jack: [thinking noise] Probably not, for tactical reasons?
+Austin: Yeah.
+Jack: Art? I know you were big on getting these rerolls.
+Art: The rerolls are important, and if we use the rerolls to get Stel Nideo a win, I would then use it to learn a secret about the Cause or faction by advancing the Uncover the Cause’s Membership scheme.
+Austin: Right, right, yes.
+Jack: Oh, this sounds like a trade.
+Art: So, like—
+Jack: Some healthy cooperation between the BIS, or between—
+Austin: Okay, then here’s a pitch: do you feed it false intel that would then be how we gesture at the director forcing a reroll during a conflict scene?
+Jack: Yes, and I know exactly how I do this. Paint Shop spies have been brainwashed, insofar as brainwashing is a thing that exists.
+Austin: Mm-hmm.
+Jack: We’ve talked about this on Friends at the Table before. I tell you what there is, is there’s stuff like— I keep coming back to The Prisoner [Austin: Mm-hmm.] as a touchstone here, and one of the most kind of arresting images early in The Prisoner is, as he’s walking through the hallways, he’s able to look into a room that is just filled with, like, 20 people in white robes sitting on the floor, bathed in purple light. And part of the way that Paint Shop spies are made is that they are able to hold— or the very good spies are able to hold multiple realities in their heads, even if they are not true. They are able to believe a lie  so effectively—
+Austin: Mm.
+Jack: And I don't want to get too grim: there are machines in this world or there are ways that you can make this happen. This isn't just willpower. There is some grotesque instrumentalization of a human mind happening here. Such that when Zedd realizes what he needs to do, he is able to feed, he is able to output—you know, feeling like he needs to take a shower, feeling like there’s grease under his fingernails—he is able to output a series of facts about the organization of the BIS or about the spies that are both absolutely wrong and that in the moment, in that individual moment, he believes with utter certainty to be true. 
+Austin: Mm.
+Jack: And—
+Austin: And we don't know what it is yet, necessarily, unless you do know what it is, but this is—
+Jack: No, I don't think I know what it is yet, but it would be really fun to encounter it later, to be like…
+Austin: Later, if you do spend this. There’s a world where you don't need to. We’ll see.
+Jack: Yep. There is a world in which I don't need to. And— 
+Austin: Which I guess is the counterargument against taking this ability, is: what if you don't need it? What if you were better off?
+Jack: That is a good question, but I am taking it, [Austin laughs quietly] and in this moment…you can't go back, when you do this.
+Austin: Yeah. Yeah.
+Jack: Zedd now believes things— believes things about the world that are not true.
+Austin: Right.
+Jack: Believes them in his heart.
+Austin: Uh, I think you have to roll a die? I think? 
+Jack: Uh, no.
+Austin: Or is this just improv? Okay, you're right.
+Jack: It just says, “Your intel turns out to be inaccurate. What’s wrong, and how do you improvise?”
+Austin: So that is how you've improvised.
+Jack: Answer: fabricate a false reality so real that your whole life changes.
+Austin: Oh, that’s all. Well, you've done this. Asepsis seems confused, and you have a moment to try to escape, presumably?
+Jack: Yes. I am going to…god, what am I gonna try and do? Are we in motion, or are we in dock?
+Austin: You don't— do you feel, if you're on board— the Blue Channel, you probably feel it, right?
+Jack: Yeah, I don't think the Blue Channel is, uh, stable enough to…
+Austin: Yeah. I think you can hear the engines beginning to start up.
+Jack: Oh, god. So, I—
+Austin: They’re going through launch, you know, checklist.
+Jack: Yeah. Okay. I am now going to try and move quickly, with the thought that even if they see me— I would try and like to avoid them seeing me.
+Austin: Mm-hmm.
+Jack: But even if they see me, the thing I need to do is effect my getaway.
+Austin: Right.
+Jack: No time to try and spring the other prisoners. [laughs] Let’s try and get out. So, I am making for the front. The Blue Channel has that great port that drops down, right?
+Austin: Yeah, yeah.
+Jack: Yeah. I'm making for that.
+Austin: This feels like, again, a “You must quickly and quietly take out a watchman. Who will roll to do this job?” Maybe that’s Midnite Matinee here, to keep it with the crew members, or maybe this is Saffron in big Torch mode. That’s kind of fun. Big robot, big red robot, [Jack: Yeah.] that looks like it has a PAR light for a head is standing guard here. This is the guard— standing guard over the makeshift brig, you know?
+Jack: Ha.
+Austin: Is not inside of it, so doesn't know that you have escaped yet, right?
+Jack: Yeah.
+Austin: Though actually, at this point, Asepsis has probably sent out an alarm? So maybe people are actually on the look for you.
+Jack: Yeah.
+Austin: And you have this one moment of trying to take somebody out.
+Jack: Yeah. And I roll a 3.
+Austin: Which is a success.
+Jack: Yep.
+Austin: And a sweep.
+Jack: I want to do a…like, the cyanide pill in the tooth thing but for attacking somebody else, and I think what it is is that a…like a coiled whip or something lashes out of the spy’s mouth. You know, one of their teeth has just, like, vomited out.
+Austin: Jesus.
+Jack: I'm thinking of the… [sighs] the great weapon from Johnny Mnemonic, the like nail weapon?
+Austin: Yeah, the monofilament wire, yeah.
+Jack: Yeah. And you know, it like cuts my whip on the way out but lashes and electrocutes and knocks out [Austin: Yeah.] or jams Saffron as I run.
+Austin: All right.
+Jack: This wire still hanging out of the corner of my mouth.
+Austin: And running towards the exit ramp as it’s almost closed, scrambling up its side.
+Jack: Yeah, vaulting over the exit ramp.
+Austin: Yeah, yeah.
+Jack: Disappearing into Carmathen or wherever.
+Austin: Yeah. Uh, probably not there, because that’s still held by the— I think that place is still held by the, uh…
+Jack: Oh, I still have that, or…?
+Austin: Yeah, yeah, Art does, I think. Or no, uh…let’s see. Carhaix is the one that they have.
+Jack: Oh, yeah. Disappearing into Carhaix.
+Austin: That makes sense. Yeah, Carmathen you still have in the south.
+Jack: Yeah, firmly believing just a series of facts about the world that are no longer true.
+Austin: Uh huh. I imagine they maybe actually didn't do this in a fac— I bet they did this in the desert.
+Jack: Oh, yeah, they just flew out into the…
+Austin: Yeah.
+Jack: Above Joyous Guard.
+Austin: Above Joyous Guard or between Joyous Guard and Carhaix. Maybe some sort of outpost, you know what I mean? But not close to people, you know? So, we just have to see if Zedd will make it, you know? I mean, Zedd’s gonna make it, but the last we see of Zedd is walking off— you know, trying to disappear into, like, the desert night.
+Jack: Yeah. Great.
+Austin: All right.
+Jack: Okay.
+Austin: Well, take your…nothing. Take your…
+Jack: I am taking my prize. 
+Austin: Yes, and I am tapping the Blue Channel. Boom.
+Art: Take that, Blue Channel.
+Austin: Blue Channel tapped. 
+[“Nothing is Stationary” by Jack de Quidt plays]

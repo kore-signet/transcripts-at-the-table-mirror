@@ -1,0 +1,1648 @@
+﻿PALISADE 57: Above the Earth Pt. 1
+Transcriber: Iris (sacredwhim)
+Opening Narration        1
+Introduction        2
+Mission Setup        13
+Character Sheets        21
+Thisbe - Glide Through Currents        32
+Put In The Work (Leap’s Pirate Crew)        47
+Cori - Listening Post        67
+Brnine - Somewhere Nearby        72
+Leap - Fade        80
+Levi - Command Deck        83
+Plan and Prepare        95
+Opening Narration
+Austin: Let me set the stage a little bit.
+[music - “Look Up At The Sky” by Jack de Quidt begins]
+Austin: You are looking up into a clear blue sky, and seeing it: the largest structure in the galaxy. Maybe even beyond the galaxy. It is a space station, long and flat, stretching to the edge of the sky and then turning. Like a circular shelf, hung at the edge of the supermassive black hole at the center of the Milky Way.
+This ring-shaped space station, which Perennial calls home—or which is maybe Perennial’s true body at this point—is something like an air filter for reality itself. Perennial and her Wave, innumerable nanomachines, breathed out into the galaxy from this ring, once changed the very laws of physics. Then in the year 1424 of the Perfect Millennium, the Divine Motion and the being called Autonomy Itself were decimated, and their remains co-mingled with the Wave, creating what became known as Kalmeria. Soon, it was the age of the Altar. Soon, there was war on Palisade.
+But now you are not on Palisade. You are, for the first time in the Divine Cycle, looking up at the sky from a place familiar to you, and me, and the listeners. From the planet nearest to the center of the galaxy: Earth. You are here, on a beautiful beach preparing for, hopefully, a final confrontation with the Divine Motion. A machine who, at the head of her undying army of thralls, could rightfully be called a necromancer. And some of those forces are here already, in space above, unaware of your presence. They traveled with the very fastest of Apostolosian engines, or were brought here by Present, bit by bit by bit. And now they begin their apocalyptic tasks, because it will be apocalyptic if Motion can claim Perennial’s place at the center of the galaxy. If she can tinker with the rules of reality, bending them towards the biases of her eternal march.
+[music -  “Look Up At The Sky” by Jack de Quidt ends]
+-
+Introduction
+[00:02:37]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Ali Acampora.
+Ali: Hi, my name is Ali. Um… [pause]
+[group laughter]
+Ali: Where am I on the internet? [laughs]
+Austin: Hi, Ali. Nice to meet you.
+Ali: [laughing] I’m a member of Friends at the Table. I also am on a Star Wars podcast called A More Civilized Age. amorecivilizedage.net, go find it. Hi. [laughs]
+Austin: Hello.
+Keith: Hi.
+Austin: Is that it? Are we good? Are we—
+Ali: friendsatthetable.cash.
+Austin: There it is.
+Ali: notquitereal.bandcamp.com.
+Austin: That’s true.
+Sylvi: Ooh, important one.
+Ali: Mhm.
+Austin: Okay. Was that—are we good? We’re good.
+Ali: Mhm.
+Keith: Alright.
+Austin: Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter at @swandre3000. And Tom Cruise, don’t sue me.
+Austin: That’s right. Keith Carberry.
+Keith: Hi, my name is Keith J. Carberry. You can find me on Twitter and Cohost at @KeithJCarberry. And you can find the Let’s Plays that I do at youtube.com/RunButton. And you can find me and Dre and Sylvi and Jack on Media Club Plus, the world’s greatest podcast about Hunter x Hunter, where we are officially over halfway, by the time this comes out, through Hunter x Hunter. It’s a great show. You should listen to it.
+Sylvi: Are we gonna be in Chimera Ant arc by the time this comes out?
+Dre: Yeah, we’re gonna be in ants. Probably.
+Keith: Well, the last one of Greed Island comes out next Tuesday, and then ants will be two weeks after that. So this will probably be out first.
+Sylvi: Hey. Now you know. You’ve been warned. The ants are coming. Get on board.
+[Ali chuckles]
+Keith: The ants are coming.
+Austin: The ants are coming.
+Keith: Make whatever preparation you think that means.
+Austin: Yeah, get some bug spray. Janine Hawkins.
+Janine: Hi, I’m Janine Hawkins. I’m at @bleatingheart on platforms that I don’t use very often, but that’s where I am either way. I’ve been writing little weekly update newsletters on our Patreon that you should check out. And also, I’ve been playing a lot of this game called Life Makeover on our Twitch channel. I gotta upload a bunch of archives for Keith to put on YouTube. Every time that game—every time I talk about this game, I say “It’s weird,” and then I’ll say, like, “It’s weird and it got weirder.” And it really—I keep waiting for it to stop getting weirder, and then it doesn’t. Like, it just—it really—like, there’s just, like, cyberpunk knives and like, garden holograms, and then like a pirate romance side story, and like, I don’t know. And then they’re just like, “Put on a breezy outfit to collect murder evidence.”
+[Austin chuckles]
+Janine: That’s a real thing that happened.
+Sylvi: Well, yeah, of course.
+Janine: They told me to do that.
+Austin: Yeah, uh-huh.
+Keith: What I like is the questionable canonicity of every single event.
+[Austin laughs]
+Sylvi: So it’s Homestuck.
+Austin: Ah, now I understand.
+Janine: [cross] Well, it’s—so there is stuff that's like, canon canon. But then there’s like, side stuff that seems like, canon but removed from the timeline, and then there’s other stuff that’s just like… like a different dimension that exists in tandem, or something.
+[Sylvi laughs]
+Janine: I don’t know.
+Austin: Cool. Yeah, no.
+Janine: Check it out.
+Austin: Fuckin’ tune in to find out more. The first thing I saw happen to you while playing that game was not on stream, this was before you started streaming it, was someone was stuffed inside of a giant teddy bear.
+Janine: Oh, yeah, that’s—yeah.
+Austin: And it’s only gotten weirder since then, so. Yeah.
+Janine: Yeah. Yeah. She did it to herself. Spoilers.
+Austin: Oh my god. She was the haters all along.
+Janine: It’s true. That is actually—that is true, they were the haters.
+Keith: That is what that is, yeah.
+Janine: Yeah. That’s what happened.
+Austin: Yeah. Okay. Speaking of the haters, also joining us…
+Sylvi: Wow.
+Austin: [laughing] Sylvi Bullet.
+[Janine laughs]
+Sylvi: Yeah! Yeah!
+Austin: The queen of all haters, which I say with pride and friendship.
+Sylvi: I am putting my crown on right now.
+Austin: Absolutely.
+Sylvi: Yeah. Hey, I’m Sylvia. You can find me everywhere on the internet @sylvibullet. Sylvi spelled without the “E” Taking Back Sunday style, because that’s how I introduce myself now.
+Austin: It is, yeah.
+Sylvi: In addition to, like, Media Club Plus, and a bunch of other stuff, I’m gonna tease a little something here for—anyone out there who’s a fan of gross stuff and freaks, keep an eye out to the Patreon for something Jack and I might be doing. Okay? So just…
+Austin: Ooh, interesting.
+Sylvi: Yeah, there’s your little—there’s your little peek.
+Austin: Speaking of freaks, you should also go to the Patreon to listen to the Media Club Plus crew talk about JoJo’s Bizarre Adventure.
+Sylvi: Oh my god.
+Keith: Oh, those were so fun.
+Sylvi: And freak-filled.
+Keith: Yeah, I like JoJo’s Bizarre Adventure now. It’s been a long road.
+[Austin and Ali laugh]
+Sylvi: Ladies and gentlemen, we got him.
+Ali: Can I just say thank you? I tried to sell Keith on Part 4 so many times…
+Keith: But I started in Part 1, which was an error.
+Ali: Sure.
+Sylvi: Yes, probably. I think Part 1’s fine.
+Ali: Yeah, it’s great.
+Keith: Because Part 1 was kind of boring, and then Part 2 I thought was terrible.
+Sylvi: Yeah.
+Ali: [chuckles] Here we are.
+Austin: And this is how it goes.
+Sylvi: And you gotta subscribe to the Patreon to hear any more of my takes, so.
+Austin: That’s right. That’s absolutely right.
+Ali: Also, speaking of freaks, Slow Knife finished this month.
+Sylvi: Yeah.
+Austin: It’s true.
+Sylvi: A bunch of really terrible people got their comeuppance.
+[Ali chuckles]
+Dre: I don’t know what you’re talking about. I played a perfect baby angel.
+Sylvi: Oh yeah, the volcanos. Yeah.
+Ali: Uh-huh.
+Sylvi: Yeah, of course. Your character was such a delight.
+Dre: Mhm.
+Ali: All the characters were extremely normal and did nice things.
+Sylvi: Mhm. Yeah.
+Dre: Yeah.
+Sylvi: And loved their family.
+Dre: Especially to each other.
+[Ali laughs]
+Dre: Uh-huh.
+Austin: Speaking of normal people, isn’t Unincorporated Part 2 also…
+Sylvi: Oh my god, you’re right.
+[Keith laughs]
+Sylvi: That is one of the—that’s an all-timer.
+[Ali chuckles]
+Austin: Yeah, absolutely.
+Keith: I was putting that up, because like, the audio was kind of weird on the Twitch stream, so it took a little while to, like, get it sounding right, [Austin: Mhm.] and there’s a part towards the end where Janine goes, like, “Do you think Austin hates these?” when—[laughs]
+[Ali, Dre, and Janine laugh] 
+Austin: Never. Opposite. Opposite. It is a joy to have something to listen to from my friends, so.
+Dre: Aw.
+Keith: But you can imagine the show that would elicit that kind of vibe.
+[Ali laughs]
+Austin: I think it would be—I think that there would be, like—I don’t think the show would work if I hated it. Right? Because then I’d be…
+Keith: No, no, not the vibe—not the show that elicits the vibe of you hating it, but uncertainty from someone else, where it’s like, “Is this unlistenable?”
+[Ali chuckles]
+Austin: Sure. Sure.
+Keith: But then them being wrong.
+Janine: Oh, no, I don’t think it’s unlistenable.
+Austin: No, Janine meant—
+Janine: My thinking is always like, oh, there’s this amazingly delicately crafted story of contemporary and near-contemporary life, and the thing that we’re gonna do is come in with a pig named Meatball and a Goku car.
+Ali: Uh-huh.
+[Keith laughs]
+Sylvi: Yeah, yeah, yeah.
+Keith: The Goku car was the best part.
+Austin: Yeah. You have to remember we did a whole bear heist in Bluff, like, it’s not—
+Dre: That's true.
+Ali: Mhm.
+Austin: There’s nothing about this thing that’s—the thing about all of the settings we’ve made is they have to be resilient to whatever bullshit we come up with.
+[Ali, Dre, and Janine laugh]
+Sylvi: Yeah.
+Austin: Otherwise, they’re not good, you know?
+Sylvi: Here’s the thing. Also, they morph to the bullshit. You know?
+Austin: Right. Exactly.
+Ali: Mhm.
+Dre: Mhm.
+Sylvi: We shape it to the bullshit.
+Austin: Exactly. A hundred percent.
+Sylvi: It’s all bullshit.
+Ali: Also, I just want to say, good collaborating skills in having to call you to ask you about vampires.
+Sylvi: That was so funny.
+Austin: And I was there. I was around.
+Keith: Yeah, you were there.
+Ali: We do this considerately. [chuckles]
+Austin: That’s right. What I will say, it was very fun to be on the other side of that. Because normally I’m the one who’s like, [laughing] “Hey Keith, can you flip a coin for us real quick?”
+[Keith and Ali laugh]
+Austin: “Hey Ali, can you hop on this call to say something sad please? I just need… we gotta do a little mini-scene.”
+Keith: My new greatest Friends at the Table regret is not turning off my noise gate for a specific scene towards the end, and—yeah, it was very sad listening back and being like, “Oh, this didn’t sound like I thought it sounded.” But it’s fine, yeah.
+Austin: Yeah, yeah. Is that everybody? Yes, that is everybody. Jack and Art will not be joining us on this, our final session? Of Armour Astir by Briar Sovereign.
+Sylvi: [laughs] We’ve said that before.
+Austin: Well…
+Keith: Session? No. That can’t be true.
+Austin: Well, final arc. Final…
+Keith: Right, yeah.
+Austin: We’re not gonna finish tonight, we’re starting very late.
+Keith: Right. No—not a chance.
+Austin: What we’re actually gonna do is probably talk out of character a bunch about making sure everyone’s sheets are up to date. And I know there are people listening being like, “I hope they don’t cut any of that.” But I think we’re gonna cut most of it, [Ali and Sylvi laugh] because it’s mostly gonna be me going, “Hey, did you—remember, you get another move, because da-da-da-da-da. You’re a support class.” And that’s not good radio. And we’ve already had the longest finale in history, which is one of the things you can do when you have a podcast.
+[Ali laughs]
+Austin: We—it’s our podcast. We don’t have sponsors.
+Sylvi: It’s our—yeah.
+Ali: Yeah.
+Austin: No one bought an eight episode run from us. This shit can be as long or as short as we want it to be.
+Sylvi: We’re not saying no to that, though, by the way.
+Austin: Uh… it depends.
+Dre: Yeah, it depends.
+Austin: On who is giving us the money.
+Sylvi: It depends on who. It depends on who, sure.
+Austin: Yeah. Uh-huh.
+Sylvi: I just don’t want to close the door completely. [laughs]
+Austin: Yeah, no, no. Sure. A hundred percent. You know? 80%. Not a hundred percent. 80%.
+Sylvi: Yeah, yeah, exactly.
+Ali: Uh-huh.
+Austin: Reach out. You know? Hit us up. We’ll talk.
+Ali: We’d love a limited run.
+Austin: Yeah. Ali, you and I have history doing this for money besides this.
+Ali: Yeah.
+Austin: We did the Mass Effect show back in 2019?
+Dre: Oh, god.
+Sylvi: Yeah.
+Ali: Uh-huh.
+Austin: But, you know. That wasn’t just—that wasn’t a Friends at the Table thing, so. But we’ve dipped our toes. So, reach out.
+Ali: Mhm. [chuckles]
+Keith: Mass Effect thing? What the hell? What? I don’t remember that at all.
+Austin: Keith. [chuckles] Okay. We’ll talk later.
+Dre: This guy. This fuckin’ guy.
+Austin: Don’t worry about it.
+Sylvi: It was a while ago.
+Austin: It was. Okay.
+Mission Setup
+[00:12:23]
+Austin: So, as I said in the intro, which this is the rare occasion that I actually had it ready to go to read to everybody at the table and not just to you the listener at home, we have a beach episode. We are on Earth.
+Sylvi: Wow.
+Austin: Earth, of course, abandoned, largely abandoned. There are probably some people here somewhere, but the New Earth Hegemony left it behind five thousand years ago, basically.
+Janine: So you’re saying we can’t wander around and ask where there was a sandwich shop thirty thousand years ago or whatever.
+Austin: You know, if you want to be there, if you want to be in the beaches of, like, the pacific northwest and go to the Morning’s Observation breakfast sandwich joint, maybe it still exists. Who could say? I think it’s a little on the nose. But, you know. I wouldn’t stop you.
+Dre: I’m going to Galveston.
+Austin: Cool.
+[Sylvi laughs]
+Austin: [laughing] Good call.
+Dre: Shout out to Charles Barkley. [laughs]
+Austin: Charles Barkley loves that for you. Let me give you the high level of what your mission is, and like, this is all informed by what Perennial has told you at this point. You’re all here, presumably, with the Blue Channel. Presumably with a handful of additional forces who come from the rest of Millennium Break, and the rest of your group, Levi, Levi’s friends, [laughs] whatever we end up not naming that.
+Dre: The friends of Levi. [laughs]
+Austin: The friends of Levi, uh-huh. And whatever additional forces come from the loyal—those loyal to Cas’alear. The big mission objective here is just simply to—and let me actually, you know what? Here. Let’s move—let’s—over on Roll20. Let’s take a peek.
+Janine: Whoops.
+Austin: That’s fine. It’s fine. Take a peek at how this—what this all looks like. For some of you, and I think that some is—I guess I’ll just say this. This sortie takes place on a small section of that giant station. It is truly a tiny, tiny, tiny sliver of the whole thing, but it’s a very important section. It’s the section we first saw Horizon Captain Briar Brightline, Consul Cerise Sky, the Perennial Witch Teasel Mode, and cyborg mercenary Vessel’s Gold breach and take control of during one of the earliest Road to PARTIZAN games, the mission that ended with the enshrinement of Perennial, and the birth of the Perennial Wave. So that is where it is.
+If you go and compare the old Live at the Table video to this, I’ve done my best to recreate the basic structure of this little section of the space station. I actually imagine that the space station is not fully, like, a solid ring. I think it’s probably a bunch of little rings that like—or little, like, areas that kind of all together look like a ring. Many of them are connected. But it’s such a big facility that, like, of course there are gonna be small breaks in it and stuff like that. It’s a—for the people listening at home, this little section is sort of a long rectangle from left to right.
+On the far right hand side is the power terminal, where many, many, many years ago, I think three thousand plus years ago—and time is weird, as a reminder, not just in the Twilight Mirage sense, but in the sense that every millennium added years to the calendar, or days to the calendar, and so even regular years are fucked up in the Principality. But the power terminal is where Teasel Mode installed Perennial into controlling this big—this big station and all of the nanomachines it produces.
+Just to the left of that, so like, west of that power terminal, are these two big anti-ship cannons that prevent ships from landing any closer than the very far end on the west side of this rectangle. Then there’s a kind of interior section, which is darker. I’ve made the interior sections darker on this map, that says “wave production and control servers”. It’s a big server farm, and also like, a place where some of the Perennial Wave is produced, and kind of, you know, shot out into space.
+Then there’s just kind of like, part of the station that has these kind of big, like, big shoulder—mech-sized waist high cover, you know? If you were playing the third person shooter version of this, you would come into this room and it would be quiet, but you’d be like, “Oh, that’s all the cover I can hide behind for the gunfight that’s gonna happen here in 15 minutes when this cutscene ends.”
+And then on the furthest west-hand side is probably, you believe, where the Pact will start landing their stuff. And in fact, you know more about that, because—and I know I’m just like, going for it here, but I want to get it all out in the air and then we can ask questions and prep and all of that stuff after. At this point, there are some Pact people here. The elite scouts, those that have been blessed by the Divines of the Pact, which of course make them more powerful against Perennial Wave stuff. As a reminder, we’re back in Armour Astir, and that means Profane does bad against Divine. And so some of these elite scouts who have been brought here either using super-fast Apostolosian tech, or by Present who can teleport anywhere in the galaxy, as we’ve learned again and again. They have come on board. Some of them have infiltrated certain places beyond this shard, and have done some sabotage. So there’s been like, some loss of automated defenses, some station controls are wonky, there’s some—some bits of the Perennial Wave have lost control—have been taken away from Perennial. We’re talking about small amounts here, but this is like, it’s an important—it’s a tiny part of a gigantic structure, but it’s the most important part of the structure.
+Second, the bulk of the forces from the Pact are going to arrive from three different Portcullis gates that are currently being built. If you look, like, halfway in through the—or on the screen here, there’s this kind of like, mid-layer zoom-out of this part of the map. And, you know, the mission is taking place in the red square zone on this thing, but just outside to, like, the northwest, southwest and west are these three big Portcullis gates. Those are not finished construction yet. They’re rapidly building them, and when they turn on, they will be the places that the Pact’s forces are going to, like, spill out of. Right?
+When that happens, Perennial believes based on what she can see from the Perennial Wave, that is also when the flagship Ekpyrosis, formerly Dahlia’s flagship, will arrive. As a reminder, the last time you saw that was when Brnine killed Dahlia, and then the inky Divine Commitment kind of like, symbiotic, like, Venom symbiote took over the entire ship and made it start wildin’ out and going wild and shooting at things randomly. Motion has kind of brought that to heel, and is now—that is now the flagship of the Pact again. And so, that will arrive not through one of these Portcullises, but simply because it is one of these super fast Apostolosian ships. So that will appear probably also somewhere—maybe somewhere from the west. You don’t know for sure.
+But that is where the forces are gonna come. I guess to say that in plain terms, you could stop a lot of the reinforcements from showing up by destroying or preventing these Portcullises from turning on. But you can’t stop the arrival of the flagship. The flagship will come if those—all those Portcullises go down. It’ll just be—have less support. Does that make sense?
+Sylvi: Yeah.
+Ali: Mhm.
+Dre: Mhm.
+Austin: Okay. You have a few objectives. You have one main objective. Stop Motion and the Pact from reaching the core. Stop them from hitting that power terminal on the right. They do that, it is bad news. I haven’t really sat down and worked out everything Motion will do to the world, but you know, I’m a little Elden Ring-pilled right now, and I do think—
+Sylvi: Oh, no.
+Austin: —that there is the sort of, like, you know, in the way that you know the end of that game—I guess some very light spoilers for the end of that game. Like most Fromsoft games, you get to decide, like, how does reality work going forward, right? You can think about this going back to Dark Souls 1, where it’s like, oh, do we relight the fire and just like, keep things going as standard, or do we give in to the age of darkness?
+Keith: I think you’re talking about Mass Effect 3?
+Austin: Ah, fuck, I’m talking about Mass Effect 3.
+Sylvi: Yeah.
+Austin: Right, so—
+Sylvi: So we’re gonna talk to a little blue boy.
+Keith: The original Dark Souls.
+Austin: The original Dark Souls, Mass Effect 3.
+[Ali laughs]
+Austin: If—what if Motion was there at the end of Mass Effect 3, and got to make a choice?
+Keith: Yeah.
+Austin: [chuckling] What choice do you think Motion would make? That is fair. That is a totally fair comparison. You don’t want—I suspect you don’t want Motion to have that sort of power to rewrite the world.
+Keith: Ooh, sword of power. Yeah, I don’t want them to have that.
+Austin: Jesus christ.
+Sylvi: Shut the fuck up.
+Austin: Kind of power. [chuckles] So that’s your primary objective. Everything else, you know, is bonus. Then kind of secondary objective number one, beat Motion, beat Present, beat Commitment, the Ekpyrosis. Those things suck. It would be better for them to not be around. But, you know, we’ll see how that goes.
+Second secondary objective, in the middle of this wave production and control server—and I’ll send all this over in text so that you have it to look at. In this wave production and control server is a place where Cas’alear, who is, as you might recall, the—one of the heirs to the throne of Princept. Cas’alear wants to make that message that says “Hey, it’s the end of the Perfect Millennium, I’m ending the Perfect Millennium, and guess what? I’m ending the Principality.” The Stels will continue to exist in whatever way that they autonomously decide they want to exist, but there will not be a Princept anymore. Cas wants to make that statement through the Perennial Wave so that literally everyone in the galaxy can hear it, which gives you a little bit of rhetorical weight when everyone in the galaxy hears someone say “Hey, I’m the space emperor. Everyone in the galaxy hears me. I’m ending this Principality shit.” But they need to get to this place and hold it and prevent themselves from being, you know, attacked or killed while doing that, right? So classic escort mission secondary objective there.
+And then three, if you can knock out these Portcullis systems, the reinforcements will stop, right? So I’ve listed that as a secondary objective even though that’s like, just kind of a thing that’s useful for you. Does that make sense? Like, not necessarily a you get—this isn’t how this game works anyway, you don’t get, like, bonus points for it. But it is useful, and I wanted to write it down and say that it was a useful thing for you to do. That’s the set-up. I think that’s what you know. And I think this has all been communicated to you via communique with Perennial, probably delivered by Cori since you’re the primary person who keeps up with Perennial these days.
+Sylvi: There’s a direct line.
+Austin: There is a direct line. Exactly.
+Janine: Who’s Divine and Profane again? You said a thing about Divine and Profane and like, someone having an advantage.
+Austin: All of—most of these Pact forces are going to be Divine, right?
+Janine: Okay.
+Austin: Profane is one of the—Profane is what we are using for Perennial-powered stuff.
+Janine: Okay, okay.
+Austin: Yeah. Yeah, yeah, yeah. And Divine stuff beats Profane. So Divine has, like, an advantage against Profane.
+Janine: Yes. Yeah, yeah, yeah. I was just double-checking.
+Austin: Totally. Some of the Apostolosian stuff will be Elemental, and so there will be an advantage for Perennial against that stuff. Partly this is probably why the big Apostolosian, like, flagship comes in after all of the Divine forces land via these Portcullis gates. Which, as a reminder, Portcullis gates, huge, like, wide hexagonal gates made of, like, stone and metal in space. And when they turn on, there’s a sort of like—think about, like, the Stargate liquid effect, except it’s kind of a deep red instead. So. So those are being built, those are not on yet. Maybe when we get to that part of it, I’ll put some clocks on the screen to talk about how long it takes for them to get built. But I think we have to talk about this rest of this session as almost like—or this recording as being a downtime, even though we maybe don’t do big full downtime roleplay scenes. Because I do need you to do a Plan and Prepare, and I do need you to do a—what’s the actual roll for starting the engagement called? Uh…
+Sylvi: Lead a Sortie?
+Austin: Lead a Sortie. And I don’t want you to do those and like, fail at them because you didn’t use your cool downtime moves to buff yourself. You know? And also, I think it’s fun to have a little bit of a downtime on the planet Earth. I think that’s a fun [Keith: Sure.] “before the final mission” location for us. Again, mostly abandoned. I bet there are still people here. It feels, like—it feels, like, in line with the way we think about history and people that like, you know, of course not everybody decided to leave with the New Earth Hegemony at the end of Twilight Mirage to join their weird VR headset world. Maybe some of them decided fuck it, I’m gonna stay on Earth. But it was widely depopulated. But if you’re like, hey I want to do a scene where we find an old junk trader, and I buy a cool space gun, I would say yes to that. You know? Or if you wanted to pick through the ruins, or if you wanted to whatever. You know? So, I think that’s where we are. Do we want to talk about unfinished character sheets?
+Keith: Sure.
+Sylvi: I feel like it’s a good starting point.
+Dre: Yeah.
+Sylvi: Because like, some of the—I feel like some of the questions, or like, some of the stuff that, like, I’m not fully [Austin: Totally.] settled on is like, gonna lead to scenes, possibly.
+Austin: Can we do a three two one clap to mark that we’re about to talk about character sheet stuff?
+Sylvi: Sure.
+Keith: I’ll allow it.
+Austin: So that Ali can see it and cut it.
+-
+Character Sheets
+[00:26:43]
+Austin: Alright, so with all of those details in your heads, and with sheets all updated, can we quickly do a sheet check? Because it’s been a minute since we played Armour Astir. And there are some new character sheets in here. But let’s start with the old ones. Let’s go Brnine and Thisbe first, and then we’ll go around the table with new sheets. Brnine.
+Ali: Sure.
+Austin: What’s—what are your Gravity clocks, what are your hooks? Yeah. I think that’s the big stuff.
+Ali: Yeah, so I’m Brnine. I’m playing the Captain. My Gravity clocks are “Thisbe is an important part of my past.” “Try to teach Cori when to stop and think.” Both of those are plus 2. And then I have a new Gravity clock with Levi, which is “Levi will provide hope for the future.”
+Austin: Love it.
+Dre: Aw.
+Austin: I believe in Levi’s boys. Or whatever it’s called.
+Ali: Yeah.
+Austin: Yeah. Uh-huh.
+Ali: My hooks are still all loose, but all the same. Which is “The crew put their faith in me, so I must prioritize their safety.” “I’m living on borrowed time, keep up the fight.” And then I still have my Asepsis hook, which is “Verify the integrity of anybody you let on the ship.”
+Austin: Just real quick, you said “keep up the fight”. Is that different? Is that what you’re saying now these days? Keep up the fight?
+Ali: Oh, did I read it wrong?
+Austin: Well, I just thought maybe…
+Keith: Keep up fights? Is that what you’re saying?
+[Ali snickers]
+Austin: It says “keep up their fight” in the hook.
+Ali: Yeah.
+Janine: Oh.
+Austin: And I just thought maybe Brnine stopped saying that to themselves, and maybe they just say “the fight” now. I don’t know.
+Keith: Wow.
+Dre: Yeah, they’re like Master Chief.
+Ali: Wow. Like Master Chief. Um, yeah, I probably just said that wrong.
+Austin: Okay. I was not…
+Ali: I feel like… yeah.
+Austin: I was just teasing.
+Ali: Uh-huh.
+Austin: Because of Brnine’s ongoing [Ali: Yeah.] or I guess season-long but finally during the Questlandia game shift in people they would or wouldn’t mention by name, so. Okay. And then you took some new moves, because you leveled up. Everybody leveled up twice, or if they started new sheets, got two bonus levels on top of that. In my mind, that’s like, the Questlandia one, and then the year you spent doing other shit. You know? But you don’t have to go over what those are yet. They’ll come out presumably in play. Thisbe.
+Janine: I’m Thisbe. I’m playing the Incandescent. My clocks are still very much in flux, I haven’t changed them yet. I’m probably gonna change them after the downtime. So I have “Brnine is capable, but brittle. Their success and survival is the only way forward.” “If I’m a bullet, Cori is a grenade. If she is not stopped, she will self-destruct and take others with her.” And “Leap, dot dot dot, he exists. TK, TK, TK, TK.”
+Keith: [initiates train chugging]
+Janine: [chuckles] My hooks are: “My presence is a liability to my operants,” that is loose. “I must strive at all times to demonstrate my utility,” that is loose. And “Fighting is not my purpose, but there is nowhere else for me until the fighting is over.” That is normal style.
+Austin: Interesting. Normal style. Sounds good. Great. Let’s talk about Cori, who is a new playbook. But has some obvious continuity with the previous one.
+Sylvi: Yeah. So, you know, there are specific rules for the Paradigm when you break all three of your tenets.
+Dre: Yeah.
+Sylvi: It’s choose a new playbook, keep moves that apply. So, I’ve still got some of my old tricks. But I’m just going through Gravity clocks and hooks, right?
+Austin: That’s right.
+Sylvi: So, I still have my Thisbe and Brnine hooks, but I changed those to just say  “change after downtime”, because we talked about doing that. And I didn’t think I’d have to read the old ones.
+Austin: Mhm.
+Sylvi: Because I still had my mean Thisbe—actually, wait, I have them in my old sheet.
+Austin: They’re probably still in there somewhere, right? The old sheet. Yeah.
+Sylvi: They’re on my other sheet. I can just… Thisbe is—
+Austin: Cori—the one that you have marked as “Cori-old-is.”
+Sylvi: Yeah, yeah, yeah.
+Austin: Uh-huh.
+Sylvi: I love a little—we love a little joke here. A little tee-hee.
+Dre: A little tee-hee action.
+Sylvi: “Thisbe is afraid to get their hands dirty, kind of ironic for a farming robot.” Way too bitchy. “I can always rely on the Captain when I need them.” I haven’t really seen the Captain for a while, so we gotta see if that’s still true. So that’s why those are both nebulous right now.
+Austin: Sure, yeah.
+Sylvi: And then with Levi, my new one, “It’s good to see someone else fight with the urgency I do.”
+Austin: Love it.
+Sylvi: Hooks as well?
+Austin: Yeah, sure.
+Sylvi: So taken from when—both from the finale—the Questlandia game and from when I broke my last tenet, I have: “My bloody hands must break the wheel once more.” Just felt right. Next one is “This war’s taken too much from me, I won’t let it get anyone else.” And then last one is “I’ll crush every hint of Arbitrage until something leads me to Elle.”
+Austin: Very good.
+Dre: Aw.
+Austin: Speaking of, I have increased your Gravity with Elle from 1 to 2. I think that that is a fair thing that’s happened that I’ve given.
+Sylvi: Oh. Yeah, that sounds right. It better be at least a 2. [chuckles]
+Austin: Yes. And I’ve added one point of leverage, which, “When your counterpart interferes with your—” this is the Rival can do this. “When the counterpart interferes with your need or indulges in your want, hold 1, spend one for one to do the following,” and I can do the—I can spend this hold to do these things.
+Sylvi: I also forgot that I do have a new Gravity clock I forgot to mention that comes with my new playbook.
+Austin: Oh. Ohoho. Yes, you do.
+Sylvi: Which is I have a Gravity clock with Perennial now.
+Dre: Let’s go.
+Sylvi: Which is “Perennial’s given me the strength to keep fighting. I can put up with their bizarre whims in exchange.”
+Austin: [hums] Interesting.
+Sylvi: We’ve talked a little bit about how there’s, like, the patron relationship with the Witch isn’t always as direct as it can be. And sometimes it’s a lot more cryptic, the orders that Perennial gives her, so.
+Austin: Yeah.
+Sylvi: Wanted to reflect that.
+Austin: We learned that, again, when the first time that a mission took place here, when Teasel was our Perennial Witch. And now here we are full circle back with another Perennial Witch at the center of the galaxy.
+Sylvi: Damn.
+Austin: Perennial will—when it’s time—when it’s go time, when we Lead the Sortie, at the start of the sortie, you’ll get two random boons.
+Dre: Ooh.
+Austin: And then you can—which are from a list, and you know, and we’ll see what those do. And then you gain or lose influence based on, you know, whether she gives you influence or not, basically. Based on some gameplay stuff. And you end up with more—I want to say Channel based on the influence. Right?
+Sylvi: Yes. For every influence that my patron holds over me, I get—oh no, as long as my patron has one, I guess.
+Austin: Has at least one, yeah.
+Sylvi: Yeah, at least one, I get my channel increased by one. And then the more I have the clearer their mark is upon me.
+Austin: Right. Cool. So that’s our most—that’s the character who had a sheet before we started the Questlandia game. Let’s go to the character who was introduced right before the Questlandia game with Levitation.
+Dre: Hello.
+Austin: Hi. What are your hooks and your Gravity clocks? And your playbook.
+Dre: Sure. My playbook is the Scout.
+Austin: Okay.
+Dre: And I guess, I’ll say the starting move, because I feel like that’s like a—there’s like, two flavors of scout. Field scout is more of like a medic and things like that. And then there’s Giantslayer, which I picked, which is basically you can—you’re Tier 3. You as a person are Tier 3 when you’re fighting things.
+Austin: Love it.
+Dre: Yeah.
+Austin: And that’s—that’s you. That’s the—which lines up with the way we’ve depicted Levi thus far in the background.
+Dre: Mhm. Yeah.
+Austin: Cool.
+Dre: Um…
+Austin: What are your clocks and hooks? Your Gravity clocks and hooks?
+Dre: Sure. Oh, as part of Giantslayer I also get a custom weapon.
+Austin: Sure, yes.
+Dre: And that’s my—that’s my anti-gravity sword, which is Tier 3, but it also has Ruin on it. So I can go punch a spaceship, I think.
+Austin: That’s correct.
+Dre: Is what that means. Okay. Sick.
+Austin: It does mean that, yeah, uh-huh.
+Dre: My Gravity clocks. I have Brnine, “It feels weird to be,” air quotes, “‘leading’ Brnine.”
+Austin: Because this is your mission, as we’ve talked about.
+Dre: Yeah. Mhm.
+Austin: Levi rolling Lead a Sortie when it’s Lead a Sortie time.
+Dre: Yeah. Cori, “I’ll help Cori cross the finish line of this war.”
+Sylvi: Hell yeah.
+Dre: And then Exeter Leap, “I can learn a lot from Leap about being an endearing leader.” My hooks are “Be the hope that crosses the stars.” “The ends can’t justify the means or we’re no better than who we’re fighting.” And “Ask the questions other people won’t.”
+Austin: Damn. He really is a special boy. He really is an anime protagonist.
+Sylvi: Uh-huh.
+Dre: Uh-huh. Uh-huh.
+Austin: He’s very funny. Oh…
+[Sylvi chuckles]
+Austin: Alright. And that brings us to the endearing leader, Exeter Leap.
+Keith: Hello.
+[Dre chuckles]
+Austin: Hi.
+Keith: Hi. I’m playing Exeter Leap.
+Austin: Uh-huh.
+Keith: Um… we didn’t do look and stuff and stats.
+Austin: Oh, if you don’t know who—yeah, we did not do look or stats, correct.
+Keith: Okay. So were you gonna say if you don’t know who Exeter Leap is, where have you been?
+Austin: Where have you been? Yeah.
+Dre: Where have you been?
+Keith: Where have you been? Um, my hooks are “If something might be useful, take it.”
+Austin: Mhm. [chuckles]
+Keith: “If a broken arm is all that stands between you and winning, arms are cheap.” And…
+Austin: [cross] Aah! These are just Eclectic’s!
+[Sylvi laughs]
+Keith: “Trust myself number one, trust the Blue Channel number two, then trust no one.”
+Austin: This is just… that’s just what Eclectic—that’s just what he told Eclectic, huh?
+Keith: Yeah. Following orders.
+Austin: Yeah. Okay.
+Sylvi: At least we knew Eclectic was really believing in something.
+Dre: Yeah.
+Sylvi: That was true.
+Keith: Yeah.
+Austin: What if you had showed up with slightly different ones and Eclectic had written them down wrong?
+[Keith laughs] [Dre chuckles]
+Keith: Like telephone.
+Sylvi: Oh my god.
+Dre: “Arms are really expensive.”
+[Keith and Austin laugh]
+Austin: Ah. Alright, well, that’s a crew. What is the…
+Keith: Oh, I’ve got my Gravity clock.
+Austin: Oh, please. Yeah, sorry.
+Keith: My Gravity clocks, yeah. Sorry, we were laughing about my hooks.
+Austin: We were
+[Sylvi laughs]
+Keith: “Levi is new, but impressive. He will do good.” And I have “Thisbe is the Blue Channel’s most reliable member, but is not used to working independently.”
+Austin: Mm.
+Keith: Yeah.
+Janine: Uh… [chuckles uncertainly] Hmm…
+Keith: Is that not true?
+Austin: Not in the last year.
+Janine: No. [chuckles]
+Austin: In the last year, you’ve been working independently.
+Keith: Right. Yeah, well that’s what I mean. It’s like, this is a new kind of Thisbe that I’ve been seeing. It’s a Thisbe that is not—is doing something that they’re not used to.
+Janine: Yeah. That’s true.
+Keith: That’s what I was thinking about.
+Dre: New Thisbe just dropped.
+Austin: Alright. “It’s time to check in with each other, not as your characters, but as players.” Okay, we’ve kind of been doing that off-mic now for—
+Dre: [chuckling] Yeah.
+Keith: Yeah.
+Austin: On-mic, but not in the recording. Alright. Everyone can choose and play their downtime scene. Obviously, this will end with Plan and Prepare. But before that, everybody gets a scene. Everyone has a few tokens. I believe—I believe just two tokens at this point. Or is it core characters have three?
+Keith: I have three.
+Austin: Support characters might have more?
+Keith: Yeah.
+Austin: It’s been a minute.
+Dre: Yeah, I have three tokens.
+Austin: Okay. Who wants to go first?
+Janine: I know what I’m gonna do.
+Austin: Alright. What are you gonna do?
+Thisbe - Glide Through Currents
+[00:38:49]
+Janine: I am going to lead a Glide Through Currents scene.
+Sylvi: Ooh.
+Janine: And I’ll—what does that look like? Well, Thisbe.
+Austin: I was just letting you take the lead.
+Janine: Yeah. Thisbe has brought—I don’t think she’s brought her whole weird plant, but I think she has maybe split the plant in half. And brought it with her in a—in a—on a sort of planter, rolling planter bed onto the Blue Channel. This plant is still weird. It’s like a woody sort of flowering bush-like thing, but it doesn’t really have any leaves on it. It just has sort of, like, twisty bits and little, like, flower buds and stuff.
+Austin: Ah.
+Janine: Resembling the one that she has sort of like, it’s sort of grafted onto one of her horns. And she has put this thing in the cargo bay in her old haunt. Not with the other plants. Maybe she—I think she occasionally maybe like, brings one of those plants out as if to like, meet it. In a thing that she will not explain to anyone.
+Sylvi: Aw.
+Keith: Is it like when you get a new cat?
+Janine: Not quite. Not quite.
+Keith: You get a second cat. You have to introduce the plant through a door.
+Janine: But she’s—you know, she’s like, done—she’s like, you know, there’s some stuff going there. But this is—this is like a—this is not a crop, I guess, is the thing. This isn’t a carrot.
+Austin: Uh-huh.
+Janine: So for this scene, the first time we did Glide Through Currents, it was very sort of haphazard. It was like, sitting—just like, sitting in the place and people getting kind of sucked in. And I think that was sort of…
+Austin: I remember that. I remember people getting sucked in.
+Janine: Yeah. That was sort of a side effect of Thisbe, like, not really knowing what the fuck she was doing. And just kind of stumbling into something. But I think this is a thing that she has been practicing. And she sort of knows the deal a bit more. So I think—I think probably she has to, like, book a time when the cargo area can be cleared out. Like, no one will be assigned to work in there at that time. And then she puts out a little notification to core folks just saying, like, if you—if there is anything you wish to explore, or, um… I don’t know how she would phrase this, actually. Um… because the guts of what she wants to say is, like, “If there’s some shit you want to do on a different plane, and you need that facilitated, I’m doing something and you can, like, piggyback, essentially.” Like, she’s offering people a way to like, if there’s some shit you want to do that is [chuckles] in the slipstream or whatever the fuck, this is… yeah.
+Austin: I mean, that’s the part of the thing, is I’m curious what we do—how we do talk about it. Right? Because we—I guess we have—we could talk about the strati stuff, right?
+Janine: Yeah
+Austin: We’ve talked about, like, I guess that might be our closest.
+Janine: But also the thing with the, um… what was the Hypha word?
+Austin: The Strand.
+Janine: Right.
+Austin: The Strand, yeah. Mhm. Which is an interesting thing, because now, we of course have Strand Semaphore named for that thing.
+Janine: Yeah, yeah.
+Austin: But also, we have a Hypha ship that works on the Strand again.
+Janine: Yeah.
+Austin: That like, does move that way. So, uh, yeah.
+Janine: But yeah, it’s essentially like, if you want to be able to interact with magic in a way you don’t normally… Take these mushrooms.
+[Sylvi laughs]
+Janine: [chuckling] I don’t know.
+Austin: Did you bring enough for everybody, Thisbe?
+[Janine laughs]
+Austin: “Yes.”
+Janine: Anyway. So I think it’s a thing where she’s clearing out space so that people don’t accidentally get sucked into it. But is also making it known that people who maybe experienced this before and whatever, if they have something they need to, whatever. Everyone’s doing magic different these days.
+Austin: Mhm. So true.
+Janine: She’s like, “Listen. I’m gonna be doing this at this time and this place. Show up or don’t.” Um… [chuckles] So, does anyone show up, I guess, is my first question. This will let—I should say the things that this will let you do. You can face a premonition of the future, which will add a d6 to Plan and Prepare. You can look further into topics of personal interest, advance or start a long-term project. You can enjoy the wonder of the currents with someone else, advance your Gravity with them.
+Keith: And what does it cost to do this?
+Janine: A token, right?
+Keith: Is it a token?
+Janine: Yeah.
+Sylvi: Yeah.
+Austin: Mhm.
+Keith: Great, yeah. I’m there.
+Austin: Anyone who participates may spend a token…
+Keith: I’m like, what the hell is this?
+Austin: Yeah, this is new for you, right, Leap?
+[Janine laughs]
+Keith: Yeah.
+Janine: Oh, yeah. Oh my god, right.
+Keith: I was right. This is—yeah. Leap is like, “Thisbe’s weird now.”
+Janine: Leap shows up and is just like, “Thisbe’s got weird horns. When did—those weren’t—she didn’t always have those, right? They were different before?”
+Keith: “Those weren’t there, yeah.”
+Sylvi: “Damn Thisbe, when’d you get cool?”
+[Janine and Austin chuckle]
+Janine: “Did you get treasure? Is that why you’re golden now?”
+Keith: “Were you always a mystic? Yeah, I’m not—I don’t remember you being a mystic.”
+Janine: Um…
+Keith: None of the auxiliary crew are invited. A sleight.
+Austin: No, what? Sure they are, right? You’re not…
+Janine: I—I think it’s—I mean, I said core.
+Austin: Oh, maybe not.
+Keith: Right.
+Janine: Like, I think it would be auxiliary crew but it wouldn’t be, like… I don’t know that this is a—
+Austin: Cas’alear is outsider’s crew. But Hunting could be here.
+Janine: Yeah. I think this is specifically, like, insiders. Specifically people who would have encountered this before, or who would know Thisbe’s deal.
+Austin: Right. Sure.
+Janine: You know? To a degree.
+Austin: I guess I have a question, which is who is here at this point? Who’s on this ship? Hunting is here, presumably.
+Keith: Yeah.
+Austin: Is Midnite Matinee here? Or has Midnite fucked off?
+Ali: She left during the epilogue.
+Austin: You’re right. She did. She did fuck off.
+Ali: So…
+Austin: Is Partial Palisade here? Probably not. Probably on Palisade.
+Sylvi: Yeah.
+Austin: On Palisade. Uh, is Routine reconnected? Or is Routine part of the Cas’alear crew now?
+Ali: Um…
+Austin: I mean, probably walking between both, right? For this mission.
+Ali: Mhm.
+Austin: But probably not a full-time Blue Channel member.
+Ali: Yeah.
+Austin: So it’s really just…
+Ali: Probably staying with cas.
+Austin: Yeah.
+Keith: Well, I have a retinue.
+Austin: Yeah. You have a retinue.
+Keith: I have a retinue.
+Austin: That live on—that live—who have come with you to the Blue Channel for this mission.
+Keith: Yes. Yeah.
+Austin: How big is your retinue?
+Keith: Um, the book says “10 or so,” I have 12.
+Austin: That’s 10 or so.
+Keith: Which I count as 10 or so.
+Austin: Yeah. That’s—it’s literally pushing the top end of “10 or so.”
+Keith: [laughs] 13 is more—13 is 15 or so.
+Austin: Yeah, that’s right. Yeah. If someone said “I’m coming over with 10 or so people,” and they show up with 13, I’d be pissed.
+Keith: Yeah.
+Sylvi: That's the story of Kingdom Hearts 2.
+[Dre laughs]
+Austin: Organization 10 or so.
+Sylvi: Organization 10 or so, yeah. And then Roxas showed up and they were like, “Okay, guys, we gotta change the name.”
+Austin: I’m guessing those 10 or so pirates are not part of this.
+Keith: I don’t know why they wouldn’t want to be.
+Austin: Oh my god.
+Keith: But if they’re not invited, they’re not invited.
+Janine: If they’re rowdy, they’ll get kicked out.
+Keith: Okay.
+Janine: Thisbe doesn’t fuck around.
+Keith: They’re learning.
+Dre: Yeah.
+Keith: They’re learning.
+Austin: You’re talking about them like they’re dogs.
+Janine: If you can behave yourself, then…
+[Sylvi and Keith laugh]
+Austin: I mean, actually, we have skipped something here regarding your rowdy boys. But…
+Keith: Right, yeah.
+Austin: Because this says at the beginning of downtime you have to do this. But let’s finish Thisbe’s scene.
+Keith: Oh, it does say beginning. Yeah, I didn’t realize.
+Austin: It does. It’s not a—it’s not an optional this is your scene thing. This is a thing that just triggers—let’s finish Thisbe’s scene and then we’ll wrap back around.
+Keith: Yeah.
+Austin: So they are not allowed in, but Leap, you are. Anybody else? So Leap is there. Levi, Brnine?
+Sylvi: Cori’s gonna come through.
+Dre: No.
+Austin: Cori?
+Janine: Damn.
+Ali: Yeah, I wouldn’t do it if it’s opt-in.
+Dre: Sorry, I didn’t mean it like that. Just no.
+[Janine chuckles]
+Keith: Wow.
+Austin: And Brnine, what were you saying?
+Keith: So you have a chance to live astral weeks and you’re giving it up.
+Dre: Uh, listen. Levi’s straight edge, so…
+Austin: Levi has huge straight edge energy.
+[Sylvi laughs]
+Dre: No. That’s not true. That’s not true. That’s not true. That’s not true.
+Janine: Oh, it’s too late, you said it already.
+Dre: God damn it.
+Keith: It sounds a little bit true.
+Sylvi: Levi’s got straight edge vibes, though.
+Janine: Yeah, he does.
+Austin: That’s true.
+Dre: [sighs] Yeah.
+Austin: Brnine, what were you saying?
+Ali: Brnine wouldn’t opt in.
+Austin: Okay.
+Janine: Wow, okay.
+Keith: Wow.
+Ali: Well, it was a mistake last time.
+Dre: Damn.
+Austin: Right. Yeah. It did not—it was not exactly a pleasurable experience.
+Janine: Yeah, that’s—yeah, fair. It’s—well, if you’re not expecting it, it’s not good. Um, so I think—okay. So the thing—people will show up. Thisbe, I think, has maybe, like, put a bench or something a short distance away. Just somewhere that’s clearly like, “If—you go here. Like, don’t get too—you just, you can go here. I’ll do the thing over here. Everything will be fine.” And basically, she sits down, I think, in front of that planter. Maybe she kneels. Kneels but like, with her butt resting on her—on her heels. Like, a full sitting kneel. And is very focused on this plant. The plant, uh, starts to bloom. And it’s a very specific kind of flower called a clematis. Which has—there’s a bunch of different varieties, but a thing that they all have in common is that they’re very, like, star-like. Their petals are really striking—there’s like, a striking sharpness to them. And like, symmetry. There’s one in particular called a clematis henry that I think is like, a really good example of this.
+Keith: That’s the name of one of my rowdy boys.
+Janine: [chuckles] Yeah.
+Sylvi: [chuckling] That’s a Mad Max character.
+Janine: It’s—there’s like, something sort of like a little bit sinister about them, to be honest. But anyway, it’s basically—it’s this far, but it’s like, different kinds. And it is, like, all these different varietals. They’re very strange. They don’t seem—they almost don’t seem related except for that quality to them of, like, being weirdly symmetrical. These like, very star-like sort of strange flowers. I found another good picture that’s like, here’s a bunch of different types of them, and some of them have four petals, and some of them have nine. And like, it’s—yeah.
+Austin: Yeah, yeah.
+Janine: And the very last one to bloom is the one that is on that little bit of wood that is on Thisbe’s horn. And once that does, we are somewhere else. We are in the slipstream, folks. We are in the…
+Austin: We are gliding the currents.
+Janine: We’re gliding the currents. And…
+Austin: In the Strand. Among the clouds.
+Janine: And, you know, it’s the thing of like, y’all are here, do what you need to do, but Thisbe is constructing something. Thisbe is constructing a trap.
+Austin: Oh. Interesting.
+Sylvi: Oh.
+Dre: Ooh.
+Janine: Because one of the things I can do…
+Keith: An astral trap?
+Austin: Mhm.
+Janine: If you lay a trap—yeah, “You can lay a trap in the all-encompassing expanse. If you lay a trap, pick a division. The Cause will succeed on a roll of your choice against them during the next conflict turn.”
+Austin: Mhm. Which is—we’ll have to translate somehow here.
+Janine: Yes, we will.
+Austin: Because there isn’t going to be a conflict turn, but…
+Janine: But I figured this would be too cool to let that stop us.
+Austin: Yeah, that’s very fun. Let’s—I think it can be a—I should write this down right now. It should just be the same thing, right? Which is pick one roll that you, you know, you can turn a failure into a success or a success into a failure. You know? You can, once per the entire remainder of the sortie, you can just turn a thing that was a failure into a win because of this trap you set. If you can explain how. You know?
+Janine: Okay. Cool.
+Keith: Great. Wow, the slipstream is cool.
+Austin: And this is presumably you entering, like, visually, what’s this look like for Thisbe? And for the camera?
+Janine: Um, I forget how we described it before. I think it was sort of like a weird tunnel before. This time, I think it is maybe more like being in a space where, like, you feel the floor but you don’t see it. You’re aware of walls, but again, you don’t see them. And there’s a lot of color this time. Not like super bright color, kind of dull color. And sort of like, movement. It’s sort of strange in a way where, like, if you extend yourself, those colors and movements will start to take form into what you’re reaching for, you know?
+Austin: Right. Right. And it’s like, when you lay this trap, effectively, you’re like, swirling some colors around. Brightening some, darkening others, or something like that?
+Janine: Thisbe is very precisely constructing what seems to be a sundew plant. Which is one of those carnivorous plants with the, like, sticky stuff.
+Austin: Interesting.
+Sylvi: Ooh.
+Austin: Sure.
+Janine: They’re like, all spiky and goopy and sticky. And they eata the bug.
+Sylvi: Ew.
+Austin: They eata the bug.
+Sylvi: Yo. They eata the bug.
+Austin: Yeah, right. Yeah.
+Sylvi: Yeah.
+Keith: Yeah. The bug-eating noise.
+Austin: Okay. Well, there you go.
+Janine: But this specifically looks to me like something you could construct in a slipstream, right?
+Austin: Yeah.
+Sylvi: Yeah.
+Janine: Of just like, there’s balls and sticks and like, tendril things. And it’s like, shiny and there’s colors. And you’re like, is that a real thing or is that just some bullshit? I don’t know.
+Austin: Yeah. This looks like inspiration for an enemy in like a 3d mario game to me.
+Janine: Yeah.
+Austin: It has that quality. It’s great. I love it.
+Janine: Oh, here’s another—lot of plant pictures today. This is just a really good close-up shot of what this shit looks like, and it feels very…
+Austin: Oh, that’s great. Yeah.
+Sylvi: Oh, that rules.
+Janine: Very at home in our magic here, in our space magic.
+Austin: Oh, yeah. In our space magic. And the Strand, too. Exactly.
+Janine: This is a hundred percent a trap for this kind of thing. It just feels—it just is like… yeah.
+Austin: Mhm. Yeah. And, you know, I’ll zoom out a little bit and say the thing you’re probably interacting with here is the Perennial Wave, or the station, [Janine: Mhm.] or, you know, probability as it exists in this little corner of the magically infused universe.
+Janine: Yeah.
+Austin: Alright, so Cori and Leap are the ones along on this journey. And I believe you get to spend a token to: “Face a premonition of the future, which adds a d6 to Plan and Prepare; look further into topics of personal interest, advancing or starting a long-term project; or enjoying the wonder of the currents with someone else, advancing your Gravity with them.”
+Sylvi: I think I’m gonna take the d6 one.
+Austin: Sure.
+Sylvi: The visions. I had, like, an idea of Cori getting, like, afterimages of, like, the potentialities—or like, potential ways that like, the forces coming out of the gates could do things.
+Austin: Yeah. That makes perfect sense.
+Sylvi: Yeah.
+Austin: You know the thing that happens with streaming video sometimes when like, an image freezes and then movement starts happening but it, like, drags the previous image along?
+Sylvi: Oh, yeah, yeah, yeah. Um…
+Austin: It’s like—is there a word for that?
+Sylvi: Oh, I used to know the name for that.
+Austin: Yeah.
+Keith: Yeah, me too. There is a word for it. Yeah.
+Austin: Well, whatever—
+Keith: We don’t know it.
+Austin: But there is a word. That's happening—
+Keith: Yeah. It’s like when the movement information changes, but the image doesn’t, and it creates, like, this weird effect.
+Austin: Yeah, yeah. That is happening in the kind of color-y space that Janine just described. But it’s images appearing, and then lagging out, and then like, ghosting again like that with—of the, you know, the stuff coming through the gates. Through the Portcullis gates. So yeah, take a plus 1d6 on Plan and Prepare. We need to remember that. I think that there is a—there’s a thing in here, right? There’s a… Yeah, dice added, boom. Over here. So let’s add one die, yeah.
+Sylvi: Oh, okay, cool. You got that?
+Austin: Yeah. There it is. It’s already added. Perfect.
+Sylvi: Sick. Alright.
+Austin: This should say Leap. So that is Janine’s scene spent, but no tokens spent. That is Cori, you spent a token. Leap, what are you doing?
+Put In The Work (Leap’s Pirate Crew)
+[00:56:31]
+Keith: I’m gonna do the same. I’m gonna spend a token and I’m gonna get a premonition of the future.
+Austin: What’s that look like for Leap? So you’re adding another die to Plan and Prepare? It’ll be so planned out. It’s gonna be wild.
+Keith: Yeah. Yeah. Um… uh, have you ever used an emulator and—like, for a Game Boy, and there’s a shortcut to like, turbo speed where everything goes ten times faster?
+Austin: Yeah. Yeah, uh-huh.
+Keith: I think that there’s, like, a space where, you know, Leap is just like, going through zones of information at like, ten times, twenty times speed. Bumping into walls, not able to like, kind of keep a handle on his movement.
+Austin: Mhm.
+Keith: And like, winds up in kind of a weird place where—like, runs ahead of—through the viaducts of my dreams into the future dreams that have not happened.
+Austin: Yeah, you’ve like—to keep the emulator thing going, you’ve like, clipped out of bounds, and you can see, like, cutscenes playing that shouldn’t be playing yet. Or you can see, like, further into the level than you’re supposed to be able to see.
+Keith: Right. Yeah, I sequence broke.
+[Sylvi laughs]
+Austin: You sequence broke, yeah. A hundred percent. Yeah. Love it. Alright, added another die. Alright. So that means…
+Janine: I’m just thinking about that—the thing about Dragon Age: Inquisition which was that the—it was the—it’s like the epilogue panels or something are like, physically in the world.
+Austin: Oh my god. That’s wild.
+Janine: Something like that. Like, the only way to do them was just like—they’re just like, in the world… I think that’s true. I forget if it’s—I think that’s…
+Austin: You can theoretically load into a space and find them if you broke through the right wall somewhere.
+Janine: Yeah. Yeah.
+Austin: That’s very funny. Alright, so, Cori, you’re down to one token. Leap, you’re down to two tokens. Dre, I should note, you have three tokens too. Because that’s one of the things you took for Cori—or for, jeez. For—yes, for quarters, not for Cori. For quarters. Alright, whose scene? New scene, whose scene?
+Keith: Should we jump back to…
+Austin: Oh, we should. You’re right.
+Keith: Yeah.
+Sylvi: It’s the pirate scene.
+Austin: Can you read me, Leap, “Put In The Work”?
+Keith: I can, yeah. “Your team requires maintenance and care to work like a well-oiled machine. At the beginning of downtime, choose a number of options from below equal to four minus Talk.”
+Austin: What’s your Talk?
+Keith: My Talk is 2.
+Austin: Okay.
+Keith: “Someone in your team requires your help with something; you’ll need to help them out or take a Peril.” “Your team wants to spend time with you; discard one of your tokens.”
+Austin: [chuckles] They just want to hang out. The lads.
+Keith: They just want to hang out. “Your team gets in trouble with the rest of the crew; lose one die from Plan and Prepare.”
+Austin: Oh my god. [laughs]
+Keith: [chuckles] And spend—“You need to spend time rigorously training your team. You make your first roll during the next sortie with disadvantage.
+Austin: And you’ve got to pick two of those?
+Keith: I have to pick two. And that’s because I gave myself the most Talk you can give.
+Austin: Right. Which is plus 2.
+Keith: Otherwise I would have—right. It’s four by default.
+Austin: Oh my god. So what are the two of these things you have to do?
+Keith: Um, I’m going to pick—so I guess I have a little bit of a question. We’ll knock the easy one out. My team wants to spend time with me, discard one of your tokens.
+Austin: Yeah, what’s that look like?
+Keith: Um… [laughs] Uh—
+Austin: Remember, you’re on Earth. You can be anywhere on Earth. You’re not just in the ship.
+Keith: Yeah. I, you know, I think that they’re not allowed to take—I have my own. I have a vehicle.
+Austin: Sure.
+Keith: They’re not allowed to take it out without me.
+Austin: Oh, sure.
+Keith: This is a consequence. This is an implemented rule.
+Austin: So they did something bad with the vehicle once, and so you’ve taken their vehicle privileges away?
+Keith: [laughing] Yes.
+Sylvi: Oh no.
+Keith: I’ve taken their—right, but they want to go out and explore Earth stuff. And I’m like, “Ugh, fine. But that means that I have to now come with you to do that.”
+Austin: Everybody get in the vehicle.
+Keith: Yeah.
+Austin: I’ll turn this vehicle around.
+Keith: Do we want—do we want to talk about these people at all?
+Austin: I would—sure. Tell me about.
+Keith: I have a list of names. I have a list of pronouns.
+Austin: Twelve names and pronouns?
+Keith: I don’t have anything else.
+Austin: Okay. Can you drop them in your notes section and then read them to me?
+Keith: Yes. I will drop them in my notes section.
+Sylvi: I’m so excited.
+Austin: I can’t believe you introduced a dozen NPCs to the final game of the season.
+[Dre laughs]
+Keith: Um… [laughs]. Uh, Willy Burkhard, they/he. Theobold—[1]
+Austin: Sorry. You said Willy, but that’s not what you—
+Keith: Wilky, sorry. Wilky. Wilky Burkhard, they/he.
+[Austin chuckles]
+Sylvi: Wilky Burkhard, okay.
+Keith: Theobold Martel, he/him. Susanna Martel, she/her.
+Austin: Relation?
+Keith: Yes.
+Austin: Okay.
+Keith: Married.
+Austin: Married.
+Sylvi: Aw.
+Dre: Cute.
+Keith: Beck Regula, they/them. Now, I have—
+[Sylvi chuckles]
+Dre: Sure. Bobson Dugnut?
+Keith: Bobson Dugnut. I have another—I have another couple.
+Austin: Okay.
+Keith: Bashful Dissent, he/him.
+Austin: Uh-huh.
+Keith: Casual Dissent, she/her.
+Austin: Now, wait. Are those… are those, um, uh…
+Keith: Delegates.
+Austin: Delegates that—
+Keith: Yes.
+Janine: Is that in—
+Austin: But they’re a couple.
+Keith: They’re a couple.
+Janine: Are you—do you mean like, siblings?
+Austin: [cross] Janine, be careful what… yeah, what—no, well—they’re just both…
+Keith: Are they?
+Austin: …shaved from the same…
+Keith: Sure.
+Sylvi: Adam and Eve.
+Keith: Yeah.
+Janine: Um… [uncertain wavering]
+Keith: I can change—I can change that. I don’t think this is a conflict of interest at all.
+Austin: Conflict of interest. Funny way to say that.
+Keith: Fine. I don’t think it’s incest.
+[Sylvi laughs]
+Austin: [laughing] That’s what I’m saying.
+Keith: I’m pretty sure this isn’t incest.
+Janine: I…
+Dre: A conflict of incest is the same thing.
+Austin: Words I wouldn’t say into a microphone.
+Keith: Or only one of them is a—only one of them is a Delegate, and the other one took the Delegate’s name.
+Austin: Took the name. That’s where I was going.
+Sylvi: Oh, that’s really cute.
+Austin: That to me is very cute.
+Sylvi: That’s really cute.
+Keith: Stone Stone—
+Janine: What if the other one’s a Delegate from a different [chuckling] Divine?
+Austin: Divine, and gave up—
+Keith: Yeah, you have to figure out which one—yeah.
+Sylvi: Aw.
+Janine: [chuckling] Took the last name. Does that make them the different thing?
+Austin: I don’t—I don’t—it doesn’t, but…
+Dre: Man. Elle Evensong would never.
+Janine: Damn.
+Sylvi: Damn.
+Austin: Stone Stone.
+Keith: Stone Stone, she/her.
+Austin: Uh-huh. We’ve had Stones before in—
+Keith: Have we had Stones?
+Austin: We’ve had Soft Stone, is a Twilight Mirage character, right?
+Keith: Oh, okay.
+Austin: Like a creepo, if I remember right.
+Sylvi: Sorry, Stone Stone?
+Ali: Also Stone of Lock and Stone, right?
+Keith: Stone Stone, she/her. Mattson—[chuckles] Mattson Bonaccorso, he/him.
+Austin: Oh, yeah.
+Keith: Horatio Robottom, he/him.
+Austin: Sorry?
+Sylvi: [laughs] Hold on.
+Austin: Now wait a second.
+Dre: Yeah, hold on. Hold on.
+Sylvi: Horatio what?
+Austin: Horatio Robottom.
+Keith: Horatio Robottom.
+Janine: I will not be doing either of those things.
+[Keith laughs]
+Austin: That's—[chuckles] that’s the guy who I tried to make date Gig, right? Horatio Robottom?
+[Keith and Dre laugh]
+Keith: Uh, Montgomery Monty-Gloss, they/he.
+Austin: Sure.
+Keith: Beautiful-Kick Alexandryah OctoberMalaise, she/her.
+Austin: Great, yeah.
+Keith: And David Xanatos.
+Austin: We can’t use him! He’s from Gargoyles!
+[Sylvi laughs]
+Austin: That’s the villain from—
+Keith: Gargoyles doesn’t exist.
+Austin: Yes it does! This is our universe! You’re on Earth right now! He could find an old VHS tape of himself!
+Sylvi: Holy shit.
+Keith: [laughs] People can have the same name!
+Austin: Disney’s gonna sue us.
+[Dre chuckles]
+Keith: I meant in a way that is actually less factual that Gargoyles doesn’t exist here on our Earth anymore in reality.
+Austin: I see. In reality. I have a question.
+Keith: Yeah.
+Austin: Is he voiced by Jonathan Frakes?
+Dre: Who’s to say?
+Keith: He is Jonathan Frakes.
+Dre: Oh!
+Austin: He is—now we’re on board. Now I’m on board.
+Sylvi: Under an assumed name, it’s the real Jonathan Frakes.
+Keith: I forgot David Xanatos was voiced by Jonathan Frakes. That's really funny.
+Austin: [laughing] Yeah. The Gargoyles cast is incredible.
+Keith: Yeah, David Xanatos, he mostly—this is actually what happened is that I lost a vehicle because David Xanatos lost a game of celebrity poker.
+Austin: Oh. [laughs]
+[Sylvi laughs]
+Dre: Yeah, makes sense.
+Austin: Oh… that creepy face.
+Sylvi: Yeah. Make his tongue so big when he do it.
+Austin: This is a deep cut. People have no idea what we’re talking about. It’s fine. Don’t worry about it.
+Sylvi: Aw, but it’s a good one.
+Keith: I think it’s two deep cuts. Well, it’s a deep cut and a medium cut.
+Austin: It’s—yeah, uh-huh. Yes. Well, thank you for introducing us to…
+Keith: Wilky, Theobold, Susanna, Beck, Bashful, Casual, Stone, Mattson, Horatio, Montgomery, Beautiful-Kick, and David.
+[Dre snickers]
+Janine: Wait. I thought you said Beautiful-Kick something something something something.
+Keith: Beautiful-Kick Alexandryah OctoberMalaise?
+Janine: Okay.
+Austin: Beautiful-Kick—yeah, you can’t see this in front of you if you’re not on Leap’s sheet. Beautiful, hyphen, Kick is her first name.
+Janine: Okay. Alright.
+Austin: That’s why Keith just said both parts.
+Janine: Gotcha, gotcha.
+Austin: But not the whole thing.
+Keith: Right.
+Janine: Okay.
+Keith: Yeah.
+Austin: Also, Alexandria is “Alexandr” and then “yah” at the end. A-L-E-X-A-N-D-R-Y-A-H. And OctoberMalaise is one word camel-cased.
+Keith: [chuckles] I gotta give—I have to give pieces of this name to the name generator. I saw these words pop up and I was like, I gotta have it.
+Austin: Yeah, okay. Why not? So what’s the other thing you’re doing? One of these is you took them out on a little road trip into the wilderness of Earth.
+Keith: They want to go—
+[Dre laughs]
+Austin: Also there’s someone listening right now who has not heard Twilight Mirage.
+Keith: Yeah.
+Austin: And is like, why the fuck is Earth at the center of the galaxy?
+[Keith laughs]
+Austin: Go listen to Twilight Mirage.
+Dre: Mhm.
+Austin: Pause here, this is the new onion order. [laughs] Go listen to all of Twilight Mirage.
+[Dre chuckles]
+Keith: This is the new onion, yeah. Biggest onion.
+Austin: After Palisade, for some reason.
+Keith: Uh… they, um… they want to go to, uh… a mall.
+Austin: Yeah. That makes sense. For some reason.
+Keith: They heard about the mall from movies.
+Austin: I can’t believe we did a whole season of Palisade where we kept going to the big mall that the planet had around its waist, and now we’ve gotten to Earth and the first place we’ve gone to is a new mall, so.
+[Keith chuckles]
+Sylvi: Let’s see how they do malls down here.
+Austin: What’s up with these malls?
+Keith: Well, yeah. An ancient mall? People go to the Colosseum still.
+Austin: You’re right. You’re not wrong.
+Dre: Yeah, you’re right.
+Austin: Yeah.
+Ali: I’m looking for an ancient mall.
+[Austin and Keith laugh]
+Austin: What’s the other—so that’s one. What’s number two?
+Keith: Yeah. Uh—oh, so, number two is “Someone in your team requires your help with something; you’ll need to help them out or take a Peril.” And I’m inquiring about what “help them out” means.
+Austin: It would mean…
+Keith: Does it mean that I use my scene? Another token?
+Austin: I think it means—I think it means you have to like, go do a little scene where there’s some dice rolls involved. Which I think we could extrapolate out into like, a Defy roll. Or a Talk roll.
+Keith: Okay.
+Austin: You know, they need help.
+Keith: Yeah.
+Austin: So you’re gonna have to roll the dice, and if you fail, you’ll get a Peril.
+Keith: Okay. Well then, I’m going to lose a die from Plan and Prepare, which is fine, because we just got two extra. So I’m gonna do that.
+Austin: Okay. What did they do to get in trouble with the rest of the crew?
+Keith: Can we play with chronology here because of the way that this move is worded and say that they do get in trouble from Thisbe for being too rowdy during [laughing] the—during the seance?
+Austin: And they get kicked out?
+Sylvi: That’s really funny.
+Austin: I’m happy with that. [laughing] It’s not a seance.
+Keith: Oh, you know.
+Janine: It’s not a seance. We’re not communing with spirits, we’re just fucking things up spiritually. Or looking at things spirit—I don’t know. You know. Different things.
+Keith: I think it’s at least it’s the neighbor of a séance.
+Austin (as Rowdy Pirate 1): How many dead people can I talk to?
+Keith (as Leap): [gritted through teeth] Shut up.
+Austin (as Rowdy Pirate 1): How dead can they be?
+Keith (as Leap): [whispering] Shut up. It’s an order.
+Sylvi (as Rowdy Pirate 2): What if they’re not dead yet, but they’re almost dead?
+Keith (as Leap): [whispering] Thisbe said stop. You have to stop.
+Dre (as Rowdy Pirate 3): Are we dead?
+Austin (as Rowdy Pirate 1): Is this heaven?
+Keith (as Leap): No. It’s not heaven.
+Austin (as Rowdy Pirate 1): [gasps] We’re in hell…
+Keith (as Leap): Don’t go towards that. I think that’s dangerous.
+Austin (as Rowdy Pirate 1): When I touch this—hey, that flower in your head is cool. Can I touch that?
+Sylvi (as Rowdy Pirate 2): Anybody got any food? 
+Janine: There’s definitely a point when Thisbe would attack them, and I’m trying to figure out when…
+[Austin and Keith laugh]
+Janine: I’m trying to figure out what the—what’s the way to go here. Um… Okay, hang—mm…
+Austin (as Rowdy Pirate 1): I thought this ship would be cooler.
+Janine: Hang on, I just need to roll a…
+Sylvi: “Do you believe in the power of a curse?” That’s the Jonathan Frakes guy.
+[Austin and Keith laugh]
+Janine: I think I need to roll—how do we roll in this game? With a d6?
+Austin: What are you trying to roll? You’re just trying to figure out, like, flip a coin?
+Janine: I want to roll to see if Thisbe does some magic at them.
+Austin: Oh, like, successfully.
+Janine: Yeah.
+Austin: 2d6 plus Channel. Your Channel is 3 now.
+[typing]
+Janine: Okay, that’s a 10.
+Austin: That’s a 10. Yeah.
+Janine: Um… yeah. Okay. [chuckling] So… the kindest, I think, thing to do here is that Thisbe… I think it probably only takes, like, two of them saying shit for Thisbe to summon up—god, what does she summon up? What the fuck would—okay. She summons up, like, a—[chuckles] this is the first thing that came to mind. I’m gonna go with it.
+Austin: Uh-huh.
+Janine: A jeweled rat.
+Dre: Hell yeah.
+Austin: [laughs] Okay. That was not where I was going.
+Janine: Like, a Dark Souls kind of like little—like, a little jewel creature. Because—
+Austin: Yeah, yeah, yeah. If you killed it, it would give you a crafting material.
+Janine: Yeah. Because I rolled a 10 plus, “My illusions affect anyone you intend to perceive them rather than a single person.”
+Austin: Mhm.
+Janine: And “I can create illusions that affect all the sense rather than just sight.” So boy that thing sure sounds and smells and looks like [chuckling] a jeweled little animal.
+Austin (as Rowdy Pirate 1): Do you smell that? It smells like a jeweled rat!
+Dre (as Rowdy Pirate 3): Who farted?
+[Austin laughs]
+Keith: Do I see the rat?
+Janine: No.
+Sylvi (as Rowdy Pirate 2): Am I gonna see this forever now?
+Keith: Okay.
+Keith (as Leap): There’s no rat. Shut up.
+Austin: The crew combination of, I guess, runs out the room from the rat slash chases the rat, depending on how they feel about jeweled rats.
+Janine: That is the intention, yeah, yeah, yeah.
+Austin: And they leave. And you take minus 1 on Plan and Prepare. Love it. Perfect. Great.
+Janine: Door slams, locks.
+Dre: The spiritual door slams and locks. [laughs]
+Sylvi: Listen, it happens.
+Dre: Mhm.
+Austin: But also the airlock.
+[Janine and Sylvi laughs]
+Austin: They have to—they gotta fucking wait.
+Sylvi: That makes it sound like she spaced them!
+Austin: You landed. You’re on Earth.
+Sylvi: Oh yeah.
+Austin: It’s fine.
+Sylvi: But they’re high on slipstream, you know?
+Dre: Oh.
+Austin: [laughs] They’re on that jeweled rat.
+Sylvi: Yeah.
+Janine: That’s what they call it now.
+Austin: Alright.
+Sylvi: [chuckling] It’s called “Jeweled Rat”. It makes kids be pirates in space.
+[Austin and Keith laugh] [Janine and Dre chuckle]
+Austin: So that’s not a scene, that’s just a thing you had to do.
+Janine: Mhm.
+Keith: Yeah.
+Austin: Who has another scene? The one that we know we’ll probably do is command deck, which is the one that you again can contribute to Plan and Prepare.
+Sylvi: Yeah.
+Austin: I’m guessing people are gonna put a lot of tokens into that.
+Sylvi: Yeah, I’m down to do that. I was just wondering if that would be better saved for…
+Austin: Totally.
+Sylvi: Higher energy closer to when we’re rolling.
+Austin: That was my guess, yeah.
+Janine: Yeah, that might be a good one to do, like, at the beginning of that main session.
+Sylvi: Mhm.
+Dre: Okay.
+Janine: Mhm.
+Austin: That is—I was saying so that we knew that that’s—I think we’re all waiting for that one at the end, and so that means the other ones that are available are Social Space/Private Quarters, Infirmary/Hangar, Hallway/Listening Post, Somewhere Nearby, and Fade.
+Dre: And I guess Sylvi…
+Austin: [cross] And I guess also the Armour—
+Dre: Oh, sorry.
+Austin: Sorry, the Amor Astir one, where if someone wants to make out, they can do that.
+Dre: Oh, okay.
+Sylvi: My wife’s not here. She left.
+Austin: Aw. That's a shame.
+Keith: We have new support. Do we have new quarters? Have we talked about quarters already?
+Austin: Uh, what do you—in terms of what the… no, I don’t think we have. Other than you have plus one downtime token. And Levi has plus one downtime token. And I think you both also just took plus one trait, so. Yeah.
+Keith: Yeah, there was just the move of—one of the moves is…
+Austin: Right, describe the thing. Yeah.
+Dre: Yeah.
+Keith: Yeah.
+Austin: We have not talked about that. I’d imagine if we do a scene in one of those places, we would.
+Keith: Yeah.
+Dre: Yeah.
+Keith: Um…
+Dre: Uh, Sylvi, just because you brought it up, I was gonna—I plan to use my downtime scene for the Plan and Prepare.
+Sylvi: Okay.
+Dre: So if you’ve got something else that you would want to do with Cori.
+Austin: Or for the Command Deck, you mean.
+Dre: Or, I’m sorry, with Command Deck, yeah.
+Austin: Yeah. Plan and Prepare is the final thing that we do right before Lead a Sortie.
+Dre: Yeah, yeah, yeah.
+Cori - Listening Post
+[01:14:38]
+Sylvi: I don’t, like, have the actual scene idea for it yet. But mechanically, I think Listening Post could work.
+Austin: That makes sense.
+Sylvi: “Take advantage during the next sortie, acting on what you learned, and then…”
+Austin: Yeah.
+Sylvi: Frame a short scene around it. And then also people, if you want, can also do that, or add another die to Plan and Prepare.
+Austin: You could be, like, listening in to…
+Sylvi: Is this like—sorry.
+Austin: Go ahead.
+Sylvi: Is this like a literal listening post thing where it’s like we’re intercepting…
+Austin: Totally.
+Sylvi: Like, transmissions and stuff?
+Austin: Pact inter—exactly, yeah. Pact communications, yeah.
+Sylvi: Yeah.
+Austin: I could easily imagine Perennial has, like, let you hook into that stuff. You know?
+Sylvi: Is this—I mean yeah, for her little particles and tendrils and stuff are floating everywhere. Is this like, something that would give us like, the ETA of when the flagship is gonna arrive?
+Austin: It sure could.
+Sylvi: Am I do—I’m doing the, like, mission prep thing in the isometric RPG that gives you, like, more information about it.
+Austin: Are you doing this as your move? Is this your Listening Post?
+Sylvi: I think I am. I think I’m gonna do this as my move.
+Keith: Is this Hallways and Listening Post? Is that what…
+Sylvi: Yes, it is.
+Austin: Yeah, I—so this is—“You may start or advance a long-term project or take advantage during the next sortie, acting on what you’ve learned. You frame a short scene around this, either alone or with invited characters. During the scene, anyone may spend a token to choose one: Overhear something as above; discuss how this info will factor into the sortie, adding d6 to your plan and prepare. Have a heated conversation with someone you have a Gravity clock with, advancing it; or barge in on whoever was overheard, causing trouble for someone involved.” I don’t know that you’re barging in on anything here. But…
+Sylvi: No. I got a cool idea for how to frame this.
+Austin: Yeah, tell me how you’re framing it.
+Sylvi: I like the idea of the—while on Earth, finding, like, an old transmission tower or something. And then Perennial—like, in a form of like, Consecrating Ground, just to put it in terms of like, moves on my playbook. Perennial sort of like takes that and makes it, like, an amplifier for like, what the reception can be.
+Austin: Yeah. That's fun. Yeah. I like it a lot. And so you take advantage. Make sure you write this down that you take advantage on knowing that the flagship, the Ekpyrosis, will arrive in ten checks of this very long clock that I’m about to reveal.
+Sylvi: Okay. Ay, I revealed the clock.
+Austin: Boom. Revealed the clock. The Ekpyrosis clock.
+Sylvi: Dark Souls font, “clock revealed.”
+Austin: Yeah. Let me move it up to the top bit I guess. Eh, you know what? I’m gonna leave it here on the kind of strategy layer map. You know? And I’ll write—I’ll give it a tag, I’ll make sure everybody can see it. “Ekpyrosis arrival.” And that can be everybody. And I’ll give it the name plate. Can you see the name plate or is it—
+Sylvi: Yes.
+Austin: Amazing. Look at that. Alright, it’s a ten-step clock, I believe. I believe that that’s…
+Sylvi: There is a typo, though.
+Austin: What did I spend—oh.
+Sylvi: Ekypyrosis. Eky-prosis.
+Austin: Eky-prosis.
+Sylvi: Which was the thirteenth member of the crew before the accident.
+Austin: That’s right, yeah. I think that that’s correct. I think that this is…
+Sylvi: RIP Big Eky.
+Austin: Oh, this is a twelve-step. I put the wrong one down. Do I have a ten-step? Is that a lie? You know what, I’ll put two. It’s ten steps, so I’m going to advance it by two. It’s on the way. Um…
+Sylvi: Anybody wanna…
+Austin: Yeah, hop on this? On the Listening Post?
+Sylvi: Yeah. Anybody got any calls they need to make?
+Ali: Um, yeah. I mean, I was also gonna do a Listening Post, so I guess I can just spend a token here instead.
+Austin: Sure.
+Ali: The only thing I was gonna try to listen in on Apostolosian stuff to…
+Austin: Absolutely.
+Ali: Find something there.
+Austin: Yeah. I think you will have heard—I know there’s—people are gonna try to get a bunch of info here. I want to see how much I can give you without running out of new info. Uh… what you have heard is—I’m gonna—this is easy. I’m gonna give you the rest of these clocks. Actually, you know, I’m not. Because that’s not Apostolosian, really. That's, in fact, explicitly not Apostolosian. The Ekpyrosis is the key Apostolosian part of this. I think the—the big thing is—here’s what I’ll give you, and this is a thing that you can kind of like, try to achieve. There is a group of people who are already, like, allied with Cas’alear who are here among the crew that you have here. Right, there’s like—there’s like cas’ strike team. But there is a group of people who are loyal—who are not loyal to Motion among the Apostolosian group. And if—you know, there’s some circumstance. Maybe it’s if you can get Cas’alear to start delivering that message.
+What you learn is if they lead it by declaring themselves Apokine, there will be defections among Motion’s crew. Right? One of the things that's, like—one of the things that's, like, being debated hotly among Apostolosians right now is whether or not, you know, they know that Cas’alear is like persona non grata among the new Pact leadership. But there’s debate over whether or not cas is loyal to Apostolos in anyway. Right? It’s like, well, cas ran off and joined Millennium Break anyway. Right? Cas doesn’t care about us. But there are people who are like, if cas proved that they cared about us and they did want to be Apokine still, they would totally, you know, go and fight under cas’ banner instead of Motion’s. Right? So, if cas can be like “Hey, I’m coming to you as Apokine of Apostolos, fuck the Principality, actually,” that will lead to—or if you’re encountering someone and can make that case. You know what I mean? You can get the advantage whenever you kind of say that that’s whose side you’re on. Right? The new Apokine’s side or something like that. Right? So you can take advantage when up against Apostolosians, and you can make that case.
+Ali: Cool.
+Austin: Alright. Anyone else spending a token? Okay. That leaves us right now with… Cori, you’ve played your scene and you’ve spent one of your tokens. Janine, you’ve played your scene. Ali, you’ve spent one of your tokens. Is that everybody? Leap, you spent one of your tokens.
+Keith: Yeah, I spent two tokens. And I have a token and a scene.
+Austin: Oh, because one of your other tokens was a token spent, right?
+Keith: Yeah, yeah.
+Austin: Okay. So you still have one left.
+Keith: One token, one scene, yeah.
+Austin: Yeah. Who’s next?
+Brnine - Somewhere Nearby
+[01:21:25]
+Ali: Um, I mean, this is easy for me. I can shift off of that and do a Somewhere Nearby.
+Austin: Ooh, okay.
+Ali: And then yeah, I’ll roll it and then figure out a…
+Austin: Where and what it was? Yeah.
+Ali: Piece of gear in the downtime.
+Austin: Roll a d4.
+Ali: 1d4.
+Austin: Hey!
+Ali: That's a 4.
+Austin: That’s a 4, so with a 4, you can get—what is it? Da-da-da-da-da. I guess you can get a total value of a 4 item, right?
+Ali: Mhm.
+Austin: Where are you getting this from?
+Ali: Um… hm. Maybe it’s like a, uh… [chuckles] one of those magnet beach situations.
+Austin: Oh, sure.
+Ali: You just kind of…
+Austin: You’re out with, like, a metal detector.
+Ali: Uh-huh.
+Austin: Digging through old NEH shit.
+Ali: Finding, like, a big thing underground, yeah, yeah, yeah.
+Austin: Yeah, yeah. Is there something specific you’re hoping to find?
+Ali: Um, yeah. I mean, this requires a piece of gear equipment up to the total value of the result, so I have a lot of options there.
+Austin: Yeah. You can get a Tier 4 object, which starts at 4.
+Ali: Uh-huh.
+Austin: You could get—yeah. Totally.
+Ali: Um, we’ve had experience with building objects in this system. So I will take that responsibility more seriously, I suppose.
+Austin: Take time and… yes. Okay. [chuckling] Will it be a refrigerator that turns you invisible?
+[Sylvi laughs]
+Ali: [chuckles] I would love for it to be that, but, um…
+Keith: I think that sounds extremely useful and you should take it.
+Dre: Yeah.
+Ali: Yeah. That’s really normal.
+Austin: Yeah, normal.
+Sylvi: Yeah.
+Austin: Is anyone else going beach-combing?
+Sylvi: Within the parameters of the tag.
+Austin: With Brnine during this scene? Anybody else spending a token here? The other thing is that you could—
+Janine: Can we find a thing or only buy or trade a thing?
+Austin: You can find a thing.
+Janine: I would like to find a thing.
+Austin: Yeah, sure. Do you want to roll your d4?
+Janine: Yeah.
+Austin: Roll that d4.
+Janine: 2. Yay.
+Austin: Okay, you got a 2. 2 is not as good, but it’s not bad. Because again, the way this works is equipment has a starting value equal to its tier. So a tTier 3 object has a starting value of 3, et cetera. And then if you’re, like, adding tags and stuff, you know. I guess actually if you’re adding tags, it just, like—it just has to even out, right? So you—a 2 is still a Tier 2 object, you know? So, that’s not bad.
+Janine: Okay.
+Austin: So that could be, you know, anything from—if you start looking through their, like, equipment list, you know. Sure it could be a weapon or whatever, but it could also be, for instance, this thing that—like, a grappling hook. An invisibility cloak.
+Janine: I already have a grappling hook. And a normal cloak.
+Austin: Okay, well. Do you have a—do you have a—what else is listed here? A far-speech stone? Do you—
+Janine: I’m a psychic robot.
+Keith: Nobody’s finding an invisibility cloak and going, “It’s okay, I already have a normal cloak.”
+[Janine and Austin laugh]
+Austin: Yeah, this thing has the tags Fragile, Valuable, lets you be invisible. You know?
+Janine: Yeah. I feel like I also need to think this over.
+Austin: Yeah, that’s fine. We have time.
+Janine: But I like the idea of Thisbe being like, “Oh, you’re metal detecting? I can—yeah. Let’s go.”
+Austin: “I can be a big metal detector. I can sense stuff.”
+Janine: I love to detect things. It’s been a while.
+Austin: Yeah, yeah. That’s a fun image, Thisbe and Brnine walking the beach. Looking for old metal things.
+Dre: Aw.
+Sylvi: Aw.
+Keith: Finding invisibility cloaks, being like, “Oh, that’s—I already have a cloak. Throw it away, that’s garbage. [laughs]
+[Ali, Janine, and Austin chuckle] 
+Dre: [monotone] “I can’t believe you wasted my time with this nonsense.”
+Sylvi: This thing’s so ugly I can’t even see it.
+Ali: The Blue Channel already goes invisible.
+Austin: That’s true, it does. Anybody else jumping in on this? I mean, I guess I’ll say this. You could combine your 4 and 2 to one big Tier 6 thing.
+Janine: Ooh.
+Dre: Ooh.
+Austin: That’s fun.
+Dre: What is even a tier six thing?
+Austin: It’s bigger than the—
+Sylvi: We found a fighter pilot on the beach.
+Janine: God, that’s also kind of fun narratively, because it’s a thing of like, if Brnine had found that solo, they wouldn’t have been able to necessarily retrieve it, maybe, or something. But like, Thisbe’s there. Thisbe’s big. Thisbe can help you carry your wild—or help you dig it out, even. Like just…
+[Ali chuckles]
+Austin: I mean, yeah. I think it’s—it becomes a whole thing. Because here’s what it says for Tier 6.
+Janine: Or it could be, like, something that has to be, like, cut off of something else. Like…
+Austin: I think also your new Divine stuff, your new Divine, like, craft projects might give you a certain skillset. Here’s what the book says about Tier 6. “Tier 6 covers things that goes beyond carriers or Astirs. They are things men might call unfathomable or unknowable, but men designed them. Men lifted the timbers, and men guided them until they could walk. It’s not the shape or definition of the divine that makes them beyond us.” So, it’s something big!
+Janine: That’s scary.
+Austin: Yeah.
+Keith: Yeah.
+Ali: That’s a new one there.
+Austin: Shoutouts to Briar. Really good—real good prose in here.
+Keith: Some cons, too.
+Austin: Evil Keith strikes again.
+[Keith laughs] [Dre chuckles]
+Ali: Oh, that’s normal Keith.
+[Austin laughs]
+Dre: Damn.
+[Keith continues laughing]
+Austin: Yeah, I don’t know. I don’t know what it is. What’s—we gotta hit the books. I don’t remember what—I don’t know what the thing could be here. You know?
+Janine: What we should do is when we come back for the next session before we do the bridge scene, have Thisbe and Brnine coming back with whatever the fuck they found.
+Austin: Uh-huh.
+Ali: Mhm.
+Janine: That might be the way to do that.
+Austin: I know what the worst possible thing is, but it’s so internal Friends at the Table self-referential shit that we shouldn’t do it. But I’m gonna—
+Ali: Well, it wouldn’t be on Earth if that was the case, right?
+Austin: What do you mean?
+Ali: Well, like..
+Austin: You’re saying that it’s not referential because it’s not—because we’ve never been to Earth before?
+Ali: Right. Yeah, yeah, yeah. That’s what I mean.
+Austin: Well, we haven’t. We haven’t.
+Ali: Sure.
+Austin: But I know exactly who was.
+Ali: Right.
+Austin: Which was the Divine Independence.
+Dre: Oh.
+Austin: Which the old Earth cult once worshiped, and which ruined Earth originally, you may recall. So that’s the worst thing it could be. I wouldn’t say do that.
+Dre: Damn.
+Keith: Probably tomorrow is when they did it.
+Austin: [laughing] Tomorrow in our real life? Maybe, yeah.
+Keith: In our real world, yeah.
+Austin: Uh-huh, yeah. Uh-huh.
+Keith: It’s 4th of July tomorrow.
+Austin: It is 4th of July, yeah. It is—it is about to be the—yeah. Uh-huh. Mhm.
+Keith: Fireworks got too big.
+Austin: Fireworks got too big. Yeah.
+Janine: I mean, if—you just made a really good case for like, what if someone made something really fucked up, but never got a chance to use it against Independence?
+Austin: Against Independence. That’s kind of fun. Yeah.
+[Ali and Dre hum]
+Janine: Because that would be helpful against Motion, certainly. [chuckles]
+Austin: It certainly would.
+Ali: Mhm.
+Keith: Mhm.
+Austin: It certainly would. I’m looking to see what I said about this thing in Twilight Mirage 21, One’s Own Right. Uh… yeah. There are a trillion, it used to be, yeah, okay. Da-da-da-da-da. Eh. You know. We don’t need to—I don’t need to check the old texts. I know what the fuck it is. I remember.
+[Janine chuckles]
+Keith: You don’t need to consult…
+Austin: Yeah.
+Dre: Consult the tomes.
+Austin: A thing I said in 2016 or whatever. 17, 2017. but still. Who has another scene?
+Keith: This happened by combining the 4 and the 2, right? That’s what we did?
+Austin: Yeah, yeah.
+Keith: Okay.
+Austin: Which I don’t know is a thing we’ve let happen before, but that I think is cool enough to let happen now. If not now, then fuckin’ when? You know?
+Keith: Right, sure.
+Austin: Anyone else have a scene to get through tonight?
+Leap - Fade
+[01:29:49]
+Keith: Um, ooh. I’m going to use—I’m gonna do Fade.
+Austin: Okay. “The leading player describes somewhere in the Carrier or nearby that they pass time, gaining a point of Spotlight and advancing a Gravity clock. They have someone that joins them. They frame a short scene around this, either alone or with invited characters. During the scene, anyone may spend a token to choose one. Pass time as above.”
+Keith: Um, I’m going to—I’m gonna do the scene alone.
+[Austin chuckles]
+Keith: [chuckles] People can join me if people want to join me—
+Austin: Nah, it’s fine.
+Dre: No, we don’t want to join you.
+Keith: But I have taken over—I’ve taken over Eclectic’s lodgings.
+Austin: Ohh.
+Keith: And I’m just going to spend time in the bedroom kind of like, putting away Eclectic’s stuff.
+Dre: Aw.
+Austin: Aw. That's really good. Take a point of
+Keith (as Leap): I’ve heard that Eclectic can be, like, a ghost now. So I’m not throwing it away or putting it in storage. I guess I’ll keep it in boxes.
+Janine: Are you saying this out loud to try and provoke Eclectic’s ghost into visiting you?
+Keith: [chuckling] Yes.
+Austin: [chuckles] Yeah. Uh-huh.
+Sylvi: That’s great.
+Keith: I’ve replaced the cot with a bed, I’ve replaced the folding chairs and table with two picnic benches. I’ve kept the notes on the evidence board, because it’s all Motion stuff, right?
+Austin: It’s all Motion stuff, yeah.
+Keith: And I’ve put—Eclectic had, you know, their, like, detective outfit on. The poncho and stuff. And had the pirate—had the pirate uniform hanging up on like, a coat hangar.
+Austin: Oh yeah.
+Keith: I’ve got my PARTIZAN season cargo shorts and mood ring hoodie hanging up with that.
+Austin: Wow. Alternate costume.
+Keith: I’m wearing my pirate stuff, yeah.
+Austin: Yeah.
+Sylvi: Has his hoodie in the rafters.
+Austin: Yeah. You go in to the character edit mode and you can put in Leap PARTIZAN ver and switch over.
+[Keith laughs]
+Austin: What’s—we know what Eclectic thinks about Leap pretty well, but I don’t think I’ve ever asked. What’s Leap—what did Leap think of Eclectic?
+Keith: Um, I think that somewhere in the early episodes, Eclectic claimed to be, like, if not a number two, then like, somewhere up—like, Eclectic was a, you know, core crew member of the pirate team. And was specifically—was trusted to do the mission based on that, and based on the background.
+Austin: Right. And that was true. That was not—Eclectic was not lying about those things.
+Keith: No, that was true. That was true.
+Austin: Yeah.
+Keith: And I try to play it as when Leap showed up that he was like, excited to see Eclectic.
+Austin: Yeah. Cool. Anyone else trying to Fade? Trying to get faded?
+[Keith laughs]
+Sylvi: No, we did that earlier with Thisbe.
+Austin: Oh, right, right, right.
+Keith: Yeah, twice in one downtime for me.
+Austin: Damn, okay.
+Sylvi: Yeah, I might get the spins.
+Austin: Gonna get cross-faded at that point, actually. It’s two different types. Um, cool. What’s the mechanical thing for that? That's—you gain a point of Spotlight. I gave you a point of Spotlight.
+Keith: Yeah.
+Austin: Which as a reminder, you know, that’s a thing—we’re in this final mission now. There’s definitely some stuff where it’s like, “or spend a point of Spotlight to da-da-da-da-da.” And now why not have some of that around, you know?
+Keith: Mhm.
+Levi - Command Deck
+[01:33:22]
+Austin: Cool. Well, that leads us to Command Deck. “The leading player helps plan the upcoming sortie, adding a d6 to the upcoming Plan and Prepare. They frame a short scene around this, either alone or with invited characters. During the scene, anyone may spend a token to choose one: contribute to the Plan and Prepare as above. Report on aid they’ve given a faction, untapping it. Report on intel they’ve gathered; the Director will reveal something useful about this sortie. Volunteer to take point; you’ll lead a sortie in confidence.” We got a lot of tokens hanging out here, so I’m guessing a lot are gonna get spent.
+Dre: Mhm.
+Sylvi: Yeah.
+Austin: Dre, what’s this look like? What’s Levi’s command deck briefing look like?
+Dre: Uh… Gosh, I guess we’re on the Blue Channel, right?
+Austin: I guess. I mean, I guess. Where do you hold this? There’s the Blue Channel, there is the Stolen Cameo, which is Cas’alear’s ship. Presumably there’s whatever ship, Levi, you had, that you were taking around places before the Blue Channel came back. There’s Levi’s ship that has Levi’s boys on it.
+[Dre chuckles]
+Janine: Um, I think you’re forgetting my ship, also.
+Dre: Nah, they’re too—we already had rowdy problems.
+Austin: And your ship. You have a ship. Right?
+Janine: Uh-huh.
+Keith: I have a ship. I actually have two ships, but only one of them’s here.
+Dre: Wow, okay.
+Austin: That’s what the bumper sticker says.
+[Keith laughs]
+Janine: My ship’s name is Pod, just so you know.
+Austin: Oh, Pod is here.
+Keith: Yeah, my other ship is the stolen flagship of Stel Kesh or whatever.
+Austin: Oh, right. Lander One.
+Keith: Yeah, I have Lander One. But I think that I—I think…
+Austin: You didn’t bring Lander One.
+Keith: I didn’t bring Lander One, because Lander One is in the sub—the Arctic—the Antarctic.
+Austin: Right. Doing the digging for the treasure. Right.
+Keith: Yeah, yeah.
+Sylvi: I really thought that you were gonna say that your ship is called Stolen Valor.
+Keith: No. My ship is called Precipice.
+Austin: Ooh.
+Sylvi: Ooh.
+Austin: Ooh. Write that down somewhere.
+Sylvi: Good name.
+Keith: I did. Yeah, it’s up there.
+Sylvi: Yeah, that's dope.
+Austin: Okay.
+Dre: Oh, what if we have it in the, uh… the space emperor ship?
+Austin: Yeah, sure. Cas’alear’s ship?
+Dre: Yeah, Cas’alear’s ship.
+Austin: Yeah, uh-huh.
+Dre: That’s probably, like, the biggest one here, right?
+Austin: It’s not. It’s a—
+Dre: Oh, that’s right, it’s not.
+Austin: It’s like a stealth frigate, yeah.
+Dre: Yeah. I guess—
+Austin: [chuckling] It has a cool—it has that one room that Brnine was interviewed on TV for.
+[Keith laughs]
+Austin: That’s kind of its one big meeting room. So maybe not there.
+[Keith laughs]
+Dre: Yeah. Gosh…
+Keith: Blue Channel is—is Blue Channel both much bigger and also has stealth?
+Austin: I think that they’re comparable. They’re both, like—
+Keith: Okay.
+Austin: I do think that the Stolen Cameo’s probably smaller, and like, a little more maneuverable than the Blue Channel. No offense to Blue Channel. Because it doesn’t have to hold…
+Janine: Probably has a better livery, too. No offense, Blue Channel.
+Dre: Wow. Wow.
+Keith: Wow. I think the food’s pretty good.
+Sylvi: Damn. I like new Thisbe.
+Austin: Catty Thisbe.
+Dre: Yeah.
+Janine: It just feels like a pre-order ship, you know?
+Austin: Oh my god.
+Dre: Jesus!
+Janine: No, I’m saying—I’m saying Cas’alear’s like the preorder ship, and Blue Channel is like the one that’s in the main game that’s like, basically kind of the same, but it’s not as fancy.
+Dre: Wow.
+Keith: Wow.
+Janine: You didn’t pay an extra 30 bucks for it, you know?
+Dre: Yeah, the Blue Channel’s basically the dragon armor from Mass Effect 2.
+Austin: [laughs] Oh, that armor was so bad. It’s so hideous.
+Dre: It was so bad. Maybe—no, we’re on Earth. We’re not on a ship at all. We’re like, we’re somewhere.
+Austin: You can be anywhere on Earth.
+Keith: The mall. Back at the mall.
+Janine: Denny’s.
+Austin: No. Stop it. You’re at the Denny’s. That’s kind of funny.
+Dre: No, we’re at Waffle House.
+Janine: One restaurant survived the apocalypse and it was Waffle House.
+Austin: [chuckles] I mean…
+[Keith laughs]
+Dre: It would be. It would be.
+Keith: They’re actually still working.
+Austin: [laughing] Yeah.
+Janine: It’s like a print-out of the index whatever thing on the counter, but it’s…
+Austin: Y’all ready to order?
+Sylvi: One tired robot later.
+Austin: Yeah. I mean, I get it. I do think there…
+Dre: When we’re done with them, Motion’s gonna be smothered, covered, chopped, and peppered!
+[Austin laughs]
+Sylvi: Oh my god.
+Keith: Yeah. They don’t let us go home, even in an apocalypse.
+Austin: I do think that, you know, if something survived, it’s gonna be people cooking food. You know? You gotta eat, so.
+Keith: Yeah.
+Dre: Oh. Yeah, no.
+Austin: And as a little reminder, there was a Earth person in our original Armour Astir game that was, Dre, your character was from here.
+Dre: Oh, yeah. Forgot about that.
+Austin: So we know that some, at least, whatever, three thousand years ago there were still some humans living on this planet.
+Dre: Um, this is a—this is a big, like, beach bonfire. And Levi and his boys are cooking everybody dinner before the meeting.
+Austin: This is good. This is good.
+Dre: You can take the caterer out of the Twilight Mirage, but you can’t—whatever.
+Austin: Other way around. You can take the caterer out of, yeah.
+Dre: [laughs] Yeah. Yeah, yeah, yeah.
+Janine: Finally, a group of boys who know how to contribute positively to a community.
+Austin: Damn.
+Dre: Damn.
+Keith: You can take the boy out of the Twilight Mirage, but you can’t take the Twilight Mirage out of the boy.
+Austin: Right. Who is a caterer.
+Dre: Who is a caterer. And also you can’t take that out either.
+Austin: You can take the boy out of the catering company, but you can’t—yeah. Uh-huh.
+Dre: Yeah.
+Austin: That’s—yeah. Mhm. So, what are your words here in front of this bonfire? You got any juice? You got any—
+Dre: Oh, I don’t know if I got big speech juice.
+Austin: We can save the big speech until next time.
+Keith (as Leap): You got any jokes?
+Austin: Is that Leap in character?
+Keith: Yeah.
+Keith (as Leap): Tell that one joke you told me.
+Dre (as Levi): I don’t… I don’t know if I told you—
+Keith (as Leap): Yeah, you know the one.
+Dre (as Levi): Oh, okay. Yeah, okay. Um… so, a grizzly bear walks into a bar, right? And, uh…
+Austin (as Crew Member): What’s a grizzly bear?
+Dre (as Levi): It’s like—do you know what a bear is?
+Sylvi: Oh my god.
+Keith (as Leap): [whispering] It’s not important to the joke.
+Dre (as Levi): Okay. It’s a creature that has, like, really big hands. That’s important to the joke. Um, so a grizzly bear walks into a—
+Janine (as Thisbe): Bears do not have hands.
+Dre (as Levi): [sighs] I know, but if I say it, it’ll ruin the—okay. Well, the bear walks into a bar, and the bartender says—
+Keith (as Leap): Bears do have hands.
+Dre (as Levi): Oh my god.
+Austin (as Crew Member): No, they’re called paws.
+Keith (as Leap): You’re telling it wrong. Tell it like you told it before.
+Dre (as Levi): Yeah, that’s the joke! The bear takes a big pause before he orders and the bartender says “Why the big pause?” And the bear goes “I’m a bear!”
+Janine (as Thisbe): See, I was right.
+Sylvi (as Cori): I’ve heard that one before.
+Keith (as Leap): It’s funny!
+Sylvi (as Cori): It is good. I’ve just heard it before.
+Dre (as Levi): I’m really glad that everyone here is who is here.
+Keith: Looking around. Counting.
+Austin: Yeah. Hunting is like,
+Austin (as Hunting): Yeah, me too. If we’re gonna do something stupid, I’m glad it’s us. Not that it’s stupid.
+Dre (as Levi): No, it’s kind of stupid. But it’s cool. It’s important stupid.
+Sylvi (as Cori): We’ve done plenty stupid.
+Sylvi: I don’t have, like—this is Sylvi talking now. I don’t have, like, it’s late so I don’t have an example to pull on. But I can picture Cori just being like, “Remember when we did this? And then we did this thing and it worked out?” And like, a bunch of that.
+Austin: Yeah. The one that comes to mind is the Stellar Combustor, but half of that team isn’t here.
+Sylvi: Yeah, that’s a good one. Yeah, but still—
+Janine: I was gonna mention the one where she killed her dad by accident. So that’s probably not the one to bring up.
+Austin: Whew.
+Dre: Wow.
+Sylvi: Yeah, maybe not.
+Keith (as Leap): You killed your dad?
+Sylvi (as Cori): It was an accident.
+[pause]
+Sylvi (as Cori): You got a problem?
+Keith (as Leap): No.
+Sylvi (as Cori): Okay. Can you sign my book?
+Keith (as Leap): Yeah.
+Sylvi (as Cori): Cool. Thank you. Big fan.
+Keith (as Leap): Thank you.
+Keith: I sign it. I have a signing pen. I have a silver sharpie for signing.
+Sylvi (as Cori): I heard about the pen. I didn’t think it was true. That’s so cool.
+Dre: I do like that this conversation is happening while, like, Levi’s like, “I should say something else. I gotta—I gotta say something else.”
+Keith (as Leap): You said you didn’t have a speech, but you’re still standing up.
+Dre (as Levi): I know. It feels like there should—
+Keith (as Leap): It feels like you’ve got a speech.
+Dre (as Levi): [sighs] I think the closest thing I’ve got to a speech is that I think everyone here is here for a good enough reason that we don’t need a speech.
+Austin (as Crew Member): Good speech.
+Sylvi (as Cori): Hell yeah, man.
+Keith (as Leap): Good speech.
+Sylvi (as Cori): Genuinely. I liked it.
+Austin: And I think Hunting says, like, quietly to you, is like,
+Austin (as Hunting): Hey, I have some ideas for how we can—let me just—
+Austin: And like, starts drawing in the sand the equivalent of the map I’ve sent you. You know, just big rectangles with lines. And we don’t need to zoom in on this, but it’s like, begins working through, “Well, what if we came in from this angle? Or what if we split up into these teams?” And, you know, the Plan and Prepare happens in the dirt. You know? It happens with lines drawn in the sand, literally. And…
+Dre: Yeah. Picking up, like, shells on the beach to be like, “This is this unit, this is this unit.”
+Austin: Yep. Yeah. And then being like, “You know what, we need more resolution on this map. Go—we’re gonna go bigger. [chuckling] Alright, you stand over there. You’ll be the Ekpyrosis. Let’s drop this big driftwood over here. That’s the part of the station that we’re on,” or whatever. Yeah.
+Keith: Leap starts sabering bottles of champagne.
+Austin: Excuse me?
+Keith: With my officer sword.
+Sylvi: Sabering, yeah.
+Dre: Yeah.
+Austin: You’re cutting off the top of them.
+Sylvi: When you use the sword to like…
+Dre: No. Well…
+Keith: Yeah, you use a knife to like, pop off the top.
+Austin: Oh, I see.
+Keith: Yeah.
+Dre: Have you never seen someone saber a champagne bottle, Austin?
+Austin: I’ve never seen this.
+Dre: It’s pretty fuckin’ sick. [chuckles]
+Keith: It’s pretty sick.
+Austin: I’m not—I’m not—yeah. Oh, I see. I see. That’s what this is called. I didn’t know that. Damn. That makes sense. Do you go on a champagne—wow, that’s wild. Sorry, I’m watching this.
+Dre: Yeah. You could do it with, like, a big chef’s knife too, but…
+Austin: Yeah, that’s what this guy’s doing.
+Keith: Yeah, you can.
+Dre: Yeah.
+Sylvi: You gotta be good at it, though, because isn’t it a big risk, like, if you do it wrong, you’ll get glass in the…
+Austin: Yeah, I mean, the glass
+Keith: Yeah, you have to like—yeah.
+Sylvi: Yeah.
+Keith: The trick is to get it to break extremely cleanly.
+Dre: Yeah.
+Sylvi: Yes.
+Keith: And it flies off. There’s no—yeah.
+Austin: Cool. Alright, well.
+Janine: Famously very easy to do with glass.
+Dre: Mhm.
+Janine: Get it to break cleanly.
+Plan and Prepare
+[01:43:39]
+Austin: Uh-huh. Then yeah. I think that this is the, like, the Plan and Prepare. Anybody can spend tokens to do stuff here. What you looking to spend?
+Dre: Yeah. What’s our, uh… what’s our dice pool at this point?
+Sylvi: I’m spending one.
+Austin: This raised it back up to 2, I believe.
+Dre: Okay.
+Austin: Unless I’m missing something that would have done that before. But I don’t think so.
+Sylvi: Um… no, I’m gonna add another one with my token.
+Dre: I will too.
+Austin: So that’s up to 4.
+Sylvi: I think the, like, in-universe explanation for this is like, with the drawn-out map, [Austin: Yeah.] Cori can be like, “Hey, here’s the stuff I saw when I was tripping with Thisbe.”
+[Dre laughs]
+Austin: Great.
+Sylvi: Probably not phrasing it that way. Probably like, “Here’s the most likely enemy routes. Don’t ask where I got these.”
+Dre: So we’ve got an I roll with Thisbe, I trip with Thisbe…
+Austin: Mhm, mhm.
+Dre: [chuckling] I bump with Thisbe.
+Austin: Yeah.
+Janine: I would love to report on intel I’ve gathered.
+Austin: Sure. Is that gathered through that Listening Post, through tripping?
+Janine: I think this has probably been gathered, like, through the year that Thisbe spent just like, hopping around.
+Austin: Interesting. Sure.
+Janine: I think maybe she, like, at some point, could have stumbled into someone making preparations or something. You know? Then we have something on that front.
+Austin: Mhm. Um… yeah. Uh, I’m gonna tell you to—so let me read the—what this exactly says. This says you—is this just—yeah, just intel.
+Janine: “Report on intel they’ve gathered. The Director will reveal something useful about the sortie.”
+Austin: Something useful. Okay. Yeah. Um, you stumbled onto a Pact laboratory at one point where they were making—they were condensing Perennial Wave the way that you might remember Motion can do that to, like, make weapons and stuff. They were doing it to make creatures. And so, they, like—there’s a good chance that some of the sabotage that’s been going on has been them getting—because I mentioned that Perennial’s lost control of some of the Perennial Wave, like,  production stuff. They’re learning how to make, like, big monsters out of Perennial Wave, basically. So, I think specifically, you can take advantage the first time that you interact with one of those, because you will not be surprised when the Perennial Wave kind of coalesces into a giant mech-sized kaiju.
+Dre: Ooh. That’s bad.
+Austin: Mhm.
+Dre: I would also like to spend a token to report on intel they’ve gathered. I see this as the crew of the Star-Crossed Brigade, like, has just been on the ground scouting things out.
+Austin: Well, in space, presumably, scouting things out.
+Dre: Well, yeah. Yeah, yeah.
+Austin: Sure. Well, guess what? I’m gonna reveal to you the remaining time left on each of these Portcullis gates that are being constructed. They were constructed in—they didn’t all start construction at the same time, so they’re at different points in their construction. The first one is a four-step clock. The second one is a—whoops, I did not mean to do that. The second one to the south here, you can see this kind of in the zoomed out map. I can move that if people would prefer it somewhere else. Is a six-step clock. The third one, the final one, is an eight-step clock which I will reveal also. Boom.
+So, in other words, you have four ticks of this clock before—they’ll all tick together, right? Because that’ll be like, oh, you’ve been delayed, and so there was enough time for the clocks to tick, right? All three of those plus the Ekpyrosis arrival will all tick at the same time, right? Unless something very special happens to be, like, [chuckling] this one got a boost in construction time. For some reason you helped it. So that’s a piece of intel there, is that these are—this north one will be constructed first. And at that point, you know, a bunch of reinforcements will arrive. And then the next one would be the southern one, and the back one, the west one, would be the third one. Right? So you know how much time you have before reinforcements get here. That’s one of your  many tokens, right, Dre?
+Dre: Yeah. Well, I have one left now.
+Austin: Okay. One left. Boom.
+Dre: Uh—
+Keith: I also—
+Dre: Oh, go ahead. Go ahead, Keith.
+Keith: I also have a—I mean, if you wanted to carry your tokens over, I didn’t realize Dre had so many tokens.
+Dre: Yeah, the last token I was gonna spend was just to volunteer to take point and get sortie—or get Confidence in Lead a Sortie.
+Austin: Sure. Go for it. That makes sense. Keith, you have one more, right?
+Keith: Yeah. I could either contribute to Plan and Prepare…
+Austin: And Ali does too?
+Ali: Mhm.
+Austin: Yeah.
+Keith: We have so many Plan and Prepare dice, I don’t know—maybe I could also report on intel.
+Austin: I do have a little bit more intel.
+Keith: Okay. If you have a little more intel, then I’ve—I have a spy that I’ve paid off in somewhere in the ranks there, [Austin: Sure.] and I would like—I would like to have bought some useful information.
+Austin: Um… useful information. Uh, the Elect Rye, the Elect of Space, has seemingly checked out. Is not here. Is allowing the construction of these Portcullis gates. As a reminder, the Divine Space is the Portcullis system. And it seems like Rye has decided this train has gone as far as it’s going. And is not backing a horse. What that means is if you can take control of a Portcullis gate, it will operate for you. You will be able to turn it off or on. You will be able to direct Millennium Break forces here if you want. The sort of, like, safety protocols that traditionally only allow Principality people to use it will not be in place. There will not be defenses that keep it, you know, locked up. The way there used to be. You might recall Portcullis gates used to only open like once a week. Because that was a way that the Principality kept control of travel throughout the galaxy, right? You could take one of these things, turn it on, and bring your own forces through it. You don’t have to do that before it opens, right? You could take control of it after it opens if you wanted to. Uh-huh.
+Keith: [cross] Right. At any point.
+Austin: Yeah. Uh-huh.
+Keith: Great.
+Austin: Yeah.
+Keith: That’s me. I’m tapped.
+Austin: And that leaves us with a Brnine token, I think.
+Ali: Yeah, I was gonna use that for another d6.
+Austin: Alright. Brings us up to 5.
+Keith: Damn.
+Sylvi: Loaded up.
+Austin: Actually, this is up to 7d6.
+Keith: This is gonna be an unbelievable roll.
+Austin: It better be.
+Keith: It would have to be—
+Sylvi: Or we just roll all 1s.
+Austin: Um, I guess—
+Keith: It would be a historic failure to not get a perfect Plan and Prepare.
+Austin: Maybe. Because remember, you’re rolling 7d6, and for each roll that’s above the division’s strength you’re choosing one. Right?
+Keith: Right.
+Austin: And I think the division strength is neither 3 nor 5, but is 4. I think we’re gonna invent a middle strength here for the Pact.
+Keith: Invent—okay.
+Dre: Sure.
+Austin: Just the way that they wanted to invent a middle way, a third way for galactic control. Right in the center of 4. So, someone roll this 7d6. And for each 4 or above, you’ll get one of these things. I guess, Dre, you’re—you said you’d Plan and Prepare, so go ahead.
+Dre: Yeah, yeah, yeah.
+Austin: And give me the 7d6.
+Sylvi: Oh, well, if there’s anyone who’s gonna roll 6s.
+Dre: It’s true, it’s true. And this is not the Lead a Sortie roll, right?
+Austin: No, this is the Plan and Prepare roll.
+Dre: Okay, yeah, yeah, yeah.
+Austin: Which determines da-da-da-da-da. Alright.
+Sylvi: Yo!
+Austin: 6, 4, 4, 5. So that’s one, two, three, four. Four successes, right?
+Dre: Okay.
+Sylvi: Ay.
+Austin: Which is still not everything, but is close.
+Keith: Oh, okay.
+Dre: Yeah, yeah, yeah.
+Keith: How about we don’t pick [chuckling] “next Lead a Sortie roll is made with advantage”?
+Austin: No, but you do have to Lead a Sortie. That’s important.
+Keith: Oh, wait.
+Dre: Yeah, yeah, yeah.
+Keith: Oh, it’s not the following.
+Dre: Because we’d have advantage and confidence.
+Austin: Yes. Yeah. Oh wait, but it might not be. Wait, wait, wait. That might be the one that Brnine just gives us now, right?
+Keith: Right. Yeah.
+Austin: No.
+Keith: Oh, okay.
+Austin: Brnine leads a sortie with advantage and gives the crew Confidence when they Plan and Prepare.
+[Ali hums]
+Dre: Oh, okay.
+Austin: Brnine is not leading the sortie. Right?
+Dre: Okay. Well, then, let’s take that one.
+Austin: So, okay, let’s take that one.
+Keith: So now we have advantage and Confidence.
+Austin: Yeah.
+Dre: We should probably also do the all players hold 1.
+Keith: Yeah.
+Austin: A classic one. We have two more.
+Dre: Uh… let’s see.
+Austin: I don’t think we really need the—this is the thing. We don’t really need the untap a faction or…
+Dre: Yeah. Reduce a division strength during the next conflict turn.
+Austin: Yeah. So, really, these three—we’re kind of post that sort of gameplay.
+Dre: Yeah.
+Keith: Yeah.
+Austin: So what if we—what if I instead give you—let you dump these remaining two into the bonus hold?
+Keith: Oh, great.
+Dre: Okay, so we all start with like, hold 3?
+Austin: Hold 3.
+Keith: That’s huge.
+Sylvi: God damn.
+Austin: It’s big. Or—it could be hold 3 or give yourself advantage on a roll.
+Keith: Okay.
+Austin: How about that? It would be like, another option here can be, you know, the next—you know, spend one to—I guess, in effect what I’m giving you is a special finale move that is [Dre: Yeah.] spend one hold from Plan and Prepare to take advantage on your—on this roll. You know?
+Dre: Okay. Is it that and/or using it if you have, like, a move that uses hold? Or—okay.
+Austin: Yeah, you keep hold—yeah, the thing to do here is I think to say everybody takes 3 hold. Like, universal hold. And then under notes, I’m just gonna write “finale move”. [chuckles] [typing] “Finale move: Spend one universal hold to gain advantage on a roll.” Which, even after rolling, right? [typing] “Even after rolling.” Boom. I’ve added this to cori’s sheet and I will now add it to everybody else’s.
+Sylvi: Oh, thank you.
+Austin: I put it just in “notes and et cetera”. That’s where I’m putting it. Put it under your fashion, Levi.
+[Dre laughs]
+Austin: Thisbe, I’ll put it under where you’ve written the word “Pod”. [laughs] That’s fun. That’s kind of a plant thing there too, right?
+Janine: Yes, exactly.
+Austin: I got there. I got there.
+Janine: It’s a small ship, but it’s like a peapod or a seedpod.
+Austin: Boom.
+Keith: Where did you get a ship from?
+Austin: The one year downtime.
+Keith: Oh, yeah, yeah, yeah.
+Janine: I just have—it’s not like a special ship or anything. It’s just, it was a narratively created ship to explain how Thisbe exists alone. [chuckles]
+[Keith chuckles]
+Austin: Yeah. Uh-huh. Gets you from Point A to Point B, does not have cool guns.
+Janine: Yeah. It does not have, like, a toilet.
+Keith: That’s fine. Don’t need one.
+Austin: Yeah.
+Janine: Exactly. It probably came with one, and she was like, “I don’t need this,” and ripped it out.
+Keith: Does it have a galley?
+Janine: No.
+Keith: Oh. I do need that.
+Janine: I described it before as just, it’s like, there’s a cockpit and then there is like, a place that Mow fits very tightly. And then there is like, one room, and that is the plants room, basically. [chuckles] That’s like the body area where you go in to get through to the cockpit. Like, that’s it.
+Keith: Are any of the plants edible?
+Janine: You’ve met the plant. It is not edible.
+Keith: I thought maybe you had—I know that you said that it wasn’t a carrot, but I thought maybe you also had some carrots.
+Janine: No.
+Dre: If people want, I did make a, like, move-style thing for the finale move if people want to copy paste it on their sheet.
+Austin: Oh, incredible. I love that. I love that you’ve done this. Thank you. Finale move. We should have a name for it.
+[Dre hums]
+Austin: We’re good at names here. Just knock it out real quick, you know?
+Janine: Uh…. What are—I need like, hang on, hang on. [typing] “Quotes using the word Motion…”
+Sylvi: Um…
+Dre: Oh, um, retrograde. Because retrograde is when stars go against their usual motion.
+Austin: Oh.
+Sylvi: Oh.
+Janine: Oh.
+Sylvi: I like that.
+Austin: That’s fun. You just crushed it.
+Sylvi: Yeah, you just knocked that right out of the park.
+Austin: Yeah.
+Dre: I was looking at a lot of star terms earlier.
+Austin: Boom.
+Dre: Trying to figure out what the fuck to call Levi’s crew. [laughs]
+Austin: Yeah. Go ahead and drop that into your other move stuff. Right, and again, you’re—it is the Star-Crossed Brigade.
+Dre: Yes.
+Austin: Is that right? Love it. Alright. I think that’s gonna do it for this. We’ll start next time with a Lead a Sortie.
+[music outro - “Nothing is Stationary” by Jack de Quidt]
+Dre: Hell yeah.
+Sylvi: Yay.
+________________
+[1] [01:01:28] Definitive spelling of the names of Leap’s pirate crew members listed in the following exchange unknown.

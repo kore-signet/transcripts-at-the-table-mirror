@@ -1,0 +1,1826 @@
+﻿Tips at the Table - Sandwiches at the Table (September 2019)
+Transcribed by: @robotchangeling
+
+
+Austin: Welcome to Tips at the Table, an RPG podcast focused on critical questions, hopefully smart answers, and fun interactions between good friends. I am your host, Austin Walker. Joining me today, Ali Acampora?
+
+
+Ali: Hi, my name is Ali Acampora. You can find me @ali_west on twitter.com.
+
+
+Austin: Sylvia[1] Clare?
+
+
+Sylvia: Hey, I'm Sylvia. You can find me on Twitter @captaintrash, and you can listen to my other show Emojidrome on your podcast app of choice! 
+
+
+Austin: [chuckles] And—
+
+
+Sylvia: I never know what to say there.
+
+
+Austin: Yeah. On…[mumbles] neeah. Also, Andrew Lee Swan.
+
+
+Dre: Hey! You can find me on Twitter @swandre3000.
+
+
+Austin: We got the A crew here, today. [Ali chuckles] We’ve just gathered all our A’s.
+
+
+Dre: Oh shit!
+
+
+Austin: I guess Art’s not here.
+
+
+Ali: Yeah.
+
+
+Austin: We gotta get Art in the next one. But, you know, A squad, what’s good. [Dre and Austin chuckle] A-town, what’s up. [Sylvia laughs] We’re here to answer your questions about roleplaying games. You know what a Tips at the Table is. But before we get into that, just really quick, want to shout out a bunch of stuff that’s been going up on the Patreon lately and on the main feed, in case you’re not caught up in one of those places. On the main feed, we are now one full arc, two episodes, into the Road to PARTIZAN, which is our upcoming season of Beam Saber. It takes place in the same universe as Twilight Mirage and COUNTER/weight, set 5,000 years after Twilight Mirage, give or take. That first arc is Dialect, and that is a game that we actually ran about 11 months ago, [chuckles] last December, but cut down and edited. And, really quick, what I want to say is: that was a game with three people in it, no music cues, a lot of dead air and stuff to cut, but very little in terms of like structural flow stuff. Ali is a miracle worker [Sylvia laughs] and has edited so many more episodes. I say this because I edited the episodes of Dialect. [Ali giggles] And in doing it...I always have already respected what Ali does week to week, obviously. But like, yo, days pass by, and you’re like, “Oh shit, I gotta sit down for hours and hours and do this thing.”
+
+
+Ali: Uh huh!
+
+
+Austin: Like, I told myself I would do it today, and now it is 7pm, and I had to do other shit, and now I gotta do this? And there’s not a way to do it faster. Like, there is… [chuckles]
+
+
+Ali: There isn’t!
+
+
+Austin: You gotta do it, to do it.
+
+
+Ali: Austin, I'm gonna tell you this now, just so you can plan your days better.
+
+
+Austin: Yeah.
+
+
+Ali: Every hour of raw audio—
+
+
+Austin: Yes.
+
+
+Ali: Takes two hours to edit. So just…
+
+
+Austin: ali, can I tell you something? 
+
+
+Ali: [giggles] Mm-hmm?
+
+
+Austin: Every hour, every raw hour takes you two hours. [all laugh] You are practiced at that shit.
+
+
+Ali: Oh, fair. [laughs]
+
+
+Austin: It was fine. It was not a...it was a good process. I'm actually… ‘cause I just changed my role at Vice and have a lot more free time, because I wanted that, and I wanted like that style of work to do, and it was actually really pleasurable to do, but it’s a lot, and so.
+
+
+Ali: Mmm.
+
+
+Austin: And you do it really well. So shoutouts to ali. Who will also be editing [chuckles] some of the Road to Season 6. Some of the Road to PARTIZAN. I think we’re gonna try to split it up. But that’s going on, so people should go check that out in the main feed. Those all have new intros. Those all have new...the new great intro song from Jack, which is available at notquitereal.bandcamp.com. And then new descriptions [chuckles] you know, more weird backstory stuff showing up in description text. So make sure to read that stuff. None of that’s important in the sense that like...none of it’s a code for what’s coming in PARTIZAN or like for...it’s not a secret key, you know what I mean? It’s not like, “Aha, gotcha! If only you’d pieced this together you could have stopped this terrible thing.” It’s just fun backstory fluff stuff, so. But I enjoy writing it, and that’s good. Something more important for PARTIZAN, in terms of what does that season look like, is building all of the factions and squads and setting, and I'm going over my entire process for that in Patreon updates called Drawing Maps. Traditionally—or, back, you know, last year, Drawing Maps had been a series of streams, and I'm not totally swearing off the idea of doing some more streams in the future in Drawing Maps, but I've been doing this combination of text and podcast update, kind of 45- to 90-minute long updates, depending on how long they go, in which I'm walking through the five major factions of PARTIZAN. 
+
+
+And I'll probably end up talking a little bit about that today, when we talk about one of these questions that came in, in terms of how much prep to do and when to do it and blah blah blah. 
+But that’s been really fun, both because it’s fun to kind of foreground the rules that are in Beam Saber for creating factions and squads, but also because it has been fun to really sit down and talk through everything that goes into building a pallet of ideas that then we’ll pull from for the season. I'll say up top, don’t worry about spoilers unless you count, like, the existence of something as a spoiler, if that makes sense? Like, there’s nothing in those episodes of Drawing Maps that I would say is a spoiler for the season, because I'm going to show the players the things I've written here once they’re done, so that I can help myself understand what people are interested in. So it’s not like anything here is like a twist, or like here are the plot beats. It’s much more like looking at a level of Hitman and being like, well what are the characters in this level? Okay, cool, there’s a gun hidden over here, there’s a guy in a chicken suit over there. And, you know, I can see why some people would say that’s a spoiler, but, you know, it is not plot-based stuff. So check those out. Four of those are up now. What else? We have Bluff City coming, right?
+
+
+Ali: Yeah!
+
+
+Austin: I have to write and record an intro.
+
+
+Ali: Mm-hmm.
+
+
+Austin: For a couple of those. We’re gonna record another one of those soon. And then, is there anything else that we’re definite...that’s hitting soon? Oh, incredible Pusher update from Jack! I don’t often do the hard sell on Pusher stuff unless we got something, I think, so good in there. But, Jack just uploaded...ali, how many…?
+
+
+Ali: 34?
+
+
+Austin: 34. [Ali laughs] 34 demo/scratch tracks of early spring in Hieron soundtrack work are up on the Pusher tier. That’s an expensive tier. That’s a tier that I think we’ve said before, we don’t mind if you’re like “I’m gonna do one month at Pusher and then drop back down to the Friend tier.” Totally okay to do that. Check out that stuff, 'cause it’s stuff that we all love. There’s some really cool stuff in the Pusher feed in general, but this one is really great. They put together 34 tracks of varying audio quality, admittedly, on their part. [Sylvia chuckles] Of like, “Hey, here are some ideas that I had that never really turned into a full song.” So that stuff has been great. And in general, I wanna say, we are doing our best to catch up on all of the Patreon stuff. Now that I have some more time, I've been able to kind of put my attention towards it. I know ali, in lieu of doing a regular season, I know you’ve put a lot of time [Austin and Ali chuckle] into trying to catch up on some of this stuff. We’re getting schedules together, all sorts of stuff. So, look forward to more Patreon stuff in the near future. Anything else?
+
+
+Ali: There should be a new clapcast this weekend.
+
+
+Austin: Awesome!
+
+
+Ali: Yeah.
+
+
+Austin: A new clapcast this weekend. Which will have new musical stings from Jack.
+
+
+Ali: No, it won’t. [laughs]
+
+
+Austin: Wait, will it not? [others laugh]
+
+
+Ali: I have to do the big Hieron finale clapcast—
+
+
+Austin: Oh, okay.
+
+
+Ali: Which has been delayed because like spoilers and all of the other stuff, but.
+
+
+Austin: Yeah, yeah, yeah. That makes sense!
+
+
+Ali: It’s gonna be huge, and it’s a bunch of stuff with all of us, so it’s just gonna be big and funny.
+
+
+Austin: That’s fun.
+
+
+Ali: So, enjoy it.
+
+
+Austin: Awesome.
+
+
+Ali: If not tomorrow, probably Monday.
+
+
+Austin: God. Yeah, okay. [Ali giggles] Looking forward to it. I listen to those, because I forget that we have those...there’s stuff in there that I’ve forgotten that we’ve said, and it’s all very good. [Ali laughs] Alright. So, Tips at the Table. Today, we start with a question from Joe, who says:
+
+
+“For the better part of two years, a friend and I have been working on a mecha Powered by the Apocalypse hack that’s largely influenced by Universal Century Gundam, and features squad-based combat. I really love our game, but sometimes worry that we missed our window, with Beam Saber looking like it’s filling that niche. I'm even scared to read Beam Saber, even though it seems like it’s entirely my shit. I've got some major imposter syndrome. What do you do when something you made seems like it may be similar to something else? I don’t even know what venue I would go about to share playbooks, now that Google+ has disappeared. Anyway, thanks for the great show you make. You all inspire me weekly to be a better GM and player.”
+
+
+Austin: Thank you so much, Joe. You know, the obvious thing that we’re gonna say is like, you should make that game, that game sounds dope.
+
+
+Ali: Mmm.
+
+
+Austin: I wanna read that game! But I don’t know if people have— 
+
+
+Ali: My second thing is— 
+
+
+Austin: Yeah, go ahead.
+
+
+Ali: Oh, sorry. Just to say really quick— 
+
+
+Austin: No, no, I was throwing to you.
+
+
+Ali: [laughs] You should probably read Beam Saber as soon as possible. [giggles] 
+
+
+Sylvia: Yeah.
+
+
+Ali: Just to be like, you know, just to see!
+
+
+Austin: [hesitant disagreement] I…
+
+
+Ali: Because I think there’s gonna be the reaction of like, “Oh, some of this stuff is kind of similar, and we should change it,” or you’re gonna have the relief of being like, “Oh, no, I would have done that differently, so it’s fine.”
+
+
+Austin: Right, right. I have such mixed feelings about that stuff. I like...so, I know for a fact that...I know other tabletop designers who avoid doing that. But I've definitely done this sort of thing of like...I do it with fanwork. I don’t read any fanfic from our own stuff until I'm done, done, done with...like, I've never read Hieron fanfic before. I can now do that for the first time. [chuckles] Because we’re done with it. I know that’s weird. But it’s like...I don’t want to bite anything. And I don’t want to have my feeling be like, “Oh fuck, I've told a bad story compared to what else— the other directions I could have gone here.” I mean, as a critic I definitely do this. As a games critic, I spent years like, I am not going to read a review or an impressions piece of a game I am writing until I've written my review, and then for like the second wave of stuff, I'll go out and read stuff and take a look. And so my advice is, if you do want to commit to that, and I think I'm with ali, which is like...in like in this case I would rather go out and read all the other mech games, there’s a huge...there’s a ton of mech games coming out, so go look at those. 
+
+
+But, if you definitely are like, “I don’t want to do that until I'm pretty satisfied with my own stuff,” or “I don’t want to do that until I know what I'm doing on my end,” maybe give yourself like a draft, you know, a 1.0 version, and then you go: okay. I know what my game is, I know what the identity of my game is. Now I'm gonna go out there and look at other stuff and see how it differs and if there’s any influence I can take, you know? Like a halfway point there, maybe. But I'll also just note, there’s a bunch of mech games coming out right now. [chuckles] Part of the reason we wanted to do the Road to Season 6 was we wanted to try out a bunch of different mech stuff, because there was so much coming out? There was even more when we started the Road to Season 6. A couple of projects have been put on hold, or we figured out like, oh, well, Lancer’s just not gonna be the right fit for us anyway. But there’s stuff out there, and so you shouldn’t feel like there’s only Beam Saber or something like that, you know? I don’t know if anyone else here has ever had that feeling of imposter syndrome with a creative project.
+
+
+Dre: Uh, not a creative project, but like...in my work.
+
+
+Austin: [chuckles] Life?
+
+
+Dre: Yeah, oh, in my life. [Ali giggles] Well, yeah, no, like this creative project. There’s tons of messages [Austin: mmm] where I've sent you Austin, where I'm like, “Hey, do I suck at this?”
+
+
+Austin: [laughs] You do not suck at this, dre.
+
+
+Dre: “Am I actually terrible?” [laughs] 
+
+
+Austin: You’re very good at this.
+
+
+Dre: [laughs] That’s basically what you say back. But I think like anytime you’re doing something that you really care about, that imposter syndrome is way easier to have and it is more intense. And I think this is...this is probably something where it’s helpful to have a co-creator, because you can go to you’re co-creator—
+
+
+Austin: Yes.
+
+
+Dre: And use them as that like, pump-up. Like, I definitely have other therapist friends that, either before or after a session, I will text and be like, “Okay, I'm pretty sure I don’t suck at this, but this happened? And now I think I suck at this? Will you remind me that I don’t suck at this?” [chuckles] 
+
+
+Austin: Uh huh. Yeah.
+
+
+Dre: And it’s just, sometimes you just need those people in your life. Especially, like I said, when you’re doing something you really, really, really care about. Because you’re invested in how well it goes.
+
+
+Austin: Totally. I think there is the fear sometimes when you’re making something, that you’re like “I only want input from people who are gonna give me shit about it,” right?
+
+
+Dre: Right.
+
+
+Austin: Like, “I only want the harshest, truest, you know, perspective.” [Ali and Dre chuckle] And like, I'm fine with...that does help sometimes, but also you have to have people who gon gas you up and who are gonna be like, “You know what, you’re doing good shit. Trust in yourself.” Like, flex for me. You know what I mean? [Austin and Sylvia chuckle] Like, it is good to have cheerleaders. That is not a...that is a real important role that friends can have in your life, often because all creative processes are fucked. They’re all bad until they’re good.
+
+
+Dre: Yeah.
+
+
+Austin: Like, you make stuff and you’re like, “This is rough, dawg. Like, what are we doing? We gotta get out of here!” and then you push through, and you’re like, “Okay, I turned a corner, I found it. I found the line, I found the direction I wanted to do.” And it is often the case that like, you don’t know where that is, and if you don’t have that support, you won’t be able to push through until you find it, you know? So, give yourself that support, for sure.
+
+
+Dre: And I think, too—
+
+
+Austin: Also— go ahead.
+
+
+Dre: I don’t even know if you meant to frame it this way, but I think a lot of times, I know I definitely do this. I tend to frame that negative or constructive feedback as like more true than the positive feedback?
+
+
+Austin: Right, yeah.
+
+
+Dre: And, you know, I think of positive feedback as like cheerleading or something. But like, if you’re doing something good, the positive feedback is just as true and valid as any sort of constructive or negative feedback that you’re getting.
+
+
+Austin: Totally. Totally! Totally. The other thing here is like, what is your long term end goal for the project? You know, sometimes if you’re afraid that you’re biting off of something else, or that someone else is already doing something that is filling a marketplace niche...okay! That doesn’t mean the project you’re working on doesn’t have value, right? Like, there are lots of songs about love. And sometimes the marketplace is big enough for more than one, and sometimes you want to sing a song about love or write a song about love. And it’s okay that it’s not going to be a number one pop song, that the market is flooded. Sometimes you want to make a game about giant robots fighting and like about squad combat based on Gundam. Make that game. Let me tell you, please. [Ali giggles] And I think this is...we got a question from someone else, that I don’t think is in this set, at some point. I was scrolling through our old questions today, and there was someone who was like, “How do you make an actual play podcast? There are so many other actual play podcasts. How would I ever make a dent?” and like...we started making this because we had a small streaming audience already, but mostly because we wanted to play games with each other. 
+
+
+[0:14:56]
+
+
+And I know that that feels like a really like...shitty, kitschy, twee startup, you know, framing? But that is the truth, it was like...we just recently, another pusher update, Ali got together all of the initial communications [Ali laughs] about starting this show. And it is, for real, just me emailing people, being like, “Alright, so I think I want to play a game called Dungeon World. [Austin chuckles, Ali laughs] Here are some ideas. Does this sound good? How many sessions should we do? Blah blah blah blah blah.” And, like, it’s just...we wanted to play a game. You want to make this thing. And it would be cool if you sold it and made money on it, for sure, because you put work into it, and I think that creative work that finds an audience deserves to be supported. But also, it sounds like you’re having fun making a cool thing for you and your friends. And like, stay on that shit. It’s okay if that is what it is for, you know? Sometimes you write something for you, not necessarily for a market. And that is...it’s not just okay. That is, you know, valorous in its own right, in some way. Also, send me this game. [Dre chuckles] I would like to send you notes on this game. Send me this game, Joe. You have our email. [chuckles] [Ali laughs] Any other thoughts, here, before we continue? [pause] Alright. Gavin writes in, and says:
+
+
+“I have been GMing a game of Blades in the Dark for about six months now, and it’s going great.”
+
+
+Austin: I cannot believe this next sentence. It’s the best sentence I've ever read. [Dre and Sylvia laugh]
+
+
+“I originally pitched the game as an open-world Yakuza 0 meets Dishonored, where the players have total agency for what they do and when.”
+
+
+Austin: Great pitch. Yakuza 0 meets Dishonored: mwah! Love it! [Ali laughs] Someone write that down! [Austin and Sylvia laugh] I don’t want to lift anything, but. Steven A. Smith voice.
+
+
+Ali: Yeah, can you just run this for me? Like…
+
+
+Austin: I know!
+
+
+Ali: Just as a one shot. [laughs]
+
+
+Austin: I mean…! I'll say some shit in Discord, later. [Ali laughs]
+
+
+“To help them handle the mechanics and the setting, I had created a number of missions that they could do in any order. We finished those missions up two sessions ago. We also have done missions that they came up with themselves. Now that my missions are completed, my players have started suffering from decision paralysis. Not only in coming up with missions that they want to do, but also in doing things during those missions. I find myself throwing out a bunch of options, and it seems to make the decision paralysis worse. How do I give my players as much agency as possible, without overwhelming them with possibility? On the player end, what sort of information or actions do you want from everyone else when you find yourself in decision paralysis?”
+
+
+Austin: I'm actually gonna start by putting this to y’all, because I feel like this past season of Dungeon World, not Blades, really was built in this similar structure, where like, yeah, I had some missions prepared, but we kept coming back to these questions of like, “Well, what do y’all want to do?” and I'm curious how you addressed this dilemma.
+
+
+Sylvia: I think one of the things that worked really well with Spring is that we weren’t necessarily— while we were given options for stuff to do, it wasn’t like you were trying to direct our attention in one specific way, it was just like, you could divert it into these sort of like...objectives, basically? And like...I think if the problem is that there’s too many options, narrowing it down to just like having a couple big things in your world that influence the entire state and letting things organically come up might help your players feel a little less like we have to choose between these things. But...honestly, for me, it was just we made a lot of stuff personal. We made things connect to our characters’ backstories or like our relationships to things, and if you’ve done all these missions, you should be able to draw on your past sessions and like bring characters back. Like, have fallout from these missions that you guys have done already cause things, because you don’t need to like end that story necessarily. Obviously I'm talking without all the details of what happened. You might— everybody in those missions might be dead! [Dre laughs] I don’t know how that turned out. But...if the—
+
+
+Ali: It’s Blades in the Dark, so they can come back as ghosts, though.
+
+
+Sylvia: Exactly!
+
+
+Ali: So, don’t take that off the table. [laughs] 
+
+
+Sylvia: I don’t know, when I was reading this, it felt to me more like...not more like a paralysis choice thing, because that happens to me all the time, so I'm very excited to see if we have any actual advice on this. But it also sounds like a momentum thing, a little bit. Because when the momentum’s going, you have less time to think about those choices, and you end up going with your gut some more. Another thing that I find helps me, and this might be weird. I like when shit happens when we take too long.
+
+
+Dre: Yes.
+
+
+Ali: Mm-hmm.
+
+
+Sylvia: Like, if we hesitate too much, the world shouldn’t stop, and the same goes for your players, right? So...and it’ll incentivize them to think on their feet more and go with their instincts a bit more, as opposed to overthinking, like I know that I'm personally prone to do.
+
+
+Austin: Yeah, that’s a great answer. I think that...that is one of those things that like I would not have even come to that, even though that is one hundred percent the technique I try to use. Like, light fire under people’s asses, show them that the world keeps moving. Because, it’s probably not the case that the people at the table, that your players, Gavin, don’t have thoughts about what to do. It’s probably that they are like, “Well, with everything out in front of us, it’s hard to prioritize. It’s hard to know which thing I would want to do.” But yeah, giving them a little bit of an axe hanging over everyone’s head is like, okay, you know, make a decision there. The other thing I would say that I did my best to do was...that there are different types of openness. You can offer...you know. When you think about railroading, people think about a straight line, but there are types of direction you can give that still have lots of branching and lots of like...kind of, arenas that you get to, where it’s like, alright, well what do you do inside of this space? And then you can build from whatever happens there. So, you know, you think about something like Marielda...you know, while there were definitely moments where I was like, “Well, what do y'all want to do?” I basically like, alright here are the four places that you’re gonna hit. 
+
+
+Blades in specific, you know, definitely has the setup of like...while you can totally run it as almost an open world game like that, your goal is to build out your crew in bigger and better ways. And so you as the GM can say like, y'all have sat around and thought up, here are like four ways you could go about doing it. And you can do that in very particular ways, where like, “Alright, you can...we need to do these four things. We need to rob this bank. We need to steal this golden, you know, cape.” I don’t know why it’s a golden cape, but it’s dope. “We need to, you know, erase the records of our misdeeds, and we need to do blah blah blah.” Or, you could say, “Alright. We need to get this much money. We need some sort of magical artifact. We need some other, you know, thing that we can find some other place.” And let them play inside of the space in front of you. And so, to some degree, it’s like, you can give them particular objectives, and that might feel too much like you’re railroading and not enough openness. Or you can give them kind of soft objectives, you can give them like soft goals, and say, “Given that what you’re trying to do is raise enough money to bribe the warden to get your friend out of prison, you need to do something to raise that money. How do you go about doing it? Let’s start talking from there.” I think that is a fun way to kind of start their brains going in certain directions and give them definitive goals. Also, you can set up like a fake criminal corkboard situation, where you’re like, [chuckles] alright, how much of this goal have you succeeded at, so far? So that’s always fun. 
+
+
+What I would say avoiding is the bit where you’re like throwing out a bunch of options. Or, I don’t know, maybe you’re doing this in a way that isn’t terrifying, but there is a degree to which I as a GM have done that and see people shut down. Where you’re like, “Alright, you could do X, you could do Y, you could do Z, you could do A or B!” and it’s like, okay, now I really don’t know what I want to do. [Austin and Ali laugh] You’ve given me...I'm paralyzed by having too many decisions. You introduced new decisions I hadn’t even thought about yet! And so that can be tough. I definitely get the impulse, but it’s...maybe one to be a little softer about, there. I'm trying to think if there’s any other big thing, here. There’s always just like, general communication helps. Talking with your players about not story stuff, but about play stuff is fun and helps a lot. Because you can say like, what do you want to do that is not about the story but is like, what’s a cool type of movie you want to emulate? Like, “Aw, wouldn’t it be cool to do a car-based thing? not that Blades has cars, but some sort of racetrack-based thing maybe? Or would it be cool to fight some ghosts? [chuckles] Like, we haven’t fought any ghosts; do you want to do a ghost mission? Okay, cool, let’s look at the map and figure it out.” 
+
+
+I guess my last piece of advice, here, is to think about the way you’re presenting the world and the information in it to your players. Because what you want to do is make sure you’re not overwhelming them with information, but that you are kind of putting in hooks that they can see and get caught on, if that makes sense. Where they’re like...you know, you have a faction list, use them. Let’s say you need to steal 1000 gold to get something done. And you’re like, alright, here are the places you could theoretically get 1000 gold. List them out, and then have like one or two interesting details for each place, that gets people to whet their whistles a little bit, and they’re like “Ooh, okay, yeah. Let’s try to rob from this motherfucker. This guy sucks.” And that can help them begin to kind of get that enthusiasm going where then they will generate their own ideas, if that makes sense. So yeah. I think that’s my advice. I don’t know if anyone else, again, on the player side has hit this before.
+
+
+Ali: Yeah.
+
+
+Austin: Or worked through it.
+
+
+Ali: I...well, just in my reaction from reading the question, it seems like it was going fine when you initially had a list of missions for them to do and they were also creating stuff that they wanted to do?
+
+
+Austin: Mmm.
+
+
+Ali: So like, regenerating that list isn’t a bad thing. [chuckles] 
+
+
+Austin: Yeah.
+
+
+Ali: 'Cause like, especially thinking of like, even the way that I play Yakuza, it’s like I'll turn off my ps4—
+
+
+Austin: Mmm.
+
+
+Ali: And I'll either decide, am I gonna spend this next two hours just running around, eating some food, going to the arcade, [Austin laughs] or do I finally want to go to the place and go talk to this guy and, you know.
+
+
+Austin: Time to talk to Nishiki. Like, we gotta— 
+
+
+Ali: Right, yeah yeah yeah. [laughs] 
+
+
+Austin: Yeah, yeah. Okay. 
+
+
+Ali: So there’s like—
+
+
+Austin: Am I going to sit through a cutscene tonight? [Sylvialaughs]
+
+
+Ali: Yeah yeah yeah. Exactly. So there’s that thing of like, is the thing that I want to do push the plot forward? Or just do the thing that I want to do? The second thing is: I think the way that we kind of made this work during Hieron when we were doing the downtime stuff was just like, out of character the night before, the week before, being like, “Okay, what do people want to do today?” and I think that really helps, 'cause on your side as a GM, you can start thinking of like...strings to set up for them to kind of be pulled in that direction if they’re having a hard time [Austin: mmm] kind of bringing themselves there themselves. Also, it will just be helpful for someone to say like, “Oh, I want to speak to John.”
+
+
+Austin: Yes. A hundred percent.
+
+
+Ali: [laughs] “I really just want to have this conversation with John.”
+
+
+Austin: Yeah.
+
+
+Ali: 'Cause then you can be like, oh when they talk to John, John will have this interaction with them, and that will lead to a thing.
+
+
+Austin: Totally. There is a bit that...I guess I never talked about in this term, but in Twilight Mirage...one of the biggest flags in Twilight Mirage was that Ali loved Waltz Tango Cache. [all laugh]
+
+
+Ali: [sheepishly] I did.
+
+
+Austin: So, going into the second half— it’s fair! Waltz is great! Going into the second half of the season, I knew I wanted to get Waltz in, basically right away. And I needed a vector from someone that the players trusted to start talking about another NPC, a character called the Waking Cadent. And I needed someone to be like, “Yo, this person is dangerous.” [chuckles] And like, who does that...who can introduce this plot hook about a new NPC that no one has heard of before, where they will be taken seriously? And the answer was award-winning bounty hunter Waltz Tango Cache. [Austin and Ali laugh] ‘Cause if Waltz is shook, then it’s worth being shook, right?
+
+
+Ali: Yeah, that’s a problem.
+
+
+Austin: Yeah. And so it’s like—
+
+
+Sylvia: He’s won awards!
+
+
+Austin: From there, it was as simple as me introducing Waltz into a mission that didn’t necessarily have anything to do with Waltz. They were off on some other shit, and Waltz happened to be there working security. And if I could go back and do that again, I might have even given them that information easier earlier...I guess, maybe if legwork had gone differently y’all would’ve learned that. But, I would have made sure. There are times where you’re just like, yeah no and also you find out that this person you know is involved in this one kind of branch you can go from. But all that comes back to Ali saying to me, you know, both in game, obviously, [Ali giggles] but also out of game, like “Aw, we should do more with Waltz,” you know, so. So yeah.
+
+
+Ali: Everyone loved Waltz, by the way.
+
+
+Austin: I know.
+
+
+Ali: I loved him the most, but everybody— [Ali and Austin laugh]
+
+
+Austin: Yes. Yes. God. But no, that’s a great way of thinking about it. It does...like, Gavin, it sounds like the game was going great, in terms of just that blend. Keep that blend up. You know, don’t think about your missions being completed as being like, the boost that was going to get them going. It’s always going to probably be this mix between both of y'all. This next one comes in from “Prep-Shy in Shy-Town”, who says: [someone snorts]
+
+
+“I love tabletop games, and I have some limited experience in GMing one shot games. I'd like to try running a longer campaign, but my background is in improv more than it is in writing, and I have trouble working on prep. For anyone who’s run games in the past, what tips do you have for making prep happen in spite of time constraints, mental illness, and all that junk? What sort of prep is crucial, and what can be left to the moment? How do I make best use of my time and energy, especially when I'm more assured in my improvising skills than I am in my preparing skills? Any suggestions y'all have would be appreciated.”
+
+
+Austin: Anyone here have thoughts, before I talk about my own situation? I know some of y'all have run some stuff before.
+
+
+Dre: I'm trying to grab my notebook for Masks, so I can literally look at what I wrote down as my prep for our last session we played last Friday.
+
+
+Austin: Uh huh?
+
+
+Dre: Um...literally—
+
+
+Austin: Because it’s not that much.
+
+
+Dre: No.
+
+
+Austin: It’s the opposite.
+
+
+[0:30:00]
+
+
+Dre: Literally all I have written down here is the hooks for each of the main characters.
+
+
+Austin: Mm-hmm.
+
+
+Dre: So I can...that’s a thing in Masks, where the hook is, you’re trying to challenge each character’s labels one way versus another way. And then I have...basically what I—
+
+
+Austin: Give me an example? Can you just give me an example of that, just for...we haven’t played Masks in like seven months, maybe, and just…
+
+
+Dre: Yeah, yeah, yeah, sure. So, my fiancée’s character, she’s playing the Janus class, which is basically like the spiderman class. It is like, you are a person who is a superhero but also very much has normal people life.
+
+
+Austin: Gotcha.
+
+
+Dre: And it’s about balancing those two. So, her kind of labels that I put as the hook for her are her Mundane, which is like your rating as your normal people connections, versus Superior, which is one of the more superhero-y labels.
+
+
+Austin: Gotcha.
+
+
+Dre: And then I basically have like...the big overarching goal for that session, which was basically they had been trapped in a different multiverse universe, with someone who was originally an antagonist, but this kind of...this episode was basically them either like turning this person to their side or them having to stay an antagonist.
+
+
+Austin: Mm-hmm.
+
+
+Dre: And then I have written down a couple of ideas for different scenes or areas they could go into. And then I wrote down a sketch of the big bad they would fight at the end. And that’s it, and this is like one page in a notebook. [chuckles]
+
+
+Austin: Right. Right. That’s...you can do it that little. And like, my guess is you have done longer prep before, and you’re kind of running on that longer prep [Dre: yeah] in terms of like, where are we right now?
+
+
+Dre: Yeah.
+
+
+Austin: What are the...who are the things that they’re gonna come into conflict with? The people they’re gonna come into conflict with, et cetera.
+
+
+Dre: And part of why that’s so short, too, is again, they are in like an abandoned post-apocalypse world that is separate from the usual setting.
+
+
+Austin: Mmm.
+
+
+Dre: So I was also, you know, divorced from a lot of the other kind of conflicts and things like that that might be going on in this session.
+
+
+Austin: Right.
+
+
+Dre: But, yeah.
+
+
+Austin: Right. The...I very much lean towards that style of prep once we’re like, in it, for sure. And I think that that’s...you shouldn’t feel like...eh, I'm so torn on this question, to some degree, because part of me is like, “Fuck it man, if you’re good at improv, let’s go! [Dre chuckles] Like, let’s get it! We don’t need that much more.” But, there is also part of me that like… [sighs] the part of me who talks about flags a lot wants you to still put in that time, the same place that, Dre, you just talked about putting in the time. Which is about thinking about your characters and your players and where their interests are. If you’ve ever seen me do the old Drawing Maps streams, I actually would straight up look at everyone’s character sheets and write down potential hooks, in the same way, Dre, that you were just describing for Masks. Where like, for instance...here is...I'll pull it up on the stream. 
+
+
+Here is a...set of notes for Throndir from Spring. Where I wrote down your alignment: “Put yourself at risk to help improve someone else’s life.” And then I was like, well, underscore the fact that sometimes improving someone else’s life does not take risk, but time or effort. I wrote down your bonds and had like notes on...ways to bring your bonds into stress. I wrote down ways to cause a little bit of conflict and have you work through some stuff. Ways to trigger vampiric weaknesses, et cetera. And it’s like, well, those aren’t story beats, necessarily. Those aren’t like, here’s a speech [chuckles] from an NPC. It’s like, how can I find the right frames to start...sorry, the right scenes to start framing. How do I know how to put two characters into relation to each other, et cetera. And that stuff is actually way more useful for keeping the table interested than having like, detailed notes about the grand hall of whatever place you’re going to, you know? Sketches—if you’re limited on time or energy or focus, sketches do a lot of work. And also, if you’re doing, kind of, the sort of games that we love, asking your players to fill in some of those gaps can also do that work for you, and bringing them in in that way. 
+
+
+So. I think that’s probably my advice for you, is think about the core things you can sketch, and think about...if you’re gonna spend a lot of time in one place, it should be on characters, character relationships, and character goals. Any other thoughts, here? I guess I will say, the campaign— just, real quick, 'cause I reread it. And, thinking about this going from the top of the campaign, you probably will need to put in a little bit more work. But, I would say, don’t do that deep dive until you’ve run a couple of light sessions early on. Like, if you are playing something like Dungeon World, set up a very basic encounter, a very basic first session. Where, you know, maybe you have a couple of NPC or enemy types from the book, where you have a cool idea that is like the heart of whatever that session or two is. But then, take the pause, and say, “Okay, what were my players interested in?” Build out from there. And it is a hundred percent okay to do it in little bits and pieces. You don’t need to build a huge clockwork world out the gate. You can very much be like, alright, I'm gonna do the thing the book says and make some fronts, but I'm not gonna do grand, epic, you know, worldchanging fronts. Like, we[unclear??? 0:36:04] with this one town and like a couple of things that are at risk here, but a Front is a very small thing in Dungeon World. Even looking at The Sprawl and the way corporations are set up. It’s pretty easy to set up what their clocks are and what their goals are. So yeah. 
+
+
+So, move slowly in that way. And eventually, the hope is that you end up getting excited about the stories that you’re telling, and that the weight of doing that prep—because it can be hard to get excited to do it—will be lifted and you’ll actually find the bits that you’re really interested in. Also, play a game that has a prebuilt setting. Like, Blades has a dope setting. Beam Saber has a cool fuckin’ setting. Scum and Villainy. All those games have dope settings already that are worth playing in, and it is okay to be like, “Let’s start there.” That’s going to lift so much off your plate in terms of building, you know, the basic structure of a world and a setting. And you can just hand it over that stuff to your players, and be like, “Where in here do you want to be? What’s a dope planet you want to be on? Or what’s like...what part of Duskfall do you want your game to be set in?” Talk through it with them, because that’ll take so much off your plate, off your back. Sylvia, you were gonna say something?
+
+
+Sylvia: I was actually about to say that.
+
+
+Austin: I'm sorry. [chuckles] [Dre laughs]
+
+
+Sylvia: Especially if your skills lie in improv, right?
+
+
+Austin: Yes.
+
+
+Sylvia: Because then you can make it more your own thing as time goes on. I feel like a lot of people hesitate, now, to use the prebuilt thing. Or, at least people who listen to our show do.
+
+
+Austin: Yeah.
+
+
+Sylvia: ‘Cause, you know. We do all our worldbuilding stuff.
+
+
+Austin: We do.
+
+
+Sylvia: But there’s nothing wrong with that, ‘cause worldbuilding happens while you play too.
+
+
+Austin: Totally. 
+
+
+Sylvia: Yeah.
+
+
+Austin: There are different types of worldbuilding, right? Like, if we were gonna do a Star Wars game, there would be Jedi in it, you know? [Austin and Sylvia chuckle] We wouldn’t be like, “And there aren’t— we’re now gonna fuckin’ throw it all out.” We would have elements that would be really recognizable. But also, there would be still room for worldbuilding, because we would interpret things differently, we would find our own corners to invent new stuff. You know. I don’t ever want to work with Disney, but Disney, call us. [chuckles]
+
+
+Ali: [chuckles] Please.
+
+
+Austin: I would do a Star Wars thing so quick, it’s not even funny. Fuckin’, just, call me at— 
+
+
+Ali: I'll write for The Mandalorian, like. Call me! [laughs]
+
+
+Austin: [laughs] You would do so much good work. God.
+
+
+Ali: [softly, determined] I would do the best work.
+
+
+Austin: You would do the best work, Ali. [Ali, Sylvia, and Dre laugh] [Austin sighs] Do you have any thoughts, here, Ali?
+
+
+Ali: Not really. I think that like...I've never done GMing, so I don’t have a ton of experience here, but I feel like, especially since you’re starting a campaign, it’s gonna be a lot of work at the top, and a lot of that work can be done with the group that you’re playing with. Just in terms of like, what do we want to do? Where do we want this planet to be? What do we want this story to be about? What kind of things in media do we like?
+
+
+Austin: Yeah.
+
+
+Ali: That can be a really fun collaborative thing, and then see how it feels as you’re doing it.
+
+
+Austin: Yeah.
+
+
+Ali: [chuckles] Practice is probably gonna make perfect on this one, so, you know. 
+
+
+Austin: Get a pizza, and bring people over, and be like… [Ali laughs] And get like blank paper, you know? And be like, let’s write down some things that are cool. Dragons, one. [Ali laughs] Cyborgs, two. I guess we’re playing Shadowrun, okay. Like. Start really broad, and talk about the stuff that you just generally want to see. We have that Episode 0, or Episode Negative 1, of COUNTER/weight, which like, is an episode that’s not in the feed directly. There’s a link out in COUNTER/weight Episode 00 to the true episode 0, to the like five hour long conversation we had. [Ali snorts] But that conversation was so important because it helped figure out everything about the tone of what we were about to do and so many other things, and I was not gonna do all that work just by myself. Like, it would have been...it would have been very one-sided, and it would have been very...honestly, kind of demoralizing to end up with a world that is just for you in your head, and then you go like, “Alright, I've done all this work! Come play in my playground now.” And it’s like, well, no. It should be everyone’s playground. Everyone should touch it a little bit up top so that there’s a degree of co-ownership. You’ll get more out of it in the long run, for sure. Alright. Next question comes in from Jack. Not our Jack, a different Jack. Who has a question about persuasion mechanics. Jack writes:
+
+
+“I’ve been exposed to two things recently that have made me completely reconsider how I feel about persuade or parlay or convince or con mechanics in RPGs. One, I have been running a Diablo-themed World of Dungeons campaign. World of Dungeons suggests that you only roll when something is, quote, “risky”, which has really trimmed down the number of seemingly superfluous rolls I've been making folks do. Two, someone on Twitter said something to the effect of “if it’s totally okay for me to just say, ‘I swing my sword at the orc and roll dice to see what happens,’ shouldn’t it also be okay for me to just say, ‘I convince the guard to let me pass, and roll dice to see what happens’?” All this in mind, do you folks have any favorite persuade or con mechanics that you’ve read or used recently? As an example, I like that Dungeon World’s Parlay requires you to have leverage when trying to influence an NPC, but in practice, I find that move kind of clunky when used in the moment. What do y'all think of as the platonic ideal of a persuade move?”
+
+
+Austin: Thoughts here? I forget who highlighted this one to begin with.
+
+
+Dre: I think I tagged on this one, 'cause I had a couple ideas?
+
+
+Austin: You definitely tagged it, 'cause you mentioned some stuff for sure.
+
+
+Dre: And I didn’t even have this in the tag, but now that I think about it, this is one where I also really like how Blades has, you know, like, Risky Standard and...like the various levels of…
+
+
+Austin: Controlled, right, right, right. Yeah, yeah.
+
+
+Dre: Success, 'cause I think that kind of points to point number two, here.
+
+
+Austin: Mm-hmm.
+
+
+Dre: Because, yeah, like you could convince the guard to let me pass and roll dice to see what happens, but if you have wanted posters up everywhere, and that guard [Austin laughs] knows that you’ve robbed sixteen people, then maybe convincing is going to be not very effective. Like, you can roll the dice and see if it happens, but you’re not gonna have good effect.
+
+
+Austin: Right.
+
+
+Dre: I really like the kind of back-and-forth nature of Firebrands in terms of like...I guess those aren’t true persuade mechanics, but it’s like questions back and forth between people.
+
+
+Austin: Yeah. They’re negotiations, for sure, right?
+
+
+Dre: Yeah.
+
+
+Austin: So many of the Firebrands minigames, even the combat ones, are persuasion games in the sense that like, alright, how much are you willing to commit to this? And that’s really cool. I actually like diceless stuff here a lot, in the sense of like...hey, what is the—how far is your character willing to go to get in? You know, or to convince someone, bring them over onto their side. It’s part of why I do like leverage in Dungeon World. Or PbtA in general has that style of you need something to get something. My biggest thing, here, is I don’t think there is such a thing as the platonic ideal of a persuade move. [Dre chuckles] Obviously this is what I'm gonna say. What is the tone of your game? Is there a game that exists where it is totally cool to be like, “Yeah, swinging a sword is basically the same verb as talking to someone.” We’re just like, kicking down doors and whispering, you know, the secret passwords, and, you know, putting the intimidation into people, and conning our way through places, and it’s just fun to roll dice. Like, yeah, absolutely! That is a fun weekend to have. I am not here to be like, “You should not play a game where you roll dice to convince people to do things, and you can just leave it in that abstract mode.” 
+
+
+I even think, in a less kind of dismissive sense, there are definitely players who are new to this, who it’s really stressful to hear something like, “Okay, well how do you convince them?” I don’t fuckin’ know, I'm not a conman! Like, if I was, I wouldn’t be at this table pretending to be a conman! [laughs] I'd be at this table pretending to be a wizard, 'cause I'm trying to escape from my life as a conman. And, so I do think that there is value in thinking about, okay, how can we abstract out stuff to just a dice roll? Where do we spend our attention and let ourselves be lenient around that stuff? Because, you’re right, most— a lot of tabletop RPGs, certainly the most popular tabletop RPGs, have it set up so where it’s like, yeah, I do an attack. Or I use a special move. But then you get to convince or persuade, and the GM goes, “Alright, but what do you say? What is your scheme? What is your, like, grand plan?” and there’s...even though, mechanically, both of those things end with “I roll a d20,” right? If you’re talking about D&D. 
+
+
+[0:44:50]
+
+
+For me, the answer is: what type of game are you trying to run? Where do you want to put your attention as players and as a GM, as storytellers? And the reason we tend not to want to just abstract that stuff out, or I as a GM ask my players, “Alright, but what’s that look like? What is your weird scheme?” isn’t because the rules ask me to do it. It’s because I want to put the camera there, because I think that that’s a cool and interesting place for storytelling and for character development to happen. There’s a moment in that same arc in Twilight Mirage, where Art pretends to be Keith’s character with somebody as a scheme to get into a place or to get something from somewhere. And it goes really bad. It’s very funny. I love it to death. And that doesn’t happen on screen, if I say, “Just roll dice for persuasion. Just give me a consort roll.” 
+
+
+Like, that’s...we lose that bit. And I lose that degree of—going back to the previous question—of improv. Of kind of that deep touch on like, well what type of character is this person who’s trying to scheme their way into a place? And if I had to cut one of the two things, either it’s totally okay— either, “I swing my sword” or...sorry, if I had to cut explicit, careful description of either combat or social stuff, in a game like the ones that we’ve been playing, I would probably cut combat before I cut social stuff. Again, that’s given what we’ve been playing thus far, so. That is kind of why I put the camera there, and why I think in our games that makes sense. But, I think in a game like World of Dungeons, if what you’re playing is kind of a fun hack-and-slash Diablo-like thing, maybe it doesn’t make sense to slow the game down in that space. I think that’s totally okay. Any other stuff here?
+
+
+Ali: Yeah, I mean, I'm glad we’re talking about this. I had originally kind of…tagged this because I don’t have a ton of good examples, but I feel like this is a hurdle for me, in terms of moving from very conversation-based text RP to [Austin: yeah] games where dice are here? [laughs] ‘Cause I always just want to do the thing, and it’s always weird to be like, “Well, you need leverage.” and it’s like, whoa! [chuckles] 
+
+
+Austin: Right.
+
+
+Ali: Talking to them. And, you know, in real life you can have a conversation with someone where it’s like, this isn’t gonna...you’re not gonna go forward with the thing that you want to do, or it’s awkward, or whatever else. So I think that having the mechanics of a thing makes sense, but I do think that sometimes it can be hard to find that middle ground.
+
+
+Austin: Right.
+
+
+Ali: I think I like the way that Blades does it, because at least with that...because of the ways that your skills are kind of varied, you can have the like, well are you doing this in the Command sense, or are you doing this in the Sway sense—
+
+
+Austin: Right.
+
+
+Ali: Or something like that, where you can kind of narrow it down a little bit more. That even if the player isn’t able to have that whole conversation and wants to do the thing where it’s like, “Oh, I just want to convince them,” you can at least kind of narrow it down what that might look like.
+
+
+Austin: Yeah.
+
+
+Ali: And then use the result to kind of flesh out the conversation if you want to. But yeah, it’s tough. It’s a tough thing to mechanicize.
+
+
+Austin: Yeah. I mean, it’s funny, because the number one and number two here are almost opposite perspectives, from Jack here. Where, it is...I am strongly of the belief—and you can go back and listen to the show—that like, if something is not going to create interesting drama because it might not come together, then just let the player have it. Like, yeah, okay, you open the door, right? It’s gonna— maybe it takes you a little longer. Maybe what you’re...maybe if you want to do it quick, I'll make you roll, because that introduces an element of risk or whatever. But, there’s plenty of times when it’s like, “Oh, I'm not even gonna make you roll. This person loves you.” Like, this person’s gonna do the thing, because of a relationship you have. Or because, you know, it is just a conversation at that point. That kind of idea of “only roll when there is risk involved” is pretty well spread inside of the indie RPG community, at this point. And I think it’s generally a pretty good rule, with the note that you can always find a way to [chuckles] introduce risk if you think, as the GM, that you want to slow something down. And, you know, for pacing reasons, or because you think that like, in terms of where the game has gone so far, it’s time to start hammering up the risk. I think about—you can go back and listen to our Lacuna game. There are definitely moments where very simple things suddenly take on additional layers of risk, or a feeling of tension, because it’s time in the game for something to feel tense, you know? In the story we’re playing. 
+
+
+So yeah, there’s a degree, as always, that I'm gonna point to, towards flexibility and identifying what your kind of—to steal a word from the game design space—your player experience goal is going to be. And building out what your answer for those things will be from there, instead of trying to find your idealized mechanic, and then saying, “Well, this works in all occasions.” Inside of the same game, inside of the same session, you will probably...the best version of that session, will be one in which you contradict yourself. [Ali giggles] Where, early on in the session, when they’re trying to get into the dungeon, or they’re trying to get into the facility, they come up with some bullshit reason, and you go like, “You know what? Fuckin’, roll dice, we’ll see.” [Ali laughs] And then, you know, three hours in, when the alarms are going off, you’re like...at that point, you might say, “Okay, all the doors open up.” Or like, “Alright, you’re gonna...they’re chasing you through, but you’re gonna be able to run up and hack stuff quickly. Let’s just do one roll for every door, instead of making you roll at every door,” right? You’re going to break your own rules here and there, and that is part of why these games work, is because they’re not hard-coded to prevent you from being hypocritical. So, don’t try to find the thing that is one hundred percent applicable all the time. You’ll end up being so frustrated if you do, if that makes sense. Alright, I'm gonna keep moving, 'cause look, we got through a question without my internet dying. We got through two questions without my internet dying.
+
+
+Sylvia: Don’t jinx it.
+
+
+Austin: I know, I shouldn’t have said anything. From Gary:
+
+
+“In play, have any of you ever tried out characters as a way to explore your real life identity? Sort of like trying on an identity to see if it fits your actual self, but in the safe space of a game with friends, where you’re still at a remove from being the same person as your character.”
+
+
+Austin: Curious. I think, Sylvia, you tagged this one?
+
+
+Sylvia: Yeah, I did. I feel like that might be...I feel like for obvious reasons. [Austin laughs] But, I personally, I did do this, and I think it’s...one, I think it’s really helpful to do, and I think, more...the main reason why I wanted to talk about it is just so I can be like, people should experiment with this stuff more. I think it’s a really good, safe way to test out, for example, if you are experimenting with different pronouns, if you’re struggling with your gender identity or if you...turns out you don’t want a gender, 'cause it’s not real. [Austin chuckles] Like, you can test all that in a safe way, if you have a close-knit— or, not even a close-knit, if you have a...you can show up to a tabletop game, honestly, with a character sheet and be like, “My character is X, Y, and Z, and they have these pronouns,” and people should hopefully just be like, “Okay, that’s your character.” And it’s a safe way for you to like...test out how you feel being referred to as that...in that way, or if you want to...like, obviously not just in terms of gender identity. You can play a character whose sexuality is different than what you identify as. But there’s still...I think, like it says in the question, there’s that buffer there, where if things don’t feel right and you don’t want to commit to it, you can sort of back off and rethink about things and find out what works for you.
+
+
+Austin: Yeah.
+
+
+Sylvia: Yeah. I kinda compare it to just going, like, asking someone...like, “Hey, could you refer to me with neutral pronouns, like they/them for a while, just to try it out and see how it fits?” Or like, I did that with feminine pronouns with my partner, and then it...here I am! [Austin and Ali laugh] And so, like, I think that stuff is really healthy, and I think encouraging it in like...not just with people that you’re in a relationship with, but in these sort of social playful spaces, where you can…it’s not the forefront of your mind, but it’s a thing happening as well, and it can make you feel a little bit more comfortable with that. At least, in my experience.
+
+
+Austin: Totally. I actually gave a talk on this topic this year, out at the Pomona Colleges. I was invited to talk about failure and storytelling. And also that talk was on Valentine’s Day, which is extremely funny timing to give a talk on failure. And in it, I talked about...a bunch of stuff. The neoliberal individual, and the evolution of the novel, and a bunch of other shit. And what I wanted to introduce into it was the role games and games as a safe place for experimentation and failure come from, or serve, for us? There is a queer theorist named Jack Halberstam, who wrote a great book called The Queer Art of Failure, and Jack writes a lot about the ways in which failing under, kind of, the neoliberal capitalist system, that demands that we fit into certain normative rolls and normative identities, is a great method of resistance. The quote I have written down here, is: “Heteronormative common sense leads to the equation of success with advancement, capital accumulation, family, ethical conduct, and hope. Other subordinate, queer, or counter-hegemonic modes of common sense lead to the association of failure with nonconformity, anti-capitalist practices, non-reproductive lifestyles, negativity, and critique.” Later, “Instead, queerness, which is in many ways defined by failure to uphold the values of the quote unquote ‘good liberal individual’ revels in the same open-endedness…” 
+
+
+Sorry, that’s actually me talking, this last little bit. Queerness...I'm looking at my own notes, and they’re a fucking mess, just like my prep is. “Queerness, which by society is defined by the failure to uphold the ‘good liberal individual’, revels in the open-endedness that happens in storytelling about failure.” And the thing that I end up saying, here, is like, I love Jack Halbersam, I love the idea of the queer art of failure. But it’s hard to do that in real life. It’s hard to like, really lean into loss and lean into rejecting the demands of society. To like, decide...the specific quote that Halberstam says, is that “We should fail, make a mess, fuck shit up, be loud, unruly, impolite, breed resentment, bash back, speak up and out, disrupt, assassinate, shock, and annihilate.” And that is a hell of a great life lesson, or life theory, to wield as you move through a world that hates you and who you identify, or the way that you identify and the way you are. But, ask anyone from a marginalized background—not that Halberstam is not—but it’s hard to do that and dangerous to do that, right? As much as I want to blast my music when a cop pulls me over, nah. Like, it ain’t worth it. Like, it is too risky to do. 
+
+
+And so, games offer a space where you can play with identity and play with modes that are not just about accumulation. That are...and there’s part of why queerness has been at the heart of like an independent games revolution in the last decade, and marginalized identities in general. You know, you look at something like Big Bad Con that’s happening this week, where like...queer folks, people of color, Indigenous creators, all at the heart of that. Because games are a space where we can be those things and fuck up and not fit into the mold of what it means to be a quote unquote “good” Black person, or, you know, a “passing” trans person, and feel like those are the only modes of success available to us. Games allow us to have that freedom. Without having no stakes, but also without having stakes that could be potentially truly fatal, right? Life-shattering. And so like, absolutely this is a space where we can try to tackle these things about us. Also things about the world. 
+
+
+It’s one of the reasons why I like games as a space to talk about issues like existential crises, depression [chuckles], empire, all of the things that we’ve tried to hit over the years, is because it is this middle ground between dealing with them in real life where they can just be so—or, not real life, not that games aren’t real life, but you know what I'm saying—in our day-to-day lives, where they can be so burdensome and so devastating. But also, they’re different than just watching it on TV for me, or just reading a book about it, because there is still that degree of investment and...the fact that they can provide that space to explore both, you know, who you wish to be and who you aspire to be and divisions of yourself, and also a place to investigate and explore really complex and difficult topics, is why they mean so much to me. And also, you do it collaboratively. You do it with other people, which, as anyone who has dealt with a lot of these things in real life knows, can be the hardest part [chuckles] of figuring out who you are or how you want the world to be. So, shoutouts to games, is what I'm gonna say. [Ali giggles] Any other thoughts, here? Anyone else feel like they’ve done that sort of exploration of who they are via games? Dre, I think you also marked this question.
+
+
+Dre: Yeah. I definitely think games have been a way that have let me feel a lot more, like, comfortable and honest in identifying as a queer person. you know, I think...like, I am a queer cis man.
+
+
+Austin: Mm-hmm.
+
+
+Dre: And I'm in...I mean, I'm engaged to a cis woman, so I'm very much in a hetero-passing relationship. But it’s been really important, for me, and really impactful in ways I did not realize, to be able to have non-heterosexual relationships with characters in Friends at the Table. Just to like, make me feel that I'm still getting to express and explore that part of myself.
+
+
+[1:00:07]
+
+
+Austin: Totally. Yeah. Ali, you have anything? Or should we keep on moving?
+
+
+Ali: [laughs] I wanna give a shoutout to Friends at the Table for allowing me to partake in my most important part of queer expression, which is killing every man I think I'm in love with? [all laugh loudly]
+
+
+Austin: Fuck!
+
+
+Dre: Ahh.
+
+
+Sylvia: Oh my god.
+
+
+Austin: Going back to...from Autumn forward, honestly. God.
+
+
+Ali: [laughs] I'm three for three.
+
+
+Austin: Wait, are you three for three? Okay. Okay, well, I can’t say spoilers. [Ali laughs] Let me just count in my head. One, easy.
+
+
+Ali: Uh huh. [Sylvia laughs]
+
+
+Austin: Two...oh yeah, okay.
+
+
+Ali: Uh huh!
+
+
+Austin: It took all the way to the end there, huh, for two.
+
+
+Ali: Mm-hmm.
+
+
+Austin: What’s three? Where am I missing…
+
+
+Dre: Yeah, what’s—
+
+
+Ali: I count Castille and Maelgwyn. [laughs] 
+
+
+Austin: Ohhh, okay.
+
+
+Dre: Oh. Wait, okay…
+
+
+Austin: I was thinking about Twilight Mirage, and I was like, I don’t think…
+
+
+Ali: Yeah, I'm 3.5 for 3, 'cause Tender wasn’t in love with… [laughs] 
+
+
+Austin: With who?
+
+
+Ali: Whoever— what was his name...
+
+
+Austin: Yeah. [doubtful] Mmm...award winning bounty hunter… [Ali laughs] Waltz Tango Cache does use he/him pronouns.
+
+
+Ali: [laughing] I was...I'll say it again. The problem with Tender is that I had to separate my own love for Waltz Tango…
+
+
+Austin: Gotcha. Gotcha. Okay.
+
+
+Ali: [laughing hard] And a character that was...
+
+
+Austin: From Tender. I gotcha.
+
+
+Ali: [finishes laughing] Who, like, would’ve IDed as a lesbian if you asked her. But like…
+
+
+Austin: Right, right.
+
+
+Ali: Ugh, god. [Dre laughs] Yeah, no, I'm fine. I'm good.
+
+
+Austin: Fair. Fair.
+
+
+Ali: It’s going great. [laughs]
+
+
+Austin: Can’t wait for this next season! [Ali cackles, Sylvia laughs] Love it. Alright. We have one more good question here from Lee:
+
+
+“Austin told a story on the March 2019 Tips episode about a Dragonball-loving dude he talked to on the bus, and, in it, made a reference to Wawa. I was just wondering about my favorite podcasters’ sandwich chain preferences. Subway? Quiznos? Potbelly? Which do you prefer? I'm a Jimmy Johns fan, myself.” [Ali laughs quietly]
+
+
+Austin: I don’t know what a Potbelly is.
+
+
+Dre: It’s alright.
+
+
+Austin: Alright. Wow, so not Potbelly from Dre. Dre just was like “[clicks tongue dismissively] It’s alright.”
+
+
+Dre: Yeah.
+
+
+Austin: “It ain’t all that.” [Ali giggles] 
+
+
+Dre: I think their sandwiches are kinda dry.
+
+
+Austin: Got you.
+
+
+Dre: I don’t want a dry sandwich.
+
+
+Austin: So, what do you like? What’s your situation?
+
+
+Dre: Okay, uh. Number...if we’re talking just chains. Like, number one for me—
+
+
+Austin: We’re talk— yeah, we can’t be like, “that spot down the road.” [chuckles] 
+
+
+Dre: Right. Probably Penn Station. I fuckin’ love a hot grilled Penn Station sub with some good french fries.
+
+
+Austin: Is this...this is a chain called Penn Station?
+
+
+Dre: Mm-hmm! [Ali laughs]
+
+
+Austin: That’s a very funny chain.
+
+
+Dre: Penn Station East Coast Subs. I also like Jersey Mike’s.
+
+
+Austin: Okay.
+
+
+Dre: Um...and then I also like...I don’t know how far outside of the South this one is, but McAlister’s?
+
+
+Austin: Hmm, don’t know McAlister’s.
+
+
+Dre: Yeah.
+
+
+Austin: I know Jersey Mike’s. I've never tried a Jersey Mike’s, because of being from Jersey, and being like, “[clicks tongue dismissively] Alright. If you say so, Mike.” [Sylvia chuckles] But I should try it.
+
+
+Dre: And I'll say special shoutout to Publix grocery store sub sandwiches.
+
+
+Ali: [intrigued] Oh.
+
+
+Austin: Okay. I've had Publix. Definitely agree that they’re like, “Yeah, this is alright.”
+
+
+Dre: Way better than you’d expect a premade grocery store sub wrapped in plastic to be.
+
+
+Austin: [chuckles] Yeah, uh huh. Great, like, road trip pull-over, get gas—
+
+
+Dre: Mm-hmm.
+
+
+Austin: Get a sandwich that’s premade, and be like, “You know what? It’s alright.”
+
+
+Dre: Yep. 
+
+
+Austin: I haven’t had Quiznos in too long. I checked recently, and there’s not a Quiznos within walking distance, and it bummed me out, because…
+
+
+Sylvia: I think Quiznos are bankrupt in Canada.
+
+
+Dre: Yeah.
+
+
+Austin: Are they?
+
+
+Ali: Whaaat?
+
+
+Sylvia: Yeah.
+
+
+Dre: [chuckling] I think they might be in many parts of the U.S. as well.
+
+
+Austin: Whaat? [Ali sighs] There was a Quiznos in Canada, that’s like where I...okay, so. So. So. In college, [chuckles] there was a Quiznos at the end of the street that the bowling alley was in, where Art and I took bowling class. And, after bowling, I had a class, so I couldn’t stop at that Quiznos, because I would miss the next class, so I couldn’t like do a Quiznos lunch. Except, once every third class, I would go with them to Quiznos, [Austin and Dre chuckle] with Art and my other friends from that class. To get Quiznos and cut that class, because that’s how much I liked one of the subs available at Quiznos. Then, I went to grad school, years later, in London, Ontario, and there was a Quiznos that was like a far walk, but walkable. And I made that walk once a week, and it was the best. It was so good, and I miss it, and I have not had Quiznos once maybe, maybe once since moving back to the states? So it’s probably been about five years since I've had like a regular Quiznos in my life. That said, Quiznos does not hold a fuckin’ candle to Wawa. [Ali laughs] It’s a different situation, like I wouldn’t even come close to making the same order at those two places, but a Wawa sub is like. If I could walk...if I could walk four miles tonight to get to a Wawa, I'd do it.
+
+
+Dre: Alright, so, describe the Wawa sandwich ordering experience to me.
+
+
+Austin: Oh, it’s a bad sandwich ordering experience. It’s a touchscreen, at this point.
+
+
+Dre: Okay.
+
+
+Sylvia: Oh.
+
+
+Austin: It’s, you order your shit on a touchscreen, you walk away, you go, you maybe like look at the Tastykakes. You’re like, ooh, wow, I haven’t been to Jersey in a minute. They don’t really have Tastykakes up in New York. [Ali laughs] What could I get? [clicks tongue] Nah, I'm gonna skip that. I'm gonna get some Herr’s chips, and get those sour cream and onion, and I'm gonna go through the drink cabinet. What do I want? Oh, Wawa has their own sub-brand of iced teas. I could get like a Wawa iced tea. That’s basically sugar water, though. You know what, let me get an Arizona. It says 99 cents on the can, so that’s a win. Then, let me swing by, let me look at the meat products, if I want to get like a Slim Jim. No, I don’t. I'm in my thirties, I cannot be eating Slim Jims anymore. Let me pump the brakes. Let me look out and see, okay, it looks like my dad is done pouring, getting the gas, or paying for the gas. ‘Cause we can’t, you cannot add your own gas to your own car, 'cause your in New Jersey. Good thing I just remembered that for this story. So he’s paid someone for that, he has not done it himself. [Ali laughs] And then I'm gonna go, and what I'll definitely grab, even though I won’t like it, is they have, quote unquote “soft pretzels” [chuckles] by the counter under a heat lamp. [Dre snickers] 
+
+
+Ali: Ooh.
+
+
+Austin: They’re like, a little stale, and it’s gonna get even more stale, 'cause you’re gonna put it in the bag and forget about it. And then you’ll remember in like three hours, and be like, oh it’s a little stale, but if you bite into it, it’s still pretty good anyway. Then you pay for everything, and you get a ticket, you’ve gotten a ticket from when you were at the touchscreen. They stamp the ticket, and it goes “Paid!”, and then you bring it back to the counter before you’re done, you give it to them, and they put it on one of those, you know, spikes, to be like, “yeah, this is paid, boom.” And then they give you the sandwich. And then you go home and eat the sandwich, and it’s good.
+
+
+Ali: Mmm.
+
+
+Austin: That’s the sandwich ordering experience at a Wawa.
+
+
+Dre: So, is it a cold sandwich? Is it a hot sandwich?
+
+
+Austin: They do both. 
+
+
+Dre: Okay.
+
+
+Austin: They’ll do both. I get like a sub, right? Like, I get normally like a turkey sub with oil and vinegar, and like salt and pepper and oregano.
+
+
+Dre: Hell yeah.
+
+
+Austin: I do onions, and I do peppers. I do like sweet peppers. Sometimes jalapeños. My stomach doesn’t love that I do jalapeños, but imma get them anyway. And you can get this sub anywhere, like I could go to Subway and get this sub, but it’s not the same. You know? But it’s...if I could have a Wawa in my life again, that would be really good. They do tiny ones called shorties. They do like…
+
+
+Ali: [softly] Shorties…
+
+
+Austin: It’s Juniors, Shortis—Shorti with an “I”—and Classics, I believe, is their different sizes. It’s so good, and I miss it so much.
+
+
+Ali: Oh, is that like the difference between a six-inch and like a…
+
+
+Austin: A six-inch is a...yeah. Yes, yes.
+
+
+Ali: Okay.
+
+
+Austin: I believe— so, Classic is like a footlong, for sure.
+
+
+Ali: Right.
+
+
+Austin: [passionately] God, and then once a year they have Hoagiefest? God! [Ali and Dre laugh]
+
+
+Sylvia: I've heard good things about Hoagiefest.
+
+
+Austin: Hoagiefest is good! All hoagies. [chuckles] $3 for a Junior, $4 for a Shorti, $5 for a Classic.
+
+
+Ali: [fascinated] Wow. All hoagies.
+
+
+Austin: I'm gonna show you this image. I'm gonna put this image on the screen, right now. [Ali laughs] And you’re gonna be like, “We have to go.” Let me open this image in a new tab. Bring this...look at this, Hoagiefest. Look at this! $4 for a meatball sub, are you kidding me? Get out of here! It’s a deal!
+
+
+Ali: I would rather—
+
+
+Austin: It’s a steal!
+
+
+Ali: I would rather go pay $7 at an Italian place, [laughing] if I was gonna get a meatball sub.
+
+
+Sylvia: Yeah.
+
+
+Ali: I don’t know if I— 
+
+
+Austin: Sure, but sometimes you’re on the parkway, you know?
+
+
+Ali: Yeah. No, I know. I just have like...I'm not big on sandwiches, anyway—
+
+
+Austin: Okay.
+
+
+Ali: So I have like...an aversion to chain sandwich places. [chuckles] 
+
+
+Sylvia: I'm so glad I'm not the only one.
+
+
+Ali: Yeah, like, I have a...this does look fantastic, the Hoagiefest. [chuckles] [Dre laughs loudly] ‘Cause they both look too like clean, like no. [Austin sighs] Jersey Mike’s upsets me, ‘cause you should just get a sandwich made by a guy named Mike from Jersey.
+
+
+Austin: Named Mike, yes.
+
+
+Ali: [laughing] Right? Like, you just…
+
+
+Austin: Like, the thing for me is, I also go do that. 
+
+
+Ali: Right.
+
+
+Austin: It’s okay to have both of these in your life.
+
+
+Ali: Yes, it’s true. Yeah. 
+
+
+Austin: Yeah.
+
+
+Ali: And if you don’t have access to New Jersey or New York delis, like it’s fine to go to a chain place, but.
+
+
+Austin: That is the thing that...the thing that breaks my heart here is like...I don’t have an Italian-style deli close to me. I have bodegas where I can get…
+
+
+Ali: Mmm.
+
+
+Austin: My bodega order is a different thing than like my Italian deli order. [Ali giggles] Or even my Jewish deli order, like those are all different things.
+
+
+Ali: Yeah.
+
+
+Austin: And all of those are different than the sub I would get at a sub shop at like, in New Jersey. Or Philly, or wherever. It’s weird. It’s… [sighs] a lot to navigate. I used to love Subway, also. And I don’t like it as much. Something happened, and it like makes me a little sick to think about now.
+
+
+Sylvia: Yeah!
+
+
+Ali: It just— no, go on. [laughs] 
+
+
+Sylvia: I was just gonna say the last time I had Subway it was a really bad experience.
+
+
+Austin: Yeah, I don’t—
+
+
+Sylvia: I got like a pizza sub, but I got it on flatbread, 'cause I was like, “Ah, this’ll be like a pizza grilled cheese.”
+
+
+Austin: That’s like a pizza, yeah.
+
+
+Sylvia: Yeah. “It’ll be fun.” And then I got it, [chuckles] and it was disgusting. I don’t know why. I had nice toppings on it, but—
+
+
+Austin: What happened?
+
+
+Sylvia: They all tasted wrong.
+
+
+Austin: Yeah. That’s the—
+
+
+Ali: Mmm.
+
+
+Austin: The worst, is ordering a sub— or, ordering a sandwich from a chain place, and being like, “Ooh, this isn’t right.” It’s not bad in the like...it’s not like it’s...I don’t think that the stuff is like not fresh, but something is wrong about this.
+
+
+Ali: Yeah.
+
+
+Dre: I don’t know.
+
+
+Ali: That happened to me with Subway meatball sandwiches.
+
+
+Austin: [sympathetically] Oof.
+
+
+Ali: Just, one day I had one, and it was not [laughs] the same anymore, and I was like, “I’m not doing this anymore.”
+
+
+Austin: That was me and the Subway chicken teriyaki sandwich— 
+
+
+Ali: Ooh.
+
+
+Austin: Which I loved for years. And then like, one day, I was like, “I’m never eating this again.” I could never eat it again. I probably had hundreds of those sandwiches from when I was like, 15 to 27 or something. And then never again. Ever ever ever. So, I don’t know. I didn’t even get sick! It was just like, this tastes…
+
+
+Ali: Yeah.
+
+
+Austin: My taste buds are...last week this was good, and today it’s bad. [Ali laughs] I didn’t— this isn’t like an ideological change on my part, like. I'm trying to think if there’s any other sandwiches that are like…’cause if we open it up to a bodega or a deli, it just gets…
+
+
+Ali: Oh, yeah. Yeah.
+
+
+Dre: Yeah.
+
+
+Austin: To be anything. You know?
+
+
+Ali: I will say, Subway: get the grilled chicken, [Austin: okay] provolone, [Austin: okay] with green onions, [Austin: mm-hmm] oil and vinegar. And you’re set. [chuckles]
+
+
+Austin: Wow.
+
+
+Dre: Sounds pretty good.
+
+
+Austin: It does sound pretty good.
+
+
+Dre: I wanna make a sandwich for dinner after this.
+
+
+Austin: Yeah, I'm gonna get a sandwich too, shoot.
+
+
+Ali: Yeah. Also, Austin, there might still be a Quiznos right outside of Brooklyn College, which is the only Quiznos I've ever been to?
+
+
+Austin: There is. That is the Quiznos I've been to… [Ali giggles] like, in the last couple of years. I believe.
+
+
+Ali: It’s like fifteen feet from the Subway exit, [laughing] if you just need to take that trip for yourself one day. 
+
+
+Austin: No, there are some in Manhattan that I can go to that are closer, [Ali chuckles] because I'm in Queens, and getting to Brooklyn is hell.
+
+
+Ali: Mmm.
+
+
+Austin: But there’s like none in Queens anymore. I think there’s one, I want to say, all the way out in like Kew Gardens or something, but at that point you’re basically at Hofstra. [chuckles] Like.
+
+
+Ali: Oh, yeah.
+
+
+Austin: You may as well be in Long Island at that point, so. Don’t tell the people of Kew Gardens, who I like very much, that I said that about them. They would be offended. [someone laughs softly] But, yeah, I think that that’s...as far as chains go. I'm trying to think if there’s any other chains that are like, a hard pass for me.
+
+
+Ali: [sighs] You know what chain sandwich I'm really looking forward to? [chuckles] 
+
+
+Austin: What?
+
+
+Ali: Is the Popeyes one.
+
+
+Austin: Oh! Bring it back.
+
+
+Ali: [sighs] It just, what’s going on?
+
+
+Austin: I don’t know.
+
+
+Dre: It’s gone!
+
+
+Sylvia: Bring your own bun, it’s fun!
+
+
+Austin: But they still have the signs up saying they’re sold out? And if you aren’t bringing it back, take the signs down.
+
+
+Ali: My Popeyes that I drive past like literally every day…
+
+
+Austin: Yeah.
+
+
+Ali: Just has— like, towards the street, they have a sign that’s just like, “Here’s sandwiches!” and then once you get into the drive thru, they’re like, “Nah, I'm sorry.”
+
+
+Sylvia: Wow.
+
+
+Ali: And, like, once a week, I have been checking [laughing] the Popeyes website.
+
+
+Austin: God.
+
+
+Ali: Just to see!
+
+
+Austin: Alright, well. So. Now I have to tell a different story, Ali.
+
+
+Ali: Mmm.
+
+
+Austin: That you know already.
+
+
+Ali: Oh.
+
+
+Austin: ‘Cause you’re the one I've been updating on this deal. [Ali laughs] Alright. [sighs] So. In August...you might know the month of August, 'cause it’s the month we still have a bunch of Patreon stuff to catch up on. [Ali chuckles] In August, August 13 or something, there was supposed to be a Chipotle that opened up in the part of Queens I live in, in Astoria. It didn’t. It did not open up. It was gonna be next to a McDonalds, it was supposed to open up, and I was gonna go to it. And this was like...I think this was when we were doing finale recording or something? Because my earliest message to you about it is October— is August 20. ‘Cause it was supposed to have opened by then, and I was like, “I’m gonna go get Chipotle, and I'm gonna do a recording. I'm excited about it.” And, went to it, it did not open. I went to the McDonalds, it was okay. My stomach was not happy about that, but I was like, alright, whatever. I checked the internet. There’s a website called We Heart Astoria. That site said, “We previously reported that Steinway Chipotle will be opening Wednesday, August 14, but a rep just let us know that it was moved again.” Or, that it was moved, at the time, until September. Okay, that’s fine. Reported— oh, actually, it wasn’t to September. It was originally August 28 it was supposed to reopen. 
+
+
+[1:15:05]
+
+
+Ali has gotten so many messages from me since that mid-August, [Ali giggles] as that same news story has updated over and over again. It is now October 12. That is two months after it was originally scheduled to open. Every three weeks, I go by, it’s still closed. [Dre laughs] I check the website, and it changes! And at this point, it’s changed so many times, that the original We Heart Astoria website is just— the page that said “Oh, here’s an update on the Chipotle thing,” is just wrong. Like, they’ve done the command F change the month to a different month thing, to where they’ve now— this new story now starts, “Back in November, [laughs] we shared news that a Chipotle location will be opening. Now it’ll be opening in November.” Because it’s changed so many times that they were just like, “Control F, change August to November. I don’t care if it ruins the whole news story.” I'm so mad. I just want to go to a Chipotle near me, because I don’t want to ever go to a Chipotle in that way, do you know what I mean? I never want to get on a bus or a Subway— 
+
+
+Ali: Yeah.
+
+
+Austin: And be like, “I’m going to a Chipotle.” But sometimes, I would like to have a Chipotle burrito, even though I know they’re not as good as other burritos I could get in the neighborhood I live in. [Ali giggles] Because sometimes I want a Chipotle burrito, not a good burrito.
+
+
+Ali: It’s such a different thing!
+
+
+Austin: It is such a different thing.
+
+
+Ali: It’s like, the desire for like a McDonalds burger over just having a burger.
+
+
+Austin: A good— right, totally.
+
+
+Ali: It’s like two completely different meals.
+
+
+Austin: Yeah. Yes. It’s unbelievable. I don’t understand.
+
+
+Ali: I know.
+
+
+Austin: I don’t understand. But at least they said November now. I'm curious if they’ll hit this year, honestly. I'm genuinely curious if they’ll hit this year.
+
+
+Ali: When you walk—
+
+
+Dre: This sounds like the struggle we’re having in Louisville about Steak 'n Shake. [Ali gasps]
+
+
+Austin: What’s going on with Steak 'n Shake?
+
+
+Dre: They have like all closed, suddenly and mysteriously, [Austin gasps] and now half of them have signs that say “temporarily closed for renovation”.
+
+
+Ali: Wow.
+
+
+Austin: Wow.
+
+
+Dre: But they’ve been closed for like two months, at this point.
+
+
+Austin: Is it good? I've never been to a Steak 'n Shake, I don’t think.
+
+
+Dre: It’s fine.
+
+
+Austin: Yeah?
+
+
+Dre: Like, it’s...it is dirt cheap.
+
+
+Austin: Okay.
+
+
+Dre: And it’s pretty good for how dirt cheap it is.
+
+
+Austin: I should look into it. Are they up here at all? Or are they only down there?
+
+
+Dre: I think it’s a Midwest thing.
+
+
+Austin: That makes sense. Uh, it looks like there might be...nope. No. There’s— no. [chuckles] You know what is pinging here, when I type it in, is Shake Shack, which is a different place.
+
+
+Dre: [laughs] Very different place.
+
+
+Ali: Oh, yeah.
+
+
+Austin: Is it very different? Wait, what is the distinction?
+
+
+Dre: Yo, Shake Shack is a…
+
+
+Austin: Okay. Is like, high quality, comparatively?
+
+
+Dre: It’s a much...yeah, it’s a much better...I mean, Steak 'n Shake is like, you go get like...so, I guess they have the style of like smash burgers that Steak Shack does, but they’re much thinner. And they’re probably lower quality meat as well.
+
+
+Austin: Okay. Okay. 
+
+
+Dre: But it’s like, you get a double cheeseburger and a thing of fries for like five bucks at a Steak 'n Shake.
+
+
+Austin: Phew. Goddamn. That’s…
+
+
+Dre: But the service is always gonna be pretty spotty.
+
+
+Austin: Gotcha. Gotcha.
+
+
+Dre: It’s the place you go when you’re like sixteen and there’s one within walking distance of the movie theater, and so you just go sit there for like two hours because you’re sixteen.
+
+
+Austin: Alright. You know what? Honestly, I've been sixteen.
+
+
+Ali: Mm-hmm.
+
+
+Austin: That sounds better than some shit I got up to when I was sixteen. No one’s— 
+
+
+Ali: Those places need to exist, yeah.
+
+
+Austin: Yeah. That or hang out in the parking lot and push your friends around inside of grocery store shopping carts. [Ali giggles]
+
+
+Dre: Yep. Mm-hmm.
+
+
+Austin: And like, don’t do that! That’s more dangerous!
+
+
+Dre: Eh. I don’t know.
+
+
+Austin: Eh, you know what?
+
+
+Dre: I've seen the health code, like. [laughs]
+
+
+Austin: You know what? You know what? Yeah, I guess I shouldn’t say things.
+
+
+Dre: [laughing] Like, grades on some of those Steak 'n Shakes.
+
+
+Austin: Yeah, you know what? Okay. That’s fair. 
+
+
+Ali: Yeah.
+
+
+Austin: That’s fair. Sylvia, are there any Canadian chains that we just don’t know about?
+
+
+Sylvia: Like, sandwich stuff? Uh...
+
+
+Austin: Or just, you know, it’s broad at this point, you know what I mean?
+
+
+Sylvia: Oh, well, I mean, the ones I always bring up because their names are nonsense, are Boston Pizza and New York Fries. [Austin and Dre laugh]
+
+
+Austin: It’s so funny.
+
+
+Ali: [intrigued] Ooh.
+
+
+Sylvia: Because—
+
+
+Austin: Janine used to work at a Boston Pizza, and I teased her mercilessly about it.
+
+
+Sylvia: Ahh. They’re not good.
+
+
+Austin: Or maybe it was a New Orleans Pizza? Is that also a thing up there?
+
+
+Ali: Mmm.
+
+
+Dre: God.
+
+
+Sylvia: I don’t know. I'm not familiar with New Orleans Pizza.
+
+
+Austin: Okay.
+
+
+Dre: What about like, Nebraska chicken?
+
+
+Sylvia: No.
+
+
+Dre: Okay.
+
+
+Sylvia: We do have...no, those are the only weird American ones, I think. Like, American location names that I can think of.
+
+
+Austin: Right, right.
+
+
+Sylvia: New York Fries is alright, but I don’t know why—
+
+
+Austin: Is that a poutine— what is— is it just a fry, like what…?
+
+
+Sylvia: So, it’s like...yeah, it’s fries, poutine, and then they also do like hot dogs?
+
+
+Austin: Okay.
+
+
+Sylvia: So it’s like, I think they’re going for like...their logo is like a ripoff of the New York Yankees logo, so I think they’re going for like a ballpark thing. [Austin laughs] But it’s really weird.
+
+
+Austin: Oh, that’s very...oh, wow, this is just— yeah, that’s very funny. I see it now.
+
+
+Dre: New York Fries, let’s see.
+
+
+Austin: New York Fries. I'm now looking at fast food chains in Canada. There were A&Ws up there still, that’s true.
+
+
+Ali: Oh, yeah.
+
+
+Austin: What else did I see a lot of up there? A lot of these are just the same ones as here.
+
+
+Ali: I can’t look at this. I just want some fries. [laughs] 
+
+
+Dre: Sylvia, are you a member of the New York Fries Fry Society loyalty program?
+
+
+Sylvia: I'm not! I didn’t realize that I could join the Fry Society. I'd love to be a debutante among fry society. [Austin and Dre laugh]
+
+
+Dre: Every purchase earns you one point, and after ten purchases, you choose any one item off the menu for free.
+
+
+Sylvia: Hmm.
+
+
+Austin: Mmm. Okay. Okay!
+
+
+Sylvia: Oh— 
+
+
+Dre: And you get free regular fries on your birthday.
+
+
+Sylvia: I guess the...that actually sounds alright. I might get into that. [others laugh] Sorry. The other one I guess I forgot I should bring up is Swiss Chalet.
+
+
+Austin: Swiss Chalet, yeah.
+
+
+Ali: Yeah.
+
+
+Sylvia: Which is fuckin’ nasty.
+
+
+Dre: Wait, like— 
+
+
+Austin: Wow, the anti-Swiss Chalet!
+
+
+Sylvia: No, I hate Swiss Chalet so much. I will...people can give me shit about that. I think it’s so gross. [laughs] 
+
+
+Dre: Oh, this doesn’t look good.
+
+
+Austin: Bodied. There’s gonna be a fracture on this podcast.
+
+
+Ali: It’s like a Boston Market equivalent. 
+
+
+Austin: It— [sighs]
+
+
+Ali: It’s okay.
+
+
+Austin: Yeah.
+
+
+Dre: I was gonna say, this looks just like Boston Market.
+
+
+Austin: It’s like sit-down Boston Market. It’s like...real talk? It’s like Boston Market if they expected you to wear a tie.
+
+
+Sylvia: Oh!
+
+
+Austin: Not a tie, but like, to come with your family, do you know what I mean?
+
+
+Sylvia: That is like their vibe, but also, now they have ones that are a combo with the Harvey’s? Which is just a burger place. [Ali chuckles]
+
+
+Austin: Yeah, Harvey’s is a burger place.
+
+
+Sylvia: And there’s actually one near me that is just an express Swiss Chalet, which is takeout only. [chuckles] 
+
+
+Austin: Wow. People want their chicken.
+
+
+Sylvia: Which is really weird.
+
+
+Austin: People want their chi— it’s...I didn’t like the fries. There’s like…
+
+
+Sylvia: Yeah!
+
+
+Austin: There are a few things there I liked, but I didn’t love...I really didn’t like the Swiss Chalet sauce that everybody’s like…
+
+
+Sylvia: That’s my thing.
+
+
+Austin: I will— 
+
+
+Ali: No.
+
+
+Austin: Like, no, it was like a weird...I don’t even know how to describe the Chalet sauce. We’re making Janine very mad, right now, I'm sure. [Ali laughs]
+
+
+Sylvia: Sorry!
+
+
+Austin: Nah, listen. [unclear??? Possibly “You can take this out on us.” 1:21:44]
+
+
+Ali: I've had it, and I will probably have it every time I'm in Canada, but like…
+
+
+Austin: Yeah.
+
+
+Sylvia: I mean, you gotta.
+
+
+Ali: Yeah. 
+
+
+Austin: [chuckles] They— y’all still have—
+
+
+Dre: Y’all got Outback?
+
+
+Austin: Ooh, yeah, do you have Outback?
+
+
+Sylvia: Somewhere. I've never been to an Outback. [Ali and Austin gasp]
+
+
+Dre: [admonishing] Sylvia!
+
+
+Sylvia: Yeah, I know.
+
+
+Ali: Sylvia!
+
+
+Austin: Sylvia!
+
+
+Dre: We gotta go to an Outback.
+
+
+Austin: Why didn’t we go to an Outback when we were together?
+
+
+Sylvia: I feel like I've mentioned this before. [chuckles] 
+
+
+Dre: ‘Cause we went to Burger Study every goddamn day. [laughs]
+
+
+Sylvia: We also— yeah, we got other food. [chuckles]
+
+
+Austin: Yeah, okay. Burger Study was alright.
+
+
+Sylvia: Yeah, that was pretty good.
+
+
+Ali: Oh, yeah.
+
+
+Austin: Shoutouts to Burger Study.
+
+
+Ali: Shoutouts.
+
+
+Austin: Do you have...you still have Little Caesars up there, but you also have a thing called Pizza Pizza, which always confused me.
+
+
+Sylvia: Yeah, we have…
+
+
+Ali: Ooh!
+
+
+Sylvia: We have Little Caesars, Pizza Pizza, Mama’s Pizza, Pizzaiolo. I'm just naming pizza places that I see everywhere, now.
+
+
+Ali: Which was the pizza place that was...someone was creating fake ads for it, and it was just like a phone number that you called that was like, “We’re Pizza Pizza,” but they weren’t?
+
+
+Sylvia: Oh.
+
+
+Austin: Oh, is that real?
+
+
+Ali: Yeah! I think…
+
+
+Austin: [thoughtfully] Fake ads…
+
+
+Ali: I had to have been talking to you about this. But it was like, a big scam in the [laughing] Toronto area, where it was like…
+
+
+Austin: Whoa.
+
+
+Sylvia: Oh my god.
+
+
+Austin: They were like literally printing fliers and being like, “call this number to get this pizza,” but they were like a underground pizza place.
+
+
+Sylvia: That’s...
+
+
+Austin: I don’t know.
+
+
+Sylvia: I don’t know about that. I do know that Garfield pizza is based here.
+
+
+Austin: I was about to bring up Garfield pizza.
+
+
+Ali: Oh, that’s right.
+
+
+Sylvia: Yeah. Which I need to go eat at. But I'm scared to.
+
+
+Austin: When I was...Sylvia, can I tell you something?
+
+
+Sylvia: Mm-hmm?
+
+
+Austin: I...remember when we got brunch, when I was last in Toronto?
+
+
+Sylvia: [apprehensive] Yeah?
+
+
+Austin: I got brunch with you, instead of— and I want to just read a DM from a friend of mine. A friend of mine had said, “Do you want to come get Garfield pizza with a bunch of communists?” and I...
+
+
+Sylvia: Oh my god!
+
+
+Austin: I had to say no to that friend, because I really wanted to get brunch with y’all.
+
+
+Sylvia: I mean, that was a nice brunch.
+
+
+Austin: It was a nice brunch! That was a really nice day, so.
+
+
+Sylvia: Next time you’re up here, we’ll go to Garfield pizza. [Austin laughs] And we’ll round up some communists. [Ali laughs]
+
+
+Austin: Wherever will we find some communists? Who could say.
+
+
+Sylvia: Oh, I don’t know. 
+
+
+Austin: [laughs] Alright. On that note, I think, let’s wrap this one up?
+
+
+Sylvia: Yeah.
+
+
+Austin: If you have questions, you can send them to tipsatthetable@gmail.com. And, as always, you can support the show by going to friendsatthetable.cash. Thank you, always, for all of your great questions. We’re gonna be doing some more of these, 'cause we are still in catchup mode, so look forward to another one not that far from now. Alright! We’ll talk to y'all later...not...this week, are we doing anything else live? Or is that next week.
+
+
+Ali: No, it’s...Saturday.
+
+
+Austin: Today is Saturday. Today is Saturday? [Ali laughs] So there’s no other part of the week. I guess, just look forward to more stuff from us in the near future. Until…
+
+
+Ali: Yeah, there should be a Live at the Table sometime next week. We don’t know when, yet, but there will be. And then just more stuff.
+
+
+Austin: Awesome. Sounds good. Alright. [Ali chuckles] A reminder that, if you haven’t listened to it yet, there’s a new Drawing Maps up. So you can go listen to that right now. Alright. Peace!
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.

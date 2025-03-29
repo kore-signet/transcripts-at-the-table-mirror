@@ -1,0 +1,2109 @@
+﻿Tips at the Table 26: Left Instead of Right (August 2019)
+Transcribed by: @robotchangeling
+
+
+AUSTIN: Welcome to Tips at the Table, an RPG podcast focused on critical questions, hopefully smart answers, and fun interaction between good friends. I'm your host, Austin Walker. Joining me today, for the August episode of Tips at the Table: Jack de Quidt?
+
+
+JACK: Hello there! I'm Jack, you can find me on Twitter @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Keith J. Carberry.
+
+
+KEITH: Hi, my name’s Keith J. Carberry. You can find me on Twitter @keithjcarberry, and if you have found the let’s plays that I do at youtube.com/runbutton, then thank you.
+
+
+AUSTIN: Janine Hawkins.
+
+
+JANINE: Hey, you can find me @bleatingheart on Twitter. I used to be a Poirot fan account, but I'm transitioning to a Marple fan account. [Austin and Jack chuckle] I appreciate your patience as we go through this change. I'm hoping it won’t affect anyone’s day to day life too much.
+
+
+AUSTIN: God. You can find me on Twitter @austin_walker, faving all of Janine’s Marple and Poirot tweets. You can find the show @friends_table, and also you can support the show at friendsatthetable.cash. Quick bit of housekeeping: one, thank you to everyone who came out to our live show at Gen Con this past weekend. We had a blast. Keith was there, so, Keith, real quick— 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: Describe the Gen Con show in ten words or less.
+
+
+KEITH: [clears throat dramatically]
+
+
+AUSTIN: It’s a lot of words to play with. This isn’t a bit, I just. You know.
+
+
+KEITH: Okay. Let’s see. Everybody Has Fun Stealing A Book.
+
+
+AUSTIN: Yeah, that’s six words. Everyone has fun stealing a book. We are hoping to get that up in the feed, in the Patreon feed, as a live episode sometime in the next couple weeks. We are in the middle of end of Hieron season, you know, production, so I don’t know where it is in Ali’s priority list right now. But we will get to it. We recorded it via three sources, and one of those sources was really good for like half of it and was a little busted for the other half, so we’re hoping one of the other two sources, or both of the other two sources, made for good redundancies. We’ll see.
+
+
+KEITH: I heard all three, and I think it’s gonna work out just fine.
+
+
+AUSTIN: Great. I'm glad that you checked that, Keith. Appreciated.
+
+
+KEITH: And it might, you know, it might do that thing you said where it switched sources halfway through.
+
+
+AUSTIN: Yeah, it probably will.
+
+
+KEITH: From the soundboard feed to the two zooms combined.
+
+
+AUSTIN: Right. And it’ll be fine. The other piece of housekeeping I want to make is that we have crossed over the $20,000 line on our Patreon.
+
+
+JACK: Hey!
+
+
+JANINE: Oh god.
+
+
+KEITH: Wait, really?
+
+
+AUSTIN: Yeah, it’s wild. Yeah, $20,100 per month.
+
+
+KEITH: When? What?
+
+
+AUSTIN: This week. It just happened. We’re right over it, who knows if it stays like that. A lot of folks bumped up to Pusher last week, or for like this month, to try to see some of the new Pusher content that went out. We still have more of that to go. In fact, including Art and Keith’s, your character creation for the live show still has to go up in that feed.
+
+
+KEITH: That was really fun.
+
+
+AUSTIN: That was really fun.
+
+
+KEITH: I'm glad that that whole thing is going up.
+
+
+AUSTIN: Yeah, I'm gonna put that up, hopefully tonight, maybe tomorrow. So that’ll go up in the feed. So that number might drop. But I did want to reiterate that we are not doing a new episode, or a second episode, of Bluff as part of what the currently listed $20,000 goal is. We do have another show in mind that would fit the bill there, but I'm just gonna say here, that any big changes to the Patreon will happen after Hieron. So like, we’re gonna spend the next few weeks—
+
+
+JACK: Yeah. 
+
+
+AUSTIN: —thinking through what that should look like and figuring out what goals make sense given where we’re at in our lives. [chuckles] Because we’re all at such different places than when we started the Patreon two years ago. And so, we’re gonna do a quick— we’re gonna do a reevaluation, and if that changes the number, it changes the number, but I just wanted to be upfront about that, because I wanted to make sure that we are not overpromising anything. I've said before on this feed and in posted updates that the 20,000 number was not going to be a second Bluff episode per month. We’re already back enough as it is on Bluff episodes. We don’t need to double that workload. So, do know that we are keeping that in mind and that around the postmortem for Hieron, we’ll probably make some bigger announcements about like, hey here’s what the new tiers are, or here’s...I mean like, the tiers don’t make any sense, because I don’t know if you’ve seen this, but do you know what the $30,000 per month goal is?
+
+
+KEITH: Yes, it’s the thing we just did.
+
+
+AUSTIN: It’s the thing we JUST did. It’s: we’ll do a Friends at the Table live show once a year. [Janine and Jack laugh] Which, by the numbers, we’ve broken twice now. ‘Cause we’ve technically done two within twelve months.
+
+
+JACK: Yeah.
+
+
+AUSTIN: We did SHUX last October, right? Or was that September? That was October.
+
+
+JANINE: October.
+
+
+JACK: October.
+
+
+AUSTIN: Yeah. And then we did—
+
+
+JANINE: In hindsight, tying that to goals makes very little sense.
+
+
+AUSTIN: Really what it meant was like, we’ll probably have enough money to afford [JACK: mm-hmm] losing money on these, you know what I mean? [chuckles] 
+
+
+JANINE: Yeah.
+
+
+AUSTIN: We can afford to spend the money to send people across the country and stuff like that. Even though, blah blah blah. But it turns out, we thought that it was fun to do that, so we just did it. Maybe we just flopped those goals.
+
+
+KEITH: Oh, and it was SO fun to do it.
+
+
+AUSTIN: It was a blast. 
+
+
+KEITH: It was so good.
+
+
+AUSTIN: Like, thank you SO much if you came out to that show. I've been in front of live audiences a lot in the last five years, it’s been weird. Both in terms of like...going back five years ago when I was a teacher and like at academic conferences, through all of the big Giant Bomb crowds and huge, you know, huge spaces that Giant Bomb filled, to like really dedicated rooms filled with Kingdom Hearts fans [chuckles] for Waypoint. [Janine chuckles, Keith laughs] I love all those fans. I love them to death, they were all great. I've never had a crowd as tuned in and like on beat and in sync as the audience that came to Gen Con. Y’all were incredible. We had so much fun doing that show. You know, there was obviously some dead air or downtime between laughs or between responses, but I think, you know, if you wanted to do the pound-by-pound breakdown, what a great, incredible show that was.
+
+
+KEITH: There were some really heavy laughs in there, too, so.
+
+
+AUSTIN: I loved it. Some GREAT laughs.
+
+
+KEITH: I want to give a special shoutout to Art. No spoilers, but Art came with a planned bit and really, really, really had a lot of faith in it, and it totally paid off.
+
+
+AUSTIN: Pitched it to us a number of times. A number of—
+
+
+KEITH: I knew it was gonna be funny.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: But Art knew it was going to bring the house down, and it did.
+
+
+AUSTIN: And it did. And can I tell you, there was a second part to that bit that we never even delivered.
+
+
+KEITH: Yeah, yeah.
+
+
+AUSTIN: We can keep that in our back pocket. So. With that all said, we should get into Tips at the Table for August 2019. Let’s get to it. First up is a question that comes in from Wayne, who says...who asks a question that we’ve dealt with specifically:
+
+
+“What do you do when one of the players in your game has left the game, and there is little to no chance they will be rejoining? The other players in my game really enjoy the story we’ve been doing for a while now, but the player that left was pretty important to that story. Should I just try to continue with the same story without that player character or start a new one altogether?”
+
+
+AUSTIN: Any thoughts from the table?
+
+
+KEITH: We did that once, and I think we made that character MORE important.
+
+
+AUSTIN: We DID do that.
+
+
+JANINE: That’s true.
+
+
+KEITH: [laughing] We did!
+
+
+AUSTIN: We did do that. And what I'll say is: the distinct way we did that began with me talking to that player. As people know, Nick Scratch isn’t with the podcast anymore. But, you know, Nick was super involved with the way his character left the screen and kind of what the fallout from that would be. And so, if it’s possible, Wayne, for you to talk to that player, I think that’s always a really good way. Players have a good idea about who their characters are and kind of what they might prioritize and can help you brainstorm big ideas for why they might leave. The other half of this, for me, is: talk to your players. Do they want to continue the story without that player? Have them pitch you ideas about why that character has gone, about what would keep them motivated in the world. Or, find out if they’re eager to try out a completely new story, you know, or maybe you put this one on pause for a while. But involve them in the decision making, is what I'd say. Jack or Janine, did you have more stuff here, too?
+
+
+JANINE: So, this is a thing that like the group that I GM for every [laughs] like three months...this is a thing that we have to deal with like right now, because we had structured things in such a way that one of the characters was kind of the lynchpin for the group forming. And that player isn’t really able to play anymore, just in terms of like scheduling and stuff. So, this is a thing that I'm literally right now like, okay, what’s my plan for explaining why this character isn’t here anymore? And it’s one of those things where I don’t know if this player’s going to come back. I don’t know...like I can’t necessarily write this character out completely, but [sighs] I think my current plan is to basically use one of the NPCs that I had introduced originally, who’s sort of like a handler liaison kind of character, to bridge that gap. To like, fill that hole in the team for a mission or so, and then to see how the dynamic is at that point, and then have a sort of story reason for the other character to not be available anymore.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: I've seen other people also, you know, take over that character as an NPC. I don’t think I'd ever be comfortable doing that. 
+
+
+AUSTIN: Yeah.
+
+
+JANINE: I think that goes back to what Austin said about like you really need to talk to the players and stuff, ‘cause...ehh. But that’s an option. I mean, I guess there are situations where that could work really well. Especially if that character is someone that everyone is really, really connected to. But you would really want to communicate about that if you were gonna try it. 
+
+
+AUSTIN: Yeah. And I think that’s one of those things where, once people are all on the same page, you can feel safer with fucking it up, you know what I mean?
+
+
+JANINE: Mm-hmm.
+
+
+AUSTIN: Where part of your play can be you saying a thing as that character, or someone saying something as that character, then pausing to be like, “Uhh...is that what they would have done? Mmm, you know what, you know what, no, that’s not what happens. Let’s do this other thing instead,” right, like there are ways in which the...I'm not a big fan of the idea of like, the magic circle. Or the notion that what is said at the table is incontrovertible. The line between out of character and in character ought be blurred pretty often in terms of speaking about the narrative events. That’s not to say that I'm like all about metagaming in the kind of “players trying to win an encounter” sense, but in terms of like, “hey, are we delivering on the goal that we have as storytellers and gameplayers, OR should we rewind the clock a little bit and fix the thing we just said to make it make more sense?” yeah, do that. You know, you don’t have to pretend that you’re not playing a game to do this, to tell great stories while playing a game, if that makes sense. Any other thoughts here?
+
+
+JACK: I think the starting point has to be the conversation. You know, it’s that combination of...this is not sort of the beginning and ending of this character, where if you take it over or if the character appears in another form that’s how it’s going to be, you know, for the rest of the story.
+
+
+AUSTIN: Right.
+
+
+JACK: There is, like you said, always this space to say...I mean, all of the rules that you, hopefully, as a conscientious and active listening GM and players have put in place about, you know, listening to each other’s decision-making and having an X card and veils and talking about these things, you know, still apply even though this player character is in absence, right? So there’s always the room to say, “Do we actually feel okay about that decision that we made about this person’s character?”
+
+
+AUSTIN: Right.
+
+
+JACK: If you’re choosing to go ahead with it, you know, in the first place.
+
+
+AUSTIN: Yeah.
+
+
+JACK: But I don’t think it can be a unilateral decision.
+
+
+AUSTIN: Yeah, I agree with that completely. Alright. Keep moving here today. I feel like we have a handful of questions that will take a little bit longer, so let’s get into those. Like with this one from Summer, who says:
+
+
+“Is there a full length music album that you associate with a particular season of Friends at the Table? For example, I associate the 2017 album Humanz by Gorillaz with COUNTER/Weight because of its general tone and its themes of alienation, technology, and, of course, capitalism. Bonus points if your answer is not A Crow Looked at Me by Mount Eerie, [Jack chuckles] although that’s a super valid answer.”
+
+
+AUSTIN: I'll say, briefly, the funny thing about A Crow Looked at Me is it came out between the seasons it influenced the most, right? It is very much an album that is in line with some of the feelings of Marielda and Winter, specifically with regards to Samothes and Samot, and then with Samol in Spring, but like, I was obsessed with that album while we were playing Twilight Mirage, not while we were playing the Hieron games. And so like, in some ways, it is not an album I associate with the seasons, even though it was an influence, specifically on Tell Me. Which you can hear more of, [Jack and Austin chuckle] if you go up to the Pusher level and listen to a bonus podcast Jack and I did that came out recently. But I'm curious for y’all as players, if you have specific albums that come to mind for different things.
+
+
+KEITH: I don’t have a full album, although you can take a bunch of this guy’s music through the years and put it in different spots, probably. But there’s a song by Bill Callahan, who used to record under the name Smog, called “Too Many Birds”, and that’s my Fero song.
+
+
+AUSTIN: Oooh. Say it again, one more time?
+
+
+KEITH: “Too Many Birds” by Bill Callahan.
+
+
+AUSTIN: [slowly as if typing it] “Too Many Birds” by Bill Callahan. Love it. Great! I just wanted to make sure people heard it.
+
+
+KEITH: It’s a very lonely song. [Janine makes sympathetic sound, Jack chuckles] But it’s also sweet. It’s nice.
+
+
+AUSTIN: It IS sweet. [sadly] Aww. This is so sad. “One last blackbird without a place to land.” Fero! Fero, this is sad! [Janine chuckles]
+
+
+KEITH: Yeah.
+
+
+AUSTIN: I'm reading it.
+
+
+KEITH: But it’s nice. You gotta hear his voice.
+
+
+AUSTIN: Okay.
+
+
+KEITH: He’s got a nice voice, too.
+
+
+AUSTIN: Okay.
+
+
+KEITH: It’s not as sad as the lyrics are, even.
+
+
+AUSTIN: Okay! That’s good. Like Fero.
+
+
+KEITH: Right.
+
+
+AUSTIN: Literally like Fero.
+
+
+KEITH: Yeah. Yeah! Yeah.
+
+
+JACK: [amused] Not as sad as the lyrics are.
+
+
+AUSTIN: Yeah. Jack and Janine, does anything come to mind for y’all?
+
+
+JACK: I have three for Twilight Mirage.
+
+
+AUSTIN: [chuckles] Yep.
+
+
+JACK: And I was trying to think of ones for others, but Twilight Mirage was kind of the first season that I started making playlists to work with as I was going along.
+
+
+AUSTIN: Right.
+
+
+JACK: The three for Twilight Mirage are: the Bucket List Project by Saba.
+
+
+AUSTIN: Mmm.
+
+
+JACK: Which is an album by Saba from [clicks tongue thoughtfully] let’s see. From...god, I'm. [chuckles] I thought it was in my Spotify thing, but it was not. It was from 2016, and it’s an album about, I guess, finding a place of comfort.
+
+
+AUSTIN: Mm-hmm.
+
+
+JACK: And it has a lot of production on it by Felix who has done work in the past with Noname, and has this like—
+
+
+AUSTIN: Oh, sure.
+
+
+JACK: Really like wonderful polyrhythmic, hyper-melodic production style. And then also Sylvan Esso, who I've talked about in the past, and their album Sylvan Esso. which was useful to me in terms of thinking about like, how I want to communicate warmth in music.
+
+
+[TIMESTAMP: 0:15:06]
+
+
+AUSTIN: Mmm.
+
+
+JACK: Which is something you and I have talked about a lot recently, about how kind of like, warmth…
+
+
+AUSTIN: What that word means, yeah.
+
+
+JACK: “Warmth” is about as useless a descriptor in music as “fun” is in games—
+
+
+AUSTIN: Mm-hmm. 
+
+
+JANINE: [amused sound]
+
+
+JACK: Where you’re just like, “Oh, it’s warm.” Okay...how do you make that sound?
+
+
+AUSTIN: [amused sound] Yeah.
+
+
+JACK: And so I spent a lot of time listening to Sylvan Esso to...to think about the way they frame chords and the way they think about saturation and the lack of saturation in sound and intensity of sound and intensity of melody. And then Romaplasm by Baths which was released in 2017, which is an album that treats warmth in a very different way, with just these swirling, incredibly dense productions, that was super valuable and useful in terms of thinking about how to make a utopian sounding kind of soundscape.
+
+
+AUSTIN: Yeah.
+
+
+JACK: So, those are the three for me.
+
+
+AUSTIN: Those are good ones. Um…
+
+
+JANINE: Um…
+
+
+AUSTIN: You go ahead, Janine.
+
+
+JANINE: So, for me...a lot of these, sort of, are a thing that I come back to after the season is done.
+
+
+AUSTIN: Sure.
+
+
+JANINE: Where I will notice like that over the course of a season I've added like half an album to my sort of… [Austin laughs] I keep two playlists for characters. I have a public-facing playlist where I add songs very...I would say discriminatingly, but these playlists are always still hours long.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: But then I have sort of a larger dump playlist, where it’s like, this maybe has the feel but I can’t commit to it. And so I'll find, after a season, that I've added like half an album or something to the dump playlist. So for Twilight Mirage...and, well, then I'll go back and be like, “Oh, right, this whole album kind of…” Twilight Mirage is very much a Purity Ring Shrines [AUSTIN: mmm] kind of season to me, because there is like...that whole album is very beautiful in a...I don’t talk about music a lot. I don’t have the vocabulary to talk about music, but to me it’s like, beautiful in the same way as like gilding. 
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: It’s like a fancy kind of beautiful— fancy’s not a good word. But whatever. It’s a very like delicate, fine kind of beauty. But also, it is bizarre and threatening. [chuckles] 
+
+
+AUSTIN: Sure.
+
+
+JANINE: At points? And, for me, that very much encapsulates the feeling of what Twilight Mirage was and, you know, all that. For Hieron...this is sort of a different thing, because with Hieron one of the things that I started out with my Adaire playlist doing, was I just added like, half the soundtrack of Atelier Ayesha [Austin laughs] Because...and not because it really meant much, but because there was a tone to a lot of those songs that was like really jaunty, and it spoke to me a lot of like this kind of carefree, adventurous, mischievous kind of feeling.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: And that was what I wanted as my starting point. And then I moved away from that pretty dramatically, but recently I came back to it, just because, and I think it’s even...I think it’s solidified even more as, to me, a thing that represents what I participated in in Hieron in particular. There’s a song in that soundtrack called “Stargazer”, that is like...you know, it’s the sort of like upbeat “We’re gonna beat this! We’re gonna do it!” kind of thing, but also it’s called “Stargazer”. [chuckles] 
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: And it’s like a little bit rock and a little bit like fancy, so I kind of came back around on that whole soundtrack clicking for me.
+
+
+AUSTIN: I have a billion of these, and I have like stuff that’s obvious and stuff that isn’t, so I'll go over them very quickly. The original Hieron playlist that I made has...is the messiest of the playlists that I had, because it was just a...it’s not a playlist, right? It was just, “here is stuff that I am thinking of and listening to while prepping.” And so, that’s a lot of, for instance, songs from Wes Anderson soundtracks. Lots of, you know, very twee covers of sixties rock songs. Because that was very much the aesthetic of Friends— or, of Spring in— or, sorry, not Spring, of Autumn in Hieron, of Seasons of Hieron, at the time, back when it first started. But I do want to shout out one other specific thing that is both a big Hieron influence, and it’s an album I actually JUST talked about not that long ago with Jack on the “Tell Me” playlist— or, “Tell Me” podcast, which is Mount Eerie’s Wind’s Poem, which is probably the most influential album for Friends at the Table, for me as a GM. It is not A Crow Looked at Me in terms of its deep sadness, but it is still a kind of indie experimental noise album that has a very particular philosophical outlook about the world and nature and technology, that is at once skeptical of modernity but also refuses to categorize it as a thing separate from nature or separate from...like, it doesn’t see culture and nature as things in fundamental or ontological or inherent opposition, and that runs through all of Hieron. It runs through all of everything we do. 
+
+
+AUSTIN: [cont.] It’s specifically also my big Towers song, whenever Jack and I work on The Tower, it is what I listen to [chuckles] to get my head in the right place. For a couple of the other ones, I just want to shout out a few things. One, the other big Hieron one is The Yawhg. The Yawhg soundtrack is so important for setting the sense of impending doom, but not impending doom without jub— ebullient life more than jubilant life? Like, life filled with energy, life filled with activity. The Yawhg does that so well. For Marielda, one of my big touchstones...though I don’t think it’s in the Marielda playlist, it’s what I listened to a lot, was the Dave Brubeck quartet’s Jazz Impressions of Eurasia. Which has one of my all-time favorite songs on it, which is Brubeck’s take on...or, I guess it’s actually his composition, “Brandenburg Gate”. There’s a fantastic very long version of that on a Brubeck Meets Bach album out there that’s worth listening to? And there’s a great live version of “Brandenburg Gate” by Brubeck. And then, COUNTER/Weight. I'll give an obv— one that was very obvious, and the connection was very clear, and that is Ed Harrison’s NeoTokyo soundtrack. NeoTokyo was like a cyberpunk multiplayer first person shooter mod for Half-Life that’s super good and had a soundtrack, that wasn’t even in the game but was released separately? That is fantastic. Ed Harrison’s music—
+
+
+JACK: God, it’s so good.
+
+
+AUSTIN: It’s so good. He just published a spiritual successor album, that I don’t love as much as…
+
+
+JACK: No. It’s still really good, but…
+
+
+AUSTIN: It’s still really good, but the NeoTokyo soundtrack is outstanding, and is worth people listening to. The other one from...I mean, not that Ed Harrison is like a super well-known name at this point, but he did go on to like work on Deus Ex soundtrack and stuff like that. But the other one that is from someone much smaller is an album that’s self-titled by a producer named XXYYXX, that is from like 2012 I would say, that was really ahead of its time in terms of like hip hop and kind of urban dance production. And it just had the sound of what COUNTER/Weight felt like to me, this like amalgamation of different musical styles and kind of cultural touchstones. I really love that album, and that was a huge touchstone. And then obviously the Twilight Mirage ones are Endless and Blonde by Frank Ocean. [chuckles] Because, to like not say that stuff out loud...and it’s not the only stuff, right, like Blood Orange is in there too, and Purity Ring also was big for me in Twilight Mirage too, a hundred percent. But I can’t do a thing about what the soundtracks are, without...or what the kind of touchstones were for me, without noting Frank Ocean out loud, at the very least.
+
+
+JACK: Yeah. [chuckles] 
+
+
+AUSTIN: You know? It would feel like I was missing something pretty core [chuckles] to what inspired us that season. But there’s a billion other things there too. We could go on forever.
+
+
+KEITH: For some reason I don’t...I listen to music a lot [AUSTIN: oh!] of time every day, and I just don’t do a lot of association with Friends at the Table, I don’t know why.
+
+
+AUSTIN: Keith, you actually speaking reminded me of you giving me one of the hugest touchstones for Bluff City.
+
+
+KEITH: Oh!
+
+
+AUSTIN: Which is Forth Wanderers’s stuff.
+
+
+KEITH: Oh, I LOVE Forth Wanderers.
+
+
+AUSTIN: They’re so good. Slop especially. Their self-titled is good too.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Tough Love is good. But, so much of this like...so, Forth Wanderers is a band from New Jersey that sounds exactly like the way I remember my friends’ bands from when I was in high school in New Jersey. [Keith and Janine laugh]
+
+
+JACK: Yeah, yeah, yeah!
+
+
+AUSTIN: And I mean...do you know what I mean?
+
+
+JACK: Yeah.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Except legitimately good. But like, when I hear Forth Wanderers, really what I hear is Bailey White’s guitar music that she performed at the Barnes and Noble or the Borders. [chuckles] Bailey White from my English class, [JACK: yeah] who happened to have a guitar. Do you know what I mean?
+
+
+KEITH: Mm-hmm.
+
+
+AUSTIN: They make music that is like about a very teenaged angst. Teenage angst that’s taken seriously, in the sense that like, they are not afraid to be...lyrically and musically, they are not afraid to sound like they are speaking in cliché. And in their fearlessness of doing that, end up feeling very authentic and very honest about like, emotional pain and breakups and desire and…
+
+
+KEITH: Yeah.
+
+
+AUSTIN: It’s a very Bluff City sound.
+
+
+KEITH: I didn’t know one band could write so many unrequited love rock pop songs, [Austin and Jack laugh] and so many of them still be good.
+
+
+AUSTIN: Be so good! Be so good.
+
+
+KEITH: Really good, yeah.
+
+
+AUSTIN: So that’s a big one.
+
+
+KEITH: I do have one thing. I do have one thing that I forgot about. You said playlists, and I did make a Gift-3 arc music playlist [AUSTIN: oooh!] when we were doing that. Which, I'm not gonna read everything on here, obviously, but I'll read a couple names.
+
+
+AUSTIN: Sure.
+
+
+KEITH: “Myth” by Tranquilizer, parantheses, “(hardcore punk Japan)”. [Austin laughs] That is a great song that I only know from finding it on Youtube one time. There’s some Dinosaur Jr. 
+
+
+AUSTIN: Oh, sure.
+
+
+KEITH: This one titled “Improv Post Avant-Garde Noise Jazz Punk Jamming”. “Your Life or Mine” by Tenement is really good.
+
+
+AUSTIN: Mm-hmm.
+
+
+KEITH: “Cukoo For Bird Flu” by Ebu Gogo. A song from a math rock band called GIRAFFES? GIRAFFES! called “Our Collective Consciousness’ Psychogenic Fugue” is really good. Um…and— 
+
+
+AUSTIN: Keith, you’re making these up. You’re not, ‘cause I know these bands—
+
+
+KEITH: Nope, nope, this is real.
+
+
+AUSTIN: —but you can imagine.
+
+
+KEITH: Oh, sorry, I'll read the full title. “I Am S/H(im)e[r] As You Am S/H(im)e[r] As You Are Me And We Am I And I Are All Together: Our Collective Consciousness’ Psychogenic Fugue” by GIRAFFES? GIRAFFES! Really good band. I really like their first album, it’s called More Skin With Milk-Mouth.
+
+
+AUSTIN: Great.
+
+
+KEITH: It’s really good— yeah. And then a band that I've been listening to a lot that is very Forth Wanderers-like in vibe but not as much in music, Snail Mail.
+
+
+AUSTIN: Snail— you recommended them to me recently, I like them a lot. Thank you for that recommendation.
+
+
+KEITH: Yeah. “Thinning” by Snail Mail is on here also.
+
+
+AUSTIN: One last one for me is Summvs, S-U-M-M-V-S, by Alva Noto and Ryuichi Sakamoto. Huge influence on COUNTER/Weight also. Alright, we’re gonna move on. [chuckles] Before Keith and I try to out-indie music each other. [Keith laughs] Chris writes in and says:
+
+
+“I recently have been listening to a different podcast—” 
+
+
+AUSTIN: Waypoint Radio, though I've said this here, also.
+
+
+“—in which Austin mentioned that one of the reasons that—” 
+
+
+AUSTIN: [continued, but not reading directly] —we’ve been giving the idea of running a horror game a lot of time and thought is because I can’t just make a scary game, I have to make—this is me, now, Austin, speaking—make the horror about what terrifies me in real life. Which, I've said, involves dealing with real world issues, both larger concepts and personal struggles that would take preparation to tackle correctly. 
+
+
+“This got me wondering” Chris says, “as you’re all writers, and in some cases also GMs, at what point when you’re creating a narrative, tabletop or otherwise, do you decide what your story is really about? How much of it is planned, how much of it do you figure out during the process, whether that be writing or play, and how much do you only realize in retrospect?”
+
+
+AUSTIN: [sighs thoughtfully] Big question. And I don’t know that there’s like one answer.
+
+
+JACK: Yeah. And it varies depending on, not just what it is that...speaking for myself, what it is that I'm making, but also individual, kind of, components of that thing that I'm making.
+
+
+AUSTIN: Yeah. Yeah.
+
+
+JACK: There is definitely...when we started working on Twilight Mirage, right off the bat, we kept saying to each other, “Okay, we want to do a super colorful season talking about utopia and set in utopia.” And we kind of communicated that to each other from the beginning. And so we sort of went at it backwards in that case, ‘cause it took us a long time and a lot of discussion and a lot of on-air maneuvering to work out, [AUSTIN: mm-hmm] “Okay, what do we ACTUALLY mean by this?” And that’s part of the process, that’s fine, that’s not an uncomfortable way to go about it. Or, it might be uncomfortable, it’s not the wrong way to go about it, [Austin chuckles] by any stretch of the imagination. You know, part of the fun of making these things is going into it with some idea of what it is that we want to make and then kind of working away on that on air in the episodes, [AUSTIN: right] and going, are we nearer or further away? And similarly, the like...I think we have a pretty clear idea about what the next season is about, in terms of like broad thematic work, but we still have a lot of room to go to find out...okay, beyond saying these broad things about this theme, what specific [AUSTIN: yeah] touchstones are we interested in. What spaces are we interested in working in beyond just, oh this is a season about X or a season about Y.
+
+
+[TIMESTAMP: 0:30:02]
+
+
+AUSTIN: Right, right. This is...I would say that I am so much further away from what Season 6 is about. Even as I start to get— or sea— yeah, Season 6. As I start to get a better idea of what characters are it helps, as we fill in more of the gaps through the Road to Season 6 and through private conversations here and there, it gets clearer. But like, for me, it’s not enough to be like, “this is a season about empire”, right? I don’t know what the fuck that means. You could do a lot of stories about empire. I just finished the Imperial Radch trilogy by Ann Leckie and Provenance, and now I'm starting A Memory Called Empire by...da da da...Arkady...why do I—
+
+
+JACK: Martine?
+
+
+AUSTIN: Martine, thank you. And I'm really enjoying it. And they’re both books about empire, both sci-fi books about empire. They say VERY different things. They’re focused on different types of stories about empire. And I'm very grateful to, in fact, not know yet.
+
+
+JACK: Yes. [chuckles] 
+
+
+AUSTIN: One, because it would be...I would be so filled with anticipation that it would kill me if I knew what I wanted to be doing. I know this because Twilight Mirage. I knew that I wanted to tell a story about utopia in decline and about competing ideas of utopia, that it was killing me, and it made up pre-prep way more than I wanted to. Or pre-production, be in pre-production way more. But I would say that you’re right about Twilight Mirage being a thing that we figured out as we went along. And I would contrast with something like Spring in Hieron, where…
+
+
+JACK: Mmm.
+
+
+AUSTIN: I mean, I've known the arc of Hieron in terms of emotional and thematic heart since before Marielda, right? I knew the big questions were going to be about what to do when you face an impending disaster that will take something you love away from you. And we’ve talked before about that being a thematic stand-in for terminal illness, for that being a thematic stand-in or an allegory for climate change, for global warming, for the crisis that we are in. And so for those, I knew...the bulk of that story, I've known what it’s been about, so to speak. To use Chris’s language, here, to know what it’s “really about”, quote unquote. And I knew that, coming into Spring, that it would be about what people do under the shadow of those things, whether or not they try to live their lives, how they try to live their lives, how they respond to that stuff. And I will say, it has been much easier going [chuckles] than many past seasons because of that. I've loved doing Spring, and it has been a breeze, comparatively? Which sounds weird, because I think it’s been a pretty, you know, ambitious season in many ways, and I think about the way this season started, when I think about some of the high points, when I think about some of the structural stuff that we’ve done. But because I've had such a strong idea of what the core message is supposed to be, the core takeaway—and I don’t even mean like what the “moral” is supposed to be, but like what the emotional, thematic heart of the work is—it’s been easygoing, because I've been able to have something strong to orbit around when prepping and when running. It’s easy to refer to what that heart of the work is when checking decisions against it. Which is something...which isn’t to say it’s not work, right? Like I think about, we came into...Jack, you and I had a really good conversation about this right before we recorded the finale, or the epilogue. 
+
+
+JACK: Mmm.
+
+
+AUSTIN: The stuff that will be coming out in the next couple of weeks. The next— more than couple of weeks, it’s gonna probably be another month of episodes, at least. Was, we sat down and said: “Okay. What is this?”
+
+
+JACK: Yeah.
+
+
+AUSTIN: Like, what is our final takeaway? And thankfully we didn’t have to just like...we didn’t have all of the world in front of us, in terms of what takeaways could be. We both went inwards and said: “Okay. What has been true for Hieron so far? What is true to Hieron and the ethos of Hieron?” And so in that case, I think, all said, in the bulk of...in the kind of length of the work, Hieron was something I figured out pretty early. But, like Jack said, I think that’s not always the case. I think plenty of times there’s stuff that’s like, “Ohh, that’s what this is!” COUNTER/Weight was one of those. COUNTER/Weight knew once the faction game stuff started taking off in the way it did and understanding the importance of Rigour, you know? Janine and Keith, I'm curious for you, both as players and as people who have done other creative work, how you go about this? If this is something you prioritize, or if it’s something that just kind of happens?
+
+
+KEITH: I know that...you know...when I was growing up, the people that teach you to write are both the books that you read and then also your like English teachers.
+
+
+AUSTIN: Mm-hmm.
+
+
+KEITH: And I always had really BAD English teachers, [Austin laughs] which sucked, ‘cause it was also the subject that I liked the most in school.
+
+
+AUSTIN: Sure.
+
+
+KEITH: And so, one thing that I never liked when I was in school, was like...I always had teachers that would like, really prioritize outlining, and then like...using that outline a hundred percent. Like, part of me learning to write was like, if you’re writing an outline, that’s what you have to do. And I hated that, and I pretty much entirely didn’t ever want to do an outline to anything ever because of that?
+
+
+AUSTIN: Mm-hmm.
+
+
+KEITH: Which is, I think, not good. I never think ahead, because I hate to do that, and I don’t think it works. So don’t do that. [Austin and Janine laugh] 
+
+
+AUSTIN: So, DO outline things, is what you’re saying.
+
+
+KEITH: A little bit! Like, I'm sure that there’s like, you know...I'm sure that there’s a really, really nice middle ground, where an outline can give you fun ideas and then writing it can give you fun ideas. I personally don’t like to do the extra thing of...because it makes me feel like I'm deciding what I want to do before I even do it, and then I'm like, “well, then, why don’t I just do it, then? If I already know what I want to do, why would I write the outline of it?” and I don’t think that that’s a good attitude. [Austin and Keith laugh]
+
+
+AUSTIN: Well, I'm glad you know it.
+
+
+KEITH: But it’s fun!
+
+
+AUSTIN: The argument I would make in your...to your broader point, is not to let outlines be chains.
+
+
+KEITH: Yeah, totally.
+
+
+AUSTIN: Like, you can go back and be like: oh, wait, actually my outline is wrong. I'm in the middle of actually writing the thing now, this is—or running the thing or playing it or whatever— 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: And be like: oh, actually, this is not the point at which I'm ready to do this. I should go back and do—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Or I should stay here for longer, or whatever, you know.
+
+
+KEITH: Yeah, the thing that makes me sad to think about is the idea that you missed out on discovering something fun by exploring the idea, versus like...well, you already have the map, and so you steer the ship how the map says to steer it…
+
+
+AUSTIN: Right.
+
+
+KEITH: And like, if you had taken the left instead of the right turn, it might have been really fun down there. [Austin chuckles] And like, for me, I've never had fun outlining. Like, having the ideas is nice, I guess, but… [Austin and Keith laugh] But it’s like, I don’t know, it just feels very clinical to me and sterile, and the much more fun thing is when you’re having an idea in the middle of doing something instead of in preparing to do something. Like, it’s much more fun to, you know, stumble into a place that you end up having a good time at than looking at a itinerary and it tells you that you’ve got to be at that place at 7:00 and then you’re worried about how to get there and, you know, how long you’re gonna be there, and how you’re gonna get from that thing to your next thing. And it’s like, eh, but it might have been really fun if you had just wandered in from the street. I don’t know. [Austin chuckles] But also, I don’t think that that’s very practical or efficient.
+
+
+AUSTIN: But also, you don’t have to GM, so. [laughs]
+
+
+KEITH: Right, yeah, yeah, there you go. 
+
+
+AUSTIN: I think about that Gen Con game and like how it was not a game that I had a script for.
+
+
+KEITH: No.
+
+
+AUSTIN: And I was happy to throw away prep by the end, which like, wow, wild ending. Did not expect that. But, that would not have happened without some dedicated like, sit down, work out...if not an outline, still a sort of...like a map of possibilities space, if that makes sense? I think about Blades in the Dark levels as Hitman levels all the time. Which is my way to segue to Janine!
+
+
+JANINE: [amused sound] I think an important thing here and a thing that I don’t know that we’ve been super clear about, is that the things that are being put under the umbrella in this question all have, as a creator involved in them, you have different responsibilities.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: If you are...if the narrative you’re writing is a novel, like if you are writing a short story or a not-short story, whatever, on your own, your responsibilities as a storyteller are gonna be different than if you are doing a group activity, like GMing a game, or if you are doing a podcast especially.
+
+
+AUSTIN: Right.
+
+
+JANINE: I would probably situate doing a podcast somewhere in between the responsibilities as a person writing fiction alone and the responsibilities of a normal GM, because you do have a story that you want to tell to make the season feel solid and consistent and to make it express these ideas that, as a storyteller who is putting out something for an audience specifically, lines up. Whereas if you’re a GM just of a small group, it’s a bit different, because the audience are the people who are helping you make that story, and you need to...there’s more of a, not a middle ground there, but if you decide that you want to tell a story about authority corrupting an empress or something, if your players don’t give a shit about that empress? I mean, you can really try to make them give a shit about that empress— 
+
+
+AUSTIN: [crosstalk] Yeah. But if they don’t—
+
+
+JANINE: [crosstalk] But you might not be able to pull that off— 
+AUSTIN: Yep.
+
+
+JANINE: And if you really...if you’ve built your entire thing around, we’re gonna explore this character and what happens in these circumstances and stuff, and they just don’t want to do that, it’s not gonna...like, you can’t make it happen, you need to find...and, you know, if you’ve made that the locus of the story you want to tell, it’s gonna be a problem to readjust. And it might be bad, so. You know, it’s that thing of like...kind of, I guess, like what Keith said, where having an outline is good but also flexibility is important. I remember when I was in school, speaking of school stories, when I was in school, I also didn’t get along with one of my English teachers but also really liked English. And the problem that I often had was, especially as we began studying the structure of stories, was that I didn’t believe that writers did most of the things I was being told they did deliberately.
+
+
+AUSTIN: Mmm.
+
+
+JANINE: I thought...and largely because this is how I am as a writer, is I want to have like bullet points so I kind of know where I'm going, but I want to find my way there on my own. And I want to...especially when it comes to literary devices and things like that, I kind of just feel it and write as I feel, and that method...I think I’d be a better writer if I relied on that less. But, for me, that method works fairly well. For other people it’s not gonna work as well.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: But like, in general, the idea of like, you should know more or less where you would like to go, but if something good happens, if your players are really invested in a particular idea and that makes you think, “Hey, actually, this is a topic that’s worth exploring too,” being able to adapt to that and follow that. Same if you are writing a story alone. If you are writing a short story, if you’re writing a novel, if you’re writing whatever. If you trip and fall into something that you think is really interesting but you hadn’t really thought would be an important part of the story before, it’s a mistake to ignore that just because it’s not on the outline or because you didn’t think that was where the story was going.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: It can be really, really useful to tap into those things that you realize either you or your players or whoever have a passion or an interest or you find an angle for. That’s valuable stuff. That’s gold.
+
+
+AUSTIN: Totally.
+
+
+KEITH: And I think Austin and I have both played games where the people running the games have had a binder of “here is what your game [AUSTIN: yeah] is going to be”, and that’s not fun. For me.
+
+
+AUSTIN: Totally. I want to note one more thing here, which is: I want to broaden the umbrella of what your story is really about. Because I think...Friends at the Table is like notoriously theme-heavy. Seasons like Twilight Mirage—but even seasons like Marielda, which I point to as good entry-level like, get on board the Hieron or the Friends at the Table train—are high concept and have big broad ideas that are conceptually kind of like...can be tough to wrap your head around. And that is why it’s important to make sure that the umbrella of what your story is REALLY about also includes very procedural questions. I, again, just finished reading Ann Leckie’s Radch trilogy and then Provenance. Those stories are both space operas, they are both kind of politics-tinged or politics, you know, doused, stories about stuff happening in a galaxy filled with different cultures. But they are procedurally INCREDIBLY different stories. Provenance is a story about kind of low level...criminals? But not really criminals, it’s hard to get into without getting into spoilers. I know Jack wants to read these books, so I'm not gonna go down this road. But, like...you know, here’s a better analysis. Or a better...more pertinent comparison, is: what is Twilight Mirage about? Well, it’s about a utopia in decline. It’s about competing ideas of utopia. It is about, you know, the collision of people with good intentions. 
+
+
+[TIMESTAMP: 0:44:53]
+
+
+AUSTIN: [cont.] But also, in the first half of the game, it’s a game about exploration. It’s a game about uncovering tiles on a map. It’s a story about exploration. It is a story about emotional interiority, because that is how the Veil worked. That is a story about pausing and reflecting on how emotions impact outcomes. That is what that story is about as much as anything else. And part of the reason that we ended up realigning some of that stuff, was because we set out to make a story about—and I always come back to this specific analogy—chasing someone through a marketplace and flipping tables over as they try to get away. And also the marketplace is on a spaceship. And that was not gonna happen in the first half of this game, in the first half of Twilight Mirage, because procedurally, the game wasn’t built for that in the same way. You know, maybe someone would have gotten chased down a marketplace. I could have moved the camera into different places. The ground game certainly did go to a big city that did have a marketplace at a certain point. But because of the procedurality of the game, it wasn’t gonna come out with the camera on that sort of focus. 
+
+
+AUSTIN: [cont.] We were always gonna have to pause, we were always gonna come into the mind’s eye of the character and think about what they were thinking about in those moments. I think a lot about Gig chasing someone up a hill at one point, down on the ground. And thinking about like, zooming in on the question of whether Gig had ever fired a gun at someone before. And I think that was a perfectly good story to tell, but that wasn’t the story that we thought we were going to be telling. And, again, I stand by it, I think we told a fantastic story in Twilight Mirage. But that was one of those things where it’s like, oh wait, I didn’t really know what the story was that we were telling. I thought it was A, it was B, how do we realign these two things. Contrast that with Marielda, which, you know, this past weekend at Gen Con, I had to write a little tiny introduction for what Blades in the Dark was, because I knew some people would be at the show who had never heard Marielda and who had never played Blades in the Dark, and so I wrote: “Blades in the Dark is a game about lowlives, smugglers, thieves, and scoundrels risking their necks in an industrial fantasy world. Think about something like the video game series Dishonored or China Mieville’s Bas-Lag novels. It’s got a lot of cool mechanics, many of which I'll definitely forget or get wrong.” [chuckles] And like, that’s it! That’s Blades in the Dark. 
+
+
+AUSTIN: [cont.] Whether or not that is a story about a group like the Six who was trying to steal knowledge or it’s a story about a group like the Notion who, you know, playing in Scum and Villainy, were trying to become problem solvers in kind of a confusing, grimy, and overfilled world. Like, it’s playing with those sorts of like, okay you’re risking your neck. It’s scoundrels on the edge of society being put into strange positions where they’re getting by on their wits and their aptitudes. And that is what the game is about. That is what the story is going to be about, because that is the sort of gamic, or ludic, grammar that you’re playing with, if that makes sense. And so, really, if you’re playing, if you’re GMing a game, think about that really, really firmly. Because that isn’t just...game systems are not just things you toss on top to be like…“I have a good idea for a story, how do I just, uh, let’s use this one.” Like, the mechanics will absolutely shape the structure and message of what that story is. With that in mind, we should go back to a question I skipped over, totally by mistake, actually. [chuckles] This one’s from Beau, who says:
+
+
+“I’m planning on playing a game of Masks with my little sister. I'm the GM, and she is playing the Outsider, a cute buggy girl—”
+
+
+AUSTIN: Buggy? I guess buggy. I thought maybe bunny, but buggy.
+
+
+“—girl, who is very enamored with humanity and came to Earth to study humans and their environment. A lot of Masks worldbuilding, character/team generation, and mechanics is based on having multiple players, so I was wondering if I should make an NPC as if she were a PC, or if I should let her be the solo hero. If she goes solo, what sort of questions should I ask to build out her life? Also, since she’s an alien, [Austin chuckles] how can I get her to confront humanity in interesting ways without having teammates to protect or impress? I was thinking about giving her an evil Larry/mind frienemy who urges her down a path of villainy or detachment, but if you have more comic book-y narrative suggestions, I'd love to hear them.”
+
+
+AUSTIN: Any thoughts here, on this sort of one-on-one storytelling, especially with something like Masks which is so...focused on like character influence and interaction and stuff like that. I'm actually curious if Masks as a book has specific rules around one-on-one play? I don’t know if people had actually dug through Masks that deeply to see that.
+
+
+KEITH: If it was there, I don’t remember seeing it. I didn’t read the whole thing, but I did read a good chunk of it.
+
+
+AUSTIN: Yeah, it’s a cool book. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: For my money, I guess I have a couple of thoughts here, and one is: are you sure Masks is the right fit for that style of game? For that sort of one-on-one game? Definitely think through it. I haven’t looked at Masks in a little bit, and so I don’t remember how important it is that you have teammates to do things like Influence with…
+
+
+KEITH: That was like a pretty…
+
+
+JANINE: I mean, there are a lot of mechanics that...yeah, that are like involved team dynamic, right?
+
+
+AUSTIN: Yeah, yeah, yeah.
+
+
+JANINE: Like, that’s a significant portion of it.
+
+
+AUSTIN: I guess my thing there is like, there may be ways to play with things like influence without thinking about...just without actually just building another PC. One thing that I think people...one thing that I got tripped up on, I don’t want to just put this on other people. One thing that I got tripped up on a lot, when I first started looking at games like Masks, but also games like Dungeon World or apocalypse world or Blades in the Dark, was the idea that I as the GM was at like a different ontological, different sort of play level than the players. I wasn’t playing with the same rules as them, right? In D&D, when I put goblins on the map, especially as D&D became kind of more unified in some ways, they worked basically the same way. They had a size, they had a damage number of dice, they had an armor class, they could move a certain number of spaces or a certain number of feet, and I operated them not entirely dissimilarly from the way that players operated their own characters in the world. I was in charge of more people, my characters tended to have less hit points and less cool abilities, but that’s basically how D&D worked. Or, similarly, any of the games that I ran a lot of back in college. 
+
+
+AUSTIN: [cont.] But when you look at games like masks, your moves are not tied one-to-one with the players’ moves. Like, you’re told, as the GM, to do things in terms of soft and hard moves, things like putting someone innocent in danger, or showing someone how their move has a weakness or how their special abilities can be turned back on them, or, you know...uh, I’m trying to think of other stuff from it. Cause someone to speak an unfortunate or frustrating truth about the world, stuff like that, right? So, one is: focus on those, and I bet you can still have just a good game, even without tackling this specific dilemma head on. Because those core moves give you the ability to do the kind of big questions you’re asking here, in terms of “Hey, how can I make this character care about the world?” without necessarily just replacing them with a player character. Also, masks specifically gives you the ability to build villains in ways that they have special moves to do that sort of stuff, for sure. What I will say is that you will probably have trouble with certain playbooks, but I guess...I don’t remember how the Outsider works. I don’t remember if that’s in...yeah, here we go. I'm now looking...I'm now just directly looking at this playbook. 
+
+
+JACK: [amused breath]
+
+
+AUSTIN: [sighs] Yeah, I think the thing that you’ll have to do is really fill the world with good NPCs who people— who your sister cares about. ‘Cause it’s...the stuff that’s here is stuff that’s just like, “When you comfort or support someone by telling them how they exemplify the best parts of Earth,” that doesn’t need a teammate, right? You can imagine Clark Kent doing that with Jimmy Olsen or Lois Lane just as easily as you can imagine Starfire doing that with Raven or Robin. I can’t believe I got a bunch of comic references right, [Jack chuckles] as I have not thought about any of those DC characters for quite a long time. But like, yeah, that’s a thing that you can totally do without needing to refer to another player character in a team or something like that. I think, really, here’s the big answer, is: try it and see how it goes, and then adjust, and don’t be afraid of adjusting. 
+
+
+KEITH: The good thing is you could always just take what you were doing and move it over to a different game, and just keep the masks setting if you really wanted to.
+
+
+AUSTIN: Yep. Yep. Totally. 
+
+
+KEITH: We’ve done that.
+
+
+AUSTIN: Totally! Sorry, I'm literally just checking to see if the book has anything about the words “one player” or “two players”. [chuckles] But I don’t see anything. So, sorry for like the dinging noises. The book does say 3-5 players, meaning a GM and two players. But, you know. The other half of this is: if you think it would be fun to have a player character, and if you think it would be fun for your sister to have another player character to bounce things off of, try it!
+
+
+KEITH: You could always have your sister play two characters.
+
+
+AUSTIN: You absolutely could. Yeah, that’s a good idea also. And a good way to start practicing the idea of, like, “oh, I'm not just one-to-one my character,” though I do think it would be a little extra work, you know?
+
+
+JACK: Two characters is fun. But it’s tricky, and like…
+
+
+AUSTIN: Yep.
+
+
+KEITH: Yeah.
+
+
+JACK: Yeah. I worry about like...the question isn’t super clear about, you know, how young the little sister is. And I'm wary of giving advice that is like… [laughs] 
+
+
+KEITH: Well, a little sister could be 80 years old if the brother is 84.
+
+
+JACK: Yes, absolutely.
+
+
+AUSTIN: Mmm. Mm-hmm.
+
+
+JACK: But like [sighs] I'm wary of being like…
+
+
+JANINE: Also, experience level.
+
+
+JACK: Putting too much— yeah. Yeah. Experience level.
+
+
+JANINE: Is this the little sister’s first game? 
+
+
+AUSTIN: Right.
+
+
+JANINE: Is this not at all their first game?
+
+
+AUSTIN: Totally.
+
+
+KEITH: Playing two characters would be really tough, but it would be fun to...to have to roleplay two people that were not… [laughs] two people that are not the same person, and having to balance that. [laughs] It would be very funny.
+
+
+AUSTIN: Right. I think it’s—
+
+
+KEITH: Or maybe you could even...I mean, it’s you and your sister, you guys can do whatever you want. [Austin and Jack laugh] So you could really have...you could play the character out of, you know, combat, and then it could switch to she has control of this character in combat versus villains or whatever. You could do it however you want, really. So that your sister’s not having to like, act out scenes with herself.
+
+
+AUSTIN: With herself, yeah yeah yeah. Totally. Cool. Any other thoughts here? Happy to keep moving. Let us know how it goes, is what I'll say. I'm very curious.
+
+
+JACK: Yeah.
+
+
+AUSTIN: This is from Adam. Adam says:
+
+
+“A couple of episodes ago, Austin said how much he likes talking about individual moves in games, so here’s just that. I'm in a Blades in the Dark game where I play a Slide, and one of the Slide’s moves is called Rook’s Gambit. The move allows you to push yourself to roll your highest action rating for a different action, and you’re supposed to describe how you adapt your skill to this use.”
+
+
+AUSTIN: Janine, you had a very similar move as Signet, in the second half of Twilight Mirage.
+
+
+“I’ve been trying to think of different ways I could adapt my best action ratings to other tasks as practice for when I take this move and have to do it on the fly. So, I was wondering if y’all could talk about different ways to utilize this move. My Slide’s highest ratings are Finesse, Prowl, and Sway, but you could talk about other ratings too, if you so desire. Thanks for the help in advance.”
+
+
+AUSTIN: Janine, I'd love to hear you, in terms of just talking about how Signet used a very similar move in Twilight Mirage. Which was, again, basically like: push yourself, and you can use your best— you can use whatever action you want, whatever action score you want, as long as you can explain how it makes sense, basically.
+
+
+JANINE: Yeah. I think that move was called “I’m not a doctor”. Or, sorry, no—
+
+
+AUSTIN: Or, I'm—
+
+
+JANINE: “I’m a doctor, not a…” It was something…
+
+
+AUSTIN: “Not a...dot dot dot.”
+
+
+JANINE: Yeah. Yeah. ‘cause it was the reference of like, “I’m a doctor, not a...mechanic”?
+
+
+AUSTIN: Not a blah blah...right.
+
+
+JANINE: I can’t fix that motorcycle with the heart in it. Whatever. [laughs] I haven’t watched original Star Trek in a long time.
+
+
+AUSTIN: Is that a thing you did? Did you fix a...did you fix a motorcycle with a heart in it?
+
+
+JANINE: [laughs] I was just trying to think of something that would...you would ask a doctor to do, but maybe a mechanic would be better...look. [Austin laughs] Okay, so… [sighs] That move was actually a little bit frustrating, ‘cause I really liked it on paper.
+
+
+AUSTIN: Mmm.
+
+
+JANINE: But actually using it in the heat of the moment sometimes felt weird. It does feel weird to be like...it always felt like I was cheating a little bit.
+
+
+AUSTIN: Uh huh?
+
+
+JANINE: Or it...and it was...I felt like I was cheating with a character who didn’t cheat, you know? 
+
+
+AUSTIN: Right.
+
+
+JANINE: I feel like that move would have felt very different with someone like Adaire, where I could have been a lot more confident in the bullshit that was happening. With Signet, it always just kind of felt like I was making an excuse. So it’s… [sighs] It’s tricky. I don’t know what the specific rules for Rook’s Gambit are.
+
+
+AUSTIN: I'll read you the...yeah.
+
+
+JANINE: For the “I’m a doctor, not a whatever”, it was that you had a previous experience in the doctoring field that gave you this sort of fringe knowledge.
+
+
+AUSTIN: Yes. So, the...there’s an important distinction here, which is, yeah, “I’m a doctor, not a blank”, not a dot dot dot, is: “You can push yourself to roll DOCTOR while performing a different action. Say which patient, research, or posting taught you this trick. Each time you use this ability, we learn a little bit more about your past. Consider introducing your contacts in these discoveries if appropriate.” Whereas, Rook’s Gambit, as written, is: “Take two stress to roll your BEST action rating while performing a different action. Say how you adapt your skill to this use. This is the jack of all trades ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you.” So, kind of distinct. One, in terms of just like, it’s not tied to a specific skill, it’s tied to whatever your best skill is. So, it’s not even like you can decide a different one, it’s whatever your best rating it. And then, it does not explicitly do the thing that “I’m a doctor, not a blank”, which is it doesn’t explicitly tie it to your past or your contacts— 
+
+
+JANINE: Mm-hmm.
+
+
+AUSTIN: Or your heritage or whatever. It kind of just says, how would you use...in this case, think like how would you use, you know, Prowl, to throw a punch? How would you use Prowl to, you know, misdirect a ghost or whatever? You know, do some ghost shit?
+
+
+[TIMESTAMP: 1:00:29]
+
+
+JACK: Yeah.
+
+
+AUSTIN: Which is a little more flexible, because then it’s about execution.
+
+
+JANINE: Yeah.
+
+
+AUSTIN: But I do like, still, thinking about looking at your character’s whole sheet and thinking about, especially in Blades in the Dark where you’re talking about characters who do have specific heritages, particular backgrounds, and framing it that way, moreso than just being like, “Well, I'm really good at sneaking, so because of that I can tell this ghost to fuck off.” [Austin chuckles, Janine and Keith laugh]
+
+
+JACK: Yeah, it’s like...it’s good to think of skills in games like Blades in the Dark and Dungeon World as kind of like...they speak about the way your character has moved in the world? Like, a character with high, you know, strength, has moved in ways that have been about their strength, been about their physicality. And that has a lot of implications about things that the character has done. I mean, I know MY strength as Lem is substantially lower than Hella’s strength, and that tells us something about the way Hella has chosen to act. And the way Lem has also chosen to act, or not act. [Keith laughs] And so, when it’s like— yeah. [chuckles] 
+
+
+AUSTIN: Lots of that one.
+
+
+JACK: When it’s like, you know, I'm gonna use prowl for this...you’re right, it’s not just like, I'm gonna sneakily tell this— I'm gonna tell this ghost to fuck off...but sneakily. It’s more just like, you know, what might I have encountered—
+
+
+AUSTIN: Yes.
+
+
+JACK: Through my living as someone who has...who has embodied Prowl—
+
+
+KEITH: Who has snuck.
+
+
+JACK: Who has embodied Prowl energy.
+
+
+AUSTIN: Right. 
+
+
+JACK: How does Prowl energy help me in this? Do I have experience breaking into warehouses? Or do I have experience sneaking into cemeteries to try and, you know, get stuff out of there? Have I met people—
+
+
+AUSTIN: Have I literally snuck through, you know, down a catwalk, and then below I heard someone say in exactly the right intonation, “Fuck off, ghost.”
+
+
+JACK: “Fuck off, ghost!” and the ghost said, “Oh, come on!”
+
+
+KEITH: “Who are these clowns?” [Austin and Jack laugh]
+
+
+JACK: This actually reminds me a lot of when you are making a case for rolling Defy Danger in a certain way.
+
+
+AUSTIN: Yeah. Yeah.
+
+
+JACK: Oh, god. My favorite game.
+
+
+JANINE: [laughs] Yes.
+
+
+JACK: [laughing] Trying to persuade Austin to let you roll…
+
+
+JANINE: “Here’s why this is my best stat—”
+
+
+AUSTIN: Uh huh. [Jack laughs] 
+
+
+JANINE: “—that I need to roll for this specific thing.”
+
+
+JACK: “Can I?”
+
+
+AUSTIN: Totally.
+
+
+JACK: Yeah, where it’s like, “Look, now, look. I'm gonna make a VERY good case for how my dexterity is gonna help me know how to build a dam.” [Janine chuckles]
+
+
+AUSTIN: Right. The thing that’s fuckin’ wild is that in Blades in the Dark you can do that anyway, right?
+
+
+KEITH: Right.
+
+
+AUSTIN: Like, you can always already—
+
+
+KEITH: This just takes away using the reduced effect.
+
+
+AUSTIN: Exactly that, or in terms of positioning, right? But yeah, mostly effect, where it’s like, “You can’t use prowl to tell a ghost to fuck off!” [Jack chuckles] I can’t say that in Blades in the Dark. You can be like, “No, I learned one.” It’s like, alright, well, it’s gonna have REAL limited effect. [chuckles]
+
+
+JANINE: I know how you can use Prowl to tell a ghost to fuck off, now. I've been thinking about this.
+
+
+AUSTIN: Alright. Tell me. You tell me.
+
+
+JANINE: This presumes that the ghost isn’t focusing its attention on you immediately, [Austin chuckles] but I think the best way to tell a ghost to fuck off would be in a way that is very indirect.
+
+
+AUSTIN: Mmm.
+
+
+JANINE: So, if you could Prowl in a way where you are not obviously in sight, but your voice would maybe be amplified, like if there’s one of those old-timey…
+
+
+JACK: [distantly] Fuck off!
+
+
+JANINE: Talk tube systems— 
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: Where you like [laughs] talk into the thing in the wall and it goes up a floor or whatever?
+
+
+AUSTIN: Uh huh?
+
+
+JANINE: Like on boats and stuff. So if you could use—
+
+
+KEITH: Or like in a park, like in a children’s park.
+
+
+JACK: Mmm, mm-hmm. 
+
+
+JANINE: Yeah, or like if you’re in some sort of large theater where your voice will carry—
+
+
+AUSTIN: Uh huh?
+
+
+JANINE: —and you could sort of hide yourself, but then in a very distinct way tell the ghost to fuck off. 
+
+
+AUSTIN: Are you— 
+
+
+JANINE: I think that would affect the ghost more than telling it that directly. Because you’re speaking in the language of spectacle—
+
+
+AUSTIN: Right. 
+
+
+JANINE: —which ghosts appreciate.
+
+
+AUSTIN: Oh. I thought you were going to say the language of spectres, which to say, you were gonna [Janine laughs] like, “BOO!”
+
+
+JANINE: That too.
+
+
+AUSTIN: To the ghost, you’re sneaking up on the ghost the way a ghost might sneak up on you.
+
+
+KEITH: Imagine scaring a ghost, actually, I think would be really effective. [Janine chuckles]
+
+
+AUSTIN: You’d have to be SO scary.
+
+
+KEITH: Because a ghost is usually the scarER.
+
+
+AUSTIN: Right. Not the scarEE.
+
+
+JACK: What is a ghost afraid of?
+
+
+AUSTIN: You know, we’ve been asking this question for years. [Austin and Jack laugh] Yeah, I think that that’s...we’re getting towards the fun stuff, here, right? Which is like, have fun with it, really. Come up with unique solutions. 
+
+
+JACK: Most of all, have fun.
+
+
+AUSTIN: Most of all, have fun. Most of all...like, be true to the fiction, but you have this ability. You have this ability. Or, you’re going to have this ability. Your GM’s job is to let you use it and to remind the world that this is something unique about you, and so that you should get go really play that up, you know?
+
+
+JANINE: It’s so hard to try and practice this kind of thing in advance.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: I think that was the other thing that frustrated me with that move with Signet was like...there were a lot of situations where if I was just sitting on my own I could come up with like all these cool little backstory elements for Signet, but a lot of them just didn’t apply to the actual situations I was in?
+
+
+AUSTIN: Right.
+
+
+JANINE: So then I would...you know, there was always the risk of like, “Oh, I have this excerpt name, and it would have been really cool to use it, but there’s no way to…” and then you get really hung up on like, “I had this really cool idea but I’m never...I can’t do anything with it.”
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: It doesn’t...I can’t… [chuckles] Like, thinking in advance about...here’s an actual concrete example of why trying to plan things that are cool in advance—just like throwaway things, we’ve already had the talk a million times about like, don’t plan big story beats and whatever off camera.
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: But I had this really specific thing in mind. And it was specifically an answer to a Defy Danger roll that never happened because I haven’t done a Defy Danger that worked for this in a long time. [Austin makes amused sound] This is a big reveal. I've never mentioned this. I like teased this to Austin, and Austin was like, “You should tell me, ‘cause then I can make it happen.” and it’s like, no no, but this is just a Defy Danger, it’s just a like…
+
+
+AUSTIN: [amused sound] Uh huh.
+
+
+JANINE: It’s just a how-you-get-out-of-trouble thing. Adaire’s braid was gonna be fake.
+
+
+AUSTIN: Ooh, that’s really good! 
+
+
+JACK: [laughs] Oh, that’s really good.
+
+
+JANINE: It was gonna be fake, attached to the snood, so if someone tried to grab at her, I could say, “Aha! They grab her braid, the snood comes off, she has a cute bob.”
+
+
+AUSTIN: Right. Right. That’s great!
+
+
+JACK: [pleased] Fake braid!
+
+
+JANINE: It’s fun, but like it’s not a thing— one— 
+
+
+AUSTIN: But I can’t set that up without knowing it. 
+
+
+JANINE: No.
+
+
+AUSTIN: I'm never going to just have a character grab your hair.
+
+
+JANINE: But also, again, we didn’t have a situation where there was like a Defy Danger that came up.
+
+
+AUSTIN: Right.
+
+
+JANINE: Because Adaire was really fucking good at stuff at that point.
+
+
+AUSTIN: Uh huh! Yeah.
+
+
+JANINE: So it just didn’t happen. And telling you about it wouldn’t have made it happen, because that’s just where we were at. She was fast and good with a sword, and that was that.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: But like, you know, you can come up with clever little things all you want, but if they don’t fit in at the time...like, the thing that happens at the time...it’ll either snap into place or it won’t, kind of thing?
+
+
+AUSTIN: Yeah. Yep.
+
+
+JANINE: You can’t get too in your head about it.
+
+
+AUSTIN: You can’t force it, yeah.
+
+
+JANINE: Yeah.
+
+
+AUSTIN: Yeah. Totally.
+
+
+JANINE: Just understand the move, and get a feel for it, but.
+
+
+AUSTIN: Yeah. Totally. I think that that is...I think that that latter part is especially it, right? Know who your character is in like this...almost more abstract way than the encyclopedic way. I say a thing about recording podcasts a lot, which is: recording podcasts is an exercise in becoming comfortable saying to people who listen to your show, “Yeah, that sounds like a thing I would say.” [others laugh] Because you just forget. You just forget so much of what you’ve actually said. And the...getting that familiarity with your character will allow you to have answers for things like this on the spot, where you’re like, “How the fuck would I prowl a ghost? Oh, okay, yeah, that sounds like a thing that would have happened to me. That sounds like a thing I would know how to do.” That is my big advice, just that more general familiarity will go a long way.
+
+
+KEITH: Prowl a Ghost, by the way, is featured heavily on my, uh, Gift-3 arc playlist. [Austin laughs, Janine makes amused sound]
+
+
+AUSTIN: Perfect. Uh, da da da…okay. Any other thoughts here or can we keep on moving? [pause] Okay. I'm also just checking something to see if I can briefly...uh, da da da...da da da...sorry, I'm looking to see if I'm right about something in terms of the ways in which...oh! There is one other thing I want to say about this move. It costs 2 stress. That’s not nothing.
+
+
+JACK: No!
+
+
+JANINE: Yeah.
+
+
+KEITH: Right.
+
+
+AUSTIN: That’s not nothing, and so you shouldn’t feel like...you shouldn’t feel too bad about coming up with weird answers. 
+
+
+JACK: Mmm.
+
+
+AUSTIN: Again, I think Janine’s point with Signet is unique, because Signet was Signet, and I get what you were saying there about feeling like cheating. But if you’re playing a Slide, who is a cheater…
+
+
+JANINE: Yes. 
+
+
+AUSTIN: [chuckles] That is what a Slide is.
+
+
+JANINE: That’s what I mean, is like: Adaire with that move, completely different story.
+
+
+AUSTIN: Yeah, absolutely. That like, yes, the...you should feel comfortable, because it’s not like you’re not putting out a pretty substantial cost, right? You already could have been paying two stress to get +1 die, you know? Because that’s what pushing yourself does, so. So yeah.
+
+
+KEITH: I mean, the real benefit to that move is when you want to do something that you don’t have any dice in.
+
+
+AUSTIN: Yes.
+
+
+KEITH: And your best move has like 3 points or 4 points.
+
+
+AUSTIN: Right.
+
+
+KEITH: And then it’s 2 stress, and you’re going from no dice to 3 dice or 4 dice.
+
+
+JANINE: Yeah.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: That’s huge.
+
+
+AUSTIN: So, here’s the thing I wanted to note, real quick. Was earlier, I kind of had a throwaway line where I was like, “In Blades, the player tells you what action they use.” The actual truth is: the player tells you what action they DO. Which is to say, the player describes what their character does, and then submits an action that lines up to what that is. I'm just gonna read from the book, because I want to make sure this is super clear, ‘cause I know this is actually a point of contention in terms of Forged in the Dark games and how much authorship players have versus GMs. “When an action roll is called for, the character is usually already in motion doing something in the fiction. This thing they’re doing will almost always determine which action rating to roll. However, a player is free to revise their character’s action in order to use a different rating, as long as the character performs the new action in the fiction. For example: Nox wants to sneak into the secret meeting room of the Circle of Flame. The GM asks her how she does that. Nox’s player says that she’ll climb the outside of the tower and slip in through a window. Climbing is a Prowl action, so that’s what she’ll roll. Nox’s player might change her mind and say, ‘Hmm, I'm not very good at prowling.’” because I'm part of the Six, and I never took a point in Prowl. [Austin chuckles, Keith laughs]
+
+
+JACK: Not one!
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Maybe some other groups took some more points.
+
+
+AUSTIN: Exactly. “‘I want to climb in using Finesse instead. It’s like I'm finessing my way in, right?’ No. Nox can certainly try to Finesse her way in through misdirection or subtle action, but Nox cannot, quote, ‘use Finesse to climb a tower.’ The action of climbing is, well, climbing. Athletic moves like that are the Prowl action. If Nox wants to Finesse instead, that’s fine, but that means she is not climbing the tower. Sometimes several actions will reasonably apply to a situation. This is fine. The player may choose the action they want to perform, and the GM sets the position of the roll accordingly.” And the example here is: “Arlan is hanging from a rope in the darkness outside the quarters of Mylera Klev, leader of the Red Sashes. As Mylera enters the room, Arlan’s player says she wants to shoot Mylera in the back. Which action should she roll? Prowl covers an ambush with close violence, and Hunt covers shooting from a distance. They both seem to apply here. The GM says that Hunting will be at a controlled roll—this is an ideal Hunting shot, after all—and a Prowl attack will be risky. To, quote, ‘ambush with close violence’, Arlan will have to first swing through the window and then follow up with a backstab, exposing her to more danger.” So, I just wanted to be clear, this is a common point of conversation among people first getting into Blades in the Dark or Forged in the Dark games, which is like, it is not just the player gets to say...this just came up in the live game, right? The player gets to describe the action and can change it to fit what their stats are, but they have to change the action. It can’t just be: “Well, wait, can I do the same thing but with Finesse, and can’t you just let me do it with limited effect?” 
+
+
+AUSTIN: [cont.] The GM can say “yeah” to that, and I've done that plenty of times, but there are times in which the GM CAN say, by the rules, “No, the thing you’re describing requires you to describe to me a different set of actions.” The thing that this move does, for Adam, is that it lets Slide, the Slide that they’re playing, keep the same fictional positioning, I believe, without...which is to say, the same degree of effect, without describing something wildly different, you know? Or without needing to use that lower score, basically. So yeah, that is— 
+
+
+KEITH: The Slide CAN Finesse through a window.
+
+
+AUSTIN: The Slide can use the Finesse SKILL to…
+
+
+KEITH: Right, to Prowl.
+
+
+AUSTIN: Or, score, to Prowl. That’s exactly it. 
+
+
+KEITH: Right.
+
+
+AUSTIN: The Slide can say, “Actually, my skill at Finesse has made me, in this case, a better Prowler. I'm still Prowling, but I'm doing it with my Finesse score.” And then you could say, “Well yeah, I do these two things...these two things are like the front and back of my hand, because I always do them together. I Prowl and then I Finesse by pickpocketing, and so I have just good muscle memory for Prowling when I'm thinking about it in terms of Finessing.” or whatever bullshit. But you have the move! You have the move! You spent the stress! You get to do it. Other characters don’t have that same freedom. So that is my close reading of the book. An important one! ‘Cause I think we forget this a lot. Anyway.
+
+
+KEITH: So, I guess it’s true that Austin has said how much he likes talking about individual moves in games. [chuckles] 
+
+
+AUSTIN: I have, it is true. [Janine laughs] I really like it, I really do. And it goes back to me, again, talking about the idea of like grammar, your kind of game grammar, framing how stories turn out. And the other thing about Blades games is...I've been listening to someone play Beam Saber. I've been listening to The Cenotaph, which is Austin Ramsay’s Beam Saber actual play, and it’s been SO...I am loving listening to it, because I love...because they have good characters, because the world is cool, the setting for the Beam Saber is great. But also, I really just love hearing Austin run Blades in the Dark, or run Forged in the Dark games, because of thinking about it… [sighs] I was just talking to Jack about this, and also to you, Janine, because I was with you when I was listening to it. [chuckles] But, there’s this degree to which it feels like listening to someone play an instrument. Or, Forged in the Dark games to me feel like...Dungeon World feels like me playing a drum. I know the rhythm really well. 
+
+
+[TIMESTAMP: 1:15:06]
+
+
+AUSTIN: [cont.] And just like A drum, like a snare drum. Running Forged in the Dark feels like needing to play a full set, which is to say, way harder to run that game. But there’s a lot of flexibility. And so one of the ways is, if you’re a GM and you want to be looser on how players can use skills to fill in the gaps of other skills that they’re missing, you can just do that. Like, it’s within your power to be more lenient with letting players blend skills together. Or, by not putting the effect lower. Or, by going the opposite direction, being a real hardass around that stuff. That stuff is a choice of authorship and tone that you can take as a GM. That stuff is not like “I’m running the game right or wrong,” that is: how have you set up your drum kit? That is like what drums do you have available to you? Or, you know, how hard are you pressing the keys on the piano, you know? How are you using all of the different tools at your disposal, basically. Alright. Now I will move on. Tim, speaking of tools at your disposal. Tim says: 
+
+
+“Austin does a wide variety of great NPC voices and does a character voice in some games he’s played in, but none of the Friends at the Table player characters do, as far as I can…”
+
+
+AUSTIN: As far as I...can think? As far as I can...what’s (fate??? unclear 1:16:22)?
+
+
+JANINE: Can tell? “As far as I can tell”?
+
+
+AUSTIN: Can tell, can tell. I was thinking— yeah, okay. I think Keith did, when he was playing Sokrates? 
+
+
+“Is this a conscious production decision for Friends at the Table or just down to the preferences of these players? Have any of the players experimented off camera with some kind of character voice, and would they consider giving us a blast now? Also,” Tim says, “I’m not suggesting the players SHOULD do voices, I'm just curious.”
+
+
+AUSTIN: This is on y’all.
+
+
+JANINE: We most often play the same character for a long time.
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: And doing a character voice feels like it would be annoying. Like, annoying as a player to have to remember...like, a thing that is noticeable in Twilight Mirage, I think, is the number of times I react to something and then say, “Signet doesn’t say that.”
+
+
+AUSTIN: Yeah.
+
+
+JANINE: Because, my first reaction...I don’t do this as much with Adaire, because Adaire is allowed to be rude. [Keith laughs] But, you know, there is that initial like, “I want to react to this immediately as a person,”
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: And then there’s that moment of “Is this what my character would do?” because your GM will often take what you say, correctly, as what your character is saying and doing.
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: And when you add the layer to that of like “and also I need to do a cockney accent” or whatever, [Austin makes amused sound] it just...it’s really hard. I can’t do that, I'm not an actress, [Austin chuckles] like I'm not a person who...if I was the kind of person who went around practicing accents, which I know some people do, some people on this podcast even do...
+
+
+AUSTIN: I've done it.
+
+
+JANINE: Yeah, it’s...
+
+
+AUSTIN: I'm bad at it. I'm real bad at it.
+
+
+JANINE: I mean, that’s the thing is, you do a lot of...you do—
+
+
+KEITH: I can do all of them, and I choose not to.
+
+
+AUSTIN: Yeah, yeah, we know that.
+
+
+JANINE: But, Austin, you do a lot of characters for short periods. 
+
+
+AUSTIN: Yes.
+
+
+JANINE: And also, distinguishing their voices makes a material difference in the way the story is told for listeners, because it is purely audio. But when we are doing one character for a solid amount of time, differentiation doesn’t really matter as much, because it’s our voice anyway.
+
+
+AUSTIN: Mm-hmm.
+
+
+JACK: Yeah.
+
+
+JANINE: Sometimes our voices are confusing, I know, but it’s a different kind of thing. And a lot of us are just...some of us have more experience doing that. Some of us have done theater, some of us haven’t. Some of us have done, you know, comedy improv and stuff, and others of us haven’t. And some of...like, I think in my case, because I don’t really do voices when I'm GMing for people. I will sometimes casually attempt a bit of a voice, and like I think I do this in live games, too, is every now and then I'll sort of KIND OF do something a little bit different so I'm not just talking, but personally, I think I'm a little bit too...uptight and in my own head [Austin chuckes] to do voices as a regular thing.
+
+
+AUSTIN: I feel you.
+
+
+JACK: Yeah, I think from my perspective it’s anxiety in part.
+
+
+AUSTIN: Yeah.
+
+
+JACK: For myself, more than a decision about like...sort of the nature of what it would mean to do a voice, I think I would just feel anxious about doing it. And anxious about getting it wrong, or anxious about… [sighs] To what Janine said about playing these characters for such a long time, we’re already doing so much thinking about like, trying to develop these characters, or consistency or growth with these characters, that, for me at least, also having to try and maintain a consistent voice...like if I started and didn’t like it and then changed it suddenly, while that probably wouldn’t matter in the long run, it would be like a bee in my bonnet, and I'd be like…
+
+
+AUSTIN: Mmm.
+
+
+JACK: I’d be like, “Aw, man, for the first three episodes, this character was like EXTREMELY French. And then… [Keith and Janine laugh] And then he just stopped! What was that about? Why did I do that?” [Austin chuckles sympathetically] But also, even without saying “I’m gonna do a voice,” it is fun to play with cadence, to play with… 
+
+
+AUSTIN: Yes.
+
+
+JACK: Manners of speech.
+
+
+JANINE: Yeah.
+
+
+JACK: And I think Austin talks about this before, in that like, Austin will sometimes do full-on character voices, but frequently it’s characters speak in a specific way.
+
+
+JANINE: They enunciate really hard or something.
+
+
+JACK: They enunciate really hard, they enunciate really soft, they speak in long and short sentences. So in the sense that like...I mean, I try to have, for example...Edmund Hitchcock will speak differently to Lem. Or like...it’s always fun with NPCs as well, to have like a random NPC that you’re given at some point will just show up and speak with a really exaggerated cadence, ‘cause I know that I'm never going to have to speak as this person again.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: AuDy has a bit of a thing.
+
+
+AUSTIN: Yeah, this— 
+
+
+JACK: AuDy has a thing, but like— oh, sorry, go on, Austin.
+
+
+AUSTIN: Well, I was just gonna say: one, I think it’s funny that you’re saying this, because I think of the people on this call, the person who’s done the most consistent voices is you, Jack? [Austin and Jack chuckle] Well, because AuDy absolutely has a distinct cadence.
+
+
+JACK: Yes.
+
+
+AUSTIN: Cadence and lack of affect.
+
+
+JACK: Yes.
+
+
+AUSTIN: Or, I mean, it is an affect, right? It’s an attempt at affectlessness, which is not, you know. But also, because when I think about Fourteen Fifteen, you, in fact, absolutely changed your voice over the course of that season.
+
+
+JACK: [thoughtful breath] But that’s more to do with...I guess, to an extent, what I'm talking about here is, like, accents.
+
+
+AUSTIN: Worthy of Grace sounds SO distinct.
+
+
+JACK: Accent work. In that like…
+
+
+AUSTIN: Yeah. Totally, totally.
+
+
+JACK: I will so infrequently do accent work, but yeah, all of the Fourteens, by which I mean, Fourteen is the same person all the time. All of the incarnations of Fourteens deliberately had to sound different because...in order to sell that conceit, [AUSTIN: yeah] Fourteen has to feel [AUSTIN: yes] like a different entity each time.
+
+
+AUSTIN: Yeah.
+
+
+JACK: But, but. I could very easily have said...and the anxiety of doing, you know, big voice work or accent work is making, like, crawl up inside even as I say this, [Austin laughs, Janine makes sympathetic noise] but like, oh the Gunslinger could have an exaggerated cowboy voice— 
+
+
+AUSTIN: Yeah, yeah.
+
+
+JACK: And Worthy of Grace could have like an Italian opera singer voice. Or Carconet’s Ironclad could speak with a much more sort of affectless AuDy tones or whatever. 
+
+
+AUSTIN: Yeah.
+
+
+JACK: Whereas it was much more just like, okay, the Gunslinger, what do I want to express with this character through cadence.
+
+
+AUSTIN: Right.
+
+
+JACK: In terms of the Gunslinger as opposed to The Body Politic?
+
+
+AUSTIN: Mm-hmm. Cole brings up Snitch Nightly, and what I was gonna bring up is just, I can always count on you to immediately distinguish an NPC in a game like Follow or Kingdom with an accent. 
+
+
+JACK: Mmm.
+
+
+AUSTIN: Also, I just realized, Jack, do you ever think about how your Cadent Under Mirage is just Anaander Mianaai?
+
+
+JACK: [laughs] Before I...well, I mean, I'm trying to remember...
+
+
+AUSTIN: Before you ever heard her.
+
+
+JACK: Do I do the Cadent Under Mirage like, [imitating Anaander, flatly] “I’ve given you specific instructions.” [chuckles] 
+
+
+AUSTIN: You do the young Anaander.
+
+
+JACK: Oh, right, where she’s just very much like a...she…
+
+
+AUSTIN: A little bubbly, a little like...a little…
+
+
+JACK: [imitating Anaander] “You and I have considered the options, and…”
+
+
+AUSTIN: Yes, exactly that, yes. [Austin and Jack laugh] But yeah, which is a— but I think that speaks back to what Janine and Keith were both saying before. Which is like, those characters...when I give you an NPC or when you take an NPC to play for a session, that is not the same thing as living with that character for fifty episodes or whatever.
+
+
+JACK: No. No!
+
+
+AUSTIN: You know?
+
+
+JACK: We can just be like, “we’re done with this” at the end.
+
+
+AUSTIN: Yeah.
+
+
+JACK: It’s always fun to play Red Jack, ‘cause I'm like, “Oh god, I get to do Red Jack again.” [Janine makes amused sound]
+
+
+AUSTIN: Oh yeah. God, I played a character who ALMOST has Red Jack’s voice this weekend, who I had to be VERY careful...I had to like, so carefully walk the line...I had to be like, alright, I need to play a boisterous character, who is NOT Red Jack! [laughs]
+
+
+JACK: And he can’t say “HA!” at the end of each of his sentences.
+
+
+KEITH: Didn’t come across as Red Jack-y at all.
+
+
+AUSTIN: Good. Good. I appreciate that. His name was, just for the record…
+
+
+KEITH: Good name.
+
+
+AUSTIN: What was it, High Chevalier...I remember that he was a High Chevalier, but I don’t remember what else he was. Uh. God, he was sick. [chuckles] Here, High Chevalier Robert-Renee DeFleur. Great.
+
+
+JACK: Incredible.
+
+
+AUSTIN: Great.
+
+
+JACK: Incredible.
+
+
+AUSTIN: He was great. He was a Hospitaller du Tristero.
+
+
+JACK: Fuckin’ Ubisoft-ass name. [chuckles] 
+
+
+AUSTIN: Oh, a hundred percent. He was a Ubisoft character. He had some magic tattoos. He had a flintlock pistol and a halberd. He was great.
+
+
+KEITH: And was good with both.
+
+
+AUSTIN: Oh, yeah! Oh yeah, it went bad for a second there, huh? [Jack chuckles] 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Anyway. Yeah, I think that that’s basically right. Keith, have you...in my mind, I think there was a moment where many people were like, Keith…I mean, someone said this on the stage the other day, Keith plays Keith. But as we get distance—
+
+
+KEITH: I said...that’s something I said from on a Tips like years ago, too.
+
+
+AUSTIN: Okay.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Wow, we’ve been doing Tips for years, huh?
+
+
+KEITH: Yeah!
+
+
+JANINE: I feel like you tweeted it a couple weeks ago, even.
+
+
+KEITH: I...it’s something that I bring up. It’s something that’s also not as true anymore?
+
+
+AUSTIN: Right, so that—
+
+
+KEITH: Like, the longer we do it— 
+
+
+AUSTIN: Yes.
+
+
+KEITH: The more you can...the more obvious it is how different the characters that I play are. But it is like...it’s like what Janine said where in Twilight Mirage you were were having to say like, “Oh, that’s not in character, this is out of character.”
+
+
+AUSTIN: Right.
+
+
+KEITH: Like, “Signet doesn’t say that.” It’s fun for me to not have to do that. [Austin chuckles] And like, it goes hand-in-hand with the voice, where I like...there are a couple really fun moments for me in this last season of Hieron where...it wasn’t a hundred percent clear when we stopped talking out of character and started talking in character.
+
+
+AUSTIN: Yeah, we’ve been doing that more as like comedy bits recently, for sure.
+
+
+KEITH: Yeah. And it’s so fun for me. I really like it, and I think it plays really well. And there’s definitely a nerves thing of like, oh wow am I really gonna commit to a voice for, you know, eight months worth of episodes or more? But, also, I haven’t played a character where I felt like they needed one. And, you know, if you listen to them back-to-back maybe I do do a little bit of a thing, I don’t know. Like, I genuinely don’t know. But, in live games, I definitely have done a little bit of a thing. Dax Leopard has a thing.
+
+
+AUSTIN: Oh, yeah, Dax definitely has a thing.
+
+
+KEITH: Dax has a thing. My character in Messy Business, Agent Heard, has a thing.
+
+
+AUSTIN: Yeah. I also think part of it...there are things that are not accents that you can bring to your character. And I say this because I think people at hope should feel like they can do this.
+
+
+KEITH: Well, the question doesn’t say accent, right? Does it? It just says voices.
+
+
+AUSTIN: No, it doesn’t, it says voice. Yeah.
+
+
+KEITH: Yeah, yeah, yeah. I've never done an accent, but I've definitely done...especially during lives, I've done voices.
+
+
+AUSTIN: Oh, yeah. But I even think something like, for me, I think a lot about Gig saying, [accurately imitating Gig from the end of Twilight Mirage] “Hello, my very good friends! This is Gig here, at the new big ship we all live in!”
+
+
+KEITH: Yes, yeah. Yeah. [laughs] 
+
+
+AUSTIN: And like, that is not Mako. That is not Fero. 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: That is not Agent Heard. You know what I mean?
+
+
+KEITH: Right.
+
+
+AUSTIN: And that is about bringing a certain sort of enthusiasm into your cadence, a certain sort of...specific sort of volume.
+
+
+KEITH: Right, they all have their own vibe.
+
+
+AUSTIN: Yeah, totally.
+
+
+KEITH: Totally.
+
+
+JACK: God. 
+
+
+KEITH: Fero and Mako might sound really similar— 
+
+
+AUSTIN: [crosstalk] But that’s ‘cause you—
+
+
+KEITH: But they also each have their own thing. They each have their own thing that they won’t do like the other one.
+
+
+AUSTIN: Also, when you made Mako, we had been doing this for less than a year.
+
+
+KEITH: Right, yeah.
+
+
+JACK: Mm-hmm.
+
+
+AUSTIN: Like, it is SO important for us to think about the fact that this is a skill that we’ve ONLY put five years into? [chuckles] I know that’s a lot of time. It’s a lot of time. But also...we learned to write essays when we were in third grade. Do you know what I mean? And they weren’t GOOD essays, or they weren’t the same— you know what I mean? But like that—
+
+
+KEITH: I can tell you exactly how long they were.
+
+
+AUSTIN: [laughs] Right, exactly.
+
+
+KEITH: They were five paragraphs! [Jack chuckles]
+
+
+AUSTIN: [chuckles] Yeah, right! But like that was the beginning of that. We have been figuring out how to do this as we go along. Like Janine said, some of us have theater backgrounds, some of us don’t. Some of us have stage performance backgrounds, some of us don’t. Some of us like doing voices, some of us don’t. And all of us have had to develop that skill set without it needing to be an exclusionary skill set that would force other players to bounce. Do you know what I mean?
+
+
+JACK: Right.
+
+
+AUSTIN: I, as the GM, can’t be like, [harshly] “Well, I can only make a show if everyone does a fuckin’ accent, so do an accent, or get the fuck off!” [Keith laughs distantly]
+
+
+JACK: “I wanna hear your goblin voices!” [Janine laughs]
+
+
+AUSTIN: And I like doing goblin voices! So I'll continue to do them. I also think, genuinely, that part of the reason I do voices is to get voices on the screen that I don’t hear in other media a lot.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Devar exists because like, there is no fantasy...I've never heard an orc sound like [Jack chuckles] a Black guy from a 1995 sitcom. I've never heard it. [Keith chuckles] Until, Devar! And I need that in my life desperately. And that is the sort of stuff that I want to bring into those worlds. Similarly for characters like, all through Twilight Mirage, was just like, I need to have voices here that feel distinct and real, and even though Twilight Mirage is a weird space, you know, utopia falling apart, it should still have people that sound like the people in my life. People who have weird drawn out vowels. People who put extra emphasis on certain syllables. People who get words right— or, wrong, rather. [chuckles] Hmm. That’s a weird slip! Wait.
+
+
+JACK: [chuckles] I wanna hear only people who get words right.
+
+
+AUSTIN: [chuckles] Exactly. Couldn’t be me. And so yeah, that’s a big part for me.
+
+
+[TIMESTAMP: 1:30:16]
+
+
+KEITH: Also, second shoutout to Nick, the one person who did do a voice.
+
+
+AUSTIN: Oh, yes, absolutely. Yes. A hundred percent. Great voice.
+
+
+KEITH: Which, honestly, made that voice play so much better. That no one else was doing one is so funny. [Janine makes amused sound]
+
+
+AUSTIN: Yeah, yeah, definitely. Also, shoutouts here to...I do want to say Art, because I think about how slimy Grand Magnificent sounds.
+
+
+JACK: Mmm.
+
+
+AUSTIN: And how, like, forboding Hadrian can sound. And those are pretty distinct sounds. Also, here’s one, last one. Voice can mean, not just cadence, not just accent, not just tone, but can mean idiosyncracy or can mean a certain set of expressions. I called this out recently with Hella.
+
+
+JACK: It’s so good.
+
+
+AUSTIN: Hella referring to “the Heat and the other thing”.
+
+
+KEITH: Oh, it’s so funny.
+
+
+AUSTIN: Hella referring to “that guy you know” when referring to like, Samol. [chuckles] [Keith laughs] And it’s like...what? You can’t…
+
+
+KEITH: [laughing loudly] I don’t think I picked up on that!
+
+
+AUSTIN: And it’s like…
+
+
+JACK: Wonderful.
+
+
+AUSTIN: Yeah, it’s so good. And those are the ways...that’s a good way to characterize the people that you’re being, right? Like, here is how you refer to a set of people, you know? Here’s how your character sees the world. And you can find ways to perform that without putting on the accent. Alright. 
+
+
+KEITH: Is there a reason why Hella doesn’t know how to say the Heat and the Dark? Or is it just really funny?
+
+
+AUSTIN: She spent years inside of Aubade, where it was literally not an issue, while y‘all were outside fretting about it and it was taking over the world. I think that’s my— 
+
+
+KEITH: Okay, but Hadrian remembers the Heat and the Dark.
+
+
+AUSTIN: Hadrian is someone who has been consumed with the desires of his gods, right?
+
+
+KEITH: Yeah, that’s fair.
+
+
+AUSTIN: Like, he sees the whole world through that frame for so long. Hella...doesn’t. Hella...that’s a thing happening in Hella’s life, is my answer, but Ali would be the one—
+
+
+JANINE: Hadrian also has a wife and child—
+
+
+AUSTIN: Right.
+
+
+JANINE: Whereas Hella’s dating a person who if she dies she can just go hang out with. [chuckles]
+
+
+AUSTIN: [chuckles] Uh huh.
+
+
+KEITH: But, that person is trying to keep people in her zone instead of the Heat and the other thing.
+
+
+JANINE: Eh.
+
+
+AUSTIN: Yeah. But also, think about it this way. The...is it more honest that Hella says “the Heat and the other thing”?
+
+
+KEITH: Oh, sure.
+
+
+AUSTIN: That Hella is the sort of person who is not caught up on, like, labels, so to speak? [chuckles] I don’t mean that in a like…
+
+
+KEITH: [laughing] I don’t like...I reject labels.
+
+
+AUSTIN: [laughing] I don’t mean that...yeah, in a like…“McDonalds is president” voice way, not in a Banksy way, not in an angsty teen way. But in like a [finishes laughing] “Hey, I actually give a fuck about this thing, and so I don’t care what the CHURCH calls it. I know it as the thing that laps at the shore of my girlfriend’s death kingdom. It’s that thing over there.” Do you know what I mean? It’s just everyday to some degree. Anyway. We shouldn’t speak for Ali. Good postmortem question, write that in. Last question today comes in from Ellie, or Eli. It was written with a lowercase e, and that for some reason made me want to not say Eli, I wanted to say Ellie, but probably Eli. They write: 
+
+
+“I’ve been GMing with an amazing group for the last few months. We seem to have slipped into the habit of using our sessions to explore complex issues from our day-to-day lives. We’re playing in a fantasy setting but exploring some intense topics that many of us have direct experiences with: racism, familial stuff, addiction, etc. Everyone is down with doing this, and it always seems like a safe space, but I also worry that just walking away from the table at the end of a session feels weirdly abrupt. Wondering if you have recommendations for systems to debrief with. Now that I ask, this question seems weirdly clinical, but yeeeeah.”
+
+
+AUSTIN: That’s my best approximation of this emoji, which is like, the eeeeehh emoji.
+
+
+KEITH: Yeah, that’s what that is.
+
+
+AUSTIN: Yeah. Um. God. I don’t know that I want to point to like— 
+
+
+KEITH: Or it’s like a teeth-sucking sound, like a [sucks in air through teeth].
+
+
+JANINE: Does it have to be a system?
+
+
+AUSTIN: No, well, the thing there is I don’t know if Eli means “system” as in game system, or process. Do you know what I mean?
+
+
+JANINE: Yeah.
+
+
+AUSTIN: A system in the clinical sense. A system like a...set of procedures. A procedure for doing it. I don’t think it should be a—
+
+
+KEITH: Like the New York system.
+
+
+AUSTIN: Right. Though there can also be a—[mumbles] like the New York system, the hot dogs that you carry on your arms. Yes, Keith, the New York system. [chuckles] It can also be a system in the sense of like, you know, end of session check-in is a thing we do anyway, in terms of like, “Did you fulfill your beliefs?” or “Did your belief get you into trouble?” or “Did you roll any desperate actions? Make sure you get all your XP.” Like, I can imagine there being something that works for a group that is like: hey, as part of this, we should briefly talk about the things we talked about. Or, that we played through in this game. But I...one, what I'll say is, we do this very organically, which means that I don’t have great advice for it. We walk away from an episode, and when it feels like that, I do a check-in with people individually or as a group and go like, “Hey, the Feast of Patina was a lot. How is everyone feeling? Is everyone alright? I'm around if you want to chat through how that went.” Making myself available as a GM, et cetera. But that is not a specific system or a specific set of steps. 
+
+
+AUSTIN: [cont.] I've done my best to do check-ins throughout this past season, and that’s been useful, partially because the other half of this is it is not only good for heavy stuff, but just like, “Hey, what did you like about that episode?” or like, I think a lot about the early Twilight Mirage episode with the elevator, as like, hey...or the early Hieron episode with Hella’s alignment, where off-mic conversations helped me right the ship as a GM in a big way, because I got access to the experience players were having without...that they didn’t bring up in the moment as much. Or they did a little bit, but we got to talk it out further where we were able to resolve stuff off-mic. So I think, as a GM, making sure that you check in with your players is already good practice, both offering that in a group setting so that they have the opportunity to speak together to you, but then also offering it individually, and being like, “Hey, did you...hey, you were quiet this episode or this session. Is everything cool?” I recently had a good talk with Dre about this, because I was worried that Throndir didn’t do a lot in the...didn’t have an opportunity to do a lot in the last session of Hieron, because a lot of the prep that I had for what Throndir was going to do got thrown away when the party went a different direction, and so Throndir just didn’t get a great time to shine. 
+
+
+AUSTIN: [cont.] So we had a really good conversation about where Dre was at with the character and with the season, and the good news is, he was totally cool with it, it’s why he didn’t push for more stuff during that session was because he felt like Throndir had hit an emotional and storytelling climax already, and that he would have— he told me he would’ve brought it up if he felt like he did want to do more. But like that sort of check-in can be really healthy, not only because it lets you know where you’re at with a character or with a player, but because it can let you know where you’re not at. So, I could have left the Feast of Patina, and we could have— for people who haven’t listened to Twilight Mirage, the Feast of Patina is a very heavy episode that revolves around player character emotional and ideological conflict and also a bad family dinner. [Janine laughs] It’s fantastic. It’s one of my favorite things we’ve done and also is one of the hardest things we’ve ever done, probably? In terms of just like feeling drained afterwards. 
+
+
+AUSTIN: [cont.] And I would not have been able to pick up and go forward from there if I hadn’t been able to have private conversations with everyone to work through what we had just done to talk about how it was in line with the show and the momentum the show had and within...and the ways it was or was not, you know, in line with what our goals were as storytellers. So, I definitely advise that. But I'm a GM, so I'm curious from players if y'all have a different feeling about this stuff. Whether that’s stuff that I do, or stuff you wish I did, or stuff that other GMs have done, or stuff that you’ve done as a GM.
+
+
+JACK: You talked earlier about a kind of...caution or dissatisfaction of talking about the magic circle...or, you know following so rigidly the magic circle in play.
+
+
+AUSTIN: Mm-hmm.
+
+
+JACK: But, it is definitely the case when we do these big recording sessions, we spend a lot of time...not in the magic circle, but in the specific headspace of the story.
+
+
+AUSTIN: Yes.
+
+
+JACK: Whether or not we’re speaking in character or out, whether or not we’re taking a moment, the majority of the time and the majority of the kind of mental effort that we’re spending is in inhabiting this space and the conversations within it. And so something that really helps, for me, is spending time with those same people outside of that space.
+
+
+AUSTIN: Yeah.
+
+
+JACK: Whether it is something as simple as just talking for five or ten minutes after a recording, or making time to...one of my favorite things about the clapcasts, as someone who makes the show, is hearing us at the beg— like literally the moment the call comes on, not necessarily being ready to do an episode.
+
+
+AUSTIN: Yeah.
+
+
+JACK: And then over the course of the next fifteen minutes in the clapcast, hearing— and it’ll often, you will often say, Austin, like, “Okay, I think we’re there.” [Austin chuckles] And there is value in the inverse of that. In inhabiting a space with the people that you care about telling this story with, that is explicitly not for telling the story.
+
+
+AUSTIN: Yeah.
+
+
+JACK: And is about talking, whether or not that’s about the story you told, as in a specific structured debrief, but also just like, did you hear about those hogs?
+
+
+AUSTIN: Did you hear about those hogs? [Janine chuckles]
+
+
+JACK: So many! Well, an indefinite amount of hogs.
+
+
+AUSTIN: No, that’s not true. 30 to 50.
+
+
+JACK: That’s indefinite.
+
+
+JANINE: That’s pretty definite.
+
+
+JACK: It could be…
+
+
+AUSTIN: [chuckles] We have different definitions of definite and indefinite, apparently. [Jack chuckles] Competing definitions of definite hogs. [chuckles] That’s the way I get ready for an episode. I just say, “Competing definitions of definite hogs. Competing definitions of definite hogs. Competing definitions of definite hogs.” [Janine chuckles] That’s my warmup mantra.
+
+
+JACK: And then you make like a hand gesture in front of your face as if you’re putting on a mask.
+
+
+AUSTIN: [chuckles] Yes, exactly.
+
+
+JACK: [laughing] And then you’re ready to go.
+
+
+AUSTIN: Yeah. I will say, briefly, on that note too, Jack, I think a lot— you know I think about this a lot. Of like, finishing a season while you happen to be in town.
+
+
+JACK: Mmm! Mm-hmm.
+
+
+AUSTIN: Or finishing a hard set of episodes, and then you, me, and Ali, when Ali was still in New York, going to get mozzarella sticks somewhere.
+
+
+JACK: Yeah.
+
+
+AUSTIN: As being like a key component of the decompression, of the like...coming back out into the world writ large. There’s a thing I'm trying to find, and I can’t remember...I can’t remember where it is. So, while I look for it, Janine and Keith, do you have any thoughts on this stuff?
+
+
+JANINE: I just like a hundred percent could not have less of a...I don’t have an answer for this, even a little bit, because...
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: [sighs] One, it’s not a thing I've really had to deal with on a GM level, because the stories that I've been focusing on so far...like the thing I'm generally more interested in is filling in world. Because the game that I run is playing within a canon setting.
+
+
+AUSTIN: Right.
+
+
+JANINE: So, the thing that we’re mostly interested in, especially because that canon setting deals with a lot of heavy shit already, we touch on that stuff, but a lot of what we want to do is just kind of fill in the blanks and see more, and experience more of what could be there. So it’s not usually the kind of thing that feels heavy at the end. At the end it’s mostly just like, “Alright everybody, good job...we’ll try and schedule the next game within a few months.” [chuckles] 
+
+
+AUSTIN: Mm-hmm.
+
+
+JANINE: Stuff like that. And as a player, [sighs] I don’t know, like it’s...a lot of the time, I don’t really have anything useful to say in terms of, you know, when you come to me like, “Hey, how did you think that went?”
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: I'm usually just like, “I think it was okay, it was fine.” Because a lot of the stuff that I end up feeling at the end of those sessions isn’t stuff that’s useful. I don’t always feel GOOD.
+
+
+AUSTIN: Uh huh.
+
+
+JANINE: But it’s also not stuff where I can concretely be like, “actually, I wish this had gone like this,” or like, “I feel a little weird that I didn’t do this,” or whatever. It’s usually just like, oh I just feeeel bad. [Austin makes amused sound] Like I just feel...not okay.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: And I don’t have a good method for what to do with that? I think usually it is like a sense that I am missing a larger point, or that I'm getting lost in details and not in a larger thing.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: And a lot of that stuff...you know, we’ve tried different ways to address that, and none of it really works for me. Like, recapping stuff that happens, or… ‘Cause, there’s a point where the things that are distressing me are things that aren’t going to be clear until the season finale anyways.
+
+
+AUSTIN: Yeah.
+
+
+JANINE: A lot of that stuff is just stuff that I CAN’T know and access. So that feeling of like…“I really am not playing with all the cards. I have this hand and I don’t know how to play it,” is kind of a constant issue, especially when you’re dealing with bigger topics, because there is such a feeling of like, I want to do these topics justice, I want to play a valuable part in exploring them, but it’s difficult. And then that can lead to that feeling of like, “i don’t know what the fuck I just did. I guess it was fine. I need to lay down.” 
+
+
+[TIMESTAMP: 1:45:20]
+
+
+AUSTIN: [sympathetically] Uh huh.
+
+
+JANINE: And, again, I don’t have an answer to that. That’s just the thing. [chuckles] 
+
+
+AUSTIN: Yeah. I think that there is...I've definitely been in that position as a player, where it’s been like… [sighs] I've left...I will leave a recording. So, Janine, it’s funny. I give you shit for over-prepping things, or I HAVE done that in the past, and I'm exactly the same player, right? 
+
+
+JACK: Mm-hmm.
+
+
+AUSTIN: I think about the Apocalypse World game I was in back in like 2014 or 2015 that was streamed, or the Burning Wheel game I was in. And it’s like, I'm just playing Adaire, I'm just playing versions of Adaire who have...like, I have big plans that I want to come to fruition because I think they would be cool scenes, and then I sit on them because the opportunity doesn’t strike, because no one pulls on my character’s hair, so to speak, to let me slip away the way that you described earlier. [Janine chuckles] And like...or, I do, and I hit the delivery on it, and then, yet, it’s still the same at the end of the session, I'm like, “Uhh, I guess that went well?” question mark?
+
+
+JANINE: [quietly] Mmm.
+
+
+AUSTIN: And I think that kind of speaks to the weirdness, not just of roleplaying games, but specifically of actual play? Where, once you start to theorize what we do as a coherent narrative work, the stakes do change. And once you start thinking about audience response, once you start thinking about the ways in which your embodiment will be put under a microscope, I definitely think that adds another layer. And so, while I...the thing I do want to underscore, the thing I want to hit here, is that the option for that conversation should still always be on the table. Or, the check-in should still be...even if it’s rote, even if the response is “No, I don’t have anything,” that if you have those feelings as a player, you should be, one, willing to bring those up with your GM or your GM should be willing to talk with them, talk with you through them. And, if you are doing this as an actual play specifically, it is okay to feel that even more intensely if you’re going from— ‘cause I know a lot of people I know have been like “how do I start an actual play podcast?” or “How do I go from just playing with friends to recording it?” 
+
+
+AUSTIN: [cont.] Even just for other friends, I know people who record an actual play podcast only to share with a couple dozen other people. But that does change that relationship a lot. And so if that has changed how you feel at the end of a session, don’t feel too bad about that. Don’t beat yourself up over that. Doing it for an audience definitely changes it in a real way. But yeah, I think for me...the thing I was looking up before, by the way, was a talk by the game critic, Michael Thomsen, who...at Theorizing the Web 2017. If you go search for “Theorizing the Web 2017 Michael Thomsen” or “Get Ready For Some Gaming Theory”, which was the name of the panel. Different time, 2017 was. And jump to 47:16, he begins giving a talk, and his talk is on something kind of similar to this, though he’s speaking more about video games than about roleplaying games, but I think there is still some relevance, here. 
+
+
+AUSTIN: [cont.] I summarized this over on a piece on Waypoint, where I said that at the panel I was on, “Theorizing the Web 2017, critic Michael Thomsen solidified this abstract feeling with me.” Quote, “‘There’s so much rhetoric about tutorials and about gaming people’s brains through onboarding rituals, but there isn’t any sort of obvious way in game design where video games kick players out, or begin a sort of deceleration of the brain, or begin a sort of preparatory ritual for returning you to life once you’re done playing.’ Other sorts of pursuits,” I say, “that fall out of the realm of the mundane daily activity often offer this to us, says Thomsen. He describes the little lobby and balcony spaces of Turkish baths, where clients decompress before leaving. In BDSM, he notes that there’s aftercare, a variety of practices that offer comfort, attention, and security after an intense session of play. But there is no aftercare in gaming.” And I think in roleplaying games there is actually more than there is in video games. In video games, I have to go eat dinner or make dinner or take a phone call, and so I hit the power down button on my Switch, and that’s it, I'm done playing! [chuckles] I don’t have any sort of ritual for getting out of that play space. 
+
+
+AUSTIN: [cont.] Whereas, at least when I finish a game of Dungeon World, I go through a list with you all, and say, “Hey, did you play your beliefs? Did you play your alignment?” That small little bit actually can do a lot in terms of, for me as a GM, conceptualizing what all just happened and reminding me of like the beginning...sometimes I'll have a bad— we’ll have a bad session, or a session where I feel bad, like I didn’t do a good job as a GM. But then I'll be like, “Hey, did you play your alignments?” and someone will remind me of a thing that happened, you know, at minute 20, and like: oh yeah, that happened. That was good. That was a good thing, actually. I don’t just have to think about the last five minutes where I think something went off the rails, or where I feel like I fucked up an encounter or something, you know? So I do think leaning...actually playing those things out goes a long way to at least conceptualizing resolution to a session. And that is something pretty unique to roleplaying games, so don’t forget about those. Don’t forget about those end of session moves. Those are part of your job, for sure, as a GM. Any final thoughts here, before we wrap up? 
+
+
+[pause] 
+
+
+AUSTIN: Alright. Thank you all for joining us. As always, you can send your questions in to tipsatthetable@gmail.com. You can support us by going to friendsatthetable.cash. And you can...I think that’s it. You can find us on Twitter: twitter.com/friends_table. Thank you, again, for hanging out and listening. If you want our Twitters, they’re at the top of the episode. [chuckles] Go get ‘em. I'm gonna eat dinner now. Have a good night, everybody.
+
+
+JACK: Bye!
+
+
+KEITH: Bye.
+
+
+JANINE: Bye.
+
+
+AUSTIN: Bye!

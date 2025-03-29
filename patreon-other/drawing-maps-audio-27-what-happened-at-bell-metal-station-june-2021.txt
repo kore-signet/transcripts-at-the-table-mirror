@@ -1,0 +1,4104 @@
+﻿Drawing Maps Audio 27: What Happened at Bell Metal Station - June 2021
+Transcriber (24 min onward): Brigid (@woodlandmists / brighty#2727)
+Transcriber (0–24 min): Ida (@gentledownpour / ida.m.ailes@gmail.com)
+
+
+AUSTIN: Welcome to Drawing Maps for June 2021. I am your host, Austin Walker. Joining me today: Keith Carberry.
+
+
+KEITH: Uh, hi! My name is Keith Carberry, you can find me on Twitter at @keithjcarberry. You can find the Let’s Plays that I do at youtube.com/RunButton.
+
+
+AUSTIN: Art Martinez-Tebbel.
+
+
+ART: Hey, you can find me on Twitter at @atebbel, and I’m gonna continue my Patreon bit of using my plug time to plug contentburger.biz.
+
+
+KEITH: [crosstalk]: I love that. I love this bit.
+
+
+AUSTIN: [crosstalk] Oh, that’s fantastic. I love that bit. That’s a good bit. That’s a fun bit.
+
+
+JACK: [crosstalk] That’s great!
+
+
+AUSTIN: And finally, uh, Jack de Quidt.
+
+
+JACK: Hi there! You can find me on Twitter at @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Uh, quick apology—I just realized, today, that the last Drawing Maps has not hit the podcast feed. I’m gonna get that up as soon as I can. It has been a couple of busy weeks in a row here in House Walker, as people may have noticed from the announcements about my job and stuff.  If you haven’t noticed, then don’t worry about it, it’s not changing anything that you have to worry about, so it’s fine.
+
+
+ART: Yeah, if you haven’t heard by now, it doesn’t…
+
+
+AUSTIN: [crosstalk] It truly doesn’t matter to you.
+
+
+ART: It’s not gonna affect you at all. And, congratulations.
+
+
+AUSTIN: Yeah, live that life. That life sounds better than any of ours! [chuckling] For people who don’t know, Drawing Maps is the show that we do where we look back on, at this point, at least, we’re looking back on arcs from Sangfielle. It’s the past, it's taken other forms, but right now we’re just kind of doing a Q&A, and a retrospective on various arcs of ours throughout the season—sort of mini post-mortems, a running post-mortem.
+As always, the focus of these shows is not to explain… themes, necessarily, or answer—I mean, “theme” is like, right on the line. “Answer mysteries” is probably not on the– is beyond the line, you know? But it’s a lot of, like, behind the scenes on the show creation stuff. Things that we thought about during prep, during the shows them– during the recording sessions themselves, uh… you know, character builds. Not that we’re getting any character build questions today, but we’ve gotten stuff like that in the past. Mechanical thoughts about the systems we’re playing in, structural questions about the way the season is going, or the way it’s going to go, et cetera.
+        It’s obviously not meant as a tutorial for how to do this, but we hope that it’s entertaining and that we give you a little bit of insight into, into what we do in general. As always, you can send your questions to tipsatthetable@gmail.com. This is a kind of a combo with the old Tips at the Table show at this point. So send those there. The next one of these we’ll do… [pausing] I don’t know if we’ll do a Sapodilla… maybe we’ll do a Sapodilla entrance… “The Gates of Sapodilla” one. Jack, would you wanna do one of those with me?
+
+
+JACK: Yeah, absolutely!
+
+
+AUSTIN: We can talk about the prep for that, ‘cause you and I really… talked through that, and did a whole test run, and… and had been thinking about that on and off now for quite some– since we first played that.
+
+
+JACK: Yeah.
+
+
+AUSTIN: And maybe, maybe depending on what questions we get in we’ll get– we’ll rope in some other people based on… stuff? I - I feel like… I feel like there’s some other people who did interesting things—without getting into spoilers.
+
+
+JACK: [chuckling] Yeah.
+
+
+AUSTIN: Which, by the way: As a reminder, let’s try not to get into spoilers here in “Bell Metal.” We are only… the only episodes that have come out since “Bell Metal” are… “The Gates of Sapodilla,” and then one of the arcs after that, “The Perpetual Oratorio of– of Davia Pledge.”  So, there’s a lot that there—not a lot, but there have… there have been a couple of recordings that have not gone out yet, and this is mostly for the… for, I guess Keith and Art.  None of that– Very little of that stuff has gone out at this point. Only the… only the very, very– [exhaling] There has not been any combat yet, let’s say, in terms of what’s already been released, so that’s how– how far back we are from where y’all are at now. Not that that would come up today, but just… keep that in mind.
+        If we do wanna talk about spoilers about any of the seasons, we should– we’ll do our best to give a heads-up. All right!  I guess, before we actually answer this first question from Juniper:  Any thoughts on “Bell Metal Station”—on [emphasizing] “What Happened [chuckling] at Bell Metal Station,” as the name of the arc came in.  Any, any retroactive, like - How does that arc sit for people in your mind, now that we’ve… we’ve kind of moved past it?
+
+
+JACK: [fondly] I loved this arc. It felt… I had such a great time making this, and it was—I found it so [chuckling lightly] unsettling to make, and so… I– It felt really special! I don’t know.  It felt like a lot of stuff cohered, and it felt like we all went off-piste in a way that… [Keith: Yeah.] I… I definitely wasn’t expecting.
+
+
+AUSTIN: Yeah.
+
+
+JACK: And,  [searching for words] It felt like the show was—When we were making PARTIZAN, and we were, like, in full flow, it felt like the show was really humming along [Austin: Mhm.] in the sense of, like… “We know how to make this, um… we know this world.” [Austin: [chuckling quietly] Yeah!] “We’ve been doing this for a while, this season’s going really well.” And this felt like it was humming along in a kind of different way, which was like we were all– [chuckling] we were all sitting around a table, like, leaning forward in our seats going “What the hell is happening?!”
+
+
+AUSTIN: [laughing] Yes!
+
+
+JACK: And that felt, that felt really special to me! I had a great time with this arc, and… Yeah, I’ve been really excited to talk about it with you all, because… I, I loved it.
+
+
+KEITH: It’s got one of the… [pausing] This is, like… I think this happens… There’s– There are… arcs where you could tell that at some point very early on, something was made that shifts [Jack: Yeah.] what is possible to happen in the arc. And this is one where your very early decision for Pickman to run– jump onto this plane– the, the train...
+
+
+AUSTIN: [seemingly in the distance] Yeah! [fondly] Ugh!
+
+
+KEITH: In conjunction with my decision to not do that, [Austin: Yes!] [Jack chuckling] I think changed the foundation completely of what this arc was meant to be.
+
+
+JACK: [crosstalk] Yeah.
+
+
+AUSTIN: Mhm!
+
+
+KEITH: And that’s… And I’m sorry to Austin and your planning, [Austin: No!] but that’s always so much fun, when it turns out—and usually, I think usually it does turn out good. I don’t think that there’s been a lot of times where we’ve veered completely off track where it hasn’t been because something, like, really exciting… is gonna happen where we have veered.
+
+
+AUSTIN: There’s always a way to find something, right?
+KEITH: Yeah.
+
+
+AUSTIN: I– The thing that I—I only started thinking about this just now that you raised it, but, like… Think about what happens in that arc—both very literally, if you stay, and if everybody gets on board, or if nobody gets on board, um, you end up with a much different focal point.
+
+
+JACK: Yeah.
+
+
+AUSTIN: And an analogy to think about is, think about the movie version of this, where Lyke gets onboard the train. This is, like, an adventure movie now. Everyone’s on the train, everyone’s getting information from the train. Everyone’s like, you know, there’s derring-do happening, people are climbing maybe on top of the train—like, who knows, right. But that’s the only place the camera is, and so then as the sort of de facto, you know, kind of pseudo-director, my job is to make everything train related very evocative and fun.  If everybody ends up at Bell Metal Station, then everything changes again, because then the focal point is just on those characters. It’s just diving into those– the, the actual Bell Metal Band, what– who they are, et cetera. And then, the Red Zephyr ends up getting to be this other role, where that’s, like, an outsider that you don’t have any information about that is charging into the station night after night et cetera—which is kind of what I expected to happen, to be clear. And, because of this divide, like—it’s the difference between a two-hour movie where you spend forty-five minutes of it in a train, and forty—eh, or in a movie where you spend forty-five minutes of it in a, in a train station, and this is the one where that forty-five minutes is split between the two, and that’s just a different movie at that point.
+
+
+JACK: Mm.
+
+
+AUSTIN: It’s just a different story to have the focal point—to have the quote-unquote ‘camera’ in these two places, because it forces you to both understand– to understand the– a kind of more holistic view, or for the listener to be able to get the holistic view of the situation in a way that would not have happened if you’d only gotten one of those two perspectives. And that’s– And that’s so interesting to me about what Actual Play is.
+
+
+JACK: And build this, like, this dramatic irony as well, which… for us, the players, as it becomes increasingly clear from Lyke’s perspective that something, like… explicitly sinister is going on in terms of the way Bell Metal is interacting with Zephyr.
+
+
+AUSTIN: Right.
+
+
+JACK: And then, you know, we have us on the Zephyr itself having all these hor– [chuckling] horrible things happening to us…  but without any of the context that Lyke has got. And it, it got to this great—I don’t know if Art felt the same way, but it really felt like I was… I was… dreading and anticipating the moment when our characters would receive the information from Lyke, and vice versa, and we would then be able to act on that information… was really, was really exciting. [pausing, suddenly continuing] Also, like, to go back even further, we had– [Austin: Yeah.] we had the encounter with the riddle skel—so, this—something that you and I talked about a lot, Austin, in the immediate aftermath of this recording, was, like, how weird the tone of this arc was.
+
+
+AUSTIN: [crosstalk] It’s all over the place, it’s wild. Yeah.
+
+
+JACK: And how it kind of became something… [searching for words] kind of creepy, and off-kilter, uh, where it starts off as this sort of, like—you’re playing riddle games with skeletons!
+
+
+AUSTIN: [amused] Uh-huh!
+
+
+JACK: And then you have this kind of, like, tombstone old west showdown [Austin: Yeah! Uh-huh!] with the gandies in this thing, and we get to see—you know, people are getting [chuckling] hit over the head by tools and everything—and then we roll up to Bell Metal, and like, the wheels completely come off the carriage!  In terms of what this episode is about, and what it’s trying to say, and it becomes this, like, horrid, existential, like… clammy thing, [Austin: Mhm.] instead of this… this… co– [chuckling] comedy slash thrilling journey down the Shape Train tracks.
+
+
+AUSTIN: Yeah, there are bits early on that are, like, slapstick. You know? [chuckling]
+
+
+KEITH: Yeah.
+
+
+[Jack chuckling quietly.]
+
+
+AUSTIN: And the move from that to the final bits on the train together, I think are– are… really dramatic, and again, I think, [inhaling] illustrate part of what I like about Actual Play, which is that tone is so flexible. I– Not that this doesn’t happ– I mean, I dunno, I just saw Green Knight, and Green Knight—not just, it’s been a month now, but it’s been in my head—and Green Knight also goes all over the place tonally. Like, that’s– I like that about... there is a style of, of kind of… [taking a breath] not anthology work, but like, of– a story told in vignette, that is able to do that, [Jack: Yeah.] and this– this arc was very much vignette focused—at the beginning especially, where you go like—okay, skeletons, okay. The Katonya debut, okay. The approach to Bell Metal Station, then the fight, then… the investigation inside and the investigation at the station, and then… after that, it all kind of converges, finally.  And I, I think that, like, that—exploring all of that space ended up making something that felt very… I, I– This is the first arc that I felt really proud of this season. It’s been a weird season for me as a GM because of what prep looks like, and like, what exploring the space of horror looks like, and what… trying to figure out… [sighing] how to… uh, ahh… figure out the, the sort of episodic structure versus the kind of more prep-heavy, traditional, large-plot stuff has been tough, and it’s been hard to know when I’ve done a good job at it.  For– By my own… By my own, you know, tastes—not even by, like, external validation stuff. It’s been hard to know, if I close a session off, if I feel like I’ve wanted to hit– to do. Finishing this arc was like, “Yeah, that was… that was something pretty special.”  I was really happy with it.   Any other thoughts here, before we get into questions?
+ART:  I feel like—and this is sort of, like… silly… but, like… you know, like, all the memes about, like, D&D, about, like, you show up, and your players ruin all your prep. [deadpan] “Chocolate! Chocolate! Chocolate! Aack!” You know?
+
+
+AUSTIN: Wait, what? What’s “Chocolate, chocola–” Is that a N… Is that a… Nancy joke? What is “Chocolate, chocolate, chocolate, aack"?
+
+
+ART: It’s a Cathy joke, which, um…
+
+
+AUSTIN: [crosstalk] Cathy, not Nancy, apologies.
+
+
+ART: [crosstalk] Great… Great pull. I mean, I’m not [muffled]
+
+
+AUSTIN: [crosstalk] Nancy’s great! I have a Nancy t-shirt behind me. I dunno why I went Nancy and not—that’s probably why, ‘cause I’m more of Nancy person than a Cathy person.
+
+
+ART: I don’t think they’re even comparable. Um… [chuckling]
+
+
+AUSTIN: No, they’re much—especially currently.
+
+
+ART: Yeah. But, it’s like–
+
+
+JACK: [crosstalk] What’s Nancy t-shirt? Sorry, [chuckling] carry on, Art.
+
+
+ART: [crosstalk] [muffled]
+
+
+AUSTIN: [crosstalk] Uhh… Can you guess? [chuckling]
+
+
+JACK: Is it… N– I can’t, no.
+
+
+AUSTIN: It’s the “Sluggo is lit” panel. [chuckling]
+
+
+JACK: Oh! [laughing]
+
+
+ART: Hmm.
+
+
+AUSTIN: It’s good. [chuckling] It’s very funny.
+
+
+JACK: [while chuckling] On– On the hoverboard.
+
+
+AUSTIN: On the hoverboard, with the– [chuckling] with the selfie stick, and… yeah. It’s great. [short pause] Anyway. [chuckling] Art, continue.
+
+
+ART: [crosstalk] Yeah.
+AUSTIN: [crosstalk] “Aack.”
+
+
+ART: [crosstalk] So, like, I think there’s this very, like–
+
+
+AUSTIN: [crosstalk] “Chocolate! Chocolate! Chocolate–” Wait, wait wait wait—what is “Chocolate! Chocolate! Chocolate! Aack!”? Is it Cathy?
+
+
+ART: I actually think it’s a 30 Rock making fun of Cathy.
+
+
+AUSTIN: [laughing] Okay!
+
+
+ART: [pause] But like... [chuckling] Um, you know, Cath—[slightly quieter] I don’t really wanna get into Cathy, the comic strip, and the history of its– [Keith and Jack laughing] of its politics, and how they were sort of grown past. But like, there’s this– But it– But like, it’s a– I think it’s just a very, like, standard joke. Like, “Cathy doesn’t like that she likes to eat chocolate so much,” is the, the long and short of it.
+
+
+AUSTIN: [crosstalk]  I see. I gotcha.
+
+
+ART: Um–
+
+
+AUSTIN: And then people make that joke, but D&D?
+
+
+ART: Right. It’s just like, it’s that level of joke for D&D, like…
+
+
+AUSTIN: [crosstalk] I see. Yes.
+
+
+ART: “I did all this prep, and then my players did such-and-such!“
+
+
+JACK: [crosstalk] “My goofy players!”
+
+
+AUSTIN: [crosstalk] Right, right, right. I get you.
+
+
+ART: “My goofy players!” And this was, like… I don’t wanna, like, claim anything without really thinking about it more, but—some of your goofiest players here, and… [Austin laughing] [amused] we sort of, like, did something a little different, and, and it turned out really well, because everyone rolled with it, instead of it being, like… [pausing]
+
+
+AUSTIN: [amused] Are you just saying that ‘cause this is the… nightmare, uh, wizard asshole crew?
+
+
+ART: Well… Yes.
+
+
+JACK: [crosstalk] Plus Keith. [chuckling]
+AUSTIN: Wait, was Keith not–
+
+
+JACK: Keith–
+
+
+AUSTIN: Oh, that was me– I–
+
+
+JACK: No. That has major Keith energy. I think Keith was spiritually part of the nightmare wizard crew.
+
+
+AUSTIN: Was Keith part of the… the ham– uh, the hamlets?
+
+
+ART: Keith… Keith was part of the hamlets.
+
+
+KEITH: I was in the hamlets. Oh, yeah, that was a blast.
+
+
+AUSTIN: Was Jack in the hamlets?
+
+
+JACK: No, I was not.
+
+
+AUSTIN: Unbelievable! Both of those stories together form a sort of wonderful pair in my mind.
+
+
+[Jack and Keith laughing.]
+
+
+ART: And then it’s the four of us who did that little kids… [trailing off] With the…
+
+
+AUSTIN: [realizing] It is the ECH0 game! 
+
+
+JACK : [crosstalk] [realizing] Mmmm!
+
+
+KEITH: [crosstalk] Yeah, it’s the ECH0… Yeah.
+
+
+AUSTIN: [crosstalk] It’s the ECH0 crew. Yeah. Uh-huh.
+
+
+ART: Um… Like, I’m not saying that we don’t have other goofy players, [Austin chuckling] or that we’re necessarily the three goofiest pla– But, like… [pausing] Look at…
+
+
+KEITH: [crosstalk] Look, I don’t need to do the work to know that I’m one of the goofier players.
+
+
+ART: I think we’re def– We’re definitely three of the top five.
+
+
+[Someone chuckling.]
+
+
+[Pause]
+
+
+KEITH: Out of seven.
+
+
+ART: Out of [chuckling] seven.
+
+
+KEITH: [amused] Three– We are three out of the top five out of seven.
+
+
+ART: Uh-huh.
+
+
+KEITH: ...goofy players.
+
+
+AUSTIN: [sighing fondly]
+
+
+ART: Look, I’m– I don’t think other Lives have gotten that off the rails as the two Lives mentioned.
+
+
+[TIMESTAMP: 15:02]
+
+
+[Jack chuckling.]
+
+
+KEITH: Um… Yeah. I agree.
+
+
+[Short pause.]
+
+
+AUSTIN: Anyway…
+
+
+KEITH: [interrupting] But it’s one of the things that– It’s one of the things that happens in, like… What I like about when an arc kind of gets… gets, like, really long kind of by accident sometimes, is—maybe it’s not always by accident, but—you get… It always starts off goofier than it ends.
+
+
+AUSTIN: Yeah!
+
+
+KEITH: That’s just how it’s gonna go, almost every time.
+
+
+AUSTIN: That’s my job. Right?
+
+
+KEITH: Right.
+
+
+JACK: [chuckling] Sure.
+
+
+AUSTIN: Is to find the throughline in a, in a real way.
+
+
+KEITH: And so, when you– but when you get an arc that really has space to breathe like this, then you can get, like, a really decent, fun beginning and a really good, serious end, and it doesn’t feel like, “Oh, well, this is where they came back for the second episode–” [Austin: Right.] “Second session, and it switched on a dime from goofy to”—not that I think that we have a problem with that generally, but like…
+
+
+AUSTIN: No no no no, but that’s– It’s sort of a risk, it can happen that way, for sure.
+
+
+KEITH: Yeah.  And, it’s just one of the… You can have an arc where having multiple sessions, like, can detract from it, or add to it, [Austin: Mhm.] or neutral. And I think that was one where having a big, long thing let it breathe in a way that ended up being really good for it.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Well, there was a– There’s a real… There’s sort of a to– [sighing] For lack of a better word at the tip of my tongue, there’s an interesting power curve—or, or genre curve—to this, where one the reasons why Skeleton Riddle Corner was ‘allowed’ for me, in my mind—one, ‘cause they’re– it’s funny—but two, because you have to go meet Katonya, who is a larger-than-life Cleaver who… [pausing]
+
+
+JACK: Mmm, like a transitional sort of… [trailing off]
+
+
+AUSTIN: Who is so… like, cartoonish, in a real way. Right? [searching for words] I mean– We’ll– There’s a question coming later about the NPCs in this episode, but I’ll say now, briefly, that I think all the NPCs here, but– but– have a very… cartoonish quality, which is to say they’re very highly stylized, with a couple of… a couple of traits that are meant to… [pausing] I– make them very identifiable very quickly.  And skeletons doing… threatening riddles at you, is in that space—right? Is in that kind of… [pausing] cartoon fantasy space. And Katonya is the is at– is the transitional figure between that space and something like… like, you know, horror action anime, right? And then from that– Because Katonya can transition you there, you can then transition again into the sort of, like, solemn train finale stuff.  And, and, you’re right, Keith. I think you really need the time to explore all that space. Like, if we’d just gone skeletons to Bell Metal, it would’ve felt very weird, you know? And I think...  [Keith: Yeah.] Part of that– the thing that that let us do, is that Katonya can just show up as a kind of comic character, right?
+
+
+KEITH: Totally.
+
+
+AUSTIN: Big, and, you know, fun voice to act, and has all these stories, and all these kind of, like… big, not just physically, but big personality, commanding. Relationship with the toll collectors was very funny.  And then eventually, all of that–
+
+
+KEITH: [interrupting] And there’s a big contrast to what we were just doing, where it was like, like, comically serious, to what we were just being…
+
+
+AUSTIN: R-right.
+
+
+KEITH: We were just being goofy and then she shows up and is like, “I’m huge. I’m a huge asskicker.”
+
+
+AUSTIN: [chuckling] Right.
+
+
+KEITH: “Haha.”
+
+
+AUSTIN: “Haha!”
+
+
+[Jack chuckling.]
+
+
+AUSTIN: But then, there’s almost a, like—you know, one of the things I like about this, we didn’t get many Katonya things, but like—by the end of it, you’re like… There’s a moment towards the end where I think everyone’s looking towards Katonya to be, like, “Well, Katonya’s gonna have our back, right?” And I’m very much like, “Why would Katonya have your back? ‘Cause y’all had some fun jokes? As if that would be enough?”  And, and, I loved being able to kind of drop that on your laps—which is kind of the thing that happens with all of these great characters that are here, all of the NPCs here. The sort of… the way that they are brought down to earth, and their… like, who they have contracted themselves to, who they have looped themselves around, ends up preventing them from being the big cartoon character, like, heroes that they maybe all look like out– off the jump. You know?
+
+
+JACK: It sort of centers them in a way, right?
+
+
+AUSTIN: Yeah. Yeah! She’s like– You know, Katonya feels like the de facto, like, cool, supernatural… you know, hunter character, who is gonna like, kick down the door at the end, maybe sacrifice herself to save the d—whatever it is, it’s like, no. Like, that’s how she debuted, but now that we’re in this much different physical place, and, and, the genre has shifted, that’s not available at this point—which is interesting. Anyway, we should probably get into these questions before…
+
+
+JACK: [interrupting] Oh, real quick before we do…
+
+
+AUSTIN: Yes. Please.
+
+
+JACK: Who edited this episode?
+
+
+AUSTIN: [uncertain] Probably Aliii…?
+
+
+JACK: The–
+
+
+AUSTIN: At this point, we were do– Go ahead, what were you gonna say?
+
+
+JACK: The ending was such a great surprise. I had no idea how you were gonna end this episode—or how Ali was gonna end this episode—and it was such a delight to hear the final version, because I was really struck by how this arc just kind of ends. It just… there is, there is -- It ends very suddenly. It ends on this montage in the train, as you’re describing… [Austin: Right!. Right, right.] Fezh’s sort of constructed landscapes.
+
+
+AUSTIN: Mhm.
+
+
+JACK: And… I–
+
+
+AUSTIN: [interrupting] I think that that’s Ali, for the record.
+
+
+JACK: It’s such a beautiful ending. And I don’t, I don’t remember if we recorded… Did we record us, like, leaving that place? Or…
+
+
+AUSTIN: [uncertain] We… [sighing] God… What did we do…?
+
+
+JACK: ‘Cause there’s– there’s a version of that ending where Ali includes us saying, you know—like the classic sort of Friends at the Table arc ending where it’s like, “And we all leave, and we wrap that up, and we head off,” or whatever.
+
+
+AUSTIN: [crosstalk] Mhm. “And we head off to… to Sapodilla, or whatever.” We probably had that conversation–
+
+
+JACK: [interrupting] But she just ends it–
+
+
+AUSTIN: Yeah.
+
+
+JACK: She just ends it in the train, on your monologue, and I thought that was a really fantastic ending. That was a great surprise.
+
+
+AUSTIN: Yeah. We’ve been– Ali has been doing first pass on… everything, obvi—uh, maybe there was, like, one or two weeks where I had to pick up.  And I’ve been doing a close, like, second pass, on a lot of these, these… episodes. But I think that this was one where she just absolutely nailed it. I think she just–
+
+
+JACK: [crosstalk] Yeah. It was great.
+
+
+AUSTIN: [crosstalk] ‘Cause I, I vaguely remember asking her where it ended, and her saying that it ended on, on that, so I didn’t—[conflicted sigh] maybe I did a listen through, and I was like, “Yeah, that was really good,” [chuckling, with Jack] but I don’t remember if I touched this episode. But—I think that, that… like, there– Why not end it there?
+
+
+JACK: Yeah.
+AUSTIN: Why not end it on…
+
+
+JACK: It has that feeling, right?
+
+
+AUSTIN: Exactly. Exactly.  So… Yeah, I think it’s– I really like this one. I really like it, and that place that we ended up was, I think… pretty special, and… We’ll get there through these– some of these questions. So, let’s get it–
+
+
+ART: [interrupting] Was this three recordings or two? Does anyone remember?
+
+
+AUSTIN: Think it was three.
+
+
+JACK: Think it was three.
+
+
+KEITH: Think it was three.
+
+
+ART: I remember the middle recording… feeling weird to do. I remember, like, finishing that recording and being like, “Well, that was good or bad.”
+
+
+[Austin chuckling, Keith laughing.]
+
+
+JACK: Yes. [chuckling]
+
+
+AUSTIN: I mean, that’s this whole– This whole season feels like that to me, Art. Like, I… And like, it’s worth saying that, like, you made a tweet the other day about how much fun you had recording an episode, which like, lifted my heart—’cause I have no idea if anyone else is having fun this season. Like, I truly have no idea. Like, that’s how… strangely alienated I feel from this season, is that like, we do it, and it seems like people outside are liking it—like, people– like, the listeners are enjoying it, I guess.  But I have no—I, I cannot tell if it’s a hit or not, for my own taste, even, most of the time. So, it was nice to see that. And, and I leave that– I leave most recordings feeling that way, where it’s like…
+
+
+ART: It’s…
+
+
+AUSTIN: “Did we… are we on? Are we on tra–” Uh, like, it feels like there aren’t– It feels like there’s no road underneath us, and so it’s hard to know if we’re headed in the right direction so often.
+
+
+JACK: Yeah.
+ART: Yeah. Well, we’re doing something really different. But I mean, I hope that after all these years, you know me well enough that if I’m not having fun, I’m really unpleasant to be around.
+
+
+[Austin and Jack laughing.]
+
+
+ART: And so, [chuckling] um… I hope that that… that keeps you comfortable in that feeling.
+
+
+AUSTIN: [crosstalk] [amused] Yeah, we’re both... We’re both very busy these days. You know. [chuckling]
+
+
+KEITH: I… I’ve been having fun with this season. It’s the sort of thing, though, that always happens for me, especially earlier on in… and I guess we’re only… technically earlier on in the season, but–
+
+
+AUSTIN: I don’t think we’re earlier on in the season at all at this point, Keith.
+
+
+KEITH: [sighing sharply] It’s... It’s always hard to tell. [Austin: We’re at–] It always feels like earlier on, I dunno.
+
+
+AUSTIN: Yeah…
+
+
+KEITH: But, like… It’s a thing that– I’ve been saying this for years, which is that I just feel like I have better ideas in sci-fi seasons, and so I feel more confident in what we’re doing.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: And it takes until the very end of a season like this to know… like, how... I’ve been doing. Like, I can’t… tell.
+
+
+AUSTIN: Right. Right. Right, no, I– I… I fully, fully, fully get this, believe it or not.
+
+
+JACK: [crosstalk] Was it–
+
+
+KEITH: By the end of Hieron, [Jack: Mm.] I was like… finally feeling confident about Hieron. [chuckling]
+
+
+AUSTIN: Uh-huh!
+
+
+JACK: That’s a good season!  That’s a - Hieron’s a good show!
+
+
+AUSTIN: Uh-huh!  Great show. [chuckles]  We are - Keith-
+
+
+ART: We’re real locked in, in the second half of the last season.
+
+
+AUSTIN: Winter had fifty-seven hours.  We are at forty-six hours in Sangfielle right now.
+
+
+ART: Wow.  But Winter was short.  Winter felt short.
+
+
+AUSTIN: Winter was not…
+JACK: [heavily] Winter was fucking miserable.
+
+
+KEITH: It was short though.
+
+
+AUSTIN: [crosstalk] Winter was short, but it’s- but it’s- only short compared to, like, PARTIZAN.
+
+
+JACK: Twilight Mirage.
+
+
+AUSTIN: Yeah, Twilight Mirage, which is a nightmare show.
+
+
+JACK: [laughing]  Twilight Mirage is us doing a full trilogy.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: I- I think maybe something happened to me during Twilight Mirage, where my brain went like, “This is how long Friends at the Table seasons are.”
+
+
+AUSTIN: We all - Yeah, uh-huh.  Yeah.  Well, ‘cause if you didn’t do that, you were- you were - That’s like if you’re on a long road trip, or your on a long trip for a day, [Jack laughing] you’re like, “This is how long it is - This is how long all bus rides are.  All bus rides are eighteen hours long.”  And not-
+
+
+[Keith laughing]
+
+
+JACK: “This is normal to me.”
+
+
+AUSTIN: Yeah!  I- “This is normal.  I’m on hour twelve, I’m basically there.”
+
+
+KEITH: But now I’m two hours into a bus ride and I’m starting to really get into the bus ride, and the driver’s like, “All right.  We got two stops left.”
+
+
+AUSTIN: Yeah.  I don’t- I don’t think we’re two stops left.  I - I - But I don’t think we’re Twilight Mirage either.
+
+
+KEITH: No, no, no.
+
+
+AUSTIN: I mean, the real thing is, every week we put off starting Road to Season 8 or whatever, is a week further away season eight is, you know?  So…
+KEITH: Yeah, yeah, yeah.
+
+
+AUSTIN: Until I get time back, my life will - It’s just gonna be hard to - We’re gonna like, wade in Sangfielle in a way that doesn’t come from-
+
+
+ART: [interrupting]  We’re gonna do Sangfielle until Austin’s life is back in control?
+AUSTIN: Unfortunate.
+
+
+ART: Sit down guys, it’s gonna be a long bus ride.
+
+
+AUSTIN: It’s gonna be a minute, yeah. Uh-huh.
+
+
+ART: You’re not at a Port Authority yet.
+
+
+AUSTIN: No!
+
+
+KEITH: I think that sort of fits Sangfielle.  Like, I think sort of wading around in it is what it wants.
+
+
+AUSTIN: I think that that’s right.  I think that that’s correct.  I think that you’re not wrong.  It’s tough because I want to - I really want something to hold onto in the season at this point, and - and -
+
+
+KEITH: I’m having fun, I just wish I knew my character more at this point.  [Austin sighs]  And I don’t feel comfortable that I don’t.
+
+
+AUSTIN: Are you finding - Yeah, I - [sighs]  I brought this up during our last downtime session, which spoi-  I guess it’s after this Draw- It’s after the Bell Metal Station thing, but I mentioned that we just don’t have a lot of time for characters to talk to each other in this season.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: And there’s one scene in that downtime that’s great-
+
+
+KEITH: [interrupting] I don’t know why.
+
+
+AUSTIN: Yeah, me either.  I don’t know if it’s a systems thing, if it’s a way I’m GMing thing, if it’s a “everyone’s still just trying to feel out who their characters are.”  I mentioned that it’s like, you’re all basically playing very professional characters, characters who have a great deal of professionality and individual focus, where you’re like, you have your thing you’re working on, and sometimes that overlaps with each other, in terms of what goals are, especially when there’s like, an explicit mission or whatever.  But… The inter-party dynamics are just not what they were in, like, PARTIZAN, for instance, [Keith: I know…] where they were in the focal point.  And I’m curious what y’all think about that.
+
+
+KEITH: I know that - to bring it slightly back to this Drawing Maps, I remember going into this episode being like - It was - Specifically, we were going into the second arc, or the second session, where Pickman jumps on the train, being like, “Okay, this is the episode where we have some like, inter-party discussions, and talking, and figuring things out.”  And then Pickman jumped on the train immediately.
+
+
+AUSTIN: And you were left alone.  Yeah.
+
+
+KEITH: And I was like, “Okay, guess we’ll do that next week.” [laughs]
+
+
+AUSTIN: I mean, that goes back to what Art was saying about leaving that second session so strange, was the - That was the session where it felt like the whole arc could have ended at any point, right?  Because all it would have taken was for Lyke to find the smoking gun on Calen and push the issue, but to do so in a way that would have brought succ-  Or to commit to killing Fezh, right, to killing the Red Zephyr.  And the beauty, I think, of this arc is… And maybe one of the things that’s so - We’ve talked about systems and not wanting to roll dice over the past few years; sometimes I feel like rolling dice is dangerous and scary and you don’t want to do a thing because it’s scary to roll dice, to pick up dice.  I think this is an arc where-
+
+
+KEITH: [interrupting] No idea what you’re talking about.
+
+
+AUSTIN: Yeah, hmm.  I mean you certainly don’t.  But the - That felt like it actually impacted this arc in a really interesting way, that like, there was a real “no sudden moves” vibe here because even once information was clear, it was a scary thing to want to push on this very explosive situation or to try to find the rest of the smoking gun.  Like, you got the smoke, but you didn’t find the gun.
+
+
+KEITH: It was a fun balancing act from my side, like, where I was like, “Well, I know that the other side is going to tell me something about what I’m doing here.”
+
+
+AUSTIN: Right.
+
+
+KEITH: “And I just don't have it yet.”
+
+
+AUSTIN: Right, right.
+
+
+KEITH: Like, I don’t know - Like, I was getting vibes from Calen and I didn’t really know what it was yet, and they’re on the Red Zephyr, and weird stuff’s happening.
+
+
+AUSTIN: God.
+
+
+KEITH: Like, I - Maybe it was just me being dense, but I- I think it was really late into the thing where I was definitely sure that the train was good and that Calen was bad.
+
+
+AUSTIN: Yeah, I mean - I mean - It was - It was really interesting to me because I - There’s probably a moment that’s noticeable, I don’t know if you can find it, where I realized that you knew it was Calen, but couldn’t prove it.  And that like - That’s enough for - That’s it!  Like, that’s the horror of the situation in a real way is that - 
+
+
+JACK: Yeah, yeah.  Absolutely.
+AUSTIN: Is that a person can hurt another person, a person that they love, very badly, and that you fucking knowing it’s true, can’t help that other person.  And can’t even necessarily bring justice to a situation, because you don’t have what’s considered proof among their - among the circle of authority.  Right?  
+
+
+[TIMESTAMP 30:00]
+
+
+AUSTIN: Like… [searching for words]  What the fuck’s his - What’s his name?  What’s the little guy’s - What’s the little…
+
+
+JACK: Ern?
+
+
+AUSTIN: Erm!
+
+
+JACK: Erm?  Erm.
+
+
+AUSTIN: Erm.  Erm, Erm.  Erm was not going to flip on Calen ‘cause some rando said so.  You know?  And-
+
+
+JACK: Oh, it’s so horrible.
+
+
+AUSTIN:  It’s horrible!
+
+
+JACK: It’s grim.
+
+
+AUSTIN: It’s - Yeah, uh-huh!  So, that stuff was… That stuff was fun.
+
+
+JACK: We can get to this when we talk about making - when we talk about making horror in these questions, but…
+
+
+AUSTIN: [crosstalk] Yes, they’re in there.  Let’s get into them, ‘cause it’s now been…
+
+
+JACK: Yeah, yeah, let’s do - 
+
+
+AUSTIN: I mean, I loved that opening conversation, it’s the best to also have.
+
+
+JACK: [crosstalk] I mean, this is also the show, right?
+
+
+AUSTIN: Yes, yes, we’re doing the show.  This is Drawing Maps.  Exactly.
+
+
+KEITH: Not surprising that we had a lot to say about the episode.
+
+
+AUSTIN: No, not at all!  Again-
+
+
+ART: Not surprising that this group of four people took twenty-five minutes to get to slide two.
+
+
+[Keith laughs]
+
+
+AUSTIN: To get to - Yeah, exactly.  Exactly.  This is it.  This is what we - This is what - 
+
+
+KEITH: We are the top - We are probably in the top five of seven in terms of long-windedness.
+
+
+[Jack & Austin laughing]
+
+
+JACK: [while laughing] I don’t know what you’re talking about.
+
+
+ART: I’m just not trying to offend it.  I want anyone to hear this to be like…
+
+
+AUSTIN: “I’m long-winded as shit!”  That’s why Keith said five.  Whoever wants to feel like they’re the fifth can fit in.
+
+
+KEITH: Right.  No, no, that was ‘cause that was Art’s original thing from earlier, the, the-
+
+
+AUSTIN: [crosstalk] Mm, mm-hm.
+
+
+JACK: [interrupting] [amused] You fuckers, let’s answer some questions!
+
+
+KEITH: Okay.
+
+
+AUSTIN: Juniper writes in:
+
+
+KEITH: Apply to question one.
+
+
+AUSTIN: Question one:
+
+
+        “I’m interested in the decision to leave Calen and Fezh’s relationship ambiguously
+romantic.  Was that simply so the viewer can fill in whichever option we find scarier -”
+
+
+AUSTIN: [interrupting the question] No, they’re in - They have a relationship.  The party didn’t find out the truth of that situation because all they saw was, like, a photo or two and maybe a brief mention in a diary.
+
+
+JACK: [crosstalk] Sure.
+
+
+KEITH: I felt I unambiguously knew.
+
+
+AUSTIN: Yeah, I thought so too.
+
+
+JACK: I unambiguously knew.
+
+
+AUSTIN: Okay.  Good.  It’s not - In my mind, it’s not ambiguous at all, it’s just that like, Calen doesn’t keep love poetry around.  [Keith: Right.]  Calen… turned them into a train.  You know?   But that doesn’t mean there aren’t any artifacts of the relationship between the two of them, but-- 
+
+
+JACK: [interrupting] I mean, there is an artifact of the relationship between the two of them, and it’s that one of them is now a train and the other one is inside…
+
+
+AUSTIN: [crosstalk] One of them is just the Zephyr.  Yeah, uh-huh.
+
+
+ART: The artifact of the relationship is a train.
+
+
+AUSTIN: [laughing] Yes, a hundred percent.  So yeah, I didn’t mean for that to be ambiguous, I meant that to be… Playing in the genre space, there is nothing  - I don’t want to go more clear on something than - I - One of the joys of playing this horror, in this space is you can open a drawer and see a photo of two people and the camera reads that as being a romantic connection, right?  And it suddenly burdens the entire relationship in such a deep way.  And playing with that sort of visual language is really fun.  And so for me, that’s better than Calen ever saying “You don’t understand!  I love Fezh and we were gonna get married, and then I turned them into a train.”  [laughing]  Or whatever, you know?  [Jack laughs]  But also, no one asked.  That’s the other half of this, is like, when there’s ambiguity this season, one of the funniest things that’s happening in every arc is no one says “Hey, can I have the thing?”  Or “Hey, can I - Hey what’s up with you and blank?”  Because it’s not the mode that the characters are in.  And I’m not saying that the characters should do that more.  I’m saying that that’s players, I think, playing genre well, that there’s like - If you go back to… If you go back to - [searching for words]  What do you call it?  Roseroot Hall.  You know, no one ever - There’s a big dramatic moment when finally someone says to Dyre Ode, like, “Hey.  What’s up.  With you.  What’s going on with you?”  Anyone could have asked Dyre Ode what was up from the jump and could have gotten an answer.  But it would have been - It would have felt out of character for those cha- for that set of characters to push in that way.  And so it wasn’t - So instead there’s this kind of like, interesting tension over that entire arc.  And so I think that’s-
+
+
+KEITH: [interrupting] I don’t think you’d be hard pressed to find a character of mine that would have just said “What’s up  Hey, what’s up?”
+
+
+AUSTIN: But I - But Lyke didn’t in that situation, even, I think - 
+
+
+KEITH: No, no.
+
+
+AUSTIN: So, yeah.  Any other character you’ve ever played would have been like, “Hey, what’s up?  You wear a lot of masks, huh?  You a big mask person, what’s going on?”
+
+
+JACK: Pickman explicitly asks the toll collectors “What’s your deal?” early in Bell Metal, and the toll collectors are basically just like - [laughs] give this really stupid answer, which is they interpret it as “What’s your deal right now?”  And they’re just like “Well, you know, we met Katonya back in whatever-”
+
+
+AUSTIN: [interrupting] Why would they read it any other way?
+
+
+JACK: Yeah, exactly!
+
+
+AUSTIN: You know?
+
+
+JACK: You know.
+
+
+AUSTIN: Ah, god.
+
+
+JACK: “What’s your deal?”  “Oh, we’re just doing a job.”
+
+
+AUSTIN: Someone wrote in to ask me what the deal was with them, by the way, and I said “Find out -- Play to find out what happens.”
+
+
+JACK: Yeah.  We’ll figure it out!
+
+
+AUSTIN: Figure it out, or you won’t, we’ll see.  It’s fun, people should try to figure it out at some point.  If the opportunity presents itself.
+
+
+KEITH: I’m invested in them.
+
+
+AUSTIN: Yeah.
+
+
+JACK: Yeah, those guys are great.
+
+
+AUSTIN: [crosstalk] Yeah, they’re fun.  Juniper also writes:
+
+
+        “Why did Calen choose the person that he was apparently closest to?  [Jack: Ooh, good
+question.]  Did he just figure out that a non person cannot be hurt and mad?”
+
+
+AUSTIN: I don’t know, you have to ask Calen.  That’s a Calen question, for me, that’s not a me question.  Someone has to track down--
+
+
+JACK: [interrupting] We can all agree that it’s horrible.
+
+
+AUSTIN: Uh-huh!  Yeah.
+
+
+ART:  Mm-hm.
+AUSTIN: It’s miserable.
+
+
+ART: Yeah, people often do horrible things to people they’re romantically involved in, or…yeah.
+
+
+AUSTIN: Yeah!  Yeah, turns out.
+
+
+KEITH: It’s also that’s probably the easiest kind of person to come to a cave with you is your… boyfriend or--
+
+
+AUSTIN: Yeah, I’m actually more interested in y’all being like, “Why did this -- Why was this relation-- Why did this happen in this way?”  Is that what your thought is, is that like “Well, Fezh was Calen’s partner, and so that offered Calen opportunity?”
+
+
+JACK: Or it’s easier for them to justify.  To themselves.
+
+
+AUSTIN: How so?
+
+
+JACK: They can say “I know Fezh.”
+
+
+AUSTIN: Ah, right, right, right.
+
+
+JACK: “I’m able to -- I’m able to, you know, I wouldn’t want to do this, but I can convince myself that Fezh would feel a certain way about this.  What, ask them?  No, surely not.”
+
+
+KEITH: More hypotheticals could be Fezh could have thought -- Or Calen could have thought that it was a good thing to turn Fezh into a train, right?
+
+
+JACK: Oh, no, no, no.  Calen doesn’t think that -- I mean Calen -- Well.  Oh, I don’t know.
+
+
+KEITH: Yeah, it’s hard to say!
+
+
+JACK: [crosstalk] Calen specifically says that one of the nice things about making someone into a train is that you can stop thinking of them as a human.
+
+
+AUSTIN: That’s correct, yeah.
+
+
+JACK: And it’s really interesting that -- I mean, okay, so we’re in the genre space, right?
+
+
+KEITH: [crosstalk] Nice thing, nice thing.
+
+
+JACK: If we’re in the genre space, we could, we could start talking about like, possessing -- possessing people in relationships.  And one way that someone could try and gain possessional control over somebody else, right, is physically transform them into something that allows them to deny their personhood is, I suppose, one way.
+KEITH: I have a vague memory of Calen trying to claim that he thought he could turn Fezh back, but I think that-
+
+
+JACK: [interrupting] Oh, did he?  Was he just wheedling to Pickman at that point?  Was he kind of like--
+
+
+KEITH: It might have just been wheed-- And again, this -- It was a couple months ago, so this is just like a hazy memory of being like, “I didn’t know that it would be permanent” or “I thought I could change--'' I'm not exactly sure.  I could be misremembering.  Austin, do you…?
+
+
+AUSTIN: I know what’s in my notes and I don’t --  I need to check what’s in my notes versus what’s in -- what Calen said out loud.
+
+
+JACK: [amused] Oh, what’s in the ep.
+
+
+AUSTIN: There’s “can’t talk about fetters…”
+
+
+JACK: [crosstalk] I hate that little fucker.
+
+
+AUSTIN: There’s Calen not having glasses on when Pickman says “Wake up, you little worm.”
+
+
+[Art laughs]
+
+
+KEITH: That’s great.
+
+
+AUSTIN: [crosstalk] Let’s see here.  “They’re helping me, they’re helping me, you have to understand.”  Uh-huh.  Uh-huh.  Ah!  “I think we thought we could undo it.”  Is a thing that Calen says.
+
+
+JACK: He says “We thought we could undo it?”
+
+
+AUSTIN: Calen says “I think we thought we could undo it, [Jack: Oh, lord.] and I think some of the long-term uses weren’t clear to Fezh, but I -- they knew that they would -- They knew what I was turning them into.”
+
+
+JACK: I don’t believe that little fucker for a moment.
+
+
+ART: It’s a little hard to believe.
+
+
+AUSTIN: You know…
+
+
+KEITH: It is a little hard to believe.
+
+
+AUSTIN: [fake innocence] What, are you saying that because Red Zephyr then became an absolute engine of fury and revenge?  Yeah, uh-huh.
+
+
+KEITH: [crosstalk] Okay, so here’s the -- Here’s what it is.  I’m, I’m locking in my official answer.
+
+
+AUSTIN: Ooh.
+
+
+JACK: Ooh!
+
+
+KEITH: Is that Calen told Fezh a mostly truth about what was happening, implying to Fezh, knowing that this was a lie, that it was impermanent and that they could change it back or just some sort of experiment, and the reason that Calen did it to Fezh is that Fezh is the only person that Calen could have convinced to do this of their own free will, making it much easier to turn them into a train, knowing that they wouldn’t be able to turn back… But the whole procedure predicated upon Fezh thinking that he would be turned back.  [short pause] Locking it in. [clicks tongue]
+
+
+AUSTIN: I should say briefly, thank you to, in this case, robotchangeling for having already done the transcript for this episode, so that I could quickly check that.
+
+
+JACK: Oh, that’s great.
+
+
+KEITH: All four, I think.
+
+
+AUSTIN: Yeah, I think that that’s right.  I just did a round of payments on these, and I believe that all four of those are robotchangeling.
+
+
+JACK: That’s amazing.  Also-
+
+
+KEITH: Actually, wow, episode fourteen through episode twenty-three.
+
+
+AUSTIN: Yes, that its correct, robotchangeling’s done a bunch of Sangfielle, a bunch of Tips, a bunch of Bluff, so…  All of Young By the Shore -- almost all of Young By the Shore is robotchangeling also.  That was a good arc too.
+
+
+JACK: Shoutout to you Austin, for including someone getting turned into a train in a cave with absolutely no description of what that involves or looks like or how it happens, it’s great.
+
+
+AUSTIN: I’m actually fucked up about that, because I had answers for all that.
+
+
+JACK: I love it!        
+
+
+AUSTIN: But the thing that happens this season, happens again and again this season, is I forget to hit a beat, a visual thing, or whatever--
+JACK: I’m sure it would have been good, [Austin: Yeah… Yeah.] but I just love that we exist in this world where that happens.  You can be led to a cave and transformed into a train.
+
+
+AUSTIN: [crosstalk] The thing for me is -- I mean, the thing that literally happened is you didn’t get there.  You and Art got off of Fezh, [Jack groans] got off of Red Zephyr, moments before I was gonna have you arrive at the den of Red Zephyr.
+
+
+JACK: Oh, yeah, yeah.  Ooh.
+
+
+AUSTIN: Which was going to be like, this like, Monster Hunter-style like, the den where Red Zephyr goes back to [Jack: Nest or whatever.] nest and lick its wounds, right?  And -- And where, you know, there you would have seen, you know, presumably the artifacts of the ritual itself, right?  Which is part of why that second episode ends -- Not episode, the second session that we recorded ends so strange is it ends with you and Duvall leaving, walking back -- [Jack: Yeah.] starting to walk back.
+
+
+JACK: In the tunnel.
+
+
+AUSTIN: It ends with Lyke -- And ends with Lyke being, like, realizing that he has half of the story, and it’s a lot of -- It’s this like, and maybe this is what you were saying before, Art, maybe this was the impression that you had, but there was all of this like, potential energy just on the verge of becoming kinetic, and then being stifled.  Which I think is a really great horror, you know, middle act.
+
+
+ART: Mm-hm.
+
+
+AUSTIN: All right, keep on moving here.  Can you read this one, Art, from Alice?
+
+
+ART: Sure.
+
+
+        “A question for Jack and Austin.  Pick-- Pickman is portrayed and roleplayed as very
+competent, or at least sure of herself, regarding everything Shape, which in this arc,
+sometimes seemed to contest authoritative ground with Austin GMing.  An example is
+Pickman’s dismissal of the toy train stuff as something many Shape Knights would build,
+while it seemed to be set up as something novel.  Was it hard to balance this player
+competency over specific subject matter with GMing needs?”
+
+
+AUSTIN: Not really.  I don’t… care.  Is like, the deep, honest truth.  There’s nothing I can say out loud about a Shape Knight thing that I won’t seed to Jack, in the same way that there’s nothing about the bugs that I could say that I won’t seed to Art, or anything about junk magic that I won’t -- that I’ll say that I won’t seed to Keith.  I might push for more detail to find the evocative thing, to find the mechanism, right?  This arc specifically, like Keith go -- Keith and I went back and forth a lot on the… how your flame-hand stuff works, right?
+
+
+KEITH: Yeah.
+
+
+AUSTIN: But, but, I wasn’t -- I just needed an answer, I wasn’t looking for like, the right answer.  So like, the toy train thing, like I don’t even remember this toy train thing as being a point of contention in any way.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Because if Jack was like “Oh, this is a thing all Shape Knights -- Or like, many Shape Knights have done,” my mind goes like “Yeah, cool.  That makes sense.”  I just don’t keep a tight leash on this shit.  And especially not this season where like… I’m not -- There are big plans at this point, there are big -- You know, this is the arc where Zevunzolia comes out, right, where the Seven Wrights or whatever.
+
+
+JACK: The worst idea yet.
+
+
+AUSTIN: Right, or like--
+
+
+JACK: Not from you.  From the people in Sangfielle.
+
+
+AUSTIN: From the -- Right, yeah, of course.  And so like… We’re getting to -- We’re getting towards big plot shit, and so like, no one, no one has -- no character has competency with knowledge of the Wrights of the Seventh Sun or -- or with a group that gets named in the descriptions of this, of these episodes, but was not said out loud was the Star-Touched, the kind of secret agents from Kay’va, right?  I have -- Those are very clearly delineated as things for me, at least until a player character becomes -- Like if Duvall dies tomorrow and then becomes -- and then Art is like “I wanna be a Kay’va spy.”  And I’ll be like “All right, well now you’re one of the Star-Touched, you tell -- Let’s work out what that is.”  Then I would seed that authoritative power, ‘cause that’s like -- It’s not even power, it’s authoritative responsibility is what it is.  I’m happy to give it away when it’s the -- I’m happy to collaborate with it, because that’s the joy of what we do.  So for me at least, I don’t think this is a problem because the Shape trains were always Jack’s.  Right, like, I didn’t come to Jack and say “Jack, would you like to play a Shape train?”  Ah - Sorry, let me be clear, Pickman is not a Shape train.  “A train knight.”
+
+
+ART: Gave away the twist!
+
+
+AUSTIN: [laughing] A Shape Knight.  [Jack laughs]  God, that would be very funny if Pickman had always been a train.
+
+
+JACK: I don’t think Pickman -- Pick --I don’t know.  Yeah, no.  Pickman is not a train.  I try and play Pickman with characteristics of a train in the same way that there was that, there was that woman in Fall of Magic who was -- She was the captain of a ship and she was also the ship.
+
+
+AUSTIN: Riiight.  Yeah, that was great.
+JACK:But it was clear that she was like, a woman who -- Pickman’s principles, I think, align less with principles of Shape trains, for me, and more principles of how we, as humans on Earth, think about trains in terms of their focus and their velocity.
+
+
+AUSTIN: [crosstalk] Sure.  Yeah.  Yeah.
+
+
+[TIMESTAMP 45:00]
+
+
+JACK: So yeah, Pickman’s not a train, but I think -- I think a lot about Earth trains when I’m playing her.
+
+
+AUSTIN: Makes sense.
+
+
+JACK: And I think this moment for me as well, I never saw this as -- I did -- When you put down this train set, I thought it was great ‘cause it was just this fun little detail of these people who deal with like, [Austin: Uh-huh.] monstrous, human-killing trains being like, “I’m gonna have a little -- [laughs] a little, small one! Toot-toot!”  [Keith laughs]  But I didn’t think you were saying to me that it was novel in the sense of like -- What I thought you were telling us was that Calen or somebody here had an interest in controlling the Shape.
+
+
+AUSTIN: Right.  That’s correct.
+
+
+JACK: And the thing that I took from that was -- And sort of -- ‘Cause I think we’d spoken earlier in the episode about how -- ‘Cause I went into this thinking a lot about the only other Shape train we’d met before which was Chantilly Scathe’s shackled -- What does she call it?  Grand Cormorant.
+
+
+AUSTIN: Grand Cormorant, yeah.
+
+
+JACK: “The shackled…” what?  “The shackled…locomotive?”  What’s it called?
+
+
+AUSTIN: No, the… the shackled…
+
+
+JACK: The shackled
+
+
+AUSTIN: Uhhh, I’m doing a search.  The shackled -- Is it just --
+
+
+JACK: The shackled -- It might be “the shackled train.”
+
+
+AUSTIN: It is “her shackled engine.”
+
+
+JACK: “The shackled engine,” yeah.  And so like, something that I knew existed in the world was a sort of a faction or an ideology or a zeitgeist among Shape Knights thinking about how to turn trains to their own advantage.
+AUSTIN: Right.
+
+
+JACK: And by this point, we knew as players, and Lyke knew as a character that there was something legitimately fucked up happening at Bell Metal and I wanted to position Pickman as underestimating these people.
+
+
+AUSTIN: Right.
+
+
+JACK: And being dismissive of these people.  So, the sort of, the clear response to you putting down what I thought was a gesture to Shape Knights trying to control the Shape was to have Pickman kind of just roll her eyes and be like “Yeah, yeah, everyone does this.  Like, people think they can play around with the Shape by building these.”
+
+
+KEITH: Just normal hooky stuff.
+
+
+JACK: “That’s just normal, these little fucks think they can just build…”  You know.  To set up, of course, what, by now the listener is getting, is that something really bad is happening here.
+
+
+AUSTIN: Right, and the specific thing being that Calen spends most of that episode being like “We can figure out a way to shackle it.”  I mean, the previous episode too.  That’s like, the voice that Calen has, the thing that he says again and again to the rest of the Shape Knights is--
+
+
+JACK: Yeah, we had a plan at one point to shackle the train!
+
+
+AUSTIN: A hundred percent.
+
+
+JACK: Like, at one point we make a plan -- Pickman, I think Pickman hates it.  I don’t remember.
+
+
+AUSTIN: I don’t think that you -- ah.  Did Pickman ever even -- Was Pickman in on that?
+
+
+JACK: I think Pickman’s like “I hate these fucks” and I think at one point Pickman is like “We will go along with the plan and jump them when they try it.”  But I don’t remember why.
+
+
+AUSTIN: I don’t even remember it being that developed because it’s so quick -- Keith so quickly -- Lyke so quickly gets y’all up to speed on not trusting Calen.  Maybe there’s one conversation with… Omerra.
+
+
+JACK: [crosstalk] Katonya, maybe?
+
+
+AUSTIN: Omerra.  [Jack: Oh.]  Katonya was like, barely there once you get there, unfortunately.
+
+
+KEITH: My memory is that there was a -- There was one conversation where it felt sort of like our hands are tied because we don’t have -- we still don’t have proof.
+AUSTIN: Right.  Right.
+
+
+JACK: That was a --
+
+
+KEITH: And so we were like “Okay, we’ll let them make their plan…”  [Jack: Yeaaah.]  Where I was being like “No, I don’t want to shackle them, but everyone wants to shackle them,” and it’s like “Okay, fine, we’ll do it, and also hey, we have to go find our proof about Calen.”  That’s sort of how I remember it going.
+
+
+AUSTIN: [crosstalk] Yeah, I think that might be -- That might be right.  That’s the Omerra conversation.  Just like, the day that all that stuff ends up breaking -- breaking bad, basically.
+
+
+KEITH: ‘Cause I remember Erm being like, sort of on the fence, sort of like “I kind of just want to kill the train.”
+
+
+AUSTIN: Yes.  Yes.  Erm was very much on Team Kill the Train.  Yeah.
+
+
+JACK: Which Pickman thinks is broadly impossible.  Or like, Pickman has that conversation with Katonya early where she’s like “You -- We need to have realistic expectations going into this.”  I think also, the -- the -- the really enjoyable flipside, Austin, to you -- Or I think to us as a crew being so amenable to collaboration around these things is that when you draw hard lines about stuff, it is very clear to us that that is something that you have a clear intention for.  And so, with stuff like that, had you -- had it been absolutely critical to the plot that these, that this train set evoked on thing rather than another--
+
+
+AUSTIN: [interrupting] That’s exactly it.  Yeah.  I would have stayed there.
+
+
+JACK: I am really confident that you would have told me that.
+
+
+AUSTIN: Yeah.
+
+
+JACK: And, you know, this happens on the show, not regularly, but there are times when you say “Oh no.  It doesn’t work like that.”  Or like “You can’t, you can’t do that.”
+
+
+AUSTIN: There are even soft ways for me to do it, where I'll say “I can’t tell you what you think, but one thing you might think is…”
+
+
+JACK: Yeah.
+
+
+AUSTIN: “Duh-duh-duh-duh.”  Or “someone might think.”  Or I’ll say… you know, “Oh! There’s another detail I left out.”  And then I’ll say “On the train set, you notice that there’s a little glyph!”
+
+
+JACK: A beating human heart!
+
+
+AUSTIN: Exactly, exactly, right?
+
+
+JACK: [laughs] I think we’ve been doing this so long that we’re able to pick up those cues from each other as to like, “This is a moment for us to explore collaboratively” or “This is a moment when someone is saying --”  Not just you, when someone is saying something authoritative about the world or about their characters or whatever.
+
+
+AUSTIN: [crosstalk] Yeah.  Mm-hm.  There’s like, a real like, “Oh, give me a second, I need to reset the rhythm line.  I need to reset the tempo we’re playing at.”  There’s the.. Is it Harry Connick, is that the Harry Connick Jr. video that I love [Jack laughs] where he tricks the audience?
+
+
+JACK: He stops them from playing --
+
+
+KEITH: [crosstalk] Oh yeah, the one and three.
+
+
+AUSTIN: [crosstalk] Clapping on one and three.
+
+
+JACK: [crosstalk] The audience is clapping on one and three and it’s killing him and he throws an additional beat into a measure, [Austin: Oh, it’s so funny!] and just tricks this entire audience into clapping on two and four, and you can see the drummer in the back go “Yes!”
+
+
+AUSTIN: [laughing] It’s so good!  And there’s little things like that basically, where I can do that, or anybody at the table can do that, to like, try to suddenly -- If you know to listen for it, you can find it, but like, the real point is that there’s so many mechanisms at play, or at work for us, that range from --
+
+
+JACK: We’ve been doing it forever now.
+
+
+AUSTIN: But range from, literally, on the far end of this, there is, we record a thing and we go “Mm.”
+
+
+JACK: “Cut it.”
+
+
+AUSTIN: “That doesn’t sound good, cut it.”  Or “let’s re-record that.”  And we’ve only done that a handful of times, like under five times, but that’s available at all times, and in some ways, knowing that that’s available opens up the possibility of the most subtle version of reworking something, or not reworking, but redirecting it, which is me going “You know, you might think that blah,” or “Oh, I left something out, let me go back for a second.  Duh-duh-duh-duh-duh.”  And because that trust is there for that -- for the complete rewrite to be available, or the complete redo to be available, those other little ones are available too.  And we’ve just learned a lot of tells, and that’s just working with people.  That’s just… building rapport.
+
+
+JACK: “I want to roll ‘Speech to Thackeray’ in this moment.”  “He cuts your throat!” in Marielda.
+AUSTIN: [chuckles] Well, you rolled bad!  Jack, c’mon.
+
+
+JACK: No!  You -- I said “I want to talk to this guy,” and you said “If you try and talk to this guy, he will inflict physical--”
+
+
+AUSTIN: [crosstalk] Oh!  Okay.  Well that’s different than he does it.
+
+
+JACK: Yes. 
+
+
+AUSTIN: I did say “If you try.” [laughs]
+
+
+JACK: Yes, that’s true.
+
+
+AUSTIN: That’s the difference, I wouldn’t --Eh, maybe I would.  Depends on what you’re doing.  Depends on how much of the barrel of the gun has been shown. This is another one for us, Jack.  I’m just gonna read it quick.  Anna writes in and says:
+
+
+        “Could you give us a rundown of what is known or believed to be known about how 
+riding trains works?”
+
+
+JACK: “Known or believed to be known” is so good.
+
+
+AUSTIN: Uh-huh!
+
+
+        [continuing the question]
+
+
+        “I think I have a firm grasp on the train dukes/gods of Sangfielle, specifically that they’re
+mysterious and powerful and we don’t know much other than they appear to swap
+between indifference and aggression.  That said, I don’t have a firm idea in my head
+about what is meant when characters talk about riding the train.  Do the less powerful
+trains just look like normal passenger trains?  Would you board a passenger car as you
+would a train in real life?  How do you know where a given train is headed?  How
+common is travel by train?”
+
+
+JACK: Let’s go through these.
+        
+        “Do the less powerful trains look like normal passenger trains?”
+
+
+JACK: Yeah, most of the time.
+
+
+AUSTIN: Hey, I have a coda to that, or an addendum.  Many of the more powerful trains just look like regular trains.
+
+
+JACK: Yup!
+AUSTIN: And that is the problem.
+
+
+JACK: Uh-huh.  We -- I imagine Grand Cormorant is a fairly powerful train.
+
+
+AUSTIN: Who could say.
+
+
+JACK: And that just looks like a train.
+
+
+AUSTIN: Just looks like a train!
+
+
+JACK: Red Zephyr is -- Red Zephyr -- There are more powerful trains than Red Zephyr.
+
+
+AUSTIN: Oh, by far.
+
+
+JACK: And Red Zephyr looks like a fucking nightmare.
+
+
+AUSTIN: Yeah, uh-huh.  Exactly.
+
+
+JACK: In my head, I know of at least like, two or three really high ranking shape trains that just look like big, black engines.
+
+
+AUSTIN: Right.
+
+
+JACK: [continuing the question] “Would you board the passenger cars as you would a 
+train in real life?”
+
+
+JACK: Yes, we actually see this onscreen.
+
+
+AUSTIN: Yep.
+
+
+JACK: Dyre Ode boards…
+
+
+AUSTIN: Grand Cormorant.
+
+
+JACK: Grand Cormorant.
+
+
+AUSTIN: Yeah.
+
+
+JACK: Along with other people.
+
+
+AUSTIN: We - This is a point of like, if you’re interested in this, you should go back and listen to the Drawing--
+
+
+JACK: [crosstalk] Early conception.
+
+
+AUSTIN: Right, to the Drawing Maps between you and -- between you and me, Jack, where we try to outline this, because one of the things I want to get across that it should always feel a little scary and that no one’s commuting to work, [Jack: Yeah.] but people are willing to commute, or people are willing to travel to go see family, or move, or for a festival or a holiday, or for medical reasons, or for -- But no one is like “I’ll hop on the--”  No one’s doing their like -- No one’s a bridge and tunnel, there’s no bridge and tunnel crowd.
+
+
+JACK: “I’ll hop on the train and go…”
+
+
+AUSTIN: Yeah.
+
+
+JACK: Well so, yeah.  The thing is like, that, I think, is from a relic back when Pickman was this sort of like, priest who fell asleep on a train.  [Austin: Correct.  Yes.]  That was going somewhere and the train was -- Pickman just woke up and the train was still going and wouldn’t let -- At that point, wouldn’t let him off.
+
+
+AUSTIN: ‘Cause that was-- Yeah, mm-hm.  Different character.
+
+
+JACK: And I think, you know, in my head, I was still sort of clinging on to that thing of like, “Oh, people ride the trains from A to B fairly regularly.”  But as soon as we began to -- It made a lot more sense.  Riding trains is dangerous, but there are people far away, there are hard deadlines you need to meet, [Austin: Yep.] you know, to get across whatever.
+
+
+JACK: [continuing the question] “How do you know where a given train is headed?”
+
+
+JACK: Shape Knights, often.  That’s part of the role--
+
+
+AUSTIN: [interrupting] Just a quick -- A quick note.
+
+
+JACK: Sometimes you don’t.
+
+
+AUSTIN: For a -- No, no, no, going back for a second.  For a long time, boats were really dangerous.  Maybe that’s a way to think about this.
+
+
+JACK: [crosstalk] Oh, yeah, totally.
+
+
+AUSTIN: Like, cross-ocean travel.  You know?  It’s scary.  It can be scary.
+
+
+KEITH: Oh, in the real world.
+
+
+AUSTIN: In the real world.
+
+
+JACK: Yeah, yeah, yeah.
+AUSTIN: Yeah, yeah, yeah.
+
+
+JACK: I’ve played the fucking Obra Dinn, it’s really hard.
+
+
+AUSTIN: Yeah, exactly.
+
+
+KEITH: Right.
+
+
+AUSTIN: And sometimes it’s fine!  Many times it’s fine.  Sometimes… it breaks real bad.
+
+
+JACK: Yeah.
+
+
+KEITH: [crosstalk] It’s a real -- It is a real risk to sail on a wooden boat across the world.
+
+
+AUSTIN: [crosstalk] Yeah!
+
+
+JACK: It’s so -- It’s so risky.
+
+
+AUSTIN: But, also, wow!  It’s so valuable that people do it anyway.
+
+
+        JACK: [continuing the question] “How do you know where a given train is headed?”
+
+
+JACK: Lot’s of different ways.  Short answer is sometimes you don’t and you’re taking a punt based on the direction the train is pointed.  Sometimes there’s a fucking… what -- [searching for the word]  They’re not like, billboards; there’s a sign on the front of the train that says “Stopping At:” or whatever.
+
+
+AUSTIN: Yeah, “Next Stop.”
+
+
+JACK: And you’re like “Well, I’ll just assume this is true.”
+
+
+AUSTIN: [crosstalk] “Hope so!”  Yep.
+
+
+JACK: Uh-huh!  If you’re really lucky, the train will come into the station and there’ll be a Shape Knight riding in the cab and you’ll go “Oh, okay.  All right.  This is probably gonna go well or if it goes badly, we’ll have someone here.”  And you’ll be able to say to the Shape Knight “Where’s it going?”  And the Shape Knight’ll say “I reckon it’s gonna show up, you know… wherever.”
+
+
+AUSTIN: Right.  Right.
+
+
+JACK: But sometimes you’ll just go off a cliff or into a lake.
+
+
+AUSTIN: It’s a -- It’s -- The thing that I think about a lot with them is Hume talking about inductive reasoning.  Hume, kind of a nightmare person, like many philosophers, a lot -- Like many anglophone -- No, just general.  Like many --
+
+
+JACK: Philosophers?
+
+
+AUSTIN: Like many philosophers writ large who, you know, Hume -- The way that Hume gets taught is people -- You kind of say “Hey.  Do you know the sun is gonna rise tomorrow?  How do you know the sun is gonna rise tomorrow?  Do you know that a priori, do you use just like, a feat of logic, that you’re able to determine that?  No, you know it’s gonna rise tomorrow ‘cause it’s risen tomorrow -- it’s risen every day since, since you’ve been alive.  Every day the sun goes up.  Does that mean that it’s gonna rise tomorrow?  No!  In fact, all knowledge, including empirical knowledge is not something that can be supported by raw logic.”  I’m always making judgements based on imperfect information that is colored by -- and the, kind of, engine of my decision making is my passion, and that, you know, the -- the sun rising tomorrow is not a logical necessity.  It may not rise tomorrow.  But people do stuff anyway.  People are not chained by the fact that it is not necessarily true that the sun will rise tomorrow; we plan for tomorrow regardless.  
+And so, that is how people work with trains in this world, I think.  Is that like --  And there are variations on this.  When the train has come for the same, the same time or the same day of the week for thirty weeks in a row, people are fairly confident it’s gonna come that thirty-first week.  Sometimes it doesn’t.  Or sometimes it does and then it takes them somewhere else and devours them.  You just don’t know.  But people are still going to make decisions based on inductive reasoning, basically.  You know?
+
+
+KEITH: And probably still better than getting lost at sea.
+
+
+AUSTIN: Right!  Or trying to walk across the wasteland of Sangfielle.  Most player -- Most people --
+
+
+JACK: We know that that happened to at least one empress and…
+
+
+AUSTIN: Right!  Exactly.  And that was an empress!
+
+
+KEITH: She’s still paying for it.
+
+
+AUSTIN: Yeah!  Exactly.
+
+
+JACK: Yeah.  Fucking Loyalists.  Also, you know, you can opt out of trains.  Eh, you can opt out of riding trains, you can’t opt out of trains in Sangfielle.  You don’t have to board the thing.
+
+
+AUSTIN: Right.
+
+
+JACK: I mean, I don’t want to rule it out, there’s probably some duke somewhere who…
+
+
+AUSTIN: Yeah.
+
+
+JACK: Can make you board a train.
+
+
+AUSTIN: Yeah.
+
+
+JACK: I don’t know.
+
+
+AUSTIN: Mm.
+
+
+JACK: Who knows.
+
+
+AUSTIN: What was the next one here?  Was there anything else here that we--
+
+
+JACK: No, I think we covered it all.
+
+
+AUSTIN: Okay!
+
+
+JACK: How many trains do you think there are in Sangfielle?  Not a lot right?
+
+
+AUSTIN: I truly--
+
+
+JACK: Like thirty or forty?
+
+
+AUSTIN: Sure.  Under a hundred.
+
+
+JACK: Yeah, yeah, yeah.  And more keep showing up, but slowly.
+
+
+AUSTIN: More keep showing up.  Sometimes some disappear.  But I -- You know, I don’t know.  This is Sangfielle, right?  The answer is like “Yeah.  Yeah, sure.”
+
+
+KEITH: There’s at least one more than there was.
+
+
+AUSTIN: [amused] Right.  Yeah.  It’s true.
+
+
+JACK: Uh-huh.  
+
+
+AUSTIN: One more now!  [Jack laughs]  All right --
+
+
+ART: I thought you were on the verge of saying a trillion.
+
+
+JACK: No!  No, no, no, no.  I think it’s a -- I think it’s a bounded number.
+AUSTIN: Yeah, I think it’s not --
+
+
+ART: So is a trillion.
+
+
+AUSTIN: So is a trillion, yeah true.  Yeah, it’s true.
+
+
+KEITH: It’s just really, really round.  It’s so round that it’s flat.
+
+
+[TIMESTAMP 1:00:00]
+
+
+AUSTIN: Yeah.  Jack, you wanna read this one from Ada?
+
+
+JACK: Sure! This is from Ada:
+
+
+        “I’ve just finished the episode four of the Bell Metal Station arc and I’m finding the
+helplessness of the ending quietly upsetting in a way that I think will stay with me for a long time.  To be explicitly clear, this is a compliment.  It’s a beautiful work, thank you for making it.  I wanted to ask you all how you found the process of creating horror, especially in the context of a collaborative tabletop game.  In my experience, games where my friends and I have set out to explore horror have often trended quickly and inevitably into monster or horror-themed adventure games.  Instead of exploring unsettling or distressing ideas in interesting contexts, we often end up instead deploying gross-out monsters or sometimes letting horror fall by the wayside entirely as the table falls back entirely on adventure game tropes and muscle memory.  Is that something you've found, and if so, how did you tackle it?  Do you have any advice for keeping myself and my table on-genre and on-target?  To be clear, I’m not asking how to ensure a safe table culture in which to explore horror or how to identify and play into flags.  Both of those things are important, but even when I think we’ve done those things well, I’ve found it difficult to break out of the desire to win the encounter.”
+
+
+AUSTIN: A good question [Jack: Yeah.] and I mostly think we do the same thing.  I think this is a rare exception where we didn’t do that… because… of -- The answer to this was, I don’t know… I mean the -- [sighs]  The encounter was winnable.  I was gonna say the encounter wasn’t winnable.  I know the encounter was winnable ‘cause in front of me I have “Ways to Stop the Red Zephyr.  A:”  [Jack laughs]  And there’s a bunch of stuff there, including its total resistance, its protection, the damage it does.  “B: Perform the ritual necessary, blah-blah-blah.  C: Attempt to reverse blah-blah-blah.”  And different Endure rolls you’d have to make, so like, yes, there are ways to stop the Red Zephyr.  But one of --
+
+
+JACK: [interrupting] Could we have killed it?
+
+
+AUSTIN: That was the first one.  Yeah, it had -- It had -- Yes.  Yeah.  It’s explicitly --
+
+
+JACK: What’s your reasoning there?  Is it that it’s a weak, new train?  Or --
+AUSTIN: No, my reasoning is they killed one once before.  You set that up, I can now say it can happen again.
+
+
+JACK: Oh, sure.  But it would’ve happened without like, two years of prep.
+
+
+AUSTIN: It would’ve -- Well no, because Bell Metal Station -- Bell Metal Band has been prepping for this for twenty years.
+
+
+JACK: Oh, true.  Right, yeah.
+
+
+AUSTIN: This is what their job is, they’ve been --
+
+
+KEITH: [crosstalk] What the dynamite was for.
+
+
+JACK: Yeah. [laughs]
+
+
+AUSTIN: The dynamite was there for that.  They had their own -- Remember, they had a whole room of arms.  That they put Calen in.  By the way, the end of this arc is: [laughs] They lock Calen up in a room with all their weapons and then everyone leaves.  Which… That'll be fun to wrap back around to.  [Jack laughs]  But they had all these weapons for fighting trains that they’ve been developing based on years of fighting trains, right?
+
+
+JACK: The precedent of -- Yeah.  And that first kill.
+
+
+AUSTIN: Right, exactly.  Exactly.  And they had been -- Remember, they are one of the only bands of Shape Knights who have train materials to work with and experiment with, because they are able to -- They’ve kind of built -- They’re sort of a node in your like, [laughs] 4X game that gives you train materials once per year or whatever.
+
+
+JACK: Yes.
+
+
+AUSTIN: Because a train goes by [Jack: Slipways.] and they manage to drop a big anvil on it to knock a bunch of piping off the side or whatever, or to derail part of it.  You know what I mean?  And so they’ve been able to build some stuff.  So yeah, it literally is just like a very strong -- It is literally a very strong Heart monster.  The word “god” is involved in the description of it, to be clear.  But it’s a thing that you could’ve -- Between the dynamite and the Endless Ember, and then the stuff that the rest of the crew had, you could’ve.  
+But none of you acted like that, which is why it didn’t fall into the adventure theme.  Or the adventure game, like adventure -- high adventure genre space, the way that Ada’s talking about games going.  And honestly the way that, I think, for instance, both Roseroot and… White Flower Beast both kind of went in that direction eventually anyway too, right?  To some degree at least.  
+The -- My -- But -- So for me, part of the answer is: your players have to play as if they can’t win the encounter.  They have to believe -- And maybe you have to tell them or show them that they cannot win the encounter.  Period.  And have to respond differently to that.  Or they can’t beat it head on.  
+The other thing that we’ve been doing that I think helps, is we do the adventure stuff right away, and then we -- it’s what we talked about before we got to questions -- settle into the horror.  You get the riddle skeletons up front, you get the oran-- White Flower Beast up front, and then you go into the Mother Beast, creepy monastery, or abbey, or whatever, right?  You get to do some of that adventure stuff, which gives you like-- shows your characters like, flexing, and then you use the way that they flex to show that flexing won’t do it for them this time.  In this particular arc, y’all knocked the shit out of those Gandies and then you came up against something that was so much bigger and more aggressive and more dynamic than what the Gandies were, and I think one of the things that’s great about that is that it was like “Oh shit.  The tools that we had were for this other scale of conflict.  They will not cut-- they will not work for us today.”  You know?  
+But I don’t know, what else do y’all think about this season or horror games in general?  I know Keith, you’ve always said you don’t think you could be scared at the table.
+
+
+KEITH: I don’t think I could be scared at the table, I still think that -- Well.  Okay.  I guess you’re talk-- There’s different kinds of scared, right?  [Austin: Yeah.]   But like, I don’t think something could happen at the table, for me, that I can be sitting there being like “I’m being frightened now,” right?
+
+
+AUSTIN: And you say that as someone, to be clear, you’re not like “And I’m a tough -- I’m a tough guy.”
+
+
+KEITH: No, I’m extremely sensitive to horror.
+
+
+JACK: [crosstalk] Exactly the opposite.
+
+
+AUSTIN: [crosstalk] Like me, you’re like “I don’t want to play horror video games alone.”
+
+
+KEITH: I won’t -- I won’t play them -- I know that I have a series of Let’s Plays of Silent Hill games.
+
+
+AUSTIN: [laughs] Yes.
+
+
+KEITH: That is… It’s not even something I typically would do with a friend.  I -- It really is -- That, that Let’s Play exists was really predicated on how old Silent Hill 1 looks and feels.
+
+
+AUSTIN: That game’s still scary as shit, I bet if you or I had to play that game alone in the dark, we’d still be scared.
+
+
+KEITH: And we’d -- There are parts of Silent Hill 1 and 2, and none of the other ones, where we were actually scared.  [Austin laughs]  None of the other Silent Hills ever had anything scary happen in them, really.  But yeah, 1 and 2 had some moments where we were -- Especially, we recorded in the nightmare barn--
+
+
+AUSTIN: The nightmare barn, yeah.
+
+
+KEITH: We had like, half of that, maybe less, of that Let’s Play recorded in an old barn on an old TV.
+
+
+AUSTIN: Can we get the nightmare barn into Sangfielle?  That feels like a very… a very Sangfielle place.
+
+
+KEITH: [crosstalk, almost drowned out] I might’ve told you this… of the nightmare barn.
+
+
+JACK: Have we done farm horror?
+
+
+AUSTIN: Not yet.  Well, Yellowfield is sort of farm horror.
+
+
+JACK: Yellowfield, yeah.
+
+
+AUSTIN: There was a little village, but not a, not really.
+
+
+JACK: There’s the scarecrow, but yeah.
+
+
+KEITH: It’s still one of the most scary things in my real life is - Austin, I think you’ve heard me describe the chair in the attic of the nightmare barn.
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: Which is a chair, a solitary chair in the creaky, extremely dark, low-ceilinged attic of a barn that is facing a solitary, dusty, yellow window that the light, like, just perfectly shines in and on the chair, and it has been sitting there, untouched, since like, before my dad was born.
+
+
+AUSTIN: Huh.
+
+
+JACK: Incredible
+
+
+AUSTIN: Terrifying.
+
+
+KEITH: It’s terrifying.
+
+
+AUSTIN: Yeah.  Yeah.
+
+
+KEITH: It’s a horrible image.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: There’s also a pit in there.  There’s like a --
+
+
+JACK: A pit?!
+
+
+KEITH: Yeah, there’s a door in the attic; you open the door and it drops down--
+
+
+AUSTIN: [crosstalk] [amused] You fall into it and then you end up in a jail from a different time and place.
+
+
+[Jack and Keith laugh]
+
+
+KEITH: Kind of!  I mean, there’s -- At the bottom of this shaft --
+
+
+AUSTIN: Kind of?!!  What?!  Okay.
+
+
+KEITH: You open a door… At the bottom of -- You open a door --
+
+
+JACK: There’s a door at the bottom of the pit?
+
+
+KEITH: No, there’s no door at the bottom of the pit.  That’s what makes it scary.  You go up to the second floor, there’s a door that looks like a door to a small room, but actually it’s a door to a pit, and then the pit is a shaft, leads down, and there’s no corresponding door on the lower floor.
+
+
+JACK: That’s interesting.  Why do you think that is?
+
+
+AUSTIN: [crosstalk] [sounding like he’s far from the mic] Where’s the pit go?
+
+
+KEITH: There is a blanket and a pillow.
+
+
+AUSTIN: What?!
+
+
+KEITH: Yes.  Swear to god.
+
+
+[pause]
+
+
+AUSTIN: You can’t go back to that barn ever.  We’re gonna lose you.
+
+
+KEITH: That, that -- It is -- It’s already gone.  It’s gone.  Tore it down.
+
+
+AUSTIN: Oh.  What was it -- Did they find anything?
+KEITH: Not as far as I know, you gotta ask the weirdos who decided to build a, you know, 60+ gated community of million and a half dollar condos up there.
+
+
+AUSTIN: [crosstalk] Oh my god.  Of course.  Of course.
+
+
+JACK: Oh well, the good news is that there they’ve built those condos on a cursed fucking barn.
+
+
+AUSTIN: [amused]  Uh-huh.
+
+
+KEITH: Yes, an absolutely cursed horse barn.
+
+
+JACK: You know, the tall men--
+
+
+AUSTIN: The horse ghosts are gonna… yeah.
+
+
+JACK: Horse ghosts!  Did you say horse ghosts?
+
+
+AUSTIN: Yeah, ‘cause they’re the horse barn.  Right?
+
+
+JACK: Ohh.
+
+
+KEITH: It was a horse barn, yeah, a horse barn
+
+
+AUSTIN: Keith had said it was a horse barn.
+
+
+JACK:  Horses don’t make ghosts because they’re already… cursed.
+
+
+[Keith laughs]
+
+
+AUSTIN: Oh, okay.  Ghosts.  I thought you were gonna say [Jack: Yes.]  “Horses are ghosts--”
+
+
+KEITH: “Horses don’t make ghosts because they’re already ghosts.”
+
+
+AUSTIN: Right.  They’re ghosts of something else.
+
+
+KEITH: Yeah.
+
+
+JACK: Ohh!
+
+
+AUSTIN: We haven’t found what yet.
+
+
+JACK: No.  Yeah.
+
+
+KEITH: No one knows what the horse is famously… No one knows what the horse is a ghost of.
+AUSTIN: [crosstalk] This is what the people in the nightmare barn are researching.  Yeah, uh-huh.
+
+
+KEITH: Yeah.
+
+
+JACK: [laughing] At the bottom of the pit with the pillow and blanket.
+
+
+AUSTIN: God.  Anyway, your point is that you’re scared in real life all the time.
+
+
+KEITH: I have not seen a horror movie in over a decade.
+
+
+AUSTIN: Right.  And yet, this can’t scare you because of what it is.
+
+
+KEITH: I don’t know.  I also really like, you know, I grew up reading Stephen King books.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: And there’s something about the books that no matter how unsettling they were, it was very rare that I like, get a nightmare from them or -- What happens is, I shut my eyes when I go to bed and I have flashes of whatever horrible imagery I’ve seen in a horror game or movie.
+
+
+JACK: Mm.
+
+
+AUSTIN: Right.
+
+
+KEITH: And I don’t want -- And then the anxiety of that happening keeps me from enjoying it in the moment also.
+
+
+AUSTIN: Right.  Right.
+
+
+KEITH: And… And I don’t think that that can happen to me at the table.
+
+
+AUSTIN: No.  Well like, and part of it -- We’re not -- [pause] One, vis-- We don’t have a visual medium for showing stuff.
+
+
+KEITH: Right.
+
+
+AUSTIN: Two, we have not gotten that gruesome and detailed and stuff.  There’s something that happens in the downtime episode after this arc that I think is the closest I’ve gotten to depicting something that grosses me the fuck out.  We had a little bit there in this episode with the interior viscera of Fezh, but even there I pulled a lot of punches, in terms of like, what I could have done.  I didn't -- I wasn’t happy with any of that stuff, I wasn’t happy with the interior of Fezh being meat.  I like, felt really bad about it when I started doing it, to the degree that I almost did a pickup for the entirety of what Fezh’s interior was, and I was like “No, it’s too big of a thing, I don’t want to like--”  But I wish I’d had something better than that ready to go, but the speed with which -- I thought you wouldn’t get on board Fezh, on board the Red Zephyr until the end of the arc.  [laughs]  If at all.  
+
+
+JACK: [laughs] Sorry.
+
+
+AUSTIN: And instead you did it immediately and I was like “I don’t know, there’s fucking meat in there, I guess.”  And I was very happy when Jolyon showed up because it let me de-meat Fezh and make it a Kubric - speaking of King - [Jack: Ah! Yeah.] and let me make it the Overlook Hotel in there instead.  And that was way creepier to me than to make it look like a 1990s horror FMV game, where everything is made of meat and you’re pulling on weird -- Like, in many ways, that --
+
+
+KEITH: [interrupting] The meat stuff was so brief, [Austin: Yeah.] I almost don’t even consider that as part of it.
+
+
+AUSTIN: Yeah.  Yeah.  Good.  Good, ‘cause I hated it.  I was much more interested in the Overlook Hotel stuff and the part of it where it ended up being flashes of different parts of Fezh’s life and the different like, ways in which it took on different like, stylistic elements.  That ended up being much more interesting to me, from the existential horror side.
+
+
+KEITH: Well, so I -- But I think part of the point of this is like -- And I, you know, people get scared in different ways.  Like, my way of getting scared isn’t everybody’s way of getting scared, but I don’t think it’s uncommon to like, not be able to be like, frightened by a roleplaying game, which means that the kind of horror you have to do is different.  Like, in a movie, I can get scared by a gross-out monster.
+
+
+AUSTIN: Right. Right, right, right.
+
+
+KEITH: But in Friends at the Table, I can’t.
+
+
+AUSTIN: You can’t, right.  It’s not how you work.
+
+
+KEITH: And so, once you get into gross-out monsters, I feel like you’re going to just be doing adventure stuff anyway.
+
+
+AUSTIN: This is the adventure -- Yeah, yeah.
+
+
+KEITH: But the thing that I’ve found about Heart, and this is maybe a sort of a cheap way to answer this, is that the penalties for doing something wrong are so severe that it does make you think really hard about what you want to do and be really sure, and when you’re dealing with what otherwise would be a pretty normal combat encounter, instead of breezing through it, even if it’s a tough one, it is like, agonizing,  In a good way, [Austin: Right, right.] in a way that’s like, fun and tense.
+AUSTIN: Yeah, we don’t play very many resource-intense, like tactics-y games.  I think PARTIZAN got there sometimes with Beam Saber, but it’s just not the way [Keith: Yeah.] the game tends to work.  And that’s not to diss previous games we played, I think the Sprawl is like, a really beautifully designed game, with lots of hard decisions, but it’s a different thing than what you’re talking about here, I think.
+
+
+KEITH:  Right.  And then, what -- How this worked, I think in this arc specifically, is when Pickman and Duvall decide to go on the train and are so punished for that right away.
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: It sort of -- It’s sort of like a paralyzing, like a -- Like a -- It’s like freeze -- It puts a freeze on your ability to like, do whatever comes to mind, [Austin: Right.] because the thing that comes to your mind might be the last thing that you character could do, and… and I think that that makes it -- It slows things down and… [pause] puts a little bit of extra meaning into things that you do decide to do.
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: And that’s -- I think a lot of tension can come from that.
+
+
+AUSTIN: Yeah.  I think that makes sense.  Jack or Art, you have thoughts on this horror storytelling stuff we’re doing?
+
+
+JACK: I think something that really… I think Art just nailed those scenes with Jolyon and after that session, we were talking about it and Art was like, “Oh, I was trying to do Floyd in the Overlook.”
+
+
+[TIMESTAMP 1:15:10]
+
+
+AUSTIN: Oh!  Interesting.  I didn’t realize that.
+
+
+JACK: Is that right Art?  Am I remembering that right?
+
+
+ART: Or sort of like - Yeah.  It’s sort of like Jolyon is Floyd in the Overlook.
+
+
+JACK: Yeah, yeah, yeah.
+
+
+ART: Yeah.  And then I was trying to react to it more like that and like a… a Jack Nicholson kind of way.
+
+
+AUSTIN: Right, right.
+
+
+JACK: And just hearing Art say that - Like, this is one of these things where it’s like, it’s… we’re making a show and we’re able to speak like, sort of like - Oh, what’s the kind of thing we’re trying to do here, and how are we trying to get that across?  And hearing Art describe that was really… It was like getting a key to a lock.
+
+
+AUSTIN: Right.
+
+
+JACK: And going into the next session and going, “Oh, okay, right.  So now I know that if Art is thinking of it in this way and if I start thinking about it in that way, then maybe we can start -” And it’s really great that you also brought up the Overlook there, where it’s like, we all started moving in the same direction.
+
+
+AUSTIN: Totally.
+
+
+JACK: In terms of the coherency of what was frightening, which I think we hit on really quickly, which is like, something monstrous and clammy and transformative has been done to this person.
+
+
+AUSTIN: Yeah.  
+
+
+JACK: And our characters are coming to terms with the realization of that, just as the characters in, frankly like, a lot of Kubrick’s work, you know, slowly begin to realize some truth about the place that they’re in or the people that they’re interacting with.
+
+
+AUSTIN: Yeah.  Which, I think this actually hits something, actual piece of good advice here for Ada is: one of the things I was able to pivot on in all of the Jolyon interior is that you were playing a character, Jack, who had something they believed in fully, which actually, it’s not just you.  
+
+
+JACK: Oh, that’s so much fun.
+
+
+AUSTIN: Is that everyone had something that they were like, “This is a truth about the world.”  And I could then use that, I could kind of axle around that to undercut them in some way.  For Lyke, it was “Calen is guilty.”  And then the kind of social horror is “So what?  You can’t prove it.  No one will believe you.”  Or for you, Pickman, it was “Jolyon is a ghost.  Jolyone isn’t real.”
+
+
+JACK: That was so great.
+
+
+AUSTIN: And the second that I knew that you were committed to believing that read, I was like, “Oh, I can just have so much fun with this.”
+
+
+JACK: Yeah.
+
+
+AUSTIN: Because at this point, you have totally given me the thing that pulling out from Pickman, pulling out from under Pickman, will destabilize her entirely.  And so like--
+
+
+JACK: It felt like such an empowering moment as a storyteller.  So I, I thought Jolyon was a ghost.
+
+
+AUSTIN: Okay.
+
+
+JACK: Like, straight up, as a player.
+
+
+AUSTIN: Right.
+
+
+JACK: And so I was, and I think Pickman also believes that, but Pickman, you know, has quite a low opinion of trains, generally.
+
+
+AUSTIN: Yeah.
+
+
+JACK: Well, she’s weird, but she, you know, she thinks trains lie to you.
+
+
+AUSTIN: Right.
+
+
+JACK: And it was so much fun playing around with you in that regard, as you would constantly try to destabilize that, and I was like “Is he bluffing?”  He being you.  “How much is Austin messing with me here?”  And then the bit that felt really -- It felt like you implicitly or explicitly gave Pickman the option to admit to her mistake, or to double down on her mistake.
+
+
+AUSTIN: Or to double down, right, right.
+
+
+JACK: And being able to have that moment where Pickman goes like, “You’re -- you’re real.” and Jolyon goes, “You idiot.” [Austin laughs] “I’ve been trying…” [breaks off laughing]  Was -- felt like such a great moment of clarity for me playing Pickman, to be like, Pickman believes these things are true, but also, in this moment, she has been faced with this awful evidence and has to go, “Oh god, I fucked this up.”  I think Pickman explicitly says to Duvall at one point “I think I’ve made a mistake about how we’ve done this.” [laughs]  Which was really fun.
+
+
+AUSTIN: Yeah.
+
+
+ART: And I, of course, would have taken the opposite opinion no matter what.
+
+
+AUSTIN: Of course.
+
+
+JACK: [crosstalk] Because you’re a good improviser?
+
+
+ART: If you had leaned hard on “This is real,” [Austin: Right.] then I would have had to do, yeah, “Well, this is obviously fake.” [Austin & Jack laugh]  “The trains are tricking me.”
+
+
+AUSTIN: And instead you got to “I don’t think Jolyon would call me Duvall, I think Jolyon would call me Leo,” which is like, incredible,  [Jack: Oh, great.]  and suddenly we get all this other stuff from Duvall that we haven’t seen before, and like, my favorite throughline there is how much -- How much Duvall was like, really up against liking being in this other mode that we hadn’t seen him in.
+
+
+JACK: Yeah!
+
+
+ART: Mm-hm.
+
+
+AUSTIN: Um, and--
+
+
+ART: Well, it’s a chance to be the before-Duvall.
+
+
+AUSTIN: Yeah, which we just hadn’t seen on screen.  Right?  A little playful, a little flirty, a little, like.. A little more talkative.
+
+
+KEITH: A little organs.
+
+
+AUSTIN: All the organs were in place at that point still.
+
+
+ART: Yeah.
+
+
+AUSTIN: Not yet replaced with wax.  And so yeah, that’s, that’s… I think was really great.  That sort of helped, again, orient so much of what was at stake emotionally, and I think led us to do this, and also just like, the core -- the core horror of the situation is about a loss of autonomy and a loss of control over one’s body.  And this is very core to what, who Duvall is, it’s core to a lot of what Pckman’s fears are, and autonomy more largely is tied to who Lyke is, right.  Lyke left so that, left school so that he could be a free mage, right, be -- explore what he wanted; he didn’t want to stay tied to very strict kind of syllabi, a very limited vision of what magic is, and so autonomy is very core to all three of these characters, which is part of why I think this worked so well.  I hope, anyway.  A couple more questions, so let’s keep on moving.  Keith, can you read this from Morgan?
+
+
+KEITH: Yes.  Morgan says:
+
+
+        “I love this arc as a whole.  Definitely one of the stand-outs of the season so far for me,
+and one of the highlights for me were the three Shape Knights at the station.  They were
+so immediately evocative, not just as really great characters, but as I was talking about it
+with one of my friends on Twitter, they felt like PCs of a campaign in a game that doesn’t
+exist yet.  [Austin chuckles]  Austin, how do you go about creating NPCs that are so
+immediately interesting, and for any of Jack, Keith, Art that happen to be here, what do
+you look for in characters to interact with during a game and how do you think a GM cam
+do that well?”
+
+
+AUSTIN: For my part, they hew to a very important characteristic, which is: Could they be characters in a Capcom Beat ‘em Up from 1996?
+
+
+KEITH: Mmm.
+
+
+JACK: [laughing] Is this all your NPCs or just these?
+
+
+[Keith laughs]
+
+
+AUSTIN: Umm, I know when I want to be in this mode because I kind of want to -- because I’m pandering, if I’m being fully honest.  Because --
+
+
+JACK: [interrupting] To whom?
+
+
+AUSTIN: The listener.
+
+
+JACK: Oh, okay.
+
+
+AUSTIN: I know when I’m teeing up characters who will hit.  Most of the time.  Sometimes I don’t, right?  Sometimes I’m like, “Oh, I really hope people like blah-blah-blah.”  But like, most of the time, like -- are you, like -- Think about me sitting down to write -- Oh, whoa I lost -- Where is, there we go.  Let me scroll up on my own list here.  Um, Omerra Celendi, she/her, he/him, human mage from the Republica, late twenties, light brown skin, wavy dark hair down to her shoulders, big round glasses, playful grin on his face, high-waisted dark green corduroy sleeveless white button-up shirt or blouse, a single powered Shape Knight gauntlet on his right hand, a pauldron, and half-plate piece that covers the left side of her torso, and a sort of dark gold half-cape around the other side.  Like, do you not think that I was like, “And the crowd goes wild.”  [Jack laughs]  Like, it’s -- And I don’t mean that in a -- I don’t mean that in a dismissive way, because these are all characters who I think are visually interesting, but what I’m -- The mode that I’m in there is about trying to immediately get your attention and make you go “Oh, these characters could be the player characters of a different campaign.”  Like, not literally that, but that there is that degree of fidelity, but also that the fidelity is around big, individual, like, standout things.  That’s the Capcom, side-scrolling, fighting game thing, is that Omerra, with her big gauntlet, could very easily be a Capcom, like, fighting game, or side-scrolling Beat ‘em Up character, very clearly.  Erm: little knight with a big hammer; very easy to fit into--
+
+
+JACK: [interrupting] Who’s also the boss.
+
+
+AUSTIN: Right.
+
+
+JACK: You told us so many times: Erm is the boss of these people.
+
+
+AUSTIN: [crosstalk] My literal note is “Just a little guy, but the boss around here.  [Jack: Yeah.]  Cigar-chompin’, little train armor on, big stamp of a bell on the chest, white and brown fur like a guinea pig, but covered in soot and smoke.”  Right?  And it’s like, just boom!  [claps hands together]  You have to have that image.  And the reason is because I wanted them to seem competent, and giving them all one really big, like, clear, visual piece of something for the audience and the players to hang onto makes them seem like they’ve been through something, like they’ve earned something, right?  Omerra has this big Shape Knight gauntlet that we haven’t seen before, and so that makes him immediately seem like, “Oh, Omerra like, knows some shit, Omerra’s like, up to shit, oh, Omerra is able to like, make stuff.”  Me going on and on about how like, Calen has sunken eyes and is like, hot in a Hugh Dancy way, again, I’m like very clearly signaling like, okay, this character is not -- I’m investing literal words and words as time, and time as fidelity into this character so that you know that they’re important or that there’s something happening here.  And that’s just not true with a lot of characters.  
+Like, I describe a lot of characters, like go back and listen to how I describe some of the… [searching for words] nuns of the Mother Beast, like they don’t get that.  They don’t get that style of characterization or description where there’s this big, bigger than -- you know, larger than life character description.  Like, Katonya gets this, right, because again, Katonya’s in this particular mode, and the reason I did all of that is because I knew that there was a tragedy at the heart of this and playing inside of this larger-than-life cartoon space and then grounding it in this very personal, domestic tragedy is what I thought where the horror would be in this arc.  The other thing there was just like, these are the first Shape Knights that you as players are going to meet besides Jack.  The listeners would have heard Bucho by then, and Bucho’s also kind of larger than life, but Bucho, for instance, does not have any of the special accouterments of these characters.  Bucho’s characterization is all in names and attitude: Big Bucho and Two-Step Bucho.  “Two-Step Bucho” is Bucho’s big train gauntlet, right?  But I didn’t have the -- Bucho had the luxury of being introduced by himself in a situation where he could really control a conversation, whereas I knew if I had to drop three characters plus Fezh, plus Katonya, [Jack: Yeah.] plus the toll collectors, who you’ve met -- not all of you had met yet.  I guess, Jack, you had not met the toll collectors yet, but everybody else had met.  There was gonna be a lot to do, and I wanted something that could immediately evoke “Hey, boom.  Here these characters are.”  
+So when I say it’s pandering, it’s like… It’s not… This is not, this is not -- I don’t mean this in a egotistical way, but like, it’s not hard to create the coolest character you’ve ever thought of, you know, “O.C., do not steal.”  The real answer is: sometimes just let yourself do that.  Sometimes let yourself write the character that like, fifteen year-old you would have sketched in your sketchbook or in the margin of your math textbook or whatever, right?  Like, just let it - Just be as ridiculous as you can, even it it’s off-genre.  Even if -- Omerra does not belong in the [searching for words] kind of, dank, ugly world of the Heartland.  Omerra’s too crisp and clean for that, but the fact that he shows up like that allows there to be a degree of horror from when that presence becomes sullied by the horror that’s to come, if that makes sense.  I really wanted Bell Metal Station to feel like a place that knew what it was doing and was filled with people who were pushing themselves the way PCs push themselves to get shit done, but also were a little too clean for their own good, in terms of like, what they had available to them, because they were also, they were right on this ledge between ivory tower and everyday folk, you know?  So.  Anyway.
+
+
+JACK: They’re radicals in a way, right?
+
+
+AUSTIN: I don’t know.  Maybe.
+
+
+JACK: In terms of like -- I feel like -- Maybe I’m -- Maybe this is just me being like…
+
+
+AUSTIN: Yeah, “In what way?” is what I should ask.
+
+
+JACK: They are of a model of Shape Knight that wants to… That believes that we’re not necessarily making the most use out of trains.  Or is that just Calen?
+
+
+AUSTIN: No, I think they all think we could do stuff with train stuff.  There’s stuff going on in trains that we don’t have access to and wouldn’t it be cool if we could capture some of that heat and intensity--
+
+
+JACK: [crosstalk] The use of a train as a resource.
+
+
+AUSTIN:  Right.  Both as a resource -- I mean, both as a resource that you could ride, and get you from place to place, [Jack: Sure.] but also the resource of  like -- Jack, you lived on a train for -- How many years was Pickman on that train?
+
+
+JACK: I think fifteen years?
+
+
+AUSTIN: Where’d the food come from?  You tellin’ me we couldn’t figure out how to make that into something that helps people’s lives?  So like, that’s part of what they’re driven by.  Right?  They want to know that.  They look at the fantasy world and want a science fictional answer to it, you know?
+
+
+JACK: Yes.
+
+
+AUSTIN:  They’re like, “There’s a reason, there’s a way.  And we can capture that way if we work hard at it because it’s a natural force in the same way that we capture the river to create the waterwheel.  You know, and we use the power of the waterwheel to mill our grain, so too can we capture something about the train.”
+
+
+JACK: Yeah.
+
+
+AUSTIN: Calen takes that to very far extreme because of how he is literally a weird, End of Days, you know, cultist, so.  Utopian cultist.
+
+
+[TIMESTAMP 1:30:00]
+
+
+JACK: Do we have a name for that cult yet?
+
+
+AUSTIN: Yeah, that’s the Seven --  [Keith: Seventh Suns?] the Seventh -- The Wrights of the Seventh Sun.
+
+
+JACK: Like [spelling] R-I-T-E-S?
+
+
+AUSTIN: [spelling] W-R-I-G-H-T.  Like wright--
+
+
+JACK: Oh, I see!  Like they’re making it.  Like shipwrights.
+
+
+AUSTIN:  Like shipwrights, exactly.  Yeah.  Which, there’s some more detail about them in the episode descriptions which did not make it in, but will come up eventually.  There’s like, a specific thing that’s in the episode description of the Wrights of the Seventh Sun is that they’re not all motivated by the same thing.  Some of them -- I’ll just read this.  “Some believe that the devils ought to have continued climbing when they escaped Hell, that this was not the paradise earned.  Others believe that Zevunzolia -''  The city.  The kind of utopian world.  “is telos of telos, the end-cause of all end-causes, and thus will inevitably bring itself into being.  And given that, to do anything but aid it is to risk exclusion from it, or worse.”  So, fun to think about that in relation to like, Calen, but also…
+
+
+JACK: [crosstalk] It being banned.
+
+
+KEITH: [crosstalk] The first part of that was in the episode, right?
+
+
+AUSTIN: I believe so, yes.  They were both in my notes and I just didn’t say them both out loud.
+
+
+KEITH: Yeah.  You did the very first part of it about that they should have kept climbing.
+
+
+AUSTIN: [crosstalk] The devils… Yeah, okay, that made it.
+
+
+KEITH: [crosstalk] Yeah, that was in there.
+
+
+AUSTIN: Yeah, yeah.  Fun stuff to figure out what the Heartland Rider knows that the player characters might not yet.  Anyway.  Any other thoughts here?  For y’all, what do you look for in a -- How do you -- What makes you excited about interacting with an NPC?
+
+
+ART: I feel like I only have an unsatisfying answer here, but just like, I know it when I see it?
+
+
+AUSTIN: Yeah!  That’s fair.
+
+
+KEITH: Yeah…
+ART: Which is like, I think I’ve just been doing this long enough that I know to like, “Okay, that one.”
+
+
+AUSTIN: Mm-hm.
+
+
+ART: Let’s go.
+
+
+KEITH: Well, it’s sort of like, Austin, you were talking about when your different NPCs are giving different things, like Bucho’s giving Two-Step Bucho and Omerra’s giving a big stupid glove.
+
+
+AUSTIN: Yeah.  Uh-huh.
+
+
+KEITH: I mean, it’s a cool stupid glove.
+
+
+AUSTIN: Yeah, but it’s stupid, I get it, yeah.
+
+
+KEITH: But it is stupid.  But it’s cool and big.
+
+
+AUSTIN: Yeah, it is.  Both of those things.
+
+
+KEITH: But there’s, you know, there’s just like - Everybody, all of the players have different interests and personalities and I think we each go -- We each have our own “Pick one.  Hey, I know it when I see it.”
+
+
+AUSTIN: Yeah.
+
+
+KEITH: And so we end up getting a good swathe of characters that we get invested in, because it’s like, I know who I like to talk to, and it’s the weird one who, when I say something weird, they say something weird back.  [Austin and Jack chuckle]  But sometimes I say something weird and they don’t say something weird back, they just go like, “What are you fucking -- What?  You seem like you don’t belong here!” [Austin and Keith laugh]  So.
+
+
+AUSTIN: Yeah.  I think that makes sense.
+
+
+JACK: It’s like, you’re putting things down and we’re trying to figure out -- I think it’s also really exciting to feel the other people on the call get excited about certain NPCs. [Austin: Yeah.]  I’m thinking about Amy… What’s her surname?  Maxwell!  From Bluff City.  The librarian.
+
+
+AUSTIN: The librarian?  Yeah, okay.
+
+
+JACK: Who was an NPC that we all, I think including you, Austin, just found ourselves, [Austin: God.] like, we suddenly realized we were at the top of a roller coaster and it was really exciting to look at the faces of the other people on the roller coaster with you and go “Oh this is gonna be good.” as you go plunging down toward the first drop.
+AUSTIN: I had no idea.  I had no idea that that scene in -- We’re talking about a scene in What Does It Mean --
+
+
+JACK: Young Near the Shore.
+
+
+AUSTIN: Yeah, Young Near the Shore.
+
+
+KEITH: Worth the full Friends at the Table cost of admission to the Patreon.
+
+
+AUSTIN: Oh, one hundred percent, that scene is great.
+
+
+JACK: I was reading the transcript of that -- Oh, sorry, go ahead Austin.
+
+
+AUSTIN: I just want to say I didn’t expect that scene to be what it was, one.  Two--
+
+
+JACK: No.  Who could have?
+
+
+AUSTIN: I -- That was the most it felt like building a plane in the air that I’ve ever been in a character, probably.  ‘Cause it was like “Oh my god--”  You know what it actually felt like is like surfing or anything like that where you’ve caught a wave and you’re like, “I need to stay on the board, I need to stay on this wave, I need to -- like my balance has to be just right, I can’t -- If I think about the words I’m saying, it’s over.  I can’t not -- I have to just fully be this person for two more minutes and just keep saying the right thing!”  God.  It’s so funny.
+
+
+JACK: There’s a bit where Keith says -- [laughing] I think Keith in the transcript says “Ah!  We found her!  The coolest NPC!”  [Austin laughs]
+
+
+AUSTIN: She’s great.
+
+
+JACK: Which is just great.
+
+
+KEITH: And that was after the taxi driver, who I at the time also thought [??? 1:34:44]
+
+
+JACK: Oh, the taxi driver was fantastic.
+
+
+AUSTIN: Great arc.  That was a fun arc.
+
+
+KEITH: Yeah.
+
+
+JACK: But yeah, no, like that for me is some of the most fun I have on the show is recognizing that my friends are getting jazzed about interacting with an NPC and feeling pulled along by that energy.  I got that all the time with Primo as well, anytime we were all on screen with Primo felt great.
+
+
+AUSTIN: [crosstalk] Primo was fun, sure, yeah.
+
+
+JACK: I think also, you know, I -- This is absolutely not a one-size-fits-all solution, but I like it when my personal feeling about a character interlocks with my character’s feeling about a character.
+
+
+AUSTIN: Sure.
+
+
+JACK: Because it makes playing them feel really easy, and I don’t think I really afford in my own play any primacy to like, legitimate feel -- You know, I don’t aim to match up with my character and I sometimes feel like I’m leading myself down blind alleys if I try and aim for that.  It’s not something I’m really interested in.  [Austin: Right, right.]  But in those moments where I’m like, “I think Calen is a fucking horrible little worm.”
+
+
+AUSTIN: Right.
+
+
+JACK: Me, Jack.  And I am -- It is very rewarding to be like, “Oh, Pickman thinks that” and I can embody that emotion really clearly.
+
+
+AUSTIN: [crosstalk] Yeah, yeah.
+
+
+KEITH: Like a water clock [Austin: (knowingly) Mmm!] I think it’s fun to give yourself a little bit of lead on a character.
+
+
+JACK: Yeah, just a little!
+
+
+KEITH: Just a little bit of… And it doesn’t have to be “make your character like you,” it can be “just try really hard to not be you.”
+
+
+[Jack laughs]
+
+
+AUSTIN: Right, sure.  Sure.  Yeah.  All right.  Well, here we are, at the next slide--
+
+
+JACK: What the fuck’s going on here Austin?
+
+
+AUSTIN: [faux-innocently] I don’t know, what’s going on?  What do you think the slide -- How do you think this slide got made?
+
+
+ART:  Well.  It’s a…  It’s a collection of fictional characters.
+
+
+AUSTIN: It’s really -- Yeah, that’s true, it is.  It’s really only three characters.
+JACK: Is this the entirety --
+
+
+AUSTIN: Well, only four characters.
+JACK: Is this the Bell Metal Band?
+
+
+AUSTIN: This is them!  No, this is not the Bell Metal Band.  I will say, I’ll give you this hint.  This is a… This is a holdover from the last one of these we made, we did.  The last--
+
+
+JACK: I can see a little text poking through!
+
+
+AUSTIN: You probably can.
+
+
+KEITH: Yeah, I now can see that this is a question hidden under here.  I just thought it was nonsense that that--
+
+
+ART: Is it about hair?
+
+
+AUSTIN: It’s not about hair.
+
+
+ART: ‘Cause these people have similar hair -- Well, except Adriana.
+
+
+AUSTIN: Well, it is about hair.  Well, it’s not about hair, but it’s about… You’re not that far off.  Hair is part of it.
+
+
+JACK: Is it about demeanor?
+
+
+KEITH: [crosstalk] Is it about hairspray?
+
+
+AUSTIN: It’s not about hairspray, but again, hairspray’s in the mix.  What’d you say Jack?
+
+
+JACK: Is it about demeanor?
+
+
+AUSTIN: [mishearing] Who’s Damina?
+
+
+JACK: No, demeanor, as in like, character.
+
+
+AUSTIN: [crosstalk] Oh, demeanor.  A little bit, but again, further than hairspray and hair were.
+
+
+JACK: Oh, I got cooler, okay.
+
+
+KEITH: Is it about…
+
+
+JACK: It’s about three people.
+
+
+AUSTIN: We could just -- Art, who’s on the screen right now?
+
+
+ART: We have Christopher Moltisanti and Adriana La Cerva.
+AUSTIN: Uh-huh, from?
+
+
+ART: From The Sopranos.
+
+
+AUSTIN: Yup.
+
+
+ART: And then we have two more pictures of Christopher, one where he’s cut off at the upper lip.
+
+
+AUSTIN: Yeah.
+
+
+[Jack laughs]
+
+
+ART: We have Maxwell Sheffield, the antagonist of the television show The Nanny.
+
+
+AUSTIN: Incredible pull.  Okay.
+
+
+KEITH: It doesn’t help that I haven’t seen any of this, any of these.
+
+
+AUSTIN: Who are--
+
+
+ART: I think the lower left is Paul Rudd?
+
+
+AUSTIN: No.  You’re wrong, unfortunately.
+
+
+ART: Mmm.  You sure it’s not Paul Rudd in Clueless?
+
+
+KEITH: [crosstalk] It does have a little Paul Ruddishness to it, but yeah, that’s not Paul Rudd.
+
+
+AUSTIN: Yeah, uh-huh.  Can I tell you, there are only two shows on this screen.
+
+
+JACK: So it’s The Sopranos and it’s The Nanny.
+
+
+AUSTIN: It’s The Nanny.
+
+
+ART: Yeah.  Um.  And I’m guessing these other two are from The Nanny then?  I don’t remember this…
+
+
+AUSTIN: [crosstalk] Yeah.
+
+
+JACK: [crosstalk] From the last arc?  What was the last arc?  It was Yellowfield.
+
+
+KEITH: [crosstalk]  What is The Nanny?
+
+
+AUSTIN: [incredulous] What is the Nanny?  You asked what The Nanny was?
+
+
+JACK: [crosstalk] [also incredulous] What is the Nanny?
+
+
+KEITH: I have no idea what The Nanny is.
+
+
+JACK: [crosstalk] Can we get Ali on the call?
+
+
+ART: [crosstalk] I’ve also been rewatching The Nanny, it’s a lot.
+
+
+AUSTIN: Well.  Warmer.  Warmer.  You’re getting warmer when you say get Ali on the call.
+
+
+KEITH: I technically know what The Sopranos is.
+
+
+AUSTIN: Oh my--
+
+
+JACK: Did Ali put this together?
+
+
+AUSTIN: No, but in a sense.
+
+
+KEITH: Is this what the other group is doing?
+
+
+AUSTIN: [joking] Yeah, they’re doing this.  [laughs]
+
+
+KEITH: Yeah.  Is it Yellowfield?
+
+
+AUSTIN: This is tied to one of Ali’s responses to a question that I think everyone on this call had already answered, from previous stuff, but you -- people in the other arc had not.
+
+
+JACK: So is any of this Marn onscreen right now?
+
+
+AUSTIN: Jack, let me tell you: This is all Marn.
+
+
+JACK: Is this Marn inspiration?
+
+
+AUSTIN: This is Marn inspiration.
+
+
+KEITH: Marnspiration.
+
+
+ART: Wow.
+
+
+AUSTIN: One of the questions that we had gotten previously was -- I hate to even -- You know what I’m gonna do is I’m gonna duplicate this slide, that way I don’t lose all this.
+
+
+JACK: Yeah, you don’t want to move all this, all these Marns.
+
+
+AUSTIN: Okay, the question was, from Arp, who said that I, Austin, “get to describe NPCs all the time, thank you for the food, but PCs don’t get the convenience of fresh introductions to prompt visual details.  Now that y’all have had more time playing them, if you were describing your characters, would anything be different or new?  And yes, I’m a fanartist fishing for details.  Sorry, but I’m not at all asking for complete descriptions that would ruin the joy of character design for anybody, just a little character to work with if there is any.”  And what Ali said about Marn was that the inspiration specifically that she left on the table was this specific character from The Nanny with this very Italian-American -- In my mind, I drew an immediate connection to Christopher from The Sopranos with these incredible shirts.  These incredible, colorful, silky shirts and hair done up --
+
+
+JACK: Dan Flashes.
+
+
+AUSTIN: Right.  And so, then we started talking, well what if Marn had a little tracksuit, and what if Marn existed in these two modes of, you know, colorful jacket, you know, popped collar, you know, textured button-up shirt, and then also tracksuit Christopher, cigarette hanging out of mouth.  So…
+
+
+KEITH: I now know what The Nanny is, I saw more pictures and now I know.
+
+
+AUSTIN: And then you put together The Nanny, Fran Drescher.
+
+
+KEITH: I still haven’t seen it., but I know Fran Drescher when I see her.
+
+
+AUSTIN: [crosstalk] But you know Fran Drescher.  Yeah.
+
+
+ART: Is this the fiance?  Is this uh…
+
+
+AUSTIN: That is correct.  That is correct, yeah.
+
+
+ART: Okay.
+
+
+AUSTIN: Yes, you got it.  So that was the thing that Ali realized, was Marn is Italian from Long Island, probably.
+
+
+JACK: Marn’s great.
+
+
+ART: [crosstalk] Sure, I mean, the characters in The Nanny are from Flushing, which is not quite…
+
+
+AUSTIN: Sure.  It’s not quite -- Ali probably said Flushing.  I just -- I’m projecting Long Island from…
+ART: Sure.  I’m in season five of The Nanny and it has gotten so hard to watch.
+
+
+AUSTIN: Yeah?
+
+
+ART: Because Maxwell Sheffield is a monster, [Austin: This guy.] an utter monster in a way that I didn’t appreciate the first time I saw…
+
+
+AUSTIN: Which, in retrospect, I should go this way.  I wonder -- I’m gonna move this around so that we get the right guy here.  Sorry, Fran Drescher.  There we go.  There we go.  Now we’re lined up right.  Yeah, is he a monster?  Is he just -- he’s just like, a rich, white guy.  That’s his whole thing?
+
+
+ART: Well, at the end of one of the seasons, and I think it might be at the end of season three, he tells Fran, the nanny, that he loves her, and then in the first episode of the next season, he takes it back.
+
+
+AUSTIN: Yikes!
+
+
+JACK: Oh!  Whoa, what?
+
+
+ART: And then they spend like, the -- I think I’m in two solid years of them, of like -- She’s like, “I still wanna be with you,” and him being like, “No,” and the show, like -- She should quit!  Especially cause like, I think at one point you find out that she’s a full-time nanny to three children and makes six dollars an hour?  I understand this is mid-nineties six dollars an hour, but like…
+
+
+AUSTIN: Yeah…
+
+
+KEITH: Not enough.
+
+
+AUSTIN: Not enough.
+
+
+ART: This guy has --
+
+
+KEITH: Room and board?  No.
+
+
+ART: Yeah, yeah, room and board, she lives there.
+
+
+KEITH: But it’s not enough, it’s still not enough.
+
+
+ART: No, it’s not.
+
+
+AUSTIN: He’s rich rich.
+
+
+ART: [crosstalk] Especially to be like, emotionally abused by this man.
+
+
+AUSTIN: He’s a Broadway producer.
+
+
+ART: Yeah.
+
+
+AUSTIN: He’s rivals with Andrew Lloyd Weber.
+
+
+KEITH: Who isn’t these days.
+
+
+AUSTIN: Right, uh-huh.
+
+
+JACK: I fucking hate Andrew Lloyd Weber.
+
+
+AUSTIN: But not as much as Maxwell Sheffield, known monster.
+
+
+ART: Maxwell Sheffield, who passed on Cats, that’s a thing about him.
+
+
+JACK: In what respect?
+
+
+KEITH: But Cats --
+
+
+ART: In the show, he was offered the musical Cats and turned it down, I guess sort of ignoring  the real-world fact that Andrew Lloyd Weber like, basically wrote that show.
+
+
+KEITH: Yeah, this was --
+
+
+JACK: Also, that musical’s dogshit.
+
+
+KEITH: It’s dogshit.
+
+
+AUSTIN: It’s true.
+
+
+KEITH: It’s total dogshit.
+
+
+AUSTIN: It’s real bad.
+
+
+ART: Made a lot of money for Andrew Lloyd Weber.
+
+
+KEITH: It’s continuing to do that.
+
+
+JACK: [crosstalk] Yeah, fuck that guy.  [Art laughs]  Everytime I see Andrew Lloyd Weber on TikTok, I block the account, but it shows him to me.
+
+
+[everyone laughs]
+
+
+KEITH: Wow, you are seeing different videos than I am; I’ve never seen Andrew Lloyd Weber.
+
+
+JACK: TikTok knows that I play the piano and they keep thinking that that means that I want to see Andrew Lloyd Weber and I am telling them that I don’t in the clearest possible way.
+
+
+ART: I think it’s just that -- I think -- It might just be the UK TikTok has a lot of Andrew Lloyd Weber.
+
+
+JACK: Oh no, we hate him here too.  He left because he didn’t want to pay taxes here.
+
+
+ART:  Hmm.  Can we talk about James Corden for a second and when--
+
+
+JACK: Ugghh.  That guy.
+
+
+AUSTIN: [crosstalk] Can you take him back?  Yeah.  Please.
+
+
+ART: [crosstalk] -- take him back
+
+
+KEITH: Terrible.  Just the absolute worst.
+
+
+AUSTIN:  What’s the trade we gotta make?  Who do y’all have from us that you don’t want anymore will you trade?  Donna?
+
+
+JACK: [crosstalk] That you don’t want anymore?
+
+
+AUSTIN: Like who would -- We don’t want James Corden anymore.  I never was a fan--
+
+
+JACK: Tough shit. 
+
+
+[Austin laughs]
+
+
+ART: There’s no annoying American celebrities that you’re trying to get rid of that we could trade for him?
+
+
+JACK: That we’re trying to get rid of… I mean, Tucker Carlson’s been showing up on newspapers here recently, but it’s often in the sense of like, “who’s this fucking guy?”  That, to me, is dangerous though.  I don’t want to see any of that.  But I don’t think that’s a fair -- I don’t think that that’s a direct trade.
+
+
+ART: Well, he still lives here, we can’t take him anywhere else.
+
+
+KEITH: I remember two years ago -- I’m gonna read a Tweet, which is everyone’s favorite bit.
+[TIMESTAMP 1:45:00]
+
+
+AUSTIN: Yeah.
+
+
+KEITH: But, I remember -- My James Corden Tweet from a couple years ago when he was all over the place for his stupid car -- fake car singing shit.  [Austin laughs]  [Keith reads:]  “Heard from a friend in the entertainment industry that the evil spell James Corden cast to get himself a TV show actually demagnetized all metal in a fifteen-mile radius.”
+
+
+AUSTIN: Ohhh.
+
+
+JACK: Oh dear.  No, he, he sucks.
+
+
+KEITH:  In a genre of shit, he is the King Shit.
+
+
+JACK: The thing about James Corden as well, is that you just get this impression from him that he is mean.
+
+
+KEITH: Yes.
+
+
+ART: He is.
+
+
+KEITH: [crosstalk] He is!
+
+
+AUSTIN: [crosstalk] That’s -- that’s --
+
+
+JACK: [crosstalk] It’s the same vibe that Ellen -- No, no, I know, but like, [Austin: Yeah.  Yeah.  Uh-huh.] he can’t even disguise it among his sort of enforced jollity.  It just, it comes emanating off him.
+
+
+ART: Have you seen that clip where like, a guest challenges him to name any of his cameramen and he can’t do it?
+
+
+AUSTIN: [pained] Ooh!
+
+
+KEITH: [crosstalk] I think that was Jimmy Kimmel.
+
+
+ART: It was Jimmy Kimmel?
+
+
+KEITH: Jimmy Kimmel, they were doing this “eat this disgusting thing --”
+
+
+ART: [crosstalk] That makes it even worse.
+
+
+AUSTIN: Unbelievable.
+KEITH: Eat this disgusting thing I -- It’s -- I can’t believe I’ve seen this clip, but it’s “eat this disgusting thing or do a dare.”  And he ate a disgusting thing when Jimmy Kimmel dared him to name a cameraman.
+
+
+AUSTIN: Incredible.
+
+
+ART: Which, to be clear, is a group of three people that he works with [guessing the number] two hundred days a year?
+
+
+KEITH: Yeah.
+
+
+ART: He does probably two hundred shows a year?
+
+
+AUSTIN: Sorry, I’m --
+
+
+JACK: What a horrible little man.
+
+
+AUSTIN: Yeah… I’m scrolling through every Tweet anyone I ever know has made about James Corden.  From the bottom forward.  I’m trying to see when the turn happened, you know what I mean?  When people turned on him.
+
+
+KEITH: Oh, it was immediate.  I had a Tweet from 2017 where I was mad about him.
+
+
+JACK: I had a feeling about James Corden.
+
+
+KEITH: Here’s what happened: He was a guy that I knew from being in two episodes of Doctor Who.
+
+
+AUSTIN: Sure.
+
+
+ART: Yeah, which, I didn’t hate him then.
+
+
+KEITH: No, sure, but he was just reading someone else’s words for eight total minutes across two episodes or maybe twelve total minutes.
+
+
+ART: Yeah.  You gotta be pretty bad.
+
+
+KEITH: And then all of a sudden he was in America all the time and he was terrible immediately.  And there was no… There was no like, “Wow, James Corden’s bad now.”  It was just like, this guy has shown up to ruin my day.
+
+
+ART: He replaced Craig Ferguson, of legitimate comic genius.
+
+
+KEITH: Yes, yeah.  I don’t really watch the Late Night Show for a long time.
+JACK: I --
+
+
+AUSTIN: [crosstalk] I got some winners -- Go ahead, Jack.  You go ahead, Jack, while I continue to collect my collection of anti-James Corden Tweets.
+
+
+JACK: I have a fairly intricate understanding of the processes by which British people immigrate to America.
+
+
+AUSTIN: Yeah!
+
+
+JACK: And every time I see James Corden, it’s like an insult to a sort of -- It’s like, it’s like a curse has been written on my heart.  You know?  And every time I see James Corden it’s like someone goes over it with a biro.  [laughter]  Sorry, go ahead, Austin.  I’m done.
+
+
+AUSTIN: Okay.  These are all --
+
+
+JACK: I fucking hate that guy!
+
+
+KEITH: Yeah.
+
+
+AUSTIN: These are all pre-2015.  One of them is pre-2010.
+
+
+JACK: Holy shit!
+
+
+ART: [crosstalk] The best part about James Corden is he’s such a piece of shit that he’s still only the second-biggest piece of shit on Late Night.
+
+
+[Austin chuckles]
+
+
+JACK: Who’s number one?  I’m not familiar with --
+
+
+ART: Jimmy Fallon.
+
+
+AUSTIN: [crosstalk] Jimmy Fallon.  Jimmy Fallon.
+
+
+JACK: Oh, fuck that guy.
+
+
+AUSTIN: So this is -- 2015 someone I know said “Never thought I’d say this but James Corden really makes me appreciate what Jimmy Fallon does,” [laughter] which is a remarkable insult.
+
+
+JACK: Great insult.
+
+
+AUSTIN: The person in question does not like Jimmy Fallon, to be clear.  Another one her, just “Who the fuck is James Corden?”  That’s 2015.  2009: “James Corden --”
+JACK: 2009?!
+
+
+AUSTIN: 2009.  “James Corden is that guy in a raffle who pretends to have won when really he hasn’t.” [laughter]  Which is extremely funny!  To me.
+
+
+JACK: It’s so specific.
+
+
+AUSTIN: Uh-huh.  Jack, that was Vee, by the way.
+
+
+JACK: Oh, incredible.  Thank you Vee.
+
+
+AUSTIN: [crosstalk ] This is incredible.  Yeah, uh-huh.  We got some good “Why did we let James Corden happen?”  Follow-up from Vee here: “So, Americans actually like and they’re grateful for the exposure to James Corden?”
+
+
+JACK: What year is this?
+
+
+AUSTIN: That was 2016.  That’s about when James Corden was like, blowing up.
+
+
+JACK: Ohh, fair.
+
+
+AUSTIN: Carpool Karaoke had blown up I think in 2015, so…
+
+
+JACK: What a miserable thing.
+
+
+AUSTIN: What’s the --
+
+
+KEITH: I can’t believe it’s been that long.
+
+
+AUSTIN: What’s the --
+
+
+KEITH: I guess it feels like it’s been a long time.
+
+
+AUSTIN: Yeah.  Yeah.  2010s, you know?
+
+
+KEITH: Yeah.  I don’t know -- I don’t know anything about Jimmy Fallon as a person except for that it’s a really close race for least watchable thing on TV.
+
+
+JACK: He’s like, an unpleasant guy, I believe.
+
+
+KEITH: Yeah, that makes sense.
+
+
+JACK: I think Art would -- Is that true Art?
+
+
+ART: I certainly think so.
+
+
+KEITH: The nervous energy that Jimmy Fallon brings to television is sickening; it sickens me.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: It seems like he is being forced to be a fool at gunpoint.  [laughter]  Like there is someone with a gun trained on him where he doesn’t have to look like he likes it, but he does have to be smiling and laughing or he gets killed.
+
+
+AUSTIN: I got a --
+
+
+ART: The resources he has access to as a host of The Tonight Show, and the just absolute slop he puts out on a nightly basis is unbelievable.
+
+
+AUSTIN: [crosstalk] It’s unbelievable.  Also, The Roots deserve better.
+
+
+JACK: Yes!  Yes!
+
+
+KEITH: [crosstalk] Yeah.  Oh yeah.
+
+
+ART: [crosstalk] Yeah.  I hope they’re getting paid a lot.
+
+
+AUSTIN: Me too.
+
+
+ART: I hope that they’re all, you know, throwing away they’re Rolls Royce at the end of the week.
+
+
+KEITH: Even Reggie Watts deserves better, I think.
+
+
+AUSTIN: I hope so..  James --
+
+
+JACK: Remember when Black Thought did that freestyle for like, nine minutes?
+
+
+AUSTIN: I do, I watch that freestyle like, once every two months.  It’s great.  
+
+
+JACK: I need any proximity.
+
+
+AUSTIN: [crosstalk] [reading a Tweet]  “James Corden’s existence feels like a prank the UK played on us.” Says Sungwon Cho.
+
+
+JACK: [laughs] Yes, it’s true.
+AUSTIN: Now I got a little follow-up here.  “I was at a pub once, and there was a raffle.” [Jack laughs]  James Corden did the bit of pretending he won, like three times in a row!  [Jack laughs again]
+
+
+KEITH: Wow.
+
+
+AUSTIN: So that was not, that type, that sort of guy.  That was the sort of guy.
+
+
+JACK: Was that also Vee?
+
+
+AUSTIN: Yes!  So that must have literally happened!
+
+
+KEITH: So this was a literal Tweet.
+
+
+AUSTIN: Yes!
+
+
+KEITH: Like that was not --
+
+
+AUSTIN: They must have literally seen him do this.  Incredible.
+
+
+KEITH: They weren’t inventing a kind of guy.  They were describing a kind of guy.
+
+
+AUSTIN: [laughing] They were describing -- Yes.  Anyway.  Apparently also just a big piece of shit, which also Jimmy Fallon, but yeah.  Same.
+
+
+KEITH: Yeah, I cannot remember which like, big name British actor got in an onstage fight with him over him --
+
+
+JACK: It was Patrick Stewart.
+
+
+KEITH: It was Patrick Stewart, right.
+
+
+AUSTIN: Ooh, really?
+
+
+ART: Wait, what happened?
+
+
+KEITH: He was -- Jack do you know the story better?
+
+
+JACK: [crosstalk] Patrick Stewart makes some jabs -- Patrick Stewart makes some jabs about James Corden’s weight, which is not sort of the best --
+
+
+AUSTIN: That’s not great.  Yeah.
+
+
+JACK: That’s not the best line of attack.
+AUSTIN: [crosstalk] Come on, Pat.
+
+
+JACK: But, it is clear that -- The thing that is clear is how rapidly the mask drops from James Corden when he -- He makes a jab at Patrick Stewart for some reason and Patrick Stewart fires back and James Corden immediately has the demeanor about him of “Nobody is allowed to talk back to me.”
+
+
+AUSTIN: Right.  Yeah.
+
+
+KEITH: Not even Patrick Stewart!
+
+
+JACK: Not even Patrick -- You know, one of the greatest British actors of all time.
+
+
+KEITH: The thing that was happening was they were doing -- They were co-hosting an awards show.
+
+
+JACK: An award!  Right!
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: And James Corden was not watching, he was just sitting, on his phone, onstage.
+
+
+JACK: Oh, yes!
+
+
+KEITH: And so Patrick Stewart says, “Join --.”
+
+
+JACK: [crosstalk] And Patrick Stewart says, “Hey.”
+
+
+KEITH: Yeah. When he got -- When he jabbed Patrick Stewart, Patrick Stewart was basically like, “Why don’t you fucking pay attention instead of sitting on your phone over there while we’re trying to work.”
+
+
+AUSTIN: Jesus Christ.
+
+
+JACK: And James Corden has a -- You know the story about James Corden on the plane?  The reputed story about James Corden on the plane?
+
+
+AUSTIN: I don’t.
+
+
+JACK: Ah.  So James Corden gets on this plane, he’s sitting in first-class and shortly afterwards the flight attendant leads in this woman carrying like, a screaming baby and directs him next to -- directs her next to James Corden, and sits down, and everyone’s expecting James Corden to hick off, but he just puts on his noise-canceling headphones and goes to sleep.  And it’s only at the end of the flight that the other person just realized that this woman is his wife and this baby is his baby, which is just… great.
+
+
+AUSTIN: Incredible.  Incredible.  All right, well, on that note.
+
+
+KEITH: What a fun little bonus!  Little, bonus tirade.
+
+
+AUSTIN: Yeah!
+
+
+ART: Bonus for the people who are here, cause I don’t think …
+
+
+AUSTIN: I’m gonna cut most of this on the final.  This’ll go in -- Maybe this’ll be a Clapcast, you know?
+
+
+ART: Oh!  “James Corden OBE.”
+
+
+AUSTIN: No he isn’t.
+
+
+ART: He is.
+
+
+JACK: [crosstalk] Yeaahh, they give them away for fucking anything.  You want an OBE Austin?  We can figure it out.
+
+
+AUSTIN: I mean…
+
+
+KEITH: No, don’t.  You don’t want it.
+
+
+AUSTIN: No?  Is that-?
+
+
+KEITH: I don’t know.
+
+
+AUSTIN: Do I get anything with it?
+
+
+JACK: I don’t think so.  You get to put “OBE” after your name.  I think you get a medal.
+
+
+AUSTIN: Can I sell the medal?
+
+
+ART: [crosstalk] You receive the Honor of Princess Anne, so the Queen wouldn’t even show up for this one.
+
+
+AUSTIN: That’s fine, I don’t need to meet her ass anyway.  I’m probably not getting one now, am I.
+
+
+ART: Well, cut this and then it’ll be fine.
+[Austin laughs]
+
+
+ART: I just think when you’re gonna get something like that, you want better than, and I quote from Wikipedia here: sixteenth in line for the British throne.
+
+
+AUSTIN: Even Clementine Kesh was closer than that.
+
+
+JACK: What was she?  She was seventh?  Something like that, right?
+
+
+AUSTIN: [crosstalk] Seventh.  Sixth or seventh.  I don’t remember.
+
+
+JACK: We picked the number specifically to be irritating to Clementine.
+
+
+AUSTIN: Yeah, exactly.  Close enough, but not so close.  Yeah.
+
+
+ART: If she gets -- If she gets there, she probably murdered most of those fifteen people, I’m just gonna say.
+
+
+AUSTIN: This Anne?  Anne whoever?
+
+
+ART: Anne, Princess Royal.
+
+
+KEITH: And James Corden didn’t?
+
+
+AUSTIN: Yeah, right?  Am I right, folks?  Am I right?
+
+
+JACK: [muttering] James Corden.
+
+
+KEITH: I’ll say this, absolutely sure: James Corden’s a killer.
+
+
+[laughter]
+
+
+AUSTIN: Absolutely sure?
+
+
+KEITH: [laughing] Absolutely sure!
+
+
+AUSTIN: Has James Corden killed someone?
+
+
+KEITH: With full confidence!  “Has James Corden” on Google and all of the results are different forms of “Has James Corden killed,” ``Has James Corden killed again.”
+
+
+[laughter]
+
+
+AUSTIN: This is very --
+JACK: [laughing] Will James Corden kill again?
+
+
+AUSTIN: I’m certain that this --
+
+
+KEITH: When will James Corden kill again?
+
+
+AUSTIN: This website I’m looking at has other articles like “Climate scientists advise storing Earth in a cool, dry place, away from direct sunlight.”  Is being true and honest when it says “James Corden accidentally kills eleven children during carpool duet.”  Huh?  That’s probably real.  That’s evidence.
+
+
+KEITH: Yeah.
+
+
+JACK: [groaning] Oh my god.
+
+
+[pause] [Austin sighs]
+
+
+JACK: He was dressed as a little fucking mouse, wasn’t he, in that stupid thing.  He was one of the stupid Cinderella mice.
+
+
+AUSTIN: He was.
+
+
+JACK: From fucking “girlboss Cinderella.”
+
+
+AUSTIN: Oh, wait, wait, is that what he was in?
+
+
+KEITH: Was that how we got on James Corden, was ‘cause he was in the Cats movie?
+
+
+AUSTIN: He was in Cats.  But he wasn’t a mouse in Cats, he was a cat in Cats.
+
+
+JACK: No he -- I’m talking about his stupid dancing in traffic.
+
+
+KEITH: [crosstalk]  How’d they give him James Corden?
+
+
+AUSTIN: Oh.
+
+
+ART: Yeah, if you haven’t seen that.
+
+
+AUSTIN: Yeah, he’s a mouse in that new Cinderella, right?
+
+
+KEITH: Oh, the new Cinderella, okay.
+
+
+ART: Yeah.
+
+
+KEITH: So we just accidentally talked about Andrew Lloyd Weber and the guy that was in the Cats movie.
+
+
+AUSTIN: How did we get on James Corden?
+
+
+JACK: ‘Cause we were talking about -- I was talking about how much I hate Andrew Lloyd Weber and how much British people hate him [Austin: Aahhh] and you were like, “How do you feel about James Corden?”  And the answer was “I hate him” for another fifteen to twenty minutes.
+
+
+[Keith laughs]
+
+
+AUSTIN: Right.  We’re still there now, in fact.  We still haven’t left the gravity of your hatred for these people.
+
+
+ART: Yeah.
+
+
+JACK: Yeah.
+
+
+ART: So by us, I think don’t go see Cinderella, Amazon original movie, opening next week.
+
+
+JACK: It’s an Amazon original?
+
+
+KEITH: Just think of the families of its victims, I will not go. 
+
+
+[laughter]
+
+
+ART: Or I guess this week?  It’s September 3rd.  This Friday.  
+
+
+AUSTIN: I feel bad, ‘cause Billy Porter is cool.  As far as I know, maybe Billy Porter sucks and I’m wrong about this, but Billy Porter seems cool, and the fact that Billy Porter was in that bad flash mob, I was like, “Oh, Billy.  You gotta leave James --”
+
+
+JACK: Is Billy Porter playing the fairy godmother?
+
+
+AUSTIN: Yes, that’s correct.
+
+
+KEITH: What was the bad flash mob about?
+
+
+ART: [crosstalk] Well, they say “the genderless fairy godparent.”
+
+
+AUSTIN: Oh, is it?  Okay.
+
+
+JACK: Oh.
+AUSTIN: I have not seen -- I have not -- I don’t know anything about the new Cinderella.
+
+
+ART: I’m just reading off the Wikipedia [Austin: I see.] which, as you know, can be edited by anyone.
+
+
+AUSTIN: Sure, right.  It does say fairy godparent, yeah.
+
+
+KEITH: What is -- What is the bad flash mob?
+
+
+AUSTIN: [sighs] Oh.
+
+
+JACK: [groans] Ohhh.
+
+
+AUSTIN: We can share this live, that’s fun.  Let’s do it!  You know what?  Let’s just go out on a --
+
+
+JACK: Can we really?
+
+
+AUSTIN: Yeah, yeah, yeah. [typing] Flash mob… Do a search for that here.
+
+
+JACK: So we’re kind of ending with pain.
+
+
+AUSTIN: It’s a horror season.
+
+
+ART: [crosstalk] It’s horror.
+
+
+KEITH: Yeah, it’s classic Sangfielle.
+
+
+AUSTIN: Uh-huh.  [Jack laughs]  What’s better than this?  Let me find our chat here.  Dropping it here in “scheduling chat.”  Here we go.  Count me in on this, Keith. 
+
+
+[a single note of music plays, then cuts off]
+
+
+KEITH: Uh…
+
+
+AUSTIN: Actually wait, you know what up, let me pull it up on -- Let me just, let’s get us banned from Youtube.
+
+
+KEITH: Okay.
+
+
+AUSTIN: All right, I’m ready.
+
+
+KEITH: ficklepickles says “I have no idea who this James person is.”  James Corden is the host of the Late Late Show.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: A show that used to be hosted by Craig Ferguson and they got a different, much worse person for the same --
+
+
+JACK: How late is it?
+
+
+KEITH: It’s on at 1:00 I think?
+
+
+ART: It’s 12:30, it comes after Colbert.
+
+
+JACK: [crosstalk] Yeah, what fucking…
+
+
+AUSTIN: Wait, did you say that --
+
+
+JACK: He does that at 12:30?
+
+
+AUSTIN: He does, yeah, okay.
+
+
+JACK: I make Friends at the Table at 2:30 in the morning.
+
+
+AUSTIN: That’s fucking right.  That’s right.  That’s right.
+
+
+JACK: My output is better than his.
+
+
+KEITH: Yeah.
+
+
+AUSTIN:  Let him know.
+
+
+JACK: Let me host the Late Late Show, I will be really alienating.
+
+
+[Keith laughs]
+
+
+AUSTIN: Can’t wait.
+
+
+ART: They record it in the afternoon, Jack, these shows aren’t live.
+
+
+JACK: What?!
+
+
+AUSTIN: We would do it live.
+
+
+[Art laughs]
+
+
+JACK: We’d do it live!
+AUSTIN: We’d do it live!
+
+
+KEITH: Yeah.
+
+
+AUSTIN: It’s cheaper and easier, right?
+
+
+KEITH: It’s New York City, baby!
+
+
+JACK: [laughing] It is cheaper and easier to do it…
+
+
+AUSTIN: All right!  Ready to watch this, Keith?
+
+
+KEITH: This eighteen-second-long video here?
+
+
+AUSTIN: Yeah, uh-huh.
+
+
+KEITH: Okay, all right.  Three--
+
+
+AUSTIN: Three, two, one, go.  [“Let’s Get Loud” by Jennifer Lopez begins playing, laughter is heard in the background of the video]  Can you imagine?  Can you imagine?  
+
+
+[the person taking the video begins clapping with the beat, James Corden is heard singing along with the music, someone in the video says “Wow.”]
+
+
+KEITH: Wow.
+
+
+AUSTIN: That’s what that guy said in the car too.
+
+
+[Camila Cabello is heard singing along with the music in the video]
+
+
+KEITH: We said it at the same time.
+
+
+AUSTIN: Yeah.  I would be so mad.
+
+
+KEITH: Wow.
+
+
+AUSTIN: Because of how -- 
+
+
+JACK: I would put my elbow on the car horn.
+
+
+[TIMESTAMP 2:00:00]
+
+
+KEITH: It’s -- This is like the sort of thing that makes you think that they think that the people that are their fans are so stupid as that -- “Oh they’ll -- We’ll just do this, they’ll love it.”  They’re idiots.
+
+
+AUSTIN: [crosstalk] They’ll love it.  They’ll love it.  Yeah.  Uh-huh.
+
+
+KEITH: I can’t believe I said “wow” at the same time --
+
+
+AUSTIN: It’s so funny.
+
+
+KEITH: And in the same tone as the guy in the car that said it.
+
+
+AUSTIN: Extremely funny.
+
+
+KEITH: It’s two different “wows,” ‘cause I was saying like, “Wow,” like “Wow, this is terrible.”  And I think his “wow” was saying “Wow, I have nothing else to say, please let me go.”
+
+
+[laughter]
+
+
+ART: The track listing on this soundtrack is…
+
+
+JACK: Oh, I’ve heard -- It’s like a jukebox musical, right?
+
+
+ART: It’s a jukebox musical Cinderella.
+
+
+AUSTIN: Ohhh, interesting.
+
+
+JACK: With no coherency.
+
+
+KEITH: This is a little bit -- This is a little bit controversial, I don’t think there’s a good jukebox musical out there.
+
+
+AUSTIN: Not one?
+
+
+KEITH: And then to make one this obviously bad is a huge mistake.
+
+
+JACK: I’m sure…
+
+
+AUSTIN: I bet we could find one.
+
+
+JACK: I mean, there’s only…
+
+
+AUSTIN: The one that --
+
+
+JACK: There’s only one good musical and it’s Stephen Sondheim’s Company, [Austin laughs] but the others are all, you know, figuring out…
+
+
+AUSTIN: Um, I’m looking at the list here.  I’m not --
+
+
+KEITH: Of jukebox musicals?
+
+
+AUSTIN: Of jukebox musicals here.
+
+
+ART: Well, I think we’re all just ready for this Cinderella to give us a medley of “What a Man” and “Seven Nation Army.”
+
+
+JACK: What the fuck?
+
+
+AUSTIN: Oh that’s the same… You say medley, you literally mean this is the same track on the--
+
+
+ART: It’s one track, yeah.
+
+
+AUSTIN: “What a Man” the Salt and Pepper song?
+
+
+ART: Yeah, it’s the --
+
+
+AUSTIN: The samp-- The original that is sampled in the Salt and Pepper song.
+
+
+ART: Yeah..
+
+
+AUSTIN: “What a man, what a man, what a man, what a mighty good man.”  That one?
+
+
+ART: Mm-hm.
+
+
+JACK: Who’s the music supervisor on this movie?
+
+
+KEITH: James Corden.
+
+
+[laughter]
+
+
+JACK: The killer?
+
+
+[more laughter]
+
+
+KEITH: Yeah, they let famous murderer, James Corden, be the music supervisor.  And choreographer.
+
+
+JACK: Well.  That just about wraps it up for us.
+
+
+KEITH: All right.  Sue me James Corden, I dare you.
+
+
+AUSTIN: Don’t, please.  We need Keith.
+
+
+JACK: [crosstalk] No, please don’t.
+
+
+AUSTIN: We need Keith to be in the show, please.
+
+
+KEITH: He would never win.  This isn’t the UK, he would never win that lawsuit.
+
+
+ART: [crosstalk] Think of the content we could get --
+
+
+AUSTIN: Idlewild’s okay.  Is that a jukebox musical, does that count, Art?
+
+
+ART: I don’t know that counts, ‘cause there’s a lot of original songs in there.
+
+
+AUSTIN: Yeah.
+
+
+JACK: What’s it -- Is it like a percentage thing?  Where it’s like, if you hit a certain percentage of original songs, it no longer counts as a jukebox?
+
+
+KEITH: I’m gonna say it’s gotta be seventy percent original, at least.
+
+
+JACK: No, wait, what?
+
+
+AUSTIN: No, no, no, the other way, the other way for it to be a jukebox, right?
+
+
+JACK: [crosstalk] The other way.
+
+
+AUSTIN: Because a jukebox musical --
+
+
+JACK: We want it to be --
+
+
+KEITH: No, no, no, sorry.  For it to be a not-jukebox, it has to be majority --
+
+
+AUSTIN: Right, so what’s the other line?  Where’s it go the other way?  When’s it become a jukebox musical then?
+
+
+KEITH: Thirty.
+
+
+JACK: [crosstalk] One.  One song.
+
+
+AUSTIN: [incredulous]  It takes thirty?  And then, you think thirty-one, it’s a jukebox musical?
+
+
+KEITH: Thirty percent.
+
+
+AUSTIN: Then Idlewild counts.
+
+
+KEITH: Okay, yeah.
+
+
+AUSTIN: ‘Cause that has a bunch of Speakerboxxx/The Love Below songs.
+
+
+KEITH: If you’ve got ten songs and three of them are just from the radio, [Austin: Yeah] then that’s a jukebox musical, to me.
+
+
+AUSTIN: That’s what we’re saying, yes.
+
+
+KEITH: Yeah, yeah.
+
+
+AUSTIN: Huh.
+
+
+ART: Well, this isn’t really from the radio, it’s written by the same people.
+
+
+AUSTIN: Yeah…
+
+
+KEITH: That’s a little bit different..
+
+
+AUSTIN: That’s not really a -- That’s like -- It’s only a jukebox in the sense that like, if Art and I went to a diner that had a jukebox and we’re like, “Well what if we just pay for twelve --”  Uh, [searching for words] I almost said “Outbox,” that’s not -- That’s not right.  Why have I blanked at this point?
+
+
+ART: Outkast.
+
+
+AUSTIN: Jesus, Outkast!  Whew.  It was just ATLiens, like, anniversary day also.  Uh, Outkast songs in a row, that would be a jukebox musical.  And that’s different, that’s not the same.  Speaking of, though, I think a good horror thing we could do, Art, is do -- Speaking of -- Also speaking of --
+
+
+KEITH: Jukebox horror.
+
+
+AUSTIN: Jukebox horror.  Speaking of “Seven Nation Army” is, we should do an arc of Sangfielle that is that trip, Art.
+
+
+ART: Oh!  The going to -- going to --
+
+
+AUSTIN: Yeah.
+
+
+ART: I mean, going to Atlantic City is in itself kind of a horror story.
+
+
+AUSTIN: Kind of a horror thing.  But like, that whole arc, that whole night felt like an arc of Sangfielle to me in retrospect.
+
+
+ART: Yeah, we could -- We could work on that.
+
+
+AUSTIN: Okay.  I’ll see what I can do.  Jack, we had --
+
+
+JACK: Did someone get turned into a train?
+
+
+AUSTIN: No, but there was a cornfield, and an abandoned firehouse, and a breakup.
+
+
+JACK: Ohh.
+
+
+KEITH: Which one was this?
+
+
+AUSTIN: This was a trip that Art and I and an ex of mine took to Atlantic City in college.
+
+
+JACK: Oh dear.
+
+
+KEITH: Oh, this was not an episode of Bluff that you did.
+
+
+AUSTIN: No.
+
+
+KEITH: This was a real life thing.
+
+
+AUSTIN:  Believe it or not, yeah.
+
+
+ART: Uh-huh.
+
+
+AUSTIN: Very influential in my life, in terms of shaping -- very, like, important night, in a weird way, so.  Anyway.  All right, we’re done.  Time.is.  They should never let us do a podcast together.
+
+
+[Keith laughs]
+
+
+ART: Yeah.
+
+
+JACK: No, the thing is, this is what we get paid to do.
+
+
+KEITH: Yeah.
+AUSTIN: Oh, this is -- Oh, okay, I see.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: This is -- This is why we make the big bucks.
+
+
+ART: As --
+
+
+JACK: I have the new quote for you.
+
+
+AUSTIN: Ooh.  What is it?
+
+
+JACK: This is from Friedrich Schiller.  I do not know who he is.  And he says -- He’s got a little rhyme for us  He says “Lose not yourself in a far off time, seize the moment that is thine.”
+
+
+KEITH: Ooh, I don’t like it.
+
+
+[Austin chuckles]
+
+
+JACK: Friedrich Schiller…
+
+
+AUSTIN: He’s a playwright, poet, and philosopher.
+
+
+JACK: I don’t care for his poetry, based on what I’ve heard.  Oh, he was also a Freemason.
+
+
+KEITH: Yeah, I know twelve words of this guy’s poetry and not good.
+
+
+[Austin laughs]
+
+
+JACK: Oh, this is really funny.  “Some Freemasons speculate that Schiller was a Freemason, but this has not been proven.  In 1787, in his tenth letter about Don Carlos, Schiller wrote ‘I am neither Illuminati, nor Mason, but if the fraternization has a moral purpose in common with one another, and if this purpose for human society is the most important…” dot, dot, dot.”  He’s a fucking both Illuminati and Mason.
+
+
+KEITH: Very incriminating.  Yeah, this guy is an Illuminati.
+
+
+AUSTIN: This guy’s a fucking Wright of the Seventh Sun if ever I’ve seen one.
+
+
+JACK: Yeah, uh-huh.  And he wrote the Wallenstein Trilogy.
+
+
+AUSTIN: That -- Oh, by the way, that’s the other thing with the Wrights of the Seventh Sun is that I realize there aren’t any -- We didn’t have any like, secret societies yet this season.  We didn’t have any like -- You know what I mean?  That’s a big --
+
+
+JACK: Cults and stuff.
+
+
+AUSTIN: Yeah, we had -- But like, there’s a difference between a cult and a secret society, in a way, right?
+
+
+JACK: Yeah.  yeah.
+
+
+AUSTIN: There’s something different happening there about class.
+
+
+JACK: Yeah, definitely.
+
+
+AUSTIN: Jack, there’s a -- There’s a phrase we’ve used in another project we’ve worked on a little bit over the last… little while.  On and off.
+
+
+JACK: [chuckling] Oh, yeah.
+
+
+AUSTIN: That you might recall where we -- We had to come up with like, what’s the difference between these two nouns.  [Jack laughs]  You remember what I’m talking about?  And it was like --
+
+
+JACK: I don’t remember the exact word, but it was like one is a posh somebody or another?
+
+
+AUSTIN: It was -- It was -- It was posh, but it was like -- Ah, it was something very similar, I wish we had it.  I wish I had it in front of me, but I don’t.  Anyway.  You know.
+
+
+[Computer error noise]
+
+
+JACK: Bolting them onto the Macula is good too.
+
+
+AUSTIN: The good news is, I think our -- my stream just died, which is very funny.
+
+
+JACK: [laughing] Bye!  Peace.
+
+
+KEITH: Oh, yup, there it goes.
+
+
+[Another computer noise]
+
+
+AUSTIN: Reconnection successful.  
+
+
+KEITH: Okay.
+AUSTIN: We can do our clap now.  Time.is.
+
+
+KEITH: Youtube was like “You gotta end this.”
+
+
+JACK: Goodbye everybody.
+AUSTIN: [crosstalk] Youtube said “Don’t, don’t.”  Youtube said you’re getting too close to the sun.  Twenty-five to clap?
+
+
+JACK: Yeah.
+
+
+KEITH: Yeah.
+
+
+{sound of a perfectly in sync clap]
+
+
+AUSTIN: There we go.
+
+
+[END OF TRANSCRIPT]

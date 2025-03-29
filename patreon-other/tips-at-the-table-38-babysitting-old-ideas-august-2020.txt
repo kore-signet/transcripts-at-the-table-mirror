@@ -1,0 +1,658 @@
+﻿Tips at the Table 38: Babysitting Old Ideas (August 2020)
+Transcriber: bijibu#3769
+
+
+[00:00:00]
+
+
+AUSTIN: Welcome to Tips at the Table, a RPG podcast focused on critical questions, hopefully, smart answers, and fun interactions between good friends. I am your host, Austin Walker. Joining me today, Ali Acampora.
+
+
+ALI: Um, hi! My name is Ali and you can find me over at @ali_west on Twitter and you can find the show over at @friends_table.
+
+
+AUSTIN: Sylvia Clare.
+
+
+SYLVIA: Hey! I'm Sylvi. You can find me on Twitter at @sylvisurfer and you can listen to my other show Emojidrome wherever you get your podcasts.
+
+
+AUSTIN: And Art Martinez-Tebbel.
+
+
+ART: Hey! You can find me on Twitter at @atebbel and get some fine Friends at the Table merchandise at fangamer.com? Is that right? Fangamer.com? Fangamer. You know ‘em. Go there.
+
+
+[overlapping]
+
+
+SYLVIA: It's .com.
+
+
+AUSTIN: Not .net? It's .com?
+
+
+SYLVIA: It's .com. I checked.
+
+
+AUSTIN: Do they also have .net? They also have .net.
+
+
+ALI: Wow.
+
+
+AUSTIN: Look at them.
+
+
+ART: Oh, Fangamer— Fangamer dot anything. Just Fangamer and then pound on your keyboard and you'll get there.
+
+
+AUSTIN: Let's just not— we don't know that. Let me just check fangamer.bike does not go there. So.
+
+
+ART: Let's get fangamer.bike!
+
+
+ALI: Hm...
+
+
+AUSTIN: Let's not do that. We work with them. [ART laughs] But we should get it and hold it hostage until we get shipping notifications for our own merch.
+
+
+SYLVIA: Just have it redirect to our Fangamer page. They won't mind.
+
+
+ALI: Yeah.
+
+
+AUSTIN: That's right. They won't mind.
+
+
+ART: Yeah. And then we should have them make us a bike.
+
+
+ALI: Mm...
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: And then, like, our biggest bike is for our biking season—
+
+
+ART: Yeah.
+
+
+AUSTIN: —which is coming.
+
+
+[slight pause, AUSTIN laughs]
+
+
+ART: Bluff City 3. It's All Bikes.
+
+
+AUSTIN: It's all bikes this time, baby! Alright! Um, so, we're going to do Tips at the Table for August 2020. We're continuing our catch-up tour. Um, uh, we put up another Mapmaker just now. We got some more other stuff coming soon. So, you know, we're getting there bit by bit. We're hustling as best we can. I feel like we're on a good schedule now so expect a lot more Tips this month as we continue to rush to get Tips caught up. 
+
+
+ART: Let's do six Tips this month.
+
+
+ALI: That's the plan.
+
+
+AUSTIN: The answer is: yes! Yes—
+
+
+ART: Right!
+
+
+AUSTIN: —that is the plan! [ALI laughs] So, we—
+
+
+ART: Honestly, can we— can the Post Mortem just count as a Tips?
+
+
+AUSTIN: Maybe? You know, you're asking questions. [ALI laughs] I don't know.
+
+
+ALI: We're the only ones who have the answers to that question, so.
+
+
+AUSTIN: That's true. Alright.
+
+
+ART: I guess the Post Mortem probably isn't this month.
+
+
+AUSTIN: No, in fact it'll be next month for sure. Cole writes in and says:
+
+
+[reading] “I have been dipping very lately into game design since we started a Friends at the Table fans one-shot server with a game dev channel. I've mostly been making hacks of games I like or borrowing and crediting various mechanics from games I enjoy playing by mixing them together and putting them in an all new setting. If I'm laughing, Cole, it is because I am deep in this process so this past couple of weeks has been me doing this. [SYLVIA laughs] I have a bad personal tendency of making a game quickly and then not feeling confident enough to try to play-test it. I get really nervous when the spotlight is on me though I'm super open to feedback and criticism in general. I just worry that there isn't enough there or that I am missing some key element that would make the game more fun. Everyone in the server is extremely kind and understanding and I know that this exact thing is why play-testing exists but I still find it sometimes hard to get pass that anxiety block. Do you have any personal stories about dealing with this sort of thing or any tips on how to push past the fear and play-test the games you make? Do you think play-testing is necessary for every game? For what it's worth, almost all the games I've published are free.” [finishes reading]
+
+
+Um, anyone have any similar anxiety things with personal projects or anything like that before we talk even more specifically about play-testing stuff?
+
+
+ART: I mean I feel like I have every anxiety and so I include this one.
+
+
+[everyone laughs]
+
+
+AUSTIN: Yeah? What are your thoughts on this one?
+
+
+ART: Um, it's a couple— it's a couple thoughts. Like, one, any game you aren't selling someone is basically, like, serving them food in your house, and if they complain about it too much they're the jerks, right? [ALI and AUSTIN laugh] And that, like, if you play it all you're, by necessity, play-testing in that way that we're always, y'know— you think about playing tag as a kid and that you come up with rule changes there based on what is and isn't working, like. You can't not play-test. 
+
+
+AUSTIN: Right. It's almost always play-testing, right?
+
+
+ART: And I guess you could— you could play and get data and just throw it away. But, like, I think you will want to make your thing more fun and it will naturally bend toward more fun.
+
+
+AUSTIN: Yep.
+
+
+ART: But if it doesn't, that's fine too. Again, you know.
+
+
+AUSTIN: Yeah, I think for me, to answer your last question of, like, is play-testing necessary for every game? Like, no, because some games are more like poems or more like, y'know, pieces you hang on the wall and that's fine, right? Like, you've done the practice of making and designing the game can be joyful for you. Or cathartic for you. And that can be the thing. It doesn't need to be productive in the way that you're, like, ending with something—even for anyone ever again to play—and that can still have served a purpose for you. No one who, y'know, is, um— you're not always knitting gloves, right? Like, um, and sometimes when you're knitting gloves you're doing it even though you don't live in a place where you don't ever wear gloves but the process of that knitting is pleasurable to you. So, I would say that that's, like, the big-brain-how-I-actually-feel version of this. 
+
+
+The more practical thing is: if you are making something that you want people to enjoy then play-testing is a really key part of it that no amount of private, like, super smart thoughtful design is ever going to be able to replicate. I'll say it openly that I once again hacked a thing together for the finale of PARTIZAN which we're two-thirds of the way through now. And, you know, I did my best to pre-play-test it, by which of what I mean is, I simulated the rolls. I pre-rolled a bunch of the potential outcomes. I, like, tried to figure what averages were. I looked at a bunch of charts. None of that stuff is the same as sitting down with people and hearing their feedback.
+
+
+ Or—and this is the other option for you—if specifically the thing that's a difficulty for you is being on-call while someone is playing for instance? You could produce a play-testing document. Give it to people. Have them play it if they're interested and then have them tell you what they thought about the game. What they thought worked and didn't. And that way you're not there as the facilitator on the call or as the GM or whatever the roll would be where you're put under all that extra stress in the moment. You could even, y'know, ask, "Hey could you record this?" if someone is comfortable doing that for you to listen back to if that's something you would want to do later. 
+
+
+But I do think as someone who does, like, to make things, um, y'know, having that added layer—and this also comes from being an editor for years and being a teacher for years—like, I do think that that feedback loop, the kind of draft redraft process, is really helpful for almost all sorts of production. In fact, it's one of the great struggles of making an actual-play podcast? Is you don't get to incorporate notes into the material because the material is already out there. In any other form of writing, y'know, or that kind of fiction that I work with, you write a draft. You submit a draft. Your draft comes back with notes from editors. You then sit with those notes and incorporate them. We put an episode up and it's up and that's it and it has to live like that and can kind of, like, feedback in forward but you cannot change what was already out there with some rare exceptions. You can't change the bi, y’know, sweeping strokes of the thing at the very least. 
+
+
+Um, all of which is to say, I think that finding a way in which you can minimise your anxiety but still get feedback, um, for the projects that are important to you to be playable, is probably the way to go. Or at least that's how I feel about it. And it sounds like you want to be in that place too? In terms of getting some feedback. 
+
+
+Sylvi or Ali, do you have thoughts on this?
+
+
+ALI: There is one thing. The— the one thing that stands out for me in this question is, and Cole says, "I just worry there isn't enough there or if I'm missing some key element that would make the game more fun."
+
+
+AUSTIN: Right.
+
+
+ALI: I feel like this is a universal, like, reaction to have to any interaction of being, like, [AUSTIN laughs] "Oh, I could have done that better." So, like, as much as saying, like, just get past that is very shallow, like— when I think of games especially now, like, so many of them are living documents anyway that, like, in six months or whatever you're like, "Oh, I have this update to, like, Bee's Knees," or whatever the game’s name is, I don't know. [laughs]
+
+
+AUSTIN: Bee's Knees. I think it's Bee's Knees, yeah.
+
+
+ALI: No one would, like, baulk at that. Like, that's such a normal thing that, like, you know, if you— if you've written something and you're proud of it as it is without the, like, sort of nitty-gritty of going through play-testing? Um, y'know, it is what it is. And then, if you wanted to change it later you absolutely have that option. So, that's how I feel.
+
+
+AUSTIN: Does not seem to be a table-top RPG called Bee's Knees. [ALI laughs] I'm looking. I'm not seeing anything on itch. It's all you. Run for it. Maybe I'm wrong. There could be something out there that I have not seen. So, Sylvi, do you have any thoughts here?
+
+
+SYLVIA: I really don't know if I'm— I feel like I'm just going to be repeating things, you know?
+
+
+AUSTIN: That's fair.
+
+
+SYLVIA: Like, I guess, my easy advice is just, like, maybe just try and start with, like, your own group of friends and you don't have to play test it with strangers necessarily.
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA: You can play test stuff with people you trust, like, who sort of understand maybe what you're going for or at least have similar tastes to you and that way you can work out things in, like, a safer environment before you try, like, giving it out to other GMs to do like playtesting with or something.
+
+
+AUSTIN: Totally. I will say also, just to rewind to a thing I said to emphasise what it means when I say this, that, like, you can do certain sorts of play-testing by yourself. If you can try your best to be like, "Okay, I'm going to pretend to be two or three players playing this game together who have different motivations. I'm going to write out— this player is really going to try to, like, have scenes about blank. This player's going to try to have scenes about this." 
+
+
+Um, when we did The Tower again recently, Jack and I sat down and played through a game of that by ourselves. And we kind of, like, actually played it but we also kind of zipped through some role structure. And going way back in time to when we first kind of started designing that game, there were many times where we were like, "And there'll be a scene here where blank." And we don't play the scene out. And so, that degree of ultimate opening your— opening up emotionally and vulnerably while role-playing can add even more stress on top of, "Hey, do these dice work? Do these cards work? Does all that stuff work?" And during play-testing it can be okay. Especially when we're seeing does the engine run? To abstract that stuff out entirely, right? Where you can say, "Okay, player A is going to try to get as many point x as they can. You're always going to optimise towards that. That's the sort of player they are." 
+
+
+Even if it's a very sort of emotional game people sometimes have those sorts of playstyles. And, so, like, being able to step into that role and almost do that by yourself can be a useful way of doing some early play-testing that can lead you to a certain situation, or like, "Oh wow, I hadn't thought about playing in this way before and this means that I need to adjust these rules a little bit before I even make it a public play-test for it," for instance so hopefully that's useful. 
+
+
+Morgan Jay says, "You have two stats: Bees and Knees." Yeah, uh-huh. Yep, perfect. Your insect-like nature versus your, like, ungulate or mammalian or, you know, up-on-some-legs nature. Um, alright. Next question comes in from Erin. This one, I feel like is one we've had asked before but, y'know, let's do a check-in on names. Erin says:
+
+
+[reading] "I was emailing to ask how you come up with character names whether it's PCs or NPCs. I'm running a game of Uncharted Worlds (Powered by the Apocalypse space game) and I've been attempting to give every NPC with speaking roles a name. In my attempt to get the feel of a culture from far from Earth, I've realised that I've fallen into a little bit of a trap. I've been mixing and matching different ethnic names, i.e. a Latinx first name and a Chinese last name. This is a little too Snow Crash for my taste. How do you guys come up with good memorable names and how do you avoid making them sound same-y and repetitive." [finishes reading]
+
+
+I would definitely immediately say, don't just, like, stitch things together because they are, like— have an exotic flair or an ethnic flair as a first and foremost thing that is just, like, never going to make the story you're telling feel right because names should feel like they should reflect some truth about the world in some way.
+
+
+ART: Can I tell you something that's broken about my brain?
+
+
+AUSTIN: Yeah.
+
+
+ART: When I read these questions before I went on, it took me a second to be like, "Snow Crash isn't a— it's not a Chinese last name and a—"
+
+
+AUSTIN: Crash isn't Chinese.
+
+
+SYLVIA: Oh my god.
+
+
+ART: “Crash isn't—”
+
+
+AUSTIN: Great. Uh-huh.
+
+
+ART: Yeah. 2020's going great, everyone.
+
+
+AUSTIN: Uh, we'll get to the 2020's going great question momentarily, I'm sure. [ALI laughs] Um, yeah. I'm curious for, y’know, the three of you. We have a new season coming up, y'know, in the next few months presumably. Are you getting your name brains going?
+
+
+[ALI softly laughs]
+
+
+SYLVIA: Yeah, I mean—
+
+
+AUSTIN: What's that feel like? Without getting into the specifics.
+
+
+SYLVIA: My whole thing with names is just, like, words will get stuck in my head. And I will just keep, like— they'll just— I mean, like, I have a list of stuff with potential things but one will always sort of stick out and stick in my head and I'll play with it and have to find another funky noun that sounds nice next to it but, y'know, I don't know. I just pick them up all over the place now. It's just a weird thing that doing the show has caused me to do—is just be, like, "Oh, that's a nice sounding word! That's a character some day."
+
+
+AUSTIN: Sounds are very important to me for sure.
+
+
+SYLVIA: Mm-hm.
+
+
+AUSTIN: Ali or Art, do you have name thoughts?
+
+
+ALI: Yeah, I feel like the way that I got good at this was just, like, being bad at it for a really long time. [SYLVIA laughs] For years I was the type of person who would, like, be playing Pokemon and have, like, the Wikipedia for different flowers open. [laughs]
+[00:15:09]
+
+
+AUSTIN: Sure, I do the same thing. One hundred percent.
+
+
+ALI: So, y'know, I—
+
+
+AUSTIN: Go check any of my Etrian Odyssey carts and you'll see that I found—
+
+
+SYLVIA: Oh my god.
+
+
+AUSTIN: —themes in the same way, right?
+
+
+ALI: Yeah. Um, so, yeah, it's tough. It's just, um, I get— y'know, I feel like what I feel like what I'’ve doing lately is, like, starting with one word and trying to find the, like, setting around it that sounds the best. With Broun, I had seen an Instagram ad for the Line character mascot named Brown with a "W" but spelt with "U" and I was, like, that's hilarious. [laughs] That's going to be my season six character name. [everyone laughs] And just had to think of the other syllables. Um, so, yeah, start small and just sort of let it blossom from there, I guess.
+
+
+AUSTIN: Art, who as someone I think started in Friends of the Table with a name from the sheet—
+
+
+ART: Uh-huh. Definitely.
+
+
+AUSTIN: —but that has gone on from being Grand Magnificent and Sovereign Immunity, like.
+
+
+ART: Sovereign Immunity is just a real phrase that I stole.
+
+
+AUSTIN: Yeah, that's true. That's true.
+
+
+ART: I'd like everyone to meet my season—what, seven's next?—season seven character, Snow Crash. [AUSTIN laughs] Chinese gentlemen. Um, yeah, I don't. It is. It's just, like, I don't— I don't like coming up with names for characters and it does make me, like, antsy to do it? But, eventually it's your job for six years and you do it. [AUSTIN laughs] Because otherwise you're— the people are mad at you because you're not trying very hard.
+
+
+AUSTIN: [amused] Mm-hm.
+
+
+ART: I have a document of Bluff City names that I just everytime I think of something, something goes in there and more—
+
+
+AUSTIN: Yeah.
+
+
+ART: —more ones that are never used go in than ones that are good.
+
+
+AUSTIN: Yes. But that— you write them. But sometimes they can be bridges to other good things, right?
+
+
+ART: Yeah, you'll have, like, your little run of, like, "Oh, that kind of is like that."
+
+
+AUSTIN: Mm-hm.
+
+
+ART: And on and on and on. Um, season seven in particular is giving me some problems because I want to step back a little. From—
+
+
+AUSTIN: Mm-hm. From—
+
+
+ART: —the Grand Magnificent Sovereign Immunity part of my brain? [ALI laughs] Um, but the—
+
+
+AUSTIN: It's also going to be kind of an extra season in some ways so you have to again feel out—
+
+
+ART: Yeah.
+
+
+AUSTIN: —what that feels like. Yeah, sure.
+
+
+ART: I think you sort of have to be— you have to be willing to be the— but I think my particular idea allows for a somewhat, like, mundane approach in that one area?
+
+
+AUSTIN: I think that's true.
+
+
+ART: But I have to— I have to make it evocative, right? It has to— at the end of the season you'll be, like, "Oh, yeah, that's the right name."
+
+
+AUSTIN: Yeah. Mm-hm. Um, my—
+
+
+ART: So Snow Crash.
+
+
+AUSTIN: Snow Crash. Got it. My big feeling on this, and it's like it's why so many things don't land right with me when I see, and this is, like, such up my own ass shit but, like, Friends at the Table style names? So many of them don't land? Or like— and when something does land it blows me away like there was that really really good excerpt generator that pulled lines from poetry and cut them in ways that created Excerpt style names—like Twilight Mirage Excerpt style names—or the ways in which heat signature name generator really felt like it landed COUNTER/Weight style names, um, like blew me away. The biggest thing for me is sound. Like, it is not meaning. It is not— even the names I have that are clearly have meanings? Like, the, what was it? The robot batter was Trio Trifecta or the athlete? Was that Trio Trifecta, Art?
+
+
+ART: Mm-hm. Yeah, Trio Trifecta.
+
+
+AUSTIN: Yeah, um, like, yes. That's clearly two three things in a row. Or Public Person is clearly, like, a phrase. But both of those are just— I love how those word sounds sound next to each other. Trio Trifecta. Public Person. Just feels good to me. Um, that is it for me. It is not meaning. I'm not— I'm very rarely— there are exceptions. 
+
+
+So, like, Elect names this year are literally Ali playing Pokemon looking up Wikipedia flowers, right? [ALI and SLYVIA laugh] That is one hundred percent what every Elect name is, is some sort of plant name. Uh, and there was like some— there was, like, you know, some bit of, um, y'know, the meaning in the thing is tied to this or that in some way. Y'know, that type of thing. I forget what, like, any specifics on that right this second like Laurel is a very obvious one? Because of a crown of laurels evokes a certain sort of Greek leadership role, right? So the character Laurel has the name Laurel. It also evokes Laurel and Hardy which, y’know, sometimes you have a stumbling block with a name and it's just going to be there. 
+
+
+Um, but, most of the time it's not about meanings. It's not about thinking it's a clever name. It's not about it being, like, there is some unlockable truth inside of it or, like, um, something like that. It's almost always just about, like, how does this hit the ear? And partly that's because we are an audio podcast. We tell fiction through sound. Obviously, thanks to the transcribers it exists also in transcripted form but my priority is to lean into the medium that we create in and so, again, looking just at names from this season. Slow Uplight. Just feels good on my tongue when I say it and in my ears when I hear it. Tasselier Riser. Sometimes I'm trying to evoke a certain sub-genre space? 
+
+
+So you thinking about, "Hey, I'm trying to think about, y'know, what would the names in this name be like?" is not a bad thing. It's just that you can't just, like, stitch together here is a Latinx and here is a Chinese name and say that works unless you've built a world in which these cultures continue to exist and shape the world that you're in. At that point you need to really think about why are these two cultures— or not even two cultures, right? Because both China and Latin America and the Spanish speaking world more broadly are very broad multicultural places that have huge non-monolithic cultures. How have they continued to shape the world? And this is the big Firefly problem. Everyone supposedly speaks Chinese. There are no Chinese people in principal roles in that world. And it's not very clear how China shaped the history of that world necessarily, right? 
+
+
+Um, and so, similarly you should do the work to get there. If that makes sense. And likewise—the thing I'm trying to wrap back around to is—Cas’alear Rizah is one hundred percent just, “This should be someone who sounds like they're from a mid-to-late 2000s Gundam show.” And, to the point that, like, the Double O Raiser is the name of a Gundam. And Rizah and Raiser are not that dissimilar in Japanese and, like, evoking that specific sound made sense to me when I was building Cas’alear who is the most Gundam-ass character in this season even if they're not on screen very much.
+
+
+ART: I also wanna shout out in the chat when you were talking about Trio Trifecta someone said, "Otto Octavius."
+
+
+AUSTIN: Yes, totally.
+
+
+ART: Great Friends at the Table name.
+
+
+AUSTIN: Uh-huh.
+
+
+ART: And absolutely, like, silver age comic books have amazing names. As does and much less frequently but wrestling will give you some good names too. 'Cause it's the same thing, right? It just has to be big and broad and memorable and fitting.
+
+
+AUSTIN: A hundred percent. A hundred percent. This is also how you get— this is why Bluff City has so many alliterative names, right? This is Gale Green. This is Hector Hu. This is, uh, there's a bunch of them there. Some of whom I'm forgetting the names of but I return to things like that as much as I can for Bluff City because I want to evoke that part of comic book—silver age comic book—like vibes basically. I'm sure—
+
+
+ART: Yeah, if J. Jonah Jameson didn't exist, we would have to create him.
+
+
+[ALI laughs]
+
+
+AUSTIN: [amused] Yes, absolutely. Next one comes in from Tim. This is an old one that was for Sylvi, Art, and Ali and I think this might be the first Tips where the three of you have been there. Blake Bromley. Yes, good catch Morgan Jay. Or, wait. Blake Bromley? Blake Bromley is from Winter in Hieron. Then there's also Blake Blossom from Bluff City, right? Is that right? Is that—
+
+
+ALI: Oh.
+
+
+AUSTIN: Blake Blossom is the— is the actor who is in, uh, who is playing a villain in the one where there was a villain, or there was an action movie, and in the intro for one of those. And was also in Messy Business as a character who you were investigating, let's say. Um, anyway. Yes. Good catch. Um, Tim writes in and says:
+
+
+[reading] “Hello, I'm curious InSpectres [speaking of Bluff City] felt old-fashioned as a game system and all being from 2002. You talk about some of the writing and genre assumptions as well as being of the time. I'm curious of the system as well. I'm not familiar with it. 2002 must surely be the early days of narrative-first systems. More generally, what are some emerging trends in table-top game systems today that you are excited to see more of.” [finishes reading]
+
+
+I kind of felt like this could be a good question— it's been so long since we've played InSpectres, I don't necessarily expect y'all to, like, have a go-to quick take on InSpectres but I did think that, like, we've all played a bunch of different games at this point and I'm curious if you have thoughts more generally on the types of games we've played, stuff you've been interested in, um, stuff that you know is out there that you want to see more of, etcetera. For people who don't remember InSpectres—InSpectreswas the— go ahead, uh-huh?
+
+
+SYLVIA: I was just gonna say, like, I don't— I never felt like— InSpectres did have elements of it that were a little, like, chunkier here and there if I'm remembering the actual rolling mechanics.
+
+
+AUSTIN: Yeah, yeah.
+
+
+SYLVIA: But I really like the stuff that it had, like, the, um, cutaways you could do—
+
+
+AUSTIN: Confessionals almost.
+
+
+SYLVIA: —and have those affect the narrative. Yeah. That helped keep it feel fresh opposed to just playing an old, like, World of Darkness Hunters game or something.
+
+
+AUSTIN: Right. Totally.
+
+
+SYLVIA: Or, like, similar-ish.
+
+
+AUSTIN: Yeah. That same author, Jared Sorensen, also wrote Lacuna and I think Lacuna as a book is much more dated in terms of tone because it's playing a kind of a edgy narrative— well, not narrative, but, like, voice of the writer is much edgier there than it is in InSpectres where it's kind of goofy. And it turns out in the last ten years that more like bumbling goofy, we're-a-bunch-of-ghosts-hunters vibe has been normalised in a way that the kind of edgy, y'know, stuff in Lacuna, kind of, did not. Let's say. We've moved away from that voice a lot. 
+
+
+But rules-wise, I think both of them are in line with a lot of what we've seen lately. Uh, you know I think that the— the thing that's interesting about both of those games, Lacuna and Inspectors, is that they have a similar thing to what I see a lot of today which is very strong non-agnostic, like setting agnostic, very specific focuses for what the game is going to be. 
+
+
+This is not just a supernatural game. This is a game where you are kind of, like, um, freelance ghost hunters with all of the money concerns that come from that. You are not just— this is not just a game about, like, neo-noir supernatural investigations. You are a part of this agency that has this culture and, y'know, these sort of relationships between the agents. And that I feel like was ahead of its time in many ways 'cause so many games come out now with very sharp premises.
+
+
+ALI: Yeah, I, um— I remember, like, encountering InSpectres it did seem sort of, like, it was just like another... it was, like, weird to try to, like, click your brain into a new mode of playing for it. The, like— the, sort of, setting table slash, like, board stuff was kind of tricky with that. And I— Capers was also a little bit of a hurdle.
+
+
+AUSTIN: Oh, Capers was rough, yeah.
+
+
+ALI: [laughing] Just 'cause—
+
+
+ART: Oof.
+
+
+ALI: You know, there were pros and cons with Capers is what I'll say. Um, but, probably too many moving pieces. Too many things to go back to. I feel like that's the thing, especially as I've been, like— I have a side group that I play games with now, at least I try to sometimes. And as I, like, sort of introduce things to them it's tough to realise or to sort of have a system where what you're doing a lot of the time is, like, referring back to specific rules that are coming up in, like, specific situations or something like that. That will sometimes be really tough. But, y'know, in terms of, like, trends and stuff I guess I don't, uh... I guess I'm not, like, cued in enough? On the "scene" quote unquote?
+
+
+AUSTIN: Mm-hm.
+
+
+ALI: To really identify those things. I— there was a thing you said the other day or— the other day and also a couple minutes ago about, like, games sometimes seeming more like poems than engines. And, I tend to like something that is a little meatier.
+
+
+AUSTIN: Mm-hm.
+
+
+ALI: But, y'know, the idea of something that, like, five people could read in twenty minutes and then, y'know, have a fun experience where they tell a story together is really ideal so, like, I don't want to, like, thumbs down on that. But…
+
+
+AUSTIN: Yeah, I think small stuff can be great, like, Bell Songs to me comes to mind as a game that we played that's a short simple book that was, like, very hearty in what it could produce.
+
+
+[00:30:02]
+
+
+ART: It's so weird to think about, like, trends in game design as a thing that any person could talk about with any sort of authority, y'know?
+
+
+ALI: [laughs] I mean people try to.
+
+
+ART: It's impossible to try to know the market in that way. I think it's like— y'know—
+
+
+AUSTIN: I think it's gotten tougher.
+
+
+ART: Yeah. 'Cause there's so many streams. Some people are making, like— we seem to tend toward, like, more narrative-focus less complicated stuff. Although, like, there's a fair number of record-keeping you have to do with Forged in the Dark but, like, it's going the other way in some places, like, Jess is learning D&D right now and sometimes I, like, will be up there and I'm eavesdropping on what they're doing and, like, they're just having long conversations about, like, commerce.
+
+
+AUSTIN: Right.
+
+
+ART: And they seem to be having a decent time that I can't imagine doing that kind of—
+
+
+AUSTIN: Playing that game. Good point. Yeah.
+
+
+ART: Being like, "Well, I'll sell and then I this and we'll buy some new bags," and, like if that takes more than thirty seconds I'm, like—
+
+
+[SYLVIA and ALI laugh]
+
+
+AUSTIN: Uh-huh. Um, the thing I'd say is we are in the middle of seeing, um— I mean, we at Friends at the Table are not especially, like, plugged into the OSR stuff. The kind of old school renaissance or old school revival depending on what you want your "R" to stand for. Stuff where it leans into some aspects of earlier table-top RPG design especially that style of early D&D and related stuff. But that stuff is really blooming and I think we're starting to see the synthesis with some story game stuff. You know, Kazumi Shin just put out a game called Rouge Second Edition that is a pretty interesting blend of story game and OSR stuff. 
+
+
+I know people who are deeper and deeper into OSR as, like, an interesting space. The hardest thing for me is, I don't know where to go to keep up stuff anymore. I'm not on the Gauntlet Forums. I know it's a popular forum but there was a time where I was, like, reading story games on the forum every week. There was a time where I was reading The Forge every week in the heyday of The Forge. Google Plus was a place where I followed table-top RPGs constantly and it's gone. And so, it's kind of scattered and a lot of it's on Discords and I'm not on those Discords. So it's hard. So, I don't know.
+
+
+ART: Well especially 'cause Discord feels so much more—
+
+
+SYLVIA: Involved?
+
+
+ART: I feel culpable for anything that happens on a Discord I'm on in a way that I, like, have to be more cautious.
+
+
+AUSTIN: Yeah, I enjoyed my time on the Beam Saber Discord and really enjoyed that process but that was such a specific singular thing and I don't know that I'm in a place where I would feel comfortable in a general purpose table-top RPG Discord where, like, I don't know, y'know it's tough. It’s tough. I am a public figure in this space in a way that there are certain expectations and I don't want everyone to feel like the hall monitor has shown up. Nor do I want to feel like— y'know. I don't want to feel like someone should feel like they should market their shit towards me if that makes sense. That can always feel weird, so. So yeah, that's what I would say. 
+
+
+I really want to check out the Agon and the PARAGON stuff. Agon is a game by John Harper that is, like—John Harper and Sean Nittner—that is a kind of Greek epic-style adventure game. Because that is now also being blown up into the PARAGON system as the kind of PBTA or Forged in the Dark equivalent. The big thing for us, the thing that I want to do for us that we just haven't gotten to is Belonging Outside Belonging No Dice, No Masters stuff. 
+
+
+Dream Askew. I really want to get back to our Dream Askew game. I want to play some of that stuff because we just haven't? And I'm— I'm not one hundred percent sure that it's a great fit for us but I want to find out and so. Y'know for those of you in the call who don't know that stuff or those listening to the podcast,I guess, who don't know how Dream Askew and related games work—I'd say the two big things is that you're never rolling for anything. You have characters who can do things based on spending tokens and they can earn tokens by doing things that are not ideal for them. 
+
+
+So, y'know, maybe they have something that says, like, y'know, do something that will get you into trouble. Do something that will draw— you do something that will draw attention to you but by doing so you get a token, right? And then— and then you'll also have something that is a free move that is, like, “Put attention on someone else and maybe you have something,” that has a token spend as, like, y'know, “You and your friends are able or you and your party are able to duck attention altogether,” and then— but you're kind of, like, playing with all of those things together in a way that— um, ends up being kind of interesting. And we just haven't done that. 
+
+
+The other half of those games tend to be shared GMing where, like, Art, you would be in charge of religion in this game so anytime someone prays we would turn to you and that would be your kind of domain of narrative authority. Someone else might be in charge of crime. Someone else might be in charge of the economy. Or something like that, right? I would say Dream Askew has different things. Dream Askew has or, like, nature, weird things, humans from other groups, or something like that. But I'd like to try one of those for us and just see how it really fits. For sure. Um, let's say given out Internet problems we should do one more of these and call it because we did our best. This one comes in from Arp who is a mod in the Discord. Thank you Arp, as always for being so good there.
+
+
+[reading] “How do you build momentum for a new season both as a game runner and as a player, especially coming off a big campaign/season? Are there any fun ways you have encouraged players to try engaging with new systems and new play-styles while being sensitive to their comfort zone?” [finishes reading]
+
+
+ART: I don't think that getting excited for a new season is not hard. Getting excited for the third arc of a season is hard.
+
+
+SYLVA: Yeah?
+
+
+ART: I'm always ready to have a new idea. I never like babysitting my old ideas.
+
+
+[ALI laughs]
+
+
+AUSTIN: Yeah. Well said.
+
+
+ALI: Um, yeah, I guess I do sort of agree because I definitely— [laughs]. I don't want to say the height because there are still things to come but I feel like the most I've been excited about season seven was, like, four months ago. [laughs]
+
+
+AUSTIN: Yep.
+
+
+ALI: When, like, I was, like, I get Braun. This is fun. This is easy to do. And now the closer we get to season seven I'm, like, “Uh-oh.”
+
+
+AUSTIN: Yeah.
+
+
+ALI: Wait a minute. Um, I have to think about this now and make decisions and I hate making decisions. It's very bad to do.
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: It's so hard. It’s so hard. And we don't even one hundred percent know what we're playing yet. We don't one hundred percent know setting stuff. Like, there's so much stuff that is still up in the air that I feel like we're at the point where all of the questions are stressful to answer right now? I'm with you that four months ago was when I was excited. So, I think I'll get there again. We just need to get through the rest of PARTIZAN and etcetera.
+
+
+SYLVIA: I'm so excited for season seven.
+
+
+[everyone laughs]
+
+
+AUSTIN: Yeah. Yes.
+
+
+SYLVIA: Like, this is always kind of my thing though is I always when we get in the finale season I'm always sort of thinking about, like, my next character and what stuff I want to do differently. Because, like, whenever we're coming off of something I'm, like, “Okay. How can I try and have a slightly different, like, play-style this time?” Or, like, have my character been in a different position at the very least? So I went from Ephrim who was, like, position of power throughout his entire thing—
+
+
+AUSTIN: Right.
+
+
+SYLVIA: —to, like, Echo and Millie who were both people who, like, had to struggle in a lot of ways.
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA: But also all three of them are very different personalities in my opinion. And so, like, part of the fun when we get towards the end of a new season or— towards the end of the season is figuring out, like, what I want to do next time? And, like, how I want to change things up next to time and do something that's kind of out of my comfort zone.
+
+
+AUSTIN: Yeah, that makes sense. You know for me as a GM, the question of, like, can I encourage players to engage with new systems and new playstyles? The best I do there is, like, encourage when I see someone have a spark of an idea in that direction. Um, I— I guess you could tell me if I'm wrong about this but I don't know if I often shut down, like, something because it's too similar? Because I find that's a really easy way to lose faith with someone and be, like, "No, your idea is bad." I think what I do maybe more is I try to talk about the ways in which someone's idea might be not, y'know, might be going the reverse direction from where the season is going, right? 
+
+
+So, like, a good example of this is the way we got— Dre and I arrived at Valence after a lot of conversation in which Valence was maybe more psychic and powerful in that way than was right for the season. Or I think someone else maybe had a hacker character idea early for PARTIZAN. And well this isn't— this isn't a hacking season in a big way. Or at least it won't be out the gate. By the end of it, we could be doing some hacking stuff but we're not— there is no Mako Trig equivalent here where you're going to be mind hacking or Tender Sky. Y'know, like, that stuff just isn't the forefront of this season. And so that tends to be the way I kind of interrogate and push on people's characters. 
+
+
+Much much less so do I say, "You have to shake it up and try something different." But, I also really really enjoy it? When people shake it up and try something different and I do let that be known. But I think that that's— there's a limit to how much I can do with that, y'know? I'm not— I'm a GM and a player and I, y’know, take the responsibility of being a showrunner which is to say when something goes bad it lands on my lap and I take that responsibility. But I don't exert authority. I try my best not to exert authority like a showrunner does where I can just say, "No, that character doesn't work. I need you to come up with something better." Or new, or whatever. Because— because I think that's a— I think that would be a rough way to run this fucking podcast that needs a lot of buy-in. [ART laughs] Y'know?
+
+
+ALI: Yeah.
+
+
+AUSTIN: Yeah, I don't know. I think most people don't have a hard time. I think most people in the podcast default to, "I want to try something different," everytime so. Y'know. I don't have to work that hard. Um, any final thoughts on this? I guess one other thing for me is that, like, I build momentum by finding loose ends of prep that I want to play with. With PARTIZAN it was so easy because with Drawing Maps at the time I just had so much material to work through and building a setting in a Forged in the Dark game is the exact right amount of work to where you start to build something together with lego blocks and next thing you know you've built an entire lego city. You don't need to build it all at once. You can build a little house over here and then a hospital over here and then, y'know, you can build your school district over here and, like, next thing you know you have a huge lego city. And that is the way that Forged in the Dark games work. 
+
+
+But not all games work like that in terms of the prep. And so, I don't know if what we do next will have that same degree of, like, automatic momentum generation? Also, Beam Saber was definitely the most Austin Walker game we've played. By far. Up and down from theme to the way it encourages factional play and politics and drive clocks and all that other stuff is so in my wheelhouse and so to some degree it's about vibing with the theme. And I'll get there for season seven but it's a matter of, like, needing to sit with a theme. Psych myself up by watching shows, or reading books, or playing video games. Something that helps me sit in that space and generate excitement and start bubbling my brain juices until I have stuff to play with, y'know.
+
+
+ART: Yeah, when we get off of this I wanna ask you about something you may or may not have seen.
+
+
+AUSTIN: Yeah, sounds good. Speaking of getting off of this I think we're going to get off of this right now. Thank you for listening, everybody. Sorry for the bad Internet stuff for people who were trying to watch live. Unfortunately that's how this shit goes sometimes. I don't have another Internet provider I can even choose if I wanted to. So. Oh well. I'm Austin Walker. You can find me on Twitter at @austin_walker. Where can people find you Sylvi?
+
+
+SYLVIA: Yeah, I'm on Twitter at @sylvi_surfer and my podcast Emojidrome is probably on your podcast app.
+
+
+AUSTIN: [laughing] Art?
+
+
+ART: Hey, you can find me on Twitter @atebbel and I am thrilled to not have [unintelligible] anymore. It's the greatest day of my life. I could never leave where I live right now or they'll get me again!
+
+
+AUSTIN: [laughs] And Ali.
+
+
+ALI: Hi, you can find me over at @ali_west on Twitter and thanks for listening!
+
+
+AUSTIN: Uh, and, uh, as always you can always support us by going to friendsatthetable.cash. I hope you enjoy all the stuff that we're going to be doing over the next month! Yeah, we'll see how it goes. Until then. Bye-bye.
+[00:44:19 END]

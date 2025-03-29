@@ -1,0 +1,1376 @@
+﻿Tips at the Table 37: Thinking About Planets & Eating a Donut (July 2020)
+Transcriber: 00:00 - 00:30:20: Tor (@torelk#5673), 00:30:20 - 1:33:39 (mo#3372)
+
+
+AUSTIN: Welcome to Tips at the Table, an actual-question-answering-livestream, I don’t know why I don’t have the right notes here in front of me, focused on critical questions, hopefully smart answers, and fun interactions between good friends. I’m your host, Austin Walker. Joining me today, Ali Acampora?
+
+
+ALI: Um, hi! You can find me over at @ali_west on Twitter, and you’re supporting us on Patreon, so you probably know [laughs] you can find the show at @friends_table.
+
+
+AUSTIN: That’s true. Andrew Lee Swan?
+
+
+DRE: Hey, you can find me on Twitter at @swandre3000.
+
+
+AUSTIN: And, Jack de Quidt.
+
+
+JACK: Hi, you can find me on Twitter @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Um, a couple quick things before we get into this. The first is that everyone should expect a bunch of updates soon, across the various Patreon things. Ali and I have done – Ali did a great index, I immediately got to work on the stuff that was indexed, in terms of what we need, we got stuff coming across Mapmaker, across Pusher, across, more Lives on the way, more Bluff City on the way, anything else I’m forgetting here, Ali?
+
+
+ALI: Um, yeah, new Bluff City tomorrow, more Clapcasts are going to be coming –
+
+
+AUSTIN: [interjecting] Whoa! Tomorrow? –
+
+
+JACK: More Bluff City tomorrow?!
+
+
+ALI: Yeah!
+
+
+AUSTIN: Is it the end of this Bluff arc?
+
+
+ALI: There’s two more episodes. 
+
+
+AUSTIN: Okay.
+
+
+JACK: Damn.
+
+
+ALI: There’s the one tomorrow, and then there’s going to be another one the next week.
+
+
+AUSTIN: Okay. Sick.
+
+
+ALI: And then, yeah –
+
+
+JACK: [interjecting[ We’re good for music, right?
+
+
+AUSTIN: Well, yeah, until we do the next one, Jack.
+
+
+JACK: [laughing] Yeah, okay.
+
+
+ALI: [sighing] Yeah, the next one has –
+
+
+AUSTIN: Well, we know the vibe of the next one already, so that shouldn’t be too bad.
+
+
+JACK: Oh yeah.
+
+
+ALI: Mhm, yeah yeah yeah.
+
+
+AUSTIN: I just have to prep it and, yeah.
+
+
+ALI: Mhm. Clapcasts are coming – Clapcasts are tough, because there’s a bit more – 
+
+
+AUSTIN: [interjecting] Clapcast just dropped, right? [ALI: Yeah, yeah.] You just dropped one, too. You just dropped, like, a hearty Clapcast.
+
+
+ALI: [laughing] It was a very healthy [laughing] uh, Clapcast – 
+
+
+AUSTIN: Pre-Thanksgiving, Thanksgiving-serving sized Clapcast.
+
+
+[JACK hums in agreement]
+
+
+ALI: Yeah. [laughing] It was our big holiday special Clapcast, with all of us together, so, you know, a big occasion. But yeah, without going too much into it, if anyone this past year has been like, why has Ali seemingly lost her mind and also not as much on Patreon stuff anymore? Don’t worry about it, but also – [laughing]
+
+
+[DRE laughing]
+
+
+AUSTIN: Uh-huh. Long year.
+
+
+ALI: It’s been a long – yeah, yeah yeah.
+
+
+AUSTIN: No, yeah, it’s been a very – been very good to have you back full time, [ALI: Hi.] we were able to have you – by “we” I mean me, Ali and me, it was like, here is what we need, Austin, go, and I was like, okay, and listen, I got – I sent you a picture last night, of all the new Mapmaker shit that I compiled yesterday, so that’ll be literally a year of Mapmaker stuff coming out in the next week to month. I have it all now, I just need to, like, put it up. So get ready to see character sheets from after every single Partizan mission, plus all the Live stuff, and some Bluff stuff, if that hasn’t – I think all the Bluff stuff is up – oh, Capers, Capers has to go up still. Maybe I’ll just – hmm, I’mma just drop that, cause there’s only like one sheet in there that’s a spoiler, and I’mma just say, don’t look at that one. [everyone laughs] I’ll just say, don’t look at that one.
+
+
+JACK: “That one’s on you.”
+
+
+AUSTIN: “That one’s on you.” 
+
+
+ALI: [??? unintelligible, 03:14] Just, track it. Just schedule it.
+
+
+AUSTIN: No, cause the timing on it is, such a pain. I – we have a schedule, it’s a whole thing.
+
+
+ALI: Okay. [laughing]
+
+
+AUSTIN: I don’t want it to just be Shooting the Moon, you know what I mean?
+
+
+ALI: Right, fair. Okay.
+
+
+AUSTIN: It’s fine. It’s fine. It’s fine.
+
+
+ALI: [laughing] It is fine.
+
+
+AUSTIN: That was one. Two, is I want to encourage people to go watch the Omniblades in the Dark game that I ran for N7 Day, for BioWare and Mass Effect last weekend, Ali was on that, and then also on that were some great devs from BioWare, Katrina Blackwell, I think Blackwell, and Boldwin Lee, and then Mark Meer and Jen Hale, the voices of the two Commander Shepherd characters, and we ran a Forged in the Dark game that was extremely fun. It was a blast, and also, let me tell you, you ever work with a company that has a budget, and suddenly there’s production value on that shit? They got some 3D maps and shit going on? It’s wild. [DRE laughing] Um, one of the Mapmaker updates is going to include my much rougher maps and shit that we actually used while playing, so look forward to that, also. That was a very fun – that was a very fun session, I think. Ali can vouch.
+
+
+ALI: Yeah, yeah yeah yeah. It was very good, a fantastic one-shot, Austin did a great job, all of the characters were really good –
+
+
+AUSTIN: It was wild, they cut that down to three hours, somehow. I guess we took breaks, right?
+
+
+ALI: Yeah.
+
+
+AUSTIN: So that makes sense. [ALI laughs] Anyway. Yeah, it was great, so go check that out, and I’m gonna do a Drawing Maps for that, sometime in the next week or so, once people get a chance to see it, so look forward to that, also. Uh, any other announcements, or anything, before we hop in? [pause, silence] Alright. Let’s do it. This first question comes in from Dameon, very concerned, “How’s Zreg doing?” [JACK laughs] “Y’all still use craig.chat to back up your audio? If so, have you run into any problems with it, and has it come in handy? If not, what made you stop using it, and did you find a better solution?” Ali?
+
+
+ALI: Hi. So, yeah, we let Craig go. 
+
+
+[everyone laughs]
+
+
+AUSTIN: Wooooow. 
+JACK: Damn.
+
+
+ALI: [laughing] I mean, Zreg is like, still doing their job out there, for other podcasts – 
+
+
+JACK: I think it’s still –
+
+
+AUSTIN: Not in our chat, though. 
+
+
+ALI: No, no.
+
+
+AUSTIN: We have another different bot that just sits in our chat that we’ve literally never used. [ALI laughs] It’s a calendar bot, we’ve never used it.
+
+
+ALI: Yeah...yeah.
+
+
+JACK: We keep an eye on them.
+
+
+ALI: Yeah, it’s a good idea, maybe we’ll use it.
+
+
+AUSTIN: It seems fine. Yeah, maybe we’ll use it. 
+
+
+ALI: Um, no, Zreg was a good idea, in theory, um, but the – 
+
+
+AUSTIN: Can we set up what Zreg is, or what craig.chat was? 
+
+
+ALI: Oh, sure, sure. [laughing] I feel like I don’t even remember anymore, but it was like, a bot that would join you call for you, [AUSTIN: Yes.] and record the call –
+
+
+AUSTIN: Yes, and even record, like, if people set it up right –
+
+
+ALI: Like, record us separately –
+
+
+AUSTIN: Yeah, it would record separate files from people, which was huge [ALI: Yeah.] as, like, an ideal for backup stuff. 
+
+
+ALI: Sure.
+
+
+[pause]
+
+
+AUSTIN: But.
+
+
+[ALI laughs]
+
+
+ALI: The only thing is that, I don’t think that second part ever got set up correctly, and if it did, it was never reliable enough to actually download when I went to go download it from the Craig servers.
+
+
+AUSTIN: I very much got the impression that Craig was built for hour-long conversations between two to four people and not –
+
+
+ALI: Yeah. Other podcasts are that. [laughing]
+
+
+AUSTIN: Right. And not four-hour-long conversations between four to seven to eight people. 
+
+
+ALI: Right, mhm.
+
+
+AUSTIN: It – and the thing ended up being that, like, the worst thing in the world would be to have Craig drop out in the middle of a dramatic scene and then be like, “Ugh, we have to restart Craig, sorry, one second, can everyone leave the call – “ [all laughing]
+
+
+[[7:08]]
+
+
+JACK: [imitating Craig in a deep robotic voice] Hello.
+
+
+[DRE and ALI laughing]
+
+
+AUSTIN: “Hello,” yeah. Can we get – [laughing] “Joining,” or whatever it was that Craig said.
+
+
+JACK: Yeah, that’s the other thing about Craig. Craig announced his arrival every single time. I think he made a beep, and then he said something like [deep robotic voice] “Hello.” 
+
+
+AUSTIN and ALI: [deep robotic voice] “Now recording.”
+
+
+AUSTIN: Yeah.
+
+
+[all laughing]
+
+
+ALI: Yeah, like a –
+
+
+DRE: That’s what it was! Yeah.
+
+
+AUSTIN: “Now recording,” yeah. Yeah, I liked Craig, conceptually I’d love another solution for that, cause right now the backup solution is – here’s the thing, I genuinely believe this, is, life has been very hectic – we haven’t used Craig in probably over a year, so it’s pre-COVID, but life was hectic even before that, for a lot of us, and it’s only gotten even wilder in 2020. I am certainly someone who retreats to the kind of, like, security of a system that works, that you know the ins and outs of – it’s why I still don’t use Notion, why I don’t have an internal Wiki system for keeping my stuff, and instead I just have, like, Google Doc pages that go on for hours and hours and hours, because I – the Google Doc system works for me in a way that is silly. Even though it’s not ideal, even though like, my brainstorming Google Doc document is like 80 pages just for Partizan, not including the Rapid Evening and SBBR breakdown docs, not including the intros and descriptions doc, like, that shit is, it’s, okay, I can open it up and just do it? Done. [ALI laughs] 
+So what we do now for backups is what we did before for backups, which is, I run an OBS, and I hit record, and record an MP4 [ALI: Yeah.] or a FLV while recording to have that backup available just in case. And then I drop that into Audacity, I export it as an MP3 or a WAV depending on what quality we need from it, most of the time it’s just an MP3 so we can do like a lineup thing, or hey, if there’s, something got weird, or someone’s file got mixed, I’ll do a WAV so it’s higher quality, so we can drop in whoever’s voice got messed up on their file, like, whatever it is. But that’s basically what I do. 
+Ideally, I am someone who wants two backups, like – redundancy is a thing that you don’t want in your budget but that you do want in the outcome stage of your life, because, especially with production, like, something going bad can be really really costly in terms of like morale, and like, hours trying to fix it. So I would love to have a different backup, a second backup going on each of these recordings, but we’re just not there right now. And hopefully – if someone has a suggestion, who’s listening, is like, “oh, there's a thing better than Craig, we use blah, and it works great for 4 hours and 8 people – “
+
+
+ALI: Yeah. I mean, honestly, the other problem with Craig that we didn’t really get into is that, like, our production is so distinct from when we record things, that when I would go to Craig and be like, “hey, can I have my files?” They’d be like, “I don’t know...no? [laughs] I don’t have it anymore.” Which is not good.
+
+
+AUSTIN: “It’s been a month! I have to clear the space out for other people!”
+
+
+ALI: Yeah! So, yeah – 
+
+
+AUSTIN: Also, I’m on the Craig site right now, and it says, “Due to both Discord and Craig being overloaded, Craig is having occasional connectivity issues. Do not report them to the support server. We are aware.”
+
+
+[ALI laughing]
+
+
+JACK: Aww.
+
+
+AUSTIN: [dismissively] Like, okay. 
+
+
+ALI: Yeah. I think maybe two people doing an OBS is – [laughing]
+
+
+AUSTIN: Yeah, I’m fine with that, honestly. 
+
+
+ALI: Because in the long run, that ends up being, like, on the production side that ends up being way easier because, like, if someone’s file fucks up, the way that it usually does is, like, oh, this specific interaction is really bad, or it’s the thing of like, there was a hard drive issue, or like, a weird Audacity saving issue, where like, it’s not that their audio is fucked up but that their file is shorter than it should be, because just like, pieces of it have fallen out of it [AUSTIN: Right.], um, so, like, having a full thing that’s like, here’s everybody, in sync, the way that we were talking, to compare to all of this other shit, ends up being more of a help than like Craig would’ve given us.
+
+
+AUSTIN: Yes. Huge help. Totally, totally. Alright. Next question comes in from Barry Biscuit, who says, “I was wondering what you would do if you have a player who takes too long to make in-game decisions (I’m talking 10 minutes for a simple choice) and how does one hurry them up as it’s killing the pace of the game. They don’t have issues making big choices, it’s just tiny mechanical ones. They aren’t a new player, they’re the other GM of this group. This specific instance is in a Beam Saber downtime. They literally spent 10 minutes trying to work out the best way to repair their mech/heal themselves. Despite the other players taking one minute tops with me walking them through all the steps. This issue seems to stem from some desire to avoid committing to a decision. How do I move things along before I get annoyed and start ticking clocks and doing rival moves?” 
+I just want to open up by immediately saying, that the best step is probably to take a step back and not jump to a sort of diagnosis of why they might be doing it. We do not know what is going on in other peoples’ minds, at the table or off, so we don’t – it’s not productive to jump to, “I think that this player doesn’t want to commit to decisions,” or something like that. There’s a lot of reasons why someone might look at a decision like that and take a long time. And I think for evidence of that, you can listen to the last year of Partizan [all laugh] in which we’ve had this thing happen many many many times. Um, I don’t think that it’s outlandish to look at a system like this, which has a lot of pretty complicated healing rules that can be maximized – and I know this because we have evidence from the last year, when something isn’t optimized, people will tell us, via Twitter or the Discord, “why didn’t they just do this more optimized thing” – and so, looking for that optimization, one, can be pleasurable to some folks, two, can feel really bad to know you’ve missed that optimization, three, can be hard. 
+And so for me, like, I know the answer you’re looking for here isn’t like, be patient and let things slow down a little bit, but 10 minutes is not that long in the grand scheme of things, and I say that as someone who frets constantly about the pacing of the show that we put out. But what I don’t want to do is rush players through decisions where they are emotionally or intellectually interested in going slow. If it’s a real problem for everyone at the table, then we can talk about what solutions exist that look like taking that decision away from the table and making it an off-table decision. “Hey everyone, we’re gonna be doing a downtime this episode, can everyone decide on what their actions are ahead of time so we can come to the table and just do them.” That way, at least, if the person still wants to take that time they can take that time. But, I really just don’t think that the attitude of, like, “the pacing gets killed during downtime” [JACK: Yep.] is one that produces a table environment that’s going to lead to good play from anyone involved. [pause] Not to be, like, a scolding teacher about it [all chuckle] but I do really feel like that.
+
+
+JACK: Nah, I couldn’t agree more, I think. I think that, like, you saying that 10 minutes is not a long time, it’s especially not a long time if what you are doing is dealing with the comfortable play of another player at the table. Um, you know – if it’s just, we’re doing a 10-minute goof about different cookie ingredients, that might be one thing [ALI and DRE laugh] but if it’s someone taking their time to work something out, saying like, “oh, I’m not prepared to afford them 10 minutes,” I think is, is moving too quickly. I think that saying “let’s take it out and let’s” – if it is something that’s affecting the whole table, saying, “let’s look at this beforehand,” works really well, and I think a lot of our most fiddly stuff in Partizan you do tend to come to us beforehand, right? Like the example you gave of, like, “yeah, we’re doing a downtime action, and you need to pick moves for x, or can we work out moves for y.”
+
+
+[[00:15:05]]
+
+
+AUSTIN: Right right right. “Can we –”
+
+
+JACK: Or stuff that we would spend – we would spend an hour on, if we were all sitting and talking, and we have in previous seasons, right –
+
+
+DRE: Mmmmhm.
+
+
+AUSTIN: Totally.
+
+
+JACK: – where we’ve like, tried to workshop bonds on the air. And we have come to those decisions, which is like, okay, this, the pace here isn’t moving quite how we’d like, so let’s come to sessions with these things. 
+
+
+AUSTIN: But also, we make a show.
+
+
+JACK: Yeah. Right.
+
+
+AUSTIN: And pacing…[sigh] Two things. One, our shows are edited, at least to some degree, and I know Ali doesn’t cut good stuff out of these episodes, I think it’s like, still a popular misunderstanding that like, Clapcasts come from conversations that happen during play, which is not like, there is not good jokes being cut from the show while we’re supposed to be doing math, or something. [DRE and ALI laugh] 
+
+
+JACK: There’s that whole bit where we talk about buying a boat, in a show, right?
+
+
+AUSTIN: Uh-huh. Yes, correct.
+
+
+ALI: Yeah, that’s an episode of Hieron. That’s just – [crosstalk] at least 40 minutes of [???16:00]
+
+
+AUSTIN: [crosstalk] That’s in the episode.
+
+
+JACK: [crosstalk] It’s just about going and buying a boat.
+
+
+AUSTIN: A hundred percent. [ALI laughs] It’s a good boat. Anyway. Uh, it’s a nightmare. Anyway. The – the, [sighs] I hate that we have to think about pacing. It’s like, this is the double-edged sword, is like, I think that we have to think about pacing because it’s a good show, and we want to make a show that’s listenable, but play doesn’t need to be paced for consumption besides anyone than the players. And again, I – if the mood at the table is like, “ugh, why won’t this person just make their decision,” then I think that that’s a larger conversation, and my guess then is, we’re not just talking about 10 minutes, because otherwise I think that’s a pretty wild reponse to 10 minutes during downtime, and maybe you’re underselling what the dilemma is, if the whole table feels that way. But the play shouldn’t need to feel rushed. 
+Like, we finished an episode of Partizan a couple of nights ago in which we made a decision based largely on there being – not largely on, but like, “hey, we have a hard out, we would like to wrap this arc, and we don’t wanna just pause play here, cause this is not like, we meet every Thursday to play the game, this is, we’re on a schedule for recording, we need to have the end of this episode recorded so we can plan with the thing that happens next,” and that is frustrating to me as a GM, even though it’s requirement of me as someone who helps make this show, to try to – does that make sense? [JACK: Yep.] I’m trying to think if I have a more material example of that, but I think that that makes sense. Um, it’s just tough. It’s just tough, and you shouldn’t – at home, people running their own games should not feel compelled to have breakneck pacing, especially during downtime. I don’t know.
+
+
+ALI: No, yeah, I definitely agree. And I think that like, two things about what you said, and what hit me on this question is like, first, mentioning that like, being like, “oh, we know we’re having a downtime this week, if you wanna think about what you’re doing in advance,” has been such a help for me with Beam Saber. I think that we’ve mostly done it because it’s like, there’s 7 of us, we really need to figure this out. [AUSTIN: Yeah.] But I feel like, just having the, like, [muttering as though it’s a secret] people aren’t looking at their character sheets unless they’re at the table, you know? [AUSTIN: Mhm.] You know? They say they’ll do that, but they don’t. [laughing] But if you nudge them a little bit – 
+
+
+AUSTIN: Oh, I know, Ali. Uh-huh.
+
+
+[ALI laughing]
+
+
+ALI: Unless they’re me. Um, I – [laughing]
+
+
+AUSTIN: Yeah, I caught you in there the other day. I was like, “what the fuck is Ali doing looking at this character sheet right now? God damn.”
+
+
+[ALI and DRE laughing]
+
+
+ALI: Um, but I feel like, you know, especially for Beam Saber, just having that straight out, because when a downtime is coming, you know it’s coming, and I feel like having,  thinking about it in advance has lead to the, the sort of good kinds of conversations, of DMing you and being like, “well, which moves should I take?” or whatever – 
+
+
+AUSTIN: Yeah, or, “I really want a scene where I yell at Jesset. [ALI laughing] Can we get there this downtime.”
+
+
+JACK: Oh!
+
+
+ALI: [still laughing] I think randomly at 11 pm I was like, hey Austin, here’s a flag. [AUSTIN: Uh huh. Yeah.] I wanna beat up Jesset City.
+
+
+JACK: “Jesset fight, please.”
+
+
+[all laugh]
+
+
+ALI: The second thing about, like, I guess, the wording of this question, a little bit, is that like, figuring out the best way to repair your mech and heal yourselves is like, a huge decision, in a Beam Saber downtime. Like especially - 
+
+
+AUSTIN: Especially if you’re using the default healing rules, right?
+
+
+ALI: [fervently] Yeah.
+
+
+JACK: Oh, god.
+
+
+AUSTIN: Like, we use the light healing - you have to remember, we’ve played this whole campaign using the healing rules and the repair rules that are soft, that are kind. The default healing rules are brutal in this game. No healing level one harm on any heal roll; you have the fill the fuckin’ heal clock to heal a level one harm in that game, normally. Anyway.
+
+
+JACK: Jesus.
+
+
+ALI: Yeah. So, yeah, I mean, that’s definitely something that like, is worth giving someone the time to like, sit down and consider. I understand if there would be frustration if it’s a matter of like, yeah, we all only have this one hour a week and wanna do our scenes. So, I get it, but like, this isn’t like, a small decision to make. I guess I’ve also been, like, the indecisive person at the table, and I know what it feels like to just be like, I don’t wanna have to make the decision! [AUSTIN: Yeah.] And, you know, you have to. As the GM, you’re in the position to be, like, oh, well, maybe this would be the best way for you to do your heal, or whatever - cause you’ve walked other players through it, maybe suggesting some things, just to get them to the baton pass, you know? But like, you know. It is such a thing worth really considering, in Beam Saber especially, that like, you know. It’s worth giving them the time to think about it. And then being like - you can call on them first, and then they’ll say what they’re like, thinking about, and then be like, okay, you think about that while we do these other things. And then everyone else can go around and do their healing, or whatever. 
+
+
+AUSTIN: Yeah, definitely. Knowing it’s coming should definitely help you signal at the table that like, yeah, go ahead and start thinking about this now. And that can definitely help. Dre, do you have any other thoughts, or should we move on?
+
+
+DRE: Yeah, I mean, the thing I would say here is, you know, as we’ve said before - as we just said, not as we said before, as we just said - you know, 10 minutes is not that much time, in the grand scheme of things, but I can definitely think of instances where 10 minutes has felt like forever to me. So I think it’s worth reflecting on here, like, what was going on that made 10 minutes feel so long? Have you all been playing for like, four hours and downtime is the last thing everybody does before you go to bed? [AUSTIN: Mmm. Right.] Like, I could see there where 10 minutes is like, oh my god, I’m so tired, can we just - can we just be done, and do this. And so like, do you need to play at a different time, do you need to monitor how time is done, or - like, I play in a campaign where we do downtime like over Discord between sessions, and it’s much more freeform because, like, we’ve run into that wall, where it’s the end of a session and we are all tired and we don’t wanna do downtime, but we also don’t want it to take up a lot of time at the start of the next session.
+
+
+AUSTIN: Right. Which we do also, just not for your side of downtime, but for my side, like - as written, we’re supposed to spend, at the end of every mission, me going over your reputation gain and loss, your money situation, your resources situation, every little - was a VIP harmed, were the rules of engagement broken? I do that off mic and tell you about it, because, early in the season we tried doing it that way and it was exhausting, because we’d just finished recording for hours, and wrapping back around to it at the end was just - not the way to do it. Identifying those parts of any game that can be offloaded from the time that you have scheduled to be at the table with your friends is a good thing to do, and as a GM that’s definitely part of that responsibility, is to identify those moments and adjust. I mean, being at the table, anyone can suggest that, obviously, do you know what I mean? But as a GM, part of your responsibility is to think about the table flow and how people are feeling. And I guess, to Dre’s point, sometimes that means you don’t notice why you are feeling the way you are, right?
+
+
+DRE: Mhm. Yeah.
+
+
+AUSTIN: Yeah. That makes sense. Um. Alright. Good luck, and I hope that - I hope that it works out, for everyone involved. Um, this one comes in from Colin, and this is another Dre question. [DRE laughs] Colin says, 
+“I’ve been really enjoying running Lancer for the past several months - I hope you have a chance to play it off mic, Austin - but there's one downtime action that my players tend to rely on that I’m having trouble wrapping my head around: gather information. When you gather information, you poke your nose around, perhaps where it doesn’t belong, and investigate something. Conducting research, following up on a mystery, tracking a target, or keeping an eye on something. You may head to a library or go undercover to learn what you can. Whatever it involves, you’re trying to gather information on a subject of your choice. You can use information gained as reserves. Name your subject and method and roll. On a 9 or less, choose one: you get what you’re looking for but it gets you in trouble straight away, you get out now and avoid trouble. On a 10-19, you find what you’re looking for but choose one: you leave clear evidence of your rummaging, you have to dispatch someone or implicate someone innocent to avoid attention. On a 20+ you get what you’re looking for with no complications. The thing that makes the move information is that the gathering info isn’t the hard part. The complications revolve around whether you get caught or not. The problem is my brain always immediately goes to either, they get caught by a guard, or, a villain directly involved finds their trail. Can you all think of either circumstances of - of either circumstances to make using this move more varied, or consequences that come more out of left field or complicate this situation more?”
+Dre, you’ve been running Lancer now for a little while, right?
+
+
+DRE: Yeah. And I will say, I definitely feel like, of the downtime actions that Lancer has, gather information is the one that is the most free-form and open. The rest of them have much more, like, details of like, this mechanical thing happens, or, pick from this list, whereas gather infromation kind of makes sense for it to be, is way more wide open in this way. It definitely feels much more like a, Powered by the Apocalypse kind of game than the rest of Lancer does. This roll in particular does. 
+
+
+AUSTIN: Yeah, looks like that for sure. Have you - do you have any good examples of something here that is not just, getting caught by a guard, or a villain directly involved finds the trail? 
+
+
+DRE: Um, I definitely think this is a place where having clocks as a GM can be interesting?
+
+
+AUSTIN: Sure.
+
+
+DRE: Because then like, something happens offscreen that they don’t quite know about, you know, kind of what immediately pops into my head when reading this is like, what if, is there a, instead of an enemy or a guard, is there someone they really like that they don’t want to know that they’re doing this. 
+
+
+AUSTIN: Right.
+
+
+DRE: And I think, too, like, this is in a way kind of that, like - I mean, Lancer lets you make hard moves as a GM, but again, it’s very like, structured, it’s very much you shoot this big gun and you do this much damage and that’s your GM move. This is one of the few places in Lancer where you can make a really hard out of the box move as a GM. So, like, if you have a character or some kind of plot hook that you’ve been building up in your head, you can throw this in here, in a way where there’s not a lot of other natural by the rules opportunites to do in Lancer.
+
+
+AUSTIN: Riiight. To make pushes on leaving - like, leaving evidence does not just have to be something that a villain already implicated in the situation sees. A third party can see that evidence and become involved in a way that complicates things very quickly. Guards are not the only people who can show up to try to stop you that you then have to dispatch or implicate. Like - like Dre said, someone you like could show up, could interfere. And you have that choice, you have to dispatch someone or implicate someone innocent to avoid attention. It’s like, are you really going to - you know, you really have a friend who’s like, in some sort of press corps, and they’re investigating the same thing you are, and suddenly they get spotted right along with you and either you need to, you know, sell them downriver and get them in trouble or give up the information. That’s interesting, right, and you can immediately turn that back around on the things that the players are interested in and not just the things that cause them a momentary speedbump, if that makes sense.
+
+
+DRE: Yeah. The other thing I’ll say too, is if you want to make this more mechanical, right before where it lists all the downtime actions in the Lancer book, it also has examples of what they call their resources, or their - god, what is it - their reserves. Reserves is like, the overall name for it. So just like, look at the table of reserves, and like, see if there’s a cool way for you to inverse that. Like, just looking here, one of the tactical advantages you can get off of a reserves table is having an NHP assistant, and an NHP in Lancer is their kind of overall term for AI, and there’s a bunch of different types of AI, there are some that are just, like, the equivalent of Siri, and there’s some AIs that are the equivalent of Hal from Lost in Space, so like, is there a cool way that you can twist one of these positives into an interesting negative. [AUSTIN: Right.] Cause like again, if you’re lost, you can just look at this list. Um, you know, one of them is, you get extra ammo for a system. Maybe the evidence you leave behind is you know, if you’re using your mech as a way to gather this information, maybe you leave like a clip behind or something. So in addition to being caught, maybe you also have one less use of a limited weapons system for the next run. Something like that, I don’t know.
+
+
+AUSTIN: Uh-huh. Yeah, I like that. That’s good. Any other thoughts here for this sort of roll?
+
+
+ALI: I, as a player, love to gather information, have a mixed success, and get wrong information.
+
+
+DRE: Yeah!
+
+
+AUSTIN: Ooh, yeah, sure.
+
+
+ALI: I love doing it. [laughing] It’s the best -
+
+
+JACK [overlapping]: Hadrian doesn’t know he rolled a one.
+
+
+ALI: - the best thing to do. [laughing]
+
+
+AUSTIN: I always go back to this house rule that game studies academic Phelan Parker suggested for me while we were running, I wanna say it was while Winter was happening, that he put me onto this, which is, give the players wrong information and then give them an incentive to act on it. Give them +1 forward, for an XP if they act on it, or something. Basically saying, hey, if you commit to the bit, I’ll reward you mechanically for doing it. But - but yeah. I think on this roll I would only do it - I would only do it if they chose “you get out now and avoid trouble,” because otherwise I’d be saying, you don’t get what you’re looking for, or something like that. [JACK: Right.] Which seems against the rules. But I - I would always ask. That’s a good - it’s just a fun, you know, always ask and see what they say, right?
+
+
+[[00:30:20]]
+
+
+DRE: Yeah. Definitely the downtime stuff in Lancer, it - the way it’s written, right, this is a thing where it’s like, this is the tone of your game, this is what you talk about at the table. [AUSTIN makes agreeing noise] But a lot of the stuff for the downtime in Lancer even if it’s like bad, it’s more like narratively interesting bad and less like outright failure. Or…
+
+
+AUSTIN: Riiight.
+
+
+DRE: You know again, there’s not a lot of place in the downtime for the GM to make a big move so I could see where maybe that like giving them false information–again, if you’re just playing by the way the book is written–maybe doesn’t fall within the spirit of that rule. But if that’s the game you’re running and that’s what your players are interested in, that would be a definitely cool way to do it.
+
+
+AUSTIN: Mmhm. Alright. Next question comes in from Andrew, who says:
+
+
+[THIRD QUESTION – 00:31:09]
+
+
+“Hi! Love you all, love what you do. I just had a quickish question mostly for Austin. What do you look for when coming to the end of a campaign? What are your priorities when you know that things are probably going to wrap up soon? Obviously Partizan 1 is about to wrap soon though some of those stories will continue but you’ve also concluded Hieron, which is a massive thing spanning years and years of effort. I’ve been running a game for about 3 years now and it looks like things are finally cutting towards the end and I’m just not sure how to pull everything together in order to make it the most compelling it can be. Would appreciate some advice, thank you so much. Andrew, they/them.”
+
+
+This is a tough question and yeah, we’re definitely coming up on the very end of Partizan, uh, season–whatever this is–season 6. Is that what this is? God.
+
+
+JACK: 7? No, six.
+
+
+AUSTIN: No, 7 is next, right?
+
+
+JACK: Oh, yikes.
+
+
+AUSTIN: Yeah, uh huh, yeah. [ALI laughs] The…Coming to the end of a season is always tough because–I mean, it’s different when you know you’re going to come back to it. With Partizan, we’re gonna come back to some of these characters at least. We’re gonna come back to the world. Um. There might be a time skip. There might not be. We haven't finished recording it yet, right? So at this point, I think maybe the first step is, “Hey, is this a world you’re gonna come back to?” If so, it changes the priorities for me. Because…For me at this point, there’s been a lot of setting stuff up for the next season in this setting. There’s been a lot of closing certain arcs, letting those end naturally but also leaving the door open for the possibility of something else or prepping for something else–which we’ll get to in another question momentarily actually, I think– by setting the groundwork. 
+
+
+For something like Hieron or Counter/Weight or Twilight Mirage, when there’s a firmer end to something, I think that the first place I go to there–and I go to this for the Partizan example also–is that I talk to my players and ask, “What is stuff you want to see? What is stuff that you feel is unresolved that you want to resolve?” And the answer is sometimes, it’s less than you think it might be. Dre, I know that when we were getting towards the end of Hieron, you and I had a talk about the end of Throndir’s arc and you were like, “You know what? I’m pretty good. We had a big resolution during this one arc and it felt like I’ve gone to the right changes of this character and the character’s kinda in a place now where he’s grown already. His arc has come to a close and now he’s at this new stage, where he can still be an actor but the focal point won’t be resolving open questions. It will be, what’s it mean to be this person in this world?” Whereas other characters I think still had lots of open questions about their relationships, about the way that they were interacting with the world, about their mortality, etc. And so with you know, with both–both Ali and Jack, I think we had lots of conversations about what we wanted to get on screen before it was all said and done. And there, it’s not like outcomes so much as, “I would love a scene about this,” or, “I would love an opportunity to work through that.” If that makes sense. So that tends to be how I start is with those sort of conversations.
+
+
+Ideally, I know where it’s going pretty much towards the middle of the season or at least, I have some ideas but you know. [laughs] I will talk about this in the post-mortem but like two weeks ago now, three weeks ago now, I had like a huge text dump that I sent to everyone about the end of this season of like, “I thought thing 1. What about thing 2?” And then everyone had to put up with me having a fucking breakdown at 3AM about the end of this season and talking through what it could be. 
+
+
+So like, it is not always a linear process is what I would say. Often, you go back and forth on how to tie all those loose ends, but I also am someone who makes peace with the idea of tying up everything. There’s still open questions in Hieron that will just never get answered. That’s just true and I relish that so completely. [laughs] I so badly want to make content that doesn’t feel complete. That doesn’t feel like everything that has an open door–you know, has an opening has a closing to it that can be like perfectly wiki’d away. That is like a goal of mine and so identifying which things I’m actually really eager to close versus the ones that I’m happy to leave open-ended is really productive for me, because it helps me understand the themes I want to explore and where I want to be firm and say, “Here is what I want the takeaway from this campaign to be,” versus the ones where I think the openness of something not being fully resolved is productive. 
+
+
+As a–you know–as a writer, as someone who wants to tell a story with people, there’s stuff that I really badly want to leave open-ended and that means not overdoing the part of this where you like sit down and write a list out and go, “Here are all of my loose ends. Let me write down how I tie them all of them off.” You don’t need to tie them all up. They don’t need to be tied up. The ones that need to be tied up are the ones that move you and that move the players. The ones that you're interested in. The ones that you're curious about, but you don't need an epilogue for every NPC. You don't need a capstone on every villain or on every, you know, arc. Sometimes, the world will probably continue, outside of some truly apocalyptic endings. And guess what? If it’s that apocalyptic, it doesn't matter that that shit popped off in that village 17 sessions ago didn’t get resolved. [JACK laughs] Sometimes the world ends and–
+
+
+JACK: (overlapping) But what was on that menu? [AUSTIN and ALI laugh]
+
+
+AUSTIN: I–Exactly. Y’all have gone through it from the other side for sure and Dre, I’m sure as a GM, you’ve had to wrap stuff up before too. I’m curious what your thoughts are on this, if anything. If there’s anything that you’re like, “As a player, I really want more of X,” or, “I really like it when Y.”
+
+
+DRE: I mean the thing that I would just reiterate is what you said. Like you don't have to get everything. Get the things that are important and make sure you have the time and space to nail the things that are–Not nail them, but really give the time and space to the things that are important and kinda don't worry about the rest.
+
+
+AUSTIN: Yeah, giving yourself the time for it is definitely big. I–There is something really nice for me about ripping off the bandage or closing the book and being like, [clapping noise] “Done! We’re done with it!” Finishing Counter/Weight remains like, all time favorite thing we’ve done on the show. It felt so good to close the book on those characters and that space and that time. Um, but we gave ourselves so much time to record that for better and worse, and I cannot imagine how much worse that would have been if we had said, “No, we’re going to do it in a single four hour recording session.” Today, what we would have done or if you look back at some other previous endings or if you look at the way Hieron ended, we just broke it up into way more recording sessions. We just said, “Hey, I want this to be good. Let’s not try to do it all at once.” The–And it was kind of why we talked about the end of Hieron as being an epilogue and not just a final chapter or something, right? Like you don't have to sprint towards the end in that way. We can linger in this mode and kind of like, let things come to their conclusion and feel good about it that way. So, yeah. Any other final thoughts? Alright, Rain writes in and says, 
+
+
+[FOURTH QUESTION - 00:38:50]
+
+
+“I am running a game of Beam Saber for a group of friends and after conversations with everyone about what kind of experience they wanted to have, I decided to hack the game really extensively to accomplish that. On the one hand, I feel an obligation to my players to deliver what we’re looking for. On the other hand, I feel like maybe I'm not trusting certain tried and tested game mechanics to be fun. I worry that maybe I'm leaving good stuff on the table by overcorrecting. How do y’all balance making choices that feel right for your table versus sticking with an established system?”
+
+
+[pause]
+
+
+AUSTIN: I really like, try to think hard about the biggest hacks we’ve done and there’s not that that many that come to mind. The ones that are there are important, I think. Um…
+
+
+JACK: Twilight Mirage finale was quite big.
+
+
+AUSTIN: Well, but that’s like not hacking a system that’s–or I guess it is but that’s such a different big weird stupid thing that I did, right?
+
+
+JACK: Yeah. [DRE laughs] And along with Consulting Detective.
+
+
+AUSTIN: Yeah, yeah yeah. Those are hacks but that’s like–
+
+
+JACK: (overlapping) Those fall on such a gigantic scale that it’s like…
+
+
+AUSTIN: I think that’s a distinct thing than looking at your book and being like, “We’re getting rid of the grapple rules. We don’t like these.” [JACK laughs, agreeing] Which fuck them, get rid of them. What comes to mind more for me are things like, changing the way character moves work because we’re not comfortable with something–some sort of depiction. Thinking about like, going back to Dungeon World and being like, “Well, we’re getting rid of the thing that locks–Racial abilities? No Racial abilities? No. How about just, hard no on that.” [JACK laughs] And things like that for sure, I think we definitely did hacks in terms of the way that mental health is shown in certain games or depicted mechanically and stuff like that. Or…Things like that tend to be the ones where I feel very strongly that you should feel that–the people at - You should make your table comfortable before you–and safe–before you–before anything else. Before you try to adhere to some blessed book from the, you know, the designer. 
+
+
+We ended up not running the…the…(thinking) the Empath in The Veil but had we stuck with that character, we would have made changes to the way that character worked because as it was written originally before the update was just no good. It was just like, there was nothing about consent and it ran us right into problems basically immediately. As Dre, I think Dre, you were in that session, Dre can attest to immediately like, oh wow! It turns out not having any words about consent or about the way in which this class is meant to be written and meant to be played opens it up immediately to misplay. And so, things like that I think are important to keep an eye out for. I am, on the other hand, I think I am the person who does say like, try it before you hack it. Partially, it’s like, in this case, I think Beam Saber’s a really fucking good game and you haven’t said what you hacked out here or changed, but I think that the bulk of–I really like the bulk of the mechanics in Beam Saber and think many of them can be really, really enjoyable and it’s worth seeing them in action before you pull the trigger on a hack but that might just be my fondness of it. Because if you were like, “I’m hacking 5E.” I’d be like, “Yeah, of course you are.” You know? (DRE laughs)
+
+
+JACK: (amused) Hmm.
+
+
+AUSTIN: But maybe that doesn’t discount my feeling on that. As an example, Quest, we introduced some hacks to Quest but we only did it after that first session where we ran it and one of the things that we hit with Quest was, no one has bonuses in anything. And there’s some other stuff that I’m still not quite there with hack–or with Quest, and hacking will continue, I think, as we continue to come back to it. But the way that Quest works is you roll a d20 and you succeed…You succeed at a 6 or above. 6 to a 10 is a mixed success. 11 or above is a full success. 20 is a critical hit. But our spy was just as good at sneaking as our paladin or our invoker, despite the two of them being–having different life experiences and expertise and so we ended up hacking in a system that gave the spy theoretically a light bonus to that roll for the second game. But I did really want to run it as written for the first time just to get a feeling for it. Just to see it. 
+
+
+I think that’s just how I like to involve myself with games and art more generally. I listen to albums. I don't listen to singles that often, unless it’s a mixtape that I put together very carefully. I’m not a shuffle mode person. I do like encountering something made by someone or a group of other people and seeing how it was put together, and playing games just does that for me in a really big way. So I like to do that first before I commit to hacks but I don’t think that that’s–I’m not saying that that’s gospel. I don’t know if other people here have different feelings about it.
+
+
+JACK: [long inhale] Yeah, feel out the mechanic. I think it is one thing, right, where we look at a mechanic and we go, oh this…racial moves or whatever. [AUSTIN: Right.] And another thing where you’re like, the grappling rule, adjusting the healing in Beam Saber.
+
+
+AUSTIN: Right. Even there, we deferred to Austin Ramsey’s own internal Beam Saber–own internal hack, right?
+
+
+JACK: Yeah, definitely.
+
+
+AUSTIN: But we did do it pretty quick.
+
+
+JACK: ‘Cause it’s like, on the one hand, I’m really cautious about saying like, “Ugh, these mechanics were made with intent, like the designers put these mechanics in for a reason.” Because sometimes, designers get it wrong and I don’t…
+
+
+AUSTIN: (overlapping) Yes.
+
+
+JACK: I don't ever want to be the person who is like, I’m giving such primacy to a designer’s, you know. It’s like, I don’t want to be like that Nintendo–
+
+
+AUSTIN: (overlapping) I–and the strength of this whole– Right, right. Go ahead.
+
+
+JACK: Oh, go on.
+
+
+AUSTIN: No no no.
+
+
+JACK: Oh, Nintendo says that thing sometimes which is like, “No, we’re doing the game this way because we know you’ll like it better.” [AUSTIN: Right, right.] And it’s like, you know, if they weren’t such good game designers, I’d roll my eyes even harder but I roll my eyes anyway. On the other hand…
+
+
+AUSTIN: The strength–The thing I want to say really quick is–the strength of this era of independent and small press games. The kind of like, Powered By The Apocalypse like arc starting there, running through Forged in the Dark, going into, you know, (thinking noises) Forged–Not Forged. Why am I blanking on this? Belonging Outside Belonging games that–There’s a, oh my god, why am I thinking of - No Dice No Masters. There we go, that’s the other slogan. No Dice No Masters system is players are designers. 
+
+
+JACK: Yeah.
+
+
+AUSTIN: That has been the throughline for that thing. That hacking in a move in a Powered By The Apocalypse game is very easy to do and it's–the game is designed to do that. It’s designed to give you the tools to say, (claps) “Okay, what happens if I get above a 10. What happens if I get a 7 to 9? What happens if I get a 6 or under?”  Now I’ve made a move and that makes me a designer. I am a co-designer of this game and situations kind of merge in which I need to, or the game is better for us coming up with a new move on the spot or in-between sessions. And so, I think discarding that and I think, you know, the Belonging Outside Belonging games go even further in that regard, because then suddenly it’s like, I’m not just designing moves. I’m in charge of this entire part of the game as a player and I think that that is fantastic. And so, I don’t want to undersell the ability of players to make their own design decisions at all. Anyway, Jack continue.
+
+
+JACK: The other side of this, right, is that you would hope the designer has thought out why they are doing this for a reason, and I think this speaks to try it and see how it feels first, which is that like the designer is probably trying to get a particular mechanical tension or produce a particular a narrative tension through these moves. Uh, and if that is not working for you, absolutely go hogwild.
+
+
+AUSTIN: Right.
+
+
+JACK: But I think I do–I think I do fall on the team of like well, let’s see what this does at first and let’s see if this is going to work for us.
+
+
+AUSTIN: Yeah, I think about something like The Tower and going like, imagine if someone said, “You have–You have–The pilgrim has to reveal the Joker when it shows up in their hands. Otherwise, they're cheating.” I would feel like, “No, you’ve missed it. You’ve missed it. Please don't hack that part! That part’s important!”
+
+
+JACK: (overlapping) Yeah, yeah. Definitely, well and making it as–
+
+
+AUSTIN: (overlapping) And so I–Yeah.
+
+
+JACK: –as designers. As designers, we are constnatly throwing mechanics into that game or trying to tweak mechanics and then just going like, “What? Fuck. What? No, that doesn't work.”
+
+
+AUSTIN: “That doesn’t work. That doesn't work at all. Throw that out.” So I mean, which is both sides of this, right? Which is like the stuff that’s in there. The stuff that’s in anything that someone designs that’s like, this is important to them and there’s stuff where they’re like, “Uhh, I was never really happy about this. Go for it.” And as a player, you shouldn’t necessarily be expected to know the difference between those two but I think a good game communicates–still manages to communicate something there. Ali, sorry. You had something. Go ahead.
+
+
+ALI: Oh, um yeah. I–Jack, are you finished up? 
+
+
+JACK: Yeah yeah yeah.
+
+
+ALI: Cause I - okay, yeah. Because I–I’m–I feel like I’m a person who would have sort of the least amount of guilt about this. Just because sometimes, I'll be a person who like looks at a rule and is like, “Well I don’t like that!” (laughs)
+
+
+AUSTIN: Mmhm.
+
+
+ALI: And I think specifically with Beam Saber being this example, like if you’ve already had the talk with your players and you sort of know the vibe of what they're going for and you can see the places that it doesn't fit like you know, I–I do get the advice of have a few sessions with it in there first or you know, try it out first. But what I think of some things like Beam Saber, like if I had a group that played really well together and were like relying pretty heavily on like assistance rolls and had gotten to a really good groove with doing that with each other in a mission and then we’re doing more Cut Looses and had to take more and more stress and we’re like already feeling sort of against the wall with stress anyway, I would throw that out in a second. (laughs)
+
+
+AUSTIN: (overlapping) Right. Sure.
+
+
+ALI: I wouldn’t even think about it! Like that’s just one of those things where it’s like, “Okay, that’s the way that you like played this game and that’s also the way that you’ve learned how to play this game.” So like you know if that’s a difficulty, just take it out. I get why it’s an important tension in Beam Saber overall but like, Beam Saber being a game where like you’re already on the back step so much already that like if that’s not the experience that your players want to have despite liking other things about the system, I wouldn’t feel like hesitation about making those adjustments.
+
+
+AUSTIN: Yeah. Yeah, yeah yeah. I think there’s - I mean the other thing there is like genre familiarity in terms of game genre more than setting genre. Like if yo’uve played a bunch of Forged in The Dark and you know that this thing doesn’t work for you in this genre of game, you know this kind of subcategory of game generally, you know it already. You know? You don’t need to beat yourself up over it or if you know what you want is something you’ve already had in another game, there’s no reason not to start out there. Especially if the alternative is something you’re just not curious about, you know? At the end of the day, you’re spending time doing this and so you should be doing something you’re interested in doing and not just dragging yourself through it. Again, I like that experience. Check out Bluff City: Capers for an example. [JACK laughs] A game I think had some really neat ideas but was a pain in the ass to prep for and play for many reasons, but where I love that–I do like that tension. Like, I dont even know where I would fucking start to start hacking that gme necessarily. (ALI laughs) Which maybe makes it–I mean, I do know which is like, I would change the way powers work entirely in that game but the–At the same time, I’m just built in the way that’s like, “Oooh, let me see this fucking car crash. Let me just see how our group of players interacts with this thing before we throw it in the bin.” (ALI and JACK laugh) You know?
+
+
+JACK: And then you go, “Oh, it was a car crash, right. Let’s see.”
+(ALI and DRE laugh)
+
+
+AUSTIN: It was. Alright but like, was it a car crash because the brakes went out or was it a car crash because the road was too slick or what, you know? I hate this metaphor. This metaphor is too dark. Dre, do you have any thoughts on hacks?
+
+
+DRE: The only thing I would say is that if you find that you’re hacking it so intensely that it doesn't look the same game, maybe you should just play a different game, which is fine.
+
+
+AUSTIN: (overlapping) Maybe you should play a different game. Yeah totally, totally.
+
+
+DRE: I think we’ve been in that place before we’ve been like, “Oh, I really like this game but it doesn't do this, this, this.” Like talking about future seasons.
+
+
+AUSTIN: I’m–Even now we’re at that point, right now. We’re talking about season 7 stuff.
+
+
+DRE: Yeah yeah yeah.
+
+
+AUSTIN: I’m not–It’s not a secret that we don't have a game picked 100% for season 7 yet, so like. Alright, I like this, I like this. Shit, I guess.
+
+
+JACK: We have 33% of 3 games. (ALI laughs)
+
+
+AUSTIN: Yeah. 100%, yeah. More than 3. Honestly, if I look at our list, it’s more than 3 so…We’ll get there. We’ll figure it out.
+
+
+JACK: Yeah, we’ll get there! Show gets made.
+
+
+AUSTIN: Show gets made, I hope. 
+
+
+JACK: For some people.
+
+
+AUSTIN: Show gets made, rent gets paid. That’s my understanding. (JACK and ALI laugh) So I gotta fucking make this show. Um…god. Any other thoughts here or should we move on? [pause] Alright uh, so the following questions from here on out have some mid-season and later Partizan spoilers. So I wanted to put in a warning and say, hey, if you haven't listened past – I mean the questions themselves don't necessarily have these spoilers but I think it probably behooves you not to listen to this stuff and it would be easier for characters to answer–or players, not characters, for people on the call to answer and talk openly about this stuff if you’ve listened past Partizan…I'm gonna say 30? There’s a chance we get into 34 and after or even like 36 and after. But 30 is the hard 100% because we’re talking about big events and the ways in which the show adjusted afterwards. Um…34.
+
+
+ALI: That's the end of Kingdom, right?
+AUSTIN: No, Kingdom is 20-something. 28.
+
+
+ALI: Oh ok.
+
+
+AUSTIN: The end of 30 is the end of the Nooncrown arc, which takes place in Kesh terrority at a big interesting cemetery for heroes. As a quick reminder: 34 is a downtime episode with a big reveal at the end in Oxbridge. 36 is the end of a two-parter in which we learn something about the reveal of the end of 34. We learn–Not just something, we learn a lot about the reveal there. So that’s the basic space. I’m continuing to talk just so that people can hit the pause button, can go check. I would say pause right now if you’re not 100% sure but we’re going to answer these questions, because these questions are not about those episodes but they are about things– They’re tied to those episodes in adjacency and it would be good for people on the call who are related to those questions to be able to talk about them openly and not have to talk around everything. So I would rather that happened. Alright, Moose writes in and says:
+
+
+[QUESTION - 00:54:14] 
+
+
+“This question is especially for Jack for reasons that will become clear, but I’d love input from absolutely anyone. How do you play characters who are bad people? I find myself wanting to play evil or at least selfish characters but at the table, my inner people-pleaser comes out and my character ends up coming out being way nicer than I’d intended. I’m not good at being mean to NPCs, let alone PCs, but I also don’t want to just be a mustache twirling villain. Do you have any ideas for how to make complex horrible characters and actually stick the playing of them?”
+
+
+JACK: Uh…It’s a big question and I don’t know that I’m gonna be able to answer it like completely? Uh, in part, because I’m still figuring this out and a lot of it is still sort of a passive process rather than an active one. I think to start with…(pauses) The big one for me is that I– When I am playing a baddie like Clementine, as a player, I think it’s my responsibility to try not to act in a way that restricts the verbs of the other players at the table outside of the establishing situation that we’re in, which is obviously going to restrict our verbs in any case. You know, if Austin says, “You are stranded in a desert.” We’re not going to be able to go running off and being like, “I’m just gona go striking off in that direction and see what’s going on.” 
+
+
+So the example here is that like, Clementine runs a prison squad. There are going to be naturally– Players’ verbs are going to be restricted as a part of that initial set-up. That is a different thing, I think, to me in a scene saying, “And then Clementine pulls out handcuffs and stops you from acting.” So like, a big thing for playing a villain is just the sort of–the sort of mechanical thing of having to play in scenes with other cast members, which is like, I don’t want to close doors for them narratively or mechanically. I think I also…(pauses, sighs) There’s a kind of principle in like improv scenes, which is that your job as a performer is to make the other performers seem really funny or be really funny and if everybody is doing that then you know, you’re sort of working to help the other people be the best people there, and I don’t think that you know, as a villain, you need to be making the hero seem heroic. I think that that might get in the way sometimes if you telling your story or you telling the character’s villain story, but I think that taking on the character of a villain as a way to help explore the themes that your story is about is kind of a good thing to keep in mind. Um. The villain is there in the party to introduce friction to the scene in a way that lets the sort of emotional or tonal stakes that we’re trying to do be explored. I think if we put a villain in the party in Marielda, I’m not–There wasn’t a villain in the party in Marielda, right?
+
+
+AUSTIN: Ahh, debatable.
+
+
+ALI: No.
+
+
+JACK: But there wasn’t like a villain villain.
+
+
+ALI: No.
+
+
+AUSTIN: No, but do you remember how that show ends? It’s definitely party confrontation between people who have different ends. 
+
+
+JACK: Oh yeah, definitely. 
+
+
+AUSTIN: Yes.
+
+
+JACK: But in the sense that Partizan is a story about empire.
+
+
+AUSTIN: (overlapping) I will say. Hieron: the whole party is villains, so. (ALI laughs)
+
+
+JACK: Yeah, and it’s like, when everyone’s a villain, who is? It’s just everyone’s a…But like Partizan being a show about empire and about revolution and about radical ideals, it seemed like it would be an interesting sort of friction to introduce somebody directly into that group that causes friction for those ideals and lets those ideals be tested against something that is in the party and isn’t just a NPC. 
+
+
+Um…Prep and talk with the other people in your party. This one is really important. If you’re playing someone who is villainous, you’re going to be acting against the other people in your group and I think the moments when I've had the most fun or felt the most productive playing villains has been when we have been able to have conversations where everyone is kind of on board about where we want this scene to be moving and about how we can use the friction point of the villain to help move in that direction. If you are a player character and you're making hard moves, you have got to– You have to got to square that shit with the other people at the table who you would be making hard moves on, you know. If you’re saying, I’m gonna clap everyone in irons. You can't just say that and expect them to go, “Oh ok, now I don’t get to play Beam Saber.” (AUSTIN and ALI laugh quietly) Um. I think the last thing here is that ask yourself if your party needs a villain. What is it about the story that you are telling that makes putting a villain in the story viable or interesting because if you're just saying, this is a light fun loving story and now I’m gonna throw someone in here that’s going to make everything difficult for everybody, that might not necessarily be the best way to go but if the story that you are telling makes sense to embed that sort of a character in the group of people who are going to be on screen most of the time, and you are prepared to put the work in and take the care of the people around you, that might be something that is a better place for a villain.
+
+
+AUSTIN: Ali, I’m curious about you because long before there was a Clementine Kesh, there was a Hella Varal.
+
+
+(ALI and DRE laughs) 
+
+
+AUSTIN: Who was evil, right?
+
+
+JACK: But Hella is likable! 
+
+
+AUSTIN: No but Hella is evil–Ok, yes. 
+
+
+ALI: Yeah, but that’s the other thing.
+
+
+AUSTIN: Yeah.
+
+
+ALI: That’s like the separation from what I guess what you're trying to say Jack because like there are people who can be bad actors and be selfish without actively working against the party.
+
+
+AUSTIN: Yeah, Hella’s an evil hero.
+
+
+ALI: (laughs) Yeah. Yeah. And I think like the important things of like, sort of finding the boundaries in that is like trying to make good decisions for yourself and also with the table so they have the expectancies of like where you know the bounds of what - how they’ll behave is. Where I think that I’ve thankfully been able to make that pretty clear with Broun and then also, you know, did a bad job of that with Hella and then immediately fixed that and then had the best time playing Hella forever. 
+
+
+AUSTIN: Oh yeah.
+
+
+ALI: Just cause it, you know, I–’cause you–When you think of a, you know, a baaaad person, there’s like a lot of different ways that that can sort of come up and it’s tough and you know expectancy around all that is probably the most important? I…Go on.
+
+
+AUSTIN: I wanna say, I’m wondering if I have a different perception of all this as your GMs. Um, as your GM. Your plural GM, singular. (ALI laughs) Which is, I don’t know that y’all ever set out to be like, (evil voice) “And now I’m going to play an evil character.” (ALI and JACK laugh) 
+(regular voice) And what you do is have characters with motivations that I think are malign and who take actions that I think are bad, but you begin with motivation. You begin with interest. You begin with characterization and you let that lead like the way a hilt controls a sword. 
+
+
+JACK: Yeah.
+
+
+AUSTIN: And–Or a pommel controls a sword. Whatever is the thing you hold. (ALI giggles) And I think like my best example is a Hella action in which a character, a new, incredibly, powerful character, shows up at the middle of the Winter arc–Winter in Hieron–and it’s astonishing the thing that it’s doing. (JACK laughs) A very fond memory of cracking the noise for it in an Airbnb with y’all, with Jack and Ali, during Art’s wedding. Do you remember that?
+
+
+JACK: (overlapping) Yes.
+
+
+AUSTIN: At the kitchen table with your little keyboard figuring out how that character sounded. And then Ali ran it through with a sword. 
+
+
+ALI: Mmhm.
+
+
+AUSTIN: Hella ran it through with a sword in a way that completely changed what happened in that sequence because of the way that sword works. (ALI laughs quietly) Um…but the…the–that–that to me, was the most Hella Varal thing to do, which was…Again what was your–Do you remember what your evil belief was?
+
+
+ALI: Oh, yeah. It was to destroy something rather than understand it.
+
+
+JACK: So good.
+
+
+AUSTIN: Right! And it’s like that is what Hella Varal is. That is the sort of evil Hella Varal is. That’s not a distinct thing for me than what other character beliefs were. It happens to be an evil belief.
+
+
+ALI: (overlapping) Oh for sure, yeah. 
+
+
+AUSTIN: And there is extra care to be taken for all–I’m not saying either of you are wrong about the things that you've said about making sure that you're not implicating people in actions they don't want to be part of or reducing their agency at the table or blah blah blah. All that stuff is dead on, absolutely. But when I think about what lets you play those characters well? Broun too, for that matter. It is embodying character, not–I mean that is how you don’t end up with a mustache twirling villain is you give them particular interests, specific relationships, goals that they can pursue through action. And once you have that, you’re not mustache twirling. You’re not just a capital-V villain. You’re a character in the same way that great villainous characters across all media are. You know, we fucking love to watch villains do shit. We do it all the time. I think that it’s very like healthy and interesting to embody those roles at the table, as long as everyone is there and as long as that effort is being put in them to do more than just, “Oh yeah, I have evil written down on my sheet.” You know? Like embodying a particular evil and I think that that’s been done here. To the degree that I don’t even know that it's–When I–I joke when I say everyone in Hieron is a villain, but it’s kind of not a joke also? (ALI and DRE laugh) Like Lem King, absolute villain. 
+
+
+JACK: Villain.
+
+
+AUSTIN: Fero Feritas, absolute villain in my mind.
+
+
+JACK: Villain.
+
+
+AUSTIN: Uh, everyone! Sorry to Throndir. Throndir, you were a villain for a while there, homie.
+
+
+DRE: Yeah. (ALI laughs)
+
+
+AUSTIN: Ephrim! Self-appointed king. Villain.
+
+
+JACK: Villain!
+
+
+ALI: Yeah.
+
+
+AUSTIN: Adaire Ducarte used to sell poison to people. For money. (ALI laughs louder) She said it was medicine. (JACK laughs) Hella Varal married her and–that’s a spoiler, I guess. But also married the person who made half the world undead against their will.
+
+
+ALI: Yeah, they all get along. It’s fine. 
+
+
+AUSTIN: They all get along, it’s fine.
+
+
+ALI: (giggles) Yeah I feel like the–Uh, the point that I was trying to make though, with having the boundaries of the character there, is that like, I think having such a distinct, “Oh, Hella is going to destroy things that she doesn't understand,” sets up the expectancy for like if I’m in a, you know, if I’m playing a session with people, people know the point at which in the session that Hella is going to act outside of everybody else’s interests. 
+
+
+AUSTIN: Right.
+
+
+ALI: I think that’s a little bit of what separates Hella and Broun for me a little bit? Which is, Hella would be willing…(breaks off into laughter)
+
+AUSTIN: (overlapping) Yes.
+
+
+ALI: Or at least me playing Hella would be more willing to like let, like sort of shake the boat a little bit more and like create consequences that like, people’s group maybe wouldn’t want. Whereas broun is somebody who like really wants to get along with people, like really wants to be well-liked. 
+
+
+AUSTIN: Deeply conflict averse, yeah yeah yeah. 
+
+
+ALI: Really wants the job to be done and to be done in a way that’s efficient and you know, doesn’t cause problems for people. Right.
+
+
+AUSTIN: That is the type that is the thing that Broun gets wrong, right, is that like, wants to avoid direct confrontation because direct confrontation is painful, does not understand that the methods they use to do that actually just are also painful but for other people. Not for them. 
+
+
+ALI: Yeah, yeah. Yeah. (laughs)
+
+
+AUSTIN: Right? Or not as openly or something, yeah. 
+
+
+ALI: Yeah, for sure. Yeah yeah yeah. But I feel like, you know, at the table difference or at least, I hope with the players who play with me notice there’s a little bit of a table difference where it at least feels like Broun is more meshed in with the goals of the group whereas Hella sort of was able to wander off sometimes and I feel like sort of making that decision for yourself and letting your players, the people that you're playing with, in on that as well really helps move out some of the like, “Well, this is weird and hard to do without being a mean person at the table.”
+
+
+AUSTIN: Yeah. Dre, I know that none of your big characters are as dramatically, manifestly malignant. Though let’s say, listen, you were in charge of Snowtrak Industries during Counter/Weight and I don’t think there's ever been something as disastrously evil as what came out of that.
+
+
+DRE: Oh yeah.
+
+
+AUSTIN: But I’d be curious generally, how do you feel about this and when you're trying to embody a character who is selfish or has their own interests more in mind than the party or something like that, what that feels like? Or if you have any thoughts.
+
+
+DRE: Yeah I mean, I think you can be selfish while also being interesting as a character.
+
+
+AUSTIN: Yeah.
+
+
+DRE: I think the worst thing that can happen with an evil character is if you are like, “Ok well, my villain is the mustache twirling villain.” Um. You know. You can be someone who is selfish and have like good reasons for that and make it interesting.
+
+
+AUSTIN: Yeah, I think that's really what I come back to is like, what are your reasons for acting this way? Identify those first. Identify why your character thinks this is the way to be. Is it–Does it come from a life of privilege where they just don’t see other people as being valuable? Is it the opposite? Is it someone who’s come to these things because they've become cynical about the other methods of being? Is it because they haven't developed other sorts of strategies for being? Etc. Is it out of a certain greed that you can mechanize or more importantly, materialize in play because of particular needs? What is it that produces a person like that and what drives them, and if you can identify that stuff–Which I wanna be clear, you should be doing for your good characters also.  
+
+
+DRE: Yep.
+
+
+AUSTIN: I don’t – I can’t really point to anyone who comes to mind who is like, “This is a good Friends at The Table character who just did good things cleanly for no reason.” (ALI and JACK chuckle) Like I don't think we–I think that the characters who I think are good people also had to have done that work of, why do they care about the world in this way? What can they point to in their own histories that develop them in that way? I think like Gig Kephart who is like, you know, a great–a good person, especially by the end of that arc or the end of that show, starts as someone who spends a lot of time around people doing their jobs, interested in that, learning about that, and that is how you can immediately ground Gig and Gig’s morality in something material. And you should be able to do that with basically all your characters. What was–You know, you don’t need a, you know, a journal long backstory for your character, but you do need some idea about what it is that put them on the paths that they’re on, if that makes sense. So yeah. People keep saying Kodiak is like innately good and I’m not there for that because we’ve had bad dogs and that happens sometimes. A good dog can be a bad dog. You know, nothing’s–I don’t think anything is innately good.
+
+
+JACK: Remember those horrible dogs in the Marielda game?
+
+
+AUSTIN: Yeah, those were bad dogs, see? There are bad dogs out there.
+
+
+JACK: Like siblings or something.
+
+
+AUSTIN: Totally. Kodiak could’ve broken bad. You don’t know. Just a couple of bad rolls, that’s all it takes. Any other thoughts here before we move on to our last question?
+
+
+ALI: Um. I have one more thing to say here which is that like, in terms of like just like your own comfort around playing a character and just to sort of you know, have a vent there so it doesn't feel like you're always being that person. The way that I get around this is really focusing on the things that the character actually cares about or would feel warm towards or you know, might make them second guess their bad things. Um. I think, you know, I think some of the initial conflict about figuring out what kind of evil character was the expectancy that she wouldn't have friends or would have people she wanted to protect, just because she was evil. 
+
+
+AUSTIN: Mmhm.
+
+
+ALI: And like changing that and making that distinct about her character was something that was really important and Hella wouldn't be as fun to play if like I didn’t know that she had that guilt about the way she had treated Lem at the end of the first season or she hadn’t had someone like Hadrian all of the time, or Adaire for that matter, who was someone she really cared about but did not care if she was acting good or bad. Same thing with Broun which is like the texture of the character changes tremendously once you add Valence into it–(laughs) into the thing there. And like yeah, let evil people have friends. They do in real life.
+
+
+AUSTIN: They do! They do in real life and they do in stories and that doesn’t…That is not like… That is not a handwashing. That is not like, “And that means that we’re cosigning evil.”
+
+
+JACK: That they’re actually good.
+
+
+AUSTIN: That they’re actually–no! It turns out evil people are really funny sometimes and it sucks. It’s so annoying. (JACK and ALI laugh) They fucking suck so much, but sometimes they tell a good joke and what do you do with that, right? Sometimes you count on them for things and that is miserable. And I don’t think you get there with mustache twirling and I don't think you get there with…And you don't have to get there. If no one at the table wants to do that game, you don’t do that game. You know what I mean? If no one at the table wants to do the game in which, you know, you have a character who is–you know, has done really demonstrably bad things but also is a joy to be around, don’t play that game. But like I don’t know. I’ve been watching a lot of anime lately. (DRE and ALI laugh) Boy, there are bad people in that. Y’all ever see anime? Shit. 
+
+
+JACK: The two…Commander Killing, is that his name?
+
+
+AUSTIN: Yeah, Commander Killing. Great name. Who are you talking about?
+
+
+JACK: (overlapping) From uh…From uh…The guy from War in the Pocket.
+
+
+AUSTIN: (overlapping) From…From…0080: War in the Pocket? Yeah, he’s miserable. 
+
+
+JACK: Colonel Killing.
+
+
+AUSTIN: Or are you talking about–Which character in War in the Pocket are you talking about? 
+
+
+JACK: The military general type. 
+
+
+AUSTIN: Who–With like a smug look on his face and big glasses?
+
+
+JACK: Possibly. 
+
+
+AUSTIN: Okay.
+
+
+JACK: He has a line which I wrote down as the like, the–Talking about how the handle guides the swords, like I wrote down two lines for Clementine–I think I actually pitched them to you–
+
+
+AUSTIN: I think you did.
+
+
+JACK: In a street in Astoria in winter, back when we were able to be in the same place and outside, which is when he says “On this mission, I have decided to listen to your opinion.” Which is fucking incredible. (AUSTIN and DRE laugh)
+
+
+AUSTIN: Yeah, that’s him. That’s Killing.
+
+
+JACK: And as soon as I saw that line, I was like, “Oh great, this is a character.” And the other one was like, the person who always runs into a scene and says, “bring me my horse” to a person they perceive to be less than them and like, getting those two lines even before–At that point, the character that turned out to be Clementine, he was like an older man.
+
+
+AUSTIN: Right.
+
+
+JACK: He was like a pilot who piloted some ship. He was like a general and then he became this woman general, and then it became that woman’s daughter.
+
+
+AUSTIN: And the general stayed around and became Crysanth, is what happened with that.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Yeah. Um, yeah. Uh huh, love it. Right like, This is the–Your other touchstone for Clem has always been Seivarden, right? From…
+
+
+JACK: Mmhm!
+
+
+AUSTIN: Seivarden from, uhh.
+
+
+JACK: The Radch. The imperial Radch, with a couple of big differences.
+
+
+AUSTIN: Yes, huge differences, absolutely. But that specifically, the worst version of Seivarden. The like, I’ve just–I’ve spent my time just executing people and not feeling bad about it. [JACK: Yep.] And Seivarden is like an incredible character, because you end up…
+
+
+JACK: Phenomenal piece of writing.
+
+
+AUSTIN: Yeah,  you end up getting really close to…As close to her psyche as you can from outside of her, right? Because you have a character perspective that has a big deal of understanding and knowledge, but is still separate from her. And I don’t know. People should read those books. They’re really really really good.
+
+
+JACK: Yeah, I should read the third book. I’m really excited.
+
+
+AUSTIN: You should read the third book. You should wrap it up. Alright, one more question. This one is from Remy who says:
+
+
+[QUESTION - 1:16:09]
+
+
+“Super curious about this given Partizan developments. Can you talk a little bit about introducing new player characters midway through a game? I’m eager to see what your process has been and any help you can spare to help them just as fully fledged as folks who’ve been around longer.”
+
+
+Obviously, this is a big Jack and Dre question. As Jack, you’re now playing Kalar Anakalar . Another good Imperial Radch style name there. Not quite Anaander Mianaai, but you know. Adjacent. And the Figure in Bismuth obviously, Dre, who has seen a little more action now that we’ve recorded another session. So I’m curious for both of you. How do you feel about introducing new characters in the middle of a campaign? Is this the first time we’ve done that?
+
+
+DRE: I think so.
+
+
+AUSTIN: I think so.
+
+
+JACK: Yeah.
+
+
+AUSTIN: Yeah, I think so. I’m like going over sessions and I–Yeah, outside of like a Bluff obviously, but that's not the same. Yeah, I think that’s it.
+
+
+JACK: Spec them out quickly and aggressively if you’re writing this down. (DRE laughs)
+
+
+AUSTIN: Kalar and Figure are both so clearly characters you made in a system after having played that system for a year, it’s not even funny. (ALI laughs)
+
+
+DRE: Uh huh.
+
+
+AUSTIN: It’s so–It’s actually so funny. Can you explain what you mean?
+
+
+JACK: They need to be able to move. The thing I wrote is, give them things they need to sing as fast as possible. Which is like, you know, you’re trying to come up with a character really quickly and you need them basically, you need their little legs to be running in the air such that when they touch the ground, they just go shooting off like a wind-up car. And so when you’re picking stats or when you’re picking moves, pick–Try and be really powerful, right? Try and go, “If I can make the best and most exciting version of this character, what would their sheet look like?” And with Kalar, it’s just like, Kalar can fucking destroy things. He can jump around and leap around and I think that’s about it, right Austin? He’s sort of got some other little varied other bits and pieces but I’m like, what do I want this character to do?
+
+
+AUSTIN: Take a hit. You can take a hit.
+
+
+JACK: Oh yeah.
+
+
+DRE: Yeah.
+
+
+AUSTIN: Both of you can take hits. That’s the funniest thing. Both of you made characters who can get beat up without taking–Without losing efficacy. 
+
+
+JACK: Yeah, which leads–Needling on to my second point, play your first session like the character is not coming back.
+
+
+AUSTIN: (overlapping) Mm. (DRE laughs) I mean that’s true with Kalar, right? Yeah.
+
+
+JACK: I didn’t know whether or not we were going to keep going with Kalar, so I just– I threw him into this session, which really helped– Doing this helped me mechanically and narratively, as if those two things are separate things. Which they’re not but like, you know, mechanically I was able to go like, “Alright, I might not be playing this person again. What are all the cool things that I’ve been thinking about in this previous step that I can get them to do? And you know, how can that bring out their character?” Them smashing things, them jumping around, them getting walloped. And then it helped me narratively in terms of just like, this might be my only chance to put this character into this world for at least months, and so I have got to move as quickly and evocatively as I can with this character. Fool around and see what sticks. You don’t need to keep everything. Introduce clear moments and images to help you feel out the character. So for Kalar, this was like Kalar sitting in the chair smoking. Kalar drawing in his little book. Him acting as the team’s dad. 
+
+
+And move as quickly as you can, because you might throw it out. Don’t waste prep on stuff that might not land in play. You know, don’t write a thousand words about this character and then realize that 500 of them actually aren't going to be relevant or don't really stick. And then the last thing is, trust your friends to welcome you- to welcome this character into the story. They are excited or interested in what you have brought to the table. They’re excited and interested to get to know this new character and make this character look exciting and interesting in their appearance. It’s exciting to play with a new character from someone you're familiar with. It’s always exciting for me to meet new characters and I think that you know, when I started playing Kalar, something that was really reassuring for me was like, “Oh, I’m not gonna have to be doing all the work on this character. The character is going to come out through my interactions with my friends, who are going to be playing off this character as well.
+
+
+AUSTIN: I think of that with Figure and SI’s various interactions. Just immediate–
+
+
+JACK: So good. Art just being like, let’s go!
+
+
+AUSTIN: Just immediately so good. With Dre, the Figure and SI. Though, I will say a big difference with the Figure from Kalar based on what Jack has set up is that we talked about the Figure very clearly as a character you’re setting up for more screen time next season or not next season but next Partizan season or next whatever the follow-up ends up being called. How was that distinct in that way from the character you would pick up and maybe only play once?
+
+
+DRE: It definitely influenced a lot of like what I was looking at when it came out to speccing the character, like mechanically speaking. Like I spent as much time looking at like what is the type of character I want to play in next system compared to the system we’re playing now. Have we said what we’re playing now?
+
+
+AUSTIN: Yeah, yeah. We announced Armour Astir. Yeah yeah yeah.
+
+
+DRE: I thought we did but I wanted to make sure. I think even down to like at some point, we were talking about like, what is the divine this character used to worship? And I was like I’m just going to pull this move out of Armour Astir. (laughs)
+
+
+AUSTIN: Yeah, yep.
+
+
+DRE: That sounds like a good name for this divine. I definitely think though, I’ve kind of had the opposite experience of Jack wherein like mechanically I made Figure to be mostly a mech pilot. He has not been in a mech once so far. (JACK and DRE laugh, ALI makes thoughtful ‘mmm’ noise)
+
+
+AUSTIN: Yeah, has not happened yet.
+
+
+JACK: He’s got a great mech.
+
+
+AUSTIN: Season ain’t over but…
+
+
+DRE: Yeah, but the good thing of that is that it has forced me to go back and think a lot more about like, where they came from and what all of the life that has happened off of screen for them looks like so far. In a way that like, when you start with someone at the beginning of a season, I think about some of that stuff but I don’t feel the pressure to think about it as much as that stuff because for me, the life is gonna get built in over play. Whereas with Figure, I feel like, “Okay, I don’t get, you know, 20 games to figure out what this character is.” (laughs) Everybody else already has done that. So what do I need–What do I need to fill in those blanks?
+
+
+AUSTIN: Yeah. And for me, I think that part of that ends up being why both of those characters have such big immediate like, here is the high concept, right? Not that our other characters this season did not also have high concepts, to some degree. But like you know, history teacher turned mech pilot whose body is turned into crystal is pretty–You know, through experimentation witchcraft–is pretty out there, right? Revolutionary bird dad. Boom. Done. (JACK chuckles) I get it. You know what I mean? We don’t need the nuance of, okay well this person - This is not - No shade to Broun. But like I was born in Apostolos but I moved to Orion very early and I worked in the military arms industry and then came back and I became a mercenary. Why am I a mercenary now? Okay, so then I came back and then dedededa. That’s a complex character who needs some space to get there, I think a little bit. Whereas, my body is crystalline or made of bismuth. My name is Bismuth and I work for–I’m the right hand of a witch you don't trust. Boom. Done. Got it. Let’s go. (ALI and JACK laugh)
+
+
+JACK: Yeah, uh huh.
+
+
+AUSTIN: But yeah, I think knowing that we were going to come back to this stuff, which Dre knew. Both of you knew before the audience knew. I mean I have not said this - I have not said this - I don’t think I said this publicly anywhere? Maybe I have. I knew pretty fucking early that we were going to come back to this because it was going so well. I–The general arc of this season has been like - has been doing the thing I hoped it would do from - I didn't know Millennium Break stuff would happen. I didn’t know the stuff around Clem, you know. There’s a lot of particulars I didn’t know but the big big big big picture of like moving from Beam Saber to Armour Astir, I had hoped for that since before we started Beam Saber. I–Like deciding Beam Saber was partially me also being like, I bet we can get to Armour Astir in a cool way. And then within the first like four arcs, I was like I think we should do a second season of this. We did so much prep work. Everyone is doing so good. I love these characters. I love this world. There’s so many open questions and I dont wanna have to bring everyone on screen yet. I want Dahlia to remain off-screen this whole season. I want main characters who are important to never show up, because otherwise everything feels rushed and too particular to Partizan when in fact, I want the world to feel vast. 
+
+
+And so around the halfway point, I think post-Kingdom, is when I was increasingly sure we would come back and that’s when we started talking. I think it was after the Nooncrown game especially Dre, you and I were like, “Alright. Let’s look at Armour Astir classes. Let’s just look at them, and see what jumps out. Why it jumps out.” And we should talk about–Another thing that we did do with your class is you’re playing - Your character class for that season will be the Imposter. The Figure in Bismuth is an Imposer, which is a character class in Armour Astir that says, “Through magic medicine or sheer force of will, you took control of your body and made it ideal. This is who you’re meant to be and they’ll never take it away from you.” And a big part of that in the book is very much like, hey, bodies are important here in a way that it is especially true for this class because it’s about body modification in some way. Whether that augment is, you know, through learning some sort of special spell or having cybernetic enhancements or having, in your case, witchcraft done to your body to enchant you in this new way. There’s something happening here that means that your body is not typical, right? With all of the weighty connatations thereof. What does that mean for you? We went through that list of questions. We talked about those questions and I think that has influenced stuff that I think will hopefully come to be seen over, you know, the next season basically. The rest of this season and into the next season around just like…You know, we talked about this a little in an episode thats not out yet but like bruh, your shoulders and your head are really heavy. (DRE laughs) You have to do work to maintain that. To be able to use your body in an efficient way for what yo u set out to do means maintenance. It means like doing certain exercises. It means living a life in which you're just like, that is part of your daily routine because otherwise–The witch gave you - brought you back to life or kept you living by infusing you with bismuth. She didn’t make that bismuth less heavy for you to carry around and we talked about your faith and stuff like that. Those things for me are super interesting and even if that stuff doesn't show up on screen, it’s important for understanding the character’s headspace for a player, I think. And we did a lot of conversations around that. Less so with Kalar, but I think that's because we did originally dream of Kalar as, “Hey, we’ll see how this goes. We don’t know yet if you’re gonna come back to Clem or if we’re gonna let clem be handed over or what.” We’re pretty sure you were gonna hand Clem over. We honestly didn’t know how much season there was gonna be left. Kalar might’ve died and you’d roll a new character next season. We just didn’t know.
+
+
+JACK: Yeah.
+
+
+AUSTIN: So yeah, I don’t know, it’s exciting. I’m hoping we continue to do some character changes throughout the rest of future seasons because it’s fun. It’s fun to introduce new people.
+
+
+JACK: It’s like productive.
+
+
+AUSTIN: Yeah, definitely.
+
+
+JACK: It’s like, yeah. Interesting stuff comes out of it. 
+
+
+AUSTIN: Totally. Any final thoughts on this question or any others that we’ve done?
+
+
+ALI: I mean if you’re thinking about changing characters, you should probably do it.
+
+
+AUSTIN: Yeah.
+
+
+ALI: I think I regret not doing it when I was considering it when I was, but.
+
+
+AUSTIN: When were you considering it? Was that a Broun thing or was that a…?
+
+
+ALI: Um..No! 
+
+
+AUSTIN: I was gonna say.
+
+
+ALI: Noo no no no. I’m going to play Broun for the rest of my life. I’m sorry. (DRE laughs) Because Valence died? I’m sorry. No no no, I’m sorry. (laughs) 
+
+
+
+
+AUSTIN: Oh, is this Hella final season?
+
+
+ALI: No no no no. It was um…
+
+
+AUSTIN: (remembering) Ohh.
+
+
+ALI: Mid-season Twilight Mirage.
+
+
+AUSTIN: Yeah.
+
+
+ALI: I was gonna jump off of Tender and um…
+
+
+AUSTIN: That would’ve been fun.
+
+
+ALI: Either, I don’t know. I would’ve…I was thinking about it. I didn't do it and you know, it could've been cool. I don’t know.
+
+
+AUSTIN: We’ll talk about it off mic, I wanna know. I need a reminder on who this is. (ALI laughs)
+
+
+JACK: Yeah, I wanna know who this character is.
+
+
+AUSTIN: Yeah, don’t share this. This is just us shit.
+
+
+ALI: Oh, you both know! I told you at that sandwich - the donut place. It was the donut place.
+
+
+AUSTIN: When we talked about the planets.
+
+
+ALI: Yeah.
+
+
+AUSTIN: I was probably so far up my own ass thinking about that shit. (ALI laughs)
+
+
+JACK: Thinking about the planets. Eating a donut.
+
+
+AUSTIN: Yeah.
+
+
+JACK: God, those were the days.
+
+
+AUSTIN: Those were the fucking days.
+
+
+DRE: Yeah, right? Remember when you could just think about the planets and eat a donut?
+
+
+ALI: (overlapping) We’ll get them back.
+
+
+JACK: (laughing, overlapping) At the donut shop. 
+
+
+AUSTIN: (overlapping) I do not. (ALI sighs) At the donut shop, that place was so good. I think that place is still open, I hope. 
+
+
+ALI: We’ll all hang out again.
+
+
+AUSTIN: One day.
+
+
+JACK: We’ll all hang out again.
+
+
+AUSTIN: I hope so. Alright, on that note. (ALI laughs) On that fucking downer bullshit, y’all should just go look at Armour Astir.
+
+
+ALI: Dre, come get donuts.
+
+
+DRE: Oh yeah.
+
+
+AUSTIN: Yeah, come get donuts. (ALI laughs) Sorry, I’m helping my mood by just scrolling up and down in Armour Astir and looking at mechs. (ALI laughs louder, DRE makes agreeing noise) They’re all just so good.
+
+
+JACK: (overlapping) Not even reading, just seeing.
+
+
+AUSTIN: They’re all so fucking good. The art is just so good. I love this art. I’m gonna show you this page where this mech…Yeah, look at that! Boom! I’m gonna make that big on screen in the stream. (DRE laughs) I love that the smoke and like magical mist from the Aries 3 covers the header on this page.
+
+
+DRE: Oh, wow.
+
+
+JACK: Oh, thats sick.
+
+
+AUSTIN: That’s so sick.
+
+
+JACK: I’m very excited.
+
+
+AUSTIN: This book is gorgeous. Anyway, reminder tinyurl.com/freebluff to listen to free Bluff City. You already do that. tipsatthetable@gmail.com is the email. friendsatthetable.cash is the Patreon. Um. What do we - oh. Merch. We should probably say merch stuff one more time. Right?
+
+
+DRE: Oh yeah.
+
+
+ALI: Yeah, yeah yeah yeah. So our collection is still up for pre-order over at fangamer.com. A bunch of the Partizan hoodie sizes have sold out and a - the - the best way to get that restocked is to sign up for a restock notification through Fangamer because that tells Fangamer like….
+
+
+AUSTIN: (overlapping) Yeah, there’s a big notify button. Click that.
+
+
+ALI: Yeah, and that tells Fangamer, oh, somebody wants to buy this. I will say a little inside baseball that our Fangamer connect said that like, they’re like full up on scheduled printing for the year, so that's probably not going to change soon. But if you want one, let them know that you'd like one. 
+
+
+AUSTIN: Yeah.
+
+
+ALI: But yeah, it’s a beautiful Partizan hoodie, a fun aria joie shirt, which I’m so glad exists!
+
+
+AUSTIN: Me too.
+
+
+ALI: and uh, the Hieron boat party t-shirt, that comes with the very good Samothes sticker.
+
+
+AUSTIN: Fucking Samothes, yeah. So good. (DRE laughs)
+
+
+ALI: (laughs) Other updates, there’s gonna be–Like I said, there’s gonna be an episode of Bluff City tomorrow. There’s gonna be like, I’m going to do an extended last time on, which is going to be a 10 minute stand alone upload so if you like see–
+
+
+AUSTIN: Oh, sick. Awesome
+
+
+ALI: Yeah, because there's been a gap in what's already kind of a weird (laughs) arc of Bluff City and just, you know, to make it easier, that episode is probably gonna– I’m gonna delete it like in two months or whatever so if you’re listening to it currently, it's not there. But for people who are listening to it as it’s released, that’s gonna be there for you. So if you see a 10 minute Bluff City tomorrow, you know. 
+
+
+AUSTIN: That’s what that is. 
+
+
+ALI: Yeah. (laughs)
+
+
+AUSTIN: Alright, you can find me at Twitter on @austin_walker. Where can people find you, Ali?
+
+
+ALI: Um, I’m over at @ali_west at twitter.com.
+
+
+AUSTIN: Dre.
+
+
+DRE: You can find me at Twitter at @Swandre3000. 
+
+
+AUSTIN: And Jack.
+
+
+JACK: I am on twitter at @notquitereal.
+
+
+AUSTIN: Alright, that’s gonna do it for us. Hope everyone has a good remainder of their Sunday and look forward to all the great stuff coming soon. Bye bye bye.
+
+
+ [END OF EPISODE - 1:33:39]

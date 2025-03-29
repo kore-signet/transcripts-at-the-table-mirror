@@ -1,0 +1,2040 @@
+﻿PALISADE 35: Weapons Ready Pt. 1
+Transcriber: Iris (sacredwhim)
+Opening Narration        1
+Introduction        2
+Setup        9
+Objectives        30
+Framing        41
+Conflict Scene        53
+First Challenge        64
+Second Challenge        75
+Third Challenge        92
+Resolution        117
+Opening Narration
+Austin: PALISADE is a show about empire, revolution, settler colonialism, politics, religion, war, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+-
+[music intro - “Nothing is Stationary” by Jack de Quidt begins]
+Austin (as Speaker):
+Connadine, your first mistake was moving much too slow.
+You can’t set the rhythm, set the tone, by acting from below.
+Is it any wonder you were out before the fight began?
+You spent more time on festivals than on your battle plan.
+Well, all that’s over now. You’ve wasted too much time
+Playing pretty music and writing petty lines.
+My father has grown weary of subtlety and spy games.
+It’s time to set the world on fire with noble Whitestar flames.
+Send message. New note, a memo to my generals.
+Eight rules for fighting—scratch that, eight directives for engaging rebels.
+Number one: Never build a base that you intend to keep.
+Number two: Never give up the air.
+Number three: Never let them retreat.
+Number four: Be sure to delegate, but always lead from the front.
+Number five: Weapons aren’t only for killing, they’re for getting what you want.
+Number six: Never waste a meal on a silent captive.
+Number seven: Authority well-worn is never unattractive.
+Number eight needs a little more space.
+Begin sub-memorandum, and fix this lighting on my face.
+If you’re watching this, then you’re trusted, beloved, aristocracy.
+No matter your name, you’re noble to me;
+Blood spilled means our blood is the same.
+And that’s what we’re fighting for. We aren’t here for profits.
+And we aren’t here for prophets. We’re here to clean up a mess,
+And duty is success. Duty is opportunity. Opportunity to be the best.
+The best version of yourself, made of steel and fire.
+Made of blood and gold, made of wins and losses.
+Made of spirit and stone, made of spit and bruises.
+Made in conflict zones, made of light and violence and knowledge and courage and broken bones.
+And that is number eight. Carry that in your eyes.
+I want you to break them with a glare. I want you to make them realize
+That you’re fortifying a vision of clear, blue skies
+While they’re frying and dying for an imaginary future they can’t even describe.
+Introduction
+[2:54]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, and joining me today, Jack de Quidt.
+Jack: Hi, I’m Jack, you can find me on Cohost at @jdq, and you can buy any of the music featured on the show at notquitereal.bandcamp.com.
+Austin: Art Martinez-Tebbel.
+Art: Hi, you can find me on Twitter at @atebbel. I’m also on Cohost and Bluesky @amtebbel. Neither of those super feel like it’s working out, if I’m being honest, but they’re there, and I’m trying.
+Austin: And—
+Art: You know, if you have another way to contact me, just reach out. I’m around.
+Austin: Just reach out to Art.
+Art: Yeah.
+Austin: And as you can tell by the way my voice didn’t end earlier when I was introducing Art, and by her laugh, Ali Acampora.
+Ali: Hi. You can find me on the internet on a different podcast called A More Civilized Age.
+Austin: That’s true. You can do that. Come listen to us play Knights of the Old Republic. And apparently pronounce things wrong. Thanks, Keith. Our goals today are—
+Art: What are you pronouncing wrong?
+Austin: Are we doing this?
+Ali: Everything.
+Austin: Everything, apparently.
+Ali: Bastila [ba - STILL - a].
+Austin: Bastila [BAS - till - a] versus Bastila [ba - STILL - a].
+[Ali chuckles]
+Austin: Kashyyyk [ka - SHEEK] versus Kashyyyk [CASH - ick], maybe. Carth Onasi versus… I don’t know. Keith said we pronounced Carth wrong at one point. I think that’s impossible.
+Ali: [laughs] Taris [TARE - iss] versus Taris [TAUR - iss].
+Austin: Taris [TARE - iss] versus Taris [TAUR - iss]. But the game pronounces that backw—both ways.
+Ali: Uh-huh.
+Austin: We’re continuing our game of Armour Astir by Briar Sovereign…
+Art: The galaxy must have accents.
+Austin: The galaxy has accents, yeah.
+Ali: I, actually, if we’re still in plug mode—
+Austin: Yeah, yeah.
+Ali: Can I just say you can hear me host Grandpa’s Farm—
+Austin: You can!
+Ali: Which is following—which is finishing up this month. You can also hear me host a $15 tier Gathering Info, which is a monthly podcast where we sort of talk about behind the scenes stuff.
+Austin: It’s true.
+Ali: A spiritual successor to Drawing Information.
+Austin: Drawing Maps, but yeah.
+Ali: That’s true. [laughs] I said that wrong. That’s funny.
+Austin: It’s okay.
+Ali: Anyway, hi. Hello. Hi.
+Art: Oh, can I—
+Ali: What am I doing here? Oh, yeah.
+Art: Wait, can I do one more plug?
+Austin: Yeah.
+Ali: Please.
+Austin: Plug it.
+Art: This is gonna be an incredible called shot, but I think if you go to friendsatthetable.shop right now, there’s gonna be something new there.
+Ali: Right now, I would—[uncertain wavering]
+Art: I think…
+Austin: Hm, yeah.
+Ali: Yeah, maybe. [chuckles]
+Art: Yeah, we’re gonna get the proof on Monday.
+Austin: That’s the plan.
+Ali: Oh, yeah, just one more episode, then.
+Art: And if it’s not true, you won’t ever hear this. It’ll have been cut out.
+Austin: Well, we’re taking this week off. We’re taking the recording week off for Thanksgiving, right?
+Ali: December 7th? December 7th, yeah? Perhaps?
+Austin: Yeah, December 7th. Yeah.
+Ali: Perhaps?
+Ali: I mean, it would—it’s sort of a disaster if this isn’t up until December 14th.
+[Ali chuckles]
+Austin: Yeah, that’s correct.
+Ali: Ah, a disaster. Okay, yeah. Yeah, yeah. Yeah.
+Austin: Alright, let’s ship it.
+Art: Yeah, there’s gonna be a—yeah.
+Austin: Friendsatthetable.shop.
+Ali: Friendsatthetable.shop.
+Art: Dot shop—Twilight Mirage shirt worked on creatively by the three people playing this game today.
+Ali: Uh-huh.
+Austin: I didn’t touch it.
+Art: Well, you’re sort of hosting this game today.
+Ali: Thank you to Conner Fawcett.
+Austin: Yeah, but I didn’t touch the T-shirt. That’s what I’m saying.
+Art: Right, I’m saying me, Ali, and Jack.
+Austin: Oh, I see, I see, I see. I don’t—yeah, uh-huh. Thank you to Conner Fawcett, yeah.
+Art: Yeah.
+Ali: I’ve—you know, I think everybody had a touch this launch, a little bit. Thank you to Janine for some of her design work.
+Austin: Yes. Absolutely.
+Art: And the COUNTER/Weight shirt’s back, right? That’s—we’re doing that at the same time?
+Art: COUNTER/Weight shirt is back…
+Austin: COUNTER/Weight shirt and Twilight Mirage shirt, wow.
+Art: Yeah.
+Ali: And PALISADE hoodie variants.
+Austin: Yeah. The word “variant” is true and doing work in a real way.
+Ali: Uh-huh. Twitch.tv/FriendsAtTheTable.
+Art: Yeah.
+Ali: While we’re talking about things to check out.
+Austin: That’s true.
+Ali: Mediaclub.plus.
+Austin: Mediaclub.plus. Jack, how far in to Hunter x Hunter do you think that show will be by the time this episode comes out?
+Jack: It is hard to say. Our recording schedule for Media Club Plus is we are so—deliberately, so far ahead of what is airing, [Austin: Yeah.] that is feels like a little treat every time I look at the schedule, but it does make it a little tricky to figure out kind of where we are. My suspicion—
+Austin: Alright, I’m taking a guess. What’s your suspicion?
+Jack: —is that we will have wrapped up the hunter exam and begun to move to the next strange location following that.
+Austin: Right.
+Jack: A mansion attached to a volcano.
+Austin: I believe—
+Ali: [hums] Ooh, and I’m a special guest.
+Austin: I believe that that is not out yet. I believe that will be the next episode out.
+Jack: Oh, wow. Exciting.
+Austin: Because—yeah, based on looking at the website, [Ali chuckles] the last episodes that went up—the last episode that went up as of time of recording this were 17-18, and then 19 through 21 will be the next one, and I think that that is not this week, but the week after.
+Art: Oh, y’all are getting through this much faster than I thought you were going to.
+Jack: We’re having so much fun.
+Austin: Once you get going in a show like this, you just go. You know?
+Ali: Mhm.
+Art: ‘Cause I’ve been hearing Keith talk about, like, season one is about Hunter x Hunter, like, isn’t this season gonna be three years? Why are we talking about this like season one? But it—that’s not gonna take that long.
+Austin: No.
+Ali: Oh, yes—yeah, yeah. There will—you know. Media Club Plus is a very broad title.
+Art: Yeah.
+Austin: Yeah. And so, Ali, you’re on the next episode.
+Ali: I think so.
+Austin: Talking about mansions. If not the next one, the one after that.
+Ali: Uh-huh. I’m involved in that arc.
+Austin: And then I’m on one, like, six from now or something.
+Jack: Yeah, you’re gonna show up and talk about some people playing an interesting game involving a glass of water and a leaf.
+Austin: That’s true. Also talking about superpowers, basically.
+Jack: Yeah.
+Austin: Like, what it means to have a schema for your powers.
+Ali: Mhm.
+Austin: You know.
+Jack: Yeah.
+Setup
+[10:00]
+Austin: Speaking of schema and power.
+Art: Oh, look at that.
+Austin: Wow, some things have changed [Jack laughs] over here on the Palisade sheets faction section.
+Art: [chuckles] I’m on the Roll20, and like… this looks—
+Jack: Yeah.
+Austin: Hey, the stability—do you see this? Stability is yellow now.
+Jack: Yeah.
+Austin: Watch this, ready? It’s green when there’s seven stability, [Ali gasps] [Jack chuckles] and then if I put the X in here and follow that Diadem Gravtrain, it drops to six, and it turns yellow.
+Jack: Oof.
+Art: Wait, what? Do that again?
+Austin: Okay. We’ll ma—okay, are you on the page? Boom, it’s green. Do you see this?
+Art: Yeah, yeah. Yeah, uh-huh.
+Austin: Do you see it’s at stability seven?
+Art: Yeah.
+Austin: And it’s green?
+Art: And then—
+Austin: Then, boom.
+Art: Boom.
+Austin: Now it’s six and it’s yellow.
+Art: Alright.
+Jack: It is getting concerning. If I’m playing a video game and I see that my health bar has gone from green to yellow, [Austin: Yeah.] I think to myself, [chuckles] “well, well, well.”
+Austin: Yeah.
+Jack: “This isn’t looking good for me.”
+[Ali laughs]
+Austin: Sure isn’t.
+Jack: It’s about then that I look for my health potion. It’s about then that I drink my health potion, you know?
+Austin: Yeah.
+Jack: Or I break a health crystal, or I…
+Austin: Yeah, you consume the health crystal, [Jack: Yep.] and it does the slow heal.
+Jack: Yeah.
+Art: Did you do this?
+Austin: Did I do what?
+Art: Did you make this turn yellow?
+Austin: No. It’s all automated.
+Art: Oh, you didn’t…
+Jack: It is just metaphysics, Art. This is simply what happens in the world when a health bar loses…
+Austin: Yeah, this is…
+Ali: [laughs] No, somebody—we should shoutout who designed this sheet.
+Austin: Yes, exactly.
+Jack: Who designed the metaphysics, yes.
+Austin: This is not—we did not make this. They were made by Ida Ailes. I’m seeing if there’s like a shoutout. Tinyurl.com/aaasheets. Love it.
+Jack: It’s great. I love this sheet.
+Art: This is indeed a triple A sheet.
+Ali: Mhm.
+Austin: It is.
+Jack: It is.
+Art: Assuming that’s what that means, and not like, “aah! Sheets!”
+Austin: Yeah, uh-huh. [chuckles]
+Art: It’s not scary. I’m not scared by it.
+Austin: I see what you’re saying, yes. Totally.
+Jack: But yes, I can’t help but notice that every single—well, firstly, hello, Ali. Based on precedent, I can only assume that Ali is here to introduce a stellar combustor that only targets us.
+[Austin, Art, and Ali laugh]
+Austin: Well, actually, we should go over why Ali’s here. Ali, do you want to read a move you took that you have had, but that part of it hasn’t come up until just now?
+Ali: Yeah, hi.
+Austin: Hi.
+Ali: I have recently taken the move Born Leader. Obvious choice.
+[Jack laughs]
+Ali: “You Lead a Sortie with advantage and give the crew Confidence when they Plan and Prepare. Figures within the Cause lean on you for strategic advice. To some degree, their successes and failures during the conflict turn can be attributed to your guidance.”
+Austin: Well, there’s the thing right there, isn’t it?
+Ali: Uh-huh.
+Austin: There you go.
+Art: I saw someone with just the greatest description of Brnine this season and I just can’t remember it, but it’s—it’s so—it’s so fun watching Brnine be so effective and so, just like that, you know?
+Ali: Mhm.
+Austin: So swagless?
+[Ali laughs]
+Art: Yeah.
+Austin: Is a word I’ve been seeing a lot, around.
+Art: Like—yeah.
+Ali: Huh?
+Austin: Uh-huh. This is the—the one that I saw—
+Art: [cross] Like, what if—what if Steve Urkel was scoring 80 points in an NBA game?
+[Jack laughs]
+Austin: Yes. Exactly. A hundred percent. I think I saw someone say that you were a sad fish with a terrible haircut, and so…
+Ali: Wh—okay, no, that’s insane. I have a facecast for that haircut, and it’s one of the best haircuts in media.
+Austin: Okay, yeah. Mhm.
+Ali: What’s—what are we talking about? [chuckles]
+Austin: Mhm.
+Art: Friends at the Table fandom and forgetting your fancasts for haircuts [Austin: Yeah.] is perhaps like the most iconic duo ever [Ali laughs] as someone who’s still getting shit for, like, poorly describing a called-out facecast for a hair.
+Austin: Wait, whose—which one?
+Art: For Cassander.
+Austin: Oh.
+Art: When I said Cass looked like the protagonist for Persona 4—
+Austin: Oh, right.
+Art: And then said, you know, like a bowl cut, what I was doing was poorly describing what the Persona 4 guy looks like.
+[Ali chuckles]
+Austin: Yeah, that’s not what… yeah.
+Art: But no one went and looked.
+[Ali laughs]
+Art: Everyone was just like, “bowl cut? What a dumbass!” And that was like eight years ago. Eight years I’ve been putting up with this. No one went and googled “Persona 4 protagonist” and saw that that person looks cool!
+Ali: Wow.
+Austin: Yeah. Yeah.
+Jack: “Persona 4 protagonist…” let me look it up. Let me look this up. That’s a fuckin’ bowl cut.
+Ali: [laughing] No way.
+Austin: [laughs] It is not. It’s bangs.
+Art: [laughing] No one in a Persona game has ever had a fuckin’ bowl cut.
+[Ali laughs]
+Austin: [typing] “Persona bowl cut…”
+Ali: There’s important, like, side-sweeping here.
+Austin: There is side-sweeping here.
+Art: Yeah, anyway.
+Ali: Anyway.
+Art: No one listens to hair—[laughing] to everything you say about a haircut.
+[Ali laughs]
+Austin: So, you’re here—
+Ali: Hi. Yeah.
+Austin: —because Brnine is now, you know, advising. Is doing advisement work to the rest of the Cause, and that means that you have a little influence here.
+Jack: God.
+Austin: On what goes on.
+Jack: How the tables have turned.
+[Ali and Art laugh]
+Jack: I have to ask…
+Ali: I’m a—you know. Yes.
+Art: Ali’s gonna be a great asset to [Austin: Uh-huh.] us.
+Jack: Is this advisement something that happens over the phone, or are you making visits, or are you getting called on?
+Austin: Great question.
+Jack: Are people coming and seeing you? I’m so curious about, like, you know, we’ve talked in the past about Cause leadership and them sort of having that, like—we talk a lot about the Cause voting, and then Mustard invariably breaking a vote.
+Austin: Yeah, yeah.
+Jack: Which conjures in my mind the idea of this sort of, like, crowded revolutionary voting room. I’m thinking of those great rooms in all the Star Wars movies that have, like, 10 or 15 more people in than you would expect for their size.
+Austin: Sure, sure.
+[Ali hums]
+Jack: And everybody is looking at a map or whatever. That’s where I imagine the Cause to be in terms of their, like, people are meeting secretly to discuss these things. Does Brnine show up at those meetings now? Or what’s happening there?
+Ali: That’s a difficult question for me to answer given Brnine’s sort of wanted, current, you know, predicament.
+Jack: Yeah.
+Austin: They aren’t just moving you around very carefully?
+Ali: Right, yeah. That’s what I was thinking, like, I probably—last time I said that Brnine was sort of staying on the Blue Channel as much as they can [Austin: Mhm.] because as far as they know, the Authority isn’t aware that they’ve returned to Palisade. And there’s no record of that happening.
+Austin: Brnine, I have to—sorry, not Brnine. Ali, I need to suggest a thing.
+Ali: Yeah?
+Austin: What if Brnine started wearing a mask?
+[Ali laughs]
+Jack: Woah.
+Ali: That’s… ohh.
+Austin: What if Brnine adopted a third fake name? Second fake name. Something to turn over before our next downtime.
+Ali: Okay. Well, you know, this is—
+[Austin laughs]
+Ali: This is within one week of having—of being teleported back onto Palisade, [Austin: Yeah.] so I think right now what they have to do is, like, arrange transport with other people.
+Austin: Sure.
+Ali: But yeah, hi. Hey, everybody.
+Austin: Hello.
+Art: I think it would be funny if it’s just like a comic book thing. Like, Brnine, a very fancy pers—a very famous person at this point, wears just like, a domino mask. Just like…
+[Ali laughs]
+Austin: Right. And that’s enough to be like, “you could be anybody!”
+Austin: Yeah. They’d be like, yeah, who’s that?
+Austin: “If only Brnine were here…”
+Ali: Uh-huh.
+Jack: And you take it off. “Oh my god, it’s Brnine!”
+Austin: Yeah, exactly.
+Art: [laughing] Not this masked, swagless fish that we have.
+[Ali, Austin, and Jack laugh]
+Ali: I do wonder if there’s like a thing happening about who they’re willing to be in a room with.
+[Austin hums]
+Ali: “Willing” is such a strong word there, but like, I don’t want to talk to any spies. [laughs]
+Jack: Yes. I have to imagine there’d be like, op-sec of this.
+Austin: Oh, yeah.
+Jack: And I imagine that the op-sec is being run by—who is the best anti sort of spy unit that the Cause has? Is it August Righteousness? Who has been dealing with these—
+Austin: I don’t know. Yeah, it could be.
+Jack: So, one of the first things that we learned about August Righteousness was that he had kidnapped a duke [Austin: Yes.] and was kind of keeping him under weird house arrest.
+Austin: We didn’t learn that. We saw it happen.
+Jack: Oh, yeah.
+Austin: That was during Wagon Wheel.
+Ali: No, that was during,  um—
+Austin: It was during Wagon Wheel, I promise. It was the last act of—
+Ali: Oh, sorry, no, I was thinking of the House game.
+Austin: Oh, yes.
+Ali: Yeah, I think there was another sort of similar situation.
+Austin: That was a different—that was a different—yeah, yeah, yeah. That was Millennium Break. Millennium Break did that.
+Ali: Uh-huh.
+Art: I think, like, “Brnine gets increasingly paranoid” is a fun arc if that’s—I mean, you have to decide that’s what you want to do.
+Ali: Yeah.
+Art: But let me tell you, that’s fun.
+[Ali and Jack laugh]
+Austin: Mhm. You do have “verify the integrity of anyone you let on the ship”, you know, already.
+Ali: Exactly. Yeah.
+Austin: So that’s easy to imagine that spread—like, that seems more true than ever. You gotta do that, you know?
+Ali: Right, right. Verify anybody I share a room with is now the… [laughs]
+Austin: Right, exactly.
+Jack: Oh my god.
+Art: Yeah, great.
+Austin: Which, actually, maybe that’s part of it, is like, “I’ll have meetings on the Blue Channel. Come on board where I can verify you via Integrity.” You know?
+Art: Yeah.
+Austin: Or not Integrity. Ooh, Via Asepsis. Integrity is not verifying anyone.
+Art: Or is it?
+Austin: Or, I mean, yeah. [scoffs] It might be verifying the identity of the person it’s building to hold its own scepter. You know.
+Art: Or you would just put integrity in everyone who comes by.
+Austin: Great. Yeah. Fantastic. Love that.
+[Art laughs]
+Austin: There is a thing here that we actually have to talk about that’s a follow-on from last week, or last episode, which is: y’all secured a outcome from a faction, because you managed to rescue, effectively, the Divine Filigree, which we affectionately called train brain throughout the episode. Did you pick which—I said “did you pick” as if this isn’t—we’ve talked about it now, off-mic, [Ali: Mhm.] for a little while with the whole crew, to be like, well, what one did we—did y’all go with? Who did—what did y’all pick? Which faction outcome did you end up deciding to get?
+Ali: Yeah. Speaking on behalf of the crew here, we decided to go with the Blue Channel outcome, which is a specific asset or actor is made vulnerable or exposed in some way. And the—
+Austin: Are you keeping the Divine Filigree on board? You’re really just collecting Divines on this fucking ship.
+Ali: I, you know… leave me alone.
+Art: What could go wrong with that?
+Ali: Uh… don’t worry about it.
+Austin: Oh my god. Is this three?
+Art: I’m not worried about it.
+Ali: We still have to… [chuckles]
+Austin: Is this—am I rem—is it three, or is there a fourth one I’m forgetting about?
+Ali: Is there a fourth one we’re forgetting about? No.
+Austin: Partial Palisade.
+Ali: Yeah. But that’s just like, a guy.
+Austin: Palisade’s a Divine. But he’s just a guy.
+Ali: Yeah.
+Austin: He’s still—you know, but like, ex-Divine. You know?
+[Ali chuckles]
+Austin: It’s like three and a quarter, three and a half.
+Jack: Three Divines is so many.
+Ali: I’m gonna have a meeting during our downtime about this, is what I’ll say.
+Austin: Looking forward to it.
+Art: You could start a church.
+[Ali laughs]
+Austin: Truly.
+Jack: Consecrate the Blue Channel.
+Ali: We—
+Austin: Yeah. Well, like, and then, let’s be clear—
+Art: The holy Blue Channel.
+Austin: [chuckles] Figure has a direct line to Perennial.
+Jack: [cross] Yep. To Perennial.
+Ali: Mhm.
+Art: Uh-huh.
+Jack: Cori has a line to Devotion.
+Austin: To Devotion…
+Ali: Mhm.
+Art: Yeah.
+Austin: Thisbe is trying to learn how to talk to Divines.
+Ali: Thisbe is—yeah.
+Art: Yeah.
+Ali: Yeah. We have a lot to talk about.
+Art: This would be a great season of like, a prestige drama.
+[Ali chuckles]
+Austin: Yeah. Give us the—
+Art: I don’t really think that’s where this is going, but like…
+[Ali chuckles]
+Art: You know.
+Jack: I—
+Art: How would Breaking Bad make this next arc go?
+Austin: Great question.
+Ali: Huh? You mean Vince Gilligan? [laughs]
+[Jack laughs]
+Art: No, I mean, if Walter White and Jesse Pinkman had four Divines or whatever.
+Jack: I do—
+Ali: So we chose the—hi. We chose the Blue Channel outcome, [Austin: Uh-huh.] and we are targeting the Bontive Valley supply chain?
+Austin: Sorry, I’m thinking about Jesse trying to explain Integrity to Walter White.
+[Ali chuckles]
+Austin: Anyway.
+Jack: “The hell are you talking about, Jesse?”
+[Ali laughs]
+Austin: [laughing] Yeah, exactly. So yeah, so you—so you’re messing up, you’re causing a specific asset to be made vulnerable or exposed in some way, [Ali: Mhm.] and that specific asset is some sort of supply warehouse, some sort of like—I do like tying it to, like, the outskirts of the town of Eversin, that feels like a cool place for it to be, and it’s like a—it’s like a supply depot of some sort. Right? Bontive Valley supply depot X.
+Ali: Right, yeah, we were talking through a little bit, like, how this works in terms of like, you know, now that we have access to the train, we do X.
+Austin: Right.
+Ali: And thinking about, like, you know, especially whatever Nideo forces or logistics [Austin: Mhm.] situations they have set up that can be disrupted through having the train, and also they’re opening all of these Baseline cities that, like, you know.
+Austin: They are.
+Ali: That is—there’s probably a warehouse somewhere that we can, like, just steal pallets of food from.
+Austin: Yeah. Maybe it’s this, like, little node that’s un—one of these little nodes between Eversin and Carhaix. You know?
+Jack: Yeah.
+Austin: I think that’s fun. You know? There’s like this space—sorry, no one else is looking at this map except Art. Art and me are on the Roll20 and that’s it. But there’s, you know, a line between—there’s a train line between Carhaix and Eversin, and you can imagine one of those being the stop at the—
+[Art laughs]
+Austin: Yeah, what’s up? Yes?
+Art: These have been train lines the whole time.
+Ali: Huh? [laughs]
+Austin: Yeah. What did you think they—
+Art: I thought these were like, some political borders or something.
+Austin: No, it’s train lines.
+Jack: Political borders are the colored lines, Art.
+Ali: Colored markers, yeah.
+Austin: Uh-huh.
+Art: But it’s colonialism. Perhaps these are like, other political borders.
+Austin: [chuckles] That’s very fun. I do love that.
+Ali: Uh-huh.
+Jack: I do have bad news about the colonial history of train lines, Art.
+[Ali chuckles]
+Austin: Yeah, I mean, in many ways, they are also that, right? It’s just, you know. We’re not zoomed in on the map enough to think about what each of these little node markers is. That’s very funny, though.
+Jack: [laughs] God, it’s so funny to me that you were just like “oh, trains. Right.”
+Austin: Yeah. Uh-huh. So, I mean—
+[Ali chuckles]
+Jack: Were you looking at this map going, [chuckles] “ah, if only I knew where the train lines went, I could have narrated so much more clearly”?
+Art: Well, I just sort of thought it didn’t matter. The trains sort of go wherever we say they go.
+Austin: Wherever they go, yeah. Well, now we know that this is—that’s what the fucking Cause has access to now. Hexagon’s moving stuff around the—or could be moving stuff around these train lines, and, you know, the thinking that I had about this was like, I bet they just let it run normal for a while. Right?
+Jack: Oh, that’d be the way to do it.
+Austin: Train brain gone, but like—huh?
+Jack: That’s the way to do it, right?
+Austin: Yeah, yeah, yeah. Because like, the thing that happened there, to pull back the curtain a little bit, is like, Nideo is gonna steal the train brain and bring it to the Temple of the Threshold, where Gur Sevraq was—is, fake Gur Sevraq is—and have it there for ill purposes TBD. But like, they’re not gonna like, brag—they’re not gonna be like, “oh yeah, we tried to steal the train brain and someone else stole it from us.” But they don’t know that it’s been stolen. The last that they know is that it crashed into the fucking Diadem, right?
+Jack: They lost contact with their team.
+Austin: They lost contact with the team, right.
+Art: Yeah.
+Austin: So no one knows—and meanwhile, the Fabreal Duchy is like, “yeah, we saw some Nidean mechs on the thing before we got shot down by the Blue Channel.” They don’t know what the—you know, classic infighting could be happening. You know? But no one knows where it is, but y’all have it on board.
+Art: Well, and you can’t—you can’t, like, stop the trains.
+Austin: Right, right.
+Art: People need those trains.
+Austin: So as long as they let ‘em keep running, you know. The thing that will happen is—
+Art: Presumably people…
+Austin: Say again?
+Art: Regular people use the train, right? Yeah.
+Austin: Yeah, well, regular people, asterisk, right? Regular people who have the right paperwork, because remember one of the last things that happened was that—during the stellar combustor stuff, was that Kesh, like, upped the security theater of the trains.
+Art: Yeah, no, I loved the Keith bathroom paperwork scene.
+[Ali laughs]
+Austin: Yeah. Mhm. Yeah, yeah, yeah. Yeah, very important. That’s happening in your cities, alright? Also. Those Baseline cities are all over the map.
+Art: Are they? I thought you meant—I thought you’d heard something about Los Angeles that I hadn’t.
+Austin: Oh. [laughs] Give it a year.
+Art: [laughing] We can still use the public toilets here, Austin.
+Austin: Anyway. Should we talk about other stuff that’s important that’s changed?
+Art: Yeah. That symbol moving, is this—is this symbol in the right place?
+Austin: That’s just me. That—yeah, yeah, they’re in Joyous Guard.
+Art: These always overlapped? Okay.
+Austin: Yeah, I mean, they can be over here. It’s fine. I’m just moving stuff around.
+Jack: So.
+Austin: Yeah.
+Jack: Three Kesh Pillars have now fallen [Austin: Yeah.] in their entirety.
+Austin: Correct.
+Jack: We saw the Stargrave fall in the last downtime. Boy, did she. But in that time, the Diadem Gravtrain has now fallen in the sense that the…
+Austin: Which we saw in the last…
+Jack: The train brain has been purloined.
+Austin: Yep.
+Jack: But, and I’m looking here, the Paint Shop is also all crossed out.
+Austin: Yeah. Jack, what happened there? Well, we heard that, also, but we—it feels like maybe we didn’t get a full image on it.
+Jack: Well—
+Austin: On why Connadine was doing what he was doing.
+Jack: The new member of Millennium Break, Eclectic, ran into Riah Connadine, the former head of the Paint Shop in some unpleasant new city.
+Austin: Yeah.
+Jack: I don’t know if Eclectic—
+Austin: What if we save that scene?
+Jack: Yeah.
+Austin: What if you and I do something with that, with Connadine, later?
+Jack: That’s a good idea.
+Austin: Because I think I’ll have an opportunity to perhaps do something with that.
+Jack: Oh, fun.
+Austin: With you, maybe, still playing Connadine, but you know, I’ll have a frame for you, maybe.
+Art: What does this do for our new division, or do we just not get a new division because this division has no Pillars?
+Austin: You do. Pillars don’t need—or sorry, divisions don’t have to have Pillars. The division stays. And so I—that’s a great question. I mean, I did just drop military division, like, the template in here for Jack to fill out for this. But—so maybe, Jack, you fill that out and think about how you want to show off this division when it shows up. Which we already decided last time, but I’m playing coy with, so that Jack can fill out the details. I don’t know if Jack has ideas about names, or like, other stuff, so…
+Jack: Oh, I’ve got ideas.
+[Ali chuckles]
+Austin: Okay. Well, you can go ahead and fill that in. I guess, the thing here too is, Ali, you’re not gonna be here for the whole recording. But what we want to do is kind of get guidance from you on like, what the Cause is up to, you know, how is Brnine doing the thing that they can now do, mechanically—or, you know, mechanically and fictionally, that’s Powered by the Apocalypse games, generally, you do both—that is, again, quote, “figures within the Cause lean on you for strategic advice. To some degree, their successes and failures during the conflict turn can be attributed to your guidance.” So what’s your guidance, and then maybe we’ll do one scene where I would love to think about what the—what’s the Cause doing in this moment of like, momentum, you know? So let’s start with what’s your broad guidance? How are you—what are you telling these folks? What are your objectives?
+Objectives
+[29:17]
+Ali: [laughs] Sure, sure.
+Austin: And how are you doing—like, where is that—well, I guess we already kind of talked about bringing certain people aboard, getting them verified, et cetera.
+Ali: Yeah, I think it’s either in a meeting with, like, one—like, the lead member of each Cause faction, [Austin: Mhm.] whether it’s on the Blue Channel or within like, a Millennium Break place.
+Austin: Super secret base, yeah.
+Ali: Right, yeah. But yeah, I—it’s tough to—Brnine is a self-serving character. I—[laughs]
+Austin: Damn.
+Ali: [laughing] This is—this is, you know, an opportunity for people to follow their advisement, but balancing that and sort of the desires of the rest of the crew as best as I can represent. I guess, like—Brnine has a couple priorities, which is reaching out to the Five Afflictions.
+Austin: [hums] Interesting.
+Ali: I think that this is most present on their mind right now, given the result of the last mission.
+Austin: Sure.
+Art: This is gonna be a hell of a meeting.
+[Ali laughs]
+Austin: “They’re not so bad, you guys!”
+Jack: They changed the name just from the off.
+Ali: Uh-huh.
+Art: Yeah. The five, uh… A-friend-tions.
+Ali: Right. I don’t know if this is—
+Austin: [laughs] That’s nothing.
+Ali: [laughs] I don’t know if this is something Brnine would bring Palisade for, I think that’s sort of Palisade’s decision.
+Austin: Oh, sure.
+Ali: Or, you know, I have permission to brief you on the things that Palisade told me, sort of thing.
+Austin: Right. I mean, I’ll be honest, this sounds like an Unfurling Plan to me.
+Ali: [laughs] Does it?
+Austin: “Everyone plays, taking the role of either members of the Authority as you hatch a plan of nefarious nature, or the Cause as you figure out how to thwart that plan.” We could reverse that pretty easily. “Decide together where this meeting’s taking place and who else is present. Who are you both playing? What history do you have?” And it’s you being like, “hey, we could—we could go do some—we could make friends with the Afflictions.” You know? That’s a way we could do this. It could also just be The Discourse, but that’s such a—that’s such a, like, “the ball doesn’t move at the end” thing.
+Ali: Mhm.
+Austin: Though maybe that’s not bad, in some ways, if you’ve—we’ve previously been thinking about The Discourse as a thing that’s like, when the—because—hm. Previously, we’ve been framing all of our scenes from the perspective of the Bilats, right? Of the Authority. But if we—and as such, we thought about The Discourse as this thing that you could do that prevents the other side from getting a thing, because the end of The Discourse is not—it taps a faction, but no one gets an outcome from it. But it’s actually the same the other way, that like, if the—if The Discourse happens from Millennium Break’s side, or from the Cause’s side, that’s also a way in which the other side, the Authority, doesn’t get an outcome, which is interesting. I hadn’t thought about that. Anyway, I don’t know that it is The Discourse, because it’s not like everyone in the world is talking—maybe it’s everyone in the world is talking about the Afflictions, but like, I don’t know. I don’t know that Dust made the news, you know?
+Ali: [chuckles] Right, yeah.
+Austin: Eh, maybe it did. It just derailed a whole fucking train.
+Ali: But yeah, I feel like—yeah, I mean, it’s front of mind for Brnine talking about the last thing that they did, right?
+Austin: Yeah, yeah.
+Ali: So like, you know, when I 2-3 arcs ago would have tried to like sneakily slide this into whatever Brnine’s conversation is, [Austin: Yeah.] this is like a very direct way of being like, these are—this is something I’m interested in and that I can play up as…
+Austin: Yeah.
+Ali: [chuckles] …a fundamental thing for the Cause. Attached to that is some of the interest in the Bontive Valley, obviously, following up the [Austin: Mhm.] faction outcome we just got. And recognizing that we currently have 1 Grip taken away [Austin: Yeah.] from Nideo for the Bontive Valley right now…
+Austin: So more pressure on the Bontive Valley would be positive [Ali: Uh-huh.] for sure. Which actually, Art, I’m just gonna note that in your, like, notes section here, that we have, you know, [typing] the Bontive Valley emergency supply depot is vulnerable as a truth about the world from that thing, it is an exposed asset, is actually what it is. And I use that exact term because you do have that ability to, if you win a scene, un-expose it to fortify or hide it, [Art hums] but you have to win a scene to do that. But that is the truth, that is the case, as it stands. You wouldn’t do something—you wouldn’t get to do the other fun things you get to do, but. So that’s Bontive Valley, Afflictions. Brnine, what else is Brnine interested in?
+Ali: I think the third sort of, like, perspective that I think of in Brnine’s head is just generally be more aggressive.
+[Austin hums]
+Ali: The way that I’ve been playing Brnine with the, like, “I’m living on borrowed time” thing, [Austin: Yeah.] and also I’m sort of keeping Phrygian’s perspectives in Brnine’s mind post-stellar combustor.
+Austin: Interesting, yeah.
+Ali: And I can’t remember the exact line, but I remember it being a really good line from Keith, from Phrygian, where it was like, if all it takes for them to stop you is to hold up a gun, then they’ll always win.
+Austin: Mhm.
+Ali: And I think that that’s like, sort of what—like, if Brnine was putting up an inspirational poster in their office, [laughs] that’s sort of the thing that’s driving them right now.
+Austin: That’s very funny. Yeah.
+Ali: And I think that they would carry that sort of attitude forward when advising Millennium Break.
+Austin: Do you think—there’s one way to mechanize that that I think would be completely wild that we haven’t addressed, which is that like, one of the big struggles I think that the faction, or that the Cause, is having is that it’s really hard to attack—to reduce Grip right now.
+Ali: Mhm.
+Austin: Because you don’t have agents, right? There’s one way—there’s multiple ways to reduce Grip, right? One is to do missions against groups, right? But the other is to get an outcome that lets you reduce Grip, right? You have Military, which lets you fell a Pillar with zero Grip or destroy a vulnerable division; you have Strange, which is something unexpected and strange happens, which you could read as being reducing Grip, but you don’t have disrupt the Authority, removing 1d3 Grip on a Faction or Pillar from agents. Could you imagine Brnine putting pressure on one of these factions, or on Millennium Break in general to like, shift what one of the Hexagon factions does? One of the—
+Jack: Oh my god.
+Austin: Again, they’re not calling it Hexagon, but, you know?
+Jack: To change its mechanical outcome?
+Austin: Yeah.
+Ali: Oh, that’s kind of fun.
+Austin: Because if your thing is like, “we have to be more fucking aggressive, we have to play to win,” [Ali chuckles] that’s kind of a fun thing.
+Ali: Are they listed—are the options you were talking about listed anywhere on the—
+Austin: They are all between Cause Factions and then Wayward Factions. I’ll also just—let me just drop a screenshot, that’s easiest to do. The ones that we don’t have—so, right now, I’ll just go over them real quick for the listener, Blue Channel’s Guerillas, which is you make an asset or actor vulnerable. Grey Pond is Suppliers, which is you replace a seized faction or untap any other two factions. Jade Kill is Military, which is you fell a Pillar with zero Grip or destroy a vulnerable division. Carmine Bight is Adventurers, which is you cover a cut of loot to the Carrier. Flip a coin: heads, it’s valuable; tails, it’s treasure. Violet Cove is opposes—or, is Strange, which is something unexpected and strange happens. They’re currently tapped and still have 1 Grip on them. And Rose River is Scholars, which is key intel gives the party advantage when they next Lead a Sortie. It strikes me that Rose River and Carmine Bight, and to a lesser degree maybe Violet Cove, are all potentials—potential ones that could change. Or Blue Channel itself, also. Given the idea that what they do is oppose with assassination and subterfuge.
+Jack: Huh!
+Ali: [laughs] Sure. Mhm.
+Austin: You know. Evidence of that. But I do think that there’s something interesting about the idea of, and maybe that would be a scene, Brnine trying to convince either these pirates or Veronique and Fealty that it’s time to go on, like, this specific offensive instead of, you know, [Jack: God.] this kind of like, “oh, we’re supporting you.” Right? Carmine Bight supporting you is being, like, pirates who give you loot, and Rose River supporting you with intel, and being like, no, what we need to do is punch their faces in.
+Ali: I’m also pretty sure that I can already give people advantage.
+Austin: I believe that that is true, Ali.
+Ali: Yeah, so—
+Austin: You took that move.
+Ali: Right, so there’s—Rose River is sort of a redundant outcome.
+Austin: This is the same move, right? Born Leader—Born Leader has the part we’ve been talking about, [Ali: Mhm.] which is “figures within the Cause lean on you”, but it also has “you Lead a Sortie with advantage and give the crew Confidence when they Plan and Prepare”.
+Ali: Mhm.
+Austin: So you have made—Brnine has made Rose River obsolete. Redundant.
+[Ali laughs]
+Jack: Who’s the swagless fish now?
+[Austin and Ali laugh]
+Austin: That’s kind of fun.
+Jack: God, it is the most Kalvin Brnine maneuver, right, to be like, “well, I’m the captain of the Blue Channel, and then I accidentally killed the Princept, and now I have rendered the Divine Fealty and her Candidate, Veronique, obsolete.” This is a Divine—
+Art: I’d be careful making them more important, because we keep—[laughs] they keep losing.
+[Ali laughs]
+Art: Like, we keep setting up things to make them look good and it doesn’t work.
+Austin: But maybe that’s the problem. But maybe this is the problem, is that they haven’t been being as strong as they can be.
+Art: The problem is I’m trying to… [hums]
+Austin: Like, they’re busy opposing with ingenuity and curiosity. They are fucking Fealty and Veronique. Stop opposing with curiosity. We are fighting the fascists, my man.
+[Ali laughs]
+Jack: No, but Austin, isn’t it better to just twist a finger in your hair in the basement of a library [Austin laughs] and, you know, maybe there’s some weird psychedelics down there, what if you get lost in a sandstorm?
+Ali: We have Violet Cove for that. This is redundant. [chuckles]
+Austin: If you wanna get high, go to the Isle of the Broken Key.
+[Ali laughs]
+Austin: New Oath. What did you take the oath for? The oath is for punching fascists!
+Jack: This is so consistent with Brnine’s—that great conversation with Brnine and Gucci, right? Where Gucci realized for the first time that we can cut off their heads, and it’s like, is this part of a broader maneuver from Brnine to be like, “look. Look. I love the mural you made. I love the mural you made.” [chuckles]
+[Ali laughs]
+Austin: “Do you see the part on the mural where you’re stabbing our enemies? It would be cool if you did that.”
+Jack: And, look, on the one hand, these are a bunch of people who have been in sleep detachment for a very—
+Austin: Oh, it’s sad.
+Jack: Like, you can understand how they got to this place.
+Austin: Yes.
+Jack: How they got to this—you know, here’s the—the big touchstone that we’ve talked about with Rose River is The Thin Red Line, [Austin: Yes.] and The Thin Red Line turns on a dime at points during that movie, between “we are looking at my hand brushing across a field of grass” and “we have been put here to kill and die.”
+Austin: Yeah. And maybe it’s time to make the pivot, you know?
+Art: Alright, but I think we’re setting up for bad things to happen.
+[Ali laughs]
+Ali: Just based on dice superstition?
+Art: Yeah, my dice superstition, the affection I have for these characters…
+Austin: Uh-huh.
+Ali: Sure.
+Austin: This, again, this sounds like maybe we should play to find out what happens, turn them into agents, and see how it plays out in a scene. You know?
+Art: Where are these types again? What page are the types on—
+Austin: I’m gonna drop it in.
+Jack: It’s also so—I mean, this is, you know, all good stories rhyme, baby, as the wise man said.
+[Ali laughs]
+Austin: That’s right.
+Jack: I’m looking at my division [Austin: Yeah.] where I’ve written down that the military is coming.
+Austin: That’s true. They sure are.
+Jack: And if Kesh has figured this out, I don’t see why Millennium Break shouldn’t figure it out too. Let’s play nice.
+Austin: I’m doing it. I’m dropping the agents type in. “Opposes with assassination and subterfuge. Outcome: Disrupt the Authority, removing 1d3 Grip on a faction or Pillar.”
+Art: Well, a giant robot is a terrible assassin.
+[Ali chuckles]
+Austin: But they’re pretty good at subterfuge, maybe.
+Ali: Yeah.
+Austin: And also, they have the rest of the group. That’s the thing. Right?
+Ali: Right.
+Austin: It’s not just Fealty and Veronique, it’s also the sleep detachment group, which, as Twilight Mirage listeners know, what was the first sleep detachment group we saw?
+Jack: Uh—
+Austin: It’s in the first—yeah, go ahead, Jack.
+Jack: They’re like—they show up to kill a Divine?
+Austin: They show up and kill Empyrean.
+Jack: Yeah.
+Austin: In the very first arc of Twilight Mirage. And do it. And they succeed.
+Jack: If you haven’t listened to sleep detach—[chuckles] to sleep detachment. If you haven’t listened to Twilight Mirage—
+Austin: I mean, go listen—go to notquitereal.bandcamp.com, click on The Twilight Mirage, and then click on—
+Jack: And hear me figure out the sound of a season in real time.
+[Ali laughs]
+Austin: Uh-huh. It bangs.
+Jack: Sleep detachments were sent from Earth, and they were put into cryogenic sleep and fired out into the black of space for hundreds of years? Thousands of years? To arrive to fight a war. Young men and women sent to sleep for thousands of years to wake up to fight a war. It’s fucking grim. Morning’s Observation was a former sleep detachment unit.
+Ali: Mhm.
+Austin: That’s correct.
+Jack: Shoutout to Morning’s Observation, one of the coolest characters on the show.
+Austin: Damn, the sleep detachment—yeah. A real high bar for me is like, characters I’ve liked playing. Apparently the sleep detachment ship was called the H.S.S. Mercury’s Kiss. Good name.
+Jack: Good name.
+Austin: Love that.
+Jack: Because it must have said goodbye to—nope. Mercury is close to the sun, it wouldn’t have gone that way.
+[Ali laughs]
+Austin: No, Mercury was not close to the sun. Only the Earth is close to the sun. Oh, sorry. Yes, you’re right. Mercury is still close to the sun, the Earth is far from the sun. The Earth is in the center of the galaxy.
+Jack: Yes, they moved it.
+Ali: Oh, right. Yes. Yeah.
+Austin: They moved it. As—[laughs] as described during the song On Sleep Detachment. During that sequence.
+Jack: Yes. [chuckles]
+Austin: Literally, so. Anyway.
+Jack: Also, Fealty is made of statues.
+Austin: Yeah, true. True.
+Jack: And what is a cooler assassin than a statue on the facade of a building turning its head to, you know.
+[Ali hums]
+Austin: Damn.
+Jack: Falling from a building and crushing a guy, I don’t know.
+Ali: This is—
+Framing
+[44:21]
+Austin: What would you try to attack? If we’re framing a scene from the perspective of newly militarized group, Rose River, a group I’ve already forgotten the name of, which operates out of New Oath, where would they go? What would they hit? Which Pillar would they target? Would they try to hit the Bontive Valley? Would they try to hit the Temple of the Threshold? Would they try to hit a—no, would they try to hit one of the Frontier Syndicate?
+Art: Hey Austin, are there any quotes you can remember of what happens when Divines fight each other?
+[Ali and Jack laugh]
+Austin: No, what’s—no, I don’t have a clue.
+Ali: That’s fine. I got a bunch of ‘em.
+Austin: Uh-huh.
+Art: Yeah, I think it’s when Divines fight, it goes well for everyone.
+Ali: Mhm.
+Austin: Yeah, yeah. Mhm.
+Jack: All the neighboring people—
+Ali: [chuckles] This is—I’m at a real weird crossroads here, because I know that there’s like, some mission ideas within the party, and then also sort of interest in the Bontive Valley, but if this is, like—
+Austin: Yeah.
+Ali: This is—is this just like, a free Millennium Break scene?
+Austin: What do you mean a “free” one?
+Ali: Well, like, and then the three of you are gonna go and do yours.
+Austin: No, this is one of those three scenes.
+Ali: Oh, okay. Oh, okay, okay, okay.
+Art: Yeah, this is sort of like—
+Austin: This is what I’m saying. This is literally what I mean is we’ve spent this whole season, with the exception of like, two early scenes, I want to say, [Ali chuckles] framing scenes from the position of the Bilateral Intercession, when the rules say we can—and they could say it harder, maybe—that we can frame scenes from the perspective of the Cause. Which is what—
+Art: And we said this in the other thing, but there’s a feeling that we’re like, playing with y’all’s toys if we—
+Austin: Exactly, yeah.
+Ali: Okay, sure.
+Art: —go too hard on this. But you’re here to tell us what toys we should play with.
+[Ali laughs]
+Austin: Right.
+Art: You’re like, lending us the toys and…
+Ali: Okay. Okay. Okay. Okay.
+Austin: Yeah.
+Art: I’m honestly probably describing too much how much we should be playing with them, like, this is bad toy sharing, [Austin: Right.] but it’s great in this specific analogy.
+Austin: Mhm, mhm.
+Ali: Okay, cool. Yeah, I—I didn’t want to—[laughs] I didn’t want to put myself in a position where I was like, affecting the access that you have to the toys, I guess, or like, the decisions that you’re making for the scenes, but since I am here, I think that like, it just feels like a natural outcome for Brnine to be like, “yeah, you should be more aggressive, you should follow this thing that we’re doing with the Bontive Valley, this is like, sort of a mission that I guess I’m, like, delegating, question mark?”
+Austin: Right, right.
+Ali: And then I can go to the rest of the players of the Blue Channel and be like, you know, this is how this happened, and then we can sort of decide what we want to do for the next mission.
+Austin: Right, I mean, the thing is that like, if this goes right, we could come out of this with the Bontive Valley having full Grip. Or being one Grip away.
+Ali: Mhm.
+Austin: If it goes well.
+Ali: Right. Okay.
+Austin: So, or—I mean, and that’s a hard—now, here’s the big decision, and maybe this is a Fealty and Veronique decision as much as it’s a Brnine slash leadership of the Cause decision, it will be harder to win against Stel Nideo, major strength now, because they’ve upgraded, because they’ve become the major faction—
+Ali: Oh, sure.
+Austin: —than it is to win a battle against the Frontier Syndicate, right? And I’m, I said all those names because I think Jack and Art, you should also think about what Veronique and Fealty would want to do here as much as—
+Jack: Yeah.
+Austin: As much as Brnine and the leadership does.
+Jack: Hm.
+Art: Who officially has that faction?
+Austin: It—both of you—listen. One of you played Fealty and one of you played Veronique. You know?
+[Ali laughs]
+Jack: It’s true. I believe that you played them last time, Art, during the scene in the ambush in the forest. But—
+[Art hums]
+Austin: Occam Olio...
+Jack: Occam Olio’s arrival.
+Austin: The debut of…
+Art: Occam Olio, weird MVP of the Cause. Of the Authority, rather.
+[Jack laughs]
+Austin: God. Yeah.
+Jack: Oh, man.
+Art: Get that guy a spinoff.
+Austin: I’m on it.
+Jack: Let’s see. It hasn’t been going well for Fealty and Veronique whenever they have been deployed. And I suspect that they feel like they have a responsibility to their unit, they have—they are the powerhouse of their unit, and I wonder if they would—I mean, do we just want to play this scene out?
+Austin: That’s what I’m suggesting.
+Ali: Mhm.
+Austin: It would—sorry, which scene? Because there’s different scenes.
+Jack: Brnine briefing Veronique and Fealty.
+Austin: Perhaps, yeah. Well, and the funny thing is, we could actually do—we can play that scene out. We could also do it as the Unfurling Plan scene, [Ali: Mhm.] as a scene, and I could play the sort of like, counter-intelligence part of the Bilats trying to, you know, intercede or whatever, right? We don’t need to play the mission itself, you know?
+Art: [cross] Tell me if this is too weird…
+Austin: Go ahead.
+Art: Well, we could—we could sort of play this scene and let the challenges sort of go back to the conversation.
+Austin: Mhm. Right.
+Jack: Oh.
+Austin: Yeah.
+Jack: Play the mission and then intercut it with Fealty and Brnine.
+Austin: Yeah. That’s kind of fun.
+Art: Right, then it’s not like, I point out a blind spot in our intel isn’t happening. It’s like—
+Ali: Oh.
+Austin: Yeah, yeah, yeah.
+Art: It’s on the gr—like, the mission—the action is on the ground.
+Austin: Yes.
+[Ali laughs]
+Art: And the challenges are in the briefing room.
+Austin: Yeah. Yeah, we did this once, remember? We did this with figuring out who the Cause was.
+Art: Yeah.
+Jack: Yeah
+Austin: And it works. We can do it again. Except we’re doing it from the position of the Cause, the actual mission this time, instead of it being the mission is interceding into the conversation. You know? I like it. What is the—is this—where is this meeting happening? Brnine, what is it like to talk to—I was gonna say, what’s it like to talk to a Divine? You talk to a Divine every day.
+Ali: Uh-huh.
+Austin: You wake up and go, “how you doing?”
+Ali: “Hi, buddy!” [chuckles]
+Austin: “Hi. Good morning.”
+Art: What’s it like to talk to a really big one?
+Jack: “Aren’t you a little guy!”
+Austin: Uh-huh.
+Ali: Putting a potato chip into a…
+[Austin laughs]
+Ali: [laughs] Well, there’s a bunch of them, right?
+Austin: Yeah.
+Ali: So it’s like putting kibble into a little jar for all of them, or a little bowl.
+Jack: Oh my god. The Divine Asepsis falling onto the potato chips like [50:12 foley]
+Austin: I think it slowly—I actually think it puts one chip into its mouth, and then like, de-greases the chip, and then produces, effectively, a new sliced dried potato slice. It’s gross.
+Jack: [laughs] Oh, just awful.
+Art: Yeah, I hate it.
+Austin: Uh-huh.
+Jack: I mean, this is a good question.
+Art: Tell that little guy I don’t like him.
+Austin: I think you could break Asepsis’s brain—have you seen the episode of Pete and Pete that’s the barbecue episode? Where Artie, the strongest man in the universe, has to compete against some sort of barbecue expert, to like win barbecue award of the year? And the person—you know, Artie’s barbecue is not as good taste-wise, but Artie lets everybody eats with their hands, and the other guy doesn’t let them, and Artie wins because like, [Jack: Oh.] [Ali: Oh.] the joy of barbecue is eating with your hands and getting messy.
+[Ali laughs]
+Austin: It’s good to get messy. It’s bad to eat barbecue with a fork and a knife. And it’s something like this, right? I think Asepsis would lose that competition.
+Ali: Yeah.
+Austin: I think Asepsis would, like, its brain would blow up if it confronted barbecue. Because it would be like, but the mess is the point. You know?
+[Jack laughs]
+Art: Yes.
+Austin: It is clean when it is messy. Anyway.
+Art: Moreover, there’s no way Jack knows what Pete and Pete is.
+Jack: No, I had never heard of it, and I had never—you launched into a—it was as though I was being presented with a full fictional show.
+[Art laughs]
+Austin: So you’ve never heard—okay, one second, we all have to watch the intro to The Adventures of Pete and Pete. The 90s was just wild. It was so good.
+Jack: And I was there, but it—I had a pretty good time in the 90s as I remember, but I’ve never seen this shit. Alright, we’re gonna go three, two, one, go?
+Austin: Yeah.
+Art: Wait, hold on, I haven’t clicked on it yet.
+Austin: Okay, get ready to… This is just like, the most—you know, when did this show come out, Art? Do you know? Ali, was this before your time? Because this feels like it could be right before your time.
+Ali: No, this was during my time. It ran three seasons from 1993 to 1996.
+Austin: Perfect.
+Ali: So I was… yeah.
+Austin: You were baby, but it was—
+Ali: I was a—I was baby, yeah, but.
+Austin: You were around, yeah.
+Ali: Uh-huh. I was around.
+Art: And before, this was like a weird series of shorts.
+Austin: Right.
+Art: Like just like, in between shows on Nickelodeon, they would have like a 30-second, one minute…
+Austin: Yes.
+Jack: Oh, that’s fun. I like that.
+Austin: Yeah. Yeah, yeah, yeah. Alright. Three, two, one, go.
+Jack: Jamming on the guitar. Mowing the lawn.
+Austin: I just remembered what this song was about. I’ll tell you after. Drummin’. Playing some…
+Jack: Like a front lawn show.
+Austin: Front lawn, like, college rock show.
+Art: I can’t believe little Pete got top billing.
+Austin: I know! It’s a kid’s show. God, mom’s plate—
+Art: Mom’s plate.
+Austin: The metal plate in mom’s head as a billed character.
+Art: Before the dad.
+Austin: Yeah. Yeah, yeah, yeah. Before dad. Ah, Classic TV dad.
+Jack: Classic TV dad.
+Art: That’s a great TV dad.
+Austin: This song is so good.
+Jack: Ellen.
+Austin: Yeah, Ellen, right, yeah, of course. I had a huge crush on Ellen as a little kid.
+Jack: Artie is—
+Art: Yeah, who wouldn’t?
+Austin: And Petunia.
+Jack: Oh, and Petunia. A tattoo.
+Austin: Little Pete’s, um—
+Art: Little Pete’s tattoo, yeah.
+Austin: Little Pete’s Tattoo that he makes dance. There would be no Malcolm in the Middle without Pete and Pete, thank you very much.
+Ali: Oh, sure. Yeah.
+Jack: That was very pleasant.
+Austin: Isn’t that great? That’s—it’s great. It’s fantastic. They wanted to use music from like, the Pixies, right, but like, you end up getting Magnetic Fields in this—like, there was also no Garden State indiecore—
+Jack: Oh, yeah.
+Austin: You know, late 2000s stuff without this turning a bunch of people onto it. That song is a song called—
+[Ali starts]
+Austin: Yeah, what’s up? Mhm?
+Ali: Was this pre—I’m challenging this. What was the show that bombed that everybody ended up liking with like, Jonah Hill and James Franco and—
+Austin: Yeah, way before that.
+Ali: Oh, okay.
+Austin: You’re talking about, um—
+Art: Are you talking about Freaks and Geeks?
+Austin: You’re talking about Freaks and Geeks.
+Ali: Freaks and Geeks, okay.
+Austin: Yes, this was like—
+Art: Which was—that was not Jonah Hill.
+Ali: Sorry. [laughs]
+Austin: No, you’re thinking of—Jason Segel’s in that. Seth Rogen. You are thinking of Seth Rogen.
+Ali: Yeah. I am, yeah.
+Art: Seth Rogen, larger Jonah Hill.
+Ali: Uh-huh.
+Austin: Yes, yes. Yes, yes. That is not ‘til ‘99.
+Ali: Wow, okay. Okay, okay, okay.
+Austin: Yeah, uh-huh. The lead song in that show was by a band called Polaris, and it’s called “Hey Sandy”, and it is about Sandy—what’s Sandy’s last name? Uh… [typing] Sandy Lee Scheuer, who was one of the people killed by the Ohio National Guard in the Kent State shootings.
+Jack: What? That’s the theme for Pete and Pete?
+Austin: Yeah. “Hey Sandy, you’re looking happily deranged.” Yeah, uh-huh. It’s great.
+Jack: Woah.
+Austin: Uh-huh. Anyway.
+Art: I remember an issue of Nickelodeon magazine that had like a—around the time this started, was like, no one knows the lyrics to that song, don’t even try!
+Austin: Mhm.
+Art: And then like, of course they do.
+Austin: Uh-huh.
+Ali: So—
+Austin: “Hey smiling strange, you’re looking happily deranged, can you settle to shoot me, or have you picked your target yet?”
+Jack: Woah.
+Austin: The “smiling strange” here is the—I guess it is Sandy, but the “have you picked your target yet” is about the Ohio State National Guard assholes, so, you know. Anyway…
+Ali: So, yeah, I’m glad we’re having fun, but we do have to play this game.
+Austin: [chuckling] Welcome to the faction game, Ali.
+[Ali laughs]
+Art: Welcome to Media Club Plus.
+Austin: Oh, Pete and Pete Media Club Plus would be fun. Anyway.
+Art: And there’s only like, twelve of them, so like.
+Austin: Yeah. Alright. So we’re gonna do this scene.
+Ali: Mhm.
+Conflict Scene
+[56:15]
+Austin: I’ll read the rules. “Everyone plays, taking the role of either a memory of the Authority or the Cause,” and in this case, the Cause is hatching a plan of some nefarious, or actually some sick or revolutionary nature, and the Authority is trying to figure out how to thwart that plan, and we’ll show them try to do that. “Decide together where this meeting takes place and who else is present. Who are you playing? What history do you have?” Brnine has not met these people, right? Brnine has not met Fealty and Veronique. Right?
+Jack: No.
+Ali: Has Gucci handled all of those meetings, or…
+Austin: I think so, yeah, yeah, yeah.
+Ali: [laughing] I’m just not invited.
+Austin: Well now you are, right?
+Art: Yeah.
+Ali: Great.
+Austin: And “players freely roleplay, issuing challenges to escalate and complicate the scene. Continue playing until at least three rolls have been made, or the scene reaches what feels like a natural end. Look at the resolutions below for what that might look like.” What is the—what is the—who is the target? Who is defending, I guess, or again, which Pillar are you planning to attack?
+Ali: I feel comfortable saying the Bontive Valley.
+Austin: Okay.
+Jack: Woah.
+Austin: And then the second question then is, who is defending? Is it Stel Nideo’s Divine Crusade, is it the Whitestar Fleet—sorry for saying that out loud, but you already—we already knew what that was. Or is it the March Institute? Obviously, Divine Crusade, Stel Nideo controls the Pillar, but who’s defending it? Art, are you stepping up—is Stel Nideo stepping up to defend the Bontive Valley?
+Art: Oh, probably.
+Austin: Okay.
+Art: That’s how it’s—that’s how it’s been done.
+Austin: That is how it’s been done.
+Art: But like, if we want—it’s like, I don’t want this to be Whitestar’s first scene because, one, they’re not gonna be the focal point.
+Austin: Right, yeah, yeah, yeah. That makes sense.
+Art: And they would probably lose.
+Austin: They’d probably lose.
+Ali: Woah.
+Austin: We’ll see.
+[Ali laughs]
+Jack: Gotta protect the business.
+Art: Yeah, I gotta protect…
+Austin: But on the other hand, you know.
+Art: Gotta make Whitestar look strong.
+Austin: Fealty and Veronique, it’s their first scene throwing punches.
+Art: Fealty and Veronique, known losers.
+Ali: Wow.
+Austin: Glory of the losers. Shoutouts.
+Jack: It’s hard, and I think it will inflect [Austin: Mhm.] the way that I play Veronique in this scene depending on who I am going to go up against.
+Austin: What happens when Divines fight?
+[Ali and Jack laugh]
+Ali: It’s all fine.
+Austin: It’s all—right. Uh-huh.
+Art: It’s all fine. That’s what they say.
+Jack: And they don’t mention a number at all.
+Austin: No, no.
+[Ali laughs]
+Jack: It’s tough—here’s my actual question. Art, would the—would Stel Nideo—what is Stel Nideo’s response to seeing the Bontive Valley be threatened? Because this is kind of the first real moment that we have seen the Cause’s attention move beyond Stel Kesh, right? The Cause just abs—
+Austin: No, no, no, no, that’s not true. Bontive Valley has been threatened since the first mission of the game.
+Jack: That’s true.
+Austin: Bontive Valley has been under threat over and over again. They clawed it back, we had that counterattack in Carhaix that almost cost Jesset his life. The Bontive Valley has been threatened, it’s just never been threatened by a Divine.
+Jack: Okay, yeah. This is my question, then.
+Austin: It’s never been threatened by—yeah.
+Jack: What does Nideo do when they see—
+Austin: And it’s maybe never been threatened by the sea, which is how I imagined—because we’ve been doing a lot of—we’ve been doing a lot of, you know, ground-based stuff, and I’m not saying that this is not ground-based, but the way that if you look at the map, Rose River would get to the other side of the world might be going east and not going west across the entire continent. You know?
+[Ali hums]
+Austin: Like, they might be coming in here, like, moving to the Isle of the Broken Key because they can just go across the ocean. I mean, across the Diadem, but you know what I mean? Versus crossing all of the land to get to the Bontive—it’s up to y’all, but maybe that’s—
+Art: You know, I don’t usually get to spend this much time with Brnine’s Roll20 avatar.
+[Jack and Ali laugh]
+Austin: Oh, I have them shut down. I have not seen Brnine’s Roll20 avatar. Oh, yeah. That’s good.
+Ali: Mhm.
+Austin: Yeah.
+Art: Um…
+[Jack starts]
+Art: Go ahead.
+Jack: When faced with the prospect that a Divine is coming for the Bontive Valley, does Stel Nideo deploy their own Divine in response, or is this something that they’re like, Frontier can handle this. [chuckles] You know, Frontier has interests there. We want to deploy our interests elsewhere.
+Austin: Mhm. Kesh is nearby.
+Art: We also don’t want to see millions of people die.
+Austin: Yeah. Well, do they care? I don’t know. Maybe they—maybe.
+Art: Um… I don’t know. I don’t know what the right answer here is. Although, we’re saying that this is gonna be assassination/subterfuge, [Austin: Yeah.] and that isn’t exactly what Divine on Divine conflict looks like.
+Austin: No, but could it produce a situation in which assassination or subterfuge is available?
+Jack: Hm.
+Austin: Is this—is the part of this that Fealty is, and now we’re playing—we’re a little bit getting into the scene, but like, is—Brnine, is your pitch about drawing Crusade away?
+Ali: Oh. Perhaps.
+Austin: You know what I mean?
+Ali: Uh-huh. Brnine’s certainly familiar with that strategy.
+Austin: Uh-huh.
+Ali: And knows that [laughs] the Cause is as well.
+Austin: Yeah, true.
+Jack: That sounds like it is against the Divine Crusade.
+Austin: Mhm.
+Jack: That sounds like it’s taking advantage of these Divines fighting in this farmland, this beautiful valley, that has, presumably, over the last months, become kind of waterlogged and ruined in parts. But is still nevertheless, you know…
+Austin: Yeah, the northeast is really bad. The west and the southwest have been untouched by the Cause. You know, if I can re-mark this, at one point the Cause stretched to where that red mark is. Right? The whole northeast was taken and then fought over back and forth, and you know, there was some action down near Eversin, also, but this whole kind of area to the west has never been touched before. So, if what you want is two big Divines dueling out in the west, that’s viable.
+Ali: [hums] Unless the question is like, would Nideo have some sort of other security force?
+Austin: Let’s put this—this is the scene. We’re in the scene.
+Ali: Okay.
+Austin: Because I think the idea that like, “hey, how do we do this without killing millions of people?” is a really interesting conversation point to have.
+Ali: Uh-huh. [laughs]
+Austin: Especially if what you’ve done is pushed them into—if what your goal is is to push them into being assassins [Jack: Yeah.] and saboteurs or whatever, subterfugers, I would love to hear Veronique and Fealty talk about not wanting to kill millions of people, so.
+Jack: Can I make a pitch for how this scene is framed?
+Austin: Always.
+Ali: Please.
+Jack: If we’re gonna try and attack by the water, I love the idea of the Blue Channel docked in like, a cargo yard, and the Divine Fealty is like, curled up or crouched almost like in a fetal position, in this cargo container. And that is how they are going to ship this Divine unseen across the Wisk Sea. I just love this image of like, Brnine and the Elect, Veronique, just like standing in the doorway of this massive container that this—the statuesque face of Fealty is kind of looking out at Brnine from inside.
+Austin: Brnine, pitch the mission.
+Ali: Sure. Yeah. 
+Ali (as Brnine): Hi. Nice to meet you. [clears throat] With the access we have to the Bontive Valley’s logistics, it makes sense that we would target it directly and, uh… aggressively, and we need the opportunity to do that. And I think that your, uh, crew, squad, whatever you’d like to call them, is best prepared to do that.
+Jack: [chuckles] I think Fealty steps back and sort of like gently rests her hand on some sort of piece of—maybe the alabaster cheek of Fealty, massive behind her, and says,
+Jack (as Veronique): Captain Brnine, it’s a great honor to meet you. The things that you have done for us and for this cause… unbelievable. I couldn’t believe them until I realized that they were true. But I hate to be the bearer of bad news, and I understand that you want to be aggressive, but if you deploy Anchor and I into this conflict zone, the collateral damage will be immense. Up until this point, we have been fighting deliberately smaller units, but to commit a Divine of our rank against Stel Nideo’s Gentian is inviting a massacre.
+Jack: Explain to me how this represents the Cause’s ideals.
+Ali (as Brnine): Listen, I understand risk, you know? I’m all about risk. I’ve known risk. And I think that you and me both have been in enough engagements to know that you have some control over that in the moment, so I think that if the idea of hurting people is keeping you from properly protecting others, you know…
+[Ali laughs]
+Ali (as Brnine): I think that you should think about your place in the cause a little bit.
+Jack: Captain Brnine with a motivational speech here for, uh…
+[Ali laughs]
+Art: If you don’t wanna do it, fuckin’ quit.
+Austin: Yeah. Shit or get off the pot, bud.
+Art: Yeah.
+Austin: And like, now we are intercut with the cargo container, you know, moving over the ocean.
+Jack: God.
+Austin: Even though the conversation is still happening, right? We are seeing the montage as proposed.
+Art: Yeah, maybe with the ending, it’s just—this is Veronique and Fealty join the other side.
+[Austin laughs]
+Ali: Hey.
+Jack: Brnine’s saying—
+Art: You just said leave!
+Ali: I just said, you know, think about, you know, what have you done for me lately? [laughs]
+Jack: The one that really got me was “you and me”. Was Veronique specifically said, kind of like, the category of thing that Fealty and me are, mean that we engage necessarily with war in a different way than you, a fish person [Austin: Yeah.] with, like, a prison shiv does. To which your response was like, “well, look, you know, you’re aggressive, [laughing] and I’m aggressive…”
+[Ali laughs]
+Austin: Mhm. Mhm.
+Jack: But, okay, yeah. I mean, alright.
+Austin: Is this a roll? Should we be rolling the dice? There’s no roll attached to this.
+Jack: There’s no roll attached to this one.
+Austin: Yeah, this is just explain.
+Jack: But I wanted to set the stakes pretty early.
+Austin: Mhm.
+Ali: Mhm. [chuckles]
+Jack: There’s like a little, you know, Veronique kind of sets her jaw—oh, and maybe just like, turns and talks silently to Fealty, or you can tell that they’re communicating. Turns back to Captain Brnine.
+Art: [chuckling] It’s a real “get a load of this one over here” though, when it’s like…
+[Ali chuckles]
+Austin: Yeah, what do you say? What do the two of you say?
+Jack (as Veronique): Absurd.
+Art (as Fealty): Does Brnine think that we’re worried about us?
+[Austin and Ali laugh]
+Art (as Fealty): I’m worried about the people in the Bontive Valley who will be the collateral damage. We are a destructive force, as is Crusade. A conflict would be explosive.
+Art: I’m not doing this voice right and it’s bugging me.
+[Ali chuckles]
+Austin: It’s close. You’re getting there.
+Jack: You’re getting there.
+Art: Yeah.
+Austin: It’s been a year, plus.
+Art: Uh-huh.
+Jack (as Veronique): And if we go, Gentian will respond.
+Austin: Is that out loud, or is that just back to…
+Jack: No, that’s just to Fealty.
+Austin: Okay.
+Art (as Fealty): I think that’s right.
+Austin: I think in the intercut here with you saying Gentian will respond, we get the image of Gentian kind of spotting or maybe one of the—what is the retinue called? What is the swordbearer, cupbearers, and the book—it’s not called a bookbearer.
+Jack: The rivals? Oh, they call each other rival.
+Austin: The rivals, yeah, the rivals. One of the rivals, you know, taking note of this huge cargo container across the sea.
+Art: Oh, this wasn’t a stealth boat?
+Austin: I don’t know, maybe it was. But, you know, then what’s the moment of recognition?
+Art: No, no, you’re right.
+Austin: Maybe it’s a beep, maybe it’s a—you know?
+[Ali chuckles]
+Art: Yeah.
+First Challenge
+[1:09:43]
+Austin: And I’m going to challenge the group—and maybe this is just challenging Brnine, actually—which is: “A step of our planning is left undone. Who will roll to suggest a solution?” And the plan—the part of the planning that’s left undone right now is like, Gentian will show up and have advantage, right? Like, Crusade is here already. Crusade doesn’t need to wake up from the fetal position, right? The horn will be blown, Crusade will come to, and will get the first shot in. So not only will it potentially destroy a lot of—would put you on a back foot, and the second you’re fighting from a back foot, the greater the chance of collateral damage is, because the more desperate you have to be. And so that is my “who will roll and suggest a solution” here. How do you overcome the fact that when you show up to do this thing, when Fealty unfurls, Crusade will already have a weapon? Does Crusade have a huge sword? Is that what I’m remembering right, or am I just conflating that?
+Art: Gentian has a huge sword.
+Austin: Right.
+Art: Crusade shoots Needler style glass shards.
+Austin: [cross] Glass shards.
+Art: Except they’re not all purple, they’re just all sorts of colors.
+Austin: Right.
+Art: And it looks…
+[Ali laughs]
+Austin: Right, so then what we get is—can I get a—
+Art: The Needler, but aesthetic.
+Austin: —the wide shot of there is the incoming cargo hold, like cargo, huge cargo container, that—wide shot, that’s on the left side of the screen above the sea, and the right side of the screen is Crusade launching, like, a rainbow of these shards. You know, covering the top half of the screen in an arc coming downwards into the container ship.
+Jack: Okay.
+Art: I have an Ocean’s Eleven solution to this problem.
+Austin: Me too, which I’m excited to hear. So, yeah.
+[Ali laughs]
+Jack: Ali, you are rolling 1d6, and you are trying to get—given—hm. Okay, so here’s the thing.
+Austin: Mhm.
+Jack: Given that the division is the highest strength division, [Austin: Yeah.] you need to roll a 5 or a 6?
+Austin: Can I present something? And this is so funny, because we thought that we were gonna set up the next ground mission. And maybe we are, but what if the—you leave a group vulnerable when—from the train brain, we could—what if we could tap that to be the vulnerability is one win in this conflict scene?
+Ali: Wait, what?
+Jack: Ooh.
+Ali: Oh, oh.
+Austin: Do you know what I mean?
+Art: Oh, ‘cause I think we have the same Ocean’s Eleven solution.
+Austin: Oh, we definitely do, Art.
+[Ali, Art, and Jack laugh]
+Art: [chuckling] If we don’t, we’re in a weird parallel.
+Austin: I think, Art, we have the sync—the classic Art-Austin telepathic sync is still there.
+Art: Yeah.
+Jack: So you’re saying—
+Austin: Do you want to pitch it?
+Art: Well—
+Jack: Just to be clear, it’s as though this is guaranteed as like a guaranteed dice success.
+Austin: Yeah.
+Jack: This opening thing is going to be a win.
+Austin: The way that you would tap a—yeah. This opening roll—we’re bypassing that roll by cashing in the train brain vulnerability.
+Ali: Oh, is vulnerable.
+Austin: Yeah.
+Ali: Okay, yeah.
+Austin: Right? ‘Cause that’s what we’d be doing in the mission anyway.
+Jack: Yep.
+Austin: I’d be saying it already has a Risk on it, and that would be like getting one Risk on it here.
+Jack: Yeah.
+Ali: Okay.
+Austin: If you’re up for that.
+Ali: Sure, yeah. Yeah.
+Art: Yeah, I’m—
+Jack: I am.
+Art: I guess, yeah. It’s really are the other players gonna be like, “but we had such plans for that,” but I saw them talking. They didn’t have good plans.
+[Ali and Jack chuckle]
+Austin: Damn.
+Ali: Woah!
+Jack: You gotta think—
+Austin: They might have stuff to come knock it over. Do you know what I mean? We’ll see how this goes.
+Art: Yeah.
+Ali: Right, yeah.
+Art: They just didn’t have very firm plans.
+Austin: Right.
+Art: Y’all were just like—y’all were chatting, you weren’t planning.
+Jack: Oh my god, wow.
+Ali: [laughing] Okay. Alright. Okay. Okay.
+Jack: Someone’s having to think about their relationship in the Cause, to quote Captain Brnine.
+[Austin and Ali laugh]
+Jack: Okay, I’m—
+Art: Well, that’s the problem with the Cause. There’s too many chatters, not enough planners.
+Ali: Wow.
+Austin: That’s what Brnine said.
+Jack: Austin and Art, who is gonna reveal this plan that you both have—
+Ali: Yeah, please.
+Jack: [laughs] This Ocean’s Eleven plan?
+Art: Yeah. There’s a train—
+Austin: You want to type it? You want to type it and we hit enter at the same time?
+Art: Yeah.
+Austin: Okay, let’s do it in the chat over here, I’ll pull this over.
+Jack: [chuckles] Arthur T. is typing, Austin (GM) are typing.
+Art: Um…
+Ali: If this is two different plans, I’m gonna scream.
+Austin: I think it’s the same plan. I think we’re—
+Jack: A team of people dressed as firefighters…
+Art: I think there’s a chance that we have—I think there’s a chance of a slight difference.
+Austin: Yeah, yeah, yeah.
+Ali: Okay, sure.
+[typing]
+Art: A little more precise…
+Austin: Yeah, yeah, yeah. Uh-huh.
+Ali: Wow.
+Art: Okay.
+Austin: Alright. Ready?
+Art: Yeah.
+Austin: Three, two, one, go.
+[two keyboard taps]
+Austin: Yeah. Well—[exclaims] You know?
+[Ali and Art laugh]
+Austin: I think this is close enough. Peak gaming. I think this is—
+Art: I—
+Ali: Wow.
+Art: I think the central body of Fealty is too big for the train.
+Austin: That’s fair.
+Art: And might be on the boat, but yeah, otherwise I think we’re in the same place, yeah.
+Austin: My pitch, the cargo container’s empty, or it’s filled with like, blinding fireworks or something, Divine Fealty is actually being brought in via the Gravtrain and is going to basically stand up behind Gentian, and you say…
+Art: The train is full of Fealty statues [Austin: Yes.] that swarm Crusade from behind, yeah.
+Austin: You know, little different, very close.
+Art: Little different, same plan.
+Austin: Yeah.
+Jack: Same plan. Okay.
+Austin: Does—
+Ali: [laughing] I do—
+Austin: Yeah. Mhm?
+Ali: I do sort of love the fireworks idea because it’s sort of Brnine inviting Veronique to a boat that is a bomb [laughing] and being like, “hey, let me talk about this plan with you.”
+Austin: Yeah.
+Jack: [laughs] Okay, yeah. God. That’s great.
+Austin: Because in my mind, the glass shards hit the bomb, or hit the cargo container and what happens is there’s a huge bright explosion, which is actually a—it’s a fake. We’ve Ocean Eleven’d you.
+Ali: Right.
+Austin: We’ve, actually, we’ve Fast and the Furious 6’d you.
+Ali: And let me tell you something, when you take random parts or objects and attempt to create something useful out of them…
+[Austin laughs] [Jack chuckles]
+Ali: You can fill a bomb—fill a boat with a bunch of weird explosives [Austin: Uh-huh.] because that’s what your PHD was in.
+Austin: That is what your PHD was in. Uh-huh.
+Jack: You got a PHD in explosives?
+[Ali laughs]
+Art: I think it’s a little different if then you just have the… the bare—the bare frame of Fealty just leaping out of the fireworks.
+Austin: Yeah.
+Jack: Oh, with no—with no—
+Austin: Yeah. Yeah.
+Art: With no—with none of the statues.
+Ali: Oh.
+Austin: Right, where are the statues, everyone says?
+Ali: And they’re in… bum-bum-bum! [laughs]
+Austin: Yeah. Uh-huh. One of them has a horn and makes that sound.
+Art: Yeah.
+Austin: Alright, let’s—
+Jack: And this is a—
+Austin: Conflict turn, Cause win, 1. I’ve marked it.
+Ali: Should we do the part of the scene of talking about this, or…
+Austin: Talking about it? Yes, I would love to hear you pitch this.
+Ali: Okay. [laughs]
+Austin: Unless it comes from Fealty and not from you, but that’s not what the rhythm felt like. You know?
+Ali: Sure, yeah. I, um—
+Ali (as Brnine): [sighs] Listen, I get that you’re concerned about this, and that Gentian is a stalwart enemy, I suppose, you know, but at some point we sort of have to just go for it. We’re talking about food here. So, you know, it’s not like you’re gonna be acting alone in this, and it’s not like we can’t figure out something that’s gonna be unexpected. I certainly have resources to create a distraction. I’m sure you’ve seen the cause—
+Ali: [laughing] I’m trying to think of what Brnine would say, would call the Cause out loud, because they have not taken on the Hexagon…
+Austin: Millennium Break, right? Would they not?
+Ali: Yeah.
+Austin: Hm.
+Ali: Well, like, it wasn’t Millennium Break before.
+Austin: It wasn’t, but we’ve kind of talked a bit about the idea that like, post-stellar combustor—
+Ali: [cross] Stellar combustor, people are just willing…
+Austin: —it’s possible to imagine, yeah, that it was…
+Ali: Yeah.
+Austin: We didn’t have that scene, is the thing, right?
+Ali: It’s also possible to imagine that post—well, it’s weird, ‘cause Brnine would want to be sort of respectful in not saying Millennium Break like that, but maybe after the combustor, just sort of is, and—okay, yeah.
+Austin: Yeah.
+Ali: Regardless.
+Ali (as Brnine): I know that you’ve read Millennium Break letterheads, I know that you know that my squad is capable of that. So if we have to figure out something for you to feel supported and able to do this without casualty, we can figure that out.
+Austin: Train opens.
+[Ali laughs]
+Austin: You know, statues emerge. Train—image of train brain doing some sort of wild calculating, you know, little red nodes opening up as what’s happened is the—the only way to make it work was to like, put them all in different train cars across the world and slowly bring them together.
+Jack: Oh my god.
+Austin: Do you know what I mean?
+Jack: Yeah, like, on a station platform somewhere in a city we’ve never seen on Palisade, three statues—
+Austin: Yeah, yeah.
+Jack: Or, rather, three cloaked figures board a train, [Austin: Right.] and under the cloak we can see that it’s a alabaster statue.
+Austin: Yeah.
+Art: The statues are probably bigger than people, but yeah, I think…
+Austin: Yeah, yeah, yeah.
+Art: I guess probably not bigger than every…
+Austin: But that’s why it’s three per big train car. You know?
+Art: Yeah.
+Austin: And then, you know, those train cars get dropped at various locations and then reconnect to other train cars until suddenly there is one super long train that opens up, you know, and…
+Jack: And there is something here that Fealty isn’t—that Veronique isn’t saying, right? Which is that from Brnine’s perspective, this is like, well, I can provide a kind of surprise back-up for Fealty and Veronique.
+Austin: Mhm.
+Jack: And I think what Veronique is thinking and what Fealty might also be thinking, I don’t want to speak for Art, although Veronique and Fealty are probably thinking the same thing, is “I am deliberately lowering my offensive capability if the statues are not a part of—are not attached to me. Are not a part of my Divine body.” You know? “If the statues are out here working as a distraction, I have lowered the firepower of my Divine body to such an extent that I might not cause as much collateral damage as I would [Austin hums] if I went in there, you know, at full capacity.”
+Austin: That’s interesting.
+Art: It’s definitely true. That’s how we, like, described the Divine.
+Austin: Oh, for sure. For sure.
+Jack: Hm. [chuckles] Oh, man. God, the idea of “I present evidence of a spy in our ranks, roll to see if it’s taken seriously” is so funny.
+Austin: I know. I know.
+[Ali laughs]
+Jack: Does the Cause know about Asepsis?
+Ali: The Cause does, yeah. And I’ve sort of—
+Austin: Does the Cause know about Integrity?
+Ali: Gucci does, question mark? And… I feel like they probably would. Um…
+Jack: Can Divines detect the presence of other Divines?
+Austin: Yes.
+[Ali laughs]
+Ali: So there’s that. But I’ve sort of fictionally put in place that like, Brnine has been having the people who work on the Blue Channel at least sort of sign NDAs, question mark?
+Austin: [scoffing] Oh my god.
+[Art and Ali laugh]
+Jack: Oh my god, this is absolutely this. This is absolutely this.
+Art: Yeah.
+Second Challenge
+[1:20:51]
+Jack: Art, can I just hand this over to you to present evidence of a spy in the ranks, roll to see if it’s taken seriously? I feel like as the Divine here, I’d be happy to be the mouthpiece, but, you know.
+Art: Yeah, it’s, uh… ask how long they’ve—hm. Hold on. I want to phrase it a little better.
+Art (as Fealty): They stink of Integrity, Anchor. How long have they been in contact?
+Jack (as Veronique): The Divine Integrity—how long has it been on board? And is it mission critical?
+Ali (as Brnine): [chuckles] Integrity. Oh, um… Right. Yeah, I, um, I got it from my engagement with the Princept. [clears throat] I’ve been keeping it on board for study, and because it was an asset that I didn’t want to leave on…
+Ali: …the name of the Princept’s ship.
+Austin: The—name of the Princept’s ship, of course.
+[Ali chuckles]
+Austin: [typing] That I know off the top of my head.
+Jack: And this is unrelated typing.
+Austin: Unrelated—that was just me typing for the sake of typing. Uh… Going to a different website. Obviously I know what it—I do remember that it’s named for some sort of eschatological end of the world thing. Do I remember what it’s called? Of course. It’s the Ekpyrosis. We all know this.
+Ali: Mhm. It—
+Art: I talk about it all the time.
+Austin: Yeah, yeah, yeah.
+Ali (as Brnine): It was too important of an asset to leave on the [stammering] Expry—Expryosis.
+Austin: Close enough.
+Art (as Fealty): It’s dangerous.
+Jack: The roll here is “roll to see if it’s taken seriously”. And I am so curious about, you know, what the—
+[Ali chuckles]
+Jack: We can mechanize this, you know—
+Austin: I mean, what if we—
+Jack: There’s gonna be a roll, [Austin: Yeah.] but I’m so curious about the “taken seriously” here.
+Austin: I know what happens. If it’s not taken seriously. [laughing] It’s bad. It’s so bad!
+Ali: Why? How is it bad?
+Jack: But hang on. Brnine—Brnine should dec—isn’t it the case that Brnine should decide whether they take it seriously or not?
+Austin: No. I mean, yes, but there is taking it seriously and there’s taking it seriously.
+Jack: What does Brnine failing this roll look like? It’s almost like failing a Discern roll.
+Austin: It’s a “didn’t take it seriously enough”.
+Ali: No, I mean, it would be—but it would be “roll to see if it’s taken seriously within the Cause,” right? Like, I can play Brnine however I want.
+Austin: Yes. Mm… Yeah, you can, but are you taking seriously the idea that Integrity could be under-cutting you, is the question.
+Ali: Oh, sure. Okay, yeah.
+Austin: And—
+Ali: Yeah, I just want to under-cut, like, any…
+Austin: Yeah.
+Ali: Future Integrity stuff.
+Austin: Uh, I do think this could under-cut future Integrity stuff.
+Ali: Sure, sure, sure.
+Austin: But black dynamite.
+Ali: Uh-huh. Yes. Right.
+Austin: Are you taking seriously that Integrity could be a threat to you?
+Ali: [chuckles] Sure. You want me to roll this? And I still have to—I have—this has to be a 5 or 6…
+Austin: This has to be a 5 or 6.
+Ali: Okay.
+Jack: Is Fealty the only Divine other than the ones on the Blue Channel currently working with the Cause on Palisade?
+Austin: Devotion. Devotion’s not here, but Devotion, obviously, has…
+Jack: Oh, that’s true, but I mean in person.
+Austin: In person… I do believe so.
+Jack: So Brnine took a meeting—
+Austin: Well, and Asepsis, right? Or did you already… Yeah, I guess you said.
+Jack: Yeah, Brnine took a meeting with the one entity that would know immediately that…
+Ali: [laughs] I wasn’t hiding this from anybody.
+Austin: No, yeah.
+Jack: Do you say that? [chuckles]
+Ali: Like, I—let me see—let me roll this and see.
+Austin: You were hiding yourself from everybody. Yeah, it’s 1d6.
+Ali: I’m hiding myself from everybody, but like, I told Gucci about this and I assumed Gucci would tell the rest of the leadership.
+Austin: Sure.
+Ali: But like, within the core, like, the seven people or whatever, right?
+Austin: Yeah, yeah, yeah, the core six, yeah. Not—seven with Mustard, yeah.
+Ali: Austin, can I ask you a question?
+Austin: Yeah.
+Ali: Could I roll this with Confidence? [laughs]
+Austin: No. No.
+Ali: You sure?
+Austin: Wait, from what? From how?
+Ali: From my Asepsis bonus.
+Austin: No. This is not that part of the game, unfortunately.
+Ali: Okay.
+Art: Yeah, we don’t have multiple dice over here.
+Austin: No, you’re rolling 1d6, and looking for a 5 or a 6.
+Ali: Right, but if it’s a 1, it could be a 6.
+Austin: You could—what you could do, Ali, you could tap the Blue Channel to get an automatic win here.
+[Ali sighs]
+Art: Oh, what does that do?
+Jack: Oh my god.
+Ali: They’re gonna be so mad at me if I do that.
+Austin: No.
+Jack: But that is—that is Captain Brnine, Captain “I feed my Divines one potato chip in the morning.”
+[Ali chuckles]
+Austin: Yeah. Yeah. Yeah.
+Art: That’s finding out what Integrity eats.
+Austin: Uh-huh.
+Art: It’s probably not gross.
+Austin: I mean, I can tell you what you’ll come back and see that makes you go, “okay, I have to go do something. I have to do something about this.” But you—I need you to tap it to do it.
+Ali: Well, okay, but mechanically, what does tapping the Blue Channel do when we go into the next mission?
+Austin: Nothing, effectively, right?
+Ali: And then we’ll have the upcoming downtime as an opportunity to untap it anyway.
+Austin: To untap, correct, yeah. Or Grey Pond could get a win in the next scene and untap you.
+Ali: Okay.
+Austin: Right? We’ll see.
+Ali: [laughs] You guys aren’t gonna do that, but okay.
+Austin: I don’t know, Grey Pond—you know, we’ll see what Grey Pond gets up to.
+Art: Um… Yeah. I mean, I guess this is my scene, so it doesn’t matter, but [chuckling] I didn’t have plans for Grey Pond.
+Ali: [chuckling] Okay.
+Austin: Or whatever, right?
+Art: Not in like a—not in like a…
+Austin: Right.
+Art: Not maliciously, you know, sometimes you just don’t have plans for someone.
+Ali: I do—I mean, I do—there’s part of me that wants to roll this because rolling is fun, [Austin: Yeah.] but I do think that, like, if Brnine’s response here is like, you don’t have to worry about Integrity because I have Asepsis looking at it, it is—that makes sense that Asepsis’s processes would be…
+Austin: Yeah. Mhm. I want to paint that picture so bad.
+Ali: [laughs] But also, have I been keeping my, you know, have I been keeping Integrity in the bathroom so Asepsis doesn’t get all freaked out by its smell…
+Austin: Right, you’re doing the two cats needs to adjust to each other over the course of a week through a—yeah, mhm.
+Ali: Uh-huh.
+Art: But isn’t it like—I’m worried about this vicious dog you’ve adopted. You’re like, “don’t worry, I have another dog looking after it.”
+[Ali laughs]
+Austin: Well, what about it?
+[Jack chuckles]
+Art: I have the talking horse, Mister Ed, looking after it.
+Austin: [laughs] We can’t go down this road again.
+Ali: Okay, I’m—
+Art: It’s just a reference.
+Ali: I’m willing to tap this because I think part of my player protection around the Integrity stuff is that I know Janine has an interest in talking to Divines, [Austin: Yeah.] I know that I really want to get Cori’s insight on some of the Integrity stuff, [Austin: Yeah.] so like, Brnine willing to say that, like, “oh, you know, the Blue Channel’s resources are being spent to make sure that this is not an issue and that’s something I’m taking on my back” is like, something that makes sense to me that seems correct.
+Austin: Yeah.
+Ali: You know what I mean?
+Austin: Yeah.
+Jack: Yeah.
+Austin: Do you want me to hit tap? Do you want to hit—mark tapped here? I’ll let you do it.
+Ali: Let me…
+Austin: Yeah, yeah, yeah.
+Ali: See you next week, Blue Channel, when we record the downtime.
+Austin: Uh-huh. You come back from this meeting—or maybe you’re over—you’re looking over the mission, you know, and all the little Asepsis drones have, like, circled around the glass, like, Magneto prison that Integrity is in, and the arm has grown. Remember the arm I told you that’s holding the scepter?
+Ali: Yeah, uh-huh.
+Austin: It has grown into, like, the—like, sort of like a third of a torso and head, you know, like, if you took a body—like, if you took a statue and like cut it diagonally from the head downwards, you know what I’m talking about?
+Ali: Yeah, yeah, yeah. A bust, yeah.
+Austin: It’s like a bust, like a broken bust, and the bust is, of course, the face of the Princept. It’s re-growing a Princept for itself.
+Ali: [laughs]
+[Art groans]
+Ali: Normal. Normal stuff.
+Austin: Yeah. Oh, it’s so normal in there.
+[Ali laughs]
+Austin: And so like, you deal with that somehow, right? What do you do? Do you break it? Do you let Asepsis—like, what do you do to prevent this thing—because the way I was gonna make this break bad was it would have finished building the Princept and broken out in the middle of all of this and caused chaos to this planet.
+Ali: Okay.
+Austin: But you’ve stopped this by tapping the Blue Channel.
+Ali: Oh, okay. I thought sort of what the scene part of this would be would be me assuring this to Fealty, but, um…
+Austin: But you did do that, now how do you—
+Ali: Okay.
+Austin: Show me in the moment how you deal with making sure that that thing doesn’t continue developing into—
+[Ali chuckles]
+Austin: How do you delay that from happening? Is it just increased security via Asepsis? Is it something else? Do you let it continue to grow a new body to wield it?
+Art: You don’t know what that body would be like.
+Austin: Maybe it would be chill.
+[Jack laughs]
+Art: Like—
+Ali: Can I just shake the fish tank above so it, like, crumbles a little bit? [chuckling] Um, no.
+Art: Like, there’s nothing—there’s nothing—it’s a real nature versus nurture question, right? Like…
+Austin: [laughs] This is not where you were with Aterika’Kaal, I just want to say.
+[Ali laughs]
+Art: I think those two things are very different. [chuckling] And I think I was—I think I won that argument, if I’m being completely honest.
+Austin: [laughs] Yeah, well, yeah.
+Ali: Okay, with being on Palisade, would Brnine have access to, like, pre-Princept Apostolosian media?
+Austin: Yeah, sure. What? Oh no.
+[Ali laughs]
+Austin: Uh-huh. Pre-Princept as in pre-Dahlia.
+Ali: Yes, yeah, right.
+Austin: Pre this current era of Apostolos. Sure.
+Ali: Right. Right.
+Austin: Yeah. Uh-huh.
+[Ali groans]
+Austin: We know that you do, because you’ve shown—because of movie night. And some of those movies are probably from before twenty years ago.
+Ali: Oh, okay, sure. Sure, sure, sure, sure, sure.
+Austin: Right?
+Ali: Right, yeah. I—‘cause, like, I just sort of, like, want to think of like, what Brnine would know about Integrity through their career.
+Austin: Oh, through—right, uh-huh.
+Ali: And just sort of this, like, you’re this other thing.
+Austin: Yeah, uh-huh.
+Ali: You’re this other thing without this person. And I feel like the way that they would do that is sort of the way that they’ve quote unquote “trained” Asepsis, in terms of being, like, well here’s these other ways to think about things.
+Austin: We are once again doing Leeloo/Dallas watch all of Wikipedia.
+[Ali laughs]
+Austin: But you’re—but actually not all of it, you are in fact only presenting smaller cuts of it for Integrity to watch.
+Ali: Mhm.
+Austin: About what Integrity is.
+Ali: Mhm.
+Austin: Got it.
+[Ali laughs]
+Austin: Yeah. I mean, there’s some overlaps here. And like, I don’t know what’s there. Right? Because—let’s get back on the same page, Integrity historically in COUNTER/Weight helped Sokrates assassinate their father, their parent, right? The Apokine, and replaced them. Right?
+Ali: Mhm.
+Austin: Then Sokr—then, many many years later, in the Road to PARTIZAN, the then-Apokine sent a soldier named Orbit Shard—this is from the Road to PARTIZAN—with the Divine Integrity, I think to go try to assassinate the leader of the Principality. Or maybe to just like, support them as they went to try to negotiate peace or something. And, uh—yeah.
+Ali: I—yeah, I—not that this isn’t relevant, but I wonder if there’s…
+Austin: My point being, it’s actually a lot more like you, historically, than it’s like the Princept. It has been, multiple times, been attempted to assassinate a leader or an emperor versus being more like a tool wielded by those already in power.
+Ali: Let me tell you something.
+Austin: Now, it does like being in power. It then becomes the person in power, historically. You know?
+Ali: [laughs] Uh-huh. Right, right. I’m just saying when I met Integrity, I was both being very integral and I was having a lot of integrity in that moment.
+Austin: [scoffs] You—yeah, uh-huh.
+Ali: So there’s that.
+Jack: This does seem to be taking it seriously.
+Austin: Yeah.
+Jack: In a very Brnine way, but.
+[Ali laughs]
+Ali (as Brnine): [sighs] If it’s Integrity that you’re worried about, I’m spending my resources to take care of that. And I know—again, we don’t have to pretend like we don’t know things about each other, my work with Asepsis has been thorough and is designed to address these exact issues. I—
+Ali: Lying here. [laughs] Saying that out of character.
+Austin: Oh.
+Jack: Woah!
+Ali: [laughing] Saying that out of character.
+Jack: Woah, woah, woah. “Look, look. Now if you don’t trust me, don’t worry, I’m dealing with it. We’ve got methods in place. I have a Divine. Okay, now I’m lying.”
+Ali (as Brnine): The decision to take Integrity was not something I took lightly.
+Jack: [laughs] Cut to Brnine doing the equivalent of a point and click adventure game inventory puzzle, pick up Integrity, use on knife, pick up Integrity.
+Austin: Yeah. Uh-huh. Huh.
+[Ali laughs]
+Austin: What’s really funny there, too, is they tried it once and failed at it.
+Ali: Uh-huh.
+Austin: And then were like “oh, I guess I don’t have the—it’s not that part of the puzzle yet.”
+[Ali laughs]
+Jack: “Well, time to wrap back around—oh, Integrity, right. Pick up Integrity.”
+Austin: “Oh, I can pick up Integrity now, that’s good, that’s good.”
+Ali: ‘Cause it looked like a little baby. It was all withering.
+Austin: It was withering. You’re not wrong.
+Ali: Anyway.
+Jack: Brnine out here adopting only the most evil feral cats. “They were cold!” Okay, so we have two Cause—
+Art: It’s really not our problem.
+[Ali, Jack, and Austin laugh]
+Jack: Does Fealty communicate this to Veronique? Or is this just another, like—
+Art: No, this is how—[laughs] this is how Art, the player of Fealty, just feels. It’s like, there’s almost no chance I have to deal with this, so…
+[Ali laughs]
+Austin: Yeah, yeah, yeah. Uh-huh.
+Art: You know. I don’t see a reason why I shouldn’t accept this answer.
+Austin: [laughs] And now we’re in a real fun moment, right? We need another—if you can get a win, you can get those three Cause wins. You know? The three Cause wins in the scene—
+Jack: Unfortunately, now some rolling does start to have to happen.
+Austin: Yeah? Oh, yeah.
+Ali: Mhm.
+Art: You can just keep tapping factions, just…
+Austin: You could keep tapping factions.
+Ali: [laughs] Okay.
+Art: Figure out how everyone’s involved in this operation and just—
+Austin: But maybe wait to do that until you get some rolls in. You know, maybe you win the first roll.
+Jack: There’s a kind of—
+Ali: I have to win six of these rolls, or one more?
+Austin: No, one more. Three total.
+Ali: Okay. Okay, right, right, right.
+Austin: It’s three total, and the way we tend to do it is like, you’re playing, like, one-on-one pickup ball where it’s like, you gotta win by two. You know what I mean? You’re not gonna be—if you—if this had been two—I guess if this had been like, two against two, we might go for one more and see how it is, [Ali: Oh.] and generally what we try to do is be like, well, let’s see if the other side can come back. You know what I mean? Until it’s down to the wire and then we let the side that’s clear—but what’s historically basically happened is the Authority just goes up by two immediately and stays there and doesn’t—the Cause can’t keep up, you know?
+Ali: [chuckles] Okay.
+Jack: There is a kind of purely meta-structural thing that would be so fucking funny if after this whole season of the ground team complaining about Art and I tapping factions, Ali arrives in her first faction game and promptly taps every single faction so Brnine’s mission can go successfully. [chuckles]
+[Ali laughs]
+Austin: Uh-huh. It’d be very funny.
+Art: And we’ve tapped the minimum number of factions every session.
+Austin: I think that that’s correct, yeah. Yeah, we’ve like never—we’ve tapped maybe once to get an auto-win one time.
+Jack: Okay.
+Art: We’ve really been very careful.
+Ali: I’ll bring that back to the squad.
+Art: We are a respectful and good group.
+Ali: [laughing] Okay. I’ve heard the things you’ve said about me.
+Art: We are their friends.
+[Ali laughs]
+Austin: Yeah, Ali edits the podcast. Ali is the producer? On this—on this podcast?
+Art: I don’t think I’ve said anything mean about Ali. You can check the tape on that, I don’t think I’ve said anything unkind about Ali.
+Ali: What’s our next challenge here?
+Austin: Great question.
+Jack (as Veronique): Look, Brnine—
+Art: How was your [??? 1:38:48]? Okay, yeah.
+Jack (as Veronique): I’m gonna be real with you. My unit has not had the best success recently. We planned an ambush, it fell apart completely. I’ve lost agents down in the Diadem. I—you know, you still seem to be worried about Fealty and I, and that is not—we’ll be fine, but my people, I don’t know if they’re ready yet. And if you’re gonna send them into the Bontive Valley at a site of immense bloodshed over the course of this war, I think we’re gonna need a little more than just sending them in as they are.
+Jack: “A step of our planning is left undone. Who will roll and suggest a solution?” My people are under-trained and under-armed and they keep losing. “There’s a man called Occam Olio. I need to make sure he’s dead.”
+Austin: [laughs] Yeah, exactly. Can you use the B-Plot move “get this guy outta here” from the main mission?
+Ali: [laughs] Listen.
+Art: Y’all need to make friends with Occam Olio or something and see what he wants.
+Jack: Well, no, here’s the thing. We’re about to roll and I know who’s gonna [laughing] show up if…
+Austin: Well, no, because this is not a—this is a Nideo joint. Occam isn’t here.
+Jack: Oh, yeah, that’s true. Unless he’s seen another opportunity to, you know, bloody the nose of Fealty and Veronique.
+Austin: Yeah. Uh-huh.
+Art: Yeah, unless it’s just fucking Leeroy Jenkins Occam Olio over here.
+Jack: Shows up. No, that’s true. And we know what the stakes are here in terms of failures.
+Austin: Well, there is a mechanic for that here, which is I could make you reroll as—from Frontier Syndicate town. [laughing] And that could be Occam Olio showing up.
+Jack: Well, I feel like we’ve been pretty clear about what happens here if it goes bad, right? Which is that the conflict starts to spill out further into the Bontive Valley.
+Austin: Yes, yes. I think that is more interesting as a…
+Jack: So I think we know what negative rolls look like.
+Austin: Yeah, yeah, yeah.
+Ali: Mhm.
+Austin: Yeah. Can you summarize the—can you restate the con—the thing that Ali is rolling here against? Or is trying to come up with an answer for?
+Third Challenge
+[1:39:31]
+Jack: Yeah: “A step of our planning is left undone. Who will roll and suggest a solution?” Veronique and Fealty are not worried about their own skin whatsoever, they are worried about the lives of their soldiers who have been losing and are under-armed and under-prepared for this.
+Ali: Sure. Should I roll first and play the scene, or…
+Austin: I’d love to know the direction—well, the thing that it says is what? It says…
+Ali: “Who will roll and suggest a solution?”
+Austin: Yeah. And then what we do is—yeah, roll first and then suggest the solution, and we will, you know, you should make the solution as good or bad as your roll is. You know?
+Ali: Sure. And I’m looking for a 5 or a 6 here.
+Austin: 1d6, we’re looking for a 5 or a 6.
+[Ali sighs]
+Austin: Oh, that’s a 3.
+Ali: That’s a 3.
+Austin: So what’s the solution you propose?
+Ali: Um—
+Austin: To, again, the question being “we haven’t been getting dubs, we have been getting—we are kind of washed as a crew.”
+Jack: And I care very deeply about the people under…
+Austin: Yeah.
+Ali: Mhm.
+Austin: And again, you could tap a faction to get an auto-win here instead, but…
+Ali: Oh, sure.
+Austin: You’d have to start tapping factions.
+Art: But then I’m gonna need you to start signing—‘cause I need, like, you to write in your own handwriting that you did this.
+[Ali laughs] [Ali sighs]
+Art: For posterity.
+Austin: Right, right, right.
+Ali: Of course, yeah, yeah, yeah. I’m the one who does the move to—well, I’m not the only one. We can all do it. The one that clears tapped factions.
+Austin: Yeah, yeah, yeah.
+Ali: It’s funny, ‘cause the thing that I would love to do here is like, you know, this other faction will give you weapons. This other faction is more…
+Austin: Yeah.
+Ali: Um…
+Austin: You could make that—you could tap Jade Kill or Grey Pond or… You know?
+Ali: Right. Is this gonna be the last roll of this challenge, so to speak?
+Austin: I mean, if you get a win here, that’s three to zero. Right?
+Ali: Okay, right.
+Jack: Yeah, if you tap a faction here.
+Austin: And there are some fun options, right? Jade Kill you could tap and be like, they come in with some support. Carmine Bight you could tap and be like, we’re gonna—you know, do you want to do that?
+Ali: Okay. Right, but if I take this L, we would do one more roll. And then—
+Austin: We would continue rolling, and then suddenly we’re in a different ball park, right?
+Ali: Right.
+Austin: Because it’s like, if it’s two to two, you know?
+Ali: Okay, yes.
+Austin: Here’s the thing, right? And let me walk through this a little bit from the listener perspective because I want to be—I want the listener to think of two different scenarios in their head, right? Let’s say we roll again and the Authority wins again, and then it’s two to three—or two to two. Right? Then let’s say we roll again, and the Authority wins a third one. Right? Are we done then, or do I let you roll again? To try to tie it back up, right? Or do I let you tap again to try to tie it back up, for instance, right? And then we’re in a whole new ball game. Whereas right now, the, you know, if you—if, likewise, let’s say we went two to two again, and then you won the next one, and it’s three to two, well, wait a second. I’m letting you roll, I’m letting the Cause roll to try to tie it back up if the Authority’s up three to two, am I not letting the Authority roll to try to tie it back up if the Cause is up three to two? You know, how am I applying that sort of referee, you know, clear outcome, right?
+Ali: Mhm.
+Austin: Because, again, the rule as it’s written, or the thing as it’s written is, you know, you play until one side gets three successes or the—what’s the exact wording? I want to make sure that it’s very clear.
+Ali: Well, then it would be whoever triggers the three successes first, right?
+Austin: Again, except that generally, when we’ve gone—when the Cause has been downed three to two, I’ve tried to let the Cause get one more roll in. Whenever possible.
+Ali: Oh, sure.
+Jack: ‘Cause it’s exciting.
+Ali: Okay.
+Austin: And because I want the Cause to fucking win. Right?
+Jack: Yeah. That’s where it’s exciting.
+Austin: Right, exactly. Yes. Yeah, the rule as written is, da-da-da-da-da…
+Art: Unless you’re interested in changing it forever to be…
+[Ali laughs]
+Austin: The other way, yeah.
+Art: We’re gonna do it this other way, in which case…
+Ali: If I’m interested in—well, and this is—
+Austin: Well, I guess actually what it says is play until at least three rolls have been made, or the scene reaches what feels like a natural end, is what it says. Right? And so, the—where we are now, right, is three rolls have been made.
+Ali: Mhm.
+Austin: But this doesn’t feel like a natural end. Right?
+Jack: I don’t think so.
+Austin: I mean, really, one roll has been made, but we’ve auto-succeeded two rolls. So.
+Ali: Sure. Sure, sure, sure.
+Austin: This is where it gets tricky, where it’s like, okay, well, it’s not first to three, really. It’s actually—it’s actually first—it’s best of three, or best of however many feels right, and that’s where it gets tricky.
+Ali: Okay.
+Art: Yeah, we sort of made a bigger scene than three rolls.
+Austin: I think that’s most scenes, for us, ‘cause we’re us.
+Art: I think so too.
+Ali: I feel like, in my heart of hearts, it feels like either best two out of three makes sense, or since we feel like we’ve gotten up to three, and we don’t feel like the scene is over, we do one more, and then whoever wins that is sort of—either the Authority was able to win again and match with equal force.
+Austin: [cross] Uh-huh. Which means we would go again.
+Ali: Well, no, that’s what I mean, the—yeah.
+Austin: Uh-huh, ‘cause then we’re two to two. This is what I’m saying, Ali.
+Ali: Right, yeah.
+Art: [cross] Well, there is something for ties. For ties, there is like a—we can just say it’s tied and then we just sort of like, figure it out, but I guess that doesn’t—someone has to get an outcome.
+Austin: Someone has to get an outcome. Someone’s going to win. Or no one wins, I guess.
+Jack: Yeah, they don’t say “when Divines fight, there’s a tie.”
+Austin: Yeah, they don’t say that.
+Jack: Well, I mean, I suppose there is a dread tie. A kind of awful tie.
+Austin: Yeah. You know what? That’s actually more important than anything here, Jack, is like, the outcome—the interesting two outcomes are the battle spills out badly, or the maneuver suggested here, the deceit, the ploy, pays off.
+Jack: Yeah.
+Austin: One of those two things has to happen here, right? And again, where we’re at right now is, we’re deciding whether we want to, you know, what you did was assure that the—you had some way of helping out the fact that Rose River’s forces have not been successful in combat encounters against the Principality, and then you rolled and failed the roll, [Ali: Mhm.] and we’re saying we could overwrite that fail by tapping a faction and supplementing Rose River with outside forces. Giving them the win. Which would give you the win. Or you could say, we could frame the scene in which they lose some people here, right? And then you roll again after we do another challenge, and maybe you win that one because it’s a different scenario, right?
+Ali: Right. And then—
+Austin: It does, to me—go ahead.
+Ali: And then, well, like, ‘cause what would feel like I could either do there is then the Cause has three wins and we win, or I lose and the Authority—and then it’s two v two and then the sort of outcome we’ve been talking about happens and it’s a stalemate.
+Austin: Except that the—there’s no stalemate in the game.
+Ali: Oh, okay, okay, okay, yeah, yeah, yeah.
+Austin: This is what I mean, right? Like, it is—
+Ali: Okay. Well, it has—it has “the meeting falls to argument and conflict, who feels most slighted”, right? Is it—
+Austin: It does have that, but there is also—let me just double check. I don’t—yeah. In the event of a tie, interpret the outcome as a group. If you’re unsure, flip a coin. Someone still gets their thing.
+Ali: Oh.
+Austin: Someone gets an outcome.
+Ali: Okay, yeah. Okay.
+Austin: Right?
+Ali: Okay, yeah. Oh, and the outcome that we’re chasing is this now—this added agent outcome.
+Austin: Yes.
+Ali: Okay.
+Austin: Which is—which is to put some heat on the Pillar, right?
+Ali: Mhm. Okay.
+Austin: I—hm. Part of me is like, let’s just fucking tap the faction.
+Jack: Get the W.
+Austin: Because if we go down 2-2, you’re gonna tap a faction at that point.
+Art: Well, Rose River’s getting tapped regardless, right?
+Austin: Yeah, Rose—so we should actually just tap them immediately.
+Ali: Oh, okay.
+Jack: ‘Cause they’re involved.
+Ali: Because we’re using them in the scene?
+Austin: Rose River is tapped. Boom, tapped. Right?
+Ali: [laughing] They’re gonna be so mad at me.
+Austin: No, it’s fine.
+Art: Because all of the factions are gonna end up tapped now.
+Austin: Right, ‘cause right now—
+Art: If we tap a faction for this, then there’s two more scenes that each need to tap a faction. So they’ll come in…
+Austin: Right, but maybe Grey Pond wins one of those and untaps two.
+Jack: Oh, that’s true.
+Art: But then Grey Pond can’t be the tapped faction here.
+Austin: No. They weren’t in the mix, really. I think it’s Jade Kill or Carmine Bight.
+Ali: Yeah.
+Austin: Right? It’s the pirates show up to help or the military shows up to help.
+Art: Or the Five Afflictions show up to help.
+Austin: I—you know? If that clock had finished by now.
+Ali: Oh, if only.
+Austin: Yeah. Brnine, you’re working on that clock, right?
+Ali: Can I get in touch with Stereoma? I can’t do that—wait, I can’t do that.
+Austin: Oh, actually, you have a—you have a—sorry, you have a 2 with them now, don’t you?
+Ali: Who? With the—
+Austin: You have a plus 2 with the Afflictions now. With the—right? You have a Gravity Clock with them.
+Ali: Right, yeah. Uh-huh.
+Austin: Is your plan to call in the Afflictions?
+Art: Oh, that’s—
+Jack: When Divines fight, millions of people die. Let’s bring in the Five Afflictions.
+[Ali chuckles]
+Art: Yeah, that does feel like… That really feels like we’re in “a lot of people die” territory.
+Austin: But you’d get the win.
+Art: [laughing] Yeah, but you could just tap the pirates.
+Jack: [laughs] Brnine meme pushing the two buttons, one is lethal force of dead Divines and the other is some pirates.
+Austin: The funny thing is the thing of like, I can imagine Brnine’s solution to be, when two Divines fight, millions die, to be like, “why don’t you just add a third one, idiot? And that way the two on the one side win quicker.”
+Ali: Mhm. Mhm.
+Jack: Is that true, Brnine?
+Ali: [chuckles] That’s the way I’ve always known it.
+Jack: Brnine, Divine collector.
+Ali: So the decision that’s on the table right now still is tapping one of these other factions, which, Austin, you seem really into. [chuckles] Or…
+Austin: That seems—well, really, the reason I’m into it is because I think it’s going to—I think that’s where we’re going anyway, ‘cause if what happens is we roll the dice again and—
+Art: Wait, can you tap after, or would this be for the next roll?
+Austin: You can tap—we’ve been letting you tap after, letting them tap after.
+Art: Alright.
+Austin: Which I think is in line with the way we’ve also been letting people help after the fact in this season because I think that’s tonally where the season is, you know?
+Ali: Mhm. You were saying that if we do another roll and lose another roll, what we’re probably gonna end up doing is tapping to get to three?
+Austin: [cross] Tapping another faction, yeah. But maybe that’s worth—you know? Maybe it’s worth doing it and just saying that that’s how it goes, and maybe you win the next roll.
+Ali: Five and six are tough, but I’ve gotten 5s and 6s in this game.
+Austin: You have.
+Ali: [laughing] Um…
+Austin: And, again, the thing that ends up being weird there is, that means for the rest of, like, at least this episode, if we get into a situation where it’s 2-2 and the Authority comes up and gets the third win, there ain’t no “let’s see if the Cause can come back and tie it.” You know what I mean?
+Ali: Right.
+Austin: ‘Cause I feel like we have made our bed at that point in the way we interpret a 2-2 situation.
+Ali: Well, yeah, I mean, I feel like once somebody hits three, the win triggers.
+Austin: That has not always been the case in the past, is what I’m saying.
+Ali: Okay, okay.
+Austin: Because we’ve tried to give the Cause chances to catch up because they’ve been getting their asses beat.
+Ali: [laughing] Okay.
+Austin: So I’m fine with committing to it, but I want to commit to it. Let’s roll the dice. If you want to—let’s describe this going bad for—and that’s the other half of this is, the not tapping here means that this was a failure, and that Fealty was right, and that the Rose River was not ready for this fight.
+Ali: Right.
+Austin: And so we have to show that going bad in some way.
+Ali: Okay, ‘cause either way I would—if I tap this, this is an automatic win for this scene.
+Austin: It is an automatic scene. Win for the scene.
+Ali: Oh, it would. Okay, okay.
+Austin: Yes. It overwrites this. This is what I’m saying, is like, you would be saying, you know what? We actually are going to support you in such a way by bringing in another faction and helping you out.
+Jack: Yeah, a whole other faction shows up.
+Austin: Right. And prevents Rose River—helps Rose River get their first big win.
+Ali: Right, and then that would—
+Austin: They got a win in the first episode, first—you know what I mean.
+Ali: —immediately trigger the outcome remove 1d3 Grip on the—
+Austin: Correct. Yes.
+Ali: Alright. Okay. [chuckles]
+Austin: But we could roll instead. We could let Rose River take some losses and then power through it and get a win, you know? ‘Cause we haven’t really seen Fealty do anything except show up and then the—and then the statues show up, so. Y’all tell me. I just want to lay out the possibilities. That’s why I’m—those seem like the possibilities.
+Ali: Okay. Art and Jack, if you have strong opinions here, I would love to hear them. [chuckles]
+Art: I think you should be careful with tapping these factions, because I hear it’s my fault no matter what.
+Ali: Wow.
+Jack: I think you should tap it and tidy it up here.
+[Art laughs]
+Jack: The mission goes well. If the concern is paci—hm. The consequence for “the pacing is kind of off, but we win the scene,” is so much less than “the pacing is good but it goes absolutely disastrously for Veronique and Rose River, and we end up tapping a lot of factions.” We can narrate this scene well at three victories. You know, essentially, you shouldn’t feel like you need to make mechanical decisions to make the pacing flow better.
+Ali: Mhm.
+Austin: Yeah. Jack’s right.
+Jack: We will find the story work—we will find the story work. We will make the story work whichever way we cut this.
+Art: Yeah.
+Jack: You need to think about whether we—or, I suppose, we need to think, but you’re Captain Brnine—need to think about whether we want to continue rolling increasingly concerningly dice with Veronique and Fealty here. Now, if you want to make those rolls, here’s something else that is interesting. I have to imagine that the player characters have a kind of different relationship to rolling this season, because you all roll so many more dice than we do.
+Ali: [chuckles] Uh-huh.
+Jack: So on some level I can understand your impulse to just be like, well, we’ll roll it and see what happens.
+Ali: Mhm.
+Jack: And I don’t want to—it brings an energy to the recording that is good.
+[Ali laughs]
+Jack: But if it were me…
+Ali: Right.
+Austin: And fuck it. You know? There’s a one in three chance of you getting a win. You only need to get one win of the next three rolls.
+Ali: Right.
+Austin: Next two rolls. You know what I mean? Three rolls total.
+Ali: Yeah. I—right.
+Jack: Although that sets the precedent, capital T capital P, which is also—
+[Ali chuckles]
+Austin: It does.
+Jack: But the precedent is interesting here.
+Austin: Yeah. I’m happy to say from here on out, first to three wins. Period. No more follow-up. Except I know we’re gonna hit a situation where, like…
+Art: Well, assuming the narrative supports it.
+Austin: This is the thing. We’re gonna hit a situation immediately where we’re like, “well, if…”
+Ali: Okay, yeah, I don’t want to make a rule that supercedes all the other rules. For right now, I feel comfortable saying that I’m willing to—[sighs] [chuckles] I’m willing to tap Jade Kill and have Brnine sort of pull on their relationship with Kalar.
+[Austin hums]
+Ali: To pull them into this engagement.
+Austin: Oh, that’s fun.
+Jack: Oh my god, do you call him?
+Ali: And then I think if the—
+Austin: He said, right? He said call if we need—didn’t he give you a little flute and say play this whistle if you need anything?
+Ali: [chuckles] Yeah, uh-huh, yeah. I..
+Art: Oh, you got the Kalar flute?
+Ali: I literally have a flute, yeah. I feel—
+Austin: The Dragonzord is gonna show up. This is…
+[Art whistles]
+Ali: [laughs] I’m comfortable saying here that if the Blue Channel party gets mad at me, I am willing to sacrifice my tokens to fix my mistakes.
+Austin: I don’t think this is mistakes.
+Ali: ‘Cause I have that ability.
+Austin: I think this is what the audience has been yelling at us to do [Ali laughs] for the whole season is tap some fuckin’ factions. Who are you tapping? Jade Kill, you said, so you’re gonna call on Kalar.
+Art: But again, the other side, they’re babies when we tap any factions, so being like, “all we need to do is tap two more factions” feels bad, you know?
+Ali: [chuckles] And these—
+Austin: So paint me a—
+Ali: These last two factions are automatically gonna get tapped in the next few scenes, right?
+Austin: I mean, we could decide not to defend, but that seems bad. Right?
+Ali: Sure, sure. Sure, sure, sure.
+Art: Or we could do—oh no, they changed that, nevermind.
+Austin: They changed it, yeah.
+Art: Yeah.
+Austin: They changed The Discourse to make it tap, yeah. Mhm. So what’s this look like? What does “oh no, this looks like it’s gonna go bad” and then Jade Kill show up look like?
+Ali: Well, I think in bringing it back to the scene a little bit, I think that in response to what Veronique just said to Brnine, Brnine says,
+Ali (as Brnine): You know, it’s not that I don’t know that I’m asking a lot of you and your team, and I’m very sympathetic to how you feel, and I’ve lost members of my own crew. That being said, I’m not trying to apply pressure, and I’m not trying to make you feel bad, but I think that what Millennium Break needs, and what Palisade needs, is for people in a position of power like you have, and like I have, is to be willing to take risks. And if your team doesn’t feel…
+Ali: How do I say, uh…
+Ali (as Brnine): …properly equipped, then there—there’s a reason we all do this together, and, you know, we can find someone who is willing to meet with them to upgrade your equipment. I’m certainly willing to take a look at any of that and, you know, apply what expertise I know. But I think we need a mission and we need an agreement between each other for you to be willing to say yes to these types of things without all this back and forth.
+Jack: [exhales] Wow.
+Art: “You need to die for me with more enthusiasm.”
+Ali: [laughs] Hey! No! No, no.
+Austin: That’s not what Brnine said this time.
+Ali: No.
+Austin: This time they said we can help, and we have a big group of people who can help.
+Ali: Yeah. Yeah, we’re all in this together.
+Jack: “And I’m gonna stick by you, and in the future, I want you to stop this bellyaching.”
+[Ali laughs]
+Austin: Yeah.
+Ali (as Brnine): You know what we’re up against.
+[Jack groans]
+Austin: Alright.
+Jack: Yeah.
+Austin: So what’s this look like on the field?
+Ali: Um, yeah. I’m curious what Jack thinks about what Kalar might be able to provide.
+Jack: I mean…
+Ali: ‘Cause it’s really just like, doing the damn thing, right? It’s like…
+Jack: It’s like, you called the right bird. Doing the—Kalar “doing the damn thing” Anakalar.
+Austin: Mhm.
+Jack: It’s just like a split-screen shot of, like, a whirl of wings on the left-hand side of the screen as Kalar lands and is immediately like, “alright, let’s see what we’re dealing with here. Okay, you know, these weapons need fixing, you know, what’s for breakfast, I hear the talk at the canteen was really good, the vending machine’s broken but I’ll try and fix that,” and then on the right-hand side of the screen, at the same time, like, this descending whirl of wings around some sort of horrible Nidean mech, sort of tearing it to pieces.
+Austin: Mhm.
+[Ali chuckles]
+Jack: Just this, like, side-by-side of the—of the prep and then the action.
+Austin: Yeah. Well, and I wonder if we even get a little bit of the Rose River folks being ready to play off of that in some way. That there had been some sort of—
+Jack: Oh, yeah.
+Austin: Do you know what I mean? Training or planning, because that’s the—that’s the real, you know what I mean? That’s the shit that is actually the crew is working together.
+Jack: There is something kind of galvanizing about Broun’s forth—oh my god. That’s the only time I’ve done it this season.
+Ali: Who? [laughs]
+Jack: Who?
+Austin: Who’s that? I don’t know who that is.
+Jack: I don’t know them.
+Ali: Oh, you must have watched my interview.
+Jack: [chuckling] Oh, yeah, oh, sure. Sure, they made some kind of mistake.
+[Ali laughs]
+Jack: There’s something about Brnine’s forthright sort of, like, “well, look, stop bellyaching, we gotta do this, you’re good at this, we’re good at this, we’re gonna help each other through.” And Kalar’s, like, commit to the bit readiness of, like, “alright, okay, we’ve got war to make, and this is gonna suck, everybody ready,” that I think really speaks to these dreamy Terrence Malick sleeping soldiers.
+Austin: Yeah, soldiers out of time who are like—again, this is the part of this that’s a little sad to me.
+Jack: Mhm.
+Austin: Is that they have been for the last, you know, however many episodes of us playing this game, have been able to not do the thing that they were sent here to do, and then arrived at the wrong time and the wrong place and found a different life, and now someone has told them to snap to and get to killing the Divine. You know?
+Jack: Yep. Yeah.
+Austin: Or at least hurting it. We don’t think we’re killing—we’re not killing Crusade here. Right?
+Art: I hope not.
+Jack: Maybe not snap to it in the way that Earth’s soldiers—Earth’s commanders would have done. But—
+Austin: Right, sure, yes.
+Jack: But I want to be real about what both Brnine and Kalar are saying, which is like, look, we have to get boots on the ground. [chuckles]
+Austin: Oh, boy.
+Ali: Mhm.
+Austin: No, that’s not true. Kalar is all about being boots off the ground.
+Jack: That’s true.
+[Ali laughs]
+Austin: Up in the air, and flying around, and he has all the…
+Jack: He goes up and at ‘em. Also, I don’t think that Talonites wear boots. I don’t think you could make bird-foot boots. I’m sure you can, I don’t know.
+Austin: You could. Yeah. They do that for birds. To cover the talons to prevent them from hurting you. Don’t they? Is that a thing? [typing] “Talon boots bird.”
+Art: Talon boots bird.
+Austin: Talon boots bird.
+Jack: Talon boots bird. One of our listener’s wake phrases has triggered and they’ve sat up suddenly. [chuckles]
+[Austin laughs]
+Art: They’re gonna go assassinate the president.
+Austin: We didn’t do that officially, just as a—that was not us.
+Jack: That wasn’t us. We just said talon boots bird.
+Austin: All we said is talon boots bird, which is totally legal.
+Jack: And I’m gonna say it one more time because of how legal it is. Talon boots bird, my friends. I think that this is where we get the broader scene, right?
+Austin: Yeah.
+Jack: It’s Gentian and Fealty fighting, drawn out into some, you know, field or orchard, some massive tract of land, you know, the Divines knocking each other over a hill or something.
+Austin: Mhm.
+Jack: All the water in a lake getting displaced as someone goes wading into it during a fight. And then this fight between the assorted Rose River and Jade Kill people on the ground elsewhere.
+Austin: Mhm. Do we get a final statement of agreeing from Fealty and Veronique before all of the other stuff we’ve now seen happens?
+Art: Yes, that does feel like it would be appropriate, doesn’t it?
+Jack: Yeah. It’s like an acknowledgment that they’re being asked to change.
+Austin: Mhm.
+Jack: You know, I think that Fealty—I think that Veronique is—doesn’t make any secrets of the fact that they can tell what Brnine is asking. This kind of change in focus, and that there are going to be consequences for that, and I think that the way it comes out is like, “well, we’re happy to do this, but I know you know.” You know? Like, you are reshaping us and the war is changing, and I’m prepared to be a part of that, and I am signing off on that, but this isn’t what we’ve been doing. You know, you are seeing us change in response to the conflict. And in response to Captain Brnine’s requests.
+Art: And I’m not sure what a Divine—how the Divine Fealty feels about this change in the situation and what that, you know, how does that feel?
+Austin: Well, we could add a little color to this. Someone should roll 1d3.
+Jack: Ohoho.
+Ali: Oh.
+Jack: To see how much Grip is added.
+Austin: Yeah.
+Jack: This should be Brnine. This is you, Ali, right? You arrived here and made a bunch of really difficult decisions.
+Ali: [laughs] Oh.
+Austin: Sure.
+Ali: 1d3? Okay.
+Austin: 1d3.
+Ali: Okay, to color this, before I hit enter on this roll, I think—[laughs]
+[Art chuckles]
+Ali: —in response to sort of Veronique’s final words here, Brnine says,
+Ali (as Brnine): What I’m asking you to do is what’s necessary to get people food.
+Ali: And that’s a 2!
+Austin: Let’s go.
+Jack: Yo!
+Austin: It is a 2.
+Ali: Bontive Valley full of Grip!
+Austin: Yeah. It is vulnerable. It could fall today.
+Ali: I hope Keith is happy. I hope Keith is proud of me. I think he’s gonna upset about [laughing] these tapped factions.
+Austin: We’ll see how the rest of it goes.
+Ali: But, you know?
+Jack: And I mean, this is a W. This went really well. We’ve got 3 Grip. But my suggestion here is that the way we color this scene, given that the Bontive Valley is ready to fall, is that the fighting is still going. You know?
+Austin: Yeah.
+Jack: Millennium Break are making ground, but it’s not like the skirmish has ended, you know, as we play through these next things.
+Austin: No.
+Jack: The Bontive Valley is a war zone. Is, you know. Very active.
+Austin: How many have died? What—‘cause here’s my question, is like, if the secret stake, the second stake, or in some ways, the primary stakes, narratively, were “Divines fight, millions die,” did this, you know, ploy of secret, you know, statues from the trains, Kalar adding a group of Giantkillers, did this move the fight in such a way that it kept Crusade and Fealty from coming to blows across the Bontive Valley in such a way that instead of freeing it, it scarred it? Or is that still up in the air based on the way the rest of this goes? I think we have to say in this initial clash.
+Art: Well, no, because we’re gonna move away from here.
+Austin: Hm?
+Art: We’re gonna move away from here.
+Austin: I see. And drag Crusade—
+Ali: Okay.
+Art: Like, we—the narrative “I” is gonna move—
+Austin: Right. Oh, yeah, we—sorry, I thought that was you as Fealty saying—like, announcing that. Yes, well, again, except that if Jade Kill gets a win, they are going to do their thing. Right?
+Art: I mean, I don’t know exactly how densely populated the Bontive Valley is…
+Austin: Sure.
+Jack: No. But—
+Art: I’m sure—
+Austin: But there are lots of ways for millions of people to die. And one way is to ruin a whole year of harvest through the conflict.
+Art: I don’t think that this was fun.
+[Austin and Ali laugh]
+Jack: Here’s what I would suggest—
+Art: Like—
+Jack: Oh, sorry, go on.
+Art: And, you know, if you kill one person, you’ve destroyed a universe, right?
+Austin: Right, sure.
+Art: There’s—
+Austin: I mean, again, and maybe one way to start framing this is similar to with the Diadem, the train, was—hey, you can fall a Pillar a lot of ways. One way to fell a Pillar destroys it, one way seizes it or takes control of it or liberates it, you know, has this fighting—you know, one way to fell the Bontive Valley is to make it not Bontive anymore, is to—
+Ali: Well…
+Austin: And if the fighting was so bad that it destroyed the growing capacity of the Bontive Valley in such a way that—and it hasn’t been fallen yet, right? But…
+Ali: Sure.
+Austin: In other words, like, starving lots of people is also a thing two Divines could end up doing simply even though it’s not a dense, populated space.
+Art: Sure.
+Jack: That’s true. I want to be—
+Art: I don’t think it’s as Bontive as it was this morning.
+Austin: [cross] And I’m asking—I’m asking what not making sure that that doesn’t happen looks like. This is what the challenge is about to me for you.
+Jack: Yeah, yeah, yeah.
+Ali: Oh, no, I just think part of the writing in Armour Astir is that like, when you fell a Pillar the Cause gets its benefits.
+Austin: That is not the case.
+Ali: Oh.
+Austin: That is not the case. This is what I’m saying.
+Ali: Okay.
+Austin: What it says is—what it says is what I said, which is, what does felling a Pillar look like? It could look like lots of things.
+Ali: Okay. Regardless, because I think part—I’m not gonna—[laughs] I’m not gonna pull up the book and talk about the misunderstanding there. But I do think that, like, if part of what set off this conversation was this question of like, how do we do this the most carefully that we can?
+Jack: Yeah.
+Austin: Right, but then you sent a Divine in to do it. Which is not the most careful way you can.
+Ali: Sure. Right.
+Austin: That’s what I’m—that’s my point, right?
+Ali: Okay, yeah.
+Austin: When a Pillar falls, the Authority loses control of it. What can happen is that the Cause gains control of it. But it could also be the other way.
+Resolution
+[2:09:17]
+Jack: Here’s my proposal. In conversation with Brnine, the thing that they agreed to do with Gentian and Fealty was that there is no way these Divines fight without consequence. I want to respect the fact that this was a success, that this scene went well, and that a lot of Brnine’s kind of central philosophy in moving into this was this is a fight about food. This is a fight about making sure people can continue to eat. I love the image of the two Divines fighting and as such razing, like R-A-Z-E, a kind of path through the Bontive Valley. And every time Gentian tries to drag Fealty off the path, Fealty, you know, claws back onto this path again. And as such, the kind of compromise that has been made is that the Bontive Valley has gotten to this place where it is still able to support, you know, growth and life and harvest, [Austin: Right.] and the victory was won with the deployment of two Divines, or one Divine fighting another Divine. But the cost is that this sort of belt, this sort of like, scar, has been left, you know, a stripe across the Bontive Valley where these Divines fought.
+Austin: Mhm. Yeah. I like that. Again, I would be happy with there not being too much cost because the ploy works. I was just trying to get us to like, what is the final pull of the ploy that does do that? And if the case is basically like, we’ve decided to make limited damage, we’ve decided to like, directly—yeah, damage is gonna happen between these two things, and it’s about guiding it away from, and in a single direction, the direct line, the like, line you can see from space, is kind of good. You know?
+Jack: I think I want to be honest about what it means when Divines—you know, how much careful planning can—here’s the thing. I will absolutely hear pitches for further damage mitigation.
+Austin: Sure.
+[Ali chuckles]
+Jack: I think that’s the best one that I can make for, like, these are Divines fighting.
+Austin: Yeah, yeah.
+Art: [chuckles] All the people who got hurt were in a straight line.
+Austin: Maybe.
+Art: To draw Crusade away and then—but that’s not where Kalar was, Kalar was over here.
+Ali: Well, yeah, well then, I guess if that’s—I feel like Jack’s solution there is probably the best one, right?
+Austin: Right.
+Ali: Where like, Fealty is the responsible agent there in terms of like, I am not gonna move out of this space, and I know my other forces are going to not move into the space that I’m in. And I just have to trust that that’s possible.
+Austin: That they’re winning elsewhere.
+Ali: Yeah.
+Austin: Right. I don’t need to go—I don’t need to go to Carhaix or Eversin. They are going to take those population centers without me risking the people there. I am going to do what Goku did and go fight in the hills [Ali laughs] so that Vegeta doesn’t kill all the people in East City.
+Jack: Except because it’s Divines, it’s these hills and those hills and those hills, and then down through that valley…
+Austin: Right. Jack, sorry, that is also Dragon Ball Z because people are Divines in Dragon Ball Z.
+Jack: Oh, is that—okay, I see.
+Austin: But, yeah, yeah, yeah.
+Ali: You’ll know soon enough.
+Austin: Yeah. Eventually.
+Ali: Friendsatthetable.cash, by the way.
+Austin: Yeah, yeah, yeah.
+Jack: God.
+Austin: I don’t think Jack’s gonna see any Z, unfortunately.
+Ali: Oh, that’s true. Okay, right. It’s just gonna be Dragon Ball.
+Jack: But the fighting is still going, you know?
+Austin: Yeah, yeah, yeah.
+Jack: These two Divines are fighting down this scorched strip of earth as Jade Kill and Rose River, aided by the Delegates and Kalar and this new squad of Giantkillers, I think some of whom aren’t bird-people, I think that’s it’s not just—
+Austin: Yeah, sure.
+Jack: It’s not just a bird-people squad, I think it’s a jet-pack squad, I think it’s those weird wire things in Attack on Titan.
+Austin: Sure, sure, sure, sure.
+Jack: You know, there’s—if you can fly and zip around, anybody’s welcome.
+Austin: Mhm.
+Ali: Mhm.
+Jack: And you have to be able to hang.
+Austin: There’s lots of ways to fly and zip around at this point. Yeah.
+Jack: Yeah. Here in Earth in 2022, limited ways to fly and zip around. But in the future…
+[Ali chuckles]
+Austin: On Palisade.
+Ali: Yeah, get some of those—
+Austin: People are flying, zipping around.
+Ali: —Mandalorian jetpacks, you know?
+Austin: Yeah. Yeah, yeah, yeah.
+Ali: I’ll make those.
+Jack: The year is 1439. We’ve invented some incredible new ways to fly and zip around.
+Austin: Uh-huh. Yeah.
+Jack: Unfortunately—
+Austin: It is the jetpack millennium.
+Jack: The Divine Principality has spread to…
+Austin: Yeah.
+Jack: Everything comes at a cost.
+Austin: Alright, well, it’s ready to be felled.
+Ali: Alright.
+Jack: And that’s the news you should lead with, Ali.
+[Ali laughs]
+Austin: Well, no, ‘cause Ali might lead with “it’s been fallen.”
+Jack: Oh, that’s true.
+Austin: We’ll find out.
+Ali: Yeah. The ball’s in y’all’s court.
+Austin: Mhm. You wrapping up here?
+Art: No, ‘cause Jade Kill got tapped.
+Austin: No, Jade Kill—oh, Jade Kill—you tapped Jade Kill at the end.
+[Jack laughs]
+Ali: No, no, no.
+Austin: What?
+Ali: Wait. [laughs]
+Austin: You did tap Jade Kill after all that.
+Jack: Kalar showed up.
+Art: You used the magic Kalar flute.
+Austin: You used Kalar. That’s Jade Kill. That’s the group that can tap.
+Ali: Okay—
+Austin: You could get a win from…
+Ali: Oh…
+Austin: Uh-huh.
+Ali: That’s—okay, that’s not fair, I did that by mistake. [laughs]
+Art: [cross] A win from Grey Pond to untap Jade Kill?
+Austin: You did do that by mistake. You did do that by mistake.
+Ali: That’s not—I thought that was Grey Pond’s outcome.
+Austin: No.
+Ali: And that’s why I was like, why wouldn’t we call Grey Pond because I could call…
+Austin: Grey Pond would be Jesset. That would be you calling Jesset.
+Ali: Right. That’s what—yeah. That’s what Brnine would do.
+Austin: And not Kalar.
+Ali: That’s why I didn’t do that. I’m so sorry.
+Austin: What the fuck does—
+Art: Wait, how does Grey Pond do this?
+Jack: That’s fine.
+Austin: Yeah. Well, Grey—yeah, how does Grey Pond do this? Great question. Do they provide—hm. It is “replace a seized faction or untap any other two factions.” They oppose with “new equipment or supplies.” Which doesn’t—you know, you could map that to—
+Ali: Right.
+Austin: Maybe the problem with Rose River is they’re using last year’s model.
+Ali: Well—
+Art: That sort of makes sense.
+Ali: That’s what Veronique just said.
+Jack: Yeah. Yeah.
+Austin: Yeah. It is.
+Jack: We have bad equipment. We have—
+Austin: Yeah.
+Jack: Are you gonna telephone the recently not-dead Jesset City who—
+Austin: Yeah, which emoji are you leading with?
+Ali: Listen, you know—I’ve been texting Jesset City, so…
+Austin: You have been? Because you haven’t been doing that onscreen.
+Ali: Well…
+Jack: Read the last three texts from Jesset City.
+[Ali laughs]
+Austin: No, read the—I want the last one—I want what you sent to Jesset, because the last time we saw Jesset on screen was sending you the bandaged emoji salute.
+Ali: Yeah. I remember that.
+Jack: Yeah. So there’s the bandaged emoji salute. And then…
+Ali: Okay. You’re asking for the last three text messages from the bandaged…
+Austin: Or the other way around, like, what’s the last exchange?
+Ali: Okay, sure. Sure. Sure. Sure. Well, there’s obviously a funny “I lived, bitch” text.
+Austin: Right. Uh-huh.
+Ali: [laughing] Which is like Brnine on the Blue Channel in their bed.
+Austin: Uh-huh.
+Ali: And then it’s probably just like—
+Austin: ‘Cause you’re both in recovery mode. That’s the thing. You both got fucked up.
+Ali: Right. Uh-huh. Yeah.
+Austin: But you got fucked up and won. You got fucked up from killing the emperor and Jesset got fucked up losing to Crusade.
+[Ali chuckles]
+Art: So there’s a good revenge angle here.
+Austin: Yeah. There is.
+Ali: Oh. Yeah.
+Austin: Uh-huh.
+Ali: Tapping this faction is getting better and better. [laughs]
+Art: [chuckles] Surprise, I got new equipment.
+Austin: Yeah, now I’m remembering, what was the thing that Jesset was piloting the last time we saw Jesset? What is the new equipment in Jesset’s hands?
+Jack: [chuckling] Oh, no.
+Art: [chuckling] I don’t know, but it didn’t work great.
+Ali: Oh, doesn’t he have some, like, weird Motion technology?
+Jack: He does.
+Austin: Yeah. He does.
+Jack: He does. He has a mech powered by Motion.
+Austin: Uh-huh.
+Ali: That’s fine. I’ll take Eclectic to go look at it. That’s fine. I mean, you know, it’s chatting about the news. “You see this on the Millennium Break forums? Lol.” “I gotta go get this train.” “Good job.” You know, “good luck.” Some train emojis back and forth. Some ghosts.
+Austin: Uh-huh. So this is really lowkey, actually.
+[Ali chuckles]
+Austin: This is—there is no—there’s no, like—this is just—you’re just the boys.
+Ali: Yeah.
+Austin: At this point. This is the boys’ DM.
+Ali: [laughs] We’re allowed to just be boys. What’s wrong with that?
+Austin: Yeah. That’s fine. You know what? It is—yeah, uh-huh. You’re right.
+[Ali chuckles]
+Austin: And so then it becomes “can you help me hook up Rose River with some new tech”?
+Ali: Yeah. Why not? That’s a, you know, a very straightforward request [Austin: Yeah.] that’s like the—that’s—Brnine has been doing this since PALISADE. Or PARTIZAN, with Jesset City at this point.
+Austin: With Jesset.
+Ali: Like, that’s what Jesset City was…
+Austin: [scoffs] Damn.
+Ali: In—[chuckles]
+Jack: That’s what Jesset City was.
+Ali: Well, that’s like the role that entire crew played.
+Austin: Yeah, no, you’re right.
+Ali: I’m just saying this is just an obvious…
+Austin: Yeah, no, I get you.
+Ali: Come through.
+Art: Yeah.
+Austin: No, see, now you’ve switched over, ‘cause “come through” is different than “that’s what you were”.
+[Ali and Jack laughs]
+Austin: Those are kind of holistically opposite.
+Ali: Right, no, I’m just saying this is—this is—Jesset is well-equipped, well experienced, this is the first person who would come to mind for a situation like this.
+Austin: Yes, yes, yes. Mhm. Mhm.
+Jack: Does Jesset have just the one Motion mech? It is just the one stolen Motion mech, right?
+Austin: It was the—it was the prototype unit, yeah, [Jack: Yeah.] from Stel Orion working on a set of mechs powered by the way that—yes, yes. It was—
+Jack: So we don’t need to worry about Jesset accidentally equipping Rose River with a unit of Motion tech.
+[Ali chuckles]
+Austin: Eh. I think that they probably all have the—a little bit of the Motion tech, but not all—but not the full unit that Motion—or that Jesset was looking into. You know?
+Jack: Okay. That’s, I suppose—
+Austin: I think it’s gonna be probably okay, yeah.
+Jack: God. So it’s—I was about to draw a reference to an extremely unhappy montage from All Quiet on the Western Front, but that’s, I suppose, not the image that we want to draw here. It’s a delivery, right? And it’s people walking through how this new equipment works?
+Austin: Oh, sure.
+Jack: And then it is—yeah, it’s the split-screen delivery on one side, and then use on the other side as we see this battle raging.
+Austin: Mhm. Yeah.
+Jack: Hell, maybe we really do go further into the Ocean’s Eleven Steven Soderbergh vibe, and a third panel opens on the bottom of the screen as we see the two Divines, like, you know, carving this path, violent path through the landscape, far away from these troops fighting. I’m curious, does Grey Pond also deploy troops? I know they are mostly supply and—
+Austin: Yeah, they do. They do. It’s—
+Jack: Yeah. So they have also sent in a unit.
+Austin: Yeah. It is—the thing that they do is untap other factions and replace seized factions, but they—fundamentally, they’re still opposing, right? And it’s the company of the spade and the oxblood clan, both of which we’ve seen be in military engagements, I imagine primarily what they do is like, go carve out space and establish supply depots, and defend, you know, supply and logistics lines. You know? We’ve seen—
+Jack: Yeah, like fuel lines and…
+Austin: Exactly. Exactly. And—
+Jack: Securing the quarry that makes the explosives or whatever.
+Austin: Exactly. That is their specialty, yes. Yes. But I think that they are, you know, they know how to fight. And what is—what is equipment or supplies if not the waving fields of wheat and rye in the Bontive Valley? You know?
+Art: And that’s a rhetorical question.
+Austin: Yeah, yeah. That’s a rhetorical question. 
+Art: Okay.
+Austin: Alright, Ali, I guess that is it from you and Brnine. We’ll do the rest.
+Jack: Thank you, Captain Brnine.
+Ali: Oh, thank you. It was nice meeting you.
+Art: Yeah, good time.
+Austin: And again, your other interests, Afflictions…
+Ali: Afflictions, acting more aggressively, and…
+Austin: Bontive Valley.
+Ali: The Bontive Valley.
+Austin: Which, we’ll see if Jade Kill can…
+Jack: Nailed it. Maybe.
+Art: Oh, we should mess around with the invisible minotaurs, maybe.
+Austin: Oh, we should get the invis—yeah, those are Afflictions.
+Ali: Yeah, you know?
+Austin: The tricerataurs.
+Ali: Have fun. Veronique, it was very fun this time.
+Art: We should oppose with bold action and unpredictable tactics.
+Ali: [laughs] Okay, bye.
+Austin: Bye.
+Jack: Bye.
+Art: Bye.
+[music outro - “Nothing is Stationary” by Jack de Quidt]

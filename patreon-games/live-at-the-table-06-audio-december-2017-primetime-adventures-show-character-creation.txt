@@ -1,0 +1,6003 @@
+﻿Live at the Table Audio - December 2017 - Primetime Adventures Show & Character Creation
+
+
+Transcribed by Kahurangi (@kahurahu) and @lu_____u (from 00:15:02 onwards).
+
+
+AUSTIN: Welcome to Live at the Table; an actual play live stream dedicated [incredulously] dedicated? [correcting] focused on critical world building, smart characterisation and fun interaction between good friends. I’m your host Austin Walker. Joining me today Sylvia[1] Clare.
+
+
+SYLVIA: Hi! I’m Sylvia. You can find me on Twitter @captaintrash and you can also find me at video game cho cho.com where I produce stuff there.
+
+
+AUSTIN: Keith Carberry.
+
+
+KEITH: Hi! My name’s Keith Carberry. You can find me on Twitter @KeithJCarberry. You can find the let’s plays that I do at youtube.com/runbutton.
+
+
+AUSTIN: And Art Martinez-Tebbel.
+
+
+ART: Hey! You can find me on Twitter @atebbel but don’t do it today, because it’s just gonna be wrestling nonsense all day.
+
+
+AUSTIN: Pretty much all day yeah.
+
+
+SYLVIA: Yeah
+
+
+AUSTIN: So today— Art there’s a link in the chat where you can join this game, this roll20 game, if you scroll up a little bit. Um—
+
+
+ART [cross]: I was just gonna free hand it today.
+
+
+AUSTIN [cross]: Okay. That’s fine. That’ll work.
+
+
+AUSTIN: We’re playing “Primetime Adventures - A game of television drama” by Matt Wilson. This is a game that has been around since the mid 2000's, like 2004/2005. It was one of those games that Art put in front of me when we were in college together and was like, "Hey this is cool. This is indie. This is like doing stuff other games aren't doing. We should play it." And then we never played it. Uh, so I'm gonna try and remedy that today, and, and kind of throughout 2018 because Primetime Adventures is a game about a TV show. A TV show that we come up with. Y’know the book kind of calls it the "greatest TV show that never was" right? Obviously it's a game that you could theoretically use to play an actual TV show. Like if you really wanted to do another season of Friends, Primetime Adventures would let you do that. Or another season of Firefly it's it's kind of setting and genre agnostic, except to— for the sense to say that it is about a TV show, and so it is interested in things like who, y’know, who is the most, who's the, the character who this episode is gonna be focusing on the most. Who's in the A plot, who's in the B plot. Stuff like that. 
+
+
+Um, the— beyond that it is a pretty similar roleplaying game, to some degree, in that like, or, in line with a lot of things we've played at Live, or that we have, you know, hit on in Bluff City, or other stuff like that, where we've done stuff like games that have card mechanics,  to, to resolve, you know, conflict, for conflict resolution. Or games that are— that lean really heavily into improv and collaborative storytelling, instead of just like, here are what my skill stats are. 
+
+
+You need a handful of players, you need this paper here, you need a deck of cards. One player plays as a quote unquote "producer". I'll be taking the role of producer for this. At least for this opening bit. Uh, y'know who knows, maybe four episodes down the line we'll switch around. And like I said, we'll— we'll kind of revisit this over the course of 2018. I think. Because, part of what it does is it does a season of TV, instead of doing just a, um, instead of— kind of just doing a single, like, campaign or oneshot. The thing that it does best is this sort of like, seasonal play. And so, I have a bunch of ideas for how that can work, even with rotating casts. But, the basic premise that I wanna go for, the thing that we're gonna work out today over the next couple of hours is like, what our show is, who the main characters are, and kind of, what we should be thinking about going forward. And the only thing I've brought to the table, as far as premise is, I think this is, whatever we make is the most popular TV show in Bluff City.
+
+
+SYLVIA: Oooh.
+
+
+KEITH: Oooo.
+
+
+AUSTIN: That's the only premise thing that I've, that I'm like committed to. And I mean that both descriptively and prescriptively, which means we should be thinking about what would be popular [chuckles] in Bluff City, but also we should be thinking, well whatever we come up with is the most popular TV show in Bluff City. 
+
+
+KEITH: What. [pause] What. So you're saying, use Bluff City to prescribe this TV show, but also [AUSTIN: But also] this TV show's prescribing Bluff City.
+
+
+AUSTIN: Yes. Exactly.
+
+
+KEITH [cross]: Okay. Got it.
+
+
+AUSTIN: You know what I mean. It works both ways. It's [KEITH: Yes] It's true for a lot, the sort of games we've played to do that.
+
+
+ART and KEITH at the same time: Um.
+
+
+ART: A couple things.
+
+
+AUSTIN: Uh-huh
+
+
+ART: One. [pause] Do you know that the stream still has the game FAQs page for Kingdom Hearts, oh I’m— [cross] I'm paused
+
+
+AUSTIN [cross]: No, you're, you're paused.
+
+
+SYLVIA: You're very paused.
+
+
+[AUSTIN hums in agreement]
+
+
+ART [cross]: Um.
+
+
+AUSTIN [cross]: I appreciate it. I appreciate it.
+
+
+KEITH [cross]: Art! Don't be so paused. [laughs]
+
+
+ART: I ca— I came down stairs to record this with two TV show ideas in my head. Just like [AUSTIN: Okay] broad genre ideas?
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH [cross]: I wrote down a bunch of jokes.
+
+
+ART [cross]: And they're not- they're not compatible with each other at all.
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA [cross]: Perfect.
+
+
+ART [cross]: Unless we make them compatible with each other.
+
+
+AUSTIN [cross]: We can do that [quietly] almost always.
+
+
+ART [cross]: But here are the two TV shows I'm interested in making, in ascending order of how good I think they are.
+
+
+AUSTIN: Mm-hm.
+
+
+ART: One. I like cop shows. I'd love to do a cop show.
+
+
+AUSTIN: Mm-hm.
+
+
+ART: Two. I would love to do a show about running a minor league baseball team, because I've been in the wacky minor league baseball teams a lot this week. [chuckles]
+
+
+AUSTIN: Goo— Great. I've written both of these down on your thing here. Can you— can y'all each take one of these. Here, I'm just names and then it's gonna be great. Art. That's your premise show… page.
+[00:05:05]        
+
+
+ART: Alright.
+
+
+AUSTIN: Sylvia. Here you are.
+
+
+ART: But I'm not pitching minor league baseball cops.
+
+
+AUSTIN: Why?
+
+
+ART: Unless I am.
+
+
+AUSTIN: [chuckles] It's like Reno 911, like, sequel right?
+
+
+ART: But like, but like a little edgy-er.
+
+
+AUSTIN [questioningly]: Ed— Yeah?
+
+
+ART: Like whats, what’s a good baseball crime?
+
+
+AUSTIN: Cheating.
+
+
+ART: I dunno.
+
+
+KEITH: Doping.
+
+
+AUSTIN: Doping. [cross] Those are the two, those are the same.
+
+
+ART [cross]: I'm still— oh
+
+
+KEITH [cross]: Quirking the bats. Wait.
+
+
+[ART laughs]
+
+
+KEITH: Quirking other players. [laughs]
+
+
+[AUSTIN laughs]
+
+
+AUSTIN: Great. Um, let’s let’s— like I think those, that's a good one. Let's just put everything we do have on the table right now. ‘Cause if everybody has stuff that we can immediately start thinking about premise wise.
+
+
+KEITH [cross]: I do… Art said minor league baseball, and I do like the idea of a sports show. Like a liveaction sports anime show that Bluff City loves.
+
+
+AUSTIN: Uh-huh. Me too. I do like sports. Sports are good, and we've all talked about doing sports shows that we've never actually done. Would it be like a drama? Dramedy?
+
+
+ART: Like a, like a Friday Night Lights but with, but, but [trails off]
+
+
+SYLVIA: But baseball?
+
+
+ART [cross]: More deadend. I dunno.
+
+
+AUSTIN: Yeah.
+
+
+ART: Do you get more deadend than that show? I didn't, I didn't finish that show. 
+
+
+AUSTIN: Me either.
+
+
+ART: Maybe it ends up great.
+
+
+AUSTIN [agreeing]: Me either.
+
+
+SYLVIA: I mean… 
+
+
+ART: People like it.
+
+
+[pause]
+
+
+AUSTIN: So I like this. I like this as a general idea. I definitely like sports. My only thing with cop shows is, we're obviously doing a cop Bluff City movie currently. [KEITH: Yeah] [ART: Hmm] And it's good. For people who are looking forward to the next Bluff City; it's a movie and it's about action movies. [ART laughs] And it's about cops. 
+
+
+So okay. I kinda like this. I'm gonna read from the book a little bit about what the premise— how to decide on a just so we [KEITH: Mmm] Kind of, we create the show. We need a premise, a tone and a soap. Those are the three big things. The premise is like, what the show is about. [Quoting] "You should be able to explain it in a brief sentence. Are the characters FBI agents uncovering an alien conspiracy, or are they the crew of a spaceship transporting illegal goods across the galaxy? Are they 1920's gangsters running booze across the border? That's the premise of the show." If we end up like, not having extra something— there's like a cool system for drawing cards [chuckles] that can give you like a little bit of extra suggestions basically. Or we can just look at their list, their table of potential other ideas. Those are things like; [quoting] "court, supernatural, justice, identity, war" etcetera. "Far future". 
+
+
+If it's a modern day series, one thing we should talk about is like, what is too sensitive. What issues are too sensitive? What ones do we wanna highlight? If it's like a historical, or a futuristic thing, like we should think about what we wanna highlight there in terms of setting. And then once we get into like tone and soap, we'll kind of zero in there more, but we should already kind of be thinking about that now that we're talking about premise, because things like who, y'know, is this on network TV? Is this a prime time 8pm slot show? Or is this an HBO, like, y'know, premium, prestige drama? Those will feel different, and then are worth figuring out which one we want to do y'know. Does anyone else have any premise ideas?
+
+
+KEITH: I have, I have this list of jokes that is basically useless. But.
+
+
+AUSTIN [cross] Gimme that list of jokes. Let's do it.
+
+
+[SYLVIA laughs]
+
+
+KEITH: My awful cat is ruining my life and everyone else's life. The big band jazz ensemble we started is being taken over by a clique of monsters. This group of thieves has to go back to school. Local American Pickers. Snorkelers find Atlantis but it's really—
+
+
+AUSTIN [cross]: You're going so fast.
+
+
+KEITH: So fast? Okay.
+
+
+AUSTIN: I'm at big band jazz ensemble and monsters.
+
+
+KEITH [cross]: Oh you're writing these? Okay. Got it.
+
+
+AUSTIN: Oh yeah.
+
+
+KEITH: Big band jazz ensemble we started is being taken over by a clique of monsters.
+
+
+AUSTIN: A clique of monsters?
+
+
+KEITH: Yeah.
+
+
+AUSTIN: That's just a Monster Hearts game I think. Uh, taken over by a clique—
+
+
+SYLVIA: I mean save that.
+
+
+AUSTIN: [chuckles] Yeah. Clique of monsters. What else?
+
+
+KEITH: This group of thieves decided to go back to school.
+
+
+AUSTIN: Thieves go to school.
+
+
+KEITH: Local American Pickers.
+
+
+AUSTIN: What's that mean? Why the local?
+
+
+KEITH: They go to garage sales and it's in Bluff City I guess.
+
+
+AUSTIN: Oh, okay. But like [laughs] It could be—
+
+
+KEITH: I had written— I wrote this earlier but like, it's just like instead of going all over the world they're like going into people's garages and [AUSTIN: Gotcha] In like one town. It's like the local reality show. Which I don't know if that exists. I don't know if there's a reality show that is like on local TV.
+
+
+AUSTIN [cross]: There should be.
+
+
+SYLVIA [cross]: There's gotta be. Like public access is basically that in a lotta ways.
+
+
+KEITH: Yeah that's fair. Snorkelers find Atlantis, but it's really small.
+
+
+[SYLVIA laughs loudly]
+
+
+AUSTIN [reading as he writes]: Snorkelers find Atlantis
+
+
+ART: What is that TV show like? What [cough obscures] two of that show?
+
+
+AUSTIN: Snorkel. How do you spell snorkel?
+
+
+KEITH: S-n-o-r-k [AUSTIN: There it is. I got it.] E-l-e-r-s
+
+
+SYLVIA: These are just episodes of the anthology series I need Keith to be the showrunner for.
+
+
+AUSTIN [reading as he writes] finds Atlantis but it's really small.
+
+
+[0:10:07]
+
+
+AUSTIN: Here's the thing that you're hitting on a little bit that I do really like is the notion of like, this is the opposite of baseball show. But I do like— I would like a show of explorers going to places and then it’s just like, wacky, weird shit that they find.
+
+
+KEITH: Okay, well then you're gonna like the next two.
+
+
+AUSTIN: Okay.
+
+
+[SYLVIA laughs]
+
+
+KEITH: It's also the last two.
+
+
+AUSTIN: Okay
+
+
+KEITH: Snorkelers find Atlantis, but they're really rude!
+
+
+AUSTIN [laughing]: Okay.
+
+
+KEITH: Uh, and then snorkelers find Atlantis, but Atlantis needs to find itself.
+
+
+[laughter]
+
+
+ART: How far down do you think snorkelers go?
+
+
+[AUSTIN and SYLVIA laugh loudly]
+
+
+KEITH [while AUSTIN and SYLVIA laugh]: That's, that's why it's so weird!
+
+
+SYLVIA [groaning]: Oh, I completely missed that.
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: The original was that snorkelers found Atlantis but it's really small, and that's why they're snorkelers finding it, and not divers finding it. And then I just wanted to use the same language for the next two.
+
+
+AUSTIN [humming in agreement]: Mm-hm, mm-hm.
+
+
+KEITH: That's what I've got. So.
+
+
+AUSTIN: Um. So the actual thing here is like, I actually... I'm not throwing away baseball. Yeah. I think liveaction baseball show, minor league baseball team is fun. I like teams. I like— that's a good immediate how do we all know each other thing. That's a good series, like TV series uh focus. But I really do like this weird… Do you know who the snorkelers are in my mind? They're the local American Pickers.
+
+
+[KEITH laughs]
+
+
+AUSTIN: Do you know what I mean? [KEITH: Yeah yeah yeah] And each episode is like going to—
+
+
+KEITH [cross]: That's actually how I got— ‘cause this list is chronological when I wrote it [AUSTIN: Right. Sure] So I went right from American Pickers to they're snorkelers in Atlantis so… 
+
+
+AUSTIN: Right. Exactly. Um, but also I kind of like, y'know there's also a feeling here of like um...'thieves go to school' also feels like- there's almost like a Nathan For You vibe from a lot of this, which is like 'person goes off and does a weird thing that episode' [KEITH hums in agreement] Which I'm not opposed to… but also I like baseball. I don't like baseball, but I like sports stories.
+
+
+KEITH: Yeah. It's a weird spot to be in for me too.
+
+
+AUSTIN: Oh I bet. I bet.
+
+
+KEITH: But I, but I think you would like, watch more sports than I think I would.
+
+
+AUSTIN [slight disagreement]. Mmm maybe.
+
+
+KEITH: And baseball's the closed one to one that I would actually watch.
+
+
+ART: We could always make the Harlem Globetrotters cartoon.
+
+
+AUSTIN: Oh we could! [silence] So do you wanna explain to people what that is, for people who don't necessarily know what the Harlem Globetrotters cartoon is. Because it's…
+
+
+ART: Okay so the Harlem Globetrotters are a team of comedy stunt basketball players. 
+
+
+AUSTIN: Uh-huh.
+
+
+[KEITH wheezes] 
+
+
+ART: They tour all over the country and they play—
+
+
+AUSTIN [cross, over Art] This is real. Wa-wa-wait. To be clear that's a real thing. If you don't know that. They were real.
+
+
+[Someone whistles a part of the Harlem Globetrotters theme song]
+
+
+ART: Yeah. They are real. They still exist. You could go see the Harlem Globetrotters in an arena near you. Probably sometime this year.
+
+
+KEITH [cross]: They're still, they still yeah. You can watch them beat the Washington Generals.
+
+
+[AUSTIN laughs]
+
+
+ART: They recently brought back the Washington Generals. For a long time they retired the Washington Generals, and brought in the New York Nationals. I guess like, ‘cause people hate New York more than Washington. I don't know.
+
+
+[AUSTIN chuckles]
+
+
+ART [chuckling]: Um… And they like, play basketball and do all these tricks, and they like say it's a real game but it's not, but allegedly the Generals won a game once [AUSTIN: Oooh] thirty years ago, but I don't think anyone was there. [AUSTIN laughs] That's really not important. I'm getting off the topic. Um, but in like the seventies or eighties or something, Hanna-Barbera did a cartoon of the Washington Globetrotters. They like went and did like non-basketball adventures. It was like the Harlem Globetrotters out [KEITH: I...] being with the Scooby Doo team y'know.
+
+
+KEITH [cross]: Yeah I think it started with—
+
+
+AUSTIN [cross]: They had crossovers right?
+
+
+KEITH: With crossing over with Scooby Doo [AUSTIN: Yeah] and then they were like, these basketball comedy stars need their own detective show.
+
+
+ART [cross]: Yeah.
+
+
+AUSTIN: And they did. 
+
+
+KEITH: And they did. And it was good. It was fine.
+
+
+AUSTIN: Um, that's-
+
+
+ART [cross]: I dunno if it was the real Harlem Globetrotters providing the voices. Although now that I think about it [AUSTIN: Oh it had to be] the answer is of course it wasn't.
+
+
+ART: Really? You think yes?
+
+
+KEITH [cross]: Oh you think so?
+
+
+AUSTIN [cross]: Oh I guess not.
+
+
+KEITH: I mean what else would they be doing, playing basketball?
+
+
+[AUSTIN laughs]
+
+
+SYLVIA: You know when they made that like, WWE Rock and Racing TV show that like, everyone thought they were, the wrestlers were voicing themselves but they weren't and people got really mad about it.
+
+
+AUSTIN: Yeah. Yeah.
+
+
+SYLVIA: And they found out like, decades later.
+
+
+AUSTIN: Well like here's actually, this is better though like, Meadowlark Lemon did not play himself. Y'know who did? Scatman Crothers. So.
+
+
+SYLVIA [cross, softly]: Fuck.
+
+
+[KEITH laughs]
+
+
+AUSTIN: Worked out.
+
+
+ART: Oh that's real?
+
+
+AUSTIN: Yeah. That was not a bit I was doing.
+
+
+ART: Oh… And this was in the early seventies, and apparently they did not have a lot of, they did one season. Oh two seasons. Never mind.
+
+
+AUSTIN [cross]: Two seasons. Two seasons.
+
+
+ART: Second season was a [KEITH: And] whopping six episodes.
+
+
+[ART and AUSTIN laugh]
+
+
+KEITH: Oh coo— how many episodes [SYLVIA: Do you want me to look it up?] were in the first season ‘cause cartoon seasons are usually pretty long.
+
+
+ART: Uh, sixteen.
+
+
+KEITH: Oh okay. So nevermind.
+
+
+AUSTIN: So not that long. Yeah.
+
+
+KEITH [cross]: Its average.
+
+
+AUSTIN: They're @globies on Twitter. Harlem Globetrotters got @globies.
+
+
+SYLVIA: That's not… That's an innuendo for something.
+
+
+KEITH [cross] [in a childish voice]: Follow me @globies!
+
+
+ART [while laughing]: Who has @harlemglobetrotters ? Do they...
+
+
+[AUSTIN laughs]
+
+
+AUSTIN: I think maybe it's too long. Maybe?
+
+
+SYLVIA: Who has @globetrotters though? Like...
+
+
+[AUSTIN laughs]
+
+
+AUSTIN: Probably some sort of travel start up.
+
+
+SYLVIA: Oh true. Definitely a start-up.
+[00:15:02]
+
+
+[KEITH laughs]
+
+
+KEITH: Did the Washington Generals get [AUSTIN laughs] @washingtongens?
+
+
+AUSTIN: [laughing] No, I thought you were saying that the Washington Generals get @globetrotters!
+
+
+KEITH: [amused] Oh, they got @globetrotters and are just, like, tweeting like, "We suck!"
+
+
+SYLVIA: That's— that's the first episode of the reboot of the Harlem Globetrotters cartoon. They gotta get the Twitter account. 
+
+
+AUSTIN: Oh, god, alright, um.
+
+
+ART: Oh my god, what about— what if we do it that way? What if we're the Washington Generals going on crazy adventures.
+
+
+KEITH: No, I think the Washington Generals are supposed to be, like, inherently racist.
+
+
+[laughter and spluttering]
+
+
+AUSTIN: So, no.
+
+
+KEITH: I think that's like the sub— that's like the sub-plot of the— of the Globetrotters is that they always beat, like, the racist Washington Generals. I think that that's what it's supposed to be.
+
+
+AUSTIN: Is it?!
+
+
+[overlapping]
+
+
+ART: [unintelligible] I did not get that.
+
+
+KEITH: That's what I heard one time. I've never seen— I've never seen a Globetrotter's game. This is something that I was told one time and I have no idea if it's true.
+
+
+AUSTIN: [laughing] Oh, okay!
+
+
+KEITH: I thought that there was supposed to be some sort of allegory to the game itself.
+
+
+AUSTIN: [amused] There's a lot of Black people on the Washington Generals, Keith.
+
+
+KEITH: Okay, that's fair. I've never— again, never seen it.
+
+
+AUSTIN: Okay. Oh, but if I look at their— I look at this image of just— hm, okay. [pause] I get it. They have bad colours. Alright, we're gonna keep moving. Um, I want more on this premise like I want... So, what we have is like— what we have is if we do sports we have a small sports team and I think that that's a good starting place but it's not quite all the way there. I'm gonna— I'm gonna do this deck of cards trick to see what we get as ideas. 
+
+
+[reading] The producer deals out two cards face-up for everyone playing the game (that includes the producer). Give everyone a minute or two to write down a few ideas that combine three of the cards into a premise. [finishes reading]
+
+
+So, we're going to have eight cards dealt out and I'm gonna tell you what they each are. One second. [counting aloud] One, two, three, four, five, six. I'm gonna flip them over. It's going to be great. Seven, eight. Alright. Um, let's— uh, nope. Stop. Flip card. Flip card. Flip— hey. Flip card.
+
+
+SYLVIA: Is this the— which chart is this? The one on 114?
+
+
+AUSTIN: This is— I'm going to pull it up in one second for the chat. It is the one on, um, no it's early— it's an early chart.
+
+
+SYLVIA: The earlier one?
+
+
+AUSTIN: 23.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: It's on page 23. In fact, check this shit out. Uh.
+
+
+ART: If I remember correctly, all the good shit's on face cards.
+
+
+AUSTIN: That's not exactly true or not exactly wrong.
+
+
+ART: Okay, but read what those two face cards are then read what some of the other things are and we can...
+
+
+AUSTIN: Okay, give me a second. I'm gonna get this chart up on the screen for people. [muttering] Let’s add… handout, choose a file. What's up. I have to save this first, I guess. Oop, what did I just do? I just did some shit, uh, I dunno what I did. Let me save this thing. This is called… 
+
+
+ART: Because of like the eight of the— what did we get? We got the eight of— eight of spades?
+
+
+AUSTIN: Yeah, can we go over what each of these— no, eight of clubs is what we got first.
+
+
+ART: Eight of clubs is business.
+
+
+AUSTIN: That's a thing. You can come up with a show about business.
+
+
+ART: And the king of spades is friends. Friends is better than business.
+
+
+AUSTIN: No, but like, business-friends is just The Office.
+
+
+ART: Sure. Jack of spades is dystopia.
+
+
+SYLVIA: Dystopia-friends is just COUNTER/Weight.
+
+
+AUSTIN: [amused] Yeah, uh-huh!
+
+
+[SYLVIA laughs]
+
+
+KEITH: What about dystopia-business-friends.
+
+
+ART: Three of clubs is police/agents.
+
+
+SYLVIA: Well.
+
+
+AUSTIN: We had that on the board already so.
+
+
+ART: Nine of spades is secret. Nine of clubs is farm. Seven of hearts is honour.
+
+
+AUSTIN: Wait one more time. Let's go through these and I'll add them underneath here.
+
+
+SYLVIA: Alright.
+
+
+ART: Eight of clubs is business. What's the next one? Three. It's a three.
+
+
+AUSTIN: Three of clubs.
+
+
+ART: Is police/agents.
+
+
+AUSTIN: Police/agents. Uh-huh.
+
+
+ART: What's next?
+
+
+AUSTIN: Eight of spades.
+
+
+ART: Eight of spades is hunters.
+
+
+AUSTIN: Okay. King of spades.
+
+
+ART: King of spades is friends.
+
+
+AUSTIN: Friends, okay. Nine of spades.
+
+
+ART: Is secret.
+
+
+AUSTIN: Ooh, secret!
+
+
+ART: Yeah, mine is just secret-cop-hunters. I just wanna...
+
+
+AUSTIN: [laughing] Jack of spades.
+
+
+ART: People who secretly hunt cops.
+
+
+SYLVIA: Oh!
+
+
+AUSTIN: Uh-huh, dystopia is jack of spades. Nine of clubs is farm?
+
+
+ART: Farm.
+
+
+AUSTIN: Farm! That's good. Farm team. And then seven of hearts.
+
+
+ART: Is honour.
+
+
+AUSTIN: Okay. So these are all topics, certainly. Um, I wanna be clear again for people listening. The premise is not that this is— that this is a show in Bluff City necessarily. It can be. The premise is this is the popular show in Bluff City. So, like, in the 1990s that show was probably still Seinfield. But, maybe it wasn't and maybe it was Martin because Bluff City's like that, you know what I mean? Uh, we have to decide that but also it doesn't have to be a Bluff City related thing. Um. The thing is cop-hunter is literally the thing we're doing in Action Movie World for Bluff City right now so I think cop-hunter is out unfortunately.
+
+
+ART: Alright, well, I wasn't briefed on…
+
+
+SYLVIA: Do we wanna, like, replace the stuff that we can't use or...?
+
+
+AUSTIN: Yeah, let's do that. It's a good idea. So, let's get rid of police/agents. I think that's the kind of the only one we have to get rid of, right?
+
+
+SYLVIA: Yeah. I don't know how into dystopia we are. That can just be, like, a burn card.
+
+
+AUSTIN: Yeah. Uh, tell me about the two of diamonds.
+
+
+[simultaneously]
+
+
+SYLVIA: That's aliens.
+
+
+ART: Aliens.
+
+
+AUSTIN: Alright. 
+
+
+SYLVIA: Hell yeah. Hell yeah!
+
+
+AUSTIN: Alright.
+
+
+SYLVIA: Hell yeah!
+
+
+AUSTIN: Are you with me? [SYLVIA laughs] Aliens who are undercover on Earth as athletes. [pause] As, like, a minor league baseball team.
+
+
+[overlapping]
+
+
+ART: I… love it.
+
+
+KEITH: I like that. That works really well with, uh, my big band jazz ensemble being taken over by a clique of monsters, so, I'm in.
+
+
+AUSTIN: [amused] Alternate— alternate pitch, alternate pitch. Aliens who are doing the— who are local pickers/Americana explorers.
+
+
+KEITH: They just really like, like, Earth ephemera? 
+
+
+AUSTIN: Yes. Great. Great. Thank you. Thank you, Sylvia.
+
+
+SYLVIA: No problem!
+
+
+AUSTIN: Uh-huh. The Melmac Orbiters. Gordon No Problem Shumway.
+
+
+[KEITH laughs]
+
+
+SYLVIA: He's got no problem!
+
+
+AUSTIN: Y'know what? No problem, big fella. The— I kind of like the notion of aliens come to Earth. They meet a minor league baseball promotor or, like, coach who wants to protect them because he knows the feds are going to kill them and so he's like, "Y'all should play for my minor league baseball team. We go all over the country. You'll get to see America and also you'll be protected from the cops who are after you."
+
+
+ART: Okay, but the antagonist in the show is a major league baseball scout who used to be a cop.
+
+
+AUSTIN: Used to be. Right.
+
+
+ART: Like he's the one— like it's not the cops this, it's this guy who's like, "How do you hit that ball like that?" Like, that's the—
+
+
+AUSTIN: Did he play— let me pitch this. He played ball for the air force in college and, like, was part of an elite undercover UFO operation too. And see, he still has those contacts but now he's just a baseball— he's like a major league scouter or recruiter. Yeah, scout recruiter. [pause] I'm into it.
+
+
+ART: I love it.
+
+
+AUSTIN: That's— alright. Premise… is… the most popular—
+
+
+ART: They still solve mysteries, right? [laughing] That's still part of it? Okay.
+
+
+AUSTIN: Yeah, uh-huh. Most popular show in Bluff City is: aliens land in America meet minor league baseball coach who protects them by recruiting— are they good at baseball or nah?
+
+
+[overlapping]
+
+
+ART: Well, they can't be that good 'cause they're in the minors.
+
+
+KEITH: I think they're—
+
+
+AUSTIN: [laughing] Right.
+
+
+KEITH: But, like, maybe they have to be in the minors because they can't get caught and there's too much attention.
+
+
+AUSTIN: True. True. So, maybe one of them is like—
+
+
+ART: Well, some of them are probably good and some of them are bad, right?
+
+
+AUSTIN: Right, exactly. By recruiting to his team, um, they go on— they want to learn about America. I'd say the world 'cause we do international episodes, shit!
+
+
+KEITH: They just happen to be in America.
+
+
+AUSTIN: In America, right. They want to learn about the world and avoid capture or avoid being caught by major league scout/former UFO expert.
+
+
+KEITH: Aw, man. Imagine how heartbreaking it is to have to bomb in front of a scout.
+
+
+AUSTIN: Oh, it's brutal, right?
+
+
+KEITH: 'Cause they love the game!
+
+
+AUSTIN: Uh-huh, exactly. They love it.
+
+
+ART: I'm pitching titles in the chat like I can't pitch titles here.
+
+
+AUSTIN: Why, wait, are you pitching titles in the chat? Where you pitching titles at?
+
+
+ART: Best pitch 1: Dug Out Of This World.
+
+
+[KEITH cackles]
+
+
+AUSTIN: [laughing] That's not bad! That's not bad. That ain't bad.
+
+
+KEITH: That's not bad.
+
+
+AUSTIN: Um, alright, so tone. Let's talk about— actually let's talk about setting first. What year is this?
+
+
+ART: Either present day or 1987.
+
+
+AUSTIN: Right. Hm. Do we want to do an ‘80s show?
+
+
+ART: Or it could be, like, '94. We could do like—
+
+
+AUSTIN: Yeah! We could do—
+
+
+ART: —a '90s show.
+
+
+AUSTIN: What do we do in— oh! Oh, wait. What if we do— what if we do a setting I've always wanted to use but never used? [KEITH: Okay.] Which is 2007/2008 economic collapse—
+
+
+SYLVIA: Hell yeah.
+
+
+KEITH: Okay. 
+
+
+AUSTIN: —America. Occupy Wall Street is happening, like, everything feels like change.
+
+
+KEITH: The— the only thing that I was going to say was, and this is like, what show do we want it to be competing against and it should be in that period?
+
+
+AUSTIN: Good call. That's a really good call. What show do we want it to be competing against?
+
+
+SYLVIA: Oh… 
+
+
+AUSTIN: Let's look at best TV shows.
+
+
+SYLVIA: Lost… 
+
+
+[KEITH laughs]
+
+
+AUSTIN: Like that mid-2000s, yeah?
+
+
+SYLVIA: Yeah, no! Also—
+
+
+KEITH: Yeah, no, it works.
+
+
+SYLVIA: —Primetime Adventures is one of my favourite things that pointed out that just Gilligan's Island and Lost are the same fucking show with different tones and I love that.
+
+
+AUSTIN: Yes. Yup. Uh-huh. 100%! When did that end? That ended— is someone—
+
+
+SYLVIA: I don't know.
+
+
+AUSTIN: —opening cellophane?
+
+
+KEITH: I'm crinkling trash.
+
+
+AUSTIN: What are you doing? 
+
+
+KEITH: I had a bunch of strips of plastic from envelopes that I was using and I was throwing them away 'cause they were on my desk.
+
+
+AUSTIN: Okay. Gotcha, gotcha, gotcha. Yeah, I guess Occupy Wall Street wasn't until 2011, right? Um, but like—
+
+
+ART: Yeah, it was during the re-election.
+
+
+AUSTIN: Yeah, yeah, it was, right, but economic-collapse-era America is fun. It's depressing and, like, um, Great Recession, aliens arrive and are trying to find the fun in and, like, the whimsy in a time where people are dealing with foreclosures.
+
+
+KEITH: These aliens are taking all our minor league baseball jobs.
+
+
+AUSTIN: So that is the thing we should talk about is, like, is there a weird— is there an analogy here? One, we should be careful of. Two, that is going to be there no matter what because we're using aliens and America and that we need to be, like, thoughtful about.
+
+
+ART: Yes? But we could also just have human people— there can still be humans on the team.
+
+
+AUSTIN: There are still humans on the team, yes. 100%.
+
+
+ART: Oh, there's not just twenty-five aliens.
+
+
+AUSTIN: No, I think this is five aliens, right? This is, like, a spaceship lands—
+
+
+KEITH: You're saying that it's the three of us and maybe, like, two other people?
+
+
+AUSTIN: How big do you think baseball teams are?
+
+
+KEITH: I know how big baseball teams— [SYLVIA laughs] I don't know off the top of my head but—
+
+
+[overlapping, SYLVIA continues to laugh in the background]
+
+
+ART: Twenty-five. I was right.
+
+
+AUSTIN: Oh, you meant in terms of aliens. I thought you meant in terms of baseball teams.
+
+
+KEITH: In terms of, yeah, yeah.
+
+
+AUSTIN: I was like, Keith!
+
+
+KEITH: No. No, no, no. I—I've seen baseball games. I like baseball.
+
+
+SYLVIA: I thought you were about to say, "I've seen Benchwarmers!"
+
+
+KEITH: I've seen Benchwarmers. I have seen Benchwarmers. It's not great.
+
+
+SYLVIA: It's garbage.
+
+
+AUSTIN: Yeah. So the— yeah. I think it's probably, like, five. It's a family or something, right? Or maybe it's not, we'll figure that out as we go forward.
+
+
+KEITH: Yep.
+
+
+AUSTIN: But I think it's, like, five aliens. Um, I mean, like, maybe the thing I'm gonna say is, like, I think if there was an analogy here being made it's, like, pro-immigration? It's not anti, you know what I mean?
+
+
+KEITH: Hm-hm, right.
+
+
+AUSTIN: I think the thing we're going for here is, like, these aliens are dope actually and this guy who's protecting them is good and right and fuck ICE.
+
+
+KEITH: Can I say how bizarre it would be if we made a show where aliens were bad?
+
+
+AUSTIN: Yes, it would be fucking terrible.
+
+
+KEITH: Like it was bad to have aliens to come to Earth and just try to live?
+
+
+AUSTIN: It would be really bad.
+
+
+AUSTIN: It would be really bad. Um, okay. I think I'm into this. I think I'm into this. Um, so yeah, let's now, so setting— again, I'm not 100% sold on 2008 or whatever? I could totally '87 or late '80s or mid-90s. Mid-90s are fun. Acid wash jeans let's do it.
+
+
+SYLVIA: Ooh.
+
+
+KEITH: Yeah. Is there another show we feel like— I'm thinking specifically, like, when I'm talking about a show that this show's competing against, like, something that's almost in the same vein whereas like—
+
+
+AUSTIN: Like, Friday Night Lights is mid-to-late-2000s like 2006/2010 or something. 
+
+
+[overlapping]
+
+
+KEITH: Okay.
+
+
+ART: Oh, we could also go, like, 3rd Rock From The Sun.
+
+
+KEITH: Either watching—
+
+
+AUSTIN: Right, we could do 3rd Rock.
+
+
+KEITH: Yeah, so that's more what I was thinking.
+
+
+AUSTIN: Or we could do Alien Nation. Alien Nation was also a thing? Remember that one? Alien Nation.
+
+
+KEITH: Alien Nation, yeah.
+
+
+AUSTIN: Do you not remember that TV show with the weird heads?
+
+
+KEITH: I never saw it but I do remember it.
+
+
+AUSTIN: I mean that was also one of these shows where it was a procedural cop show where, like, aliens were a standin for racism, so. That was, like, early-90s. It was like '89 to '90.
+
+
+KEITH: Going back to your earlier point, I don't think that stand-in is almost ever a great idea.
+[00:30:01]
+
+
+AUSTIN: Wait, what's stand-in? What?
+
+
+KEITH: You said that aliens were stand-in for American racism?
+
+
+AUSTIN: Oh, no, it's— yeah. That's the thing, right? This should be a show in which there are also immigrants that are human immigrants who deal with shit otherwise that's, like, a bad— [laughs]. That's just, like, oh no these are just a perfect analogy for, like, no, they are super not actually in anyway.
+
+
+KEITH: Mm-hm.
+
+
+ART: Well, I don't think there's a minor league baseball team on this earth that's entirely American born baseball players, right?
+
+
+AUSTIN: Yeah, probably not. Um, what else could— I think that— but so I like Lost. I do like Lost. I like Friday Night Lights. I like, um—
+
+
+KEITH: Is that the tone of the show though?
+
+
+AUSTIN: Well, no. That— that's a separate question, right? [KEITH: Yeah.] Network, target demographic, rating are the next thing after setting because, again, that's kind of what it talks about with tone is it says, like, compare Gilligan's Island and Lost. Numerous elements can differentiate them. Is the mood of the show upbeat or fun, or dark and brooding? Like, they're both shows about people stuck on an island but because of the tone, like, they're wildly wildly different shows. I think the tone in my mind is, like, is definitely in this dramedy camp of, like—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —make you feel some shit but also goofs? Like, it's aliens going to yard sales and, like, going to museums and getting into hijinks, and also playing games against their rivals, y'know?
+
+
+KEITH: What's the connection for us between the baseball and the picking?
+
+
+AUSTIN: I think that that's, like, an episode to episode thing, right? Where it's like—
+
+
+KEITH: Mm-hm.
+
+
+AUSTIN: Hm… 
+
+
+KEITH: 'Cause we— it should— but they should— it should be, like, I think it should be connected in some way.
+
+
+AUSTIN: Maybe they have a sponsorship or maybe there is, like, a reality TV show? Maybe this is another faux reality TV show where the coach or, like, the owner of the team signed a deal that would be like, for local— y'know it's like, ah. So this is pre-Netflix if we're doing it when we're setting it or I guess it's not pre-Netflix but it's, like, pre-modern Netflix.
+
+
+[overlapping]
+
+
+SYLVIA: Like, it's like the mail Netflix.
+
+
+AUSTIN: Yeah, it's mail Netflix.
+
+
+SYLVIA: Where you have to send it in.
+
+
+AUSTIN: So like, so what about, like, it's an original on demand TV deal that he signed to do, like, we're going to discover America with the whatever city this is in, and then the name of the team, and like, every ep they have to deliver a fifteen minute episode every week about, like, a local thing? 
+
+
+KEITH: Mm-hm. 
+
+
+AUSTIN: Do you know what I mean? 
+
+
+KEITH: Yeah. 
+
+
+AUSTIN: The— the— whoever the Globetrotters visit the Liberty Bell or whatever, and so, or like the Globetrotters go to the best barbecue in Kentucky, and so there is, like, one of the plots in every episode is this, like, discover local American whatever, and one of the other plots is, like, the baseball side of it, and the third plot is probably: we’re aliens and we're being chased by people who want us to not be aliens or to not be here.
+
+
+KEITH: [laughs] There's people who believe in aliens and they're right to and after us.
+
+
+AUSTIN: [laughs] They're not wrong.
+
+
+KEITH: These— yeah. Okay, I like that.
+
+
+AUSTIN: Truman Ingersoll in the chat says, "District 9 Innings is not bad."
+
+
+[KEITH laughs]
+
+
+SYLVIA: Aw, man.
+
+
+AUSTIN: It's pretty funny. It's pretty funny. Um, I think that that's— I think that that's around what I want then. So yeah, that's where we're at. I'm— that's where I think I'm good with? We're gonna need names and characters— oop, I didn't mean to delete that whole page. Shit. [SYLVIA wheezes] Two back, there we go. Delete these. Alright! So, um, I'm gonna write down setting. Are there any other setting conventions that we should be talking about? 2008. Um...
+
+
+KEITH: How are they— do they all live in a— do the aliens live in a big house?
+
+
+AUSTIN: Well, once we talk about primary— once we start building our cast list this will be a thing that will come to become clear in a second so.
+
+
+KEITH: I just— I just mean because minor league baseball players don't get paid very much.
+
+
+AUSTIN: No.
+
+
+SYLVIA: Did— did we decide on a setting? 'Cause I know we said that it'll be popular in Bluff City but we didn't say if it would be set there.
+
+
+AUSTIN: I think it's just set in America.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: I think it goes— it's city to city. 
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: Yeah.
+
+
+ART: And this is being produced now and is set in the mid-2000s.
+
+
+AUSTIN: Yes. I think that that's true, yes. Right? 'Cause I think it should have the sort of, like, [sighs] the critical remove from the kind of recession?
+
+
+KEITH: You want— you want the perspective on the recession not the attitude of current recession.
+
+
+[overlapping]
+
+
+AUSTIN: Exactly. Exactly, right. Um, y'know, foreclosures, concern about future—
+
+
+KEITH: Okay. I was not— I wasn't getting that.
+
+
+AUSTIN: Yeah, that's— that's a huge— that's a much different, uh, thing there. Um, uh, y'know, big corporations that aliens don't understand why we put up with. Um—
+
+
+KEITH: Our bank loan went bad and so now aliens have to sell extra. [AUSTIN laughs] They have to find and sell extra things 'cause they did— homeowners didn't get a bailout.
+
+
+AUSTIN: Right, also I want to be clear. This isn't a reality show. This is a— this is a show being made in Hollywood that's a fake reality— 
+
+
+KEITH: Right, yeah, yeah, yeah.
+
+
+AUSTIN: It's like The Office. It's a faux reality show. It's a comedy.
+
+
+KEITH: It's a mockumentary. 
+
+
+AUSTIN: It's a mockumentary, exactly. Exactly.
+
+
+KEITH: It's made by Christopher Guest.
+
+
+AUSTIN: Made by— [laughs] It was— it was, yes, yeah, sure.
+
+
+KEITH: You've heard of Best In Show now try Best Show!
+
+
+AUSTIN: This one! Watch it.
+
+
+KEITH: [laughing] This one. This one.
+
+
+AUSTIN: Um, what network is this on? Is this on a— is this on a cable network? Is this on network TV? Is this on HBO?
+
+
+KEITH: Um, this is probably NBC, right?
+
+
+[overlapping]
+
+
+ART: Yeah, this feels like a NBC where, like, we gotta get a homerun.
+
+
+AUSTIN: This feels NBC.
+
+
+KEITH: It feels NBC. It doesn't feel like— it's definitely not like FX.
+
+
+AUSTIN: Good homerun joke. Um, target demographic.
+
+
+KEITH: Uh, kids of all ages?
+
+
+AUSTIN: Is it kids based?
+
+
+[overlapping]
+
+
+KEITH: [laughing] No, I don't it— no, I don't think it is.
+
+
+AUSTIN: Like is it? I guess, like, but is it the eight o'clock show or the ten o'clock show?
+
+
+ART: I think it's the nine o'clock show.
+
+
+KEITH: I was thinking in my head I was thinking nine-thirty.
+
+
+ART: Well, it's an hour, come on.
+
+
+AUSTIN: Yeah, this is— this is an hour long show.
+
+
+KEITH: Oh, you think this is an hour?
+
+
+ART: Yeah, this is an hour.
+
+
+KEITH: Okay.
+
+
+AUSTIN: Well, there's a big difference. This is— that's a good question. Is it an hour?
+
+
+KEITH: [sighs] There are not many, uh, dramedies that I feel, like, work as an hour but there are a few.
+
+
+AUSTIN: What are the ones that work that are an hour?
+
+
+KEITH: I— here's, okay, well this is a good example. I watched The Good Place and the entire time was dying for it to be an hour long instead of a half hour long show. 
+
+
+AUSTIN: Sure.
+
+
+KEITH: It really feels, like, too short for how much stuff they put in there. 
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: So I guess that's sort of the opposite answer.
+
+
+AUSTIN: Is Better Call Saul an hour?
+
+
+KEITH: Yes.
+
+
+AUSTIN: Okay. Um—
+
+
+KEITH: Oh, is this a prestige show?
+
+
+AUSTIN: No, but I'm just trying to figure out, like, what— I don't think it is.
+
+
+KEITH: Honestly, I'm— I'm trying to—
+
+
+ART: We're not sending any Emmys back, right?
+
+
+KEITH: No.
+
+
+AUSTIN: Never in our fucking lives. We're putting those on our shelves. For sure. Um… [pause] Yeah, okay. 9 p.m., hour long, dramedy, mockumentary. Boom. Um, rating. Okay, so is it rated TV— this is TV-14 probably? 
+
+
+SYLVIA: Probably?
+
+
+ART: Yeah, I mean I wish the book was a little more, like, I don't really know what you can do in a TV-14 you can't do—?
+
+
+KEITH: You can do basically anything but you can't have as many swears that you bleep out and you can't have as much sex stuff.
+
+
+AUSTIN: Alright, I'm—
+
+
+KEITH: But you could kill however many people you want.
+
+
+ART: Great. I was worried that we would have to—
+
+
+SYLVIA: Ugh! 
+
+
+ART: —play our bloodlust in some different way!
+
+
+[KEITH laughs]
+
+
+AUSTIN: TV-14 says, 
+
+
+[reading] This programme contains some material that parents would find unsuitable for children under 14 years of age. Parents are strongly urged to exercise greater caution. May contain more— [finishes reading]
+
+
+ART: Mad Men is a good example here, like, I do get—
+
+
+AUSTIN: Is Mad Men 14 or is that Mature?
+
+
+ART: That's what they say in the book. Grey's Anatomy and Mad Men are 14, Justified as MA. 
+
+
+AUSTIN: We're fine.
+
+
+ART: Like, I do get that difference right?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Suggestive—
+
+
+ART: People die all the time in Justified. I guess, spoilers? I don't know. It's not a spoiler.
+
+
+AUSTIN: It's not a spoiler.
+
+
+ART: People die in that show.
+
+
+AUSTIN: Suggestive—
+
+
+KEITH: In Mad Men only 14? That's nuts.
+
+
+AUSTIN: Suggestive dialogue—
+
+
+ART: Nothing, like, happens, right?
+
+
+AUSTIN: Not gonna read this list. 
+
+
+[SYLVIA laughs]
+
+
+ART: They're shooting each other but they're not, like, killing each other.
+
+
+KEITH: Yeah, I guess.
+
+
+ART: No-one's saying fuck.
+
+
+AUSTIN: Suggestive dialogue, strong coarse language, intense sexual situations, or intense violence are all things that can be in TV-14. I think we'll be fine with TV-14. Okay! So, TV-14.
+
+
+KEITH: Now do we have to try not to swear on the show?
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: Oh, buddy. [takes a sharp breath in, exhales] Ooh, okay, I'll do my best.
+
+
+AUSTIN: Uh-huh. 
+
+
+[reading] The last element of a good TV show is soap which is an industry term that refers to the tangle of relationships and the personal drama for the main characters of the show. Everyone wants something, TV or not, but the thing that drives TV drama is when the characters don't get what they want. For any drama on TV, the character's unfulfilled needs need to play a big part in getting you to tune in week after week. Bradley loves Caitlin but darn-it she can't just up and leave the plantation while her father is in debt to that vampire! Okay. [laughs, continues reading] Maybe next week he can find a way to convince her. [finishes reading]
+
+
+Stuff like that. Um, I think we have this pretty much on—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —which is, like, don't get caught. Go make a— they have to make a TV show every episode so that's, like, also a part of that soap.
+
+
+[overlapping]
+
+
+KEITH: Quick— quick PSA.
+
+
+ART: And be good at baseball but not too good.
+
+
+AUSTIN: Yes.
+
+
+KEITH: There's no— there isn't any difference between antibacterial drama and regular drama so you can just use regular drama.
+
+
+AUSTIN: Good, good.
+
+
+ART: Um, I know that I don't have the authority to assign homework—
+
+
+AUSTIN: Uh-huh.
+
+
+ART: —to anyone on this show but just to fix our swear problem, also in a good place-in method, everyone go and come up with a couple alien swear words.
+
+
+AUSTIN: Good idea!
+
+
+SYLVIA: Oooh!
+
+
+AUSTIN: That's a good— yes. Good. Alright, so—
+
+
+SYLVIA: [resolutely] Fuck.
+
+
+[KEITH laughs]
+
+
+[overlapping]
+
+
+ART: That's not— nope.
+
+
+AUSTIN: Well, they spell it differently 'cause it's—
+
+
+KEITH: It's spelled— yeah.
+
+
+SYLVIA: P-H.
+
+
+AUSTIN: Also, it means shit. It's what they call shit. [KEITH and ART laugh] I gotta go take a big fuck.
+
+
+KEITH: [laughing] I just took a huge shit. Fuck. I didn't even do it.
+
+
+[SYLVIA cackles]
+
+
+AUSTIN: You didn't even do it!
+
+
+KEITH: I couldn't even do it.
+
+
+AUSTIN: It smells like fuck in here!
+
+
+[KEITH laughs]
+
+
+SYLVIA: I mean? Y'know.
+
+
+AUSTIN: Um, the cast.
+
+
+ART: Man, our show's getting cancelled!
+
+
+[everybody laughs]
+
+
+AUSTIN: Uh! Um. 
+
+
+[reading] Your series needs a cast of characters. The cast includes the protagonist and all the supporting characters. Remember, each player controls a protagonist and the producer controls all the supporting characters. Now that you have a good grasp of what your series is going to be, you need to fill it with appropriate characters. You may already have a few ideas in mind at this point and that's okay but for just a little while you need to step back and think about the big picture. The producer will give everyone a few minutes to write down a list of the characters you might see on your show. Doesn't matter if it's an important recurring role or an extra you see once. Who might you see on the screen if you were watching the show? The list doesn't need to be exhaustive. Try and jot down at least a dozen different concepts. [finishes reading]
+
+
+KEITH: That sounds exhaustive to me. A dozen? That's a lot.
+
+
+AUSTIN: Eh, y'know. 
+
+
+[reading] Then, just as you did with the premise, everyone will share their ideas and the producer will make a composite list. [finishes reading]
+
+
+Um, what if we just did this in a Google Doc real quick? What if we just did that. That'd be easy, right? 
+
+
+SYLVIA: Sure. 
+
+
+ART: Sure. Give us a link to that.
+
+
+AUSTIN: Yeah, I have to make it real quick. Um… alien mockumentary cast list. Boom.
+
+
+ART: So the soundtrack LP for the Globetrotters cartoon show had two singles released off of it.
+
+
+AUSTIN: Oh, yeah?
+
+
+ART: Yeah. 
+
+
+[overlapping]
+
+
+AUSTIN: Uh, we did not tweet that we were live, sorry Sylvia, I totally forgot to do that.
+
+
+ART: Cheer Me Up and Rainy Day Bells.
+
+
+SYLVIA: No, it's fine. I tweeted it out.
+
+
+AUSTIN: Rainy Day Bells, huh?
+
+
+ART: Yeah.
+
+
+AUSTIN: Alright, here we go. Got us an alien mockumentary cast list document here that's not— wait, is this the wrong...? [muttering] Oh, this is— woops, I'll close this one and just open it over here, it's fine. It's fine. Wait no, open it, hm, open it here. There we go. Okay. Alright, so, y'all just start writing whenever. Uh, gotta have a coach. Gotta have a coach. Gotta have the scout who wants to discover them. 
+
+
+[overlapping]
+
+
+KEITH: Oh, I— yep.
+
+
+ART: I can't find this document?
+
+
+KEITH: I— I had already started writing in a sticky note. An alien conspiracy minded rival coach.
+
+
+AUSTIN: Yeah, let's— lets— do we want, like, little mini lists where we all can just start writing stuff?
+
+
+ART: Yeah, everyone— everyone gets some space.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Get you some space. 
+
+
+KEITH: I'm interested in seeing, like, what overlap there on our mini lists.
+
+
+AUSTIN: Me too. Boom. Alright. [long pause, faint typing] This is good listing, I know.
+
+
+SYLVIA: [laughs gently] Someone, uh— B in the chat said, “Alien swears are just scat,” but I just couldn't help but think of the fucking Man's Not Hot guy [AUSTIN laughs] just saying [imitating Big Shaq] "Boom!" 
+
+
+AUSTIN: That's it! Yeah.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: [laughing] Nick in the chat says, "You gotta be fucking me."
+
+
+[SYLVIA and KEITH laugh]
+
+
+SYLVIA: I mean… 
+
+
+KEITH: Um, where's the link to this Google Doc? I actually was not—
+
+
+AUSTIN: Oh, it's in our personal Patreon. Internal Discord, yeah.
+
+
+SYLVIA: [softly in the background] Oh, man.
+
+
+ART: How many of these are we doing?
+
+
+AUSTIN: At least a dozen.
+
+
+SYLVIA: Oh, boy.
+
+
+AUSTIN: I think I'm good. I think I have enough here.
+
+
+ART: I think I'm good too?
+[00:45:00]
+
+
+AUSTIN: Okay. Um, Keith and Sylvia?
+
+
+KEITH: I'm almost there.
+
+
+SYLVIA: I've got, like, seven?
+
+
+KEITH: I have, like, ten.
+
+
+AUSTIN: Okay.
+
+
+KEITH: If you— if you guys are done you can start with you guys then I will have more.
+
+
+SYLVIA: Yeah, 'cause I'm struggling with my list.
+
+
+AUSTIN: Alright, so, my list. Coach— I'm guessing we all have coach written down?
+
+
+KEITH: Yeah.
+
+
+ART: I did not write down coach 'cause I saw you weren't writing—
+
+
+SYLVIA: Yeah.
+
+
+ART: —it down before we got started.
+
+
+AUSTIN: Okay, okay. Scout who wants to discover them—we've got that one. Star athlete, star human athlete on the team who is, like, the person who's, like, the franchise player, you know what I mean? Like, they've been the backbone of this team for years. The worst player on the team who is worried about being replaced, who is worried that they won't— they're like, "These aliens don't know!" Um, I don't think that they know who the aliens are, y'know, aliens necessarily. A recent trade to the team, eh, could go without. The camera operator and/or show producer for this, like, reality TV show that they have to do. Chef who has to deal with their alien tastebud situation.
+
+
+[KEITH laughs]
+
+
+SYLVIA: Oh, shit, that's real good.
+
+
+AUSTIN: Uh, rival team coach who is just, like, the team— whatever the rival team is in the league. Rival who someone is in love with so that's, like, a player. They fall in love. You're gonna find a real weakness in my upcoming ones, get ready. Strong alien. Happy alien. Other types of aliens. We really gotta figure out these aliens. Boy, I hope one of y'all has got good alien ideas. Um, amateur UFO hunter who loves aliens. Kid who loves aliens. Big fan—
+
+
+KEITH: That could be the same guy.
+
+
+AUSTIN: Oh, yeah, that could totally be the same. Those could definitely be the same. Big fan of minor league team who thinks these new players are ruining the season.
+
+
+SYLVIA: [laughs] Hey, you guys are winning too much!
+
+
+AUSTIN: The whole point is that you're, like, right in the middle! Coach's family. Partner, kids, weird sibling. I really want, like, an uncle who hangs around too often, do you know what I mean? Everyone calls him Uncle Chez or whatever, y'know? And it's just like, oh please, like, I know he's your brother, coach, but get him out of here! Uh, an animal, question mark? Then, the team mascot, and then, parenthetical, could be played by alien? A minor league baseball reporter who is just, like, [laughs] on the minor league baseball circuit? And then I have a list of random people that they could meet during their exploration of America. Museum curator, barbecue pit master, zoologist, astronomer, ballet dancer, Hollywood director/producer, novelist/sci-fi writer, video games men. Um, and then other types of cryptids. Big Foots, dinosaur people, mummies, ecterera?
+
+
+KEITH: Oh, I love the other cryptids.
+
+
+AUSTIN: Yeah, that shouldn't happen too often? Or it should happen every episode. [KEITH laughs] But, one or the other.
+
+
+SYLVIA: One of those.
+
+
+KEITH: It's like— like— we came to America to discover what Earth was about and we figured out Earth was about was that everyone is a secret alien or cryptid.
+
+
+AUSTIN: Yes, exactly. Oh, there's a lot of cool people here. Uh, Sylvia—
+
+
+KEITH: Yeah, all these electorate officials are actually mole people!
+
+
+[AUSTIN laughs]
+
+
+SYLVIA: Oh my god. Do you just want me to go through mine?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: So, the first one I had was the team owner which I—
+
+
+AUSTIN: Yeah, I'm gonna bold that immediately 'cause I think that that's an important distinction that we should definitely get.
+
+
+SYLVIA: Yeah, um, I wrote that maybe the coach has a kid?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: 'Cause these shows usually have, like, the little kid— 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: —who's peppy or whatever.
+
+
+AUSTIN: Yeah, I think family in general is a— yes, so also bolding that.
+
+
+SYLVIA: Um, I have a past-his-prime player who's trying to relive the glory days.
+
+
+AUSTIN: Maybe that's the same as the—
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: —star human athlete, right? Who's, like, the franchise player but, like— oh, but you're saying, oh, that could be a player who used to be pro.
+
+
+[overlapping]
+
+
+SYLVIA: Yeah, yeah, yeah.
+
+
+AUSTIN: Who used to be, like, all the way pro.
+
+
+SYLVIA: Have you seen John Bois did a video on— and I'm blanking on the name right 'cause I'm super tired.
+
+
+AUSTIN: Is it Pretty Good?
+
+
+SYLVIA: Yeah, it was a Pretty Good and I'm blanking on it but it's about a player who, like, had tons of problems and he went back down to the minors and had, like, an incredible major league season.
+
+
+AUSTIN: Huh.
+
+
+[overlapping]
+
+
+SYLVIA: Um...
+
+
+ART: Um, I don't know. There's, like, that thing. I was gonna be like, that sounds like— and it’s, like, a bunch of people, a lot of people have done that. [laughs]
+
+
+KEITH: Pretty Good is really good.
+
+
+AUSTIN: Pretty Good's really good.
+
+
+SYLVIA: Yeah, hold on. Lonnie Smith is who I'm thinking of—
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: —specifically. Um, and then I also have, um, an FBI agent who definitely knows there's aliens but doesn't really care 'cause they just kinda want to hang out with aliens.
+
+
+AUSTIN: [laughing] Okay! Good!
+
+
+SYLVIA: Um, one of those NASA guys, y'know, astronauts or whatever. 
+
+
+AUSTIN: [laughing] Do you mean astronauts or do you mean— oh!
+
+
+SYLVIA: [amused] I mostly just mean someone who works for NASA but I thought putting astronauts or whatever would be funny—
+
+
+AUSTIN: It would be. 
+
+
+SYLVIA: —and also the idea of someone seeing them on the moon—
+
+
+AUSTIN: That's the thing!
+
+
+SYLVIA: —before seeing them playing baseball is very good to me.
+
+
+AUSTIN: Yeah, that is really good. I like that a lot.
+
+
+SYLVIA: Um, let's see. I've got rookie player who's trying to train with the alien skip better 'cause he just thinks they're really good.
+
+
+AUSTIN: Uh-huh.
+
+
+SYLVIA: Um, I've put a surly mascot.
+
+
+AUSTIN: Good.
+
+
+SYLVIA: And then I saw your cryptids thing and I put Mothman, who is the mascot.
+
+
+AUSTIN: Good and also surly, hopefully?
+
+
+SYLVIA: Oh, I mean yeah.
+
+
+AUSTIN: All of that is good, yeah.
+
+
+SYLVIA: Uh, and then the last one I have is a low level grifter, like, someone who follows them around trying to sell tickets to their games and shit like a ticket scalper type thing.
+
+
+AUSTIN: Perfect. Uh, Art.
+
+
+ART: Alright, uh, I have aging human baseball player suspected of being an alien because of his longevity.
+
+
+AUSTIN: Ooh, good. You go the other way around who is, like, that's the— the scout, like, gets that person arrested by the FBI and they have to break him out or whatever.
+
+
+ART: Yeah, yeah, but he's not a— he's not one.
+
+
+AUSTIN: Uh-huh.
+
+
+ART: Uh, alien mission leader who is bad at baseball.
+
+
+AUSTIN: Good.
+
+
+ART: Young hot-dog vendor.
+
+
+AUSTIN: [laughs] That's my rap name. [SYLVIA and KEITH laugh] One of my aliases.
+
+
+ART: Hot shot human player who wants to leave and become an alien.
+
+
+[AUSTIN and KEITH laugh]
+
+
+SYLVIA: That's really good.
+
+
+ART: World weary beat reporter.
+
+
+AUSTIN: Yup, okay, good. We both have beat reporter going. Definitely.
+
+
+ART: Local rich seasoned ticket holder wants to hang out with the team all the damn time. I'm thinking, like, Mr Fischoeder from Bob's Burgers—
+
+
+AUSTIN: Yeah.
+
+
+ART: —but if he was into baseball.
+
+
+AUSTIN: Uh-huh.
+
+
+ART: Jamie Fox from Any Given Sunday. I've since remembered that that character's name was Willie Beamen.
+
+
+AUSTIN: Yeah, thank you.
+
+
+ART: You know the like— yeah. The head of marketing for the team—
+
+
+AUSTIN: W-w-wait, do you want to explain what Willie Beamen's deal is?
+
+
+ART: Yeah, I mean, like, it's hard because, y'know, I think that the characters in that movie were not the most kind?
+
+
+AUSTIN: No!
+
+
+ART: Um, but he's, like, this young Black quarterback and he's, like— they introduce him with that song, right? The, like, [singing My Name Is Willie by Jamie Foxx] "My name is Willie / Willie Beamen!" Um.
+
+
+AUSTIN: Mm-hm, that is how they do that.
+
+
+[SYLVIA laughs]
+
+
+ART: Yeah. Um, I want, like, that kind of attitude. Like that, like, big—
+
+
+AUSTIN: Like the Deion Sanders style of like—
+
+
+[overlapping]
+
+
+ART: Yeah, yeah, yeah, like Prime Time.
+
+
+AUSTIN: Prime Time. Yeah.
+
+
+ART: Like Prime Time. I want Prime Time, yeah. The head of marketing for the team, um, the president of the fan club, in parentheses "cute kid," um—
+
+
+AUSTIN: A lot of cute kids going on, good.
+
+
+KEITH: Yeah.
+
+
+ART: Some kind of alien dog that could be—
+
+
+AUSTIN: Yep.
+
+
+ART: —the mascot thing. Jacked-to-hell alien who is barely believable as a human.
+
+
+[KEITH laughs]
+
+
+AUSTIN: [laughs] Like The Thing but a person.
+
+
+ART: Yeah, like The Thing but a person.
+
+
+KEITH: This is— I think this is what Austin called a "strong alien."
+
+
+AUSTIN: Yeah, sorry Art. I had that already, Art, as “strong alien.”
+
+
+[KEITH laughs]
+
+
+[overlapping]
+
+
+ART: Yeah, that is the same.
+
+
+AUSTIN: You'll know.
+
+
+ART: Stadium PA guy who has been with the team for thirty years.
+
+
+AUSTIN: Oh, good. Gotta hear his voice.
+
+
+ART: Yeah, the like, I— I mean— I grew up in the New York area—
+
+
+AUSTIN: Uh-huh. 
+
+
+ART: —and the Yankees PA guy, I don't even remember his name but he had that, like, old man voice, everyone loved him. Um, various people associated with the sponsors like the guy who runs the local auto body shop, the guy who runs the diner off the interstate, like, people like that. People like, "Ey, I'm running a promotion here!" Y'know, "Bring your ticket stub and you get— you get thirty percent off an entree!"
+
+
+AUSTIN: Uh-huh.
+
+
+ART: Or, "If you buy an appetizer and dessert, I'm not giving away the store here." And then liaison with the major league team—
+
+
+AUSTIN: Right, that we're associated with, right? 'Cause that's the thing, it's a farm team, right? 
+
+
+ART: Yeah.
+
+
+AUSTIN: So, it's probably not just— there is that connection to the major league that you have to deal with.
+
+
+ART: Right.
+
+
+AUSTIN: Good.
+
+
+[overlapping]
+
+
+ART: Right. What if they want to call up on one of those?
+
+
+SYLVIA: I mean what if they did two fake baseball teams?
+
+
+KEITH: Hm. Now—
+
+
+ART: What if they try to call up jacked-to-hell alien who's barely believable as human? Like—
+
+
+AUSTIN: Also, can I— can we just name this guy Jak T’hell? [KEITH laughs] Like that?
+
+
+ART: Uh-huh. Love it.
+
+
+AUSTIN: [laughing] There. Boom. That's his name. Alright. Uh, Keith.
+
+
+KEITH: Sure, yeah. I've got an—
+
+
+AUSTIN: Good.
+
+
+KEITH: —alien conspiracy minded rival coach.
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: I've got human love interest who might discover the truth.
+
+
+AUSTIN: Good.
+
+
+KEITH: Pro alien fence, and I mean not like a fence that keeps people out.
+
+
+AUSTIN: Yeah, uh-huh. 
+
+
+KEITH: I mean a fence you sell your shit to. Uh—
+
+
+AUSTIN: Yeah, gotta have that person who, like, maybe that's the same person as— two things. One, um, uh, FBI agent who definitely knows there's aliens but doesn't care, and also NASA guys? Like, maybe it's NASA guy slash, y'know, government guy who knows that they’re aliens and is, like, willing to move things for them? Or like, get them the special juice they need to live? Y'know?
+
+
+ART: So, like, the government is okay with this but former air force scout is, like, the one who's like, "I'm gonna ruin this for everyone."
+
+
+AUSTIN: I think that there are divisions of the government that are very— that have various interests. Do you know what I mean?
+
+
+KEITH: Hm. 
+
+
+AUSTIN: I think that there is— I think that the— there is maybe a NASA contingent that is totally chill with it? And a, um—
+
+
+SYLVIA: NSA who are not—
+
+
+AUSTIN: Right, the NSA are not. Yeah, definitely. The NSA are not, probably the FBI is not, probably the Air Force—
+
+
+KEITH: Pentagon.
+
+
+AUSTIN: —the Pentagon is, like, the military arm, no. Government, civil service, NASA arm, yes. And not the whole—
+
+
+KEITH: That's the— that's the X-Files conflict. That's classic X-Files.
+
+
+AUSTIN: Yeah, classic X-Files, right? This is the sequel to the X-Files, so.
+
+
+KEITH: Yeah. I've got tough alien showrunning boss.
+
+
+AUSTIN: What does that mean?
+
+
+KEITH: That means that the guy that's in charge of making sure they get their show out is, like, a nose to the grindstone, you gotta make your show sorta guy.
+
+
+AUSTIN: And is— but is he also an alien?
+
+
+KEITH: He's also— yes. He's, like, 
+
+
+AUSTIN: Oh!
+
+
+KEITH: —the guy, the alien back on, like, the home planet that's in charge of, like, making sure they get their show out and that it's good. 
+
+
+AUSTIN: Okay, wait.
+
+
+ART: Woah, the show is an alien show?!
+
+
+AUSTIN: I hadn't realised that the show was an alien show.
+
+
+SYLVIA: Oooh!
+
+
+KEITH: Oh! I thought it was, like— I thought that they needed to give proof that they were doing this to the aliens so it might be that it's on, like, local TV also but that that is what gets shown to the aliens.
+
+
+AUSTIN: You just cracked this whole case.
+
+
+KEITH: Nice.
+
+
+AUSTIN: You just— I had not thought about this as this is their job. This is their mission, is a fact-finding mission—
+
+
+KEITH: Yes. 
+
+
+AUSTIN: —about whether or not Earth is, like, whether or not we should destroy Earth, right? Or like, takeover Earth.
+
+
+KEITH: Oh, so this is now Future Folk too.
+
+
+AUSTIN: Excuse me? 
+
+
+KEITH: Future Folk is a movie about a guy that was sent to destroy Earth but his alien planet, uh, didn't have music and he discovered music, fell in love with Earth, abandoned his mission, then had to try to convince his home plane to not destroy the earth 'cause music was so good.
+
+
+AUSTIN: Right, yes.
+
+
+KEITH: It's a great— it's a really good move.
+
+
+AUSTIN: Of course, it's Future Folk. Duh. Of course. Um, yeah, but yes. Yeah, the tough alien showrunning boss is, like, "You gotta get me these clips. You gotta get me more information about barbecue in Kentucky." I don't know why he— 
+
+
+KEITH: Yeah.
+
+
+AUSTIN: I really want barbecue. I haven't had barbecue in awhile.
+
+
+KEITH: We just had barbecue a week ago!
+
+
+AUSTIN: Yeah, but I didn't have enough of it. [laughs]
+
+
+KEITH: [chuckling] Okay, that's fair.
+
+
+[overlapping]
+
+
+AUSTIN: That was a barbecue lunch.
+
+
+ART: We've eaten barbecue with you this week.
+
+
+[KEITH laughs]
+
+
+AUSTIN: I want— I want, like, a barbecue— I want dinner.
+
+
+KEITH: You just want more. You wanna spend more money eating that barbecue.
+
+
+AUSTIN: I wanna eat more barbecue. Yeah, that was, like, a 2 p.m. barbecue and I'm really looking for a 7 p.m. barbecue.
+
+
+SYLVIA: Oh, yeah.
+
+
+AUSTIN: You know what I mean?
+
+
+KEITH: That was a 4 p.m. barbecue. Let's split the difference.
+
+
+AUSTIN: You were there until 4, certainly. Anyway, uh—
+
+
+KEITH: Um, okay.
+
+
+AUSTIN: Uh, but I love that. That helps me conceptualise the show a lot—
+
+
+KEITH: Okay, great.
+
+
+AUSTIN: —because then they kind of have two— they have kind of two different masters at their serving in terms of the TV show side of it.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Love it. Alright.
+
+
+KEITH: Number one fan who doesn't know they're aliens. Number one fan who definitely knows they're aliens and is a plucky kid.
+
+
+AUSTIN: Uh, that's a gimme at this point given that we've all been, like, that's one.
+
+
+KEITH: We've all said that, yeah.
+
+
+AUSTIN: Oh.
+
+
+KEITH: Rival team of aliens who does— who care— rival team of aliens who care not for this world.
+
+
+AUSTIN: [chuckles] Uh-huh, are they the same alien species or are they a different alien species?
+
+
+KEITH: Uh, I'm up to whatever.
+
+
+SYLVIA: Oh, man.
+
+
+KEITH: I had assumed that they were from the same planet and that they were just— they were the ones being— maybe their job is to prove we should destroy the Earth?
+
+
+AUSTIN: Right, yeah, yeah, totally! The alien committee is, like, "We have to hear both sides!"
+
+
+KEITH: [laughs] Yeah, like, maybe we should blow them up maybe we shouldn't. One of you investigate barbecue and then one of you, like, show us how worthless this place is.
+
+
+AUSTIN: Right, like, show us the nuclear—show us how despite this recession they're still—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —funding the military way more—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —than public housing.
+
+
+KEITH: Yeah, these people are so violent that we should blow them all up and kill them.
+
+
+AUSTIN: [chuckles] Yep!
+
+
+KEITH: Local antique roadshow hosts.
+
+
+AUSTIN: So that's just, like, a competing TV show basically.
+
+
+KEITH: I kind of meant that they— I kind of saw it as, um, like they were almost, like, the hosts of the alien— like, like, "Hey, show us what you guys got this week!" 
+
+
+AUSTIN: Oh, I see what you're saying. You're saying, like, there is—
+
+
+KEITH: Yeah, but it can kind of be whatever.
+
+
+AUSTIN: Yeah, yeah. I'm into other TV crews for sure. Same thing, pesky news crew, for sure.
+
+
+KEITH: Pesky news crew. That came up before. Landlord and then parentheses, "bad" landlord. 
+
+
+AUSTIN: Well, we gotta figure out where they live. They don't— I mean they travel.
+
+
+KEITH: Well, wherever they live they have a landlord and all landlords are bad.
+
+
+AUSTIN: Uh, premise. Bad landlord is uncle— is coach's brother or whatever—
+
+
+KEITH: Oh!
+
+
+AUSTIN: —is coach's sibling, and it's like, that's why they're able to stay there. He's like, "Listen, Chez, just us— let— my new players need a place to stay for a little while. They're getting on their feet. They're doing the show. They're gonna be in the money soon enough. But for now, you just gotta help them find a place to stay or you have all those extra apartments—you're not using them." Y'know.
+
+
+KEITH: Yeah.
+
+
+[overlapping]
+
+
+ART: Chez is such a repugnant name.
+
+
+AUSTIN: Oh yeah. Uh-huh.
+
+
+KEITH: [laughs] Sorry to Chezes. Sorry to unicyclists.
+
+
+ART: Everytime I hear it I hate it.
+
+
+AUSTIN: Yeah—
+
+
+SYLVIA: Is that one of the— is that one of the alien swears?
+
+
+AUSTIN: Chez!
+
+
+KEITH: Chez! [laughs]
+
+
+AUSTIN: Yeah!
+
+
+SYLVIA: Ah, chez!
+
+
+KEITH: And he's like, "What?!"
+
+
+[AUSTIN and KEITH laugh]
+
+
+AUSTIN: Uh-huh.
+
+
+ART: Yeah, in the alien language "chez" means— oh, we already have a shit, I dunno.
+
+
+[AUSTIN laughs]
+
+
+KEITH: We can do fuck.
+
+
+AUSTIN: [laughing] It means— yeah.
+
+
+KEITH: [laughing] It means fuck! You gotta be chezing me!
+
+
+[everyone laughs]
+
+
+SYLVIA: Thanks! I hate it.
+[01:00:00]
+
+
+AUSTIN: Uncle Chez. Got it. Good.
+
+
+KEITH: [laughing breathlessly] Un—uncle Chez! Uncle is such a bad thing to call someone who's not your uncle, too. [laughing] Uncle Chez is a terrible brother. He's like, "H-hey, h-hey, hey coach, who's that?" “Oh, that's my terrible—”
+
+
+AUSTIN: [laughing] That's my terrible—!
+
+
+KEITH: [continues to laugh] "Oh hey, meet my terrible brother Chez!"
+
+
+SYVIA: Hi, guys!
+
+
+AUSTIN: [laughing] "Meet my terrible brother Uncle Chez!"
+
+
+[everybody laughs]
+
+
+SYLVIA: [laughing] Wait, you call your brother uncle? Yeah, what's weird about that?
+
+
+KEITH: He's really bad. He's terrible.
+
+
+AUSTIN: [laughing] He's really bad!
+
+
+ART: But, he's also, like, twelve years older, right?
+
+
+AUSTIN: Oh, yeah, definitely. Definitely. 
+
+
+[laughter begins to die down]
+
+
+KEITH: Okay! Alright, big— we got big league scouts.
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: We've got local cop bad Mulder that's onto them and earlier there was a cop that didn't care?
+
+
+AUSTIN: Bad Mulder cares, okay.
+
+
+KEITH: Bad Mulder cares.
+
+
+ART: Is he bad that he's evil or is he bad that he's incompetent? What kind of— how are you using bad here?
+
+
+KEITH: He's bad that he is evil 'cause I think, like, X-Files Mulder, if there were some nice aliens playing baseball and he wouldn't care? Also, there's an episode about that?
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: So, that actually David Duchovny wrote, it's a pretty good episode.
+
+
+AUSTIN: Huh!
+
+
+SYLVIA: It's a very good episode.
+
+
+[overlapping]
+
+
+KEITH: Yeah. Um.
+
+
+AUSTIN: Um, this is a— this bit that you have next? A thing cannot wait for.
+
+
+KEITH: Yeah, I was shocked— I was shocked that you and Art didn't pick this one.
+
+
+AUSTIN: Yeah, me too.
+
+
+ART: Oh my god!
+
+
+KEITH: Sports talk call-in show host/caller.
+
+
+SYLVIA: Oh, god!
+
+
+AUSTIN: That's every episode starts that way, right? It opens—
+
+
+KEITH: Yeah, I had—
+
+
+ART: Let's just— let's throw out the rest of it and just do the [KEITH cackles] sports talk call-in show where the local team is aliens. [everybody laughs] Frasier but with aliens.
+
+
+AUSTIN: [laughing] I'm shocked we didn't get here. Unbelievable!
+
+
+KEITH: That's—
+
+
+SYLVIA: How does Mike Francesa feel about aliens?
+
+
+[AUSTIN laughs]
+
+
+ART: [imitating Mike Francesa] “Hey, now, Mikey!” [everybody laughs] I'm sorry, that was Mad Dog. I don't think I have a Francesa.
+
+
+AUSTIN: That was Mad Dog. No. You'll get one for homework again. 
+
+
+ART: Yeah.
+
+
+KEITH: The guy that sings the national anthem.
+
+
+AUSTIN: Sure, I think that's like a good category for just, like, home team game? Like home games?
+
+
+KEITH: Just guys that hang around the team.
+
+
+AUSTIN: It's, like, yeah. People who sing, concession stand workers, like, all of the people who make the actual ballpark actually function should be people that we look at and that we have a camera on here and there for sure.
+
+
+KEITH: Uh, the alien expat slash whatever drugs alien, like, in parentheses, "What do Earth drugs do to aliens?"
+
+
+AUSTIN: Good question. We'll have to find out.
+
+
+SYLVIA: Aw, man. We gotta get an alien to smoke weed! 
+
+
+AUSTIN: That's the Colorado episode.
+
+
+KEITH: [laughs] Uh, contact with the sickest antique spots. 
+
+
+AUSTIN: Yeah, sure.
+
+
+KEITH: Newman style neighbour that can't get out of their business.
+
+
+SYLVIA: I mean that's Chez, right?
+
+
+AUSTIN: That's Chez. That's now rolled in Chez, for sure.
+
+
+KEITH: That's Chez, yeah.
+
+
+SYLVIA: Oh my god! Can Wayne Knight play Chez?
+
+
+AUSTIN: Wayne Knight is Chez for sure.
+
+
+[KEITH laughs]
+
+
+SYLVIA: Oh, beloved character actor Wayne Knight! My favourite.
+
+
+KEITH: [continues to laugh] It's your Uncle Chez! It's your bad Uncle Chez! [everybody laughs uncontrollably] I'm coach’s— hey— it’s your bad Uncle Chez! I'm coach's terrible brother.
+
+
+[wheezing and cackling continues]
+
+
+ART: Alright, none of our Wayne Knight voices are fantastic.
+
+
+KEITH: I'm laughing too hard! I can't do it. [laughter begins to die down] And then, alien who keeps almost blowing their cover.
+
+
+AUSTIN: Absolutely.
+
+
+KEITH: That sounds like that's Jak T’hell.
+
+
+[SYLVIA continues to laugh in the background]
+
+
+AUSTIN: Uh, yeah. Could be. Could definitely be. Alright! Ugh! Um, lord. Christ. Alright, I think we have a good set of characters here. We made a good cast list. 
+
+
+ART: It's not too late to shut this whole stream down and be, like, "This is season seven," [AUSTIN and SYLVIA laugh] and just walk away.
+
+
+SYLVIA: Aw, man.
+
+
+AUSTIN: Ugh! So, 
+
+
+[reading] Except for the producer, everyone in the game controls the actions of one protagonist each. From your cast list, you need to come up with a character for each player whose story is worth telling in detail. Just like you've done so far with the creation of the series, you create protagonists as a group. It's likely enough that by this point at least one person has thought, "I know what kind of character I want my protagonist to be." That's okay as long as you remain open to suggestions and remain considerate of what everyone else wants. Don't fill in every detail by yourself. Your friends will probably surprise you with good ideas that make your protagonist more fun to play. When you choose who the protagonists are, think about why they are the starring characters. Sure, you can come up with a good story for just about anyone but why did you choose the ones you did? How are they all connected? That's their common bond. Gives you all a way to make each episode about something. [finishes reading]
+
+
+SYLVIA: Hm.
+
+
+AUSTIN: So, I don't think we have any problem about what the common bond is here because it's, uh, so clear? Uh, in terms of what the bond is that brings them together which is—
+
+
+SYLVIA: They all know Chez!
+
+
+AUSTIN: They all know Chez. [KEITH laughs] They all live in Chez— I can't wait for the spinoff "Chez's House"—
+
+
+SYLVIA: Oh my god.
+
+
+AUSTIN: —which is just about all the other people who live in Chez's terrible apartment complex. Um, so we need— come on, hey, uh, uh, there we go, there's your sheet. If you scroll down your sheet, your sheets are down here. FYI. There we go.
+
+
+KEITH: Welcome to Awful Chez's Live-in Motel.
+
+
+[overlapping]
+
+
+ART: Yeah, it's definitely a converted motel.
+
+
+AUSTIN: Oh, it's definitely a motel! It's definitely a motel! With like the— with the exterior walk up? You know what I mean?
+
+
+[KEITH laughs]
+
+
+ART: Yeah, the exterior doors.
+
+
+AUSTIN: Yes, yes.
+
+
+SYLVIA: [quietly] Oh, boy.
+
+
+ART: It's— it's around the parking lot.
+
+
+AUSTIN: Uh-huh. Yes.
+
+
+ART: It's kind of like that horrible horror movie.
+
+
+AUSTIN: Oh, um—
+
+
+SYLVIA: Has anyone here seen Glow?
+
+
+AUSTIN: No, I really want to.
+
+
+SYLVIA: 'Cause there's a really good shitty motel in Glow.
+
+
+AUSTIN: Ugh, that sounds great. 
+
+
+[overlapping]
+
+
+ART: Yeah, which is also the same motel. I don't want to give away the ending or the twist.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Wait, it's the same motel?
+
+
+KEITH: Yeah, yeah, this motel— they shot it in the same place they shot Glow.
+
+
+AUSTIN: Art, you're talking about the movie with, uh, what's his face? John Cusack?
+
+
+ART: No. Are you talking about 1408?
+
+
+AUSTIN: No. I'm talking about the one, the other one. I'm talking about—
+
+
+KEITH: High Fidelity.
+
+
+AUSTIN: That's it. No. Um—
+
+
+ART: Um, the one, um, the one where they're all in a hotel and they can't, like, remember their names? Here, I'm just gonna type the twist ending of this movie into the chat.
+
+
+AUSTIN: Identity!
+
+
+ART: Yeah, that's it.
+
+
+AUSTIN: Yeah, that's John Cusack. I think they're in a motel.
+
+
+ART: Okay, it's John Cusack in that? Yeah.
+
+
+AUSTIN: Yes, yes. That's a bad twist ending.
+
+
+ART: Oh, it's terrible. If you're— if you're listening to this, don't go watch that movie.
+
+
+AUSTIN: Uh-huh. Um, alright, I have to close this thing off. Future Folk, I have to get back to the rules to this game. Okay. 
+
+
+[reading] By this point, if you don't already have a protagonist in mind, pick something from the list. Talk to the others about that character would fit into the common bond you all agreed on. Your initial protagonist concept should only be a short phrase. Take the description from the cast list and add an adjective. So, neighbour becomes grumpy neighbour, receptionist becomes snooty receptionist.
+
+
+ART: Oh, we already really fleshed these out on the list.
+
+
+AUSTIN: We sure did.
+
+
+[continues reading] If you've already thought of something more complex for your protagonist, that's fine, but see if you can simplify it for the moment. Protagonists in Primetime Adventures are imperfect. They have interests and needs that often conflict with the goals of the group. They may be competent but even heroic but their personal matters are going to interfere from time to time and as you play the game you'll find out how those matters do or don't mess up their lives. Also, keep in mind that this is supposed to model a TV show and the protagonists needs to make sense being on the same show together. If it's a quote-unquote cop show, it would be boring and kind of pathetic for every cop to be a maverick who doesn't play by the rules and disrespects authority. [finishes reading]
+
+
+[laughs] I would actually— that— that show as a comedy would be hilarious.
+
+
+KEITH: That would be really funny, yeah.
+
+
+AUSTIN: [continues reading] Personality, motivation, and background all matter as much as the skill of the protagonist and they should be weighed carefully by the whole group. Your show needs characters who are interesting and who have personal interactions that are worth watching every week. Who in the cast is going to get along with the others and how well? Do some protagonists have a history together? Is there any political or sexual tension between any of the protagonists? All the players including the producers should create the protagonists as a group. Some games encourage group character creation but in Primetime Adventures, it's a must. Don't let the more outspoken players dominate this step. It can be really easy to get excited about an idea and drown everyone else out. Make sure everyone's had the opportunity to share some ideas.
+
+
+So, let's all come up with, um, that basic concept first for your characters. Sylvia, do you have a general idea for— I'm guessing everyone here's playing aliens? Or does someone want to play the coach?
+
+
+KEITH: I'm— I think— I definitely want to be an alien.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: I was thinking maybe playing the coach but I can play an alien too. My other idea was I play the mascot?
+
+
+AUSTIN: That's also good, but, like, the mascot could be an alien.
+
+
+SYLVIA: Yeah, no, that's what I'm saying.
+
+
+AUSTIN: Or a Mothman as we've discussed.
+
+
+SYLVIA: A Mothman, yeah!
+
+
+AUSTIN: Um, I— I'm interested in any of these things. I'm interested in whatever y'all are interested in for sure. Uh, and we can modify— we can modify how many aliens there are. We can modify— you know what I mean? This could end up being the— there's one alien show, y'know? Or it can be there are five. It's totally up to y'all. So what's the one you're most excited about, Sylvia?
+
+
+SYLVIA: Ooh, I'm not entirely sure if I'm being honest. Would you mind if we circled back to me? Is that okay?
+
+
+AUSTIN: Totally! Yeah, totally, let's go right over one to Art. Do you have a strong protagonist idea/concept/premise? [pause, no reply from ART] Did we lose Art? Did we lose—
+
+
+KEITH: Oh!
+
+
+AUSTIN: —me?
+
+
+[overlapping]
+
+
+SYLVIA: Uh, no you're still there.
+
+
+KEITH: No.
+
+
+AUSTIN: Keith! I'm gonna message—
+
+
+KEITH: Hi.
+
+
+AUSTIN: —Art and find out. Keith! Tell me about your concept if you have one.
+
+
+KEITH: Hey, um, I— I mean I definitely want to be an alien that is on this team.
+
+
+AUSTIN: Okay.
+
+
+KEITH: I don't think I want to be anybody else. I'm still thinking— even in real life I wanna be an alien.
+
+
+AUSTIN: You wanna be an alien, yeah, I'm good with you.
+
+
+KEITH: I—I have to put more thought into, like, which one of these aliens I want to be?
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Like, what I want to be about?
+
+
+AUSTIN: Like, do you want to be the alien— the chief alien who is, like, leading the mission? Do you wanna be the big tough one? Do you wanna be— those are the ones we've come up with. There's obviously a lot of wiggle room here.
+
+
+KEITH: I think I wanna be the alien that is, like, most interested in the show.
+
+
+AUSTIN: Okay, so you wanna be, like, from the production side or from the starring-in side? Do you want to be Gig Kephart except an alien?
+
+
+KEITH: Uh, I mean, sure, yeah.
+
+
+AUSTIN: Is that where we are? Yeah.
+
+
+KEITH: I don't know. I— well— so, like, I was thinking, like, sort of hand-in-hand with let's go out and find stuff that is cool—
+
+
+AUSTIN: Right, so like—
+
+
+KEITH: —and let's show it to people. Like that's the—
+
+
+AUSTIN: Explorer alien? Like, you're the one who— are you, like, explicitly the one who's—
+
+
+KEITH: I found small Atlantis, yeah.
+
+
+AUSTIN: —like, "I'm bad at baseball."
+
+
+SYLVIA: Oh.
+
+
+KEITH: Um.
+
+
+AUSTIN: Is Art back?
+
+
+SYLVIA: He dropped.
+
+
+AUSTIN: Oh, he totally dropped. Y'know, let's take— let's take a five minute break and I'm gonna text Art and see what's up.
+
+
+SYLVIA: Alright.
+
+
+KEITH: Yeah, that's a good idea.
+
+
+AUSTIN: Sick. Alright, we will be back in five minutes. I'm gonna mute us on the stream. Bye.
+
+
+SYLVIA: Hey, I'm back.
+
+
+AUSTIN: Welcome back.
+
+
+ART: Hey.
+
+
+SYLVIA: Ey!
+
+
+AUSTIN: Hi.
+
+
+ART: Oh!
+
+
+AUSTIN: Alright, we're back. We're back and we're gonna make characters and then we're probably gonna call it for today because it's getting late and we all have wrestling to attend to.
+
+
+ART: Yeah.
+
+
+AUSTIN: Maybe not all of us but, um. Alright, where were we? Keith, I had—
+
+
+KEITH Hey.
+
+
+AUSTIN: —alien. I had explorer alien. My question for you when we realised Art was gone was: are you the alien who doesn't care about baseball and has to play anyway and you're not very good at baseball?
+
+
+KEITH: Okay, see, when you asked that it was a curveball because I'm not that much of, like, a sports guy but out of all the sports, me in real life does like baseball.
+
+
+AUSTIN: Okay.
+
+
+KEITH: I find baseball to be very very interesting and pretty fun to watch.
+
+
+AUSTIN: Yeah.
+
+
+KEITH: So, it would be a shame to have to not care about baseball.
+
+
+AUSTIN: No, no, no! I didn't say you didn't care about baseball. I said you weren't—
+
+
+KEITH: You said I was bad.
+
+
+AUSTIN: —good at baseball and that is two different things because if you're good at baseball or if you're bad at baseball but want to get good at baseball, that's a couple of fun episodes that we can come back to—
+
+
+KEITH: Okay.
+
+
+AUSTIN: —where you as a character, your arc can literally be about, like, "Oh, yeah I'm really good at uncovering small Atlantis but I'm terrible at baseball and I just wanna get good at baseball." 
+
+
+KEITH: Yes, I like that. I'm into that.
+
+
+AUSTIN: Alternatively, you could be the alien who's the best at baseball but I don't think you can be both the best explorer and the best—
+
+
+KEITH: No, I prefer— you just— you just sold me on that arc that you pitched.
+
+
+AUSTIN: Okay, okay, cool. So, anybody else have ideas for Keith's explorer alien? [narrating while typing] Bad at but interested in getting better at baseball.
+
+
+KEITH: Baseball is just so bizarre.
+
+
+AUSTIN: It's very strange.
+
+
+KEITH: It is a—
+
+
+ART: Yeah, there's a lot of stuff going on.
+
+
+KEITH: There's a lot of stuff going on. A lot of— I don't want to reduce other sports but there's a lot of sports that look the same with, like, variations on rules and balls and what you can and can't do with them? Baseball is, like, the craziest thing. It's so weird.
+
+
+AUSTIN: There's a lot going on in that game, yeah, it's very strange. There's obviously a lot here in terms of appearance and personality. We should talk appearance? What do these aliens look like?
+
+
+KEITH: I— you mean when they're not in people form?
+
+
+AUSTIN: Are they in— like, yes. What— when they're not in people form—
+
+
+KEITH: Or do they look so close that there's no— are they, like, very humanoid?
+
+
+AUSTIN: That— these are all of my questions. Do they have to wear hats? Do they have antennae? Do they have horns? Are they— are they— do they stand on two legs normally? Do they turn into, like, [coughs] ALFs?
+
+
+SYLVIA: Ooh.
+
+
+ART: Mm.
+
+
+KEITH: Are they— are they shapeshifting or is there, like, a mirage around them?
+
+
+AUSTIN: Right, like, I don't know. There's all these questions. I'm interested in ideas.
+
+
+KEITH: Is Sylvia back by the way?
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: I am! Hello.
+
+
+KEITH: Oh, okay, hi. Um… 
+
+
+AUSTIN: I like the— I like the mix of, like, close enough to be a person so that we can have scenes in like, "Oh, you were seen without your disguise off but now you have to explain why you're not an alien." But close enough to be like, "Wait, were my eyes playing tricks on me?" Do you know what I mean?
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Um, like, is that, like your skin is blue and you have webbed hands? Or is that like, you have extra eyes?
+
+
+KEITH: Here's— okay, here's my pitch: there was a picture recently from, like, a magazine where they accidentally Oprah had a third hand?
+
+
+AUSTIN: Yes, I saw that. Yes.
+
+
+KEITH: And so it might be, like, an extra pair of arms that are hidden.
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: And, um, that's my starting place. I have extra pair of arms that are hidden.
+[01:15:01]
+
+
+AUSTIN: Uh, here's another thing I just realised is that actually maybe we can go even broader than this. What if it's not, like, you're from an alien species? You're from the galactic community? And that way you can each be different alien types.
+
+
+SYLVIA: I really like that.
+
+
+ART: Sure, yeah.
+
+
+AUSTIN: That way you get to have the big alien whose name I've already forgotten.
+
+
+KEITH: And that explains the rivalry.
+
+
+ART: Jak T’hell.
+
+
+AUSTIN: Jak T’hell, yeah. And that way we can have— right, exactly, there's all sorts of alien types, um, obviously. So yeah, you got— do you want to write these down under appearance, Keith?
+
+
+KEITH: Yeah.
+
+
+AUSTIN: You're here. I'll mark again. Boop, there we go.
+
+
+KEITH: Okay, great.
+
+
+AUSTIN: And just, like, you know. I— it sounds to me like your character's probably gonna have the sort of personality where they're, like, interested in finding stuff. They're curious.
+
+
+KEITH: Yeah, yeah.
+
+
+AUSTIN: Affable is my guess?
+
+
+KEITH: Shit. No, not affable.
+
+
+AUSTIN: Wow.
+
+
+KEITH: No, no, I'm lying.
+
+
+AUSTIN: Okay. Um, while we still figure out those details, let's go back. Sylvia, you said you figured yours out?
+
+
+SYLVIA: Yes. So!
+
+
+AUSTIN: I'm excited. Tell me about your character.
+
+
+SYLVIA: I've combined a few ideas here.
+
+
+AUSTIN: Alright.
+
+
+SYLVIA: So, like, we mentioned that we need someone producing this show.
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: What if it was the mascot? And what if the mascot was Mothman?
+
+
+AUSTIN: So you're going mascot Mothman—
+
+
+KEITH: Moth-scot.
+
+
+AUSTIN: —slash producer.
+
+
+SYLVIA: So, the reason they're the mascot is because they're too alien to really hide. [coughs]
+
+
+AUSTIN: Oh, okay, oh! Oh! Here's a question, wait, so are you an earthling cryptid or are you an intergalactic cryptid?
+
+
+SYLVIA: Uh, so my—
+
+
+AUSTIN: Or both.
+
+
+SYLVIA: —uncle is the earthling cryptid, um—
+
+
+AUSTIN: Gotchu.
+
+
+ART: Stranded here on a previous mission.
+
+
+AUSTIN: Right.
+
+
+SYLVIA: Yeah, yeah. Well, no, he's just— he was just weird. He went on vacation and didn't come back.
+
+
+AUSTIN: Okay. So there was a Mothman who was actually an alien—
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: —and you're related to that Mothman.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Gotcha.
+
+
+SYLVIA: My uncle Chez.
+
+
+ART: Is the— oh....
+
+
+AUSTIN: Oh, it's a different—
+
+
+SYLVIA: [laughing] Different Uncle Chez.
+
+
+ART: So, it's your—wait does that mean it's your uncle Fuck?
+
+
+SYLVIA: [amused] Yeah. [AUSTIN laughs] That's what mom always called him! He was a real bastard.
+
+
+AUSTIN: Okay.
+
+
+ART: No, no, I'm pitching that he's— his name is uncle Fuck and that just means something different in alien.
+
+
+AUSTIN: [laughing] Right!
+
+
+ART: Let's just get the fucks in here.
+
+
+AUSTIN: Great. Alright.
+
+
+SYLVIA: Wait, I just like the idea of this, like, producer who's very good at their job of being a producer but is stuck being a mascot for a shitty baseball team so they can produce their show.
+
+
+AUSTIN: So, how— when they're the mascot do they have their wings out?
+
+
+SYLVIA: Yeah!
+
+
+AUSTIN: What.
+
+
+SYLVIA: But they have their wings covered in, like— so they have to have their wings out— it's like a— they are a normal Mothman and their costume is a shittier— it just makes them look shittier basically.
+
+
+AUSTIN: Right, so that's my question, like, we haven't named the team yet. Also, is the team in Bluff City? Is that why this show is so popular in Bluff City?
+
+
+ART: No, but I think that they’re, like, the mid-Atlantic Mothman or something.
+
+
+AUSTIN: Right.
+
+
+ART: They're like a regional— they're repping the region.
+
+
+[overlapping]
+
+
+SYLVIA: Oh, fuck.
+
+
+AUSTIN: What if they're—
+
+
+SYLVIA: It'd be really funny if it wasn't Mothman—
+
+
+AUSTIN: That's what I'm thinking too.
+
+
+SYLVIA: —and it was just a Mothman with, like, shit attached to them.
+
+
+AUSTIN: Like they were the Eagles or they were the Angels and it's just like, why do you have such shitty angel wings, Mothman?
+
+
+SYLVIA: Why does your mascot look so weird?
+
+
+AUSTIN: [laughing] Those wings aren't even the right shape for angel wings!
+
+
+SYLVIA: Do angels have antenna?
+
+
+AUSTIN: Oh, is this show called Aliens in the Outfield?
+
+
+SYLVIA: Fuck.
+
+
+ART: Yep. Uh-huh.
+
+
+SYLVIA: Yep.
+
+
+AUSTIN: Got it.
+
+
+ART: Done.
+
+
+AUSTIN: Uh-huh. Um. [laughs] Is that already a thing?
+
+
+SYLVIA: I mean, probably?
+
+
+ART: Is it a thing more popular than us is the question we have to ask.
+
+
+AUSTIN: That seems to be an indie rock album by Diarrhea Planet.
+
+
+SYLVIA: That sounds about right.
+
+
+ART: I think we're more popular than Diarrhea Planet.
+
+
+AUSTIN: It's only got a 6.2 on Pitchfork, so.
+
+
+ART: Oh, but it was reviewed so maybe we're not more popular than Diarrhea Planet.
+
+
+AUSTIN: Yeah. Alright, uh, I like that. So, then on the side you do the production of the show so are you, like, editing it, shooting it, ecterera?
+
+
+SYLVIA: I think— I think yeah? Like, a bunch of that stuff.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: Like, this is their big project is this show.
+
+
+AUSTIN: Gotchu.
+
+
+SYLVIA: And they're like, "I gotta— I gotta do it good. I gotta do it really good."
+
+
+KEITH: Can— can I be basically a weaver that has to wear a suit that strips them down to human size?
+
+
+AUSTIN: Yeah. Sure.
+
+
+KEITH: No?
+
+
+AUSTIN: Yeah, totally. 
+
+
+KEITH: Yeah?
+
+
+AUSTIN: So, like, big long arms, like—
+
+
+KEITH: Big, long, yeah.
+
+
+AUSTIN: Are they just, like, rubbery as weaver arms or are they stiffer?
+
+
+KEITH: Um.
+
+
+AUSTIN: Like, are you Mr. Fantastic arms or are you—
+
+
+KEITH: No. I'm, like, good for—
+
+
+AUSTIN: Or are you like a big stick insect? Do you know what I mean?
+
+
+SYLVIA: Octopus tentacles?
+
+
+KEITH: Yeah, no, this is, like, I got— they can't be stretchy because I gotta use them to pull, like, big tyres off of hidden treasures.
+
+
+AUSTIN: Excuse me?!
+
+
+KEITH: I gotta pull out— I gotta search for those antiques.
+
+
+AUSTIN: I gotcha.
+
+
+KEITH: And they're under tyres or whatever.
+
+
+AUSTIN: Okay. So, big long arms, long legs, long, long, long.
+
+
+KEITH: My alien's long long legs?
+
+
+AUSTIN: Yes, exactly, exactly. [laughs] Cool, cool. Um, I'm looking at the wrong sheets. There we go. Right here. Uh, do you want to write that down under appearance?
+
+
+KEITH: Yeah, I got that.
+
+
+AUSTIN: Alright, cool. So, you're gonna need a name too. Uh, is anything else there? Okay. Um, same thing, think about appearance and we should come up with, again, a name for this team at some point. Uh, and then, Art, same thing. Basic concept. Do you have a concept?
+
+
+ART: Yeah, I have two ideas? Both I think work well with the other characters. I'll go with the less complicated one first which is I can just play Jak T’hell. 
+
+
+AUSTIN: Right, right. I think you'd do a great Jak T’hell.
+
+
+ART: Yeah. Um, the other idea is I-I-I've synthesized a couple ideas? I could be the aging player/manager.
+
+
+AUSTIN: Mm.
+
+
+ART: Baseball has a history of doing player-managers. I could be the human baseball player who is also the coach.
+
+
+AUSTIN: Right. [sighs] I'm very torn on this. Both of these are good. Um, I think I like— I don't know. I'm curious what Keith and Sylvia think here but.
+
+
+KEITH: What was the second pitch?
+
+
+AUSTIN: It's the coach. It's the manager.
+
+
+KEITH: Oh, okay.
+
+
+AUSTIN: It's the one who knows them and who is former star athlete turned minor league coach, right? Basically, like manager.
+
+
+ART: But— but also still plays.
+
+
+AUSTIN: Oh! Is that a thing? Can you be—
+
+
+ART: Like in the— you— I don't know if it's still allowed in baseball but, like, Pete Rose was his own manager.
+
+
+AUSTIN: Oh, really?
+
+
+ART: Yeah, he used to— it used to be, like, common. I think they realised it was really too much for anyone to do but, like—
+
+
+AUSTIN: Yeah.
+
+
+ART: —you can coach a baseball team and still play on it is, like, a thing that has been true in life.
+
+
+AUSTIN: Interesting. Yeah, I have a list here of player-managers in baseball. There's a bunch of them. There's a bunch of 'em, huh? I think Pete Rose was the last one. 
+
+
+ART: Well, he didn't— he didn't do real well for everyone.
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: No... He super didn't, did he. That's interesting.
+
+
+KEITH: Hm.
+
+
+AUSTIN: Yeah, I like that. I like— and I think, like, minor league makes a lot of sense comparatively, y'know?
+
+
+[overlapping]
+
+
+SYLVIA: He just needs another body.
+
+
+ART: He had, like, a not very successful run in the major but maybe he was, like, he hung around for a bit. He, like— he had a not impressive, y'know, six years in the majors and now he's like, "Alright, I go out there. I pitch every few days, y'know? I can keep a lineup card."
+
+
+AUSTIN: Um, the premiership. Soccer does this actually apparently still. Especially in interim senses? Where, like, a player-manager will be in charge for a few games in between coaching and actual coaches, so. I think I like that more because that gets us into the Chez stuff a little bit better and then we get the kid, you know?
+
+
+ART: Sure, yeah.
+
+
+AUSTIN: We get the family? Um, uh, so we have to come up with a name for that character. We have to come up with— what's that character look like? Actually, can I pitch an actor for this character?
+
+
+ART: Yeah!
+
+
+AUSTIN: I think that this should also be, um, character who was the— did the intros for Noirlandia whose name is— ah, fuck, what is his last name?
+
+
+SYLVIA: It was, like, a flower term.
+
+
+AUSTIN: It's Blake something, isn't it?
+
+
+SYLVIA: Blake Blossom. Was that it?
+
+
+AUSTIN: Blake Blossom, yeah. Blake Blossom. Who is James Gandolfini, basically.
+
+
+ART: Great. Love it.
+
+
+AUSTIN: Uh, yeah.
+
+
+ART: Uh-huh, I'm all the way there.
+
+
+AUSTIN: So, he's also the chief of police. He's the corrupt chief of police in the Action Movie World game that is the next Bluff City thing. I'm not spoiling anything. That is just the premise of this— of the thing. In Action Movie World you come up with who the villain is during world creation and Blake Blossom AKA James Gandolfini is the character who is the actor. Also, that means we have to live in a better world, one that still has James Gandolfini in it, so.
+
+
+SYLVIA: [softly] Ah, that's true.
+
+
+ART: True story.
+
+
+AUSTIN: So yeah I love it. So played by Blake Blossom. I don't know what the character's name is yet but I'll leave that up to you. Perfect. Perfect. Keith, you've written down—
+
+
+KEITH: I've gone the opposite way.
+
+
+AUSTIN: Okay.
+
+
+KEITH: I went the opposite way.
+
+
+AUSTIN: I like this. I like this a lot. Very—
+
+
+KEITH: Very small alien who uses a suit to stretch themselves out is too unused to his new large body to play well.
+
+
+AUSTIN: That's exactly— that's perfect. That's so good. You'll get there buddy.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: You just gotta get there.
+
+
+KEITH: And I'm probably— I'm probably proportionally pretty weak 'cause I'm supposed to be very small.
+
+
+AUSTIN: Right. Right. Totally. [laughing] And that's also how you found small Atlantis! [KEITH laughs] Uh, alright, cool.
+
+
+KEITH: Man, season seven of Aliens in the Outfield was super weird when they found small Atlantis and then they did a whole season of just small Atlantis shit!
+
+
+AUSTIN: It's unbelievable! Totally! So, um, okay, so protagonist concepts seem pretty good. Art, can you add yours to the page?
+
+
+ART: Yes, of course I can.
+
+
+AUSTIN: Thank you very much. So, then, yeah, if y'all can fill appearance, personality, manner of speech, background info that would be great just to have a little bit more here. But, I'm gonna move on so we can keep talking about stuff because there's more to come. 
+
+
+[reading] Story arc. It used to be the case that characters on a TV show would basically stay the same episode after episode and for some shows that's still true but there are other shows and that the ones that Primetime Adventures emulates best, they change over time. Sometimes they grow, sometimes the changes aren't so positive. But as a series goes on, it's obvious that usually they aren't the same people we were first introduced to in the first episode. I say usually because in some cases some characters face an opportunity to grow but they don't do it. The important thing is that the show sets up that opportunity. Here's how to do that with protagonists in your series. Each protagonist has a story arc. It tracks their personal struggle over the course of a season and it helps to divide an appropriate amount of attention between protagonists from episode to episode. By creating your protagonist's story arc, you have an opportunity to choose the direction your character takes and to influence the direction of the show as a whole. To complete a protagonist's story arc you need to do two things. One, decide on a character's issue. Two, assign their screen presence for each episode in the season.
+
+
+So, issue is right here. 
+
+
+[continues reading] Issue. Protagonist's issue is their most defining characteristic. It is that against which the character struggles the most. Much more than a character flaw the issue is insight into how the protagonist behaves and how the protagonist thinks about themselves. Through issues players have an opportunity to see the complexity of a protagonist that might otherwise stay hidden behind or beneath the surface. Choosing an issue is not about maximising your opportunity to explore something meaningful to you. 
+
+
+Sorry. [laughs] 
+
+
+[continues reading] Choosing an issue is about maximising your opportunity to explore something meaningful to you and that applies to all the choices you make in creating the protagonists. You and your friends all want the TV show you create to be exciting and that often means choosing an issue that could sometimes make the protagonist seem vulnerable or even incompetent. Imagine a character on—this is what an issue does—imagine a character on a show you like making a poor decision. In Primetime Adventure terms, that's the issue talking. Grief, for example, might make you lash out at your friends. A lack of self esteem might make you hesitate. A history of betrayal will make it hard for you to trust people when you need to. A protagonist's issue will manifest as impulses towards behaviour that aren't in their best interest. The producer will ask to take a couple of minutes to think about an issue for their protagonist and then to write down a couple ideas for impulses, ways that the issue might manifest in irrational behaviour. If anyone's having trouble ask for suggestions from the other players. Think of it like this. Your issue is internal, how you relate to yourself, and the impulses are external, how you relate to others. [finishes reading]
+
+
+Their issue examples are things like anger, anxiety, doubt, guilt, there's some good examples in here, like, from things like, um, y'know, Mal on Firefly has doubt. Elaina— or Buffy from season six of Buffy the Vampire Slayer has grief. Y'know, classic character um, uh— I haven't watched any— Louis Litt on Suits has anxiety, obviously. I hear Suits is good. I hear Suits is enjoyable.
+
+
+ART: People like Suits and it seems to be the easiest way for an American to join the British royal family.
+
+
+AUSTIN: Is that— is that what happened there? I didn't know she was on Suits.
+
+
+ART: She was on that show. I don't think like— I don't think that's why...
+
+
+AUSTIN: [laughs] You can't prove it's not, y'know?
+
+
+ART: I can't! Harry was, like, watching Suits and was like, "Yeah, that one."
+
+
+AUSTIN: Right. Good. So, yeah, start thinking about what your issue is and what your impulse is. Again, your impulse is something like suspicious, timid, controlling, compulsive, closed-off, childish. Whereas your issue is against being internal and kind of a thing you're dealing with and that you're trying to work through. Does anyone have any ideas on their issue that they want to bounce around?
+
+
+SYLVIA: Yeah, I've got mine.
+
+
+AUSTIN: Sure.
+
+
+SYLVIA: We talked a little bit about how this is determining whether or not we destroy the planet.
+
+
+AUSTIN: Uh-huh.
+
+
+SYLVIA: A lot of pressure when you are, y'know, new to this job and producing this show that will protect the earth.
+
+
+AUSTIN: Mm-hm.
+
+
+SYLVIA: I also got a name for my character. I picked a very good human name.
+[01:30:00]
+
+
+AUSTIN: Uh-huh. Goddamn.
+
+
+SYLVIA: Lou-Ellen Llewellyn. 
+
+
+AUSTIN: That's your cover name, right? That's your—
+
+
+SYLVIA: Yeah, that's the cover name.
+
+
+AUSTIN: So, what's your real name? What's your character's real name?
+
+
+SYLVIA: I don't have one yet because alien names are weird.
+
+
+AUSTIN: Alien names are weird.
+
+
+SYLVIA: It's like chittering.
+
+
+AUSTIN: Chittering?
+
+
+[overlapping]
+
+
+SYLVIA: Like, they make chittering noises.
+
+
+KEITH: Hi, my name is Chittering. 
+
+
+AUSTIN: Like, "Hey, my name's Chittering"?
+
+
+SYLVIA: Like, "Hi, my name my name is..." and then bug noises happen.
+
+
+AUSTIN: Bug noises. Yeah, I gotcha.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Cool, cool, cool. But you can call me Lou-Ellen Llewellyn. So this is L-O-U hyphen E-L-L-E-N?
+
+
+SYLVIA: Yes.
+
+
+AUSTIN: Space and then L-L-E-W-E-L-L-Y-N like Inside Llewellyn Davis.
+
+
+SYLVIA: Yes.
+
+
+AUSTIN: Gotcha. Um, pronouns for this character, Sylvia?
+
+
+SYLVIA: I think, probably, they?
+
+
+AUSTIN: Yeah. I think they/them. That's something cool with that.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I wanna— I think this is a minor league baseball team that is— that is gender neutral. I want, like, I think this is—
+
+
+ART: Wait, so is, so is Mothman a misnomer?
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: I mean...
+
+
+[overlapping]
+
+
+AUSTIN: Right? Well, no, 'cause we've written it so that you're the Mothman's—
+
+
+KEITH: It's just a style choice.
+
+
+AUSTIN: You're the Mothman's nephew, right?
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: So, your— your character's uncle could be he/him Mothman.
+
+
+SYLVIA: Yeah!
+
+
+AUSTIN: Uh, and then—
+
+
+ART: So, it's not— we're not making a generalisation about Mothman.
+
+
+SYLVIA: It's pronounced Mothman.
+
+
+ART: Oh!
+
+
+AUSTIN: Gotcha. I see.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Yes. Gotcha. So, is your name just a bunch of chittering noises and then Mothman.
+
+
+SYLVIA: Mothman.
+
+
+AUSTIN: Okay. [laughs] Got it.
+
+
+SYLVIA: It's [makes chittering noises] clk-clk-clk Mothman.
+
+
+AUSTIN: Good! Ugh! [laughing] Bug noises are gross!
+
+
+[KEITH laughs]
+
+
+SYLVIA: They're the worst.
+
+
+AUSTIN: Good. So you can speak, like, human languages also?
+
+
+SYLVIA: Yeah! Yeah.
+
+
+AUSTIN: All of y'all can? Okay. Wait, 'cause—
+
+
+SYLVIA: It'd be hard if we couldn't.
+
+
+AUSTIN: And also you're all, like, intergalactic aliens who have studied this for this job which is, like, you've learned English. This is not a game of, like, you're struggling with the English language. That's not—
+
+
+ART: Sure.
+
+
+AUSTIN: We're not going to do jokes about how you have broken English.
+
+
+ART: Some of us don't know alien languages and we're not trained professionals.
+
+
+AUSTIN: And that's you, Art?
+
+
+ART: Yeah, that's me.
+
+
+AUSTIN: Do you have a name yet?
+
+
+ART: No.
+
+
+AUSTIN: Okay, okay.
+
+
+ART: I'm almost certain I'm going to have a name before we start.
+
+
+AUSTIN: Okay.
+
+
+ART: I'll have a name before we start.
+
+
+AUSTIN: Start next time. That's fine.
+
+
+KEITH: Yeah, that's—
+
+
+ART: I can't figure out what someone who's brother is named Chez—
+
+
+[AUSTIN and KEITH laugh]
+
+
+SYLVIA: I'll also try and think of an actual alien name.
+
+
+AUSTIN: Alright, yeah, that's cool. So what is your issue and your impulse?
+
+
+[pause]
+
+
+ART: Who?
+
+
+AUSTIN: Sylvia. Sylvia.
+
+
+SYLVIA: Oh! Mine, sorry. So my issue, I put just pressure?
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: 'Cause it seemed like they were gonna keep the one word.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: 'Cause I think, like, this a big deal that they're doing and because of that they're very high-strung and—
+
+
+AUSTIN: Right.
+
+
+SYLVIA: —they're very stressed about getting their—
+
+
+AUSTIN: So high-strung is the impulse.
+
+
+SYLVIA: Yeah, yeah.
+
+
+AUSTIN: Got it. Cool.
+
+
+SYLVIA: I couldn't think of another way to put it—
+
+
+AUSTIN: Totally fine.
+
+
+SYLVIA: —other than like that.
+
+
+AUSTIN: Uh, Art or Keith. Do y'all have issues or impulses yet?
+
+
+KEITH: Um, at first I was gonna put my issue as, um, something to do with the show and wanting the show to go well but then I realised it was actually not contributing enough to the team?
+
+
+AUSTIN: To the baseball team.
+
+
+KEITH: 'Cause I'm not concerned whether they're going to show run well because I make the—
+
+
+AUSTIN: You're good at it.
+
+
+KEITH: —show run so well.
+
+
+AUSTIN: Yes, gotcha, gotcha. So then how does that— how does that externalise as an impulse?
+
+
+KEITH: Um. Hm. 
+
+
+AUSTIN: Samantha Smartley in the chat says that instead of using nephew you could use the gender neutral nibling, Sylvia, for Lou-Ellen Llewellyn.
+
+
+SYLVIA: Oh, true, yeah.
+
+
+AUSTIN: Yeah, you are— they're nibling which is very good.
+
+
+SYLVIA: You'd think as someone who goes by the gender neutral things I'd remember that that word exists and not just get very awkward at family events.
+
+
+AUSTIN: [laughs] It happens, eh, y'know. Stuff is tough.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Also, this nibling is a good fucking word.
+
+
+SYLVIA: It's a good word!
+
+
+KEITH: It's a good word.
+
+
+AUSTIN: Alright. Uh, so yeah, how do you externalise that?
+
+
+KEITH: Uh, impulse, I think it, hm. 
+
+
+AUSTIN: Like is it a situation where you are, like, a try-hard like you really fucking try to do—
+
+
+KEITH: No… 
+
+
+AUSTIN: Is it a thing where you are, um… 
+
+
+KEITH: I think with the show I'm a try-hard. 
+
+
+AUSTIN: Sure.
+
+
+KEITH: But with the, maybe the baseball thing is, like, it's like an uncharacteristic detachment?
+
+
+AUSTIN: Hm.
+
+
+KEITH: Where I'm just, like, fucking...
+
+
+AUSTIN: Like closed off and, like, hard to get to when it comes to baseball?
+
+
+KEITH: Yeah. Yeah.
+
+
+AUSTIN: Like you don't want to talk about it. You don't wanna, like— like, you'll do the drills the coach gives you but you're not gonna talk about your swing or whatever?
+
+
+KEITH: I think that that's— yes. Yes.
+
+
+AUSTIN: Cool. Um, so, in other words, can we imagine the episode where you're going up against your rivals and we can have a scene between you and Art where, like, you just don't want to talk about it but you're very clearly stressed about shit?
+
+
+KEITH: Yeah, and like, someone's trying to give me advice or, like, the coach just trying to give me advice. He's like, "I know what I gotta do. I just can't do it!"
+
+
+AUSTIN: [laughs] Right. Right, exactly. Okay. Cool. Um, Art? How are you doing?
+
+
+ART: I went from the book.
+
+
+AUSTIN: That's fine.
+
+
+ART: I went doubt.
+
+
+AUSTIN: Okay.
+
+
+ART: Because, y'know, both his— his thing— he's failing, right? Like, he's old. 
+
+
+AUSTIN: Right.
+
+
+ART: And he's not, y'know, I was thinking even a kind-of bad journeyman baseball player is, like, one of the .01% best baseball players on earth?
+
+
+AUSTIN: Right.
+
+
+ART: And, like, seeing that fail must be really—
+
+
+AUSTIN: Yeah.
+
+
+ART: —rough?
+
+
+AUSTIN: Yeah.
+
+
+ART: Um, and so that— there's that kind of doubt. There's also this doubt if he's, like, doing the right thing vis-a-vis these aliens he's helping who, like, yeah they might save the world, they also might not save the world.
+
+
+AUSTIN: Right. Totally.
+
+
+ART: Um, and unsupportive is the impulse I think. It's like, you know what? Just deal with your own shit.
+
+
+AUSTIN: [laughs] Good coaching there.
+
+
+ART: Yeah! I'm not a good coach!
+
+
+AUSTIN: [laughs] Great!
+
+
+ART: But I'm the most famous person on this team!
+
+
+AUSTIN: [laughing] Good. Fantastic.
+
+
+ART: And I only pitch every five days! They gotta get me out there every time!
+
+
+AUSTIN: [continues laughing] That's good for your arm, for sure! Um, you've written down manners/speech: direct but with lots of idioms?
+
+
+ART: Yeah, like, baseball idioms. I'm gonna have to look some up.
+
+
+AUSTIN: Yeah, you'll get there. You'll get there.
+
+
+ART: Yeah. 
+
+
+AUSTIN: Also, before I forget, also, Keith you don't have a name yet so I didn't ask pronouns but we can come to that once you have a name or...?
+
+
+KEITH: Yeah, yeah.
+
+
+AUSTIN: Sounds good. Alright, so we have impulses, we have issues. We need to figure out what the screen presence is. 
+
+
+[reading] So screen presence is the second part of our protagonist's story arc. Over the course of a television series, a protagonist's story will receive varying amounts of attention. In some episodes, the protagonist will play a prominent role while in others they will be secondary or tertiary to other protagonists. That level of story importance is measured by the protagonist's screen presence. In any given episode it will be a 1, a 2, or a 3. If it's a 3, the protagonist is the centre of attention. It's the protagonist spotlight episode. Each protagonist has only one spotlight episode per season where the elements of that protagonist's story all come together and we might be the seeds of change. The player of a spotlight protagonist has more influence over the outcome of events. If it's a 2, the protagonist plays a secondary role and that player's control over the scene resolution is reduced. And if it's a 1, the protagonist plays a minor role and will have a small amount of influence on scenes.[2] [finishes reading]
+
+
+So this ends up looking kind of like a wave in a weird way in terms of how—
+
+
+ART: Yeah that crap was super helpful because in words I found that really tricky.
+
+
+AUSTIN: Yeah, totally. I'm gonna pull this on screen for a second so that people who are watching this live can see it where it's like, oh, in the first episode in the pilot everybody's gonna start at 2. In the second episode maybe somebody will drop down to 1 'cause they're just gonna switch into a minor role and then like, oh, back up in three back to the level 2 and then up all the way to 3 for their big episode of the season.
+
+
+KEITH: Mm.
+
+
+AUSTIN: [continues reading] In the real world, a television series begins as a pilot, a sort of test episode that lets the studio evaluate the series and see if it's worth airing. If the pilot meets approval, the studio will approve the budget for a batch of episodes commonly called a season. Although in the UK, they call it a series which might be a bit confusing. Most seasons in the United States are twelve to twenty-two episodes long. In Primetime Adventures, your season will also include a pilot and a season of episodes either five or nine in total. Which option you pick will depend on the time you have to play. Five episodes is ideal for up to five players in the group with enough time to explore a few important topics. Shows that follow almost exclusively on character drama do well in five episode seasons. If it's your first time playing I suggest using this option. Nine episode seasons are better if you have more than five players in the group so you can make sure each protagonist has time for character development. [finishes reading]
+
+
+Can you imagine playing with, like— this is so of its time that it's like, oh, yeah, if you have six players do this. No. [laughs] Though, you know what, I'll leave— I'm gonna leave the door open for the notion of, like, we could do an episode of this with other players with different characters like this is the show but we could totally—
+
+
+ART: Sure. There's even, like— there's like, one, where you could just kind of shift focus to another area of the team?
+
+
+AUSTIN: Mm-hm.
+
+
+ART: We could also do the other team?
+
+
+AUSTIN: Yes, totally. Do the episode of the show that's focused on the other—
+
+
+KEITH: Oh, the destroy the earth team?
+
+
+AUSTIN: Yeah, the destroy the earth team. We could do— one of the things I thought about a lot with this was, like, being very fast and loose with what we mean by season and instead of thinking about it as a season we think of it as, like, the full run of the show? So that the final episode is not the final episode of season one, it's the final episode of the show. And that means, like, the cast changes [laughs] over the course of the season or over the course of the season of show. Costumes change in weird ways. The, y'know, the time it takes place in could be different, y'know?
+
+
+KEITH: You're saying season nine of Scrubs?
+
+
+AUSTIN: Right, but, like, imagine playing all of Scrubs in five episodes instead of— and you're just picking a random episode from each season basically.
+
+
+ART: Yeah, just imagine if Scrubs got the number of episodes it deserved.
+
+
+[AUSTIN and KEITH laughs]
+
+
+AUSTIN: [laughing] Fuck! Good.
+
+
+KEITH: Scrubs had, like, three good seasons that were really good.
+
+
+AUSTIN: [laughs] Alright, so, I'm gonna say we do a five episode season here? Because that is— that is probably much more realistic given that I would like do a whole season this year as kind of, like— we're not going to do this every month, we're going to do this once maybe every other month or once every third month or something but we'll get through an entire season basically.
+
+
+KEITH: Yeah. We were laughing too hard at just talking about what the show was going to be—
+
+
+AUSTIN: Yes.
+
+
+KEITH: —to not do it more than once.
+
+
+AUSTIN: Totally. Totally.
+
+
+KEITH: Wait, to—
+
+
+AUSTIN: To not— yeah!
+
+
+KEITH: Yeah! Yeah.
+
+
+AUSTIN: You got it. So for the pilot episode everyone has a screen presence of 2. I'm gonna start marking these things down really quick here.
+
+
+ART: Not true about real world pilots if we wanna just, like, take a moment.
+
+
+AUSTIN: Oh, definitely not true. Totally not true at all but, you know, we're playing a table-top roleplaying game together so.
+
+
+ART: Yeah.
+
+
+AUSTIN: Put those all at two. Bop, boop, beep. 
+
+
+[reading] For the rest of the season, assign your screen presence like so. If it's a five episode season, choose one more episode at presence two, two episodes at one, and one episode at three. [finishes reading]
+
+
+So, everybody gets two more at 2.
+
+
+ART: We're picking this now?
+
+
+AUSTIN: Yeah, because you're plotting that out so that we can play those accordingly basically so that we can— I can prep for them as the producer. And then they kind of get into this in the— in the— in the kind of book where they kind of say, like, hey, think about where it would make sense based on what your issue is, right? So, like, here's a suggestion is, like, Keith, I think your level 3 thing should probably be episode four because that'll be the big game, right? Or episode—
+
+
+KEITH: Oh.
+
+
+AUSTIN: Do you know what I mean? That's how they start thinking about it is— so for—
+
+
+KEITH: I was thinking— 'cause there's five episodes, right?
+
+
+AUSTIN: Yes.
+
+
+KEITH: So I was thinking for me I was thinking, like, it would be, um—
+
+
+AUSTIN: Or I guess it's— is it six episodes?
+
+
+KEITH: It'd be 1 for episode four and then 2 for episode five where it was, like, 1 was where I finally get the baseball thing down and then actually be performing well at baseball would be slightly less focus.
+
+
+AUSTIN: So if that's the case then your issue shouldn't be about baseball. Do you know what I mean?
+
+
+KEITH: What do you mean?
+
+
+AUSTIN: What if I misunderstood—so, like, your issue—
+
+
+KEITH: So, wait, so 1 is the highest amount of focus.
+
+
+AUSTIN: No, no. 1 is the least amount of focus.
+
+
+KEITH: Oh! Oh!
+
+
+AUSTIN: 3 is the most amount of focus.
+
+
+KEITH: I was getting it backwards then.
+
+
+AUSTIN: Yeah, yeah, yeah. Yeah, yeah yeah. Um, but I just wanna check something really quick because I think it's one more episode at 2, two, one two three four, oh wait, one two, yeah that's right. Okay. So everybody starts at 2.
+
+
+KEITH: Okay.
+
+
+AUSTIN: So then, yeah, you're gonna get one more at screen presence 2.
+
+
+KEITH: So then—
+
+
+AUSTIN: Two—
+
+
+KEITH: 2 episode four—uh, 3 episode four and then 2 episode five. Like, four would be the episode before the big game is, like, the one where I get the baseball shit down and then five—
+
+
+AUSTIN: Okay and then that's not an issue in five is what you're suggesting.
+
+
+KEITH: Right, right, so you can see it happening but it's slightly less focused 'cause I already had my learn to overcome episode and then I perform well at the game.
+
+
+AUSTIN: So the thing there is— my only thought there is, like, do we not want the performing at the big game to be key to the resolution?
+
+
+KEITH: That's— that's also— that's just a different, yeah. It's a different way of doing the same thing. I was thinking that the learning episode would be the focus episode.
+
+
+AUSTIN: Keith, is this a little drawing of your character you made on this sheet or is this something weird on the PDF that I hadn't noticed?
+
+
+KEITH: Um… 
+
+
+AUSTIN: [laughing] Do you see this?
+
+
+KEITH: Where… 
+
+
+AUSTIN: On your sheet there's a little drawing of a person maybe with hands out?
+
+
+SYLVIA: [in the background] You did say draw your protagonist before.
+
+
+KEITH: Oh, I had made a little— I had made a very tiny little drawing. And I couldn't remember how to erase it 'cause I—
+
+
+AUSTIN: Gotcha.
+
+
+KEITH: —drew an extra line by accident so I just did over it with white.
+
+
+AUSTIN: Gotcha. Good.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Great.
+
+
+KEITH: But I did do a little drawing of my guy.
+
+
+AUSTIN: Um.
+
+
+KEITH: And I was, like, why can you see that? It can't be mine, I erased it. Kind of.
+
+
+AUSTIN: [laughs] Alright. So let's say four for now. That's kind of exactly where I was at for your 3? And then you're thinking, what, 2 for the final one?
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Alright. Um, uh, we'll come back for those. We'll figure out where your 1 and your 2 on the other ones here.
+
+
+KEITH: Mm-hm.
+
+
+AUSTIN: You're gonna get one more—or no, I guess both of the other ones are 2, right? Is that how it works? Two episodes with screen presence 1, yeah. So that would mean that you're kind of down. You're kind of low on the next two, do you see what I'm saying?
+
+
+KEITH: Yes. Yeah.
+
+
+AUSTIN: You're, like, boop, bop, boop, is kind of what you do.
+
+
+KEITH: Yeah, I was thinking the middle episode would be my lowest?
+
+
+AUSTIN: Yeah, well, so it's—you get two—
+
+
+KEITH: Three.
+
+
+AUSTIN: —two—
+
+
+KEITH: Three would be 1.
+
+
+AUSTIN: Right, but you have two 1s is what I'm saying.
+
+
+KEITH: Okay, so 2—so it's—it would be it's 2-1-1—
+
+
+AUSTIN: 3-2.
+
+
+KEITH: 3-2. Got it.
+
+
+AUSTIN: Which is, like, a really low way—
+
+
+ART: Oh, I dunno that it's a great idea to have the— hm.
+
+
+AUSTIN: Go ahead.
+
+
+ART: Two 1s in a row for a character as important as Keith's feels tricky—
+
+
+AUSTIN: Yeah.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Maybe—
+
+
+ART: —'cause what are those two episodes like?
+
+
+AUSTIN: Right, totally, so maybe then what we do is we go— we have that one is the bottom one and that's not the big game. Maybe that's something else, do you know what I mean or else—
+[01:45:03]
+
+
+KEITH: Yeah.
+
+
+AUSTIN: We do—
+
+
+KEITH: Is— yeah, no, you're— I think Art is right.
+
+
+ART: Or he could peak sooner. We could go 2-1-3-2-3-1—
+
+
+AUSTIN: 2-1-3—
+
+
+ART: 2-1-3-1-2.
+
+
+KEITH: I love this by the way. [laughs] It's just a list of numbers.
+
+
+AUSTIN: 2-1-3—
+
+
+[simultaneously]
+
+
+KEITH: 2-1-3-1-2.
+
+
+AUSTIN: 2-1-3-1-2.
+
+
+KEITH: 3.
+
+
+AUSTIN: I like that.
+
+
+KEITH: Yes. Yeah.
+
+
+AUSTIN: I think that that's right.
+
+
+KEITH: I like that.
+
+
+AUSTIN: I think that's right. In fact, this gives me a better structure which is we should probably end with everybody on 2.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Right?
+
+
+ART: Oh, I don't know.
+
+
+AUSTIN: Or do you want to end on coach at 3, Art?
+
+
+ART: Yeah, coach either needs to peak early or late.
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Yeah.
+
+
+ART: Because there's a lot of episodes where I shouldn't fucking be around, right? Like, whatever Sylvia's 3 is, I should probably be at 1 on because we're not super—
+
+
+AUSTIN: Right, like, involved in that way.
+
+
+ART: —involved in each other.
+
+
+AUSTIN: But you should be a 2 on Keith's 3.
+
+
+ART: Right.
+
+
+AUSTIN: Because you're the coach.
+
+
+ART: That's— right.
+
+
+AUSTIN: And the issue, and similarly Keith should be a 2 on Sylvia's 3 because Keith starrs in that episode, is the star of the TV show.
+
+
+ART: Right.
+
+
+KEITH: Yeah. Yes.
+
+
+AUSTIN: Yeah. With you.
+
+
+KEITH: Um.
+
+
+AUSTIN: Wait, what did I just do? Did I fuck up something? I think I did. Hold up.
+
+
+ART: You completely erased Keith's—
+
+
+AUSTIN: I didn't. It just went to the wrong— it went to GM screen instead of— it got weird. [muttering] Hold up. Map layer. There we go. There we go! There we go. Back.
+
+
+ART: So either the fifth episode is about the coach and it's like— but that feels wrong?
+
+
+AUSTIN: Right, well, like, it doesn't have to though. It's like ending a season of Family Matters about Carl Winslow, right?
+
+
+ART: Sure. But, like, who watches it for Carl Winslow?
+
+
+AUSTIN: No-one. But the studio does this anyway.
+
+
+KEITH: I love Carl Winslow!
+
+
+AUSTIN: I also like Carl. Carl's fun.
+
+
+ART: Alright. I don't know. I'm not, like—
+
+
+AUSTIN: So this is why I was pitching 2 on the end is useful because then it's, like, everybody's teamed up at the end and there isn't— we're back to the family show, y'know?
+
+
+SYLVIA: It's like the same importance as the pilot.
+
+
+AUSTIN: Yes, exactly.
+
+
+SYLVIA: Yeah.
+
+
+ART: But then I can't have an episode where I'm at 3 and Keith is at 2.
+
+
+AUSTIN: Oh, I see what you're saying. Right.
+
+
+KEITH: Oh, so you're saying that what needs to happen is that on both—
+
+
+AUSTIN: Yeah.
+
+
+KEITH: —Sylvia's and Art's 3 I should be at 2.
+
+
+ART: But that can't—
+
+
+AUSTIN: No, that can't be the case.
+
+
+ART: There's not enough 2s.
+
+
+AUSTIN: There's not enough 2s. 
+
+
+KEITH: There's not enough 2s.
+
+
+AUSTIN: So what we can do is— but wait what Art was saying was that on your 3 he should be at 2. Because he's the coach and you're the player.
+
+
+KEITH: Right.
+
+
+AUSTIN: You're the player who's struggling with this.
+
+
+KEITH: But that's— but we also said that on Sylvia's 3 I should be 2.
+
+
+AUSTIN: Right! Right. So which actually means that Sylvia's 3 would be five, right?
+
+
+[overlapping]
+
+
+ART: Which makes sense and I'm just a 1 at—
+
+
+KEITH: Which makes sense.
+
+
+AUSTIN: Right, cause you're—
+
+
+KEITH: Because it's also the finale of the show within a show.
+
+
+AUSTIN: Right, yes, right. Which means that it's also— that's the episode where it's like, do we destroy Earth? That's the stakes of the show. Does Earth get destroyed?
+
+
+KEITH: Yeah. Does Earth get destroyed.
+
+
+AUSTIN: Sylvia's finale five. Sylvia, are you good with this? I don't want to talk over you here.
+
+
+SYLVIA: Yeah, sure!
+
+
+AUSTIN: Does that make sense? That is bigger than, do we win the big game?
+
+
+KEITH: Yes, yeah.
+
+
+AUSTIN: Totally. Okay. Um, so then that episode is 3. Okay, then that means Keith is a 2 on that one and that Art is a 1 on that finale?
+
+
+ART: Yeah.
+
+
+AUSTIN: Unless you want that to be your 2 also?
+
+
+ART: Nope!
+
+
+AUSTIN: 'Cause you want your 2 to be— you want your 2 to line up with—this is great radio, folks, I know.
+
+
+KEITH: Yeah. Yeah, yeah, yeah.
+
+
+AUSTIN: Um, but you want your—
+
+
+ART: We should probably— I want my 2 to be here. You're right about where I want my 2 to be.
+
+
+KEITH: Here's a quick— should we, instead of saying 1/2/3 should we start saying, like, saying different words for that so it's not 3 on two and 1 on four?
+
+
+AUSTIN: Like a-plot, b-plot— not a-plot, um.
+
+
+KEITH: We could do a/b/c. We could do, like, most/least...
+
+
+AUSTIN: And middle?
+
+
+KEITH: And middle?
+
+
+AUSTIN: Yes. So, like, right now Keith's is done. So, episode one, everybody has middle screen time. Screen presence.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Then, Keith has lowest screen presence on two and highest on three, lowest on episode four, and then middle again on the finale, on the fifth episode.
+
+
+KEITH: Yeah. That looks great to me.
+
+
+AUSTIN: That looks great. That looks like a TV show to me! Um, Art—
+
+
+KEITH: Oh, I'm seeing, I'm seeing dollar signs.
+
+
+AUSTIN: [laughs] Art, which one then is your high level screen presence?
+
+
+ART: Uh, four?
+
+
+AUSTIN: Okay. 
+
+
+ART: We, like, wrap the baseball plot in four—
+
+
+AUSTIN: In four.
+
+
+ART: —and five is the—
+
+
+AUSTIN: Is the aliens plot.
+
+
+ART: —the alien plot.
+
+
+AUSTIN: Okay. Um—
+
+
+ART: And then I'm also 1 on two.
+
+
+AUSTIN: So you're 1 on five and 1 on two. You're lowest on the second episode and the fifth episode.
+
+
+ART: We are making a very odd episode two because that's also going to be two 1s and a 2.
+
+
+SYLVIA: I'm just gonna mark myself as 1 for episode two real quick.
+
+
+AUSTIN: Wait, are you? [laughs]
+
+
+SYLVIA: No, I'm joking.
+
+
+AUSTIN: That would be— the thing is that would be fine 'cause that would be effectively also an episode where no-one has more importance and we're still doing a team based thing, do you know what I mean?
+
+
+KEITH: Yes. Yeah.
+
+
+AUSTIN: That's not—
+
+
+ART: Everyone at 1 is going to be very tricky when we get to how we do things?
+
+
+AUSTIN: Oh, you're right 'cause the resolution ends up being— that'll be a big Lost episode for y'all.
+
+
+ART: Yeah, it's going to be, welp we're going to play for three hours and everyone's going to fail every skill check, essentially.
+
+
+AUSTIN: Right. Right. Um, so yeah. Instead we could do a 2-2-1-1 five, right? We could do middle-middle-low-low five?
+
+
+ART: For who?
+
+
+AUSTIN: For Sylvia. Sylvia's the only one who has these open at this point, right?
+
+
+ART: Sure.
+
+
+KEITH: Yeah.
+
+
+ART: I mean, all of these are fustable with.
+
+
+AUSTIN: Yes.
+
+
+ART: But yes, three does feel like a 1 for Sylvia just because of how that's going to work?
+
+
+AUSTIN: Because that's the episode in which we will be focusing mostly on baseball.
+
+
+KEITH: Yeah. That's the sort of— that's the halfway point of like, of like, the direction we've been going with the TV show—
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: —is now, it's too far to turn back. This has to be what we're doing and it has to be good enough to save the planet, so.
+
+
+AUSTIN: Right, exactly. Exactly.
+
+
+KEITH: It's the least— it's the least sure.
+
+
+AUSTIN: Right.
+
+
+KEITH: Of, y'know, Sylvia's issue.
+
+
+ART: But yeah, so, Sylvia— Sylvia, like, logically gets to 2-2-1-1-3?
+
+
+AUSTIN: 2-2-1-1-3.
+
+
+SYLVIA: I'm okay with that.
+
+
+AUSTIN: Okay. Cool. This is a weird thing. I like it a lot.
+
+
+KEITH: Yeah.
+
+
+ART: I wish we had one more player would make this sing a little more? 'Cause like—
+
+
+AUSTIN: Yeah, definitely.
+
+
+ART: —we could have some of those 3s and 2s.
+
+
+AUSTIN: Or maybe we will. Maybe we will shoot the pilot and then be, like, oh we need another player and—
+
+
+KEITH: Yeah.
+
+
+AUSTIN: —bring in another player. That's, like, not off—
+
+
+KEITH: Yeah, we need to bring in, we did our first season and now we have to bring in Danny De Vito to spice up our...
+
+
+ART: Danny De Vito is Jak T’hell.
+
+
+AUSTIN: Jak T’hell. Yeah. Good.
+
+
+[KEITH laughs]
+
+
+AUSTIN: Perfect. Ideal.
+
+
+KEITH: He's so— he's so jacked! 
+
+
+AUSTIN: Oh, he's so jacked.
+
+
+KEITH: He can't be anything but alien!
+
+
+[ART laughs]
+
+
+AUSTIN: Oh, that's amazing. Alright. We have a little bit more to do and then we will be done. Uh, traits. 
+
+
+[reading] Traits define what's special about a protagonist. Some protagonists are known for their strengths, some for their skills, some for their pets. You create traits that apply to the kind of protagonist you want to play. Some examples are included on the next page. Traits aren't rated by scores. Protagonists either have them or they don't. Traits may be as broad or narrow as you like but the other players have to approve them. For example, communes with the spirits may be an acceptable trait for a show that directly involves the supernatural but it might not fit well in a gritty detective drama.
+
+
+KEITH: Except that it fits really well in a detective drama.
+
+
+AUSTIN: It fits so well. 
+
+
+[continues reading] During an episode you can use your traits to get extra cards, improving the chances for your protagonist to influence the outcome of a scene. Kinds of traits. Protagonists have two types of traits detailed on the following pages. Edges, which are what you can do and connections which are important relationships. Create traits—
+
+
+Crate traits, hm. Crate traits.
+
+
+KEITH: Crate traits.
+
+
+AUSTIN: [continues reading] Create traits for the protagonist as a group. It's much easier to come up with a good idea if you have a little help. Don't hesitate to write down your own ideas first if you have any. For each protagonist, first create one edge and one connection then create one more that can be for either type. Um, so you'll see here you have edges and you have connections. You're going to have two of one and one of the other. Edges are a kind of package of abilities which can include skill, priviledge, knowledge, networking. Contrary to the name, edges can also include flaws or weaknesses. They're best presented with a story behind them, something that makes the character distinctive. For example, instead of strong, try something like body-builder. That latter implies a membership at gym, subscriptions to related magazines, and a circle of fellow enthusiasts. [finishes reading]
+
+
+Their example edges are things like retired intelligence agent, or parent, or control freak, or student athlete, or activist. And, like, you can see that those sorts of roles open up the possibility of, like, where you could use that trait and say that you have something, y'know, extra there to draw on. But that can totally be your role also, right? So, like, Art, I think, yeah, veteran ball player or, like, um, player-coach would both fit there.
+
+
+ART: Sure.
+
+
+AUSTIN: I almost wanna say player-coach gives you a little bit more? Because then I can see you using it for your coaching too? But at the same time maybe the fact that you don't have coach in edge is more interesting because you have to relate it to your actual play and not your ability as, like, a talker, y'know, and like a support—
+
+
+ART: Well, there's something about being a veteran ballplayer that would help in certain coaching situations. I'm trying to, like, limit my coaching ability—
+
+
+AUSTIN: Yes. I like that a lot.
+
+
+ART: —to things that, y'know, I'm not great at the double switch or the in-field shift but I am, like, just, y'know throw it there.
+
+
+AUSTIN: Right. Right. Or, like, you know how— you can read when the other team is doing something. I don't know. Is that how baseball coaching works at all? But, like, I don't know about baseball tactics at all. I should learn about those.
+
+
+[overlapping]
+
+
+KEITH: I think that you're not supposed to try to figure out other teams' signs.
+
+
+ART: It really left—
+
+
+KEITH: I think that you're not supposed—
+
+
+AUSTIN: No, I didn't mean signs. I meant, like, play styles. Do you know what I mean?
+
+
+KEITH: Oh! Okay, sure.
+
+
+AUSTIN: But that's why I realised, I don't know anything about out-field strategy, like, I don't know how to—
+
+
+KEITH: By the way, how much more interesting of, like, an intrigue element would the teams get to try to figure out each other's signs?
+
+
+AUSTIN: [laughing] Yeah.
+
+
+KEITH: That would add a really cool element I think to baseball.
+
+
+AUSTIN: Cryptologists just attached to every team. It'd be great. And your connection is Chez. Is terrible Uncle Chez.
+
+
+ART: Yeah.
+
+
+AUSTIN: Motel owner and landlord. Um, do you have a third one?
+
+
+ART: Working on it.
+
+
+AUSTIN: Okay. Anybody else has these to talk about right now? Edges and connections. Um, some connection things are— I'll read the section on connections so we can— 
+
+
+[reading] Characters on TV shows have relationships with other people on the show and those relationships often have a significant effect on the things that happen. Your protagonist might have been a best friend or an ex-lover or an ever present yet annoying neighbour and how he/she feels about them will influence the protagonist's decision. It will even influence how those decisions turn out. These relationships are referred to as connections. While edges can be used to arrange contacts and find allies when a protagonist is in need, connections use the reverse approach. These characters are permanent or at least semi-permanent supporting cast members on the show and will make regular appearances. Just like edges, connections should be chosen for maximum storyline potential. Look at a protagonist's issue for guidance. Is the protagonist prone to anger? Come up with a connection who provokes that anger or who is easily hurt by it. If the protagonist is trying to escape their past, choose a connection with ties to that past. The more you have that leads you and the other players towards your protagonist's issue, the better your play experience is going to be. When your connections take part in the scene, the producer will choose their dialogue and actions. When you're thinking about connections, look at the cast list you made earlier. Which characters weren't picked as protagonists? They might make great connections. [finishes reading]
+
+
+And so their examples are like Dorothy (the protagonist's mother), or Doc (the protagonist's coach), or Jeff (the protagonist's best friend). It just says Jeff here though which is really great. Um, um, yeah, Art you've added team owner. Good. You're really involved with the, like, team ownership, team rivalry, minor league stuff here. I think that's a good idea. Um.
+
+
+KEITH: I was thinking for connection I might choose either the— or both I don't know, but these are the same things so I wouldn't want a connection that does the same thing. I guess. 
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: Uh, either the call-in show? Or the plucky, uh, like, the plucky kid fan?
+
+
+AUSTIN: Mm.
+
+
+KEITH: Because I think that part of sustaining my, like, spot on the team is getting in good with the fans even though I'm not very good?
+
+
+AUSTIN: Can we do plucky kid fan who is also Art's kid?
+
+
+KEITH: Like child?
+
+
+AUSTIN: Yeah. Because I like the notion of unsupportive coach dad whose kid turns to alien, like, alien foster?
+
+
+KEITH: The kid knows.
+
+
+AUSTIN: And the kid knows and the kid, like, the kid both needs your support but also is supportive of you in a way that coach can't be because coach is unsupportive. Um, I think that would be really fun and good. I think there would be good sequences there. And also, there's a little tension between you and coach? Y'know?
+
+
+KEITH: Sure, yeah.
+
+
+AUSTIN: But I also like radio call-in host. I would also love for either you or Sylvia—
+
+
+KEITH: These— well, you added a dimension that makes those two different things.
+
+
+AUSTIN: Oh, yes, yes, yes. Yeah, totally. Totally. I think you could do both of those. I would love for you or Sylvia to hopefully have a connection to the alien side of things? 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Either the producer which— that might be yours, Sylivia. The, like, back at home producer? Or the rival team, y'know?
+
+
+SYLVIA: Well, Keith wrote down for the character cast list ideas: the tough alien showrunning boss? I think could fit?
+
+
+AUSTIN: Yes. Totally. I think that's totally one of yours. Uh, so yeah. Put that one down under connections. And then— and then, yeah, that could be it. You have two edges. That's the other thing, like, so. Keith and Sylvia, I both need at least one edge from each of you.
+
+
+KEITH: Um. Edge… 
+
+
+AUSTIN: Um.
+
+
+KEITH: Well, I think— I think that my edge is that I'm the— I'm the finding stuff guy.
+[02:00:03]
+
+
+AUSTIN: So what is that?
+
+
+KEITH: I'm, like—
+
+
+AUSTIN: Is that TV show host? Is that, like, urban explorer? [laughs] Is that like—
+
+
+KEITH: I think— I think it's, um—
+
+
+AUSTIN: Anthropologist? Like, what is the— what was your role?
+
+
+KEITH: In my head— in my head it's like, I'm small, I can get into places.
+
+
+AUSTIN: Oh, so you're talking about a physical—
+
+
+KEITH: Physically finding.
+
+
+AUSTIN: Interesting. Okay.
+
+
+KEITH: I've got a nose for the—
+
+
+AUSTIN: Is your nose different? Is your nose also small but can get big?
+
+
+KEITH: I was being metaphorical but sure.
+
+
+AUSTIN: But also sure.
+
+
+KEITH: I can smell ephemera.
+
+
+[AUSTIN and KEITH laugh]
+
+
+AUSTIN: Great. Has a nose for findings. Has a— I think, like, um, there's a way to write that but. I think, like, again, let's be broad here and say that, like, I wanna make sure that it isn't only: you can only use those things when you're small and can get places? But it should also include you're small and can get places, right?
+
+
+KEITH: Yeah, yeah. I think it's— I think the way to do that is just, like, saying, like, oh, he's the— he's the guy that has the skills for doing this part?
+
+
+AUSTIN: Uh-huh.
+
+
+KEITH: Which applies both: is physically apt at going and getting them—
+
+
+AUSTIN: Right.
+
+
+KEITH: —because I'm small? But also, like, has that sensibility.
+
+
+AUSTIN: Right. I just wish we had one good word for this thing.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Um.
+
+
+KEITH: Bestpicker.
+
+
+AUSTIN: [laughs] Bestpicker isn't bad. Do you know that urban exploration is sometimes shortened as urbexing? Or bexing?
+
+
+KEITH: Urbex sounds like what you use to get coffee stains out of something.
+
+
+AUSTIN: You gotta get that urbex out. Urbex is my least favourite Friends at the Table villain.
+
+
+KEITH: [laughs] Um, I will brainstorm on what to call this.
+
+
+AUSTIN: Can you write down just the long version here for edges for now?
+
+
+KEITH: Yeah. Yeah.
+
+
+AUSTIN: Um, Sylvia. So, yeah, again. Showrunner, boss alien is connection one.
+
+
+SYLVIA: Yeah, I was also gonna— I don't know how to spell his name but I was gonna put Jak T’Hell as my other connection.
+
+
+AUSTIN: Oh, that's good. I like that.
+
+
+SYLVIA: I think he should be a connection in there too.
+
+
+AUSTIN: Yeah.
+
+
+ART: J-A-K T-apostrophe-H-E-L.
+
+
+AUSTIN: Yeah, I'll let you write it.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: Yeah, go for it.
+
+
+SYLVIA: And then for edge I was thinking, like. I was thinking they'd be kind of a nerd? Like good with all the equipment and stuff and that's why they're here—
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: —it's 'cause they're kind of a nerd and they're into— maybe they're into human stuff because of that?
+
+
+AUSTIN: Like pop culture?
+
+
+SYLVIA: Like, yeah.
+
+
+AUSTIN: Do they cosplay? I mean, yes. They're a mascot. So.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: So, they're like—
+
+
+SYLVIA: Oh, fuck.
+
+
+AUSTIN: —AV nerd plus like they can craft stuff. They're like craft-sy?
+
+
+SYLVIA: Yeah. Should I just put cosplayer?
+
+
+AUSTIN: You should put— again, I think we should go broader than that 'cause I want you to be able to like in the cosplay—
+
+
+SYLVIA: No, for sure.
+
+
+AUSTIN: —contest and also do the AV for it, y'know? Like, I want you to be able to play the Tena theme song when your character comes out also?
+
+
+SYLVIA: Oh my god.
+
+
+AUSTIN: So, um, but I think like— I think really broad pop culture nerd? Or like—
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: Nerd is probably fine.
+
+
+SYLVIA: I'll just put nerd.
+
+
+AUSTIN: Put down nerd. Nerd and then Jak T’hell.
+
+
+SYLVIA: And then I have another edge idea.
+
+
+AUSTIN: Oh, so you only get two—
+
+
+SYLVIA: Oh, you get two— okay.
+
+
+AUSTIN: It's three things total. It's either—
+
+
+SYLVIA: That's fine 'cause this one was mostly a joke. I was just gonna write cryptid.
+
+
+AUSTIN: [laughs] Okay. That's just in your character already, for sure.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Um. Uh, cool. I think that's— is that everything? Yeah, I think that's everything on that side. Um, so two more things I think and then we're done. One is nemesis and I think we've already figured out that that nemesis is the—
+
+
+KEITH: It's Chez.
+
+
+AUSTIN: Oh wait, is the nemesis Chez or is the nemesis—
+
+
+[indistinguishable talk in the background]
+
+
+KEITH: [laughing] No, no, no, the nemesis is the other team.
+
+
+SYLVIA: Chez is your personal nemesis.
+
+
+KEITH: Oh! I thought the— I thought the nemesis was the rival team that's trying to prove that Earth is worthy of being destroyed.
+
+
+AUSTIN: So that's a question right? That is— I think that both of those things are bad? And I don't know which is the nemesis.
+
+
+ART: Well, we don't have to have a nemesis.
+
+
+AUSTIN: No, you could also just have no nemesis, yeah.
+
+
+KEITH: So my pitch for it being the rival team is that, um, if we get found out because we were scouted by the scout?
+
+
+AUSTIN: Mm-hm.
+
+
+KEITH: The worst thing that happens is that we got found out?
+
+
+AUSTIN: Mm.
+
+
+KEITH: If we lose to the other team, the whole world blows up.
+
+
+AUSTIN: Right.
+
+
+ART: But like we're not— I don't. I don't know if I'm as interested in the show about the world not being blown up as I am about the, like, the little struggles?
+
+
+AUSTIN: Of the day-to-day?
+
+
+ART: Of the day-to-day?
+
+
+AUSTIN: Like you— the show, the season has to end on: does the world blow up? But that doesn't mean that that's why people tune in every week.
+
+
+KEITH: Okay.
+
+
+AUSTIN: This is— like, this is a show that, like, oh yeah, they're an a-plot episode, shrug, vs. did you see that episode where Llewellyn and the whatever-the-host's-name-is get to meet the barbecue chef? I really want some barbecue!
+
+
+[SYLVIA laughs]
+
+
+AUSTIN: Um, let's sleep on nemesis then. I think that there is… I think that there is, uh— I think either of those make sense but, like, once I have a better idea of what this first session is going to look like I think we'll be in a better place with it, y'know?
+
+
+ART: Sure.
+
+
+KEITH: Yeah.
+
+
+AUSTIN: Um, and also fill out the supporting cast sheet and all that other stuff so. Uh, alright. So, last thing is sets. 
+
+
+[reading] While the scenes of a show aren't limited to predefined sets, it can be useful for the group to agree upon certain locations where things take place. In play, sets help set the scene and give the group a foundation to work from over time. Sets accumulate details that players can use during the game to enhance that sort of immersed feeling and develop continuity. For example, in season 2 of Gilmore Girls, Luke makes Lorelai a—
+
+
+Is this a tuper? What is a—
+
+
+ART: I think it's a chuppa?
+
+
+AUSTIN: [plays Google audio pronunciation] Chuppa. Says Google. Chuppa. Chuppa. Thank you Art for having that covered. 
+
+
+[continues reading] —a chuppa that she doesn't go through with but in later seasons you can still see it sitting out in her yard. The nice thing about this is it might trigger memories for the fans who have seen multiple seasons of the show. "Hey, that's right. He built that for her and didn't they almost get together? I wonder if they're ever going to hook up..." The producer will ask everyone a few ideas for sets and locations or scenes that frequently take place. [finishes reading]
+
+
+So yeah, let's hop back over here real quick to the doc. Cast and set list. And let's just start tossing out— we can just do this in conversation. We don't need to do the whole big list thing but set ideas. Um. Locker room?
+
+
+ART: The locker room, the dugout.
+
+
+SYLVIA: The motel that they live at.
+
+
+AUSTIN: Motel they live at. Uh-huh.
+
+
+ART: The coach's— my character's house.
+
+
+AUSTIN: Coach's house. Um, uh, production van?
+
+
+ART: Absolutely.
+
+
+AUSTIN: Concession stand?
+
+
+ART: Sure.
+
+
+AUSTIN: Slash, like, stadium?
+
+
+SYLVIA: Yeah, stadium as a whole—
+
+
+AUSTIN: Stadium, y'know, yeah, as a whole.
+
+
+ART: Well, I don't— you don't want to get too broad for stadium 'cause there are a lot of fun— like, concession stand is fun.
+
+
+SYLVIA: True, true, true.
+
+
+ART: Like, the third row of the stands, y’know? Like...
+
+
+AUSTIN: [laughs] Right.
+
+
+ART: Like the— the bullpen, y'know. There's a lot of, like, fun little baseball things we can have.
+
+
+SYLVIA: That's a good idea.
+
+
+AUSTIN: Yeah, true.
+
+
+SYLVIA: And then the pitcher's mound probably? 'Cause Keith's character is a pitcher right? Or did I mishear something.
+
+
+ART: I think both me and Keith are pitchers?
+
+
+KEITH: Uh, I never said I was a pitcher.
+
+
+SYLVIA: Okay.
+
+
+KEITH: I don't know where that came from.
+
+
+SYLVIA: Pitcher came up at some point but it'll probably be worth putting that down.
+
+
+AUSTIN: Yeah, I'm just gonna write pitchers/field. Like, the field where the play happens is an important set? Um. Some sort of communications room or something? Like, how do you—
+
+
+ART: Yeah, a bunch of alien stuff.
+
+
+AUSTIN: Yeah. Communication room. It's just, like, actually besides motel, that should also include, like, their apartment? Or their motel room? But also, like, Chez's front desk, y'know. Um, other motel things.
+
+
+KEITH: Chez doesn't know the alien thing right?
+
+
+AUSTIN: No.
+
+
+KEITH: No.
+
+
+SYLVIA: Do we have an old spaceship that we came on?
+
+
+AUSTIN: That's a good question. Yes?
+
+
+SYLVIA: 'Cause that could be good.
+
+
+AUSTIN: Destroyed spaceship? Or, not destroyed but like—
+
+
+SYLVIA: Kind of rundown.
+
+
+KEITH: Parked or hidden?
+
+
+AUSTIN: Hidden spaceship. Yeah. Um, where is it hidden?
+
+
+SYLVIA: [laughs] In the parking garage at the stadium?
+
+
+AUSTIN: Yep. Okay.
+
+
+ART: It's in the bottom basement. It's not even hidden. They just don't get enough people that anyone's parked on that level.
+
+
+AUSTIN: [laughs] Yes!
+
+
+SYLVIA: It's— it's just got a tarp covering it, y'know?
+
+
+AUSTIN: Yep, uh-huh!
+
+
+KEITH: How big is the tarp and what did it cost?
+
+
+AUSTIN: A lot of money.
+
+
+SYLVIA: Ugh, too much.
+
+
+AUSTIN: But they're from the future and they can afford it. Um, alright. So then, here's one. Personal sets. 
+
+
+[reading] Locations on TV shows are often closely tied to a specific character. The set might be a character's office or home. It might be their favourite hangout. It might even be a place in the character's imagination. In Primetime Adventures, protagonists have personal sets which help them develop into more complex characters. Creating a scene that takes place on a protagonist's personal set allows that player to reuse a trait that had previously been used during an episode. 
+
+
+So the way those traits work is once per episode you can kind of call on them to get an extra card during, like, resolution. And so, in this case it's, like, oh, well, if I'm in my personal set, I can use my most suited to antiquing in both body and attitude edge again a second time. Or Sylvia, you can use your nerd edge a second time. So.
+
+
+[continues reading] Personal sets can also be shared by one more even all of the protagonists. The whole point is to create an environment that gives the audience cues about something important going on. When a player brings in their personal set everyone else in the games goes, "Oh we need to focus on character development right now." [finishes reading]
+
+
+So, any ideas for your personal sets? And these—
+
+
+KEITH: Small Atlantis.
+
+
+AUSTIN: That's— we're not gonna get a small Atlantis.
+
+
+KEITH: Nah, I'm not. That's—
+
+
+AUSTIN: Okay. [laughs] If only.
+
+
+ART: I think my character probably has an office?
+
+
+AUSTIN: Yeah, coach's office.
+
+
+ART: Yeah, coach's office.
+
+
+AUSTIN: Alright. You wanna write that down?
+
+
+ART: With some, like, memorabilia?
+
+
+AUSTIN: On the sheet that is— oh y'know, I got it. I'm right here. Coach's—
+
+
+ART: I was on the Google doc.
+
+
+AUSTIN: —office. Boom. 
+
+
+SYLVIA: Do you like the idea of my character setting up their editing suite in, like, the basement of the coach's house?
+
+
+AUSTIN: Oh, like, you have to go to the coach's house for it though?
+
+
+SYLVIA: Yeah, it's like, well he can't keep the shit at the motel. Chez will steal it.
+
+
+ART: Sure. And it does— it brings some family drama. 
+
+
+AUSTIN: Yeah, totally. 
+
+
+ART: I didn't put family member as a connection but the coach's family should be a part of the show. I know Keith took one of them but.
+
+
+AUSTIN: I mean that's why I suggested that so that that character would exist.
+
+
+ART: Yeah, no, totally.
+
+
+AUSTIN: Um, so, like, video editor?
+
+
+KEITH: You can have your kid back if you want him.
+
+
+[spluttering, KEITH and SYLVIA laughs]
+
+
+ART: No, no, you should have the kid. But, like, I didn't take, like, y'know a romantic partner because I didn't feel like it fit the drama?
+
+
+KEITH: Right.
+
+
+ART: But that character still needs to exist, y'know?
+
+
+AUSTIN: Yes, yes.
+
+
+ART: It's not what the show is about-about.
+
+
+AUSTIN: Is your basement finished or nah?
+
+
+ART: I think it's like half finished? There's, like, a pool table, an EasyChair, and studs.
+
+
+AUSTIN: Gotcha. Good. Cool. Video editing desk.
+
+
+KEITH: Carpet?
+
+
+AUSTIN: Some carpet?
+
+
+ART: Um. No.
+
+
+AUSTIN: No carpet? Okay.
+
+
+KEITH: Area rug or just, like, concrete foundation?
+
+
+ART: Concrete.
+
+
+AUSTIN: Jeez. Fun. Alright, so, personal sets?
+
+
+ART: We were working on finishing the basement when, like, my major league career stopped working out and, like—
+
+
+AUSTIN: And now—
+
+
+KEITH: A bunch of aliens showed up?
+
+
+ART: No, I think there's a timeskip there. It was probably a couple of years in there.
+
+
+AUSTIN: Gotcha. Alright. Personal set, Keith?
+
+
+KEITH: Boy, this one’s tough. I've been thinking about this one. I don't have anything yet.
+
+
+AUSTIN: Okay, um. Suggestions. The field can be a good personal set. Or, like, the batting cages could be a good one?
+
+
+KEITH: I like dugout.
+
+
+AUSTIN: I like the dugout. Dugout's good.
+
+
+KEITH: I like the dugout.
+
+
+ART: Well, the dugout is very broad. Everyone needs to be able to be in the dugout.
+
+
+AUSTIN: Totally. True, true.
+
+
+ART: Like every scene in the dugout can't be about Keith, y'know?
+
+
+AUSTIN: Right, right.
+
+
+KEITH: Yeah… 
+
+
+AUSTIN: We should signal something that whenever we're in the dugout it's about this very small alien who wears a suit to stretch themselves out and is too unused to the new large body to play well. So.
+
+
+ART: I have an idea?
+
+
+AUSTIN: Sure.
+
+
+KEITH: Yeah.
+
+
+ART: Which is you know how, like, important baseball— important sports players have like more than one locker? They get like a few lockers?
+
+
+AUSTIN: Do they?
+
+
+KEITH: Oh, do I have a locker that I go into?
+
+
+ART: No, like—
+
+
+AUSTIN: That's funny.
+
+
+ART: Why would you go into it?
+
+
+KEITH: 'Cause I'm so small!
+
+
+AUSTIN: ‘Cause he’s small.
+
+
+ART: Well, I mean, I guess you could but, like, yeah, you'd be inside the locker that's also just you have this area of the locker room that's your area? And so, like, that's a different shot than— there's, like, the locker room shot which is a bunch of lockers, the shower over there, this and this, and then there's Keith's locker shot which is like a corner which is all just his stuff.
+
+
+AUSTIN: I love it except that Keith is bad at baseball.
+
+
+KEITH: Yeah, so they don't give me the— here, what I do like is the—
+
+
+ART: But you’re the— you’re the team— you're the alien team leader. That's why you have—
+
+
+KEITH: Oh, okay.
+
+
+AUSTIN: How do you explain that to the rest of the team?
+
+
+KEITH: Yeah, good point. Oh yeah, 'cause there's, like, twice as many non-aliens.
+
+
+AUSTIN: Yeah, here's another question. Does the whole team know? No, right?
+
+
+KEITH: No. Only the coach and the son.
+
+
+ART: Wait, what about young guy— young baseball player that wants to be alien?
+
+
+KEITH: Oh, yeah, he knows.
+
+
+AUSTIN: [laughs] He knows.
+
+
+KEITH: Um, I like Men in Black II. Aliens in a locker. My locker— I have— it's my home away from home. I have a couch— a little couch.
+
+
+AUSTIN: Wait, so you're real little.
+
+
+KEITH: Yeah! Really little.
+
+
+AUSTIN: You're like really little.
+
+
+KEITH: Really, like hanging out in a locker little, yeah.
+
+
+AUSTIN: Okay.
+
+
+KEITH: Yeah. It is so bizarre to be huge.
+
+
+AUSTIN: You're like a little hand.
+
+
+KEITH: [amused] I'm like a little hand, yeah!
+
+
+AUSTIN: Okay. Wow, you get stretched pretty far, huh?
+
+
+KEITH: I know!
+
+
+AUSTIN: How does it stretch your head out? Or is the whole body a suit?
+
+
+KEITH: Um. I think that the suit is a technology that causes the body to stretch.
+
+
+SYLVIA: You have a flesh mech? Oh, okay, causes the body to stretch. Nevermind.
+
+
+AUSTIN: Uh-huh. Alright, I like weird locker room bedroom? Weird locker room locker based— weird room inside of a locker?
+[02:15:03]
+
+
+KEITH: I gotta be careful getting in there too ‘cause it’s like—
+
+
+AUSTIN: Hey, where did Keith go?
+
+
+KEITH: Where did Keith go? I saw him a second ago in the locker room.
+
+
+AUSTIN: Uh-huh. I like this 'cause I’m already imagining the coach knocking on the locker? "Keith, come on."
+
+
+KEITH: Yeah, that's my human name by the way. I haven't figured out my alien name but my human name is Keith.
+
+
+AUSTIN: It's just Keith, great. Alright. So, the thing that we have to figure out now or before the next episode is. 
+
+
+[reading] At this point you have everything you need in order to create your first episode. You just need to know how it starts. For that you'll need one, the event or situation that starts off the series. Two, some organised backstory so you understand what's happening when the series begins. The event. Most TV series begin with a change in the character's lives. They've moved to a new place. They've just lost something or someone important or they found something new. Whatever it is that starts your series it should signify a beginning for the protagonist as well as the show itself. If the series is about superheroes, the beginning might explore how they acquired their superpowers. If it's about police officers, maybe it's their first day on the job. How will your series begin? When you start an episode, you'll also either have previous material from a previous episode or you'll— for the pilot episode you need to agree on some stuff that happened to help get you going. When you start the game, the producer will provide a quick teaser that draws from this information. 
+
+
+So, we need to figure out, like, what the premise of the first episode is? I think it's the first episode of the TV show, probably? Like, of the mockumentary? Or of the [laughs] in-mockumentary reality TV show?
+
+
+ART: Sure.
+
+
+AUSTIN: It's, like, the pilot for that that you have to get picked up so that you can do your job. If that doesn't get picked up then the whole premise doesn't work because you can't keep access to this group of— to be able to travel around the country and investigate Earth, y'know? That's what I'm going to set up as the event is, like, you've all been— you've all gotten into the baseball team already but now you've pitched this to local sponsors or whatever and you need to shoot the first episode of whatever the name of this TV show inside of a TV show is? Does that make sense? [pause] I'm asking. Or does someone have a better kickoff event 'cause I'll listen to whatever.
+
+
+KEITH: I like— no I like it.
+
+
+AUSTIN: Okay, or we can come back—
+
+
+KEITH: We have time.
+
+
+AUSTIN: —'cause we're not going to shoot this right now. Because the other thing is we just come up with whatever the lead in is in terms of, like, um, y'know. What is the— I just need a little more— eh, you know what I think I have enough to do the teaser. The kind of first scene of the episode. The kind of like cold open, basically. I think we'll be good. I think that's gonna do it for today. We've gone for two and a half hours. We probably— I do not have another three hours in me to then play this game right now but the next Live at the Table will actually be in a couple of days and Janine, Dre, and I are going to finish— Janine, Dre, Jack, and I are going to finish Fall of Magic. Hopefully finish it. I don't think we have that much left. But then in the next month we'll come back and we'll do a— we will do a uh… So, February actually we will do our first full episode of Primetime Adventures and Aliens in the Outfield or whatever we end up calling this thing.
+
+
+SYLVIA: God.
+
+
+AUSTIN: Uh-huh. It's great.
+
+
+ART: Alright!
+
+
+AUSTIN: And we'll have full character names and stuff by then. It'll be great. Alright everybody. That's going to do it for us today. Um, I don’t— I'm again looking to do, like, a big signoff but that's not normally what we do so let's just go to time.is?
+
+
+ART: You can listen to us on your Google Home or whatever.
+
+
+AUSTIN: Yeah, exactly. Thank you. [KEITH laughs] We should do a clap. Um. Thanks for supporting the show. That's a thing I'll actually say is thank you for supporting the show. I'm very excited to record this. This'll be good. Uh, you'll want to clap at 15?
+
+
+ART: 15? Sure.
+
+
+KEITH: Sure.
+
+
+[simultaneous clapping]
+
+
+AUSTIN: That sounded good to me.
+
+
+SYLVIA: Just wanna say Happy Data Privacy Day, also, to everyone.
+
+
+AUSTIN: Is that today?
+
+
+SYLVIA: That's what it says on time.is!
+
+
+KEITH: Tell Google Home, Happy Data Privacy.
+
+
+AUSTIN: Hey Google! Tell me about Data Privacy Day!
+
+
+ART: Ha-ha-ha-ha-ha.
+
+
+SYLVIA: Oh, jesus.
+
+
+ART: Uh.
+
+
+AUSTIN: Bye.
+
+
+ART: Bye!
+
+
+SYLVIA: Bye!
+
+
+[end of recording]
+[02:19:34 END]
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
+[2] To distinguish between screen presence and episode number, numerals (1, 2, 3) have been used to represent screen presence while numbers (one, two, three, etc.) denote episode numbers.

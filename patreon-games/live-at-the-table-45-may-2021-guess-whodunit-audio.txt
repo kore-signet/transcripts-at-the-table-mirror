@@ -1,0 +1,2264 @@
+﻿Live at the Table 45: Guess Whodunit? (audio)
+Transcriber: MaxXM#5418
+
+
+[00:00:00]
+
+
+JACK: What are we doing today?
+
+
+ALI: Today we’re playing “Guess Whodunnit?” [silence] Uh… [chuckles] I’m super excited to play this. “Guess Whodunnit?” is-
+
+
+JACK: [crosstalk] Yeah, this is great.
+
+
+ALI: -by Tyler Crumrine, illustrated by Cobysoft Joe, and I fucking love the illustrations in this so shout outs.
+
+
+JACK: Yeah, this is part of the Possible Worlds set or collection.
+
+
+ALI: Is it? I don’t think that this is one of them, but maybe I’m wrong.
+
+
+JACK: Oh, it isn’t? In any case, we should shout out the Possible Worlds collection-
+
+
+ALI: [crosstalk] Hell yes. [laughing]
+
+
+JACK: -because that is also [laughing along] incredible.
+
+
+ALI: There are some games in there I’m excited to play.
+
+
+JACK: [crosstalk] It’s a series of little games by Tyler Crumrine and a bunch of artists, which is described as a micro-RPG subscription box, and every single game in there looks amazing.
+
+
+ALI: [laughing] Yeah. Mhm. Yeah. And the game that we’re playing today also looks amazing. This is just a very– It seemed just bare-bones enough, with enough guard rails, that [chuckles] it’s gonna be very easy to sit down, figure out a murder, you know, get the interiors of a murderer, and really have a fun time tonight talking about– [laughing]
+
+
+JACK: Yeah. Talking about murder.
+
+
+ALI: Uh-huh. Um, yeah, so just in case people don’t know, my name is Alica Acampora. I’m joined here by Jack de Quidt.
+
+
+JACK: Hi, I’m Jack.
+
+
+ALI: Yeah, hi! [laughs] 
+
+
+JACK: Hi!
+
+
+ALI: This is Live at the Table, our Patreon-exclusive live streaming show, where we [chuckles] livestream here. Is this what I’m, uh– Does this have a– Did we ever have a–
+
+
+JACK: What do we say at the beginning of this? [Ali chuckles] What does Austin– I mean you could just– You could just do one off the dome if you wanted. Set a precedent.
+
+
+ALI: Sure. Um… [pause]
+
+
+JACK: Or not!
+
+
+ALI: I can’t even remember the one he– [breaks down into laughter]
+
+
+JACK: Welcome to Live at the Table. I’m gonna try to do it like auto-writing.
+
+
+ALI: Okay.
+
+
+JACK: Welcome to Live at the Table, an actual play… live show? Focused on smart questions– [Ali cackles] hopefully– 
+
+
+ALI: That’s the one!
+
+
+JACK: –hopefully correct answers?
+
+
+ALI: Uh-huh. [laughs]
+
+
+JACK: Oh, well. I don’t know.
+
+
+ALI: That’s close. That’s a lot closer–
+
+
+JACK: Yeah.
+
+
+ALI: –than I would have gotten. But yeah, so we’re streaming a game here tonight, “Guess Whodunnit”. Do you have the game open and ready? We’re ready to go?
+
+
+JACK: I have the game open and ready.
+
+
+ALI: Hell yes.
+
+
+JACK: I have all of these. I have– [Ali chuckles] Are there more people in a “Guess Who?” board? If you’re listening to this as a podcast [chuckles] a famous audio medium [Ali chuckles] that’ll be interesting, I suppose. But if you’re watching on the stream, we got, like, uh– I feel like there are more people on this screen than there were in the “Guess Who?” boards of my youth.
+
+
+ALI: Yeah. This is an updated “Guess Who?” This is like– I scanned “Guess Who?” cards. This is legitimate “Guess Who?”
+
+
+JACK: Holy shit! You went and got a– [Ali chuckles] You got a “Guess Who?”
+
+
+ALI: In between us deciding to play this and us streaming today, I came across a copy of “Guess Who?” at a pharmacy, and I was like, “I might as well.”
+
+
+JACK: Holy shit! [Ali laughs] You know when you, like– You know when you download an emulator or something, and it says, “This emulator will not run without PlayStation 2 BIOS,” [Ali laughs] or whatever? It’s like, “This game of “Guess Who?” will not run unless Ali goes out to the shop and buys–”
+
+
+ALI: Well, I was like, “Should I just grab characters?” I was looking through itch and Roll20 both have really good marketplaces for character tokens or NPC portraits for people who are playing games, so check that out if you ever need that. But, like– [chuckles] And I’m not a person who usually thinks about game balance, so it’s funny to me that I came to this, but I was like, “Guess Who?” is designed specifically, that you need to be able to be like, “Is the person wearing a hat?”, and have a specific–
+
+
+JACK: Right.
+
+
+ALI: –ratio of people who you know are now not the murderer.
+
+
+JACK: Yeah.
+
+
+ALI: So, here we are with a genuine [chuckles] “Guess Who?” lineup of folks. I could’ve cropped out the names, but I figured it was just better to identify–
+
+
+JACK: Yeah. It’s good to know our cast of characters.
+
+
+ALI: [chuckles] Okay, cool. So, according to the game rules here we have all the stuff that we need to play, which is [reading] two players and one half of the classic guessing game “Guess Who?”, with 24 distinct character portraits. So, step one. Decide amongst us who will play the murderer and who will play the detective. Have any dibs, Jack?
+
+
+JACK: Oof. Do you have any strong feeling?
+
+
+ALI: [chuckles] I don’t, not really.
+
+
+JACK: I mean, should we flip a coin?
+
+
+ALI: Oh, we could flip a coin. What are the–
+
+
+JACK: [crosstalk] Because I–
+
+
+ALI: [chuckles] What are your– What do you– What would your– What would the stakes of the coin flip be?
+
+
+JACK: I could genuinely play either.
+
+
+ALI: Okay.
+
+
+JACK: I reckon we’ve both got at least one good detective and at least one good murderer on deck.
+
+
+ALI: Sure, sure. Okay, I’m gonna roll a 1d2, and if it’s a one you’re gonna be the detective.
+
+
+JACK: Okay, sounds good.
+
+
+[clicking]
+
+
+ALI: Wow.
+
+
+JACK: Oh!
+
+
+ALI: Here we are.
+
+
+JACK: [suave] Bonjour.
+
+
+ALI: [laughs] Okay, yeah! That’s you– that’s who your detective is! [both break down laughing]
+
+
+JACK: What if we just make this thing a whole bootleg and I just play Hercule Poirot?
+
+
+ALI: Wow. Yeah, why not?
+
+
+JACK: Nah, I’m not gonna play Hercule Poirot. I don’t [Ali laughs] know much French. I think he’s Belgian.
+
+
+ALI: I don’t even know who that is.
+
+
+JACK: He’s that– I think he’s Agatha Christie's detective.
+
+
+ALI: Okay, okay, okay. Yeah.
+
+
+JACK: Well, you’re a murderer.
+
+
+ALI: Here I am, I’m a murderer. Okay, we’ve got that. [reading] Step two. Choose your game’s setting. The character art in “Guess Who?” would suggest modern day, but you can use mechanics in a fantasy, sci-fi, or any setting as well. [long pause] All these people just look like folks, so [chuckles] it’s like, the game is right, that part of you is like, “Ehhhhh, present day.” But–
+
+
+JACK: Yeah, or we just all imagine them like a Shakespeare play, where we all– “Oh, no, but now it’s actually set in [Ali chuckles] London in the 20s.”
+
+
+ALI: Yeah, I was thinking about this before. So before I made the commitment to scan a bunch of “Guess Who?” cards, I was like, “Should I just use the ‘Good Society’ cards, which is a bunch of people?” And that wouldn’t have worked, because I don’t know that I can just use those cards like that just cause I own them, right? [chuckles]
+
+
+JACK: Right.
+
+
+ALI: But also because they aren’t– The thing that I mentioned before, with the categories, of being like, “Well, is this person wearing a hat,” wouldn’t have worked. But from there, I was like, what if we’re doing a bottle episode murder situation, where it’s all of these people at a party?
+
+
+JACK: Ooooo.
+
+
+ALI: Or everybody who lives in this building, or something? [chuckles]
+
+
+JACK: No, I’m absolutely on board. I think I have jumped at the opportunity to do a bottle episode [Ali laughs] every time at Friends at the Table, even when it has been actively against our interests.
+
+
+ALI: How many bottle episodes have we done?
+
+
+JACK: We did– I feel like one of the bottle episodes I can think of was the one that’s set in the market in Marielda.
+
+
+ALI: Okay, sure. Okay, sure.
+
+
+JACK: I feel like we must’ve done– Bluff City episodes tend to get overexcited [Ali laughs] and go spilling out elsewhere.
+
+
+ALI: Yeah, we–
+
+
+JACK: [crosstalk] Are we in–
+
+
+ALI: –kinda want to be out and about in those.
+
+
+JACK: Are we in a skyscraper celebrating New Year’s Eve?
+
+
+ALI: Wow, yeah.
+
+
+JACK: Are we– I think we should be celebrating New Year.
+
+
+ALI: Okay.
+
+
+JACK: But I don’t know where.
+
+
+ALI: Okay, well we can start here. [typing] Collection of people celebrating New Year’s. It’s like I’m– That’s so little! [breaking down laughing] Why are you so little?
+
+
+JACK: They’ve just got these huge faces. [Ali laughs]
+
+
+ALI: Okay. Do we want– Where do you celebrate New Year’s?
+
+
+JACK: [wistful] Oh, what are some places that you celebrate– [Ali laughs] Times Square?
+
+
+ALI: Yeah, you do–
+
+
+JACK: At people’s houses?
+
+
+ALI: Okay, at people’s houses. What if it’s like a park?
+
+
+JACK: Ooo.
+
+
+ALI: Then we’re not tied to a building but we are tied to a square-footage.
+
+
+JACK: Yeah, we’re basically constructing a Hitman level, right? [Ali laughs] There’s a bunch of rich people have taken over a park–
+
+
+ALI: Ooooh.
+
+
+JACK: –at night to celebrate New Year’s. There’s a gazebo–
+
+
+ALI: Yeah.
+
+
+JACK: There’s a live band, there’s, uh–
+
+
+ALI: Food stands.
+
+
+JACK: Swan boats.
+
+
+ALI: Ooo, swan boats, true.
+
+
+JACK: Food stands.
+
+
+ALI: Fair activities, like some sort of game.
+
+
+JACK: Oh, yeah– [excited] Oh, yeah, some sort of game [conspiratorial] that could easily be turned to murder. [Ali gasps] Oh, there’s ice carving, cause it’s snow! There’s an ice rink!
+
+
+ALI: Okay.
+
+
+JACK: Cause it’s the winter.
+
+
+ALI: Okay. [typing] Public park holding vu– [laughs] Snow. Ice rink. Food. Party activities. [laughs]
+
+
+JACK: Walking. Looking at the birds.
+
+
+ALI: Yeah, yeah, yeah. Bushes, et cetera. Trees and such. Okay. [typing] Fair games. Fair games. Alright. Okay, this makes sense. Do we think that this is– I guess it’s a New Year’s party, so this is… later? 
+
+
+JACK: I’m sorry?
+
+
+ALI: [laughs] Is this the 9 from 12 into New Year’s? Or is this, like–
+
+
+JACK: Ooh.
+
+
+ALI: You know what I mean?
+
+
+[pause] [both chuckle]
+
+
+JACK: Yeah. What if it’s, like– I’m trying to think when would be the most exciting time to get murdered on New Year’s Eve.
+
+
+ALI: Yeah? Um– [laughs]
+
+
+JACK: Is it at midnight?
+
+
+ALI: Oh, is it at– but people are gonna be so tired. [laughs]
+
+
+JACK: And people will leave straight away, if–
+
+
+ALI: But you can’t leave if you’re involved in a murder, if you have to be questioned, like– but then it’s just, we’ll have a whole game of just people being really cranky. [laughs]
+
+
+JACK: Like, frightened and cold. [Ali laughs] 
+
+
+(as theoretical party goer): [indignant] Yeah, I didn’t do it.
+
+
+JACK: Okay, maybe it’s like–
+
+
+(as theoretical authority): Oh, we can’t let word that the murder has happened get out, there’ll be panic. Just close the gates, don’t let anybody leave.
+
+
+JACK: And then the detective is like– [both laugh]
+
+
+ALI: So this is–
+
+
+JACK: You know what I mean?
+
+
+ALI: Yeah, no, no, I know what you mean, and this is sounding to me like– and this might be too neat, and we might not want to decide this here– but this could be a person murdered at 6 PM situation, and then you need to solve the murder [laughs] before the new year.
+
+
+JACK: Before m– Before the new year! Why? Why? Why, though?
+
+
+[pause]
+
+
+ALI: [fumbling] Paperwork! [laughs]
+
+
+JACK: [excited] Oh, yes! Right! Ali, you’re absolutely right, because the year is, like– It’s an alternate universe. I’m about to say a stupid number. The year is 3999.
+
+
+ALI: True. Yeah.
+
+
+JACK: Right? And the turn of the millennium, as everybody know, all [chuckles] unsolved cases–
+
+
+ALI: [laughs] Everybody knows this!
+
+
+JACK: [fumbling] –are… like, wiped? And so if we don’t get them before midnight… [laughs]
+
+
+ALI: Yeah?
+
+
+JACK: No, this– No, no, this is too– [Ali bursts into laughter] Someone in the chat says, “Next year crime is legal.” No, no, no, you don’t understand. Crimes committed next year are still illegal. However… when the millenium happens, that–
+
+
+[a windows error noise signals an audio cut]
+
+
+ALI: Oh.
+
+
+JACK: We might– We might be back. We came up with an idea so stupid [Ali laughs] that it crashed OBS.
+
+
+ALI: YouTube is like–
+
+
+ALI (as YouTube): Get off of our network.
+
+
+JACK (as YouTube): No, thank you.
+
+
+ALI (as YouTube): We let a lot of things slide but not this, for some reason.
+
+
+JACK: I think we might be back.
+
+
+ALI: I think we are back, and nobody said, “Where’d y’all go?” So maybe it was just a weird– [laughs]
+
+
+JACK: I agree with you though, that we should solve it before midnight.
+
+
+ALI: Yeah. Okay.
+
+
+JACK: I’m fucked if I know why, but we can figure that out.
+
+
+ALI: [laughs] So, we’ve determined the time of death, I guess. [reading] Step three is to collaboratively come up with the victim and their cause of death, so this is all working. This is all [laughs] rolling into the way that it should.
+
+
+JACK: And I think it’s really funny that they did die at 6 or something [Ali chuckles] and everybody was just kept at the party.
+
+
+ALI: Yeah.
+
+
+[pause]
+
+
+JACK: Does it get dark at 6? It does. Is it dark at 6?
+
+
+ALI: Oh my god, yeah. It gets–
+
+
+JACK: Okay.
+
+
+ALI: Sun sets at 4:30 now, and it’s only November.
+
+
+JACK: Yeah. It sucks. [Ali laughs] I spend most of the day next to one of those horrible sun lamps.
+
+
+ALI: Ooh, you know, I haven’t gotten one of those yet. I just sit in front of the window as often as I [laughs] can.
+
+
+JACK: Yeah.
+
+
+ALI: I don’t think it’s the same thing.
+
+
+JACK: Try to get as much as possible.
+
+
+ALI: Yeah, but, you know, you do what you can.
+
+
+JACK: Remember how Keith resents the sound the washing machine makes?
+
+
+ALI: I do remember that.
+
+
+JACK: And I think he’s wrong.
+
+
+ALI: Uh-huh.
+
+
+JACK: Um, I resent the sun lamp… helping me. [Ali laughs] Because I’m like, I shouldn’t need– I want the actual sun.
+
+
+ALI: Right, right. Yeah, I don’t see how a washing machine singing a little song to you is condescending, but I do understand how a little thing on your desk that’s like–
+
+
+ALI (as horrible sun lamp): [condescending] You need me. You need my light.
+
+
+ALI: –is condescending.
+
+
+JACK (as horrible sun lamp): [condescending] I’m a horrible bright light. [Ali laughs] The actual sun is golden and warm, and I’m just– [horrible and extremely tiny yell]
+
+
+ALI: Well, there’s vitamin water.
+
+
+JACK: [dejected] Foul. Yeah, apparently. [Ali laughs] What good have vitamins ever done anybody?
+
+
+ALI: They’re doing good things every day. Don’t– [laughs]
+
+
+JACK: I just want to be clear for the chat, I don’t think it’s 3999. [Ali laughs and claps] I think if we get into 3999, we’re just opening a whole can of worms. We’ll figure that bit out later.
+
+
+ALI: Sure. Okay, how did this person die?
+
+
+[pause] [both exhale]
+
+
+JACK: You’re the murderer.
+
+
+ALI: [laughs] Wow. Okay. Sure. It needs to look like a murder. Maybe they were pushed off of a thing? Maybe they were– What’s a funny park murder?
+
+
+JACK: I’m gonna say it– [laughs] I’m gonna say it so that I have said it and we can get it out of the way.
+
+
+ALI: Sure.
+
+
+JACK: They fell onto the spike holding the New Year’s Eve ball.
+
+
+ALI: Wow. Wait, would that be on a spi– I guess? You think of it hanging, though.
+
+
+JACK: [crosstalk] Oh, is it hanging?
+
+
+ALI: Yeah.
+
+
+JACK: Doesn’t it have to go up before it comes down? [Ali laughs] I don’t know, it’s an American thing. We don’t do that.
+
+
+ALI: Really?
+
+
+JACK: No.
+
+
+ALI: I guess the ball drop is specifically a Times Square thing, is that true? In that, other places just have fireworks or whatever?
+
+
+JACK: Yeah, I think so. It makes no sense to me. Why is there a– Why is there a ball here? [Ali laughs] Do you know why?
+
+
+ALI: I don’t know why. I’ve just accepted it as the truth my entire life, that that’s what happens, and it’s fun to do, but [laughs] I don’t know who came up with it.
+
+
+JACK: I think a fun park murder is good, but maybe something specific to the park.
+
+
+ALI: I’m liking the spike-stab situation here. I think that makes sense. Maybe it’s like, they fell onto some gardening equipment? Question mark?
+
+
+JACK: Oh yeah, statue of man holding sword.
+
+
+ALI: [laughs] Statue of man holding sword!
+
+
+JACK: He’s holding his sword up, and there’s a balcony above him.
+
+
+ALI: [laughs] The town has been saying this whole time, that man should not be holding a real sword, and yet–
+
+
+JACK: It’s a real sword. It was that guy’s sword. It was like an old general or something.
+
+
+ALI: Okay, alright. I’m going to write. [typing] Pushed onto historic sword on– [laughs] on statue. Held by statue.
+
+
+JACK: Held up, right? Like he’s– Like Link when he’s doing the Master Sword.
+
+
+ALI: [writing] Held up like Link when he’s–
+
+
+JACK: [laughing] You don’t need to write that bit.
+
+
+ALI: [writing] –sword on a park statue. [pause] By– By a park statue. Okay. That feels– You know, that’s a murder. Do we need more details here?
+
+
+JACK: Well, I think we probably should say that once this happened they quickly got the body down, because if we want to avoid mass panic and everybody just standing around cold and miserable–
+
+
+ALI: Oh, sure, sure, sure.
+
+
+JACK: This is a very public murder.
+
+
+ALI: Let’s say– Let’s say–
+
+
+JACK: The mayor got him down, or something.
+
+
+ALI: [writing] Statue garden currently shut down to party guests.
+
+
+JACK: Oh, yes, perfect.
+        
+        (as theoretical party guest): Why– Why aren’t you allowing us in there?
+
+
+        (as theoretical authority): Oh, because you might fall on the sword.
+
+
+ALI: Yeah, yeah, we had an issue with the sword today.
+
+
+JACK: Everybody’s drinking.
+
+
+ALI: Mhm. True. Do we want to– Are there details about this victim that we want to decide? It says that we don’t have to but they could be… somebody… you know, that someone has something against.
+
+
+JACK: Like, um– [pause] Who gets murdered?
+
+
+ALI: I mean, if it’s Hitman, it’s just awful rich folks.
+
+
+JACK: [laughs] Yeah, it is. [Ali laughs] It’s just repeatedly awful rich folks. Is it…
+
+
+ALI: Did you have something there?
+
+
+JACK: I was just– I went to the worst place first, which is like, “Guy who’s planning on turning the park into an X,” but then I’m playing the baddie.
+
+
+ALI: Right, you’re playing the defender of the– Well, just because you’re investigating the murder of a mean person doesn’t mean that you’re advocating for them.
+
+
+JACK: Yeah, totally. I mean, I’m like, “Yeah, serves him right [Ali laughs] but also I do have to find out who did it for some reason.” I think he’s a rich awful person, but I don’t know in what manner he’s rich and awful. [pause] He’s going to abolish–
+
+
+ALI: Maybe– Oh, maybe– Okay. [laughs] My first suggestion was maybe he’s a big-time donor to the park, and is very showboat-y about it? Or–
+
+
+JACK: [laughs] Showboat? [Ali laughs] I’ve got a park.
+
+
+ALI: [crosstalk] Everybody come to the park and say thank you to me, the person who made this all possible, or whatever. But maybe he’s a person who’s trying to build a building next to the park that’ll make it so there’s shade, and it’s going to be harder for the park to–
+
+
+JACK: [excited] Yes, absolutely! [Ali laughs] And it’s going to be– And it’s going to cast shade on the city-famous patch of blooming billillions, or something, which are these delicate white flowers that if they fall into the shade at any point during their lives they wither. And these are the only ones in America.
+
+
+ALI: What do you call a person who does that? Who builds buildings?
+
+
+JACK: Uh, a re– a developer? A project developer?
+
+
+ALI: Oh, sure. [typing] A building investor who was going to– Who had recently invested in a plan to cause a– to– [laughs] build a shade-causing building next to–
+
+
+JACK: The building is called Shady Heights.
+
+
+ALI: [laughs] This is on my mind because this almost just happened to the Brooklyn Botanical Gardens, and–
+
+
+JACK: Oh shit, really?
+
+
+ALI: Yeah, they were able to be like, “No, don’t fucking build that,” but it was like– People had to sign for it, or there was a town hall something.
+
+
+JACK: Nobody likes the shade in a park. Well, no, that’s not true. The shade in the park is sometimes good, but what you don’t want is the shade covering the whole park.
+
+
+ALI: Right! And the Botanical Gardens specifically is a fucking park museum that’s like, “We have special things here,” so get your–
+
+
+JACK: Did we– We went to the Botanical Gardens, right?
+
+
+ALI: We did do that, yeah.
+
+
+JACK: That was nice. [Ali laughs] We had, like, a Shakespeare garden.
+
+
+ALI: We did do that, yeah. I keep thinking of going back, because I’m here now, but–
+
+
+JACK: Yeah, when America opens back up to travelers.
+
+
+ALI: [dejected] Yeah, yeah. Yep. Uh-huh. [laughs] Okay.
+
+
+JACK: The plants that wither in the shade– Night time is fine for them because they close at night time. Please don’t worry.
+
+
+ALI: Right. Plants understand day-night cycle, but not–
+
+
+JACK: But if there’s shade in the daytime–
+
+
+ALI: Uh-huh?
+
+
+JACK: –they die. Immediately.
+
+
+ALI: It’s– You know, they don’t have the sun lamp.
+
+
+JACK: No, they don’t have the sun lamp.
+
+
+ALI: They don’t have the sun lamp. Okay. [reading] Step five. The murderer silently selects their appearance from the provided portraits. Okay, Jack, you’re not watching the stream, right? Or are you?
+
+
+JACK: Oh, I am.
+
+
+ALI: Okay, close your eyes. Or tab out of it.
+
+
+JACK: Close my– [Ali laughs] Close my eyes. Okay, I’ll close my eyes until you say go. Well, I’ll minimize it, actually.
+
+
+ALI: Okay, thank you.
+
+
+JACK: I’ve minimized it.
+
+
+ALI: Okay. I’m going to go to a non-Roll20 dice roller here.
+
+
+JACK: Wait, Ali.
+
+
+ALI: What?
+
+
+JACK: [laughs] I’m not recording.
+
+
+ALI: Oh. On Audacity? Weeehhh.
+
+
+JACK: Yeah.
+
+
+ALI: Weeehhh. [laughs]
+
+
+JACK: I was thrown by not doing the clap.
+
+
+ALI: It’s okay, it’s– I know we– It’ll be fine. It’s fine. Anyway.
+
+
+JACK: Do you want me to start recording?
+
+
+ALI: Huh?
+
+
+JACK: Would you like me to start recording?
+
+
+ALI: No, you’re fine. Also, we skipped a step. [laughs]
+
+
+JACK: Okay, can I bring Roll20 back up again?
+
+
+ALI: You can, yeah. Hello.
+
+
+JACK: Okay, I’m back.
+
+
+ALI: Roll20 is fine, it’s just YouTube. If you’re watching the stream, you should not watch when we get to step five, even though we skipped step four. Step four is now on you. [reading] The detective openly declares their character’s name, appearance, and motivation. These should all be invented, not pulled from the game’s portraits. Your motivation can be anything from a general pursuit of justice, to a paycheck, to a personal connection with the victim. And shout out to Tyler, who is in the chat and told us about the– [laughs]
+
+
+JACK: Told us that we had– Yeah, fair enough.
+
+
+ALI: So who’s our detective? 
+
+
+JACK: Okay. [pause] [reading] Openly declares their character’s name, appearance, and motivation. Okay, I’m going to be playing… a man called English French?
+
+
+ALI: [guffaws] Great. Great. Great.
+
+
+JACK: He is a… [pause] God, he looks like a fucking detective looks! [Ali laughs] He has a magnifying glass, he has– He’s not wearing a deerstalker hat, but he’s wearing some sort of hat. Oh, he’s wearing a fucking– like, a bobble hat. Because it’s cold. And it’s dark. And he’s wearing a coat, he’s got a big metal torch, like a heavy metal torch. He’s got a magnifying glass, like I said. He’s got fingerprint dusting powder, which is… Something like that, right?
+
+
+ALI: I just– I spelled it wrong, and now I’m like, “How do you actually spell that?” Go on, I’m sorry.
+
+
+JACK: He’s got fingerprint dusting powder, which is useless [Ali laughs] at night. I don’t know. And he has been sent in by the… New York City… [pause] I’m trying to figure out if it’s funnier if he’s come from a department that specializes in statues–
+
+
+ALI: Oooh.
+
+
+JACK: –or a department that specializes in New Year’s Eve. [Ali bursts out laughing and wheezing] I think it’s New Year’s Eve. I think he’s been sent in by the New York City New Year’s Eve Business Commission, who recognize that New Year’s Eve is a historically important time? And events taking place on New Year’s Eve will always have more historical resonance. You know, like if you’re born on a leap… day? You know, everybody’s going to be like, “Wow, your birthday’s really special.” Similarly, if someone’s murdered on New Year’s Eve, at a New Year’s Eve party, that’s really significant. So the New Year’s Eve– The New York City New Year’s Eve Business Commission sends in their own sort of detective. [Ali laughs] You okay there, Ali?
+
+
+ALI: Sorry– [laughs] They keep a detective on retainer–
+
+
+JACK: On staff, yes. Year-round.
+
+
+ALI: Year-round, so if on New Year’s–
+
+
+JACK: [excited] No, no, not year round! My contract expires at midnight! [Ali laughs]
+
+
+ALI: You got to solve this murder. Hey, English, you got to solve this murder, because your contract ends tomorrow.
+
+
+JACK: And tomorrow begins at 0-0– [Ali laughs] 0-0-0-1.
+
+
+ALI: I love the– because this commission exists, right? And they have a detective in case somebody gets murdered, but they also have to have a midwife in case people are getting–
+
+
+JACK: Oh yes, they do!
+
+
+ALI: –born, they have to have, you know…
+
+
+JACK: There’s like a– a– a– a specialist– 
+
+
+ALI: Food critic? [breaks into laughter]
+
+
+JACK: There are firefighters in case things catch light.
+
+
+ALI: Hmm, and it would be a historic fire.
+
+
+JACK: It would be a historic fire. They would try to put it out. They’re not like David Attenborough. They’re not like–
+        
+        (as David Attenborough): We have to sit by and watch what happens.
+
+
+JACK: Quite the opposite.
+
+
+ALI: Okay.
+
+
+JACK: They have to figure out what happened. But, when it becomes the next day, I’m off the clock. Or I’m way more expensive. I don’t know.
+
+
+ALI: Oh, sure. You’re being paid overtime.
+
+
+JACK: I am, and because the nature– because it’s so expensive to keep all these people on board, the park would have to pay overtime or something. And they don’t want to. I’m getting into the weeds here [Ali cackles] about how this works.
+
+
+ALI: Yeah, a little bit, but you know. I mean, it’s an important investment to make, right?
+
+
+JACK: Yeah, absolutely. My staff of, uh– Well not my staff. The New York City New Year’s Eve Business Commission’s staff of [Ali laughs] weirdos.
+
+
+ALI: Well, thank you for introducing us to your detective, English French.
+
+
+JACK: Thank you.
+
+
+ALI: Okay, now it is time for step five. Please minimize your YouTube window.
+
+
+JACK: I’m minimizing it. It’s gone. I can see my Audacity, which isn’t recording anything.
+
+
+ALI: Ooooh. [laughs] Okay. I’m going to roll a 1d6 and a 1d4 to pick who I’m going to be tonight in a weird not-Roll20 situation that I found earlier today. It’s calculator.net/dice-roller?
+
+
+[00:30:00]
+
+
+JACK: Woah, Calculator Dotnet sounds like a partner to [unintelligible]
+
+
+ALI: [laughs] Okay. I can’t say. Everybody at home, we’re just going to know this together, because I can’t say anything out loud. Okay. Oh? [strained noises] [laughs]
+
+
+JACK: You okay?
+
+
+ALI: Yeah, I’m fine. Don’t look at anything. Don’t go to Roll20.
+
+
+JACK: No, no, no. [Ali laughs] No, I have just been covering up Roll20. I am basically now play– because I realize now that I probably can’t look at the chat, because, as kind-hearted as a YouTube chat is, someone would say the name at some point.
+
+
+ALI: Oh, sure, sure, sure. Yeah. Okay. I’m–
+
+
+JACK: I’m just flying in the dark.
+
+
+ALI: Everybody at home c– Oh, my fucking god.[laughs] Everybody at home can see that I’m writing an X under the– bvvrt. [singing] I hate you, Roll20.
+
+
+JACK: Wait, I’m going to need to use Roll20 to look at the pictures.
+
+
+ALI: That’s fine. I’m hiding the marker that I just drew, and also the card was just moving around so everybody at home should know who it is. If you want to DM your friend who comes in late about it or something, that’s fine, but everybody who comes in after this point, it’s going to be a mystery, but if you were looking a second ago– We all know who it is. Okay? [laughs] Okay.
+
+
+JACK: Except me. [Ali laughs]
+
+
+ALI: Jack, you can return to both Roll20 and YouTube, if you would like.
+
+
+JACK: Listen up, Youtube chat. If you put that person’s name in there–
+
+
+ALI: [laughs] Hey!
+
+
+JACK: Hey!
+
+
+ALI: Everybody, be cool!
+
+
+JACK: Listen, be cool! You got it?
+
+
+ALI: All right. Here we go.
+
+
+JACK: I can’t see the chat in here, though. [Ali laughs] Did you delete one of the cards, Ali?
+
+
+ALI: Huh?
+
+
+JACK: Did you delete one of the cards?
+
+
+ALI: No!
+
+
+JACK: No, not now. Someone in the chat was like, “CTRL zed,” so I didn’t know if in trying to do it, you had deleted who you were.
+
+
+ALI: [laughs] No, sorry. I marked an X underneath the card, but then it was on the wrong layer, so it was on top of the card, and then I was able to bring it under the card, but I had to do it by line. So it was [laughs] really frustrating.
+
+
+JACK: Wow.
+
+
+ALI: But. If you know you know, and now we’re going to continue the game. [laughs]
+
+
+JACK: Here we go.
+
+
+ALI: Okay. [reading] Step six. The detactic– Eugh. The detective plays a single turn of “Guess Who?”, asking the murderer a yes or no question about their portrait, such as, “Does the killer wear glasses?” “Does the killer have a mustache?” The murderer must respond honestly with a simple yes or no answer. The detective may flip over portraits to visually narrow down their remaining choices at any– Wait. [laughs] I was–
+
+
+JACK: Am I in trouble because I’m going to flip the thing and see an X underneath?
+
+
+ALI: That’s a great question.
+
+
+JACK: I can just mark it. I can put a thing on top of ones I’ve seen.
+
+
+ALI: Oh, we can flip the cards. Okay, the cards can be flipped without being moved. Okay. Can you try to right click on a card and flip it?
+
+
+JACK: Yes.
+
+
+ALI: Okay, perfect. Then we’re straight.
+
+
+JACK: Can you see the card I have flipped?
+
+
+ALI: I do see the card that you have flipped, yeah.
+
+
+JACK: Okay, cool.
+
+
+ALI: Okay, great. We’re– [laughs] This is going– I had made this discard thing because I thought we would move– Because before I couldn’t flip the cards in Roll20 for some reason, but that’s in the past, and we’re good to go. [reading] The detective may flip portraits to visually narrow down their remaining choices at any point, regardless of the murderer’s response. And I’m just going to keep reading, because this is [laughs] the important bit here. 
+
+
+ALI (cont’d): [reading] If the murderer responds “yes”, the detective then narrates a breakthrough in the case– some kind of lead that brings them closer to identifying the killer. This breakthrough doesn’t necessarily have to connect to the question asked. It could be a partial fingerprint or an object left at the scene of the crime, but forcing yourself to incorporate the answer into your narration can be a fun exercise. Whatever they say, though, it’s canon in the story moving forward. So that’s if I say “yes”, if you ask, like, “Is this person wearing glasses?” and I say “yes”. 
+
+
+ALI (cont’d): [reading] If I say “no”, then I, the murderer narrates a scene in which the character observes the character from the shadows, literally or figuratively, waiting for the the right moment to strike. They might even be someone the detective knows and trusts. Your perspective can be from wherever or whoever you like, just– Oh. Whoever you like? I– I– Wait. Wouldn’t it be from the murderer? [reading] Just be careful not to betray anything about your true name or appearance. Whatever you say, though, is canon in the story moving forward.
+
+
+JACK: I suppose it could be, like–
+
+
+        (as normal hot dog vendor): I’m just a normal hot dog vendor, [Ali laughs] and out of the corner of my eye, [squinting] I see the creep.
+
+
+ALI: I was– You know, that was going to be in my– that was a card that I had up my sleeve, which was like–
+
+
+JACK: The normal hot dog vendor?
+
+
+ALI: Yeah, just the normal hot dog vendor here at the park, so we’ll [both laugh] see how that goes. So yeah, we’re going to do that, and then we’re going to do a total of four turns. At the end of those four turns, you’re going to guess who it is. And then we’re going to see what– [laughs] the last– the final step of this game, depending on if you’re right or not.
+
+
+JACK: Like “Inhuman Conditions”, I think you can kill me in this game, right? [Ali laughs]
+
+
+ALI: So, yeah. The endings of the game are either you– I’m just going to double check. If you guess correctly, we basically narrate me being arrested, and then if you guess incorrectly, we narrate a final scene where you are killed. [reading] The murderer claims their detective as their next victim, delivering the cinematic one-liner the moment before successfully killing them. So, this is– [laughs]
+
+
+JACK: Also, can we save it– can we change it, and that the murder happened at 8 PM, because then there’s four hours until midnight, and we’ve got four turns.
+
+
+ALI: [laughs] Okay! Okay, sure. You don’t want to have spent those six hours, like, getting to the park, or–
+
+
+JACK: No, I was here already. They send them out [laughs] just in case.
+
+
+ALI: Oh, okay. [pause] Eugh! [laughs] Sorry. Roll20 is very finicky.
+
+
+JACK: Roll20 is just something else. [Ali laughs]
+
+
+ALI: Okay. It’s your turn to narrow down. 
+
+
+[pause]
+
+
+JACK (as Detective English French): …Murderer. 
+
+
+JACK: I’m not calling you Ali, because I know you’re not a murderer. It’s like we’re playing characters.
+
+
+        (as French): Murderer, do you have a mustache?
+
+
+        ALI (as Murderer): I do not.
+
+
+[pause]
+
+
+JACK: Start [Ali laughs] flipping over people with mustaches, of course. Are we including attach– As part of a beard here?
+
+
+ALI: I would. I think so. [pause] Wow. They’re going. Okay, so I responded no, which means it is my time to narrate a scene where I observe the detective from the shadows, waiting for the right moment to strike. Wow, okay. So this is 8 PM now.
+
+
+JACK: Yeah. BONG, eight times. [Ali laughs]
+
+
+ALI: The park bell is chiming in the distance.
+
+
+JACK: In this dis– It’s a big park!
+
+
+ALI: It is a big park. [pause] I think that– This is a big statue garden, right? The– [laughs]
+
+
+JACK: [crosstalk] Oh, yeah. Oh, yeah, there’s multiple statues.
+
+
+ALI: We see– We see English French. [laughs] English French is in the distance, kneeling and underneath the big sword to look at the different angles and be like–
+
+
+        (as a barely suave English French): What’s going on here?
+
+
+ALI: [laughs] I don’t know English French’s voice, I’m sorry, to act as him in that moment, but I think–
+
+
+JACK: That was fine.
+
+
+ALI: [laughs] In this big– In this big crowd of statues that are across this big field, I think that we see our murderer both moving from the scene of the crime at this moment, but also watching you behind like– It’s like a big statue of a lady holding a book, and she is like– they’re like [laughs] looking at you over the statue’s dress or whatever, before sneaking off into the shadows.
+
+
+JACK: Do they know that this is the detective?
+
+
+ALI: You– [laughs] You described English French as looking very detective-y.
+
+
+JACK: [laughs] Yeah, that’s true. That is true. [Ali laughs] Looking like a cartoon detective, yes.
+
+
+ALI: This is not an undercover op for you.
+
+
+JACK: No, no.
+
+
+ALI: Do you have a badge from the NYCNYE Business Commission?
+
+
+JACK: The NYCNYEBC? [Ali laughs] Yes, I do. And not only that, I have a detective’s badge from the NYCNYEBC.
+
+
+ALI: [impressed] Wow.
+
+
+JACK: Which is different to the midwife’s badge, to the firefighter’s badge, to the… historian’s badge, you know. It shows a magnifying glass, and in the middle it says, “Lieutenant English French.”
+
+
+ALI: [laughs] Great.
+
+
+JACK: I’m showing my badge to people.
+
+
+ALI: [laughs] I think people are impressed, people are relieved that you’re here. I’m sure if you’re park staff, the last thing you want to be dealing with is a murder.
+
+
+JACK: Oh, my god. Could you imagine? And a murder on New Year’s Eve? But luckily [confident] the best man for the job is here, English French.
+
+
+        (as French): Murderer.
+
+
+        ALI (as park employee): I’m glad it’s you, not me
+
+
+ALI: Oh, you’re asking me a question now, okay. [both laugh] That was me as the park employee being like– 
+
+
+        JACK (as French): Murderer. That’s what I’m looking for. Murderer. Have you seen any murderers about this evening?
+
+
+        ALI (as park employee): It’s hard to know, right? You’d know better than I would.
+
+
+        JACK (as French): A crowd this big? Anyone could be a suspect.
+
+
+        ALI (as park employee): Yeah, that’s scary. It’s scary to think about.
+
+
+        JACK (as French): Even you.
+
+
+        ALI (as park employee): Ah– Pfff– Listen. [laughs] I’m here to get a paycheck tonight. I’m trying to get home before eleven so I can have a little champagne myself, you understand.
+
+
+        JACK (as French): Yeah, okay, that checks out. [Ali laughs] You keep out of trouble.
+
+
+        ALI (as park employee): You, too. Well, I mean, keep in the trouble until this all gets sorted out, but then, you know, take a break.
+
+
+        JACK (as French): What do you do here at the park?
+
+
+        ALI (as park employee): Uhh, I cut the, uhh, shrubs.
+
+
+        JACK (as French): Oh, in the topiary garden?
+
+
+        ALI (as park employee): Mhm. Mhm. I’m a key holder, because I’ve got to go to all the parts of the– the– the park. There’s shrubs everywhere, so…
+
+
+        JACK (as French): Huh. Well, if I might borrow your key for this evening?
+
+
+ALI: Ooooh! Sure. I think that– that’s not in-character excitement, but I like the idea. [laughs]
+
+
+JACK: I’ve unlocked the Shrubbery Area! [Ali cackles] You thought you could get away from me in the Shrubbery Area!
+
+
+ALI: I love the idea of English French collecting items–
+
+
+JACK: [laughs] Yes!
+
+
+ALI: [laughs] –throughout the course of the– [breaks down]
+
+
+JACK: Let me put this down. I’m going to make a new rectangle here.
+
+
+ALI: Oh, please. Oh, is this, like [laughs] of your inventory?
+
+
+JACK: This is my inventory. I’m going to put “English”– It’s so tiny! That’s now– That’s 30– Way too big. Uhh, 20.
+
+
+ALI: While you do this, I’m going to mute myself very quickly to take my sweatshirt off, so [laughs] I’m going to be right back.
+
+
+JACK: Okay, cool. In extremely warm New York. Oh, it went fucking small again! I think I have to highlight it. No, I want it to be… [pause] Riley in the chat says, “English French can only collect items on New Year’s Eve.” [Ali laughs] I don’t know how to make this bigger. Um…
+
+
+ALI: Oh, do you have an–
+
+
+JACK: Yeah, if possible.
+
+
+ALI: Does that work for you?
+
+
+JACK: Yeah, that’s perfect. GMs can put– You can put little things in here, right?
+
+
+ALI: Like tokens, or what– I would have to–
+
+
+JACK: No, no, could you give me a little key?
+
+
+ALI: I would have to get a picture of a key, and then–
+
+
+JACK: Oh, it’s not like there’s a little bank of keys that we could put in?
+
+
+ALI: I would have had to have pre-load them, but we can go over to gameicons.net over here and see–
+
+
+JACK: Oh, and get a ton of things that [Ali laughs] English French might–
+
+
+ALI: But now I don’t know how to… [pause] Just somebody watching me do this on YouT– Oop. See, that’s not it. [laughs] Now I don’t know how to download it. [pause]
+
+
+JACK: Well–
+
+
+ALI: I can’t just copy and paste it into– [windows error noise] Can I not? Does that not work like that? [pause]
+
+
+JACK: …I’ll just write “Key”.
+
+
+ALI: [laughs] I can draw you a little key, do you want me to do that?
+
+
+JACK: [enticed, yet panicked] Oh. Oh, Ali. If we begin down this road… [Ali laughs]
+
+
+ALI: I mean, shout outs to gameicons.net, for everybody who saw me go there and now we can’t use that key– Here, let me just do this. What do keys look like, right?
+
+
+JACK: I’m going to just zoom in real big.
+
+
+ALI: [drawing] Just a little– There we go. And then, there we go. [chortles] That’s what a key looks like!
+
+
+        JACK (as French): Mhm. Excellent.
+
+
+JACK: Says English French.
+
+
+        (as French): Thank you very much, topiary cutter.
+
+
+JACK: Turns on his heel.
+
+
+        (as French): Murderer. Do? [pause] It’s nine o’clock.
+
+
+ALI: [laughs] Do you need me to add a clock to the– [both break down laughing]
+
+
+JACK: Just the UI getting increasingly byzantine. Just going to start drawing a full scale map.
+
+
+        (as French): Murderer, do you have [pause] long hair?
+
+
+ALI: [sharp inhale] Okay, if we’re–
+
+
+JACK: [deliberately] I’m counting long as anything… visibly [Ali snorts] at or below the shoulder.
+
+
+ALI: Okay. I’m going to say yes.
+
+
+JACK: Hmmmm.
+
+
+ALI: But like, okay, but there’s two characters here that I would say have their hair up, but have long hair.
+
+
+JACK: Are we talking about Katie and Farrah?
+
+
+ALI: Oh, I would– 
+
+
+JACK: Oh, and Olivia.
+
+
+ALI: –include Olivia there, too, yeah.
+
+
+JACK: So you think they also have long hair?
+
+
+ALI: Mhm. I would say that’s long hair, yes.
+
+
+JACK: Okay, I will leave them off [Ali laugh] but Amy goes, Sam goes, Ben goes. Emma stays, Liz stays, Farrah stays, Mike go– Well, we don’t know. Mike might have long hair under his hat, but can’t see it. Eric goes, Carmen goes, Gabe goes. Mia stays, Nick goes. David goes. Yeah. Wow.
+
+
+ALI: Wow! [laughs]
+
+
+JACK: [breathes as if relieved after a hard day’s work]
+        
+        (as French): Your options are narrowing, murderer.
+
+
+ALI: It’s true!
+
+
+JACK: I think… [pause]
+
+
+ALI: Yeah? [pause] [laugh]
+
+
+JACK: In the statue garden, before the murder happened, there was somebody taking– making caricatures of party guests, where you sit down, and you get your caricature drawn by an artist, and all of the caricatures for the last… time… were of people with long hair.
+
+
+ALI: Okay. Sure. Yeah.
+
+
+JACK: And so English French is like–
+
+
+        (as French): Well, now, why would the murderer… [pause] Why would the murderer get their caricature done? 
+
+
+JACK: Because they’re– Because they’re a murderer– Because they– Because the murderer’s impulse to push someone off a statue– to impale them on a statue [Ali laughs] they’re also going to get their caricature taken? Or… [pause] It’s like they’re caught in the back of a polaroid or something. Yeah, that’s what it is. Someone was taking polaroids of the party guests, people posing in front of the statues, posing in front of the statue of previous people celebrating New Year’s, posing in front of the statue, and, in the moment of the murder, there was a flash of long hair visible up on the balcony as the person was pushed.
+
+
+(as caricaturist): We can’t figure out anything about that person.
+
+
+JACK: Says the caricaturist to English French.
+
+
+        (as caricaturist): But they did have long hair.
+
+
+ALI: You’re getting closer. The case is warming up. [chuckles]
+
+
+JACK: The case is warming up like some New Year’s warm drink at a New Year’s party.
+
+
+ALI: Yeah.
+
+
+JACK: [laughs] Someone in the chat says, “Setting up Ali to do a caricature for the inventory.” [Ali laughs]
+
+
+ALI: Oh, sure.
+
+
+JACK: It’s a polaroid. [pause]
+
+
+[clicking]
+
+
+JACK: Oh, my god, the absolute mad lad, they’re doing it!
+
+
+ALI: Oh, wait. Fuck. [pause] Okay, there we go. There we go. [laughs]
+
+
+JACK: The fact that you’re doing this without zooming in [Ali wheezes] is a feat of such intense bravery. [Ali cackles]
+
+
+ALI: Listen. This is entertainment. [pause] [laughing and wheezing again] That got away from me. That got away from me really fast. We’re going to lean in. You get a character with a big sm– [laughs] Eugh! [laughs and snorts, kind of menacingly]
+
+
+        JACK (as French): My God.
+
+
+JACK: Says English French, holding up the polaroid.
+
+
+        JACK (as French): [incredulous] This is remarkable. Have you been doing this long? You’re a born natural!
+
+
+        ALI (as photographer): Uh, yeah, yeah. I’ve been sitting in this park, doing this, for years. It brings me peace, you know, to see the people and to… record them.
+
+
+        JACK (as French): It’s such a tragedy that you managed to capture the murder. [Ali laughs] Well– Eh– Not a tragedy for me. This is a real– [laughs]
+
+
+ALI: You see, with– [laughs]
+
+
+JACK: [crosstalk] [laughs] Some sort of smile.
+
+
+ALI: Well, it’s a character, you know, so it’s not going to be– it’s not going to be 100%– Oh, jeez, okay. I’m refusing to– It’s fine. [clears throat]
+
+
+        ALI (as photographer): Yeah, well, I– You know, I’m happy to help. It’s such a scary thing to think something like this could happen in a park that I’m in every day.
+
+
+        JACK (as French): I know. And in a crowd of people this big, anyone could be the suspect.
+
+
+        ALI (as photographer): True. Well, not anybody.
+
+
+        JACK (as French): No?
+
+
+        ALI (as photographer): You got to find somebody with a certain… darkness to them. You and me, we can kill people.
+
+
+        JACK (as French): [crosstalk] I– A murderer. Well, I wish I could believe that.
+
+
+        ALI (as photographer): [chuckles] Well, good luck with the search.
+
+
+        JACK (as French): Thank you. [Ali chuckles]
+
+
+JACK: Uh, English French goes off, gets a hot dog. [Both laugh] One hour– One hour passes.
+
+
+ALI: Are we now at 10 PM?
+
+
+JACK: Yeah, ten! Oh, my god.
+
+
+ALI: Wow. I mean, you’re doing well, but the clock is clicking. [pause] [Jack laughs]
+
+
+JACK: Oooooh, ee. [Ali laughs] They’re singing Auld Lang Syne– Well, no. They’re not singing Auld Lang Syne yet, it’s midnight, but it’s like– There’s the “When Harry Met Sally” vibe, you know. It’s quite a nice party. Lots of people don’t know the murder has happened, so they’re still enjoying the party, although both people we’ve met were disturbed by it. [Ali laughs] I guess the polaroid artist was told to remain behind in case– in case–
+
+
+ALI: Right. Yeah, yeah, yeah. But, you know, it makes sense the people you’re interacting with would be… 
+
+
+        JACK (as French): Murderer.
+
+
+        ALI (as murderer): Mhm?
+
+
+        JACK (as French): Do you have blue eyes?
+
+
+        ALI (as murderer): I do!
+
+
+JACK: [sinister] Oh, ho-ho-ho! Ho-ho! Goodbye, Emma. [Ali laughs] Oh, I just removed it!
+
+
+ALI: [wheezing] Don’t do that again! [Cackling and clapping] It’s– I guess you’re only interacting with cards that are the wrong answer, but– [laughs]
+
+
+JACK: Oh, god. [chuckles] Oh, god. Wait. Yeah, Mia has brown eyes. 
+
+
+(as French): I eliminated that suspect incredibly, in fact [Ali laughs] I think this person’s probably a hero!
+
+
+ALI: Emma was able to make it out of the park. She got wind of the murder. [laughs]
+
+
+JACK: Oh, my god. People in the chat are now suggesting that English French has killed Emma. [Ali laughs] Okay. [pause] Up into the little bar that is on the balcony above the statue– Terrible place for a bar, if the statue’s sword is right there, but, you know, English French invest–
+
+
+ALI: The people love it. It’s like– [laughs] You know how sometimes you can take a picture where if you angle it enough it looks like you’re holding up the [Jack laughs] leaning statue of… Whatever that’s called? Is it Piza?
+
+
+JACK: Yeah, yeah.
+
+
+ALI: Okay. People love to go to the bar and stand on the bar and stand on the balcony at a specific angle that it looks like they’re getting stabbed.
+
+
+JACK: Oh, my god. It’s a little dark. [Ali laughs] Especially tonight– Especially given– Do you think people are still going to do it? Following this?
+
+
+ALI: Oh, I think that the two weeks following, so many people are going to do it.
+
+
+JACK: [disappointed] Aw…
+
+
+ALI: But then more details of the murder are going to come out, and they’re going to feel weird about it, and then it’s going to be a year later when people are like, “Well, it’s fine to do this again.” Out-of-towners don’t have the, like–
+
+
+JACK: [crosstalk] Yeah, in fact they’ll do it more. [both laugh] Is this Central Park? Are we in Central Park?
+
+
+ALI: Central Park is so big.
+
+
+JACK: Are we in… Yeah.
+
+
+ALI: Also this is [slowly] three-thousand ninety– ninety-eight?
+
+
+JACK: [incensed] No, it’s not three thousand– [Ali breaks down laughing] It’s New Year’s, 3998?
+
+
+ALI: That’s what you said! That’s your number, that’s not my number.
+
+
+JACK: No, no! I explicitly said it was not 3-9-9-9.
+
+
+ALI: Okay.
+
+
+JACK: But, I mean, it might be 3-9-9-8. [Ali laughs] The– The Millenium Crime– The Millenium Crime Freeing is going to happen in two years’ time, or whatever.
+
+
+ALI: Sure [laughs]
+
+
+JACK: Anyway, there’s nothing in the bar, and English French just like–
+
+
+        (as French): Eugh.
+
+
+JACK: Although…
+        
+        (as French): Unfortunate bartender?
+
+
+        ALI (as unfortunate bartender): Hello, hi.
+
+
+        JACK (as French): Hello? I’m so sorry to hear about what happened here.
+
+
+        ALI (as unfortunate bartender): Me, too!
+
+
+        JACK (sa French): I can’t imagine that it’s been good for your business tonight. Everybody’s had to leave the area in case they get murdered.
+
+
+        ALI (as unfortunate bartender): [sighs] Yeah, I’m really upset. You know, people start making their good tips after 9 PM, and it was really bad timing for me. This is… I rely on this, you know?
+
+
+        JACK (as French): What’s your signature drink?
+
+
+        ALI (as unfortunate bartender): Oh, I make a Hot Toddy with lime juice.
+
+
+        JACK (as French): [hopeful] In a novelty cup?
+
+
+        ALI (as unfortunate bartender): [pause] Beuh-uh-yeah? I mean, if we have– if we have the nice ones. You know, the nice sort of Irish coffee cups with the little handle? People get a kick out of that, but– if they’re clean.
+
+
+Jack (as French): Well, make one for you and one for me, and let’s talk about what you saw earlier.
+
+
+ALI (as unfortunate bartender): Oh? Yeah? [pause]
+
+
+ALI: I do that. [laughs] It’s– You know, it’s a good drink. I get my hot water, I get my limes, I get my– my cinnamon sticks? That’s what you call those, right?
+
+
+JACK: God, I love a Hot Toddy.
+
+
+ALI: It’s so good.
+
+
+JACK: I haven’t had a Hot Toddy this winter.
+
+
+ALI: [laughs] It’s time?
+
+
+JACK: Yeah, it’s time.
+
+
+        (as French): I suspect that I am looking for a suspect with long hair, thanks to the help of the caricature maker that I met downstairs. Did you happen to see anybody that night? In fact, what did you see in the moments leading up to the tragic fall?
+
+
+ALI: [chuckles] Ummm… What did I see? Uhh– You know– Umm…
+
+
+        (as unfortunate bartender): I saw the victim. I saw– I saw him standing out on the balcony, and he was on the phone, and you know those guys. When they’re on the phone, and they have their business. It was a big scene.
+
+
+        JACK (as French): [knows those guys] Oh. Probably planning on killing more flowers.
+
+
+        ALI (as unfortunate bartender): Yeah. Yeah, yeah, yeah, yeah, that’s the– You know. [conspiratorial] Between you and me, this guy being out of the picture, I don’t know.
+
+
+        JACK (as French): [j’accuse] You murdered him!
+
+
+        ALI (as unfortunate bartender): No! No, no, no! I have an alibi, I was making drinks all night.
+
+
+ALI: And he points to a camera behind the bar, and it’s one of those fucked up cameras where you look at it, and it’s like, “Shouldn’t that be pointing to somewhere where you’d want to see who robbed this bartender, or started a fight in the bar?” [Jack laughs] But no, it’s pointing right at the register.
+
+
+JACK: [laughs] Oh, so we can’t see the murder, unfortunately?
+
+
+ALI: You can’t see the murder, but you can watch this fucking bartender, who does a good job, to make sure they’re not stealing.
+
+
+        JACK (as French): That is the most irritating camera I’ve seen in my life. [Ali laughs]
+
+
+JACK: Big sip of…
+
+
+        ALI (as unfortunate bartender): What do you think it feels like, coming in here every day and not being trusted?
+
+
+JACK (as French): You know? You seem like an alright guy. I’ll give you a tip.
+
+
+JACK: And I take a little piece of paper [Ali laughs] and I write down a number, and I say–
+
+
+        JACK (as French): The New York City New Year’s Eve Business Commission is always looking for New York City New Year’s Eve Business bartenders. If a new drink needs to be invented on New Year’s Eve, someone’s got to do it.
+
+
+        ALI (as unfortunate bartender): Wow. You’re saying you’ve a connection with the NYCNYEBC?
+
+
+        JACK (as French): [chuckles] My friend, I’m an NYENY– 
+
+
+JACK: Fuck. [both laugh]
+
+
+        (as French): My friend! I’m an NYCN– [blusters] I’m an [struggling] NYCNYEBC detective.
+
+
+[01:00:00]
+
+
+JACK: Opens my jacket to reveal the badge with the– the thing. The English French badge.
+
+
+        (as French): You call that number, you mention the name “English French”– That’s my name. We’ll see if we can get you a better job.
+
+
+        ALI (as unfortunate bartender): This is great, thank you for this. I’m definitely going to call!
+
+
+        JACK (as French): I’m English French. I’ve never met someone called Definitely Going To Call before.
+
+
+        ALI (as unfortunate bartender): [laughs] Oh, thats a joke. [laughs] Yeah, I’m Tony. I’ll give you a ring.
+
+
+        JACK (as French): Ah, Tony! Ah, Tony. Now, Tony, can’t help but notice; those glasses behind you in the bar, visible on the footage, maybe they would catch the flash of a particularly blue eye.
+
+
+JACK: Sure enough, English French, hunched over the– the– the– the thing reviewing the footage, sees the incredibly upset bartender, and then behind him… [gasps] A flash of blue, reflected in a bottle…
+
+
+ALI: [rapt] Oh…
+
+
+JACK: …of Old Mike’s Whiskey. [Ali laughs]
+
+
+        ALI (as Tony): You got a good eye to see that there.
+
+
+        JACK (as French): That’s what they say. English French, the best eye... in New York City.
+
+
+        ALI (as Tony): I’ve heard that. It’s an honor to meet you–
+
+
+        JACK (as French): [crosstalk] “Eye”, in French [Ali snorts] is… [struggling french accent] “oeil”.
+
+
+        ALI (as Tony): Oh, is that true? I never studied French. [pause]
+
+
+JACK: Big nod [both laugh] from English French. I don’t even know. Is that right? What is “eye” in French? It’s [struggling again] “oeil”. Ouheee. Um. You did good with this novelty cup, Ali.
+
+
+ALI: Oh, thank you. The outline isn’t as good, so I have to redo it again so it looks like the stuff on the side and now it worse, but–
+
+
+JACK: I like that you– you have– you– [Ali laughs] you have maintained your constraint of not–
+
+
+ALI: Turn three of four, I’m going to zoom in now? Are you kidding me? No. This is– The show must go on.
+
+
+JACK: Listen, Ali. [both break down laughing] If I get– If I get the opportunity to narrate the next scene, I’m going to send you straight to hell [both break down again] [pause] Okay. [pause] Ho-ho-ho ho!
+
+
+ALI: Yeah, we’re really down.
+
+
+JACK: So is it– This is my last go, right?
+
+
+ALI: Uh-huh. This is turn four? Four.
+
+
+JACK: And so this means it’s about to be midnight.
+
+
+ALI: This is– The– C– The– [giggles] The church– The park… bell has rung 11 times.
+
+
+JACK: Whew.
+
+
+ALI: Here we are.
+
+
+JACK: [thinking out loud] This is all hair up…
+
+
+ALI: 60 minutes between you and the rest of the year. I mean, how is it going to feel, going into the new year with an unsolved case?
+
+
+JACK: It’s going to– It’s going to tear me apart! It’s going to be awful!
+
+
+ALI: Yeah. It’s going to be–
+
+
+JACK: Because they’re not going to keep me on.
+
+
+ALI: [laughs] Yeah, you couldn’t do the historic murder solve on the historic New Year’s Eve, so the Commission is going to be upset.
+
+
+JACK: In fact, it will say, “English French, comma, Idiot–” [Ali guffaws] “–comma, Didn’t Solve The Murder.” [Ali loses it, just once] [pause] All right. Well. You know.
+
+
+        (as French): [careful] Murderer. Do you have glasses?
+
+
+        ALI (as murderer): I do not.
+
+
+JACK: [distraught] No!
+
+
+ALI: [cackling] Okay. I’ve responded no. Wow, okay. Um. [pause] [softly] Wow. [chuckles] I think– I think– The camera– [laughs] The camera is viewing Detective English French leaving the park bar, you know, cheeks flushed.
+
+
+JACK: Holding his–
+
+
+ALI: [laughs] Holding his commemorative cup, his cheeks flushed from the warmth of the drink and the alcohol in it, feeling better about this case after getting the shot on the [giggling] security camera, and I think that it zooms in from [laughs] English French, who is in the foreground, to a woman, sitting on a bench with gloves on, drinking the same drink– [laughs]
+
+
+JACK: [dawning horror] Holy shit.
+
+
+ALI: [laughs] –from a commemorative cup, watching you.
+
+
+JACK: [crosstalk] New York City…
+
+
+ALI: Yeah. I think, mysteriously, a woman might walk by, and say–
+
+
+        (as mysterious woman): Hey, same cup.
+
+
+ALI: And disappear into the crowd.
+
+
+JACK: Eugh. English French goes–
+        
+        (as French): [confident] Yes. [Ali laughs] 
+
+
+ALI: Wait, this is the fourth– Ok, so… This is the fourth turn. Now you have to guess who it is. Oh, this is just 50/50!
+
+
+JACK: [worried] Yeah! [Ali laughs and claps]
+
+
+ALI: Wonderful! We’ve played a perfect game of “Guess Who?” You– [laughs] I don’t know how you perfectly went through the board, but now here we are. [reading] Step eight. After turn four, the detective is out of leads, and must make their accusation. Looking at the remaining portraits, select who you believe is the murderer. The murderer must then honestly– must respond honestly with a simple “correct” or “incorrect”.
+
+
+JACK: [big inhale] [pause]
+
+
+ALI: [chuckles] You taking a minute?
+
+
+JACK: [downtrodden] Yeah.
+
+
+ALI: Yeah, take your time. It’s a lot to think about.
+
+
+JACK: I followed so many leads… [both laugh]
+
+
+ALI: Yeah! You have the long hair, you have the caricature, you have the–
+
+
+JACK: Got a Hot Toddy.
+
+
+ALI: You’ve a Hot Toddy.
+
+
+JACK: I have a key to the shrubbery garden.
+
+
+ALI: Mhm.
+
+
+        JACK (as French): Murderer. Are you [pause] Katie?
+
+
+        ALI (as murderer): [gasps] Yes! I am Katie! 
+
+
+JACK: [gasps]
+
+
+        (as bell): BONG!
+
+
+ALI: X marks the spot! [both laughing and hyperventilating]
+
+
+JACK: Oh, shit!
+
+
+ALI: Okay, okay, okay, okay, okay. [reading] If correct, collaboratively narrate a final scene in which the detective exposes the killer’s identity, delivering a cinematic one-liner the moment before successfully arresting them and taking them in.
+
+
+JACK: I think–
+
+
+ALI: I can’t believe you’ve done this.
+
+
+JACK: As Katie goes off, her pony tail bobbing into the crowd– Are you wearing, like, New Year’s– a scarf, and gloves–
+
+
+ALI: Yeah, I think she has on a big coat, and big gloves that match her hist– her iconic green hat, and thinks she’s really the shit and is about to get away with this after taunting you, but–
+
+
+JACK: And she gets about, six– six, seven steps away, and English French goes–
+
+
+        (as French): Oh, my God! Wait! [both laugh] 
+
+
+JACK: And turns to her, because the silhouette from the polaroid, and the glint of the blue eyes, and– You know, once you– when you see a really low resolution picture, and then you’re shown the really high resolution picture, you can interpret the lower resolution picture better? Where you’re like, “Oh, yeah, I can see more detail in that ice cream, now I know what it is.” 
+
+
+JACK (cont’d): [invigorated] English French turns around, trench coat flapping! Runs! Runs after Katie! [Ali chuckles] Pursues her into the intricate ice carving exhibition [Ali snorts] where unbelievably skilled and definely detailed ice carvers carve sculptures of swans, crystal palaces, um– um– uh– hot air balloons, little trays. Katie, realizing that she has been backed into a corner, turns round.
+
+
+        (as French): I– It’s you!
+
+
+JACK: Says English French.
+
+
+[pause] [Ali chuckles]
+
+
+        JACK (as French): Nothing to say, huh?
+
+
+        ALI (as Katie): I never would’ve thought you’d figure me out.
+
+
+        JACK (as French): Well, I did! [Ali laughs]
+
+
+        ALI (as Katie): We all know he deserved to die. Just let me go.
+
+
+        JACK (as French): Whether or not someone deserved to die isn’t important about what I put in the book of what happens on New Year’s Eve, Katie.
+
+
+        ALI (as Katie): If you’re a person who cares about history this much, you should be fighting with me to save this park and the trees in it.
+
+
+        JACK (as French): [pause] S– Say more about that! [Ali cackles]
+
+
+        ALI (as Katie): What’s New Year’s Eve? It’s just one day, but these trees have lived here for hundreds of years, and some guy’s going to come along and build a building with a Starbucks in it and a bunch of expensive apartments, and nobody’s going to live in them, and no one’s going to like it, and these trees are going to die. And if I have to kill one man to save the beauty of this garden, then I did what I had to do.
+
+
+        JACK (as French): [really taking it all in] Huh. [Ali chuckles] I hadn’t thought of it like that. [pause] Sit– Sit down. [Ali laughs] So– So you’re saying that you killed him, right?
+
+
+        ALI (as Katie): [sucks in air through teeth] Wait. [laughs] I thought we all already knew this. Did I just confess to this crime?
+
+
+        JACK (as French): You pushed him off the balcony onto the sword.
+
+
+        ALI (as Katie): I plead the fifth. I need my lawyer.
+
+
+        JACK (as French): Oh, there’s no lawyers on New Year’s Eve. [Ali laughs and claps] They haven’t hired any yet.
+
+
+ALI: Katie just quietly being like–
+        
+        (as Katie): [quietly] Shit. Damn.
+
+
+        JACK (as French): Well, what should I tell the NYCNYEBC? [pause] [Ali laughs] I can’t just let you go.
+
+
+        ALI (as Katie): The NYCNY… E… BC is all about history and– [laughs] and preservation, and maybe you need a licensed New Year’s Eve murderer.
+
+
+        JACK (as French): You know, I was just thinking exactly the same thing! [Ali bursts out laughing]
+
+
+JACK: Opens his coat, takes out his notepad.
+
+
+        JACK (as French): I’ve managed to recruit two people this evening. Do you remember that bartender up in the bar where you pushed that guy off the thing?
+
+
+        ALI (as Katie): I do, yeah.
+
+
+        JACK (as French): He wants to be a bartender for the NY– NYCNYEBC! [Ali chuckles] And I think we could probably use him. Now, you would have to– How do you feel about not doing any murders? 364 days of the year?
+
+
+        ALI (as Katie): I think I can manage that.
+
+
+        JACK (as French): [pondering] Hm. [Ali laughs] Okay. Okay.
+
+
+JACK: Writes down the number. [both chortle] 6-1-6-5-5-5-7-2-1-4. Writes underneath it–
+
+
+        (as French): You call these people. You say the name “English French”. Now, what I’m going to have to do is I’m going to have to put down in the books that you did murder the guy, but you could sort of view that as your interview. [pause]
+
+
+        ALI (as Katie): Yeah, I guess write– write about it, and make it sound cool.
+
+
+        JACK (as French): You pushed him onto a– He was going to kill all those trees with the shade, and you pushed him onto a statue of a man holding a sword up.
+
+
+        ALI (as Katie): Yeah. And that statue fought for this city, just like I did.
+
+
+        JACK (as French): I want to make it clear that I don’t endorse murder. [Ali laughs] I just don’t have any morals at all, and neither does the NYCNYEBC.
+
+
+        ALI (as Kaite): Sounds to me like as long as we’re working for the same side, that’s not something we have to agree on.
+
+
+[pause] [both laugh]
+
+
+JACK: Holds up his unfinished mug of Hot Toddy. [Ali snorts and laughs] Clinks it with Katie’s. [pause] Clinks it with Katie’s mug of Hot Toddy. The clock strikes twelve. English French produces a pocket watch from his pocket, and clicks the stop button.
+
+
+ALI: You did it. French– Frank– [laughs] French– 
+
+
+JACK: Frank.
+
+
+ALI: French– French English solved the case.
+
+
+JACK: What are you drawing now?
+
+
+ALI: I’m drawing an NYCNYEBC business card with Katie’s phone number on it.
+
+
+JACK: Oh, hell yeah. [Ali laughs] [pause] Somewhere out of the party, Farrah is having a great time. She has no idea that any of this has happened.
+
+
+ALI: Do Katie and English watch the ball drop together? Katie’s in cuffs, but [laughs] in sort of a secluded area.
+
+
+JACK: Yeah! Yeah! They sing– [singing] Should auld acquaintance be forgot– [laughs] [Ali hums along] Linking their hands. And they look at each other and they have a sort of romantic comedy– Not a romantic comedy, but they have a, “Isn’t it ironic that this song is about auld lang syne, and we’ve recruit– we were sent out as enemies, but we’ve actually ended up working– now we’re colleagues?”
+
+
+ALI: Yeah. Do we get a flash-forward of them– Oh, god. That looks like shit. Do we get a flash– [both break into laughter] Do we get a flash-forward of them the next New Year’s Eve looking at each other from across the… across the park.
+
+
+JACK: [laughs] Has English French been deployed to solve a murder that he knows Katie has comitted? [Ali laughs] But yeah, it’s New Year’s Eve 3-9-9-9. Oh, wow, that’s the big year! Holy shit.
+
+
+ALI: Ooooh! Yeah.
+
+
+JACK: And maybe we also just have a flash-forward to them in summer in Malibu and they’re both off the clock. They’re just having a good time.
+
+
+ALI: [laughs] Wait, when would the NYCNYEBC have a big, like, employer’s party like that? Right?
+
+
+JACK: Oh, my god. Yeah.
+
+
+ALI: Like a conference for the NYCNYEBC community.
+
+
+JACK: Yeah, it’s either in summer, or it’s on New Year’s Eve and it’s a hellscape, because they have to deploy their own staff to keep watch on their own staff at their party [both laugh] so it’s probably in summer.
+
+
+ALI: What if it’s, like, New Year’s Day? Where it’s like, the reason that you had to solve this murder before midnight was that you had a plane ticket for 1 AM [laughs] to– 
+
+
+JACK: [laughs] 1 AM, just hustling Katie onto a plane. [Ali cackles]
+
+
+ALI: –to the afterparty.
+
+
+JACK: [crosstalk] We have to go to the party. Which is in– Where is it? You have to get on a plane to go there, so…
+
+
+ALI: Somewhere tropical?
+
+
+JACK: Yeah, somewhere nice and warm.
+
+
+[both laugh]
+
+
+ALI: So this has been “Guess Whodunnit?”, by– [laughs]
+
+
+JACK: [proud] Hell, yeah.
+
+
+ALI: –Tyler Crumrine, illustrated by Cobysoft Joe. Shout outs to y’all, this is a good game. Shout outs to you, Jack. This is a delight.
+
+
+JACK: Yeah, thanks so much for playing, Ali. [Ali laughs] So much fun.
+
+
+ALI: I’ve gotten a request from the chat to zoom in on the inventory before we go.
+
+
+JACK: Oh, yeah, reveal it! [Ali cackles] My definition of glory!
+
+
+ALI: Wow. [stifling laughter] It’s beautiful.
+
+
+JACK: God, the polaroid? The caricature? Is even better than I had [Ali laughs] thought it was.
+
+
+ALI: I tried to draw a key– like a tree, in the circle of the key, but now it just sort of looks like the Smash Brothers invitation logo.
+
+
+JACK: Yeah, English French– [smash brother announcer] English French signs up for the– It’s New Year’s Eve in Smash Brothers! English French gets the call.
+
+
+ALI: Wow.
+
+
+JACK: I love that you were very committed to drawing the numbers on– to drawing all the numbers on the business card.
+
+
+ALI: [laughs] I wanted it to be a 9-1-7 number, because it’s New York City, obviously, and then I think this is 7-3-8-5-5-5-5… 5? There’s an extra 5? [chuckles] It’s the future, they had to add more numbers.
+
+
+JACK: Oh, yeah. Absolutely. Because of the number of fives in that it’s not a real number, but if someone dialed it and got English French that would be amazing. [Ali chuckles] Yeah, well–
+
+
+ALI: Try at home.
+
+
+JACK: [crosstalk] God, this has been great. I’ve had so much fun.
+
+
+ALI: Yeah, thank you so much for joining me. Thanks, everybody at home for supporting us and for watching. This game ruled. [laughs] Had a great time playing it. I zoomed in so you can’t see the itch information anymore. I’m going to go up a little bit, so before we log out if people want to [chuckles] look into the system. Play it at home. But yeah, I think that’s it for us. Is there more? There was a clapcast yesterday.
+
+
+JACK: Oh, it’s a good clapcast. I still don’t know what the little– who the little guy is.
+
+
+ALI: [crosstalk] I don’t know what the little guy is either. I think Austin had a follow-up tweet that was like, “This is the closest thing that we’ve seen, that people have sent in.” Yeah, I mean, follow me on the little eye guy in your own heart, you know?
+
+
+JACK: Yeah, absolutely. That’s the important thing.
+
+
+ALI: [chuckles] But yeah, tomorrow’s Wednesday, so no– Sangfielle– two days. Enjoy that, we’re still going to be in a boat. We’re still doing that.
+
+
+JACK: [incredulous] Still?
+
+
+ALI: [laughs] Still in there. Still doing that. I think that day we were also recording us still being on that boat, which is great.
+
+
+JACK: Oh, yeah. Uh-huh.
+
+
+ALI: Uh-huh! [laughs] An inside look into our schedule–
+
+
+JACK: Trapped-on-the-boat-ness.
+
+
+ALI: It’s a great boat. I–
+
+
+JACK: [unsure] Well…
+
+
+ALI: [laughs] Listen, that’s what playing games is. You’re on a boat, and then things happen.
+
+
+JACK: Truly the most pure version of– [Ali laughs] of games. It’s how we started season one, episode one.
+
+
+ALI: True, yeah.
+
+
+JACK: And now we’re here [nostalgic] seven years later.
+
+
+ALI: [giggles] But yeah, enjoy that. I sent out, just for Patreon people in general, I sent out an email about the next postcards. 
+
+
+JACK: I’ll say, those are great.
+
+
+ALI: Respond to that if you’ve moved recently. Oh, the postcards this year– these are, like, so, so, so, so good. Shout out to Jen. Shout out to Chris. Doing the illustrations on those. Shout out to Jack and Austin for writing them.
+
+
+JACK: Thank you.
+
+
+ALI: [giggles] But yeah, that’s going to do it for us tonight. Have a good night, everybody!
+
+
+JACK: Bye-ee!
+
+
+ALI: [softly] Bye!
+
+
+[silence]

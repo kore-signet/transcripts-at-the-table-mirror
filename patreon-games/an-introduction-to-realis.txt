@@ -1,0 +1,614 @@
+﻿An Introduction to Realis
+Transcriber: Iris (sacredwhim)
+Introduction        1
+Session Begins        18
+Bad Bet at the Casino        34
+Into the Hippodrome        44
+The Archive        50
+End of Session        58
+Outro (Season Teaser)        64
+Introduction
+[00:00:00]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am Austin Walker, and today I’m gonna introduce you to a new game. I’m gonna do it with my good friend, Jack de Quidt.
+Jack: Hello, Austin. I’m Jack.
+Austin: Hi, Jack. I am the—if you’re—if this is the first time you’re hearing my voice ever, welcome to Friends at the Table. And welcome to Realis, a game that I’ve been making on and off for about four years. This episode is sort of a short introduction to what Realis is. This is not scripted, [chuckles] and so if we stumble over anything, please accept our apology for that. Jack was a kind of early co-designer on the project, and a huge, huge help in figuring out things all throughout the project. Even, Jack, after you and I were done kind of working on it day in day out during the first kind of feverish week or two, I would come to you every few weeks or months to be like, [chuckling] “Hey, how do tokens work? Can we figure this out?”
+Jack: “How do tokens work” really was the…
+Austin: “Let’s talk seven ways to understand tokens.” You know?
+Jack: When we tell you how tokens work, you’re gonna go, “Oh, this seems very straightforward.” Let me tell you. That was deliberate.
+Austin: It was not always, yeah. At one point, there was a deeper, stranger token exchange economy. It’s a whole thing.
+[Jack chuckles]
+Austin: What is Realis, Jack? Do you have a—what’s your—I should probably—I should—I’ve just handed you the hardest task. I’m sorry I did that. In one sentence, what is Realis?
+Jack: The Ranged Touch one sentence summary.
+Austin: That’s right.
+Jack: Realis is a tabletop game played without dice that uses a series of initially simple and gradually more… complex sentences to create and solve kind of like tests that you would see in another RPG.
+Austin: That’s a great summary. I have two summaries that I introduce this game with on the first few pages of the game. I say that “Realis is both a place—-a cursed orbital sphere of one thousand mystical moons—-and a game—-one of collaborative storytelling in a world of mystery, magic, and impossible technology. As a place, Realis is a setting for moon-hopping adventure, arcane discovery, fatal conflict, and meditations on the ever-changing nature of the self, society, and history. And as a game, it’s a set of rules that shapes conversations into an engine for collaborative storytelling.”
+Generally speaking, you’ll have more than one player, unlike me today with Jack. And that group of people will play and tell the story of a band of protagonists, player characters, who use powerful Sentences, capital S Sentences, as they explore, love, fight, worship, and unfold their stories across the Thousand Moons. The Sentence is sort of the core unit of Realis. We often talk about the word Means, also. You’ll hear me say, “What Means are you using in this Conflict?” There’s lots of capital letter words like Sentence and Conflict and Means, which are capitalized throughout the book for clarity.
+And I should say, by the way, the book right now is a PDF. You can find it on itch.io. It’s on my personal itch.io page, thecalcutec.itch.io. T-H-E-C-A-L-C-U-T-E-C dot itch.io. There will be links to it in the description for this. It is being published by Possible Worlds Games, by Tyler Crumrine. We hope to release the entire thing, and not just this Ashcan release that’s available now, through—in the next year or so. It’s been so good working with Tyler, who has done the layout, who has been an editor, who has, you know, put together so much of what the kind of presentation of the game looks like.
+I should also—I also want to credit Gryme, who did the cover art, and Sam Beck, who did a lot of the interior art that originally was used for postcards. At Friends at the Table, we do a Patreon bonus level that lets you get postcards with micro-fiction. We did a series of those in Realis [chuckles] last year before the game was out, before the campaign was being released, because that’s how things work sometimes. So shoutouts to all of them. Please go check out the rest of Tyler’s games. Tyler has been an incredible help with this process, and I will tell you, I am only the first of a number of really great collaborations and projects that Possible Worlds is going to be putting out over the next little bit. So stay tuned for more on that front.
+Back to the game, now that I’ve—I said the word “book,” I think, or “words,” and I was like, “Oh, right, I should shout out the book, [chuckles] and who helped put the book together.” [Jack chuckles]
+The Sentence is the sort of engine of Realis. Player characters have a number of—player characters have a class, which is the sort of thing that, you know, you know from role-playing games. And there’s a mix of ones that are very familiar to you, probably, like the Berserker. And then also things like the Xenagogue. [chuckles] So kind of a wide range of classes. The Ashcan that’s available now has twenty classes in it. That is not half of the classes that are already written for this game. I suspect the final number in the final version will be around 50. We are very close to that already, and the ones that we’re writing now are so complex and weird, they’re probably not going to make the main book, but maybe a future supplement. So we’ll see how that goes.
+There are also, in the ashcan, 40 NPC types, NPC classes, and two or three factions. Which kind of have their own lore, and their own kind of Sentences, and abilities and stuff. And again, that’s not even half of the number of both of those. There are way more factions than three. And there are, again, probably—40 is not even double what the NPC list is currently. The NPC, like, type list, the NPC class list, right now. So a lot there.
+All of those things use Sentences in order to solve conflicts. In order to overcome the odds. And so, you know, let’s just say the very first full class Sentence in the book is the Berserker’s “I always kill my foe.” Jack, what’s—did you—you played a Berserker in the very first playtest of this game, actually. Do you remember this?
+Jack: Oh, wow. I did, yes. We were in a circus.
+Austin: That’s right. We were in a circus. We were in, I have it written here, the Medallion Cavalcade. You played King Lud the Berserker.
+Jack: Huh.
+Austin: Yeah.
+Jack: Interesting.
+Austin: And do you remember what happened in that game?
+Jack: We fought a knight that was made of iron [Austin: Yeah.] in the middle of a circus ring.
+Austin: You did. And I, like, made a big showing. And I said the Sentence—I’m gonna double-check here, but I believe I said “Do you have any sort of Sentence that can counter—” and then I said the Sentence from the knight in question. I think it was “I am always invincible.” The knight had the Sentence “I am always invincible.” It was the Ferronic, the special type of knight, one of the five infamous Knights Naturalis of the Leo Suzerainty. And I said, “The Ferronic is going to try to attack you. They’re attacking you in the middle of this ring, their goal, their impulse is to, you know, make you embarrassed or something.” And you said, “Yes, I can counter that. I always kill my foe.”
+And that’s really the heart of how this game works. When things come into conflict, or when there is any uncertainty, the GM—and this is a GM’d game, there will eventually be optional rules, potentially, for GM-less play. I think it loans itself to it pretty well. But by default, it’s a GM’d game. The GM will say, “Hey, I think that that sounds kind of uncertain. Or someone is trying to stop you from doing the thing that you’re doing. Or someone is trying to exert pressure on you, or take an action near you. Do you want to try to counter that action?” For instance, “this guy’s trying to stab you. This guy’s trying to embarrass you. Someone’s trying to break down the door. Someone’s trying to discredit you in public.” Whatever it is, right? Or someone’s trying to cause a riot, or cause chaos. Or someone’s trying to spread a disease. What do you do to stop it?
+Or you say, “I want to do this thing.” And when that happens, if it’s uncertain or if someone else might try to stop you, we go into Conflict. And at that point, two Sentences come into comparison. Sentences in this game have levels. So by default they all start at +0. “I always kill my foe” is a +0 Sentence. “I am always invincible” is a +0 Sentence. The Sentence of the person trying to counter always wins on a tie. So in the case that you were defending, so to speak, you were countering “I am always invincible,” boom, you did it. You succeeded because you were the Counter, you were not the Actor.
+“Realis always prizes passivity” is one of the core rules you’ll hear us talk about long-term in the game. It’s at the top of the book. If you have the book in front of you, you can see that it’s very early on there. I actually don’t have the final layout. But in the playtest document, it’s like one of the first things you read. After a Sentence fails, assuming you’ve lived, which most of the Sentences don’t automatically kill you. The Berserker is just like that. Assuming you live long enough for a Sentence to fail three times, whether you’re the Actor or the Counteractor, you’ve marked it three times. Every time it fails, you mark it. When you’ve marked it three times, it is Primed for Realization. Jack, if you wanted to Realize the sentence “I always kill my foe,” how might you Realize it?
+Jack: You can Realize Sentences in a bunch of different ways, but you can—you are going to add a condition to it as it gets Realized. So you could, for example, say, “I always kill my foe in the rain.”
+Austin: Right.
+Jack: Or “I always kill my foe at night.”
+Austin: Right.
+Jack: Or “I always kill my foe if they are of the Leo Suzerainty.” Or something.
+Austin: Exactly, exactly. And so suddenly, these things that are very powerful and broad, but are only +0 Sentences, which means they lose if used against a +1 Sentence, or a +2 or +3 Sentence, they get more specific. I think of Realis as—in fact, I’ll say it this way, because I was just talking to Chase Carter of Rascal about this. And I was explaining that lots of games have progression mechanics that are additive. If you have a new character in a traditional tabletop role-playing game, basically of any make or model, you’re adding things to them. They pick up new spells, they get new skills, their attribute points go up, you know. And this is everything from Powered by the Apocalypse and Forged in the Dark games to D&D and old White Wolf games and every—most games I’ve ever played work this way.
+There is something about Realis that is a little bit more subtractive in the sense of, like, sculpture, right? Where you have a big block, a big marble stone, and you’re chipping away at it. But that doesn’t ruin it, it makes it more clear what is inside of the stone. And so, by the end of a game, the Berserker is no longer “I always kill my foe.” It might be “When I fight my foe in the rain,” or like, “When I fight an Imperial Empest foe in the rain, I always wound my foe.” You know? Or something like that. Very specific.
+And in fact, by the very end of the game, Sentences retire. They can only go up to +3. When they Prime, at +3, they become—instead of going to +4, they go back to +0. And it becomes “I used to always kill my foe. I once always killed my foes.” And that is the arc of a character in Realis, and that is a very simple version.
+There’s a bunch of other stuff here. There are tokens that can add a temporary +1 to a Sentence. There is the notion of honing a Sentence, where you can temporarily Realize it. You give it a new condition just for the rest of the session. There are Bonds, which are not currently written with “always” statements. They’re kind of more traditional tabletop-y character bonds. But they can still Realize and change over time. Though I will say, if you’re playing, one of the things that I’m curious about from campaigns is how Bonds work. That’s one of the things I’m hoping to get playtest data on as more people play it.
+There are Band Sentences. Your group has a Sentence that’s a +1 Sentence at the beginning of the game that is like, straight up “When we work together, we always blank,” you know? And there’s also a thing called Ephemera, which are like temporary use items. You know, if you have the Master Sword of Zelda fame, the Master Sword—
+Jack: [chuckles] Oh, that’s in this game?
+Austin: Yeah, uh-huh, that’s in this game. The Master Sword always banishes evil, right? And unlike the rest of Sentences, Ephemera do not need to be qualified to be powerful. The Master Sword is a +3 sword, or +3 Ephemera out the gate. Now, it can only be used three times before it loses the sort of narrative oomph that gives it—that lets it be used as a Sentence. After that it goes just—nothing.
+Jack: Just like in Zelda.
+Austin: Just like in Zelda. I mean, eventually, it’s like, “Oh yeah, you have the Master Sword? Cool, the game is balanced for you having the Master Sword.” You know?
+Jack: Yes.
+Austin: Obviously, it’s still useful, but you’re past that point where it’s like, a big deal that Link has the Master Sword. You need to have the Master Sword to do the stuff. You know? And so that’s kind of the way Ephemera work. I think that that’s pretty much everything on—oh, and there’s also a thing called an Impulse, which is both moons have Impulses and characters have Impulses. Characters follow their Impulses, or the Impulse of the moon, in order to recover their Token after they’ve spent it. And so I think that that’s kind of the gist. Is there anything else you want to add about what the game is or what it does? You’ve now played a bunch of it with me, Jack. I’m curious if there’s anything else in terms of set-up before we show off a little bit of how it works.
+Jack: Um… I think it’s quite a simple game at the heart of it. [Austin: Mhm.] It has very straightforward sort of… “I always kill my foe” is very readable. [Austin: Yeah.] And starts summoning certain ideas for players. And the starter classes all have, you know, really straightforward ways. So I think this game is pretty friendly to jump into. And at the same time, the place where it lives, the place where it really starts to sing, is in the ways that these individual classes sort of like, bounce off each other.
+Austin: Right.
+Jack: It’s also worth saying that—and you sort of gestured at this before—NPCs in this game also have Sentences, too.
+Austin: Right, yes, yes.
+Jack: You know, this is essential to the way that it works. And if you’ve heard some Friends at the Table in the past where Austin’s piloting NPCs in conflict that aren’t always operating by quite the same rules as the player, Realis is much closer to something where enemies and NPCs have very similar rules. [Austin: Mhm.] Not quite exactly the same. But they are deploying Sentences against you, or defending with their own Sentences, et cetera.
+Austin: Yep. That’s exactly right. So you know, the—I’m looking at the list of NPCs that are here. The Underling has the three +0 Sentences “I always do as I’m told,” “I always talk a big game,” and “I always retreat to my boss.” [Jack laughs] And they can use those to get things in the same way that player characters can.
+Jack: It’s a toady.
+Austin: It’s a toady, exactly, yes. Though I haven’t written “toady” here just in case I want to make some sort of toad person alien NPC later. And they’re not—s
+Jack: Right. Just check here. We also have Undying Saint. [Austin: Yeah.] We don’t need to read those ones.
+Austin: No, we don’t need to read those. We have Preybirds,  we have Physilists, we have Minotaurs and Judges and Heresiarchs and Heliomancers. Which, you know, you would think the Heliomancer does sun magic. And that’s true… to a point. It’s just the sun is a little different in Realis. So, you know. And I’m not gonna go through all of what the situation of Realis is. But let me briefly finish that paragraph I started that was “as a place.” And then from there, maybe we’ll zoom into play. Does that sound good, Jack?
+Jack: Yeah, that works.
+Austin: “As a place, Realis is a setting for moon-hopping adventure, arcane discovery, fatal conflict, and meditations on the ever-changing nature of the self, society, and history. It is an uncanny solar system where a thousand satellites orbit a massive, incandescent planet, the titular Realis, from which only the saint-like Radiant have ever returned. Above it all, the Corpse Sun roils and emits its final dregs of light, while the Great Void churns below, eager to swallow anything that errs toon ear.
+“Some of the Thousand Moons are claimed by dozens of ever-squabbling, petty baronies of the Leo Suzerainty. Others have been conquered by the locustal fleets of the Imperial Empest, or have been forcibly converted by the hypocritical and violent theocrats of the Venerant See. More obscure factions, like the secretive scholars of the Zvezd Lyceum or the esoterics of the ReGnostica, keep to the shadows—a danger, since the shadows are home to ill worms, ghastly sovereigns, and the Drift, a realm of raw emotion and unhinged desire.
+“And everywhere, Moonfolk find a way forward, claiming small joys and working toward some sort of tomorrow.”
+You are one of these moon folk working towards some sort of tomorrow. Jack, can you read me your character’s name and pronouns? And then read what I’ve filled in here for the look, and I’ll have to send you an image, because I need you to know what this means.
+Jack: Yeah, this is so exciting. [Austin: Yeah.] Austin sort of—we talked about what character we wanted to show off in the demo, and I opened up the book this morning to refamiliarize myself with the Sentences, little knowing that just before we recorded, Austin would hand me a character sheet in progress. It’s great. This is like the bit at the very beginning of the video game where you have a bunch of the weird powers and also you’re being pursued or something.
+Austin: [chuckles] Well…
+Jack: I am playing Amaretto Scandle. That’s Scandle, S-C-A-N-D-L-E.
+Austin: Yeah, “candle” with an S in front of it, yeah.
+Jack: Yeah. Pronouns they/them. And look here, you’ve just written “Nokko’s outfit on the cover of Rebecca’s Raspberry Dream single.” [chuckles]
+Austin: Rebecca is an ’80s J-Rock band. This is the outfit in question.
+Jack: Oh, wow. I think—I feel like this outfit has appeared on Friends at the Table before.
+Austin: [cross] Have I mentioned this before? I have wanted it to appear for sure before. And I don’t know if it has. I’m double-checking, because it may have. But if it didn’t, it had to. You know? I think I’ve sent it to you to be like, “We have to put this in something.” So.
+Jack: Yeah. So this is a Japanese woman with frizzy black hair. She is wearing—big ’80s hair. She is wearing what looks like a baggy, like, brocaded blazer in, like, bright—sorry, it’s in dark purple with bright purple flowers on it. [Austin: Uh-huh.] Underneath she is wearing what looks like an iridescent blue shirt. That might actually just be the folded back collar of the blazer.
+Austin: I think that's right.
+Jack: Underneath that, she has, like, a half-popped collar of—how would I describe this? It’s like a—it’s a shirt with—it’s a collared shirt, and it is bright yellow and green and sort of striped, almost like you’re seeing a portion of a Hawaiian shirt. [Austin: Mhm.] She is wearing, like, a pin, like a—almost like a bolo tie pin that is connected with chains to a medallion on her shoulder. And she is wearing what look like two military medals if the only materials that the army had to use were the contents of their great grandmother’s jewelry box.
+Austin: Yeah. That’s about right. Yeah. So I think that this is what you’re wearing here, Amaretto. I just picture very clearly. And it’s not—you don’t necessarily look like Nokko. But this is the outfit. This is the stage of Runner that you are. Sorry for taking the spotlight for a second and saying the class you were.
+Jack: No, go ahead.
+Austin: What is the Runner? Do you recall what Runners are?
+Jack: The Runner is your scoundrel. They’re not exactly the scoundrel. They are your, like, Han Solo type. They are smuggling. They are running blockades. If you need to find some—maybe like an illicit substance or a strange animal, or you need to get safe passage through, like, terrain that is being watched over by the soldiers or the police, you might go to the Runner.
+Austin: Do you want to read your Class Sentences?
+Jack: Yeah. I have four Class Sentences. Realis characters always start with at least three Sentences.
+Austin: I think NPCs start with three, generally. Player characters always start with four. The fourth tends to be something that could get you into trouble so that you could more easily do a couple of special actions. One is called Tragic Success, which is where one of your Sentences deliberately leads you deeper into trouble. Which lets you recharge your Token. The other is called Illuminating Failure, where once per session, you can purposefully fail as a way to mark a Sentence. And advance it, start to advance it. And so, it was a good idea to have a sort of Sentence that leans in that direction. You will know which one that is when Jack reads it, I think.
+Jack: [chuckles] Okay. So my first Sentence is Reality 1. That is to say, it has been Realized once. This is a Sentence that has had something bolted onto it  one time. And that is “When I’m somewhere I’ve been before, I always have an alibi.” And you can kind of hear the way that that Sentence has been Realized. The original Runner Sentence, “I always have an alibi,” has been Realized to a Reality 1 Sentence, with “when I’m somewhere I’ve been before.” This has two marks next to it, indicating that it has failed twice.
+Austin: That’s right.
+Jack: And with a third mark, I can get ready to Realize it. You know, put it up in Reality and add a thing to it. I have another Reality 1 Sentence. “I always keep my cargo concealed from technological devices.” This has one check mark by it. And I have a Reality—
+Austin: Again, it used to just be “I always keep my cargo concealed.” Obviously, what this means is, if someone comes to look for your cargo, and looks for it with their eyes and not a technological device, you cannot use the Sentence against them.
+Jack: No.
+Austin: You know?
+Jack: But if they’re using their cargo finder, [Austin: Yes.] which is like a horrid little squiggling bug that beeps around, [Austin: Yes, exactly.] that—then the bug will not find them.
+Austin: Or the scanners on their ship or whatever. You know, or their space station.
+Jack: Yeah. Or their watch that gives them Nen through technology.
+Austin: That’s right. Exactly.
+Jack: Now I have a Reality 2 Sentence. This is one that has been bolted onto twice. “When my back is against the wall, I always unveil a single use concealed weapon.” You might hear a sentence like that and you might think, “Wow, that’s pretty conditional, huh?” Yep. That’s how Realis goes.
+Austin: Sure is. Yep. You’re not gonna be using this thing to assassinate somebody. Your back is not against the wall. Now, would a certain type of player say, “Well, what if I put my back literally against a wall?” And to that I say, if you’re GM’ing, that’s up to you. A thing we have not gone over here is Foundational Sentences, or Foundation Sentences. Realis doesn’t have the sort of—it doesn’t work with, like, lines and veils. It works with a thing called Foundation Sentences as the safety tools. Jack, when we played, we had a set of Foundation Sentences that I kind of brought over here. Actually, they’re not in this document. But I’ll read them again. “Our story never depicts sexual assault or sexual violence.” “Our story always shows you where the sword goes, but never shows what it does.” And “Our story always errs on the side of maximalism.”
+And those three Foundation Sentences are encouragement to play in certain ways, clarity on what topics we shouldn’t hit. And often, the former, the sort of encouragement on how things play, means that you’ll end up being to refer to those as guidance for how loosely or how tightly you want to read certain terms. You know, I think in the right situation, I would accept lots of reads on “when my back is against the wall.” You know? There are definitely times when the ambiguity in language in Realis produces a really fun, interesting effect. You know? And so, up to the players, up to the table, up to the GM to kind of work together to decide, “Hey, are you being—you know, is that not to the spirit of what the Sentence is? Or have you found a really fun, you know, kind of loophole through language?” Always fun to kind of negotiate that. So that’s your third Sentence.
+Jack: And then I have my fourth Sentence. This is Reality 3. “When fleeing from the authorities, I always pilot the Black Thistle, my Orphan Vessel, towards great danger.” Orphan Vessels in Realis, we’ll probably see one in a bit, are sort of miraculous living spaceships. [Austin: That's right.] And you can hear that Amaretto’s Sentence here is now very specific. The original Sentence was “I always pilot my Orphan Vessel towards trouble.” And you can now hear “When fleeing from the authorities, I always pilot the Black Thistle, my Orphan Vessel, towards great danger.”
+Austin: Yeah. That’s—it was originally just “towards trouble.” Now it is flee—you have to be fleeing. It’s not just danger, but it’s great danger. And that is Reality level 3. And it’s two out of three marks, so it’s almost Primed. And again, when a Reality +3 Sentence gets up to Priming, when it’s ready to be Realized, it instead gets retired. So it becomes a past tense Sentence. This will become “I always used to pilot the Black Thistle, my Orphan Vessel, towards great danger.” And you can continue using it as a +0 Sentence. But you can’t—but it doesn’t do the thing it used to do. It’s like saying [chuckles] “I used to be the high school quarterback. I used to be the star quarterback.” [Jack chuckles] There’s stuff from that that you might be able to pull on still, but only at a +0, you know? You’re not the +3 star quarterback anymore.
+Another important thing worth noting is in that Sentence, there are a pair of fleurons, these kind of leaflike icons to the left and right of the word Orphan Vessel. Those are special Sentences called Hallmark—they’re called Hallmark Sentences, or those are called Hallmarks inside of a Sentence. Some classes, not all of them, but some of them have something special. A piece of equipment, a special spell, some sort of belief, you know. They’re not in the set of classes here, bu the Juggernaut has something like “I always stand for a creed,” or “I always defend my creed.” The Creed is the Hallmark in that sentence.
+And those are things that you have to define during character creation. You have to say “Oh, this is—” You know, if you are the Berserker, for instance, your unstoppable weapon is the Hallmark in that sentence. And so you have to define what that thing is. You know, Guts from Berserk has the greatsword. Right? It’s not that Guts from Berserk has a sort of like, always produces a weapon when he needs it. Now, maybe he also gets some Ephemera later, like the cool handgun thing, or the crossbow, or other types of weapons. But his core weapon is his core weapon. It’s that one thing. But importantly, your “when my back is against the wall” single-use concealed weapon Sentence is not a Hallmark Sentence. Right? You can use that, and it could be a new thing each time. [Jack chuckles] In fact, it doesn’t even say “I always carry one on my body.” Your Orphan Vessel might have a concealed weapon. You know?
+Jack: Yeah, the word here is “unveil.”
+Austin: Exactly. A hundred percent. This is something I think very important to—you know, the Duelist has a beautiful and distinct weapon, but I was really careful to go back into the description and be like, “by blade, bullet, boomerang, or otherwise.” Like, a duelist is not just someone with a fencing sword. You know? There’s lots of range for what a duelist can have in these sorts of stories. You know, I guess by this point it’s kind of obvious, there’s kind of a pulpy science fantasy vibe for Realis. And that means that there’s a lot of breadth in where and how you tell your story. I have run this game where it’s on one moon that is a sort of, you know, slightly fantastical medieval moon. I have run planet-hopping adventures, or moon-hopping adventures, that are kind of swashbuckle-y. I’ve heard people who have run kind of dungeon delves, almost OSR style dungeon delves. I have seen people do, like, grand space opera that’s kind of zoomed out in terms of the perspective.
+Jack: Wow, that’s a fun one.
+Austin: Yeah, totally.
+Jack: I’d like to play Stellaris in Realis.
+Austin: You could totally do it, right? I mean, like, you’d have to pick the right classes, and you’d have to think about—you know, I think—I was just telling Chase this also, that Legacy: Life Among the Ruins is another influence here. Where like, it’s a game that you could zoom out and play with. Especially if you started doing some, like, alternative rules around the way factions work. Which we’ll get into as we continue. You have a few other things on here. You have your Token right now. And you have an Impulse. Your Impulse is tied to what your Sphere is. There are nine Spheres in this game. Spheres are sort of collections of classes. And you are from the Sphere of Shadow. What is your Impulse?
+Jack: My Impulse is “Respond to a noble problem with dishonorable Means.” And this is sort of like a guide for a player on some level, as much or as little as the player wants to use it.
+Austin: Exactly.
+Jack: But also, I can recharge my Token—and again, we’ll talk more about how Tokens work, but I’m gonna spend it at some point, and we’ll need to get it back. [Austin: Yep.] One of the ways that I can get it back is by acting on an Impulse. So I can say—if I can make a clear argument for the way in which I am responding to a noble problem with dishonorable Means, there’s a way to get my Token back.
+Austin: Exactly. And you can also get your Token back when you Realize a Bond with another player. And again, Tragic Success. When one of your Sentences deliberately leads you into trouble. The—also, you can spend that Token to, like I said before, boost the rank of your Sentence that you’re using. Or you can use it to use what’s called a Moon Sentence, which we’ll get to in play. Moon Sentences are sort of like setting Sentences. They’re things in the world. They reflect the moon that you are currently on, or the space station that you’re currently on, et cetera. You can spend your Token to use one of the sort of the things about that world.
+And when I say you, I don’t just mean the player character. I mean you, Jack, could decide, “Oh—” You know, the one that I talk about in the book is that there is a moon called Daniley. And Daniley parents always tell you about their children. If you’re being chased, you could say “Ooh, I’m gonna spend my token to use ‘Daniley parents always tell me about my children’ in order to have the person pursuing me distracted by someone who’s like ‘Hey, you know, have you seen my children before? Look at these pictures of my kids!’” And like, slow them down as you’re like, cutting through the bar or whatever, right? To escape them. And that’s not a thing your character did, it’s just a thing the world did. Because Realis is sort of a game about stories and worlds and words and how the three of those things kind of interact. You also have some Ephemera.
+Jack: I do.
+Austin: I say let’s go through the Ephemera later. Like, as we play if they come up.
+Jack: Yeah, sounds good.
+Austin: Though I will say one of them is crossed off.
+Jack: [sighs] Yeah.
+Austin: Do you want to read that one and I’ll explain what—again, we already talked about this with the Master Sword, so actually, we don’t have to go too deep into it. But “The Second Face Amulet always projects a smiling facade.” That’s gone. You can’t use that as a Sentence to—as a Means in a Conflict. But you still have the amulet. You know what I mean? It’s not a +0 Sentence or anything now. But it straight up just—it doesn’t move the narrative forward any more for you to do it. [Jack: Right.] But if you want to describe yourself projecting a different face, that’s a thing you could still do. You know? Because it’s not like it broke after three uses. It’s not a potion that you’ve used up. I think that that’s kind of everything. Oh, you have one Bond. There’s not another player here right now, but you do have a Bond. Normally, these are player-focused, but I gave you one. Do you want to read this?
+Jack: Yeah, my bond is with Elio[1] the Owl. “Elio treats my vessel, the Black Thistle, right. They are the only other person I will ever let pilot it.”
+Austin: Shoutouts to Elio the Owl.
+Jack: Shoutouts.
+Austin: You got a little owl friend. You got a little, you know. [Jack: Yeah.] I think it’s a small one. I think it’s one of those tiny baby ones. You know?
+Jack: How does Elio pilot the ship? Who knows? I suppose.
+Austin: Who knows?
+Austin: Well, vessels, Orphan Vessels are alive. Orphan Vessels have personalities. Maybe it’s about talking to the Orphan Vessel in the right way. Maybe it’s about—or maybe it hops from button to button, [chuckles] you know?
+Jack: [chuckles] Or maybe it can’t actually pilot it, but I am the only—they are the only other person I would ever let pilot it. You know?
+Austin: That’s right. Yes, yes.
+Session Begins
+[00:33:38]
+Austin: Alright, I think it’s probably time to try to show off Realis a little bit. That sound good?
+Jack: Yeah. Yeah, we have not scripted this. I thought about whether or not we should. It is ultimately more interesting if we don’t.
+Austin: Yeah, you know, I did the thing that I think most prep in Realis looks like, which is sort of soft prep. There’s a place, you have a goal, I know who’s in the area, I know how they work, I know what their situations are. You know some of them, it’s worth saying. You have on this kind of note sheet that we have shared, you know some of the Sentences of the Freemoons Assembly and the Imperial Empest and Carrie Cloud[2], the Hawkshaw who has been pursuing you. Et cetera. You’ve been to the Hippodrome Track and Casino before. These are the places that you’re—this is the place that you’re headed towards.
+But you are—but you don’t know all of them, you know? You only know two of the Freemoons Assembly Sentences. You only know five of the potential ten Hippodrome Track and Casino Sentences. And I believe the GM can start with a total of six prepped for any given moon. And again, you can spend a Token—you can create your own moon Sentences, importantly. That’s the third thing that Tokens can do. We didn’t say that. Tokens can also make new Moon Sentences. Players can author new parts of the world using the Token, which is very useful, I think, personally.
+So, you are, like we said, a Runner. You are Amaretto Scandle, and you are distinct from most people in the—who live on the Thousand Moons of Realis. Most people will never leave their homeworld. A small percentage will maybe a few times in their life get on a shuttle, one of these little hoppers that can move from one moon to a neighboring moon, or one that is passing very close by. But most people can’t go all across the Thousand Moons that orbit Realis itself. But you do have an Orphan Vessel, one of the living spaceships that’s capable of making its way through the orbital currents of Realis. And you have used it to great effect.
+As a Runner, you have spent decades now bopping from place to place. Breaking through blockades, bringing cargo and contraband and passengers to their destinations, working on every side of the law, on every side of everyone’s law. Trying to win favors and cash them in. You have been at the center of great collaborations, and terrible betrayals. And you’ve made a bit of a name for yourself as a pretty effective Runner. Now, a thing I told you when I was pitching you this character is, you’re sort of like what if Han Solo wanted to become Gandalf.
+You have a Dream. We haven’t mentioned Dreams. But Dreams are a special sort of Sentence. Every character, every player character, starts with a Dream. Which is a Sentence that you can use one time, and when you do, you win the Conflict. What is your Dream?
+Jack: My Dream is “I will learn enough to fix what I broke.”
+Austin: Which I think is a fun ambiguous one, we don’t have to go too much deeper into that, but a lot of the Dreams have some sort of ambiguity to them. Or reference some part of the world that isn’t super well-defined. And it’s up to the players and to the GM to make those definitions. You will not find a lot of hard answers in the book of Realis. You know, the factions have descriptions and goals and stuff. But in terms of a lot of the worldbuilding, you know, I do not tell you what is on Realis itself. I told you that only the Radiant have been able to come back from there and tell anybody. I haven’t told you what the Radiant have said, or sometimes I’ll hint what a Radiant might have said, and it’ll come into conflict with what somebody else has said. You are the authors of your own story, and you should take that authority and run with it.
+So, you know, I’m not necessarily sure what you broke at this point, but I do know you want to learn enough to fix it. And particularly, you’re trying to learn some magic. You have heard that there is a cache of knowledge, an archive, of the Wordwrights at the center of the Hippodrome Racetrack and Casino, a space station that floats in the Freemoons Assembly space. The Freemoons Assembly is one of the factions of the game. They’re not actually even in the Ashcan, so we’re not going to go too deep into them here, but they’ll show up in the course of the Realis season that you hear in the main feed over the next month, and then in the Patreon feed when it shifts over to that and we start up our Fabula Ultima game in the main feed.
+So they’ll show up, you’ll learn more about them in there. But you know. It’s kind of what it sounds like. Freemoons Assembly, bunch of moons, they’ve decided to link up and work together. They kind of hang on loosely. Which is why, for instance, there’s a big space casino that’s part of them. You have heard that there is a Wordwright archive in the middle of this casino somewhere, which is not a place for it, but the Wordwrights are weird. They are maybe more than magicians. They are people who supposedly are, you know, kind of true alchemists of the world. They can really make anything into anything else, and not using little vials and implements, but using the power of language itself. And you’re pretty sure if you get your hands on some of their knowledge, you could do whatever you wanted. You don’t have a map to the place, but you do have some tools at your disposal. And fundamentally, you’re a Runner. You know how to get into places and out of places, and so you’re pretty confident that you can complete this mission.
+And I think as we come in, you are approaching the casino from a distance. There’s other moons all around you. You can see them. Some of them are large in this kind of, you know, classic sci-fi novel cover art way. Some of them look like stars, they’re so far away. But they’re all orbiting the giant blue incandescent world of Realis, Realis itself.
+And yeah, I think that you’re in the kind of cockpit of your Orphan Vessel. You are looking at this casino. Which I think I’m imagining it as being like a wooden top. Like, a thin wooden top. And then around that are lights floating in space where the racetrack is. And around that racetrack, there are currently a bunch of what are called longfish. Sort of giant space eels that are being raced in a big race around this track. You’ll see the first Sentence here of the Hippodrome is “Hippodrome jockeys always ride their longfish in serpentine curves.” Big, winding curves as they—not just as they go around turns in the race, but even as they’re going straightaways, they’re these, like, big, whipping, back and forth, you know, like a snake in the sand, like an eel in the water.
+And you know, they are almost like charioteers. They’re like, attached to these longfish in a little capsule, you know, and directing them with these big mechanical reigns. And unfortunately, the way into the casino is past this racetrack. And when the races are going on, you have to wait to get in. And I think that’s where we’re going to come in. You’re watching this race go on, it’s a hundred lap race, we’re at lap 22, [chuckles] [Jack chuckles] you’ve been waiting for a while already. Tell me what’s going on with you, Amaretto.
+Jack: I think heels up on the command console of the Orphan Vessel. You know, drinking something out of, like, a thermos flask. You know, you’ve always got to be ready to go, and you don’t necessarily have enough time to drink a full cup of coffee. So you have the drink in the thermos flask, you know, make it into the thermos flask so that you can take it with you, you know, on the way as you leave. And watching Elio, who is watching the lungfish. You know, good owl eyes. Lungfish? Longfish.
+Austin: Longfish, yeah. Maybe they have lungs, I don’t know. They’re in space, so there ain’t much to breathe out here.
+Jack: Yeah. Um… wow. Okay. I mean, it’s lap 22 out of 100.
+Austin: Yeah.
+Jack: And as enjoyable as the race is to watch, I would like to try and make it in beforehand. But I also don’t want to cause too much of a show.
+Austin: Sure.
+Jack: So I think I would like to… I would like to identify if there are any, like, VIP vessels also waiting for access to the thing.
+Austin: Oh, that’s really fun. You know, that’s a great question. And this is, for me, one of the great things about Realis. I’m not sure, and so I get to ask you, I say, “That seems uncertain to me. Do you have a Means by which you could solve that problem?” And a means is a Class Sentence, an Ephemera, a Moon Sentence if you’re spending a Token, a Bond or a Band Sentence, or your Dream. It’s anything that you can use, it’s any of these groups of Sentences that you can use to overcome uncertainty. I don’t think that this is being particularly contested at this point, because you’re just trying to see, right? You’re not trying to do the thing yet, you know. We can take this in parts. So step one is you’re looking for an opportunity. Right?
+Jack: Yes.
+Austin: So what do you got that could help you make sense of this?
+Jack: I have an Ephemera called the Wooden Compass. “The Wooden Compass always shows me the way to safety.
+Austin: And I know what you’re thinking. It’s a wooden compass that you hold in your hand and it points to magnetic north, except for magnetic north is safety. It’s not. It’s the sort of compass that you draw lines with. You know?
+Jack: Oh!
+Austin: But instead of holding a pencil, it has just like a sort of illuminated kind of a slender stick with an illuminated tip. And this is not being contested, I think this is going to succeed. It literally lifts into the air and draws a sort of laser line in the air. That’s a circle around a part of the exterior of the racetrack where you see a bunch of other yachts that are like space yachts—like Orphan Vessels that are dressed up like yachts, basically—that are parked on the outside. And, you know, there are people in their yachts watching the race, but there’s also, it’s the one place that has a sort of bridge that goes up and—or it doesn’t go over, but it actually goes, like, it connects to the inner casino. And the racers have to avoid the bridge. They go above and below it as they’re taking their turns around.
+And obviously, you could just try to avoid them altogether and go—but you can’t go anywhere near the racetrack officially when the race is going on. Even though space, you would think, “Can I dock at the bottom?” No. You wait until the race is done. It’s too dangerous to do it otherwise. Except for this one place. They let you moor your fancy Orphan Vessels if you are a fancy person with VIP access, and then go through the space bridge into the casino. So yeah, there is a place. Now, I don’t know that you have access to that place, necessarily, but maybe you do. Oh, importantly, mark your Ephemera.
+Jack: Oh, yes. Because I have used it.
+Austin: Because unlike—exactly. Unlike regular Class Sentences that only get marked when they fail, Ephemera get used whenever you use them, succeed or fail. And when you’ve marked it a third time, that is it. It no longer can be used as a Means.
+Jack: Alright. Cool. Yeah, I’m going to, you know, start piloting the Orphan Vessel down towards this place and looking for a docking port somewhere to put the Orphan Vessel, you know, moor the Orphan Vessel. And as she comes into dock, I am going to, you know, stand up and… what do I find? Some sort of, like, a hat or something. I want to, like, have this image of Amaretto, like, readying themselves to go out and mingle with the…
+Austin: Do you even find a hat? Or do you just use the Second Face Amulet to generate yourself a new hat on the top of your head?
+Jack: Oh, that’s a really good idea. Right, yes. Because I can still use it, but…
+Austin: Yeah, it’s just not a means anymore.
+Jack: It just won’t be—you know, if, for example, someone comes to—if that would be tested in the narrative, then it wouldn’t be. But no, it’s—
+Austin: Exactly. So if someone went, “Wait a second, that’s not a real hat.” If you went up against the hat judge, [chuckling] they’d be like, “You’re disqualified.”
+Jack: The hat judge will be shipping in the main edition of Realis. [chuckles]
+Austin: That’s right, yeah. The Judge, the NPC class, already in the Ashcan.
+Jack: Oh, yeah. Yeah, I think that the Second Face Amulet, you know, a hat with a big feather on my head. And then I sort of, like, snarl or sneer at the mirror and see that, you know, one of my teeth is chipped or something. And then the Second Face Amulet gives me the beautiful veneers, you know, the glimmering smile.
+Austin: Uh-huh. I think at that moment, Elio the owl lands on your shoulder and, like, does a little, like, hoot at you. “Hoo!” As if to ask you, “Should I come with you or should I stay here?”
+Jack: Oh, absolutely.
+Jack (as Amaretto Scandle): Absolutely, come with me. Come on. What are you talking about?
+Austin: Alright. And kind of hovers behind you for a second, and then when the Black Thistle, your vessel, opens the kind of side door here to this area that is being, you know, you’ve docked it with an exterior—walking into—onto a walkway in space that is being, like, aerated so you can breathe here. And you see other people who are not wearing any sort of, you know, any sort of oxygen tank or anything similar like that. So you know that this is safe.
+I will say you do see security around, and like, hosts and stuff that clearly have the hookups ready to go for short-term breathing solutions, you know? But most of the guests aren’t bothering, you know? They don’t want to—they don’t want any sort—they want to look their best and that’s that, you know? I do, even before you get there, though. I do need to know if you can counter a sentence. Carrie Cloud, the Hawkshaw, who is pursuing you because of things you’ve stolen from her bosses.
+Jack: My crimes.
+Austin: Huh? Excuse me?
+Jack: My crimes.
+Austin: Your crimes, yeah, against the Killiad Consortium, a sort of bureaucratic space—they’re not really an empire, they’re a—they are a kind of combination of major businesses and nation states that deeply believe—the way that Keith and I always talk about this is they’re the sorts of people who believe that if two countries both have McDonald’s, they can’t go to war. You know? [chuckles] Because it would be bad for the McDonald’s. You know, if we just get McDonald’s everywhere, then that will create world peace. That will create peace across the Thousand Moons.
+You’ve robbed them a number of times, and Carrie Cloud has been on your back for a while. And she’s using the Sentence “I always sniff out enemies who’ve hurt the Consortium.” And I think you get a little—there’s a little ping of a sensor sweep from the Black Thistle, you know? It’s not even a ping, actually, it’s like a—it’s like a—more like a whale sound. Like, what if a whale did a ping, you know, or a dolphin.
+Jack: They famously do.
+Austin: They do make those sorts of sounds, yeah. And it’s one that you know means, like, incoming scan.
+Jack: Hm. Huh. Okay, sure. I have a Sentence that I could try and counter it with.
+Austin: You do.
+Jack: Which is Reality 1, “I always keep my cargo concealed from technological devices.” Now I don’t know exactly if the thing that Carrie is scanning for is me, Amaretto Scandle, or if she is looking for, you know, like, the bag of gems that I stole or something.
+Austin: That’s a great question.
+Jack: But I’m going to try.
+Austin: Yeah, well, and I think that the answer here is that you’re going to—I don’t think that you can use it here. Because—or I guess you could, but it’s—it’s going to fail, but before the conflict even happens, right? I’m going to tell you I don’t think that that’s what she’s scanning for here.
+Jack: Right.
+Austin: She’s just scanning for the ship. You have the Millennium Falcon, do you know what I mean?
+Jack: Yeah, yeah, yeah.
+Austin: You know, she’s saying it’s a silver Toyota Camry, there it is, the silver Toyota Camry. You know, with such and such of a thing. So…
+Jack: Yeah, then I don’t think I could counter this.
+Austin: Okay. Her intention, which I should have said out loud before, is simply to locate you, right? And to see if you are actually here. She is in the system trying to see if you’re here. And then was going to kind of like bolt away to another moon if you weren’t. But yeah. You now know that she is on your tail, you know? Her intention here is not like, “I’m gonna kill you if I can find you.” You know, necessarily. I mean, that might be her broader intention, but that was not the intention of that Conflict.
+Jack: Right.
+Austin: You kind of have to set up Conflicts one at a time in that way. You can’t just jump to the end, you know? There’s some language in the book around some key important things in terms of, you know, you should always say what using your means looks like. Plays should always stay grounded in the fiction, which is to say that things should—you have to set things up, you know, it’s important to have clear stakes. And you shouldn’t kind of go back and forth mechanically where it’s like, “I’m hitting you for one damage, but the damage is that I’m countering your Sentence.” Like, it doesn’t really work quite like that.
+Sentences always stand, which means that when you succeed at a thing, like, you know, you have found the place that will let you in here. I’m not gonna like, make you confused—you’re not gonna get down here and then be like, “Oh, this actually doesn’t connect to the casino. I thought it connected.” You succeeded. You found a way in. Doesn’t mean you got in, but you did find a way in. I’m not gonna take that away from you now.
+You should also always be thoughtful about how much flexibility to use when interpreting Sentences. We talked about that before with “back against the wall” being a sort of flexible, interesting phrase. I also note that—I thought there was one more of these here, but I’m not finding it. So, I think in general, the important thing is like, there’s always some gray zone on that. And, you know, interpret it towards the best interest of whatever the type of story is you’re trying to tell.
+Alright, so you now know that Carrie Cloud is on your back. You’re not gonna mark that as a failure, because you didn’t even actually use it. You know, you actually couldn’t. I guess I could say if you want to, you could still use a different Class Sentence to try to counter. Because I’ve told you you can’t use that one.
+Jack: Yeah, I don’t think so.
+Austin: You know, you could use “When fleeing from the authorities, I always pilot the Black Thistle, my Orphan Vessel, towards great danger.” But you did just tell me you didn’t want to create more chaos.
+Jack: [cross] It just gets me—no. And that would just get me towards other great danger. Also, great danger is massive. I think a lot about the moment in Palisade where, Austin, you specifically lock onto the phrasing like, “beyond your expectations. You will do damage beyond your expectations.”
+Austin: Yeah.
+Jack: Realis is a game that allows for that use of language. So I want to be very careful about letting us fly towards great danger.
+Austin: Yes. As you approach, or as you leave the Black Thistle, you see that there is a sort of security entrance to the kind of interior of this walkway that kind of opens up into—I’m almost imagining the great Hitman racetrack level.
+Jack: I am also imagining that.
+Austin: You know, this is the thing that—we have a lot of similar touchstones here. But I’m almost imagining that meets one of the Hitman levels where you’ll have the sort of like—I mean, that level has a private party that’s like, up in a little, like, a second floor restaurant that’s looking down at the thing. And I’m thinking of that, but putting it outside. Right? And putting it outside in space surrounded by moons and light and dark. So kind of just floating on this thing, but you can’t get into there, right? Because there’s a sort of security station that you have to pass through first. And there is a security guard who’s like, already eyeing you up as you approach. It’s a security guard, but I actually think this person’s probably more like the host at a restaurant. But serving dual purpose as host and bouncer. And as you—I’m guessing you’re approaching.
+Jack: Yes.
+Austin (as Guard): Ah, captain. I don’t believe we have you on the registry.
+Jack (as Amaretto Scandle): Well, that can’t be right. Check again.
+Austin: And they look down at their sheet, and they don’t see the name of Amaretto Scandle or the Black Thistle here. And they’re giving you an eye that’s almost like, “Wait a second, aren’t you that famous smuggler?”
+[Jack laughs]
+Austin: But which isn’t—you know, that’s not disqualifying, necessarily. Rich people use smugglers. You know?
+Jack: Yeah. Um… hm. This is great, because I get to decide what kind of a scoundrel I want to be. You know?
+Austin: A hundred percent.
+Jack: I have this Ephemera here, “The Divisible Diamond always pays my way.” [Austin chuckles] So I could just—I could obviously just try and bribe this guy. But that would be my last use of that. It’s also Reality 3, which means it’s very powerful.
+Austin: It’s true.
+Jack: And here we just have sort of like, security Jake who is trying to stop me from going in.
+Austin: True.
+Jack: I also have “When my back is against the wall, I always unveil a single use concealed weapon.”
+Austin: Yeah.
+Jack: Which is also a kind of Han Solo, you know?
+Austin: It is. You could shoot your way in. That’s true.
+Jack: Or I could threaten my way, you know?
+Austin: That’s true. It’s written—it’s “unveil.” It doesn’t say “shoot.”
+Jack: No. But I don’t know that my back is against the wall yet.
+Austin: No. Maybe if Carrie had landed next to you, you know? That would be the case. Because you’re like, “Oh god, I gotta get moving. This detective is chasing me.”
+Jack: Right.
+Austin: But that’s not there yet. Right? You’ve just been pinged, you haven’t been, you know, chased down quite yet. You also—you have some other stuff too. You’ve got some stuff.
+Jack: Yeah, let’s see. I have—I’m also looking at my Token, which I have one of.
+Austin: Sure, yeah.
+Jack: And one of the things that my Token lets me do is boost the rank of a Means. [Austin: Yeah.] I can use it to increase a Sentence or a Bond, or a Band Sentence if I’m in a group, by one. Or I can use a Moon Sentence as means.
+Austin: This is true.
+Jack: Or I can create and use a new Moon Sentence.
+Austin: Do you want to go over what the Moon Sentences are? We already read one of them.
+Jack: Yeah. “Hippodrome jockeys always run their longfish in serpentine curves.” “Hippodrome gamblers always lose after they win.” “Hippodrome security always spots a cheater.” “The Hippodrome casino always tempts those in search of something.” “The Hippodrome restaurants always offer endless buffets.”
+Austin: As you can tell, sometimes a Moon Sentence is flavorful, and you’ll have to—almost in classic PBTA you get a 7 to 9 on trying to gather information, you’ll have to figure out how to put it to your own use, you know? You’ll have to, in the Gibsonian term, you’ll have to be the streets that’s finding its own uses for things. The Hippodrome restaurants always offer endless buffets does not seem like one that is particularly actionable very easily. But, you know, I can imagine it. There’s many ways in which it could come up. You could do something very tricky here, which is you know what Sentence is probably going to be used against you by security Jake.
+Jack: Yes. Which is “Hippodrome security always spots a cheater.”
+Austin: That’s right. What could you do?
+Jack: I could play fair.
+Austin: You could play fair. There’s another thing you could do with your Token. You could use “Hippodrome security always spots a cheater.” And then the moon can’t use it.
+Jack: Oh my god. [laughs]
+Austin: Because you can’t counter a Moon Sentence with its own—with the same Sentence.
+Jack: Yeah.
+Austin: Now, I don’t know how you would use it. I know how—I know how I would use it, but I don’t know how you would use it, so.
+Jack: Could I use it to have him spot someone else who’s flagrantly cheating?
+Austin: You absolutely could.
+Jack: Okay, so I’m going to spend my Token here in this moment. And across the other side of the—I’m picturing this, you know, this beautiful outdoor party. There’s a woman whose veil is like 41 veils falling backwards off her hair.
+Austin: [chuckles] Yeah.
+Jack: And the veils move outside of the whatever it is that is generating the artificial gravity, so it’s like, lifting off up into the distance. There’s a man who’s absolutely drowning in strings of diamonds. And then there is a woman who, like, pulls what looks like one of those tiny little purse muskets from her bag. And points it at another man, and says, “You dirty cheat! Those are nine aces!” [Austin chuckles] And I think that, like, security Jake, you know, how does security Jake respond to this in this moment?
+Austin: You know, so I’m going to say, you know, I could still—what is your intention here? Your intention is to sneak in when Jake is distracted?
+Jack: Oh, yeah, yeah, yeah.
+Austin: Okay. I could try still to try to counter you, right? I could say “Hippodrome gamblers always lose after they win,” and then try to spin that somehow into a counter. I’m looking at what I have available. I don’t think anything that I have in play in the fiction—you know, I certainly have +1 and +2 Sentences available. But they’re not things that I have set up in any sort of, you know, meaningful way that would interfere here. So I think that you’re gonna succeed here. Security Jake, you know, hand to ear, goes, you know, “We’re gonna need backup on the Realis side yacht casino.” Or, you know, yacht tables. And then does the thing. Attaches a mask to his face so that just in case things get weird, he can still breathe. And this signals something to you, which is one of the ways that they do security here is they’ll just deoxygenate a place.
+Jack: [chuckles] Just vent the room.
+Austin: They’ll just vent the—I mean, it’s not even a room. They’ll just stop venting in oxygen that will, like, settle on top of this walkway. This kind of like, floating floor that’s floating in space next to the giant space eel races. You know? They’ll just turn it off, and they’ll let their security guys be the ones who can move quickly when everyone else is like, dealing with the lack of oxygen. Or they’ll probably decrease the amount of oxygen, you know? So yeah. Jake gets distracted, you’re able to move right in, and again, there’s sort of an interior—almost like a little tower that you can take an escalator or an elevator up in and then walk sort of—you know those bridges that are like—or not bridges. You know those glass hallways in like, aquariums, where the fish are all around you?
+Jack: Love those hallways.
+Austin: It’s that, but it’s space, and giant space eels being charioteered around a space hippodrome.
+Jack: God, that’s the fuckin’ life.
+Austin: That's the life. You know? Good gig if you can get it. I think it’s as you’re walking down that hallway, you know, looking out the glass, that you see Carrie Cloud’s ship or Orphan Vessel park outside. So you’ve got a good lead here, but she is on your tail a little bit. She doesn’t see you. You don’t make eye contact or anything. But you know. She’ll probably go investigate the Orphan Vessel, which is all locked up, obviously. We didn’t say that explicitly, but this is not a game where I’m trying to get you. You know? so.
+[Jack chuckles]
+Bad Bet at the Casino
+[01:01:42]
+Austin: So yeah. You head into the casino, I’m guessing. This is what you’re—this is your plan.
+Jack: Yeah, yeah. Do I have any lead on where the sort of Wordwright cache is?
+Austin: You believe it’s towards the center of the casino. That is what you have been told. I think you found someone who claims to have been rejected from the Wordwrights, or spent, you know, apprentice years among the Wordwrights. But was unable to complete the initiation right. And so he only knows bits about what the—you know, he doesn’t have any power, necessarily. He has, like, the very bare bones understanding of what their philosophies of the world are. He understands that they are great—he’s seen incredible things that no one believes. You know? And he’s the one who told you that there was a—because I think it was where he was hoping to be stationed. You know? And this is part of why he did not—part of why he did not pass the initiation ritual. He was like, “I really want to go to the one that’s in the middle of the casino.” And they were like, “Um, we can make and unmake reality. Maybe we, you know, the people who go there are the ones who don’t want to go to the casino.”
+Jack: I’m gonna make my way to the bar.
+Austin: Oh, I love this.
+Jack: And not just the—not just the sort of regular, you know, this is a casino. There’s all kinds of bars.
+Austin: Oh yeah.
+Jack: I think the bar that I am going to head towards is—it’s called… oh, man. It’s called Longfish, because of course it is.
+Austin: Of course it is.
+Jack: And it is a bar that is built on the skeleton of the greatest longfish racer.
+Austin: I love it.
+Jack: You know, it’s like what if we got—what’s the famous American race horse called?
+Austin: Uh, the one they made the movie about. Um… oh my god.
+Jack: Yeah, he’s called like Sentinel or Signalman or, like, something.
+Austin: Sea Biscuit?
+Jack: Yeah, Sea Biscuit.
+Austin: [chuckles] I don’t think it’s called Sentinel. It would be cooler if it was called Sentinel. Sea Biscuit’s a fun name, but…
+Jack: What if we got Sea Biscuit and we turned him into a bar?
+Austin: Yeah, great. Yeah. Uh-huh. Why not?
+Jack: It’s round. You know, the skeleton is curled up.
+Austin: Yeah. Oh, I love it.
+Jack: Because longfish—longfish make an “O” in the moments before their death, which makes them very sacred to certain, you know, people in and around Realis.
+Austin: Yeah. Love it.
+Jack: You know, sit down, order a drink, flip a coin onto the bar table.
+Austin: Yeah, yeah.
+Jack: Currency, I have to imagine, among the Thousand Moons is really weird, and I think that part of what’s going on here is that this coin is gold.
+Austin: Yes. That makes sense. It’s accepted most places. It has its own kind of intrinsic value for its uses, you know? It’s gonna get melted down and be used as wire in some piece of technology somewhere. You know?
+Jack: Yeah.
+Austin: Or they’ll continue to be exchanged as currency, because that’s what currency is. Currency and, like, “current sea” is definitely something you could play with in Realis. [Jack hums] Though it’s a typed game, or a written game, it’s not really a vocal game. Eh, you could still do it. What do you—so you’re just buying yourself a drink. Are you looking for someone to talk to? Are you trying to be spotted? What is the—what is your play here?
+Jack: I would like to… I’d like to strike up rapport with the bartender. You know? It’s always a difficult thing to do at a fancy bar in a casino. But I would like to get a sense of, you know, if there’s been anything odd happening on the floor today. I’m like, needling, looking for an in. Looking for a little weak spot or a bruise.
+Austin: Yeah, you know. Well, the bartender serves your drink and says,
+Austin (as Bartender): Here for the drinks?
+Austin: Or, sorry. Yeah.
+Austin (as Bartender): Here for the drinks or the race, captain?
+Jack (as Amaretto Scandle): Oh, you know, I’m mostly here for the race, but I’ll take a drink while I watch.
+Austin: You know, pours you some, the drink of the day, the special. And, you know, without any sort of prodding, is just gonna go back to doing what they’re doing.
+Jack: Hm. Well, that’s not good enough for me. Um… okay. Let’s see. I haven’t been here before, I doubt.
+Austin: You have been here before. We know you’ve been here before.
+Jack: I have been here before?
+Austin: Do you know how we know?
+Jack: How?
+Austin: Sentences are marked.
+Jack: Oh, shit! Sentences are marked! Yes!
+Austin: The Moon Sentences are marked. You’ve been here before. You know this place. I should have been more clear about that. That’s on me.
+Jack: On a previous journey.
+Austin: If we had been playing this campaign, you would know, of course, you’ve been here before.
+Jack: Yes. Alright, let’s see. I think I would like to get my Token back.
+Austin: Sure. Fun.
+Jack: There are a couple of ways that I can do this. [Austin: Yeah.] I can use my Impulse. I can act in accordance with my Impulse, which in this case is responding to a noble problem with dishonorable Means. My noble problem right now is I want to try and rob a casino. Not a noble problem, cannot respond to it.
+Austin: You can also do the moon’s Impulse. The moon’s Impulse in this case is “Make a bad bet.”
+Jack: Ooh. [laughs]
+Austin: Or there’s other ways to get your Token back. You could…
+Jack: Yeah. No, I’m just thinking about making a bad bet.
+Austin: Yeah. You could Realize a Bond, which you don’t have a Bond ready to Realize. You don’t have a Primed Bond. Or you could invoke a Tragic Success, where one of your Sentences deliberately leads you deeper into trouble. You can’t have a Tragic Success while you’re already acting or counteracting. You can’t be like, “Oh, I decided to do this thing—I have a goal in mind that would get me into trouble, and my intent would get me into trouble.” It’s its own separate thing. You know? You can’t counter someone trying to punch you and be like, “Well, I want this to get me deeper into trouble, so da-da-da-da-da.” It has to be its own unique kind of action in the game. So you could do that now. You could say, “Ooh, I want a Tragic Success. I want to get drawn deeper into trouble by using one of these Sentences.”
+Jack: I think I want to make a bad bet.
+Austin: I bet you do.
+Jack: I think I want to make a bad bet. You know, around the circular bar, like, holograms, except they’re not really holograms, they’re sort of like—it’s light projected through sort of like amber or something.
+Austin: Ooh, fun. Yeah.
+Jack: These sort of like, ripples in the amber on the top of the bar.
+Austin: Yeah.
+Jack: Oh yeah. I guess the skeleton is like, encased in amber.
+Austin: That’s fun.
+Jack: And around the ripples, you can see the longfish doing the race. [Austin: Yeah.] You know, the race is taking place around the bar as well. And I sort of attract the bartender’s attention. You know, just one way or another. I think I’m probably obnoxious about it. You know, in that—saying it loud enough that it’s clear that I’m trying to attract the attention. And I draw attention to the longfish that is right at the right at the back of the pack. He’s sort of like, limping insofar as an eel can limp. And I put, like, a—god, what do I put down on the table to bet with?
+Austin: Well, you have a couple things. You have some Ephemera that you could bet with.
+Jack: I do. I have this Wooden Compass that always shows me the way to safety. I have the Divisible Diamond that always pays my way. I do—
+Austin: The Divisible Diamond, I imagine, is—it’s like what if a diamond was a slice of butter and you could cut pads of it off?
+Jack: Wow. That’s sort of the exact opposite of a diamond.
+Austin: It is. And yet.
+Jack: I could bet Elio.
+Austin: You could bet Elio. Oh, Elio would be so mad at you.
+Jack: Unless—unless this is a thing that we do.
+Austin: Oh, right, unless this is a classic scam.
+Jack: Scoundrel scam.
+Austin: Scoundrel scam, yeah, yeah, yeah. Yeah. This is true.
+Jack: Look at this beautiful owl. [chuckles]
+Austin: Is this what you say to the bartender?
+Jack: “He serves drinks!” Holding him in the palm of my hand, he’s standing on the palm of my hand. You know I had a tip, a tip off, one way or another—you know, this is not direct dialogue, but you know, hearing a tip—hearing from my brother who breeds longfish that that longfish at the back there, he swallowed, like, a… he swallowed, like, a long spear. And that spear is needling away at his insides. And making his brain and his body move faster.
+Austin: I see.
+Jack: And you know, it’s just a matter of time until—
+Austin: This is a lie. You’re lying, right? This is not true?
+Jack: This is—I’m making a bad bet.
+Austin: Okay, yeah, yeah, yeah. Okay.
+Jack: And you know, by the—by the next lamp, that longfish, right at the front of the pack.
+Austin: That’s the bet you’re making. Alright, yeah. I think that’s a bad bet. I do think we need to put up some sort of—you have to bet something. You know? You have to lose access to something while the race is going. You know?
+Jack: I could lose access to my owl, I suppose.
+Austin: Okay, yeah, the owl is being taken as the bet. I think the bartender says,
+Austin (as Bartender): You’re sure about this?
+Jack: [sighs] I look into the eyes of Elio.
+Austin: Yeah.
+Jack: You know, just sort of like, the slow—what appears to be a solemn nod to the bartender is actually like a “You’re with me, Elio.”
+Austin: Yeah. Well, I think the bartender…
+Austin (as Bartender): Ah, sorry, I was asking the owl.
+[Jack laughs]
+Austin: And Elio goes, “Hoo.” And then like, hop. Hops off your shoulder. Lands on the bar. And then the bartender—with a speed that’s a little strange, produces a little cage. As if like, oh right, yeah, this a type of—this is—taking on living biological pets is a common type of bet taking here in the Hippodrome casino.
+Jack: Huh.
+Austin: And just, you know, Elio hops in, flexes his little wings, and the bartender places the cage on a little platform that begins to—it’s almost like a dumbwaiter that begins to like, descend deeper into the casino’s core. You know?
+Jack: Oh my god, to some awful room full of owls.
+Austin: Yeah. And then, you know, [mimics sounds of machinery], bzzt. Produces a little—from a printer, a little—like a coat check ticket. For if—you know, if you win the bet, you can go down and get two owls. You know? [Jack laughs] You can go get your owl back plus your owl’s worth of the winnings.
+Jack: if I’d known I was betting against another owl owner, I could have been much more specific about what I was doing.
+Austin: Yeah. Well, you’re betting against the house, and the house happens to move in many currencies, including owls.
+Jack: Can’t spell house without owl.
+Austin: You cannot, yeah. Classic.
+Jack: God, the longfish pouring around.
+Austin: Take your Token back.
+Jack: Yeah, I have my Token back. But I almost certainly lose the bet. You know.
+Austin: We’ll see, yeah.
+Jack: How do you want to arbitrate whether or not the longfish wins?
+Austin: Well, the race is still going. [chuckles] We’re on lap 22.
+Jack: It wasn’t—[chuckles] it was around the next lap, is what I said.
+Austin: Oh, it was on the next lap. I thought it was around the whole race. I didn’t realize that you were just doing…
+Jack: No, no, no.
+Austin: I see, I see. Yeah, you’re doing, like, a little prop bet.
+Jack: Yeah, this is sort of like, Roald Dahl.
+Austin: Yeah, yeah.
+Jack: You know, “I bet I can light the lighter a hundred times” or whatever. It’s five times in the story. [chuckles]
+Austin: Yeah, you know. I think there’s a couple of ways here. “Hippodrome jockeys always ride their longfish in serpentine curves.” I think the moon can try to use that Sentence to win the race outside of you being able to do—you know what I mean? Like, that’s gonna happen against the—and its intent is going to be that the longfish in the back stays in the back. Or we could do something fun that we do on this game, or on this show a lot, and like, just make something up. We could roll some dice real quick. This is not—this is a diceless game, but what if we just rolled a…
+Jack: [laughs] We’re here to demo Realis and we’re like, let’s roll some—yeah, alright, let’s roll some dice.
+Austin: Yeah. What if we just roll—how many longfish are there? You said 48?
+Jack: 48?
+Austin: Alright, roll a—let’s—[chuckles] I’m gonna go over to a virtual dice roller here. I’m gonna screenshare it with you real quick.
+Jack: Okay, sounds good.
+Austin: Do-do-do-do-do… let me grab this, grab this. Dice roller, boom. I’ll come over here. There’s 48 sides on one die here. Non-conventional dice roller. You’ve gotta get a 48 to win.
+Jack: Okay, sounds good.
+Austin: Bad bet. This is kind of exciting. I gotta hit the stop button. Tell me when to hit stop.
+Jack: Stop!
+Austin: 26. Bad bet. Elio the owl has disappeared into the depths of this casino. You get your Token back.
+Jack: I do. I do. I do get my Token back. There’s this incredible Hippodrome track Sentence, which is “Hippodrome gamblers always lose after they win.”
+Austin: Yeah, unfortunately, they do not win after they…
+Jack: Unfortunately, it’s not they always win after they lose. That’s not how the house works.
+Austin: In a sense, you did just sort of do this, though. You won by getting inside, and now you’ve lost, so.
+Jack: I have. The house always wins even against the brilliant—even against the wonderful Amaretto Scandle.
+Austin: Mhm.
+Jack: Oh, man. Alright.
+Austin: And in a sense, you’ve also proved the Sentence—where’d it go? “The Hippodrome casino always tempts those in search of something.”
+Jack: It does. Elio and I are tight. This is but a mere separation. This is not a goodbye. You know?
+Austin: Yes. Yes, of course.
+Jack: Okay. Sour. Amaretto doesn’t know that they’ve got their token back. I know that. [chuckles]
+Austin: Right. Correct.
+Jack: Rises from the chair, drinks my horrible drink.
+Austin: I thought you were describing your drink as sour when you first said the word “sour” too, so.
+Jack: I am sour and my drink is sour. This is because it’s a drink whose taste shifts to match your mood.
+Austin: Oh, wonderful. Perfect.
+Jack: The drunker you get, the less and less it tastes, until eventually it tastes of nothing at all.
+Austin: Wonderful.
+Jack: And it has olives in it or something. Drown it, chew on the olives. Sour. Do not leave a tip. What kind of scoundrel leaves a tip? Other than in the good bars. Stalking back towards the center of the casino, kind of like following the crush of the crowd.
+Into the Hippodrome
+[01:16:21]
+Austin: Yeah. I think it’s at this point that she is here on the floor. Carrie Cloud, the Hawkshaw who’s been following you, the detective from the Killiad Consortium, is again, now with the intention of cornering you, going to try to use the Sentence “I always sniff out enemies who’ve hurt the Consortium.” She is kind of looking across the crowd of people at various gambling games and table games and, you know, slot machines and similar devices. Scanning the crowd with her own eyes for you. What do you do?
+Jack: The weight of Elio’s absence on my shoulder. You know, his horrible little owl claws or whatever not being there. There’s like, three little pin marks where each of his feet stood on my beautiful blazer. I reach into the pocket of my blazer for my Wooden Compass, which always shows me the way to safety. I’m going to try and counter with this piece of Ephemera.
+Austin: And you know at this point that it will succeed, because Carrie Cloud’s—you have Carrie Cloud’s Sentences already. This is not, like, a secret Sentence. You’ve run across it before. When you first met Carrie, it was “I always sniff out enemies of the Consortium.” It’s now become, “who’ve hurt the Consortium.” So not just people they’ve determined are enemies, but people who’ve actually done damage. That’s gonna fail against you and this thing. I think that it hovers in the sky. Or not the sky, but the air in front of you, like it does, and it draws a line. It draws a—it draws the type of circle it did before, but then it starts hovering in front of you, and like, drawing, like, a video game waypoint laser light to follow. Something’s—it’s activated something here. Something is—it’s resonating with something here. It’s bringing you to safety. But it might be bringing you to more than just safety.
+Jack: You know, picking up—moving through the crowd quickly. Those great moments towards the end of Ocean’s Eleven where even among the casino crowds, Danny and co are like, moving with haste and urgency and nervousness following this thing. Looking back over my shoulder towards Carrie.
+Austin: Who has lost you here. Has not found you here. And in fact, you’ve countered the Sentence, importantly. Carrie does not, for the rest of the scene, have access to “I always sniff out enemies who’ve hurt the Consortium.” In fact, the way that the book explains countering, it’s not just that she doesn’t have the Sentence. In fact, it is more like the Sentence has been kind of rewritten to be in the negative, if that makes sense. I’m trying to find the exact way that it’s described. Here we go. It is now “I cannot” instead of “I always.” “I cannot sniff out the enemies who’ve hurt the Consortium” for the rest of this scene. Now the scene ends if we, you know, if you go do—let’s say we did 40 minutes of a different scene in the heart of this casino, and you’re—we get deep into a different—you start playing cards with somebody. That’s probably a new scene. But for the rest of this scene, which is you kind of traversing trying to find the hidden archive, she will not be able to use that Sentence, which is pretty useful, I think. You know?
+I think we get a sort of big, like, a diagram of the casino. We get a sort of like, it’s a big orb around which the longfish are racing, and there’s the kind of yacht, the space yacht, space Orphan Vessel yacht, mooring. But we get the kind of like—what do you call it? Like a bisected diagram. You know what I mean? The sort of like Steve Zissou style submarine cutaway. And we get both you moving through almost like family circus with the line that you’re following. And then also we can see Elio [Jack laughs] moving through the tubes and the tunnels and the different little mini elevators until, you know, he’s gonna land at the owl, you know, the secret owl vault at the heart of the—or towards the middle of the station.
+And we see something else. You know, there’s a point at which the compass guides you down a hallway, and then it stops and reverses, and starts leading you a different direction. And you’re like, “What the hell’s going on?”
+Jack: Huh.
+Austin: I’m reading you a new Sentence, a new Moon Sentence here. The Moon Sentence is “The Hippodrome’s penetralia always shifts in place.” There is, at the center of the Hippodrome, a wooden room that is on a sort of track inside of a big hollow. And in that hollow, you know, is this archive that you’re looking for, is this room that’s being—you know, it’s almost like on a simple rollercoaster track, or a mine cart track. You know? The whole big library is. And it is moving around.
+And so the compass has kind of—I mean, I’ll tell you outright. The compass is made of the same wood as the penetralia is, this kind of secreted away archive from the Wordwrights. And all of the time that it has led you quote unquote to safety, it’s because the thing that it thinks is safe is this room. And it’s been showing you how to get to this room the whole time you’ve been using it. Which is to say like, its goal—its Sentence has not actually ever been “get you to safety.” It’s always been “get you to the secret room,” and that happens to be more safe than the situations you’re in all the time.
+Jack: [laughs] Yeah.
+Austin: So you’ve experienced it as “always shows you the way to safety.” Which by the way, is crossed out now. You’ve used it three times. You still have it, it’s still guiding you, but it’s not gonna solve any crises or any Conflicts for you at this point.
+Jack: Yes.
+Austin: So yeah. You now kind of get the sense, you’re like, you’re walking up and down elevators, your escalators. You can like—you know in a video game when you can tell that something important is like, on the other side of a mountain?
+Jack: [laughing] Yes.
+Austin: Or—and you’re like, “I’ll just go around the mountain.” And you’re like, “It turned into a lake. Like, I can’t—now there’s a lake here. Now there's a town that the—oh, the walls are closed, the gate is closed in the town, so I can’t pass through the town to get around—ugh, how do I get in there?” Which is, at this point, the thing that is a Sentence that’s—I guess it’s either—I guess it’s not being used on you, but the thing that makes this uncertain is “The Hippodrome’s penetralia always shifts in place.” It creates an uncertainty that you’ll have to beat in order to find this room.
+Jack: Hm.
+Austin: But it’s not being used on you. You know? It’s not—I guess I could use it on you, and I could say something like, the intention of this moon is to befuddle you. You know? Which would force you—in fact, maybe that’s what’s happening. The moon itself, the Hippodrome track and casino, is trying to befuddle you using “The Hippodrome’s penetralia always shifts in place.”
+Jack: Right. I’m trying to look at my Sentences in terms of what could protect me or deflect me from being befuddled.
+Austin: Sure.
+Jack: Because your intent is to befuddle.
+Austin: That is my intent.
+Jack: That is the thing I am trying to counter with.
+Austin: Yeah. There’s lots of breadth here in the sense that you don’t need a Sentence that says “I am never befuddled.” Right? You could find a guide. You could get someone to give you a map that updates itself. You know, you have a lot of authority here in the sense that you are co-author. Right? The goal of this thing is—you know, again, there’s like a secret room in the middle of this whole complex that’s moving around. If you had some way of tracking that, it wouldn’t succeed. You know? If you could stop it in place somehow, it wouldn’t befuddle you anymore. You know? The Sentence would get countered. Or maybe you fail this, and you’re befuddled. But you find some other way to get there still.
+Jack: Yeah. Could you be specific about what you mean by alibi? Are you meaning that in the sort of, like, classical crime sense of like, “I wasn’t there, that’s not me?”
+Austin: No, it’s—I guess, yeah, the word “alibi” is maybe wrong. Well, it’s—you always have an excuse. You always have a reason to be somewhere. You always have an alibi for what you’re doing at the time. You know? I guess it could also be the classical crime sense, though. You know? “That wasn’t me, I was somewhere else at the time.” But it could also be, “Oh, no, no, no, I’m not the guy you’re looking for right now.” You know?
+Jack: Right. Yeah. Well then, I’m going to try and counter it with the Sentence “When I’m somewhere I’ve been before, I always have an alibi.” To try and look for someone who can guide me through this area. “I am—I should be here.”
+Austin: Mhm. Yeah.
+Jack: “You do not need to worry about me.” I am going to affect a role to get me through this.
+Austin: What’s that look like?
+Jack: I think that it is a subtle shift of Amaretto’s posture. And then just like, a long, shuddering sigh. And a sort of like, pained cry of like, “I’m lost! Come to my aid!”
+Austin: Interesting. Yeah. And I think that this works. I think that between the posture shift and the fact that you have the compass, it thinks you’re a Wordwright.
+Jack: Huh.
+Austin: You know? It recognizes you not only as not a threat, but explicitly someone who is supposed to be here. You know? So I’m gonna counter that Sentence “The Hippodrome’s penetralia always shifts in place.” Importantly, it’s no longer shifting in place. Right? Let’s keep that in mind as we continue crossing it out for the remainder of the scene as you’re trying to get towards it. I am marking it. And yeah. You know, the compass at this point can lead you the rest of the way there. It’s—you’re going down hallways. We don’t have to be super close in on this. You know, security remains distracted with what’s going on, so we’re not—you’re not gonna run into them. And you’re able to like, cut down strange corridors, and you know, take some stairs that suddenly go from being made from a synthetic material to kind of a, you know, iron or steel. Then to wood.
+And suddenly, you are at, floating in sort of the empty center of this place, it’s as if you’ve realized, “Oh, this thing used to be some sort of asteroid.” You know? And in the middle of the asteroid was this track on which this whole big kind of—I say big, it’s not that big. A sort of study. Maybe bigger than a study, smaller than a library. You know? It’s on these tracks. And it’s come to a halt at one of the many sort of places that it can come to a halt, and people can get on or off. You know, it’s almost like a room that is a tram, that takes you around the interior of the casino. And it’s made from—the whole thing is made from wood, like an old rollercoaster. And it has come to a sort of halt.
+And it’s quiet here. I don’t know what you expected, but there’s no—no one is standing guard, no one is, you know, holding up a torch or a flashlight looking for you. It’s just a—it’s almost like looking at a house in the valley. You know, you’re climbing down these stairs towards it, and it’s just this big black gulf, this dark room, except for this wooden structure that’s being lit by kind of floating kind of orbs of light that are kind of hovering around it or being kind of projected by it. And it’s sort of like a very craftsmanlike structure. You know? Like, there’s—you can feel the hand of the craftsmen who designed this place. You know? In some ways, this is the classic, like, the Wordwrights are sort of like monks and not just magicians. And they often have a sort of project on top of whatever their spiritual pursuit is. And in this case, it was the house itself. It was the archive itself. So yeah, you’re here. What do you do?
+The Archive
+[01:28:30]
+Jack: [pause] You know, down the steps into it. There’s like a desk and a chair. It’s like a study, right? Or it’s…
+Austin: It’s like a study, yeah. It’s bigger than a study, smaller than, like, your town’s library. You know?
+Jack: Yeah.
+Austin: You know, it’s like a school library. Does that make sense?
+Jack: Yes.
+Austin: You know, it’s like one or two floors, and not like a university’s library, but like a high school library. Maybe it’s a floor, maybe it’s two floors. It’s about that many—it has that many shelves, but it doesn’t have—it’s not a vast library, you know?
+Jack: This is tough, because the thing that I was hoping for, that Amaretto was hoping for, was either one or two big books, you know, that I could take with me. Or like a crystal or something.
+Austin: Of course.
+Jack: You know, I think that they had sort of been picturing this moment of discovery as a sort of like, rapturous sort of visitation of knowledge. You know, that it would kind of come pouring into them. [Austin: Yeah.] And so to be faced with, you know, must be like five hundred books or something, you know? Um… it’s difficult. And I think that the first thing that they do—they—I enter and I just, you know, flip open a page that’s open on a reader or something to just glance at it.
+Austin: Yeah. Uh, it is not a Wordwright book at all. This—it’s talking about—it’s talking about some, like, basic—maybe not some basic, you’ve flipped to a random page—it’s talking about advanced alchemical science. You flip to a different book, a different page, and it’s talking about how to draw on the power in blood and flesh. And you look at a different book, and it’s talking about how to summon the magnetic forces of the moon, or how to put moons in alignment in order to predict the future. This is not an archive of wordwright power. This is an archive the Wordwrights kept of other people’s power.
+Jack: Shit.
+Austin: Which is very useful.
+Jack: Yeah.
+Austin: But is not access to the greatest, you know, transcendental spiritual sorceries. It’s everything. You know, the wordwrights were above it all. You know? And it’s not access to their power. But it is sort of the—the sort of place that could teach you how to do—I mean, you have to teach yourself a lot, but you know.
+Jack: How is this room mounted into the asteroid?
+Austin: It is on tracks. It is on, you know, rail tracks. Rails. Just in the center of the asteroid. There is no, like, hole out of here.
+Jack: Is there a sense of how it was brought in here?
+Austin: They built it.
+Jack: Do you think it was built inside? Yeah, it wasn’t, like…
+Austin: Yeah, a hundred percent. Yeah. They, you know, cored this asteroid and then built this here. You do notice that there is—it does look like maybe there had been some other structures on the rails at some point. You know, maybe you find a map of the facility. And there’s this, and then there was supposed to be another, like, the house. You know, or the—not the barracks, but like, the dorms or whatever. More Wordwrights certainly lived here once. And this seems to be the only structure that remains. But you’re not sure why.
+Jack: Huh.
+Austin: I could tell you why, but I want to make sure you have a little—that you have the initiative, so to speak.
+Jack: Yeah. The patient reading time in the thing. I mean, I know that Carrie is hunting me.
+Austin: You’ve done a pretty good job of losing her.
+Jack: Of losing her.
+Austin: And the rest of the Sentences of hers that you know are really for once she’s found you. You know?
+Jack: Yeah. I think that I would like to… man, it’s so hard. Alright. I’m going to take a couple of books. I’m going to take, you know, a book on—I’m looking for books about, like, binding and conjuration or something. I’m looking at my Dream here, which again is, “I will learn enough to fix what I broke.” So I’m trying—I, Jack, don’t know what we’re looking for there. But I think also probably Amaretto is going for a real broad spectrum.
+Austin: Yeah.
+Jack: You know, things to bind things together. Things to sort of conjure or build things out of nothing. Things to like—does time travel exist?
+Austin: Right, right, who knows?
+Jack: Probably. Things to like, conjure something backwards or forwards in time. [Austin: Yeah.] I know that these aren’t Wordwright books, they probably don’t have the kinds of powers that the Wordwrights did, but if I was someone who did know how to work through time travel or whatever, I would also be collecting, like, early historical accounts of time travel or something. You know?
+Austin: Yes, yes, totally. You said you’re spending your Dream on this?
+Jack: No, I was—
+Austin: You’re being influenced by what that Dream is.
+Jack: I’m being influenced by my Dream.
+Austin: I see, yes. Yeah, okay. So yeah, you’re able to start picking through these things. But it’s hard. Like, you’re—this isn’t what you’re—you’re not an expert at this. You’re a smuggler. You know? This is the damn trick, right? If Han Solo wants to become Gandalf, Han Solo has to become Gandalf. Right? And you’re really at the Han Solo part of your career. [Jack chuckles] With enough time here, you might be able to change that. This is a game about change, after all. But you’re not alone. Jack, can you counter the Sentence “I always remain undetected until it’s too late”?
+Jack: Ah, now, here’s something that happens quite a lot in Realis, which is that as players, you start trying to figure out a GM’s Sentence. You’ll notice that Austin didn’t say “can you counter a Reality X sentence” or whatever, but he did read it.
+Austin: I did. I’ll say it again, I am—
+Jack: And he can say it—we can ask him to say it again.
+Austin: Yes.
+Jack: I think that it’s in the book, right? That like, players can always ask for clarification of the Sentences being used.
+Austin: I believe so, yeah. And I will read it again for you. It is “I always remain undetected until it is too late.”
+Jack: So this, to me, sounds like a Reality 1 Sentence. “I always remain undetected, until it is too late.”
+Austin: It could be, yeah. It could be.
+Jack: I’m gonna use my Sentence “When my back is against the wall, I always unveil a single-use concealed weapon.” My back is against the wall because here I am in this underground room. You just said that I’m not Gandalf, I am a scoundrel. [Austin: Yeah.] I am deep in a casino, there’s someone above me who is possibly hunting me, and I can get a sense in the way that sort of people acting in Realis can that someone is about to act against me.
+Austin: Yeah. And they were going to. This is going to succeed. Their intention was to kill you and devour you. This is a Woodeater, specialists in skulking and sieging, who work to weaken enemy infrastructure. By the time a unit is spotted, it is often too late. It is a type of humanoid bug. It is a sort of humanoid termite. It leaps—or actually, it crawls slowly. You catch it out of the corner of your vision kind of crawling in the shadows of this kind of library. And it’s like, getting ready to leap on you. And, you know. Knock you out. What’s happened to the rest of the structures that were here? The Woodeaters ate them. But it seems like they were maybe abandoned here, or they’re not part—the Empest fleet is not here. You know, you’ve run into the Empest before. They’re a sort of—
+Jack: Oh, this is one of the Empest?
+Austin: Oh, yeah. Yes.
+Jack: Huh.
+Austin: You’ve never run into one like this before. The Empest are a sort of—what if the Roman empire went to space and became so deeply corrupt that they became space bugs? Big chitinous, you know, gooey space bugs. They still have a lot of the structure of empire. They still—they’re a swarm, they’re locustal, they come in waves and seasons. They have a sort of insect efficiency. But also, sometimes they leave groups behind because they move on. And a group like this, this was once a vast unit—and I’ll tell you right now, you’re lucky that they are not all here, because they have a—wood-eaters have a +3 Sentence, “When I work with my unit, I always devour anything not made of stone or metal.” [chuckles] So pretty powerful if they’re working together. But this seems to be the lone one left. Whatever situation—you don’t know what happened here, right? Maybe the Wordwrights fought them off, maybe they were only able to destroy parts of it before the Killiad Consortium—or sorry, the Freemoons Assembly took over this place and started building a casino on top of it. You’re not sure. But you do know that there is a creature leaping at you from the shadows. What is your one-use concealed weapon?
+Jack: My one-use concealed weapon is a gun that I found in the wreckage of a town that had been destroyed by a volcano. It’s like—I found it in, like, Pompeii. You know? A guy was—I found sort of the shape of a man holding the gun in his hands. Pointing it up towards the volcano. Either in threat or in action. I don’t know what this gun does until I fire it. Or rather, Amaretto doesn’t, but I know what it does. This single use gun swaps the object with the object that is sort of like directly behind it with a massive amount of concussive force.
+Austin: Oh, interesting.
+Jack: So what this essentially does is it, like, drives the Woodeater backwards through the, like, stone body of the asteroid. And at the same time, like, launches stone towards me, that I, like, dive out of the way of.
+Austin: Incredible. And yeah, I think that you’re—you know, I think we could keep playing here. Notably, that Sentence is Realized. Or not Realized, is Primed. “When my back is against the wall, I always unveil a single-use concealed weapon.” You could Realize it, you could make it a tier three Sentence if you wanted to.
+Jack: I was thinking of doing that, but I could see that I was going to beat your Sentence.
+Austin: Yes.
+Jack: But for the purposes of this, I could Realize it to something like “When my back is against the wall, I always unveil a single-use, silenced, concealed…”
+Austin: You could not do that.
+Jack: Why not?
+Austin: Because at that point, what you’re doing is making it—I mean, I guess you could. This is a thing we could work back and forth on. I don’t know that “silenced” is a qualification of the sort that Realization talks about specifically. If you go read the section on Realization, one of the things that is super important is “The only rule about Realization that you must always follow is that the Sentence must be restricted, not expanded.” I guess this isn’t an expansion. And the specific thing that it—the example I use is “I always know how to enter or use the Drift” could become “I always know how to enter or leave the Drift when piloting my Orphan Vessel.” But never “I always know how to enter or leave the Drift and other mysterious realms.” You’re right that “silenced” is a restriction, but I’m cautious about it, because it’s also an ability. But I do—I guess you’re right that it is—if what you want is a rocket launcher, you can’t have a rocket launcher anymore. But what I don’t want you doing is saying…
+Jack: Yeah, if I want to make a big noise, cause a distraction.
+Austin: But the thing that’s important is you can’t now just say, “Well, I have a silenced rocket launcher.” Do you see what I mean?
+Jack: Oh. [chuckles] Yes, I see.
+Austin: You don’t see the problem with this, Jack, because you’re Jack de Quidt. And you will always read the Sentence tightly. But there are players for whom—and so I think that’s just an important thing to say is a good example, of, like, the negotiation around this. It should always feel more restrictive. I’m happy for you to—you can go with this here. But…
+Jack: “I always unveil a single-use unwieldy weapon.”
+Austin: Perfect. A hundred percent perfect. Yes.
+Jack: And this would now become a Reality 3 Sentence. So here’s the thing. Alright, I’ve gotten myself an unwieldy weapon. But I’ve also gotten myself a Reality 3 Sentence.
+Austin: Yes. Which can beat anything in the game that isn’t a dream.
+Jack: It’s true. [chuckles] It’s true.
+Austin: There might be a couple of +4 Sentences in the full book. I don’t remember if there’s one in the Ashcan. So.
+Jack: I think I’ve seen a +4 Sentence.
+Austin: There’s Ephemera that are +4. Very, very rare. You know, the Master Sword might be +4. The One Ring is +4. You know? Ephemera can also be things like alliances or treaties or beliefs. And so, you know, what’s a famous—what’s a famous, like—oh, you know when Aragorn—I don’t know why I’m doing the Lord of the Rings so much. You know when in the movies—
+Jack: We’re kind of doing Lord of the Rings a lot today.
+Austin: I know, it’s weird. Well, like, you know, I think that this is a—you know, it’s a +4 sentence, let’s go to Berserk instead. +4 Ephemera is the Behelit from Berserk. The relic that leads to the eclipse that fundamentally transforms the world is a +4 Ephemera. You know? These sorts of things, these sorts of, you know, setting-shaking powers, are +4s. And Dreams can beat even those. So… so yeah, I think you’re able to stay here. And I think that this is sort of, you know, rare case, we’re gonna leave you learning enough to fix what you broke, whatever that was, here among the books of different types of magic. You know? We don’t need to keep playing this character, even though I like them a lot. Maybe we’ll come back to them one day.
+End of Session
+[01:42:45]
+Jack: Owl vault.
+Austin: Yeah.
+Jack: Owl vault.
+Austin: My read is that you’re gonna stay here. So you’re gonna have time to go get your owl.
+Jack: Oh, yeah, no. I’m just thinking, what’s going on in the owl vault?
+Austin: Oh.
+Jack: Elio, presumably has their own Sentences, you know, in the shape of the world.
+Austin: Elio—well, you know what? Actually, Elio does. In this book, there are—one of the classes—one of the NPC classes I made sure existed was in this book was for birds. The Preybird is in here as an NPC. Let’s see what the Preybird has. The Preybird has “I always fly from danger,” “I always flock towards food,” and “From the air, I always see more than others.” “I always fly from danger,” I think, is going to serve Elio just fine.
+Jack: Oh, yeah.
+Austin: Maybe it’ll take a little while, you know?
+Jack: Well, it’s going to take me a little while to learn how to, you know.
+Austin: Summon the portal that will get Elio free.
+Jack: [chuckles] Yes. One of the first spells that Gandalf learned, of course. “Save owl.”
+Austin: Well, I think one of the first spells Gandalf learned was “save bird,” which is why those birds helped them out in the end. You know? So yeah.
+Jack: Oh, yeah. Yeah. Is there anything else we want to hit here before we go?
+Austin: I don’t think so. I think this is a good—you know, there’s an end of session in Realis that I think is actually really important. I was just talking to Ali about how to make sure that those—I mean, she was just talking to me about how do we make sure those are in there, because they’re so important. If you work towards achieving your Dream, you get to mark a dot next to one Means of your choice. Obviously, you could do that to an Ephemera, but that’s like, wasting an Ephemera. But it does mean that for instance, if you wanted to mark the Elio the owl Sentence, even though you didn’t use that Bond, you could mark that Sentence.
+Jack: Absolutely used my Dream.
+Austin: So—or you worked towards your Dream, rather.
+Jack: Yes. Did not use my Sentence.
+Austin: Yeah. So that means you could mark any Sentence you wanted. So you could mark “When I’m somewhere I’ve always been before, I always have an alibi,” if you wanted to. Right? To Prime it for Realization. Then you choose a Means that shaped how you played your character, but which you didn’t mark during play, because it didn’t fail, for instance. And you get to mark it. Another way to make sure that progression is just flowing through the game. So for instance, you didn’t fail “When my back is against the wall, I always unveil a single-use unwieldy weapon.” But you could Prime it. Or, sorry, you could mark it here. You didn’t use “When fleeing from the authorities,” et cetera. You could mark that one. You didn’t mark “When I’m somewhere I haven’t been before, I always have an alibi,” because you succeeded. But you could mark that again, because it did kind of guide how you played.
+You write down the current status of your Token. If we were playing at a table, we’d want to make sure that on the sheet, it said “Hey, yeah, I have a token.” And then you review your Means to make sure that they are all properly marked. A thing that we didn’t do here, but is important to think about, is at any point, you could have Honed one of your Sentences for the session. Right?
+Jack: Yes.
+Austin: So you could have said, “I always keep my cargo concealed from technological devices.” You could have said, like, you know, that didn’t come up specifically, but like, “When I have the time to prepare,” or you know, “When I can distract someone with some charm, I always keep da-da-da-da-da.” Or when— “I always keep my living cargo concealed from technological devices” or something like that. You know? Something more specific than just “cargo,” which is really broad. And then—and so you’d un-Hone it, you’d write it back the way it was originally. Or you know, erase whatever you’ve added. Make sure that things like Ephemera have been marked properly, that Dreams are crossed out if you use them, et cetera. Importantly, a Dream is a once per campaign use. If you had used your Dream, you would have to cross it out here, because it would be gone. And then you review Bonds and Dreams and Band Sentences to make sure that they’re all good. And if it’s time to Realize one of those, you go for it. You Realize it. Or you take notes on how you want to Realize it before you start playing next time. You know?
+Jack: Yeah.
+Austin: But I think that that’s kind of the big thing. That’s kind of it. That’s Realis in an hour and a half. Or an hour and 40 minutes, I don’t know how long the edit’s gonna be.
+Jack: There’s a lot more in it. It’s the Great Plateau.
+Austin: It’s the Great Plateau, yeah, as we talk about a lot. Zelda and Lord of the Rings today being—even though those aren’t like, key influences on this game. You know.
+Jack: Zelda for Perpetua.
+Austin: Zelda for Perpetua. Hugely.
+Jack: Oh, do we want to talk about Perpetua briefly?
+Austin: Yeah, let’s pitch Perpetua.
+Jack: For people who might be hearing Realis for the first time?
+Austin: Yeah, so Realis, this will run in this main feed for I believe the next four weeks, the next month or so. Ali sent us a doc over yesterday about how the episodes are being cut up, but I don’t remember what it said. The first few episodes, or the first kind of arc of the game, this intro episode, then an episode of character-building for a group of players. Then the first—it looks like it’s actually going to be the first—this next six weeks is going to be Realis is what it looks like. Or maybe the next five weeks. This will come out with character building, probably. And then there will be another four episodes after that. And those will all come out in the main feed. And then—and on the Patreon feed probably, also. And then the remainder of the season will be all on the Patreon feed over the next year or so, probably. We have a lot of that recorded already.
+Meanwhile, in the main feed, we will be launching a new game. Fabula Ultima is a kind of JRPG-inspired tabletop role-playing game by Emanuele Galletto that is fantastic. We’ve recorded a handful of sessions for that along with a worldbuilding game. We used the game Cartograph to map out part of the world. That game was a joy to play. I think of that almost more like a “Road to,” in some ways, Perpetua. I might even mark that in the feed as The Road to Perpetua. And I don’t want to say too much about what the premise of Perpetua is other than classic JRPG meets kind of Dreamcast aesthetics as the kind of tonal aesthetic pitch. But beyond that, I’m trying to keep some stuff close to the vest here. It’s been a blast, though.
+Jack: Oh, yeah.
+Austin: Jack has a great character. Everyone’s characters are incredible. It’s been a joy so far.
+Jack: It’s great.
+Austin: And that’ll start running again in about a month, a little over a month in the main feed. And that’ll be the primary campaign for Friends at the Table in 2025. And probably beyond, but no promises.
+Jack: [chuckles] Okay. I think we’re good.
+Austin: We did it. Jack, where can people go find the music to Realis and the rest of the campaign?
+Jack: You can find the music to Realis at notquitereal.bandcamp.com, where you can see the amazing cover art by Gryme, who’s on Instragram at Oddesque. It’s so cool. The music has been, like, I was describing it to my partner yesterday in terms that she did not understand, but you will. As like, trying to open the big gate to Killua Zoldyck’s house. [Austin laughs] Just pushing against this gate for months and months and months. And hopefully when you hear the theme, you will understand why it took so long. But the Realis soundtrack is really odd and really fun.
+Austin: It’s so good. Speaking of Killua Zoldyck, you should also listen to Media Club Plus, where Jack, you, along with Dre, Sylvi, and Keith, have been watching and commenting on Hunter x Hunter, the 2011 anime adaptation of Togashi’s manga. Which was not a direct influence on this game, but it was one after I watched it. I made the core of this game before learning what, for instance, a Nen condition was. And my friend Wes at the time was like, “Dude, you don’t understand, but you made a thing from Hunter x Hunter that you have not seen yet.” [Jack laughs] And boy, did I. I did not realize that I was doing it. “When I am fighting the Phantom Troupe, I always…”
+Jack: Yeah. It’s true. You don’t want to be fighting the Phantom Troupe.
+Austin: I don’t.
+Jack: Only a good time with the Phantom Troupe. Although unfortunately, the Phantom Troupe gets to decide when you’re fighting them most of the time.
+Austin: That is true. And you know, a great example of the way a Sentence in this game can work, right? Was like, you know, Kurapika has some stuff that’s like, how could anyone ever beat this? And the answer is, oh, just don’t be part of the Phantom Troupe. And then they can’t use it against you at all. So.
+Jack: Yeah. If you’re listening to this and thinking “I don’t know what the hell you’re talking about. What is Hunter x Hunter?” A, you should listen to Media Club Plus. And B, you should just watch Hunter x Hunter. It’s great.
+Austin: You should watch Hunter x Hunter. It’s so good. Alright, I think that’s going to do it for us. Thank you so much for joining us. Again, you can check this out by going to thecalcutec.itch.io. Or I should say this clearly, you can go to the itch page for Possible Worlds Games. Which I believe is—I’ll double check it here. I want to make sure I get it right. Possible hyphen Worlds hyphen Games dot itch.io. It’ll be there in a new kind of section at the top of the page. And you can go ahead and click that and check it out.
+Jack: Of course, Austin’s been making unreal for more shooter maps for the last eight years. You can check those all out at this itch page.
+Austin: That's—I wish. I wish that’s the life that I was leading, but unfortunately the only other thing on there is A(s)century—
+Jack: [cross] It’s a good game, though.
+Austin: —a twine game I made about 14 years ago or something, which is wild to think about.
+Jack: Alright. Have a good night, everybody.
+Austin: Bye, bye, bye.
+Outro (Season Teaser)
+[01:51:56]
+[music outro - “Realis” by Jack de Quidt]
+Austin (as unknown): Hey, everybody! Seven hundred loops! That's the take tonight!
+[crowd cheering]
+Austin (as unknown): We got beef stew on the fire! We got a beautiful song coming from my daughter Crystal. And we got another day of work tomorrow, so everybody dig in, drink up, get some rest. And a little special announcement. I had a meeting today with the lord of the old citadel, Lord Bein, Lord Theragon Bein himself, and he has invited us to do a little internal show tomorrow night.
+-
+Keith (as unknown): Hey, are you a jerk?
+Austin (as unknown): What’d you call me?
+Keith (as unknown): I didn’t call you anything.
+Austin (as unknown): Oh, it was rhetorical. It was a question, so it doesn’t count.
+Keith (as unknown): No, I was just asking. Are you a jerk?
+Austin (as unknown): Are you a—hey. How about you come over here and see if I’m a jerk?
+-
+Austin (as unknown): You simply do your readings here at this table? There's no device? No telescope or observatory? There's no orrery for you to consult?
+Ali (as unknown): No, no. The connections made are very organic.
+-
+Austin (as unknown): You’re cheating. I missed that shot. I feel it. I missed that shot. Guards!
+Art (as unknown): This circus is under my protection.
+Austin (as unknown): Cheaters and ghosts! I will have the lord know about this, and you’ll all be sent away!
+-
+Austin (as unknown): I think they have something real special in the vault here. Real special. We could make it big big.
+Art (as unknown): Big big?
+Austin (as unknown): Big big! We could get our own ship, we could—you and me and Wellaway—we don’t need this place anymore. We could make it big big. It’s called the Skipping Stone. Big gem, big as my face.
+Art (as unknown): Big as your face?
+Austin (as unknown): And it’s magical. And it’s in this book, look. It says here it was lost on Ulled. And this is Ulled.
+
+
+________________
+[1] Spelling unknown.
+[2] Spelling unknown.

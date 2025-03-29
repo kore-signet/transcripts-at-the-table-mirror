@@ -1,0 +1,883 @@
+﻿PARTIZAN 29: Buried Beneath Golden Leaves
+Transcribers:        Adam (@desc_q)                00:00:00 – 00:39:00
+                Ida (@gentledownpour)        00:39:00 – end + copyediting.
+[Opening — 00:00:00]
+[Music begins: TANAGER. PERFECT. TOUCHPAPER. by Jack de Quidt.]
+AUSTIN: It had been years since an actual stranger had knelt before Crysanth Kesh. Partly, that was because she knew everyone within a few rungs of her place on the societal ladder, and knew their servants, too. And thus, such prostration was usually reserved for unctuous ministers of state, or disposable assets who’d realized their utility had reached its limits. So this was new: Someone she did not know. A jeweler, she thought, based on the little kiosk he’d set up on the main strip of this ad hoc town of exiles. An older man wearing a well-kempt beard and the golden ribbon of the Loyalists.
+Above and around them, yellow leaves caught the light of Girandole and its sun, giving the air more shine than any of the paste this man was selling as if it were precious treasure. But he had a shine all his own, Crysanth must admit. A reverence for her, a belief in the Stel and its eternal commitment to being the best of humanity, and a few short words about the loss of her daughter: Clementine, whose effigy would be put in the ground in just a few short hours.
+As she bought a cheap brooch, she revisited a question she thought she’d settled: Given all that had happened with Clem, was this ceremony fair? Despite having the finest education, the resources of the first Stel, and the most powerful name in the galaxy, her daughter had turned out to not only be incompetent, but incompetent at betrayal—so why should she get a state funeral? “Well,” Crysanth though, “Not all grapes are fit to become wine. And what do you do with sour grapes? You roast them, until they are a tart and memorable dessert.” That is why Clementine deserved a state funeral—because in death, she could be something she never was in life: Useful.
+[Music plays out.]
+[Introductions & Announcements — 00:02:36]
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today: Janine Hawkins.
+JANINE: Hi, you can find me at @bleatingheart on Twitter.
+AUSTIN: Andrew Lee Swan.
+DRE: Hey, you can find me on Twitter at @swandre3000.
+AUSTIN: And Art Martinez-Tebbel.
+ART: Hey, you can find me on Twitter at @atebbel.
+AUSTIN: Ok! Before we start today, I just want to make a couple of quick announcements. They’re all pretty good, they’re all good announcements, [chuckling] they’re large and small and everything in between. The first is to quickly shout out The Growing Conflict which is the name of the first Beam Saber expansion, by Austin Ramsay. I say first, but I don’t know if there’s another one coming or anything, but, you know, it’s the first one that Austin’s made. And that’s available at austin-ramsay, R-A-M-S-Y, .itch.io [austin-ramsay.itch.io]. You could just do a search for “Beam Saber itch.io” and you’ll find the PDF.
+It’s 15 bucks, it has a number of new playbooks and rules around factions, believe it or not! [chuckling] It’s really good. If you’ve liked some of the moves that Art has with the Hero playbook, the stuff that Janine has with Thisbe’s Artificial playbook, that stuff is there. We have another character coming in the other half of this game. Keith’s new character is using the Transformed playbook. So it’s a great book, it’s 15 bucks. The playbooks are all really cool, the new faction rules are all really cool, and we might dip into them a little bit, I’m not exactly sure yet, but I want to shout it out anyway. So that’s one.
+Two: There’s a new website—uh, there’s a new URL, I guess is what I should say. You should go check out the Friends at the Table Transcripts. The transcript team has done incredible work, and there’s only a handful of things left from the main seasons left to be transcribed. And you can go to transcriptsatthetable.com to get them, and get information about how if you wanted to start doing some of the transcription. It’s paid work, so it’s definitely worth looking at if that’s something you’re interested in. There honestly isn’t too, too much left, which is exciting. Again, the main feed I think only has… I wanna say between six and ten more things left to do—maybe it's more like, between ten and fifteen—and the Patreon feed only has like twenty left, something like that. So, they’ve done incredible work, shoutouts to the transcription team. I’m so proud of the work that they’ve done. It’s so cool to see the show that way and share it with more people and make it a little more accessible. So, everyone should go say thank you to the transcription team. You could also find the transcription info on Twitter at twitter.com/transcript_fatt.
+And finally: This coming Tuesday, the 25th—uh, August 25th—we are going to launch pre-orders for a new set of merch with our friends at FanGamer. For this thing… [in a hushed tone] I’m doing a little tease there, is what I’m saying, ‘cause there’s another thing. [regular tone] But for this thing, we have three new products that are coming up. There may or may not be images in this post for them, because we’re waiting to get product images still, um, but they’re incredible! One is an Aria Joie concert t-shirt, so if you’re a COUNTER/Weight fan who has always wanted to see Aria live, well, we can’t make that happen, but we can give you a prop that makes it look like you have. That is a really, really incredible shirt, the design is by Aya Francisco who you can follow on twitter at @ayapizza—uh, like, pizza like the delicious food. Aya’s art has been so good forever and she did some great stuff around the COUNTER/Weight characters forever ago, and we’ve been wanting to work with her for a long time, so we think that this shirt is fantastic and hope you enjoy it.
+The second thing that we’re releasing is a new t-shirt that is a “Boat Party!” t-shirt. We worked with a designer named Tony Kuchar—K-U-C-H-A-R—uh, at FanGamer for this design. I think it’s really cool. It’s a very, like... neon-y, like, hangout, boat party vibe shirt. Like, it is— It very much just looks the way “Boat Party!” makes me feel. So I’m very happy about that one. And finally we collaborated with Annie Johnston Glick who we worked with before on, for instance, the Marielda GenCon poster, and for the maps for this season—this PARTIZAN season—um, on a new hoodie! A PARTIZAN Millennium Break hoodie that is just fucking fantastic, it’s so good. There’s a giant red moon on the back that’s, like, completely disintegrating into glitch art. There's another incredible design on the front that is the spear of— uh, like a spear, like a partizan, being broken in half, being… millennium broken. It’s so good and I’m so excited to wear it.
+Uh, and, so all of that stuff will be available too. Annie you can follow, by the way, on Twitter at @danceynrew, D-A-N-C-Y-N-R-E-W. Pictures of all of this stuff should go up in the next few days. There’s a chance that it’ll come out with this post, there’s a chance that the art would still be, you know, kinda coming in hot—the product, you know, pics coming in hot. Uh, but regardless: Tuesday the 25th of August is the day to go pre-order. Pre-orders are good because, unlike our last FanGamer drop, it means [chuckling] that everyone should get to preorder what they want. I don’t think that there’s, like, a limit on what the pre-orders look like, and in fact, the way we’re doing it this time will ensure that we don’t run out of a certain size very quickly or something like that—I hope anyway.
+We do have another thing coming. I don’t know that it’ll be this year, we’re going to see. What I will say is, [pausing] it’s probably the merch I’ve been most excited about ever, um, so look forward to that sometime in the near future. Again, maybe not 2020, maybe that’s 2021, but I’m really excited about it. I’m really excited about all of this new slate of merch we’re dropping this coming Tuesday—or we’re not dropping it Tuesday, but the preorders start Tuesday. Um, and big thanks to Art and Ali who really really spearheaded this round of merch and who are generally merch brain geniuses. I’m... Ali is not here right now, but Ali is the one who, years ago was like “One day, we’re going to do merch, and we’re going to do an Aria Joie concert t-shirt.” This has been in Ali’s mind for like [fondly] four years now—uh, maybe five years now. Since COUNTER/Weight, so five years now.
+Uh, so, you know… Ali, we don’t gotta dream anymore, we got real shit! I’m very very happy [chuckling] that the Arie Joie concert t-shirt is real. I’m very excited also about the Boat Party shirt, which seems like obvious merchandise. Why would you not make a Boat Party shirt? And the PARTIZAN hoodie, which I am going to hide in for the rest of the year. I’m gonna buy seven of them, then I’ll have one for every day, and I won’t ever have to show my face to anyone. They don’t close up all the way, I don’t think anyway. [suddenly excited] They do have, though— They do— The PARTIZAN hoodie has the dopest zipper pull I’ve ever fucking seen, so go check that out. Again, that’ll be up on fangamer.com on Tuesday the 25th, and we’ll obviously be tweeting about it at twitter.com/friends_table, and all of our different channels as well, so look forward to all of that.
+[Character Recaps — 00:09:50]
+AUSTIN: Okay. Today we are continuing our game of Beam Saber by Austin Ramsay. My goals today, as always, are to ensure that everyone at the table is safe, to convey the world honestly, to fill the world with detail, and to play to find out what happens. We are picking up, I would say a couple of weeks, maybe, after the Kingdom game. Things have kind of settled a little bit, but that doesn’t mean that things are easy or clear. I think that there are a lot of open questions.
+And I know what the inciting incident is for this current mission, but let’s start by just kind of pumping the brakes, getting a sense of where everyone is at, [pausing] and [chuckling] easing ourselves back into Beam Saber by… me asking some questions about where you’re— [laughing, unintelligible] what’s on your playbook at this point. So, uh, Thisbe: Can you tell me what your scars are if you have any? And what your drive clocks are, and then any connections.
+JANINE: Yeah.
+AUSTIN: Or drive clock is, and then any connections.
+JANINE: Um… My scars are, I just have “Reckless”.
+AUSTIN: Mhm.
+JANINE: And… My drive is to “find the farmers again and be of use to them.”
+AUSTIN: And you have—
+JANINE: I’ve got one full clock and then a half.
+AUSTIN: Mhm.
+JANINE: And then connections, right? Or...
+AUSTIN: Yeah.
+JANINE: Okay. Um… and, sorry, I just want to double check. We were supposed to add one for the existing things that we had and then also for…
+AUSTIN (overlapping): For the existing… for the existing people, and then…
+JANINE (overlapping): Okay. For…
+AUSTIN: Yeah. Anyone you do a mission with on this back half, [JANINE: Okay.] which I guess I’ll say right now: we’re doing one big party that can kind of swap out—um, which, we’ll see how much that happens. I mean, it’s already happened a little bit here ‘cause here’s Art, Dre and Janine, which was not a configuration in the first half of this season, right? So, um… So, yeah, go ahead with connections. 
+JANINE: So, I’ve got three for Valence now.
+AUSTIN: Ooh, that’s the most you can have!
+JANINE: Yeah! “Valence seeks my obsolescence,” the classic.
+AUSTIN: Mhm.
+JANINE: “Valence’s priorities are beyond my understanding,” and “Valence is not forceful enough to lead.”
+AUSTIN: Ouch! But also… maybe honest.
+DRE: Fair. [laughing]
+AUSTIN: [amused] Yeah, we’ll see, right?
+JANINE: [laughing] And also feels like something that feels like it’s very easy to… to actually see in action. Um... 
+[Austin chuckling quietly.]
+JANINE: So, for Broun, who’s not here, but, you know…
+AUSTIN (overlapping): [amused] Uh-huh! That makes this an interesting one.
+JANINE: “Broun will sell or trade me away the moment from—” Sorry. “Broun will sell or trade me in the my usefulness is expended,” and “Broun will protect me.”
+AUSTIN: Mm. [chuckling] Ok, well…
+JANINE: Which, arguably kind of conflict, but um, still useful, so.
+AUSTIN (overlapping): It’s allowed!
+JANINE: [quietly] Yeah.
+AUSTIN: You’re allowed conflicting ones, right, [Janine: Yeah.] because in the end, you end up testing one of them and writing a new one once you fill up your belief list. Like, you— Again, if you do a downtime with Dr— with Valence, you will be able to test one of those three to see which one is true, which is interesting.
+JANINE: Mhm.
+AUSTIN: And then, a new one here for… Sovereign Immunity—though also, also I don’t know if we’re calling Sovereign Immunity “Sovereign Immunity” anymore. 
+ART: Yeah, I’m willing to punt that down the road if you are.
+AUSTIN: [laughing] Okay!
+JANINE: I actually have— [conflicted groan]
+AUSTIN: Go ahead.
+JANINE: [laughing] It might— It might come up. I actually forgot… [Austin: Uh-huh?] to do the thing that… to remind me that this might come up.
+AUSTIN: Mhm?
+JANINE: Okay. Um, so… My belief for Sovereign Immunity is, “For a farmer, Sovereign Immunity must not like farming. “
+AUSTIN: [chuckling] Okay.
+[Dre laughing.]
+AUSTIN: Damn.
+ART: [mumbling] That’s funny.
+JANINE: We had a farm!
+AUSTIN (overlapping): You did have a farm.
+JANINE: I don’t think I— Did I ever see Sovereign Immunity at that farm? And everyone calls him Farmer.
+AUSTIN: Yeah. That’s true, that’s true. All right, Valence—
+ART (overlapping): I had to explain that to Jessica this morning.
+[Janine chuckling.]
+AUSTIN: [surprised] Wait, did you? [chuckling] Okay!
+ART: [quoting himself] “No, not a literal— No, not a literal farmer. Not… [trailing off]”
+AUSTIN: [laughing] Great! Alright, Valence.
+DRE: Um… Alright. I have two scars of… Valence is “Haunted” and “Righteous.”
+AUSTIN: Mhm.
+DRE: Um, their current drive is to “Acquire the pieces of the Exemplar”.
+AUSTIN: Ah, a new drive for you then.
+DRE: Mhmm. Um, my… connections… So I also have three with Thisbe.
+AUSTIN: Ooh!
+DRE: The original: “I’m not sure why Thisbe resists her potential, but I want to open her eyes.” The second, “Thisbe is simple and straightforward,” and then the newest one, “Thisbe’s loyalty is deeper than mere programming.”
+AUSTIN: Mm.
+DRE: Uh, and then my belief for Sovereign Immunity: “I am the carrot, Sovereign Immunity is the stick.”
+AUSTIN: Love it. [chuckling] Great. Good buddy-cop belief.
+[Dre laughing]
+ART: [chuckling] I really want answers.
+[Austin and Dre laughing]
+AUSTIN: Sovereign Immunity, AKA The Farmer, AKA Byron, AKA Tenure—callsign: Tenure—uh… What’s up?
+ART: Hey, um… I don’t have any scars because my old group had one more person in it.
+AUSTIN: Right. Easy to— And also was built to just take punishment.
+ART: Yeah.
+AUSTIN: Yeah.
+ART: Um… sorry.
+Austin: It’s alright, tell me about your new drive.
+AUSTIN: No, it’s fine! You’re allowed to… What’s your drive? Tell me about your drive, [unintelligible]
+ART: My new drive is to “Convince Crysanth that Partizan is not worth the cost. “
+AUSTIN: Ahh, okay! [pausing] Light work.
+[00:15:00]
+ART: My connections—I had to delete, uh… [chuckling] Leap off of my sheet to have room.
+AUSTIN: Damn! Okay.
+ART (overlapping): And when… If I do a session with Broun, I’ll have to…
+AUSTIN (overlapping): I’ll just add more rows for you.
+ART: Delete… Clem. [chuckling]
+AUSTIN: [amused] Well, yeah.
+[someone chuckling]
+AUSTIN: Look, I added another row for you.
+ART: But my Clementine Kesh memorial beliefs, uh, connections are... 
+[Dre and Austin laughing]
+ART: “Clementine’s affections are my ticket off this lousy rock.” That didn’t happen.
+AUSTIN: No?
+ART: And… “Clementine can be the just ruler of a Stel,” and that didn’t happen!I was really wrong over here!
+[Austin laughing]
+ART: Um… But, moving on! To Milli. [chuckling] “I am a scalpel, I’m not sure I have need of a hammer,” and “Million is a delight, I simply must show her to the whole universe.” I mean, I guess that one could still happen.
+AUSTIN: Yeah!
+ART: For Thisbe, I have “Thisbe doesn’t need her hand held. I’ll be there if she needs someone to stand next to her.”
+AUSTIN: Mhm.
+ART: And for Valence, I have “Valence has a good heart, I hope they aren’t wasting their time here,” [Austin: Hmmm.] because Sovereign Immunity doesn’t know about drive clocks. 
+AUSTIN: Right. Right, ok. [chuckling]
+ART: And so, it looks like Valence’s goals are just not something we’re working on. [chuckling]
+[Squad Updates — 00:16:12]
+AUSTIN: [chuckling] Totally! Well, that’ll bring us to today's mission for sure. Um, uh… Some of Valence’s goals for sure. But also, before we get into that stuff, I would just love to see, like… what is life like back in, um, Oxbridge for y’all? Because, I guess to give the listeners a rundown, the way we’re doing this back half—or back third or whatever of the season, we don’t know. We’re gonna play to find out what happens, right? Uh, is...
+ART: [laughing] Play to find out when your season ends! I think that’s how they do TV too.
+AUSTIN: That’s exactly it!
+DRE (overlapping): Oof.
+AUSTIN: Yeah, listen, I went through the entire arc while editing that last episode of Kingdom, where I was like: “This is it, this is the end of the season. So it’s right here, this is the end. Good season, good— Bye, everybody.” Which, last time I felt like that was in the middle of COUNTER/Weight, during a similar arc, so… [chuckling]
+ART: It would have been wildly irresponsible. We are not ready for the next season yet. 
+AUSTIN: No! Not at all, Not at all! We would have taken off, it would’ve been, like, a very busy month off or something. You know, where we're like, “Aaah!” We’re just… fucking rushed into it. But...
+ART: Just put up an episode every week that just does vamping.
+AUSTIN: Yeah, [chuckling] exactly! Um… In any case, the way we’re going to do this is basically: Valence and Thisbe and Broun have made some extra room back in… back at SBBR HQ, I guess. Uh… We’ve been calling it internally, Big SBBR. It’s Society— Society of Banners and Bright Returns has made some new hires. Those hires include: Ver’million Blue and Sovereign Immunity—question mark, if that’s his real name—and then two new characters who are— don’t have names yet, and will be in the other side of this… of this opening pair of arcs.
+And, uh… You know, that’s kind of rolled some of the Rapid Evening stuff into SBBR. So like, for instance, we— I did bring over Forged in the Fire, which is that great move that basically gives everyone +1 die to resistance rolls in combat, plus also you exhaust fewer one [sic] quirks for vehicle resistance in combat—so don’t forget that, Janine and Dre, because that’s a new move and it’s sick. And then I brought over a couple of the upgrades, but not all of them. I brought over Infirmary—I think Dr. Schuylar Stevens is still working with the group. I think, you know, put-upon doctor for the nobility has seen things not necessarily be great, and he’s stuck with you after Clem died.
+And, the… You also have Airfield, which is… a thing that gets you extra Supply points every downtime. I think that’s not like, you have the field, but it is you have all the equipment to run a dock, basically, given that y’all are operating out of a cool, um—I guess Sovereign Immunity, you haven’t seen this place before, but it’s a… it’s a lighthouse with a big, underground base under it. Um, and like, an underground submarine dock. It’s pretty sick. [chuckling]
+ART: Mhm!
+AUSTIN: But really what I want here, given all that—given that you’re all one big unit here—and also, just to be clear again to listeners, you are one squad inside of the faction Millennium Break. Um, and Millennium Break, as a faction, is as big as—in fact, in terms of pure squads, it’s now bigger than any other faction on Partizan. That’s not to say it’s as big as, like, all of Stel Orion, which is… it’s laughably big in terms of the galaxy scale. But on Partizan, Millennium Break has more squads than any other faction at this point because so many of Millennium Break’s fa—or, squads were defectors from their own factions.
+Most of Millennium Break’s squads are rank I or II or [uncertain] III…? Mostly… I think the most are 1 or 2, um, compared to other factions that have up to tier V groups. Um, but— But, it’s big, it’s sizable, it’s not nothing. And so, you’re one of the squads there, so it’s— You’re not in charge of Millennium Break. In fact, there’ll be some stuff during downtime when we get there around whether we can get Millennium Break to do what you [chuckling] want it to do, because you don’t get to just like, take the controls of power now.
+In a real way, that moment of Kingdom where anyone could step up and say “You know what? No, I’m in charge now.” That window has closed. And so, Millennium Break is a Democracy, and that means that there is a degree of… you know, red tape, and, um… slow action and other stuff. Dre in the chat notes that we need to add another move, which is this Communications move. I forgot that y’all took that. Yes. What’s that— Where’s that at? That’s in… Is that in R&D? Is that in Recon?
+DRE (overlapping): That is a great question…
+AUSTIN (overlapping): Let’s see... 
+DRE: I think it’s R&D. Yeah, it’s R&D.
+AUSTIN: Yeah.
+DRE (overlapping): I’ll copy and paste it.
+AUSTIN (overlapping): You wanna grab it and drop it in?
+DRE: Mhm!
+AUSTIN: Yeah, thank you. So yeah, y’all also have a new move called Experimental Comms. “You may use teamwork with any other character regardless of the distance separating you. By taking 1 stress, your whispered message is heard by every squad member.” Which is sick, because it means that you can, uh… You can use your… You can share stress, basically. You can do your help moves even if you’re not right next to each other—which, it turns out, is a good way of keeping people’s stress down.
+And I think that that comes from the work that Broun and Milli and Si'dra did during the—building, like, the internal strand communications network. I think it probably is based on that same sort of long distance comms tech—private comms tech—that runs the kind of internal bulletin board system, is also being used now for like, local voice comms, um, for people in your squad, which is… which is very good! [chuckling]
+[Mission Planning — 00:21:33]
+AUSTIN: Um… So, okay, that’s bookkeeping out of the way. Talk to me about what it’s like on this base in the wake of Gur and Clem falling from Fort Icebreaker, in the wake of the kind of slow realization of that happening. I think it probably takes a couple of days before people put together what happened. You know, there’s some shaky—or not shaky, but grainy—camera footage, um, that reveals it. But it’s not like there was… [sighing]
+I don’t think there— I don’t think that it’s necessarily super clear exactly what the encounter was. All you know is they got into a fight, um… there was some blood, there was some knives, [chuckling] and then they fell into the sea. And I’m curious what it’s like… what that’s like, and also just generally to be in Millennium Break at this point. [pausing] If anyone has, like, a moment sketch of themselves here.
+DRE: Um… I think Valence is pretty much always working.
+AUSTIN: Yeah.
+DRE: I think they are… [sighing] not completely cold, but blunted… in a way that is different for them after losing Gur. And I also think part of that is they have a much less intricate, like, shell now, and they don’t have to, like, quote-unquote “sleep” as much. Their shell doesn’t use as much energy to stay, you know, charged up.
+AUSTIN: Mmm.
+DRE: So they’re just… using that extra energy to work.
+AUSTIN: Is that keeping Valence’s mind… like, off some of the rougher stuff?
+DRE: Yes and no, because I’m sure a big chunk of that work is trying to track down Exemplar pieces.
+AUSTIN: Yeah. [pausing] Which is something that you and Gur— That, like, you basically promised Gur that you would help… help them with.
+DRE: Yeah. Yeah.
+AUSTIN: Yeah. Thisbe, this is like, the first time we’ve seen you without Broun around. Broun at this point has been deployed elsewhere, and has kind of, like, said “Hey, can you just stick around and help Valence with this thing? I’m with this other team doing this other thing.” I’m curious what that… It’s obviously not the first time in your life you’ve been away from Broun, but…
+[Dre chuckling]
+JANINE: [chuckling] Yeah. I want to— I wanna, like, really avoid the… I think that the knee-jerk reaction that some people would have or would expect is that, like, [pitying] Thisbe’s sad and, and like… you, you know, watches Broun go— I don’t, I don’t think that happens.
+AUSTIN: [laughing] Uh-huh.
+JANINE: Like, um… I think there is maybe a moment of confusion where Broun is, like, preparing to go and Thisbe is sort of, like… also preparing
+AUSTIN: Right.
+JANINE: And then Broun’s like “No no no, you’re… You’re not… You’re not going on this one.”
+AUSTIN: Right. 
+JANINE: And Thisbe’s just like “Mm, all right,” and then, you know, goes back to… to the, the farming operation or something like that.
+AUSTIN: Yeah. I’m curious now that you’re not— What has it been from like, a purely… [clicking tongue] like, “psychological” is maybe a weird way of saying this, but you were on this giant ship for so many months, filled with people who were all technically part of the same, like, big operation.
+JANINE: Oh, right, sorry. We don’t have a farming operation here. [laughing]
+AUSTIN: No. I mean, if you wanna— If you want to have started a farm… here, you can, but…
+JANINE (overlapping): No, no no no, it’s… I think, uh, you know, the point is that Thisbe just goes off to work.
+AUSTIN (overlapping): [finishing Janine’s sentence] ...do stuff. Okay.
+JANINE: And do some… you know.
+AUSTIN (overlapping): Very busy workers here.
+JANINE: Do her— her shit. Yeah.
+AUSTIN: Sovereign Immunity, are you working on something also? [pausing] Or are you kicking back?
+ART: Uh, “kicking back” is a little strong. But I think it’s like… a lot of the plans that Sovereign Immunity had were certainly, like, Gur Sevraq- or Clem-related before… the Kingdom game. And then, you know, Kingdom was a… was a big shake up, but like… It’s sort of like, “Well, now… Now what?” You know…
+AUSTIN: Yeah.
+ART: Gur Sevraq was a lot of doors that just closed.
+AUSTIN: Sure was, yeah.
+ART: Oh, I should… I should maybe mark that off my character sheet. [typing]
+AUSTIN: What's that?
+ART: I had, uh… Where’d I write it down? “–1d forward on next anti-Gur Sevraq roll.”
+AUSTIN: Uh huh. [someone chuckling] Well, you know, if you shittalk him it still counts.
+ART: Alright, I’ll keep it there.
+AUSTIN: So… Keep it for now.
+ART: Um…
+JANINE: Roll to shittalk Gur Sevraq.
+AUSTIN: [laughing] I'll note that everyone should also at this point clear any of their load on both vehicle and person because, um… You— It's been so long that I'm happy to say that you've had the time to kind of reset whatever your loadouts are, so that if you want to make a change… Like, it's almost like we've hit the mid season point of the anime, you know? And it's like, alright, well, we're gonna bust out model number 2 of your mech. [Dre laughing] Or if not a new model, at least just like, “Ok, okay, now is the time when instead of having this rifle or machine gun or whatever you have something else.”
+JANINE (overlapping): Machine gun but needles. Which is what I have—
+AUSTIN (overlapping): Yeah. You can keep it there. If you want to use it, you can still [unintelligible]
+JANINE (overlapping): I don't even remember what that was from, to be honest. [amused] I don’t remember when I had a needle machine gun. [laughing] I don’t wanna use that anymore.
+AUSTIN: [sighing, thinking] I think in… in Orzen, I wanna say in Orzen when you were fighting… fighting people. 
+JANINE (overlapping): Sure. Yeah…
+AUSTIN: [quietly] I don’t remember.
+JANINE: [sarcastically] That’s when you’d want it. 
+AUSTIN: Uh huh. Um… All right, so, I guess one thing worth saying here is just like, the state of the world as it is. Based on the end of the last… um, the end of the last session, the Kingdom session, the kind of global state of affairs on Partizan has been shaken up a little bit one more time. One of the big things is that many of your independent cells were attacked. That was one of the predictions that came true. Which means really only your strongest safe houses and strongest kind of, like, territories have remained under Millennium Break control. That obviously involves— er, includes Cruciat, which I've now, like, marked—not just Cruciat, but much of the area around it, as being Millennium Break controlled.
+That includes the Lambic House over to the right, which is the kind of place where Sovereign Immunity—or, again, I don't know if I’m— if I should even call you Sovereign Immunity anymore. I guess we'll find out in play if it still works. Uh, but Lambic House, which is part of the Shepherd's Crook church that you were part of— or sect that you're part of. Uh, and then, the kind of— that, like, three city row of Obelle, Auspice and Marengo… [pausing] in the Prophet’s Path. Those are kind of, like, your three holdout territories, but all of your little cells across the planet, other than those, have been attacked, have been pushed out, um… People have had to flee them. So you don't have strong, uh… you know, strong support in Vigil City, or Pique City, or Lion’s Rest, or even on the Isle of Logos.
+Like, you didn't get the Isles of Logos into your crew, or into your faction. And so, they are still now technically kind of a fourth party. Um… Y'all are in Oxbridge, which I think it's worth saying is just, like, in a constant state of… like, boiling over. There’d already been so much… um, so much dissent and tension between the kind of haves and have-nots in that city, and it's turned into violence many days. It's very much one of those things where you can look out from the lighthouse on your little island and see smoke rising from even the more, uh… you know, rich sections of town, as… you know, because it is also— this was the Oxblood base also. And so you definitely see a lot of kind of pushback there: internal squabbles, internal fighting.
+But it's almost more than just a Millennium Break thing here, it's almost like an internal Orion thing. There's definitely lots of internal conflicts inside of probably each of the Stels, but Orion more than… more than, uh, most in terms of civilians versus the higher-ups. And so I think it's probably on a day when the three of y'all—or, three on this base, um… along with— I should say A.O. Rooke definitely came with y‘all, but I… I’m not sure if A.O. Rooke is here or with the other crew, I guess we'll see. Y'all are going first, so can you make that claim, I guess.
+ART: [laughing] We have initiative?
+AUSTIN: [chuckling] Yeah, you have initiative. Uh… In my mind, it’s kind of a hot day, and a message comes through from Kenzi, to you, Valence. 
+[00:30:00]
+AUSTIN: You might remember, Kenzi was the mech pilot and kind of operator, leader, commander of the kind of, uh, Columnar reconnaissance squad that y'all ran into near the Sable Court—near Lake Tamea. And she messages you to let you know [chuckling] that one of those things you were interested just came up. Um… she got word, or found out through a connection that the clarified Memoria—which are those, like, kind-of-magic crystals, that Columnar thinks of more as like, really special hard drives [chuckling] than what they really are, which is part of the Exemplar of the True Divine. A whole huge shipment of them are being transported to Kesh.
+She… I think, is able to tell you that they are being sent to, um… a cemetery. They're being sent to a special, like… well-guarded hero’s cemetery, where they're due to be picked up by someone from Kesh. That is like, the drop-off point. And that, you know, obviously she can't do anything to stop it or intercede. As far as I remember, she is still with Columnar, she is just your friend and is kind of feeding you intel.
+DRE: Mhm.
+AUSTIN: And so… So, yeah, that's kind of what you get to begin with. I'm guessing… I mean, you tell me, but do you kind of run that up the chain to see if you can get some support, or figure out more about what's going on?
+DRE: Yeah, I definitely would take it. [pausing] Psh… I think immediately, I would take it to Sovereign Immunity and then would probably also kick it up the chain from there.
+AUSTIN: Cool. I think, then, you probably get a visit from… After you've shared it with Jesset, or with, uh… hm. After you’ve shared it with Sovereign Immunity, Jesset City shows up, who has kind of settled into a CO role, a kind of like, Commanding Officer role, in the more military branches of Millennium Break. I suspect Gucci is off doing more politicking and, you know, logistical work. Not that there isn't logistical work to be done on the military side of it, um, but… that Jesset’s really stepped up, and continued to be a kind of a powerful leader in that respect.
+And he shows up with a little bit of additional intel based on what the… um, you know, his own spies, and additional kind of leaks can confirm. And, the… the big picture on this is that there is some sort of, you know, stealth transport of this Memoria, which are The eyes of the True Divine, being transported to a place called Nooncrown, which is this kind of ceremonial site, a kind of holy cemetery where a lot of Elects, and Princepts, and even Apostolosian Eidolons—just, any sort of heroes of the Principality, are buried.
+DRE: Hmm… 
+AUSTIN: And they are watched over by the dormant Divine Order. Also—and this is the bit that had not been announced yet, but that Jesset’s spies found out about: This exchange that will be happening under the cover and safety of a public event, where there’ll be lots of civilians, and political, military, and religious VIPs, including kind of religious figures from both Received and Progressive Asterism. Uh, and that event is the funeral of Clementine Kesh. So, while [chuckling] Clementine Kesh will be being celebrated and buried—apparently—by Stel Kesh and their guests, in the background it seems that Kesh will be taking control of much of what was dug out from underneath the Equiaxed commune during the Kingdom game. And, unfortunately, what Jesset tells you is… um, and I guess I'll deliver this more in character. I think he's like, 
+Austin (as JESSET CITY): I hope you know that this hurts me to say but… [sighing] recovering the Exemplar is simply not high priority for Millennium Break right now. Kesh and Nideo are all buddy-buddy again, [sighing] Motion is turning Apostolos into her personal collection of toy soldiers and Columnar is still furious at us for that whole Vigil City… excursion. And… between ourselves being targeted, and what Kesh has done with… the North, we are not in a great position, currently.
+AUSTIN: I should actually reiterate this, because of the way we recorded it. The thing that Kesh did with the North is- you see how it's all snowy up on the top of the map? [pausing] Are you all on the right—
+ART: Mhm.
+AUSTIN: Yeah, okay. Uh, it's not anymore. 
+DRE: Oh.
+AUSTIN: It's a fucking jungle. And that jungle reaches down even into the more… kind of boreal Taiga, the— Even the parts that had previously been kind of, you know, wintery forests, are now overrun with this other, different biome. Literally, jungle vines running up the sides of massive pine trees. Uh… This has been a big part of why Nideo and Kesh have kind of buddied back up. Nideo is doing their best to show that this is, like, a sign from… something—from the universe, from the Principality itself, from old Divines—that it's time to put aside their grievances with Kesh, or at least that's what they're saying publicly. Maybe there's more to it than that, no one really knows, but Nideo has made a big deal of siding with Kesh again, and fighting against Apostolos and, of course, Millennium Break.
+And so, with all that, Jesset is— It's not even Jesset, right, it’s Millennium Break is busy with that shit. I guess what Jesset also tells you, though, is that… um, you know, leadership isn't going to stop you from going. And he says that, you know, he's happy to help as a CO, and provide any intel, or provide what he personally can do for this—but that it's kind of up to you to do it without… you're not going to call in, you know, the Company of the Spade here or Leap’s fleet, or any other squad to help. Or, if you are, it's gonna be through back doors [chuckling] and personal favors, not through… just, you know, getting the order coming down from the top. [pausing] Welcome back to bureaucracy.
+[Austin and Dre chuckling]
+AUSTIN: And I'll note the place I mentioned before. Um, uh… Nooncrown is this place, is— is in-between these like, lakes up near the Estatelands. I’ll just make it an X instead, or I’ll— you know what I’ll do, is I'll put a little crown there. [chuckling]
+ART (simultaneously with Dre): Wow, that's a big crown!
+DRE (simultaneously with Art): [chuckling] That is a big crown! [laughing]
+AUSTIN: There we go. Boom, crown.
+ART: Thing's gonna take up half the damn… 
+AUSTIN: [laughing] [jokingly defensive] It's a big cemetery, okay! There's a Divine there.
+ART: I guess, yeah.
+AUSTIN: But it's in your court at this point, you know?
+DRE: So basically, we can go, but there won't be many resources allocated to us, or any resources allocated to us.
+Austin (as JESSET): There will be whatever you can bring to bear and whatever I can slide your way quietly.
+ART: Wait, am I in this meeting? 
+AUSTIN: Yeah.
+ART: Okay. Whoa!
+AUSTIN: Bigger crown, sorry.
+ART: Bigger crown! [chuckling]
+AUSTIN: Bigger than before. Happy one year anniversary to “bigger than before.”
+JANINE: For a second, I thought that reaction was your reaction in the meeting. [chuckling]
+[Austin and others laughing]
+JANINE: ‘Cause you're like, “Am I in the meeting?” [chuckling] and then immediately… 
+[Dre and Austin laughing]
+ART: Am I in this meeting? Because I'd like to yell some.
+JANINE: We've never talked about how Sovereign Immunity is a cartoon rabbit before.
+DRE: Hummina, hummina, hummina!
+[Janine and Austin laughing]
+ART: [slow, deadpan] Ain’t I a stinker?
+Art (as SOVEREIGN IMMUNITY): Um… This is, this is a lot. This is big… This is a big event to… to handle.
+Austin (as JESSET): [sighing] I mean, no one is saying you have to.
+Dre (as VALENCE): I need to. That doesn't mean you all need to.
+Austin (as JESSET): Ah… I respect your… [pausing, sighing] commitment to the cause. But if you think you can go in there by yourself, you're… out of your mind.
+Art (as SOVEREIGN IMMUNITY): Well, a lot of people are gonna be there.
+Austin (as JESSET): And?
+Art (as SOVEREIGN IMMUNITY): I understand we're not the most… [pausing, someone chuckling] inconspicuous group.
+[Austin and Dre laughing]
+DRE: Camera pans to, like… [Austin: (laughing) Yeah!] Sovereign Immunity and then [laughing] one robot person in a huge robot.
+AUSTIN: Mhm!
+ART: Uh-huh.
+(as SOVEREIGN IMMUNITY): But like, it's gonna be— it's gonna be a big crowd! You can blend anything into a big enough crowd.
+Austin (as JESSET): [sighing] I trust you to handle this according to… [pausing] how you see fit. But, I ask you to do two things. Here are your Rules of Engagement, if you will: Do not hurt any of the funeral’s civilian attendees. We have enough bad press as it is. We need to be winning people's hearts on this moon, still. And don't wake up Order, whatever you do.
+ART: [chuckling quietly] I appreciate the escalating nature of those. [chuckling, pausing] I thought the second one was [chuckling] gonna be another thing like the first one.
+AUSTIN: No!
+ART: Was gonna be like, “No civilian casualties, and…” [Austin chuckling] “Don't let anyone see your extraction point,” and instead it’s like, “No civilian casualties and…”
+AUSTIN: [chuckling] Don't wake up a god. Yes.
+ART: Don't wake a dead God. Yeah.
+Austin (as JESSET): Our understanding is that… outright… [sighing] What's the way to say this? [chuckling quietly] Order abhors chaos.
+Art (as SOVEREIGN IMMUNITY): Mm.
+Austin (as JESSET): There is a group of, uh… religious knights who train on the grounds there, so we know that fighting is by itself not enough to disturb the beast. But… uh… Don't get messy.
+Dre (as VALENCE):I mean, I wasn't planning on shooting fifteen civilians and then blowing everything up to get what we were going to get.
+Austin (as JESSET): Just... Be careful. if you do anything else I'll be at our base in town.
+AUSTIN: Meaning the Ox... the Oxblood Clan base, not the Millennium Break base, ‘cause there was not a… You are the de facto Millennium Base break— [chuckling] uh, Millennium Break base near Oxbridge at this point. [pausing] Um, but it's up to y'all. You can continue, as always, to do kind of stuff during this pre-engagement, uh... time. You know, do research, figure out what you're doing to… once you get there, et cetera.
+DRE: Mm.
+AUSTIN: But those are the kind of, like, big picture things of this space— or, of this mission. You know, I guess I should, say your objective—your single objective, really—is to, uh, take— to recover the Memoria; the eyes of True Divine, The eyes of the Exemplar… before they are exchanged and then lost again, basically.
+DRE: Yeah.
+AUSTIN: Classic, you know, “Thing is going from point A to point B, the people who are picking it up and taking it to point B don't want to let the people who are bringing it from point A to know where point B is, and so they have to exchange it somewhere,” you know.
+[Dre chuckling]
+AUSTIN: Also, there will be a funeral [chuckling] happening, while that happens.
+DRE: “Our rival group beat us to the diamonds back in Vienna, but now…“
+AUSTIN: [laughing] Right, right.
+DRE: “They’re making the handoff.”
+AUSTIN: Yeah.
+DRE: Um… I… If nobody else has a move that immediately is coming to mind for them, I would definitely like to roll Farsight, which is my… 
+AUSTIN (overlapping): Mhm. What’s that— Can you tell me what that means, and what that looks like?
+DRE: It’s been— Yeah, it's been a while since I’ve rolled that!
+AUSTIN (overlapping): Mhm! We haven’t rolled—
+DRE: So, Farsight lets me Gather Information with a Survey.
+AUSTIN: Mhm.
+DRE: I take +1d, and the information I get can be from a time or a place that I'm not present in.
+AUSTIN: Okay! So, that’s a Gather Information roll.
+DRE: Mhm.
+AUSTIN: So that is Survey. You have two dice in that, plus the one from this. Go ahead and roll three dice. This is not a… This is just a Fortune Roll, ‘cause it's not a… [Dre: Okay.] Yeah.
+DRE: Uh, 4.
+AUSTIN: That is a mixed success, or a… yeah, a partial success. On a Gather Information roll you get—with a mixed success—you get, I wanna say, like, some information, right? Um… I’m just gonna double check my… I’m double checking the way this works because it's been so long.
+DRE: [chuckling] Yeah.
+AUSTIN: Oh, wait! Wait, wait, wait. One second. Uh… I thought I saw something that’d give you another bonus, but one second. Yeah! You get to roll more dice because you have… uh, you got a little something special here in town, don't you? You have the Deep Dish Steakhouse.
+DRE: Oh god! [laughing]
+AUSTIN: Which gives you a +1d to Gather Information about the current or upcoming mission.
+[Dre sighing]
+AUSTIN: Which also means you're doing this at the Deep Dish [laughing] Steakhouse!
+DRE: “Just give me the usual,” and then Valense just… [laughing]
+AUSTIN: Closes their eyes.
+DRE: Oh, man… 
+AUSTIN: So, give me one more die. Let's see.
+ART: It's… It’s really helped by the deep dish steak. [chuckling]
+DRE: Mhm!
+AUSTIN: Uh-huh! [sighing]
+[someone hitting a key]
+DRE: Oh, there we go!
+AUSTIN: Yo, it’s a 6! [laughing]
+DRE: The Deep Dish Steakhouse comes through! [laughing]
+AUSTIN: Ohhh, okay. Um, a six provides great information. So, um, you get a very clear picture of this place. Boom, here we are at Nooncrown. So, let me break this down I guess, for people listening. The general shape of this place is a… kind of a gem-like, five sided… curved shape. Um, so it's almost like if you took a pentagon and, like, pulled it a little bit so that it was curvy, [clearing throat] a little bit curvy.
+[00:45:00]
+AUSTIN: And, and… That sits— That is a set of walls. Big, tall, like, city walls, uh, that protect an interior… kind of, um, cemetery and, you know, kind of a, like, a monastery, religious grounds, stuff like that. And that area is called Order’s Rest. And in fact, to the north of that is then, like, a secondarily boxed in by giant walls area where Order, the giant Divine, is currently kneeling. And then to the south and like, southwest, and east, and southeast, there is a place called Goldtown. Uh, and that is—I mean, I'll get into that in a second, I'll explain what's up with Goldtown in a second—but that's like, little buildings; little, like, purple—on the map—little purple structures. I mean, they're not actually purple, they're probably more like tents and— I'll explain in a second.
+And then, all around it… with a 6, um… There are… There is— One there's like, lots of tree cover, um, like jungle, [pausing] basically. And a number of kind of per— per… let's call them like, qua… I guess they’re not quadrants, because there's not four of them. Q… quindrants? I don’t know what the fuck— Pen… [sighing] Pendants, that's what— I mean, Nooncrown, kind of the whole thing kind of looks like a pendant, actually.
+But there's, you know, kind of five, um… mechs that, with a 6, you can kind of see around the edges of this map. And also five roads coming in, one from the northwest, one from the southwest, one from the south, one from the southeast, and one from the northeast. There's nothing to the north except for Order, and then jungle and w— and, you know, forest going north. It's both a jungle and forest. It's gotten messy, we'll talk about it.
+The— Nooncrown is in a weird place right now. I think you— Tell me what this… Tell me… Are you getting a visual, uh, kind of sense experience of this when you see it? Are you seeing… Are you understanding the map in your head? Like what's it look like? To do this?
+DRE: Um… I just had a very, like… like, a very, like, image just pop in my mind. You remember that first season of Heroes, and it was the guy who would like, have the visions and paint things?
+AUSTIN: Yeah!
+DRE: I think that is what Valence is doing with this. So what I think this looks like is Valence is… drawing, just on the table of the Deep Dish Steakhouse.
+AUSTIN: Um… They're gonna be mad at you if you're drawing— Can— Do you wanna use napkins or something? A placemat?
+DRE: Oh, yeah I could— Maybe, like—
+JANINE (overlapping): Are we— Wait, I'm sorry, are we saying this isn't a place that has that, like, butcher paper down? With the— With the cup of crayons?
+AUSTIN (overlapping): Oh, it definitely has the butcher paper! There we go. There we go.
+DRE (overlapping): Ohh, yeah, okay. Yup. Nailed it.
+JANINE: Yeah!
+AUSTIN: So then, yeah. So then, yeah. So, you’re able sketch out what this basically—
+DRE (overlapping): [chuckling] Using my three stubby crayons that they bring here. [laughing]
+AUSTIN: [amused] Yeah. Um, so here's the big picture. This is just what you get from just having Farsight and seeing it, um… It's kind of a—again, almost like a teardrop shaped space. It's a walled-in cemetery that also has a number of buildings in it. I haven’t broken it down on this map, because the map creator I use doesn't let you just, like, go in there, like, and do deep recontextualization. But what you're looking at is like, a mix of mausoleums, uh, and then, kind of cemetery grounds, spaces where you could, uh… you know, do kind of larger observances.
+But then also, places where the Knights of Order, like, live. And that's just in the area marked Order’s Rest, that's that whole area there. Order is this big space up here, kind of inside of this, like, citadel to the north. Then, all around the kind of walls of Nooncrown, is this place that— It's new, and that you would not find on any maps. If you had gone to get a map, you would not have seen that stuff. Uh, and that's Goldtown. And what Goldtown is—the reason it's called Goldtown, is because these are people who hold the kind of gold… um, the kind of like, gold banner of Kesh. They showed up all wearing gold ribbons. Um, and they are Monarchist, they are Loyalists to the Peaceful Princept, who were driven out of Cruciat and the surrounding areas.
+This is your, like, your kind of bougie middle class conservatives who did not want to stay around during the revolution, and who fled. And whose stuff was taken, and who, uh, you know—maybe they had family killed. Also, I think, this does just also include a number of refugees from the ongoing war against Apostolos. Um, and they've kind of set up sort of like, a shantytown around Noon… uh, around Nooncrown. And this sort of thing is happening all through this general area. Nooncrown is just kind of at the edge of the Estatelands, which are the sort of rich, noble, uh mansion… lands of Kesh nobility.
+And around a lot of these estates, you're seeing these little towns crop up, or ones that already existed, um… growing a little more. And you're seeing this kind of weird thing, which is… um… There's a sort of trade happening here, a sort of status trade. The nobles feel threatened, and so, seeing p— like, you know, seeing people support them, actually has made them want to provide a little something for these people. And also, they know these are people who will die for me if Millennium Break comes, and they will fight for me if Millennium Break comes. And at the same time, the… the sort of bougie refugees of, uh, people were, like, exiles of Cruciat and other areas that have been taken by the Millennium Break, are basically trading away some of what they had—like, there is no middle class life for them here, you know? But, they are being promised something much greater than that, in a sort of informal way.
+And so I think the Cult of Order specifically— Like, this is not seen as an eyesore to these people—um, to the… kind of clergy that run the cemetery. This is like, “Yes, of course, you can set up shop outside. You can set up all your— You know, you can live in tents, you can build little homes, uh, we will provide.” And there is a… there is a kind of noblesse oblige thing happening here, especially for the kind of Knights of Order, who are… who see themselves as being above— Honestly, they see themselves as being even above— Maybe you can catch some of this in the way that they're interacting with people. There's a degree to which you feel that they have a sense of superiority, that they think that they're above it all. And also, there's a way in which they… they do seem to be a little bit above it all, in that… [sighing] Their devotion to Order… comes before their devotion to the Principality, in a sense—or to Kesh.
+They are Progressive Asterists, uh, and the worship Order, not, you know, the Divine Principality. And that means that they have people among their religion, who—they probably have, you know, ethnic Apostolosians here, who are treated like any other person in the clergy. They have… I think at some point, you actually see one of them speaking with Crysanth Kesh, who is here—which is another piece of information. Um, and, there is not that sort of fear or deference. I guess maybe you wouldn't know this, ‘cause you haven't met Crysanth before. But maybe what you see is Crysanth kind of, you know, walking with some attachés, and the people who are with her are clearly terrified of her.
+And then the kind of, uh… religious knight that you see her speak with, seems to not carry himself with any sort of… He's not on his back foot, you know? So Crysanth is here, which means the Curtain might be involved in some way, so that's another piece of information. And then just, you know, through this extensive thing, what you get is a basic layout of where their defenses are and what the deal is. I should note: All around here, the kind of dark areas around the entirety of Nooncrown are this increasingly dense jungle. Previously, it had just been this kind of boreal forest, um, and in some places had been— there had been very little growth at all.
+But now it is this, like, dense and humid jungle—which is a very strange thing, because this would have otherwise not been… You know, again, it was forest— It was a forested region, but now it's like, hard to move through, and you immediately see that it's hard to move through because one of the things that is, uh, that is moving around are a bunch of Troop units. And those Troop units are really having a [chuckling] hard time moving around this outer kind of jungle area. Um, so you get six of these, kind of one per, like, area around Nooncrown. And then you see three more mechs that you haven't s… you haven't encountered before, inside, and these are much more… you know, clearly much more custom made for the Knights of Order.
+These mechs are called… I've written them down here somewhere. Um… Pinnacles. These are Zenith Fund, Kesh… you know, Project Pinnacles. They're kind of humanoid knights, and they have spears under their right underarms, um, and then kind of close-range blades on their left. Uh, and those spears can be shot out like harpoons—you see them training, at some point. And they're like, shooting out, and then pulling things close, to then attack with their left, like, under-arm blades. Um, so they're kind of like… What if Scorpion was a cool knight mech [chuckling] and also had a sword under his left arm, right?
+DRE: [intrigued] Okay!
+AUSTIN: Or like, a machete or something.
+ART: I think you have to pay 15 dollars for that now. [chuckling]
+AUSTIN: Fuck! Sorry, uh… Not– [unintelligible] Litigiously? [chuckling] Uh… 
+ART: No, I mean, if you're playing Mortal Kombat, then for 15 dollars… 
+AUSTIN (overlapping): Ohh, I see. For the… 
+ART: You can turn… 
+AUSTIN: …Scorpion into a…
+ART: Yeah.
+AUSTIN: Okay. Yeah, of course.
+ART: A knight mech skin, yeah.
+AUSTIN: A knight mech skin. Yeah, uh-huh. [Someone chuckling] God… To have him fight the Joker. Um… so those are the big picture things.
+[Art laughing, overlapping]
+AUSTIN: If you have other… [chuckling] questions, please let me know—’cause you got a 6, I think you should be able to ask some follow-ups here.
+DRE: Um… specifically… can I tell where the Exemplar’s eyes are?
+AUSTIN: They're not here.
+DRE: Okay.
+AUSTIN: The handoff hasn't happened yet. The handoff is gonna happen during this funeral, [Dre: Okay.] which is probably in… It’s like, a week away. You can get there in time, right? Uh, and it will be done in a day. Right? Like, it'll be happening during that event. And so, what you can see is… [pausing] Yeah, I guess–
+DRE: Like, can I tell where that handoff is gonna take place?
+AUSTIN: Crysanth is inve– is… is basically checking out, uh, this area to the, like, east of Order, inside of that citadel. Like inside of that walled… territory, basically, is where it'll be happening. And so, yeah, you know Crysanth is like, “Hmm, yeah, this will work,” basically. [pausing]
+DRE: Okay.
+AUSTIN: Any other follow-ups? With a 6, again, I'm happy to give you… more of whatever you could be looking at here.
+DRE: [thoughtful sigh] Huuuhhh…
+AUSTIN: Uh, there's seating being set up, basically, for… over a hundred people. I guess it's worth saying, for people listening at home: There are five roads into Nooncrown—kind of two to the north, one northeast, one northwest.
+DRE: Mhm.
+AUSTIN: And then, one south, one southwest, one southeast, basically.
+DRE: Um… Does it look like there is any… Like, what is the situation with, like, the walls that are up here? Does it look like there's any way to get around or through those walls?
+AUSTIN: They–
+DRE: That aren't just, like, exploding things.
+AUSTIN: Y— Uh, you would… [exhaling] They're very… high.
+DRE: Mhm.
+AUSTIN: They're probably like, you know, four or five storeys high. Um… Which is to say, like—yes, you probably could do it with the right equipment, or the right, you know, mech or whatever—vehicle. The tough thing there would be that the… there are guards in the north who would be on patrol, right?
+DRE: Okay.
+AUSTIN: But… Yeah. It's totally– There's no weak spot in the building, though.
+DRE: Okay, gotcha. Hmm…
+AUSTIN: But that would be an area that… does not have the same degree of, uh… There aren't as many people there, certainly, right? No one lives up there, the way they do all around the rest of the town.
+DRE: Right.
+AUSTIN: Or the, kind of, the town on the outside, the… Goldtown, the area where the kind of bougie refugees are… um, are, is kind of southwest to east. It’s kind of like running along that whole area.
+DRE: Mhm. What is the… Like, what is the ground around this area look like?
+AUSTIN: It's like, polished stone.
+DRE: Okay.
+AUSTIN: And again, I guess I should describe Order for you, right? [chuckling] Duh.
+DRE: Sure.
+AUSTIN: There was a gigantic Divine here. And I think there's a degree to which you don't like looking— Looking at Order… feels like being looked back at, which is not how Farsight is supposed to work.
+DRE: Mhm.
+AUSTIN: Order is a gigantic, you know, uh… 50 storey tall… statue. It's like, a statue of a knight resting with a giant, like, claymore sword into the ground, uh… and, uh, kind of kneeling and looking down, in repose. If you weren't— If you didn't know that this was Order, you would just think it's a big statue.
+DRE: [quietly] Right.
+AUSTIN: In fact, maybe you think it's just a big statue. But, you know, you've been told that Order is there, so…
+DRE: Mhm.
+AUSTIN: [pausing] And when I say statue, I mean it does look like it's been built out of stone.
+DRE: Yeah.
+AUSTIN: Like, it looks like polished… um, stone.
+DRE: That's all I can think to ask, unless Art or Jeanine have anything that they think it would be useful… for me to poke at.
+JANINE: Um…
+ART: No, all the questions I have are not questions you could get answers to from this.
+JANINE: I'm curious about, like, is this an underground cemetery, or like, a… overground cemetery?
+AUSTIN: Um… I think that there are some mausoleums that are, like, family mausoleums that are above ground. But there are plenty of… There are fields of people— Uh, there are fields of underground, you know, um, burials. And those tend to be like, “This division gave its life in this battle against the Branched in this sector.”
+DRE: Mhm.
+AUSTIN: And so, they've been specially honored, these ten people or whatever, right? Or these fifty people. The… Any individual— I think it’s like, you definitely have above ground stuff for Elects, above ground stuff for… Um, anywhere where you can imagine ten people wanna come together to give— to… mourn, or to pray—those places you have space around them. There's definitely a stack— There's definitely like, lots of statues, uh, even for some of the… um, below ground burials. It's a mix.
+DRE: I think that's all the questions I've got.
+[01:00:00]
+AUSTIN: All right. Um…
+DRE: I'll flashback to something if we need—
+AUSTIN: Yeah, if we need more. Sure. All right, still in your hands, I— You know, you tell me what you wanna do here. You have some time.
+ART: I'd like to know about… access control?
+AUSTIN: Sure.
+ART: Like, is everyone who's coming to this invited or there gonna be, like… 
+AUSTIN: How are you looking into this? That's totally… Yeah.
+ART: I mean like, what's the… what is the website for this event look like?
+AUSTIN: [chuckling] Yeah, there's like, a— Give me a Gather Information roll. This is you probably looking stuff up on the Palace, right? So I would say that's probably [uncertain] Study?
+ART: Hey, I got 1 in that.
+AUSTIN: There you go. So that's 1d6—[hurriedly] +1! Deep Dish… Steakhouse. So 2d6, to Gather Information.
+ART: Great.
+AUSTIN: [chuckling] They got the best internet there.
+[Dre laughing]
+AUSTIN: I think it's more just, like, you can do that work there without looking over your shoulder in some ways. You know, they have a secure connection for you. It's anonymized. Yikes! That's not a great one. That's a 1 and a 3.
+ART: That was not my best work.
+AUSTIN: No, it was not.
+JANINE: It's… It’s their first time at the Deep Dish. They don't know what to order.
+AUSTIN: Yeah. Yeah. Um…
+ART: There's a lot of music. [Austin chuckling] More music than I'm used to.
+AUSTIN: Yeah. Did you not expect Steakhouse to have a live band? But here they are. Um, the… As far as you can read, there are… It's like… private invites to be inside of the… the cemetery. But there will be a group— you know, public viewing of the ceremony and eulogies projected, onto the body of Order, with speakers throughout Goldtown so people can look up at the body of Order as a giant screen, um, and hang out in Goldtown and listen to anyone who comes to speak, basically. And anyone is free to do that. Anyone can come, uh, to celebrate the life of Clementine Kesh.
+ART: But that's on the outside of the gates.
+AUSTIN: That all is on the outside of the gates, correct.
+ART: Uh, it's closer than we are now, though.
+AUSTIN: That’s— Yeah, that's true. You're across the sea. So… 
+ART: [chuckling, pausing] I guess like, do people think it's easier to go from here? And then just get inside through… skullduggery of some kind?
+DRE: Can—
+ART: Or should we try to, like, forge or obtain an invite?
+DRE: Can I also… propose a much more preposterous plan?
+ART (overlapping): Yes.
+AUSTIN (overlapping): Now we’re fucking talking. Yeah.
+DRE: Okay. Um… The reason I was asking about all, like, the ground and stuff is… um, because we also have special, like, buffs for trying to Acquire an Asset.
+AUSTIN: It's true.
+DRE: What if… either all three of us could try to go over these walls to get in? The more hijinxy version of this is: What some of us try to go over these walls, and somebody else has like a big drill, and a drill, like, either under into here, or under into like, one of the mausoleums over here, and that's our escape route.
+ART: [incredulous] You're going to drill into [Austin laughing] the chamber that Order is in?!
+DRE: Well, that's why we could do it over here, instead of, you know, where Order is.
+AUSTIN: I should be clear: The thing with Order…
+ART (overlapping): It just seems a little chaotic.
+AUSTIN: …is— does apply to all of Nooncrown.
+DRE: Mm.
+AUSTIN: Or actually, it’s everything inside of the gates. That's where an Order is like, watching over. Uh, now maybe you wouldn't think that— I said chaotic violence; maybe— or, maybe digging a hole with a big drill is not chaotic violence, but I want to just be clear, Order does not only care about this little area that it's in.
+DRE (overlapping): [laughing] Well, I’ve put all of my points into the drill in PAYDAY 2, so [chuckling] that’s a really good drill.
+AUSTIN (overlapping): [chuckling] Okay. Oh, okay, so that’s why you’re… Yeah.
+[Dre chuckling]
+AUSTIN (overlapping): Order does not seem to care about… the—
+ART (overlapping): Order doesn’t think that drilling a hole is chaotic violence, then clearly Orders has never, uh, had construction next to their house start really early in the morning. [chuckling]
+AUSTIN: [laughing] It's gotten very used to it.
+DRE: It's more of a boring than a drill, really.
+AUSTIN: Mmm. Mm.
+ART: I love the tunnel plan, I do.
+JANINE: I think climbing is also pretty viable right?
+AUSTIN: Mhm.
+DRE: Might be less chaotic.
+ART: But more visible.
+JANINE: So there— The… The exchange is happening, like, specifically at the exact same place as the funeral?
+AUSTIN (overlapping): It’s during the funeral. Yep. Mhm.
+JANINE: So like, in the crowd?
+AUSTIN: The crowd— No, well, not in the— The crowd will be… Uh, so the crowd will be, like, again, will be all through Goldtown, and then I'm gonna say this little quadrant area here will be, like, where the festivities—not the festivities, but like, the, um…
+JANINE: [chuckling] “Yay, Clementine’s dead!”
+AUSTIN: Like, “Yay, Clementine’s dead!” Uh, yeah. [chuckling]
+JANINE: Mhm.
+AUSTIN: Uh, will be happening here, uh, on the kind of left half of here, the western—this kind of, like, diamond—or not diamond, but triangle here—uh, where there's like, chairs out, and a big stage; Let’s call this the big stage. And, uh— But it's… It is not— We’re not talking about a… This isn't miles and miles big, you know what I mean? This is not a big city. This is a fairly humble space. And most of these things are low enough that if you were piloting a mech through it, you would probably get seen, or heard, you know? Um, especially if like, you shot a gun. [chuckling]
+DRE: Mhm.
+AUSTIN: People would hear that. Uh… Well, they don't have— Well, the Troops obviously have guns outside—the Troop units that are patrolling.
+DRE: Yeah.
+AUSTIN: But these spear guys don't have guns—these, uh, Pinnacles. [pausing]
+DRE (overlapping): I guess we—
+AUSTIN: You also don't know if anything else will arrive with either the delivery crew or the pickup crew. So… [pausing] [quietly] Important to know.
+DRE: I mean, I guess we could try to intersect… the eyes before they get up here.
+AUSTIN: It’s possible.
+JANINE: I have another idea, also.
+DRE: Mhm?
+JANINE: That is also— [laughing] [sheepishly] Also kind of a Hitman idea. Um, because we just reset our loads on our mech, what if… what if we all, um, [chuckling] had holo-projectors, and then just impersonated… the, uh… the units that people expect to see? And then just… [pausing]
+AUSTIN: [amused] Mmm!
+JANINE: …walk in.
+[Short pause]
+ART: What are we going to do with the real ones?
+DRE: I dunno, break ‘em?
+JANINE: [chuckling] I mean, the thing about all of these units is they're spaced out in such a way where, like—are they looking at each other at any point?
+AUSTIN: The two inside… These— The three inside can all see each other.
+JANINE: Okay.
+AUSTIN: Remember, these are not tall buildings, right? There might be some…
+JANINE (overlapping): Oh, okay. Right, right, right.
+AUSTIN: Uh, mechs are like, you know—a medium sized mech in this world is like 50 feet tall, which is going to be taller even then most of the mausoleums in this place.
+ART: And these two in the northeast—in the northwest, rather, look pretty close.
+AUSTIN: Uh, but they are in jungle. They probably can't see each other.
+ART: [quietly] Mm.
+AUSTIN: The three I know can are the three Pinnacle units inside.
+DRE: Okay. [unintelligible]
+AUSTIN: Because they have a direct line on, like—you know, this guy is probably like, at the door, you know, um… so that she can keep a wider eye on everything. The— But the individual Troop units, if this is where they're laid out when you get there, will not be able to see each other by default.
+ART: But if they just started walking toward the ceremony someone would be like, “This— That's not right.”
+AUSTIN: [searching for words] Yes. Prob— Well, who knows? [chuckling]
+[Janine groaning, dissatisfied]
+DRE (overlapping): Eh, depends on how we roll. [laughing]
+AUSTIN (overlapping): I don't know. [unintelligible] give a weird salute, you know? Yeah.
+[Engagement Roll — 01:07:18]
+AUSTIN: Um, it sounds to me like you have a couple of different ideas—and mechanically, as a reminder, they way you do— um, the way you roll to start a mission is your Engagement Roll. And it sounds like the tactics that you're throwing up right now—that you're suggesting, you're not throwing up, you're suggesting—are Assault. Uh, no. Deception? Deception would be the holo thing. Right?
+DRE: Mhm.
+AUSTIN: Um… It feels like Stealth would be your “sneak to the north and climb the wall” one. [pausing] And then… I guess, you know… Art, you suggested some social stuff, in terms of just kind of like, sneaking through the crowd. That would probably be Social, yeah.
+ART: Yeah. Try and just, like… But I think we would do better there if we could secure credential, and… and I don't really have a plan in that direction.
+AUSTIN (overlapping): I mean, you can do that stuff—
+JANINE (overlapping): Also if Thisbe looked like a car or wagon of some kind that would be easier. [chuckling]
+AUSTIN: Some sort of car.
+DRE: Mhm.
+AUSTIN: Listen, there are synthetic people, you know. So…
+DRE: Yeah.
+ART: Yeah, well, let’s just get a— We can— What if you were a big cloak?
+[Austin and Janine chuckling]
+DRE: Sure. So then when we get caught, someone will just yell “Assassino!” and then we have to parkour through the rest of the world. [chuckling]
+[Janine chuckling]
+AUSTIN (overlapping): [amused] Right. Exactly. And then— Yeah.
+ART: Uh-huh.
+AUSTIN: Hide in some nearby straw. It'll be fine.
+DRE: Uh huh.
+JANINE: We've canonly established that Thisbe can do parkour, so…
+AUSTIN: It's true.
+DRE: Mhm!
+JANINE: That would work.
+AUSTIN: That would work.
+ART: I guess we could also do a, like… like, a Prestige.
+AUSTIN: [amused] Uh-huh?
+ART: Like, uh… You know, make ‘em look at one hand while the other hand is doing the other thing, you know?
+AUSTIN: You could. Yeah.
+DRE: Are you… Are you proposing we make, like, a fake set of eyes and swap them?
+ART: Yeah, maybe! Or something. Just like… [Dre laughing] What if one of us was really obvious about their attempt to get in?
+JANINE: Ohhh. [chuckling]
+[Austin chuckling quietly.]
+ART: While the other two snuck in and did the robbery.
+JANINE: I do like diversions.
+AUSTIN: Mhm.
+DRE: Mhmm. I don't hate that idea.
+JANINE: How many statues can I punch here?
+[Others laughing.]
+DRE (overlapping): Not many! ‘Cause we don’t wanna wake up Order. [laughing]
+AUSTIN (overlapping): Oh, right. [muffled] [laughing]
+JANINE (overlapping): [amused] Oh right, that's true. [sighing] I’m out, then, I’m out. [laughing]
+DRE (overlapping): [chuckling] I guess there’s one really big statue you could punch if you really want to.
+[Several laughing.]
+JANINE: Oh, that’s true, I could just wail on Order.
+AUSTIN: Yeah. Just wake up Order. No big deal, right?
+ART: I mean, it's a clock, so you could probably punch one or two.
+AUSTIN: [doubtful] Mmmm…!
+[Janine and Dre laughing.]
+AUSTIN: Direct— [doubtful] Mmm… 
+ART: Probably one!
+JANINE: I guess that's kind of the thing with a diversion, right, is diversions are inherently chaotic.
+AUSTIN: Uh-huh, a little bit.
+ART: But not inherently violent.
+DRE: Yeah.
+AUSTIN: That's true. And again, Order cares about what's in the walls. So…
+ART: So just stand right here, and start punching.
+DRE: [laughing] Yeah, just punch the outside of the wall. Um… I like this diversion idea.
+ART (overlapping): Or like, this building. Or this building.
+AUSTIN: Those are homes. I mean… you know, maybe you don't care about them, but…
+ART: If, you know… I can go punch the wall in my own house, it's not gonna do anything.
+DRE: You don't punch as good as Thisbe. [chuckling]
+AUSTIN: As Thisbe, yeah. Thisbe be punchiiin’.
+[Janine chuckling.]
+DRE: [sighing] I mean, I'm down for the, um… the diversion roll.
+ART: I would also be willing to be the diversion roll but, you know…
+[Austin chuckling.]
+ART: It's what kind of diversion do we want?
+DRE (overlapping): Well, I—
+JANINE (overlapping): How— Mm.
+DRE: I like Janine’s idea of having one person—or, I don't know if it was yours or if it was Art’s—but, like, one person being the distraction and the other two doing the sneaky stuff in the background.
+JANINE: How much are we going to have to carry out of here? Like, physically? What's the…
+AUSTIN: [apologetically] There's a lot.
+JANINE: Yeah…
+AUSTIN: I mean, I don't— I think what Kenzi has told you is, you… You're gonna need some way to transport a lot of these things— Like, what's important is… There's two things that are important here, right. Maybe this is the object— Maybe this is your secondary objective. Primary objective: Collect the Eyes of True Divine. [pausing] The secondary objective is: Ensure that the Curtain does not wind up with enough of the Eyes of the True Divine that they can do shit with it. Right?
+DRE: Mm.
+AUSTIN: It'd be— It’s one thing to, like, leave with pockets of the stuff, but like… You're hearing an air based—you know, from Kenzi—an air based stealth transport is arriving with this shit. Right? That's, that's a lot.
+ART: So we need Thisbe inside.
+AUSTIN: I wanna be a hundred percent clear: It's probably more than one person can carry.
+DRE: Yeah. Yeah.
+ART: That's why I picked our biggest person.
+JANINE (overlapping): Yeah, I was also thinking…
+AUSTIN (overlapping): More than a big person [chuckling] can carry.
+JANINE: I w… [searching for words]
+DRE: Okay. What if in addition to the back of the drill, it's just a U-Haul truck. [pausing] [laughing]
+ART: I mean the drill vehicle is becoming a better and better idea, especially if we have to like, load a lot of stuff.
+AUSTIN: [chuckling] You can get a drill vehicle, that's an Acquire Asset for sure. Or you could put a drill on one of your vehicles and then take the cargo thing. There's definitely a cargo…
+DRE: Ooh, Mow drill.
+AUSTIN: Mow drill.
+JANINE: I mean, that's the thing, is like, Mow kind of already has cargo space. That's his thing.
+DRE: Yeah.
+JANINE: He's got the gutted cockpit.
+AUSTIN (overlapping): Yeah, a gutted cockpit will not be—
+JANINE (overlapping): But it’s like, how much…
+AUSTIN: A gutted cockpit will not be enough to carry as many of these things as you need.
+JANINE: Okay.
+AUSTIN: You would need to take the thing, “Cargo Space.” Which is “Contained area suitable for moving a large amount of objects or a few large objects.” [pausing] And this is me giving you— Like, again, Kenzi is being… I could just hand— I can just tell you that Kenzi is saying this is like, more than a tractor trailer worth of stuff.
+DRE: Yeah.
+JANINE: Mhm.
+AUSTIN: More than, like, an 18-wheeler.
+ART: I guess we could do the drill and the diversion.
+AUSTIN: Mhm!
+JANINE: I mean, the thing is, even if we drill in, we're still gonna have to deal with that unit at the gate, right?
+AUSTIN: Yeah, I don’t— It, well— You are all… realistic enough to believe that if you drill a hole into this quiet cemetery, [Dre: Mhmm.] where there is a trained guard, uh, [chuckling] that person, they will probably hear you. [pausing] If the— On top of the Troop units potentially hearing you. Right?
+DRE: Right.
+JANINE: I mean, [sighing] um… There's no reason— Does Cargo Space have to be, like, a trailer, or could it be like a very big, bulky backpack?
+AUSTIN: It could be a big— It can be— Yeah, totally. Totally can be a bulky backpack or like, a…
+JANINE: ‘Cause Mow is specifically a gorilla robot.
+AUSTIN: Mhm.
+JANINE: So it feels unfair to Mow to say like, “Well, we can't climb. We have to rule that out because of cargo.”
+DRE: So I mean… Mow could climb, and then SI and Valence outside of mech could scale the wall.
+AUSTIN:I mean, you could climb— You could— Don't get caught— If you want to climb, we're gonna climb, you know what I mean?
+DRE (overlapping): Yeah yeah yeah yeah. Yeah yeah yeah.
+AUSTIN: We don’t need to— Let’s… This is the “get off the boat” part.
+DRE: Right, yeah. I mean I am the person with two harm because I've decided I want to do everything as wild as possible in this season.
+[Janine chuckling.]
+AUSTIN: Uh-huh.
+DRE: So, I am…
+AUSTIN: Wait, did you hold on to that harm? Do you still have that harm?
+DRE (overlapping): Not two harm. Sorry, I should say two scars.
+AUSTIN (overlapping): Oh, oh, oh. Two scars. Uh-huh.
+DRE: Um… [laughing] So… I understand if this approach is a little too reckless, and I'm welcome to hear other ideas.
+JANINE: I think drilling or climbing either way is fine. Drilling is slower, climbing is faster, um, but drilling lets us get more mechs in… I mean, I guess either way, we can get mechs in, but drilling probably makes it easier. I think we should probably still try and take out that guard at the gate and, like, use a holo-projector to replace them so it doesn't set the other two off. Um… those are my thoughts.
+DRE: Okay.
+AUSTIN: I— [muffled]
+JANINE (overlapping): Just didn't in the spirit of getting off the boat, I just wanna get all that out there. [chuckling]
+AUSTIN (overlapping): Yes. The thing— Yeah yeah yeah.
+JANINE: Uh…
+AUSTIN: Mhm. The thing I'm saying now, again, is just a remind— Just a, cards on the table, again, it…
+[01:15:00]
+AUSTIN: There is… It seems very difficult to go compl— I wouldn't build a plan around the idea that you'll be able to do this entirely stealthily.
+DRE: Yeah, sure.
+AUSTIN: Because of how low everything is around here, how big Mow is, [Dre chuckling] and how many people are around. [pausing] It’s not impossible, you could 6 your way through this thing, you know?
+DRE: Yeah.
+AUSTIN: But— And again, because you don't have all the information also. Like, you don't know who is coming to pick up the stuff, who is coming to drop it off, what— how it's getting— I mean, you know it's coming in through some sort of stealth air transport, right?
+DRE: Yeah.
+AUSTIN: So, those are things that are— I'm just, I wanted to be a hundred percent clear on that, because it is very easy to imagine like… it is very easy to imagine everything is happening at Hitman level. But what if Hitman— What if Agent 47 was 12 feet tall? How would that change… [Dre laughing] [chuckling] How would it… How would it be hard to hide him… sometimes?
+DRE: Mhm.
+[Short pause.]
+AUSTIN: Not impossible. There are walls around Order.
+JANINE: I mean, you—
+AUSTIN: Like, that is— But…
+JANINE: You hide them behind the man that's fifty feet tall. [chuckling]
+AUSTIN: Uh-huh. Mhm!
+[Dre and Art chuckling.]
+ART: All right, let's do it!
+AUSTIN (overlapping): All right.
+JANINE (overlapping): Actually—
+ART (overlapping): Let's scale the wall…
+JANINE: Yeah, no, I have— I wanna add an addendum to the “scale the wall” thing. What if we are waiting outside of the wall, we wait until the airdrop vehicle comes, then we scale. Like, that's the advantage— That's the advantage that scaling versus drilling has for us, right, is we get to… we get to act more quickly. Or, if we drilled we'd have to— we could, like, wait underneath until, like, the last possible second to breach or something, but…
+DRE: Mhm.
+JANINE: It feels like it's easier to hide in the jungle part.
+AUSTIN: Mhm.
+DRE: Okay!
+JANINE: And then, just when we see the sign to, like, make our play.
+AUSTIN: Sure.
+DRE: Sure.
+AUSTIN: All right. That, to me, sounds like— I guess I'll ask you. Is this Assault? Is this an open violence against the target? Is this Deception; luring, tricking, or manipulating the target? Uh, is this Stealth; taking action undetected? It feels like it might be Stealth, in that… the point is to infiltrate— the point is to hide nearby and then infiltrate quickly, right?
+JANINE: Mhm.
+DRE: Mhm.
+ART: Yeah, Stuff sounds right.
+AUSTIN: Okay.
+DRE: Yeah.
+AUSTIN: So: Time to do an engagement roll. Is the mission bold? Take +1d if the mission… uh, if it is. [pausing] Do y’all think it’s bold?
+ART: I think it's pretty bold.
+[Dre and Janine laughing]
+ART: This is the oldest plan and I think I've been on.
+AUSTIN: Okay/ Is it especially complex?
+ART: [ambivalent tone] No.
+DRE: [similar tone] No.
+ART: I’m just standing outside [Austin: Okay.] and then jumping over the wall. [laughing]
+AUSTIN: [amused] Okay.
+[Dre laughing]
+
+
+AUSTIN: So that's— You’re up to 2. Uh, does this mission exploit the target’s vulnerabilities.
+ART: Um… 
+DRE: Probably not?
+ART: Yeah! Right? [overlapping with Janine] Who told them to put it over here… [trailing off]
+JANINE (overlapping): It depends on whose vulnerabilities we’re talking about. Specifically.
+AUSTIN: Uh-huh.
+DRE: Right. My argument for no is we're doing it right next to Order.
+AUSTIN: Yeah, I don't think this exploits specific vulnerabilities, but I also don't think it's ineffective. So you're not gonna take a minus here either. Uh, did you receive external support for the mission? [pausing] No. Is anyone interfering with the mission other than the target? Yes, but no one you don't know about. Right? Or like, no— yes, only in the sense that there are more than one— It's more than the Knights of Order here. It's also the people delivering the stuff, the people picking it up. But that's not gonna give you a negative, you know about them.
+ART: Those are all the targets.
+AUSTIN (overlapping): Those are all the targets, exactly. Yes.
+ART (overlapping): Everyone's a target.
+AUSTIN: Everyone’s the target. [chuckling] Listen to Sovereign Immunity, folks. Um… Are there any other factors that affect the mission? Uhh, I don't think so… [suddenly remembering] Squad tier! You're a lower tier than these folks. But, if the deception… [breathing in, uncertain] Mmmm… I think… the fact that you have the element of surprise evens that out here, so let's commit to 2 dice on this.
+DRE: Okay.
+AUSTIN: Are there any other bonuses you get before you roll those dice? Let's make sure.
+DRE: We do get to roll twice and take the better result.
+AUSTIN: That is for entanglements, not for engagements.
+DRE: Oh, right. Sorry.
+AUSTIN: Unfortunately, unfortunately.
+DRE: Bluh!
+AUSTIN: I'm sorry.
+DRE: No, it's fine.
+AUSTIN: Uh… And then I'm just double checking everyone else's specific things. I don't think so. I think that I think that you're right. [methodically] Nothing on this page. Nothing on this page. [pausing, then hopeful or curious] Uhh… ah?
+[Short pause.]
+DRE: Yeah, I don't think so.
+AUSTIN: No. Yeah. [pausing] I'm just checking your, like, upgrades for your base and stuff. Nope, okay! So 2d6… for this roll. Who wants to roll it?
+DRE: Uh… Thisbe hasn't rolled yet.
+[Austin chuckling.]
+DRE: But I also don't mind rolling since it's partially my cockamamie scheme.
+JANINE: Um…
+AUSTIN: Someone make the call.
+JANINE: I don't mind either way.
+DRE: Okay. I'll roll. [hitting a key] Off the boat. Okay, 5.
+AUSTIN: 5! Okay. So that's— that is a, uh, mixed success. That starts you out in a risky position. So… You get there… You know, a week goes by, you've done all your prep. You've looked at these maps, you've drawn out your plans. You get, you know, your transport provided—Millennium break will provide the transport for you at least, you know. That's something Jesset City can give you. And, uh, you managed to, like, get through all of the jungle area. It’s denser and hotter than even you thought it would be. It's humid in a way that is, I think—especially for Sovereign Immunity—a fucking pain in the ass. [chuckling] I'm guessing you all… Did you all arrive in your mechs just in the jungle? Are you all, like… to the north, basically, of this area, um, when you begin your engagement?
+DRE: [considering] That sounds right.
+AUSTIN: Okay. So, the big things here, as you’re moving through the jungle and up to the top thing, the… I think the first thing worth noting here—besides the humidity—is that it is denser than you thought, to the degree that it’s hard to imagine being in a successful long-range fight in any way here. Uh, and so… It’s… There’s a, almost… [sighing, considering] It’s like, a double… There’s like, a double edged sword here, in that—when you start to hear the sound of a Troop unit walking your way, you realize “It’ll be really hard for that Troop unit to line up a shot on me, um, as I’m scaling this wall,” because of how dense the jungle is here.
+        But on the other hand, it means you’re not confident that you— that there’s only this one moving towards you. As we start, the thing that’s happening here is this north-eastern Troop unit is moving up towards you, as y’all begin to scale this wall. Who is scaling the wall, and in what? Are you all just in Mow, or have— are you all getting up to, like, the top of the… It sounded like you were all trying to get on top of the tower in order to, like… best, um… [pausing] like, jump down when the… when the stuff arrives, right?
+DRE: Mhm.
+ART: Yeah.
+AUSTIN: So then, yeah, I think… One of you notices the sounds of this Troop unit, stomping through the jungle towards you. At this point you’re above it, but this is while you are climbing up. Um, and it’s clearly scanning, for… you know, any sort of targets. Also, I should add y’all to the map in some way. [pausing]
+DRE: Oh, we need to declare load level too, right?
+AUSTIN: You should also declare load level, yes, thank you.
+DRE: Okay. [quietly] Uhhhm…
+AUSTIN: Here is Sovereign Immunity.
+ART: Medium.
+AUSTIN: Okay.
+ART: I declare medium. [pausing] Also, as an aside—and I don’t wanna, like… lock myself too down in this, but—I think the second half of this season, Sovereign Immunity is portrayed by a late 90s—uh, or an early 90s, late 80s Frank Miller drawing.
+AUSTIN: Okay. Sure.
+DRE: Ooo. Okay.
+ART: I think that is… Just changing up the look a little bit as the season changes.
+AUSTIN: [chuckling] I know what you mean.
+DRE: [quietly] Uhhh… Okay, I will also take… [pausing] Oh, right, and— but we still have our Recon Rigging, right? So we get 2 free load?
+AUSTIN (overlapping): You do! You get 2 free load.
+DRE (overlapping): Okay. [saying something very quiet, muffled]
+AUSTIN (overlapping): Not just general, though. It’s specific, right?
+DRE: Yeah.
+AUSTIN: Recon Rigging specifically says, uh, “tools or gear.”
+DRE: Yeah.
+AUSTIN (overlapping): Which means not weapons, and it means not… yeah.
+DRE (overlapping): I will also take medium load.
+AUSTIN: Thisbe.
+DRE: Sorry. Didn’t mean to talk over you.
+AUSTIN: No, you’re good.
+JANINE: Um… I’m gonna go with medium.
+AUSTIN (overlapping): Also.
+JANINE: Thisbe usually goes heavy, but this seems like the opportunity to lighten up a little bit.
+AUSTIN: Fair. Fair.
+JANINE: And Mow heavy.
+AUSTIN: And Mow— Mow heavy.
+DRE: Mhm.
+AUSTIN: Uh… [trailing off] Boop, boop, boop…
+DRE: Mhm!
+AUSTIN: Uh, yeah, so yeah, move yourselves wherever… Like, I’m guessing you’re climbing that wall. So yeah, this Troop unit is moving towards you, and is beginning to scan as you continue to climb. What is you… What do you do?
+DRE: Hmm…
+AUSTIN: Y’all are in risky positions, because of the engagement roll. [pausing] Um… And you can hear, as this is happening, from inside the walls: The funeral has begun, there’s music playing. You know, there’s like, sad bagpipe music, or something. Whatever the Kesh equivalent therein is. And, uh, there is… You probably can’t hear people crying, but people are crying, and on the chest of Order—which you can’t see from your position—but there are various photos of Clementine Kesh being projected. Uh, Clementine Kesh at a dance recital, Clementine Kesh playing water polo, Clementine Kesh… uh, like, a drawing of Clementine Kesh doing something heroic she never did.
+DRE: Let’s see… Sorry, I’m looking through all the gear and things.
+ART (overlapping): Um… Yeah, I’m gonna use climbing gear, “with ascenders and fast rope,” and try to just get up real quick. I don’t know what ‘ascender’ or a ‘fast rope’ is.
+AUSTIN (overlapping): Is that personal? That’s… That’s personal gear, you’re in your robot.
+ART: Oh, I didn’t think we were climbing in the robots.
+AUSTIN: Oh! Well, then where are your robots at?
+ART: [ambivalent] I dunno, in the jungle.
+AUSTIN: [pausing] I really gotta have a better idea of what this plan is. [chuckling]
+[Dre laughing.]
+AUSTIN (overlapping): Are you or aren’t you—
+ART (overlapping): [chuckling] I think I have to have a better idea of what this plan is!
+AUSTIN (overlapping): Yeah! Uh-huh!
+DRE: Right. I guess I also thought that we would just be climbing on ourselves, not within our robots.
+AUSTIN (overlapping): Okay, well, then—
+JANINE: [apprehensive] I… thought it was robots. [chuckling]
+DRE: Okay.
+AUSTIN: Well, ‘cause you gotta put the stuff somewhere, right?
+DRE: Right. Okay. Umm…
+JANINE (overlapping): But I guess you only have to put the stuff in Mow.
+AUSTIN (overlapping): Maybe only Mow. Yeah, that’s true, so maybe only Mow.
+JANINE: So, other robots could be outside, maybe you like, remote— if you have a remote vehicle control in your robot, you could distract the thing, maybe? [pausing] Like, send it— Just run— Like, rustle some trees.
+[Short pause.]
+ART: Um… [pausing] I do not have ‘remote’…
+AUSTIN: Uh, it’s a thing that’s in your— Everyone has it, if they wanna declare it, as a thing for for personal vehicle.
+ART: Oh, that’s a personal– that’s not a mech thing.
+AUSTIN: Mhm, mhm.
+DRE: Yeah, mhm.
+ART: That’s already six… That’s already all of my gear.
+AUSTIN: Wait, but you have the—
+ART: Between the climbing gear and the… remote vehicle control.
+AUSTIN: Oh, oh, oh, oh. Yes.
+JANINE: But don’t you get free…? The ‘two free’ thing, where… [trailing off, unintelligible]
+AUSTIN (overlapping): The two— Yeah, the climbing gear is free for you, because of… because, now, as part of SBBR, Art, you have Recon Rigging, which gives you 2 free load of tools or gear.
+ART: Oh, great.
+AUSTIN: Yeah.
+DRE: Yeah.
+ART: All right, I’ll take remote vehicle control, and yeah, I’ll just have it start going in circles or something.
+AUSTIN: Give me a, um, a Maneuver roll. Which is 1— or, what are you? What’s your Maneuver? 1, yeah. [pausing] Uh, you could push yourself here, you could ask for help. You can always move to a desperate position to get a bonus die… or greater effect.
+ART: I dunno how someone helps you… [pausing] Uh… [pausing] I dunno how someone helps you remote control your mech.
+AUSTIN: I dunno! Ask your team, [chuckling] if someone has an idea.
+[Dre laughing.]
+JANINE: Amplifying the signal, or like, uh…
+AUSTIN: Spotting for you, or…
+JANINE: [sighing] Yeah. [pausing] Stuff like that.
+ART: I— [pausing] [confidently] I think I got this.
+AUSTIN: [expectantly] Yeah?
+ART: I rolled so badly before that I’m due…
+[Austin chuckling quietly.]
+DRE: [sarcastically] Mhm!
+ART: …a better roll.
+JANINE (overlapping): I— I—
+AUSTIN (overlapping): With your 1d6?
+DRE (overlapping): This is excellent gambling logic.
+JANINE: I would be fine to help you.
+AUSTIN: Yeah.
+JANINE: If you want, like, the signal amplified ‘cause of the trees or whatever.
+ART: All right, I’ll take it.
+AUSTIN: All right, so then, uh… Broun, that costs— or, not Broun, Jesus—Thisbe.
+[Dre chuckling.]
+AUSTIN: I was looking at Broun’s sheet, because… um, because they had a piece of equipment I was curious if you had, but you don’t. Um… [pausing] Thisbe, that’ll take 1 stress to help.
+JANINE: Mhm.
+AUSTIN: And then that can bring— brings you up to 2d6… Sovereign Immunity.
+ART: All right.
+AUSTIN (overlapping): Risky…
+ART (overlapping): Doesn’t matter, the first—
+AUSTIN: Risky standard.
+ART (overlapping): First one’s gonna be… a 3… so the second— [chuckling] so the second one was a 5.
+AUSTIN (overlapping): So the second one really mattered, it was a 5.
+JANINE: Uh-huh! [laughing]
+AUSTIN: Uh-huh, uh-huh! Um… So: As your mech starts making noise to the… I’m guessing to the north, or what direction is it? Or what direction is it?
+ART: Yeah, it’s probably just due north, like, honestly just like, here.
+AUSTIN: Yeah, um… You see the Troop unit turn from the wall, and like, start to look that direction, and begin to walk in that direction. However, it’s clearly sent a message, [pausing] to the other, uh, Troop units nearby, because one of them—the one to the north-west—also begins to head your way. Not your way, directly, but your way in the sense that it is moving to the… its north-east, which is to say, [chuckling] closer to you regardless.
+        So, you’re still in a—oop—you’re still in a risky position, but you are, uh… And you’ve avoided detection in this particular moment, as you finish your climb, but now there are two of these things in your general vicinity, which… That’s not great. [pausing] But you manage to climb to the top, uh, and get a pretty good look at the place. And, what is… what you’re able to see from here is kind of what I set up before; there are, you know, hundreds of people—maybe thousands of people outside, to the south, and in the east—listening, and watching the… you know, the event—the ceremony—on the kind of projected screen on Order’s chest.
+        But then, there is also, uh… you know, a hundred people inside, give or take, in that kind of stage area. And that includes a number of dignitaries who you recognize, from them being famous, or from previous operations and stuff. Art—or Sovereign Immunity—you obviously recognize, Crysanth Kesh is there, just on the stage, seated. She’s seated, you know, a seat or two away from Aleel Verdicate, who is the Song of, uh, Received Asterism—which is to say, kind of like, the highest ranking religious figure on Partizan, and probably in the like, the kind of star sector, the area. Uh, there’s only, you know… Aleel reports directly up to basically the Space Pope, right? The highest high of, uh, the Cycle, of the Divine Principality, of… uh, of Received Asterism.
+        There is also the, um… You know, a… I think, currently speaking, is the… uh, a brother in the Knights of Order, who is basically going over the life of Clementine Kesh. Kind of the most, uh… the most, let’s say generous version, [chuckling] of… of a telling of a life. All of the good things, a lot of stretching small things into big things.
+[01:30:00]
+AUSTIN: A lot of… uhh, let’s say, reading certain characteristics as being positive instead of negative. You know, “She was very ambitious.” [chuckling] “She was… She—”
+JANINE: Are we getting her GPA?
+AUSTIN: Right, a hundred percent, yeah. “A 3.2. Incred— You know, really pushed herself.”
+[Art chuckling.]
+AUSTIN: Um, and… Just—
+JANINE: Lots of extracurriculars.
+AUSTIN: Lots of extracurriculars. Loved her family, loved the church. Uh, and, you know, that is kind of where the proceedings are at, at this moment, as you watch on. And it goes like this for probably thirty minutes. Nothing has changed here. I think at this point, what we get is, this pair of Troop units is now walking back from—actually, that’s not true at all! Because your mech is up there, right? So I think—
+DRE (overlapping): Oh, you mean, like, to the north? Sovereign Immunity’s mech? Yeah.
+AUSTIN (overlapping): To the north, yeah!
+ART (overlapping): Mm…
+AUSTIN: It just hit me here, they’re gonna find your mech. Um… [chuckling] So, as you’re waiting, I think you get, like, a proximity signal from your mech—from Old Glory—that says, like, you know… “Two…” It says, you know, “Two targets within… within visual proximity.”
+        But they’re not within visual proximity because of the jungle, but your, like, bad video scan coming through from the distance that you’re at does show some movement in the distance. And, right now, maybe it’s standing still, but they’re going to discover that mech if you’re not careful. So, what do you do, at this point?
+ART: Um… [chuckling] Activate the holo-projector?
+AUSTIN: [amused] Ahh!
+[Janine laughing]
+AUSTIN: [chuckling] Oh, now it does come up! What do you do with the holo-projector?
+ART: I make it look like a… like, a tree stump. Like, a big tree stump?
+AUSTIN: Okay. Yeah, I think that that’s probably… Manipulate or Scan. You have 1 in either of those, right?
+ART: Sure.
+AUSTIN: Let’s say it’s Manipulate. You know, like, using a part of your machine, right? So, that right now is 1d6.
+ART: I’m gonna push myself here. I’m gonna take a…
+AUSTIN: So, to push yourself with your mech, you have to spend a quirk, not a… not stress.
+ART: Okay.
+AUSTIN: But hey, you have those, right?
+ART: Yeah… None of them make a lot of sense right here.
+AUSTIN: [contemplating] Yeah… ‘brute force’, ‘exposed cockpit’, ‘redundant systems’, ‘modular construction’. Maybe ‘modular construction’, maybe there’s something you can do with that here?
+ART: Yeah…!
+AUSTIN: You know, you can drop some modules off. [quiet chuckle]
+ART: Yeah. [chuckling] Make it look more tree-like.
+AUSTIN: Yeah! [chuckling] Or, it’s just like– with the holo-projector, maybe, you’re able to just, like, drop part… like, okay, maybe just by– the silhouette would be bad, but if you can remove parts of your arms and lay them out as if they are logs, or fallen trees or something. You know, you’re breaking up the silhouette so that it’s not readable as a mech. Right?
+ART: Sure. Great. Love it. It’s a good idea.
+AUSTIN: So when you… [chuckling] When you spend a quirk… when you exhaust a quirk to push yourself, you can either—as always here—take +1 die, you can improve your position or effect… So, right now it’s, again, it’s Risky Standard.
+ART: Yeah.
+AUSTIN: And I will now just reveal the… the clock here, that’s already… you’ve done a pretty good job with it already. But there is a 4-step clock that is, like, getting past these outer… these outer guards. You’re at two steps on it now, because, uh, of the successful… Actually, you’re at three steps of it now, because you’re at– because of the success of the roll, and then also the success of the, uh… the distraction before.
+ART: I think an extra die is more important than improved position here, so I’m going to roll two.
+AUSTIN: 2d6, gimme it.
+ART: Oh my god.
+AUSTIN: I haven’t looked at it yet. Looks like it might be bad, though.
+ART: Oof.
+AUSTIN: Oh, no, hey! Look at that, that’s a 6!
+ART: Yeah, it’s just a– It’s… a 1 and a 6 is a… is a rough…
+AUSTIN: That’s a scary combo.
+ART: Yeah.
+AUSTIN: That’s a scary combo. Well, I’m not gonna even use this thing, this clock, now then. The, uh, the Troops walk right past it. Like, your… whatever, your remote vehicle control is like, “Proximity alert! Proximity alert! Proximity alert!” [chuckling] And, uh– But they walk past it, and they return back to their standard positions. So, you’ve avoided them successfully.
+        So, with those completely avoided at this point, you’re able to kind of settle in. Mow is… hiding behind the body of Order, and presumably in a position where anyone who is looking up at this wall wouldn’t be able to see him—when Crysanth Kesh finally gets up to speak. And you assume, after she speaks is probably when this exchange is going to happen, because, after all, she’ll wanna be part of whatever that exchange is, because that’s how Crysanth Kesh works.
+        And, when she goes to the microphone, I think for those of you who know anything about Crysanth Kesh—whether from hearing about her, or in Art’s case, from having worked with her for so long—you know… you know what the fuck it is. This is definitely… Uh, actually, Thisbe, you have a new ability, right?
+JANINE: I do.
+AUSTIN: What’s that new ability?
+[Dre chuckling]
+JANINE: My new ability– Whoa, my mouse cursor disappeared? Wait, I need it to switch tabs. Okay.
+AUSTIN (overlapping): Uh-oh!
+JANINE: [short chuckle] My new ability is from the Envoy playbook. It is called ‘Like Looking Into a Mirror’. “You can always tell when someone is lying to you.”
+AUSTIN: Well, guess what: Most of what is about to be said is a lie. Um… [chuckling, pausing] Crysanth addresses the audience. Now her face is being projected on the body of Order, being watched by everyone outside, and being watched inside by everyone who is there at the ceremony. She says,
+(as CRYSANTH KESH): [somber, deliberate tone throughout] My name is Crysanth Kesh, a loyal servant of the Peaceful Princept, mother to Clementine Kesh. I would like to thank Brother Cadmus for his sermon today. I… As you might guess, it is very, very hard to bury one’s own daughter, so I will be brief with my words—but I owe it to her to speak.
+        Clementine was a noble and devout defender of Divinity. Many of you do not know this, but she spent the better part of the last year fighting on behalf of Kesh and the Principality, against the Princept’s most nefarious enemies. She recovered the body of our lost Divine Past and its noble Excerpt Cymbidium. She protected pilgrims, including our very own Song Verdicate, on the walk to honor the prophet Logos Kantel. She was a key part on the attack on Fort Icebreaker, which allowed us to make early gains in the most recent series of offensives against Apostolos—but, I do not wish to speak of the war between those who remain loyal to the Principality in whatever form it takes, because I know many gathered here today have lost people on both sides of this terrible, ongoing conflict.
+        [less somber, but grave tone] But, I refuse to fail to address the greatest blight on this moon; the terrorists calling themselves Millennium Break. I do not fear saying their names, as I know some do, because like all good Kesh schoolchildren learn, you must know your enemy to defeat it. And this enemy—Millennium Break—these radical, and cruel, and violent zealots killed my daughter. They captured her soon after her heroic assault on Fort Icebreaker, but even then her loyalty to Kesh knew no bounds. She spent the last few months of her life feeding information to our allies in the military, keeping us safe from harm whenever she could.
+        [stuttering] She…
+AUSTIN: And Crysanth chokes back some tears.
+(as CRYSANTH): [more emotional tone] She lost her life trying to stop the heinous assault on Cruciat, a city she loved with her whole heart. But even in her final moments, she dealt a terrible blow to those seditionists. She not only revealed [derisively] a gross conspiracy, but returned to our fold a voice of peace and power.
+        Though he could not join us here today, we were provided with this message, so I will let them tell their story… on their own. Could you please…?
+AUSTIN: And then, suddenly, her face on the body of Order is replaced with a new one: the face of Gur Sevraq, which is still clearly wounded and broken from the fight with Clementine Kesh. And he appears in a hallway—uh, not a hallway, in a hall—that has the sort of traditional Received Asterism banners, and colors. It’s clear that he is in Nidean care, whatever that might mean.
+[Music begins: TANAGER. PERFECT. TOUCHPAPER. by Jack de Quidt.]
+AUSTIN: They are currently holding that little golden ball that you know is Future. And when he speaks, Thisbe, [sighing] the sense is confused. There are ways in which what is said here is a lie, and there are ways in which it is true. And he says,
+(as GUR SEVRAQ): Hello, my name is Gur Sevraq. You may not know it yet, but we are friends, and you must trust me. I am here today to tell you about the noble sacrifice of Clementine Kesh, who was my friend, and who taught me a great deal.
+[Music plays out.]

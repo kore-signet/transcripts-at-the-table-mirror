@@ -1,0 +1,1740 @@
+﻿PALISADE 22: An Impossible Ideal Pt. 1
+Transcriber: robotchangeling
+Opening Narration        1
+Introduction        2
+Game Setup        5
+Chimera’s Lantern Setup [0:15:03]        12
+Stellar Combustor Setup [0:36:30]        27
+Stellar Combustor Plan [0:44:44]        34
+Stellar Combustor Action [1:03:49]        52
+Chimera’s Lantern Entry [1:17:25]        63
+Chimera’s Lantern cont. [1:35:42]        77
+Stellar Combustor cont. [1:49:38]        87
+An Offer [2:03:02]        101
+Opening Narration
+Austin: PALISADE is a show about empire, revolution, settler colonialism, politics, religion, war, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+[“The Stellar Combustor” by Jack de Quidt begins playing] 
+Austin: Tartarus 5: Gas Mining. Lonn: Resorts. Helaine Delta: Duplicate of Helaine Gamma. Thulsa: Standard Spread. Xenacip: Lost Contact. Lost Portcullis Repair Team. Bhopal Kha: Pact Occupied. Maine: Lumber, Spice. Bishamonten: Arms Manufacturing. Carjel: Standard Spread. Isfahan: Standard Spread. Yoca: Standard Spread. KX 93-39: Black Hole Research Lab. Dul-Kaw: Established via Nidean Art grant. Darre: Tomb Sector. Ecou: Refugee Camps. Edino: Quarantined Sector. Skarnoc: Debris Fields. Hilde: Gas Mining. Por: Standard Spread. Nova Melides: Abandoned Divine Clash Worlds. Palamedes 8: Regional Refueling Depot. Castax 8: Stratus Research Facility. Ashlen: Standard Spread. 
+[pause emphasizing the prominent sound of a ticking clock in the song]
+Altar. Brighton. Crown. Gift-3. Moonlock. Seneschal. Skein. Thyrsus. Volition. The Brink. The Twilight Mirage and its neighboring system where the three rings of the stellar combustor whip in tight rotations around a bulging sun. Palisade, itself a destination. Oh, how could you? Sweaty and solemn and workaday too, because on Palisade, most people don't have time to practice dying, to imagine their own funerals or the memorial services broadcast on Orion airwaves—the little statuettes, the plaques, the pins that turn misery into messaging—but that doesn't mean they aren't scared on Palisade, in Sinder Karst, in Joyous Guard, in Carhaix, on the Isle of the Broken Key, in City City, on New Oath, in the Crown of Glass. And they’re scared on the Blue Channel too, but they’re moving, launching now, headed up, putting the world behind them but drawing it closer at the same time, fingers on their own triggers, fingers wrapped together, reaching, touching, grasping in the dark.
+[song ends]
+Introduction
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Alicia Acampora.
+Ali: Hi, my name is Alicia Acampora. You can find me on this podcast, and you can also find me on A More Civilized Age, amorecivilizedage.net.
+Austin: Where we’re figuring it out.
+Ali: Uh huh.
+Austin: Who knows? Andrew Lee Swan.
+Dre: Hey. You can find me on Twitter, I guess? at @swandre3000, and you can find me on our Twitch channel most Monday nights, twitch.tv/friendsatthetable.
+Austin: Keith Carberry.
+Keith: Hi, my name is Keith J. Carberry. You can find me on Twitter and Cohost at @KeithJCarberry, and you can find the let’s plays that I do at youtube.com/RunButton.
+Austin: Janine Hawkins.
+Janine: Hi, I’m Janine Hawkins. You can find me at @bleatingheart on Twitter and Cohost and places like that, and despite what Time.is will tell us today, it is actually National Norma Day and National Whistleblower Day. [Sylvia laughs] “Greet the Normas in your life, from friends and family to relatives, this National Norma Day,” and “Let’s give it up for whistleblowers who have worked hard to protect us from corruption.”
+Austin: Just Normas in general?
+Janine: Yeah.
+Keith: People named Norma?
+Janine: Yeah.
+Keith: Oh. Well, thank you Normas.
+Sylvia: Oh, I thought it was world normie day. 
+Ali: Yeah. [Ali and Janine laugh]
+Austin: That’s every day.
+Dre: That’s every day. 
+Sylvia: It is.
+Janine: Greet the normies in your life, from friends and family to relatives, this national normie day. [laughs quietly] 
+Sylvia: I don't have normies in my life.
+Dre: Damn!
+Ali: Whoa.
+Austin: Living pure.
+Dre: Let ‘em know!
+Sylvia: Yeah.
+Austin: That’s Sylvi Bullet. Hi, Sylvi.
+Sylvia: Hey. You can find me on any social media that I'm active on at @sylvibullet. Just type it in on one of them. And also, you can check out the show’s TikTok at @friends_table. 
+Austin: The suggested National Norma Day events are “view Psycho,” because of Norma and Norman, and then “Examine Sunset Boulevard,” and I feel like this is an attack on Normas, actually. 
+Keith: [laughs quietly] Examine Sunset Boulevard?
+Austin: These are not…these Normas are not good. These Normas— it doesn't go well for those Normas.
+Janine: I mean, why not just watch, like, any Marilyn Monroe movie?
+Austin: Is she a Norma?
+Janine: That’s a Norma. Yeah, her original name is Norma Jeane.
+Dre: Oh.
+Austin: Right, sure.
+Janine: Yeah, yeah, yeah.
+Austin: Right.
+Janine: Norma Jeane Mortenson.
+Austin: Right.
+Sylvia: Just don't watch Blonde. 
+Janine: Yeah…
+Game Setup
+Austin: Today, we are continuing our game of Armour Astir by Briar Sovereign. Our goals are to portray a world entrenched in conflict, to let the players make a difference, to connect the magic and the mundane, and to play to find out what happens. [Sylvia laughs] I don't think you could, uh, accuse us of not doing the latter.
+Keith: I don't think you could accuse us of not living in a world entrenched in conflict either.
+Austin: Oh, yeah, absolutely.
+Ali: Uh huh.
+Keith: This is the most conflict we’ve had, I think, maybe. [Ali laughs]
+Austin: It’s up there. It’s up there.
+Sylvia: The dinner in Twilight Mirage had a lot of conflict too.
+Austin: Yeah, Feast of Patina feels like… [Sylvia laughs] And there was a bomb in that one too, we just didn't know it.
+Keith: Not as big of a bomb.
+Austin: Yeah.
+Keith: Sorry, Grand Magnificent.
+Austin: Uh huh. Yeah, uh huh. [laughs quietly] Art loves a bomb.
+Ali: What a guy. [Austin and Sylvia laugh] Well, anyway. 
+Austin: What do you do? I mean, what do you— you know what I mean? I keep being—
+Sylvia: I thought you were just asking us “what do we do,” like to start the session. [laughter] 
+Austin: Yeah, why not? Listen, the sun is bulbous. It is so hot outside that the animals feel like something is wrong with their world, because there is: the sun might explode. The leaders of your Cause continue to do the work that they can do, despite that and despite the itching feeling that they need to go to ground for fear of being betrayed by their own people, who might not want the sun to explode, and turned in to help turn it off. You've begun collecting the things you need for the mission that you were told not to do. What do you do? We’re in it.
+Keith: [feigned ignorance] Did they say not to do this? Sorry, wait, they said not to do this?
+Ali: [laughs quietly] Yeah, Phryge. 
+Austin: I'm not responding.
+Keith: Yeah, that was in character. [laughs] 
+Sylvia: Right after the call with Gucci.
+Austin: Mm-hmm.
+Ali: We aren't allowed to do this, but here we are.
+Keith: Yeah. “Allowed.” [Ali laughs]
+Austin: Where are we at? Truly, the ball is in your court.
+Sylvia: Okay.
+Austin: I'm afraid of breaking something if I move. [Ali laughs]
+Sylvia: So, let’s take stock of how we’re doing things. We’re splitting into two parties, right? Like, just to catch people up.
+Austin: Yes.
+Ali: Mm-hmm.
+Sylvia: Because it’s been, like, a week between episodes.
+Austin: Mm-hmm.
+Sylvia: We’re splitting up into— using b-plot with Phrygian and Brnine going to…infiltrate, question mark?
+Austin: Yeah.
+Sylvia: Something to do with the stellar combustor. I think they’re— are they just infiltrating the stellar combustor?
+Ali: Mm.
+Austin: We’re gonna find out from them, I suspect.
+Sylvia: Okay, sick.
+Austin: [reading] “When you head out for some solitary revenge, [Ali laughs] leave to take part in negotiations, or otherwise take part in a secondary narrative thread to the players involved in the sortie, you're in the b-plot.”
+Sylvia: Okay.
+Austin: “Name one or two director characters that accompany you and hold 3. During the sortie, you may spend it one-for-one,” da-da-da-da-da, which we’ll get to. So, that is what they will be doing, and their b-plot is: go to the stellar combustor, question mark. That’s as far as I understand it. We’ll find out. Do you want to brief the party on that now or you do want to save that for once we’re in the air?
+Ali: Um, I mean, there’s nothing keeping us from talking about what our ideas are. I think in terms of, like, what the opening of this episode is, it’s probably like, you know, everybody in the hangar of the Blue Channel with the…
+Austin: Getting ready to launch.
+Ali: You know, we’re already in space, but the, like…
+Austin: Oh, I have one thing to give you, then, before you get to space.
+Ali: Oh, okay.
+Austin: Also, we can't be in space yet, because you have to roll Lead a Sortie, which is…
+Ali: Oh, sure, sure, sure, sure, sure. Okay, yeah. 
+Austin: That, right?
+Ali: Well, okay. But when we’re there…
+Austin: Yeah.
+Ali: It’ll be everybody standing, and Phrygian, Routine, and Brnine on one side, and everybody else on the other.
+Austin: Oh, do you have, like, a big captain speech prepared?
+Ali: Oh. God, maybe. No. [laughs] 
+Dre: Oh. Why are we all here, then?
+Ali: I might fake it, but we’ll see. We’ll play to find out what happens, I guess.
+Austin: Okay. We’ll play to find out what happens. So, Routine is going with you on the b-plot. That’s the NPC character you're bringing with you.
+Ali: Mm-hmm.
+Austin: Or the director character.
+Ali: I really felt, from that discussion…
+Austin: Mm-hmm.
+Ali: That he would be— like, Brnine would check in with everybody privately, and he would be the one to be like, “Yeah, fuck it.”
+Austin: Yeah. I think that’s right. That’s right. [Ali laughs quietly] Yeah, fuck it. Right?
+Dre: Hey.
+Austin: We ball. You know what I mean? 
+Dre: Yeah. [laughs] 
+Ali: Yeah, you know?
+Austin: Ball is life. Like, it is what it is.
+Ali: He’s in it to be in it.
+Austin: Yeah, uh huh. All right.
+Dre: I like that you didn't say he’s in it to win it. [laughs quietly] He’s just in it to be in it. 
+Keith: He’s in it to be in it.
+Ali: He’s in it to be in it! Like, that—
+Austin: Yeah. If it’s in the game, it’s in the game. He’s in the game, you know?
+Dre: Yeah.
+Ali: Yeah, that’s Routine. You know?
+Austin: Routine is the name, you know what I mean?
+Dre: Yeah.
+Ali: Right, exactly, yeah.
+Austin: It’s right there. All right. The image I want to give you is as you are lifting off to break atmosphere, which we’ll have to roll this, uh…whatever I said it was a second ago, and I've already forgotten the name for it. Uh, da-da-da. Lead a Sortie, which, Janine, I believe you're rolling. Brnine, a thing that gets picked up on the sensors as you are leaving—it blips there and then disappears—is a structure below, and you can even see it maybe, as you're lifting away. An old theater appears, for just a second, as if…as if…I don't know, to wave goodbye? [Ali laughs] Who could say? But the old Affliction, Lattice, did show up here, maybe moments later than a conversation could happen but was on its way. Janine, can you roll Lead a Sortie: “When you lead the group into battle, get in the robot when you're not supposed to, or otherwise take action that would move the game from a downtime to a sortie, you're Leading a Sortie. When you lead, roll,” and I think we decided plus Crew, because success hinges on someone else aboard. Is that correct? And we determined that you're rolling with confidence? Or are you rolling with—? Er, with advantage. With advantage and confidence? 
+Janine: I think I agreed to lead the sortie with confidence. Why do I keep saying “sor-TEE” like that? Sortie. Sortie? Sortie. Sortie. [Sylvia laughs]
+Austin: Sortie. “Sor-TEE” feels very Canadian to me? It feels like, uh—
+Janine: [speaks French ??? Sortie. En quoi sortir. 0:12:39]
+Dre: Oh. [Sylvia laughs]
+Austin: Like “sore-y” instead of sorry, you know what I mean?
+Janine: Yeah.
+Austin: There’s a little…
+Janine: Sor-tie.
+Austin: Sor-tie. Pass-ta.
+Janine: I keep wanting to do the T.
+Austin: Mm-hmm.
+Janine: Sortie. Sortie.
+Dre: Get sortied.
+Austin: But yes, you then also chose to Lead a Sortie with advantage, so you're rolling 3d6 and 1s become 6s. And this is to determine this initial liftoff and get past the satellite, like, network, the first…just the blockade, basically, on the planet, [Janine: Mm-hmm.] and get you into position to drop people off on the moon. So, 3d6 plus 3. Uh, 5, 6, 7, 8, 9, 10, 11.
+Janine: I didn't add the plus 3.
+Austin: Well, it’s okay, because the 3 is already kind of in there as the other die that we were…
+Janine: Right.
+Keith: Yeah.
+Austin: You rolled a 3, 3, and a 5, so that other 3, let’s just call that the bonus. That’s a full success. That’s an 11.
+Janine: Yay.
+Austin: On a 10 plus, you make it to the action unscathed. Phew. Deep breath.
+Janine: We did it, everyone.
+Dre: Mm-hmm.
+Austin: We’re in space.
+Keith: That would be a rough time to blow up. [Ali laughs]
+Austin: It would be a really rough time.
+Dre: Yeah, I bet.
+Keith: It would be really rough to blow that— blow up there.
+Janine: This is specifically why I avoid rolling starting things so much. I will do everything in my power to not be the person who makes the first roll, [Austin: Mm-hmm.] because I just don't want it to be my fault. [laughs quietly] 
+Austin: Mm-hmm.
+Ali: Aw. [Keith laughs]
+Austin: I understand. So, now, Brnine, you have everybody in space, in the cargo hold. Whole crew is here. The ship is presumably in stealth mode, right? It’s cloaked.
+Ali: Mm-hmm.
+Austin: Which prevents it from being seen, but also you had to have succeeded this roll to not get picked up on, you know, super sensors or whatever. So, you've done that. Good job. What do you tell people, in this moment?
+Ali (as Brnine): Uh…listen, everyone. I know you're gonna be out there doing something important and risky, and I'll see you when it’s done.
+[after a brief pause, two people applaud, presumably Cori and Phrygian again]
+Sylvia (as Cori): Good luck out there. [Dre laughs quietly]
+Austin: [quietly] I'll see you when it’s done? Okay. Yeah. Put it on a t-shirt. 
+Chimera’s Lantern Setup [0:15:03]
+Austin: All right. So, where do we start? I guess let’s talk about Chimera's Lantern. Chimera's Lantern, I've mentioned before, is named such because of the kind of strange polygonal shape that it’s in that kind of resembles, you know, like an old gas lantern in the sky, and because every now and then—and tonight is one of those nights—it has lit up with a strange glow. Please enjoy this sketch of the Chimera's Lantern.
+Dre: Ooh.
+Ali: Ooh.
+Austin: It’s glowy, and it’s creepy, and it’s covered in Nidean forces. Thankfully, you've succeeded on your big important roll, which means that you've located a place where it’s okay for you to land, at least for a little bit. The gist of what you know about this place is—and this is picked up from fairly public broadcasts about the Chimera's Lantern—is that Nideo has landed here. They believe that there is a great mineral wealth inside the planet and that’s why it glows the way it does. You know, some sort of special powerful gem or something, you know, or some sort of veins of ore that glows every now and then. This is what they’re claiming, anyway. And they’re drilling for it, and they’re gonna make everyone’s lives better with this, and then they might, you know, they might, uh…what do you call it when you—? Terraform. Terraform the moon. They’ve started putting out, you know, posters of images of Chimera's Lantern covered in, like, trees and grass and stuff, turning it into the next, you know, kind of colonial front for them. 
+But as you get closer to it, you realize, like, it’s like a barren rock that glows from what look like pock marks on it. The closer you get to it, the more that you see that, like, the glow emits from these, like, craters that are on it and sometimes just small holes. Like, have you ever seen a tree that’s been eaten by termites or, like, infested with worms? It looks like that, and that is where the light emits from. You see a number of different— you know, you're able to— you're able to find a spot to land, like the safest basic spot, and that is over here, where this kind of green circle is. You can land there, and this is one of the abandoned attempts from Nideo to get into the body of the moon. I don't know how you're, like, what your guidance here is. You tell me. I don't know if it’s that you can sense some magical power going on here. I don't know if this is tied to that initial research you did, but like, this is it. This is the place you're supposed to be. Figure, I don't know— again, I don't know if that’s on a you side of things, if that’s something else, but this is the dungeon you're about to enter. It’s on this page, right?
+Dre: Mm.
+Austin: And I'm abstracting here, right? What you'll end up seeing is a map, but recognize that the map is not one-to-one, you know? For reasons we’ll get into. Who’s going on this part of— like, obviously…obviously, Figure, you are, and obviously not Phrygian, Routine, or Brnine, but like, who is…who is going out of the ship and onto this moon? 
+Sylvia: Oh, I am definitely.
+Austin: Great.
+Janine: Same.
+Austin: Okay. Great. Are Midnite Matinee? Is Hunting? Is Saffron? Are they staying with the ship? Is the ship parking here, or is it dropping y'all off and then gonna come back and pick you up? What’s the play?
+Sylvia: Oh. I feel like— 
+Austin: Oh, so, I guess Thisbe, you're in charge in some ways, but go ahead.
+Sylvia: Oh, I was just gonna say it would probably be useful to have the support of the ship, just because it’s a tier 5.
+Austin: Mm-hmm.
+Janine: Yeah.
+Sylvia: And also just like unilaterally declaring, like…I mean, there is something to say about, like, we could have the Blue Channel, like, do a loop or something and come back.
+Austin: Mm-hmm.
+Sylvia: Which gives it a bit more, like, I don't know, maneuverability if something goes wrong with the b-plot and they need to extract or something.
+Austin: Right.
+Sylvia: But instinctively, I think we should have it, like, in standby near orbit of the moon or near the landing spot.
+Janine: I do think we should bring, like, maybe one person? [laughs quietly] 
+Sylvia: Oh, yeah. We don't need to keep the whole crew there. I just thing that, like, having the Blue Channel sort of, like, warmed up and ready to take off isn’t a bad idea.
+Janine: Yeah. Yeah, I agree, definitely. 
+Austin: Any thoughts on who you would like to bring on this one?
+Janine: Uh, who are our choices?
+Sylvia: That is in the Cause sheet, right? The whole crew?
+Austin: It is, yes.
+Sylvia: Okay.
+Ali: Yeah. Leftover, you have, uh, Midnite—
+Austin: Leftover? God damn. [Ali and Sylvia laugh]
+Ali: With the Blue Channel, [Austin: Mm.] you have Midnite Matinee, scout focus, has her own Astir; or you have Hunting Tomorrow, who is a tech guy and is really specced towards handling the Blue Channel’s weapon systems.
+Janine: Yeah.
+Sylvia: Okay.
+Austin: Mm-hmm.
+Sylvia: That kind of sounds like Hunting is the one we want to keep on board, yeah?
+Dre: Yeah.
+Janine: Yeah.
+Austin: You also have Saffron, who is the doctor from the Twilight Mirage, but again, maybe that’s an onboard in the infirmary just in case things go bad.
+Sylvia: That also feels like, yeah, [Austin: All right.] an extra pair of hands in— I mean, I don't want to speak for everybody. Also, Thisbe’s in charge of the mission, so. [quiet laughter]
+Janine: I like the idea of having Midnite in an Astir on hand. I don't know if we’re, like…we’re not— are we doing mechs out immediately, or no?
+Austin: You tell me.
+Dre: That seems like a good way to get around, at the very least.
+Sylvia: This thing’s very heavily guarded.
+Janine: Yeah. Like, that’s the thing is, like, do we want to just try and slip in?
+Dre: Mm.
+Sylvia: Did any of us take Prowl? [Austin laughs quietly] 
+Dre: I mean, my mech can turn invisible, so…
+Sylvia: Mine decidedly cannot. We could do a, like, forward thing with, um…with Figure. I was like…the Devil’s Two Front Teeth, yeah? 
+Dre: Mm-hmm. 
+Sylvia: That’s the right order of words?
+Dre: Yeah.
+Austin: Mm-hmm.
+Sylvia: Cool. Like, you could do that, have that be like a scout ahead in stealth mode, maybe?
+Dre: Sure.
+Sylvia: But like, I still think that we kind of want to be, like, locked and loaded, after the way everything’s escalated.
+Austin: Yeah.
+Janine: Mm.
+Austin: I'll note, really quick, just to go back to something: Midnite does not have her own Altar. It’s not all the way— it is, in fact, still the one she had back from PARTIZAN, which is like a 20 foot tall humanoid mech with the head of a jackal that is more like— it’s a little bit closer to Mow, not in size. It’s the opposite of Mow in size and scale. It’s teeny compared to Mow. It’s a little baby next to Mow, but it’s a baby next to all your mechs too. It’s just, you know, twice as big as most of you. It’s a little taller than Thisbe even.
+Janine: Yeah.
+Sylvia: Yeah.
+Austin: But it is a— and it has not been upgraded to, like, Altar status. It’s just, like, it’s an old Hollow that Midnite has a close relationship with and, like, a bounty hunting partnership type vibe.
+Sylvia: Mm-hmm.
+Austin: You know, there’s like a Han and Chewbaca vibe with this thing.
+Janine: Right.
+Austin: But it is also like Mow in that it is not— it does not have opinions about the world, but it does have preferences. It does have biases in the way that anything does, you know? So. But I just want to be clear that she will not be, like…that’s a tier 2 thing, right? That’s not a tier 3 thing or a tier 4 thing.
+Janine: Right.
+Austin: So, worth just putting that out there. Important. 
+Janine: Well, what if— okay, so what if we go on foot except for Figure who brings an invisible mech?
+Austin: And then if you need more mechs, we get ‘em from the ship. Is that the play?
+Janine: Yeah.
+Austin: Okay.
+Janine: I think so.
+Sylvia: I'm cool with that.
+Austin: Okay. Do we get a shot of you looking at your mech, Cori? Is it still under lock and key?
+Sylvia: Oh, yeah. I think…
+Austin: Under burlap sacks? Under a tarp? Like, what’s— what do we see of it?
+Sylvia: It’s more of a veil situation, I think.
+Austin: A veil!
+Janine: Ooh.
+Austin: Yeah, okay, good.
+Sylvia: Yeah. Yeah, I think the way…the way that I've been picturing things is, like, image of Cori in the hangar, like, looking at the wings of this thing. It has very— it also has wings. And then putting on this, like… [sighs] They kind of look like laurels almost, is where they rest. They’re also— like, they’re little— they look like they’re made of marble almost, wings as well, but that’s her interface with it. That’ll come up later. Also, her hair is shorter. I never gave her a canonical hairstyle, [Austin: Oh.] but her hair’s shorter now. I've always kind of been picturing Cori with, like, long hair that she keeps in, like, a braid, and now the braid’s just been, like, cut off, and it’s shaved at the back.
+Austin: You cut the braid. Ooh!
+Sylvia: Yeah.
+Austin: Uh oh.
+Dre: Mm-mm.
+Sylvia: Mm-hmm.
+Austin: Okay. You know, let’s just get a little bit here, and then we’ll bounce over the other way. What is guiding you? What is your— what are you looking for out here? Again, it’s kind of a ruined— or not ruined, right, but barren. It’s a barren moon with low hills and craters. Again, these little holes in the ground, and every now and then, a cave system or a, you know, or an entryway to something that looks like a cave, or in the distance, you're seeing lots of, like, moon cars, like Nidean moon cars bouncing, you know, around across the horizon, and it’s also just a very weird place to be because of the…you know, where you've landed is close to one of these very hard edged turns on the moon, where it goes from this one angle to this other angle, and that is, like, kind of strange to look at. The horizon drops. It’s like climbing a hill, you know what I mean? And then it’s like, oh, in every direction, for as far as your sight can show you, for as long as you can look, it comes to a kind of cliff faced drop where the shape of the moon turns and goes downwards, you know, kind of from the top right angle of the lantern to the long lower right body part of the lantern. So, it’s just a weird look. But what are you doing? How are you trying to find whatever this power source is that you're looking for?
+Dre: Hmm.
+Austin: Figure, you're the one who’s scouting out front, right? Or are you just there and invisible? Is it still one group?
+Dre: No, I think I am scouting out front.
+Austin: Okay.
+Dre: That makes sense to me. Uh…boy, boy, boy, boy. Um…
+Austin: Talk to me in actions more than moves.
+Dre: Yeah, well, I'm trying to remember.
+Austin: What do we see? Yeah.
+Dre: Was there anything from the, uh…fuck. Sorry, I just totally blanked. What did I find at the Violet Cove place that, like, kind of led me here?
+Austin: Yes.
+Dre: And I'm trying to remember if that gave me any sort of…
+Austin: The gist of what you got was that back— and I'll make sure that my notes are accurate here, but that back— it was kind of tied up, actually, with the big festival thing, you might recall, right? There was the holiday that they were like, they sort of decided to celebrate and then doubled down on later. There had been a moment where…very early on in the Principality, kind of at the birth of the Principality, there was a moment where the moon lit up and something from the moon, either coming down from the moon or, you know, the moon seemed like it had caused the tides on the planet to rise, and even more specifically than that, like, as the tides rose, it gave people who wanted to stop or fight the early Principality some sort of power to push them out, right? This is what leads to Embarkation, the moment when the vast amount of Kesh and Nideo forces left Palisade to begin with. It was like the moon glew— er, “glew.” [Dre laughs] The moon glowed. The moon glown, and then people seemed to have some amount of power. 
+Now, that might be— it might also be the case that someone from the moon was here or the moon was, you know, a weapon at the time. You don't know, right? But there was some sort of resonation with Chimera's Lantern, so that’s what you know, generally speaking. And then it was specifically talked about as being, like, the warriors of the moon had their, like, natural capabilities enhanced in a way that’s like…the language that you were looking at was a lot about, like…you know, very like epic heroism, like epic in the literary sense, but also about, like, self expression and, like, being the person you want to be, being free from chains, being free from the limits that the world had put on you to become this more heroic form. Not many— not like, “turn left at the big boulder,” you know?
+Dre: Sure, yeah, yeah, yeah. 
+Austin: Unfortunately.
+Dre: So, it sounds to me that this is probably more of a, like, trusting my gut vibes based search than it is a, like, “I'm looking at the sensors” sort of thing?
+Austin: That’s probably right. I mean, you could do either, right?
+Dre: Yeah.
+Austin: There are things to discover using both of those methods.
+Dre: Sure. Yeah, I think this is more…this is more vibes. This is more intuition.
+Austin: Okay.
+Dre: So, I guess if Figure is just trusting their gut, [Austin: Mm-hmm.] what is the move that best, like, aligns with that?
+Austin: Trusting your gut is probably a little more Read the Room [Dre: Okay.] than Dispel Uncertainties, right? Even though I think Dispel Uncertainties might fit the situation more, but you're not wracking your brain, right? You're like, “All right, what am I seeing?”
+Dre: Yeah.
+Austin: “What am I sensing about this thing?” right? So yeah, let’s go ahead and Read the Room, [Dre: Okay.] which is roll plus Sense. 3d6 plus— you have 2 in Sense, right?
+Dre: Yeah.
+Austin: All right. Rolling dice. Hey, that’s a 9. 
+Dre: That’s a 9. 
+Austin: That’s not so bad. Uh, I should remind people, before we get too much further in: you also have the thing that says everybody has one extra hold that you can spend on specifically basic or playbook moves. So, this is a basic move. For instance, you could say, instead of having— oops, I fucked this up. There we go. Fixed the sheet. Phew. [Dre chuckles] Right now, it says, “Hold one, and spend it one-for-one on one of the following questions.” You could decide: I'm gonna spend this bonus hold on Read the Room, right?
+Dre: Gotcha.
+Austin: Because that’s a basic or playbook move. The questions you have are: “Who has the upper hand here?” “What is being overlooked or obscured?” “Where do my hooks pull me?” “How does X really feel?” “What is X’s approach?” “How is X at risk or in peril?” and “Where can I find X?” And you will roll with advantage when you act on what you have…the knowledge you got here, so keep that in mind.
+Dre: Yeah. One of these sounds very straightforward. [laughs] 
+Austin: Yeah, uh huh.
+Dre: It’s just a good question to ask.
+Austin: Which is?
+Dre: “Where can I find X?”
+Austin: Mm, mm-hmm.
+Dre: I will say: “Where do my hooks pull me here?” is interesting.
+Austin: It is.
+Dre: So, I kind of want to lean towards that.
+Austin: Interesting. Yeah, okay. [Sylvia laughs]
+Dre: Austin, if you give me two choices, and one is like, “This is the best one.”
+Austin: Yeah. Mm-hmm.
+Dre: “And this is the one that’s interesting.”
+Austin: You're gonna pick that one.
+Dre: Yeah. [laughs] 
+Austin: I get you. There’s two different hooks that pull you in the same direction, right? One is “I've lived two lies; I would happily die for the truth,” and the other is “The only way to escape the Witch is to endanger others, but they seem eager to accept the risk.” And so, do you know that little moon car I mentioned before? You follow it with your eyes, and you see where it’s going, and it is a big, like, gaping hole in the ground that it parks out in front of, and two people in space suits get out. Which, by the way, Cori, how are you breathing?
+Sylvia: Mm.
+Austin: Let’s come back around to that.
+Sylvia: Yeah. [Dre laughs quietly]
+Austin: Two people get out of the moon car in space suits, carrying, like, a big, you know, black…almost like a trunk, or bigger than a trunk, like a big heavy case, and begin to, like, lower it down into this kind of chasm. They’re walking down the chasm, but there’s a scaffolding and some stairs and stuff that they’re using, and maybe they even have some sort of, like, a carabiner and hook situation to make sure that they don't fall into this huge hole.
+Dre: Gotcha.
+Austin: But they are going that way, and it is that thing of, like, where they’re going is dangerous, and that means that it’s important. Nideo has been up here now for weeks. They’ve probably already found the first— the real direction, right?
+Dre: Mm-hmm.
+Austin: And maybe there’s some other stuff up here that you recognize, right? Like, maybe you recognize markings on the Nidean stuff that you know is, like, the team that they use for strange and mysterious things. You know what I mean? It’s like their X-Files time, effectively, you know?
+Dre: Sure.
+Austin: And you're like, well, it’s them. We have to go after that. We gotta follow them. They will tell us where stuff is. So, it’s that way.
+Dre: Sounds good. Did you want to figure out how people are breathing? That seems important.
+Austin: Yeah, sure. It does. Do you—
+Sylvia: Oh, I have an idea.
+Austin: Please. Go ahead.
+Sylvia: Well, it’s Devotion is helping me breathe. It looks like my pilot suit has just been fitted with a, like, helmet of some sort.
+Austin: Uh huh.
+Sylvia: But it’s actually a generated atmosphere, like just around my head, that Devotion draws on me to create. It’s weird, but it’s, you know, actually low level draining until things start getting, like…
+Austin: Until things pop off.
+Sylvia: Yeah.
+Austin: Yeah.
+Dre: Sure, yeah.
+Sylvia: Until I'm exerting myself.
+Austin: Fantastic.
+Dre: I mean, hey, there’s oxygen in your blood.
+Sylvia: Exactly. Mm-hmm.
+Austin: Figure, do you need to breathe? I know you're undead, but…
+Dre: Uh, nah.
+Austin: Okay. [Ali laughs quietly] I'm glad we got that one settled.
+Dre: Yeah.
+Austin: Well, and I kind of—
+Dre: There’s probably been times where I thought— I only found that out because, like, my mech blew up, [Austin: Right.] and I was like, “Well, I'm dead, because I'm about to be shot into the vacuum of space.” 
+Austin: Right. Yes. I kind of knew this already, you know? There’s a line in one of the intros, the intro for the, um…for the Violet Cove Broken Key thing, where it’s like a monk talking about a prophecy, where I explicitly say that “it’s not air in their lungs,” and that’s about most of the party doesn't breathe. [chuckles] So, which I thought was fun to figure out, because Thisbe, you don't breathe, right?
+Janine: No.
+Austin: Yeah. And then, I guess, in this case, Midnite Matinee probably just has on, you know, some sort of oxygen helmet, some sort of normal suit type vibe with a big oxygen tank.
+Janine: Ear holes?
+Austin: Ear holes?
+Sylvia: Bunny ears.
+Janine: Are there ear holes? Doesn't— isn't Midnite Matinee bunny?
+Austin: Oh, yeah, Midnite does have— maybe it’s not bunny—
+Janine: Bnuuy?
+Austin: Bnuuy, yeah. I don't think it’s—
+Sylvia: Does the helmet have, like, built in spaces for the ears?
+Austin: [crosstalk] The helmet has built in spaces for the ears.
+Dre: [crosstalk] Yeah!
+Sylvia: That’s really cute.
+Austin: Yeah.
+Janine: Yeah. I was gonna say: is there like a space for it, are there holes, or are they like folded down?
+Austin: There’s, like, a space for it.
+Janine: Okay.
+Austin: They have the bunny ear, like, helmet, you know what I mean?
+Janine: Cute. I like it.
+Austin: I think that’s better. That’s fun. 
+Stellar Combustor Setup [0:36:30]
+Austin: All right. Let’s hop over to the ugly map that I drew the other day for the stellar combustor. [Sylvia laughs] Here we go.
+Ali: Ooh.
+Austin: Uh, this is gone. There’s no clock, actually. There’s no clocks on this. We’re too— we’re past clocks, right? I thought about having a clock here to be like, “Oh, and then it’s gonna be armed.” No, it’s armed. We know it’s armed. That was the thing that happened. That’s why the sun is glowing.
+Sylvia: It’s just a circle.
+Austin: Yeah.
+Keith: It’s double armed.
+Austin: Right. Like, if it’s— you know what, I can put it back, and the thing is that it has one— [Ali laughs]
+Keith: No, no, that’s okay.
+Austin: It has one tick left, and then it’ll blow up, right? That’s… 
+Keith: [laughs] That’s, yeah, very comforting.
+Austin: What are you in? What is your vehicle? Where are you? [Dre chuckles] I mean, I know where you are. You're here. You're at the bottom of this map, which, for the people listening, is what I drew during the downtime: a big orange sun with these three rotating rings around it, sort of V-shaped icons for patrolling something—you don't know what the patrol is—and then a kind of purple line representing the distant sensor range, and you're just outside of sensor range right now.
+Keith: Yeah.
+Austin: So you're totally safe. No one has seen you yet. No one has done anything yet. What’s the vehicle? What did you do with the 7 value that you had?
+Keith: Ali, do you want to talk about the vehicle?
+Ali: Um, sure, yeah. So, we are riding a, like, stealth ship, sort of like a bullet-shaped… [laughs] 
+Austin: Mm-hmm. [Dre chuckles]
+Ali: Little submarine for bros to hang out in, the three of us.
+Keith: It’s not actually a submarine. It just looks like a submarine?
+Ali: [laughs] No. What I've written here— I've named it a hyper stealth vehicle, just, I guess, to…
+Keith: To drive home that you're not seeing this thing.
+Ali: Uh huh, yeah.
+Austin: Uh huh.
+Keith: Please.
+Ali: And the tags that we attached to it are chameleon cloak, which is a cloak. 
+Dre: Mm-hmm.
+Ali: [laughs] And heat condensers. The way that the book writes heat condensers is, like, oh, you have this mech, and you need to, like, output [Austin: Mm-hmm.] heat or whatever, but I think that this was more to temperature control this thing [Austin: Yeah.] so we can fly to the sun.
+Keith: Yeah, yeah.
+Austin: I get what you're saying here, yeah. It is temperature.
+Keith: It’s to shunt heat that is being given to us, not that we are generating.
+Ali: Mm-hmm.
+Austin: Right, yes. And to keep you alive.
+Keith: Shunt? Is that right? Is “shunt”...?
+Austin: You know, I think that any scientist listening to this is going to be like, “There is nothing you could do to shunt the heat back into space that you're—” [Ali laughs quietly] I don't know. Maybe I'm wrong. Maybe there will be. Yeah. Maybe, yeah, maybe. Why not?
+Keith: Well, the— you know, an air conditioner, you know, it shoots back out the hot air.
+Austin: Yeah, totally.
+Keith: But, you know, as long as we’re inside, it’s shooting that hot air out.
+Austin: It is shooting that hot air out. You're not wrong.
+Keith: It’s already hot out there. We’re just making it more hot out there still.
+Austin: Right, exactly.
+Ali: Mm-hmm.
+Keith: And not in here at us.
+Austin: Yes. So, what’s this thing look like visually?
+Ali: I think it’s cramped.
+Keith: It’s like a bullet.
+Ali: Yeah. 
+Keith: Yeah. It’s like a— yeah, it’s small.
+Austin: Yeah.
+Keith: It’s dense.
+Austin: Yeah.
+Keith: It has dense walls.
+Austin: Mm-hmm.
+Keith: It’s invisible.
+Austin: Mm-hmm.
+Keith: And it’s cramped.
+Ali: I don't think it’s—
+Dre: Do you have to lay down to fit inside it?
+Ali: No, I think it’s like—
+Keith: No, it’s not that bad.
+Ali: Yeah.
+Keith: Or else we would've taken the— we would have taken another tag and given us something else good. [Ali and Keith laugh]
+Austin: Right. Right.
+Keith: There’s an intimate tag, which we’ll get to.
+Ali: I think this is a little bit of the, like, when you're watching an action movie, and the three people are, like, sitting on those little benches in a van, right?
+Austin: Yeah.
+Keith: Yeah.
+Ali: Uh huh.
+Keith: I thought you were gonna be like, “You're watching an action movie, like, on a couch that’s a little too small, like, with your friends.” [Ali, Austin, and Keith laugh]
+Ali: No, it’s just we’re all sitting.
+Keith: You know, when you have slightly too small of a couch for three people.
+Ali: Oh, that’s really funny. [laughs] 
+Austin: Well, and there are three people, right? Because Routine is with you.
+Keith: Yeah.
+Ali: Mm-hmm.
+Austin: It is a little too cramped. So, is the plan just to shoot yourselves at this thing?
+Ali: The plan is…the plan is, in our heads, I think, me and Keith’s, what—
+Keith: Can we go— can we really quickly overview these three rings again and what…?
+Austin: Absolutely.
+Keith: What sort of one might do with these three rings, as outlined in Austin’s outline that he sent us.
+Austin: Yes.
+Ali: Right, yeah.
+Keith: Versus what we’re actually doing.
+Austin: Sure. The outer ring, which is the lightest ring, the one that’s horizontal here, and you can see it’s rotating to the right, right? is the ring where you would normally dock a spaceship. In fact, not too far off from you is a transport ship heading that direction as we speak, and so there’s the docking is there. Food and recreation is there, because this is a space station, and then, like, maintenance and medical stuff is there, right? There are people who live on this space station who never go beyond the first ring. The final thing that’s there—
+Keith: Would that even be common, because that’s where, like, everything that isn't your job is?
+Austin: Uh, there are people there who their job is there too, right? If you're—
+Keith: Right, that’s what I mean. Yeah, yeah, yeah. 
+Austin: Yeah, 100%.
+Keith: But there’s, like, no one living…there’s no, like, bars in the second ring that you go to after work.
+Austin: Correct. So, the middle ring is communications, military command, the sort of central intelligence database. Like, all of the information is on that second ring, and then again, there’s a place to transfer. So, there’s a place to transfer from the first ring to the second ring that’s only available for, like, 10 minutes a day, right? They line up for that brief moment, and that is when you transfer in all the stuff you need to transfer in. It’s like a really big, like, airlock, right? These two airlocks open up, and then like, all right, get the food across. Get anybody who wants to come back over to go to the rec center for the next— because they’re on leave or whatever, right? In a way, this thing is also like a submarine, right?
+Keith: Yeah.
+Austin: If you've seen, like, submarine movies, you understand, like, the submarine movie does not have the, like, beer pong table set up. [laughs] Do you know what I mean? There is not— being on the submarine sucks, and that is what it’s like living on this thing, especially for the middle and inner rings. So, the middle one, again: communications, broadcasting equipment, stuff like that, the overall military command center, and then the sort of central database. All of the…you know, all of the information, all of the data is there, and then the inner ring is where the machine is. There’s something there that’s, like, extracting the energy from the sun, charging it up, holding it in a battery. The people who work on that stuff are on that third inner ring, which is the darkest of the three rings here. I know that the middle one and the back one are kind of close. If you need me to, I can make the back one black, just to, like, maybe make it pop a little bit more, but you get what it is, right?
+Ali: Yeah, no, it’s visually…
+Austin: And then, finally, the transfer. Again, there’s part of it where it transfers. Those are what the rings are, and those rings— the most inner ring also just has a bunch of just like, you know, there’s energy pouring into that ring from the sun. Like, if you were up close next to it, you would see waves, like solar flare type things that are sustained, feeding into that ring and pulsing in and out and being in this mode that’s like, oh, it could blow up at any moment, you know? So, fun stuff. Those are the three rings. Outside: maintenance, service, food, docking. Middle: communications, logistics, command, data. Interior: engineering, right? Engineering the bomb.
+Keith: What’s the draw? Why would someone choose to live here?
+Austin: Uh, you don't know.
+Keith: Okay.
+Ali: Healthcare?
+Keith: Paycheck?
+Ali: Paycheck?
+Austin: You don't know. You have no fucking idea. This was not part of the intel. [Ali laughs quietly]
+Keith: Okay.
+Ali: Uh, yeah. Well, as Brnine being somebody who, like, socially entered into a weapons program  out of high school… [laughs]
+Austin: Mm-hmm.
+Ali: Could probably do some guesses there, but yeah. 
+Stellar Combustor Plan [0:44:44]
+Ali: So, our sort of opening plan…do we feel comfortable saying this, Keith? Was that  because… [laughs] Because moving through the rings seems so risky and just introduces, you know, a lot more things to deal with…
+Keith: The windows are narrow, and there’s a lot of ground to cover.
+Ali: Yeah. Uh huh, yeah. What we— and because we put so much in having our vehicle itself be stealth, we wanted to, like, spend the time examining the inner ring to find, like, a vent to go in or something like that.
+Austin: Mm, mm-hmm. So you're, like, looking to skip rings one and two and then do the sort of: hey, let’s just hang out here, be invisible, close to the sun, close to the inner ring, and—
+Keith: Keep the AC on.
+Austin: Keep the AC on.
+Ali: Mm-hmm.
+Austin: And find a weakness, a structural weakness or a structural entry point. There’s no docking bay on the interior ring.
+Keith: No.
+Ali: Mm-hmm.
+Austin: But what if there’s…what if there’s a heat shunt that we could go into? What if there’s…
+Keith: Some sort of greeble.
+Austin: A greeble that we could bust up next to and da-da-da-da-da.
+Keith: Yeah.
+Austin: That’s the hope.
+Ali: Mm-hmm.
+Keith: It’s a sort of best case scenario: the heat shunt, some sort of vent, uh, garbage shoot.
+Austin: Mm-hmm.
+Keith: Worst case scenario: cut a hole in the side of the ship. [Ali laughs]
+Austin: Right.
+Ali: Uh huh.
+Keith: Latch on like a leech.
+Austin: Right.
+Keith: And then sort of head in that way.
+Austin: What’s the vibe like in this ship that you're in? Also, does the ship have a name? You don't have to answer that.
+Ali: Mm, we did not name it, no.
+Keith: Oh, you did name it. You named it the hyper…
+Ali: [laughs] The hyper stealth vehicle, yeah.
+Dre: Yeah.
+Ali: We’re not calling it that. 
+Keith: The hyper stealth vehicle.
+Austin: Oh, yeah. The hyper stealth vehicle.
+Sylvia: Oh, you're piloting the HSV?
+Austin: The HSV.
+Keith: Yeah. Yeah, yeah. [Ali laughs]
+Austin: Yeah. Mm-hmm.
+Keith: It’s an HSV. It’s the HSV.
+Sylvia: Huh. 
+Austin: Huh.
+Sylvia: We should— nope, we’re not doing this.
+Austin: What’s the vibe? Yeah.
+Ali: It’s awkward, but there’s a camaraderie? I don't know that camaraderie is the thing. I feel like…and me and Keith sort of, talking through this, leaned into this, that like, Brnine and Phrygian are fucking tech guys.
+Austin: Mm.
+Ali: And I think that there’s, like, a mode of work that they can go into where they can think about this without thinking about it. I think Phrygian is probably better at that than Brnine is, but Brnine is able to, like, lean into the, like, collaborative “I can work through a project” type thing to keep them from being…
+Keith: Mm-hmm.
+Ali: Just a horror show of a little gremlin anxiety monster. [laughs] 
+Austin: Mm-hmm.
+Ali: But.
+Austin: Uh, Routine is not, and so I think Routine is like:
+(as Routine): All right, so you're gonna get there, and then we’re gonna get onboard and blow it up. Where do we land?
+Keith (as Phrygian): Oh, we don't— we’re not landing. We gotta check out— we gotta find our spot.
+Austin (as Routine): We gotta find a landing zone. We don't have a dedicated LZ.
+Keith (as Phrygian): No.
+Austin (as Routine): [resigned] That’s fine. I mean, that’s— what do you mean, “no”?
+Keith (as Phrygian): No, I'm agreeing. “No,” like, “No, we don't have a dedicated LZ.”
+Austin (as Routine): Okay.
+Ali (as Brnine): Mm-hmm.
+Austin (as Routine): Okay.
+Ali (as Brnine): Structures of this size usually have points of weakness or, you know, openings that we can fit into.
+Austin (as Routine): Mm.
+Ali (as Brnine): And we just have to find one and capitalize.
+Austin (as Routine): Uh, one other question. You know, Captain, I'm here for it. We don't have any munitions on this ship, and it’s a pretty big— it goes around the sun three times. How are we blowing it up?
+Ali (as Brnine): Oh. That’s gonna be internal, and we have personal weapons.
+Austin: Looks down at the rifle that [Ali laughs] they have and is like, “Eh…okay, sure, I guess I have this gun. Why not?”
+Keith (as Phrygian): I mean, you'll do better in a hallway with a gun than you will out here versus that thing anyway.
+Austin (as Routine): Yeah, that’s true. Sure.
+Austin: And there’s a beep, which means you're approaching the sensor range. It’s time to make some rolls. What is your plan for getting past the sensors that defend this thing and let people know that there might be something unexpected coming their way?
+Ali: Um… [laughs] Sorry, I just… [laughs more] I just saw the GIF of Drake and… [Dre and Sylvia laugh]
+Austin: Oh, and Yachty? Uh huh, yeah, I put the Drake and Yachty at the fake Apple store.
+Ali: Uh huh, uh huh.
+Sylvia: Oh my god.
+Austin: Brnine and Phrygian.
+Keith: They went to a fake Apple store?
+Austin: No, it’s in a video. Don't worry about it.
+Keith: Oh, okay.
+Austin: You'll see it. You’ll see it in the—
+Keith: Oh, I've seen— yes, I've seen this. Okay, okay.
+Austin: It’s a classic GIF.
+Keith: Yeah, yeah, yeah.
+Ali: Uh huh, yeah.
+Austin: Brnine and Phrygian. [Ali laughs]
+Sylvia: Making the face when I see the GIF. [Keith laughs]
+Austin: Yeah, uh huh. Yeah, duh, I see, yeah.
+Ali: So, one of the things that we…one of the, like, items that we also got for this that I don't know is applicable here. I don't know that it— if it’s more of, like, a security check sort of thing, but this is also a security check. We wanted to get procedurally generated security mesh. [laughs quietly] 
+Austin: Uh huh. Which is some sort of, like, key that gets— like a card key that gets you past anything is what you've bought with 1 value.
+Keith: Yeah.
+Ali: Mm-hmm.
+Keith: Well, it’s got a lot of stuff going on with it. [Ali laughs]
+Austin: I see these tags. You want to read me these tags? I don't understand one of the tags here.
+Keith: Okay.
+Ali: Sure.
+Keith: We’ll walk you through it. [Ali laughs]
+Austin: Please.
+Keith: It works. We wrote it down, so that means it’s good. It exists. [muffled laughter]
+Austin: Uh. Some questions. Go ahead, walk me through the tags. This is like, in Metal Gear Solid, what if Snake only had to get one key card?
+Ali: Uh huh.
+Keith: Where did you post this, Ali?
+Austin: It’s in Scheduling.
+Ali: I posted it in Scheduling, yeah.
+Keith: Oh, in Scheduling. Okay, there, I see it.
+Austin: Walk me through it.
+Keith: I'll go through it. I'll go through it.
+Austin: Yeah, okay.
+Ali: Yeah. Read the tags, Keith.
+Keith: All right. So, it’s the procgen security pass, cost 1.
+Austin: [scoffs] Yeah.
+Keith: So, it’s adapted, which the game describes basically as, like, it’s been modified to do something, so it’s very vague.
+Austin: Okay, that’s not true. It’s not that vague. [Ali laughs]
+Keith: It’s not that? That’s not what it says?
+Austin: It’s not that vague.
+Keith: Okay. It’s pretty vague.
+Austin: Keep reading the sentence. What’s the rest of the sentence? [Ali laughs quietly]
+Keith: Uh, I'm not on the page. This is from memory.
+Austin: “This object is modified or designed to let it overcome the difficulties of certain environments.”
+Keith: Mm.
+Austin: “It might be an amphibious Astir with an air supply, an Ardent designed to keep its occupants cool in searing hot terrains, et cetera.”
+Keith: Let me get the tags.
+Austin: So is the idea that it doesn't melt?
+Ali: I think the idea for “adapted” was more that it was, like, adapted for Principality…
+Keith: Uh, this is the thing that— this is the procgen bit. Well, part of it. So, it’s that it can change what it’s security-ing to.
+Austin: Uh huh. I mean, that counts. That feels like it should cost a tag, certainly. [Ali laughs quietly] 
+Keith: It does. It does cost a tag.
+Austin: I'm surprised it doesn't cost a plus 2, but let’s, you know.
+Keith: Well, okay, it’s also guided. This is sort of…
+Austin: This is the one I don't understand. [Ali laughs]
+Keith: Okay. 
+Austin: “This weapon has guided strikes or projectiles.”
+Ali: Uh huh.
+Keith: Yeah.
+Ali: We were thinking outside of the box with this one. 
+Keith: We were.
+Sylvia: I love it. [Ali laughs]
+Keith: So, it’s got— it is digitally guided. It’s guided in its programming to be able to, you know, sort of brute force combinations.
+Austin: To get you a 7 to 9 result. [Ali laughs quietly]
+Keith: Right.
+Austin: Uh huh. Keep reading.
+Keith: It’s forbidden.
+Austin: Sure is.
+Keith: I think for obvious reasons. [Ali laughs]
+Austin: Yeah. 
+Keith: And it’s unreliable.
+Austin: “Forbidden objects are banned. Possession of them or suspicion of such carries a heavy price.”
+Keith: Yeah.
+Austin: And it’s unreliable, which says…
+Keith: Uh, the first time that you roll in a scene, it is— 
+Austin: Yeah.
+Keith: You roll with desperation. 
+Austin: Well.
+Keith: Which is 6s become 1s.
+Austin: 6s become 1s. But maybe you don't ever roll with it. Maybe you just take the 7 to 9.
+Keith: [sighs] Yeah. So, this was an interesting thing, because guided came about because I was like: are we gonna be rolling, like…are we gonna be rolling— not Strike Decisively. What’s the other one?
+Ali: Exchange Blows.
+Keith: Yeah, either of those, Exchange Blows or Strike Decisively, and we can take defensive or decisive, which would let us reroll, so we would get unreliable—
+Austin: You would not be rolling either of those things to do anything with a key card. [Ali laughs quietly] Why would you be rolling Exchange Blows— unless you're trying to hurt some—
+Keith: If we’ve gotta fight off, uh, a defensive security system.
+Austin: No. That’s not— come on. Keith.
+Keith: Well, this is how we landed on guided, because it was like, well, we wouldn't be rolling that, or we can't be sure that we’d be rolling that, so we’re guided instead of decisive.
+Austin: But guided says, “When you are exchanging blows or striking decisively.”
+Keith: Oh, that’s a good point. Are you sure that we won't be doing that?
+Austin: You will be Weathering the Storm: “When you attempt to ignore the witty barbs of ambitious politicians, try and walk across a thin wet beam as thunder booms overhead, or otherwise do something under significant pressure, you are attempting to Weather the Storm.” 
+Keith: So you're— 
+Austin: You're not fighting. Truly, I love you.
+Keith: I think it could come up. [Ali laughs]
+Austin: Of course it could come up, but you're not fighting the sensors. 
+Sylvia: Phrygian can throw this key card like a shuriken. [Ali laughs]
+Keith: We have fought sensors before!
+Austin: I have never— Mako— Mako—
+Keith: I have personally fought sensors.
+Austin: Mako was a class built to fight digital things.
+Keith: I'm just saying it is in Friends at the Table, this idea of fighting a sensor.
+Austin: Phrygian is not— you are not that class.
+Keith: No.
+Sylvia: You are not that guy.
+Keith: That’s what makes this a difficult mission.
+Austin: “When you charge a foe with your blade, engage someone in debate or try to provoke them, or otherwise act against someone able to defend themselves, you're attempting to Exchange Blows.” That trigger isn’t happening. Not yet. It might happen later.
+Ali: Oh, I have a…if that’s the case.
+Austin: It is. [Dre laughs] 
+Ali: Then I— yes. [Ali and Sylvia laugh] Then I recommend that we exchange guided out for refresh.
+Austin: Mm.
+Ali: Which is “Objects that can refresh can only be used once per scene but automatically replenish and restore themselves, even if they are damaged or wasted,” which I think leans into the, like, we have a security pass that is adapted for Principality systems [Austin: Yes.] that can rewire itself per…
+Austin: That way they can't take it away from you.
+Ali: Right.
+Sylvia: I don't want to rain on this. However, if you look at how “unreliable” works, you are kind of locking yourself into always rolling with desperation with this thing.
+Ali: Mm-hmm.
+Austin: It’s true. To be fair, it’s a pretty desperate idea.
+Sylvia: I know, but I just figured I'd mention it while I'm looking at the Tags page.
+Austin: I appreciate it.
+Ali: [laughs] The “unreliable” thing was Keith really setting up a thing of, like, oh, we could always have this bad roll, and then we take one of these other things, and then we can reroll.
+Austin: Yeah. Yeah, yeah, yeah, no, I understand. 
+Ali: Oh. [laughs] 
+Austin: Keith was trying to dodge— “unreliable” was fake. “Unreliable” didn't exist as a tag, actually. You're trying to game around it—
+Ali: Uh huh.
+Keith: Right.
+Austin: —by actually taking “guided” every time. I didn't wake up yesterday. I woke up today after a nice night of sleep. [Ali laughs]
+Keith: Well, the original thing was even— the original thing was even better, because if we took “decisive,” then actually, sometimes we would succeed the unreliable roll [Ali: Sure.] and then just get a sort of partially…
+Austin: Uh huh.
+Keith: A partial free roll, free reroll. So, I guess, I mean, maybe the idea: we just strike “guided” and then we can strike “unreliable.” There we go. If it’s not guided, because we don't need it, then we don't need it.
+Austin: Uh huh.
+Keith: And so then we don't need “unreliable,” and then it’s adapted and forbidden.
+Austin: Yeah.
+Ali: Okay.
+Austin: Yeah. I'm fine with that. 
+Keith: Yeah.
+Austin: You have some sort of thing that generates you security codes [Keith: Yeah.] is what you got, right?
+Keith: Right.
+Austin: Now, here’s the second problem. What you have is a tier 1 thing. That is good for you trying to get into a door. That is not going to broadcast a code for your ship. That is a tier 2 item. 
+Keith: Well, how is this sensor working? Because we’re invisible.
+Austin: Visually.
+Keith: Visually.
+Austin: Uh huh. How is the sensor array set around the bomb that can blow up 25 star systems working?
+Keith: Yeah.
+Austin: Every way it can.
+Keith: Okay.
+Sylvia: [quietly] This is so stressful.
+Austin: Thermal, radar, uh, sonic. I mean, we’re in space, so there’s no sound, right? Everything that we've ever seen a sensor do inside of the Divine Principality. They’re in there. You might have a way around this. I don't know.
+Keith: Uh…oh, I mean, we definitely have one way around it, but I'm thinking if we have another way around it, instead of that one way around it.
+Austin: Sure. I mean, you could have a different item, right? You could turn this into a tier 2 item, but that would not mean that you could carry it around with you as a tier— it would be very funny for you to then carry around a giant tier 2, like… [Ali laughs] because a tier 2 item will work on tier—
+Keith: Well, it couldn't be tier 2, because it doesn't…because then we would have to get rid of something else, because it would increase the cost.
+Austin: I mean, that’s what I'm saying, yes.
+Keith: Right. Yeah, yeah, yeah.
+Austin: It would change the cost, but you could have a gigantic, like, black box thing that’s as big as, like, you know, a moving crate, you know? [Dre laughs]
+Keith: Mm-hmm.
+Austin: And need to bring that with you in order to hack doors. That’s kind of funny, but I know you have these other items.
+Ali: We already have the big thing that we have to take around with us to hack doors. [laughs] 
+Austin: Yeah. You sure do, and I don't know that that one’s tags make sense to me either, but we’ll get there! [Ali laughs]
+Keith: We’ll get there. Wait, for which one?
+Austin: You tell me. Which one? What’s the big one that you have to carry around with you? Because it ain’t…
+Ali: Oh, the invisibility radio?
+Keith: Oh, the invisibility radio, yeah. [Austin sighs quietly]
+Sylvia: Wha—? [Ali laughs]
+Dre: Mm-hmm?
+Keith: It’s an invisibility radio slash air conditioner. [Ali laughs]
+Austin: This is why it’s—
+Sylvia: You're not helping with the confusion.
+Dre: No, I follow. This makes sense.
+Sylvia: Invisibility radio?
+Keith: Yeah.
+Ali: Yeah.
+Keith: Yeah, Dre gets it.
+Ali: Uh huh.
+Sylvia: Okay. Yeah, this is clearly— 
+Keith: Yeah.
+Sylvia: I'll just go fuck myself. 
+Keith: Yeah. [Dre, Keith, Ali, and Janine laugh] Okay. I mean, so… [Sylvia laughs quietly] We don't have an item that is an every sensor…
+Austin: You don't.
+Keith: An every sensor counter. We can't counter every sensor.
+Austin: I would let you try to roll the procgen one at disadvantage, right? Because you could be like, we have our individual things. We have an individual security pass, or I have— you have one, right? So you have one individual security pass that you can use. You basically have, like, a working ID for one Principality person, and so that could open a door for you, if you want to, like, broadcast that or something. Or you could remain cloaked and just hope that they don't— I mean, again, they got some sensors.
+Keith: It is…it’s a small ship.
+Austin: It is.
+Keith: You know, we’re already on track.
+Austin: Uh huh.
+Keith: Shut the engines off.
+Austin: Right.
+Keith: Stay invisible.
+Austin: Here we go. Mm-hmm.
+Keith: Cross your fingers.
+Ali: Mm-hmm.
+Austin: I bet there’s all sorts of rocks and shit that fly around space, right?
+Keith: There’s all sorts of rocks and shit that fly around space.
+Ali: Yeah, and you just mentioned there was another ship that was coming in past the sensors, right?
+Austin: There is. I did give you that.
+Keith: That is something. I wonder who’s on that ship, by the way. I'm just curious. [Ali laughs] The…I think we should start talking about, like, what the roll could be.
+Austin: It’s a Defy Danger. Er, sorry, it’s gonna be a Weather the Storm, probably.
+Keith: Gonna be a Weather the Storm.
+Austin: Yes. I mean, again, and you could do things like Read the Room.
+Keith: Um, Weather the Storm is Defy?
+Austin: Uh, depends on what you're doing.
+Keith: In this set—
+Austin: But probably Defy. It depends on what you're doing. It depends on what you're doing. I don't know what your action is.
+Keith: Yeah. Yeah.
+Austin: Right?
+Keith: Well, then, I think it’s also time to introduce the Soldier move.
+Austin: Ah, so you did take it.
+Ali: Mm.
+Austin: If it’s the one I'm thinking.
+Keith: I did take it.
+Austin: Okay.
+Keith: Yeah. Uh, Phrygian took the Soldier move…here, let me click the Soldier move button. Once the War’s Over.
+Austin: Mm.
+Keith: This is a level— I've been sitting on this level for half a sortie and all of the downtime. [reading] “When you talk about what’s waiting for you after the fighting’s over, hold 3. You may spend your hold one-for-one to automatically succeed on any move as if you had rolled a 10. Whether or not you spend your hold, you will perish before the beginning of your next downtime.”
+Sylvia: Aagh!
+Keith: “Don't roll Bite the Dust as usual. Instead, let your director know when you think it’s your time.”
+Austin: Woof. [deep breath] Hoo, buddy.
+Keith: So I would love, absolutely love to avoid using one of those…
+Austin: For this.
+Keith: For this, because I know that I'm going to want to use one at the very end, I think.
+Austin: Yeah. When it’s time to hit the button or do whatever it is you're trying to do.
+Keith: Right.
+Austin: Yeah.
+Keith: And to get out of— to wriggle out of this open— and I also had in my head, well, we might need to do it for this first one too.
+Austin: Right.
+Keith: But I'm trying to wriggle out of it.
+Austin: Mm-hmm.
+Keith: But I might not be able to.
+Austin: Eh.
+Keith: So, if it’s a…if we’re rolling, like, in desperation or whatever, I think it might not…it might be time to spend the first one right away. But I think if we do a regular roll, if we can, you know, if we can stay on the computer and be good with computers and use the tier 1 item that we have and Defy Danger using Defy, [Austin: Mm-hmm.] and I get help from Brnine, [Austin: Mm-hmm.] I think that I can roll it as-is.
+Ali: Yeah. Sure.
+Keith: I think.
+Stellar Combustor Action [1:03:49]
+Austin: What’s the— tell me what you're doing to do the things. Like, that’s the mechanical state you want to reach, but [Keith: Yeah.] we gotta get to what that looks like.
+Keith: So, this is a super stealth— [chuckles] well, this is the HSV.
+Austin: Oh, right, yeah. Uh huh, yeah.
+Sylvia: Wait.
+Dre: Mm-hmm. 
+Sylvia: [laughs quietly] Yep.
+Austin: Uh huh.
+Keith: This is what I'm told that it’s called.
+Sylvia: That was a herpes joke. You know that, right?
+Keith: I don't think a lot about herpes, day to day.
+Dre: I didn't until I googled it, and then…
+Sylvia: Fair enough.
+Dre: Yeah, uh huh.
+Sylvia: Get tested, everybody.
+Austin: Mm-hmm.
+Keith: So, the HSV… [muffled laughter]
+Janine: Head in hands. [Sylvia laughs]
+Keith: It just— hey, sometimes an acronym needs to be something that an acronym already was. It’s the hyper stealth vehicle. 
+Austin: Midnite Matinee’s helmet has a thing where her ears can bend inwards, like, sadly. Do you know what I mean? [Ali and Sylvia laugh]
+Dre: Uh huh.
+Austin: Like, it has articulation up in the ear, because that’s what my ears have just done. Droop. They can droop, and they’re drooping as this is happening.
+Keith: You're drooping.
+Austin: As HSV is said over and over again. Say more, Keith.
+Keith: Uh…I’m hoping [Austin: Mm-hmm.] that I can be detecting incoming scans and sort of spoofing them on the fly.
+Austin: Ooh, okay. You're, like…you’re doing the camera trick from heist movies where you have the, like, feed running, the “Oh, everything’s fine” feed, except it’s for things like what the temperature is here at this moment.
+Keith: Right. Yeah.
+Austin: And is there a thing moving here, and is there any Divine— oh, is Asepsis with you?
+Ali: I think I have a few…
+Austin: You do.
+Ali: I have three or four of the 18 drones or whatever that I have.
+Austin: Okay, the little drones. Yeah. And also, really quick, on the moon: is Asepsis with you, or did y'all leave the rest of Asepsis back on the ship?
+Dre: Hmm.
+Janine: I don't think this is an Asepsis— I don't think Thisbe— Thisbe, um…
+Austin: Generally speaking.
+Janine: I don't know that she’s, like, wildly against Asepsis as a concept? But I don't think she would think to be like, “Yeah, let’s put that in a backpack [muffled laughter] and stow it,” you know?
+Austin: Yeah, yeah, yeah. 
+Janine: I don't know that that’s…
+Austin: I gotcha. Yeah.
+Janine: Yeah.
+Austin: Okay. All right, I think you're right. It is a stealth ship. I'm gonna let you make this roll, Keith. I think this is at disadvantage, but you can make it—
+Dre: Since it’s a hyper stealth vehicle.
+Austin: You're allowed to make it, because it’s a hyper stealth vehicle that has this sort of like spoofing stuff set up for you to do.
+Keith: Yeah. Yep.
+Austin: But it’s…this is not an easy task. 
+Keith: No.
+Austin: This is disadvantage, not, uh, the other one. What’s the opposite of confidence? Desperation.
+Keith: Desperation, yeah.
+Austin: Just disadvantage, so that’s gonna be 3d6 plus Defy, and you know they’re gonna come in. We have to get you a little icon here.
+Keith: Now, here— this is such an important question that we need to say before I choose to do this.
+Austin: Yeah.
+Keith: Can I spend my hold one-for-one to automatically succeed on any move as if I had rolled a 10 after I fail a roll, or do I have to choose to do it first?
+Austin: I'll let you do it after, but you have to narrate how it’s happening after.
+Keith: Yeah. Yeah.
+Austin: In other words, you can't undo the roll, but you can fix it.
+Keith: Right.
+Austin: And that might require— there might be times when that’s not possible, right?
+Keith: Right.
+Austin: If the ship gets hit by a missile, the ship got hit by a missile.
+Keith: Yeah.
+Austin: Right? 
+Keith: Got it.
+Austin: And that means that maybe you have done something to, you know, get yourself safe. I know a little bit more about how you're gonna use this move than the listener does, at this point. I'm saving that a little bit. So, you'll have to unfold something there for us. Do you know what I mean? But the missile will have hit the ship, you know?
+Keith: Right. Yeah.
+Austin: If Brnine gets shot in the head, you might be able to make a roll to keep Brnine stable, you know? But…
+Keith: Right, which is different than a scanner coming up red for a second and then turning yellow again.
+Austin: Exactly. “Oh, I guess my system was busted.” Yeah, 100%.
+Keith: Yeah.
+Austin: Exactly. Yes.
+Keith: Okay. I'm willing to make that roll, then. Maybe some assistance, Ali?
+Ali: Absolutely, yeah.
+Keith: Okay.
+Austin: You can roll— you can do assistance after, as a reminder.
+Keith: Oh yeah, I forgot about that.
+Austin: Remember, that’s the way we decided to run this, this whole season.
+Keith: Yeah.
+Austin: Fan of the players.
+Keith: So, I'm rolling 3d6.
+Austin: 3d6. Yep. Plus your Defy, which is…
+Keith: Plus 3. 
+Austin: That’s pretty good. Pretty good.
+Keith: It is good.
+Austin: Taking…yikes. You're taking lowest.
+Keith: Yeah, so that’s a 1 and a 4. Wait, lowest two, or you…?
+Austin: You take the lowest two. You take the lowest.
+Keith: Lowest two, so that’s a 5. That’s an 8.
+Austin: That’s an 8 right now, so yes, Ali, you could aid. As a reminder, the way that that works, because we haven't done this in a little bit, you roll 2d6, plus 1 if you've spent meaningful time together during this sortie—yes—plus 1 if they’ve helped or hindered you previously this sortie—no—plus 1 if they’re part of one of your hooks, but they’re not.
+Keith: Part of a hook? No, not part of a hook.
+Austin: Hook is no. Not part of a hook. Well…
+Keith: Well, not part of a…
+Austin: Mm…
+Keith: Mm. 
+Dre: Mm? 
+Keith: Oh! It is— 
+Austin: Millennium—
+Keith: I am part of Brnine’s hook!
+Austin: Are you, explicitly? 
+Keith: Not explicitly.
+Austin: I think you're part of Millennium Break. I think “I will prove that Millennium Break can change lives,” and “The crew put their faith in me.” Yeah.
+Sylvia: Yeah.
+Austin: I'll sign off on—
+Keith: And I have been verified as integ— integ— as having integrity. [Ali laughs]
+Austin: Uh huh.
+Sylvia: You're integral as well.
+Austin: Yeah.
+Keith: Yeah.
+Ali: Oh.
+Austin: You are also integral. So, 2d6 plus 2 here to help or hinder.
+Ali: And that’s an 11.
+Austin: That’s an 11, so that’s a success. On a 10 plus, they take advantage or they take…or disadvantage, if you wanted to give them disadvantage. In this case, I think giving them advantage cuts out the disadvantage that was already rolled.
+Keith: Right, so it becomes a 12. A 9 plus 3.
+Austin: It becomes a 12. A 9 plus 3. You get rid of the bottom one instead. Yes.
+Keith: I love that.
+Austin: That’s fun. That’s great. What’s this look like?
+Keith: I mean, it’s like, you know, hacker screen. [Austin laughs] You've got red warning text coming up.
+Austin: Mm-hmm.
+Keith: I'm using— I've got, like— I've got Doc Ock arms going.
+Austin: Oh, okay, sure.
+Sylvia: Oh hell yeah.
+Ali: Ohh.
+Austin: Yeah, yeah, yeah.
+Keith: Typing, like, as fast as possible.
+Austin: Uh huh.
+Keith: So I've got, like, multiple hands on keyboard.
+Austin: I like that. That’s fun. That’s fun. I didn't get y'all, like, a cool…
+Keith: I use a spare hand to dab sweat off my brow.
+Austin: You sweat?
+Keith: Yeah. Yeah, it squeezes out between the wires. [Sylvia shudders]
+Janine: You have a brow?
+Keith: Yeah! 
+Sylvia: Yeah, they’re two little wires.
+Keith: It’s made of wires.
+Sylvia: Yeah.
+Keith: I have a face.
+Janine: Okay.
+Keith: I have a face that looks like a human face.
+Janine: Okay. All right. All right.
+Keith: But made of wires.
+Austin: But made of wires. Right. What color is this ship?
+Keith: Black.
+Austin: Black.
+Keith: Stealth.
+Dre: Sure.
+Austin: Oh, it’s a stealth color. Gotchu. [Ali laughs]
+Keith: Yeah.
+Austin: Yeah, yeah, yeah.
+Keith: It’s tactical, so.
+Ali: Yeah, uh huh.
+Dre: It’s, uh…it’s vantablack.
+Keith: It also folds.
+Sylvia: Oh, so it’s gunmetal.
+Keith: It folds out. It’s a folding tactical stealth ship.
+Austin: I got it. I got it.
+Keith: Yep.
+Austin: Drop that thing over here. This is, like, the…it’s smaller than this, first of all. It’s not as big as the sun.
+Keith: No.
+Austin: It has, like, a little stealth field going on, you know? That’s what that is.
+Keith: Yeah.
+Austin: All right, let me give you a little picture, and then we’ll jump back over to the other side. You make it into the sensor array totally fine, or the sensor field totally fine, and now your senses begin to pick up what is ahead of you, what this patrol is. The first thing that you notice is a fairly familiar kind of silhouette on the scanners. These are more of those terrible Gambesons, which were the iron maiden mechs that did all those strafing runs on the Isle of the Broken Key.
+Keith: Yeah, the prisoner ships?
+Austin: The prisoner mechs, yeah, exactly. But there’s something wrong with them? They are way—
+Keith: There’s always something wrong with them.
+Austin: Well, there’s something more wrong with them. Like, they’re not— they don't match the same— I mean, specifically, the specific thing here is they were mundane before, generally speaking. I think maybe one of them may have had some extra bonus juice. These ones have been filled with Divine light. They have that— we talk about this kind of often, that the different types of magic cause you to have a different, like, physical reaction, and so, like, Stel Nideo stuff feels different than Stel da-da-da-da-da. You know what I mean? And in this case, it is Divine power radiating from these, and that is because of the second thing that you see. There is a part of space where the stars are blocked out, and it’s almost like, um…almost like a lampshade, you know, in shape? Sort of triangular in that way, you know what I mean? 
+Keith: Huh, bring that over to the lantern moon.
+Austin: Bring it over there. Yeah, put that thing right on top of there, and then you don't have any more problems with the light. It’s not gigantic. I mean, it’s bigger than your mechs, but it’s not skyscraper sized, but it is a Divine. It is cast in black metal armor, and the robes that it wears are also black currently. This is the Divine Plight, and even entering close to it…you know, if you were sweating before, there is a sense of pervading guilt that wells up inside of you. You can tell me what causes that, what the image of that is, what the feeling of it is. 
+I can say that, for Routine: Routine, for the first time, has doubts about this mission and wonders if he is the right person to put this on his back and begins to worry a little bit about the idea that he…that it’s kind of narcissistic of him to think that he could handle this and that anyone who dies, that’s on him. Which, I don't— I'm not saying that’s true. It’s on the Divine Principality, right? It’s on the Bilateral Intercession. It’s on Stargrave Elcessor. But the presence of the Divine Plight, such as it is, this 40 meter tall Divine, begins to dredge up whatever the most terrible self-hating feelings that live in the corners of your mind are. Maybe it’s guilt about other things. It doesn't have to be guilt about this. [Ali chuckles] It can be whatever the thing is in the back of your mind that you feel the most guilty about. What are those things? [Ali laughs] What is suddenly on your mind?
+Keith: Uh, Phrygian feels that they are helping the friends that they've met over [Austin: Mm.] following the mission that they gave themselves exactly. Like, this is, I think…it’s easy to see how getting the Stargrave to shut off the thing would be helpful.
+Austin: Mm-hmm.
+Keith: But I think that this is actually, like, starting to become, like, a tertiary nuisance, you know?
+Austin: Mm-hmm.
+Keith: If you're— if what my thing is is to accelerate the war, the internal strife of the Divine Principality, in order to remove resources from the Branched front lines, [Austin: Mm-hmm.] I think part of Phrygian is like, you're not— not only are you not doing that, but like, you're helping things run more smoothly, even.
+Austin: Mm-hmm. The thing that you notice next is— I mentioned the— there are loose rocks and asteroids and stuff just moving around the area; you know, debris from space mining that’s happening in the system. Plight is doing a sort of regular, uh, sort of pass with a wave of a sort of broad trapezoidal laser vision that is eradicating anything that it hits. It’s just turning loose rocks into dust. It is, in fact, like a— it’s almost like it’s projecting a laser grid that it is using to destroy anything unapproved that gets close, constantly clearing out huge chunks of empty space or not-quite-empty space of any sort of impurities that might be making their way through, and we’ll come back to that in a second. 
+Chimera’s Lantern Entry [1:17:25]
+Austin: Moon crew. You found your way to the chasm. Let’s move us back over to Chimera's Lantern. You found your way to this chasm. It is deep, to the degree that you can't see the bottom from here if you're using just regular eyesight. I think probably both Popcorn—which is Midnite Matinee’s Hollow—and Thisbe, you can see the bottom of this thing using enhanced vision. I'm guessing you have— we've talked about you having cool robot eyes before, right?
+Janine: Yeah.
+Austin: I feel like you can see in the dark and stuff, right?
+Janine: They, like, glow. They’re glowy.
+Austin: Yeah, they glowy. Yeah. And I feel like the— you're able to see that it’s, like, a long walk down some spiral stair— like, a spiral staircase along the outside of this chasm’s wall that’ll take you a little bit of time to get to the bottom, and you can make out at the bottom that the group that you kind of followed over here have already moved out from there. So it’s not like you're gonna jump down there and then be surrounded by Nidean guards or something, right? 
+This is also the first time that you've gotten close to the structure— and it’s a structure. I think that’s the thing, right? You get here and realize: this is not simply a deep crater from an asteroid strike or a hole recently dug by Nideo. The actual stairs here feel like they’ve been here—now that you're up close—for a while. There are tiny mosaics, like mosaic tiles, along the walls. The light is such that it’s hard to make out their true color, and they change, but it’s like greens and blues and jewel tones. There’s not a clear picture here, and also they’re kind of decrepit. Like, many of them have fallen off, et cetera. And likewise, the stairs look like they were once part of some sort of grand structure but have now began to crumble over time, et cetera. 
+The chasm’s big enough for the Devil’s Two Front Teeth to get down there easily. It might be loud to land down there, and you'd have to be careful not to destroy the stairwell on the way down, [Dre: Sure.] if you're jumping that big thing down there, but it is that big across that your mech could fit in there, you know? Any of your mechs, even Mow, could fit down this thing. It would just be— it would be a very tight fit for Mow. I'd make Mow roll at disadvantage to get down there without destroying some of these stairs on the outer edges. What do you do? And also, what’s the…generally speaking, what is the vibe here on this moon with your group? Mm, also, Thisbe, what moves did you take from your modules?
+Janine: I took, um…I have to get in the right tab. I took Animation Matrix: “Communicate clearly with Ardents of any type or level of awareness.”
+Austin: Interesting. Great one.
+Janine: I was tempted to take Propulsion Suite Aerial, but I figured, like, eh, I don't know. I don't…
+Austin: Yep. I gotchu.
+Janine: I don't know if I want to be flying around.
+Austin: Mm-hmm.
+Janine: Yeah, I think this is…it feels like, to me, feels like this is a pretty slow and quiet approach, because we know you're not gonna spring the Nideans on us, but they don't necessarily know, right? Like, they don't…
+Austin: The Nideans don't, or the characters you're playing?
+Janine: The group. The group.
+Austin: Yeah. I mean, I might spring the Nideans on you. [Dre chuckles]
+Janine: Well, no, I mean you said, like, we’re not gonna get to the bottom, and they’re gonna be right there.
+Austin: Oh, correct. 
+Janine: Like, that’s…
+Austin: I think— no, that was me telling you that specifically, because you can see the bottom, and it’s not like…
+Janine: Oh, okay. Okay.
+Austin: You can see enough of the bottom that there are no people there, and you can see that there are tracks away from [Janine: Mm-hmm.] recent enough, you know, movement. They have moved stuff out of this kind of landing chamber inwards somewhere, but it’s not like a base camp down there, you know?
+Janine: Right. Okay.
+Austin: Not in this part.
+Janine: Um…I mean, there’s still gonna be some awareness that we’re following in the tracks of someone who would like to shoot us, probably, if they found us here, so it’s probably not a super casual approach.
+Austin: Yeah.
+Janine: I don't really sneak that well.
+Sylvia: Yeah, I feel like I'm pretty tense right now.
+Janine: Yeah. [laughs quietly] 
+Sylvia: Like, just knowing what the other team is doing, on top of all this, [Austin: Mm-hmm.] and knowing that we are, like, firmly in what has essentially become, like, a Nidean military base in a lot of ways.
+Dre: Mm-hmm.
+Austin: Mm-hmm.
+Janine: Mm-hmm.
+Austin: God, and you can imagine the Chimera's Lantern slowly rotating such at this moment where you can now see the sun in the distance, right? Like, just as you're about to go descending into this place to, like, get out from its heat and light. Your friends are on their way there right now, you know? Uh, who’s going in first?
+Janine: That’s not a thought I like.
+Austin: Yeah, uh huh. It’s not great! It’s scary!
+Janine: I think Thisbe would probably lead this group, just because I don't know that— again, there’s that nervousness about, like, well, we’re following here. What if they, like, put a mine down?
+Austin: Mm, mm-hmm.
+Janine: Like, who the fuck knows?
+Austin: Mm-hmm.
+Janine: And Thisbe is in a good position [Austin: Yeah.] to absorb that blow but also is small enough, not being in a mech, unlike Figure.
+Austin: Yeah.
+Janine: Where it’s like, can just kind of get in there.
+Austin: Yeah, I think we just get…as long as, Figure, you're going in last.
+Dre: Sure.
+Austin: Is that how it seems? Is that what you're doing? Okay. Everybody else can take these stairs down. It takes a while. We get the sort of, like, those kind of sideways almost diorama shots of you descending down these stairs. We are entering the sort of, like, mode of dark fantasy here, right? Like, these old ruined stairs, the mosaic work. There’s a point at which you straight up walk past some broken bones on the stairs, right? In fact, as you get lower, you start to see more and more signs of combat and violence, some of it seemingly very old. You know, you find, like, a broken spear at one point that seems like it’s from the same era as the stuff down near the “FUN FUN MEN” wall in the first episode. [Dre laughs quietly] There’s, like, ancient stuff here, which makes sense, given what you know about the moon’s relation to some of those early conflicts. 
+And finally, you get to the bottom and can see that, yeah, like, there’s a little bit of Nidean stuff set up here. you know, I almost imagine, you know the control points in Control, the like save zones where there’s just, like, a bunch of weird emitters set up in a circle and, you know, radio broadcasting equipment and…like, it’s one of those, you know? But it’s a gigantic kind of ground room here, and there’s only one way forward. There’s only one hallway, and that hallway has a sort of light orange glow that occasionally shifts to a sort of blue glow, but there’s only one way forward. Figure, if you're bringing the mech down, and you want to stay quiet and not destroy the walls as you bring it down safely, I do need you to make a Defy Danger here.
+Dre: Hmm.
+Austin: And part of this is about the…something’s wrong as you go down this stairwell. And the people walking, I didn't want to make you roll for this, because like, what’s gonna happen? Are you gonna fall into the chasm and die because it’s so high up? I'm not gonna make you do that. Walking, you're able to take your time with this. You have your direct sense of feeling, but the gravity changes somewhere on the way down in the hole, and it changes— I don't mean that like it got lighter and now you can jump around or, oh, it got denser, and now you’re heavier. I mean, maybe it is a little bit of that, but what it really is is, like, it feels like the breeze changed directions all at once. It feels like there’s, like, a secondary source of gravity here or that the secondary source of gravity changed in some way. 
+It feels…something feels wrong about where you are, and you readjust to it, but it feels like something has flipped a little bit, and part of that is, like, you did— you were walking down a chasm, and now you're standing on what I think would be facing on a wall. You know what I mean? You didn't just walk down the chasm and now you're just, like, lower on. Things have changed orientation by the time you get to the bottom. It feels like you're not just looking up but you're looking up and to the side in a strange way. Something is weird about this hole or about the place you are on this moon. I mean, something’s very weird about this moon. So yeah, Figure, I think this is a Defy Danger to do it without making— or you could say, “Fuck it. Fuck the walls. Fuck the noise. I'm just down there now.” But if you want to try to keep it quiet, that’s a Defy Danger. 
+Dre: Yeah. Or I could say “fuck it” and get out of the mech.
+Austin: You could do that too. It’s true.
+Dre: [sighs] Let’s see.
+Austin: Uh, it’s a mech-sized place down here.
+Dre: Okay.
+Austin: I mean, Thisbe, you can report that up to Figure, if Figure’s curious about it. Like, the hallways are gigantic. The hallways are bigger than the— like, the Devil’s Two Front Teeth could fly down here. I actually don't know if it flies, but you know what I mean, right? You could jump and not touch the ceiling down here.
+Dre: Uh, yeah, I'll bring the mech down.
+Austin: Okay. Give me a Defy Danger— or not Defy Danger, a Weather the Storm with Defy.
+Dre: Okay.
+Austin: The phrase “Defy Danger” is just drilled into my stupid brain from years of saying it, you know?
+Dre: [crosstalk] Yeah. No, I know. 
+Austin: So, what’s that? 2d6 plus 1.
+Dre: 9.
+Austin: That is a 9. Is anyone helping on this?
+Sylvia: Uh…
+Austin: Somehow.
+Janine: I could help by…I mean, I'm thinking of, like, when you were like, “Thisbe, I don't know if you communicate the…”
+Austin: Yeah.
+Janine: Et cetera. But like, that seems helpful, [Austin: Yeah.] in terms of being like, “Okay, here’s what this space looks like at the bottom of this. Here’s what you're working with.” Kind of like— not like a sonar thing, but you know, information.
+Austin: Yeah.
+Janine: I mean, I also have— I have Animation Matrix. I could literally, like, ping the Devil’s Two Front Teeth like a…
+Austin: Mm-hmm.
+Janine: “Hey, here’s just the lay of the land.”
+Austin: Yeah, totally. Give me a 2d6 plus…is Figure one of your operants?
+Janine: Everyone who isn't an asshole is an operant.
+Austin: Okay. Then yeah, 2d6 plus 2, one for having spent time with Figure before. One’s for being part of the hooks.
+Janine: That’s a 9 again.
+Austin: All right, well, that is a 9 again, which brings up the…
+Janine: Weird.
+Austin: On a 7 to 9, you become entangled in the consequences of their actions and possibly cause them. So, Dre, go ahead and give me one more die, as your previous 2d6 plus 1 gets advantage, becomes a 3d6, take highest. So, you're looking for a 5 here.
+Dre: Buh.
+Janine: Ah.
+Austin: You do not get a 5 here. You get a 2. So, on Weather the Storm on a 7 to 9, “You succeed but at some cost. It’ll keep you longer than you thought, the director will ask you to make a difficult choice, or you’ll burn a point of spotlight as you take dramatic action.” A thing I've never asked you to do because it feels so bad. Like, the idea of like, “Yeah, lose an XP here.” [Dre laughs] I don't know that I have it in me to do that, which…because it just feels bad. Uh, I think your— on the way down, Figure, something about your mech takes some sort of damage…but in a way that’s quiet. Let me think about this. Actually, maybe this is just you do it but you take a Risk here.
+Dre: Sure.
+Austin: And this is a Risk that’s gonna sustain through the next scene. I think this place might just not be…oh, I know what it is, to some degree. You're able to land here— oh, but it has to hit Thisbe too because of the way that move works, so it’s not gonna be the thing I thought it was.
+Janine: Mm-hmm.
+Austin: Let me think about it for a second, unless someone else has an idea.
+Keith: It never occurred to me how much better assisting someone, helping someone works, like, if you rolled a 6 and a 2 versus a 4 and a 4.
+Austin: Why. What?
+Keith: Because then you get to reroll, and you want to roll better than your lowest to knock it down.
+Dre: Mm.
+Austin: Right. Correct.
+Keith: You roll two 4s, you're at an 8. That’s a good roll.
+Austin: That’s already a good roll.
+Keith: It’s really hard to roll higher than a 4.
+Austin: Yeah, yeah, yeah.
+Keith: It’s way easier to roll higher than a 2. That’s a big part of Help and Hinder.
+Austin: That’s a big part of Help and Hinder. You're not wrong.
+Keith: It never even occurred to me.
+Dre: Hinder helper.
+Austin: You're not wrong. Uh…this is a tricky one, because the thing I want is, like, “Oh, you've been noticed by something, da-da-da-da-da,” but that’s the thing you were rolling to avoid, so I don't want to take that from you, because you got what you wanted here. I think maybe it just takes a little bit of extra time here, right, to bring it down safely, which means some things are moving ahead. You didn't get noticed, but the whole group can hear gunfire from deeper into whatever this place is.
+Dre: Hmm.
+Austin: Something has happened, right? There’s a strange animalistic screech from deeper in. The state of play has begun to change. But you're here now. Do you follow your way down this long hallway? Do you…is there anything else you want to, like, set up before you go? What’s the play?
+Dre: Uh, I don't have anything I need to set up.
+Sylvia: Um… [sighs] I don't want to, like, fuck up our stealth situation [Austin: Yeah.] by calling my mech yet, but I also am like: fuck, we’re in like a military base, and I am not an on-foot combatant.
+Dre: And there’s shooting and animalistic screeching.
+Sylvia: Yeah.
+Austin: There is. There is. You could call in your group, or your, um…sorry, I'm looking for a “group of people” icon, so I said the word “group.” You could call in your Titanfall drop.
+Sylvia: Do I have to do anything to make that less loud?
+Austin: Yes.
+Dre: [laughs] Probably. [Janine laughs]
+Sylvia: Cool.
+Austin: I would say it’s the same thing, but…you’d roll Crew, [Sylvia: Yeah.] but it will be one of your Crew rolls.
+Sylvia: Oh.
+Austin: Mm-hmm.
+Janine: It might be worth it.
+Sylvia: And those Crew— is it worth it, you think?
+Janine: I wouldn't object. I don't know if someone else would, but…
+Austin: Does anybody else want to get their mech while we’re here? That way it’d be one roll instead of future rolls, you know?
+Sylvia: Yeah, do you want me to bring Mow?
+Janine: Oh. Mow can’t be in here though, right? Or can…
+Austin: No, Mow could fit in here. Mow could fit in here. It would just be—
+Janine: Okay. I thought Mow—
+Austin: It would be harder to get Mow down quietly is what I said.
+Dre: Sure.
+Janine: Okay.
+Austin: That would be a roll with disadvantage. 
+Janine: Uh…
+Austin: Or maybe you could wait until it’s not such a big deal if there’s noise. I don't know; you tell me.
+Janine: Um…I also— I don't mind just do— ugh, agh. If we’re doing— no, okay, if we’re doing one, we should do both or we should do them all.
+Sylvia: Okay.
+Janine: Yeah.
+Sylvia: So, this is…
+Austin: This is 2d6 plus 3.
+Sylvia: The modifier’s plus 3? 2d6 plus 3?
+Austin: Yeah, I'm keeping— so, for the record, I'm keeping the Crew at plus 3, because I think that’s more of a— it’s not like here’s how many people you have. That crew score is about how good the crew is, for me at least, in my read of it. So you're gonna keep the plus 3, but you can only use it three times per sortie, because Brnine is not at the helm of the Blue Channel [Sylvia: Mm-hmm.] which is how Brnine can normally do it as many times as they want. So, crew uses this sortie: one. So yeah, 2d6 plus 3.
+Sylvia: That’s a perfect roll.
+Austin: Unfortunately, because Mow is being dropped, it is disadvantage, so I need you to roll one more.
+Sylvia: Okay.
+Janine: Oh.
+Austin: Uh huh.
+Sylvia: No matter what, I succeed.
+Austin: Oh, you're right.
+Sylvia: It’s gonna end up being a 10 or above.
+Austin: Because it’s gonna be— yeah, totally, you're right. It’s a 12 still, because 6 plus 3 is 9, and even if you'd rolled a 1, it was gonna be…
+Keith: Right. Yeah.
+Austin: Awesome.
+Sylvia: Shoutout to second grade addition.
+Austin: Look at that, 100%. Yeah. And shoutouts to Hunting.
+Keith: Shoutouts to crew.
+Austin: Shoutouts to crew. 
+Janine: Mm-hmm.
+Austin: Hunting pulls this maneuver off no big deal, somehow. What are the— so, Mow lands. We know what Mow looks like. Mow uses some sort of boosters to, like, very quietly touch down.
+Janine: Wait, can I propose, like, a visual for how this happens so tightly?
+Austin: [crosstalk] Please. I would love this. Yes.
+Janine: I think maybe, like, once we communicate what we want, Hunting could potentially be like, “Okay, clear the space that’s, like, directly above, obviously.
+Austin: Yeah, yeah.
+Janine: And then, like, I wonder if, like, a big thick metal cable shoots down and, like, hooks into the rock and then gets really taut.
+Austin: Mm, mm-hmm. Yeah.
+Janine: Like, super, super rigid, and that’s sort of like a guy-line for the mechs to—
+Austin: Mm-hmm.
+Janine: Not getting lowered down, but like, you know, have like a carabiner, and they just…
+Austin: Yeah, yeah, yeah. They hook onto it. That way they’re not bouncing around the walls and stuff.
+Janine: Yeah.
+Austin: Yeah.
+Janine: To keep them nice and straight.
+Austin: Yeah.
+Keith: On the guy-line, the line for guys.
+Austin: On the—
+Janine: Yeah.
+Dre: Mm-hmm.
+Janine: The guy— yeah. Line for guys. [laughs quietly] 
+Austin: Mm-hmm.
+Sylvia: Mm-hmm.
+Chimera’s Lantern cont. [1:35:42]
+Austin: So, Cori?
+Sylvia: This is what people mean when they say “guyliner.” [Austin laughs quietly]
+Dre: Jesus.
+Austin: Do we see your new Altar?
+Sylvia: Yeah, I think we have to, right?
+Austin: Mm-hmm.
+Sylvia: So…well, this thing has wings, so it probably flies down. I kind of like the first shot of it being from us from the bottom of this, like, climb.
+Austin: Mm, mm-hmm.
+Sylvia: These sort of giant metallic wings blocking out part of the light.
+Austin: Mm-hmm.
+Sylvia: Before it touches down, and in front of everyone is my tier 4 Altar, the Paramerion. Where do I start with describing this thing? It is definitely the most Gundamy mech I've had on this show.
+Austin: We’re on some Gundam Wing shit with this. This really feels like…
+Sylvia: Literally? Austin, I was about to paste an image of the Wing Zero in our chat.
+Austin: Yeah, I mean, that’s where we’re at, right?
+Sylvia: Yeah. [Ali laughs quietly] The two inspirations for this are the Wing Zero and also the skeletons of saints that are underneath the Roman catacombs.
+Austin: Mwah!
+Ali: Let’s fucking go.
+Sylvia: So, this is sort of…
+Austin: [laughs quietly] Friends at the Table, baby!
+Sylvia: I'll just read my description. I'm just gonna read—
+Austin: Gundam and Catholicism. Let’s go!
+Sylvia: Yeah, yeah, yeah. Austin, we should talk about the book I got about this stuff. It’s good.
+Austin: Oh, please. Good.
+Sylvia: So, I'm gonna read my description and then get into how Cori, like, gets into this thing.
+Austin: Mm-hmm.
+Sylvia: So, I have written down: constantly twitching and rippling underneath the regal embellishments of its filigreed armor. Massive metallic wings stay folded on its back, except it’s flying, [Austin: Mm-hmm.] so we saw the big wings. A smaller pair of wings cover its eyes like a visor, and it has two sickles that jut out from its forearms when stowed. It has a halo shaped like a crown that sort of rotates above this head that looks kind of— it is a skeletal head.
+Austin: Right.
+Sylvia: This is where the dead saints thing comes into.
+Austin: Right.
+Sylvia: And it’s being sort of, like, this jeweled looking armor.
+Austin: Hell yeah.
+Sylvia: This thing is creepy. It always— it kind of moves like it’s in overdrive, like there’s too much power being put into it.
+Austin: [sighs] Fantastic.
+Sylvia: And the—
+Austin: And you mentioned to me that Paramerion, the name of it, has a particular meaning for you.
+Sylvia: Yeah, so, Paramerion—
+Austin: Not for you, just generally.
+Sylvia: Just generally is sort of a— it was a saber used by the Byzantine military, and…oh, I looked this up specifically. Basically, the reason why I took it is it is a sword that would have been used in combat against the cavalry unit’s cataphracts.
+Austin: Mm-hmm.
+Sylvia: Which, we all know…
+Austin: Like the Cataphract that, yeah, Elle Evensong.
+Sylvia: My lovely rival Elle pilots.
+Austin: Mm-hmm, mm-hmm. Fantastic. Good. Great.
+Sylvia: Yeah. The way Cori climbs into this thing, by the way, is one, the wings on her, like, her little laurel wings become a visor too.
+Austin: Ah.
+Sylvia: They, like, snap into place, and then it looks like she flies up into it, but it’s actually wires from the cockpit come down and grab her by the wings.
+Austin: All right. Your mechs are here. You have this long hallway, glowing orange and blue occasionally. There’s really only one way forward from this place. You begin making your way down this tunnel?
+Sylvia: Yeah, we gotta, right?
+Dre: Yeah.
+Austin: You gotta. Right.
+Janine: Mm-hmm.
+Austin: I get to use the— my truly rarely used Reveal tool here. 
+Dre: Ooh. [Sylvia laughs quietly]
+Ali: Ooh.
+Austin: I never use Fog of War in this game, but we’re doing a fucking dungeon crawl here. Boom. Look at this.
+Sylvia: Oh my god. We have to pick a direction. [Ali gasps]
+Austin: You gotta pick a direction. You work your way down this tunnel. Again, it’s massive, right?
+Dre: Oh, I gotta zoom in. Okay, I see.
+Austin: Yeah, you're gonna have to zoom in on this. It’s massive to the degree that, as, Sylvi, you said somewhere above…you said, “I kind of want to bring my mech down if we’re in an Armored Core base now,” and that is exactly the vibe, right?
+Sylvia: Yeah.
+Austin: We are in Armored Souls right now. Like, this is— as you get further down this tunnel, the mosaic work I talked about continues and changes. The stairs were human scale and so were the mosaics, right, so were the tiles, but as you get down here and as you move down this massive tunnel, the actual mosaic tiles get bigger and bigger and bigger, and here, as you enter this room, this room that is constantly spinning and doing something that is impossible, which I'll talk about in a second. You recognize that the tiles have finally started to take the shape of images. The mosaics are of big figures: strange, sometimes humanoid, sometimes deeply inhuman figures. The thing that’s impossible that it did is you saw a room in front of you where the ground was gently turning, like gently rotating like the top of a record player, right? And you walked into it, and then behind you became a wall. 
+There is a one part of this room— this whole room— imagine a cylindrical room that is constantly rotating, right? And there is one kind of part of the wall, the cylindrical wall, that is not there, right? Like, there’s a hallway, right? Or there’s a gap in the wall, and every once in a while, as the floor rotates, it reveals a hallway, right? So it’s like, oh, there’s— when the door in this— or when the kind of gap in the mosaiced wall is facing to the north, there is the hallway back from where you came. When it’s facing to the west, there’s another hallway that way. There’s one on the south and there’s one on the east, but when— it’s rotating, so there’s much of the time this kind of room does not have a doorway out, right? It’s just, like, cave wall in that gap between the mosaics, and then you have to wait for it to rotate. And it’s like, you stepped into it. You didn't see a rotating wall that you had to time your entry to. You just saw a room to walk into, and as soon as you walked into it, it’s as if— and again, you have this sickening strange feeling that the gravity has changed and that the breeze is blowing a different direction here. 
+There is— and again, the tiles are now big enough that you can kind of make out— it’s almost as if you're looking at them under a microscope, and you can see that some of them are traditional, you know, the stuff that tile gets made out of, ceramic and stuff like that, but some of them feel like they’re from natural…or not natural, but animal components. Some of them seem to be made of bone. Some of them seem to be made of, like, vast insect shells. And you are fairly sure—especially those of you who have any sort of Divine connection, which I guess is just Cori—that what you're looking at is murals of Divines. And you have some directions to choose from: west, east, south. Again, this is sort of abstracted. You're inside of a cave system inside of a moon. Sometimes you'll be going up. Sometimes you'll be going down. Sometimes you'll be going inward or outward, but we’re gonna talk about it with this very 2D map I've drawn on the side of this strange shape, so.
+Sylvia: Mm-hmm.
+Austin: Those are your directions. To the west, there is a sort of bluish purple glow. To the south, when the kind of— this is called, by the way, this is the Mosaiced Gyratory. That is the name of this room.
+Sylvia: Ooh.
+Austin: We are in a fantasy dungeon right now. Let me move y'all up a little bit so that you can read it, right? Or down maybe. You get it. You see what it is. To the south, I think things just get dark, and to the northeast, the east northeast path, there is a sort of light orange glow, and right now, that’s all you got, information-wise.
+Dre: Any more weird screeching or gunfire coming from any particular direction?
+Austin: Sounds to me like you're making a move. It sounds to me like you're Reading the Room again.
+Dre: Sure.
+Austin: Give me a Sense roll.
+Dre: All day.
+Austin: Yeah. 2d6 plus Sense. Your Sense is, uh, 2? Is that right?
+Dre: 2. Mm-hmm.
+Austin: Yikes!
+Sylvia: Oof.
+Dre: Let’s go!
+Austin: That’s not great. 1 plus 2 plus 2 is 5. Is anyone helping the Figure in Bismuth? Also, what’s— are you just, like, investigating? Are you just, like, turning up your speakers? What are you doing to do this investigation?
+Dre: Uh, ah, yeah, I like the idea of just, like, cranking the sound volume.
+Austin: The gain on your microphone and— yeah.
+Dre: Uh huh, yeah.
+Austin: All right, is anyone helping Figure with investigating any of this stuff?
+Janine: Um…I can find justification.
+Sylvia: I could.
+Janine: I don't know if Cori wants to do anything.
+Sylvia: Uh, the reason I was thinking of doing it was just cause we’d also get the plus 1 from having a downtime scene together.
+Austin: Ah.
+Janine: Oh, yeah.
+Sylvia: Figure and I, so…
+Dre: Yeah.
+Austin: Uh, I think— sorry, it’s not a downtime scene, it’s…
+Sylvia: Oh. Isn’t it?
+Austin: It’s spent meaningful time together before this sortie, which you all just have now.
+Sylvia: Oh, okay.
+Austin: At this point, you're all at plus 1 with each other, minimum.
+Dre: Oh, question.
+Austin: Yep.
+Dre: Do I get to take that plus 1 forward…?
+Austin: You do.
+Dre: Okay.
+Austin: So that would bring it up to a 6, so you only need, uh…you only need that 1 or a 2 to go up by 1. This is a really good— as Keith was saying before, there’s different types of roll advantage relations.
+Keith: Mm-hmm.
+Austin: And this one’s a really easy one to get a win on, at least to get a partial win on, right?
+Sylvia: So you're thinking of rolling an additional die? Am I hearing that right?
+Austin: No, no, no.
+Sylvia: No.
+Austin: Dre got a plus 1 before from a successful Read the Room.
+Sylvia: Okay.
+Austin: And that plus 1 would work here, it’s just it would bring you up to a 6, which is still not a full win.
+Dre: A 6.
+Sylvia: Okay. I'm happy to help. It could even be something as, like…I don't know, like, simple as knowing what you're gonna do and turning off all my systems temporarily so there’s no interference from Paramerion.
+Austin: Hmm, mm-hmm. Sure. I don't mind that. Give me a 2d6 plus— again, I think it’s 2, unless there’s a— yeah, it’s definitely a 2, because you have not rolled Help or Hinder before, right?
+Sylvia: Yeah.
+Austin: Though I guess, wait, do you have a…da-da-da-da-da-da. You don't have a hook.
+Sylvia: I don't have a hook either.
+Austin: So it’s a plus 1. So, 2d6 plus 1.
+Sylvia: Okay. Womp.
+Austin: Oh, boy. That’s a 6.
+Dre: Oof.
+Sylvia: A 6.
+Austin: So you do not get to help, and the things that happen happen to both of you.
+Dre: That hold from the pre-mission.
+Austin: Uh huh.
+Dre: I can't use that here, can I?
+Austin: You can use it here to do one of the moves, but I mean—
+Keith: But it’s not enough to bring you to a partial success.
+Austin: Exactly, correct.
+Dre: Yeah.
+Austin: Because it’s a hold; it’s not a bonus. It’s not a plus.
+Dre: Okay.
+Janine: You can get info with it though.
+Austin: Exactly. And in fact, you can get info anyway, because on a failure, you may ask one of the above questions immediately, but the answer creates problems or puts you in danger.
+Dre: Sure.
+Austin: So, ask me a question from this list.
+Dre: Um…hey, where can I find whatever made that awful screech you talked about?
+Austin: Oh, absolutely. In fact, you begin to see them running northward from the hallway to the south. It is a pack—a swarm, maybe?—of creatures. How to describe them? Some of them run on all fours like dogs or like some sort of primate on a hunt. Some of them fly with insect-like wings. These things are— they’re tier 2, but they’re acting in a swarm, so they’re gonna act as groups of tier 3 things. They are…what if you— imagine an animal, but instead of muscle, you had something that looked like the enamel of teeth.
+Sylvia: Ooh.
+Austin: There’s no eyes. There’s just— and they’re not clean teeth. This isn’t like— you know how Asepsis you might look at and go, “Oh, Asepsis is kind of like a ceramic enamel type thing.” No, no, no. This is, like, uneven, yellowed and browned and chipped and sometimes bloody tooth monsters seem to be running towards you, gigantic— you know, it’s a good thing you got in the mechs, because all of them are bigger than you as individuals.
+Dre: Mm.
+Austin: Even bigger than Thisbe, in terms of height. These things are rushing towards you, and they are coming towards you angry and violent and running from the sound of weapons fired deeper to the south. What do you do? Actually, let’s hang there and go back to— let’s hang there, as huge swarms of tooth monsters rush into your little gyrating center hallway, and let’s go over to the stellar combustor crew, as you approach the Divine Plight’s patrol.
+Stellar Combustor cont. [1:49:38]
+Ali: Hello.
+Austin: Hi.
+Ali: I didn't say before what Brnine regrets the most.
+Austin: You didn't.
+Ali: Because it was too amusing to me, because I've, since the last faction game, have wondered how much Brnine feels around Asepsis, with the way that that scene was staged.
+Austin: Oh, sure. Uh huh.
+Ali: [laughs quietly] And I still don't have a specific answer. I think Brnine is a person who will think of all of the things at once.
+Austin: Mm. So, no single thing, just a bunch of little ones.
+Ali: Yeah. Just “should I have ever left home?”
+Austin: Oof. [Ali laughs]
+Sylvia: God damn. God damn!
+Keith: Damn.
+Austin: RIP. All right. Well, let me drop some Gambesons out here. [Sylvia laughs quietly] You know. Each of these is a squad of Gambesons. These are not individuals, right? 
+Ali: Mm-hmm.
+Austin: And they’re just everywhere, and then also, the Divine Plight, which I've made this big red gavel, which is not as big as the sun, but you know, much bigger than your ship. It’s a Divine, so. And again, the thing that it’s doing is sort of like— if I just make a little thing really quick. It’s like putting out these, like…you know, imagine a, uh…you’re playing a stealth game, which you're doing.
+Ali: Mm-hmm.
+Austin: And you know how there’s, like, enemy vision cones?
+Keith: Yeah.
+Ali: Yeah.
+Austin: It’s like that, except the vision cone is a laser, right? And it’s doing sweeps of them, over and over again, as it rotates around the sun, right? And it’s on top of the Gambesons, it’s doing these sort of, like, disintegration gaze attacks on empty space, and it’s like doing them in one direction, and then it’s looking and doing them over in a different direction, and then it’s rotating again the other direction, and et cetera, you know? It’s doing that, and then it’s like, okay, well then over here and, like, over behind us, and blah blah blah.
+Ali: Mm-hmm.
+Austin: And it’s clear that the Gambesons are moving in such a way that they don't get caught up in this, but that is the thing you're contending with here. More limited than sensors, right? The sensor is everywhere, so there is— you could pilot your way past this, but it’s hard, [Ali: Mm-hmm.] especially because it is a tier 5 thing.
+Ali: That’s true. That is what it is.
+Austin: What’s the play?
+Keith: Hmm. I think that Plight should just chill and be chill.
+Ali: Yeah. Yeah.
+Austin: It’s chilling. 
+Sylvia: Damn.
+Austin: This is chilling. [Ali laughs]
+Keith: This is its chilling?
+Austin: This is what— oh, oh, you thought this was not chill for the Divine Plight? [Ali laughs] This is chilling.
+Ali: Yeah. Yeah. It’s just out there, you know?
+Keith: It should chill on Phrygian’s level of chill.
+Austin: Mm.
+Ali: Mm.
+Austin: I see. I see what you're saying.
+Ali: I thought Phrygian—
+Sylvia: Plight needs to turn into a room. [Keith laughs]
+Ali: Yeah.
+Keith: Yeah.
+Ali: I thought one of the major tragedies of Phrygian is that he can’t chill— or they can’t chill.
+Keith: They can't chill. 
+Ali: They can't hang.
+Keith: They can chill better than this.
+Ali: For sure, for sure. Yeah, yeah, yeah. Can I roll, uh, a chill? A get chill, please?
+Austin: You want to try to talk to it? Is that what you want to try to do? 
+Ali: No…
+Austin: You want to—? I don't think that’s gonna work. I mean, you could try it.
+Keith: Yeah, we’re gonna roll Talk, which we’re both 0 in. [Ali laughs quietly]
+Austin: You could try to open communication with the Divine Plight and see if you can just talk it down a little bit.
+Ali: “Uh, hey.” [laughs quietly] 
+Keith: Have you thought about being a room?
+Austin: Mm-hmm. I mean, I know who the Divine Plight’s, you know, elect is, if you want to know about them. They suck.
+Keith: [sarcastic] No.
+Ali: Oh, I bet.
+Austin: Yeah. 
+Ali: I bet.
+Austin: Hemlock. They’re, uh… [Ali laughs]
+Keith: Oh, sure. 
+Austin: Uh huh.
+Keith: Hey, how bout chill? [laughs] 
+Austin: Mm-hmm. Yeah.
+Keith: What an old reference. What a nerd.
+Austin: Uh huh. Well, no, they don't choose their own names.
+Keith: Okay, that’s fair.
+Austin: The Divine helps choose it, you know?
+Keith: Okay. Well, then Plight is also a nerd.
+Austin: My note on Hemlock is: “Hemlock, whose interest is fundamentally in punishment and not justice, was born heir to a mid-tier Kesh House but jumped at the chance to become an Elect.”
+Keith: Just, like, a hundred thousand year old history reference [Austin: Yep.] does not make a robot cool. It makes it lame.
+Austin: No. I mean, Hemlock is still poison in the future.
+Keith: Yeah, that’s true.
+Austin: You know?
+Ali: It’s dark Routine in there.
+Austin: Yeah. It kind of is. God, what if it was? What if it’s, like, Routine’s cousin? 
+Ali: Aw… [Keith laughs]
+Austin: That’s fun.
+Dre: We have fun here.
+Ali: I do sort of think, like, our best advantage here is to, like, wait it out though, right?
+Austin: Mm.
+Ali: Like, if we’re—
+Austin: Yeah.
+Keith: But nothing tripped. It came here, as far as we know— we didn't trip anything.
+Austin: No.
+Ali: No.
+Austin: Nothing’s tripped. 
+Ali: Yeah.
+Austin: This is just always doing this, Keith.
+Keith: Yeah.
+Austin: And like, yeah, it’ll move around the other way. The Gambesons won't, right? But it’ll be safer.
+Ali: Mm-hmm.
+Austin: But I will— you know, the clock ticks.
+Ali: Right.
+Austin: Other stuff moves.
+Ali: You know, if we spend the time to watch it do a cycle…
+Austin: Yep.
+Keith: Uh huh.
+Ali: And then time out a crossing…
+Austin: Right, right, right. Yep.
+Ali: And we trust the systems that we invested in…
+Keith: Yeah.
+Austin: Mm-hmm.
+Ali: You know what I mean?
+Keith: Or we just Defy Danger— or Weather the Storm. You got me doing it.
+Austin: I mean, I think waiting to see what, like, the pattern is is what lets you do the Defy Danger without…
+Keith: Sure.
+Austin: Without it being desperate, right?
+Keith: Right.
+Austin: I think what lets you do— or actually, that’s a question. What’s the approach of your vessel? It’s just a spaceship, right?
+Keith: Yeah.
+Ali: Oh, yeah. I didn't realize that we could choose an approach, so we didn't.
+Austin: Yeah, you have to. Yeah, Ardents do have approaches, yeah.
+Ali: Okay.
+Austin: Approaches, plus 2… 
+Keith: Oh, I was actually— I was just thinking— I was looking at the approaches of the, like, prebuilt ones.
+Austin: Mm-hmm.
+Keith: And in my head, we have— the one that you made is just, like, a variant on the cargo ship [Austin: Right.] or the personnel carrier? I can't remember what it’s called. And that one is mundane, so I just had it in my head that it was mundane, but that’s not necessarily true, I guess.
+Austin: Right.
+Ali: Mm-hmm.
+Keith: I mean, we should definitely make it…uh, which is the one that’s good against divine? It’s that one. [laughs]
+Austin: Yeah. I think arcane is the one.
+Keith: It’s arcane. It’s arcane, yeah.
+Austin: Uh huh.
+Ali: Uh huh.
+Austin: It’s good against divine. It’s bad against mundane. These are the trades you make.
+Keith: Or we just say it’s mundane, we get ourselves out of the way of divine…
+Austin: Right.
+Keith: Or element— I'm elemental.
+Austin: You're elemental.
+Ali: Right.
+Keith: So, it could be elemental. It’s not bad against divine.
+Austin: Uh, if it’s elemental, that means it’s probably using some sort of Branched tech. Maybe you've integrated yourself into it in some way, which is kind of fun.
+Keith: Sure.
+Austin: Or it’s using stolen Branched tech arrived at via the worst of the worst.
+Keith: That’s more likely.
+Austin: That’s much more likely, isn’t it?
+Keith: I guess they’re equally likely, because I'm Phrygian, so I could do the first thing if I wanted to.
+Ali: Right.
+Austin: You are Phrygian, yeah.
+Ali: And part of this was, like, us in the lab.
+Austin: Mm-hmm.
+Ali: You know what I mean? Like…
+Keith: Yeah, goggles on, lab coats.
+Austin: Goggles on, building this—
+Ali: Uh huh.
+Austin: Like, modifying.
+Keith: Arms crossed, all pairs.
+Austin: You bought a cheap vehicle and then upgraded it into this, basically.
+Ali: Right.
+Austin: In some ways.
+Keith: Right.
+Ali: If, like, a way worse version of Alise Breka had found this ship in, like, a data file or whatever, [Austin: Mm-hmm.] they’d be like, “Oh, the Branched and the Apostolosian minds working together.”
+Austin: Right, uh huh, [Ali laughs] to build da-da-da. That’s, like, part of the story. Yeah, yeah, yeah.
+Ali: Uh huh.
+Austin: Mm-hmm.
+Ali: Okay, cool. I like elemental for that, then.
+Austin: Okay, so let’s make it elemental. Then…
+Keith: It’s gonna be a profane thing shows up, shoots us. [laughs quietly] 
+Austin: Yeah. So then, yeah, if you take time, you can roll it regular with Defy Danger.
+Keith: Okay.
+Austin: But again, clocks tick, right?
+Keith: Right. Theoretically.
+Austin: That transport will dock before you, for instance, right? Then, the…if you tried to do it right now, I'd say it would probably be bad to do it, so. And you could even get yourself benefits, right? You could roll Read the Room to get yourself an advantage on that next roll, but then you're rolling twice, right? So, up to you how you want to do it.
+Keith: Well, spending time can be, you know, one of us is watching the pattern, and one of us is reading the room?
+Austin: Yeah, I mean, you could absolutely Read the Room, I'm just saying that you'd then get to— you'd have to roll the dice, you know?
+Keith: Oh, you're— right, sure. I mean—
+Austin: I'm thinking about that feeling that you get sometimes as players, where it’s like, “Eh, I don't want to roll the dice, because something bad could happen.”
+Ali: Mm-hmm.
+Keith: [scoffs] Never in my life.
+Austin: I'm happy to have you roll the dice, you know? [Ali laughs]
+Keith: Yeah. I'll roll. I'll roll that.
+Austin: Love that. What’s your Sense?
+Keith: Wait. Sense is 1? Or is— am I getting confused and it’s minus 1? Uh, Sense is 1. Sense is 1.
+Austin: Sense is 1. Yeah, yeah.
+Keith: Okay. Yeah, I'll roll Read the Room. Let’s look at this. Let’s see what’s going on.
+Austin: 2d6 plus 1.
+Keith: 3d6. 
+Austin: Wait, not—
+Keith: Oh, 2d6. 2d6 plus 1.
+Austin: 2d6, 2d6. Yeah.
+Keith: I don't know why I have so many tabs open right now. Where the hell did Roll20 go? [muffled laughter] I need to not have these. There it is.
+Austin: And again, I just want to be clear: the reason you're able to do this safely is the stealth system, right? I'm not not counting the stealth system here.
+Keith: Right.
+Ali: Mm-hmm, yeah.
+Austin: The fact that you're able to just, like, sit here [Keith: Right.] and it’s chill is the stealth system.
+Keith: This is— we’re already using this to not be…
+Austin: Yes, yes, 100%.
+Ali: Right, yeah.
+Austin: Yeah.
+Keith: To not be exploded five minutes ago.
+Austin: [laughs] Exactly, yes.
+Keith: Right? [typing] Plus 1. Boom. [snaps fingers] That’s a 5.
+Austin: That is a 5.
+Sylvia: Wow. [Ali laughs quietly]
+Austin: [pained] That is a 5. Does anyone want to help?
+Ali: Can I assist here?
+Austin: You can. Tell me what that looks like.
+Keith: You can totally help, and getting rid of that 1 would be pretty easy.
+Ali: Yeah. How— well, what does the Read the Room look like?
+Austin: Great question.
+Ali: I guess, to get in there.
+Austin: Phrygian? What’s it look like as you're doing this scanning, or what does the Read the Room look like?
+Keith: Yeah, I think that we should stick to, like, you know, computer screens for this. This is like a…like a 2D— you know in, like, dogfighting games, where you've got your sort of [Austin: Mm-hmm.] 2D representation of 3D space, [Austin: Mm-hmm.] where it’s like showing you where stuff is in relation to you? I've got one of those, like, on a, you know, CRT, and it is like…it’s showing ships moving by. It’s calculating size, and I think Phrygian is doing longhand mathematics to try and figure out, like, in how many seconds should we go.
+Austin: Right.
+Ali: Oh, right, right. Okay.
+Austin: That’s fun.
+Ali: I guess my…what I like for a Help or Hinder here is, like, maybe there is…like, the screen is malfunctioning a little bit or something.
+Austin: Mm, mm-hmm.
+Ali: And, like, Brnine is the one being like, “Oh shit, let me…” and, like, plucking open the panel to stabilize the image.
+Keith: Okay.
+Austin: Mm-hmm. That’s fun.
+Keith: Yeah.
+Austin: All right, give me 2d6 plus…
+Ali: 2, right? We established.
+Austin: Uh, I mean, yeah. No, no, no, no, no. Wait, did you Help or Hinder already? You helped or— oh, but it’s not the other way. Phrygian has not helped or hindered you, right?
+Ali: Yeah. Okay, yeah.
+Austin: Yeah, they have not. So yeah, unfortunately, you rolled a 6, Brnine?
+Ali: Mm-hmm.
+Austin: 2 plus 2 plus 2?
+Keith: Yeah.
+Austin: So, that doesn't help. It doesn't help. [Ali laughs]
+Keith: No. It doesn't help.
+Austin: It doesn’t help.
+Sylvia: Oh boy.
+Austin: On a failure, you may ask one of the above questions immediately, but the answer creates a problem or puts you in danger! Ask me a question, Phrygian.
+Keith: Ah, shoot. Where are the, uh…are they in—?
+Ali: They’re in the moves.
+Austin: “Who has the upper hand here? What is being overlooked or obscured here? Where do my hooks pull me here? How does X really feel? What is X's approach? How is X at risk or peril? Where can I find X?” Did you find them?
+Keith: Yeah. Where can I find the best entry point into the center ring?
+Ali: Huh?
+Austin: Uh, that’s not information you could find from this far off. You can, like—
+Keith: You don't think I could? Okay.
+Austin: You're not there. You're not close enough. This is space. Like, I know that we’re in abstract space here. You gotta get close to it to start scanning stuff like that.
+Keith: Uh, that’s fair. 
+Austin: You know?
+Keith: I'm considering questions whose answer would put me in danger.
+Austin: I know. Ask me the question. Yeah, I mean, I get you. And maybe— I guess tell me how you would be trying to look at that from where you are.
+Keith: Uh, I'm thinking of Phrygian getting distracted by information on the monitors.
+Austin: That’s kind of funny. Yeah.
+Keith: Like, trying to answer two questions at once when I need to be answering one question at once.
+Austin: Eh, I just don't know— I mean, I do know how you can get this answer, and it would cause problems but maybe not the problems you…I mean, a file shows up.
+Keith: Okay.
+An Offer [2:03:02]
+Austin: Ba-ding! And it’s from Mustard Red. [Ali laughs quietly]
+Sylvia: [wary] Mm…
+Austin: And it has a contract attached to it.
+Sylvia: [more wary] Mm! [Ali sighs]
+Austin: And a little video file that you can play.
+Keith: Buh-ba-duh-buh-ba! It’s got a little logo.
+Austin: Uh huh. Oh, uh— in fact, it’s a video call. Let’s make it live. Why not?
+Keith: Okay.
+Austin: So, it does the Skype call. The old Skype ring plays.
+Keith: Okay.
+Austin: Because that’s definitely what the Divine Arbitrage uses, for sure. And it’s Mustard Red.
+Keith: Take that, M dollar sign.
+Austin: [laughs] Got ‘em! Ugh! [sarcastic] Sony defense force here. That’s me! [Keith laughs]
+Austin (as Mustard): Blue Channel. That’s, um…that’s you guys, right? Uh, it’s me, Mustard Red. I don't know that we’ve had the chance to meet. I was supposed to be at that thing at the Isle of the Broken Key, but I got busy. I know we’ve had some ups and downs, but, um, I've found out about the little mission you're doing, and I am totally for it. And in fact, I want to help. Who’s there with you right now? I don't have all the details.
+Keith: Uh, I think Phrygian’s stunned. I think that I'm not saying anything.
+Ali (as Brnine): Phrygian, are you listening to music?
+Keith: Oh, it’s not on speaker? [laughs] 
+Austin: [crosstalk] I mean, you can just see Mustard Red on the screen, right?
+Ali: [crosstalk] Oh, I guess I'm not hearing that voice. Okay, yeah, okay. [laughs] 
+Austin: I mean, you could be.
+Keith: Yeah, yeah, no, we’re on speaker. 
+Austin: I think it just comes through the—
+Keith: We’re on speaker.
+Austin: If you accept the call, you're on speaker. You heard all that.
+Keith: Yeah. Call is accepted.
+Austin: Mm-hmm.
+Keith: We’re on speaker.
+Austin: Make it easy, you know?
+Keith: Yeah. I think Phrygian just says that—
+Austin: Mustard does a little wave.
+Keith: Say again?
+Austin: Mustard does a little wave when the call picks up, you know?
+Keith: I think that Phrygian says that…this isn't an email. What is this? Phone number?
+Austin: It’s a Skype call.
+Keith: Like, “No one has this ship’s ID.”
+Austin: It’s a Strand call. Well, yeah, it’s not. It’s something else, isn't it? Uh, it’s using the glint network. Don't worry about it.
+Keith: I didn't put glint network in here when I made the ship.
+Austin: The glint network put the glint network in here. You used parts you bought from somewhere.
+Keith: Well, Phrygian doesn't like that.
+Austin: Yeah, you might recall that the Authority writeup here on the Divine Arbitrage is: “The amoral machine turned de facto treasurer keeps the Frontier Syndicate a step ahead in all matters of commerce.” You spent value to buy parts for this thing, so. Anyway, she’s waiting for a response about, hey, hi.
+Keith (as Phrygian): Hi.
+Austin: She said hello and has said she supports the mission.
+Keith: [unenthused] That’s great.
+Austin (as Mustard): So, [hushed] the thing is: I think the rest of the group would not like me helping you. There was a vote. We decided we’re not allowed to do this mission. It’s very risky, but you're already doing it, and so I figured it might make sense to try to help out.
+Keith (as Phrygian): That’s great.
+Austin (as Mustard): And to that end, I have some extra blueprints that I can send over to you, but it’s super important that we agree about the terms that they’re used for, otherwise I don't even— I haven't seen them. I don't actually have them. I'm like, um, like a middleman in this. And so, to get them from—
+Keith (as Phrygian): Middle of who?
+Austin (as Mustard): I have a source. Being in the position I'm in means I get a lot of sources. And so I can transfer you that, but the person with the blueprints has a condition to transfer them over, and that condition is that we take hold of the stellar combustor and then use it as a negotiation chip.
+Keith (as Phrygian): Or what?
+Austin (as Mustard): Or they’re not gonna send you the file, the blueprints.
+Keith (as Phrygian): What if I say yes, then still don't?
+Austin (as Mustard): Well, you won't be able to.
+Keith (as Phrygian): Why?
+Austin (as Mustard): [mildly confused] Because you'll have agreed to the contract.
+Keith (as Phrygian): But people lie and break contracts all the time.
+Austin (as Mustard): [sighs] Oh, this is the first time you're gonna…this is a new type of contract. You won't be able to not do it.
+Keith: Uh, Phrygian looks at Brnine.
+Ali (as Brnine): [hushed] We’re not doing that. Are you kidding me?
+Keith (as Phrygian): Uh, yeah, that sounds bad.
+Austin (as Mustard): Okay, let me make the pitch. I—
+Keith (as Phrygian): You already made the pitch.
+Austin (as Mustard): No, no, no. Not that pitch. I thought at first the right thing to do here would be to go blow it up or to go kill the Elcessor. I still kind of think that that’s right. But as it was pitched to me, think about what we could get by having it, for even just five minutes. If we can prove that we have it under control, we could get the gravtrain. We could bet the Bontive Valley. We could get Composure’s Coliseum. It doesn't even have to be Kesh stuff. 
+Austin: And the pitch is this for real: if you manage to take this thing and hold it and communicate back to Mustard Red that you have it…I mean, there’s actually two ways to do this. One is she will negotiate for you and for the Cause, the— just to shut it down, right? The thing on the other side is “Hey, we’ll shut this down.” The pitch being made to the Authority is “We will shut this down in exchange for blank,” and so you'll get one pillar on top of shutting this down; you'll fell it. You could also try to negotiate yourself with it. She’ll set up a comms connection between you and Authority leadership, and if you succeed at that, you can fell it and one additional pillar per Authority division, a maximum of four pillars in exchange for shutting it down.
+Ali (as Brnine): But we were already gonna shut it down.
+Austin (as Mustard): Right, but if you negotiate with it before you shut it down, we can get more. If you threaten to use it or else blah blah blah, the way that they’re using it against us. Say—
+Keith (as Phrygian): But they’ve already threatened to use it.
+Austin (as Mustard): Right, but then you'll be the one who’s threatening to use it, and they don't want to die.
+Keith (as Phrygian): But they’ve threatened— they already threatened to use it.
+Austin (as Mustard): Elcessor threatened to do it. Connadine didn't. Gur Sevraq didn't. [Ali scoffs] They will push out the Elcessor over this. They will happily give up the Bontive Valley or something else in exchange for not dying. The Elcessor will have clearly overplayed her hand, and that’ll be it for her. That’s the pitch. That’s what the contract demands. And the contract even has space for you to do the negotiation yourself, if that’s what you want to do.
+Ali (as Brnine): How is this a contract?
+Austin (as Mustard): It’s a thing that you agree to, and then it becomes real.
+Keith (as Phrygian): No, not how is a contract—
+Austin (as Mustard): It’s a contract.
+Keith (as Phrygian): How is it a— not what is a contract.
+Ali (as Brnine): But we could just do that.
+Austin (as Mustard): Well, I can't give you the file unless you agree to the contract.
+Keith (as Phrygian): How does the contract control us?
+Austin (as Mustard): I can't talk about that unless you sign the contract.
+Keith (as Phrygian): But we could just not sign the contract and still do this.
+Austin (as Mustard): I mean, you don't have access to a direct line to the leadership of the Authority. And I have signed a contract that says I can't connect you unless you go through the contract system.
+Ali (as Brnine): [hushed] Phrygian, hang up. We’ll get a friggin’ loudspeaker.
+Keith: Okay. I hang up.
+Austin: All right. You don't get the answer, then. 
+Keith: Okay. [Ali laughs] 
+Sylvia: Oh my god.
+Austin: Also, you still haven't advanced past this patrol, because you did not gain any information about that, so you don't have advantage on that upcoming roll.
+Ali: Mm-hmm.
+Keith: No, but we don't have disadvantage.
+Austin: Correct.
+Keith: Okay. So, it was just a bad…you know, sigh of relief.
+Austin: Mm-hmm. Mm-hmm.
+Keith: Just a bad Read the Room. That’s okay.
+Ali: Mm-hmm.
+Austin: And in fact, I would say you learned some other information about the way things are moving right now.
+Keith: Yeah, sure did, yeah. [Ali laughs] Hey, who do you think in the Cause has signed these contracts?
+Austin: Uh, good question. I could tell you, but you don't— I'm, you know, I know who has.
+Keith: Right.
+Austin: And it’s not as bad as you might think.
+Keith: Mm.
+Austin: In the Cause is different than in the Cause leadership, right? And I think there’s probably more—
+Keith: Oh, sorry, that’s what I meant.
+Austin: Yeah, well, that’s what I mean.
+Keith: Okay.
+Austin: I don't think that this has been rolled out to Cause leadership.
+Keith: Okay.
+Austin: That’s a good way of being identified. It’s very easy to tell people who are in bad positions on the frontline, “I can help you if X.”
+Ali: Mm-hmm.
+Keith: Yeah.
+Austin: It’s much harder to tell, you know, people who are good at their jobs enough that they’re running one of the factions that’s fighting the Principality, “Hey, XYZ.”
+Ali: Right.
+Keith: Because this is a bad— this is a hard sell. Anyone in Cause leadership should immediately identify this as a red flag.
+Austin: Mm-hmm.
+Ali: Well, also just being like, [casually] “Yeah, I have a DM with the Authority.”
+Austin: Mm-hmm.
+Ali: [laughs] When, like, the Cause is already, like, super concerned about spies.
+Austin: Or thinking about it as: what are the stakes that would make someone make this offer to you?
+Ali: Uh huh.
+Austin: And the stakes are: what if everyone here is about to die?
+Ali: Yeah.
+Austin: Right? All right. Let’s make this patrol roll, and then we’ll flip back over.
+Ali: Yeah, I was thinking that would use one of my b-plot holds to…
+Austin: Mm.
+Ali: Or either one of us to give a player confidence on their next move.
+Austin: Mm, mm-hmm.
+Keith: I'd love that.
+Ali: But complicate things for yourself.
+Austin: I am a little curious how you possibly do that in a way that’s about complicating—
+Keith: Oh, how you would complicate things for yourself but not for me? [Ali laughs quietly]
+Austin: But not the other person, yeah.
+Ali: Yeah.
+Keith: In the ship.
+Austin: I think— you know, we’re already stretching b-plot to let you do the, like, sideways b-plot instead of the outward one, but I don't— you would have to tell me, come up with an answer for what is the complication for Brnine or for Phrygian that doesn't affect the other one. 
+Ali: Right, yeah. Okay, yeah.
+Austin: Which if you have, I'm happy to have it, but otherwise, I think it’s just a straight up roll.
+Ali: And this is the Weather the Storm.
+Austin: This is the Weather the Storm.
+Ali: Which feels like it should be a Phrygian Defy.
+Keith: It does.
+Austin: Well, who’s piloting?
+Keith: We can both pilot this. This is a team effort.
+Sylvia: It’s a Double Dash.
+Keith: This is a classic Double Dash.
+Austin: Okay. Yeah, sure. [Ali and Sylvia laugh] Double dash.
+Keith: I'm obviously Baby Weegee. [Sylvia laughs]
+Ali: Wow.
+Austin: Oh, you're Baby Weegee.
+Keith: Yeah.
+Austin: Who is Brnine?
+Ali: I don't— I don't— who’s the— 
+Keith: I think Brnine is—
+Ali: What’s the roster here?
+Austin: All of Mario Kart, I guess?
+Ali: Oh. Oh! Oh.
+Austin: Baby Luigi. Baby Weegee.
+Ali: Okay.
+Keith: Baby Weegee number one.
+Austin: Is that what he says?
+Keith: Yeah, when he wins, yeah.
+Austin: Have you not seen Baby Weegee? Have you not seen…?
+Ali: [laughs] I guess not. I'm out of my depth here.
+Austin: Oh my god. 
+Keith: You’ve never played Double Dash? [Ali laughs]
+Austin: You don't know this?
+Ali: No. Wow.
+Austin: You don't know Baby Luigi?
+Ali: [laughs] I don't know nothing about Baby Luigi. I'm sorry. 
+Sylvia: I was about to link that exact (episode??? 2:14:45) [Keith and Ali laugh]
+Austin: Good. It’s a very good image.
+Sylvia: (stan/stay out/stay at stuff??? 2:14:47)
+Keith: As Phrygian. Baby Weegee is, I think, just an old Run Button thing.
+Austin: Mm-hmm.
+Keith: I think from…maybe from when we played a bunch of games at the beach? I don't know. It’s been a long time.
+Sylvia: This is the only time I'll ever be able to tell this anecdote. When I was in college, I did see a license plate with “Baby Luigi number one” on it. [Keith laughs]
+Austin: That’s very funny. All right, let’s get this roll, I guess?
+Keith: Yeah.
+Austin: 2d6 plus— what’s your Defy?
+Keith: 3.
+Austin: Okay. That’s not so bad.
+Keith: No, it’s not so bad. We’ve been rolling a lot.
+Austin: Mm-hmm. I know in the dream version of this, you're like, “I’m gonna make three rolls, and then we’ll be done,” and it ain’t that.
+Keith: No, it’s not that.
+Ali: Right.
+Keith: I never thought it would be that, but I am working to make it as few rolls as possible, really.
+Austin: Mm-hmm.
+Ali: Right.
+Keith: Ooh, this one’s rough.
+Ali: There is another opportunity for confidence here via Asepsis, and I feel like make it past the Divine with my Divine is one of the best uses for Asepsis in this sortie.
+Keith: Okay.
+Ali: Right?
+Keith: Oh, yeah, what’s the deal with that? What’s going on there?
+Ali: Once— yeah. I wonder if it’s… [sighs] Ooh. I mean, hooking Asepsis eternally up to this ship that we’re using or whatever, right, as another…
+Keith: Oh! Sorry, I don't mean to interrupt, but does failing a Help roll give you spotlight?
+Austin: Yeah, totally.
+Keith: Ali.
+Ali: Oh, sure.
+Austin: Failing a roll in general. So, anybody who’s failed rolls here.
+Ali: Right.
+Sylvia: Mm-hmm.
+Austin: Which includes Dre, you failed a roll before. Sylvi, you failed a roll before.
+Sylvia: Yeah, I marked mine.
+Austin: Okay.
+Ali: Fail. Fail.
+Austin: The dice are not on your sides today. It’s wild. [Ali laughs] I'm looking at these failures.
+Ali: Fail once, Brnine’s a dunce. Fail twice, that’s all right.
+Keith: That is nice. [Sylvia laughs]
+Ali: That’s me today.
+Austin: That’s pretty nice. Yeah, uh huh.
+Keith: Let me roll. I rolled over Own Self Be Clock, also. I don't know if I missed anything there by not— by, like, holding at 6 for so long, but whatever.
+Austin: No, you should increase the gravity with yourself to 2, then.
+Keith: Okay.
+Ali: And then confidence treats 1s as 6s.
+Austin: 1s as 6s. So, 2d6 plus 3, and treat those 1s as 6s, Phrygian.
+Keith: Okay. 1s as 6s makes me feel a little better.
+Austin: I mean, 2d6 plus 3 is already a great roll.
+Keith: Yeah, yeah, yeah. It’s great. Okay, 2d6 plus 3.
+Austin: I think you at least minimal succeed no matter what.
+Keith: Yeah.
+Austin: Right? Yeah. 4 plus 2 plus 3, that’s 9. That is a mixed success. So, on a 7 to 9, you succeed but at some cost. It’ll keep you occupied longer than you thought, the director will ask you to make a difficult choice, or you’ll burn a point of spotlight as you take dramatic action. What is your— what’s this look like? What’s the successful part of this look like?
+Keith: I think that there’s, like, jumping forward when no one’s looking, [Austin: Mm-hmm.] and then, like, quickly breaking— sort of like…this is sort of Solid Snake under the cardboard sort of thing.
+Austin: Mm, mm-hmm.
+Keith: Like, you don't want to be moving when anyone’s looking at you, but as long as you're under the cardboard, you're under the cardboard?
+Austin: Yeah. Yeah, yeah, yeah. I gotcha, and that way it’s fine. I mean, it’s not in this case, right, because the laser will kill you, in this particular case. 
+Keith: Right.
+Austin: So you're able to do that with the Gambesons, but it’s a little harder to do that with the lasers, and I actually think that the laser catches you just a little. Or I guess— you don't get killed by it, right? But you're gonna make— a little bit of a thing is gonna get lost. Let me look at your tags again. Where are your tags? Uh…
+Ali: Scheduling chat.
+Austin: Scheduling chat. Thank you very much. I got bad news here.
+[“The Stellar Combustor” by Jack de Quidt begins playing] 
+Keith: Yeah.
+Austin: The heat condensers are damaged. [Ali laughs]
+Keith: Okay.
+Ali: Uh huh.
+Austin: And you're instantly sweating. And this thing is like, you know…you're not gonna die, right away.
+Keith: Uh huh.
+Austin: But you're still far out, and the closer you get, you'll die. At least you're still invisible.

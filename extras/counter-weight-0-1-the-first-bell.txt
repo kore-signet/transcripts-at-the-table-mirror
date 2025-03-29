@@ -1,0 +1,2035 @@
+﻿COUNTER/Weight 0.1: The First Bell
+Transcriber: Iris (sacredwhim)
+Opening Narration        1
+Introduction        2
+Character Summary        17
+Counterweight Summary        36
+The Sill        42
+Connections        49
+Mission        62
+Mako        74
+In The Kingdom Come        89
+AuDy        102
+Aria        114
+Closing        131
+Opening Narration
+Austin: On the far northeastern reach of Counterweight’s central sprawl, there rests an outlier, a progenitor; a sign of what was, and what is, to come. It was built long before the populace of the planet was locked away inside of climate-controlled domes, a place where still-mighty Apostolos hosted diplomatic visitors from their then-new rivals, the People’s Conglomerate of Orion, and the Autonomous Diaspora. A long, clear-ceilinged, high security habitat meant to create the perfect conditions for statecraft, to show off the strength and brilliance of Apostolos—
+[music intro - “The Long Way Around” by Jack de Quidt begins]
+Austin: —and to protect its inhabitants not from the chemical storms of modern Counterweight, but from the seasonal hurricanes from what was then still the nearby ocean. It was called the Provisional Diplomatic Cylinder. Today, it’s just called the Sill.
+And just as it was before the war, today the Sill is a strange cousin to the rest of the planet’s cities. It is, just as the name suggests, a low-lying cylinder, and not a dome, and unlike the other habitats, its roof is perfectly clear, letting its residents see the scarred skies, the stars, and of course, the blue and green miracle world of Weight.
+By law, the Sill is administered by the Consolidated Counterweight Technocracy, but day-to-day matters are actually run by the Ithikos family, an old-fashioned mob crew, and the only remaining Apostolosians in real power on the planet. The family operates a casino, the Cerulean, out of what was once being built as a general assembly complex for a hypothetically unified Golden Branch government. But unification never came. There is only an uneasy peace, an ignored occupation, and the sense that something wrong is just below us, waiting to emerge.
+[music intro - “The Long Way Around” by Jack de Quidt ends]
+Introduction
+[2:23]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Keith Carberry.
+Keith: Hi, my name’s Keith Carberry. You can find me on Twitter @KeithJCarberry. You can find the Let’s Plays that I do at youtube.com/RunButton.
+Austin: Ali Acampora.
+Ali: Hi, my name is Ali. You can find me, honestly, over at friendsatthetable.cash. I’m gonna use this plug to say that I ran a session of Grandpa’s Farm over there—
+Austin: You did.
+Ali: Me, Jack, and Janine did like, a little mini-campaign.
+Austin: Mhm.
+Ali: I’ve been hosting a monthly show called Gathering Information where I interview the cast of Friends at the Table about Friends at the Table.
+Austin: It’s a banger.
+Ali: Which is great.
+Austin: Yeah.
+Keith: I’m one of that cast.
+Ali: Yeah, yeah, yeah.
+Keith: I remember that.
+Austin: True, true.
+Ali: Uh-huh. So yeah, go support us. Go listen.
+Austin: Yeah, it’s really good. If you’re like, hey, I would love to hear people talk about some of the stuff that’s been popping off in PALISADE, that’s a good place to go do it, IMO. Also joining us, Art Martinez-Tebbel.
+Art: Hey, you can find work that I’ve done recently at friendsatthetable.shop.
+[Ali chuckles] [Austin hums]
+Art: By the time you’re hearing this, who knows how long that’s been on sale. But it’s still exciting. The COUNTER/Weight shirt is back after years.
+Ali: Mhm.
+Art: Years in the wilderness, of—
+Austin: True, yeah. We lost it for a while. It disappeared.
+[Ali laughs]
+Keith: Yeah.
+Art: Yeah.
+Austin: And we found it again, which is good.
+Art: The graphics from the PARTIZAN hoodie are back in a slightly different form.
+[Austin hums]
+Art: And a Twilight Mirage shirt that I think is just great. And also, the rest of the stuff. The beanie, the stickers, it’s all good.
+Ali: Mhm.
+Austin: Yeah. Love it. And Jack de Quidt.
+Jack: Hi, I’m Jack. You can find me on Cohost @jdq, and you can buy any of the music featured on the show at notquitereal.bandcamp.com.
+Keith: If I could put another plug out for Gathering Information, every time I’ve been on one of those, I leave it going, “I should have said less about that.”
+[Ali laughs]
+Keith: Which is how I know it’s a good show.
+[Jack laughs]
+Austin: Oh, I see. I see, I see. Okay.
+Keith: I will not learn my lesson.
+Ali: Sure.
+Austin: Right. No, I’m hearing as such, in fact.
+Ali: Happy to have you on again soon, Keith. [laughs]
+[Keith laughs]
+Austin: Oh, boy. You’re gonna get more out of Keith?
+Ali: Oh, yes. Uh-huh.
+Austin: That’s what I’m hearing. I’m hearing you’re gonna get more out of Keith.
+Ali: Yeah, uh-huh.
+Keith: I just don’t shut up.
+[Ali laughs]
+Jack: Ali, can you get him to do the thing where he reads out his credit card number to order a pizza?
+[Austin sighs]
+Ali: No!
+Keith: I’m finally going to complete it.
+Ali: No. [laughing] I hate that bit. It’s my least favorite bit.
+Austin: I hate that bit too. I hate that bit too, yeah.
+Art: [cross] That’s an antique at this point.
+[Keith laughs]
+Jack: It makes everybody so anxious. Me included, except Keith, and I always talk a big game about loving that bit when it is not happening, because as soon as it starts happening, I feel like I’m being stabbed by daggers.
+Austin: Yeah.
+Keith: And if I can, you know, if I can take credit for something, never had my identity stolen. Never happened.
+[Ali laughs] [Austin hums]
+Jack: Still fuckin’ scary, though.
+Austin: Yeah. Still scary. Today—
+Art: He’s gonna LifeLock guy himself.
+Austin: Oh my god. Wait, what was that about LifeLock?
+Art: The LifeLock guy was like, “I’m so confident in LifeLock that I put our—my social security number on this truck.”
+Austin: Oh, right. I remember that.
+Art: And like, drove it around New York or whatever, and then someone stole his identity, like, immediately.
+Austin: I wouldn’t have done that. Yeah, why—of course. Of course that’s what happened. That’s what happens.
+Art: Yeah, the real thing that—the real LifeLock product is, um, it’s insurance. They’ll pay for the shit that happens to you. This is—
+Austin: Oh, I see.
+Keith: Oh, so it was an insurance scam.
+Art: Yeah.
+Ali: Right, he gave his identity away. Nobody stole it from him.
+Keith: I would like to make it clear I am not committing insurance fraud.
+[Ali, Jack, and Art laugh]
+Austin: Good. I like that. Great to know that for sure.
+Art: I’d like to say, I’ve never had to say that.
+Austin: Today—
+Keith: I’m gonna start putting all my enemies in position [Austin: Nope.] to have to decline—say that they’re not committing fraud.
+[Ali laughs]
+Austin: God. Today, we are playing Mechnoir, which is a hack of a game called Technoir, both of which are by Jeremy Keller. We played this game years ago in a little show called COUNTER/Weight, at least for the first 9 episodes. And today, we are—you are cashing in the money in the bank, you are cashing in a thing—you, the listener, are cashing in a thing that you earned during our fundraiser for the National Network of Abortion Funds in 2022. We are finally letting you have the reward. You’ve been very patient, and so we are doing the—a Chime prequel. Is that what we sold—is that how it was sold as?
+Keith: Yep.
+Ali: Mhm.
+Art: Yeah.
+Austin: Is that what it was auctioned off as?
+Keith: I think it was sold specifically as “the Chime’s first mission”.
+Austin: Chime’s first mission. I love it. Fantastic. And I have the reason for why it is now, thanks to this wonderful game Technoir, which if you haven’t listened to COUNTER/Weight, I really think you should probably [laughs] start there.
+[Ali and Art laugh]
+Austin: That s—
+Art: Yeah, this isn’t—this isn’t—I know people love to listen to things in like, chronological order.
+Austin: Yeah.
+Art: Release order is always the best order to listen to anything.
+Keith: [cross] Austin is particularly a fan of that, I think.
+Austin: [cross] No. No, I’m the opposite of that, Keith.
+Keith: No, no, you love it when people—
+Austin: No—hm. [chuckles]
+Keith: You love watching the Star Wars movies straight through…
+[Ali chuckles]
+Keith: You love when people reorder [Austin: Yeah, uh-huh.] the Clone Wars cartoon.
+Austin: Yeah, yeah, yeah, in the order that events happened, yeah. Yeah, yeah, yeah.
+Keith: [cross] I can only think of Star Wars examples, but.
+Austin: History, I always read from the beginning forward, you know?
+Keith: Yeah.
+Ali: Can I just say something?
+Austin: Yeah.
+Art: Of course.
+Ali: If you haven’t listened to COUNTER/Weight, thank you for listening to this, and welcome. That’s all there is to say.
+Austin: No, they should go listen to COUNTER/Weight.
+Keith: [cross] But you’re being stupid.
+[Ali laughs]
+Keith: You’re being stupid.
+Art: You’re being stupid.
+Ali: No! Welcome to these characters, welcome to the system, hello.
+Austin: Oh, now you’ve—so here’s the thing, Ali. You’ve just set yourself up.
+[Ali and Keith laugh]
+Austin: Because now you have to play like this is the first time anyone’s ever heard Aria Joie.
+Ali: [chuckles] Sure.
+Austin: ‘Cause I was giving you—
+Art: Well, it’s actually eas—Aria’s the famous one. Spoilers if this is your first time.
+Ali: Hello. Yeah.
+Austin: That’s fair.
+Art: Again, I think you’re weird.
+[Ali laughs]
+Austin: We—
+Ali: Thank you for supporting—no, yes, go.
+Austin: We played this game, Technoir, for the first 9 episodes or so of COUNTER/Weight, and then we switched to a game called The Sprawl by Hamish Cameron. We really love both of these games. I think we were really—we really stumbled over certain parts of Technoir, but I never stopped loving it, and have in fact run it since then once or twice here or there. I really love this game, and I think that we are just better, and—well, I guess we’ll play to find out.
+Keith: [cross] Yeah, I was too green.
+Austin: Maybe we weren’t—maybe we’re gonna suck at this game again.
+Jack: What if we suck in—you know, you would hope that after essentially a decade, [Austin: Yeah] we would suck in new ways.
+Keith: We suck.
+[Ali laughs]
+Jack: But I think it would be especially funny if we stumble in exactly the same ways we stumbled before.
+Austin: Right.
+Jack: No learning. No lessons. [laughs]
+Austin: Despite currently playing a game that has a very similar thing to the thing that we stumbled over and we’re doing okay with it this season.
+Jack: Nope.
+Art: Not fifty percent of us.
+Austin: That’s true. You’re—yeah, I guess that’s true.
+Art: It would be gutting to me if we failed in the exact same way.
+[Ali chuckles]
+Austin: Well, let’s find out.
+Art: I would really take that personally. It would be devastating to me.
+Keith: It’s funny to take it personally. Like, not just seriously, but also, like…
+[Ali chuckles]
+Austin: Yeah. You would be upset at—
+[Keith laughs]
+Art: It’s hard to like, learn—
+Austin: Me? Who are you personally mad at? I—
+Art: Also me.
+Austin: Okay, okay.
+[Ali hums]
+Austin: Yeah, I gotcha.
+Art: We are our own worst enemies, Austin.
+Austin: Oh, I’ve heard this before.
+Ali: You don’t say.
+Austin: Yeah. So, before we jump into it, can we get a high-level recap of who you are playing as this mini-arc, this arc, for people who maybe don’t remember, [laughing] or for new listeners who decided to stick around. In which case, welcome.
+Ali: [laughs] Hi.
+[Keith laughs]
+Austin: You avoided my devious attempt to snare you with listening to 40 different episodes.
+Keith: Yeah.
+Austin: Or you’re back. Welcome back.
+[Ali laughs]
+Keith: Welcome back.
+Art: Yeah. Welcome back. If you’re back, welcome back.
+Keith: Welcome back. How was the last three months of your life? I hope you had a nice winter.
+[Austin laughs]
+Art: How’s the family?
+Austin: Who wants to start with who they’re playing?
+Art: Where are the character sheets?
+Austin: Under the sheets.
+Jack: Okay.
+Art: I think you’re lying.
+Austin: Someone has made more new characters again.
+Ali: I had to make my avatar right.
+Austin: Why didn’t—
+Ali: I can’t be Brnine in this chat.
+Austin: Okay. But why didn’t you—
+Art: Why is it when I click—
+Austin: [sighing] Okay.
+Art: —it says “edit Agru Nanob”?
+Austin: Wait, Ali, why didn’t you copy over the stuff from your sheet?
+Jack: I can’t see—
+Austin: You—y’all can’t see your sheets because you didn’t join this until today.
+Ali: I—no.
+Keith: Right.
+Austin: You already have sheets. Let me rename—let me just give you access to your sheets.
+Jack: I can see my—
+Keith: [laughing] I did accidentally make Tuyusiq Okefi.
+[Ali laughs]
+Art: [cross] I think I’m playing Agru Nanob.
+Austin: Oh my god. That’s… okay.
+Jack: Yeah, Keith sent a message on the 27th…
+Austin: Ali, I’m gonna make all of these visible by everybody so that everybody can see.
+Ali: Thank you. I noticed there were two Arias in there. [chuckles]
+Jack: Keith—
+Austin: So, wait, you did see an Aria before.
+Ali: No, no, no, because when I was like, I think I fucked up Roll20 because there’s now three Aria Joies in the, like, [laughing] chat dropdown.
+Austin: Oh my god.
+[Keith and Art laugh]
+Jack: Yeah, a couple of days ago, Keith mentioned our groupchat saying “I accidentally added two character sheets to my page.” Period.
+Austin: Uh-huh.
+Jack: “Shouldn’t be a problem, but also I don’t see a way to delete them.” New message: “Abowti Piden and Gapraxo Lamo.”
+[Ali laughs]
+Austin: Uh-huh.
+Keith: [laughing] Yeah. I accidentally did make Tuyusiq Okefi. Kefi.
+Austin: Can y’all now see your—
+Keith: Yes, I can see Mako Trig there, yes.
+Art: I can also only see Mako Trig—
+Ali: Yeah. [laughs]
+Austin: Okay, I’m working on it.
+Art: —and the character I’m playing today, Agru Nanob.
+[Keith laughs]
+Austin: I’m about to delete Agru Nanob, so.
+Art: No!
+[Ali and Keith laugh]
+Jack: Wait, Austin—
+Keith: [laughing] If you press the plus—
+Austin: Farewell to Agru.
+Art: I’ll never remember the name Agru Nanob if it’s not in front of me!
+Austin: It’s gone.
+Keith: There’s a button—there’s a button in the Roll20 that sort of looks like if you press it, it will, like, unshrink everyone’s name.
+Austin: Uh-huh.
+Keith: It just says plus character, and if you press it, it auto-generates a character name.
+Austin: Yeah, yeah.
+Keith: Even if you press cancel, it will not—
+Austin: Yeah, it’s—they’re there.
+Keith: Yeah.
+Austin: It’s—they will never—yeah, uh-huh.
+Jack: Wait, I can see everybody’s character. I can see Cass, AuDy, Aria Joie, brackets, “Precious Bell”, and Mako Trig. My character sheet for AuDy shows that I have 1500 harm already.
+Austin: Excuse me?
+Ali: I can’t see Aria.
+Austin: Where do you—where are you looking at harm?
+Art: I also can’t see Aria.
+Jack: Yeah, what—I’m in the—
+[Ali chuckles]
+Austin: What do you mean you can’t see Aria? Oh, okay, wait. Aria, saved. There we go.
+Ali: [laughing] I can only see Busk.
+Jack: I’m in the—I’m in the COUNTER/Weight—[laughs] Who is Busk?
+Austin: You’re—uh, Jack.
+Jack: Yeah.
+Austin: You are not in the right game.
+Ali: Huh? [laughs]
+Jack: Oh…
+Keith: There’s a different game. There’s a different one, you’re not in here.
+Austin: [cross] Yeah, there’s a different one that you are not…
+Ali: Austin, thank you for importing these, uh…
+Austin: Uh-huh. You remade Agru Nanob.
+Art: [chuckles] I realized he was still up on the thing, so I just saved it.
+Austin: Gotcha. Uh-huh. Alright, everyone’s been—everyone should be able to see everybody’s character sheets.
+Character Summary
+[13:11]
+Austin: So, can we get introduced to your characters? Or reintroduced? Really quick, part of the reason why I’m like “Hey, go listen to the other stuff first,” is because, like, we might spoil it.
+Keith: Right.
+Ali: Sure.
+Austin: I’m gonna not not spoil COUNTER/Weight during this. You know?
+Ali: [chuckles] Yeah.
+Austin: Does that make sense?
+Keith: Sure. Yeah.
+Austin: So like, you know.
+Art: Yeah.
+Austin: Potentially, it’s worth going to listen to that stuff so that you don’t know, like, how the show ends. Because if we hit something that’s like…
+Art: Because we’re in the future.
+Austin: Right. We are—right. We know what’s going to happen.
+Jack: We know.
+Austin: We know.
+Ali: The characters don’t.
+Austin: But the characters don’t.
+Art: Right.
+Austin: But if some, like, particularly cool thing happens, you know.
+Jack: Friends at the Table’s oldest, dearest friend dramatic irony can make its appearance.
+Austin: Exactly, yes. Exactly.
+Jack: I will begin by saying that in COUNTER/Weight, we play the Chime. A team of four plus some friends. Sort of mercenary/odd job crew. In—on the planet of Counterweight, in—largely in the city called Centralia, which is kind of like a large city in a dome, but we head out across Counterweight to complete missions, solve objectives, find missing people, and make a buck in order to repair our—I don’t even—I don’t know if we have it yet. We probably do. We’ll find out, I suppose—bucket of bolts ship, the Kingdom Come. I am playing Automated Dynamics, shortened to AuDy, who has they/them pronouns. AuDy is the pilot of the Kingdom Come. They are a former parking robot. They parked cars as part of a unit of Automated Dynamics robots. They were not sentient as a unit, they just—you showed up, you, I guess, swiped your card, the robot got into your car, and parked it in the garage, and then I have to imagine they did something like they sat motionless in the car until it was time for your car to come back, at which point, they just drove the car back. For reasons—
+Art: Oh, that’s so many robots.
+Jack: It would require—as I say it, it would require so many robots, but also, I don’t know. I feel like there is something so—
+Art: I mean, we establish in the show that robots are expensive.
+[Ali chuckles] [Austin wavers]
+Jack: Yes, that’s true. That’s true. Maybe there’s…
+Austin: It depends if they’re people.
+Jack: The COUNTER/Weight—
+Art: See? See, if you didn’t leave, I just ruined a joke for you.
+Austin: Yeah, uh-huh. See, this is—you’d miss this.
+[Ali chuckles]
+Jack: The COUNTER/Weight answer is probably that there is some algorithm that determines whether it is more efficient for the robot to remain in the vehicle or get out and park another vehicle, with the idea being that the time spent for the robot walking from the charging station to the vehicle could be wasted time when the car could move more easily. Anyway, for reasons—
+Art: God, in my lifetime, I hope that that algorithm gets put to use for human parking valets.
+Jack: Hm. I don’t… hm.
+Art: Like, go just chill in the car.
+Jack: Yeah, go chill somewhere.
+Art: Go sit in that hot car for a few hours. [chuckles] It’s not efficient for you to come back.
+Jack: Yeah, go chill—[chuckles] maybe not in the car, I don’t know. For reasons unknown and mysterious, AuDy recently found themselves fully sentient. They gained consciousness midway through parking a car and decided, “That’s quite enough of that, thank you,” and signed on with various outfits to act as a pilot, or act as muscle, or, again, a sort of odd jobs person. They are, probably even at this point, close friends with someone called Cene Sixheart, who is a robotics specialist who they look to for help, and they also have a working relationship with a man called Orth Godlove, who is a kind of city bureaucrat. And that’s AuDy.
+Austin: That’s true. Who’s up?
+Ali: I guess since I assumed this would be really easy to go over, I can say that I am playing Aria Joie.
+Jack: Woo!
+Ali: Aria’s—[chuckles] Aria’s pronouns are she/her. Aria was once, famously, [chuckles] shorthanded to “What if Han Solo used to play Beyoncé?” But to sort of stretch that explanation out a bit, what if you went to Disneyland and there was a woman there who did live music performances to promote war propaganda [Austin chuckles] with a dancing war machine behind her, and she was really famous, and Disneyland was an entire planet…
+[Art laughs]
+Ali: So she was like, not that famous, you know? ‘Cause it’s a whole planet, it’s this corporation.
+Austin: Mhm, mhm, mhm.
+Ali: And then she, like, through not getting her contract renewed, or just, you know, you know… I don’t know. Lost her job, and then, [chuckles] you know, was just out on the streets and making money doing jobs for people. [chuckles] And that’s Aria Joie.
+Jack: But there’s no more—there’s no more Aria Joie songs, right, Ali? Aria Joie is no longer performing, or…
+Ali: Well, it’s really interesting talking about COUNTER/Weight in 2023 with some of the questions of, like…
+[Austin and Jack laugh dryly]
+Ali: …contracting, or AI, or visual rights, or after the tragic downfall of Loona, so, for Aria, there is—well, like, the—spoilers for COUNTER/Weight—sort of the friction of what had happened to her was that she, like, changed her government name because of this contract. So Aria Joie is her legal name, but also something that… OriCon?
+Austin: Mhm.
+Ali: What was that called?
+Austin: OriCon.
+Ali: OriCon, and then what was the name of the world?
+Jack: [cross] EarthHome.
+Austin: [cross] Joypark.
+Jack: Yeah, Joypark.
+Ali: [chuckling] Joypark, yes, of course. Joypark.
+Austin: Yeah, EarthHome. EarthHome Joypark.
+Keith: Yeah.
+Ali: EarthHome Joypark, yes.
+Keith: Like Space Jam. The whole planet’s the park, right?
+Ali: Uh-huh, right.
+Austin: That’s correct, yeah.
+Ali: They own her name and her likeness and her voice, so music is still being produced by that performer, she is just not the one performing it. She did—this is a weird thing, because now I’m remembering the beginning of COUNTER/Weight, and she already has—she, like, got away with her mech.
+Austin: She did.
+Ali: And presumably has it now, still.
+Austin: Yeah, I’m not changing anything that you had.
+Ali: [laughing] Okay.
+Austin: Like, we’re not—I’m not taking things away from when you made your characters, right?
+Ali: Okay, sure. Sure.
+Austin: Which includes the Kingdom Come for your thing, AuDy.
+Ali: Yeah. So she was at least able to smuggle that off of the park. Maybe they had it just in a warehouse somewhere because they had replaced it and she got rid of it. And then her relationships were she also had a relationship with Cene Sixheart, and also had a relationship with Jamil…
+Jack: Quartz-Noble.
+Austin: Correct.
+Ali: Quartz-Noble, [Austin: Correct.] who is a local journalist?
+Austin: Yep. Correct.
+Ali: Okay.
+Art: God, the Aria stuff. You ever come up with a science fiction horror and then it happens less than ten years later?
+[Ali laughs]
+Keith: Yeah.
+Austin: There’s a bunch of that stuff in COUNTER/Weight that’s like…
+Jack: It’s wild.
+Ali: [sighing] Uh-huh.
+Jack: We do a whole self-driving car thing, we invent NFTs…
+Austin: Yeah, yeah, yeah. We do—yeah, NFTs was the wild one, I think.
+Keith: I do want to—I do want to just look at some COUNTER/Weight and PARTIZAN/PALISADE rhyming with the person getting paid by the military industrial complex, and then they stop getting paid, and they’re like, “Fuck the military industrial complex.”
+[Ali laughs]
+Austin: Yeah. It happens.
+Jack: How it goes sometimes, yeah.
+Keith: Yeah.
+Austin: Mako? How about you?
+Keith: Yeah, we can talk about Mako. Mako Trig was a, um… sort of—what do you, uh… an indentured student at the September Institute?
+[Ali laughs]
+Austin: Mhm.
+Keith: Who specialized in a kind of magic hacking called fogging, and was able to escape this school to become a petty-to-medium criminal/mercenary, I guess?
+Austin: Yeah.
+Keith: Yeah, we were mercenaries. Yeah.
+Austin: Yeah, more mercenaries than—you do some crime stuff, for sure, but.
+Keith: Yeah.
+Austin: It’s kind of a, you know. You’re shadow runners, that’s the thing that’s happening here, right? You’re skirting the line between mercenaries and criminals. Sometimes a mercenary’s a criminal, you know?
+Keith: Yeah, yeah.
+Austin: You’re not a criminal unless you get caught, that’s my understanding.
+Keith: Sure.
+Austin: Yeah.
+Keith: Or unless you take seriously the people who are telling you that what you’re doing is a crime.
+Austin: Right, right, right. Yes, yeah, sure.
+Keith: And it’s very easy for Mako to not take someone seriously.
+Austin: Mhm.
+Keith: Let’s see. Is there anything else about Mako that I remember?
+Austin: Blue skin, lightly blue skin, a thing that we probably forgot by the end of it all.
+Keith: Yeah, Mako had blue skin, sharp teeth, wore a slew of outfits—the most outfits I’ve ever had a character wear by far.
+[Ali laughs]
+Austin: That’s probably true. That’s probably true.
+Keith: But I think mostly was wearing, like, jeans and, like, a t-shirt and a flannel.
+Austin: Is that true?
+Art: Oh, if you go back, that’s not true.
+Austin: That is not true.
+Keith: Is that not true?
+Austin: [scoffing] There’s no fucking way.
+Art: Mako is your most nips out character by far.
+Austin: [laughing] Yeah.
+Keith: Well, any time—any time I described something else that I was wearing, it was nips out.
+Jack: Here is what I picture Mako wearing.
+Austin: You’ve talked about future flannel, is what you’ve talked about before.
+Keith: What’s future flannel?
+[Ali laughs]
+Austin: You know, Keith?
+[Keith and Art laugh]
+Ali: I—
+Jack: In my brain, Mako is wearing a translucent blue sort of almost like vinyl crop top.
+Austin: Yeah.
+Ali: Well, this is at a party. That’s a different situation.
+Austin: Yeah, that was at a party. That—yeah.
+Art: Sure. But it’s like—
+Ali: In Keith’s defense, the like, most popular Mako, like, art that you see is usually Mako with the hoverboard—
+Austin: I’m—mhm. Yeah. Doesn’t have that yet, by the way.
+Ali: With like, some—right. [laughs]
+Keith: Doesn’t have it.
+Austin: Yeah.
+Ali: With some sort of, like, t-shirt and, like, an open button-down.
+Austin: Sure. Which is, I guess, the flannel.
+Art: But—
+Ali: And like, a backwards hat. Yeah.
+Austin: Yeah.
+Art: But Mako Trig ran so that Grand Magnificent could run…
+Ali: [laughing] Sure.
+Austin: Wait.
+Art: Until he passed out.
+[Jack laughs]
+Austin: I see. Okay. Yeah, yeah, yeah.
+Keith: Can I say… [chuckles] “Keith: Oh, I was thinking—I was thinking, in my head, also, I have, like, future flannel? Imagine flannel, but for the future.”
+Austin: Yeah.
+Keith: “Ali: (softly) Okay. Ali and Jack laugh. Austin: I am—okay, yep.”
+Austin: Mhm.
+Keith: Jack says, “It’s the size of a car.” Austin says, “I can see why you’re Lazer Ted’s best friend.”
+Austin: Uh-huh.
+Keith: “Ali laughs. Keith: (laughing) Tomorrow, this is—I’m wearing tomorrow’s flannel.”
+Austin: Uh-huh.
+[Ali and Jack laugh]
+Keith: There’s no other—[laughs] noth—[continues laughing]
+Austin: Uh-huh. You then put it on someone else. The point, also, this is a scene in which you are being healed—you were—someone’s ripping the flannel off of you so that they can turn it into a—
+Keith: Oh, for a—to a bandage, yes. Yeah.
+Austin: Into a bandage, yeah, uh-huh.
+Keith: Yeah.
+Austin: And you just say outright, you’re like, fanart—a fan will figure out what it looks like.
+Keith: [laughing] I do. Yeah.
+Austin: So.
+Keith: [cross] And I can’t—I can’t tell you if they succeeded.
+Austin: And then I want to give you credit for something really quick.
+Keith: Yeah.
+Austin: Because two episodes after this, I ask what you’re wearing. And you say, “Jean shorts, a yellow t-shirt, and then a pink and grey flannel with one sleeve rolled up, and the other just ripped off.”
+[Ali laughs]
+Keith: Nice.
+Austin: And I’m guessing you remembered that it was ripped off to bandage you.
+Keith: Yeah. Probably—that’s almost for sure what it had to be.
+Austin: Yeah. Mhm.
+Keith: That’s great.
+Austin: Yeah.
+Jack: That’s great.
+Austin: Yeah.
+Keith: I give a color, too. It took—it only took me a couple sessions, but I did come up with that.
+Austin: Yeah. To get to pink and grey.
+Keith: Yeah. And yellow—it was yellow, right?
+Austin: Yeah. Mhm, mhm.
+Keith: Yeah.
+Austin: And then, yeah, the word flannel then appears a bunch with—a couple times, I guess, with Grand Magnificent, so. There is a throughline there. Art, speaking of your characters.
+Art: Yeah.
+Austin: Talk to me about your character.
+Art: This is one of them.
+Ali: Mhm. [chuckles] You don’t say.
+Austin: Flannel?
+Art: Yeah. This is maybe the least flannel…
+Austin: Oh, yeah.
+Art: …character I’ve ever played.
+Austin: Is that true? I think it’s… I think it’s a crapshoot for me between this one and Duvall. It’s hard for me to imagine Duvall in flannel.
+Art: [hums] Sure.
+Austin: But that world is more flannel, so.
+Art: Yeah. Fair enough. I’ve…
+Austin: But, yeah, you’re right.
+Art: Let’s leave it to the audience—
+Austin: I think you’re right.
+Art: The audience can make a flannel axes and plot all the characters…
+[Ali chuckles]
+Austin: Yeah, yeah, yeah.
+Art: They’ll have a great time doing it.
+Austin: I don’t know what the other axis is on that. I don’t know what the other…
+Keith: “How much does flannel even exist here” versus “how likely are they to wear flannel”.
+Art: [cross] They’ll call it Flannel-ruary and they’ll figure out everyone’s flannel…
+Austin: [cross] Oh, Flannuary. Yeah, yeah, yeah. Of course.
+Art: …proclivities for the entire show—the entire run of the show. Everyone.
+Austin: Yeah.
+Art: Flannel-ruary. I’m—that’s good, I’m…
+Austin: [chuckles] Oh my god. Talk to me about Cass.
+Art: Cassander Timaeus Berenice is the non-inheriting scion of the royal House Pelagios. Cass’s pronouns are most simply they/them, it was more complicated back then, and we communicated poorly, so for the purposes of this, it’s they/them. Cass is, like I said, a non-inheriting scion of a fish-people empire.
+Austin: Mhm, mhm, mhm.
+Art: Back then, these weren’t fish-people. I was really explicit about how not fish-people they were.
+Austin: Yeah. They’re fish-people now, though.
+Art: And I lost.
+Austin: Yeah.
+Art: So now they’re fish-people.
+Austin: Yeah, yeah, yeah.
+Art: There was a war. For a minute, it looked like Cass was going to be emperor, and then they were not.
+Austin: Yeah.
+Art: And now they’re hanging out on Counterweight, sort of half in hiding, half [chuckles] being a mercenary.
+Austin: Yeah. I think, importantly, we always kind of set Cass as like, the—not the leader, but the most, like, world—not world-weary, even, but most…
+Keith: Worldly?
+Ali: Most experienced, yeah.
+Austin: Worldly, or most experienced. Had fought in a war, I think, importantly. Right?
+Art: Yeah, I think no one else fought in the Golden Branch war.
+Keith: Can I ask a clarifying question about the fish thing?
+Austin: Yeah.
+Art: Yeah.
+Keith: My memory of it was that it was basically like, our people assert that they are Atlantians…
+Art: Yeah. Uh-huh. And I think we were pretty explicit in COUNTER/Weight that it was a lie.
+Keith: My memory was that it—that no one knew…
+Austin: [cross] They—that is a lie. That part is true. It is a lie.
+Keith: It is a lie?
+Austin: Yeah.
+Keith: Okay.
+Austin: That they’re Atlantians?
+Keith: But they could still be fish-people without being literally Atlantians.
+Ali: Yeah, I thought it was some of the, like—
+Austin: [cross] Yeah, they are fish-people. They came—
+Ali: —maybe they’re aliens saying that they’re from Earth for clout.
+Austin: I mean, we know exactly where they came from at this point in the season.
+Ali: [laughing] Uh-huh. Fair.
+Austin: By the end of COUNTER/Weight, it is clear where they come from.
+Keith: Okay.
+Austin: They are not from Atlantis.
+Ali: Wow.
+Austin: They are descended from humans, but they are also fish-people. Which is to say, some other shit happened.
+Art: Allegedly.
+Austin: [scoffs] Okay.
+Ali: In Brnine’s defense—
+Keith: [cross] I don’t think that rules out Atlantians.
+Art: Teach the controversy.
+Austin: Uh-huh.
+Ali: In Brnine’s defense, the only reason I made Tender a catgirl was because of a COUNTER/Weight planet that Jacqui is from [Austin: Correct.] where people were doing, like, hyper-human engineering.
+Austin: Yeah.
+Ali: And it was like, on a long enough timeline, if people did this, catgirls would exist, and I—
+Austin: Which is true.
+Art: Oh, I thought you were just doing “cat beats fish”.
+Ali: No.
+Austin: What?
+Ali: What?
+[Keith laughs]
+Ali: What? [laughing] What?
+Art: Cats—cats beat fish.
+Austin: Oh my god.
+Keith: Cat beats fish. You know.
+Ali: Okay, I don’t know what that means.
+Art: I thought you were just one-upping…
+Keith: It’s tomorrow’s Rock Paper Scissors.
+Austin: Ohh.
+Ali: Okay. Well, um…
+Austin: What’s the third one? What beats cat? Dog.
+Art: Dog.
+Keith: Dog.
+Austin: Fish—
+Art: Dog beats cat, fish beats dog.
+Austin: Fish beats dog?
+Keith: Right, and it doesn’t make sense, but it also doesn’t make sense that paper beats rock. You know what I mean?
+Art: Yeah.
+Austin: No, paper covers rock. What do you mean?
+Keith: So it actually works better that it doesn’t work.
+Austin: I don’t—
+Art: Fish covers dog.
+Austin: Fish covers dog. I see. Yeah, yeah, yeah. Now I understand. Yeah, yeah, yeah. Well, a fish would lure the dog into the sea, where it is weaker than the fish.
+Keith: Right, because dogs are mentally weak.
+Austin: They’re, like, curious, yeah.
+Art: Yeah.
+Austin: Everybody—“as curious as a dog” is the saying.
+Art: If you go on TikTok and put like, dogs and fish, I think you’ll see fish getting the upper hand most of the time.
+Austin: Yeah, that’s probably true. Anyway.
+Ali: Brnine has gills because of a long timeline of…
+Austin: By the time we get to Twilight Mirage, they were fish-people.
+Ali: Yeah.
+Jack: And—
+Austin: We get, you know. I think even by the time we finish COUNTER/Weight I had already made that call.
+Jack: To be fair, the Apostolosians have a lot of nautical imagery associated with them, and oceanic imagery.
+Art: Mhm.
+Jack: They have ships that have big sails, they have lots of, like, Grecian sort of nautical aesthetics…
+Austin: Mhm. Yeah, yeah, yeah. Yeah.
+Jack: It’s in there.
+Austin: As we’ll see today.
+Jack: Oh, god.
+Art: Oh!
+Austin: Because today, we are going back to Counterweight, and to a new part of it. Y’all want to jump into it?
+Ali: Can—
+Austin: What’s up?
+Counterweight Summary
+[30:45]
+Ali: Can we talk about what Counterweight is for a second and just the sort of place that it holds in society?
+Austin: Sure. Yeah, absolutely. Counterweight is the point where the sort of climax of the Golden War happened, a war between, on one side, the expanding Apostolosian Empire, and on the other side, a pair of rival empires, the People’s Conglomerate of Orion, aka OriCon, or the Orion Conglomerate, and on the other side, the Autonomous Diaspora, which by the end of the show, we often also call the Automated Diaspora a lot, but was the Autonomous Diaspora. OriCon was once a kind of worker’s revolutionary state, and has long since changed into being a kind of neoliberal post-Fordist nightmare capitalist hellscape. And the Automated Diaspora was—became a sort of, you know, algorithmically and—[exhales] god, it’s wild to think about it now, but like, a sort of democracy built on constant digital interaction, a sort of like, what if everyone’s favorite website was, like, a version of Twitter where all you did was vote, was the short version of the pitch.
+And is effectively led by a type of being called a Divine, which are algorithmic beings often put into giant robotic bodies, many of which look like humans, but not all of them. And these Divines are meant to represent, you know, important qualities in the world, things that we believe in, like Righteousness, or Grace, or Determination, or Detachment. Right? This kind of broad collection of virtues or emotional attributes that represent the things that make up the people in the world. You know? They’re not always as simple as virtues, you know, but they are a sort of like, here is a perspective that’s important for a good democracy.
+Those two groups had been at war in the past, had come to peace over a previous enemy, a monstrous being called Rigour, and now they faced a new threat in the Apostolosian Empire as the three of them met in a star sector called the Golden Branch, which exists where two arms of the galaxy, the Sagittarius and Perseus meet, at least in the maps of the galaxy we were using in 2015. [chuckles] Today we use a different map where those two arms don’t really meet in the same way, but don’t worry about it, it’s fine.
+Keith: Hey, stars move and stuff, right?
+[Ali hums]
+Austin: Sure. Yeah, sure. A hundred percent.
+Art: Stars move all the time.
+Austin: That’s—they’re literally always moving, yeah, uh-huh.
+Keith: They’re constantly moving. Rotating around the Earth once every day.
+Austin: [scoffs] That’s—that’s what they’re doing.
+Art: Nope.
+[Keith laughs]
+Austin: Mhm. Counterweight is at the very middle of the Golden Branch star sector. It was a sort of, you know, fork in the crossroads, fork in the road, I guess, a crossroad point of careful, difficult peace after this war, very much in the sort of film noir Cold War style of story. More film noir at the beginning than, like, an espionage story, right? We weren’t doing James Bond stories, really, but we were doing The Third Man, right? We were doing “meet a weirdo in the park and not be sure which side they’re working for, but they have information you want, or they want you to give them information, or retrieve something from them.” It is a collection of domes, because during the Golden War, this whole planet was destroyed. It was ruined, devastated, it became toxic to live outside. There are trillions of people on this planet living on big domes, and some people, somehow, living outside the domes in certain key places.
+That’s the kind of short pitch. It’s a cyberpunk world, Technoir and The Sprawl are both cyberpunk games drawing on the work of William Gibson, films like Blade Runner, anime like Ghost in the Shell. We leaned really hard in that direction, especially early. And then also, obviously, with giant robots brought in, influences from things like Mobile Suit Gundam, Votoms, you know, Patlabor, things like that. So, huge—huge, wide range of touchstones, and that’s Counterweight. That’s kind of the short version. Above Counterweight, there’s another planet. There’s a planet that appeared in the final moments of the Golden War, and that planet is blue and green and perfect. It is called Weight, and it is under close control by OriCon and the Diaspora.
+Ali: Oh, yeah.
+Austin: And no one’s allowed to go live on it. And most people don’t get to look at it, because the domes—because at this point, the domes are these kind of grey things that kind of hide, like, dilute—or not dilute, but you know—
+Keith: Obscure?
+Austin: —desaturate the color, but—yeah, they obscure it, basically. But you can still see it, the form of it, you just can’t see the blues and the greens. And eventually, the BluSky Domes get rolled out, and you just straight up wouldn’t even know it’s there because it’s a fake cyber sky all around you instead.
+Jack: Very pleasant sky.
+Austin: Yes. Exactly.
+Jack: Nice blue…
+Austin: Yep. Mhm. So that’s the short thing, you know, and it’s a… you know, lots of powers that are technically at peace, but working against each other. Remnants from the Apostolosian Empire, which at this point has been pushed back to its homeworld. Elements of a group called the Rapid Evening, which is a, at this point, a spy organization, part of a thing called the Principality of Kesh, which tries to tip things in their own balance, and keep things from blowing up again, because they’re kind of a—they see themselves as sort of like, the space, you know, CIA or something. Not the good guys.
+Keith: And they run like a weird, closed planet where everyone is kept at, like, year 10—year, like, 1000 technology, right?
+Austin: It’s past year 1000 technology. It’s like, year 1900 technology.
+Keith: Okay.
+Austin: It’s like Victorian, is kind of where we, you know, gestured with that. And to be clear, they’re not kept there. They choose that.
+Art: Hey, um—
+Austin: That’s an important thing is that the people there know about the rest of the galaxy.
+Keith: Oh. I forgot about that.
+Austin: And they choose that. This is how it becomes on cycle, eventually, right?
+Art: Um—[1]
+Austin: That’s—they decided it would be better to live in this fucked up [scoffs] broken backwards ass system. Anyway. That is what Counterweight is, it’s what we would explore for the bulk of the season. Not all of it, we eventually, of course, leave Counterweight behind. But today, we are back on Counterweight, though in a new place. Look at the map in front of you, which many of us have not probably seen in years. Do you notice anything weird about it? Is there anything here that you’re like, “I don’t know what this is. I don’t know why the map does this”?
+Keith: There’s a black line.
+Austin: That we know.
+Keith: Okay.
+Jack: Let’s see. That is the line—the line Keith is talking about is the broken starlight express—
+Austin: Starlight Straight.
+Jack: Starlight Straight line.
+Austin: Yeah, yeah.
+Jack: That—Starlight Express is the Andrew Lloyd-Webber musical—
+[Austin and Ali chuckle]
+Jack: —that goes out across a canyon to an abandoned dome, question mark.
+Austin: Mhm.
+Jack: Of course, we know that that is not an abandoned dome, it is the home of Sister Rust and her Choir. Let’s see… We have the BluSky—
+Austin: Also, it’s not a canyon, it is a—it is a dried-out seabed. Because, of course, that is Seabed City.
+Jack: [cross] It is Seabed City. 
+Austin: Yeah.
+Jack: We have the BluSky Dome in the north—
+Austin: Not built yet. Not finished. Not blue yet.
+Jack: —east. Not finished, the unfinished BluSky Dome.
+Austin: Yeah.
+Jack: We have the Metta Dome in the southeast, I recognize that dome.
+Austin: Uh-huh, yeah.
+Jack: Then we have a series of numbered domes. We have the Krilham C-E-D, that is an entertainment district. I think it’s the central entertainment district.
+Austin: Commerce and entertainment district.
+Jack: Commerce and—that place fucking sucks.
+Austin: But I famously couldn’t remember what the D stood for, I couldn’t remember that it stood for “district”. [chuckles]
+Jack: For “district”. [chuckles]
+Austin: And so I kept trying to come up with things that “D” meant, like dancing.
+Jack: Oh, yeah.
+Austin: Or that it meant, like, “come enjoy days”. You know?
+Keith: Commerce, entertainment, and dancing.
+Austin: Yeah, uh-huh.
+Jack: I think there is a beach in the Krilham C-E-D dome.
+Austin: I think that’s right. I believe we did a—we did that, yeah.
+Jack: There is the Rethal-Addax memorial spaceport—
+Austin: Of course.
+Jack: —so named after the two war heroes of the Orion Conglomerate and the Diaspora joining together. Now, the ones that are odd to me, or that I am less sure about, is we have the OriCon Expeditionary dome, and the Diaspora dome. I have to imagine those are the sort of [Austin: Yeah.] semi-segregated housing for each of the two parts. And then we have Dome 7, Apostolosian refugees.
+Austin: We—Orth fed a bunch of people there once.
+Jack: Okay.
+Austin: Yeah.
+Jack: So one of these numbered domes…
+Austin: Well, or just look at the way the map is laid out. Look if there’s any sort of absences. Any weirdness.
+Jack: Oh, shit. Yeah. A dome is completely missing.
+Austin: Yeah.
+Jack: There are two lines of Starlight Straight running between Dome 2 and Dome 23 in the northeast, [Austin: Yeah.] and in the middle where there should be a dome, there is not.
+The Sill
+[40:35]
+Austin: Well, that is where the Provisional Diplomatic Cylinder, or the city of Sill, is. Which is what I described during the intro. The short version, just to reiterate some of that stuff, this is a long, cylindrical habitat, you know, it’s like a—it’s a city in itself, a small city, the way that the domes across Counterweight are, but instead of a dome it is a low cylinder—a comparatively low cylinder, it’s still big enough for buildings to fit in there, right? But it’s not the supermassive, super tall skyscraper buildings that are in some of the other domes. And it’s long and flat, it’s climate-controlled, it predates the war, it was supposed to be a sort of diplomatic, you know, embassy center for the Apostolosian Empire, it was supposed to be a place where the OriCon and Diasporan envoys could come, you know, to do business. In fact, one of the central structures was the sort of general assembly complex for what would have been a sort of unified Golden Branch government, sort of like a UN complex.
+That is now a casino, like, that structure, the offices there, [chuckles] have been turned into hotel rooms, and the big assembly center has been turned into, you know, a huge slot machine center, and you know, you can go play the horses, and you can go, you know, bet on all sorts of stuff. It is a casino, we are here yet again in the casino, I can’t escape it.
+And there’s some other stuff here that I didn’t get into, maybe. Worth saying really quick, I talked about the Ithikos family in the intro, the sort of mafia family, the mob family, the Apostolosian mob family that runs the Sill, but there is also, you know, the CCT is here, the Consolidated Counterweight Technocracy is here, they technically run it, and I’ll talk more about that in a little bit. There is also some Diasporan and OriCon interests here. You know, they have some folks here who are looking into their stuff. There are some other Apostolosian groups besides the Ithikos family. There’s a group of young, kind of like a young gang of war orphans called the Revenants that think of the Ithikos as almost like relics that need to be replaced.
+And then there is the Tourist’s Union, which kind of has the claim on advocates, advocacy and defense of any visitors or guests here, any high rollers who want to come bet at the Cerulean, which, again, is the name of the big casino. And then they take a cut from all the guests. Basically, all travel into the facility has to go through the Tourist’s Union, or it’s like, security’s handled by CCT, but then the Tourist’s Union handles all booking and transit and all that stuff, so you’ll have to deal with the Tourist’s Union, also.
+Anyway, that’s the Sill, and you’re headed there today, hired by one Orth Godlove for your first mission. Trying you out. And the thing is, normally, Orth wouldn’t work with untested people, but it’s the fact that you have no record inside of the CCT that makes you perfect for this. Because Orth’s a little concerned about how the current CCT administrator is running things, or really, more what the current CCT administrator of the Sill has gotten themselves into.
+A message was sent saying that the administrator of the Sill—this person who technically is there in charge of things, kind of like a mayor, but more of a bureaucrat, and even more in reality someone who kind of just kicks back and cashes the check and like, plays the slot machines and the horses—one Coffee Affogato, has been arrested, in effect, by the Ithikos family, has been detained inside of the casino security. And you’re being sent to find out why. That is the immediate set-up. You’ll note that over here on the—let me move you over—on the map screen, there are two maps.
+Art: Oh!
+Austin: There’s a map of the area, and you can kind of get a sense here of what the Sill is. You know, it’s partly called the Sill because it’s a cylinder, it’s a long, you know, a ground-based cylinder. It’s also kind of like a windowsill type of situation, because like, if you imagine, like, the big window looking up into sky. It’s long from east to west, and there were two entryways to this thing originally. There was a front gate on the east, or an eastern gate, and a western gate. Right? Those gates are big. Those gates are huge airlocks that you would move entire ships into, you would land ships there, and then—or, you know, freight, or trains, or cargo, you know, trucks and stuff like that, and then you would wait for the daily opening, and you would be able to go from the kind of interior airlock into the body of the cylinder. And then that would also happen on the western end. So there’s an eastern and a western entrance point, or maybe it would be like southeast and northwest, based on the direction of the previous map, you know?
+But today, there is the front gate, where visitors line up to come inside, and then the west gate has been completely taken over and turned into a campground. I will talk more about that, I’m sure, at some point. Also here on the kind of actual Sill map, there’s a big area called the Agora, which is an agora, it is a marketplace and, you know, a park, and a venue for live music and other stuff like that. There is the embassy district where the OriCon and Diaspora folks used to come and stay, and then there is the Cerulean, which, again, it looks like a single building here, but think of it as like, the UN, like, complex. Yes, there’s a big building, but there are also other smaller buildings as part of it that has been totally taken over and turned into a casino by the Ithikos family.
+You’ll also note that there is the classic Technoir plot map up on the top, and there are a few things here on there. One is your connection to this place, Orth Godlove, who has a connection to Coffee Affogato, they are peers, they’re both members of the CCT. And then Coffee has a connection to two other things: the Cerulean VIP card, and Cameron McLeod. Importantly, for people who don’t remember this, or for people who are listening for the first time, Technoir is not a game where I have come up with a mystery that is going to be solved. Technoir is a game where I have built what’s called a transmission. A collection of, I guess, 36 things. 6 connections, 6 events, 6 factions, 6 locations, 6 objects, and 6 threats.
+And then using a randomization, like a—rolling some dice, I got this set of 3 starter mystery objects. One of them is Coffee, who is a contact, or connection, one of them is the Cerulean VIP card, and one of them is this person named Cameron, Cameron McLeod. For people who are truly deep cut fans of Friends at the Table, who have read the kind of pusher tier background stuff, the name Cameron McLeod might actually be familiar, and so may some other ones, because some of this transmission originates in the half of a transmission I ran in Technoir for a while that I made before COUNTER/Weight. And I took about half of that and turned it into COUNTER/Weight. You know, a lot of people, I think—we often tell the story of COUNTER/Weight as beginning with that Titanfall match, right? And that’s like, not wrong, right? The words “Divines” and “riggers” start there.
+[Ali chuckles]
+Austin: But, let me tell you. If I do a search in my Google drive for “transmission”, for Technoir transmission, I have a cyberpunk Atlantic City thing here that includes the following two factions, and these should be pretty clear right away. “The Federation: The Federation of northeastern metropolitan city-states is an authoritarian yet benevolent government comprising New York, New England, and Toronto. It seeks to add a sea to its holdings in modern-day Amsterdam, a holiday escape for its most deserving citizens.” And DelCon: “The Delaware Conglomerate is a loosely-organized technocratic collection of corporate states stretching from Philadelphia to Miami. Atlantic City is the latest front in their northern expansion.”
+This is where the Iron Choir is from originally. Much different Iron Choir. Much different. This is where the BluSky Dome is from originally. A lot of this stuff. The Gnosis Virus is in here. The Rook is in here, but it’s not a mech, because there are no mechs in this original transmission. It was just a gun. It was just a—
+[Jack chuckles]
+Austin: It was like the M16 of this world. It was actually the AK-47 of this world, basically. And there’s a bunch of stuff here that is just nowhere, right? There’s an airship in here that, like, I’ve never done anything with this airship, you know? And there’s a bunch of—there’s other stuff in here that’s—again, fucking Horizon Tactical Solutions, right here. Heavies, Adler, Beck. This is them. They are just right here, you know? And then there’s a lot of stuff here that’s just completely not used, and some of that has worked its way into this transmission. And some of it hasn’t. Some of it’s still not—you know? I will tell you 2011 Austin or whatever who wrote that—who wrote a group of people who had been, you know, experimented on by a genetics corporation, I probably wouldn’t today call them “gene freaks”, but in 2010 I did. And I wouldn’t, of course, do that now, because I would say, well, that sounds too close to Ging Freecss, the important character from Hunter x Hunter.
+Keith: [laughs] Right.
+Austin: Right?
+Keith: Well, they could be J-E-A-N freaks and coincidentally love denim. Yeah. [laughs]
+Austin: [cross] Right, they could love denim. [laughing] Yeah, exactly. A hundred percent. But yeah.
+Jack: As, of course, Ging Freecss does.
+Austin: Right, right.
+Keith: Yeah.
+Jack: As far as I know from my experience of Hunter x Hunter, Ging Freecss loves denim, and riding a tower of monsters.
+Austin: Yep, that’s correct. That’s accurate. I don’t want to spoil anything else, so I’ll just cut that there. People should go listen to Media Club Plus. If you’re listening to this and are not listening to Media Club Plus, you are missing out.
+Keith: One of the—the best episode that we’ve done yet, I think, came out—
+Austin: Today.
+Keith: Today. Yesterday.
+Austin: Yeah, yeah. I agree with that. And which episode was it? Who could say.
+Keith: Okay, yeah.
+Austin: It’s a mystery.
+Keith: It’s a mystery.
+Jack: Who is Cameron McLeod?
+Austin: Good question. Let’s get there after you do the step that I need you to do first. ‘Cause Cameron McLeod is not a connection, Cameron McLeod is a threat, and so you don’t have direct access to a write-up on camera. And I’ll set up Cameron when it’s time to set up Cameron. For now, I need y’all to look in the handouts section of Roll20.
+Art: Oh.
+Austin: And you should have a thing called “Connections”. Do you?
+Keith: Yep, yep.
+Austin: Okay. There are 6 connections in here. I’ll read them really quick for the listener.
+Art: Hey, this is a white-on-white on my—can you change the font color?
+Keith: Oh, that’s weird.
+Austin: No.
+Keith: Mine is white on charcoal.
+Austin: Because if I change it, it’ll… hm.
+Keith: Maybe close it and reopen it?
+Austin: It should be—I think this is a dark mode versus light mode thing. I think Roll20’s fucking us.
+Ali: Ohh.
+Keith: Ohh.
+Art: Ohh.
+Austin: That’s my guess.
+Keith: Are you in dark mode?
+Art: I’ll change to dark mode.
+Ali: Yeah, I’m in dark mode.
+Austin: Of course I’m in dark mode.
+Keith: Oh, I’m in light mode. I can see it.
+Art: I don’t believe in dark modes. It’s not how my eyes work.
+Ali: What?
+Keith: Yeah, I’m not—
+Austin: [muttering] I don’t want to do that. I just want to change color.
+Keith: I’m not fixed like that, but I am primarily a light mode person.
+Art: It’s fine, I’ve changed—
+Austin: Got you. This is very annoying.
+Art: My—whites on blacks bleed for me.
+Austin: Well, that’s—woah, that’s fucking wrong. Uh… Let me—
+Keith: Do you want me to just copy the text and send it to you, Art?
+Art: Yeah, it’s an eye problem. No, I got it, I got it.
+Austin: Oh, you got it? Okay.
+Art: Yeah, if this was like, I can make this as big as I need to.
+Austin: Yeah, yeah.
+Art: It’s not…
+Austin: You can copy it to another thing.
+Art: I won’t die if I misread it, you know, it’s not like it’s driving in a car at night where this is a real problem.
+Connections
+[53:17]
+Austin: Yes. So, there are six people here who are connections. Voski Kovacs, who is solid, calm, and melancholy, was the last mayor the Sill ever had. Now they run a small whiskey bar simply called Kovacs. Sage is flexible, fearless, and malleable, the Golden Branch’s first fully holographic idol. They died during the Golden War, but they have an extended residency with the Cerulean, so they’re still performing. Hunter Cash, scarred, stubborn, and skeptical. They are a cyborg boxer turned reticent enforcer for the Ithikos family.
+I’m using they/them pronouns right now for everybody because that’s how Technoir works, is just like, you leave up the gender of characters generally to the characters who end up getting their connections with them, but there are a couple here of, like, Voski is Apostolosian, so Voski will probably remain they/them. But the others we can change as needed.
+Club Stealheart Unit 22, aka Twotwo—Twotwo, stylish, friendly, and careful, a professional conversationalist and flirt. Were they just programmed that way, question mark? I’ve used he pronouns, I could have said “was he programmed this way”. I think I just have Twotwo in my mind as a sexy robot guy. But we can change that if whoever takes them, or if anybody takes him. Coffee Affogato is discreet, personable, and cute. I think “cute” in a, like—in a, like, flailing babygirl way, not cute in, like, an actual cute way. You know?
+Jack: Faintly obsequious...
+Austin: Yeah, yeah, yeah.
+Art: But not in like a “don’t get cute” way, either.
+Austin: Eh, maybe in a “don’t get cute” way. I don’t know, we’ll see how it goes. “The CCT-appointed administrator of the Sill. Collects a check, plays the horses,” and I’ve written “lets” and then I haven’t finished the sentence. And so, as far as I’m concerned, [chuckles] that’s a good description of Coffee.
+Keith: Yep. Coffee lets… something.
+Austin: Lets, you know, lets the chips fall where they may. [typing] There we go, added, boom.
+Jack: And lets a series of abandoned apartments on the eastern side of the embassy district [chuckles] to…
+[Keith laughs]
+Austin: [laughs] Yeah, exactly, to the highest bidder. And Grandpa Hart, wise, prepared, and empathetic, the Diasporan old-timer who runs the open arms campground at the rear of the Sill. So, the way this works, you might remember this—this is—I mean, you actually probably don’t remember this, because we didn’t—we only ever did one transmission in COUNTER/Weight, or in Technoir.
+Keith: Right.
+Austin: But if you’re adding a new one, if you’re adding a new transmission, you—everybody gets one new contact that they can pick from a list. You can tell me how you know them, and then you can—you pick an adjective to describe your relationship with them. [chuckles] Do you remember doing that? You remember those days of picking…
+Jack: I sure do.
+Keith: I do remember that, yes.
+Austin: And there’s a set of those to pick from, but we can also make some up.
+Jack: The adjective is your feeling about them.
+Austin: That is correct.
+Jack: Not their feeling about you.
+Keith: Right.
+Austin: That is important and correct, yes.
+Art: And that is not on the cheat sheet.
+Austin: No, but I can—I mean, we can make them up, but I can also just grab them really quick. They are, da-da-da-da-da… Let’s see. I know one of them, and so I can find the rest. They are—
+Keith: Is it lustful?
+Austin: It sure was, Keith.
+[Keith laughs]
+Austin: Affectionate, dependent, loyal, lustful, obsessive, protective, respectful, sympathetic, trusting. I’ll just drop those in here.
+Keith: That is also the one that I remembered.
+Austin: Yeah. Yeah, yeah, yeah. I mean, I—yeah.
+Keith: It’s a memorable one.
+Austin: It’s a memorable one.
+Keith: On that list?
+Austin: It really is. So, give those a read and make a decision about what you’re—what’s going on here.
+Jack: I would like to make a bid for Twotwo.
+Keith: I’ll call.
+[Ali laughs]
+Art: I’d like to bid for Hunter Cash.
+Ali: What are we bidding? [chuckles]
+Keith: I think money. I think we’re bidding real money.
+Austin: Yeah. Just real money auction house situation here, like Diablo 3. So who’s giving money? What’s going on? I’m waiting for the money.
+Keith: I fold on Twotwo and Cash.
+Austin: Okay. So you’re—do you have one you’re interested in?
+Keith: I’m thinking about it.
+Art: And I would like to be sympathetic for Hunter Cash, if no one else wants sympathetic.
+Ali: Wow, really buying up these claims.
+Austin: One second, let me add these to the board.
+Art: I’m trying to be deferential.
+[Ali laughs]
+Art: I’m also trying to…
+Austin: Hunter Cash… Let me put Cass on the board. You’re sympathetic, you said?
+Art: Yeah.
+Austin: Love that.
+Jack: I think I’m gonna take loyal to Twotwo. Sorry, to Club Stealheart Unit 22.
+Austin: Yeah, yeah, yeah. I mean, I understood.
+Ali: Have there been any calls for, uh, Voski? [vo - skee]
+Austin: No.
+Ali: I might—I might be dependent on Voski.
+Austin: I think we—well, we can say it however you want. I’ve been saying Voski. [vah - skee]
+Ali: Voski, okay, sorry.
+Austin: We can say Voski, [vo - skee] if you’d rather, Voski [vah - skee]. If you’d rather, Voski. [vo - skee]
+Ali: Voski [vah - skee] is fine.
+Austin: [typing] Kovacs… Twotwo…
+Keith: Alright, so we have—we have dependent—
+Austin: Who’s missing? I’m missing one person.
+Keith: I haven’t gone.
+Austin: You haven’t picked at all, okay.
+Keith: I haven’t picked at all, yeah. We have dependent, we have sympathetic, and we have loyal.
+Austin: Loyal.
+Keith: Okay.
+Austin: That’s what it sounds like.
+Ali: Keith, if you want dependent, I could maybe take protective or trusting. I could…
+Keith: I was gonna go protective, Grandpa Hart.
+Ali: Okay.
+Austin: Oh, that’s fun.
+Ali: Aw. [chuckles]
+Austin: That’s really good. [typing] Loyal…
+Art: None of us picked the person who is directly connected to the…
+[Ali laughs]
+Austin: That’s fine, you know? Y’all are also connected to Orth, right? Some of you are also connected to Orth, so there’s like an indirect—I think it’s actually better that you don’t know Coffee, that’s kind of fun, you know?
+Keith: Yeah.
+Art: Yeah, I mean, I don’t know most people who get murdered.
+Austin: This is Grandpa Hart. Could also be Grandma Hart if we wanted, I guess, or Grandparent Hart. Granny. Grand Hart, but.
+Ali: We can have a she/her Grandpa Hart. That would be fantastic. I would love that.
+Austin: That’s true. We could have a she—we could have a she/her Grandpa Hart.
+Keith: Yeah.
+Art: Yeah.
+Keith: Well, too bad, we’re doing Grandpa Hart.
+Ali: I would love to be a she/her Grandpa Hart in my later years. [chuckles]
+Austin: Aw.
+Jack: Grandpa’s Farm.
+Austin: Oh, Grandpa’s Farm.
+Ali: Yeah, see, there you go.
+Jack: Yeah.
+Austin: And Keith, wait, what was Mako to Grandpa? Oh, it was protective or something?
+Keith: Protective, yeah.
+Austin: Protective.
+Keith: I’ve already done it.
+[Ali chuckles]
+Austin: You’ve already done what?
+Keith: I’ve already been protective.
+Austin: Oh, it’s true.
+[Ali laughs]
+Keith: I’ve just displayed that.
+Austin: You have just—you did. You did. That’s not wrong. Alright, so they are now on the chart. They are not connected to the core mystery yet, but they are there, they are here, right? Again, as a reminder for people who maybe haven’t heard this game before or played it themselves, one, go play this game. I think this game is great. This is a game we only played nine episodes of, but that like, lives rent-free in my fucking mind in a real way. The way that it talks about narrative is really interesting and important to me. The way that it uses the gameplay mechanics to communicate theme is really important to me. And in general, the way that it, like, it opened my mind to a different way of storytelling. It’s really important the same way that other key games for me learning what games could do in this—what tabletop games could do, were like, With Great Power or Burning Wheel, right? Things we haven’t played a lot of on this show, but nevertheless, very important. Alright.
+Keith: I wish I remembered how I was feeling around the time when we stopped playing this and we started playing The Sprawl. I just, like, I have no memory of…
+Austin: I will say, we were not having as bad of a time, I think, as we were with—not, “bad of a time” is wrong, but like, it was a really—today, I think we would have stuck it out another session or two, you know?
+Keith: Yeah, yeah.
+Austin: We kind of eject–we were running short seasons at the time, you know?
+Keith: Season.
+Art: Yeah, and it just—it felt a little gummy.
+Ali: Yeah.
+Austin: Yeah. We were getting gummed up. The works were all gummed up a little bit, so. We’ll see if that’s the case today, or if that’s not the case. So, the way that this game starts—again, so behind the scenes, I have a document that has those 36 things that I mentioned before across connections and objects and threats and all that other shit. And they are in like a map, or they’re like, in a table. And I rolled to get these starting three things, and those three things get put together in a connection. And I think the connection is this. I think that Coffee was, you know, arrested for killing.
+Keith: Classic reason to get arrested.
+Austin: Yeah, uh-huh.
+Art: Mhm.
+Austin: Right? Boom. Arrested for killing.
+Keith: One of the most famous crimes is killing.
+Austin: Is killing. It’s kind of a big one, huh? I think Cameron, Cameron’s Cerulean VIP card, was missing, or is missing, or maybe just simply—you know what, here’s what—this is what we’re gonna do. We’re doing this. This is—let’s mix it up a little bit. And Coffee is looking for the Cerulean VIP card.
+Jack: Prior to the killing?
+Austin: I don’t know. Well, we’ll see how it plays out in conversation, right?
+Jack: Yes.
+Austin: You haven’t met this person yet, maybe they’re looking for it now, maybe they were looking for it, I don’t know. So maybe let’s not go with “looking for it”. Let’s go “wanted”. There we go. That’s actually, I think, a good mystery set-up here. Alright. So again, yeah, this is a random plot map. Imagine a triangle with Coffee, Cameron, and the Cerulean VIP card. Coffee has a thing that says “arrested for killing”, pointing at Cameron, Cameron has a thing pointing at the Cerulean card saying “missing”, and then coming up the other side of the triangle, Coffee has a thing that says “wanted”, or wants, you know, the Cerulean VIP card. So that’s how this starts. And then the way this game ends up working is, I’ll just read this.
+“During runtime, a protagonist can lean on her connections for information. She may be attempting to find some opportunity she can take advantage of, or get further details on a plot she’s started to learn about. When this happens, have her player roll a die and consult that connection’s table in the transmission.” So each of these connections has a list of 12 things that they know about. Two connection—two other connections, two objects, two threats, et cetera. And when you do that, and get information from them, whether that’s an easy thing to do or a hard thing to do, I will generate a—I’ll roll some dice, or I’ll pick, depending on how clear things are, an option from their list in order to add another node to this sheet. The reason there’s 12 things is they have a different list depending on whether or not they are connected to the core mystery yet. Once they’re connected, there’s a sort of like, different set of things that they could potentially bring in, which is a fun way to weight the story in different directions.
+So, again, Mako protective Grandpa Hart, AuDy loyal to Twotwo, Aria dependent on Voski, Cass sympathetic to Hunter, and I think that the, in my mind, the place that’s like, a cool place to come back in on is like, already in the air, so to speak. Right? Or already on the way, or maybe even already in the front gate, you know, nearing the front gate, maybe. With the mission, you know, it’s like, do I want to put—here’s how I’ve been thinking about this. You know when there’s an anime? You know what an anime is? You know when there’s like, a movie in an anime series, and it’s like, it’s real, and you can like place it sort of in the continuity, but like, sometimes stuff doesn’t line up exactly right, and you just kind of have to handwave it and be like, okay, well, Goku didn’t have that power yet, but like, he has it in the series by the time the movie comes out, and we don’t want to like, undo it, so like it’s, you know, or like, oh, it’s—you know, at the end of this, Goku learned this incredible technique, but doesn’t go on to use it in the Cell saga. Why didn’t he use the thing that he learned in the tree of life? Or whatever. And I think that—
+Art: This is Austin’s short way of saying that Cassander is Super Saiyan in this prequel.
+[Ali laughs]
+Austin: Cassander is Super Saiyan. Cassander, Super Saiyan 2. This is what it means to go beyond Super Saiyan.
+Keith: Mhm. And I’m Yoko Mako Trig.
+Austin: That’s correct. That’s right. What’s that from? What’s Yoko from?
+Keith: Yoko Kurama from Yu Yu Hakusho.
+Austin: Oh, sure. Okay. Got it. Yeah. So, that’s to say, for instance, if—[chuckles] if a character dies and has to be resuscitated by getting cybernetic surgery, and we just never talk about that in COUNTER/Weight, don’t worry about it.
+Ali: Mhm.
+Austin: They have—oh, Aria happened to have a cyborg heart the whole time? Good to know.
+[Ali laughs]
+Keith: This is good to cover now, because I was gonna bring this up as like, what happens if someone dies, or…
+Jack: I think it is gener—it enables us to play generously with each other as well.
+Austin: Yeah.
+Jack: The idea of playing this in such a way that we are constantly trying not to catch ourselves in continuity errors…
+Austin: Yes.
+Jack: …I think, would produce a kind of episode that might be satisfying to some people, but would be a—A, it would be a real headache to make, [Austin: Yeah.] and B, we would fail.
+Austin: Yep.
+Jack: We would invariably snare ourselves in some continuity error.
+Austin: Right.
+Jack: So I think this is the way to do it.
+Austin: And like, Technoir is resistant, in some ways, to this, because like, it is a thing where characters can die and then come back to life via cybernetic implants, and we would just be handwaving how that happened offscreen, for instance.
+Keith: Right.
+Austin: But I think even more broadly, the thing I’m just trying to gesture at is that, like—think about this a little—I mean, here’s the thing. And this is like, a little bit of synchronicity that works for us. I say “synchronicity”, but I designed it this way, so it’s not synchronicity, it’s “I designed it this way.”
+[Ali laughs]
+Jack: It’s plotting.
+Austin: An important—
+Keith: So you’re synchronizing your past work with your current…
+Austin: With my current work.
+Keith: …present self.
+Austin: Right, my present self, who is then making a different work set before the previous work.
+The Sill is kind of air-gapped from the rest of Counterweight. Once you go in the front gate, you will lose access to the Mesh that the rest of Counterweight is on. The Sill isn’t on the Mesh. The Sill has its own different local Mesh called the Holidaze—with a Z, like a daze that you enter—that you have to like, get access to.
+Keith: When you boot it, it’s called the Holidaze Inn.
+Austin: That’s—well, if you can afford it, it sure is.
+[Ali laughs]
+Keith: Okay.
+Austin: People who can’t afford it do things called daze drops where what they can do is like, relive someone else’s Holidaze experience. Someone will like, go record their experience and then kind of filter it out into an eyedrop, and you can take this eyedrop that then, like, lets you have the experience of being in the virtual world for an hour. It’s a—
+Keith: Can you buy anyone’s or do they sell them as blind box packs where you can get a randomly good one?
+Austin: Oh, I bet there is a blind box. I bet you can get the blind boxes if you want. They’re not random, right? Because it’s like, someone has to go record it, right?
+Keith: Right.
+Austin: But, like, this is a popular drug.
+Keith: Well, you can buy like, a summer pack, and you can get one of eight different summer experiences.
+Austin: Summer flavors.
+Keith: Yeah.
+Austin: It’s like a blind box, like you said, where it’s like, oh, there are 30, but which 3 are you gonna get in this set? You know, who could say?
+Jack: I want to get the one of the lady who just goes and looks at the aquarium for 16 hours.
+Keith: Yeah.
+Austin: Right. Yes, yes. And so—
+Keith: I hope I get the one from the day where Henry Kissinger died.
+[Austin and Ali laugh]
+Mission
+[1:08:44]
+Austin: So in this way, it’s worth saying that, like, you won’t be able to go contact Cene Sixheart. Right? The gate opens once a day. You come in, you sit in the airlock, and then you go from the airlock in, and then you’re off the fuckin’ net. You know? You’re not on the Mesh. You can’t make outgoing calls. You know, the call has to go through an official CCT, you know, thing, or has to—you have to leave the whole thing entirely, right? Which is why it took some extra time for Orth to find out about this, and Orth is trying to solve this before it becomes a huge incident. And I think this is what Orth explains to you, and you know, and maybe we get Orth talking to you as the gate—you know, we get the image in my mind is almost like, you know, the gate is coming, the back airlock, the eastern lock to the rest of the planet is slowly closing so that you can wait the rest of the day here in the front gate as the message Orth sent to you, you know, is playing. Which explains the situation. And the situation is that Coffee, who is a member of the Consolidated Counterweight Technocracy, is being held captive by a group called the Ithikos family.
+Austin (as Orth): They’re a crime family in the Sill, they… I’m not gonna say they don’t do anything good, but they’re a crime family, and they can’t be trusted, and I’m sure that what’s gonna happen is they’re gonna put out a request for some sort of hostage exchange, or some sort of prisoner exchange, or they’ll want us to pay ‘em off to get Coffee back. I’m not even sure Coffee did anything, and so what I need you to do is go make contact. Find out what Coffee did. Ideally, get them out of there. And otherwise, report back if there’s anything important that you need further instruction on. You should be able to make a direct call to me if you can get into Coffee’s office, but otherwise you’ll have to leave the, you know, the Sill, and make a call.
+Austin: That’s kind of the basic pitch here. And a lot is gonna be left up to you. How loud do you want to be with this? Not to say, like, go in guns blazing, but the way that the front gate works is it’s partially run by the CCT, it’s partially run by what I already mentioned, the Tourist’s Union, and the Tourist’s Union is a—both of those groups try to like, monopolize as much of this process as they can. The CCT does a lot of, like, security theater scanning and data collection, so if you go in, you know, with the Kingdom Come, with all your mechs and stuff, all of that will go down on record. You know, that will be—everyone will know, or not everyone will know, but the CCT will know that you are here with that stuff. Orth is not giving you any protection in terms of like, “oh yeah, we’ll let you sneak in.” You know? That stuff is then verified by the Tourist’s Union, and the Tourist’s Union, like, generally doesn’t let anyone come in without having an account with them and being a quote unquote “member of the union”, which is to say, paying them an exorbitant fee.
+Keith: Right.
+Austin: They’re effectively a very powerful travel agency that only does travel agency work inside of the Sill. They basically are toll collectors. They get their cut, and they can connect you to other people who can help, right? So like, there is a group of bodyguards and escorts here called the Chaperones, and those, you know, the Tourist’s Union has a deal with them. You can get, you know, 15 percent off if you go through the Tourist’s Union, right? Of course, that means the Tourist’s Union knows that you’ve done that, so some people choose not to do that, and they get their own bodyguards elsewhere.
+But they are kind of like your go-to group, and so the question of just like, how loud or quiet you want to be here is up to you. The question of do you want to wait the extra 12 hours for the inner door to unlock and open is up to you. But you’re basically in—you’re basically stuck in traffic. [chuckles] Classic Chime thing, waiting to be let through a door or a portal or whatever, you know, waiting to be scanned by the fucking police. What are you all… what’s the vibe? Are you on the ship? Did you come some other way? Et cetera.
+Also, I just remembered something I have to add to your connections list, which is that each of these folks can do favors for you. And you wouldn’t have done them already, normally, in—during character creation, you call on favors from your contacts to build your character, but you’ve already done that with other characters, but those con—those favors are still available, and so I’m gonna add them to this list right now, so that we can—we can have them all here. But yeah. So what’s the—what is the plan?
+Keith: Um, so—
+Austin: And are you—are we on board this ship?
+Keith: And the ship is the thing that has to wait?
+Austin: You would also have to wait.
+Keith: Well, in the ship, right?
+Austin: Yeah, yeah, yeah.
+Keith: And the—
+Austin: But if you like, took a car here, you would still have to wait, also.
+Keith: The idea being that we could immediately try and break the law by hopping the fence.
+Austin: Oh, yeah. Oh, yeah. Well, it’s not a fence.
+Keith: Yeah.
+Austin: Sorry. It’s a giant airlock that’s big enough for spaceships.
+Keith: Sorry, the fence was a metaphor.
+Austin: Oh, then yes. Yes, you could hop the metaphorical fence.
+Keith: I could have also said the turnstile.
+Austin: Yeah. That would have been clearer, somehow.
+Keith: Although there might be a turnstile.
+Austin: There is a turnstile. It’s gigantic. [chuckles] It’s big for a spaceship. There’s not, there’s not.
+Jack: Just goes through extremely slowly.
+Keith: Can you swipe for the people behind you?
+Austin: They won’t let you. They’ll—they track it. They’re really shitty about this.
+Keith: Damn. Yeah.
+Jack: Yeah, I think that at least for the time being, AuDy has decided to wait inside the cockpit [Keith: Yeah.] of the Kingdom Come.
+Keith: Okay.
+Jack: I think the Kingdom Come is parked in one of these sort of like landing bay things inside the front gate with the sort of cockpit facing forward, and AuDy is just sitting there in the chair watching the airlock door, watching the people milling about.
+Keith: Contrasted to that, you know, AuDy’s a robot, I feel like robots are pretty good waiters. Mako’s bored. If we’re waiting, Mako’s bored. This is my first character decision.
+[Austin chuckles]
+Keith: 12 hours?
+Austin: 12 hours.
+Jack: Do I see you in the crowd through the screens of the Kingdom Come?
+Austin: Oh, have you left the ship? I missed that. Did you say that?
+Jack: Yeah, like—yeah, I don’t know.
+Keith: Oh, no, no, no. I’m in the ship.
+Jack: You’re still in the ship? Okay.
+Keith: I’m in the ship. I’m still in the ship, bored. Yeah, I’m letting—
+Austin: There are people milling about though, right? I think that like, by—
+Jack: Just by the vending machines, there’s…
+Keith: Okay, okay.
+Austin: Yeah, there’s vending machines, there’s like a little picnic area, there’s like a—there’s a food court. There’s probably a food court.
+Keith: This is like a highway rest stop, but it’s like a toll booth rest stop.
+Austin: That’s right, yeah. It’s a toll booth rest stop. That’s exactly the vibe. And a truck weighing station, and you know, the big Sunoco where you can get your truck refilled, [Keith: Right.] and, you know, it is a—
+Keith: God.
+Austin: It has the New Jersey parkway thing of like, having some local Counterweight, you know, celebrity named after…
+Keith: Nothing adds to the experience of like a long day of travel than just like, being full of gas station snacks and an energy drink.
+[Ali chuckles]
+Austin: Uh-huh. So do you come back with a bunch of snacks for people, Mako?
+Keith: Yeah, I’ve got beef jerky. I’ve got, like, Entenmann's, like, donuts. Oh, I’ve also got Hostess—I’ve got two different kinds of like, shitty little chocolate donuts.
+Austin: Oh, the—eugh. [laughing] I hate those.
+Keith: I’ve got, you know, sweet milky coffee drinks, like a frappucino, and also coffee flavored energy drinks. And I’ve got, like, you know—it’s hard to pick what kind of gummy you want, so it’s like, I want Dots, I want Swedish Fish, I want Jelly Bellys, you know, these are all the same kind of thing, really, but…
+Austin: And this is the first time as a group you’ve spent real time together.
+Keith: Twizzlers.
+Jack: Mako arriving just arms absolutely full of snacks.
+[Ali laughs]
+Austin: Yeah.
+Jack: They have a—near the front gate, in, like, a little rest stop, they have one of those—what are the names of those Coca-Cola machines that let you mix your own drinks?
+Austin: Freestyle.
+Keith: Freestyle.
+Jack: Coke Freestyle.
+Austin: Yeah.
+Jack: They have a Coke Freestyle machine for donuts where you—[chuckles]
+[Austin laughs]
+Keith: Do you want—do you want—can I give you my real life hacker moment? My stratus—my actual time fogging in real life?
+Austin: Yeah. Yeah, yeah, yeah.
+Keith: I was at a Five Guys one time. This is the old—they’ve since changed the firmware, but—
+Austin: Yeah. I know this.
+Keith: I saw a guy put in the special code [Austin: Yeah.] into the Coke Freestyle machine. There was three bubbles you had to tap, [Austin: Yep.] anybody who worked in a machine with the Freestyle machine around that time can say, yep, there was three bubbles you had to tap, and then it opened the back end up, and you could fuck with which syrups went to which things, and how much the ratios were, so I used to always go to those machines to make it so that I could get a syrup that wasn’t technically allowed with another drink.
+Austin: You could make wild mixes. I’ve done this before. I’m gonna link this in the chat. It’s important to me.
+[Ali and Jack laugh]
+Jack: You could make it activate the whiskey tube.
+[Austin, Ali, and Keith laugh]
+Austin: It’s stuff that’s like, well, okay, you want a cherry Coke, well, how much cherry is in cherry Coke? Right?
+Keith: Right.
+Austin: Or if you wanted to mix cherry and vanilla, you know?
+Art: I just had one of these where they must have had it set, like, it didn’t even—it felt like I had just brown seltzer water. Like, someone at the movie theater decided they were gonna be cheap…
+Austin: Oh, they got rid of…
+Art: And it didn’t taste like anything.
+Keith: Well, this also just happens ‘cause there’s just bags in there, they’re super heavy, they’re like 25 or 35 pound bags of syrup, and sometimes that mix just runs low, and you don’t know until someone complains, [Austin: Yeah.] and sometimes you find that that bag’s empty. People have been drinking…
+Austin: Brown seltzer, yeah.
+Keith: Coke water all day and not saying anything.
+Austin: Yeah.
+Keith: And then you gotta change a bag out. I’ve changed many of those bags in my life.
+Austin: There you go. Well, there’s one of those for donuts, is my understanding. And nevertheless, [laughing] Mako showed up with pre-packaged chocolate donuts?
+Keith: Okay, I’ll say now that we’ve introduced the Coke Freestyle machine…
+[Ali laughs]
+Jack: For donuts.
+Keith: For donuts, I’m going to—I’m gonna apply my real life Freestyle experience to this and say that like, I got combinations that you couldn’t get. I got chocolate donuts, but I—
+Austin: [cross] Oh, my friend. No, no, no, no, no. We gotta roll some dice.
+Keith: Okay.
+Ali: Also, wait. I’m sorry, did we not already have self-service dough dispensary in COUNTER/Weight already? We had a beach episode.
+Jack: Oh.
+Austin: With self-service dough?
+Ali: Yeah. It was like a—
+Keith: Fried dough?
+Ali: Yeah. It was like a—it was like—
+Austin: Oh, a churro—we had a churro situation.
+Ali: Right, yeah, yeah, yeah, I mean—
+Keith: Oh.
+Austin: But that’s different.
+Ali: Well, I’m saying that this is sort of like—this is sort of a, like, Entenmann's would make both of these machines, you know what I mean? [laughs]
+Austin: Oh, right. I see what you’re saying. Yeah, yeah, yeah. There was a—
+Keith: Okay, this is an Entenmann's brand… sure, okay.
+Austin: I see what you’re saying. Yeah, yeah, yeah. There—yes.
+Keith: Yeah.
+Ali: This is—
+Art: Entenmann's Freestyle.
+Ali: Right, this is like a brand of pastry that has these machines throughout Counterweight.
+Austin: Right, yes, yes.
+Keith: Yeah, yeah.
+Austin: Yeah, we—this was explicitly on, in episode 11—we talked about there being a churro that came out of a machine. Jack, I think, you said, it’s a bad churro—
+Keith: Eight years later, this is a cast that still likes fried dough. [laughs]
+[Ali laughs]
+Austin: Yeah, it turns out. Yeah. Uh-huh. Yeah. Uh-huh. So, yeah.
+Ali: [laughing] The more things change…
+[Keith laughs]
+Austin: I could go for a churro. I haven’t had a churro in a minute. Anyway. Yeah, the tank apparently said “industrial churro goo” on it. Thank you, Art.
+[Keith laughs]
+Ali: Uh-huh, yeah, it was gross at the time.
+Austin: It’s gross.
+Ali: Yeah, I don’t want to think about it.
+Austin: So, I want to roll some dice.
+Art: It’s gross now.
+Austin: Just to see…
+Keith: Alright, am I—this is a—this is a Hack roll?
+Austin: Well, check this out, check this out, check this out. We’re not gonna use—we’re not gonna use—it is a Hack roll.
+Keith: Yeah.
+Austin: We’re—here’s one of the things we’re gonna change about how we did this. Which is, before, we were rolling dice in the /roll system. You know? You know where you do the /roll, and you roll, like, 3d6, [Keith: Yeah.] and then like—and then, we would have to also roll hurt die separately.
+Keith: Yeah.
+Austin: Or maybe we were like, the last two count as hurt die or something, because it’s not—it wasn’t—
+Keith: ‘Cause it rolls them—
+Austin: ‘Cause it rolls them all at once, right.
+Keith: Right.
+Art: It’s tricky.
+Austin: Tricky, tricky, tricky. Now, do you see these dice on the screen?
+Keith: Mhm.
+Austin: We can just grab some action dice, and grab some hurt dice if we need them, and grab some push dice on the left—
+Jack: [cross] Oh, and just roll them on sight.
+Keith: [cross] And like, right click roll?
+Austin: And then pull them up here, right click, roll. You know?
+Art: Woah, what? Oh I can’t just like, throw ‘em.
+Austin: So you can—you click and drag them as like, a unit, right, and then you can right click them, hit “multi-sided”, and then hit “random side”. Boom.
+Keith: Great.
+Austin: And what’s that look like for everybody? I just want to make sure we’re looking at the…
+Keith: That looks like a 3, a 5, a 6, and a 3.
+Jack: Yes.
+Ali: Mhm.
+Austin: Perfect. So we all see the same thing. Love that. So yeah. Let’s roll some die here.
+Keith: Great.
+Austin: You’re rolling against just the default—I guess, actually, I know exactly what you’re rolling against, which is at this point—
+Jack: Our first onscreen roll in COUNTER/Weight is against…
+Austin: Yeah. Uh-huh.
+Jack: [laughs] Is against a Coke Freestyle machine.
+[Ali laughs]
+Keith: Is against a snack machine.
+Austin: Yeah.
+Keith: Yeah.
+Austin: Yeah, what about it?
+Jack: Yeah, no, great.
+Austin: Yeah. Let me… let me see here. Okay. Yeah.
+Ali: Can I say something?
+Austin: What’s up? Yes.
+Ali: I just want to say, before—while we’re getting into rolls and characters…
+Austin: Yeah.
+Ali: Um…
+Keith: It’s an Entenmann's Choose Your Goos. That’s what it’s called.
+Ali: [laughing] Shut the fuck up.
+Austin: That’s very gross.
+Ali: We just haven’t spoken about any of the, like, adjectives on our character sheets, or, like, a faction moment, and—
+Austin: You’re right. We should go over those. And we should have a faction moment.
+Ali: We could do—we should do Mako right now, and then as the camera changes—I just want to say this while…
+Mako
+[1:23:04]
+Austin: Yes, I agree. Mako, what are your adjectives?
+Keith: Clever, quick, and charming.
+Austin: Love it. What are you wearing? What do you look like? What are your adj—what are your—what’s your look description?
+Keith: What’s the weather in—this is a nice place—this is a beachy place?
+Austin: This is a nice place, but there is—
+Keith: Yeah, this is like…
+Austin: —a thing that happens here that you know about, [Keith: Okay.] which is, it has very old and—remember, this predates the Golden War, which isn’t old, right? That was a decade ago or whatever, 15 years, 10 years. But it wasn’t—so it’s not ancient or anything, but it is decades old compared to the rest of the domes, which are all very new, and it was an experimental thing, and it was not built for sustaining against an apocalyptic world-destroying crisis, it was built to keep the regular weather out, and so it’s been updated. And once in a while, the air filters will break in a really weird way that turns the, like, toxic dust from outside into a pale white dust, and it’ll fuck up the HVACs so that it gets cold, and so it’s like there’s snow in here sometimes.
+Keith: Okay.
+Austin: It’s like a snowstorm will actually come through, except it’s ash. It’s basically ash that comes through.
+Keith: Okay.
+Austin: And for whatever reason, it gets snowy. So it is actually—I’m just gonna say it upfront, this is a winter holiday special. It’s snowy in there right now.
+Jack: Oh, wow.
+Austin: Yeah.
+Ali: Wow.
+Keith: Okay, so, then I’m wearing—I’m wearing some bright green sweatpants that have zippers at the knees to turn them into sweatshorts.
+[Ali laughs]
+Austin: Sure. Yeah. Uh-huh.
+Keith: And—this is based off of a pair of cargo short pants that I had as a kid that were popular in the early 2000s, I think, for some reason. And I’m wearing a—it’s—I’m wearing—it’s a tanktop with some logo, it’s like, you know, a future Walmart tanktop, tucked into the sweatpants, but then also, like, a coat. Like, the kind of coat that rich people and people that are genuinely cold would wear [Austin laughs] in—now, where it’s like, got the puffy segments, and it’s got fur on the hood—
+Austin: Yeah, uh-huh. Yeah, yeah, yeah.
+Keith: And, uh… and… it’s—
+Austin: Like a North Face, is what I’m thinking. Or like a—yeah, yeah.
+Keith: Yeah. And—yeah, North Face or Canada Goose, is the one from a few years ago.
+Austin: [cross] Yeah, the Canad—yeah, the one with the like, the Canadian, like, the big Canadian logo, like the red and—yeah, yeah, yeah.
+Keith: Yeah, these brands become enormous and then die seemingly every few years.
+Austin: Well, I will tell you something. The Canadian goose one, or the Canada Goose one, [Keith: Yeah.] was all over Canada. They—every one of my students had one of those a decade ago.
+Keith: Well, that’s because it genuinely got cold there.
+Austin: Right, I know. Yes. I understand.
+Keith: But then you don’t need the, like—
+Austin: Yeah, I know.
+Keith: It gets cold as shit in Massachusetts, but there’s people wearing two thousand dollar, [Austin: Right.] like, sub-zero, like, rated for minus thirty temperature, and it’s like, guys, it’s 20 degrees out.
+Austin: Right, yes. Yeah.
+Keith: Wear a regular coat.
+Art: You should see the things that people wear in Los Angeles when it’s fifty degrees.
+[Ali laughs]
+Keith: Yeah. Yeah.
+Art: Because it’s winter clothing.
+Keith: So, and I’m wearing what—they’re, essentially they’re closed-toed flip-flops, so the plastic for what would be a normal flip-flop is—
+Austin: I almost dropped my drink.
+[Ali, Jack, and Keith laugh]
+Keith: —is, it looks like a flip-flop. The plastic for where, and the padding for where the flip-flop would be, is, like, is colored, it’s like pink, but then the rest of the shoe is clear plastic. So it’s a shoe that, visibly, it looks like a flip-flop.
+Jack: Wow.
+Austin: Okay. I see what—I see—okay.
+Keith: You know what I mean?
+Jack: Yeah.
+Austin: I guess I do. I do. I do. I do think I understand.
+Keith: Yeah.
+Jack: You got it from a Coke Freestyle machine for shoes.
+[Austin laughs]
+Keith: Yeah. [laughs] Yeah, you’re not supposed to be able to have this. [laughs]
+Austin: Yeah. Yeah, definitely not. And then let’s go over your verbs really quick.
+Keith: So, my learning programs are Engineer, Engineer, and Criminal.
+Austin: Mhm.
+Keith: Which means that I’m really good at Operate and Coax, I have a 3 out of 5 each in those, and then very good with Hack, I have 4. And then I have a 2 in Shoot and Prowl, and a 1 in Detect, Fight, Move, and Treat.
+Austin: Love it. I’ll note on top of your adjectives that you have set, you also have objects. We don’t have to go too deep into them, but it might be worth thinking about headjack for this one. The way this game works is you have a difficulty set by the opposition’s—actually, let’s go through the whole thing.
+Keith: Yeah.
+Austin: One, recharge push dice. What are push dice? Push dice are a resource that you can spend to add to a roll in order to increase the chance that you succeed at what you want to do. You start with three of them, and as you—you can always use them when you have them, and you’ll get them back from kind of action to action, but if you succeed in this game, you can—there’s a chance for you to spend those push dice on something I’ll explain in a second. So let’s just walk through this for now. One, recharge your push dice.
+Keith: Yeah.
+Austin: You got ‘em, you see them. There’s three of ‘em. You got ‘em over here to your left.
+Keith: Yeah.
+Austin: Two, assemble your dice. “The player gets a number of action dice equal to her rating in the verb she’s using.”
+Keith: Mhm.
+Austin: “She can add a push dice for each positive adjective, object, or tag that helps her. She must take a hurt die for each negative adjective she has.” You don’t have any hurt die, we’ll talk about that in the future.
+Keith: Yeah.
+Austin: For now, are you going to use your—any of your push dice on this roll?
+Keith: Um, yeah, I’m gonna use my push dice.
+Austin: What—how are you doing it? What adjective or object are you using to let you use a—or tag are you using for push dice?
+Keith: So, like you said, I have the headjack [Austin: Yes.] device. Its tags are “cerebral input, experimental, linked, nerve-linked, and derma-linked”.
+Austin: Yeah.
+Keith: Pretty much any of those [Austin: Totally.] could go towards this, which means I could probably use all my push dice on this roll, which I am not going to do.
+Austin: Sure.
+Keith: I’m just gonna use one.
+Austin: Okay. Which one? Pick one, here.
+Keith: I’m gonna use—
+Austin: I mean, you could just use it for the whole headjack if you wanted to, and just say, like, that’s the thing. You don’t have to get…
+Keith: Oh, then, yeah, sure, yeah, just the headjack.
+Austin: And then none from your adjectives.
+Keith: Well, I’ll say—let’s do derma-linked.
+Austin: Yeah, yeah.
+Keith: There’s like a hand pad I’m connected to.
+Austin: Yeah. I was thinking the same thing, yeah. You—we get the shot of your hand touching it, and like, the early 2000s, like, zoom-in that shows that like, [mimics rapid zoom sound effect]
+Keith: Yeah.
+Austin: You know, zoomed in on your hand doing a little connection to the Entenmann's Freestyle.
+Keith: Right, it looks like a home scanner where the thing moves across it.
+Austin: Sorry, the Entenmann's Choose Your Goos machine.
+Keith: Yeah, Choose Your Goos.
+Austin: Yeah. But then you’re not gonna use any of your adjectives, clever, quick, or charming here?
+Keith: No.
+Austin: Okay. So then that gives you five dice, and then the second thing here is describe the—or the third thing, describe your action.
+Keith: So, I’m—I’ve got the derma link set up, I’ve got a sort of, like, a new panel sort of pushes the old panel out of the way, and it gives you access to the back end, and I’m just like, looking—I’m seeing—this is like, group—there’s like groups of doughs, cook styles, and toppings, [Austin: Mhm.] and I’m just seeing which ones you can add together, and it lets you do, like, weird, like—like, oh, I could have a—
+Austin: Well, let’s see if you succeed first.
+Keith: Okay. Well, I’m just, I’m seeing that you can make stuff that doesn’t even make sense.
+Austin: Sure.
+Keith: You can’t—I’m gonna have a donut that’s two kinds of doughs cooked two different ways. Like, it won’t do this even if I asked it to.
+Austin: Normally. Right. Right, right, right.
+Keith: Like, things that would be impossible to achieve, even, by the machine.
+Austin: Totally. Importantly, you’re seeing this in like, an interface. You’re not in the world of dough.
+Keith: This is an interface, right. No. No, this is—
+Austin: You have not been—you’re not entering the Mesh in that way. And in fact, again, there isn’t that sort of Mesh in this space without going to the Holidaze.
+Keith: This world of goo.
+Austin: This is just, yeah, the world of goo, actually, I guess. But yeah, okay, so now, roll the dice. “The player rolls all of her action, push, and hurt dice. The hurt dice cancel any matching action and push dice,” so if you were hurt from an adjective, a negative adjective, which we’ll talk about in a second, you would—it could be a problem. But thankfully, you don’t have any of those, [Keith: Yep.] and what you’ve rolled is—what did you roll here?
+Keith: I rolled a two 2s, a 3, a 5, and a 6.
+Austin: Take your highest. Simple. Your 6 is the highest, and then you determine the reaction. “The verb the target uses to react determines his reaction rating. For each positive adjective, object, or tag that helps him, he can discharge a push dice and increase his reaction rating by one.” You’re rolling against 2 here, this Entenmann's Choose Your Goos machine only has a 2 in the counter thing, which is also Hack.
+Keith: Yeah.
+Austin: That’s not enough to beat your 6, and I don’t have any push dice. If I had push dice, I could spend them to try to like, [Keith: To resist.] get my defense up to resist here, but I don’t have that.
+Keith: Right. And that’s different than discharging. You would be giving me back a push die that you have.
+Austin: That is not correct.
+Keith: No, that’s—then that’s the other thing to increase the effect from sticky to locked, or from normal to sticky or to locked…
+Austin: [cross] So, at—so, right. At this point, the thing that you’re doing is—in fact, go back to where it was before. Wait, where did your black die go? Oh, it’s—
+Keith: It was—it’s been discharged. It’s discharged.
+Austin: Let’s keep them all up there for a second, because that’s—we’re not done the roll yet.
+Keith: Okay.
+Austin: At this point, we resolve the roll. “If a player’s result is higher than the target reaction rating, her action’s effective,” so your action’s going to be effective. “Then you apply the adjective. With an effective action, the player asserts a new adjective on the target. By default, the adjective is fleeting.”
+Keith: Mhm.
+Austin: You can spend one push die to make it sticky, or two to make it locked.
+Keith: Right.
+Austin: A fleeting adjective is gone once the person who’s affected by it takes action to address that it’s there. That might be immediate, or it might be an hour from now, right?
+Keith: Yeah.
+Austin: But you’re applying an adjective. In this case, you’re applying the—because of the way Technoir works, you’re applying the adjective not to the machine, but to like, whoever runs Entenmann's security.
+Keith: Right, so like the—yeah.
+Austin: Yes. And in this particular case, it is the CTT—or the, sorry, the CCT, the Counterweight, Consolidated Counterweight Technocracy’s, like, local network defender. Right? The person who takes—who looks at all of the defenses inside of this little zone. Right? This is the front gate, basically.
+Keith: Okay. Sure.
+Austin: And this, like, the head guard here, basically. Does not have a high Hack, and so easily was hacked here. And you could give them a short-term—
+Keith: That’s good to know, that that’s who it is, and that’s their Hack.
+Austin: It is. You’ve learned a little information here. So yeah, you can apply a fleeting adjective of your choice.
+Keith: Um, and I’m applying this adjective—
+Austin: Or you can spend one push die to make it sticky, and—
+Keith: Spend as in to give to you.
+Austin: You would give me that push die, correct. Yes.
+Keith: Yes.
+Austin: And then I would get to use that against y’all on the other side of this, right?
+Keith: Yeah.
+Austin: And that—we go back and forth on that, and eventually you’ve gotten enough information, and you get your push dice back, and then you can kind of make some big swings as you try to figure out the mystery.
+Keith: And so, because I’m applying it to this person instead of to the thing—
+Austin: Yeah.
+Keith: I wouldn’t—it wouldn’t be something like free, because it—
+Austin: Correct. You’re not applying it to the machine.
+Art: It would be something like “outfoxed”.
+Austin: Right. A hundred percent. Outfoxed, distracted, confused.
+Keith: Yeah, yeah.
+Austin: Whatever you—yeah.
+Art: Humiliated.
+Keith: Yeah. Or, you know, um… hm.
+Austin: A thing I want to say is, we should go quick with these. We should do our best—
+Keith: Yes, yeah.
+Austin: Let’s not let the perfect be the enemy of the good.
+Keith: I like distracted. Distracted is good enough for me.
+Austin: Alright, distracted. How is it that you’ve distracted them from this? How is it that you’ve made a little noise somewhere so that they don’t notice [chuckles] you hacking the Entenmann's machine?
+Keith: Uh… Maybe just sending some junk to a terminal.
+Austin: Oh, sure, sure, sure.
+Keith: Yeah. And it’s like, opening autoplay ad spam.
+Austin: Oh, I love that. [typing] Distracted. Ad spam. Okay. So yeah, the—well, normally, you know, this allows you to do something that would have tripped an alarm normally, or, you know, they would have noticed the signal, but it’s just lost in the mess of all this other stuff, and you’re able to get what you want here. The remainder of this, the remainder of the dice roll thing, is… da-da-da, let me make sure we don’t skip any steps for the first roll… I’ve lost my full little breakdown. Where did it go? I had it up and then I lost it.
+Keith: Do you want me to tell you what donuts I’m getting while you look for that?
+Austin: You do that. You do that. Tell me about your donuts.
+Keith: Okay, so, number one—
+Austin: Are you getting everybody a donut? Or are you, like, is it a custom donut per person, or are you just getting—you’re interested in your donuts, you’re gonna get donuts for your grab bag?
+Keith: I’m doing—I’m doing a get a handful of donuts and people can dibs them as they would, like…
+Austin: Right, sure, sure, sure.
+Keith: So I’m getting a chocolate-glazed jelly-filled. I’m getting a chocolate-glazed, then regular-glazed. I’m getting an old-fashioned creme-filled. And then I’m getting a sprinkles, then glaze, then sprinkles, then chocolate-coated.
+Jack: Woah.
+Austin: Okay. So you’re getting four donuts. You’re not getting any extras. So everyone has to pick from this set. I guess AuDy will not be eating a donut, probably.
+Jack: I will not.
+Keith: You can still have one.
+Art: Maybe AuDy just wants to hold it.
+Austin: This is possible.
+Jack: I do not.
+Keith: Yeah, you can just have a donut. Okay.
+Art: Look at a donut?
+Jack: No. [chuckles]
+Austin: Okay, well, at this point—I’m guessing, by the way, distracted was just a temporary one? Just a loose one, not a—
+Keith: Yeah, I’m not gonna—yeah.
+Austin: Okay. Then yeah, so then, now we can go ahead and discharge that push die. It goes over in your little right column like you did before, over there, and then the rest of them pull back down to the action dice segment. And then, the last step here: “Respect the adjective. Play continues with the new adjective representing a change in the narrative.”
+Austin: And so like, AuDy, I think you actually see some of this, which is like, some of the CCT guards are like, were milling about near one of these picnic tables I described, and they get a call, and then—so they’re like, “[sighs] Break’s over.” And then they get up and start heading towards the nearest, like, guard post—you know, outpost.
+Jack: “Something’s up.”
+Austin: “Something’s up.” Someone’s doing something they’re not supposed to.
+Keith: And so, something that could have happened [Austin: Yes.] is that I could have spent two die, give them to you, made “distracted” locked, and made this a very different kind of situation that we’re dealing with.
+Austin: I would say that if you did that, we would probably want something bigger than distracted. Or like, distracted would have to be—
+Keith: Sure, but I—right. I would be—
+Austin: You’ve sent them evidence of their spouses’ infidelity, and now they are distracted.
+Keith: Right.
+Jack: Oh, no.
+Austin: In like a bigger, longer-term—
+Keith: Right. Yeah, yeah, yeah.
+Austin: I mean, that’s even—permanent is even bigger than that, right? Because a thing to say here is there’s kind of three tiers of adjective. There is fleeting, I believe the word that we use for that is fleeting, there is sticky, and then there is permanent. And, you know, an example that comes up in the book is that you might break an arm, and that would be sticky. You might sever an arm, and that would be permanent. Right?
+Keith: Yeah, yeah.
+Austin: And so, like, permanent is a big deal. You know?
+Keith: Right. But I’m just saying, like, this is something—these are the levels of like, I already—I had learned that the person was—
+Austin: Correct. Though you could not—sorry, you could not have done two things, you only rolled one push die. You can only spend push dice that you actually added to the roll.
+Keith: Oh, sure. Okay.
+Austin: You know what I mean?
+Keith: Okay, so it’s—you’re spending discharged dice. You’re not spending holdover dice.
+Austin: Correct. You’re not spending—
+Keith: So the holdover dice are for resisting, not for…
+Austin: Correct, correct. Or helping, I want to say.
+Keith: …increasing effect.
+Austin: Because you can also help others by discharging a die.
+Keith: Right. Yeah, yeah.
+Austin: And that adds something. I’ll have to look it up when it comes up.
+Keith: Well then, to make my hypothetical more realistic, I could spend—
+Austin: Correct.
+Keith: I could have spent this one push die to make it sticky, to then, like, having substantively changed our situation in terms of should we stay or should we…
+Austin: Well, and what I’m gonna say is right now—
+Keith: …jump the turnstile.
+Austin: Yeah, yes, correct. Yeah, yeah, yeah. If you want to like, capitalize on this this second, it would help you. The person is still distracted.
+Keith: Yeah.
+Austin: They’re doing the things they need to do to get undistracted, that will happen, but if you all decided “fuck it, we’re sneaking in, [laughs] we’re leaving the ship here,” then you could do that. That seems like a good way of giving yourself away is leaving the whole ship behind, [laughs] I think they would figure out who had snuck past if that was the case, but.
+Keith: Fair.
+Jack: It would be a very bad Tourist Union who didn’t.
+Austin: Yeah, exactly. Exactly.
+Keith: Well, they don’t know—they don’t know whose ship this is.
+In The Kingdom Come
+[1:42:04]
+Austin: So, Mako returns with the donuts in hand. Cass, Aria, what do you think of this guy and his donuts?
+Keith: And my stack of other things.
+Austin: Oh, right, also the other—the energy drinks.
+Keith: This is a smorgasbord.
+Austin: Right, uh-huh.
+Art: Um… It feels risky.
+Austin: Do you say as much? Is that—was that in character?
+Art: No.
+Keith: I’m passing out snacks.
+Art: No, I think it’s like… You don’t want to say that, I mean… Maybe like looking for like, a sympathetic glance, first to AuDy, who does not return the glance, and then maybe to Aria. I don’t mean to tell you what AuDy does, Jack, but I think…
+[Ali laughs]
+Jack: No, you’re right.
+Art: …we’ve established that they don’t do sympathetic glances. Not today, but before.
+Austin: Mhm.
+Art: So if this is, again, your first time here…
+Keith: Does AuDy eat anything, or have a food analogue?
+Jack: Um… no.
+Keith: And can I have gotten it?
+Jack: Not really. I realize that this is the opposite of “yes, and”, but historically, AuDy doesn’t really eat or drink. Or sleep, they sort of turn themselves off.
+Keith: That’s like, such a huge thing with us. We’ve always got at least one person who doesn’t eat or drink.
+[Ali laughs]
+Austin: It’s weird, but yeah. Seems true.
+Keith: [laughing] It’s so true. Hey, I mean, that’s fine. I got you a trucker hat.
+[Austin snickers]
+Jack: Thank you.
+Austin: Does it say something on it, or is it just colored?
+Keith: It says “I brake for” and then, like, an emoji of a toilet.
+Ali: What?
+Austin: [laughing] Excuse me?
+Ali: What?
+Art: I brake for toilets?
+Keith: Yeah, like, I go to—I only stop to go to the bathroom.
+[Ali laughs]
+Austin: Okay.
+Jack: Are you explaining this to AuDy [laughing] who’s just sort of looking perplexed?
+Art: Going to the bathroom is a thing that happens.
+Keith: I thought it would be ironic.
+Jack: Okay. Thank you.
+Art: I thought it was like, “I break toilets.” [laughs] Because I’m a robot and I don’t understand toilets.
+Keith: No, no.
+Art: Toilets would be like the hardest thing for a robot to understand, right? We agree on that?
+Keith: I think that—
+Jack: It’s that or the mystery of human life and love.
+Austin: [hums] One or the other.
+Art: It’s—but it’s like, it’s neck and neck.
+Keith: Yeah. And they poop? [laughs]
+Austin: Aria? Aria and Cass, I need to know which donuts you’re taking, and also, I’d like to know what you think of this… little blue freak.
+Ali: Sorry, I was distracted. [laughs]
+Austin: Yeah.
+Art: I think I like the chocolate glaze with the regular glaze on top.
+Keith (as Mako): [hums] Good choice.
+Ali (as Aria): Which of these doesn’t have any filling?
+Keith (as Mako): The one that—oh, the one that Cass took, and then also the glazed-sprinkles-glazed-sprinkles doesn’t have filling.
+Ali (as Aria): Ooh. Wait, there’s two different sprinkles?
+Keith (as Mako): It’s like double—you’re normally not allowed to mix glazed and sprinkles, but this is glazed and sprinkles, twice, each.
+Ali (as Aria): Wait, so double layers?
+Keith (as Mako): It’s double—yeah, four layers.
+Ali (as Aria): Ohh.
+Keith (as Mako): Two each, glazed and sprinkles. Chocolate sprinkles.
+Ali (as Aria): [softly] Wow.
+Art: I think that’s too sweet.
+Ali: [laughs] Aria immediately realizes this when she takes a bite out of it.
+Austin: Aw.
+Ali: Texturally very interesting, I bet, though.
+Keith: Yeah. I’m going—I’m gonna have the chocolate-glazed, jelly-filled.
+Austin: This sounds so gross to me.
+[Ali laughs]
+Keith: That sounds so good to me.
+Austin: Bleh. I don’t like a chocolate donut as it is.
+Keith: Oh, really?
+Austin: Or a chocolate glaze, really. Yeah, yeah.
+Keith: I don’t like it—I like chocolate glaze, that specific kind of chocolate donut I really like.
+Austin: Mhm, mhm.
+Keith: The like, cake-y donut.
+Austin: Yeah, I don’t, I don’t… It’s too much. It’s too rich. Anyone else getting up to anything during this downtime? Any other conver—like, icebreakers between this crew, anyone have—
+Keith: This may be a Dunkin’ Donuts thing, it’s not a nice enough donut to be rich. You know what I mean?
+[Ali laughs]
+Art: Is there, like… I want to have a conversation about the security, but I don’t know what the security—like…
+Keith: Oh, I do.
+Art: But like, [chuckling] I want Cass to say something smart. But Art is dumb.
+Austin: Oh.
+Keith: Oh, okay, I see what you mean. I know what you—I get it now.
+Art: Art doesn’t know about the security.
+Keith: What kind of smart thing might you want to say if you knew how to say it?
+Art: You know, like, identifying, you know, identifying the weak points, if we are gonna go around this blockade, what’s the—how do we hop the fence? What’s the…
+Keith: I identified the dumbass in charge as a weak point.
+Art: Sure.
+Ali (as Aria): How do you know he’s a dumbass?
+Keith (as Mako): Because I stole a bunch of donuts by sending spam to his computer. It took one second.
+Art (as Cass): Do you think the donut guy is the same guy as the fence-hopping?
+Keith (as Mako): Yes.
+Art (as Cass): Wow. I can’t believe we lost a war to people who would assign tasks like this.
+Keith (as Mako): I think it’s that they’re trying to make the donuts extra secure, not that they’re trying to make the gate less secure by outsourcing it to a donut man.
+Art (as Cass): [hums]
+Austin: [chuckles] You know, there are things that you could do that are—think of it like, you’re not gonna leave the ship behind.
+Keith: Right.
+Austin: But you could clear the record of who you are, or try to get information from these folks, or something like that, you know? That stuff is all on the table, technically. I want to make sure that, like—
+Keith: If we leave the ship, are there like—are there like, people we can talk to? Are the security people just like, around?
+Austin: The security people who were just around just went back to their security booth. You can go bother them, but they are—they have been called back to duty. And there are other people, like I said, milling about here and there. I don’t know that you necessarily—you know, you could roll to see if there’s anybody here, to see if you want to—if there’s someone to recognize. I’m looking at your contacts to see, like, none of your people are here. I don’t think.
+Art: Bothering the security people feels like a bad idea.
+Austin: Oh, sure, sure, sure.
+Art: In terms of, like—
+Keith: Is there a high occupancy vehicle lane, or an emergency route lane?
+Austin: No.
+Keith: No?
+Austin: No, everyone’s here for 12 hours. It’s an airlock. The whole thing has to open.
+Keith: Right, okay.
+Art: What if, like, an ambulance needs to come through?
+Austin: There is medical—there is a medical station here, right?
+Keith: Okay.
+Austin: There’s a doctor on staff, right?
+Keith: Right. So if someone really important needs to come in, they just schedule it so that they’re here when the doors open.
+Austin: [laughs] When the—yeah, exactly.
+Art: Well, if the—if the security people are back there, I think we should all just sort of, like, walk over and see what the fence-jumping area is like.
+Austin: There’s no fence to jump. I want to be as clear as I can be.
+Keith: Yeah, sorry, that was a confusing metaphor.
+Austin: It’s an airlock.
+Jack: It takes 12 hours to…
+Austin: There—now, is there a way to get through this without the airlock? Yeah, probably.
+Keith: Yeah, okay.
+Austin: But that—
+Art: Yeah, I mean, you can always breach it.
+Austin: Or there might be back ways through hallways and through other—you know what I mean?
+Keith: Right, small individual airlocks. Human airlocks.
+Austin: Right, do the people—the question is like, do the people who work here need to wait 12 hours before leaving, or do they have, like, a TSA style side entrance? You know? Though I think, actually, TSA people can’t do that.
+Art: Yeah, let’s find that.
+Austin: Right? TSA people do have to go through the thing.
+Art: Is that true?
+Austin: I think so. I think there might be other types of side entrances, though. Maybe I’m wrong. Anyway. So yeah, you could try to look for that type of stuff. Again, I’m not trying—you could just wait in the ship for 12 hours. We don’t have to even record for 12 hours. We could just say.
+Ali: No…
+Keith: Yeah. Right, we could just handwave it.
+Austin: We could just handwave it.
+Keith: Yeah, it just happens.
+Austin: [mimics buzzer sound] It’s opened.
+Art: I’m just looking out for the audience.
+Austin: No, I gotcha.
+Art: Who I don’t want to have to sit here for 12 hours.
+Keith: [cross] They don’t have to wait either.
+Austin: Totally. They have—they can go listen to something else.
+Art: Ali, cut in 12 hours of dead air here.
+[Keith laughs]
+Ali: No.
+Keith: Real. We’re playing—we’re doing it real. Friends at the Table’s real from now on.
+Ali: Libsyn would delete our account.
+Keith: It’s Aristotelian now.
+[Austin laughs]
+Art: Well, we’d do it in several parts.
+Austin: Sure, yeah.
+[Ali laughs]
+Art: [laughs] Part 4, 3 hours of dead air.
+Ali: I guess Henry Kissinger decided to make like Spotify and call it a wrap.
+[group laughter]
+Ali: Sorry, go on.
+Austin: Was that from someone else, or was that from you?
+Ali: [laughing] No, I just saw that on Twitter.
+Austin: Okay, okay.
+Ali: For just a second, and I had to say it out loud.
+Austin: Yeah, uh-huh.
+[Art laughs]
+Keith: I’m happy to—I mean, now that I’ve got a pile of snacks in front of me…
+Austin: Yeah, you’ve done what you needed to do. Yeah.
+Keith: …I’m happy to wait.
+Austin: Yeah, I gotcha. Yeah, yeah, yeah.
+Keith: Right.
+Art: Alright, maybe waiting’s the right idea. Maybe, um… I want to just, like—
+Keith: [cross] Here’s the thing. Here’s why—I know why Art is like, how do we get—because we’ve all played games with Austin, and we know that Austin’s gonna be like, something happened in this 12 hours that you didn’t get to do.
+Ali: Mhm.
+Austin: Sure. Yeah, the world moves.
+Jack: I think that AuDy stands up from the pilot’s seat, and turns to the people in the cockpit. We know the Kingdom Come’s cockpit is small and cramped and kind of cobbled together from various bits and pieces. Listeners who have listened to COUNTER/Weight, of course, know that the Kingdom Come was like a military vessel at a pivotal moment during the Golden War, but now it is full of the donuts from Entenmann's Choose Your Goos machine.
+Austin: Yep.
+Jack: And I think AuDy says,
+Jack (as AuDy): We’re wasting time. Do you three always stand around?
+Keith (as Mako): I was getting snacks.
+Jack (as AuDy): “Getting snacks” is not taking action in a way that is going to help us. You, Apostolosian. Do you always stand around?
+Art (as Cass): I think we’ve been doing recon.
+Jack (as AuDy): Recon, looking out of windows.
+Keith (as Mako): I did recon at the Entenmann's machine.
+Art (as Cass): [cross] Yeah, that’s what that means, you look at…
+Ali (as Aria): And who’s the driver who got us stuck in traffic?
+Jack (as AuDy): The traffic was—I couldn’t control how the traffic went. I was moving exactly as planned.
+Keith (as Mako): They put the schedule online.
+Ali (as Aria): Uh-huh.
+Keith (as Mako): They put the schedule on Holidaze Inn.
+Jack (as AuDy): I do not have access to the schedules online. I respond based on the information that I’m given.
+Jack: And AuDy touches the top of their head where their antenna, which would have previously been connected to the Mesh, is now, you know, dead metal. And I think that they tap the front of their vest, which says “security” on the front of it.
+Austin: [chuckles] It does do that. It does.
+Jack: And they say,
+Jack (as AuDy): I’m going to go and talk to the guards. Follow me or not.
+Jack: And just, you know. Metal feet against metal floor of the Kingdom Come, heads out towards the exit bay. AuDy is going to go and head to the guard point that they saw the [chuckles] low-voiced toadies heading off to.
+Austin: [deep toady voice] “Eh. It’s us.”
+Art: Is the ship gonna, like, fly itself?
+Jack: Well, it’s parked.
+Austin: It’s parked.
+Keith: It’s anchored.
+Austin: No, it’s parked. It’s on the ground. Isn’t it?
+Art: I thought we were—
+Keith: Oh, right.
+Art: I thought we were, like, in traffic in a different way.
+Austin: No, no. No, this is a—it’s an airlock. You’ve land—you’re on the ground. You’ve landed. You’re in, like, a cargo hold, basically.
+Keith: It’s visually traffic, but spiritually, it’s like a waiting room.
+Austin: It’s a—yeah, the real analogy that we hit before of “it’s a rest stop at a toll booth” is exactly right.
+Art: I thought it was like if a toll booth had a rest stop, like, people were just—like the traffic was so bad, people were just getting out of their seats…
+Keith: [cross] Okay, yeah, yeah, yeah.
+Austin: [cross] Oh, right. No, no. It’s like if the toll booth existed at the rest stop, you had to go park, you know.
+Keith: Right.
+Austin: It’s like when a bus goes across a border.
+Keith: And then every 12 hours it opened up its arms.
+Austin: Right. Exactly. Yeah. Mhm.
+AuDy
+[1:53:52]
+Austin: Anyway, AuDy, are you heading out by yourself? Anyone else going with AuDy?
+Jack: I’m gonna—
+Keith: I’ll follow.
+Jack: I’m gonna leave room for people to come and follow.
+Art: Yeah, sure.
+Austin: Okay. You head over to this little—I’m literally picturing it like a toll booth now, which isn’t right, probably, but it’s just a toll booth out among the cars and the spaceships, and there is, like, one hover truck that’s parked nearby, and in the middle of it all is like a little circular booth with a pair of guards, a pair of security guards there.
+Keith: While we’re walking, I lean over to Cass and I’m like,
+Keith (as Mako): Robot’s a jerk.
+Art (as Cass): Yeah.
+Jack: [chuckles] The measure of it from Cass.
+Austin: What do you do?
+[Jack hums]
+Art: I think I want to be, like, three paces behind. And sort of like, hanging back. If AuDy’s about to, like, mess up…
+Austin: Right. Yeah, yeah, yeah.
+Art: I want to have a different angle.
+Keith: I’ll be a team player and I will stand with AuDy.
+Jack (as AuDy): Hello.
+Austin (as Security Guard): Uh, just give us a second.
+Austin: They’re typing. Beep beep beep boop boop.
+Austin(as Security Guard): What’s your inquiry?
+Jack (as AuDy): I’m looking for a missing man.
+Austin (as Security Guard): Looking for a missing man? That’s not what we do here. We are not detectives.
+[Ali scoffs]
+Jack (as AuDy): He will be on your books.
+Austin: Looks between you and Mako.
+Austin (as Security Guard): Our books?
+Austin: Looks around the room.
+Austin (as Security Guard): We don’t got books.
+Jack (as AuDy): I have reason to believe that you have detained this individual. I imagine—
+Austin: This is not—you would know that this is not—no, no, this is not the mobsters. The mobsters have detained this individual.
+Jack: Ohh.
+Austin: Yeah, yeah, yeah.
+Jack: I thought that these were mob toadies in addition to…
+Austin: No, no, no, these people work for the—it’s the opposite. Coffee is technically their boss.
+[Jack laughs] [Keith hums]
+Jack: Okay. Then maybe this is the—do they know Coffee is missing?
+Austin: You have no idea.
+Jack: Okay. New angle.
+[Ali laughs]
+Austin: Yeah. I mean, here—I guess you would know—here’s what you know. Orth seems to be wanting to keep it secret and dealt with that a CCT operative has been—or administrator has been captured, and is being held captive by the mob. By the Ithikos family. You know, maybe you don’t know Orth well enough to know this yet.
+Jack: Oh, to know Orth’s—
+Austin: Why.
+Jack: —affect here?
+Austin: Yeah. But the audience might recognize that Orth knows that this could blow up. And maybe he says as much.
+Austin (as Orth): I want this dealt with as quietly as possible, because I need this to not blow up. We don’t need another fire on this planet right now.
+Austin: And so what they might know here is, they might not have heard from Coffee, but they might not know that a ransom note has basically been sent.
+Jack: Yes.
+Jack (as AuDy): I’m looking for Coffee Affogato.
+Austin (as Security Guard): Oh, high roller. Well, Coffee is probably in the home office, and if you want, we can send a message ahead.
+Austin: Let’s pick pronouns for Coffee so that we have those set.
+Jack: I’ve been saying he/him, [Austin: Okay.] but earlier, did you imply that you were using she/her pronouns for Coffee?
+Austin: I don’t think I did.
+Jack: Okay. Coffee, he/him.
+Austin: I can put he/him on… yep. So, yeah.
+Austin (as Security Guard): We can send a message ahead for you.
+Keith: I think, Jack, you might be remembering when Austin described him as a “cloying babygirl”.
+Austin: Yeah, yeah, yeah. Yeah, to be clear, I meant that in the way—
+Keith: Flailing, flailing.
+Jack: Oh, she—he/him babygirl.
+Austin: He/him babygirl is what I actually did mean at the time, yeah, yeah, yeah.
+Keith: He/him flailing babygirl.
+Jack: She/her grandpa…
+Art: He/him babygirl, she/her grandpa.
+Austin: She/her grandpa, yeah, he/him babygirl, these are…
+Ali: Duh. Yeah.
+Austin: Yeah. Yeah, yeah, yeah.
+Keith: Yeah.
+Ali: Cornerstones of society.
+Austin: Mhm.
+Jack (as AuDy): Have you heard from him lately?
+Austin: Looks at—looks over at their partner.
+Austin (as Security Guard): Have we heard from him lately? Uh… we work at the rest stop.
+Austin: [chuckles] “Larry, I’m on DuckTales.”
+[Jack and Art laugh]
+Keith: I’m going—I’m like, moving back to look more like I’m standing behind AuDy in line.
+[Ali and Austin laugh]
+Austin (as Security Guard): We don’t—Coffee doesn’t really… [chuckles] Mr. Affogato doesn’t really attend to the daily operations of the front gate. More of a behind the scenes person, you know?
+Austin: A little dismissive in their voice.
+Keith: Is this sort of like if you went to, like, the cop that busts you for hopping the turnstile and you were like “I’m looking for the mayor”?
+Austin: It’s like—yes, yes.
+Keith: Or “I’m looking for the deputy mayor.”
+Austin: Yes, it is exactly like that. But then, imagine that the mayor is publicly, and like, everyone knows is basically on the take. From the mob, who actually runs everything, also.
+Keith: Sure.
+Austin: So it’s like doubly—like yeah, not only—
+Keith: So like the mayor?
+Austin: Yeah, like the mayor. So not only—like, doesn’t even execute on power. You know what I mean? Not just on the take, [Keith: Right.] but like, Coffee is… and I think the guy just says this.
+Austin (as Security Guard): You’re not from around here. I don’t know who you represent, but I don’t want to get in trouble for saying this, so I should say it quietly. That way no one can hear but you and me. [quietly] Coffee isn’t what I would call a sort of hands-on administrator. Nor is he a big picture administrator, and I wouldn’t say that he’s a sort of a strategic, abstract thinker out of the box type guy. What I’d say is, he is my boss’s boss’s boss. And he’s been that for about five years now, and, you know. I don’t think I’ve seen him but twice. Once at a holiday party where he was very drunk, and once in the news.
+Art: Would you say this is distracting these people?
+Jack: I would like to roll some dice.
+Austin: Sure.
+Art: That they’re invested in this conversation?
+Austin: Let’s roll some dice and find out if they’re—if it’s distracting them.
+Art: Alright.
+Jack: I would like to roll Coax.
+Austin: What is your Coax score?
+Jack: My Coax score is 3. Because while it might seem—“Coax is used to influence people through words and body language.”
+Austin: Yes.
+Jack: “Intimidate foes, seduce victims, and deceive marks.” AuDy read the first clause in that last sentence, and neglected to pay any attention to the latter two.
+Austin: Mm, mhm, mhm, mhm. So, what are you doing?
+Jack: I am—oh, it’s worth saying as well that AuDy has no face, and no eyes, and no look.
+Austin: Yes. Yep.
+Jack: They are—they have a sort of almost like a flat robotic face, much closer to the way that we picture robots, or that the robots in 2023 are manufactured, industrial robots, than, for example, the synths that have appeared in later Divine Cycle stuff.
+Austin: Yes, yes.
+Jack: AuDy is wearing a blue Kevlar vest with the word “security” on it.
+Austin: Yes. Which I think is part of why you’re being spoken to at all at this point. Someone assumes that you are representing some other security, you know, private security firm or something.
+Keith: And are they wearing a hat?
+Jack: No hat.
+Austin: They do not wear the hat. [laughs] I only brake for toilet?
+Keith: [laughs] I brake for toilet.
+Austin: I brake for toilet? Yeah.
+Jack: My adjectives are blunt, coordinated, and tough. Because I think what AuDy does is just, like, leans forward across the counter, you know, putting their body in—consciously putting their body in the space of this guard, and says something to the effect of,
+Jack (as AuDy): I represent your employers.
+Austin: Mm. Just blunt?
+Jack: And—yes, this is blunt, and this is very much a—I haven’t been—I haven’t been back playing AuDy for long enough to figure out how they would phrase this, but the tack that I am taking is “how dare you”, you know, “just gab about this person to me in this way.”
+Austin: Sure. Right, right.
+Jack: And the adjective that I am seeking to employ is “overwhelmed”. I am trying to give my colleagues—I nearly said friends. I am trying to give my colleagues a window here.
+Austin: Okay.
+Jack: So, my Coax score is 3. I’m gonna drag three action dice.
+Austin: Grab three action dice, pull them up to the dice rolling spot.
+Jack: Up to the dice rolling spot.
+[Ali and Art chuckle]
+Austin: Hell yeah.
+Jack: And I have three push dice. I am spending one of them [Austin: Yep.] because I am blunt.
+Austin: Drag it up there.
+Jack: And I don’t think I have another adjective to spend here… I’m just looking. My thinking is that this is probably the most applicable stuff.
+Austin: The most what stuff?
+Jack: The most applicable stuff.
+Austin: Sure. I think that makes sense, yeah.
+Jack: Alright. I’m gonna right click on all of these and hit roll. Multi-sided, random side. Okay. I rolled two 5s and—
+Austin: Mhm.
+Jack: Two 5s, a 1, and a 2. So my highest dice is a 5.
+Austin: And you got two of them. You remember what that means?
+Jack: Oh, it’s really cool.
+Keith: Ooh, yeah.
+Jack: That is now a 5.1, [Austin: Correct.] because it just needs to be very slightly over a 5.
+Austin: Yes. So if they were defending this—
+Keith: It’s a tiebreaker 5.
+Austin: —with a 5, you would win that 5, because you have a 5.1, not a 5. Exactly. Do you—hm, I think this is being—I mean, I think you’re succeeding here no matter what. I’m deciding, you know, you are effectively just trying to overwhelm them through force of will, right? I guess the thing—I’m wondering what they’re responding with. I think they’re responding with Detect, because they’re trying to, like, keep their eyes on—he’s trying to keep his eyes on the rest of the crew, and like, on the situation, but you’re overwhelming this. So are you making this a sticky adjective?
+Jack: I am making this a sticky adjective.
+Austin: Okay. Which was—one more time, overwhelmed is what you said?
+Jack: Yeah, overwhelmed. I think that, you know, um… oh, we’ll get to this in the next step. [chuckles]
+Austin: Uh… [typing] I believe that that’s right. I just had to write it down for a second. Alright. So, yeah. So at this point, you have succeeded, you’ve applied this adjective, right? That means I get this die.
+Jack: You do.
+Austin: Boom. I pull it into my GM pile. Love that. And that means I can use it back against you by—to hit you with some sticky adjectives in the future. So, yeah. You discharge it. What were you gonna say—you were like, I think…
+Jack: Oh, I think that there is like, this very particular angle going on here, which is that they are—
+Austin: Oh, actually, you know what? I have a thing here, which is are you trying to—you’re trying to overwhelm just this one guy, or are you trying to overwhelm them as like, a unit?
+Jack: Oh, that’s a good question, because…
+Austin: Because if you want to overwhelm them as a unit, you have to spend one more push die as a—not give it to me, but you have to discharge it, because it’s multiple targets.
+Jack: Yeah. I’ll discharge it.
+Austin: And I do think the idea of telling them I represent the CCT, like, the idea, like, oh, an outside person has shown up, an outside weird robot has shown up and—
+Jack: This is the thing I was gonna—
+Austin: —successfully argued—has successfully convinced us that they are part of the CCT. That’s trouble, yeah.
+Jack: It’s the double whammy of “we just got caught telling tales out of school about our boss, [Austin: Right.] and someone is claiming to represent our employers.”
+Austin: Yeah.
+Jack: You know, he said that thing where he was like, my boss’s boss’s boss, [Austin: Yeah.] and he’s now probably wondering where up the chain this has come from.
+Austin: Yeah.
+Jack: And then, at the time that COUNTER/Weight is set, the fact that this robot wearing a security vest [Austin: Yes.] is saying this is like, who is employing robots to…
+Austin: Mhm.
+Jack: And also, AuDy’s trying—
+Austin: “Do we have a weird robot unit I didn’t know about?” [laughs] You know what I mean?
+Jack: Yeah. And AuDy is trying to physically intimidate them as well, [Austin: Right.] you know, putting their body in their space.
+Austin: Yeah.
+Jack: It’s a real nexus of anxiety if you are these two unfortunates.
+Austin: Yeah. I think immediately this person turns around and says, you know…
+Austin (as Security Guard): Gene, this robot, they say—[whispering] they say they represent—they’re from the Technocracy, and they’re looking for Coffee.
+Austin: And, you know. Lot of back and forth here, quietly between the two of them about whether they need to call up to Ernesto, who’s their boss, and talk through the situation.
+Austin (as Security Guard): We’ll be right with you. Apologies, we’ll be right back with you to see if we can get you an update on the information that you need.
+Jack: Have at it, my friends. AuDy does not say that, but.
+[Austin laughs]
+Jack: [laughs] This is cheery AuDy, a new character I’ve decided to play.
+[Keith laughs]
+Austin: How do people want to take advantage of this, if at all? Because like, the funny thing is we’re stumbling into another version of this story, which is like, one, they now know that you are here, but two, is this—is this a distraction in the sense that you want to like, sneak past and go through and go deal with your whole thing in a single night Die Hard style, [Art: Yeah.] and like be back before the doors even open, you know?
+Art: Yes.
+Austin: Yeah.
+Jack: Oh my god. What a way to…
+Art: It wouldn’t be a Christmas prequel if it’s not Die Hard.
+[Ali and Jack laugh]
+Austin: Right. That’s right, that’s right.
+Jack: What a way to, like, make our first mission with Orth.
+Austin: [chuckling] Yes.
+Jack: You know, Orth takes a gamble on us, [Austin: Uh-huh.] and it’s like, we did it before the gate opened.
+Keith: Yeah. God, I love, I’m—look at how many chickens we’re gonna have.
+Jack: What? [laughs]
+Keith: Just counting all these eggs, like, wow, these chickens!
+Austin: Yeah, counting all these eggs, yeah.
+[Ali and Jack laugh]
+Austin: The ball’s in your court.
+Art: Yeah, let’s do it. Let’s just sort of like, walk out of their eyeline and around.
+Austin: Uh-huh. Yeah.
+Jack: Are you with them, Aria, or have you maybe wisely stayed behind?
+Aria
+[2:08:33]
+Ali: I was either imagining Aria, like, having followed everybody to the outside of the ship, [Austin: Mhm.] and then ended up, like, catching the eye of someone in line, or the person parked next to us…
+Austin: Yeah.
+Ali: To just sort of do, like, a vibe check.
+Austin: Chop it up.
+Art: “Is that Aria Joie over there?”
+[Ali laughs]
+Austin: Yeah, I think maybe that’s a total possibility. Yeah, I think someone who’s been like, doing the “wait, are you…” and finally just says,
+Austin (as Fan): I’m sorry. You’re Aria Joie.
+Ali (as Aria): Oh, hi! Yeah.
+Austin (as Fan): What are you doing in the Sill?
+[Art laughs]
+Ali (as Aria): Oh, well, I’m on Counterweight now.
+Austin (as Fan): Oh, like, you’re doing—like, you have a residen—are you gonna do a show at the Cerulean?
+Ali (as Aria): Um, well, I’ve, um, been performing at some night clubs around town, and I think that I might, yeah.
+Austin (as Fan): You think that you might? So there’s not like a—you’re not—I’m not gonna get to catch it while I’m in town?
+Ali (as Aria): Well, it’s like a—it’s like a, you gotta be in the know, it’s sort of like a, if you’re there, you’re there… It’s sort of like a, you have to—
+Austin (as Fan): I’m not in the—but you just told me. Doesn’t that mean I’m in the know?
+[Art laughs]
+Ali (as Aria): Well, that’s what I’m saying.
+Austin (as Fan): Why didn’t the Tourist’s Union tell me that you were gonna do a secret show?
+Ali (as Aria): Well, that’s the thing, is like, it’s not like a Tourist’s Union thing, it’s like a, you know Aria, right? Hi, I’m Aria. And now you know, right?
+Austin (as Fan): So where is it?
+[Jack chuckles]
+Ali (as Aria): [chuckles] Well…
+Ali: Can—[laughs] I’m trying to think of, like, if Aria would have, like… There’s like social media, right? Like the thing that she’s doing is—she wants to be an influencer, right?
+Austin: Oh my god.
+Ali: So she would obviously—like that’s the thing, right? Like, that’s not…
+Austin: Yeah, I—
+Keith: She wants to be an influencer now.
+Austin: Uh-huh.
+Ali: Right, well, she’s like a pol—she wants to be a political influencer now, and before she was like, “shop Joypark 30% off holiday sale” or whatever, right?
+Austin: [laughs] Uh-huh.
+Ali: Like, but now she’s like, you know…
+Keith: Right.
+Austin: Right.
+Ali: “World sunshine day on Counterweight”, or whatever—
+Austin: Oh my god.
+Ali: Whatever her fucking, like… [laughs]
+Austin: Uh-huh.
+Ali: “Come to this sit-down.”
+Keith: World sunshine day.
+[Austin groans]
+Ali: She was like, a weird—she’s a weird… [laughs]
+Austin: Yeah, Ali, how do you feel about Aria Joie’s politics in 2023?
+Ali: [laughs] Um…
+Keith: The bells are tolling now.
+Ali: I think she had some ideas.
+Austin: Oh.
+[Art chuckles]
+Ali: I think let her cook.
+Austin: Let her cook.
+Ali: [laughing] Is—is what I have to say about Aria Joie’s political ideas.
+Austin: Mhm.
+Ali: Um…
+Ali (as Aria): So yeah, if you just follow me on, um…
+Austin (as Fan): We can’t—but once we go inside, we can’t access the Mesh. How am I gonna know… Also, I follow you already. You didn’t say anything about a secret show.
+Ali (as Aria): Well, it’s—
+Austin (as Fan): Unless you have, like, a secret account I can follow?
+Ali (as Aria): Right, yeah, it’s no longer at ariajoieofficial.
+[Ali and Keith laugh]
+Austin (as Fan): Ohh.
+Art: [laughing] This is like one of those Instagram scams, except that the actual person is telling you to your face.
+Keith: “You’ve actually gotta sign up to my WhatsApp.”
+Austin (as Fan): It’s not at aria—but ariajoieofficial still posts.
+Ali (as Aria): Well, yes. Right, right. It’s like, um, exclusive.
+Austin (as Fan): Oh. What’s the account name?
+[Keith chuckles]
+Ali (as Aria): Um… It’s ariajoie, but the “A”s are “4”s.
+Austin (as Fan): Oh. Okay. I’ll look it up.
+Keith: This has gotta be, at this point, this person is like, someone has gotten plastic surgery to look like Aria Joie.
+[Ali laughs]
+Austin: Yeah, this is exactly it. They—their eyes—the camera looks down and sees how many—so, the camera looks at their phone, or their interface, right, because they’re not looking at their phone, they have, like, you know, digital eyes or whatever, robot eyes, and they’re looking at their screen, and we saw the Aria Joie account that has like, three trillion subscribers or whatever—
+[Ali and Keith laugh]
+Austin: —and then it shows the… [laughs] 4ri4joie account—
+[Ali and Keith continue laughing]
+Austin: [laughing] How many subscribers do you have? ‘Cause it ain’t trillions.
+Ali: It’s not a trillion, but it’s—is it—look.
+Keith: Can I tell you, my first thought was 334.
+Austin: Yeah, I mean—
+Ali: 334, okay. I was like—
+Austin: I think it’s not many.
+Ali: I was like, what’s—
+Keith: I think it can be whatever you want it to be, but that was my “what’s the funniest low number of followers?” 334.
+Ali: I didn’t know if, like, 26 or, like, 300 was it, [Austin laughs] because it’s like, are there—is this the only people she’s spoken to on Counterweight so far, or is it presumably somebody googled Aria and accidentally, like, pressed on her?
+Austin: [cross] It’s your real—oh. You did not, no, you did not get the SEO at all. There’s no fucking way.
+Ali: [laughs] But there’s stans, there’s a Reddit, you know…
+Keith: For 4ri4joie?
+Austin: There are Aria Joie RP accounts that have more followers than you.
+Ali: Right.
+Keith: Right.
+Ali: Right. Well, yes. Yeah. Uh-huh.
+Austin: I think it’s—I think it’s low—I think it’s—I think 300 is…
+Ali: 300 is—yeah.
+Austin: Is probably right.
+Ali: Right.
+Austin: And I think that they just go,
+Austin (as Fan): Very exclusive.
+Ali (as Aria): Well yeah, I, it’s, um, I’m just reaching out to people on Counterweight right now.
+Austin (as Fan): Okay.
+Ali (as Aria): Are you just visiting, or are you from the…
+Austin (as Fan): [hesitant] Yeah? I’m—yeah, mhm. Yeah, I’m visiting. Yeah.
+[Ali laughs]
+Keith: Oh my god. Oh my god. Now it’s this person that’s trying to get away.
+Austin: Yeah. Uh-huh. Exactly
+[Keith laughs] [Ali and Art laugh]
+Austin (as Fan): You know, I have—
+Art: Let’s see where this person goes to get away from the situation, we’ll follow them in.
+Keith: Oh my god.
+Austin (as Fan): I have some—oh, you know? It was so good to meet you. I’m gonna tell all my friends, but I’m—
+Ali (as Aria): Is this your first time to the Sill?
+[Ali stifles laughter] [Keith laughs]
+Austin (as Fan): Yeah, I haven’t been here—in fact, I have to go take a call for work.
+Ali (as Aria): Oh, I understand.
+Austin (as Fan): If that’s okay, sorry, apolo—
+Ali (as Aria): Yeah.
+Austin (as Fan): Big fan, I love… all the songs.
+Ali (as Aria): Do you want to take a picture?
+Austin (as Fan): No.
+[Ali laughs]
+Austin (as Fan): I don’t want to—uh, I…
+[Art laughs]
+Austin (as Fan): I, uh, couldn’t post it anywhere because it’s—I don’t want to give away the exclusive part. And, you know—
+Ali (as Aria): Oh, no, you could.
+[Keith laughs]
+Art: You should fuckin’ play a show when this is over just to—[laughing] just to mess with this person.
+Ali (as Aria): It’s like—it’s like, submersive, you know?
+Austin (as Fan): It’s submersive?
+Ali (as Aria): It’s like, unscheduled.
+Austin (as Fan): Like, it goes underwater?
+[Ali laughs]
+Keith: [laughing] Underwater. Canonical—
+Austin: Canautical.
+[Keith laughs]
+Art: Ay!
+Keith: [losing it] Canautical! [laughs]
+Austin (as Fan): Yeah, we could… we could take a picture. If you want to—come—yeah, you can come over—we can take a picture.
+Austin: [laughing] And they’re waiting for you to come over to them.
+[Ali and Art laugh]
+Austin: And they’re doing—
+Jack: This is the most busted Aria Joie interaction and we did a full series of…
+Austin: They’re doing—they’re standing in such a way that you’re hover handing.
+[Ali laughs]
+Keith: Mako is very loudly sipping on the end of a, like, you know when you’re done with a soda, and you can [slurping], like, this is what—this is the noise that I make for 12 seconds.
+Austin: We’re back, baby.
+Ali: Can I tell everybody what to google to know what Aria Joie is wearing? [laughs]
+Austin: Please.
+Keith: Yeah.
+Art: Yeah.
+Ali: So, I—when I originally conceptualized Aria, I was going for like, a—I think on my sheet it says “menswear/military girl, magical girl inspired”?
+Austin: Uh-huh.
+Ali: Which, like, is already a thing that has a bunch of asterisks attached to it, because it’s like… She was using menswear/military stuff to like, have people think that she was an authority, or had power.
+Austin: Right.
+Ali: But like, what does that mean when…
+Austin: Yeah.
+Ali: You know, the most militaristic faction in the current universe has, like, a billion genders? [laughs]
+Austin: Yeah, uh-huh. Different time, though, right?
+Ali: Uh-huh. But—
+Austin: And specifically, there was also the, like, the Jace Rethal thing, right?
+Ali: Right, yes, one hundred percent.
+Austin: Where like, you—there’s a very direct particular guy who you are, you know. Were aping.
+Ali: So, if you look at Perfume’s 2019 Coachella performance.
+Austin: Sure.
+Ali: [chuckles] The—I am copying and pasting [Austin: Uh-huh.] to our Discord…
+Keith: The poofy shorts here?
+Ali: [laughing] Yes.
+Austin: Oh, yeah.
+Ali: The woman in the center here, who I am facecasting as Aria, is Kashiyuka. And it’s sort of like a… [laughs] The top of it is very structured, [Austin: Mhm.] but it’s sort of like if you were wearing an outer coat jacket, but the bottom half of it was like, a jester’s court pants.
+Austin: [scoffs] Uh-huh.
+Ali: But also, that was a dress.
+Austin: Yeah.
+[Ali laughs]
+Art: Yeah.
+Austin: And also—
+Art: If I could take a stab at this, [Austin: Please.] it’s like if the ride “It’s a Small World” came to life.
+Austin: Mm. Mhm, mhm.
+Ali: Sure.
+Keith: Yeah.
+Jack: This is an Aria Joie ass outfit.
+Austin: It is.
+Ali: Right. Here’s a gif of her wearing it, doing a spin kick.
+Austin: Oh.
+Keith: I’m gonna take another shot at it. It’s like what if the Snow Miser from The Year Without a Santa Claus was Tinkerbell.
+Austin: Ohhh, yeah.
+Ali: Oh, sure. Yeah. Okay. I’m glad that you bring—
+Art: Yeah.
+Austin: Not quite “what if Han Solo was Beyoncé”, but close.
+[Ali and Keith laugh]
+Keith: It’s a little—it’s more specific, but it’s less…
+Austin: Right. I will say, this gif, I didn’t think it would move this much.
+Ali: Uh-huh.
+Austin: The skirt really looks like it’s made of metal, or like a Star Wars space plastic.
+Ali: Oh, it’s very structured.
+Keith: Oh, yeah, yeah. It looks a very tough plastic, but no, it moves.
+Austin: Yeah, yeah.
+Ali: In general, if you want to look into this more, if you do a Twitter search for #PerfumeCostumeCollection, I think a lot of their outfits are very structured in a way that it makes sense where it’s like, oh, the designer might be going for what is a military flight suit, but is adding these elements of like, [Austin: Right.] high fashion, high decoration, femininity.
+Austin: Love it.
+Ali: Anyway, so. [laughs] Because this is a winter outfit, this stupid dress thing, I think, like, with big faux fur cuffs, and like, thick tights. And like, doing a signature pose with this person who doesn’t care, and in, like, 3 years is gonna be like, “Holy shit.”
+Jack: “Oh my god.”
+[Ali laughs]
+Keith: Oh, is this person gonna have a moment where they realize that was the real Aria Joie?
+Austin: Oh, for sure, right?
+Ali: Maybe in a couple hours. Who knows? [laughs]
+Austin: Oh, yeah, who could see—who could say where this goes?
+Keith: Yeah. Yeah, when you do your spontaneous concert in the center of town.
+Art: Or they’ll be like, “Can you believe that Aria Joie impersonator went on to make so much trouble?”
+Austin: I mean, that’s what they think—that is what they are texting all of their friends this second. You know?
+Ali: Mhm.
+Jack: Oh, you know what this feels like to this person? This feels like when we were in the Outback Steakhouse [Austin: Yes.] and that man did a British accent [Austin: Yes.] and then realized that I was British.
+Ali: [laughing] Oh my god.
+Austin: Yes. It’s exactly that. You’re right.
+Jack: [laughing] And his entire life fell apart.
+[Keith laughs]
+Austin: Oh, it’s so fucking funny. Oh, I want to go back to that Outback—it’s gone. It’s gone, isn’t it?
+Keith: Did it—did it because they thought that you were doing it?
+Austin: No, other way.
+Jack: No, no—
+Keith: Or they did it just unprompted?
+Austin: Yes.
+Jack: Yep. Unprompted.
+Ali: Right.
+Keith: Unprompted did a fake British accent, and then you said something.
+Art: This was the server?
+Austin: Yeah.
+Ali: Yeah. This was like, their nightly bit.
+Austin: Yeah. I think, like, you know—
+Keith: That’s a tough nightly bit.
+Art: You think they’d do Australian.
+Jack: You would think they would do Australian.
+Austin: Oh, I wonder if they thought they were doing a—
+Jack: No, no, because they said they were from Birmingham.
+Austin: That’s right, they did—[chuckles] they had a whole thing. I think they were—they—
+[Ali chuckles]
+Art: Lots of places have a Birmingham.
+Keith: Yeah, we have a Birmingham.
+Austin: It’s true. I think that it was like a, trying to get through the night, you come up with a little game for yourself.
+Jack: Yeah. I mean, look, fair play, hundred percent. But… it was extremely funny.
+Austin: It was so funny.
+Keith: Yeah. Yeah.
+Art: ‘Cause you’d think at an Outback, you’d just be like, [mock Australian accent] “Ah, good day, ya wazzers, what can I getcha?”
+Jack: Yeah, but then you’re faced with someone from Melbourne or whatever.
+Austin: Oh, and then it’s appropriative. Because you’re in the restaurant too, you know? Come on.
+Jack: At that point, no. Me—
+Art: Well, you’re just at work.
+[Austin laughs]
+Keith: And they’re just Australian.
+Austin: I know. I know they’re just Australian. I know.
+Art: At a Crocodile Dundee themed restaurant.
+Austin: Shoutouts to our Australian listeners.
+[Ali chuckles]
+Jack: Me, thinking of that.
+Austin: You’re just Australian.
+Art: Sorry about that attempt at the accent.
+Austin: I don’t think—that’s fine, because—
+Art: It sounded better in my head.
+Keith: It was just Australian.
+Austin: That’s fine. It was just Australian. But they’re not—you’re not—there's no commerce involved in this example, you know? Or there was, but it was raising money for the National Network of Abortion Funds.
+Keith: Right. And it can still be interpersonally embarrassing.
+Austin: Right. Yeah. You can still be embarrassed. I think that still—it would still be an embarrassment, for sure.
+Keith: Right.
+Art: Yeah, for our next charity stream, we’ll raise money for a game where we all do Australian accents the whole time.
+Ali: [laughing] No we won’t.
+Keith: Yeah.
+Austin: Absolutely not. God, what if we did, and then we spent—
+Art: Wow, Austin and Ali say charity go to hell.
+Austin: [laughs] What if we spent six months getting it right? Took dialect lessons, you know?
+Art: Took classes.
+Keith: I don’t think we need that. I think we can do it in two months.
+Austin: I don’t know. I’m not good at accents. I think I need the extra time. Because I think I have to like, crack accents in general.
+Art: Well, you’ve never had an accent coach.
+Ali: Can we play this game? [laughs]
+Austin: No, I think we might be done for the night.
+Ali: [laughing] Okay.
+Art: No, it’s the night that Kissinger died, and we’re all doing our best.
+Austin: Where were you the night that Kissinger died?
+Keith: I think this has been going great.
+Austin: Yeah, I think we did just have an all-time scene.
+[Ali laughs]
+Austin: Two in a row, kind of. And we might be done, because it’s late, and I’m tired, and…
+Keith: It is late.
+Art: First ever three and a half hour Clapcast with some mechanics in there.
+[Keith laughs]
+Austin: Yeah, we got some dice rolls in. We got a sticky adjective.
+Art: But we’re all fuckin’ punchy.
+Austin: We’re very punchy. You expect us not to be punchy?
+Art: And we’ll come up—[laughing] we’ll come back with Cass and Mako bolting for the door.
+Closing
+[2:22:28]
+Austin: I mean, that’s what we should end on here is, what do you do with these opportunities that have been given to you? [laughing] I say opportunities as if Aria has secured something for you, which is not the case.
+[Keith and Ali laugh]
+Keith: Well, secured an opportunity to redeem herself.
+Art: [cross] What if Aria just reached in and started honking the horn on this…
+Austin: Yeah, a narrative opportunity. What, um—
+Keith: Sorry, Art—
+Art: I think Cass and Mako run to the—run toward an emergency door or something.
+Austin: Does it—
+Ali: Like, “run”, run?
+Art: Well, just like, walk quick-like. Prowl, maybe.
+Keith: Yeah.
+Ali: Am I—do I get a signal? I assume I get signaled.
+Art: The signal is us bolting.
+Ali: [laughing] Okay.
+Austin: Yeah.
+Keith: Right, yes. You’ve turned around to take this picture so that you can get a good glimpse of us walking away.
+Austin: Right, yeah, and as you turn around to take the picture, yeah, you see the two of them fast-walking past a bunch of Toyota—space Toyota Camrys, and giant space trucks, and then you’re like, “Oh, shit. Time to go.”
+Ali: [laughs] I try to now big-time this—
+Art: Maybe we give you a little, like, hand sign, like a… like a hang loose.
+[Austin laughs]
+Art: But like, you know, good.
+Austin: Right. Yeah.
+Keith: Yeah.
+Ali: Right. I get to get out of this conversation like “Oh, I see my friends, I have to go.” And this person’s like, [laughing] “Yeah. You have to go. Right.”
+Austin: Already gone. Yeah, uh-huh.
+Art: “Oh, no, wait, stay.”
+Keith: “Don’t worry, you didn’t keep me.”
+[Ali laughs]
+Austin: [laughing] Yeah. Exactly. And then yeah. The three of you begin to head—I think, you know, maybe not towards a door that says “exit”, but towards like a, you know, again, what you’re looking for here is like a security hallway that will take you to a rear—or like a secret entrance, you know, into the main place. AuDy, you’re staying behind?
+Jack: For the time being, I think I need to stay behind to…
+Austin: Yeah. Yeah, I think so too.
+Jack: …sell this, right?
+Austin: Yep. Totally. A hundred percent. So, alright. We’ll pick back up as y’all head towards the—actually, let’s get the moment here. I think that they are overwhelmed. That’s enough for you to get through the back hallways of this place. It’s a little bit of a walk, a little bit of a run, a little bit of a peaking down corners, but they are overwhelmed, and their head guy is still distracted, right? Because it was while trying to deal with this spam overflow from the Goos machine that you got—the overwhelmed got added, too, and so now it’s like, oh my god, there’s all this shit that’s happening all at once. You know, “The boss is here? Shit, okay.” And so, easy for you to sneak past, and when you get to the sort of rear, you know, entrance here, which is all automated, and you’re able to, like, get through the exit—it’s a classic, like, oh, all the security is on the entrance, not the exit part, and so you slip through, the door opens, and you can see into the Sill.
+And it’s like, you know. The very close thing that I’m drawing on visually for me is O’Neill cylinders, O’Neill kind of space colonies, which aren’t real, but are all over Mobile Suit Gundam, this kind of long cylinder with a tall kind of, in this case, a glass ceiling for us. And the kind of bottom of this is this kind of sprawling space colony type thing. It’s big in here, right? And the effect is different than a dome, because, especially for you, here, you can see how from this entrance point out across this whole kind of area. Again, I’ll pull us back over to the map for a second, but, you know, in the kind of near—in the near distance, you have—you know, all the dark grey is kind of residential, but then, you know, after some of that, you get to this agora, this kind of big park, and there’s temples in there, and there’s open air markets and stalls, and then beyond that you can see the embassy district, and Cass, especially, I want to make a note of this, like, this is Apostolosian in a real way.
+[Art hums]
+Austin: This is the one place on this planet that stayed looking the way it was. It wasn’t destroyed and rebuilt, it survived the war. It predated the war, and it survived it, and it was meant to be a showcase in a way that’s a little—a little gaudy, right?
+Art: Yeah.
+Austin: It’s not quite a theme park, it’s not quite Epcot, but it’s like—it’s close in that way that’s like, it’s like Washington D.C., you know what I mean, in some ways? Or it’s like, okay, like, you’re trying to say something with this space in a particular way. There is an ideological communication happening here, but the effect of it is just like, you know, those are the sorts of homes you haven’t seen in a long time, the sorts of buildings, the sorts of, you know, smaller homes throughout the residential areas, the market stalls in the agora, the big buildings in the embassy district, and then the Cerulean, which is now, again, an especially gaudy kind of sparkling blue casino that was once the hypothetical, would have been, the center of a more unified—you know, it would have been space UN. It would have been the place where the three powers came to meet and negotiate and all of that, and now it is, you know, half-price chicken wings, you know, at the buffet. And so, that is what you see before you here. And it is covered in this ash that is sort of like a snow, like an off-white snow, covering the entire—the entire place. And we’ll leave it there.
+[music outro - “The Long Way Around” by Jack de Quidt]
+________________
+[1] Point of interest: this is Art noticing that Henry Kissinger has died. See Clapcast 76 for the rest of that audio!

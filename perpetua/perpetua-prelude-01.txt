@@ -1,0 +1,1451 @@
+﻿Perpetua Prelude 01
+Transcriber: vesta
+Opening Narration / Recap        1
+Introduction [00:00:33]        1
+Cartograph Intro [00:04:15]        4
+Name, Value, and Disposition [00:14:38]        8
+Specialization [00:27:07]        23
+Background [00:31:30]        28
+Characteristics [01:18:38]        67
+Opening Narration / Recap
+[“Startup” by Jack de Quidt begins playing]
+[song ends]
+Austin: A clock strikes. 
+[“         ” by Jack de Quidt begins playing]
+Austin: A bell rings. 
+[song ends]
+Introduction [00:00:33]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterization and fun interaction between good friends. I am your host, Austin Walker. And joining me for this, the beginning of a new season, Jack de Quidt.
+Jack: Hi, Austin, I'm Jack. You can get any of the music featured on the show at notquitereal.bandcamp.com. Once again, it's that time, I haven't written it yet! But I will have by the time you hear this.
+Austin: Ali Acampora.
+Ali: Hi, my name is Ali. I also have another Star Wars podcast. It's amorecivilization.net. Type it into your browser. 
+Austin: I'm on that. [Ali chuckles] Just in case someone's like a new listener to this, I'm also over on that.
+Ali: Support us at friendsatthetable.cash. I host a show over there called Gathering Information, where I talk to all the people that you're listening to right now.
+Austin: It's true. Janine Hawkins.
+Janine: Hi, I'm Janine Hawkins. I'm a little sick right now, if I— I don't know how I sound because in my head I sound weird. I'm on— I’m @bleatingheart on places. I do the newsletter on our Patreon, which is friendsatthetable.cash, you can subscribe to— you can follow us there for free, and then the newsletter is free, and it just shows up in your inbox and you can look at it.
+Austin: Easy. Lets you know when we're playing games— let you know when there's new stuff in the Patreon feed.
+Sylvi: When there's streams happening.
+Austin: When there's streams happening.
+Janine: Well— happened.
+Austin: Where streams have happened.
+Sylvi: Happened— sorry, go to the Patreon for free, you'll get when streams are happening because we tend to play them when it's on.
+Janine: Yes, that’s— yeah, that's true, yeah.
+Austin: Yeah, that's true. 
+Sylvi: I mixed it up, my bad.
+Janine: [chuckles]
+Austin: Art Martinez-Tebbel.
+Art: [tired] Hey, how's it going.
+Austin: Hi, Art. You alright?
+Sylvi: [chuckles]
+Art: Yeah, I'm fine. I just— as I— as I was on our most recent Patreon recording, I'm just discouraged with social media. [Austin: Yeah.] So don't— don't bother.
+Austin: Don't bother. You heard it here first.
+Keith: Wow.
+Art: Volume, volume nine, so sold out.
+Austin: So sold out. [chuckles] Ah, Keith Carberry.
+Keith: Hi, I'm Keith J. Carberry. You can find me on Twitter and Bluesky @KeithJCarberry. Don't follow Art, you can follow me instead. I don't like it either, but I'm still posting because I like to post. [Dre chuckles] You can also find me on YouTube— youtube.com/runbutton where I do Let's Plays and stuff. And I have been for pretty much as long as you could be doing that on YouTube. And also listen to Media Club Plus, the Hunter x Hunter— right now, the Hunter x Hunter podcast that me and Jack and Sylvi and Dre are doing, and with Ali and Austin also being on sometimes. It's really good. It's a great show, you should listen to it.
+Austin: It is a blast. Sylvi Bullet.
+Sylvi: Hey, I'm Sylvia, you can find me everywhere @SylviBullet. And everything else I'd plug has been plugged already. So you can just move right on. [chuckles]
+Austin: And finally, Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter. I'm @Swandre3000. And then I've been posting on Instagram a lot lately. [Austin: Wow!] [Art: Woah!] I don't know why. I'm just doing it. You can follow me there at Andrew Lee Swan.
+Austin: Did you post that table you built?
+Dre: I did.
+Austin: There you go. You all want to see a table, [Sylvi: There you go.] you go to Dre's Instagram.
+Art: Yeah, I bet there's no table in your podcatcher right now.
+Dre: [chuckles] Fucking got them. Yesterday, I posted one picture of the skyline at noon. And then I posted a picture of the skyline at 8 o'clock.
+Austin: Killing ‘em. That's right. 
+Dre: Had to do it to them. 
+Cartograph Intro [00:04:15]
+Austin: You had to do it to them. Speaking of needing to do it to them, we are here, new season. We will, this season, be playing Fabula Ultima TTJRPG, a game inspired by all of our favorite JRPGs. And that game is by Emmanuele Galletto. 
+But before we get there—and for new listeners, this might be a surprise—we have to do some world building. And Fabula Ultima has some really fun world building rules. You know, there's a great set of kind of questions that are established for like, hey, you should have ideas about, you know, what's the shape of the world? What is the role of magic and technology? What are the major kingdoms and nations? What are the big mysteries, etc.? And we like answering those sorts of questions just in that way. But what we really love to do here on Friends at the Table, if you are new, is play games.
+And so today, we are going to play Cartograph - Atlas Edition, a solo role-playing game of map making and discovery by Brandon Lee, that does explicitly have hacked in a multiplayer mode officially on page 41, and also a mode that is less journaling game and more traditional kind-of RPG. We will not be playing with eight-player characters though, I think that would take us literally forever, though this is a pretty fast and light game. 
+Cartograph is a solo journaling RPG about map making, exploration, world-building, and resource management. Quote, “Though the heart of this game revolves around the creation of a map, which you will fill out with detail as you play, you'll take on the role of a budding cartographer, arriving at a new land with a blank map book and a desire to explore. Slowly but surely, the history of the new world will emerge, and your cartographer will have a journal full of notes and stories to reflect that. You'll be sketching locations on an ever-growing map and exploring these locations through journal prompts.” 
+There's a cycle of play that we'll all come to learn as we play. We all have a copy of this book, this book is really cool, and we were playing in Roll20, which means that to some degree, we are going to be playing with a— let's say a compromised version of the game? This is a game about throwing dice on a table and seeing where they land, and then like drawing forests where they land. And there's a little way to kind of do that in Roll20. But after some testing with Jack, we realized that things like what your screen size and resolution are will make it really fuzzy? That for instance, if I rolled a die and it landed on 7/8 on my screen, it might land on 10/5 for you. So, we have decided to hack in a sort of x/y-axis value dice rolling macro for all of us as we play this game. 
+And there might be some other rules that we end up kind of shifting as we go. I know Jack, you kind of thought through ways to do this with eight people. And I know we've kind of talked through some sort of like, structural stuff to make sure that this goes as smoothly as possible. At this point, are there any questions about what we're doing or about other things I realize I maybe I should be saying that I have forgotten— stuff like that?
+Art: Um, yeah. So in the book, it says you should try to like roll your stuff close together? [Austin: Yeah, I think—] Even just use it like a cup. And this x/y-axis system does not seem to do that?
+Austin: You know, we did a bunch of tests and it was more often than not close enough to function. And I think what we can do is just have a mulligan. Or really what there are in the rules already, there are already rules in this book that say things like, hey, if you wrote a pine forest in the middle of the ocean and you don't want to run with that, just move it. It's okay to move it. What you can't do is fully disregard a die, you know? So, let's play fast and loose with some of the— you know, hey, if you roll a thing, you're like, oh, it would be perfect if it was over here— we can move it over there. As long as what we're not doing is saying, throw out the x-axis, throw out the y-axis, throw out the value, you know? Maybe two of those three should stay the same, you know?
+Keith: Especially true if the one that you want to move is the one that like, was way far away because of the axis roll.
+Austin: Exactly, exactly.
+Art: Yeah, although one of the examples in the book was like, so if you have a lake in the middle of the ocean, maybe don't do that. And I was like, that sounds— I want a lake in the middle of the ocean.
+Austin: I mean yeah, [Jack chuckles] that's what we should do. Well, and I guess I should take this moment to briefly also read some other kind of big picture things to get us all synced up. Fabula itself has these kind of eight pillars of play? Even though we're not playing Fabula, we will be eventually playing Fabula, and it's probably worth thinking about these as the kind of— you know, kind of compass cardinal directions. This is a world of ancient ruins and harsh lands. There are cities and villages separated by vast plains and scorching deserts and other similar hazards. This is a world in peril. There are JRPG-style monsters out there. There are villains—that's bolded here with a capital V—powerful antagonists casting their shadows over the entire land. There are clashing communities. Even though the world is in danger, these cultures are actually still divided by ancient grudges at the top of the game. Everything has a soul— this is very important for the way the game's rules, like magic rules work. 
+And this was also something that I've kind of brought into the kind of meta world building for this season. I guess I should say at this point, I have some big picture ideas about the setting, but I don't have any kingdom names, I don't have any NPC names. I don't have any names of particular Orders. We've done a little bit of chatting off mic— or actually on mic, but off recording a couple of weeks ago to start pitching ideas of like, it would be cool if there were some people who did X, or it would be cool if there were places that looked like Y. But we did not like— nothing is canon at this point, so to speak. I have some big picture, major premise, like, season premise things in mind. 
+But I don't necessarily have the, you know, if this was talking about like— imagine COUNTER/Weight, I kind of know that Rigour exists, or that Divines exist, but I don't know what COUNTER/Weight is at this point. I don't know what Apostolos or the Divine— you know, the Automated Diaspora are. If we're talking about Hieron, maybe I know there are some gods, and I know like the gods do some stuff, but I don't really know much else. I don't know about Velas, I don't know about Marielda, I don't know about any of that stuff. 
+And we're gonna do this world building to kind of fill in that stuff, and then I'm gonna take this world building and then build from these seeds, the rest of the world building before we sit down to play Fabula. So, the second page of Fabula, kind of Principles, Magic, and technology— “In every Fabula Ultima world, science and magic represent two different ways of studying and manipulating reality. One is concerned with the tangible nature of matter, the other with the souls that dwell in it.” Obviously, in the classic Final Fantasy style, that might mean that there is magical technology also, but we'll figure out what that is, but those— that's a theme that we should be thinking about, or those are aspects of the world we should be thinking about, magic and technology. 
+Heroes of many sizes and shapes— I saw someone already posted some little guys in chat. So we should be thinking about little guys, we should be thinking about big guys; we should be thinking about all sorts of characters, of all sorts of wild shapes and sizes. I really hope we leave here with some— some cultures and creatures that are really distinct. I've obviously always advocated for us to do big weird things with our kind of creature and culture design. Let's try to lean into that if we can. Fabula Ultima is all about the heroes. I think that we are— we are going to end up playing a game that is very focused on big feelings, big emotional beats, big relationships between people. 
+And in a weird way, that doesn't have to be the way we play this? I mean, we're going to have characters in this. But because this is a prelude in a way, our characters today don't necessarily have to be big, you know, heroic determination and stuff like that. It's kind of fun to play in the prelude and not have to adhere to that super closely. But what we definitely will be leaning on is mystery, discovery and growth. We will be tapping into some ancient mysteries and forgotten powers. We will be seeing our characters go through changes as they learn about the world. Anything else before we talk about creating characters?
+Jack: Yeah, for the listener, just some sort of like— to give you a sense of what we're looking at, [Austin: Yes, please.] because this is a game about a map. We have a screen that is kind of divided into one large blank gridded section with axes running from 1 to 26 up and down. We thought about doing this like Battleship-style A10 or whatever, [Austin: Mhm.] but sadly we can't roll a dice with letters on it. So when you hear us say things like 9/15, that is how we're finding the grid reference there.
+Sylvi: It's not a time. We're not checking the clock.
+Austin: It’s not a clock, it’s not—
+Jack: It's not a time. No, no, no, no, we're not checking the clock.
+Austin: Yes, yes.
+Ali: [chuckles]
+Jack: And then on the right, we have the expedition sheet. We're going to be playing with four adventurers that we're about to start talking about soon. And we have nice classic RPG character sheets showing their name, pronouns, coin, their wares that they're carrying around, etc. etc.
+Austin: Exactly. And you may have noticed that Jack just said four adventurers, but there are eight of us. And you might be thinking we're going to do the thing we normally do, which is we each we just add four additional adventurers and we each have an adventurer and then instead of taking like, you know, five or six episodes or whatever, it takes 15 and that's how we always do things. 
+Not this time. This time, we're going to co-op control these four adventurers? We've already— before we started, we paired off into groups. It'll be me and Keith, Ali and Sylvi, Jack and Janine, and Art and Dre co-piloting our four adventurers as we explore the world. But what we haven't done is actually made those characters or picked out their traits or gone through any of the setup. So let me just— let me just quickly find that. 
+Before starting the cycle of play, you'll need to know who you are, who you are embodying as you traverse the unknown. To create your cartographer, first start— mark your starting resources— we've done that. Then choose a name and pronouns, choose a value and disposition, choose a specialization, roll for a background, and choose two characteristics. There are lots of tables in this game.
+Name, Value, and Disposition [00:14:38]
+Sylvi: Yeah, I love a good table if I’m being real.
+Austin: I think we'll leave it up to the pairings if they want to roll or come up with their own stuff.
+Sylvi: Ali, how are you— I think we could probably come up with a name, but do you want to like, roll some stuff? I don't know what the vibe is. I was looking at the tables earlier and think they're fun, but if there's any direction you want to take our guy?
+Ali: Yeah, I agree that tables are really fun, I'd like to engage with them. I think that we can veto.
+Austin: Mmm, smart.
+Sylvi: That's probably the right move, yeah.
+Ali: Yeah, I would like to roll and then veto if the vibe is off.
+Sylvi: Fuck yeah, okay. I'm absolutely down.
+Dre: Art, do you have strong feelings? My strong feeling is rolling the dice.
+Art: Yeah, I— yeah, uh huh.
+Dre: Okay.
+Art: I'm not, like— maybe not for name.
+Sylvi: Yeah, the name thing is tripping me up. 
+Dre: yeah.
+Sylvi: I feel like I come up with names last.
+Dre: I'm pretty attached to Timpkins, so...
+Sylvi: Timpkins? [Art: Timpkins…] Oh my god. Wait, yeah, I should look at this table for the names. I skipped it completely.
+Art: Yeah.
+Keith: That's funny, I also was looking at Timpkins as a 74-year-old— [Sylvi laughs] as a 74-year-old name.
+Art: More than one person could be named Timpkins. That could just be, like–
+Austin: We could be—
+Keith: It could be that it’s just the most common name.
+Sylvi: Oh, the Timpkins family.
+Austin: Oh sorry, I thought it was a last name, but you're suggesting it's a first name.
+Keith: No, that's a first name.
+Art: It’s a first name, yeah.
+Dre: It's first name.
+Austin: And, you know, you could have a ‘Timp’ and a ‘Kins’ in terms of the way we talk—
+Art: Timpkins Delacroix, [Austin: Oh my god.] the Cajun weirdo.
+Sylvi: I— wait.
+Dre: [laughs] Yeah, I don't think either of us could do that voice for the whole time, Art.
+Austin: I'm not— you know, push yourself.
+Sylvi: [southern accent] I say, my name is Timpkins Delacroix.
+Austin: There it is.
+Sylvi: [southern accent] [chuckling] I'm just a simple southern lawyer.
+Dre: I did just see Dave Matthews in concert last night, so I could just try to sound like Dave Matthews.
+Sylvi: Oh, I was going to say Chandler Daniel Craig.
+Keith: Were the ants marching?
+Sylvi: I was trying to do that.
+Dre: Oh, yeah, no, that's better.
+Keith: Were the ants marching, Dre?
+Ali: [laughs]
+Dre: Uh, I don't remember.
+Austin: This is a classic Dave Matthews song.
+Keith: You don't remember—!?
+Art: You don’t remember if he played Ants Marching?
+Keith: You don’t— oh! Let me— let me ring a little bell for you. BOW!
+Austin: BOW BOW BOW!
+Ali: [squealing with laughter]
+Keith: BOW BOW BOW!
+Austin and Keith: [continuing] BOW BOW BOW!
+Dre: Oh yeah, he definitely played that one, yeah yeah yeah. [Sylvi laughs] I always forget which— I'm not like a huge Dave Matthews person, so I don't remember the names of the songs half the time.
+Ali: [silently] Bow, bow bow bow—
+Art: Being a hater is just as intensive as being a fan.
+Dre: I'm not being a hater.
+Art: I'm defending my own knowledge of David Matthews, who I do not care for—
+Keith: I, it's— that is a massive song. I do grow up in the least-hating Dave Matthews Band capital of America, I believe.
+Austin: Boston?
+Keith: He's very big in Boston, yes.
+Austin: Yeah, I guess so. That makes sense.
+Dre: I could see that.
+Austin: Boston's a big college town, so, yeah.
+Dre: I could also see a lot of like, UVA bros ending up in Boston.
+Austin: Yeah.
+Art: My favorite scene in Good Will Hunting is when those four talk about their favorite Dave Matthews songs.
+Keith: [laughs] I— it's to the point where I know that they're not from here, but it feels like maybe they were big here early? [Dre: Probably.] That's why people feel like it's a Massachusetts thing even? I don't know. It's very— it’s an intense Dave Matthews—
+Austin: How are we doing on names? How are we doing on values and dispositions?
+Art: I've changed my mind, now I want to roll for a name too.
+Austin: Okay.
+Sylvi: I was about to ask Ali, do you want to roll the name too or do you want to roll the other stuff and then do the name backwards? 
+Ali: Let's do name after. Name is like a nice bow you put after a person, after you make them.
+Austin: Keith, I like Harlow.
+Keith: I like Harlow, yeah.
+Austin: You have a last name here you like?
+Keith: I have a couple with Harlow. Harlow… Mc’Millen, Harlow Presh.
+Austin: Harlow Presh.
+Sylvi: Harlow Presh is good.
+Keith: Yeah. 
+Austin: Let's do that. 
+Dre: It is good.
+Sylvi: Do you want to roll first or should I take the first value and disposition roll?
+Ali: Um, you roll it. 
+Sylvi: Okay.
+Ali: What do we do if we get one or two?
+Sylvi: It’s 3D6.
+Art: You’re rolling a 3D6.
+Sylvi: Yeah, yeah. 
+Ali: Ohhh…
+Sylvi: So we got Jovial.
+Ali: Oh, it adds. I see. I see, I see.
+Art: We should do this in turn. We shouldn't all be doing this at once, right?
+Sylvi: Well, we were talking about the Dave Matthews Band and I wanted to play this game, so I started getting a move on.
+Ali: Uh huh, [chuckles] we’ve moved on.
+Art: I'm just— for ease of listening.
+Austin: No.
+Ali: [chuckles, snorts]
+Keith: You didn't want the Dave Matthews Band to talk to “crash into—”?
+Austin: Well let’s keep— I wanna—
+Art: [laughs]
+Keith: [laughs]
+Austin: Oh my god.
+Sylvi: I got Jovial on the value chart, [Ali: Okay!] which I think I'm fine with.
+Austin: One second. I’m gonna read about— let me read about values and dispositions so everyone knows what we're rolling for. Ali—
+Art: Ali, that's the wrong number of dice.
+[background cackling]
+Ali: Right. Yeah— that was— I didn't know.
+Sylvi: That would be 11.
+Austin: 11.
+Sylvi: So value would be...
+Austin: Well, let me read what values and dispositions are.
+Sylvi: Yeah, you read them and then we can figure out our stuff.
+Austin: Next, you'll want to determine their disposition and the value they hold. Their disposition will inform a general tone in which they will interact with the world, and their value will allow you to see what's important to your cartographer. Select or roll on the value and disposition table below or come up with your own. Both the disposition and value should be one-word descriptors, such as “impatient” and “fame” respectively.
+Ali: Um, so our disposition is “jovial”, and our value is “thrill”.
+Austin: Oh, you're out here having a good time.
+Sylvi: We are.
+Ali: We're having the best time.
+Sylvi: This way— I love this for us.
+Ali: We're out with the fellas right now.
+Sylvi: Oh my god. [Ali wheezes] Yeah, we're the lad explorer.
+Ali: [snorts, chuckles]
+Jack: Janine and I are ready to roll for a name.
+Austin: Okay. Oh you were like, waiting for your—
+Jack: Well, we've been talking in Discord.
+Austin: That's what I assumed.
+Keith: Okay.
+Ali: Ohh…
+Austin: Let's see the roll, then.
+Jack: Alright. Janine, you want to do the first two rolls?
+Janine: Yeah.
+Austin: It’s 14.
+Jack: Glesi?
+Janine: No.
+Austin: Double 14. 
+Jack: Veto?
+Dre: Oh no!
+Jack: Glesi Glesi? Are we veto-ing this, Janine?
+Austin: No, it would be Glesi— It would be Glesi Yukai.
+Janine: So we had a... no— see, pkay.
+Sylvi: The Great Explorer Glesi?
+Jack: [chuckles]
+Janine: You know, let’s— it's fine. We'll just roll another one.
+Austin: Uh huh. Uh huh— you can just pick one if you prefer.
+Janine: Okay. So, Jack, that brings us to Glesi Sidney and Yukai. How does that sound?
+Austin: Well, 
+Jack: Where do we get Sidney from?
+Janine: 17.
+Austin: 17 could also be Sky for— as a last name.
+Janine: No, we have a— we have a thing we're doing.
+Austin: I see. Okay.
+Sylvi: Ah.
+Jack: I think Glesi Sidney and Yukai. 
+Austin: Yeah.
+Janine: Yeah. I think Glesi Sidney and Yukai. It could also be like, Sidney Glesi, but—
+Jack: Glesi Sidney is such a funny name.
+Sylvi: [chuckles]
+Janine: Yeah.
+Keith: I like Sidney and Yukai as a last name. Glesi Sidney and Yukai.
+Janine: No no— we have a system.
+Austin: They have some sort of system.
+Keith: Okay.
+Janine: No one worry about it.
+Sylvi: Yeah. Let them cook!
+Austin: They're doing some sort of thing, yeah. We also don't have a name yet for Ali and Sylvi. Is that right?
+Sylvi: Yeah.
+Ali and Sylvi: We're doing it at the end.
+Austin: Doing it at the end, that's fun.
+Jack: That's like a seasoning.
+Sylvi: Yeah.
+Jack: You don’t put the frosting on before you make the cake.
+Sylvi: I need more vibes first. 
+Austin: That makes sense.
+Austin: Yeah. 
+Dre: Sure sure sure.
+Austin: Well, speaking of vibes, I think Keith and I are going to roll for value and disposition. I'll roll—
+Keith: Sure. I've got it.
+Austin: You go for it. You got it ready to go? You doing value?
+Keith: It's 3D6?
+Austin: Yeah. Value or disposition. What are you rolling?
+Keith: That was for the first one. Disposition.
+Austin: Disposition is awkward.
+Sylvi: [laughs]
+Dre: Hell yeah, dude.
+Keith: Alright. 
+Austin: And value is safety.
+Sylvi: Oh my god. That's great. 
+Keith: Safety!
+Ali: We've all been there.
+Austin: Hey, guys.
+Sylvi: You rolled INFP.
+Austin, Keith, Jack: [chuckles]
+Keith: I really don't want to split up. 
+Austin: I mean, we could theoretically go the other way, which is unimpressed and value knowledge, which is like the opposite person.
+Jack: It's a different kind of funny character. You get to— it's going to be good either way. I think awkward and value safety is really fun.
+Dre: Please do awkward—
+Ali: It’s so good.
+Austin: Awkward and value safety— yeah.
+Austin: Oh.
+Keith: I— I spend so much of my mental energy trying not to be awkward, so.
+Austin: Uh huh.
+Ali: Well, this is the magic of storytelling.
+Austin: It is the— wow. Yeah, it's true.
+Art: I think Dre and I are ready to roll for a name.
+Dre: Yeah.
+Austin: Uh huh.
+Dre: Do you want to roll first and I'll roll last?
+Art: Sure. We could also be willing to switch it.
+Dre: Sure.
+Art: That would be Harlow Botrelle.
+Jack: We already have a Harlow.
+Austin: We do already have a Harlow.
+Art: Alright. So what's not— the other way around? Tomor Presh.
+Austin: We already have a Presh.
+Keith: Oh my god— you got—! You're one more of—
+Austin: We should be a Presh— we should be related.
+Jack: Yeah, yeah! Brothers or something.
+Dre: Okay.
+Art: I'm so disappointed that no one rolled Art. I think that would have been the most confusing thing we could have done.
+Ali: [laughs]
+Dre: Yeah. We could just be Art Presh. 
+Austin: That would be very confusing.
+Ali: Now I'm having FOMO about rolling for a name. [laughs]
+Sylvi: We’ll— let's roll for a name, Ali.
+Austin: Oh my god.
+Sylvi: Let’s do it.
+Ali: Okay, okay.
+Janine: If you don't like it, you can throw it out.
+Sylvi: Exactly. We have veto power. 
+Austin: Mhm.
+Ali: This is true. 3D6.
+Sylvi: Do you want to do first or last?
+Ali: I'm just going to roll it and then we'll see the vibe.
+Sylvi: 15 and 12.
+Ali: Well.
+Sylvi: Damn, that's a good one— I rolled good on that one. Two sixes? Look at that.
+Austin: True. Good roll.
+Sylvi: Arley Bates or Lutscelle Delacroix.
+Keith: Delacroix.
+Austin: Delacroix. Delacroix— you did, yeah.
+Ali: [chuckles]
+Sylvi: We got two different vibes. We got two old money names though for sure.
+Ali: Arley Bates is so good.
+Sylvi: Let's go with Arley Bates then.
+Keith: Yeah, I like Arley Bates.
+Ali: For Arley— for a jovial person? [laughs]
+Sylvi: Yeah, a jovial thrill seeker.
+Austin: Yeah, yeah.
+Jack: Arley is Ali's name [Ali: Hey!] in a world in which everything's the same except they both have one less of an accent.
+Ali: [laughs]
+Sylvi: Oh, it’s Ali’s name with an Australian accent!
+Austin: Yeah.
+Ali: Arley.
+Austin: Arley.
+Art: Arley West.
+Austin: Arley—
+Ali: [chuckles]
+Sylvi: Arley Acampora!
+Dre: Damn.
+Austin: [laughs] No.
+Ali: Damn.
+Art: Aw naur. Arley Ac— yeah.
+Sylvi: Sorry to our Australian listeners.
+Ali: [laughs]
+Keith: As someone who could do this accent perfectly, I won't be trying because I don't want to show anybody up. 
+Austin and Jack: [chuckle]
+Jack: Janine, you want to roll for value or disposition?
+Janine: I would like— I'll roll disposition.
+Jack: Cool.
+Austin: Oh, Keith, I think I have a face cast for us. 
+Keith: Oh yeah?
+Austin: A relevant, recent face cast.
+Art: Better be someone with a sibling.
+Keith: A relevant, recent face cast of an awkward-
+Austin: I bet you could get that.
+Keith: Awkward person who loves safety.
+Austin: Yeah, I bet you could get that.
+Jack: Janine has rolled an 11, [Janine: 11.] that's “focused”.
+Janine: And then I'm going to roll a second one.
+Keith: Is it someone we were just talking about? 
+Austin: It is someone we were just talking about.
+Keith: Is it Richard Kind?
+Austin: It is Richard Kind.
+Ali: [gasps]
+Keith: [laughs]
+Sylvi: Oh wonderful.
+Ali: Oh my god.
+Sylvi: What did you end up rolling, Janine? 
+Janine: I got “focused”, and also “defensive” [Austin oohs] because of the thing we're doing.
+Austin: Okay.
+Janine: We need two dispositions.
+Sylvi: I love those. I love those.
+Art: Why don't you just tell us what you're doing?
+Janine: No.
+Sylvi: No. Let them cook.
+Dre: Yeah.
+Jack: I am rolling for value. I've rolled “cynical”.
+Austin: Ooh.
+Janine: Wait no, that's disposition again. 
+Jack: Oh, right.
+Janine: Value 7 is beauty.
+Sylvi: Oh my god.
+Dre: Oooh!
+Janine: It's so good.
+Jack: Perfect.
+Janine: Wow.
+Jack: Value—“beauty”, disposition—“focused”, “defensive”.
+Dre: Getting a lot of 14s. Yeah.
+Art: Let’s just— let's just do another roll. Let's just both—
+Dre: Yeah, you know what? I'm going to—
+Keith: Maybe the 3D6—
+Sylvi: Averages out—?
+Dre: I'm going to roll physical dice, hold on.
+Sylvi: Oh?
+Art: Oh, I'm just going to push the button between. I got 13.
+Dre: Uh, I got a 12.
+Art: Which were you rolling?
+Dre: Uh, I guess we did not decide. Which one do we think is more interesting?
+Art: Amused affirmation or curious and challenged? 
+Dre: [exhales]
+Keith: Oh that’s fun.
+Art: Curious and challenged is least like Harlow, right?
+Austin: Yeah. Yeah, it is the least like Harlow.
+Sylvi: Yeah that is, like, almost the opposite.
+Dre: Let's do it.
+Art: Alright.
+Sylvi: Alright.
+Keith: [laughs]
+Dre: We’re Goku now.
+Keith: That picture is very funny. Austin put a picture of Richard Kind on the character sheet.
+Austin: Uh huh.
+Sylvi and Dre: [laughs]
+Austin: And Richard Kind’s big brother is Goku? Is that what I'm understanding Tamor Presh is? 
+Dre: Yeah, sure.
+Art: Yeah, this is Goku— Goku Kind.
+Austin: Got it. Great. 
+Art: If I could do it, I would just put Goku hair on a slightly younger photo of Richard Kind. 
+Austin: Yeah yeah yeah.
+Ali: [cackles]
+Art: Let that be for you, listener!
+Sylvi: Yeah, there are no good results for “Richard Kind Super Saiyan”, unfortunately.
+Austin: That's such a shame. He could do it, I believe in him.
+Sylvi: Yeah, I bet. Are we ready to move on to specialization?
+Specialization [00:27:07]
+Austin: I think we are, and I'm very curious how we should do this.
+Sylvi: Do you want me to read the little blurb here?
+Austin: Yeah, read the little blurb!
+Sylvi: “Specialization. Your cartographer is no stranger to the field of mapmaking. As such, their skills have culminated in a specialization. Select or roll one from the table below.” And then this is just a 1D6 here. 
+Austin: It is.
+Sylvi: Should we read through them?
+Austin: No, let's not read through them. 
+Sylvi: Okay!
+Austin: Do we want to— do we want to prevent doubling up here?
+Jack: Yes, we should roll and if they double, we just roll again.
+Sylvi: Should we all roll at the same time?
+Austin: Agreed.
+Jack: It will be chaotic if we all roll at the same time.
+Austin: Let's do one at a time.
+Sylvi: Let's do one at a time.
+Austin: Yeah. Who wants to go first? Who feels strong? Or I guess—
+Ali: We can go. Just roll 1D6.
+Austin: Roll 1D6.
+Sylvi: You got it?
+Ali: Roll 1D6— so we got 3, which was “Collector”, and our bonus is to start with one random item, see page 52.
+Austin: Oooh! And what did page 52 say?
+Sylvi: I'm scrolling—
+Ali: I assume a list of items.
+Sylvi: It is, as far as I can tell.
+Austin: Okay.
+Sylvi: It's multiple— it’s multiple tables.
+Keith: But it might be something strange in as a—
+Austin: I will bet. Yeah, because there is either a red item table or a black item table, because it’s— normally this comes from a red card or a white— or a black card when you draw them.
+Sylvi: Do we choose or…?
+Jack: Draw a card.
+Sylvi: Okay.
+Jack: Yeah.
+Sylvi: Yeah. I think so.
+Austin: Yeah. That's how it works. That's how it's supposed to work, right? So you just draw a card.
+Sylvi: I got a 7, it's a diamond, so it's red. We got camping equipment.
+Austin: Oh! Easy.
+Sylvi: We get one extra die when camping.
+Ali: Yeah!
+Austin: Love that. That's great, write that down.
+Sylvi: This is— you know what? Yeah. I am.
+Ali: Okay.
+Austin: Damn. Prepped to camp.
+Sylvi: …items— yeah. This is really painting a picture of old Arley over here.
+Ali: [chuckles]
+Austin: Alright, who is next?
+Jack: I’ll go next—
+Art: I've already rolled.
+Austin: Oh, damn.
+Dre: Wow. Taking charge.
+Art: There are too many weird results for “Goku Kind”, but I wanted to get in there before too many were taken.
+Austin: Okay.
+Art: And so we got “Explorer”. 
+Austin: Okay. That fits, yeah.
+Keith: Which I think fits.
+Dre: It fits.
+Keith: It fits, and it takes Explorer off the board for Harlow.
+Austin: Importantly.
+Keith: Which, yeah— although being forced to be an awkward explorer who loves safety—
+Jack: [chuckles] It means that you start with two temporary dice, which can be anything but they don't stick around.
+Austin: Correct. Can we make a note of that maybe in the middle reference section? 
+Keith: Yeah. 
+Austin: Alright. Then, are you— who wants to go next? Jack and Janine or me and Keith?
+Jack: Yeah, I'll go next.
+Austin: OK.
+Jack: I have rolled a 7.
+Austin: Nope. A 1D6.
+Jack: Nope. 
+Sylvi: [laughs]
+Jack: I just— I have been doing this for a decade. And rolling 2D6 is the way you play tabletop games. [Austin: Mhm.] ll 1D6, here we go. That is a 3, and that's not what we're going to do because that's Collector.
+Art: Why don't you just take 5? Because it's the one that you've rolled that isn't taken.
+Sylvi: Oh, on the 2D6 roll.
+Austin: On the 2D6 roll, take five—
+Art: On the 2D6, think of it as rolling two—
+Austin: Which is Nomad, which feels like maybe it could work for the— whatever mysterious thing is you're doing.
+Jack: Yeah! Start with one extra biome dice— yes! I will put that down.
+Janine: It makes sense, yeah.
+Austin: Which leaves us. Keith, do you want to roll this? 1D6.
+Keith: Sure, yeah. 1D6.
+Austin: We have nothing but good answers left, thankfully.
+Keith: Yeah. 6. Scientists.
+Ali: [laughs]
+Sylvi: Oh my god!
+Austin: Scientists are four extra points. Yeah, uh huh— are we a magic-scientist or a science-scientist?
+Ali: Woah.
+Dre: Damn.
+Keith: Uh, magic sounds scary.
+Austin: It does. So we're a science-scientist.
+Keith: I think we're a science-scientist.
+Austin: We're like a little book with a little pen that we do little—
+Keith: Or is it funny to be afraid of the science?
+Austin: It's really funny to be afraid of the magic that we know, and that we're learning. 
+Keith: Yeah.
+Austin: Yeah. We learned it because we were afraid of it.
+Keith: Right. Yes. To try and master the fear and it didn't work.
+Austin: My therapist keeps telling me to master the fear. I gotta master the fear. I've mastered nothing. 47 years, I've mastered nothing. 
+Jack and Keith: [chuckles]
+Austin: Alright. Specialization, science—
+Art: You're a little close to Woody Allen.
+Austin: Yeah, I know. Let me— give me fucking an hour. I'll drill in.
+Ali: [laughs]
+Dre: Yeah, time to lock in.
+Austin: Yeah!
+Sylvi: Warmin’ up still.
+Keith: Ah—
+Art: It's just a dangerous place.
+Keith: There's only so many ways to be neurotic—
+Austin: Neurotic or nebbish. Let me, yeah— I have to slow it down. Richard Kind doesn't do the same sort of— [unintelligible neurotic sounds] sometimes. 
+Ali: Mhm.
+Keith: Yeah. 
+Background [00:31:30]
+Austin: Alright. “Before your cartographer journeyed to this new land, they had a rich life full of aspirations, friends, foes and adventure. Roll on the table on the next page to define where they came from or create your own background”. The land— the first one is the land I came from was blank yet blank. And I'm curious, do we want to do these? Some of us— for instance, the Preshes maybe are from the same place, but I don't know that our Nomad is. So how many of these do we want to do? Or we could— we could talk about these, we could all roll these and then this is all like different sub places of the place we all came from.
+Sylvi: Because we're coming from another continent. Not— yeah.
+Austin: That's how I'm imagining it. I'm imagining we did the classic JRPG thing of you get the airship unlocked and leave your home continent to go to the other continent. You know?
+Art: I still feel like the Preshes should have the same answer.
+Austin: You might be right. I'm fine with that.
+Jack: Okay, Preshes roll, and then we'll all other roll.
+Austin: Preshes, do you want to split condition and descriptor in half?
+Dre: Sure.
+Jack: Condition and Descriptor is my favorite Hunter x Hunter episode.
+Art: Sometimes it sounds like someone’s saying “precious”.
+Austin: Yeah, precious.
+Art: Like a Gollum voice?
+Austin: [chuckling] Yeah, precious.
+Jack: Precious.
+Art: Precious.
+Austin: Alright, so I'll roll 1D6 for condition.
+Art: You want to roll one, Dre?
+Austin: Oh, came from an advanced place.
+Dre: Sorry, I've been working on something really important.
+Austin: Okay.
+Jack: It's Goku, isn't it?
+Keith: Is it Richard Kind with Goku hair?
+Austin: Good, great. Good.
+Dre: I can't upload images, right? Do I have to send it to you, Austin?
+Austin: Just put— you know, just drop that shit in the group chat. I'll pull it up, you know.
+Sylvi: Thank you, I need to see those.
+Austin: Holy shit.
+Jack: Aw!
+Sylvi: [screams]
+Keith: [laughs]
+Sylvi: Oh my god, did you purposely get a younger one of him too?
+Dre: Yeah, uh huh.
+Sylvi: Perfect.
+Austin: Damn!
+Sylvi: Love it.
+Art: Wow. He was—
+Dre: He was smoldering, isn't he?
+Art: Yeah!
+Keith: He is.
+Austin: God damn!
+Keith: He's like— he’s like, Wide the Fonz.
+Dre: [hearty laugh]
+Art and Austin: [laughs]
+Sylvi: Why’d the Fonz what?
+Jack, Ali, Keith: [joins in laughing]
+Austin: We rolled “advanced yet wild”, which is fascinating!
+Sylvi: Ohh? 
+Austin: Maybe we're from a place that's super magical— or like, super magical in the sense of like, maybe not post-scarcity, but we have a lot of magic or a lot of technology or whatever—I'm going to say magic because I already put magic down as my scientist specialization, as our scientist specialization. But we're not like from a big— there's not like a big kingdom where everything is really organized and you know, bureaucratically connected. Maybe that's why we don't have whatever this piece of knowledge is that we're coming out here to see, you know? Jack, you suggested there were like four great sages or something from this culture earlier, whatever exactly you said.
+Jack: Yeah, they're— they’re prophesizers, they can see the future except there's like gaps.
+Austin: Right. So what if we're from like, the Hundred Boroughs or something, where it's like, yeah, there's just a bunch of really advanced little micro kingdoms that take care of their own, but are not— but are fundamentally like living— almost we've got our non-imperial Ghibli culture, we've got our like Nausicaa people, [Jack: Yeah.] you know what I mean? 
+Keith: Sure. Yeah yeah yeah. 
+Austin: I'm writing down— I’m writing this down somewhere. I'm writing this down somewhere.
+Jack: Yeah, like High Foreseer of Right, representative of the Hundred Burrows has— you know.
+Austin: Yeah.
+Jack: What are the burrows in? Are they in like a massive hill or?
+Austin: Oh I don’t— I was thinking boroughs like a city, [Dre: Ohhh…] yeah like a sub—
+Jack: I was thinking it like Watership Down.
+Dre: Yeah, me too. [chuckles]
+Austin: Sure, you know?
+Dre: Hey. Words can have more than one meaning.
+Jack: Friends at the Table.
+Austin: Hundred Burrows, advanced yet wild. What did you— High Foreseer? What was the name?
+Jack: Yeah, the High Foreseers are the name of the council that can see the future, sort of.
+Austin: Can sort of see the future.
+Jack: And the Hundred Burrows has one High Foreseer. They've sent their High Foreseer to the council.
+Austin: I see.
+Keith: How much do they know that they can only sort of see it?
+Jack: Oh, absolutely. It tears them apart. It's—
+Keith: They're not under any illusions that they're— that they've really got it locked down.
+Jack: They've got some stuff locked down, but other stuff they're really not sure about.
+Austin: But have no major centralized kingdom or bureaucracy. Okay. Oh ho ho, why does—
+Jack: There's some real Twilight Mirage in Palisade stuff going on here, which is really fun, because this— this world is not what the season is going to be about. I mean, as far as we know.
+Austin: We don’t know! Listen, sorry. To be clear, we might take the kingdom— we might end up with a West Continent party [Jack: Yeah, yeah!] and an East Continent party, you know?
+Jack: That's true.
+Austin: So, we don't know.
+Jack: Yeah, I suppose what I mean is today—
+Austin: Correct.
+Jack: We're going to the other continent.
+Austin: Correct, yeah.
+Keith: And presumably the one boundary is that one of the parties will be—
+Austin: Oh, a hundred percent. 
+Keith: At least. 
+Austin: At least, at least, at least.
+Sylvi: I had to step away for a sec. Was the stuff you said about the land you rolled written down anywhere?
+Austin: I put it in your scratch doc— the Fabula scratch doc. 
+Sylvi: Sick.
+Austin: Hundred Burrows, Eastern Continent Culture, “advanced yet wild”, quote unquote, which— by the way, we are very aware of all of the— I would say all of the ways in which this style of mapping game, this style of world building is often abutted right against a lot of colonial power and a lot of colonial discourse? So the phrases like “advanced yet wild”, should ring some warning bells. I think we're going to do our best to play that stuff as interestingly as possible, and not towards like lowest common denominator, noble savage type bullshit, you know?
+Art: Yeah, no one's saying Wakanda forever on this.
+Austin: Except your child, except your baby just looked up at you and said Wakanda forever.
+Art: Said—
+Austin: Sorry, Ruth— Ruthkanda.
+Sylvi: Ruthkinda, Come on, get it right.
+Austin: [groans]
+Art: Who just died? Did someone die recently? They could—
+Sylvi: People die every day.
+Dre: Wow.
+Austin: Well, we're all dying, Melissa.
+Sylvi and Keith: [laughs]
+Art: Baby just said random person forever, it was really strange.
+Jack: Ok Janine, do you want to roll for us?
+Janine: Yeah, sure.
+Jack: 2D6?
+Austin: Ooh. 
+Jack: Ooh. 
+Austin: Ooh. 
+Jack: Destitute and small. 
+Austin: Interesting.
+Keith: Oh no.
+Art: I wouldn’t say destitute yet small is necessarily—
+Keith: [chuckles]
+Austin: Ok, well—
+Art: And, put—
+Janine: Eh.
+Keith: I had an immediate picture in my head of a main place talked about in Hunter x Hunter just from having thought a lot about it.
+Sylvi: [chuckles]
+Austin: Mhm, mhm.
+Art: I thought you were going to be like, I have a place in Maine I'm thinking of.
+Sylvi: Yeah, I also thought that.
+Janine: Yeah.
+Austin: Is this—
+Jack: Janine, do you have a place in mind?
+Janine: Mmm… I don't know.
+Jack: I mean, the first thing I'm thinking of is like, something like Omelas. Like, there is—
+Austin: Everything there is great, what are you talking about?
+Jack: Well! Hm.
+Austin: It's not destitute.
+Sylvi: Yeah.
+Jack: In one— in one place it is.
+Austin: But only in one small place!
+Sylvi: Like statistically speaking!
+Jack: Only in one small destitute place. You know, is this— we're nomads, so I imagine that we've like, left this place. Or been forced out.
+Sylvi: I was gonna ask if you guys had to.
+Jack: Yeah. But I'm thinking of a sort of like, inverse jewel in the crown. Like are we from like, a town built around a mine? Or like, you know.
+Janine: I wonder if it's like a place that is like very, like a sort of fallen capital situation where like, [Art: Oooh!] it was an important place, like 500 fucking years ago or whatever. And then like, most of the people who made it important left a long time ago. And then some people just stayed around. And then before you know it, it's like nothing. It's just— it's like a bunch of ruins with like a town in the middle of it. 
+Jack: Yeah! yeah, yeah, yeah. Okay, I—
+Austin: I can imagine this being a locus for a type of cool ruin that we’ll get into somewhere [Jack: Yeah!] throughout here that, you know, if you go back to the Fabula ruleset, or the Fabula like kind of pillars, one of them was that like, the wilderness has these ancient ruins in it. And like they have— there are ruins where strange things are happening. There are mysteries there, there are enigmas there, etc. And I could imagine it being this like, lost capital that was overtaken by these mysterious, this mysterious supernatural effect, you know?
+Jack: My pitch here is that at the beginning of time, a lake opened up and started draining into a river. Except the water cycle doesn't work like we know it does in the world. So eventually, the entire massive lake, the river had just passed through this town. [Austin: Oh… that’s great.] For the, for the, you know, 300 years or whatever, it was used to turn these huge mill wheels. But now the entire river has drained out of it. It’s just gone.
+Austin: It's just gone. It's as if the river was a living being that went elsewhere.
+Jack: Yes. Yeah, and the lake's gone too. There's a massive hole in the ground, you know, way up in the north. What's it called? Like a mill town once driven by a huge river, long drained away.
+Austin: I love this.
+Jack: Is there anything else we want here, Janine? 
+Janine: No, I think that covers our situation.
+Jack: Yeah. [chuckles] Yeah. Agreed.
+Austin: Alright.
+Sylvi: I think, us now?
+Austin: That's... Let's do it.
+Ali: Yeah. I will roll condition.
+Sylvi: Sure.
+Ali: 1D6.
+Sylvi: You got a 2 and I got—
+Ali: Thriving.
+Sylvi: I also got a 2.
+Ali: Thriving and Gloomy.
+[overlapping sounds of excitement]
+Austin: Oooh, fun!
+Sylvi: Yo.
+Jack: Exciting!
+Austin: Oh, we found our Goth scene!
+Ali: [cackles]
+Sylvi: This is great. This works so well, actually.
+Austin: I'm so excited.
+Ali: It works so well.
+Austin: So what is this?
+Sylvi: Well, we found our elves. 
+Austin: Ohhh! Are they actual elves? Are they—?
+Sylvi: I don't know. I did message Ali and say, do you want to make this guy a jock elf? And, [Ali laughs] we both want that.
+Keith: Wow.
+Sylvi: So.
+Ali: Uh huh, I do want that, yeah.
+Keith: Now, gloomy jock elf. 
+Sylvi: Yeah well, you know.
+Keith: Fucking Nightmare Before Christmas elf.
+Sylvi: I've introduced the word before.
+Austin: Ohh…
+Ali: Nightmare Before Christmas?
+Keith: Well, thriving and gloomy, that’s not a common pair.
+Sylvi: Oh my god, yeah no, that is Jack Skellington.
+Ali: Oh, come on. [laughs]
+Sylvi: Well, gloomy can mean a lot of things, is the thing. Yeah, it can. Gloomy could mean it is raining all the time.
+Keith: Sure.
+Ali: Yeah, there's something about a place with a really big marketplace or being able to export like, a certain thing because the weather conditions are so wet or whatever? You know what I mean?
+Sylvi and Keith: Yeah.
+Jack: That would be nice.
+Keith: Or it could be some place like Wall Street where it's like technically there's a bunch of money but it's implicitly sad.
+Sylvi: We're from Dark City.
+Austin: Oh, my god. I mean—
+Sylvi: I watched that recently for the first time. Good movie.
+Austin: Oh, good movie. 
+Jack: It's so good.
+Austin: It’s so good.
+Keith: Dark City. I don't even know—
+Austin: Oh my god—
+Art: My goodness.
+Sylvi: We should check it out— we can't— we can’t, but we should check it out.
+Austin: Did we not do this on an old Media Club—? Do we not do a Dark City?
+Art: Not everyone was on every Media Club back then.
+Dre and Keith: Yeah.
+Art: They're also not on every Media Club now, but also back then.
+Dre: [chuckles]
+Keith: Right.
+Austin: Oh my god. I did a search for Media Club Patreon Dark City, and the first hit for me was “Everything Wrong with Dark City”, and it's a CinemaSins Patreon, and I want to go to war. It's from four days ago.
+Sylvi: I'm going to buy a gun.
+Keith: Wow
+Ali: [laughs]
+Austin: Sylvi, no, stop, please. 
+Sylvi: Mmm!
+Austin: We need to do the season.
+Keith: Buy something bigger.
+Sylvi: Fine, fine! I'll wait.
+Ali: We’ll bail you out.
+Austin: Alright, so thriving, yet gloomy. [Sylvi: Yeah.] Can we get a third heat on these elves? Can we get a spin— like an elf spin?
+Sylvi: I'm trying to think of the spin on them because I don't just want like, the typical high elf vibe, you know?
+Austin: In the way that like Viera are kind of elves in FF12, [Sylvi: Yeah! Oh my god.] or you know, there's always like elf-adjacent type, you know. Spock is sort of an elf, you know?
+Sylvi: Well, he's a space elf.
+Austin: A space elf.
+Sylvi: That's very true.
+Ali: I can't do elf but fish again after—
+Austin: No. We’ve already done that.
+Ali: I'm just talking about that. [laughs]
+Austin: What's a good gloomy thing to blend with an elf? I mean, elves are gloomy. Pause— elves—
+Sylvi: They live for a very long time.
+Austin: I didn't mean to do the camera and pause. [laughing] That was not what I mean—! “Elves are gloomy, no homo—” That's not what I was trying to do.
+Ali: [cackles]
+Austin: Hey, yo. Elves are gloomy, like, historically. The fucking Tolkien elves are mopey.
+Keith: Dour. Extremely dour.
+Jack: Except when they're singing, like, fiddle-dee-dee songs. You know, they love to sing about how, like, once when the towers were torn, when the white wind blew across the aspens. Elves love that shit.
+Art: But that’s so annoying!
+Austin: But, like, D&D First Edition had—
+Art: A person like that in your real life, you would just hate.
+Jack: [chuckles]
+Keith: Unless they were magic and beautiful.
+Sylvi: I'm trying to think of like, maybe we lean into the, like, fae thing? Not in a— [Austin: Oh, sure. Yeah—] Not in the no homo way, but in the like, fairy way. [Ali laughs] Well—
+Austin: Well!
+Sylvi: I'm allowed to say this.
+Keith: Make a— how about make a no homo elf out of there? [laughs]
+Austin: No! I refuse!
+Sylvi: Alright, I'm writing homophobic—
+Keith and Ali: [laughs]
+Austin: No! A lot of people listening to this—
+Jack: To Perpetua—
+Sylvi: For the first time, yeah.
+Austin: For the first time, the thing that they've been told, “It's fun! It's a queer tabletop show!”
+Sylvi: Listen, if you don't expect gay people to joke about homophobia.
+Austin: That’s right. Yeah…
+Ali: I do think that the fae thing is interesting, though, especially since we're setting up like—
+Keith: By fae, do you mean—
+Art: [guffaws]
+Keith: [laughs]
+Austin: Like traditional fae, fairy. We already hit that beat! That was the last joke that Sylvi made.
+Keith: I know, I know! That's why it is gay!
+Sylvi: Now, by fey, do you mean—
+Dre: Listen, if you want to see a homophobic elf, that new Dragon Age game is coming out soon.
+Sylvi: Oh, you're right.
+Janine: He's not homophobic!
+Dre: I know. 
+Austin: He's racist!
+Ali: Isn't he just a genocidal?
+Austin: Yeah, uh huh.
+Sylvi: Okay.
+Janine: That's not true either!
+Sylvi: The gay community has forgiven Solas? Okay.
+Ali and Austin: [laughs]
+Austin: Solas, did you know that you were big in the gay community?
+Janine: They never cast him out. He's always there. 
+Art: Do you think AJ Styles plays Dragon Age?
+Jack: I'm going to fire a pistol into the air.
+Sylvi: I— yeah, I should have bought the gun.
+Austin: Oh elves—
+Janine: I'm going to fire a pistol into a person.
+Austin: Elves with pistols, elves with, elves with—
+Sylvi: I was thinking, like—
+Dre: Oh, cowboy elves.
+Art: Cowboy elves. 
+Austin: Oh, that was not where I was going.
+Sylvi: Cowboy elves, it does fit the vibe.
+Dre: Gloomy cowboy elves? Fuck yeah!
+Sylvi: Let me add another thing.
+Ali: Well—
+Art: Ali—
+Sylvi: Ali, what do you have?
+Austin: This is yours. Sylvi, Ali, this is your floor.
+Sylvi: Thank you.
+Ali: Yeah, because with the fae and the thriving thing, I think like— I mean, wood elves is not a big you know, division from the normal elf. 
+Sylvi: No.
+Ali: But I do think this foresty settlement, like people rely on it for medicine and herbs and things like that, and then like, you know, there's a— there’s a way that you can be aspected to different versions of— like, different things in nature based on like, markings or you know, birthmarks. So what you study—
+Sylvi: I like that.
+Keith: So it's thriving because it's like a hospital, but it's also gloomy because it's a hospital.
+Sylvi: I was going to say, if we're doing stuff where medicine is a big thing here, it would make sense that there is a lot of like, people coming here for help and stuff that would affect that? I do kind of also like the gloomy atmospherically as well on top of that, if I'm being real, because again, if they're in a different biome, for example, where it's like rainy all the time, that would explain different plant life, different stuff like that.
+Austin: We should— yeah, we should lean as far into big iconic swings as possible, where we're being literal in that way. So like I do think big rainy environment, big weeping willow elves or fae, you know?
+Ali: Yeah, I was thinking like permanent gray skies, like, you know, lush plants, things like that. [chuckles]
+Sylvi: Yeah, I'm going to write down exactly that.
+Austin: Pacific Northwest elves, yeah.
+Sylvi: Oh my god.
+Austin: Nirvana elves, I got it.
+Ali: Yeah.
+Austin: Uh huh. And then— and then, Ali, to clarify some of the stuff you're talking about around, like, fae and faerie and fae folk stuff is like, there's a lot of folkloric stuff around the fae courts, or around like, different astrological systems, and you're kind of gesturing at, it's not just elf, it's like— it’s like a broader system of fae magic and culture or something.
+Sylvi: I definitely—
+Janine: Are they doing crimes?
+Sylvi: Huh?
+Janine: They doing crimes?
+Sylvi: Probably some. I was definitely looking more towards Irish folklore and stuff, like the Tuatha de Danann and things like that was kind of where I was leaning.
+Austin: Right right right.
+Janine: Fae do some fucked up shit.
+Sylvi: They do a lot of shit. They do a lot of fucked up shit.
+Austin: Yeah.
+Janine: They steal kids.
+Austin: Well, that's what I was thinking of like—
+Janine: And replace them with other kids.
+Austin: Yeah. Are we talking about the “she” and the... what's the bad version of that?
+Sylvi: Oh, the—
+Austin: Oh the seelie and the unseelie
+Janine: Seelie and the unseelie.
+Austin: Yeah. Stuff like that.
+Sylvi: I'm drowning in tabs on this stuff right now. [Austin: Uh huh.] That's my problem.
+Ali: [chuckles]
+Austin: I understand. I get you. 
+Sylvi: You were saying something about stuff, where, Ali, about them being connected to like, having different traits based on like animalistic stuff— did I hear that right? Or am I misremembering?
+Ali: Um, a little bit, yeah. I was thinking like more sort of like nature things? [Sylvi: Okay.] I'm so Final Fantasy-pilled, but when you think of like the difference between like wind aether versus water aether, like having— having like, a bodily—
+Sylvi: Like elemental reflection.
+Austin: Let's lean this way— this is so clean.
+Sylvi: I like that a lot.
+Austin: I'm like— I’m going to you know, play— to the degree that I'm going to play facilitator in GM today, it's going to be to push us towards things like this, where one of— one of my traditional notions is to complicate? Or like, one of my traditional impulses. And for this season, I think one of my traditional— or one of my new impulses is going to be like, simplify and make iconic. And so the idea that there's like, “oh, they're like elemental elves”, is really clean. [Ali chuckles] And like really, it's a culture where like, you're a fire-aspected elf. And maybe you're from a place that you know, explicitly is— leans towards water or storm aspect or something like that, you know what I mean? And there's other places that are like the fire elf home, you know? I really like the idea of elemental elf divides. If I had this main book in front of me, I could remember.
+Sylvi: Are you down with the big weeping willow idea, by the way, Ali? Cause Austin mentioned a big weeping willow, and I was like, big city under big weeping willow.
+Ali: Yeah, yeah, yeah. I'm like, imagining this big grove that you just walk into when there's stuff going on.
+Austin: That whips.
+Ali: It's thriving, as one might say.
+Austin: It's thriving.
+Ali: I think like, also I have this impulse to say that it would be fun if the elemental was based on the time of the year you were born? 
+Austin: Ooh, fun.
+Sylvi: Ooh, it’s their astrological sign! 
+Ali: [laughing] Yeah, yeah, yeah! Yes. I just think it makes for like, randomization amongst like, families and—
+Austin: Yeah, that's a good idea.
+Sylvi: Instead of making it like a—
+Ali: Like the fire elves are the most powerful. You know, yeah.
+Sylvi: Yeah. We're getting into the D&D. There's 20 different elves and they all have different physiologies.
+Ali: Yeah yeah yeah.
+Austin: Uh huh. Sun elf versus— you know, I'm—
+Keith: Hey, but leave it to people—people will fuck up anything, you know.
+Ali: [cackles] Not us!
+Keith: Trying desperately to get pregnant in September so that you can have the fire kids.
+Austin: For the use of— for our purposes, I'm going to share in our Discord chat the elemental types that are in Fabula, [Ali: Oh, perfect!] [Sylvi: Thank you.] which, you know, are really fun because they range from, like, our traditional air bolt, you know, earth fire, ice. But there's also stuff like, physical and poison and dark and light. [Ali giggles] And that's really fun if you're like, oh, you know, my mom was fire, my dad was light, but I was born a poison elf.
+Sylvi: They're Scorpios. Don't date a poison elf.
+Ali: [laughs] Sylvi, in the spirit of tables, do you want to roll a 1D9 to see what our element is?
+Sylvi: You read my mind, Ali.
+Austin: So good.
+Sylvi: Okay. I rolled a 1, which is Physical.
+Ali: Let’s go!!!!
+Austin: Oh, that's so good.
+Ali: Jock elf real!!
+Sylvi: It's kind of perfect.
+Austin: It’s jock elf, it is. Holy shit, that's so good.
+Sylvi: He's yoked.
+Jack: It's Uvogin.
+Ali: He's yoked with plant power. 
+Dre: Oh…
+Ali: This guy— this guy has the— the I'm sorry for— [chuckles] sorry to Arley for not asking your pronouns, but— [wheezes]
+Sylvi: Oh nah, I'm fine with him being a dude. 
+Ali: [chuckles] Yeah. You— you're as strong as a tree.
+Jack: Oh my god. 
+Austin: Oh, I love that.
+Ali: The strongest tree, strongest roots. [wheezes]
+Austin: Yeah…
+Sylvi: That's what people said to him before he left.
+Keith: Strongest tree, strongest roots. Those are the roots of the weeping willow.
+Sylvi: I'm writing down “strongest tree, strongest roots”.
+Austin: Strongest tree, strongest roots.
+Jack: Milk bros for life, dude.
+Ali and Keith: [laughs]
+Sylvi: Like that is the vibe, like for sure!
+Austin: Gloomy Elf City.
+Jack: The elf won a ladder climbing competition.
+Austin: Yeah, we need a name for this place, but yeah. Yeah, Elf City… that's what I wanted there.
+Dre: I'm getting kind of Cam Newton vibes.
+Austin: Oh my god. Shout outs. Extremely funny, Dre. People don't know. We'll introduce you all to Cam Newton later today.
+Ali: [chuckles] Me and Sylvi obviously have to go into a hyperchamber to talk about wrestlers for like three hours. 
+Sylvi: Oh my god. 
+Ali: [laughs] We'll see you all later.
+Sylvi: You're right.
+Austin: Yeah. For people who— I was going to put one image of Cam Newton, former NFL quarterback. I mean, that's one, Dre, but you have to represent how Cam is dressing these days.
+Dre: Yeah yeah yeah, you're right.
+Jack: Woah!
+Ali: Sure, sure.
+Austin: Cam Newton is so incredibly powerful. The fits are immaculate. No one is— someone tried to fight this guy recently?
+Ali: Oh.
+Dre: Yeah, he's also like 6'5, 260 all muscle.
+Austin: Yeah.
+Dre: Like, just an enormous man.
+Keith: Why did someone try to fight him?
+Austin: Because they had a serious desire to get their ass whooped, I guess. I don't know.
+Keith: Did the fight happen?
+Austin: Yeah, he whooped their ass!
+Keith: Yeah, there you go.
+Austin: Yeah, someone tried to jump him.
+Dre: It was like 3 on 1 and it did not matter. [chuckles]
+Austin: It did not matter. Anyway, we are continuing. So that's three places, that seems right because it seems like the Harlows will be from— sorry, the Preshes will be from the same place— 
+Art: Wait. 
+Dre: Maybe.
+Art: We've been talking.
+Austin: You've been talking. 
+Dre: We've been talking. 
+Austin: Yeah.
+Art: What if they weren't?
+Austin: Oh, okay.
+Keith: Huh.
+Dre: What if they were dramatically separated in childhood and unexpectedly reunited?
+Austin: Ooh fun. Interesting. And like, you know, Harlow went off to study in this one place and you were doing adventure shit somewhere else. Sure. You want to roll? 
+Dre: Sure.
+Keith: Even knew each other, or didn't even know about each other?
+Austin: Maybe we knew each other as kids. And then we had a dramatic separation, you know?
+Dre: Let's see.
+Keith: And one of us came back cool and one of us came back—
+Austin: Right.
+Keith: Not Harlow.
+Jack: When you said we had a dramatic separation, Austin, and now I'm thinking of like big iconic stuff. It's like you were on two sides of a raft and the raft got split in two at the fork of a river [Austin: Yeah!] and you went down two different parts of the river.
+Keith: Oh my god, it's Milo and Otis.
+Austin: This is working well. What's the next one, Dre?
+Dre: Oh I was going to let Art roll one, but I'll do it.
+Art: Oh, sure. Yeah.
+Austin: I was looking at the wrong—
+Dre: Oh, got it—
+Austin: Oh sorry, I was looking at the wrong place, but—
+Keith: No. Me too, actually.
+Austin: Yeah.
+Art: Destitute expansive.
+Austin: Or you could do dangerous isolated, which would explain why you became— 
+Art and Austin: —Goku.
+Dre: Yeah. [chuckles]
+Keith: Sure.
+Austin: Our raft split—
+Keith: Goku came up in a dangerous isolated place.
+Austin: This is what I mean.
+Keith: Yeah.
+Austin: Is that like, yeah, we got split apart and I stayed in the— we stayed in the like, safety of the Hundred Burrows, and you had to raise yourself among the fucking wolves.
+Ali: Mmm.
+Dre: Yeah, we're the kid from Hatchet.
+Keith: That's a YA novel about a kid who crashed— survived a plane crash and then lived in the woods for like six months, [Austin: Ohh…] and then it happens to him three more times. 
+Jack: [laughs]
+Austin: Oh. It's wild. 
+Keith: He keeps crashing the planes.
+Austin: Yeah. I love this, this is fun. So you just came from the wilderness effectively? Or like, an island that particularly, because it's dangerous but isolated.
+Art: Yeah. We just did this— no, nevermind. 
+Austin: …okay.
+Art: I was going to say like, I was going to pitch a volcano again, [Dre laughs] but we just did a lot of volcano stuff.
+Ali: God, no, you can't. 
+Austin: We cannot.
+Ali: We can't have that energy here. 
+Dre: No, yeah yeah yeah.
+Ali: I'm so sorry.
+Sylvi: Yeah, no, I agree.
+Keith: I’m suddenly having a lot of volcano ideas.
+Sylvi: Oh, no. Well, you'll name it three months from now, [Ali spits] when we record this too, because that's how that went.
+Dre: And what other biomes do we not have yet? We've got gloomy forest elves, right? So we've got kind of that. We don't really have deserts?
+Jack: Janine and I are from a dusty, you know, it's all dried up.
+Austin: We're going to double down on a lot of these things.
+Dre: Sure.
+Art: Yeah, this isn't Super Mario. We can have more than one dusty level, right?
+Austin: Yeah. I did have an idea for a place in my own notes that was very firmly adapted from Timothy Zahn's An Heir to the Empire. 
+Ali: Oh, hell yes.
+Dre: Oh okay. 
+Austin: Let me see if I have this written down. Did I write this down nicely somewhere? Search— yeah, here we go. Parasolia, a town in a super hot part of the world that exists under a giant parasol or umbrella or mirror shield. It's the only place in the world where some sort of rare mineral is mined. The rich get to live underground where it's cooler, but everybody else lives up top and like does the mining. Most people here are like you know, dirt poor miners, but like, the best blacksmiths and weaponsmiths in the world come from this place. So like desert is exactly the vibe here. Super hot, but then giant umbrella parasol mirror shield.
+Art: Yeah, it sounds like it could become Goku living in a place like this.
+Austin: Yeah. Maybe this is me. This is— I haven't read Sand… Sand Town. What's the sand? What's the—
+Keith: Sandland.
+Austin: Sandland. It feels maybe decent.
+Keith: Yeah. A bit Sandland-y.
+Austin: Just some Sandland stuff.
+Keith: How— how are you liking the Timothy Zahn books so far?
+Austin: It's good. It's great.
+Ali: The first one is a fantastic run.
+Sylvi: I've loved listening to you all talk about that.
+Ali: [chuckles]
+Keith: I haven't read it in like 10 years.
+Sylvi: I'm so glad I did not find out about Mara Jade when I was 14. 
+Ali: Yes, oh my god.
+Sylvi: That would have changed me forever.
+Ali: New meow meow. [giggles]
+Sylvi: Dodged bullet.
+Art: But he like, recently rewrote them or they brought him—
+Ali: There was an anniversary edition with a bunch of like notes, basically.
+Keith: They also did rewrite them.
+Austin: He did a different Thrawn trilogy separately [Keith: Yeah, yeah.] for the new canon. That's different.
+Keith: Basically unrelated, yeah.
+Austin: And is a prequel, I believe, instead of a sequel. Anyway, we can't do this here. I've dropped my notes in. Y'all can feel free to adjust as you wish. But happy to have a thing lifted here right from notes that other ones have gone unused.
+Dre: Yeah, I’m into it.
+Art: Hold on, I'm scrolling back up, but there's a lot more Cam Newton than I expected. And Keith's fantastic addition to the Richard Kind Goku. [chuckles]
+Austin: Oh, yeah. The Richard Kind Gokus have been very, very strong. Thank you so much.
+Sylvi: Should we, Ali, should we reveal who our face is yet? Or should we wait? 
+Ali: [chuckles] I think we should, I think this is the time.
+Sylvi: Ok, cool.
+Keith: Have you had it the whole time?
+Sylvi: We figured it out recently.
+Dre: So excited. 
+Austin: Did you draw elf ears on?
+Sylvi: No, but I should. Hold on—
+Ali: Oh fuck, no. Wait wait wait— [laughs]
+Sylvi: I'll draw elf ears. 
+Keith: I can't wait to hear about a wrestler that I've never heard of.
+Sylvi: Yeah.
+Austin: Well, we're going to see a picture.
+Art: I very strongly think that there's a correct answer here, so I'm excited to see what—
+Sylvi: DM it to one of us.
+Ali: Please. [wheezes]
+Art: Well, but it's almost certainly not a pic—
+Austin: We don't know. We'll see.
+Ali: If it is, that would be the funniest thing in the world.
+Austin: Don’t DM it, just sit on it. Or DM it to a third party. DM it to Keith.
+Dre: DM it to me.
+Keith: Yeah, DM it to me, I’ll— okay.
+Art: I'm already DMing— 
+Dre: Because I don't think I have a good guess, but I want to see.
+Austin: My guess is that Art's guess is going to be too old school.
+Art: I think it's going to be too mainstream. I think they're going to—
+Austin: Yeah, sure. Yeah.
+Art: Oh, wait, I think I have a— I need to come up with this person's name. Hold on.
+Austin: As this picture comes together, I will read that we also need to decide why you left this place. And we’ve— I've generally given the answer for all of us, “My company asked me to take on this expedition”, but I'm not opposed to people having their own different answers for why they've become adventurers or whatever, you know? And there's also a, “but I left behind and-”
+Art: I think one of the Preshes should pick “I'm following clues left by a late family member”.
+Austin: Oh, interesting.
+Dre: Hmm.
+Art: And it could be us, I'm not trying to put one on you.
+Austin: Right.
+Sylvi: It's really hard to make elf ears in Paint.
+Austin: I'm sorry I gave you this task. I should have just let you roll.
+Sylvi: No, it's fine.
+Austin: Do people want to roll for “I decided to leave because” and “but I left behind”?
+Dre: I think even— even if we do, if multiple of us choose to go with “my company asked me”, I think rolling for “I left behind” is interesting.
+Austin: I agree.
+Dre: Art, do you want to roll our “I left behind”?
+Art: Yeah. We left behin… 3. An unresolved problem.
+Austin: An unresolved problem, interesting. The volcano is going to explode.
+Sylvi: Oh my god—
+Dre: I have a pitch, I have a pitch.
+Sylvi: —yours is so much better than mine. [laughs]
+Ali and Sylvi: [bursts out laughing]
+Keith: Wait, were you independently doing your own?
+Austin: They were independently doing their own.
+Ali: Wait, can we do a three, two, one, and post this in unison?
+Sylvi: [still laughing] Yeah, yes! That's great. Oh my god.
+Keith: Okay, so I should take this as an amalgam of your two.
+Austin: Yeah, somewhere in the middle.
+Ali: Same guy.
+Sylvi: It's the same guy.
+Keith: I should combine these in my head.
+Dre: I cannot wait.
+Sylvi: Are we posting them in the chat?
+Ali: In the Discord.
+Austin: Yeah. In the Discord, yeah.
+Sylvi: I'm ready whenever you are.
+Ali: Yeah, three, two, one.
+[short pause, followed by sounds of exclamation and laughter]
+Austin: Okay, perfect. Yeah, this is who I thought it would be.
+Ali: [squeals]
+Austin: This makes sense. 
+Keith: Who is this? 
+Sylvi: This is Claudio Castagnoli, also known as Cesaro.
+Austin: Yep.
+Sylvi: He is a Swiss wrestler who is very jacked and loves good coffee.
+Austin: Yeah, and Clash of Clans.
+Art: I thought it was going to be Brian.
+Ali: Oh sure.
+Austin: Ohhh, sure.
+Dre: Yeah. My guess was Damien Priest.
+Austin: I think Brian wouldn't be physical. I think Brian would somehow end up with a different—
+Sylvi: He'd be like a tree elf. I’ve seen what he’s said about apples.
+Art: And my backup guess was that New Japan guy who had that really good start and then like, retired and died really suddenly.
+Sylvi and Ali: Ohhh, Kitamura. 
+Ali: Yeah, I  have a picture of him. Rest in peace, man.
+Sylvi: RIP, big dog. Muscle monster.
+Austin: Shout outs to our wrestle—
+Keith: This is not a kind of elf you see.
+Austin: It's not. 
+Sylvi: No.
+Austin: It should be.
+Ali: This is a physical elf.
+Keith: This is a physical elf.
+Austin: Yeah, I love this.
+Sylvi: [chuckling] This is the peak elf condition.
+Art: [laughs]
+Austin: Alright. 
+Jack: So, Tomor—
+Austin: Sorry, someone had a pitch. Dre, you said you had a pitch for an unresolved problem.
+Dre: Oh, yeah. What if what if we left in the middle of a workers' revolt?
+Austin: Oooh, fun. 
+Jack: Yeah! 
+Austin: Fun. Workers— workers’ revolt in Parasolia.
+Dre: Yeah.
+Austin: Who knows what's going on there now? Love it.
+Keith: I can't believe Goku left those people behind.
+Dre: I don't know if we like left to go on this to like—? I don’t know. I don't know if we left to like, aid the revolt in some way or if we had to get out of town, I don't know.
+Austin: Maybe there's like— maybe the money you're making from this, you've fed back to the revolt in some way to support it.
+Dre: Sure.
+Jack: I mean, it's worth saying that you could also be skipping town because you are being threatened by the workers' revolt. 
+Austin: Sure. Oh?
+Keith: He's got a cortado.
+Austin: I don't think— I don’t think our good brother is—
+Art: Goku does not work against the workers.
+Jack: I'm just saying— well, no, here's the thing. Maybe old Richard Kind works for the workers— but look, when you have two brothers, you can have a good brother and an evil brother, the river took you in two different directions, and now you're faced with your own politics. I'm just saying we got an option for a classic good/evil brother.
+Austin: Tomor Presh is not anti-worker.
+Art: Yeah.
+Austin: I think of anything—
+Art: It's offensive to the memory of Goku.
+Jack: [chuckles]
+Austin: That's right.
+Keith: Who died of a heart attack.
+Austin: For our sins.
+Sylvi: I was expecting a butt there.
+Art: Goku has died. It’s— I mean, spoilers.
+Keith: Yeah, many times.
+Austin: Many times.
+Art: Yeah, so it could still be the memory of Goku.
+Keith: Yeah.
+Jack: I can't believe I would have suggested that Goku was a strikebreaker.
+Keith: It's okay. You're forgiven.
+Sylvi: Only when someone's punching him.
+Keith: [chuckles]
+Jack: Yeah, then you could have skipped out because they were gonna kill you, like in the pattern wars or whatever, you know. But I like a worker's revolt. 
+Austin: Yeah, it’s great.
+Jack: The idea of a worker’s revolt on a big— [wheezes] just close it. Close the parasol.
+Keith: Speaking of Goku strike-breaking, we are gonna watch that Trunks episode from Media Club Plus. We absolutely have to, [Austin: Good.] that would be great.
+Art: Trunks could— you could tell me Trunks is against the workers.
+Jack: I don't know who Trunks is.
+Dre: No…
+Austin: Well, I guess he is kind of a—
+Keith: Trunks is from a world with no workers left in it.
+Austin: Yeah, but he's also the favorite child of a rich family, you know?
+Keith: Yeah. Sorry, I'm thinking— I’m thinking of future Trunks.
+Austin: Yeah, I know, future Trunks, of course yeah, I get you. Anyway, I decided to leave because Jack and Janine, does your character have—your characters(?)—have an answer here?
+Jack: Janine, do you want to roll on the “I decided to leave” table? I'm broadly fine leaving that one just being my company asked me to take on this expedition, but I would roll on the second one, unless you wanted to roll on the first one and get something there.
+Janine: Um, it could be fun.
+Jack: Yeah, alright, yeah, you do the first and I'll do the second. I'm following clues left by a late family member. Now, wasn't that the one Art wanted to take?
+Art: Well, we took the different one. We didn't get it.
+Jack: Oh, I see, sure. Okay, yeah, I'm following clues left by a late family member. I'm fine with that. Uh, but I left behind— a loving family. Oh!
+Janine: Ohhh…
+Jack: What's going on here?
+Austin: Interesting.
+Jack: Janine, do you have thoughts here?
+Janine: Um, I think given the focus—pursuit of beauty—maybe it is like some sort of legendary monument or location?
+Jack: Oh, wow.
+Janine: Like our— you know, kind of like a fountain of youth situation where like our relative was like, I found this place once, but I could never make it back, you know, that kind of thing.
+Jack: Yeah. And then grandmama died, and as she died, she pressed into our hand, a key to the lockbox and the lockbox had it, the first clue to take us to— you know.
+Janine: Yeah.
+Austin: And then this expedition is a way to get across the sea and get to the other continent where this happens.
+Jack: Yeah yeah yeah. Yeah.
+Austin: Amazing. Jack and Janine, I've added the image that I was requested to add to the top of your sheet. Feel free to move it where you would like.
+Jack: Oh, here we go. Oh, here we go. [chuckles]
+Dre: Ohhh!
+Austin: Yeah. So, can you introduce us to Glesi Sidney and Yukai? Can you explain what we're looking at?
+Janine: So— so we decided to play a person with a little creature, [Austin: Mhm.] like a sassy creature, which is why we rolled— the last names felt more creature-y, [Austin: They do, sure.] which is why I pitched after the last name should be the creature name. And then we rolled two first names for the person. And also, I rolled two dispositions.
+Austin: Which I've now covered up with this picture.
+Janine: Because— yeah, disposition feels important for a little creature as well. 
+Austin: Oh, it does.
+Dre: Mhm, mhm.
+Janine: I think the creature, of course, has to also be the defensive one, because that's how little creatures are sometimes.
+Austin: They are. Is this a little creature like a dog or a Pokemon, or is this a little creature like Kirby is a little creature? Like does it have—
+Janine: It's like a little creature in the fantasy anime sense of like, [Austin: Okay.] a little wisecracking troublemaker kind of guy who might be like 6,000 years old or whatever. That kind of— that's kind of what we were gesturing at, I think.
+Jack: That’s what— that's what our dying grandmother actually gave us in her last words.
+Janine: Oh my god, was he in a box?
+Austin: Ohhh. 
+Jack: She gave us a little box and we opened the box and Yukai came out of the box. Like, alright, here we go!
+Janine: I should say, for the viewers at home—or the listeners at home, [Jack: I was gonna say, yeah]—the little guy, I generated our little guy using that old Pokemon fusion thing?
+Keith: It's a Stufful and a...
+Janine: Munchlax.
+Keith: Munchlax, yeah. I knew that it was a Stufful in there. I was like, that looks like Stufful, but magic.
+Janine: And the lady is— I went to a screencap website and opened up episode 5 of Record of Lodoss War to a crowd scene.
+Austin: Yeah, sure.
+Sylvi: [laughs]
+Janine: And then I just took a screenshot of the random blobs in the crowd scene and sent it to Jack and said, do you like anyone in this? And then that’s— we ended up on her.
+Austin: That's so smart. That's so smart.
+Jack: Yeah. The initial note that I wrote for Yukai as well was, what if a ferret was a bookmark? So we've sort of got something going on there.
+Austin: Yeah, I love it. Oh, weird—
+Jack: You know how in Sea of Thieves, there's that great thing where you can show other people the maps and your character just holds it like—
+Austin, Sylvi, Dre: Yeah!
+Jack: —180 degrees away from their body towards the other person.
+Sylvi: Oh, that's his job?
+Jack: Well, we don't actually have the map to the hidden location [Austin: Ohh!] that we're looking for. Yukai is the only one who has the map, [Janine: Hell yeah.] and it's too small for us to make out. [Austin: Love it.] So he reads it and occasionally holds it up to us and, you know.
+Austin: Yeah, I love this. 
+Janines: Berates— berates us for not being able to read it ourselves.
+Sylvi: I adore that.
+Austin: Alright.
+Janine: We obviously can't.
+Keith: Stufful is the flailing Pokemon.
+Jack: [chuckles] Sounds about right.
+Austin: Are there other “I decided to leave because”, and “but I left behind”?
+Sylvi: We should probably roll this, huh?
+Ali: Yeah, I would be happy to roll this. 
+Sylvi: Yeah, go for it. 
+Ali: Is this just 1D6 for both?
+Austin: For both, yeah.
+Ali: Do you want to do leave and then I'll do behind? Yeah.
+Sylvi: Sure. I got three.
+Ali: And I got a s— oh god, wait. [laughs]
+Austin: Oh my god. 
+Sylvi: Wow.
+Ali: “I saved enough coin to fund my dream of exploration”, which is very on the nose for Arley. [Sylvi: Uh huh.] But then, “but I left behind my entire identity”. [laughs]
+Keith: [laughs]
+Austin: Wow.
+Sylvi: That’s crazy!
+Art: That's— that’s a fun— yeah that’s— he worked so hard—
+Keith: —entire identity.
+Art: I think I've heard the song that starts like this.
+Sylvi: Do we want to reroll?
+Austin: You're allowed to mulligan. You're allowed to veto.
+Sylvi: Yeah.
+Art: [singing] I saved enough coin to fund my dream of exploration—
+Ali and Jack: [laughs]
+Austin: Oh my god.
+Art: [still singing] but I left behind my entire—
+Ali: I don't know that I'm thinking of like two different identities here, like—
+Austin: Well, my identity doesn't necessarily mean like, I'm a different person now, but like what if you had been— what if you were— this is a classic like elven prince doesn't want to be the next elf king.
+Ali: Right, yeah, I was known as my father's sous chef [Austin: Exactly.] and I want to be an adventurer.
+Keith: [bursts out laughing]
+Austin: Exactly, exactly.
+Sylvi: No, that is perfect.
+Janine: What? My father’s sous chef?
+Keith: That is honestly insulting. [chuckles]
+Ali: [laughs]
+Art: Father's sous chef, that's—
+Sylvi: They do things different on the willow, right?
+Austin: More than just—
+Ali: I was really strong and I could cut through the bark for his five star whatever.
+Austin: Right.
+Ali: [wheezing] And now I just want to hit the plains and find some rocks.
+Art: Cut through the bark for his five star tree food.
+Sylvi: I love this guy.
+Austin: You’re dumb as shit, boy!
+Keith: It sort of reminds me of— has anyone heard of the Jiro of Dreams of Sushi documentary, [Austin: Yeah.] where that guy ended up just having a son who had to go start his own restaurant because his father wouldn't retire? [Austin: Yeah.] It's also sort of the Studio Ghibli guy and his son, very similar kind of vibe. And it's like, I'm an adult and I'm still a sous chef for you? That’s crazy— I'm an assistant chef for my dad?
+Austin: Yeah, I like that version of this, which is like, I want— I don't want to be part of this thing that my family does or that I'm supposed to be doing in town or whatever it is. I want to go be an adventurer. I saved up enough money. Peace.
+Ali: I'm with it. We don’t— [chuckles]
+Sylvi: I'm down. I'm down with him being the buff prince who abdicated his position.
+Austin: Sous chef.
+Sylvi: That rules.
+Austin: Prince of Soups. 
+Sylvi: Yeah. 
+Art: Prince of Soups. 
+Austin: Do we need one of these, Keith? 
+Keith: Yes. We want one of these.
+Austin: We want a “left behind”, we're taking my company asked me to take on this expedition. We are the company scientists, right? We are a mage scientist, we don't know what we're leaving behind. 
+Keith: No, we don’t.
+Austin: Give me a 1D6.
+Keith: Yep. That's a 3, we're leaving behind an unresolved problem.
+Austin: A different unresolved problem, unless it's the same— unless we're on the other side of the worker's revolt. And it's the same one— no, because we're from a different place, we're not from Parasolia, yeah, yeah, yeah. Could be— could be an A-plot type unresolved problem, right? 
+Keith: Sure. 
+Austin: Could be, oh no, the thing that we've been talking about is an abstract fear? This thing of like, “oh, someone found records of something that sounds really ominous” is actually like “and the disease is spreading through the something something”— you know what I mean? It's something like, oh, something's happening now. Or we could reroll. Unless you have another unresolved problem.
+Keith: Tell me again about the disease, what do you—?
+Austin: I don't have a fucking clue. I just said that for the first time. There's not a disease.
+Ali: [chuckles]
+Keith: What I mean is you're saying that there happens to be a disease that's spreading while we're getting orders to leave.
+Austin: Well like, we’re being sent— no, I'm not saying that. I'm saying we could come up with something like that. [Keith: Right.] Because the thing that we are— we are being sent to investigate, the idea that—again, what I said before was—we found some record that there's a place out on the Western continent called the Altar, or the Shrine, or the Pillar of Perpetua, and it's tied to this prophecy about in the final days, the sun will rise from the West instead of the East. 
+And so we're being sent to investigate it, which is a very like passive, like, okay, well, maybe that's scary, but maybe it's not so bad. What if we actually, what if there is actually something that is more to hand— like, more actually scary about that?
+Keith: We were on the verge of confronting when we were told to leave, and so there's just this sort of thing bubbling that we didn't get to finish.
+Austin: Right. And so I went to disease because that's just like a quick and easy, like, oh, no, there's a thing here that maybe we think we can find a cure. Maybe there's some sort of, you know, mark that's showing up on people that suggests we could go that way to find some. Maybe people have been coming down with a strange sun sickness or something, you know what I mean? I don't know, I'm pitching things, but I'm not tied to any of this. Or we could reroll and find a different reason, like we're leaving behind, or we're leaving behind a substantial debt or a lifelong companion or one of these other ones. You know?
+Keith: Yeah. I— the thing that I like about unresolved problem is it does give some motivation for the guy who loves safety and doesn't want to be in danger to go?
+Austin: Totally. Yeah.
+Keith: Where if it's something that it's not just that it's a problem, but it's like it's a problem that I don't want to be near.
+Austin: What if it’s a very— what if we go way hard the other direction, not A plot, completely just tied to Harlow, and Harlow has spent too long not publishing anything new, [Jack chuckles] and it's going to lose tenure, [Keith: Sure, yeah.] is going to lose his position. You have to go out in the world, Harlow. You have to find something new or else unfortunately we're going to cut your funding.
+Keith: Yeah, we've got to do a Bill and Ted, we have to really blow it out of the water with this last report or we're going to fail.
+Ali: [chuckles]
+Austin: Or we're going to fail. We're going to get fired from mage scientist school. 
+Sylvi: [chuckles]
+Austin: Yeah, yeah. Let's just do that.
+Keith: Let's do that. I like that.
+Characteristics [01:18:38]
+Austin: That’s fun. This is great. Alright. Finally, it can help to know what your cartographer looks like. There's another table here, 3D6, to get two features and two appearances, or come up with your own.
+Sylvi: Solved. 
+Austin: Yeah. I mean, you kind of solved this, though I do think we should all roll on the appearance list, even if we've decided our features— [Sylvi: Oh okay.] because features are things here like “vicious scar” or “calloused, bare feet”. 
+Jack: Oh, you're right.
+Sylvi: We should roll to get two features and two appearances.
+Austin: Because the appearances are things like clothing and other things I don't want to read quite yet. Or we can just pick from this list, you know?
+Sylvi: The former chef thing is canon, right, Ali? We're rolling with that?
+Ali: Right— I, yeah. I— [giggles]
+Sylvi: I like it.
+Ali: We— we made a headcanon about ration standards? [Sylvi: Being picky, yeah.] And then I just said the chef thing as like a random thing, and now it's just all coming together in the melting pot. It's a soup.
+Austin: Amazing. It's a soup.
+Ali: The flavors are developing. Also, it's soup season. I want to be thinking about a man who enjoys soup.
+Austin: So true.
+Sylvi: Me everyday of my life.
+Art: But we'll still be recording this when it's not soup season anymore.
+Austin: Keith, do you want to pick some appearance things here or roll for them?
+Keith: Yeah. I—
+Austin: I feel like overflowing scrolls, “but I can't keep them, I can't hold on to them, there's too many of them”.
+Sylvi: [laughs]
+Keith: Just dropping, yeah, carrying huge ones— [Austin: Yeah, yeah.] I don't know, is that in the Sword and the Stone with Merlin carrying scrolls?
+Austin: The Merlin— yeah, I can picture it at the very least.
+Sylvi: Coming out of your sleeves like a clown with the handkerchiefs?
+Austin: [chuckles] Yeah, exactly.
+Keith: [chuckles]
+Sylvi: Yeah. Is that more Rip Torn than Richard Kind?
+Austin: There's just enough overlap that you could make it happen.
+Keith: I think that that's the best one.
+Austin: Yeah, I think so.
+Keith: Where is it? I didn't even see it.
+Austin: It's appearance. It's appearance, 8.
+Keith: Oh, appearance. Okay, I was looking at features, okay okay.
+Austin: Yeah, yeah.
+Keith: Are we rolling for a feature or are we picking up?
+Austin: I— if you want to pick one— I mean, it's Richard Kind, right, like?
+Keith: Yeah, it's Richard Kind.
+Ali: Yeah.
+Sylvi: Weird that that's on the table.
+Keith: Long, beautiful hair. [chuckles]
+Austin: Yeah, uh huh— Long, beautiful hair is so funny though. [Keith laughs] Long, beautiful hair Richard Kind is very funny.
+Keith: I'll try to find that picture.
+Austin: Please. Alright, are we— do we want to go over our sheets? Okay, yes?
+Ali: I think that maybe we roll appearance? We haven't rolled an appearance.
+Austin: Yeah, go for it, please.
+Ali: I don't think features we really need, but I will roll a one— this was a 3D6?
+Austin: This is a 3D6.
+Sylvi: Yeah, this is a 3D6.
+Ali: [laughs] Religious ornaments— mmmm…
+Sylvi: Adornments? Mm…
+Ali: Let's— you know… 3D6— [laughs]
+Sylvi: Let's reroll that one.
+Austin: What was it? I'm sorry, what was it? 
+Sylvi: Religious adornments.
+Austin: Oh, that's very funny. I mean, maybe you're religious, I don't know what your deal is.
+Ali: This isn't our vibe.
+Sylvi: No, it's not.
+Ali: Yeah, we both felt it was wrong.
+Austin: Yeah, it's fair.
+Ali: Oooh, a lantern hung staff! I don't hate that.
+Austin: That's fun
+Sylvi: I roll with that, eah. I think that's pretty good. Should I roll one too?
+Ali: Oh. 
+Austin: It's two appearances.
+Art: It says two, yeah.
+Sylvi: We don't have to— okay. I got 17. Damn, another really good roll.
+Ali: Oh, we need to.
+Sylvi: Small terrifying pet— we’ll reroll that one. There's a claim on that. An antique briefcase.
+Ali: An antique briefcase— I do love that.
+Sylvi: Wait, this is great.
+Ali: [laughs]
+Austin: Oh, this is fun.
+Keith: Wait, anti-? Oh, antique.
+Sylvi: Yeah.
+Keith: Not anti-briefcase.
+Sylvi: Briefcase in one hand, lantern staff in the other.
+Ali: Yeah.
+Austin: Mhm. Uh Keith, I think maybe the other one for us is covered in spilled ink.
+Keith: Ooh, covered in spilled ink. Those are both funny— those are both funny images. I like the canonical scrolls and the implied ink.
+Austin: You like the implied ink, you like— not literal ink.
+Keith: Right. That he could or couldn't be covered in ink at any given moment, but he's got the scrolls.
+Austin: But he's definitely got the scrolls. Sure, okay.
+Art: Yeah, let's roll some of these.
+Austin: Yeah, let's do it.
+Art: Dre, do you want to do one of each, or you want to do one and one?
+Dre: Let's do one of each, yeah. Oh, calloused bare feet.
+Art: Calloused bare feet.
+Sylvi: [stifles chuckles]
+Keith: And a fair feet—
+Dre: Oh, it's 3D6, hold on.
+Austin: It's 3D6, 3D6. Calloused bear feet— oh, bare feet.
+Dre: Hobbit-coded.
+Art: Bare feet, not bear feet.
+Dre: And a face covering headdress.
+Art: No, I thought it's two features— we're doing it this way, okay.
+Dre: Ohhhh, you're right, you're right, you’re right.
+Austin: Different colored eyes is right.
+Art: Different colored eyes.
+Dre: Yeah.
+Austin: Yeah.
+Janine: Your name can't be Tomor and you have bare feet.
+Jack: Tomor? No, it is Tomor. It would be Toless Janine if it was Tomor.
+Austin: [laughs]
+Janine: Mmm.
+Sylvi: I'm just really obsessed with the sort of like OC-ification of Richard Kind happening. [Dre laughs] Heterochromia, Super Saiyan hair.
+Austin: [overlapping] Heterochromia, Super Saiyan— yeah yeah yeah.
+Art: Alright, let's get some appearances.
+Dre: Yep. 
+Austin: Shonen Richard Kind is here.
+Sylvi: Richard Mean.
+Austin: That's also overflowing scrolls! You can't take our overflowing scrolls from us.
+Art: No, I wouldn't want to.
+Austin: Thank you. 
+Sylvi: That's a really funny grounds for a sibling rivalry. [chuckles]
+Art: I also rolled lantern-hung staff, I'll just keep doing these until I get—
+Dre: I rolled antique briefcase and I don't think that works.
+Austin: Covered in spilled ink— what is happening?
+Art: I'm just trying to steal all of these.
+Sylvi: To be fair, there's only so many things on the tables.
+Art: That’s a 12 again.
+Austin: That's the staff again!
+Art: 11— what’s 11?
+Austin: Well-worn robes.
+Art: Well-worn robes, great.
+Dre: Okay.
+Austin: That's fine.
+Dre: 6 is mechanical contraption on back. 
+Austin: That's fun.
+Ali: Oooh!
+Dre: That’s fun.
+Austin: Yeah, that's fun.
+Art: It's Doctor Octopus arms.
+Austin: Oh, no!
+Dre: I mean, yeah— it could be some sort of like, miner— or mining contraption.
+Austin: Mining contraption, yeah, that's fun.
+Art: Portable smelter.
+Austin: Yeah.
+Dre: I guess there's not a place on the sheets to put this.
+Austin: We just drop them in there, you know? Well-worn robes and you pop it right above coins and wares, you know? Jack and Janine, are you doing these or we have a good sense based on your—?
+Jack: I think we have a good sense. I sort of— unless Janine feels strongly, I don't want to overcomplicate.
+Austin: Yeah, that's fair.
+Janine: Yeah, we got a little guy and also the fact that it's— you know, everyone's rolling duplicates of stuff anyway, it feels like a sign.
+Austin: Yeah, fair.
+Jack: Yes.
+Art: A sign that we have to start rolling better numbers.
+Austin: So true.
+Art: Four is really good, no one got that. Obnoxious hat?
+Ali: [chuckles]
+Austin: No one got an obnoxious hat, it's true.
+Sylvi: Aw, shit.
+Jack: “You have to find a new number” is the kind of thing that you got kicked out of wizard school for. 
+[“         ” by Jack de Quidt begins playing]
+Jack: You're like, come back when you found us a new number.
+Austin: [chuckles]
+[music ends]

@@ -1,0 +1,3703 @@
+﻿Drawing Maps 14: May 2020 - Livestream
+Transcriber: Anachilles#0191 from 0:00:00 to 0:45:49. 
+
+
+Transcriber’s Note: I ceased transcribing where Austin indicates the podcast will stop and he will be mostly working on his computer. The remainder of the livestream from 45 minutes to 129 minutes are generated subtitles taken from Youtube.
+
+
+0:00:01.0
+[Music Plays]        
+Austin:         Hello, and welcome to Drawing Maps for May of 2020. I know that it's September of 2020... it has been one of those years. [chuckles] Uh, you know from being a supporter of our Patreon that every year is like, sort of one of those years for us, and so, uh, you can imagine, this year, you know, more so than most. Uh, I hope everyone is, uh, uh, having a good weekend so far. Today should be a pretty chill stream, kind of picking up where we left off with the last, uh, uh, Drawing Maps episode, uh, which, if people don't recall, the plan there was to — we'll get to the plan there. Give me, give me a second. Let me, let me advance from, from this first page, actually. Uh, what is Drawing Maps? It is real session prep, and today's episode is going to be a lot of that, probably. Various shows and games. Today's focus is pretty much tableaux, or the Grand Tableaux, I don't know what we're calling it yet, something like that. Uh, and then discussion and hopefully insight. It will not be unchecked or unannounced spoilers, it will not be permanent or unchangeable. This will not be an explicit tutorial, uh, and it will not be designed by committee or complete. If you don't know what I mean by those, go listen to a previous episode.
+0:03:20.9        Uh... my guess is that probably the first half of this episode will go up in the mp3 like, Patreon podcast feed, uh, the RSS feed. The back half of it, or the most of it, probably, today, will be just hanging out and me doing work and looking at the chat, and, uh,, and... one of those Drawing Maps streams, which is to say, I have to do this anyway. I may as well have a stream on for it. [chuckles] Uh, uh, so, so, uh, that part of it will probably not go into the feed, because it will be me typing and occasionally answering questions from the chat. Uh, so, if you, if you really just want that background sound, if you really just want that ASMR of me keyboard clicking and seeing some of the tableaux stuff, and maybe occasionally talking through some things, uh, then that, that's up, that I will make also kind of, uh, at the 5-dollar tier, available. So you just have to go to the Patreon and click on drawing maps, and you'll see it there. Uh... the... uh, [chuckles] Brendan, Brendan in the chat says, “what if we just took a vote and let Austin rest for an hour?” Unfortunately, if I rested for this hour, I would still then need to do the Drawing Maps for June 2020.
+0:04:27.5        What I do is, uh, prioritize getting that out because, [laughs] we are still so far back on so many things that every second I spend not catching up feels like a second I'm stealing from people. So, uh, to advance further, today's agenda, uh, is two things. One is the Q&A, and the second thing is to continue to do this kind of quest prep. Uh, Quest being a game that we're going to start playing a little bit in some Live at the Table sessions coming forward, uh, uh, and so, and so, I just have to do like, really basic stuff. I have to do, like, go back and look at transcripts and listen to those episodes and write down what the names of those places and characters were, because we've been playing live games for years, and many of those are being rolled into this new world that we are, again, calling Tableaux, uh, for, for this ongoing kind of series of one-shots, basically. You know, I'm not imagining this thing to be a big grand campaign, uh, I don't have any — I have no prep for it outside of loose ideas I've already basically talked about. So there's not like, uh, uh, there's nothing about like tone and theme and game. Which is fun, it's a fun, it's a fun place to be for prep. Uh... uh, and so, uh, so yeah. Let me just — but, but first we're going to do the basic Q&A stuff that we do most episode. Uh, also I'm going to move a fan around, one second.
+0:05:56.4        There we go. All right. I had to move a fan so that I, uh, got some of this cool air actually on, on me, instead of just behind me, based on the way that this goes. Uh, Thomas Whitney in the chat says, “Austin, I want to say thank you for bringing Paradise Killer to my attention via Wavepoint Radio. I've been playing it literally all day, and it slaps.” Yeah, it does. I'm so, like, that game is, is really good. I put, uh, 2 and a half, 3 hours into it today. Uh, uh, if you were like, “yo, I wish I could see Twilight Mirage fashions, let me tell you about, uh, a video game called Paradise Killer. Paradise Killer from the jump is like, the most, like, get fucked, Twilight Mirage, you didn't even fucking try. [chuckles] It's so good. It's like, so incredible, the... the uh, the commitment to the aesthetic is out of this world, uh, it's just like, some of the, the dopest stuff. Like, it, it, it starts at taking vaporwave aesthetics uh, and extending them, and then it, it, it, blending that with like it's own sort of like, kind of mythical, mythical, like — I, I don't even want to, I don't even want to spoil what Paradise Killer's vibe is. Uh, what I will say is like, there's a lot of good, like, city pop music in that game, and the whole thing is good. Anyway, people should go check out Paradise Killer, it's very good.
+0:07:10.7        Uh... anyway, so, so before I get to the Quest prep part of today's Drawing Maps stream, first I want to answer a few questions for, from some people who sent them in. Uh, as always you can send those question — questions in to tipsatthetable@Gmail.com. Uh, use the subject Drawing Maps, so that I will know that they're Drawing Maps questions and not Tips questions. Uh, I say that, but also, one of the questions today, I did — or two of the questions that I combined into one question, I did just steal from the, from the Tips side. Sometimes questions go into Tips that are more general GM focused, and those feel like they belong here, if only because that way I can just answer them instead of having me answer them and then having like two or three other people on the call not say anything for 15 minutes... [chuckles] So, so yeah. All right. This first one comes in from Morgan, who says, “you've mentioned, (and I mean, and I mean, the Partizan Drawing Maps episodes are a testament to this), that you think really deeply about themes, motifs, and high-level concepts while prepping longer seasons. How do you approach this while prepping shorter games? Do you still put a lot of effort into the thematic content of those games (the ones that require prep, at least), or is this an opportunity to just let the higher-level ideas develop spontaneously?”
+0:08:20.1        Uh... I think this is a great question, and I think it really depends on the game? Uh, like you say here, or kind of, one of the things you gesture at here [chuckling], is, is simply that like, there are lots of lives games that we've done — like, one, it's worth saying, I don't really run anything that isn't for FaTT at this point. Like, Friends at the Table is the only thing I'm doing with tabletop roleplaying games. Uh, I'm not like, I don't have... I was going to say local friends [laughs] where we play games right now. But, you know, obviously — no one in New York, should, probably, be inviting people over for, for tabletop sessions yet. Uh, but in generally, like if I'm playing games, it's for work. Uh, and so you've seen basically everything I've, I've run over the last few years, with, you know, one or two exceptions. But even those, we tend to record, if it's with the crew, so that it can go up as a Pusher update or something. Uh, uh, so yeah. So, so when I look at like, the list of live games, for instance... uh, it's stuff that I don't really have to do prep for most of the time, right? Spoken Magic, zero prep. Bellsongs, very little prep. Uh, Beak, Feather and Bone, zero prep.
+0:09:26.1        Stewpot, zero prep. Uh, I didn't do Shooting the Moon, that was Ali as a facilitator. Anomaly, ties into the Bluff City prep, right? Uh, Primetime Adventures we did zero prep — again, ties into the Bluff City prep, sort of. And then all the Road to Season 6 stuff obviously ties into the Road to Season 6, again, and the Partizan stuff, right? Uh, and so, and so, most of the, the GM list stuff that we've done, obviously, I've done very, very, very... little, in terms of thematic deep thinking. Except to say, the background radiation of having already done a lot of deep thinking about a lot of broad ideas, that are like, “oh, I'd really like to do a story in which, XYZ,” right? Uh, like, you know, I think my character in Fall of Magic, a character who didn't exist until we sat down and started playing Fall of Magic, I was definitely like, thinking about aging, and thinking about legacy, and thinking about, like, you know, family and stuff like that, right? Or if, if I think about, you know, the Downfall, the first Live at the Table we recorded once the Patreon launched... uh, uh, you know, that's a game that's about hierarchy and about the 1920s vibes, and... you know, stratification, and like, that's all work that I've already done, to some degree, that I can draw on in this scenario. Uh, and so, and so, in that way, the sort of like, prep for those GMless games is just the general prep I've done as a storyteller, identifying ideas that I'm into.
+0:10:52.9        Uh, uh, when I think about something like I'm prepping today, which I guess if you have no idea because you haven't listened, you're not caught up on Lives yet, uh, is going to be a... series of, I'm imagining them as one-shots, but you can think of it as a really loose company. Uh, uh, played out in the game Question, which is an RPG that came out this year, uh... last year? Last year, let's say, I think it was probably last year. Uh, and that, uh, was made by... [mumbles] I forget, T... TC Sodick? Is that right? Yeah. TC Sohdick or Sahdick, I don't know how to pronounce TC's last name, apologies to TC. Uh, uh, and, uh, uh, that's a game that is like... god, what is the, what is the way to pitch that game? That game has, has, I think the way I'd pitch it to like the players is, “hey, a lot of these moves are really interesting.” Uh, it is a game that's very clearly following in the footsteps of a lot of Powered by the Apocalypse stuff, in terms of — and, and in general the kind of like indie boom of the last decade, in terms of like, you know, failing forward, and, uh, really interesting consequences, and even stuff like the range, the, like the range of, of, uh, combat abilities and stuff like that. Uh, mixed successes. Like, all of that stuff is, is, is from the more general independent scene for, for the last decade-plus. Uh, uh, but it's very much packaged as a very light, uh, and beginner-friendly game.
+0:12:27.4        And I'm very curious about it. Like, for instance, there are no, there are no stats or skills. You have moves, uh, and those moves sometimes trigger off of ability points that you have. But you don't have, uh, but you don't have like a strength score, right? So even though there might be a character class that is like, “fighter” or whatever, right, the, the, the — I think that they're called classes in this, I don't remember if they're called classes or playbooks or what — uh, that has moves that are about fighting things, or intimidation or whatever. The Fighter does not have like a strength score. [chuckles] Uh, uh, and I'm, and I'm, I'm of a mixed mind on this game, actually. Like I'm, I'm interested in this game partially because I don't know that it all works for me, but, I want to try to meet it halfway, and, and go to a place that I think we'd have a lot of fun with it, regardless. Uh, and so, and so, to do that, what we're doing is a game called, again, what we're calling internally Tableaux, or again, the Grand Tableaux, that is sort of like... you know, I, I've always been fascinated by the sort of story that pops up in anime often, going back to like .Hack, uh, uh, but then also there's a lot of kind of Shonen and, and, you know, Isekai stories that do the thing of like, oh, you've moved into an MMO, you're trapped in an MMO, or just even things that are not necessarily Isekai, where it's like, you're in a dis— distant land, or you've been like sucked into a different world.
+0:13:45.1        But literally just, people playing an MMO. I thought — and also, I've played a lot of MMOs [laughs] over the years. And so I've thought about them. And the actual thing that made me want to do that with Quest was a line in Quest about, uh, god, what, what's the, I have to find it exactly. Uh, I don't remember if it's Destined or Fated or, uh... the, the gist of it is that like, you're, when you are rolling dice in this game... here it is. [reading] Because the chance to succeed in Quest is all the same in a die roll — that is to say, there is modifier, you don't add strength to your attack rolls, you're not adding dexterity or whatever to try to unlock something — it is not a test of skill. It is a test of fate. Players only need to roll the die once to see what happens in a given situation. Uh, and I swear I'm wrapping back around to your question here, Morgan. Uh, the thing that made me so interested, the thing that made me connect, jump from that to, back to the MMO thing I'd wanted to do for a while, was that I realized that there are, that's an interesting way of talking about characters in an MMO who are aren't, who — the asymmetry of, off, what happens in an MMO if you take all actors as being on the same ontological level, but with metaphysical differences. So, for instance, that's to say, like, the level 7 goblin you fight is an actor in that world, but can never go on a quest and get better, or can never get their... [laughs] they don't have stats that roll... you know what I mean? Or maybe they do have stats, but they're not, like, the same thing as a player character who's going to go off and multi-class and blah-blah-blah-blah. Uh, and, I think that there's like a degree of, I'm interested in a world in which it's like, “okay, hey, these, these characters are tied to the outcome that the world has given them,” uh, more than... or they're, they're, every time that they succeed, it's almost in spite of the fact that they can't go grind, [laughs] right?
+0:15:41.8        They can't go make their strength better, they can't go... collect XP the way heroes, you know player character heroes in the MMO sense can. I think that was like a really fun idea that, that then caught me and said, “oh, what if we could tell a story about an MMO game in which the player characters are NPCs and monsters, and... the, the characters who already live in this world that has become a playground for other people. Uh, and I don't, I, I, the reason I wrap back around to this is because, and this is a case where the... I'm not going to do the deep dive that I did on Partizan where I spend, you know, 6 months building factions for this, right?
+0:16:17.7        Instead, I think that this is the sort of game where I want to let the mechanics and my own interests and the player interests kind of mesh and find theme in play, have theme drawn out of the rules of the game in that way, uh, uh, which is, which is, also interesting because it means that we get to interrogate the game through that, right? Uh, and it's also interesting because this is a game that's changed in the time since... like, we first thought about it, right? Like, I, there are hacks that I was planning to do that thankfully I don't need to do anymore, because people complained and [chuckles] there were changes, right? Like this is a game that, when it first was written, there was a pretty... sus... mind control move. And it was like, you know, one of the last moves you can possibly learn as a wizard or whatever. But it was just like, it was just like the classic, shitty D&D... mind control maneuver. Uh, and I was like, well, we gotta, like, I don't think anyone's going to get to that move anytime soon, certainly, but at the same time, just in case, I really gotta have rules in place to make sure that that shit doesn't break, break really bad. Uh, and, now there's a rule in place on that move... let me find it really quick, uh... there's like two new paragraphs on this move now. It used to just say, “you dominate the mind of a nearby creature for the next hour. The creature will do anything you verbally command them to without exception or hesitation. When the spell ends, they remember everything that happened.” Period, the end. [laughs] I was like, oh, that's — we gotta do better than that.
+0:17:50.9        Uh, and so now it adds, uh, — when I say I said that, I don't mean that I was the one who pushed for that change. Other players, other people, did. But I did say that to myself when I first read that move. Uh, now it adds, “this spell is cursed.” If you use control to harm another creature, you permanently forfeit your character and they become an NPC boss.” Boss is a tier of enemy in this game., “The Guide, the GM, will now play the character as a villain in the story. The Guide will inform you if your use of the spell will cause your character to become an NPC before you cast it. You must agree to forfeit your character, otherwise, you may not cast control to harm another creature.” You know, it's not, it is not as, uh, outright in saying like, “hey, this is a matter of consent.” There are other places in the book in which issues of consent are discussed, to be 100 percent clear. But I do think that mechanically speaking, I like the drawing in the sand of like, “listen, this is, you don't get to come back from this if what you've done is mind controlled someone to, to hurt someone or themselves.” Uh... that is, that is, that is the thing that goes a step too far. Uh, in the, in the, again, the metaphysics of this world.
+0:18:50.5        And so for me, it's like, when I'm playing a game this is as wordy as that, where all of the moves — and again, this game has a billion moves, and many of them are very interesting and unique — uh, I like that, because it means we can start playing with the theme. We can hack things where we think it's not right for what we want to do, but we can start at, what's this game doing, and how do we bounce — how do we bounce off of these rules? How do these ideas spark something in us, and how do we find something that coheres? The other thing is, uh, you can absolutely, uh, uh, think about the thing that I'm doing here, one of, one of the tasks or one of the things I'm hoping to do in this, is to just think about these, these, you know, one-shots as one-shots, or more episodic, uh, not, not quite parables or fables, but like, the idea of more self-contained stories. You can do a lot in a couple of hours, or 3 or 4 hours, uh, that is, that is, uh, uh, more self-contained than what we normally do. And I want to practice that.
+0:19:55.5        Like, mostly what I tell is really sprawling stories. You know, you look at the length of Hieron or Partizan or Twilight Mirage. You know, COUNTER/Weight is short compared [laughing] to the rest of this shit. Uh, uh, but, but, what we don't do a lot of, in, in GMed content, is one-and-done stories that can kind of cohere with the shape of a TV episode, or an individual, you know, comic book, or even a, or even just a single arc of a comic, right? And so I want to practice that style of storytelling, thinking about that style of pacing, thinking about villains less as big-bads that exist over the course of 50 episodes, and more over, more of like, how do we do this in an interesting way, where there is like a four-hour or two-episode run, where something gets resolved?
+0:20:43.0        Uh, so, for me, that, that's part of where the joy of thinking about this stuff thematically. Uh... next question is a pair of things, comes in from Jared and then David. And they kind of roll together for me. Also, David, I've summarized your email a little bit here, uh, so apologies if that's a little too, if I've cut something that you think is important. But I had to fit them both on the same page. Uh, Jared says, “recently I've been prepping for an Armour Astir campaign that I'm going to be running soon, and I've been trying to establish a number of NPCs who might show up or be relevant during the campaign. However, I've been running into an issue with something that I've struggled with in previous campaigns. I find that I often you conceptualize my NPC is in straightforward and narrative terms — want versus need, what their arc might be, and where I can see them ending up eventually. However, this doesn't really feel appropriate for the medium of tabletop, where I think player input should have some level of impact on these characters, potentially even changing their trajectories or arcs.
+0:21:41.1        I want to conceptualize these characters with room to be dynamic and grow, but I feel like I can only imagine them doing so in one direction or towards one conclusion. How do you write NPCs that feel like distinct people, but aren't just pre-written arcs waiting to happen?” Uh, and then David adds, you know, kind of collaboratively without knowing it, “I GM my own campaigns, and I've always tried to imbue something special into my NPCs. But I always either make too many, in quantity-over-quality approach, or end up trying to force that attachment. I guess my question for Austin is, how do you strike a balance of making a diverse cast of characters to pull from, while also making them feel unique and relatable?”
+0:22:16.6        Uh, so the way I build NPCs is, is the first bit of what Jared actually says, which is want versus need. Uh, and, and instead of thinking about what arcs they, they, they might have, I think about what they would do, what they want, and what they'll do if left alone. [chuckles] But really, it's what they want. It's what they, what, what is it that they're working towards? Uh, throw out any of this shit about [laughs] what their arc is. Don't imagine an arc for your characters in the sort of games that we play. Don't imagine what their, their ending is. Don't imagine what they're going to get up to. You can, you can — there are, are characters and games in which thinking about what they, thinking about like Fronts in Dungeon World or thinking about Clocks in The Sprawl, uh, uh, where, yes, if left alone they can start working on things.
+0:23:02.0        But those aren't arcs. Those are objectives, those are goals. Those are, in like Netrunner terms, those are agendas for the corporation, right? Uh, uh, you shouldn't be thinking of them like characters in a novel or a show. They aren't. They're pieces on a board, and they're pieces that mechanically move according to affective and kind of psychological, uh, moods and needs. Uh, I say affective because I want to emphasize that, something that NPCs can be is about producing an affect, producing a, a kind of emotional, emotional space, emotional tone, emotional state, in the players. Uh, uh, so it's not just about inhabiting a character and being like, “I'm going to play this character realistically,” or something like that. It's also about, uh, uh, just using them as, as, elements of your narrative to produce a certain sense of something at the table, whether that is, hey, let me, let me show part of the world through this character, or hey, I want someone, I want my players to feel a sense of attachment to someone, the way David suggests, with the way that, that David tries to make NPCs. Uh, uh, so, so, but what shouldn't be there for you, what you just need to focus on getting over, is the idea that you've built something, you've created a character who's going to have an arc. Many of them won't. [laughs] Uh, and to be honest, that's my answer for David to some degree, is... throw out the ones that don't stick. Uh, they've had their arc, they showed up, no one cares about them, no one brings them up during downtime or during between sessions. No one says, “I want to check in on so-and-so,” you know, or... in, in, in — during the session, no one remembers their name, or — all right, good, they're gone. Come up with someone new. Keep moving. Keep, keep going forward.
+0:24:45.1        Uh, you know, it is not even kill your babies, it's forget them and move on. [laughs] Uh, it will be okay for, for — you have to trust your ability to keep throwing spaghetti at the wall and hoping that something will stick. And something will. Eventually, someone will care about someone you've made. But, you know, if, if — I think it's easy to think about Friends at the Table as a collection of really great NPCs, right? Uh, but, uh, let's see here really quick — go to Twilight Mirage NPCs... uh, I'll pull up this NPC list. Like, who the fuck is Appendal B. Maxim? Who is Arin Til? I think Arin Til was the, a character that, that, Dre's character had some beef with in one episode, maybe? I really tried to make Myriad something. Didn't work. Ocean's Roar. No idea — uh, I guess that's the brother of... That's the brother of... someone. That's the brother of, uh, Wind's Poem, because it's a Mountain — not a Mountain Goats, it's a Mount Eerie reference.
+0:25:40.7        Who's Bernadette? No idea who that is. Biff Briar? Is that a DJ? Is that the DJ? Yes. That's the DJ. No one cares about... fucking Biff Briar. Yeah, Arin Til is Even's, Even's — I didn't know if they were exes or if they were just former, I don't remember what their situation was. But like, most of these characters don't hit. Even the big ones, in many cases, don't hit. Uh, and, you just gotta drop them and move on, and not beat yourself over it. And, the way that you do eventually, I think, find a character that hits, is to think about, and, and, for me this, this goes back to... you know, I, I, I point to a couple different texts in terms of things that made me become a better GM. One of them, I think, is — I've, I've talked about a lot, is just like, the Dungeon World book. Uh... also, the Sprawl. And then, also there was specifically a Dungeon World GM's guide, that has nothing to do with, for instance, Adam Koebel. So you should feel not bad at all about looking up the Dungeon World GM, GM guide. It's like a fan-made thing. Uh, where is it? What's it called? It's called “Read and Understand Dungeon World.” If you, if you do a search for that, you'll find it. And reading that helped me a lot in conceptualizing a lot of stuff around GMing in, in games like this. Uh, but also, I, I actually really do believe that if, if — a big thing for me was thinking about, uh, was Tech Noir. Tech Noir was one of the first games of this era of game, that I spent a lot of time with running a campaign. Uh, before, this is well before Friends at the Table, this is like 4 or 5 years before — this was, god, Friends at the Table started 2014, so it was 4 years before Friends at the Table. But in, in Tech Noir, when you build, uh, NPCs as a GM, you're, you're doing very, very simple things. Uh, you give each NPC... I'm pulling up the book now to confirm. You build, not each NPC but each contact, which is like the, the name of, of the kind of friendlyish NPCs? [chuckles] Uh, the characters that, that your, your players can make start the game with relationships with. Uh, and they all start with a certain set of, of, uh, traits, basically, right? So you have a, you have a, a character like, in fact, I'll just, you know what I'll do, is I'll pull up the transmission for... COUNTER/Weight, if I have it on-deck. Here we go. Orth Godlove. A character, I hope, we all know and love.
+0:28:19.4        I certainly do. Uh, here's what I know about Orth Godlove at the start of this game. Orth Godlove: male, retired soldier, fought in the Golden War for OriCon. Now a mid-tier bureaucrat for a consolidated COUNTER/Weight technocracy. Large, intuitive, ace. Uh, I know that he has some connections to various objects, like a Rook and a gun, and some other stuff that he could get connected to if, if, the, kind of the way the Tech Noir mystery stuff works. Uh, uh, but that's kind of all I know about him. And, the goal is to inhabit more than it is to plot. Uh, and once you start inhabiting and, and letting the, the characters' attributes and ideas around who they are, and, and their desires, their like, impulses, the thing that they want, to pull them forward, you will find an arc. Uh, you don't need to plot — you shouldn't plot them, because it will not be as good as the thing that you stumble into with your friends. It won't be. Uh, or, if it is, then you're wasting your time playing games, [laughing] and you should just be writing a book. Uh, because if you're good enough to make stuff as compelling in that way, then that's an, that's an incredible skill, and it's a skill that serves fiction writing better than it serves tabletop roleplaying. Uh, the stuff that, that really works well in my experience, and obviously I'm just talking about my experience, is to see that development be reactive to what's happened. Uh, now, are there ways to take notes about ideas? Like, absolutely, right? Uh, at a certain point, will you see an arc develop, and then you kind of shift modes, and kind of guide that along? Absolutely. But even for something like my — our longest running game of Hieron, major NPCs, major, major, major, major NPCs, like — you know. Final episode, you know, antagonist type shit, uh, did not have an arc that I sketched out.
+0:30:22.6        Or I, I'd sketched out and threw away dozens of possible things that could happen, based on what might happen in front of us. Uh, but it was always reactive, and it was always fundamentally just tied to, okay, who is this person? What is the thing that they believe first and foremost? What is the guiding belief, and how does that shape their actions? And everything comes around that. And if you have that, then you're going to get — get good NPCs. And, not every NPC needs to have that much — they don't need to all be swinging big. Sometimes their, their goal can be make a couple bucks. Sometimes their goal can be like, get a ride home. Uh, you know, get something for their kid. [chuckles] You know? It doesn't need to be, you don't need to be life-changing with every NPC, uh, uh, goal. Uh, so I hope that that helps a little bit. I know that I can sound flip around this stuff, but I think that there has been a lot of, I think that, that the culture of tabletop games, which is to say, mostly the culture of D&D, has failed us, in terms of thinking about what the role of a, a GM or storyteller or, you know, MC or whatever, is when it comes to, to NPCs, and how much prep you're supposed to do with them. The, the character who you like, who you toil over is never going to live as much as the one that you and your friends stumble into being interesting. Uh, so think about this less as drawing or painting a perfect portrait. Think of it more as painting or drawing 100 sketches, and, at some point, one of them will hit. You can fill in the details from that sketch, going forward.
+0:32:01.9        Uh, all right. Uh, next question comes in from Victoria, who says, “I haven't played any contemporary MMOs, but from my experience, repetition is a core part of their DNA, from fetch quests repackaged to suit an area, to dailies for high-level loot... it's hard to avoid doing things over and over again in an MMO. Have you considered how this might or might not factor into the upcoming series? How can you convey repetition without making it boring?”
+0:32:25.2        Uh, so the, I mean the key here is, you're not playing — none of the characters are playing player-characters in the MMO sense. No one's playing a — a human being sitting at a computer playing the game. So, they don't need to engage with that part of, [laughs] of this. But, I do think that that, we've already, in the final episode of Spoken Magic, where this idea first comes up, you see a little bit about how the world might change because of that. Uh, and, and I want to be clear, like, it, it's not going to be, I don't think this is going to be a thing where it's like, what we're trying to do is simulate the second-to-second experience of being in an MMO world. It's a nice frame, and it's thematically very fascinating for me. So, will there be an episode that has that style of repetition as a focal point? Probably! That's a funny MMO thing, you know, that's an interesting part of what it means to be in an MMO, in the same way that like, item descriptions and raids, and all of the stuff that like, hangs around that feeling — I, and, and again, just the incongruity of a bunch of different places that don't really often thematically or tonally connect, [chuckles] but because there's an expansion and you need to put the Nier raid in, [chuckles] you drop it in. And wow, it works better than you might have expected, even though there's no real story, even though you have to kind of look the other way and pretend like it's not, it's not a big deal that this is happening. Uh, that stuff is, is, is part of what we're drawing on, you know, week to week, or not week to week, you know, month to month with these. Uh, uh, I hope, anyway.
+0:33:53.0        And so, so you'll, I think you'll see some of that stuff. But we're not beholden to it. And in general I, I, I, it's important to just remember that like, we're not, as, as players, we are not simulationist, in that way. Uh, you know, in some ways it's almost, it's, it's, there's another version of this question which is like, uh, and this is not dragging you, Victoria, but just imagine the other version of this which is like, “I haven't been to any swordfights, but, in my experience, once you're hit with a sword, you're fucking dead. How — have you considered how that might or might not factor into the upcoming series?” Uh, and, and, I think the thing that, that kind of, I want to emphasize there is that, in some ways, the genre of MMO, the mechanics of the genre are repetitious. But, the experience that people talk about when they talk about why they love those worlds and those characters does not factor that part of the simulation into it, if that makes sense. Uh, and so, you know, another way of thinking about this is, uh, either Dalloway or [Bghost], I want to say it's [Bghost], talks about the fact that all simulations are, of course, failures of simulation, right? No, no simulation is a perfect thing. All simulations, like all archives, are curative, or curational, uh, I guess is what I would say, which is to say that you are, uh, making decisions about what you're choosing to emulate as best as you can. For us, it's about theme, and sense, and, and that incongruity of place. Uh, and likeness, the, the, the fact that all of this could drop tomorrow, and it doesn't mean anything. Uh, you know, maybe it means something over the long period of your life, because you've spent a lot of time and invested yourself in something, and maybe that does happen here.
+0:35:43.7        But what it doesn't, what isn't, uh, there's a distinct difference between that sense, and the sort of lightness of, “I've, I've done the raid 1,000 times, and so, it doesn't matter if we, if we wipe in this raid, because I'm just going to respawn and go do it again,” right? And, and if anything, that's probably the part of the repetition that I think comes alive in, in this tonally, is the sense, not that there's no stakes, but just that we're going into it with something a lot closer to Spoken Magic or, uh, uh, Bellsongs' like, vibe, than we are, even Fallen Magic, right? Or Fall of Magic. Fall of Magic, I think, is even too melancholy for how we imagine this, if that makes sense.
+0:36:30.3        Uh... Matthew writes in and says, “I want” — I also, real quick, Matthew, I genericized this, because I didn't give a warning for Partizan spoilers, and I'd rather just address this generally, than... I mean, I'll talk about that specific episode, just not with details. Uh, “I wanted to ask about the kind — a kind of weird moment in the first arc uh, of, of, uh, Beam Saber post the mid-season break. When it becomes clear that the chosen plan was based on a player's misunderstanding of a situation, I was surprised you didn't let the players walk things back a bit. I wanted to ask why you didn't offer something like that, and if this is a general GM principle of yours. I only ask because, in similar situations where my players misunderstood the scenario, I've let players take back actions. And I'm wondering if that's a strictly worse idea, or just contextual?”
+0:37:13.3        I mean, I would say the first step here is not to look at anything I ever do [laughing] and wonder if it's a generalizable principle. Uh, I don't, I, I'm not Kant, uh, uh, believe it or not, uh, and I don't GM that way. Uh, every, if I think if there's one lesson from Friends at the Table [chuckles], it's that context is everything, and that outside of things like player safety — but even with player safety tools, the point of player safety tools is about arriving at contexts that people are comfortable with, not about universalizing and drawing lines through content — you know, absolutely. Uh, uh, so I think the lesson should always be that we're talking about things contextually, that we're always talking about things, uh, depending on a situation, uh, that we only ever talk about had best practices, and not universal laws. Uh, meaning that best practices are flexible and require application, and require, uh, uh, require the, the, the people applying things to be thoughtful about application. You know, not just, here is a rule, do it like this. The, the situation there, so, two things.
+0:38:22.0        One is, I did. I did say, do you want to go back? And this is a quirk of this, the way this recording process, recording and editing process works, that that doesn't show up here. For the last couple of episodes, 3 or 4 episodes, uh, I've been doing the final cut edit. Uh, Ali does like, file prep, lines up all the files, goes through once, and cuts anything that's like... super-excessive, in terms of going back and forth, not deciding something, you know... dead air. Like, big dead air, not little dead air. But, big dead air. Breaks. Uh, get off the boat situations. Uh, and then hands me those files, and then I go through and do a second pass, and then a third pass, and then that has been the file, that has been the final file since. I think the final Kingdom episode, so the last three episodes, uh, 4 episodes, the last 4 episodes, uh, and, uh, by the time I got the files, the conversation that comes after Janine's saying that is just, was just not there. So I couldn't even put it back in if I wanted to, because I would have had to have gotten Janine's raw file, and gotten everyone's raw file, blah-blah-blah. Uh, uh, the... the... uh, the thing that happens there, and the reason that conversation gets cut, is because actually, a lot of conversations in that episode get cut, because it was the biggest, it was one of the biggest get off the boat [chuckles], uh, situations we've had in probably a year. And I think that was just, everyone was rusty coming off of Kingdom.
+0:39:57.2        Coming off of the mid-season game, everyone was just like, trying to get their feet back under them. And so, there was lots of hemming and hawing about what the plan was, et cetera. Uh, and so there was a, there was a situation there where — and the, I think the reason we ended up committing instead of walking it back, and this is kind of why I give that context, is because we had, I, I had said that fact about the mission multiple times up until then. So there was plenty of time, and plenty of information, to then go a different way. And it, it, the table's like sense was just like, “eh, let's fucking go for it. We're here now, let's go.” Uh, this is not a bad plan either, you know? Like, but we'd already spent 30, 40 minutes trying to conceive of various plans. I think even by the time I got the cut, I then cut another 20, 25 minutes of going back and forth about plans that ended up not seeing the light of day.
+0:40:47.7        So it was a lot of just like, what if we did this? And then talking through all the potential repercussions of doing that, and then deciding not to do it. And so like, that stuff just gets cut, partially because it's not good radio to listen to someone say, you know, to build out an entire thing and then not commit to. Uh, and partially because it means that important details do get lost in the mix, which is how a player forgets a key detail like that to begin with is, you end up getting into the fucking weeds about something else, and then a detail slips, slips by. Uh, so yeah, that, that is what happened there. I, I, you know I think that there are times when, there are times — the reason I say that this is contextual is like, there are plenty of times when you hear me say, “no, you've already said you're doing this thing, let's commit to it. You said you were doing it. You don't get to now pass that off to another person.”
+0:41:33.9        So, for instance if a character says, “I get really angry and I take a swing at this person,” and then they realize, “oh, wait, I'm, I'm not capable of hurting them with my fist,” you know, for instance. This is a complete, you know, creating this out of whole cloth. Uh, and then they say, “wait a second, I wouldn't do that because da-da-da-da-da.” I'm like, wait, but what's more — what is more honest about the character? Is it that you were so embodying your character in that moment and their anger that you were willing to throw a fist at something you knew you couldn't hurt with your fist? Let's roll with it, that's more interesting than walking it back and minmaxing, or playing, you know, playing the numbers, because you know that you needed to equip your magic sword first to do this, right? Or, you needed someone — [mumbles] the other thing that I do a lot with this is, is, I — and, and you'll, you'll hear me go both ways. I think this, this happens in that episode, uh, where I'll say to a, you know, a character will say, “oh, shit, I don't have this skill,” and I'll say, “do you want help with that from someone, or do you want someone else to take the lead? Do you want to —“ show me you asking someone else to take the lead in this, because you had the impulse to do it, but maybe you knew you wouldn't do well at it. Whereas in other situations, it makes more sense for you to say, even though your character doesn't have the skill at doing it, you're going to go do it anyway, because that's what their impulse was.
+0:42:47.8        Uh, and so, and so, again, it's always contextual, it's always the conversation should happen, uh, to, to some degree, at the table. Uh, uh, and I guess the other, the other factor on this [laughing] in terms of why I think the table decided to move forward at that point was, we had to finish the episode. [chuckles] This is a show — this is a show we do, and we have to release it. And so, there's a point at which, when you've already put so much time before, before stuff jumps off, you know what I mean? I think that there is a pressure for players to take action at a certain point, instead of... micromanaging every potential mistake, after especially they've already done a lot of micromanagement. Uh, and I think that's true for, for regular tables also. I know, I, you know, I think about times when it's like, “hey, listen, we only have, you know, 2 hours to play this game tonight. And we've spent the first 40 minutes just talking about one thing, and, we haven't, you know, we haven't actually gotten to any of the stuff that the GM has prepped for us tonight.” I have, as a player in those scenarios, felt like I need to step on the gas a little bit. And I think there was some of that there, basically.
+0:43:55.6        And I think it's, I do think it's extra when it's a show that you have to do where, we have to finish this so that we have an episode this week, and... so that we have [laughing] we know, because, you know, one of the players isn't going to be available for a week and a half, or whatever. Uh, that, that time crunch is real. Like, our schedules are super-busy. It's very hard to line up episodes, increasingly. And so, that means that like, it's tough to... sometimes there is that pressure to just step on the gas and move forward, if that makes sense. Uh, yeah. [chuckles] Uh, uh, in the chat, a couple things. Kestral says, “I just want to say that the Nier raids in Final Fantasy XIV are better put into the world than you'd think, and are still infuriating in how they are,” which is very funny. Uh, uh, and then, uh, Brendan says, “me: thinks of the situation — thinks of three situations where this has happened.”
+0:44:46.8        Uh, all right. So, for people who are listening to just the podcast version of this, that's where this is going to end, because what I'm going to do now is stop talking so much, pull up, uh, a dock, and start just typing and going through some transcripts and looking at the names of places I haven't thought about in literal years to make sure I get everything all in one place. Uh, and, and to kind of slip out of that narration mode and more into backgroundy mode. I might even put, put some of Jack's music on just to like, just to chill, you know? [laughs] Just to have a little chill music in the background. Uh, uh, and, and yeah. So, uh, thank you for hanging out. If you're going to leave now, that's totally fine, and if you're listening to the podcast, thank you for listening to the podcast. As always, you can send questions to tipsatthetable@Gmail.com. We also have a Tips episode probably recording in the next couple days, so look forward to that. Uh, and that should also be up in the feed soon. I hope everyone has a good, uh, rest of the week, or weekend, depending on [chuckles] when you listen to this. Peace!
+
+
+Youtube Subtitles:
+[0:45:49]
+
+
+all right i'm still here but i needed to
+
+
+do that outro so that i could hit
+
+
+stop on this audacity file boom
+
+
+there we go and we save that real quick
+
+
+uh
+
+
+may 2020 okay
+
+
+and let me just let me just export that
+
+
+right away
+
+
+actually let me let me not do that right
+
+
+away because i have to edit
+
+
+the beginning off a little bit boom
+
+
+there we go
+
+
+now so that it's september of 2020.
+
+
+yeah okay that's a file boom
+
+
+export export yes okay
+
+
+so uh here we go here's what i have so
+
+
+far
+
+
+very little this is like what i sent
+
+
+everyone
+
+
+from when i first pitched this i was
+
+
+like hey
+
+
+we got some of this stuff that isn't the
+
+
+only thing i picked there's also some
+
+
+text and stuff
+
+
+but i was like hey what are the places
+
+
+that we did it was downfall
+
+
+as it be the b game golden sky stories
+
+
+the cloud islands shore
+
+
+skeletons i said i forget the gist of
+
+
+this but ancient ruined kingdom of the
+
+
+crow goddess or something yes
+
+
+fall of magic i say prequel or no and
+
+
+the time since writing this i think no
+
+
+i just don't want to fall of magic is
+
+
+too precious to me
+
+
+i won't i won't let it i won't let it
+
+
+fall to this shooting the moon yes
+
+
+stewpot yes
+
+
+bell songs yes and spoken magic yes so
+
+
+let's have a good idea
+
+
+of like we talked through what the
+
+
+different classes are going to be so we
+
+
+have those down
+
+
+which means i can pull into roll 20
+
+
+um and once i'm there i can
+
+
+go into our quest thing and just make
+
+
+make character sheets for people um so
+
+
+that's going to be a thing i do today
+
+
+and just like going through transcripts
+
+
+and looking at the various
+
+
+like these episodes and remembering what
+
+
+place names are and
+
+
+other details and jotting them down for
+
+
+for just ideas in the long run
+
+
+you know um one second here
+
+
+names only and then come over here
+
+
+boom
+
+
+all right
+
+
+there's that if you haven't seen the
+
+
+quest stuff it's really it's
+
+
+it's there is some like really cool
+
+
+stuff in this book and i think it's also
+
+
+just a gorgeous gorgeous gorgeous book
+
+
+like it's one of those
+
+
+examples of a game that just like had a
+
+
+good art budget and then found an artist
+
+
+who was a good
+
+
+fit let me see if this is even showing
+
+
+up over here
+
+
+it isn't because okay what if i do
+
+
+one second uh
+
+
+so i have the book not in chrome
+
+
+obviously
+
+
+uh what if i just drag it into here
+
+
+though
+
+
+there we go uh yeah i think this game is
+
+
+like really pretty
+
+
+um uh there's some layout stuff i don't
+
+
+love about it but i do think that like
+
+
+the gist of stuff like this is just very
+
+
+strong
+
+
+um some really great character design
+
+
+some really great
+
+
+just like this this diagram of distances
+
+
+is is fun uh i feel bad for this animal
+
+
+who
+
+
+i mean listen that animal shouldn't be
+
+
+stealing bread i'm sure it's fine
+
+
+it's probably less fine in these images
+
+
+where there's a bow involved but you
+
+
+know
+
+
+um yeah it's definitely it's definitely
+
+
+a book worth looking at just because i
+
+
+think it's very pretty
+
+
+uh anyway where do i want to start jeez
+
+
+also let me get the chat back up because
+
+
+i don't see the chat
+
+
+currently uh here you are
+
+
+i'm gonna make the chat bigger so i can
+
+
+actually read it more interesting or
+
+
+more easily
+
+
+uh dan says i'm surprised you're putting
+
+
+golden sky stories into it
+
+
+um yeah you know i
+
+
+i think people like that game more than
+
+
+me like that session more than me
+
+
+i was not that was like one of my least
+
+
+favorite games to run
+
+
+um because it doesn't do any of the
+
+
+stuff i like about games
+
+
+that's a game in which you have to prep
+
+
+character arcs
+
+
+every scene in golden sky stories has
+
+
+pre-written beats that you're just
+
+
+guiding people through i hate it
+
+
+i i love the book i think the moves are
+
+
+really fun
+
+
+but like i as a gm i pass hard pass for
+
+
+me
+
+
+um i don't i didn't enjoy playing it
+
+
+that much but i did spend a lot of time
+
+
+thinking about that world and that
+
+
+and that place so i did you know not a
+
+
+lot compared to partisan but but you
+
+
+know i spent time on it i made a drawing
+
+
+for it and stuff like that
+
+
+so that wasn't that's enough for me to
+
+
+be like you know what yeah there should
+
+
+be
+
+
+put that in there that's fun
+
+
+um yeah if you don't think if you don't
+
+
+think that there's a
+
+
+that there's a place in this mmo world
+
+
+for uh sky whales and
+
+
+ then let me tell you we'll play
+
+
+some more mmos because
+
+
+sky whales all up in the mmos this is
+
+
+non-stop sky whale
+
+
+action uh let me pull the transcripts up
+
+
+also here god how do i even want to do
+
+
+this i guess i'll do this
+
+
+here and then this here and then boom
+
+
+boom boom
+
+
+and then uh oh wait does that break this
+
+
+that's gonna break this
+
+
+that definitely broke this huh all right
+
+
+let me add another chrome
+
+
+window uh
+
+
+window capture chrome 2
+
+
+let's make this one
+
+
+that and then let's do this and then do
+
+
+this and then slide that over here
+
+
+and then i swear this is all going to
+
+
+make sense in a moment
+
+
+boom okay
+
+
+and i lost the chat i lost i lost where
+
+
+i put chat
+
+
+there it is okay
+
+
+uh brendan in the chat says someone
+
+
+who's very recently a backer at this
+
+
+level
+
+
+is the idea that all of these lives are
+
+
+retroactively contributing to the quest
+
+
+campaign
+
+
+um they are uh
+
+
+they are
+
+
+um it's not that they're all
+
+
+contributing it's that they're all like
+
+
+so yes they are all contributing yes
+
+
+they're all like
+
+
+places in this new mmo world this
+
+
+tableau of places
+
+
+um basically so uh that's the downfall
+
+
+audio do i have to click over oh come on
+
+
+dear
+
+
+dear google whatever can i make this
+
+
+smaller can i zoom out here i can
+
+
+probably just go over
+
+
+right there we go shout outs again to
+
+
+the incredible transcript team
+
+
+who is just who is just incredible
+
+
+um
+
+
+brendan says canon but not canon uh
+
+
+it doesn't matter like i think it
+
+
+doesn't
+
+
+pretzels is the same like i just don't i
+
+
+don't
+
+
+it it's not
+
+
+canon
+
+
+these worlds are done right like i don't
+
+
+have any plans to go back to downfalls
+
+
+world or golden sky stories
+
+
+world or the skeletons or um outside of
+
+
+this
+
+
+and so what i would say is if i'm being
+
+
+precious
+
+
+these original stories came to an end
+
+
+and what's happening over here
+
+
+is a
+
+
+an echo of that original story but it's
+
+
+where the camera is now which is to say
+
+
+we're investing in it
+
+
+in terms of attention and at that point
+
+
+it's
+
+
+it's the thing it is if that makes sense
+
+
+um so yeah let's see what was did we
+
+
+ever come with a name
+
+
+for this place for the b place
+
+
+kind of forgot about this stuff about
+
+
+names being
+
+
+love a hexa cracks crassy exocracy
+
+
+i am going to put on some of jack's good
+
+
+music
+
+
+let's go and listen to uh
+
+
+what is the longest thing we could put
+
+
+on maybe just to go with
+
+
+let's just go with winter i haven't
+
+
+listened to the winter stuff in a minute
+
+
+[Music]
+
+
+[Music]
+
+
+yeah matthew that's part of why we're
+
+
+not using interstitials like they're not
+
+
+the they're not the heroes of the story
+
+
+if that makes sense they're not
+
+
+that style of
+
+
+that style of protagonist character
+
+
+no one's reaching into anyone's heart
+
+
+here no one is you know
+
+
+trying to to save anyone anyone or bring
+
+
+the you know confront the darkness in
+
+
+the morning i've read interstitial like
+
+
+two or three times now
+
+
+and i've considered it for various
+
+
+things it just hasn't been the right fit
+
+
+all right
+
+
+[Music]
+
+
+so
+
+
+[Applause]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+hmm
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+i'm not really searching for anything
+
+
+cole i'm i'm reading
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+huh
+
+
+it's pretty nice
+
+
+[Music]
+
+
+foreign
+
+
+[Music]
+
+
+[Applause]
+
+
+i just thought of something important
+
+
+let me see i can find it
+
+
+[Music]
+
+
+two
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+there we go
+
+
+that's the stuff
+
+
+yeah it was literally yeah there it is
+
+
+[Music]
+
+
+[Music]
+
+
+bye
+
+
+[Music]
+
+
+that's grief
+
+
+i simply love the six that's all
+
+
+[Music]
+
+
+now
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+and
+
+
+[Music]
+
+
+hmm
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+do
+
+
+[Music]
+
+
+knee boards
+
+
+[Music]
+
+
+oh these bees are just big these are
+
+
+just big bees
+
+
+i think that was i think that i think i
+
+
+thought that was established
+
+
+[Music]
+
+
+that's about that specific big one
+
+
+in my mind they're just big bees
+
+
+[Music]
+
+
+oh maybe not
+
+
+[Music]
+
+
+i changed
+
+
+yeah yeah i definitely remember the wasp
+
+
+judge reveal at the end of that episode
+
+
+being like whoa
+
+
+big wasp but i can't remember if there
+
+
+was like a baseline
+
+
+um thing you know
+
+
+right
+
+
+[Music]
+
+
+it's interesting that keith raises this
+
+
+idea here we end up not using that so
+
+
+that's a fun
+
+
+that's why this is bolded over here and
+
+
+that's a fun thing that we didn't
+
+
+develop in this episode
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+wow
+
+
+[Music]
+
+
+the wrist seems positive
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+this song
+
+
+[Music]
+
+
+this is the first song that jack put
+
+
+drums to
+
+
+in their life unbelievable
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+hmm
+
+
+[Music]
+
+
+i see how the names work
+
+
+[Music]
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+it seems like it's moving for me is it
+
+
+not moving for y'all
+
+
+well it looks good on obs side
+
+
+[Music]
+
+
+that was the queen right there
+
+
+[Music]
+
+
+hmm
+
+
+[Music]
+
+
+[Music]
+
+
+i know this song me up still
+
+
+the pedals oh brutal
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+okay
+
+
+[Music]
+
+
+right
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+all right that's probably enough like we
+
+
+don't the nice thing about this
+
+
+is like i vaguely remember how this
+
+
+ends but it doesn't matter enough like
+
+
+it's not a sequel
+
+
+to these episodes right so what i'm
+
+
+really getting here is enough to build
+
+
+an adventure around right like or to
+
+
+give to a player who says oh i want to
+
+
+be a b
+
+
+person what was the deal with that place
+
+
+i could say oh well
+
+
+there's a heck something there they have
+
+
+these names that are like this
+
+
+they have blah blah blah blah blah um
+
+
+it's very funny because we i i is it
+
+
+misspelled
+
+
+it's not misspelled but it's spelled
+
+
+different in the transcript
+
+
+[Music]
+
+
+there's so many blank spaces here right
+
+
+like
+
+
+what the are the what are the six
+
+
+what are the six traditions you know
+
+
+oh i guess are they those six traditions
+
+
+patrick hand is
+
+
+a season six character great that's
+
+
+that's a different season six i don't
+
+
+think that was one of them was it
+
+
+it might have been no damn patrick hand
+
+
+never got used
+
+
+[Music]
+
+
+yeah i kind of like the idea of the
+
+
+hexametric being tied to those six
+
+
+elements justice grief naming
+
+
+architecture fashion
+
+
+you know that's what else do you need
+
+
+[Music]
+
+
+finnigan hands that's why that's why i
+
+
+had that idea
+
+
+all right here's a question did this
+
+
+just what does this do when i did that
+
+
+to the jump over here yeah okay i did
+
+
+all right so that's that's enough from
+
+
+downfall
+
+
+golden sky stories
+
+
+[Music]
+
+
+also wait really quick let me go back
+
+
+and say thank you
+
+
+too
+
+
+uh oh cole you did did you do this oh
+
+
+anton started it and cole finished it so
+
+
+thank you to anton and cole for their
+
+
+downfall
+
+
+audio transcript transcripts
+
+
+trans a single transcript multiple
+
+
+people worked on it likewise this one
+
+
+hella cool bro ash and max for
+
+
+transcribing golden sky stories
+
+
+i also suspect
+
+
+that i have notes on cold sky stories
+
+
+[Music]
+
+
+okay so locations here
+
+
+include zabonichow
+
+
+and snow peak city
+
+
+[Music]
+
+
+this soundtrack is slept on like i get
+
+
+it i get why
+
+
+why people go twilight mirage or go
+
+
+spring or marielda but listen to this
+
+
+jesus christ
+
+
+[Music]
+
+
+i love these notes that i have here for
+
+
+golden sky
+
+
+sky whales thick clouds instead of water
+
+
+something mysterious happened a long
+
+
+time ago that did this to the world
+
+
+high and low tide got you know what
+
+
+what can i do high in low tide equals
+
+
+flat it's fog listen
+
+
+it happens
+
+
+yeah so for people who for for what i
+
+
+was saying before just as like a
+
+
+to show you what i mean when i say i
+
+
+don't love playing this love but i
+
+
+didn't love playing this game is like
+
+
+scene one afternoon i had to write this
+
+
+out then the game opens blah blah blah
+
+
+here's the this is what happens
+
+
+here are the things that have to happen
+
+
+in scene two scene three scene four
+
+
+and that's like fine but it's not
+
+
+it's not how i like to play games you
+
+
+[Music]
+
+
+know
+
+
+[Music]
+
+
+[Music]
+
+
+one of the things that's interesting on
+
+
+this is that so many of my
+
+
+notes on prep were not
+
+
+broad world building things
+
+
+because so much of the world is
+
+
+prescribed by the system
+
+
+[Music]
+
+
+japanese myth right and so to some
+
+
+degree
+
+
+to some degree the thing there is like
+
+
+looking just at this text
+
+
+as as primary text if someone wants to
+
+
+go there or build something around that
+
+
+so the note that i'm going to make for
+
+
+myself here is just like
+
+
+for players to the text of gss
+
+
+i want to draw on those elements
+
+
+i also want to make a note here about
+
+
+just like
+
+
+be wary of lifting out of
+
+
+context um tss is
+
+
+fundamentally a japanese game
+
+
+about japanese myth
+
+
+be thoughtful about adaptation
+
+
+[Music]
+
+
+and
+
+
+[Music]
+
+
+[Music]
+
+
+to
+
+
+[Music]
+
+
+[Applause]
+
+
+[Music]
+
+
+two
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+all right i want to pull up this game
+
+
+also if i can
+
+
+uh i'm guessing it's still in there
+
+
+let's see
+
+
+[Music]
+
+
+yeah i did that little drawing that was
+
+
+fun
+
+
+i had zero was a crane
+
+
+don't love weakness eyeball just don't
+
+
+like it just don't like what that might
+
+
+mean
+
+
+the thing i loved about this game was
+
+
+the players obviously like it was just
+
+
+it was just jackie being very very fun
+
+
+which is one of those things where it's
+
+
+like i wish it used i wish it
+
+
+i wish i got to it it felt like
+
+
+it felt like um
+
+
+it felt like it was more of
+
+
+like watching someone i don't know it's
+
+
+hard to explain
+
+
+it this sounds like it's weird because
+
+
+they were playing characters who are
+
+
+very childlike obviously
+
+
+but it felt more like hanging out with
+
+
+like younger cousins like child you know
+
+
+with like my little cousins and being
+
+
+like oh yeah they're cute
+
+
+you know they're funny it's funny to
+
+
+hear my my
+
+
+you know cousin who's like you know 12
+
+
+talk to me about
+
+
+minecraft or whatever not even 12 i
+
+
+think i think that he's only like nine
+
+
+um but but like that was the vibe that
+
+
+was entertaining but it's like i'm not
+
+
+engaged in the same way
+
+
+because of the way that the way that
+
+
+golden sky stories works
+
+
+a little town
+
+
+[Music]
+
+
+uh
+
+
+[Music]
+
+
+[Music]
+
+
+hmm
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+so
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+[Music]
+
+
+please
+
+
+[Music]
+
+
+um
+
+
+[Music]
+
+
+[Music]
+
+
+okay
+
+
+[Music]
+
+
+[Music]
+
+
+so
+
+
+all right that one's pretty easy
+
+
+next up the skeletons skeletons
+
+
+unfortunately
+
+
+oops that up skeletons
+
+
+[Music]
+
+
+[Music]
+
+
+the beak yes of course the beak
+
+
+love these love these names
+
+
+[Music]
+
+
+[Applause]
+
+
+[Music]
+
+
+okay
+
+
+all right
+
+
+one of paul's there i will be right back
+
+
+i just need to run to the restroom
+
+
+i am back
+
+
+um and this one is tough
+
+
+because according this local right this
+
+
+is just
+
+
+i think i have to play it this is just
+
+
+the destiny can you record it
+
+
+or not i'm gonna do an audacity anyway
+
+
+just in case
+
+
+uh this is obviously not me talking now
+
+
+thing i mentioned last time
+
+
+um like you know what if five years from
+
+
+now we're like hey we should
+
+
+do a better cut of these so i actually
+
+
+have been having people
+
+
+do audacity all right
+
+
+well then i got none of our pre-recorded
+
+
+that's right
+
+
+you people who like
+
+
+i don't i don't know i'm saying i'm
+
+
+bringing you down with me
+
+
+okay that's fair we should do a clap oh
+
+
+i would love to
+
+
+if it pleases the court austin
+
+
+um oh i guess i just assumed you were
+
+
+this was that was some like elaborate
+
+
+bit you were doing
+
+
+did you also for think that time that is
+
+
+wasn't real are you on your like jack
+
+
+ right
+
+
+week happiness all right hopefully we'll
+
+
+never use this uh these
+
+
+audacity files anyway i said that's half
+
+
+of the patreon one and they
+
+
+and you can support us at trends at the
+
+
+table dot cash uh over like it's like a
+
+
+pay-per-view event
+
+
+oh i demand cannot be held fiddle you
+
+
+watch
+
+
+and then one day there is light and
+
+
+motion and
+
+
+you weigh your bearded ass your bearded
+
+
+axe and raise your shield
+
+
+lusting for the fray eager to measure
+
+
+your skill against
+
+
+these tomb robbing children so full of
+
+
+blood
+
+
+you will never be alive again but in
+
+
+this moment in the chaos between
+
+
+violation and destruction
+
+
+you truly live and you remember what you
+
+
+once were
+
+
+and you taste the sun i am super excited
+
+
+to play this game in which we basically
+
+
+play as dark souls enemies
+
+
+um slowly remembering what their lives
+
+
+were i'm going to keep reading from the
+
+
+rules just to get us
+
+
+kind of up to speed on what it is and
+
+
+what we're doing
+
+
+the skeletons is a meditative structured
+
+
+freeform game
+
+
+it flips the script on the classic
+
+
+dungeon crawl where you play not the
+
+
+intruders but the guardians cursed to
+
+
+spend all of eternity
+
+
+defending a tomb gather the stuff you
+
+
+need
+
+
+one to six players with one or more
+
+
+hours to spend together we got that
+
+
+a quiet place to play that can be
+
+
+darkened if you have neither quiet nor
+
+
+darkness close your eyes instead
+
+
+uh you too listeners printouts of these
+
+
+rules and the skeletons
+
+
+which we have a large sheet of blank
+
+
+paper which we have in roll 20
+
+
+pencils or pens a six sided die and a
+
+
+timer of some sort
+
+
+shoutouts to time that is optionally
+
+
+sounds of the tomb to be played as the
+
+
+years grind past
+
+
+uh so a quick note for people who are
+
+
+listening to the archive there are going
+
+
+to be moments in this where we are quiet
+
+
+for
+
+
+up to minutes at a time um i know that
+
+
+like for some people who listen to
+
+
+podcasts
+
+
+that can be jarring uh and i definitely
+
+
+um get that like if you're on your
+
+
+commute you're gonna want to hit that
+
+
+fast
+
+
+excuse me that fast excuse me twice that
+
+
+fast forward button
+
+
+um but if you're in a place where you're
+
+
+going out for a walk while listening or
+
+
+you're just at home maybe doing dishes
+
+
+um i'm gonna say try to sit with us
+
+
+through those moments
+
+
+because that's a big point of this game
+
+
+is these quiet meditative moments that
+
+
+sort of simulate and condense
+
+
+years of silence in these tombs between
+
+
+major events um so and we're going to do
+
+
+that live we're going to do the
+
+
+sitting in quiet thing so um
+
+
+let's let's keep moving uh this is a
+
+
+heads up um
+
+
+so first we each choose a skeleton to
+
+
+play there are eight each has specific
+
+
+questions that you may answer during the
+
+
+game
+
+
+uh we answer those questions during
+
+
+these moments when the tomb is being
+
+
+attacked basically we're
+
+
+skeletons were asleep for a long time
+
+
+and then as
+
+
+you know tomb raiders effectively come
+
+
+in to try to bust in we wake up and in
+
+
+the fray
+
+
+kind of grasp at moments from our our
+
+
+past lives
+
+
+when the game begins you know nothing
+
+
+just just as they remember nothing and
+
+
+each skeleton is a cipher
+
+
+over time you'll learn more so let's
+
+
+start there
+
+
+let's talk about these skeletons i'm
+
+
+going to drag this skep
+
+
+your skull is long gone but it doesn't
+
+
+matter carry an iron mason to holy
+
+
+symbol
+
+
+sketch in the details on the
+
+
+illustration we don't have to do that
+
+
+quite yet
+
+
+right for this general shape do you
+
+
+think of this tip you know like
+
+
+sometimes like a
+
+
+a building has like a
+
+
+like like a bay window but not but like
+
+
+but like you can stand there
+
+
+like uh like wait still neither response
+
+
+to that
+
+
+you're gonna help me on this lines um
+
+
+oh this will work great door behind
+
+
+there
+
+
+like an attic or is it trying to figure
+
+
+out what's up
+
+
+actually let me just pull up let me just
+
+
+let me just pull this up over here
+
+
+that'll make this easier
+
+
+let's do this according this local right
+
+
+this is just
+
+
+unless you think it's is it that color
+
+
+is it is it a window
+
+
+also draw a bad skeleton
+
+
+like my crudely drawn okay
+
+
+okay that's fine oh okay
+
+
+uh i forgot
+
+
+in a life that describes your greatest
+
+
+accomplishment what thing in this
+
+
+place did you lovingly craft with your
+
+
+own hands choose from one of those
+
+
+already introduced
+
+
+if you are able um
+
+
+who cleaned your head and why uh
+
+
+what connection do you have to those
+
+
+you've just killed or driven away what
+
+
+memory did they invoke
+
+
+oh that's a heavy one okay
+
+
+um nope my right screen
+
+
+ up one second
+
+
+there it goes okay
+
+
+um i think my name was rohan ooh rohan's
+
+
+a good name
+
+
+yeah all right well that was rohan down
+
+
+here
+
+
+uh art what about you i think we all
+
+
+have the same first three questions of
+
+
+what was your name yeah
+
+
+whom did you once did you earn in life
+
+
+that describes your greatest
+
+
+accomplishment
+
+
+my last three are what area within this
+
+
+place you forbidden to set foot in
+
+
+oh that's good choose from among those
+
+
+already introduced if you are able note
+
+
+your answer on the map
+
+
+who here among the skeletons richly
+
+
+deserves this fate and
+
+
+why ooh that's really good yeah
+
+
+what connection do you have to those
+
+
+you've just killed or driven away what
+
+
+memory did they evoke i guess that's
+
+
+another
+
+
+that's all shared yeah um
+
+
+i am not allowed to set foot
+
+
+in the the beak okay
+
+
+um i cannot queue up your music
+
+
+also without listening to this game
+
+
+under your skeleton oh sure
+
+
+i'm gonna add gold coins here and also
+
+
+then blood
+
+
+and rat junk just the blood please
+
+
+you don't want rat joke connection do
+
+
+you have to those you've just killed or
+
+
+driven away what memory did they evoke
+
+
+um
+
+
+i'm going to say that
+
+
+the hmm
+
+
+thing is destroyed what is it something
+
+
+from a skeleton's past has been
+
+
+accidentally revealed what was it and
+
+
+why was it hidden note this on the map
+
+
+and the magic animating one of the
+
+
+skeletons but not its compulsion or
+
+
+service is beginning to fade having an
+
+
+idolizer what do you all think oh so
+
+
+that's the truth so
+
+
+you know that we're brothers but i you
+
+
+don't know
+
+
+yeah correct you you know you
+
+
+no you know no you know that right
+
+
+this character knows okay um there's a
+
+
+different a different home movies bit
+
+
+down here
+
+
+all right god welcome to the table a
+
+
+home movies
+
+
+uh tribute podcast
+
+
+if we ever go completely friends of the
+
+
+table with our entire lives
+
+
+it does not work for me rewatch podcast
+
+
+i hope you're ready
+
+
+um home movies at the table no
+
+
+wait it doesn't work at the
+
+
+bad friends of the movie friends of the
+
+
+movie
+
+
+friends of the movies is just our movie
+
+
+watch podcast all right
+
+
+uh what do you think which of these i
+
+
+think stick with glory fades maybe god's
+
+
+laugh gets
+
+
+rough um
+
+
+yeah this one seemed to immediately
+
+
+begin a new one here
+
+
+i know there's a point at which we start
+
+
+getting into just
+
+
+wall street like a like a money dragon
+
+
+yeah
+
+
+professional tomb robbers or giant tomb
+
+
+spiders
+
+
+life is is that you
+
+
+just did all this work making this this
+
+
+sympathetic family of trolls that we
+
+
+have to murder
+
+
+that's what this get we can't lose and
+
+
+then i'm gonna murder one of these
+
+
+trolls that would be like
+
+
+arts of monster the monster
+
+
+[Music]
+
+
+he does say if someone explains the
+
+
+matrix
+
+
+big again it's gonna up it doesn't
+
+
+say whoever slays the matriarch
+
+
+so this is different in this way than
+
+
+the we made a mistake we did not do
+
+
+glory fades or
+
+
+god's love oh you're totally right
+
+
+good catch no
+
+
+they only cast a curse on you that it's
+
+
+not like an eternal curse it's odd
+
+
+brutal all right i'm gonna help you i
+
+
+got where's one of your eyes
+
+
+cool
+
+
+the tomb is flooded what is like where
+
+
+it's just like
+
+
+and then the empire falls away like and
+
+
+then literally there
+
+
+here we go we're just like attracted to
+
+
+necromancy for some reason here we go
+
+
+this is the ship
+
+
+[Music]
+
+
+crow looks at you and then this gunsling
+
+
+birds album
+
+
+so the bird empire is real it is here
+
+
+i believe in it we were supposed to be
+
+
+thinking in that time
+
+
+about um thinking about all that has
+
+
+gone before and how it came to be
+
+
+i did did you
+
+
+what did you think about
+
+
+i mean like what were some of the
+
+
+thoughts of of what came before
+
+
+well i mean i i guess i sort of started
+
+
+thinking about like how these like
+
+
+totemic
+
+
+empires came to be and
+
+
+you know why would you pick i go yo
+
+
+how does it how does the society do they
+
+
+pick the cat first they pick necromancy
+
+
+first
+
+
+like they decided necromancy was the
+
+
+best way to like
+
+
+operate a cat right or was it the other
+
+
+way which was like
+
+
+for whatever reason cats were were
+
+
+here right and like it was like
+
+
+attracted to necromancy for some reason
+
+
+you know necromancers are inside a lot i
+
+
+imagine
+
+
+and like they need like pets to
+
+
+take care of rodents you know they're
+
+
+dealing with a lot of stuff that's like
+
+
+reanimating the dead rats and stuff
+
+
+while testing and like they need cats to
+
+
+keep their their clean it's dank
+
+
+you know um whereas for me that that
+
+
+makes me think that the
+
+
+empire fish like is very coastal is very
+
+
+like
+
+
+sure is very uh
+
+
+caught up in like travel and like all up
+
+
+and down the coasts around the
+
+
+the entire kingdom or entirely the
+
+
+continent or whatever
+
+
+um and is like more about or maybe
+
+
+that are they keeping fish's pets but
+
+
+also we're fishing i don't know
+
+
+um and then birds are just like i
+
+
+definitely imagine us as being open air
+
+
+and like
+
+
+running and like not wearing shirts you
+
+
+know
+
+
+those are the three things that birds
+
+
+remind me of open air
+
+
+running no shirts like yep
+
+
+in like mountains you know very like
+
+
+athletic in my mind very like um uh
+
+
+maybe individualistic in a sense which
+
+
+would explain why i was a
+
+
+traitor uh very like driven by
+
+
+personal like achievement
+
+
+am okay we're here
+
+
+um when you feel that you've spent 10
+
+
+minutes or more in the dark across the
+
+
+entire game the next intruders will
+
+
+defeat you
+
+
+allie there is a list it is either an
+
+
+army of plunderers or some of your
+
+
+descendants
+
+
+oh sorry um i don't know if i have the
+
+
+same like
+
+
+if you're on the way yeah i i think that
+
+
+i'm on the way away
+
+
+come on i have been on this show for a
+
+
+bit yes
+
+
+um and i think that it's some of our def
+
+
+center yeah i think that's what i like
+
+
+there is an argument for an army of
+
+
+plunderers which is like friends at the
+
+
+table at its most nihilistic
+
+
+where it's just like and then the empire
+
+
+falls away like and then literally there
+
+
+is nothing left of what was once this
+
+
+glorious empire
+
+
+now it is just like a bunch of
+
+
+bandits who just
+
+
+come in and dig out all the feathers and
+
+
+take all the gold and like step on our
+
+
+corpses
+
+
+but i think we've never heard of any
+
+
+they've never heard of any cats or birds
+
+
+right
+
+
+there yeah it has been an epoch right
+
+
+like this has been
+
+
+yeah right exactly they come in with
+
+
+like a bulldozer
+
+
+you know um which is kind of great
+
+
+yeah or it's our descendants who follow
+
+
+an ancient treasure map penned by our
+
+
+own children
+
+
+which is still very old at this point
+
+
+yeah uh an epoch
+
+
+in in this case is um like that
+
+
+it goes century centuries millennium
+
+
+age and epoch so like it is just a
+
+
+different completely different
+
+
+culture right like yeah this is not
+
+
+necromancers at this point or if it is
+
+
+like their necromancy is
+
+
+something else completely
+
+
+they got that science necromancy yeah
+
+
+this is like destiny now
+
+
+right like some fallen kicked
+
+
+down the door
+
+
+basically or whatever
+
+
+uh yeah like archaeologists says see we
+
+
+knew it was coming back to mmos even
+
+
+back then there's some destiny people
+
+
+come
+
+
+they're mmo players but like their
+
+
+archaeologists but but they are still
+
+
+descendants of ours
+
+
+right right um
+
+
+so they follow an ancient treasure map
+
+
+describe how you see yourself
+
+
+in them who among you will be the first
+
+
+to strike them down
+
+
+can you even bear answers none one or
+
+
+two questions as they prefer
+
+
+i wonder if these are the player
+
+
+characters if descendants of the great
+
+
+ancient kingdoms are are the pcs
+
+
+like not our pcs are are like the the
+
+
+mmo
+
+
+player characters i think that's fun i
+
+
+think that's like i think that's
+
+
+supported by this text
+
+
+that the the who is who is raiding these
+
+
+dungeons it's the great great great
+
+
+epoch long descendants of these
+
+
+of these empires and so you know you're
+
+
+setting up your
+
+
+character at the login screen
+
+
+a new character okay which great empire
+
+
+did you descend from
+
+
+did you descend from the empire of the
+
+
+cat's empire the birds the empire the
+
+
+fish etc
+
+
+um that's fun
+
+
+are the characters
+
+
+scions of these ancient empires
+
+
+you know uh uh exploring
+
+
+these ruins and trying to rebuild
+
+
+the kingdoms of the past this is why you
+
+
+do the work this is why you go back to
+
+
+the text
+
+
+what are they like ally
+
+
+hmm i don't know it's tough because like
+
+
+i think that we
+
+
+if this is really as far in the future
+
+
+as we're saying it is yeah it's dark it
+
+
+isn't like the separate
+
+
+animal humans anymore right like
+
+
+culture is kind of like melded together
+
+
+in that way do you think like
+
+
+those that there's a point at which
+
+
+either one of those remaining kingdoms
+
+
+became the
+
+
+the dominant one or they melt like you
+
+
+said they meld together to where it's
+
+
+like
+
+
+i know this is just this is just a new
+
+
+culture altogether
+
+
+even even that one culture like let's
+
+
+say the cats
+
+
+went to went on to rule for a thousand
+
+
+two thousand years the cat empire was
+
+
+as large as it could be and then like
+
+
+okay and now there's new factions inside
+
+
+of the cat empire that debated what type
+
+
+of necromancy was
+
+
+to be the powerful kind or whatever um
+
+
+and then like that all disappeared and
+
+
+now we're like
+
+
+third we're just like 40 000 years later
+
+
+or 5 000 years later and it's like
+
+
+a completely different culture
+
+
+completely
+
+
+right yeah and our stuff could be like
+
+
+the the bird stuff could be like
+
+
+because there are descendants like like
+
+
+secretly handed down like some
+
+
+assassin's creed nonsense
+
+
+sure yeah there's bird stuff in that
+
+
+yeah
+
+
+that's my question is this a person is
+
+
+are these people people who know what
+
+
+they're coming for
+
+
+or are these people who are like like
+
+
+are these people what is their goal are
+
+
+they here to resurrect
+
+
+the empire or are they here because this
+
+
+is a curiosity
+
+
+um i don't think they're trying to like
+
+
+resurrect the empire because i think
+
+
+that it's more like
+
+
+instead of being the kingdom of cats
+
+
+it's like the kingdom of
+
+
+animals or whatever okay like they all
+
+
+kind of like
+
+
+blended together okay um oh
+
+
+what what no no i just had like a really
+
+
+bad thought
+
+
+i just had uh
+
+
+but like we see ourselves in them and
+
+
+they just don't
+
+
+they don't care about us at all right
+
+
+yeah yeah i like that a lot actually
+
+
+um what if it's like the chimera kingdom
+
+
+wow i got there
+
+
+holy it is literally someone in the
+
+
+chat
+
+
+someone in the chat uh dakota in the
+
+
+chat moments minutes ago said
+
+
+chimera empire and dakota we did it we
+
+
+got there we both got through i
+
+
+physically blended
+
+
+these different animals i did it five
+
+
+years ago three years ago to be a
+
+
+culture that is about like
+
+
+like positively about like melting your
+
+
+different sides and like
+
+
+you know exploring a variety of options
+
+
+and not just being necromancers or
+
+
+people who run around with their shirts
+
+
+off
+
+
+um right and i do kind of like that
+
+
+notion art like
+
+
+how what's that look like for paul's
+
+
+paul's club mine are there's you know
+
+
+there's all sorts of ways that
+
+
+a world of uh giants
+
+
+cloud lakes and seas
+
+
+where there are giant you know spirits
+
+
+and
+
+
+uh animal gods etc like how does it
+
+
+again how does it enter final fantasy 14
+
+
+how do spaces like that work in wow
+
+
+those places do exist in those games
+
+
+oh i didn't know that you okay dakota i
+
+
+thought you had just suggested it
+
+
+i see i see i see i say
+
+
+i mean i think like through the magic
+
+
+that i like know that like this is our
+
+
+great great great great great great
+
+
+great
+
+
+great grand nephew or whatever right
+
+
+and i i see that there that this is this
+
+
+is a
+
+
+descendant of our noble lineage and i
+
+
+can't bring myself
+
+
+to harm them because i'm
+
+
+still i have such regret over killing
+
+
+vellum and they just
+
+
+turn me to dust because they don't they
+
+
+don't know or care
+
+
+um what if they don't even try to okay i
+
+
+kill four of them
+
+
+they look at me and there is no
+
+
+revulsion in their eyes
+
+
+there is this like there they they have
+
+
+no guilt uh they're they're
+
+
+they're no shame uh about me they have
+
+
+nothing about me
+
+
+and that is what kills me like
+
+
+ you i killed the empress or i
+
+
+betrayed the empress of the byrd empire
+
+
+of the avian empire
+
+
+i brought down an eons old uh
+
+
+kingdom in this world i betrayed those
+
+
+who were loyalists to me for a man i
+
+
+loved
+
+
+and you don't even care about it
+
+
+and it's just like this last gasp of
+
+
+like deeply human
+
+
+like passion uh and like
+
+
+use what's left of my broken sword and
+
+
+like
+
+
+ kill five or four of them uh and
+
+
+then the rest of them are just like
+
+
+no like okay fine we have to kill we
+
+
+have to kill these skeletons
+
+
+it's a sad game it's a do you
+
+
+fight these people it's tough because i
+
+
+think that my
+
+
+like spell broke before right
+
+
+yours did um so it's kind of a weird
+
+
+thing to like see them and also
+
+
+recognize them right but i think that
+
+
+it's like
+
+
+there isn't really any recognition there
+
+
+because like the symbols they carry and
+
+
+the beliefs that they carry are so
+
+
+far off from what we we believed
+
+
+so um
+
+
+i think that the answer is that like i
+
+
+don't see myself in them
+
+
+and then that's why i attack them okay
+
+
+cool yeah and they kill us
+
+
+and we're dead using future weapons
+
+
+like better swords or ray guns or wands
+
+
+or something
+
+
+what type of stuff do they have i
+
+
+think that's probably good for now i
+
+
+have to go through and also check out
+
+
+shooting the moon i don't
+
+
+think let's see
+
+
+hey why didn't that do the thing do the
+
+
+thing hey do the thing oh it's not gonna
+
+
+do the thing
+
+
+um i don't know if shooting the moon is
+
+
+done
+
+
+let's see some of shooting the moon is
+
+
+done the start of shooting the moon is
+
+
+done which will probably give me enough
+
+
+to at least work from
+
+
+um i think it is wait yeah it is
+
+
+and then but before even that i think is
+
+
+or is it the next one shooting the moon
+
+
+is the next one okay
+
+
+but what i actually need is access from
+
+
+ally to the shooting the moon
+
+
+game i think
+
+
+is there a name for that town
+
+
+wait did i just truck up and do the
+
+
+wrong now
+
+
+god the name i forgot that the name of
+
+
+the department store
+
+
+was beguns my guidance is very
+
+
+funny uh anyway yeah i think
+
+
+i think that's probably as much as the
+
+
+most that i can get through uh uh
+
+
+tonight
+
+
+i hope you all have a good remainder of
+
+
+the evening i'll try to get the uh
+
+
+the mp3 of the first half of this up
+
+
+asap
+
+
+probably tomorrow probably not tonight
+
+
+because it's very late um
+
+
+i hope everyone has a good remainder of
+
+
+the weekend we should be back
+
+
+hopefully tomorrow night with that with
+
+
+the tips

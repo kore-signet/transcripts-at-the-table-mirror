@@ -1,0 +1,1890 @@
+﻿The Road to PALISADE 20: City Planning Department
+Transcriber: thedreadbiter
+Austin: The Road to PALISADE is a show about war, politics, religion, revolutionary violence, and the many consequences thereof. For a full list of content warnings, please check the episode description.
+["Permanent Peace" by Jack de Quidt starts playing]
+Austin [narrating]: Rival pilots. Daring heists. Divine companionship. War. These are the sorts of topics we’ve covered this season on Perfect Imperfect, a podcast about the end of the Perfect Millennium. I’m your host, Layer Luxurious, and there’s really only one place we could end this season: on the [audio distorts and slows] pearlescent, peripheral world of Palisade itself, in the [audio speeds up] moment that these outsiders who opposed the Bilateral Intercession’s invasion [audio becomes unintelligibly fast for several seconds] 
+[high pitched and tinny] Let’s dive in. Let’s dive in. It’s time to dive in. Get ready to  [audio distorts and slows] dive. Diiive. Diiiiie…
+[sound of waves splashing] [spoken clearly] Dying. I’m dying. [audio becomes layered over itself] I’m going to die — where is it — falling for her — slipping — I hate her — no — I hate you — it’s fine — you betrayed me — I took advantage — Valence will handle it — Motion — Autonomy itself — Perennial — her melody — Perennial — you’ve seen all this — her eye — Perennial — I can’t fix — I can’t bear to look — don’t show me — there’s too much — 
+[shouting] Don’t!
+[remixed music plays]
+[spoken clearly] “This is a message…” Tch. Did I ever speak with such confidence? What hubris. What did I believe in? Appointed times which moved swiftly from week to month, outpaced by their machines and the delays wrought by our petty arguments. What did I believe in? A god as empty synecdoche for justice, a god so easily diluted and dispersed. What did I believe in? You who listened once and is dead now, and you, too, who listens tomorrow beyond my reach, beyond your own. 
+And what do I believe now? That there was more to see than I ever could; that I haunt a corpse of a queen soulless, ambitious blood replaced by compulsive sap; that the revolution never needed me; that the shape of empire is a circle, a noose, a strand of metal caught tight around neck, a blindfold… a manacle. A manacle which must be broken. 
+I believe in us. I believe that us is longer than us. I believe in oil on aprons, I believe in black eyes, I believe in yellowed posters on the wall. I believe in sacrifice. I believe that justice given is no justice at all. I believe in tired knees and bad backs, I believe in drawers or closets or bureaus of replacement parts. I don’t believe in music but I do believe in dancing. I believe in whispers in ears, and so I speak. 
+I believe that this will be heard, well after it’s needed. Well past the long nights. I believe, against it all, in Millennium Break. My name was Gur Sevraq, and I have been stolen from you. But you will win anyway. You must.
+[music concludes abruptly]
+[3:12 - end of intro]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interactions between good friends. I am your host, Austin Walker, and joining me today: Keith Carberry.
+Keith: Uh, hi, my name’s Keith Carberry, you can find me on Twitter at KeithJCarberry and you can find the Let's Plays that I do at youtube.com/runbutton.
+Austin: Andrew Lee Swan.
+Dre: Hey! You can find me on Twitter at swandre3000.
+Austin: Janine Hawkins.
+Janine: Hey, you can find me on Twitter and Cohost at bleatingheart, and willfor4 in the chat says “my mom grew up eating cut up raw potatoes with vinegar and salt as a snack”. That sounds so good. That sounds so good.
+[Ali laughs]
+Keith: Vinegar is powerful and I bet changes the texture of potato.
+Dre: Sure.
+Austin: I, yeah, I think vinegar changes everything.
+Janine: Eh. Yeah.
+Austin: I'm, like, I’m, you can get me on board with vinegar and salt. You like anything, you know. Anyway, Ali Acampora, also here. Hi, Ali.
+Ali: Hi. Um, you can find the show over at friends_table. Is that it?
+Austin: You.
+Ali: Yeah.
+Austin: You, are you —
+Ali: Yeah, oh, and I'm I'm Ali Acampora, hi. Hello.
+Austin: Hi. [laughs] Okay. Uh, you can find me on Twitter at austin_walker and over on Cohost at Austin. Just Austin. There's no underscore over there and I wasn't gonna be Austin dash Walker, you know?
+Keith: Yeah.
+Austin: That's a different, that's like a Star Wars OC, you know?
+Janine: I was gonna say, Austin Dash Walker is your Star Wars OC.
+[Janine and Keith laugh]
+Austin: Yup that’s my Luke Skywalker-Dash Rendar, stuck in the teleportation machine from The Fly and they combined, character. Um. Today!
+Dre: I gotta, I gotta catch up on AMCA, this is getting...
+Austin: [laughs] Yeah, the lore got deep. Today we are playing City Planning Department, a game about the wonderful disorganization of city building, designed for the Wasaga Beach Game Jam 2018 by Kaelan Doyle-Myerscough, uh, Andrew Tran, Alex Dawson, William Wu, Paul Geldart and Raul Altosaar. Um.
+Janine: Canadians!
+Austin: Is that, is that where Wasaga is?
+Janine: Wasaga Beach!
+Austin: Wasaga Beach, okay.
+Janine: Yeah. Yeah yeah yeah yeah. That's like, that's the, that's the big beach in Ontario.
+Austin: That's the big beach...
+Ali: That's where Sean was from in Degrassi.
+Austin: Oh. [amused] Oh, okay.
+Keith: Oh! [fake understanding] Sean from Degrassi.
+[Ali laughs]
+Janine: It's like — being from Wasaga Beach is like the equivalent, is like the southern Ontario equivalent of like being from a, from a random town —
+Austin: Is like from being like Malibu?
+Janine: In California or something, or like.
+Ali: Sure. Yeah.
+Austin: Mmm.
+Janine: Or like Daytona — I would, I link it more to like Daytona, like that kind of...
+Austin: Oh, sure, sure.
+Janine: We didn't go to Wasaga.
+Austin: Right.
+Janine: So.
+Austin: Who is the Pusha B — Pusha B, Jesus — Pusha T of Wasaga Beach? Is that, I guess is that, is it just Drake by default?
+Janine: I just said we didn't go!
+Ali: [laughing] It's, it's Drake.
+Austin: Okay, yeah it's Dre.
+Ali: No! It's not Drake.
+Dre: It's it's Sean from Degrassi, didn't you, we already talked about this.
+Austin: Okay.
+Ali: But he — okay, I'm not gonna get into this — we're playing a game. [wheeze-laughs]
+Dre: This boy smolders! I'm looking at the Degrassi wiki.
+Ali: I was just gonna say, he was like one of the only like —
+[Austin gasps]
+Ali: Characters/actors who wasn't like I want to be an musician so that's gonna be like my character's whole thing. So. It's not Sean. Anyway. Go on.
+Austin: [amazed] Jamie Foxx got dumped for bringing a date to Wasaga Beach on her birthday.
+Ali: Wait, what?
+Keith: Is that like it was so bad that I don't want to date you anymore?
+Austin: Uh-huh!
+Dre: Yeah.
+Janine: I would dump someone if that was my birthday present. Going to Wasaga Beach? Uh-uh.
+[Ali laughs]
+Austin: Wow. Damn.
+Janine: Again, it's like, it's like — yeah. I don't...
+Keith: But what if the person that dumps you is Jamie Foxx? Or that you were dumping was Jamie Foxx.
+Austin: Well, no — this was the other way — you were dumping Jamie Foxx.
+Keith: You were dumping Jamie Foxx.
+Austin: "My girlfriend broke up with me, it was this girl I was dating in L.A and I fucked up, it was her birthday." They were in Toronto and one of the friend, one of Jamie Foxx's friends told him, you gotta take her to Wasaga Beach, bro.
+Janine: Oh my god! Right, okay, I was thinking this was like a,
+Austin: And Jamie Foxx said I was like babe, they got a beach! And they went to the beach.
+Ali: Aw.
+Janine: Oh, fuck. No, I thought this was gonna be like before Jamie Foxx was famous kind of thing?
+Austin: No, no.
+Janine: If they were living in LA and then they went to Wasaga Beach, that's like embarrassing.
+Austin: What? You're just like, you're on vacation, you go check out the bea — that's — you know!
+Keith: Well it sounded like he was visiting her in —
+Janine: But it's a lake beach.
+Austin: No no no, they were together, hanging in Toronto.
+Keith: Ohh.
+Dre: Ohh.
+Janine: It's a lake beach. It's, it's, like —
+Austin: So what! Go have fun in the lake, go get a hot dog, go fuckin stand in the non waves. [laughs]
+Janine: Listen! There are lake — I don't know if you can get a hot — well you can probably get a hot dog there.
+Austin: You can get a hot dog!
+Janine: The beach town that we went to, you could not really get a hot dog for most of when I was growing up.
+Austin: You couldn't get a hot dog??
+Janine: No. You could get fries.
+Austin: All right. We gotta—
+Dre: [cross] I have, uh —
+Keith: [cross] And they couldn't even get hot dogs!
+Dre: I have one more comment to add on this.
+Austin: What's up? Mm-hm?
+Dre: [singing to the SEGA logo theme] Wasaga!
+Austin: Thanks. Appreciated.
+Ali: Oh, sure.
+Dre: Okay, that's it. That's all I got.
+Austin: Okay! Okay. Ali, why are we here?
+Ali: Hi. Why are we here? So, a little bit ago there was an article on Crunchyroll where all of us said what we wanted to do, and my prompt was a slice of life anime about [struggling with pronunciation] Apparatus Aperitif... Right? [laughs]
+Austin: Yeah, uh-huh. Close enough.
+Ali: I, I, I think this one was —
+Austin: Apparatus, Apparatus.
+Ali: Apparatus, okay. Either way. Um. A slice of life anime about, um, them, you know, learning the ropes of their job as Night Mayor. Um. And that prompt proved more challenging...
+Austin: We tried so hard and we —
+Ali: We tried really hard.
+Austin: There are other options, but what — I will tell you that options got removed from the table the deeper into the road we went. With every extra session of Orbital or Lancer or Wagon Wheel or Upstairs Downstairs — all these games that we were like, we can knock that out on a fuckin session, this is a little game. Like, Lancer we knew would go long cuz it's Lancer, like we, I think we went into that knowing two to three sessions. Uh, what we did not expect —
+Keith: And then it was three, right? Lancer was three?
+Austin: It was three, yeah. Orbital we did not think would go five sessions.
+Ali: Mm-hm.
+Austin: And so —
+Keith: I thought Orbital was going to be two sessions.
+Austin: Same. And it was great.
+Keith: I had a blast, yeah.
+Austin: Orbital just finished in the main feed, I really really loved it, it's one of my favorite like little mini arcs that we've done. Uh, it feels like it was — Ali and I were talking the other day, talking about like, I could keep playing these characters forever, like totally, truly could. Um, but, uh, it means that we had to remove some games from the list on what this was. [slight laugh]
+Ali: Yeah, and I think like it was tough to do something that felt appropriately slice of life, it was tough to do, find like a system that generated community in that way. Um, that's what I spent like forever, like, is there a game about the nightlife, is there a game about moving in a city and meeting people, and like not really. Um, and then it was like, well, this isn't going to be a flashback Road to PALISADE, because then we're not, like, gesturing towards anything...
+Austin: Right.
+Ali: In the coming season, so.
+Austin: Right, we didn't want to go do a world building game for a place from last season, right?
+Ali: Right. Um. So. [laughs]
+Austin: So here we are.
+Ali: Thinking about where, um, Aperitif would be in their life now, considering their alliances...
+Austin: Uh-huh. They — we left them in a rough place, right? I mean, let me just, I'll just do the — I'm gonna — I'm not gonna do an intro-intro but let me just do, let me set up the situation.
+Ali: Yeah.
+Austin: It's like this. The Bilateral Intercession, formerly known as the Curtain, has Palisade under blockade, led by a Divine, I haven't chosen which Divine that is, don't worry about it. The Pact of Free States, formerly the Pact of Necessary Venture, hold — are kind of hanging out just beyond Nideo space, waiting in the dark for an opportunity to strike. The Qui Err Coalition has a fleet hovering at the edge of the Twilight Mirage, like a flock around the Brink. Millennium Break has a strike force hiding in the shadow of Palisade’s moon, Travertine. Uh. And something has to give, something has to move. And that is when Perennial whispers into an ear that she has taken as her own, giving the Witch in Glass a new task and reminding her of an old law: everything that has happened will happen again. And so she moves. The Witch in Glass is fearless, and after all, she has two Divines on her side: the revivified corpse of Past and, of course, the Adversary herself. So she drives the Reflecting Pool and her many, uh, guards and knights and attack wings crashing through the blockade and driving Crystal Palace once more into the ground, albeit in a much more controlled way than when it crashed into the deserts of Partizan. It is only —
+Keith: [whispering] It rhymes.
+Austin: Yeah, it rhymes. It is only hours after making landfall that the Witch departs the city, joined by Emaline, her attache, but leaving behind her most loyal supporters. She also leaves behind two orders: First, that they must turn this wider landing zone into a city worthy of her rule before she returns. Second, she orders that the city must carry the name which came to her as she browsed Past's ruined archives one night, taken from a kingdom that once ruled vast expanses of the Quire desert, the Crown of Glass. And with no further wards, uh, words, I've written here wards, and with no further war — hm! I did it twice — and with no further words — I had to close my eyes. She wanders out into the wilderness. Everything that has happened before will happen again. Now you, a group of the Reflecting Pool’s de facto leaders, begin the path forward. Um she's not here. She's left you behind. Uh, among those people, and I say de facto leaders cuz I don't just mean the people who were literally loyal to her, but people who lived on board the Reflecting Pool, like Apparatus Apertif. Um, who, Aperitif. Uh, who lived there, who had connections to the Church of the Resin Heart that was there, who had connections to the, um, uh, what's the full name of it? It's the something Metronomica. The, uh, bububububuh. Gotta check my own notes. Uh, is it the Mi... Hmm, hm-hm-hmm. You know what I should check, Ali, is our DMs.
+Ali: Is our chat, yeah.
+Austin: Cuz we, yeah, it's in there, isn't it. Discord is moving so slow for me right now, I'm very —
+Ali: Mysteries. Mysteries Metronomica.
+Austin: Yes, the Mysteries Metronomica, which is a Perennial-associated, uh, cult. Right. So, that is the setup to play City Planning Department. Um, we've already set up Lines and Veils. Um, big picture stuff before we get into like the gameplay. This is a game about, uh, drawing a city, uh, and debating about what gets built there. Um, we'll each be playing as characters, uh, the characters all have roles. Um, everyone's going to draw a role secretly, and, um, uh, that's that's the basic setup. I guess I'll continue to go through. 
+There's some good stuff in this book, I just want to shout out, um, around, you know, what's it mean for a city to go wrong? Where does quote unquote “disorder” in cities come from? Cuz it very rarely comes from, like, one person does a silly thing, and most often reflects bigger systemic issues. We are very punchy today. Uh, we'll see where we go [slight laugh]. But I think, you know, we are always trying to keep that stuff in mind. Down to the fact that, you know, one of my favorite things about this game is, the start of this game is about drawing what was already here. Right?
+[15:00]
+Austin: Um, and I am very conscious of the fact that, you know, there's a reason why the Qui Err Coalition and Millennium Break didn't decide to go land somewhere and build a city on Palisade. They're being very cautious about this. Clementine Kesh isn't cautious about anything. Clementine Kesh believes she deserves to be here, and has made a unilateral decision, and now everyone else just has to fucking pick the pieces. So, uh, with all that said, we should jump into it a little bit. Let me bring up the Roll20 for everybody to see. Um, all right. So.
+Convening the Council. Place your canvas in the middle of the table, then decide among you who is the least organized. That member will have the honor of going first. As with all official meetings in real life, you take turns in clockwise order starting from your at least uh organized colleague. Now get out your pens, charcoal, pig's blood, or hard light, and get ready to plan that city. Who's our least organized person? It might be me.
+Keith: I had, I have a guess that it's me.
+Austin: Really?
+Keith: Yeah.
+Austin: I could see this. What's your, what's your argument, Keith?
+Keith: Um I don't keep good schedules, I don't keep a tidy workspace, I finish things, uh, barely on time or late.
+Austin: These are all true for me, too, I need an X Factor.
+Dre: Mm-hm.
+Keith: Um, I don't run the show.
+Austin: Fuck!
+[Dre laughs]
+Austin: You got me. All right.
+Janine: Wow.
+Austin: Uh-huh.
+Keith: Does someone else think they're less organized than me? I know it's not Janine or Ali, so Dre?
+Austin: It's definitely — yeah.
+Dre: No, probably not. I have to be a certain level of organized now that I am my own only boss and or employee, so.
+Janine: I didn't do my planner layout until yesterday.
+[Ali laughs]
+Janine: For this week.
+Austin: Oh! Well.
+Dre: God damn it.
+Ali: I feel like it is me, but I've like kept this cloak up this entire time —
+Austin: What!?
+Ali: And I'm not gonna...
+Austin: No.
+Ali: Let it fall.
+Austin: There's no way. There's no way!
+Ali: You don't know.
+Austin: Wow.
+Keith: I have —
+Ali: Point of order. Is is the Roll20 still Upstairs Downstairs for everybody?
+Austin: Ah, I just need to pull you all over.
+Dre: It is, for me as well.
+Austin: There you go.
+Ali: Okay, cool, thank you.
+Austin: Sorry.
+Dre: [appreciative] Hey!
+Austin: Move these over to the token layer. People who've been watching live have seen me add myself to this doc, uh, proving how unorganized I am, or to this page.
+[Ali laughs]
+Dre: Oh shit.
+Austin: But that's okay. Um, Keith.
+Dre: Ball's in your court, Keith.
+Austin: Keith should start. Keith should start.
+Keith: Okay. Okay.
+Austin: Um. W —
+Keith: I've put a lot of, I've put a lot of work into being the least organized person that I know.
+Austin: You're not wrong. You're not wrong. Um, I'm actually going to add one thing to the map that is that we've just talked about, that isn't a — you know what, I'll just — I'll use my own turn for it, so that's fine. Actually, Keith, you begin.
+Keith: Yeah. Okay.
+Austin: When each of you set foot in the land that was to become your city zoning area, you noticed something that was already here. Was it a natural formation, like a mountain or a river? Was it something remaining from what came before, ruined or functional? Was it something more peculiar? In turn order, draw that thing on the map and tell your fellow council members about it. You are describing the land, not proposing a building.
+Keith: Okay. And are we —
+Austin: So go as big or as small as you'd like. Yep.
+Keith: Are we imagining that the crash hasn't happened, or are we sort of seeing the —
+Austin: No, the crash is, this is — the thing I was going to add was the ship in the middle, the Reflecting Pool.
+Keith: Okay. Right.
+Austin: Which as a reminder its a gigantic, as a reminder from the beginning of —
+Keith: A slight curve on the the book is that we've had the crash already.
+Austin: Right.
+Keith: So I'm describing the land as it is after the crash, from before —
+Austin: After the crash, but that can still include things like rivers and mountains and ravines or whatever, right? Jungle, like, I don't know. Palisade's big.
+Keith: Um. I'm going to add a swamp that was created by the ship that crashed into an aquifer system.
+Austin: Oh I love it.
+Keith: That has now like sprung a horrible leak in like this grassland area, it's now like a marsh.
+Austin: Great. Add it to the map! Um, a whole new meaning to the Reflecting Pool. Uh. Yeah so that's the middle of this little oval I've added is that, is the. So that's a marsh, which you've hit the aquifer, okay. Um, uh. God, I'm going to uh add — you know what, I'll just say that the Reflecting Pool is mine and if we need more than that, that's — then we can add more than that, but I feel like a big city center that is a massive undead library Divine is probably already a pretty good addition. I feel like that's already, I've added a lot, you know?
+Keith: I'm I'm literally drawing this where I see it.
+Austin: Yep. That's what you should do. Yep, 100%. Uh, which means we go back around to Ali.
+Ali: Oh sure, yeah. Um. Hm, swamp. Um. I'm... I think I'm gonna add like a little green space north of the swamp.
+Austin: Oh, so just like like plains and...
+Ali: Yeah, just some trees and...
+Austin: Trees, okay, okay, like a forest.
+Ali: Yeah.
+Austin: So it's not flat, it's like — or it might be flat but it's not like a prairie.
+Ali: I think it's flat in some spaces. Maybe there's some walking trails.
+Austin: Love it. Incredible. Yeah, uh, for the for the chat, yes, Clem has just walked out into the swamps and forests. I talked to Jack, I read — I sent Jack that intro I just read and I said I need two things, I need to know what would Clementine Kesh name this place. And they came up with the Crown of Glass as a little rhyme. Uh uh and then also, you know, what’s she go off to do? Um, and I said that my instinct was a larger, you know, uh communal with Perennial, or maybe Perennial has sent her off to find something in the wilderness, and Jack said um "yes." Perennial... Perennial, uh, uh, where is it, where's the exact line? Um “I think Clem's got off in the wilderness with / on instruction by Perennial to look for something very small, like a real needle in a haystack vibe. Clem with utter expressed confidence, felt or not, but probably felt, that she can find it. I'm thinking of something very small like a nail, striking out into the wilderness to find something smaller than your finger.” um and so I told Jack that it is a key, Perennial has has sent Clementine off into the wilderness to find a small copper key for a jewelry box, um, and not into the world, like into the wilderness not into a nearby town. Um, so that's all happening off screen, we don't care about — oh, I love this little marsh! Look at these little, all these little lily pads, that's a great marsh!
+Ali: Yeah.
+Dre: Ohh.
+Austin: This is good.
+Keith: Thank you.
+Austin: Okay. Dre, what are you adding to the map?
+Dre: Uh, I'm adding a mountain range and it changes color depending on the time of day.
+Austin: Love this. Which direction is that from the Reflecting Pool?
+Dre: We'll go to like the northeast.
+Austin: Okay.
+Dre: Wow, I'm not good at drawing mountains. It's fine.
+Austin: Oh, I'm terrible too. Janine.
+Janine: Um, how much is pre-defined in terms of like ecology?
+Austin: Nothing.
+Janine: Like animals and...
+Austin: Nothing.
+Keith: Uh, they have lily pads.
+Janine: I know that we want something that's like a landmark but — yeah, okay. Lily pads and trees. Okay.
+Keith: And pine trees.
+Austin: And mountains.
+Janine: Um. Does this have to be like localized in one spot or can I say it's like a feature of the area?
+Austin: Uh.
+Janine: Where there's like a few of them. It's fine either way, I just want to know what the...
+Austin: It says... I'm just, I'm looking to see if there is like any — you notice something that was already here. I think something — if you can have a river, a river could run through the entire map, I have no reason to say it could — no reason to say it couldn't be something that's that's part of the entire local environment, as long as you can draw it in a nice way.
+Janine: Okay. Um, so I think there is a local plant here. That kind of lays flat on the ground, kind of think like the top of like a like a Gloom, like the Pokemon Gloom. Even though I know that's an existing plant, but it's like, just that top, instead of being like a flower it's just that top part, that's like the sort of—
+Keith: The stinky part.
+Janine: Yeah, but it's like those like really thick —
+Austin: You're assuming, you don't know that that's the stinky part.
+Dre: Yeah.
+Janine: It's like those really thick kind of petal type things. Um. But they sort of lay flat on the ground and kind of look like maybe like brown, mossy rocks from a distance? Um, but what it is is kind of like a plant slash animal sort of bear trap thing. Um, where like when you step on it, it's it's like a plant but it's made of meat instead of plant stuff. Um. And it like, will snap around your leg, and start trying to eat you.
+Austin: Okay. Gross.
+[Ali laughs]
+Austin: But add it to the map, please. Thank you.
+Ali: [laughs again] I'm sorry, just —
+Keith: I want to know what these mountains are made out of!
+Ali: Just... [laughing]
+Austin: Uh-huh!
+Janine: What? What's up?
+Ali: Just hearing that description and then seeing that little circle up here...
+[Everyone laughs]
+Austin: It is very funny. Um, for new cities, which this one is, uh, uh. Just let me make sure I read this right. Um, as a bonus for starting a new city, each council member draws one road as well. See the section on page X for more information. Now that you know what the space is like, it's time to find out who you really are. Uh, roads can be... Roads connect — okay. Whether you're driving, piloting or riding, roads connect places. One road should go from one point to another point, no branching, and should be of reasonable length ,as determined by the council. Roads can be straight or curved. Bridges over water or air or something else also count as roads, but you can't build a bridge and a road on land on the same turn. So for instance, we could build a bridge over the swamp, but we couldn't then extend that bridge beyond the swap. Right? We could just build the bridge to the land across to the west, we couldn't go, also continue, do you know what I mean? So we all get to add one road. Uh, we can just do that with like a black line, is my suggestion.
+Ali: Okay.
+Austin: Uh, I'm gonna.
+Janine: I wanna like copy a thing?
+Austin: Yeah, you can copy a thing. Do you want to try to copy the stinky flower, is that you're trying to do?
+Janine: Yeah, I wanted to copy and paste just like a couple of them.
+Austin: You could group it, and that will make it easier to — go ahead and try to copy it now.
+Janine: It wouldn't let me right click on anything.
+Austin: No? Try now.
+Ali: Yeah, i've been able to —
+Janine: It is grouped, but I think maybe you can do it but I can't.
+Austin: Okay, let me see if I can just copy it and put it over here.
+Janine: Thank you.
+Austin: Well that missed one of the parts.
+Janine: Well, it's fine, it doesn't — that's just the hole in the middle, it doesn't need—
+Austin: It seems — okay.
+Dre: [unintelligible]
+Janine: That's shading. I can just do that by hand.
+Austin: Yeah, I'll let you... I'll let you...
+Keith: I like this forest of snakes.
+[Ali laughs]
+Austin: Ohh! I could see it.
+Ali: That's just green...
+[Keith laughs]
+Janine: Oh, that's a lot of them. Also, they look like open mouths. [laughs]
+Keith: And how come they all have mouths?!
+[Ali laughs]
+Austin: You said they were everywhere. Are they not everywhere?
+Janine: Yeah, but they can be like a little bit infrequent.
+Austin: Okay. You feel free to delete whichever ones you want to delete. Um.
+Janine: Whoops. That one's very hungry.
+Austin: I'm drawing up. I wish I could draw a a bridge away from them. Uh, I'm gonna draw —
+Janine: I can't delete these, only you can delete them I think.
+Austin: Okay.
+Dre: I'm going to the mountain!
+Janine: I've dotted the ones to keep. You can delete the hollow ones.
+Austin: Okay. I'm—
+Dre: You said we're doing black for roads, Austin?
+Austin: Yeah. I'm drawing a bridge through the swamp or over the swamp.
+[Pause]
+Austin: So we really landed in the meat eating plant zone, huh?
+[Ali laughs]
+Austin: The extremity is get us away from there, and we just did a bad job. Okay, that's fine.
+Janine: I bet from a distance this place looks great! There's water, there's trees, there's pretty mountains. Mossy rocks.
+Keith: And what are those flowers? Let's get closer!
+[Others laugh]
+Austin: Um, who else has drawn drawn roads? I Mean everybody is, everyone should draw one road. Doesn't have to go anywhere yet. I mean, you can just go — again, straight line, a curve. Keep them maybe about the length of the bridge I just drew.
+Dre: Oh, whoops.
+Austin: I mean, you can go longer. You can go longer.
+Dre: Okay.
+Austin: Draw where you want.
+Dre: Yeah, I just wanted to draw a road that goes directly into, uh, murder plant area.
+Austin: Yeah, I got you, that's fine.
+Keith: Kay.
+Ali: I was gonna draw one thru the plants, so it was like, here's the safe zone.
+Janine: How long can it be again?
+Austin: [struggles for words] maybe up to twice as long as the bridge? That feels Fair.
+Janine: Okay.
+Austin: It shouldn't be the whole thing, you know?
+Ali: Can I draw a cul-de-sac?
+Austin: Sure.
+[Quiet laughter]
+Janine: Whoa.
+Austin: Whoa.
+[Ali laughs]
+Austin: Oh my God. Okay.
+Janine: Uh, oh. Okay.
+Austin: We've kind of drawn a guy shrugging. Ey!
+[Ali and Keith laugh]
+Keith: Ooh, now it's one of those little water bugs.
+Austin: Mm, mm-hm. Wait, so we did double cul-de-sac into the...
+Janine: I added the second loop.
+Austin: Okay. What's the green line?
+Dre: That's me using the wrong colors as I tried to make my road less long.
+Austin: Oh I see. It's kind of a snowman vibe now.
+Janine: [cross] This, it looks like one of the Teen Girl Squad.
+Dre: [cross] Oh, we've got two heads!
+Austin: It does look like the Teen Girl Squad vibe!
+Janine: Remember the Teen Girl S — it's Teen Girl Squad, yeah. It's the other one.
+Dre: [Teen Girl Squad voice]The stingy one!
+Janine: And she's like falling. Yeah.
+Austin: Yeah, exactly. [laughs] All right. So, as each of you have the best, uh, the best interests of the city at heart.
+[Ali laughs]
+Austin: Uh, as you know, sorry. As you know, each of you have the best interest of the city at heart, but of course these things are always a matter of interpretation. "Interests", "best", "have", "the", all poorly defined in the official municipal documents. "You" May have the city's "best" "interests" at heart, but who can say where the bloody beating heart of the city really dwells? No One comes into this power — this kind of power without a few skeletons in their closet, whether your closet looks like a spaceship, a hell dimension, or a fashionable briefcase. That's what role cards are for: they spell out your true motivations in a simple — in simple, streamlined terms you can understand. I know what you must be thinking, “I wish I had a role card for real life!” And You're right. That would be great! Each Role card is designed to either be chaotic, neutral, or orderly — excuse me, orderly. You'll find this designation on the front of the card. Separate the role cards by this designation and shuffle each pile. I've already done this, we have chaotic, we have neutral, and we have orderly, and I can do shuffle to each of them.
+[30:00]
+Keith: I love "no one comes into this kind of power without a few skeletons in their closet", "this kind of power" being city council.
+Austin: City council. Uh-huh. For a relatively well-run city, all things considered, randomly and without looking at the cards, choose about an even number of each type of card so you have one role per card — uh one role card per council member. Once you've got one or two cities under your belt you can try mixing up the balance, but let's not get carried away. You're still a beginner, after all. There is a table here, so with five players, their suggestion is two chaotic cards, one neutral card, and two orderly cards. Um this is going to be secret, also. Everyone's going to get one of these. I'm gonna I'm going to deal everybody one card from one of these sets. Um, Ali are you playing Apparatus, is someone else? Is Apparatus just here in the background? What's our, what's our situation?
+Ali: Yeah, that was an interesting question because I I sort of was willing to, and was thinking that I was going to, but then I was thinking like, Keith is also here. Could reprise his role.
+Austin: Keith has played Apparatus from the Kingdom game.
+Ali: Um and also you're here, obviously.
+Austin: Yeah, I mean, that's fine.
+Ali: And he was sort of your your pet, uh — [cross] well, I guess Gur was more your pet, yeah yeah yeah.
+Austin: [cross] Eh, Gur was more my pet in PARTIZAN.
+[Ali laughs]
+Austin: That's just true.
+Ali: But I would be happy to.
+Austin: Um, do we want to just shuffle — do we just want to draw and see what's there and you tell me if it works?
+Ali: Sure!
+Austin: Because I'm not gonna — okay, so here's the other half of this. Who wants to be orderly, who wants to be chaotic, who wants to be neutral? We have one neutral, two chaotic, and two orderly. And some of these don't break down exactly the way you might think. As an example of this, criminal is an orderly role.
+Keith: Oh, I misinterpreted this as we were going to be dealt cards randomly.
+Austin: You are.
+Keith: Oh, okay but we still get to choose — we choose —
+Austin: We only have — yeah, I mean guess what I could do is draw them, I could just draw them all out and then, uh, I could just draw them all and we could...
+Ali: We could just grab them?
+Austin: Yeah, but that feels — it's just easier if I deal it right to your hand. So what I could do is, I could do this, Keith, I could roll 1d3 and then that'll be the one that you get. And you'll get one from that, does that make sense?
+Keith: Okay. Yeah.
+Ali: Yeah.
+Dre: Yeah yeah yeah.
+Austin: Okay, so one will be...
+Keith: And then I'm fine, if Ali's playing Apparatus, if Apparatus just picks or gets the veto or something.
+Austin: Yeah. Let's see where, let's see what this first draw looks like and then we'll we'll go from there. So chaotic is one, neutral is two, orderly is three. Three. Keith, I'm going to deal you one card, and then you should look at this on your screen.
+Keith: Okay. That was orderly?
+Austin: That was orderly, yes. You should be able to look at that. Don't play it! Just look at it.
+Keith: Just look at it, okay.
+Austin: Then 1d3, this is for me. That's one, so I will take a chaotic. Deal me one card. No one look at the screen while I look at my role.
+Keith: Uh theee thing that it says about looking at your card was, uh, when you look at it to make — there's like two things on the card?
+Austin: There's two options, yeah, I should finish reading the thing.
+Keith: Yeah, make your choice now and commit to it. This is who you are, after all, but keep your role and your choice secret.
+Austin: Right.
+Keith: You wouldn't want anyone knowing what you're really up to.
+Austin: Right, so don't look at the screen for a second. Okay. That's an easier one to do. Um uh, then who's who's all the way to the left? Ali. All three are still in play, so. You got a neutral card! Let's see if this works for Apparatus. You can click on it once I think to bring it up as like a big picture on your screen.
+Ali: Mm. Mm-hm.
+Austin: Or it's like it pops into your hand and then you can click that again. Uh, do you wanna keep going around and then we'll circle back around to the Apparatus question>
+Ali: Mm-hm!
+Austin: Okay, so now I'm gonna roll 1d2. One is chaotic, two is orderly. Cuz we're out of neutral cards. Dre, you are getting chaotic and Janine, you're getting an orderly card.
+Janine: Of course. [laughs]
+Austin: As the most orderly person here. And then deal one to Janine. There we go. Let me get back to the rules. Uh, all right. You might notice, as Keith said, you might notice that your roll card has two versions on it. Choose one. Make your choice now and commit to it. This is who you are. I need to look at a name list, that's what I have to look at. These names I've written. That's a bad name. Uh... Are we all good? Do we all have our feelings? Ali, How are you feeling about whatever card you drew?
+Ali: I'm good with my card, I think.
+Austin: Do you think you can play Apparatus with that card?
+Ali: Yeah!
+Austin: Okay.
+Ali: I was looking through the other neutral cards and I think this is...
+Austin: That's the one.
+Ali: This is the one. People go through stages in their life, you know?
+Austin: This is true.
+[Ali giggles]
+Austin: Okay. Feel free to add your name and your character's pronouns to the little index card up top. How are we lookin? Just about there?
+Ali: [laughs] Why did everyone in chat say "Apparatus flop era"?
+Austin: I don't know! What happened?
+[Keith laughs]
+[Ali cackles]
+Keith: I think it was the tone of voice that you had when you said, uh, people go through changes or whatever you said.
+Austin: Ohhh. [laughs] That's very funny, actually. Brutal, though.
+Ali: Boycott LOONA, by the way.
+Austin: Okay, is that — I was curious what side of this you were on, what are you —
+Ali: Yeah, of course I am!
+Keith: Wait, what side of what?
+Ali: I'm not gonna get into this whole thing, but I've, I've, most of the members of uh LOONA are suing their management company, so.
+Keith: Oh, okay.
+Ali: There's that.
+Janine: Finally.
+Ali: Mm-hm.
+Austin: Mm-hm.
+Ali: Yeah.
+Janine: Every K-pop star should be suing their company.
+[Ali laughs]
+Austin: Um, Keith do you have a name? Do you help with a name? You getting there?
+Keith: Ummm. No, I'm good.
+[Austin sighs, Ali laughs]
+Austin: Keith, can we start with you, you're the top of the order, so! Go ahead and, what's your name and pronouns?
+Keith: Uh, name, name, uh, Plum Tort.
+Austin: Uh-huh. Without revealing your role, can you say, like, what you do on the, in the city? Like, do you have another job or you're just board member? I Guess I'm kind of just...
+Keith: Ah... Hm, I want to know, what would you say to that question if you didn't want people to know what your job was, really?
+Austin: Well, I have a role that is, see that's the thing is, I have a role that is just like, not a job. It's more of a perspective, and so I can just say outright that I am playing Kojack Variety, pronouns he/him and I'm like the head of maintenance. I'm like the maintenance director.
+Keith: Um, okay. I could say that I'm, um... Ooh.
+Dre: You're an old-timey Southern lawyer and you're just always talking about them Plum Torts!
+[Laughter]
+Keith: Um, I, you know, come back to me on that question and I'll I'll have a better answer.
+Austin: Yep. That sounds good. If you get there, you get there. If you don't, you don't.
+Keith: Yeah.
+Austin: Ali, you're playing Apparatus, Aperitif, right.
+Ali: Yes, I am playing Apparatus Aperitif. They/them.
+Keith: Oh, he/him, by the way, are my pronouns.
+Austin: Is Plum Tort? Okay.
+Keith: Yeah.
+Austin: Apparatus is they/them. Dre.
+Dre: I'm playing Shunley Pernard, uh, who is they/them.
+Austin: Great. Janine.
+Janine: I'm playing Antonina Juris, uh, pronouns she/her.
+Austin: Okay. Oh, and what are the, uh, Antonina, is that right?
+Janine: Antonina Juris, yeah.
+Austin: Antonina and Shunley, do you have jobs that are not tied directly to your role or are you...
+Dre: Oh, yeah, sure.
+Austin: Okay.
+Dre: Um.
+Janine: I don't think I do.
+Austin: Okay, so just board member is fine.
+Dre: I'm a bus driver.
+Austin: Okay.
+Janine: Actually, wait, no, I changed my mind, but I — I think I do, but it is still administrative.
+Austin: Okay.
+Janine: It's still like a...
+Austin: What is it?
+Janine: Like a...
+Austin: It's just, it's just a...
+Janine: I feel, it has, it's someone who works with Emmeline.
+Austin: Oh, okay, that makes sense.
+Janine: In some capacity.
+Austin: Oh, oh, oh! You know what? There were those two, um, there were those two other, uh, aides to Clem.
+Janine: Right.
+Austin: That Jack at the time described as being extremely Coen brothers-esque, uh, and they were named, one of them was named Ernst Sweemey, Mr Sweemey, and they said that they didn't know the woman's name, but we could come up with a woman's name tonight if we wanted to. So,
+Janine: Okay.
+Austin: Antonina Juris, feel free to be one of, of — you know, Clementine's voice in absentia, basically. Um. There we go. Um Keith have you, have you thought through a role on the — or not a role, but a job?
+Keith: Uh, yeah, I'm a, uh, consultant.
+Austin: Love this. I love that. That's the perfect, that's the perfect answer. Okay. Uh, remember, keep your role and your choice secret, you wouldn't want anyone to know what you're really up to. Planning your turn. Your tenure on the city council lasts two years. Each year lasts two rounds. A round ends when each city council member has taken one turn. So again, we have two rounds, we each get one turn per round. So that's going to be total, that means that we are going to get four turns each. On your turn you'll propose to build or modify one building, and in addition you may build or remove one road. You can only modify a building after the first round. You wouldn't want to be unfair to your fellow council members' freshly built products — uh, projects would you? 
+Buildings. What even are buildings anyway? Nominally they're structures with roofs and walls, but for the purposes of your brand new city, a building is a space with a purpose. Explain briefly to your co-workers what you'd like to build where and for what purpose. If you'd like, you can also explain what in your city may have inspired this particular building: the will of the people, the desire to solve problems or meet a need or even to create one. Whether or not you go into detail, don't draw it on the map yet. What's drawn on the map has been summoned into existence by the almighty powers of the council, and we would not want to do that without a little friendly discussion. 
+A quick note on secrets. It can be tempting to make a building's true purpose secret when you build it. It could be a great place to park your skeletons. And there's no ordinances against this, as long as you're okay with allowing one of your colleagues to define that purpose later on. Once you've built it it belongs to the city, and as any experienced city planner will tell you, the city sometimes has a will of its own. Your co-workers, after you propose a building to add, then have the opportunity to ask simple questions to clarify the nature and purpose of your building. Good questions asked by intrepid city planners include but are not limited to: is it free to enter or participate? Why is it here and not there? Why is it that big or round or tall or spiky? If everyone likes your proposal, great! Go ahead and draw your building on the map. It now exists in your city. If not everyone likes your proposal, heartfelt condolences. [Dre laughs] Now we have to deal with disputes. 
+Uh we'll get to disputes when it seems like no one agrees, or someone doesn't, someone wants — when someone wants to issue a dispute, we will read the dispute rule. The TL;DR is, we all have one dispute. You'll recognize the contempt token from whenever we first did these contempt tokens. That's your one dispute. Um, uh, and you can kind of spend those to force a veto, effectively.
+Keith: One dispute with an asterisk, because I was shocked later on when there was other ways to do a dispute.
+Austin: There are other ways to do a dispute.
+[Ali laughs]
+Austin: It wouldn't be a city council if there was not a secret second way to do a uh a dispute. So Keith, what are you proposing to add to this — sorry, Plum, what — you know, to order, to order. Uh, what are you proposing we build here as our first building on the map?
+Keith [as Plum Tort]: Um. I think that... God, this is such a good question that I super have decided. Um. Uh. We're starting a new city, there's nothing really here yet. We have our sort of permanently purposefully crashed ship. And I think that the number one thing that we need in order to get things going so that people can move to create this city with confidence is a place to, uh, buy insurance and log claims...
+[Ali laughs]
+Dre [as Shunley Pernard]: Sure.
+Keith [as Plum Tort]: If anything were to go wrong, God willing it doesn't, of course, but uh, you know, it's...
+Austin [as Kojack Variety]: So the first building you want us to build is an insurance claims building?
+Keith [as Plum]: Yes.
+Austin [as Kojack]: Does everyone get insurance for free? Why do we need insurance, can't we just make sure everyone just gets their stuff?
+Keith [as Plum]: You can't make sure everyone gets their stuff, you have — that's what the insurance is for, is to make sure. It's in the name, insurance.
+Austin [as Kojack]: So this is like social insurance.
+Keith [as Plum]: What do you mean?
+Austin [as Kojack]: It's like social insurance?
+Keith [as Plum]: Well it's dangerous business to build a city. There's lots of construction, there's lots of, uh, you know, messing around in the wilderness. There's people who don't have their needs met because they don't have any buildings that meet anybody's needs. The number one thing that we need to do is make sure if someone who's helping us build this city falls off of a roof while putting the finishing touches on people's homes, or what have you, uh, that they can get the compensation that they deserve without having to go through a process that hasn't even been set up yet.
+Austin [as Kojack]: Mm-hm. Mm-hm.
+Ali [as Apparatus Aperitif]: And what are we ensuring?
+Keith [as Plum]: People's lives!
+Dre [as Shunley]: Hey, uh, I'm Shunley Pernard and I got a big question.
+Austin [as Kojack]: Shunley?
+Dre [as Shunley]: What, uh, what color is it gonna be?
+[45:00]
+Keith [as Plum]: It's gonna be... Concrete.
+Austin [as Kojack]: I'm back on board.
+Dre [as Shunley]: What color is that?
+Keith [as Plum]: That's like a sort of earth gray.
+Dre [as Shunley]: Hmm.
+Austin [as Kojack]: That seems practical to me. I'm back on board.
+Janine [as Antonina]: If I got injured and then applied to get my insurance reimbursement, what happens? What do I get?
+Keith [as Plum]: Oh you get a payout, uh, equivalent to the value of the plan that you've purchased, uh, you know relevant to the oversight of the adjusters, uh, paid directly to your account!
+Ali [as Apparatus]: What are we charging?
+Austin [as Kojack]: [cross] Yeah, why can't the Reflecting Pool just pay?
+Keith [as Plum]: [cross] Well, that's not my job.
+Janine [as Antonina]: Do I get food and housing still?
+Keith [as Plum]: Do you get, well, if you —
+Janine [as Antonina]: Am I gonna be like taken care of? Is there someone is there, like a like... Or is it just money?
+Keith [as Plum]: So two questions. Why can't the Reflecting Pool just do that? It's not set up to handle the insurance claims of a new municipality.
+Austin [as Kojack]: No, but can't we just, instead of charging the individual, can't we just charge the Reflecting Pool? The Clementine Kesh account, the the city account. Can't the city buy the insurance for everybody, effectively?
+Ali [as Apparatus]: Why aren't we building a hospital?
+Austin [as Kojack]: That I — I have a turn, I'm going to get us, just.
+[Ali laughs]
+Keith [as Plum]: Okay, we got three questions. Janine — sorry, uh, Juris, what was your, what was your question?
+Janine [as Antonina]: I suppose mine is is fundamentally a question of of how this functions in our economy, as as... Is what this offering a thing that actually accomplishes what it sets out to do, if people, if the goal here is to provide for people who are injured, is giving them some money the best way to do that?
+Keith [as Plum]: Well, without money, people won't have food, they won't have their homes, they'll be extremely insecure.
+Janine [as Antonina]: But that's, we could do that.
+Keith [as Plum]: But if we have the insurance building, we wouldn't have to. They would be able to — the — people are themselves best capable of determining where that money should go.
+Ali [as Apparatus]: What??
+Keith [as Plum]: So we give them the money instead of the goods.
+Austin: [over Ali wheeze-laughing] Is this a dispute, is someone disputing? Every city council member is alotted a single dispute for their two-year term on the council. A dispute, if it passes, not only prevents a building or anything remotely like it from being built for the remainder of the two-year term, it also wastes the turn of the council member who proposed it in the first place. At any time during a question the question period for a building, a council member may formally declare a dispute. In order to pass, a dispute must be seconded by another member. If dispute was declared but not seconded, the dispute fails and the council member loses their chance to ever dispute again, just like in real governments. Council members may second as many disputes as they want. Are we disputing this for-profit — is somebody disputing this for-profit insurance building, and therefore stopping that as a scheme forever in our term?
+Dre [as Shunley]: Uh, I might. Um, I'm Shunley Pernard and I have another question.
+Austin [as Kojack]: Shunley Pernard.
+Dre [as Shunley]: Um. Can we make it purple?
+Keith [as Plum]: Of course, we can dye the concrete!
+Dre [as Shunley]: Perfect. No objections.
+Ali: I'm I'm I'm giving my little ghost away, [laughs] if nobody else is.
+Austin [as Kojack]: I'll second.
+Ali: I'm f...
+Janine: Does seconding involve spending your ghosts, or is that just a second?
+Austin: No, you keep your ghost, you keep your ghost.
+Janine [as Antonina]: Okay, I second it also. Thirded.
+Austin [as Kojack]: Okay. Thirded, yeah, okay. We have rejected this. The dispute has been formally declared. The insurance building, no. Insurance building? No.
+Keith [as Plum]: I hope there's not some horrible disaster that leaves many of our citizens without recourse.
+Austin [as Kojack]: Speaking of citizens needing recourse, uh, as the maintenance director I've noticed that there is lots of scrap around from where we crashed the ship we all live in into the ground. Uh, and, uh, I would like to officially create a space for collecting that scrap and also turning it into things that are useful for people, specifically the people of the Reflecting Pool, many of whom have interesting, strange, magical prosthetics as someone in the chat, as Ko in the chat reminded us. Basically I want a scrapyard/hospital, right? Um, I want to take that stuff, the loose metal, uh, armor plating from the underside of the ship, uh, any wiring that's not being used anymore, wtc, and devote that to making sure that all the people who, as a reminder the Witch in Glass, uh, you know, resuscitated and resurrected in the case of people — or nearly resurrected in the case of people like the Figure in Bismuth — and ensuring that they continue to get the support that they need, that's a an easy win for us all, we have all this scrap metal anyway, let's put it to work. [pause] Questions?
+Keith [as Plum]: Uh, sorry, what is the, what is the scrap specifically being used on?
+Austin [as Kojack]: Uh, creating new prostheses, making sure that the ones that maybe were damaged during the crash landing and battle, uh, are up to snuff and repaired, making sure that everybody can go through their day using, uh, their their, you know, faculties as they wish. So it's like a scrapyard /hospital. And I think
+Ali [as Apparatus]: Do we —
+Austin [as Kojack]: Yeah, mm-hm?
+Ali [as Apparatus]: Do we have the equipment to refine these things?
+Austin [as Kojack]: That's a scrap yard, and the hospital will do, well, that's what it does.
+Ali [as Apparatus]: Oh. Well. Okay. [laughs]
+Keith [as Plum]: Oh, so it's it's it's, doubles as a hospital?
+Austin [as Kojack]: Well, it's, you would go there to get your stuff like worked on and get upgrades and get it repaired and get check-ins, etc.
+Keith [as Plum]: Wouldn't it make sense to have a generalized hospital instead of a very specific kind of hospital? As the first hospital?
+Austin [as Kojack]: Okay, well, that makes — that's common sense, yeah, that makes sense. But then we have all this scrap around still, so can someone else promise me that you get this scrap taken care of?
+Keith [as Plum]: We could use the scrap to build the hospital. And the...
+Austin [as Kojack]: Well, this, of course we would do that! Of course we would, of course we would do that. I'm not an architect but I'll do my best. You know what I mean?
+Keith [as Plum]: Right.
+Austin [as Kojack]: When I see a mech arm I can imagine that's like a doorway instead or whatever, you know?
+Keith [as Plum]: Right. Yeah. Or a wall. Flatten it.
+Janine [as Antonina]: I mean, hospitals have departments. We could have a meat department and a non-meat department.
+Austin [as Kojack]: Yeah, that's true. In fact, I was thinking, speaking about meat, I was thinking about putting it at the end of the meat flower road.
+Janine [as Antonina]: And we could call it the meat wing!
+Austin [as Kojack]: The meat wing and the...
+Ali [as Apparatus]: But then people would have to travel so far out of the city, for care.
+Austin [as Kojack]: All right, well, we could put it...
+Dre [as Shunley]: Uh, well, I'm Punley, I'm Punley Shernard and we could, we could drive in my bus.
+Austin [as Kojack]: [whispers] I thought you were Shunley.
+Dre [as Punley]: That's what I said.
+[Ali laughs]
+Austin [as Kojack]: Okay. We could put it next to, we could put it in this little alcove this little like corner spot like here, instead, or like on the on the road to the outside, or as maybe the interior cul-de-sac?
+Keith [as Plum]: Uh it could be between the cul-de-sac and the mountain road?
+Austin [as Kojack]: Oh! I kind of like that spot! Um, Driver Pernard, do you have a color preference for this one?
+Dre [as Punley]: Nah.
+Austin [as Kojack]: Okay. Well, I'm gonna —
+Dre [as Punley]: Wait. How big is it?
+Austin: I think it's about a quarter the size of the Reflecting Pool.
+Dre: Hm.
+Austin: Like from T in Reflecting over to the east, you know what I mean? Maybe smaller than that.
+Janine: So about as big as a lily pad.
+Austin: A little bit bigger than a lily pad. As big as two lily pads.
+Janine: Wow.
+Ali: Those are big old lily pads.
+Austin: Well it's — it has two wings. You know?
+Dre [as Punley]: Can we, uh, can we make it green?
+Austin [as Kojack]: I'm happy to make it green.
+Keith [as Plum]: I would like it to be purple.
+Janine [as Antonina]: [cross] Green is the color of health.
+Keith [as Plum]: [cross] I got really attached to the idea of a purple building.
+Austin [as Kojack]: Okay. How about this. How bout we make one wing gray and one wing purple?
+Janine [as Antonina]: Ooh.
+Austin [as Kojack]: And the middle can be concrete!
+Dre [as Punley]: Hmmm.
+Ali [as Apparatus]: That sounds incredible.
+Keith [as Plum]: Okay.
+Austin [as Kojack]: All right! All right! Great.
+Dre [as Punley]: Purple one's gotta be north.
+Austin [as Kojack]: North. Okay. Sure. That's fine by me. 
+Austin: Uh I'm just checking to see something, does — uh Plum you still get to build a road, you should draw your road before —
+Keith: I built a road, I built the Mountain Road.
+Austin: No no, you should, you get a second road because of your turn, even though you were disputed, you still get a road.
+Keith: Ohhh, I still get a road.
+Austin: Yes.
+Ali: Ohhh. The turns aren't and/or.
+Austin: Correct.
+Ali: They're and, not or.
+Austin: Correct. Yes. 
+[as Kojack]: All right, so, let's get concrete middle, and then we get purple north, and then we get green south. Which was metal, which was, which was flesh? In terms of the wings?
+Keith [as Plum]: I think it's obvious.
+Janine [as Antonina]: I think green should be metal because more metal oxidizes green.
+Keith [as Plum]: Yep.
+Janine [as Antonina]: And like, yeah, okay, no, this is good actually! Metal when it oxidizes can turn green, and flesh bruises purple. So that's how you know if you need to get one or the other fixed. Color's right there.
+Austin [as Kojack]: Sure.
+Janine [as Antonina]: We planned this the whole time.
+Austin [as Kojack]: This was all, all according to plan, yeah. 
+Austin: [laughs] Okay, added. Uh, and then I like your new, I like that, that's good! I Like that that, uh, road. I'm gonna add my road, which will be... Added once I have the tool that I need, there it is. Um. Let's do a little extra curve. Oh, that's not the size I want, I want regular. Um. Do I wanna just loop this? That's kind of fun. Yeah, let's let's do a little loopty. Boom. There we go. 
+[as Kojack]: All right, that's, uh, my turn. So now Ali. Sorry, now Apparatus. It is your turn.
+Ali [as Apparatus]: Um, yeah. I believe by circumstance we ended up in a interesting place here but one of the the most beautiful things that we've put together so far is this bridge over the swamp.
+Austin [as Kojack]: [snorts] Yeah!
+Ali [as Apparatus]: And I think, um, and I would like to put a courtyard on the other side of it. Um. To encourage people...
+Keith [as Plum]: Like a judicial...?
+Austin [as Kojack]: No.
+Ali [as Apparatus]: No.
+Austin [as Kojack]: Not a court!
+Ali [as Apparatus]: No, just like, uh, like a...
+Keith [as Plum]: Not a yard court. A courtyard? [laughs]
+[Ali laughs]
+Austin [as Kojack]: A courtyard. Yeah.
+Ali [as Apparatus]: Like a, a circular space.
+Keith [as Plum]: Okay.
+Ali [as Apparatus]: Um, a foundation put down there. People, you know, trees and and benches and the little desks that you play chess on. Um, perhaps there could be a patio aspect so people, if they walk across the bridge and it starts raining, they don't feel they have to go home right away. But to get people, you know, out of the Reflecting Pool a little bit.
+Keith [as Plum]: [cross] Uh, and where's the —
+Janine [as Antonina]: [cross] How will we make sure —
+Keith: Janine, go ahead.
+Janine [as Antonina]: I was gonna ask, how will we make sure it's safe from the from ground plants? They seem a little invasive, I just, how are we going to make sure they don't get in there because that could be a hazard for people.
+Ali [as Apparatus]: Well, um, I've scoped out the area that I've seen and, um, it does not seem that there are any currently growing there.
+Janine [as Antonina]: But they could spread.
+Keith [as Plum]: Could build a barrier.
+Ali [as Apparatus]: A small fence of some sort, indeed, yeah.
+Keith [as Plum]: Right.
+Ali [as Apparatus]: Um I, you know I believe if we set you know a concrete foundation, that would take up some of the green space to keep from the the spread of the roots.
+Keith [as Plum]: And where's the ticket booth?
+Ali [as Apparatus]: [amused] uh, there isn't one!
+Keith [as Plum]: How do we know if people have paid to get in?
+Ali [as Apparatus]: You just walk in.
+Keith [as Plum]: But how will — okay, so how then do people pay to get in?
+Ali [as Apparatus]: Uh, they, with their minds. They think to themselves, I wanna take the time to...
+Keith [as Plum]: This is a chip based thing, this is a mental, do they get a chip at the hospital to…? I'm amenable to this, I just don't...
+Dre [as Punley]: Hey, I'm, uh, I'm Pernard Shunley and I want to know how much it's going to cost for me to take a nap here, cuz it sounds really nice?
+Ali [as Apparatus]: It is gonna be whatever it costs you in your soul and the tay of your time off from your job.
+Keith [as Plum]: That's pay what you want, it's a pay-what-you-want model?
+Janine [as Antonina]: It costs a soul?
+Ali [as Apparatus]: [wheeze-laughs] It is a pay-what-you-want model in that nobody is taking anyone's money.
+Austin: Wait, sorry, I stepped away for a second, we're making some sort of group bed? What's happening?
+[Ali and Keith laugh]
+Keith: Out of character, I I was doing a bit where I was assuming that this park was going to be a paid park, a paid ticketed park and then Ali is sort of beating around the bush that it's free, and I'm coming up with a bunch of reasons why I'm still assuming that it's paid.
+Austin: I see.
+Keith: That's the bit.
+Dre: And I asked how much it would cost for me to take a nap.
+Austin: Right. See, yeah, this is why I was confused. Yeah.
+Janine [as Antonina]: If this is a paid courtyard I don't support it.
+Ali [as Apparatus]: It's a free courtyard.
+Austin [as Kojack]: What —
+Keith [as Plum]: I think we're losing out on an obvious revenue stream by not charging for this park.
+Ali [as Apparatus]: We don't need revenue!
+[1:00:00]
+Keith [as Plum]: What do you mean we don't need revenue?!
+Ali [as Apparatus]: I think we're all right!
+Keith [as Plum]: We're a city! That's the number one thing that cities need is revenue!
+Austin [as Kojack]: [doubtful] Mm. Mm.
+Ali [as Apparatus]: But people, people, you don't charge people money to go sit in the sun and look at a lake!
+Austin [as Kojack]: Some people do!
+Keith [as Plum]: Look, if they want to look — if they want to sit at this — if they don't want to be charged to sit and look at the sun they can go somewhere that isn't the courtyard. There’s a bunch of places — 
+Janine [as Antonina]: We shouldn't charge people to look at the sun, they'll hurt their eyes.
+Keith [as Plum]: Well, look, you know, look around under the sun. 
+Austin [as Kojack]: Or near the sun. look in the sun, but not in the, like in, you know, not in.
+Keith [as Plum]: Right. there's plenty of places outside the courtyard for chairs and for —
+Austin [as Kojack]: I don't like “the courtyard” that makes it sound so fancy-schmancy. Very like.
+Keith [as Plum]: I thought that it was going to be a yard court, which I liked.
+Austin [as Kojack]: You’re giving me the high hat, you know? What’s the — just call it a park, it's a city park. 
+Ali [as Apparatus]: Okay. yeah.
+Austin [as Kojack]: It's a city park.
+Ali [as Apparatus]: Sure. 
+Keith [as Plum]: Is it too late to make it a court? 
+Ali [as Apparatus]: Yes.
+Austin [as Kojack]: Do we need a court? Maybe! Maybe in another term! maybe another month, rather. Whatever our divide is on this. All right, so it's a city park. We, I, you know, I can get behind a city park. If it's a city park it makes more sense to me why we're not charging for it. City parks are free.
+Keith [as Plum]: Well it's not free to build them! It's not free to maintain them!
+Austin [as Kojack]: I mean what's over there, it's just grass already, right? In fact, what’s the building? 
+Keith [as Plum]: We're talking about, we're talking about building a fence to keep out the shrooms, we're talking about laying concrete foundation.
+Austin [as Kojack]: Mm-hm. Mm-hm. Pickleball courts, presumably.
+Keith [as Plum]: This is, that costs money! And the lawyer fees are going to be outrageous!
+Ali [as Apparatus]: There's no law — there's no lawyer!
+Keith [as Plum]: Oh, sorry, I was just thinking about the yard court again. 
+Ali [as Apparatus]: [laughs] We're designing a space that is going to be worth it to people to improve…
+Austin [as Kojack]: Ohh, what happens if someone gets hurt, is my question.
+Keith [as Plum]: And without an insurance building the costs are going to be outrageous
+Ali [as Apparatus]: They'll go to the hospital! 
+Janine [as Antonina]: But it’s so far from the hospital though.
+Austin [as Kojack]: It’s so far from the hospital.
+Ali [as Apparatus]: We’ll set up a bus lane. Shunley, you think that you could bus across the bridge to the hospital?
+Janine: Can the bridge support a bus?
+Dre [as Pernard]: Sure.
+Austin [as Kojack]: Yeah! We build a, we could build a bridge. C’mon.
+Dre [as Pernard]: Uh. Not on Thursday.
+Janine [as Antonina]: Is the bridge weaker on Thursday?
+Austin [as Kojack]: Okay. That means we have to close the park on Thursdays, we can't have the park open if the bus can't take you to the hospital.
+Dre [as Pernard]: I mean, somebody else can drive the bus, just, me, Pernard Shunley could not drive it on Thursday.
+Austin [as Kojack]: I see.
+Ali [as Apparatus]: Okay. Well, we’ll figure it out.
+Keith [as Plum]: So you're saying that you can drive this bus during business hours six days a week?
+Dre [as Pernard]: Sure.
+Keith [as Plum]: [doubtful] Okay.
+Janine [as Antonina]: So are we saying we're gonna have a full-time shuttle every day except Thursday from the park to the hospital? Going back and forth?
+Keith [as Plum]: This is, so this is now — we've closed off revenue streams and the park is getting more and more expensive by the minute.
+Austin [as Kojack]: We'll make our money somewhere else. We'll make, we’ve got to make money, you're right, I get it, it's, again, it makes sense, it's just —
+Ali [as Apparatus]: We're adding value.
+Austin [as Kojack]: Ohhh. To future enterprises.
+Ali [as Apparatus]: Yes.
+Austin [as Kojack]: I see. I’m not a businessperson, I just clean up stuff, but. That makes sense.
+Janine [as Antonina]: That’s true, it… if we have a shuttle that's going back and forth on that route continuously then that could, that could encourage businesses to set up along that route, right?
+Ali [as Apparatus]: Exactly.
+Austin [as Kojack]: We're already going around the Reflecting Pool, we could pick people up there, we drop them off on the other way. 
+Janine [as Antonina]: Yeah, yeah. 
+Austin [as Kojack]: Sure. 
+Janine [as Antonina]: Yeah. 
+Keith [as Plum]: How about a subscription model?
+[Ali laughs]
+Austin [as Kojack]: What about — they might have to subscribe to the bus. 
+Janine [as Antonina]: Subscribing to park? 
+Keith [as Plum]: Yeah, subscribe to the park. We can have plans!
+Ali [as Apparatus]: If, if people want to sponsor... [angry] No! We've had —
+[Austin laughs]
+Keith [as Plum]: No, I think you were about to say something that I like! What was — pitch me the sponsor idea!
+Ali [as Apparatus]: We... [laughs loudly]
+Janine [as Antonina]: Sponsor a subscription to a bus to a park to a hospital.
+Ali [as Apparatus]: Do we not have the resources of the refining pool?
+Austin [as Kojack]: [increasingly from New York City] This is convoluted. You got a city. You got a city park. You got a bus. You get a bus ticket. You get on the bus. You go to the city park. Uh-oh, I fell, I broke my leg. You get on the bus. The bus takes you back through the city, give them the bus ticket. Go back through the city. Go to the hospital, they fix your leg up, that's it. Boom. Bang. Bam. That's a city. Just do it that way, that's the normal way.
+Keith [as Plum]: Mr. Variety. I love the, I love the bullet points, but a city doesn't run on summarized lists! It runs on cash!
+Austin [as Kojack]: Yeah and you buy the, you buy the tickets, the bus ticket with the cash! Why you gotta bring money into the park! Now my money in a park should be for hot dogs!!!! [??? 1:04:30]
+Keith [as Plum]: But the bus ticket just pays for the bus. How bout, how about we have — okay. The businesses that would that will want to move in —
+Austin: I gotta tell you, putting a mint in my mouth was the thing I needed to get this character right.
+[Laughter]
+Keith [as Plum]: How about we have the businesses sponsor the park then? Instead of the patrons. The guests.
+Austin [as Kojack]: We could have billboards and what, and you could sponsor a bench.
+Ali [as Apparatus]: If, if.
+Keith [as Plum]: Name, they could name the park!
+Ali [as Apparatus]: If a business would like to support the park, they can have their name on each of the chess tables. Fair?
+Keith [as Plum]: How many tables? [pause]
+Ali [as Apparatus]: Eight.
+Keith [as Plum]: I'm gonna agree, I'm gonna agree to the park, business names on the chess tables, and the benches and, uh, the park name.
+Ali [as Apparatus]: No, not the name.
+Austin [as Kojack]: What's the name of the park?
+Ali [as Apparatus]: Well we'll figure that out but I'm not —
+Austin [as Kojack]: [cross] Park of Glass.
+Keith [as Plum]: [cross] We'll veto anything that it — do you have a business?
+Ali [as Apparatus]: What? [laughs]
+Dre [as Pernard]: Yeah, I drive a bus.
+Keith [as Plum]: Oh, it'll be the bus park.
+Ali [as Apparatus]: No, because because then we're gonna have Mr Businessman coming to the Mr Businessman Park thinking that he owns the joint, and this is a park for the people.
+Dre [as Pernard]: Well, my name's not Mr Businessman, my name is Shernard Punley.
+Keith [as Plum]: What would you like to name the park, Pernard?
+Austin [as Kojack]: That's not true! It's not your name!
+[Austin and Ali laugh]
+Dre [as Shernard]: I'm pretty sure I would know my name.
+Keith [as Plum]: Shernard Punley, what would, what would you like to name the park, if you sponsored it?
+Dre [as Shernard]: Park.
+Keith [as Plum]: And how much of the construction cost is your bus company willing to front in order to do that?
+Dre [as Shernard]: Mm. 60%.
+Keith [as Plum]: I'm in.
+Austin [as Kojack]: Wow, okay! We got ourselves a park!
+Keith [as Plum]: Yeah, I'm in!
+Janine [as Antonina]: What... We shouldn't name the park until Clementine comes back. Clementine should — the Witch should be able to —
+Austin: Two years? Oh, we don't know that, we don't know when Clementine's coming back, sorry, go ahead, continue.
+[Ali snorts]
+Janine [as Antonina]: It should be up to her to name the park.
+Keith [as Plum]: If Clementine wants to rename the park then by all means. We can have that conversation.
+Austin [as Kojack]: Oh we would also call — we would probably, we would probably call her the Witch in Glass and not Clementine.
+Janine [as Antonina]: Yeah, I was, that's why I switched back and forth there because I was like, wait a minute.
+Keith [as Plum]: If the Witch wants to rename the park, then that is... A conversation we can have.
+Austin [as Kojack]: Yeah, that's obviously her call. It's obviously her call.
+Keith [as Plum]: But we can't just not call the park something until...
+Janine [as Antonina]: Could be a placeholder sponsorship, until she comes back.
+Ali [as Apparatus]: It can just be the park.
+Janine [as Antonina]: It might be a very short sponsorship, but. I mean, okay, sure.
+Austin [as Kojack]: All right. We'll just build the park.
+Dre [as Shernard]: That's what I said. Park.
+Austin [as Kojack]: Park.
+Keith [as Plum]: Park.
+Ali [as Apparatus]: Okay. Beautiful.
+Keith [as Plum]: The Park park.
+Austin [as Kojack]: The Park park.
+Ali: Can I start drawing this park now?
+Austin: You can draw the park.
+Ali: Thank you.
+Austin: And then a road.
+Ali: Oh sure.
+Austin [as Kojack]: Shunley Pernard.
+Dre [as Shernard]: Hey-ha.
+Austin [as Kojack]: What is your building proposal?
+Dre [as Shernard]: Um. Swimming pool.
+Austin [as Kojack]: [sickos] Yeah! Heh-heh. Yeah!
+Keith [as Plum]: [annoyed] This is...
+Dre [as Shernard]: Hold on, hold on, hold on. Can I get you as a brief aside, uh, Mr Tort.
+Keith [as Plum]: Yes, sure. With me or without me?
+Dre [as Shernard]: No, with you.
+Keith [as Plum]: Okay.
+Dre [as Shernard]: Uh I admire your business acumen. How much should it cost for somebody to swim? And, okay, hold on, another important factor.
+Keith [as Plum]: Okay.
+Dre [as Shernard]: Say you had to pay for 60% of building a park. How much would it cost to swim?
+Keith [as Plum]: Okay, so you're saying that you're in financial trouble after agreeing to front 60% of the funds for building the park.
+[Austin laughs]
+Dre [as Shernard]: I didn't say that.
+Keith [as Plum]: And you — I'm inferring. And so you need, you need to generate —
+Dre [as Shernard]: You know what they say that happens when you infer.
+Keith [as Plum]: You make an N out of effinner?
+Dre [as Shernard]: You make a fur outta I and N.
+[Keith laughs]
+Keith: Um, well, it's a swimming pool, uh, do we know what the seasons are like here?
+Austin: Not a clue!
+Keith: We don't know what the seasons are like here.
+Austin: We've been here for like three months and we have no idea!
+Keith [as Plum]: No — well, no — I'm going to say that if we're entertaining the idea of a swimming pool, that means the last three months have been swimming temperature, so I would say that you should sell, uh, access to the swimming pool as a seasonal pass, you pay once and you get access to it unlimited for the season. And, uh, I think that you should, uh, you should charge an amount based on, um, selling passes and not individual swims.
+Dre [as Shernard]: Mm.
+Keith [as Plum]: So like maybe 50 bucks a season per person. And like 80 for families.
+Ali [as Apparatus]: What if I just want to go that one time?
+Keith [as Plum]: Then you can get a day pass or find a friend with a family pass.
+Austin [as Kojack]: All right, I've been thinking about this. You had me there at the beginning but now I'm wondering. We got a swamp, why do we need a pool? Also, we gotta we got a spaceship called the Reflecting Pool! How are you gonna compete with that?
+Ali [as Apparatus]: Mm.
+Keith [as Plum]: Deflecting Pool.
+Dre [as Shernard]: Mm.
+Austin [as Kojack]: Mm.
+Ali [as Apparatus]: Do people swim here?
+Dre [as Shernard]: Swamp smells bad.
+Austin [as Kojack]: Yeah, but it's natural!
+Keith [as Plum]: It's it's the air that smells bad. Parasites are a concern. Again, we have a hospital but we don't have, uh, an insurance building, uh, so if anybody were to get a parasite and have to go to the hospital and they lost their job, there'd be no way to pay them out for that time.
+Janine [as Antonina]: Brain amoebas too.
+Keith [as Plum]: Um.
+Janine [as Antonina]: Will the pool have staff? Lifeguards, first aid kind of...
+Keith [as Plum]: Swim-up bar?
+Janine [as Antonina]: Uh, swim instructors, um.
+Dre [as Shernard]: Sure.
+Janine [as Antonina]: You know, support staff.
+Austin [as Kojack]: Is it a tide pool? Like does it have like, a wave pool rather, does it have like the...
+Keith [as Plum]: [excited whisper] Does it have a lazy river?
+Janine [as Antonina]: Those are very dangerous.
+Dre [as Shernard]: Sure.
+Keith [as Plum]: Oh! My inner child! Does it have a lazy river?!
+Dre [as Shernard]: Sure.
+Keith [as Plum]: Then I'm in!
+Janine [as Antonina]: Wait, is there — there is a wave pool then?
+Dre [as Shernard]: Sure.
+Janine [as Antonina]: [objecting] No, no, okay...
+Austin [as Kojack]: How many rides are there? Do they got one of them ropes I can swing off of?
+Ali [as Apparatus]: Are there any heated pools?
+Keith [as Plum]: Is there a roller coaster?
+Dre [as Shernard]: Uh. Hold on, in order: nah, sure, nah.
+Austin [as Kojack]: One more, one more, two more, two words for you. Two words for you.
+Ali [as Apparatus]: Wait. What was my answer?
+Austin [as Kojack]: Log flue.
+Dre [as Shernard]: Nah. Uh, uh, your answer was sure.
+Ali [as Apparatus]: Oh, thank you. This is a man of... This is a person, this is a person of understanding.
+Janine [as Antonina]: Can you, can you be — 
+Dre [as Shernard]: As far as the staff, I can cover it on Thursdays.
+[Austin and Keith laughing]
+Janine [as Antonina]: I need an exact number of staff and what their roles will be. What will your role be on Thursday? And will there be anyone else at all ever?
+Ali [as Apparatus]: Shunley, Shunley. You have a job as a city planner.
+Keith [as Plum]: I think it's Punley Shernard.
+Ali [as Apparatus]: You — we can — I'm sure there would be interested parties to be a lifeguard. And a bus driver, for that matter!
+Austin [as Kojack]: Shunley knows all the routes already, so I don't want to take that away from them.
+Dre [as Shernard]: Yeah. Idle hands.
+Ali [as Apparatus]: Cool.
+Keith [as Plum]: If they've got the time, they've got the time!
+Ali [as Apparatus]: I mean, we're building, we're building a city here, but we're building a community.
+Keith [as Plum]: Now, I have a, I do have a quick — I have a question. Um, uh, Mr Variety's suggestion that we all swim in the swamp, uh, was obviously outrageous, because of...
+Austin [as Kojack]: I'm just asking questions!
+Keith [as Plum]: I, well, yeah, it's fine to ask questions, and sometimes those questions are outrageous, but what if instead of building a swimming pool we just purified the swamp?
+Austin [as Kojack]: Hey!
+Keith [as Plum]: Turn it into a lake!
+Austin [as Kojack]: Yeah!
+Dre [as Shernard]: Nah.
+Austin [as Kojack]: Hm.
+Ali [as Apparatus]: Well, I feel like we should — we sort of caused the swamp.
+Austin [as Kojack]: Yeah, what if we clean up the swamp, we could swim around in it and drink from it.
+Keith [as Plum]: What if we build some houses for people to live in?
+[Ali laughs]
+Austin [as Kojack]: Well that seems like a whole other —
+Dre [as Shernard]: Well.
+Ali [as Apparatus]: There, there, we can take — I mean, yes, but.
+Dre [as Shernard]: That's why I'm building my swimming pool, so that we know where the houses go.
+Janine [as Antonina]: So.
+Ali [as Apparatus]: I think that we should purify the swamp.
+Dre [as Shernard]: Well.
+Janine [as Antonina]: So it's still just gonna be you?
+Dre [as Shernard]: You got three rounds to do that in.
+[Laughter]
+Austin [as Kojack]: Damn!
+Keith [as Plum]: I feel like having a Reflecting Pool, a swamp, and a pool, is kind of a hat on a hat...
+Ali [as Apparatus]: Yeah. You know...
+Keith [as Plum]: Or is it gilding the lily?
+Austin [as Kojack]: Gilding the lily pad, as it were.
+Keith [as Plum]: Yeah. We're gilding the lily pad.
+Austin [as Kojack]: Apparatus —
+Dre [as Shernard]: Well, listen. Listen. I'm Shunard Perlay and I'm going to build a swimming pool unless somebody stops me.
+[Austin laughs]
+Janine [as Antonina]: I'm gonna stop you.
+Austin [as Kojack]: You're gonna — really?
+Ali [as Apparatus]: I agree.
+Austin [as Kojack]: Wow!
+Janine [as Antonina]: [as Austin laughs in the distance] You, I refuse to let you open up a swimming pool with a wave pool and a lazy river and there's only gonna be one person who works there one day a week. Absolutely not.
+Austin [as Kojack]: [sighs] Okay, fair.
+Keith [as Plum]: I feel like Pernard doesn't have the authority to say that only one person is going to work there. No offense, but they are slightly eccentric. [Laughs] And I don't think —
+Austin [as Kojack]: Shunley, would you let people work there?
+Dre [as Shunard]: Oh yeah, sure. You can buy a pass for it.
+Janine [as Antonina]: Mm — th — yeah, see, no.
+Keith [as Plum]: I don't think that they understand what the pass does.
+Janine [as Antonina]: And this is, this is, this is a, you know, if we had built the insurance place would I be able to say, well, I don't like your insurance agent, I'm going to send my insurance agent in there and they'll do my insurance — no, it's — this is a business.
+Dre [as Shunard]: Sure.
+Janine [as Antonina]: That Mr Pernard would like to to to set up. 
+Janine: Um. I forgot there's no gender neutral version of mister.
+[1:15:00]
+Janine: I fucked myself over there.
+Austin: I've been saying Driver, is my, is my title.
+Janine: Right, thank you. 
+[as Antonina]: Driver Pernard wants to set this up, and those are the parameters that they have, have said their business will follow, and I do not accept them.
+Keith [as Plum]: Is this a business or is, this is a municipal good that is being...
+Janine [as Antonina]: If they're taking money it is a business. It could be a city business, but —
+Austin: We could also use MF [sic], we could use Mx Pernard but I don't know if that's, if that's how Shunley rolls. As a note.
+Dre [as Shunard]: Kinda like Driver.
+Austin [as Kojack]: All right, Driver it is.
+Dre [as Shunard]: Mr Tort, I appreciate, I appreciate you coming to my defense but it — we have rules for this council and they have been set. The will has been done.
+Ali [as Apparatus]: Why don't we just purify the swamp?
+Austin [as Kojack]: Well, can I — let the record show that — I mean, I guess we need to have this discussion. Does saying no to this pool mean no swimming allowed ever? If purifying —
+Keith [as Plum]: No.
+Janine [as Antonina]: No, what?
+Dre [as Shunard]: No.
+Austin [as Kojack]: Well, because, remember, remember! Remember! A dispute says: if you've disputed it, nothing like it can ever be built in our two-year term.
+Janine [as Antonina]: [cross] Be built, but that's not an action.
+Ali [as Apparatus]: [cross] Be built, yeah.
+Keith [as Plum]: Right, we can modify the swamp.
+Austin [as Kojack]: That's my question.
+Janine [as Antonina]: If we had turned down the park people would still be allowed to walk around places.
+Austin [as Kojack]: Right, but we never be able to, we wouldn't be able to say well, this isn't a park, this is a whatever, a reserve, right?
+Janine [as Antonina]: Yeah.
+Austin [as Kojack]: And so my question is are we saying right now that we are not allowed to purify the swamp to turn it into a swimming hole?
+Ali [as Apparatus]: I think we can purify the swamp but we can't build any additional...
+Janine [as Antonina]: It has to just be a clean swamp.
+Keith [as Plum]: I...
+Ali [as Apparatus]: No fountains, no other — no spas, no other water park.
+Keith [as Plum]: I think it's —
+Dre [as Shunard]: I don't think that's fair to me.
+[Ali laughs]
+Austin [as Kojack]: It says not only prevents a building or anything remotely like it from being built for the remainder of the two-year term.
+Keith [as Plum]: [cross] Yes. So, this —
+Dre [as Shunard]: [cross] Sure.
+Janine [as Antonina]: [cross] Purifying the swamp isn't a building, though.
+Austin [as Kojack]: But building a — okay, but you know, yes, it is, because a building isn't a thing with walls, a building is a —
+Keith [as Plum]: It's a space with a purpose.
+Austin [as Kojack]: A space with a purpose.
+Keith [as Plum]: Yeah.
+Austin [as Kojack]: It would be creating a space with a purpose.
+Keith [as Plum]: [cross] So, so we —
+Dre [as Shunard]: [cross] I can't swim in it then.
+Austin [as Kojack]: That's right. This is my defense.
+Janine [as Antonina]: What does purifying a swamp even mean, actually?
+Austin [as Kojack]: It means making it free —
+Keith [as Plum]: Chlorine.
+Austin [as Kojack]: Yeah, it means freeing it from parasites making it potable. Making it —
+Janine [as Antonina]: How do you do — but you can't...
+Austin: We're in the future.
+Janine: Yeah...
+Austin: The Reflecting Pool is a Divine.
+Keith: And it is relatively clean water because it came from an underground aquifer.
+Austin: Right, this is true.
+Keith [as Plum]: Uh, so the thing that, the thing — you know — despite, uh, sort of wanting to, um, veto the swimming pool I do want to say that the grounds for disputing it are that this is a, this is a, uh, Pernard business that's going to be taking in money, and that because they're deciding how it's going to be run and they're deciding weird, that we shouldn't do it, but, uh, just I guess as a point of clarification, I wasn't thinking that this was going to be a business that's taking in money, this was like the city charging passes — a lot of cities — we had a town pool that like charged you a monthly fee that just went to the town, uh, and it wasn't owned by a business. So I wasn't — if the problem is that this is going to be Pernard's business, I don't, didn't read it as that, and I think that we can charge money for it without it being a private business.
+Austin [as Kojack]: It's a city pool. This is how cities work.
+Keith [as Plum]: It's a city pool.
+Austin [as Kojack]: You get a bus route. Bus route goes out to the park. It comes back to the hospital. It comes back around again, you're at the swimming pool.
+Keith [as Plum]: Case in point being that the, you know, eccentric things that Pernard is saying about only having one employee one day a week, I think that that is not enforceable. [laughs]
+Dre [as Shunard]: I didn't say that. I just said I could do it on Thursdays.
+[Keith laughs]
+Austin [as Kojack]: [pained whisper] That is what they said.
+Ali [as Apparatus]: Right, and, well, there will be a staff and we'll make sure that you're taken care of.
+Dre [as Shunard]: Sure.
+Janine [as Antonina]: We are — okay — we're all the ones saying this.
+Austin [as Kojack]: Yeah!
+Janine [as Antonina]: Shunley... Is not...
+Austin [as Kojack]: Shunley, can you agree that we should hire a staff, and that —
+Dre [as Shunard]: Yeah, all right.
+Janine [as Antonina]: I won't block this if there will be a full staff every day of the week with special attention paid to the wave pool. And also there needs to be first aid and swimming provided. Swimming lessons.
+Austin [as Kojack]: And a hot dog stand.
+Keith [as Plum]: And you should be able to go underwater in the lazy river and they shouldn't be able to yell at you for that.
+Dre [as Shunard]: I will agree to all of these conditions.
+Janine: Do I like revoke my thing now, or does it still stay?
+Austin: [cross] Yeah, you get that back.
+Keith: [cross] Yeah, you can take it back.
+Janine: Okay. Okay.
+Austin: We talked through the repercussions, you know, that's —
+Janine: I can't delete it.
+Austin: Okay, I'll do it.
+Janine: You have to do it.
+Austin: That's City Council! Uh. I'm gonna move this out of the way so I don't click the wrong thing. There we go. All right. Go ahead and add the pool and also add a road. Wait, where was your road, Ali, did you add a road?
+Ali: Oh, I didn't have a road. Um, let me add my road.
+Austin: Oh my god. That pool's bigger than the hospital!
+Dre: It's not to scale.
+Janine: It's got a wave pool and a lazy river and a dunk tank or whatever the fuck.
+Austin: That's true. Um. Maybe wait until these roads get drawn before we start up the next turn. Just so we know where they are.
+Keith: Uh, whose turn is next?
+Austin: Antonina!
+Keith: All right.
+Janine [as Antonina]: Mm-hm. Um, I would like to build a, um, farming co-op.
+Austin [as Kojack]: Okay, what's a co-op mean?
+Janine [as Antonina]: So basically a situation where we can all sort of work together to ensure that we have enough food, and that everyone is fed, and we can sort of, you know, maybe some some stuff will have to be done to like research some local plants that we can, you know, do, but basically to just make sure that we'll have food for everyone.
+Austin [as Kojack]: Can you promise me we will not eat the meat plants.
+Janine [as Antonina]: Yes.
+Austin [as Kojack]: Full prom — in writing with a signature.
+Janine [as Antonina]: Yes.
+Austin [as Kojack]: I need everyone who joins the co-op to sign a piece of paper saying they will not farm the meat plants.
+Janine [as Antonina]: Yeah, we don't want to eat the meat plants.
+Austin [as Kojack]: Okay.
+Dre [as Shunard]: Hey, why not?
+Janine [as Antonina]: Um, I think emotionally there's a lot of baggage.
+Dre [as Shunard]: I understand. I can be respectful of that. I apologize.
+Keith [as Plum]: Is this a producer co-op, a worker co-op, or a consumer co-op?
+Janine [as Antonina]: Uh.
+[Ali snorts]
+Austin [as Kojack]: Why is this better than a farm?
+Janine [as Antonina]: It is a farm.
+Keith [as Plum]: [cross] Well, if it's a producer co-op, then it is —
+Austin [as Kojack]: [cross] Well, a farm has a farmer, a farm has a farm dog, a farm has a farmhouse. You live on the farm, you wake up, it's 4 a.m. [Mimics rooster call] and then you wake up, and you go outside.
+Janine [as Antonina]: We need need more than one farm. We need a situation where, something — we need something that's a little more scalable, a little faster.
+Keith [as Plum]: So this is a producer co-op, it sounds like.
+Janine [as Antonina]: I guess?
+Austin [as Kojack]: What's that mean. Is that a farmhouse, [mimics rooster call]
+Keith [as Plum]: A worker co-op is one place where all the workers own the business, and a producer co-op is a bunch of businesses that cooperate together to sell their goods as a single group.
+Austin [as Kojack]: All of that sounds more complex than — I want there to be a pig. I want there to be a donkey. I want there to be a red barn. I want there to be a silo with grain in it, like a farm has.
+Keith [as Plum]: I think it will have all of those things.
+Janine [as Antonina]: Yeah.
+Keith [as Plum]: Probably.
+Ali: How is the Reflecting Pool producing food now?
+Austin: Uh, there were farms inside of it [laughs]
+Ali: [cross] Oh, but there was a big crash.
+Keith: [cross] They were destroyed, yeah.
+Austin: They were like so — they're like green — yeah, the crash probably fucked this up. I mean, we've been here for a little while now. Some of them are probably operating fine, but I think like a mix of hydroponics and other future techie stuff, you know?
+Ali: Sure sure sure. Okay, yeah.
+Janine [as Antonina]: It's good to expand and and, you know, farm local stuff, and also animals need room.
+Keith [as Plum]: Well — if — and if we can have sun-grown produce, that can be sold at a premium. That's a really great marketing tool, I think, to be able to say, like, hey this wasn't grown in a spaceship under lamps with chemicals, this was grown outside, under the sun, you know, people harvesting them with their hands, that's a huge markup potential.
+Dre [as Shunard]: Sure.
+Janine [as Antonina]: People do enjoy variety.
+Ali [as Apparatus]: No. No. I veto this.
+Keith [as Plum]: Veto farms?
+Dre [as Shunard]: Oh!
+Janine [as Antonina]: Why?
+Keith [as Plum]: You don't want the —
+Ali [as Apparatus]: I — I — veto sun. I —
+Austin [as Kojack]: You already vetoed!
+Ali [as Apparatus]: Well, I'm just saying, for myself, I'm vetoing this part of the...
+Janine [as Antonina]: [doubtful] Mm.
+[Austin laughs]
+Ali [as Apparatus]: I'm vetoing this marketing. People have lived their whole lives on ships! We're Not gonna... This is people's lives!
+Keith [as Plum]: We're not gonna... What do you mean?
+Janine [as Antonina]: They'll have a choice. It's...
+Ali [as Apparatus]: Well, I'm just not — well, I'm not...
+Keith [as Plum]: Cheaper, disgusting, chemically-grown hydroponic food for space weirdos —
+Ali [as Apparatus]: It's not disgusting!
+Keith [as Plum]: Or delicious, expensive, outdoor food for people who care about their bodies and care about their health!
+Ali [as Apparatus]: It shouldn't be expensive!
+Janine [as Antonina]: Well, it won't be expensive, it'll just offer people a choice and variety and they can, you know, they'll have more options.
+Austin [as Kojack]: Why is it more expensive?
+Janine [as Antonina]: [cross] it won't be!
+Ali [as Apparatus]: [cross] A tomato is a tomato is a tomato that they've eaten their whole lives.
+Janine [as Antonina]: In a lot of cases — it'll be different crops, because we'll — if — we can always — if we already have a place that grows tomatoes, we'll just keep growing tomatoes there, but if we want to grow like these purple things over here, then — we can grow them in —
+Austin [as Kojack]: The meat fish — or, the meat plants?
+Janine [as Antonina]: No, those aren't purple!
+Austin [as Kojack]: Okay, well, what's —
+Janine [as Antonina]: What part of those is purple?
+Keith [as Plum]: And they're not potable.
+Austin [as Kojack]: Well, you sit over here, there's only one —
+Dre [as Shunard]: They're not purple, she's right.
+Austin [as Kojack]: There's only one plant on the screen that I'm looking at, the map screen.
+Janine: On this entire planet [laughs]
+Keith [as Plum]: That's not true, there's three!
+Austin [as Kojack]: [laughing] Okay, you're right, there are three. I'm not eating the trees and I'm not eating the lily pads and I'm not eating the cattails!
+Janine [as Antonina]: Also you forgot the grass, there's grass.
+Austin [as Kojack]: And there's grass in the park. Yard.
+Keith: And we don't know what that green on the mountain is.
+[Ali snorts]
+Janine: Snakes.
+Ali [as Apparatus]: You can make as many tomatoes and as many other types of vegetables as you want in this farm, but you're not going to sell them by telling people that the food that they've had their whole lives is disgusting.
+Janine [as Antonina]: No. It's —
+Keith [as Plum]: I would disagree, I think that's exactly the right way to sell them.
+Ali [as Apparatus]: No!
+Austin [as Kojack]: We can just have more food from outside. This makes sense.
+Janine [as Antonina]: Yeah, the marketing doesn't matter.
+Ali [as Apparatus]: Well, it matters to me when you're suggesting that we market — the spaceship food as disgusting when we know people who have lived their entire lives like this!
+Austin [as Kojack]: I know some people who work in those —
+Keith [as Plum]: Oh, aren't you sick of having the same vat tomatoes over and over, look at these delicious —
+Ali [as Apparatus]: No!
+Keith [as Plum]: Heirloom tomatoes for just 30 to 80 percent more!
+Ali [as Apparatus]: I don't think that manufacturing...
+Keith [as Plum]: Well, it's more expensive to make. You know, it's maybe, it's probably 15 percent more expensive to manufacture, and then you...
+Austin [as Kojack]: Wait! Wait! Wait! Isn't it cheaper to make, because inside the ship we have to pretend there's a sun. We got to build a fake sun. And here there's a free sun, it's outside, it's doing half the work for us, and the ground is free, it's here — I mean it's for — you know, it's here! we crashed into it! isn't it cheaper to make the outside food?
+Ali [as Apparatus]: Just feed people, you don't have to play mind games. You understand?
+Keith [as Plum]: No! It's not mind games it's just this is, you know, you gotta let people know the food's there so you say look, it's delicious, outdoor —
+Austin [as Kojack]: People will find food — [cross] that's what my mom always told me.
+Keith [as Plum]: [cross] Food, natural.
+Austin [as Kojack]: Listen. People will find the food. You don't have to hide it like it's an Easter rabbit. You know?
+Janine [as Antonina]: What's Easter?
+Dre [as Shunard]: What's a rabbit?
+[Austin laughs]
+Keith [as Plum]: What's it's?
+[Janine laughs]
+Dre [as Shunard]: Oh, that's easy. It's it's.
+Austin [as Kojack]: It's it's.
+[Keith laughs]
+Ali [as Apparatus]: [sighs] Go on. I mean, the farm is — I don't — I have no objections to the farm. I just wanted to make my opinion known.
+Austin [as Kojack]: I'm pro-farm. Especially if there's a little farm dog, and maybe a barn cat.
+Janine [as Antonina]: Yeah! Why not?
+Keith [as Plum]: I got nothing against farm dogs or barn cats. Careful if there's grapes.
+Ali [as Apparatus]: We shouldn't even be selling food!
+Keith [as Plum]: Because some dogs, uh, can't eat grapes, but they will, cuz they're little, little dumdums.
+Janine [as Antonina]: So are we on with this farm?
+Austin [as Kojack]: I think we're on with the farm.
+Ali [as Apparatus]: Mm-hm.
+Austin: [slight laugh] And then also build a road.
+Janine: Hell yeah.
+Austin: Also, wait, did you b — oh you did — [amused] you built a... Dre, did you build this road out to the other flower?
+Dre: Uh-huh!
+[Keith laughs]
+Austin: Good. I love this. This I love. Uh, it has been a half a year, Plum Tort, you're up!
+Keith [as Plum]: Uh, great! I would like to build, um, some housing for people to live.
+Austin [as Kojack]: Now this is what we're talking about!
+Keith [as Plum]: Yeah.
+Austin [as Kojack]: You get a house. You get a little living room, a den situation, bedrooms, kitchen. Shower.
+Keith [as Plum]: Mm-hm.
+Ali [as Apparatus]: What's the catch?
+Keith [as Plum]: Uh, I don't know what you mean. Uh. We just have some really great places to build some really nice houses, and we have some really great places to build some less nice houses, [over Austin's cackle] and we should figure out where the the nicest houses should go, first. Or second! I mean, whatever!
+Ali [as Apparatus]: What if we, what if we, I'm seeing that you have a suggestion for two different house designs here. What if we, perhaps, built as many medium-quality houses as we could?
+Keith [as Plum]: Well, there's plenty of people with medium-quality houses already inside the Reflecting Pool, so, if we're going to get people to move out of the Reflecting Pool, we should maybe put our best foot forward. Have a series of a really nice, lovely condos surrounding our brand new swimming pool!
+Ali [as Apparatus]: And what's your idea for the less nice houses?
+Keith [as Plum]: Um, the stink cul-de-sac right below it.
+Ali [as Apparatus]: [sighs] Boy howdy.
+Austin [as Kojack]: [quietly] Oh...
+Ali [as Apparatus]: Those are dangerous, you understand.
+Austin [as Kojack]: They eat people.
+Keith [as Plum]: I mean, we'll clear them out, and any — and we'll keep the houses away from the most dangerous areas, of course. I mean people's safety is my number one concern. Uh, you'll remember that my first action was to build insurance for people that, uh, did get injured, which was vetoed, so now we cannot have that. Uh, but we do need to have the houses whether or not we're able to provide people with insurance or not.
+Austin [as Kojack]: I think this is a complicated situation, I... Just make the good houses. Just make the good ones! Why would we make bad houses? Not only, some of them are going to be near the meat flowers.
+Keith [as Plum]: Some people can't afford to have good houses!
+Austin [as Kojack]: Yeah, eh!
+[1:30:00]
+Keith [as Plum]: We need to have houses for everyone, whether they can afford the good houses or not.
+Austin [as Kojack]: But we control how much the houses are.
+Keith [as Plum]: That's exactly right.
+Austin [as Kojack]: So why couldn't we make it, they afford it.
+Keith [as Plum]: Cuz they can't afford it!
+Ali [as Apparatus]: Why couldn't... Well. And why can't they?
+Keith [as Plum]: Well, there's lots of reasons why someone might not be able to afford a nicer house.
+Austin [as Kojack]: You gotta lay this out for me.
+Ali [as Apparatus]: Just tell me a few of them.
+Austin [as Kojack]: Yeah, I'm not a city planner.
+Ali [as Apparatus]: [cross] In your mind...
+Keith [as Plum]: [cross] You're not a city planner? You're on the city council!
+[Ali laughs]
+Austin [as Kojack]: Well, I'm on the city planning board! But I'm the head of maintenance!
+Keith [as Plum]: Okay.
+Ali [as Apparatus]: Are you saying that if somebody has a low paying job, and we've determined the wages on that one, they therefore deserve a stink house? In your t... [wheeze-laughs]
+Keith [as Plum]: We don't deserve — we don't dictate what businesses are paying their employees! We can't go just say, hey, look, uh, you know I know you've been running your, this, uh —
+Dre [as Shunard]: Swimming pool.
+Keith [as Plum]: Stall selling delicious food, uh, in the Reflecting Pool for, uh, 20, 30 years, but we're going to need you to spend three. Four times as much paying your employees? They're gonna go out of business!
+Austin [as Kojack]: Okay, okay, but — now wait a second, we all know that — and I apologize to Antonina here — but some of the people on the Reflecting Pool have the job they have cuz the Witch had a whim and decided you're in charge of windows, and you're in charge of glass maintenance more generally but not relating to windows, and that person, you know, that's... They didn't decide to go into that, but the person who brought them back to life —
+Keith [as Plum]: That's exactly what I'm saying, and why should we deny those people houses that they can afford?!
+Austin [as Kojack]: [quietly] okay.
+Dre [as Shunard]: Hey, um. Hi, I'm Shunley Pernard, and, uh, can I get, I need a stink house cuz I got all this money going to this park.
+[Austin Laugh quietly]
+Austin [as Kojack]: We're gonna put —
+Keith [as Plum]: Excellent.
+Austin [as Kojack]: We're gonna put Shunley in the, in the stink house?!
+Keith [as Plum]: Shunley just — I feel like this is a perfect example of people who recognize that they need to live somewhere, and that they should live within their means, in a stink house!
+Janine [as Antonina]: So. My, I.
+Dre [as Shunley]: This is my bed, I made it and I'll go to sleep in it, no matter the smell.
+Austin [as Kojack]: No! Chumley! Chumley! It's fine.
+Dre [as Shunley]: That's not my name.
+Austin [as Kojack]: Okay, well!
+Janine [as Antonina]: [laughs] I'm assuming that the lower quality houses will be faster to build and will be more abundant, in which case I think they should be built first.
+Keith [as Plum]: I am extremely amenable to that.
+Ali [as Apparatus]: We should put them in a nice — we we should put them in a place with a nice view that isn't stinky.
+Keith [as Plum]: Well, I was initially planning — this whole road, I think, can be — uh, this whole cul-de-sac here, I was thinking, could be the low income housing. Um, uh, it doesn't have the best view, but it does have very short access to the swimming pool and it's not too far from the Reflecting Pool, either. But we could also use this other cul-de-sac here which is close to the farms, it's close to, it's basically — it's not closest to anything but it isn't far from anything, so I think that also would be a good location.
+Austin [as Kojack]: [begins half-whispering] What if we... Now. This has to be a secret. What if we talked up the stink houses and sold those to the elitist scumbags?
+Ali [as Apparatus]: Mm.
+Austin [as Kojack]: And then everybody else —
+Dre [as Shunley]: But then where am I gonna live?
+Austin [as Kojack]: The nice houses!
+Dre [as Shunley]: But they cost more!
+Austin [as Kojack]: No! No no no! I'm saying we make the stink houses cost more. But we tell them it's prestigious.
+Dre [as Shunley]: Right, but then where am I gonna live?
+Austin [as Kojack]: The nice houses! Which are cheaper!
+Dre [as Shunley]: I already told you, I spent all that money on the park.
+Austin [as Kojack]: This isn't gonna work, this isn't gonna work. I thought I had something. [Normal volume] we can't say no to houses, is the problem.
+Keith [as Plum]: That's absolutely the case.
+Janine [as Antonina]: What if... So we're building the cheaper, worst-quality houses first. What if —
+Keith [as Plum]: Mm-hm. Well, I would want to build them to the best of our abilities, but they're going to be, uh, you know they're not going to be as big, uh, they're not going to be premium materials.
+Janine [as Antonina]: Uh-huh. What if, what if we let them let people pick where they want their house to be? And then we build all of these lower quality houses first, and let all those people pick where they want to go, and then eventually we'll get to the fancy houses, and to sort of balance out the fact that they're, that they're like fancier houses they get sort of last dibs on the locations.
+Keith [as Plum]: The issue with that is going to be that, um, the place... If you got to pick anywhere, you'd pick all the nicest places, and then why would anyone live in a big house next to a stink pile? The people with the money have more expensive houses that are in nicer places.
+Janine [as Antonina]: This is a beautiful place that the Witch has chosen for us, I think they're all, I think they're all good places here. There's no bad places.
+Keith [as Plum]: There are no bad places, but there are definitely better places. Near the park and near the pool are the better places, and near the stink plants are the worst places! It does the math for us on where the nice houses and bad houses should go.
+Janine [as Antonina]: The meat plants might change, we haven't been here long. What if the stink plants move season-to-season, you know? Are you gonna move your fancy house? Are you gonna suddenly want to switch places with, you know — I don't think we should get hung up on —
+Keith [as Plum]: No, but the pool and the park are never gonna move.
+Janine [as Antonina]: Hm. Maybe they'll get overrun by stink plants.
+Dre [as Shunley]: Can we put wheels on the house?
+Austin [as Kojack]: Movable houses.
+Janine [as Antonina]: That's a bus. You have one of those.
+Dre [as Shunley]: Says who?
+Austin [as Kojack]: [cross] Did you lose the bus?
+Janine [as Antonina]: [cross] ...Your name tag.
+Austin [as Kojack]: We need that bus!
+Keith [as Plum]: [laughs] This whole plan hinges on that bus!
+Austin [as Kojack]: Shunley, we need the bus.
+Dre [as Shunley]: I know!
+Keith [as Plum]: That's not their name.
+Austin [as Kojack]: [whispers] Ah, fuck.
+Janine [as Antonina]: [cross] Did you sell the bus to pay for the park?
+Dre [as Shunley]: [cross] Should put some wheels on the house, then.
+Austin [as Kojack]: [tired] Can we vote on the houses?
+Ali [as Apparatus]: What if we, what if we what if we dedicated the north — well — the north span of the Reflecting Pool and the road to the hospital as our housing area. People have this beautiful view of the mountains.
+Austin [as Kojack]: Uh-huh.
+Keith [as Plum]: No I'm not —
+Ali [as Apparatus]: People — go on.
+Keith [as Plum]: Oh, go ahead, go ahead.
+Ali [as Apparatus]: I was just gonna say, you know, people, there there there would be... The pros and cons even out. You either get these beautiful trees, you get these beautiful mountains.
+Janine [as Antonina]: There are basically no stink flowers on that mountain road.
+Ali [as Apparatus]: Ah, there are basically none!
+Keith [as Plum]: Well, there's as many there as there are in the other two places I suggested, with the added downside — and I'm not against this place, but it has the added downside of being further away from everything.
+Ali [as Apparatus]: [cross] You're right on the edge of the Reflecting Pool!
+Janine [as Antonina]: [cross] That's what the bus is for, it's on the bus route.
+Ali [as Apparatus]: And it's on the bus route! It's accessible to the hospital!
+Janine [as Antonina]: Everyone can take the bus.
+Keith [as Plum]: It is close to the Reflecting Pool, I guess it's the same distance from the park, but it's definitely further from the farm and the, um, and the pool.
+Austin [as Kojack]: Okay, then what about this. What about south of the swamp. North of that other cul-de — like right in here, this little elbow —
+Keith [as Plum]: This elbow?
+Austin [as Kojack]: Southwest of the, yeah, of the Reflecting Pool. That's pretty close to everything, it's like equidistant to everything. You go up and over to the park, you go over to the hospital, you go out to the farm.
+Keith [as Plum]: I do want to move on from this. The reason I had this spot and this spot was because it could hold physically more houses, but I'm genuinely fine with either the elbow or the north Reflecting Pool spot, so whatever, whatever gets the houses built, that's what I'm about. Is getting those houses built.
+Austin [as Kojack]: I could go with either. We just need houses, at the end of the day.
+Keith [as Plum]: All right. Elbow.
+Austin [as Kojack]: Everybody good for the elbow?
+Ali [as Apparatus]: Elbow it is.
+Austin [as Kojack]: All right, add the elbow, and —
+Keith [as Plum]: And look, it's the furthest from any of the stink plants, so we don't even have to call them stink houses anymore.
+Austin [as Kojack]: That's true. 
+Austin: So these are the right — which which houses are we building, are we building... What, what's the outcome that Plum has just — [lowered us down ??? 1:38:50], first.
+Keith [as Plum]: We build low-income houses, uh, along the edge of the swamp.
+Austin: Okay. Okay. Great. [laughs] I would say along the edge of the southern highway, more than along the edge of the swamp, but you're not wrong.
+Keith [as Plum]: Well, swamp backyards, wet, grassy backyards.
+Austin: Yeah. Yeah. Yeah. Yeah. Mm-hm. Okay.
+Keith: I'll draw those in.
+Austin: Yep. Um, I'm just double checking to make 100% sure that I'm right about those [??? 1:39:15]
+Keith [as Plum]: Um, uh, Shernard, what color would you like the houses to be?
+Austin: [cross] We did skip a round. We skipped a round, I just realized. I think.
+Dre [as Shunley]: [cross] Hm. Yellow.
+Ali: [cross] Did we?
+Austin: Or we skipped the end, we skipped the end of round thing is what we've skipped.
+Everyone: Ohhh.
+Keith: Oh, were we —
+Austin: I didn't think, I'd forgotten that it's end of — each year lasts two rounds, once — a round ends when every city council member has taken one turn.
+Janine: Oh.
+Keith: I'm fine without, to not draw this in...
+Austin: No no no. I think you can go ahead.
+Keith: Okay.
+Austin: Um, we'll just do it now and then we'll fix it in the next round.
+Keith [as Plum]: Um, color? Color, Shernard?
+Dre [as Shunley]: Uh, yellow.
+Keith [as Plum]: Yellow.
+Austin: So. End of round. Complications. And make sure you add your road, also. Um. Uh, remember how planning a city can be severely punishing? Building things or failing to build the right things always results in complications. The council's so busy that you only notice them at the end of the round. When a round ends all council members count to three. On three, everyone silently points to the council member they believe has caused the most discord in the city during this round. That member, or however many members are chosen in the event of a tie, must now each create a complication. Describe to your co-workers a complication that — oh, so we should do this. We should do, let's type it in the chat, we don't send it until I do a countdown. Tell me when you're ready to go.
+Keith: Who has created the most discord, is who we're going for.
+Austin: The most discord. Yeah, uh-huh.
+Keith: Okay.
+Austin: Are we all typed —
+Dre: Are we typing —
+Keith: Uh, I'm typing, I'm typing.
+Austin: We're typing into Roll20 chat, yeah.
+[Pause]
+Keith: Okay.
+Ali: Ready.
+Austin: Okay. Three, two, one, enter.
+[Ali gasps and laughs]
+Austin: Wow, we got a tie! We got two Apparatuses and we got two Plums. So, each of you add a complication. Describe to your co-workers a complication that's occurred in the city as a result of what has or has not been built on the map. This is your chance to air your grievances, speak for your city's inhabitants, or tell an unfortunate truth. Write your complication down in one of your handy spare paper sheets, we have this big complication sheet on the right. Uh, I told you that it would be useful. And place it in the middle of the table next to the map. Complications remain on the table until they are solved. 
+An ideal complication should result from a problem in the city, but shouldn't be resolved, shouldn't be solved, rather, by fixing that problem. Here's an example of a poor complication: we have no sources of food. The answer is obvious here. This could obviously be solved by building food sources. You can do better than that. A good complication might look more like this: because of the food shortage, a riot has started in the downtown core. In this case, solving the food shortage won't necessarily solve the riot. 
+Complication disputes. Complications might be hard to solve, but they're the spices that make your tenure on city council so flavorful. More importantly though, the complications give you excuses to dispute buildings, even if you've used your dispute already. Whether or not you used your dispute, you can still dispute any building on the basis that it will worsen an existing complication. This is called a complication dispute. If your dispute is seconded, the building is still built, but the complication gets worse. Since you've noticed the problem — you have sharp eyes! — you can describe how it gets worse or — and — rewrite the complication for the council to see. 
+During your turn, instead of making a building, you can ask the council if a complication has been solved. Bring evidence, wit, brevity, bribes, and tacit threats, but most importantly evidence and brevity, and make the most convincing argument you can. At that point, we would vote on whether the complication has been solved. If we all agree it's solved, it's removed. If we all agree it is not solved, it remains and you lose your turn, and if the council is divided, the complication changes and we rewrite the complication. So, for now, Plum and Apparatus, what are the complications, uh, arising from what we've built and what we haven't built?
+Keith: I totally missed that if there's a tie you get two. Which is very funny.
+Austin: Uh-huh! Yep!
+Ali: [whispers] How was I disruptive? [wheeze-laughs]
+Austin: That's how it breaks sometimes! I didn't vote for you!
+Keith: You were disruptive to me!
+Ali: Sure. Sure, sure, sure. [snorts and laughs] Great question.
+Dre: Uh-oh.
+Ali: Um. I hadn't —
+Keith: Ah, yeah — oh, Ali, you can go, you can go.
+Ali: You go ahead, please.
+Keith: Okay. Um, so, uh, in my, uh, first turn I tried to build, um, an insurance building. Uh, which then — which was, uh, vetoed and then since we couldn't have anything else like that, uh we've got a, uh, a bunch of stalled construction, uh, because people are worried about hiring, you know, non, like, you know, trades workers to do trades jobs, because when that happens, people are getting injured at a higher rate, and there's no structure in place for those people to, uh, to be reimbursed for their time at the hospital or lost jobs, and that's leading to financial repercussions —
+[1:45:00]
+Keith: For the businesses, uh, because they're having to field lawsuits over, uh, you know unsafe work practices and [pained swallow] stuff like that to people who probably would have just gotten an insurance claim and been fine otherwise.
+Austin: Keith, is this hurting you to do physically?
+Keith: Yeah.
+Austin: Okay. Just checking.
+Dre: Mm-hm.
+Ali: Is this true of the fiction, though? Like I'm sorry [laughs] I'm sorry to beat on this as a character but now as like a person, but like, is this how we think the Reflecting Pool works as a society...
+Keith: We don't know anything about — well, we don't know a ton about it.
+Ali: Okay.
+Austin: We know — we know a little bit, right, which is, I mean, a thing we do know is Clementine Kesh is not like a ideological purist.
+Ali: Sure, sure sure sure, yeah.
+Austin: Who has built up who has built a, you know, an egalitarian society. We know, in fact, that she has basically been hands off in many ways? She's primarily interested in building power and not necessarily in building, you know, um, power that sustains itself. I think that — I have thought of Clementine as the Witch in Glass as kind of a big tent person. Um. People are bodies, and she bring — 
+Keith: Well, there is another thing that's happening, though.
+Austin: Uh-huh.
+Keith: Is that the Witch of Glass is not here!
+Austin: Correct. Yes.
+Ali: Sure. Okay okay yeah.
+Keith: So like whatever guiding hand there was, which is already not a very good guiding hand, this is now just a bunch of people from different places on a ship.
+Austin: Right, who have been — many of whom have wound up here because they survived, you know, a battle between the two big sides of the conflict. These are — the people who live here are not Millennium Break people, with some exceptions, right, like Apparatus Aperitif is tied to Millennium Break. There probably are some Millennium Break people here. There probably are some people here from the —
+Ali: Yeah, but not enough to create enough of a system that like lawyers don't exist anymore, cuz this is Principality — I think I'm like a little too pilled because I just listened to Orbital for five weeks straight —
+Austin: Uh-huh.
+Ali: And it was like in the like Twilight Mirage zone, but like. Broun got Jokerfied because they got laid off, right? Like they needed insurance. So, yeah, okay.
+Austin: Yes. Yes. Yes.
+Keith: I should — I I could, I could also, I could like spin this same, uh, what are they called, complications?
+Austin: Yeah yeah yeah.
+Keith: I could spin the same complication like out of character as like businesses are hiring people without training or safety protocols put in place. Those people are getting injured, and then suing the businesses, and, uh, Plum Tort is like worried about businesses getting sued?
+Austin: This is a capital strike. Right? They're — the — you could do it that way —
+Keith: Yes. That is exactly what it is, yes.
+Austin: Right, where it's like the owners are being like, well, if we have to pay when workers get hurt then we're not going to hire any more workers! And then what! And it's like no, shut the fuck up! Like.
+Ali: Right. Yeah yeah.
+Austin: And it's like, no, shut the fuck up! Like.
+Keith: Right.
+Austin: And Clem is not here to be like, okay, well I'm executing you with magic, [laughs] or whatever it is that she normally does. Um, uh, the other half of this that I think is worth calling out again is like, the Figure in Bismuth is an example of the type of person who the Witch in Glass was like recruiting and raising to important status. Correct me if I'm wrong, Dre, but like the Figure was like a conservative history teacher.
+Dre: Mm-hm.
+Austin: So it's not — again, it's like — it's just people.
+Ali: Sure. [laughs]
+Austin: Some of these people are lawyers and who are now, you know, with their big crystal heads, walking around being like, I bet I could find someone to sue. You know?
+Keith: Yeah, Plum Tort isn't a lawyer but has a law degree.
+Austin: Oh, great! The worst of the worst. Um, all right, that's a complication. What's our second complication?
+Ali: Um, I was... I don't know if this is good by the definition of the game, but I was gonna say that the, um, the meat plants are expanding.
+Austin: Ah.
+Ali: They're getting wider [wheeze-laughs]
+Austin: But why is that happening?
+Ali: Um, I guess because we...
+Janine: Hang on, are the plants themselves expanding or is their like hold ex — like are the plants themselves getting bigger or are they spreading out and there being more of them?
+[Keith laughs]
+Ali: [laughing] I think the plants themselves are getting bigger.
+Janine: Oh okay, they're evolving.
+Ali: Um, because of the...
+Austin: Oh, interesting.
+Ali: The, um, uh... Byproduct of all of the construction.
+Austin: So like they're feeding on...
+Ali: Yeah. [laughs]
+Austin: The fuel in the air, they're feeding on...
+Ali: Yeah.
+Austin: Et cetera.
+Keith: Oh, so they're good for pollution!
+Austin: [doubtful] Mm! I don't know that that's what I would have taken from that, but.
+Keith: We could maybe build, uh, like some sort of stink plant farm to filter out all of the pollution that we generate, and so now we have to, we can worry less about how much...
+Janine: I did sign a paper that said I specifically wouldn't build a stink plant farm, so.
+Austin: You did. I did insist on that, didn't I?
+Dre: Mm.
+Austin: All right, well, we still have one more thing to do before the end of this turn, which is we all have to draw a shift card.
+Ali: Oh!
+Austin: Your tenure on the city council is bound to change you, and that's what shift cards are for. These cards change or shift — get it? — the way you perceive your role and your goals as a council member. Draw one shift card and keep it a secret. There's one —
+Keith: Uh, question.
+Austin: Yes.
+Keith: If this drastically changes my outlook, uh, what does that say about my turn that we took illegitimately before this? Do we roll with it?
+Austin: I, we're just calling this the, we're just going to call, yeah, we'll just roll with it. That turn was before the end of this turn, or the end of this round.
+Keith: Okay. Okay.
+Austin: Also, we're just gonna say. Like, we're not... Um. Also, we're only gonna do one more round, and maybe we can include — like we're just gonna go one more round around instead of going three more. We just don't have the time and we're not going to have the time again until next year, and I, we — this is going to fall — also, the Witch in Glass can be gone for a year. It's fine for her to disappear for a year. Two years is a long fucking time. So. Shift card. Here it is, shuffle. Shuffle. Uh, I'm gonna double shuffle, I feel like double shuffling today. Boom, boom. Um, there's one shift card you cannot keep secret. This card tells you to take a new role. If you draw this shift card, say these words to the council: I'm not that person anymore. Then keep your old role face down, shuffle all the unclaimed role cards regardless of type, and draw a new role card in the same way you drew the original role. So I'm gonna go ahead and deal us all one card, to me, Dre, Keith, Janine, and Ali. So we should all...
+Keith: Um. I do not have this card. Oh, there it is.
+Dre: There it is.
+Austin: Boom. I was dealing it as I said. All right. Again, don't look at the screen. Oof. Okay.
+Keith: Wow.
+Austin: Has anyone drawn the I'm not that person anymore and need a new role card? [pause] No, it sounds like. Okay! Well then.
+Keith: Ah. I can't believe what I did get, though.
+Austin: It's exciting. Okay. [rubs hands together] So, again, our two comp — oh wait, Ali, can you write your complication down over on the right?
+Ali: I did! The meat plants are expanding because of the construction.
+Austin: Because of the construction. Great. Great great great great great. Um. [sighs] Boy, do I not have an answer for either of these. Boy, do I not have an answer!
+Keith: Does yours have a question, is that what you're saying?
+Austin: No no no no, the complications. I'm thinking about my turn, it's my turn.
+Keith: Oh, an answer like to help the complication, got it.
+Austin: An answer — yeah, I certainly don't have anything where I could be like, oh, we could just, we can just solve it right now. I'm thinking about things we could build and I don't know, I don't know that I have a good easy way to build anything about these. Um. Dre, what do we know about those mountains? It's just that they're multi-colored, they have a bunch of cool colors, they reflect color weird? Is that...
+Dre: Mm-hm! Yeah. Mm-hm! Yup!
+Austin: I have to look at my my role and my belief again really quick. Okay. [amused] Okay! [clears throat]
+[Keith clears throat in response]
+Austin: [clears throat again] I show up to our — it's January 1st or the equivalent, or the second, right, it's the first day of of work. Um. And I come in head to toe.. I guess let's go over to Apparatus really quick. Do you remember by any chance what the Mysteries Metronomica, like, wears?
+Ali: No...
+Austin: I mean like you're covered in mirrors but that's like a, that's like an Apparatus thing, right? Not a Mysteries Metronomica thing.
+Ali: Yeah. Yeah.
+Austin: Uh, I'm just gonna check my notes real quick. The important part is. I come in very clearly a worshiper of Perennial.
+Ali: Oh! Oh.
+Austin: I am on board the Perennial train, and Perennial has spoken to me, in my sleep.
+[as Kojack]: Hey everybody. Uh. Thanks for coming out. 
+Austin: I think I probably have... It's like a... It's like what is the Carhartt version of the Witch in Glass, like, um, Russian sage mask? Is it just like a sprig of Russian sage like coming out of my, like, shirt pocket? Is it like, like what is the equivalent — is it just a work shirt in a nice, in that nice lilacy color? Is it, I don't know. Whatever it is —
+Ali: It could be both.
+Austin: Okay. Good.
+Ali: Yeah or like the like... Is like the crown of um flowers a little too much, is that too Jesus-y?
+Austin: That's — I don't — maybe, that's the thing, right, I mean, like. Clem already does rock that in some ways, the mask feels like a crown in some ways, right, I've seen some fan art that goes that direction, right. Um.
+Ali: Maybe like around your neck?
+Austin: Oh, that's fun. Yeah yeah yeah. Or like twisted into like a little, like a little flower, like, pendant, you know?
+Ali: Mm-hm.
+Austin: Uh, all right, so, yeah. I explain to everybody that I have been sent a message from Perennial. 
+[as Kojack]: And she has been very clear. We gotta go on the mountain.
+Ali [as Apparatus]: We have to go in the mountain?
+Austin [as Kojack]: Yeah, we gotta go dig into the mountain!
+Ali [as Apparatus]: We're digging into it?
+Austin [as Kojack]: We're gonna find what we need in the mountain. It's called the Mountain Project. We're gonna go in the mountain, we're gonna get what we need to fix our problems, we're going to come out.
+Ali [as Apparatus]: [cross] How big is this project?
+Keith [as Plum]: [cross] What do you mean, get what we need?
+Austin [as Kojack]: Uh, well, it's a big project because the mountain seems — how big is the mountain, uh, Shunley you've been up in the mountains, right?
+Dre [as Shunley]: Uh, it's, uh, it's big enough I could fit my bus in it, if we, if we built a tunnel.
+Austin [as Kojack]: We're gonna b— I think we need to build —
+Keith [as Plum]: Yeah, I could tell! [laughs]
+Austin: A tunnel bigger — [laughing] you could tell that the mountain is bigger than a bus!
+Keith: [laughing] Is bigger than a bus!
+Austin [as Kojack]: Um. We, we gotta go in there. We're in the part of the cycle where things are bad. We're gonna go in there, we're gonna come out, and it's going to be the part of the cycle where things are good.
+Keith [as Plum]: I'm sorry, we don't know what is going on with that mountain. It's not like anything I've ever seen. It could be extremely dangerous in there. There's, without some sort of concrete proof that there's something worthwhile —
+Austin [as Kojack]: You don't believe? When, when the Witch comes back you're gonna tell the Witch —
+Keith [as Plum]: I don't believe when you —
+Austin [as Kojack]: That you don't believe? That Perennial has given word?
+Keith [as Plum]: You do not have the track record on speaking for Perennial that would make me even believe that this is a Perennial thing! I mean, there's just no...
+Austin [as Kojack]: But isn't that exactly the most Perennial thing! Apparatus, come on. That she, that she would choose a guy like me to deliver the message, as a little joke, as a little prank.
+Ali [as Apparatus]: I have no... I su... Well, I don't think it's a prank! I think it's, you know, bringing you to what you needed to —
+Austin [as Kojack]: But this is what I mean.
+Ali [as Apparatus]: Communicate.
+Austin [as Kojack]: Right, they're kind of, it's like a revelation, it's like a revelatory prankster, is my understanding of the Advers — of the goddess, the, the, of Perennial! I'm still learning the ropes. I have, I've read some of the literature.
+Ali [as Apparatus]: Oh, please. Please, please.
+Austin [as Kojack]: I'm doing my best. But I know what I saw —
+Ali [as Apparatus]: It'll come from inside you.
+Austin [as Kojack]: Exactly! And inside of me I have a heart of multi-faceted colored rock and stone.
+Ali [as Apparatus]: You bring up a good point there, I don't object to this plan at all but I do just want to say the mountain is one of our best vistas. Do you have an accounting for this to keep it from being something people can enjoy while it's being constructed on?
+Austin [as Kojack]: She didn't give me any vision of — I was in, I — in my vision, I looked up all around — I couldn't see the horizon. I could only see the colors. It was like being in a big bowl of color and light and stone. We were in the middle of the mountains and we had what we needed.
+Keith [as Plum]: What does that, can you be more specific about what we had and what it was that we needed?
+Austin [as Kojack]: [irritated] No. [pause] All I — maybe we gotta build a —
+Janine [as Antonina]: Yeah, what — which problem is gonna be helped the most by this?
+Austin [as Kojack]: The big one. She wasn't specific. We might need to build a church or a temple. Or an altar? It could be an altar. I'm thinking, I'm thinking. It's an altar.
+Keith [as Plum]: Okay. So you still sound unsure about what even we need to build.
+Austin [as Kojack]: An altar.
+Keith [as Plum]: And there's no —
+Austin [as Kojack]: We could put a church around it.
+Ali [as Apparatus]: What if we put it at the base of the mountain, where it would be safe and...
+Austin [as Kojack]: No, it has to be in, it has to be, I — we gotta go through the mountains, and in the middle of the mountains there's a bowl. Not like a bowl you drink from, like a bowl in the ground. Like a, you're in the pit, you're in the valley, you're in the heart of the mountains.
+Keith: Uh, I have got, I'm going to, um, uh, complication dispute this. 
+[as Plum]: This is going to make the, uh, the strike on hiring workers, untrained workers to do dangerous work, worse.
+Austin [as Kojack]: Why?
+Keith [as Plum]: Uh, because this is dangerous work and we haven't solved that problem.
+[Austin laughs]
+Dre [as Shunley]: Um. Counterpoint. I can put a shovel on the front of my bus.
+[Austin claps]
+Keith [as Plum]: No. That's not gonna work.
+Austin [as Kojack]: Why?
+Keith [as Plum]: Uh, because you can't dig through a mountain with one shovel on a bus.
+Dre [as Shunley]: [disgruntled] Hrm.
+Austin: Was anyone seconding this dispute?
+Dre [as Shunley]: Should have put, should have put wheels on those houses.
+[2:00:00]
+Ali [as Apparatus]: Do we not have drills? Do we not have the mechs to do...
+Keith [as Plum]: We don't have the workers!
+Dre [as Shunley]: That's a good point, I'll put a drill on the front of my bus.
+Austin [as Kojack]: [excited whisper] This is gonna fix the problem!
+Janine [as Antonina]: Which problem?
+Austin [as Kojack]: Yes!
+Janine [as Antonina]: Be specific.
+Austin [as Kojack]: We don't have the Witch! And so that's part of the thing we're gonna fix! The Witch problem!
+Keith [as Plum]: The drill is going to bring back the Witch?
+Austin [as Kojack]: That's what it sounds like!
+Ali [as Apparatus]: Well, we should do our best without her.
+Austin [as Kojack]: Okay, well, and our best is, let me go build the altar.
+Keith [as Plum]: Do I have, do I have a second on the veto?
+Ali [as Apparatus]: I'm, uh.
+Keith [as Plum]: Seconding is free.
+Austin [as Kojack]: Seconding is free!
+Ali [as Apparatus]: I'm a devout man, I can't help you with this, I'm sorry!
+[Pause]
+[Austin laughs]
+Keith [as Plum]: This is outrageous, it probably — it's going to be expensive, there's no concrete payoff, we're not going to have the workers —
+Austin [as Kojack]: You gotta believe.
+Keith [as Plum]: They're gonna have to work long hours, it's going to be extremely dangerous.
+Austin: [amused] Dre, don't steal cards!
+Dre: I didn't mean to!
+Austin: Just hit cancel or whatever. Tam in the chat says "the arc of 'water park' to 'let's build an altar inside of a magical mountain to the infinite divine god at the center of the galaxy' is delightful". It sounds like no one wants to second —
+Janine [as Antonina]: Do you think.
+Austin: Okay, go ahead.
+Janine [as Antonina]: Do you think that this altar in the mountain has a meaningful chance of helping us deal with the construction business owners?
+Austin [as Kojack]: I do.
+Janine [as Antonina]: Then I support you.
+Austin [as Kojack]: Thank you.
+Janine [as Antonina]: I believe you, I believe that you believe this, and I think it's worth a shot.
+Austin [as Kojack]: You gotta have faith! Bay-bee!
+Ali [as Apparatus]: May Perennial go with you. 
+Austin [as Kojack]: All right.
+Dre [as Shunley]: I'll go with you.
+Austin [as Kojack]: Thank you. 
+Austin: And I'm also going to build a road, by the way, separately to all of this, uh, somewhere else. Uh, you know what, I'll build a road to the like side and around, you know what I mean? What — is this — what is this, can someone tell me what has happened at the end of this road?
+Keith: The swirl there? I don't know.
+Austin: The swirl there.
+Janine: [laughs] I made a little like, you know when you pull off, there's like, when you go to a scenic vista place and there's like a little pull-off park and I made one of those as one of my roads.
+Keith: Oh, okay.
+Dre: A rest stop!
+Austin: Yeah yeah yeah, I love that.
+Keith: It's for hikers, it's parking for hikers.
+Janine: Not a rest stop, just like a, sure, parking for hikers, there's like a porta potty there, you know.
+Austin: Right. Well, I'm gonna add another road here that makes sure that we can keep the vista in the front safe and I'll come through this little side area so I can build my little altar.
+Keith: Vista in the front, altar in the back.
+Austin: That's right. That is my turn, I believe. Uh, so now we're back around to Apparatus.
+Ali [as Apparatus]: Yeah. And um. Um. I think I think I think... I think we've been neglecting our culture here in a big way, and I think that um... We should build a satellite and I think that it'll help us...
+Austin [as Kojack]: In space?
+Ali [as Apparatus]: Wait.
+Austin [as Kojack]: Like a satellite dish.
+Ali [as Apparatus]: Like a dish!
+Keith: No, you build a satellite on the ground and then you shoot it into space.
+Austin [as Kojack]: I see.
+Ali [as Apparatus]: Right.
+Austin [as Kojack]: Okay.
+Ali [as Apparatus]: Well we should have, we should have something — we should have a communication device here so that people can have access to news outside of Palisade, that we might communicate with other factions and, for instance, let skilled workers know that they can come here, or, for instance, access message boards and different art styles and, for instance, speak to their families?
+Austin: As people are noting, yeah, this is the Strand Semaphore, that's totally the thing, that's our like fictional, we have — yeah, we totally have what one of these is. This is that thing that Broun and...
+Ali: Right. We have the technology for it, does the Reflecting Pool have that?
+Austin: I don't, I, it easily could have been destroyed in the crash. I'm saying we have a, we have a fictional, we know what this is, like.
+Ali: Right, yeah.
+Austin: This is what you could be saying. Yeah, totally.
+Ali: I — th — well... Yes. [laughs]
+Austin [as Kojack]: We should do this. This seems, this seems... Absolutely!
+Janine [as Antonina]: Yeah.
+Keith [as Plum]: Yeah, this seems like something to do.
+Austin [as Kojack]: Where would we build it though?
+Keith [as Plum]: Finally a sensible idea!
+Austin: Si'dra Balos, yes, thank you, Ko.
+Ali [as Apparatus]: Um. I, so, there's some options here in terms of where we build it. Um, we could build it, um... I don't know. [laughs] We could go a little north, northwest of the park over here. Um, we could build it between the mountain and the forest area. I was thinking we can build it by the hospital and then if the hospital had any special needs communication-wide, wise... We can, you know, provide that.
+Keith [as Plum]: Um, I think that since it's a specialized piece of technological equipment and people don't need to access it, we should put it somewhere far away from where people are, because it doesn't need to take up space where something more useful to the community could go.
+Ali [as Apparatus]: Oh, true. Wonderful. Yeah. I agree.
+Austin [as Kojack]: Are you okay, Plum?
+Keith [as Plum]: Uh. Yeah, I'm okay!
+Austin [as Kojack]: I just feel like you got a little different.
+Keith [as Plum]: I mean.
+Austin [as Kojack]: [cross] Anyway, back to making my mountain altar!
+Keith [as Plum]: [cross] One of us here got way more different than I got.
+[Austin, Keith and Ali laugh]
+Keith [as Plum]: Look, you had a, you had a long vacation, I had a long vacation. I'll say I didn't have any prophetic dreams.
+Austin [as Kojack]: I'm sorry to hear it. Maybe next year, bud.
+Ali [as Apparatus]: We're in agreement here?
+Austin [as Kojack]: I'm in agreement.
+Keith [as Plum]: Yeah.
+Ali: Wonderful. It was a pleasure doing business with you all.
+Austin: Shunley, you're up. Also remember your road also.
+Dre [as Shunley]: Hm. I'm Shunley Pernard and I would like to help with this mountain project.
+Keith [as Plum]: Oh, that's not your name.
+Dre [as Shunley]: I think I would know my name.
+[Keith laughs in the distance]
+Austin [as Kojack]: This moves me to hear, Shunley. Shunley. Driver Pernard. What, how would you like to help out?
+Dre [as Shunley]: Hmm.
+Austin: I guess as a reminder a thing we have not done yet is modify a building.
+Keith: Right.
+Austin: [cross] The function has to —
+Dre: [cross] Oh, yeah.
+Keith: [cross] We couldn't until this second round.
+Austin: Correct. The function has to return the same — remain the same. So you could turn a castle into a tech billionaire's mansion or a flea market into a high-end boutique. So you could, for instance, turn this altar into a temple or something, but.
+Dre [as Shunley]: I am moved by your vision, and I would like to change the pool into a temple.
+Austin [as Kojack]: The swimming pool?
+Dre [as Shunley]: Yes.
+Keith [as Plum]: I think that's too far of a modification.
+Austin [as Kojack]: Now wait a second. Let's hear them out. Say more.
+Dre [as Shunley]: How could I... I need guidance, as a lapsed believer. How could someone eat a hot dog in a wave pool while also showing their belief in the divine?
+Austin [as Kojack]: That's a great question.
+Dre [as Shunley]: Listen, I know that I, Shunley Pernard, have spent a lot of time acting like I have all the answers, but I come to y'all hat in hand. I'll even let you pick the color.
+Austin [as Kojack]: Wow!
+Keith [as Plum]: Wow.
+Austin [as Kojack]: Wow!
+Keith: Um. I mean I have an out of character suggestion that I just want to get out, because since it doesn't technically allow you to make that big of a change, I mean we could force it in there, but one easy way to do it would be, oh, it's the part, it's the, uh, it's it's the the swimming pool. You could change the name to the Perennial Wave.
+[Pause]
+Austin: [quiet laugh] Boo! Um. I mean you could make it a swimming pool/temple, someone's made — Zelda had water temples, why can't we?
+Dre: Yeah!
+Austin: Right??
+Dre: I mean I guess I do get what you're saying, Keith, though, is that the function has to remain the same and I guess this is, this is a recreational facility.
+Austin: Right. But I think you could, we could, we could — I feel like if I dug deep enough we would find ancient Roman like pools or baths, like a bath is sort of a recreational — you know what I mean?
+Keith: I'm just sort of thinking like you've got a pool, and to change it to a water temple just because it still has water is still changing it. You know?
+Austin: Is changing it. You're not wrong. You're not wrong.
+Dre [as Shunley]: Early on in this process, there was a great idea that was brought up that I was not open to, that I would like to revisit. I would like to add a lazy river that goes from the pool to the mountain.
+Keith [as Plum]: Oh, I thought we had a lazy river!
+Dre [as Shunley]: No, we just had a wave pool.
+Austin [as Kojack]: Just the wave pool.
+Keith [as Plum]: Uh I, you know, I'm gonna have to use my, I'm using my uh, my uh dispute veto on this —
+Dre [as Shunley]: Hold on hold on hold on. Hold on, hold on, we don't gotta go that far. What would you, what do you need?
+Keith [as Plum]: I I I I need someone to be proposing projects that help our two uh… complications.
+Janine [as Antonina]: I agree with this.
+Keith [as Plum]: Instead of I think maybe actively feeding into one of them. Or both of them.
+Austin: So you don't want to hear about the Aquae Sulis, the small town in the Roman province of Britannia that is now Bath and was a religious complex that was both swimming pool and also temple? You don't want to hear about that?
+Keith: Um, what do you mean by “is now Bath”? You mean the city?
+Austin: The city of Bath. Uh-huh. Yeah, uh-huh.
+Janine: Yeah. Yeah.
+Austin: That's what they were, the cities were, the city was... A combination —
+Keith: A bath.
+Austin: It was a bath and a swimming pool and a temple dedicated to god goddess uh Solas. Sulis. Sulis, Sulis, not Solas. Solas is a different, that's a different guy.
+Dre [as Shunley]: Okay okay okay. All right. What if we build a, uh, a a Job Training Simulator Emporium.
+[Austin snorts]
+Janine [as Antonina]: What?
+Austin [as Kojack]: Like a...
+Keith [as Plum]: Like sales job training simulators?
+Janine [as Antonina]: What is a simulator emporium, yeah.
+Keith [as Plum]: It sells simulators.
+Austin [as Kojack]: They mean like an arcade.
+Dre [as Shunley]: Well, no, hold on. Hold on. Job training.
+Austin [as Kojack]: Got it.
+Dre [as Shunley]: So you go to get trained on a job via simulations, and there's a lot of them. And a fancy word for something that has a lot of something is an emporium. I am open to name changes.
+Austin [as Kojack]: To be clear, this is a new building.
+Dre [as Shunley]: Yes, this is a new building. You know, I I remember the joy I felt learning how to drive a bus and I think other people deserve that opportunity.
+Keith [as Plum]: Uh okay, I think we should change it from, uh, Job Training Simulator Emporium to Job Training Simulator Center, uh, since um people aren't being hired without the necessary job training, they shouldn't have to pay... They shouldn't have to pay to be trained to get maybe hired at a job.
+Dre [as Shunley]: Excellent point.
+Keith [as Plum]: They should be able, they should be able to train for free.
+Dre [as Shunley]: Mr Tort, this is why you are my guiding compass.
+Keith [as Plum]: Thank you.
+Austin [as Kojack]: I feel like we'd have a lot different problems if we'd had this Mr Tort last year. [laughs]
+Keith [as Plum]: I read a lot of books over the break.
+Austin [as Kojack]: Is — is the thing you're talking about a school? It sounds like you're describing a school.
+Keith [as Plum]: A trade — this is like a trade school.
+Dre [as Shunley]: That is a good —
+Janine [as Antonina]: Pool school. School pool?
+Dre [as Shunley]: That is another good word that we could name it. Job Training School Center.
+Austin [as Kojack]: Job training school — yeah, the JTSC.
+Janine [as Antonina]: School Emporium. 
+Keith [as Plum]: I'm for it. It's not really — I was really excited about the pool temple or whatever but, you know?
+Janine [as Antonina]: No. I like this.
+Keith [as Plum]: Yeah, stamp.
+Dre [as Shunley]: We can revisit.
+Austin [as Kojack]: Is it like down here?
+Dre [as Shunley]: Sure!
+Austin [as Kojack]: In the little loopty? Or is it across the street from from the houses?
+Dre [as Shunley]: Mm. Is what, what about the construction is causing the meat plants to expand again?
+Austin [as Kojack]: [laughs] We don't know.
+Keith [as Plum]: We don't know.
+Dre [as Shunley]: Oh, okay. All right, gotcha.
+Janine [as Antonina]: The construction.
+Keith [as Plum]: And we don't know how to know how to know.
+Dre [as Shunley]: Yeah yeah. Oh well that's probably fine. Yeah, let's put it right here. Right here.
+Austin: Okay. You go ahead, draw that in. And then make sure you add your road. And then Janine it's your turn, Antonina.
+[2:15:00]
+Janine [as Antonina]: I want to turn the co-op farm into a prison farm.
+[Austin cackles]
+[Keith laughs]
+Ali [as Apparatus]: Excuse me?
+Austin [as Kojack]: VETO!
+Ali [as Apparatus]: Excuse me?
+Austin [as Kojack]: Hard veto — hard veto —
+Janine [as Antonina]: Hang on. It is a... Prison farm for the business owners. Who are refusing to hire people.
+Austin [as Kojack]: Oh.
+[Keith stops laughing]
+Ali [as Apparatus]: Oh!
+Janine [as Antonina]: It is, if you if you own a business but you refuse to operate that business, you have to go work at the farm.
+Keith [as Plum]: Okay. Uh how do we — how — is the law going to be written in such a way that prevents this from being used for other kinds of crime?
+Austin [as Kojack]: Great question.
+Janine [as Antonina]: Yes. I'm I'm primarily, I'm primarily interested in the business owners.
+Keith [as Plum]: Well what are you secondarily interested in?
+Dre [as Shunley]: Hi, I'm Shunley Pernard and I have a very important question.
+Janine [as Antonina]: Mm-hm?
+Dre [as Shunley]: Um. Does this mean I need to drive my bus on Thursdays too?
+Janine [as Antonina]: No. This is — unless, unless the reason you don't drive your bus on Thursdays is because you are denying someone else something or...
+Dre [as Shunley]: Oh no, I have to run the hot dog stand.
+Janine [as Antonina]: It's, yeah it's, no, that's fine. This is, this is specifically about if someone owns a business and they are, they are halting action.
+Austin [as Kojack]: Right.
+Janine [as Antonina]: They are refusing to do business.
+Keith [as Plum]: Then they have to go do business.
+Janine [as Antonina]: And hire people, then their choice is to, is to resume their business or work on the farm.
+Ali [as Apparatus]: Pernard, when do you take off?
+Austin [as Kojack]: [whispers] Great question.
+Dre [as Shunley]: Excuse me?
+Ali [as Apparatus]: Like, when do you rest?
+Dre [as Shunley]: Ah. Night time.
+Austin [as Kojack]: We gotta —
+Ali [as Apparatus]: So you take a day off?
+Dre [as Shunley]: Eh.
+Keith [as Plum]: No, they work, they work Friday through Wednesday at the park on the bus, and then work Thursdays at the pool. And then also here.
+Austin [as Kojack]: Every day. I see them here every day.
+Keith [as Plum]: Yeah and then they're also digging at the, at the mountain.
+Austin [as Kojack]: Yeah, thanks so much, by the way. It's really helping out. So adding up the shovel was really the deal, the, really the uh the decision maker for me.
+[Pause]
+Ali [as Apparatus]: All right. Pernard, you let us know.
+Austin [as Kojack]: You should take some time.
+Ali [as Apparatus]: If you need some time.
+Austin [as Kojack]: We could just hang it out in the mountains.
+Dre [as Shunley]: I'm...
+Ali [as Apparatus]: You should have Thursdays to eat a hot dog instead of selling them.
+Keith [as Plum]: You shouldn't overwork yourself in a way that would...
+Dre [as Shunley]: [crying] I'm really touched y'all, thank, thank you.
+Austin [as Kojack]: Yeah!
+Ali [as Apparatus]: We're here for you.
+Dre [as Shunley]: [crying] I was gonna share these later but I actually brought hot dogs for y'all.
+[Ali laughs]
+Austin [as Kojack]: Oh.
+Keith [as Plum]: You were gonna share with us cold hot dogs later?
+Dre [as Shunley]: No, I just figured I'd have to heat em up later, but they're. I'm sorry.
+Keith [as Plum]: No, don't be sorry.
+[Ali laughs]
+Austin [as Kojack]: [mouth full] These are delicious!
+Dre [as Shunley]: [laughing] I'm so glad.
+Keith [as Plum]: Ooh, is that pickled jalapeno? Relish? Pickled jalapeno relish?
+Austin [as Kojack]: What was the — what was the — so, one more time.
+[Ali laughs]
+Janine [as Antonina]: [enthusiastically] Prison farm!
+Austin [as Kojack]: For CEOs who aren't hiring.
+Janine [as Antonina]: Yeah.
+Austin [as Kojack]: We have sort of like, uh,
+Janine [as Antonina]: Yeah.
+Austin [as Kojack]: An employment requirement law. You can't own something if you're not gonna pay people to work for you.
+Ali [as Apparatus]: Yeah.
+Janine [as Antonina]: Yeah. I mean, if you own a sole proprietorship and you are working, whatever, it's fine.
+Austin [as Kojack]: Right.
+Janine [as Antonina]: If you have a business with employees but you are refusing to hire or pay those employees to do work but you're still claiming to have that business: then you farm.
+Austin [as Kojack]: [sputters] Now I am fundamentally opposed. [laughing] Now, Skip, I am fundamentally opposed to incarceration. But! I...
+[Dre laughs]
+Keith [as Plum]: Uh well hold on. Is this incarceration or do they go home after their shift?
+Austin [as Kojack]: They go home after their shift, right?
+Keith [as Plum]: Right, so they're not technically incarcerated.
+Ali [as Apparatus]: It's just a work ser—... Okay, saying that out loud I don't love it.
+[Austin laughs]
+Keith [as Plum]: [defensive] It's a labor camp!! It's just a labor camp!!!
+Ali [as Apparatus]: [cackles] Don't say w —
+Keith [as Plum]: It's a labor camp!!!
+Ali [as Apparatus]: I would say work service before I said labor camp.
+Janine [as Antonina]: Work program. Agricultural work program.
+Ali [as Apparatus]: Well this is the sort of things that these people in these positions need, you know, to get their hands in the dirt. To understand what work is.
+Janine [as Antonina]: Co-op means cooperate and these individuals are not cooperating. They could stand to learn a lesson in cooperation.
+Ali [as Apparatus]: Mm — I'm warming.
+Janine [as Antonina]: They will learn cooperation!
+Austin [as Kojack]: Yeah, I...
+Keith [as Plum]: I personally am having trouble finding a problem with this.
+Janine [as Antonina]: It's a good idea, right.
+Keith [as Plum]: As long as they're being safe. As long as we're taking...
+Janine [as Antonina]: And because we're repurposing an existing facility it will not cause the meat plants to expand.
+Austin [as Kojack]: Right. That's true.
+Keith [as Plum]: This is a two birds with no stones.
+Austin [as Kojack]: Okay, we're not gonna get — the meat plants aren't going to get smaller because of this, though.
+Janine [as Antonina]: No.
+Austin [as Kojack]: They just stop growing.
+Janine [as Antonina]: It won't make things — we aren't building an additional CEO prison.
+Keith [as Plum]: The acceleration will slow.
+Austin [as Kojack]: That's true.
+Janine [as Antonina]: If we built a CEO prison then they would keep getting bigger. But because we're not doing that. Basically saving money.
+Austin [as Kojack]: And hopefully they just start hiring people to finish the dang work!
+Keith [as Plum]: Right, they have a choice.
+Austin [as Kojack]: Cuz they don't want to go work on the farm.
+Janine [as Antonina]: Yeah.
+Austin [as Kojack]: Also the farm — here's a question. Let's imagine I'm just working at the farm already. I like working on the farm. Outside. The sun is out. You're hearin like the cicadas making the noise, you know what I mean, it's a beautiful, picturesque day.
+Janine [as Antonina]: Mm-hm. Mm-hm. Yeah.
+Austin [as Kojack]: And then the prison, brrr, the prison truck, brrr, CEOs get out in their suits and all that. Do I have to leave the farm? Cuz now it's CEO prison farm? Or do I get to keep my job?
+Janine [as Antonina]: No, you're supervising them. You already have the experience, they need to learn. You know, they're trainees. They'll be your trainees.
+Austin [as Kojack]: I like when my hands get dirty.
+Janine [as Antonina]: Well, you can still get your hands dirty. You're still working on a farm.
+Austin [as Kojack]: Yeah, okay. Yeah! Okay.
+[Pause]
+Janine: All right.
+Austin: CEO goes brr, says Keith in the chat. Um, Keith, whose picture, by the way, is still the Lye Lychen picture.
+[Keith laughs]
+Austin: No other vetoes, right, no one's redoing this?
+Ali: Uh-uh.
+Keith: No.
+Austin: Yeah. Yeah, what this basically is doing, it sounds like, is making it so that if you own capital, you are for — like, we are insisting on full employment, or something like that, right, we're like, if you want a job people are fucking hiring. You're hiring to capacity. You're not, you're not playing fake inflation games and fake insurance games and fake, oh, the market is such and such.
+Keith: This isn't like what literally just happened in the United States,
+Austin: This is what I'm thinking about.
+Keith: Which is businesses spent two full years complaining about how nobody wants to work and using that as an excuse to end expanded unemployment during the pandemic, only to turn around and immediately say, actually we have too much employment.
+Austin: Right.
+Keith: We have to do a bunch of things to make sure not enough people are employed to lower inflation, which is caused by price gouging.
+Austin: And there's no one who's, they're not playing the numbers game where they're like, well, you only worked — as Ko points out — 30 hour a week so we don't have to cover you if you get injured on the job, for instance. We've already gotten rid of of paid insurance, we've said that the companies have to pay out on, you know, on on-the-job injuries and stuff like that, and so uh they can't dodge that in any way, either, they have to keep people employed. So. This is a, this is a very, this is a very, uh, Witch in Glass solution to this. No carrot, just sticks.
+Janine: As would be expected from Antonina Juris, I hope!
+Austin: Oh 100%, 100%. Um, technically that's a full second round but Keith went bef — at the beginning, like, you know, we kind of cut Keith off here, but I don't know, we got a lot of — we still got a lot of Plum Tort.
+Keith: I would have done a very very different thing for my second round if I had pulled my shift card first.
+Austin: Right, right, exactly, exactly. That's what I figured, but we don't want to undo that thing, so. Um.
+Ali: Do you want a mini one?
+Austin: Yeah, do you want to do like a mini, do you want to pitch us a mini?
+Keith: Yeah, I'll pitch a mini.
+Austin: You could also say we've solved a complication for your turn. And we could we could vote on if you have or not.
+Keith: Oh and that's that's —
+Austin: That's a turn, yeah.
+Keith: Okay, okay, that's a turn? Okay, I would like to vote to solve the complication that I introduced.
+Austin: The 'construction is halted' one.
+Keith: Yes.
+Austin: We should type our answers into the chat and then vote.
+Ali: Oh, we're doing another end of the round...
+Keith: When you write solved or unsolved?
+Austin: No, this is — yeah, that works. Yeah, this is this is, don't send it yet. This is, when you solve, when someone says, uh, hey, I think this complication has been solved, we all vote on whether or not it's actually solved or not.
+Keith: Right. And then if it's unanimously solved then it's solved, if it's unanimously not solved then nothing happens, and then if it's mixed there's, it changes?
+Austin: It changes to a new complication, correct.
+Keith and Ali: Okay.
+Austin: Ready?
+Keith: All right, ready.
+Austin: Three, two, one, go. Hey!
+Keith: Look at that!
+Austin: Solved! [amused] A thing I'm not a hundred percent I believe but I'm giving it, I'm giving it to us.
+Keith: Well, well — Janine just introduced —
+Janine: This game is mostly stuff we don't believe!
+Austin: Yes.
+[Ali laughs]
+Keith: Janine just introduced like, uh, labor time sentence to uh business owners who don't agree to hire people and we do now have a job training school.
+Austin: [cross] Yes. It's great, it's just. True!
+Keith: So I feel like all the tools are legitimately there, I genuinely believe this would be solved in real life.
+Austin: I think it'd be a wild — I mostly think — 
+Keith: It would be a wild way to solve it, but it —
+Austin: I mostly think rich people would hire people with guns to kill us, if we tried to do this.
+Keith: Um. Well, that's the Witch in Glass of it all, I think.
+Austin: Yeah, I think so.
+Keith: You don't wanna, you don't want to mess with the Witch in Glass.
+Austin: Yeah I mean that's part of it is, I think we're the people who have the most proximity to the people with guns right now, so.
+Keith: Yeah.
+Janine: I also just, I want to take a moment to recall how when I introduced the concept Austin was very uh very immediately vocally opposed, correctly, I think, uh to the idea of converting a farm into a prison.
+Austin: Yeah, uh-huh!
+Janine: But we got, but we got there.
+Austin: We got there. Uh-huh. Solved.
+Janine: Um, sorry, Kojack was.
+Austin: Kojack was. Kojack Variety was. I — no, that was Austin, was like, yo!
+Janine: Uh-huh.
+Keith: Well then it turned out that it wasn't exactly a prison.
+Austin: Exactly. Yes. Uh, I think that's gonna be our game today.
+Keith: Are we gonna go through what our cards were?
+Austin: I think we have to. We are supposed to talk about ourselves, we'll talk about what happened. We also are supposed to name the city. We can decide if we want to rename this place from the Crown of Glass, uh, before Clem gets back, or let her name stand. And I think I'm, the thing is, I'm now Perennial-pilled. I thought I wouldn't be. But because I'm Perennial-pilled, I'm voting keep the name.
+Janine: I'm also voting to keep the name.
+Ali: Yeah.
+Keith: Um, I would guess I would vote to change it.
+Dre: I will vote to keep it.
+Austin: Ah, four to one. I mean, what are you gonna do. Um, all right, let's reveal our cards. Keith, you were first, so.
+Keith: Uh sure. Yeah, so my original card.
+Austin: I'm gonna just draw it out onto the table, how's that sound?
+Keith: Sure. The Prudent: someone has to care about the bottom line and that someone is you. Choose one: people's safety is the bottom line or balancing the books is the bottom line.
+Austin: Aah. Balancing the books is what you...
+Keith: And then my shift, sorry, say again?
+Austin: And so you had balancing the books.
+Keith: I did. And then my shift was, you realize you were wrong. Pursue the other goal on your role card.
+Austin: Gotcha. There you go. Okay, so you started caring about people.
+Keith: Right.
+Austin: What happened, in your mind? With, um, over the break. Did somebody get hurt, did Plum watch a compelling documentary, like what happened?
+Keith: Yeah, that's, uh, that's sort of I think was, it was a guilt thing, I think that like people getting hurt was uh.
+Austin: That makes sense.
+Keith: Yeah.
+Austin: Um, I had the Skeptic: wait, let's let's consider things from a truly rational perspective. But I actually went with, my two options were hostility to others: new ideas is preferable to advancing ideas of your own; or there is no sense but common sense.
+Keith: Oop.
+Austin: Did you lose me for a second, what happened?
+Keith: No, I started stealing your card by mistake.
+Austin: Oh, that's okay. Um, and I really leaned into there is no sense but common sense, right, like hey, let's just, this is how a farm works, just, let's be straight up here, let's be very basic, let's keep things normal. And then my um my my uh shift card was, you have begun to doubt your beliefs, why? And as the skeptic, if you begin to doubt your skeptic beliefs, what's that mean? It means you suddenly truly believe in something. Um and so I, that is how I, that is how I justified my turn. Uh, who is, Ali?
+Ali: Um, yeah. I I was the Aesthete [es-tet]. Is how you pronounce that?
+Austin: Aesthete, I think, it's Aesthete [es-teet].
+Ali: Aesthete. [laughs]
+Austin: Yeah. That's a good one for, for...
+Keith: Yeah.
+[2:30:00]
+Ali: Yeah. You have exquisite taste and the privilege to pursue them at leisure. Choose one: nothing is more worthwhile than beauty — nothing is — or nothing is more worthwhile than hedonistic pleasure. I leaned beauty there, I was talking about vistas a lot, I created a park.
+Austin: You were talking about vistas a lot, you did build a park.
+Ali: Um, that you could walk across a nice lake to to do it, um, to get there. Um. And then my shift deck was, um, you've become wracked with guilt: why? Um and I... I guess, cards on the table, when I thought we were gonna have more rounds here I wanted to do a um [laughs] a lake um purifying boardwalk so you could look at the lake? but then I was like oh I I think that I feel too guilty that I'm like moving away from my revolutionary roots so I'm gonna have this satellite so people can be um revolutionized.
+Austin: Ohh. That's interesting. Yeah!
+Ali: Um, so that's why I went with that decision as well. Um, so, you know, you can have access to more types of art and the Millennium Break [laughs] Message Board.
+Austin: Did you, who drew this road leaving the board, which I really like?
+Janine: Me.
+Austin: I like that a lot.
+Janine: The one on the very bottom right?
+Austin: Yeah yeah yeah.
+Janine: Yeah.
+Austin: Um connecting it to the rest of the world, uh and connecting that like visually to the satellite dish is also like a fun little like, hey, this is, we are connected outward, now. Also, roads can be anything, so you can imagine that's also like an airport or like a, you know, a landing pad as part of that area, right? Anyway. Um. Dre.
+Dre: Sure. Um, my card was the ecologist. Protect the environment. Choose one: you speak for the trees or the trees speak to you. The trees spoke to Shunley Pernard, and when you have a lot of voices in your ear, sometimes you mix up your name.
+Austin: Aw. Shunley. What was your shift?
+Dre: Um. You are wavering, you crave the approval of others.
+Austin: I could feel that one. I could feeeel that one.
+Ali: Mm.
+Keith: I did notice you agreeing with whatever someone said to you [laughs]
+Dre: This is why both of my roads also —
+Keith: I also sorta felt that one in the first round
+Dre: — connected directly to the meat plants, though.
+Austin: Oh, because they spoke to you. Yeah, I see this now.
+Dre: Uh-huh. Also why I didn't want us to mess with the swamp.
+Austin: Yeah. Okay. Sure.
+Keith: Fair, yeah.
+Janine: Yeah.
+Austin: Yeah. Antonina.
+Janine: Yeah, so I had the advocate. If no one fights for the people, all will be lost. And I had a choice between fight for the people through the system or fight for the people by fighting the system. I decided to be, to work through the system.
+Austin: Oh yeah. Of course.
+Janine: Um, and my shift was, you've become obsessed with a complication. How has it forced you to reconsider your goals? Um.
+Keith: I can see that!
+Austin: Next thing we know. Yep.
+[Ali laughs]
+Janine: Uh-huh. So I became obsessed with the, with the work one, obviously. Um and decided to maybe de-emphasize certain things in order to emphasize other things, to to really get there.
+Austin: I want to emphasize, you've drawn bars on the front of the barn as if to represent that it's a jail or a prison also.
+Janine: Mm-hm!
+Dre: Sure.
+Austin: Good. Great.
+Keith: They're metaphorical.
+Austin: Yeah yeah yeah, of course.
+Janine: It's like a paint job, that's why they're horizontal.
+Keith: I mean, the bars are there. We didn't put bars there but they're metaphorically there
+Austin: But they're metaphorical. Yeah, it's like an art project.
+Keith: Right?
+Janine: Yes.
+Austin: Right, I mean let's talk a little bit about what happens here, which is, uh, I think that, I was going to suggest that a thing happens here which is the mountains either get covered in this Russian sage, or the Russian sage plants continue to grow at terrifying heights, uh, and it saps some of the growth from the plants, from the meat plants. It's like they're feeding on the meat plants through the soil or something, right? Uh, that was my suggestion on that. 
+But beyond that, I think Clementine comes back, the Witch in Glass returns, and the first thing you notice is her crown, what was once only like a blindfold has grown, it’s sprouted from her temple and like the nape of her neck, it has like interwoven with her hair, it covers not just her eyes but her forehead, it’s more of that sage, Perennial’s Russian sage. 
+Second, second change for the Witch in Glass, and this becomes the talk of the town, is that her left index finger, from the knuckle down to the nail, has been replaced with a little copper key. It is ornate, like a cabinet key or a desk key or maybe a jewelry box, and she uses it like a regular finger, pointing as she scolds people, sliding a tress of hair back up into its place in her crown, or tapping away on her desk in irritation. 
+Those of you on the council learn the source of that irritation; it leaks out, maybe through Emaline. It took the Witch in Glass a year to find that key, but now, apparently, Perennial has told her that she must wait patiently for the box that the key fits to arrive. 
+The good news for the Witch is that every day brings a new chance that it will be found by someone aligned with her, at least in theory, or at least aligned in opposition to the Bilateral Intercession’s occupation here. Because over the course of the year, as news of the Reflecting Pool’s arrival spreads and as the Crown, both the one on Clem’s head and the city itself, has grown, others have descended to Palisade in her wake. They come to answer the call of the revolutionary movement that calls this planet, so often reduced to a staging ground or a foothold, their home.
+First led by the cult of Devotion, albeit with guardrails and guidance given by General Mourning, a militia from the Twilight Mirage arrives to answer the summons sent by those on Palisade, desperate for aid. Made up of people with reasons as diverse as the Mirage itself, they make landfall soon after the Witch. 
+Newly returned to a nomadic life in the cosmos, the Hypha send a coalition of soldiers and Strati to the planet, eager to prevent the sort of generational damage that they are only just now beginning to heal from. 
+And, of course, Millennium Break itself joins the cause, sending ships and supplies and strategists to the new front. It is, as it always is, a hodgepodge crew, engineers and laborers from the Ox and the Spade, freelance saboteurs trained under the notorious Giantkiller, and pilots who flew with the Swordbreaker casself. Someone even said that on one ship, the Blue Channel, there’s a Branched on board. 
+["Permanent Peace" by Jack de Quidt starts playing]
+But they are not the only ones arriving. The Bilateral Intercession has continued to flood onto the planet; Kesh bureaucrats look out onto the Bontive Valley in the Shale Belt and the Duchy’s vast holdings and draw new borders, divvying up land and resources with Friday afternoon disinterest, like numbers and spreadsheets too old to care about. 
+And if there are any gaps left, well, the Nidean culture industry has already begun to fill them. Music and parades and experiences, and of course the New Asterism: that’s what it’s being called, a unified church, a schism supposedly sealed by a modern prophet, the theologian Gur Sevraq — or at least someone with that name, and that face.
+And secured by the hard work of Somerset House, Exanceaster March, current chair of the Frontier Syndicate, former director of the Zenith Fund, and founder of the March Anecdatist Foundation, has defected from Columnar. And it was about a year ago that he ushered in a new generation of warfare. He debuted a machine developed for Columnar but brought with him here to Palisade during his desertion. It used Kalmeria as a bonding agent, a medium, a catalyst, and it outclassed every other machine on the battlefield. He called it the Altar. A-L-T-A-R. Because, he said, it would be the platform on which the future would be earned, whether through worship or through sacrifice. 
+It was not long before this machine was one of many. The public, as it so often does, began to use the specific name as a general one. Gone were the old categories of Hollow and Hallow, swiped away in a single motion, deposited in the ashbin of history along with their predecessors, the Saints, the Anglers, and the Riggers too. A long line of bloody succession, all leading to this, to these new machines, which seemed to channel their force through their pilots and which bore terrifying powers, arcane and elemental, divine and profane, and in some cases void, not as in absence but as in an active nullification of the other. What is a more pure expression of war than that? The Perfect Millennium yet continues, but the age of the Altar has begun. 
+Or at least it will begin, a few weeks from now, after we take a short break, before beginning our eighth season, PALISADE, in earnest.

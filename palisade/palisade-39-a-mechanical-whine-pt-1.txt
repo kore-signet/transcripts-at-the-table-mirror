@@ -1,0 +1,1834 @@
+﻿PALISADE 39: A Mechanical Whine Pt. 1
+Transcriber: Iris (sacredwhim)
+Opening Narration        1
+Introduction        2
+Mission Setup        8
+[15:08]        14
+Clocks and Hooks        24
+Sortie Discussion        32
+[50:34]        45
+Hangar        50
+A-Plot: Lone Marble HQ        54
+[1:15:00]        68
+[1:30:00]        79
+B-Plot: Temple of the Threshold        99
+[1:58:51]        107
+Closing        117
+Opening Narration
+[music intro - reversed version of “Nothing is Stationary” by Jack de Quidt begins]
+Austin (as Gur Sevraq): This is a message to the people of the Twilight Mirage from Gur Sevraq, Song of Palisade, founder of the New Asterism, rector of the Temple of the Threshold, and plenipotentiary of all Divinity.
+I pray it does not arrive too late, because I know that Millennium Break has come to you with mellifluous words and promised gifts. But I will not speak in sophistic rhythms, and I warn you: revolutionary futures are only ever repackaged presents, and the present is death. I bring something simpler, something I know you value. I bring you tranquility. I bring you peace.
+And I offer this gift to all, to the reformist and the reactionary, to the reluctant, and yes, even the radical—the radical whom I once was, the radical to whom I wish I could say that you think that what comes next will be a grand revisioning, but I have seen the future, and if Millennium Break is allowed to bring us to it, it will be a shattered aquarium. It will be scattershot violence. It will be the all-at-once thawing of a great glacier, and the flood that comes after. It will be blood all of the time.
+That will not be better than the Divine Principality. You think you are prepared to be the bloody hand that turns the wheel. No one is prepared for that. It is not a wheel, it is not the rise and fall of empires, it is not a cycle of justice and tyranny. What comes next will simply be unending internecine conflict between uncountable fragments across a world we no longer know. It will be a galactic class of warlords. It will be starvation. It will be daily terror.
+To our new neighbors, this is what we seek to be a bulwark against. We are coming home not to conquer, but to build. Our doors are open. Send your envoys. Send your theologians. We are eager to talk.
+Introduction
+[2:46]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Ali Acampora.
+Ali: Hi, you can find me over on friendsatthetable.cash, I host a show called Gathering Information with the rest of the cast of Friends at the Table. And also, I’m on another Star Wars podcast called A More Civilized Age. Go Google it.
+Austin: We just finished up a whole season on Knights of the Old Republic.
+Ali: We just finished KOTOR, yeah.
+Austin: We just finished KOTOR, it’s done, it’s behind us, now we’ll be back to Rebels. Also joining us, Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter at @swandre3000, and if you haven’t yet, you should leave a review for both Friends at the Table and Media Club Plus [Austin: Yeah!] on your favorite podcast app.
+Austin: Yeah, go listen to Media Club Plus. Keith.
+Keith: Hi, I’m also here to plug Media Club Plus. It’s really great, you should listen to Media Club Plus. It’s been a lot of fun. You should also watch Run Button on YouTube, youtube.com/RunButton. And we just put out a podcast, I’ve been putting out the Sonic Superstars Let’s Play. The podcast is good. I’m really good at podcasting, [Sylvi laughs] and the Run Button podcast is really good.
+Austin: [chuckles] Great, great sell.
+Keith: Yeah.
+Austin: Keith, I just finished Digimon World and it’s wild to be done watching that.
+Keith: It’s wild to be done with recording.
+Austin: I’ve been watching it for a quarter of my life.
+Sylvi: Woah.
+Keith: [laughing] I know, it’s crazy.
+Austin: Is a thing that simply—when did you start that? So you started it—
+Keith: In like, 2011 or 2012.
+Austin: 2011 or 2012. So it’s been 12 or 13—it’s been 13 or 14 years of you playing this one PS1 game.
+Janine: Oh my god.
+Keith: Yeah, we started it in—yeah, it took us almost 11 years to beat Digimon World.
+Dre: Wow.
+Keith: I think there’s like 60 episodes, or like, 58 episodes.
+Janine: Now that’s value.
+[Sylvi laughs]
+Keith: Yeah, that’s value.
+Austin: You can hear people go through their lives on that Let’s Play.
+Keith: It’s Richard Linklater’s Boyhood as a Digimon World podcast.
+Austin: It is. It is. It is that. It literally… God, alright. Sorry, I was thinking about where I was 13 years ago or whatever. Also joining us, Janine Hawkins.
+Dre: Don’t do that. [chuckles]
+Sylvi: Oh no.
+Janine: Hi, I’m Janine. I have not done any 12-year-long LPs recently. You can buy merch—we have merch at Friends at the Table dot… I can never remember if it’s dot store or dot shop. I think it’s dot shop, right?
+Keith: Dot shop.
+Austin: Dot shop, yeah.
+Janine: Yeah. Friendsatthetable.shop. We got shirts, we got stickers, we got a bunch of stuff. We might have more stuff at some point in the future.
+Ali: Mhm.
+Janine: Keep your eyes peeled.
+Austin: So Janine, you haven’t done any 12-year Let’s Plays, but this is—this year is the 10 year anniversary of Witching Hour, isn’t it?
+Janine: That’s not really a Let’s Play, though.
+Austin: Okay.
+Keith: That’s an event.
+Dre: It’s an event.
+Ali: It’s been 10 years?
+Keith: It’s a program.
+Janine: It’s a—yeah, it’s a—
+Austin: It’s a program—it’s an event. Okay.
+Janine: It’s a celebration of life.
+Austin: I see.
+Janine: Yeah, yeah.
+Ali: It’s a harvest festival.
+Austin: It’s kind of a harvest festival type beat, yeah, this makes sense.
+Janine: Yeah, yeah, yeah, yeah, yeah. It kind of is, fuck.
+Austin: And Sylvi Bullet.
+Sylvi: Hey, I’m Sylvia, you can find me everywhere at @sylvibullet. All the stuff I was gonna plug has been plugged. Twitch.tv/FriendsAtTheTable. Did we mention that one?
+Austin: There you go. There you go. We did not.
+Sylvi: I’ve been trying to stream more. I need to put up an archive of a stream I did with Jack. We also, we’re re-streaming Twilight Mirage right now.
+Austin: It’s true.
+Dre: Mhm.
+Janine: Mhm.
+Austin: Getting into it.
+Sylvi: And I was gonna plug the COUNTER/Weight thing, but that just wrapped up. But, hey, [Austin: Hey.] if you didn’t know about that, you should have been following us on that platform so you could have heard about it.
+Austin: That’s here.
+Sylvi: That is here.
+Austin: That’s in—also in this feed.
+Sylvi: That’s here, right, I’m—
+Austin: But I guess, yeah, if you missed it, we did stream it live every week.
+Ali: Yeah.
+Sylvi: People do like watching stuff with the chat. That’s why the Twilight Mirage thing is fun.
+Austin: It’s true. It’s true. And, Ali, you made a fucking sick visualizer of the COUNTER/Weight…
+Sylvi: Yeah!
+Keith: It is really good.
+Janine: It’s so good. I was so proud [Ali chuckles] as the person who’s done two of the, like, bullshitty overlay rewatch things where every single time I’m doing one, I’m like, “I’m doing too much. This is stupid. No one else thinks this is import—”
+[Austin and Ali chuckle]
+Janine: So seeing you do one that’s like, even more complicated than anything I’ve done, more intricate—
+Keith: Also—
+Janine: It’s exquisite. I love it so much, I love you so much, thank you.
+[Sylvi giggles]
+Ali: Aw. [chuckles]
+Dre: Aw.
+Keith: The Twilight Mirage one is also very good.
+Ali: Yeah.
+Austin: It’s true. The Twilight Mirage one is very good.
+Janine: It’s way simpler though. It’s way simpler. Like, I feel like you don’t need to watch the Twilight Mirage one. The COUNTER/Weight one I just want to sit there and pick apart like an I Spy book, you know?
+[Ali chuckles]
+Austin: Uh-huh.
+Dre: Man.
+Austin: They both evoke their seasons.
+Ali: The Bluff City one walked so the COUNTER/Weight one could run, is really what… [chuckles]
+Austin: Damn, true. True.
+Janine: Yeah.
+Austin: Yeah, I think they all have a real, like, “This is this season, for sure.” And COUNTER/Weight being extra fiddly and having lots of little parts felt right for COUNTER/Weight.
+Janine: True, yeah.
+Austin: [chuckling] Unlike Twilight Mirage, of course, which is smooth sailing and simple all the way through.
+[Sylvi laughs]
+Ali: Yeah. People getting along.
+Austin: The vibes are good. The vibes are really good.
+[Ali chuckles]
+Mission Setup
+[7:34]
+Austin: Alright, today we are returning to our campaign of Armour Astir: Advent, a game by Briar Sovereign, which was just updated. We like, just got a new drop a couple of weeks ago, basically, which has some changes. I know, Janine, Thisbe’s moves has adjusted in some ways.
+Janine: Oh, yeah. Oh, yeah.
+Austin: Keith, I believe the same is true for you.
+Keith: Yep.
+Austin: Some clarity, literally, on some of the moves that we were using last time from both of—I guess it’s actually two different things. I’ve just conflated two different things.
+Keith: Yeah.
+Austin: One is, there’s a new edition of Advent—of Armour Astir: Advent, which is the base game that we’re playing. There was also an update doc that Yuri Runnel sent us for some of the playbooks that we’ve been using this season. So there’s two different updated things happening, I just put them together in my brain. And both of them are useful. I’m not a hundred percent sure what of the new Armour Astir: Advent side rules we’ll be using, because they do, as Art tweeted about—did y’all see this tweet from Art?
+Keith: Yes, I did.
+Austin: [chuckling] They did—Briar did make it so that it is—
+Janine: Oh, I did see this tweet, yeah.
+Austin: —it is, in fact, harder for the Cause against the Authority.
+Sylvi: Oh, cool.
+Austin: Because playtesting revealed that it was too easy for the Cause.
+Sylvi: Thank you, Briar.
+Austin: Yeah.
+Janine: Which playtesting?
+Ali: Yeah, what?
+Janine: [chuckling] Can we be—can we—where—
+Austin: Lots of people play this game.
+Janine: Can we play those games?
+[Ali laughs]
+Sylvi: So we’re gonna be using the old patch, right?
+Keith: I feel like the last 15 episodes we have been crushing the Authority into dust. That’s how I feel.
+Janine: Well, yes. Yeah. That is true.
+Sylvi: It is true.
+Austin: And I think my guess is that happens at different speeds in different games to some degree.
+Janine: Yeah.
+Keith: Yeah.
+Austin: I think what we kind of had was like an OP build for the Authority at the start of the game, you know, and there are some abilities that are really strong. I still have to go through and finish kind of going through what it all means, but we’re not doing a faction game today, a conflict turn today, so I have not done that yet. I’ll do that once we—when it’s time for Jack, Art, and I to reconvene. Alright. So, where were we? We have not played in a minute. Like, since before the holidays?
+Sylvi: Yeah.
+Dre: [laughing] Jesus.
+Keith: Yeah, I think it was early December.
+Sylvi: It’s been like three months, almost, I think.
+Austin: Yeah.
+Janine: I fully don’t remember, yeah.
+Austin: So, which is to say, if we’re a little slow off the starting gun today, that is why.
+[Ali chuckles]
+Janine: It’s probably enough to say “last year”.
+Sylvi: Woof.
+Austin: Last year, we played this game, yep. Uh-huh. We ended on putting a pause on the—or like, de—ticking down, actually, the Motion revival clock, giving y’all the space you need to breathe to potentially knock it out for good. You—what else happened? That was kind of the big final thing, right? But there’s a bunch of other, smaller things that happened to individual characters. We don’t have to go one for one over those. Thisbe has Integrity now.
+Sylvi: Yeah, holy shit.
+Dre: Oh, yeah.
+Austin: Yep.
+Ali: Normal.
+Austin: Figure had a sort of religious revelation about what’s going on with Perennial.
+Ali: Normal.
+Austin: And some weird time loopy shit.
+Dre: Mhm.
+Austin: What else? What other big stuff happened?
+Sylvi: I had a normal conversation with Elle Evensong.
+AlI: Yeah, normal.
+Austin: You did, yeah, that was just—I mean, I didn’t even want to bring it up, because it was basically just nothing. It was basically not even a big deal, basically.
+Dre: Basically.
+Sylvi: Yeah, I figured. Also, a pretty normal conversation with Captain Brnine.
+Austin: Yeah, uh-huh.
+Ali: Yeah.
+Sylvi: In a different way.
+Austin: Yeah, yeah, yeah. Those are the big—that’s most of it, right?
+Keith: We had that meeting with the Cause.
+Austin: Yeah, yeah. Which is what resulted in the Motion—
+Keith: Yeah.
+Austin: Getting Motion knocked back, and now opening up a space for y’all to theoretically go stop Motion, go punch the Frontier Syndicate in the chin in some way that will presumably stop that from happening, generally speaking, right? And then the other big plan—let me see if I get this right. Some of you are going to go investigate, “Hey, what’s up with Gur Sevraq?” Brought up by Saint Decario Dicario in the kind of headquarters, the Cause headquarters, encouraged by that, but also doubly so because of obviously Figure having the ghost of Gur Sevraq in their head, you’re gonna go and investigate Gur. And the other half of the group is gonna go to the Lone Marble Group, where the Frontier Syndicate is doing research on Motion, where the Motion revival project seems to be based. Do I have everything right?
+[pause]
+Okay. Where do we want to begin? I wanna give y’all some space here at the beginning before we do any sort of, you know, Sortie kick-off roll, because it’s been a minute, but also because, you know, we did our Plan and Prepare, but we didn’t do our—I don’t believe that we actually did the thing where we kick off the Sortie itself. We didn’t do Lead a Sortie, so we’re gonna have to do that, [Sylvi: Okay.] but I don’t know that it is time for action quite yet because I want to make sure that we’re all on the same page with whatever that Sortie looks like. You know? So what’s that Sortie look like?
+[Sylvi laughs]
+Keith: Well, I was sort of thinking about that. You know, I don’t want to—I just want to introduce this, because I don’t really remember how things shook out last time.
+Austin: Yeah.
+Keith: I ended up on the Gur investigation squad [Austin: Yes.] because that’s something that I’ve been interested in, [Austin: Yep.] kind of forgetting that the Motion thing is Eclectic’s whole deal for being here, and I think that we can handwave that and just be like, well, I can’t be in every party—
+Austin: Well, you—sorry, you succeeded at that clock.
+Keith: Right.
+Austin: So you—
+Keith: That’s how we got this mission opening up.
+Austin: Totally, but I believe after you’ve filled it once, you rewrite it.
+Keith: Yes. Yeah. But—
+Austin: Maybe I’m wrong. I’m not actually looking at it.
+Keith: No, I totally rewrite it. I rewrite it.
+Austin: Okay.
+Keith: I just sort of assumed that the clock would be more—I guess I could rewrite it to a Gur thing now, but Eclectic’s, like, reason for being here is the Motion stuff, [Austin: Uh-huh.] so I kind of just assumed that I would rewrite it to a stage two Motion thing, unless we’re about to finish the Motion thing.
+Austin: I have no idea if you’re about to finish the Motion thing.
+Keith: Yeah. So, I feel like I’m kind of stuck in between what I should be investigating, and feeling slightly weird about being on the Gur side as the Motion guy. But I’m fine just being like, look, we need ships and I don’t fly a ship.
+Austin: Uh-huh.
+Keith: You know, whatever you call them. The big robots.
+Austin: Altars, yeah. Mechs, yeah.
+[Sylvi laughs]
+Keith: The mechs, yeah. So I just have to take, you know, a step back and not be in the fray where everyone’s fighting in robots. I think that’s reasonable to say, and so I’m gonna go to the other side as a favor.
+Austin: Part of my question, actually, is, are you going—and this is why I was asking about the Sortie, is like, are you going in guns blazing with big robots to just try to like, smash and grab something at this place? “What are you doing” is kind of what my big question is there. Which maybe will influence, Keith, what you decide to do as—or not Keith, but Eclectic, please, let me get back in the saddle a little bit. [chuckles]
+[15:08]
+[Sylvi chuckles]
+Keith: But then I also don’t want to force someone who is like, “Yeah, let’s do the Motion thing,” to then have to take my spot on the Gur side.
+Austin: You know what? Sorry, let me read our goals for today, ’cause it’s clear I referred to you as Keith, which is not normally what I do, and I know that’s not even one of our goals, that’s a principle, is to talk—is to refer to the character, not the player, but—our goals today are to portray a world entrenched in conflict, to let the players make a difference, to connect the magic and the mundane, and to play to find out what happens. Anyway. Ali, it sounded like you were about to say a thing.
+Ali: Yeah, I—when you say what’s the plan for that side, do you mean the Motion side in terms of—
+Austin: Mhm, mhm.
+Ali: Um, I was thinking it would be a little bit more of like an espionage situation. You’ve privately described this as us going into Google headquarters? [laughs]
+Austin: I sure have. Lone Marble Group is one of the Frontier Syndicate’s premier research groups.
+Ali: Uh-huh.
+Austin: They absolutely have a big tech campus. That is, like, the vibe of that place. It doesn’t mean there aren’t also, like, defense robots around. There are, you know?
+Ali: Sure. Sure, sure, sure.
+Austin: And there’s some stuff going on there the day that you’re gonna go, so that’s always fun, too.
+Ali: And I know that Thisbe and Cori are not our—[laughing] our tactical part of the team, perhaps.
+[Sylvi laughs]
+Dre: Wait, why not?
+Ali: Our, you know, passive part of the team. Maybe Thisbe, but—
+Sylvi: Wow.
+Ali: Our, you know, sneaky part of the team, is what I’ll say. But I do think the sort of like—I was imagining something tricky, and not…
+Sylvi: I haven’t had a chance to do anything tricky as Cori, is the thing. And that would be fun.
+Ali: Uh-huh. Maybe you’ll shine. Maybe she’ll shine here.
+Sylvi: Yeah!
+Austin: In being tricky.
+Ali: Yeah, she’s learning new things about herself every day.
+Austin: Mhm, mhm.
+[Sylvi laughs]
+Ali: But I, like, the Sort—I think I joked that, like, we were gonna be fake, like, repairmen or whatever, and that was inspired by a very long conversation in a Discord channel once where people were, like, looking at the cleaning instructions for a very expensive coffee machine, and being like, nobody in an office or anyone who has owned this has ever cleaned the milk siphon or whatever.
+Janine: Ew.
+Keith: Very true.
+Ali: So the—[laughing] yeah, the idea behind this—
+Keith: It’s true. That’s true.
+Ali: We could be, like, overall—Brnine’s an overalls character.
+Austin: Yeah.
+Ali: We could just be like, “Hey, Google, we’re here to look at your vents” or whatever, [laughing] and then like, steal the Motion thing.
+Janine: Uh-huh?
+Keith: We’re here to look at your beds, you said?
+Ali: Your vents. Vents.
+Austin: “Steal the Motion thing.”
+Keith: Oh, vents. [laughs]
+Dre: [laughing] I also heard “bed”, for what it’s worth.
+Keith: “Hey, I’m the bed repairman.”
+[Ali laughs]
+Austin: “Heard you’re having some trouble with these beds.”
+Janine: “Have you cleaned the milk intake thing in your bed anytime recently?”
+[Dre groans]
+Keith: Hey, they’ve got nap pods at Google. People are sleeping there. They want you to sleep there.
+Ali: [sighs] But yeah, that’s—I’m open to suggestions, obviously, but that was the vibes compass that I had.
+Janine: The vibes compass.
+Sylvi: I think starting with some—[chuckles] yeah, I like that term.
+[Ali and Janine laugh]
+Sylvi: Brnine has an actual vibes compass on the, like, in the—steering the ship.
+Dre: Oh, yeah.
+Austin: That’s—yeah, Asepsis is like, vibes off, compass south.
+Sylvi: Wow, you’re right.
+Ali: Uh-huh, yeah.
+Austin: Yeah.
+Keith: It was a big upgrade to mood rings.
+[Austin and Ali laugh]
+Keith: When they introduced the vibe compass.
+Sylvi: What I was gonna say is, though, I like—we kind of did this with the Chimera’s Lantern stuff, too, where we started off quiet and then got loud. And I think this is like a progression of that. And also, it’s a fun—it’s a fun tweak on the formula.
+Austin: Mhm. Cool. So, this is an infiltration mission. Maybe you’ll have some of your stuff nearby, maybe the Blue Channel will be within flight range but not here, you’ll be—
+Ali: Yeah, probably like a cloaked drop off.
+Austin: Okay. I can give you some more intel—well, you haven’t really done any research about this place during downtime, because it all kind of came in hot and that’s just kind of how that goes. And I don’t believe anybody has any downtime moves left, is my guess, because we used them all last time.
+Janine: No, I really wish I kept one, though.
+Austin: Yeah, uh-huh. But here’s what you know based on the—simply the news and the vibe in the world. The Lone Marble Group is hosting a tournament right now. They are trying to figure out what the successor to the Altar will be. The Altar is the sort of frame and foundation of all of the Tier 3 Altars that we have fought, that’s why they’re called Altars, and they’re kind of looking for the Tier 4, like, the best version of it, right? And so the way that the Frontier Syndicate works is that there’s a bunch of subsidiary companies who do different development on all sorts of stuff. It’s not just big robots that kill people, but it is a lot of that.
+And they have kind of like, put a bracket together for a bunch of big robots that kill people, and they’re battling it out to see who will become the new kind of base Tier 4 model for them. And it is the Cardiff Reach second annual invitational. Cardiff Reach is a former Columnar Frontier—not Frontier Syndicate, god, what was the actual name of the research—I forget what the name of their research foundation was there. The Zenith Fund, the Zenith Fund. A researcher. No one in this party ever interacted with him, but both Milli and Leap carjacked him in the very first arc of PARTIZAN.
+[Sylvi and Dre laugh]
+Sylvi: Let’s go.
+Dre: Cool. Sick.
+Austin: He is the guy who said “No Kesh” to begin with.
+Sylvi: Oh my god. Icon.
+Austin: And he absolutely joined—he’s the sort of guy from the Zenith Fund who would have left with Exanceaster March when March left. Absolute careerist, absolutely would have left there and come with March here as part of what was the Zenith Fund, or I guess that still exists for the Columnar, but now the Frontier Syndicate, the kind of spinoff version that March made, and so this is—Reach is attempting to replace the Altar with a new Tier 4 mech as the season continues, and tiers go up.
+Keith: So they’re doing BattleBots.
+Austin: They’re doing—well, they’re doing BattleBots, but with people in the BattleBots.
+Keith: Sure.
+Austin: And then they’re gonna use whatever battle bot wins as like the next jet or tank, you know? They’re doing what if everybody got—you know—okay, maybe you don’t know this. In the middle of the 20th century, all of the allied countries, all of the NATO countries, really, were fighting over who got to have—make the next, like, gun, the next true big real, like, assault rifle, and America won with the M16, like a particular subgroup in America did. But there’s all these other guns from that era that were like—like, England had a completely different type of gun, and they fucking lost the competition. And that competition was like, how fast can you reload, and how fast can you shoot, [chuckling] but what if what they did is put—did a battle royale and everyone got their gun, and then were turned loose and whoever lived, you know, they—that gun won.
+That’s what’s happening here, basically. I think it’s maybe more bracketed than that, but they’re doing—they’re doing a tournament arc to determine what the next M16 is, basically. So, that’s happening today here at the Lone Marble Group HQ, and I’ll move us over to this tourist brochure map with a bunch of unmarked buildings that gives you the basic layout of this place. You can see there’s buildings A through G here, there’s the Cardiff Reach Stadium and Exposition Center just outside the walls of this campus, and it’s all up near the Diadem.
+There is a kind of—some sort of building right up against the Diadem. You can guess that that’s some sort of, like, loading and unloading depot or something. It’s not marked on this map that you have. But this is like, all over the news, right? Like, people are taking bets. Normally something like this would happen in Composure’s Coliseum, the big coliseum that the Frontier Syndicate runs, but it is not for the viewing public. This is for only members of the Frontier Syndicate, and only ranking members of the Frontier Syndicate, I would guess. Though maybe there have been like some auctioned-off tickets or—maybe there’s other ways to get tickets, you know? I’ll leave that open. But that is what’s happening here at the Lone Marble Group the day that you have come to investigate it. So it’s sort of like saying I’m going to try to break into the CIA, and the CIA is like, having the NBA All-Star game that day.
+Ali: They sound distracted. This is a great plan.
+Austin: Yeah. Uh-huh.
+Keith: Mhm.
+Austin: Are there any other—I guess it’s like, what if the CIA was hosting the NBA All-Star game that day and also LeBron James was there in a mech?
+[Sylvi laughs]
+Dre: Okay. Fuck yeah.
+Ali: Yeah, there’s gonna be people in mechs there, it’s a mech universe.
+Austin: Yeah, it is. Damn. Way to no-sell it, Brnine.
+[Ali laughs]
+Sylvi: Get his ass.
+Ali: Like, fuckin’... okay.
+Dre: “I’m like, I see a mech every day. Alright. Whatever.”
+Austin: Mhm.
+Sylvi: “This is a Ford Fiesta to me.”
+Ali: Yeah.
+Austin: Yep.
+[Dre laughs]
+Ali: I have a job to do, right?
+Keith: I drive a mech garage.
+Austin: Yeah, you do.
+Ali: I got the combustor, alright?
+Austin: My other car is a mech garage.
+Ali: Yeah.
+Austin: God, the combustor. Alright.
+Ali: Yeah.
+Austin: Mhm.
+[Sylvi laughs]
+Ali: This is light work.
+[Austin scoffs] [Ali giggles]
+Sylvi: [laughing] I’m just picturing Br—
+Austin: No, I’m gonna remember you said that.
+[Ali laughs]
+Austin: Ali? I want you to remember you said that.
+Janine: Oh my god. Oh no.
+Sylvi: Brnine’s fucking grind instagram goes crazy.
+Austin: I’m going to currently screenshot something I sent Jack a little while ago, and I’m just gonna save the screenshot.
+Janine: Oh no. Oh my god.
+Ali: Sure.
+Sylvi: Oh, let’s go.
+Ali: It says “lol”.
+Keith: The screenshot says “they’re gonna have fun, this one’s gonna be light work.”
+Ali: Uh-huh.
+Austin: That’s what it says.
+[Janine chuckles]
+Austin: It starts “We’ll see how this mission goes, but”—colon, line break. And I won’t say what comes next.
+Keith: Okay. Maybe I shouldn’t go on that side.
+[Sylvi laughs]
+Sylvi: “But I think they’ll have a lovely time.”
+Janine: I don’t think either side’s gonna be easy, necessarily.
+Keith: Gur Sevraq’s just gonna tell us what’s up.
+Ali: We have a dream team over here. I don’t know what anybody is worried about.
+Sylvi: You’re right.
+Dre: Yeah.
+Janine: You’re just diggin’. You’re just diggin’?
+Austin: Mhm.
+Sylvi: Nah.
+Janine: You’re diggin’.
+Dre: [chuckles] Hey, it’s the only way to get out.
+Janine: She’s diggin’, folks.
+[Ali laughs]
+Austin: Mhm.
+Sylvi: Gotta be confident.
+Janine: No.
+[Dre, Ali, and Sylvi laugh]
+Austin: Integrity’s not giving you confidence, Thisbe?
+Janine: It’s different than confidence.
+Austin: Yeah. Fair. It’s integrity. So, what are you—
+Janine: [chuckling] I literally, in the notes in my sheet, put the three definitions of the word integrity. Just like, five minutes ago.
+Austin: Oh, wonderful. You want to read those out for everybody?
+Clocks and Hooks
+[26:34]
+Austin: Actually, we should go around the table because it’s been so long, and maybe talk about our Gravity clocks and our hooks because we should get ourselves into that headspace. So, Janine, can you lead with your definitions of Integrity and then read me your Gravity clocks and your hooks?
+Janine: Yes. “Integrity: One, steadfast adherence to a strict moral or ethical code. Example: A leader of great integrity. Two, the state of being unimpaired, semi-colon, soundness. Example: The building’s integrity remained intact following the mild earthquake. Three, the quality or condition of being whole or undivided, semi-colon, completeness. Example: Replaced a lost book to restore the integrity of his collection.”
+Austin: Gravity clocks and hooks.
+Janine: So, my clocks right now, one of them I need to replace.
+Austin: Yeah.
+Janine: I’m gonna replace—I know I want to replace it with an Eclectic clock, I don’t know when that will happen though.
+Austin: Oh, is that what you mean in your notes section by “Eclocktic”?
+Janine: I guess, I don’t remember, honestly.
+[Keith and Ali laugh] [Dre groans]
+Sylvi: Let’s go. Yeah.
+Janine: I guess I thought it was funny, but I came back to it, and I was like, what the fuck was that?
+Sylvi: You were right.
+Keith: I thought it was funny.
+Sylvi: Yeah.
+Austin: Mhm.
+[Dre laughs]
+Janine: The clock I want to replace is “I will tend to the Twill, they need to be shown care, and I am capable.” I’ve filled that clock, and I think it is fucked up that Eclectic only has one clock, especially with a—you need clocks with people on your thing, because otherwise it’s just—it’s hard to get them. So, yeah. I want to swap that out with an Eclectic clock. The ones that I am keeping are: “Brnine is capable but brittle; their success and survival is the only way forward.” Which I think I rewrote when that leveled, because that leveled up relatively recently. And then, “If I’m a bullet, Cori is a grenade. If she is not stopped, she will self-destruct and take others with her.”
+[Sylvi giggles]
+Janine: We love bullet gun metaphors here on Friends at the Table.
+Sylvi: Yeah.
+Janine: And my hooks, all of my hooks are loose right now. [chuckles] Every single one of them.
+Austin: Mm, interesting. Integrity.
+Janine: I do want to change one of them.
+Austin: Okay, you can do it whenever you want when they’re loose.
+Janine: Yeah. I’m mulling over what I want that change to be, but I think the one I’m going to change is “My presence is a liability to my operants.”
+Austin: Ooh, big change.
+Janine: Yeah. I also have “I must strive at all times to demonstrate my utility.” Actually, maybe I should change that one. Or “Fighting is not my purpose, but there is nowhere else for me until the fighting is over.”
+Austin: Another thing you might do with your loose—so this is true for loose, normal, or deep. “When you take action that requires you to sacrifice, outgrow, or otherwise conclude one of your hooks, cross that hook off permanently. You may then immediately take an advancement and act with Confidence if the hook was deep.” So if you have a deep belief, a deep hook, and you decide, “Okay, I’ve actually outgrown this or sacrificed this,” you can cross it off—you get to take an advancement and act with Confidence.
+Janine: Yeah, that’s kind of—
+Austin: But you can resolve a loose one the other way, and say, like, “You know what? I just outgrew it. I’m not gonna act with Confidence here, but I will take an advancement.” So.
+Janine: Yeah, that was the thing is, I didn’t want to just change it and sacrifice the ability to get an advancement out of it, because I feel like I haven’t had as many of those, necessarily, is…
+Austin: Sorry, you get an advancement no matter what if you sacrifice it.
+Janine: Oh.
+Austin: “If you take an action that requires you to sacrifice, outgrow, or otherwise conclude one of your hooks, cross it off permanently and take an advancement.”
+Janine: [cross] No, that’s—yeah, that’s—that’s what I mean.
+Austin: It doesn’t have to be—it doesn’t have to be—right, right, right, I see what you’re saying. You’re saying you don’t want to do it ahead of that.
+Janine: Taking an action.
+Austin: Yeah, yeah, yeah. Okay. I thought you meant you were waiting until it was deepened.
+Janine: Yeah, I didn’t want to just like, do it when I’m not—
+Austin: Yes, yes, that makes perfect sense.
+Janine: No, I don’t care about the deep part, [Austin: Yep.] I just don’t want to like, throw away a level.
+Austin: Yep, that totally makes sense. So I’d say let’s maybe get one in the chamber ready to—we’re on that gun metaphor for real right now.
+Janine: Mhm. Lock, stock, and barrel.
+Austin: Get a new one in the chamber, start thinking about what that is, and then when it comes time to take that action, you’ll be ready to go, so.
+Janine: Yeah. Yep.
+Austin: Cool. Alright, let’s go from you to Eclectic. Why not? Eclectic, what are your—hm.
+Keith: Hi, I’m—huh?
+Austin: You’ve changed your—did you just do this?
+Keith: Uh, no. I don’t know what you’re talking about.
+Dre: Hm.
+Austin: Okay. Can you read me your Eclocktics, please?
+[Sylvi laughs]
+Dre: Jesus. [chuckles]
+Keith: Yeah, I’ve just got one Eclock with Figure: “Figure is someone who can make things happen.”
+Austin: It’s true.
+Keith: “I said we’ve gotta bring Brnine back, and they just did.”
+Austin: [laughs] They did do that. That’s true.
+Keith: They did, yeah.
+Austin: Cool.
+Keith: Let’s see…
+Austin: And then your hooks.
+Keith: My hooks are: “Leap says pirates steal. If something might be useful, take it.” “Leap says if a broken arm is all that stands between you and some evidence, arms are cheap.” “Leap says trust him number one, trust myself number two, and trust the Blue Channel crew number three, then trust no one.”
+Austin: Great. Let’s wrap back around to Figure.
+Dre: Hello.
+Austin: Hi. Clocks and hooks.
+Dre: [clears throat] Excuse me. I’m trying to remember where those are on this page, it’s been so long. Alright, clocks. I have a clock with Partial Palisade. “Palisade and I were both resurrected against our will by people who won’t fix their own problems.” I have a clock with Cori that is simply “Can I protect Cori from her grief?” That one is plus 2.
+Austin: That’s at plus 2, yeah.
+Dre: Mhm. And Eclectic: “I want to convince Eclectic to be a true believer of the Cause.”
+Austin: Love it.
+Dre: And you said—what was the other one?
+Austin: Uh, hooks.
+Keith: Hooks.
+Dre: Hooks, hooks, hooks. Thank you. Why am I so—oh, there they are. Yeah. I only have two. I have “the wheel must break”, and I have “using this new lease on life purely for violence would be a waste”, which is loose.
+Austin: Great. And the only reason you have two is because you actually resolved your middle one earlier this season, yeah.
+Dre: Mhm. Yes. Which was “I’ve lived two lies; I’d happily die for the truth.”
+Austin: Not anymore. Which is interesting.
+Dre: No, I think being alive is maybe good.
+Austin: It might be good to be alive.
+Dre: Maybe I could do more good alive than dead. Who knew?
+Austin: Yeah. Who knew? Exactly. Cori, your clocks and your hooks.
+Sylvi: Alright. My clock with Thisbe is: “Thisbe is afraid to get their hands dirty; kind of ironic for a farming robot.” My Gravity clock is Captain Brnine is “I can always rely on the captain when I need them,” that’s a plus 2. I also have a plus 2 with Figure, which is: “Figure means well, but I can tell he sees me as just a kid.” I have a rival, Elle Evensong. I also have three hooks—or, I have one tenet, two hooks, which is important for my playbook. My single tenet is “You are a shield; leave none undefended while you still stand.” My hooks are “I need to find something to fight for other than revenge”, and “I need to be stronger no matter what.” They are all loose.
+Austin: [chuckles dryly] You can rewrite ’em whenever you want. You know?
+Sylvi: Yeah, let’s see how today goes.
+Austin: Let’s see how it goes. I love that you’re down to your last tenet. This is important.
+Sylvi: Let me tell ya, it’s been all I’ve been thinking about for three months.
+Keith: That didn’t come up before you got here, by the way.
+Austin: Yeah. This means you’re at 1 Channel, which is interesting.
+Sylvi: Yeah.
+Austin: Okay. Cool. And, you know, it’s interesting, because it’s—the tenet that remains is “You are a shield; leave none undefended”, which you just read.
+Sylvi: Yeah.
+Austin: And that is one that’s like, the part of Devotion and your tenets that has been maybe easiest to keep among others, in some ways. You know?
+Sylvi: Mhm.
+Austin: So, we’ll see. We’ll see what tests that. Cool. Uh, Brnine.
+Ali: Hi, yeah, hello.
+Austin: Clocks and hooks.
+Ali: My first Gravity clock is with Thisbe, it is a plus 2. “Thisbe is an important part of my past.” I have another clock with Cori that is also a plus 2 that is “Try to teach Cori when to stop and think.” And then I have another Gravity clock with the Afflictions, they’re like weird monsters on Palisade, I have a plus 2 right now and the write-up is “I want to understand Lattice.”
+Austin: [chuckles] I love that you’re like, “I got a plus 2 with them, they’re weird monsters.”
+[Ali laughs] [Keith chuckles]
+Austin: “What’s their deal? Oh, weird monsters.”
+Ali: Yeah, they’re like beings that are on the planet that used to be Divines and now they’re scary.
+Austin: Yeah.
+Ali: It’s fine, we’re gonna break bread. My hooks are “The crew put their faith in me, so I must prioritize their safety.” “I’m living on borrowed time; keep up their fight.” And then I have an Asepsis hook, which is sort of the bond that we have together, and then that is “Verify the integrity of anyone that you let on the ship.”
+Austin: Great. Love it. Fantastic.
+Ali: Normal stuff.
+Austin: Normal stuff.
+Ali: And we heard all about integrity before, so…
+Austin: We sure did, we don’t even need to revisit any of that, I’m sure it’s just fine. Alright, so, that’s—so, just to be a hundred percent clear, we have some—we have Eclectic and Figure going on our B-Plot today. Obviously, Figure, you don’t have the move B-Plot, but Eclectic does.
+[Dre hums]
+Austin: But you don’t have to go on a Sortie, there’s nothing that says you have to go on a Sortie. But everybody else is gonna be on the Sortie, and that means we need someone to roll this Lead a Sortie.
+Sortie Discussion
+[36:12]
+Austin: “When it’s time for action and you Lead a Sortie, decide who planned the mission,” which we should talk through—I guess the plan is, I guess, is what Brnine said before. I believe the core of it was something about overalls, I think?
+[Ali laughs]
+Sylvi: Yeah, yeah. It looks natural, so they’ll just let us in.
+Ali: Uh-huh.
+Austin: They’ll just let us in. Roll plus Know if you’re leading with wits or following a clever plan, [Ali: Obviously.] roll plus Crew if someone else aboard—
+[Sylvi and Ali chuckle]
+Austin: —if someone else aboard had a plan, or roll plus Defy if you’re heading into danger blind. On a 10 plus, you make it into the action unscathed; on a 7 to 9, the crew stumbles, misses something important, or is unprepared for what they meet; on a 6 or under, I get to make a move as hard as I want. So, where—[strained] I do—I do need a little more detail on what the plan is.
+Ali: [laughs] Really, that wasn’t clear?
+Austin: I mean, I guess—
+Dre: Yeah, what’s the problem?
+Janine: We’re gonna put on blue overalls, and red shirts and green shirts, and then we’re gonna make-a the action unscathed.
+Austin: [laughs] Oh my god.
+Sylvi: [chuckles] Yahoo.
+Austin: I thought you—when you said just the overalls, I thought you were gonna go to Minions.
+[Ali chuckles]
+Janine: No.
+Sylvi: No—
+Janine: No, I was gonna double back and make fun of you for that little tiny, tiny, tiny slip you did.
+Austin: Oh, did I say “make-a the”? Did I say that?
+Janine: A little bit. [chuckles]
+Austin: Okay. That’s fun.
+Dre: Ey, make-a the plan!
+Ali: This is Bob, Cori’s Kevin.
+Austin: Oh, okay.
+Ali: [laughing] Thisbe’s…
+Sylvi: Hold on. I’m seeing which one Kevin is.
+Dre: Oh, the Minions have names?
+Janine: Oh, we’re back to Minions now, okay.
+Ali: We’ve done Minions before.
+Janine: I thought you were calling Mario and Luigi Bob and Kevin.
+[Ali and Dre laugh]
+Austin: Bob and Kevin Mario, yeah.
+Janine: Oh, yeah.
+Austin: The third generation.
+[Janine laughs]
+Ali: I do Lead a Sortie with advantage, so there’s nothing to be worried about here.
+Austin: Oh, that’s good.
+Janine: Mhm…
+Dre: Fuck yeah.
+Austin: Yeah.
+Sylvi: So we’re impersonating people, right? Like, that was kind of the vibe? Like we’re repairmen or something? I just—[laughing] I also need to actually be clear on this.
+Keith: [cross] Yeah, overalls crew.
+Ali: [chuckles] I would love for us all to solidify this plan together, [Sylvi: Okay.] because, like I said, I had a vibes compass, but not a plan. [laughs]
+Dre: Aw.
+Sylvi: Well, so here’s something I thought we could do, which is we could—and it might not be possible. We’ll see. We could impersonate a team competing in this thing.
+Ali: Sure.
+Sylvi: And that, like, I don’t know how much security clearance that would get in, but it’s at least pretense for us to be on the grounds of this place.
+Keith: With a mech.
+Sylvi: With a mech, as well.
+Ali: Yeah.
+Sylvi: But also—
+Janine: I could do that part because I’m not gonna be a very convincing overalls guy.
+[Austin and Keith laugh]
+Ali: You’re a repair robot!
+Janine: I guess…
+Sylvi: With a god in your horns.
+Ali: Yeah! That’s the easiest part.
+Janine: Uh-huh. That’s normal. It’s a very normal look.
+Ali: Yeah.
+Janine: Okay. [laughs]
+[Ali laughs]
+Austin: So is this the plan? The plan is get yourselves on the team list? The tournament arc list?
+Ali: Yeah, okay, so, but what’s the—is there a tournament schedule?
+Austin: Yeah, this is all—
+Sylvi: You mentioned there’s a bracket.
+Austin: There is, yeah.
+Ali: Okay.
+Austin: It’s all—I am going to say—I’m not trying to say “no, but”. I want to say “yes, and” to this.
+Ali: Mhm.
+Austin: You’ll have to figure out a way how to, like, get yourself onto this list in a way that’s like—you know, everyone knows who’s coming to compete in this already. They’re all internal groups to the Frontier Syndicate. It’s not an open invitation public thing.
+Sylvi: Right, yeah.
+Ali: Yeah. That’s why I felt like vacuum cleaner—or carpet cleaner, sorry. [laughing] We’re not vacuum cleaners.
+Sylvi: No, no.
+Austin: You can all dress up as a vacuum cleaner.
+Janine: See, that I can do.
+Austin: Yeah, that’s fine.
+Sylvi: Is it being—like, are they putting this on as entertainment as well, or is it like, closed sessions?
+Austin: No, they are explicitly not.
+Sylvi: Okay.
+Austin: It is—I have like, lots of thoughts about what would happen to this in terms of it being entertainment.
+Sylvi: Yeah.
+Austin: I do think someone here will—I do think that there will be, like, a wrestling tape style scene where people record this on the down low and it eventually gets out there.
+Sylvi: Okay.
+Austin: I don’t think that that—it is explicitly not being broadcast, because if it was, it would be happening at the big, like, worldwide super arena, and instead is happening at this—
+Keith: It’s entertainment, but only for the people whose job it is to watch it.
+Austin: Correct.
+Sylvi: Okay.
+Austin: And again, there might be a handful of people who, you know, the Frontier Syndicate is the group that like, built City City, right? And built the—worked with the Divine Resonance from Nideo to set up that whole stuff that, Eclectic, you ran into, where like, you have to be on the—you have to be, like, on the grid extremely, you know, and use glint, which is Arbitrage’s currency, and you gotta do—you gotta like, buy bathroom time, you may recall, right? It’s all that shit. It’s the—this is those people, right? So, because of that, I actually suspect that there are people here who are not directly, like, mech researchers or designers or engineers, but who have been, like, who have bought a ticket to this thing from someone who isn’t going—
+Janine: Or one in a chocolate bar?
+Austin: No, I don’t think it’s a chocolate bar—I mean, maybe there are some golden ticket type situations, where it’s like, this is closed to the public, but you won a golden ticket from the march bar, you know?
+Janine: Oh, did you mean it’s more like when someone has employee tickets to like, the opera—
+Austin: This is exactly what I meant.
+Janine: —and they’re like, I don’t fucking care about this opera, do you want these for 20 bucks?
+Austin: Yeah, do you want these for 20 bucks on the black market? And so some of those might be out there, you know?
+Ali: That’s why I feel like if the core employees, quote unquote, are gonna be tied up in this thing, it would be easier for us to be like oh, we’re doing server maintenance, ’cause everybody’s not at their desks.
+Sylvi: Yeah.
+Ali: You know what I mean?
+Sylvi: I’m down with that. The reason I asked if this was being broadcast at all was like, if we could—I was trying to figure out, like, what sort of manual labor job we could impersonate the people doing, like, if we could be—like, I’m the key grip for the tv production or whatever, [Ali chuckles] but—and also, just like, doing maintenance while everyone’s busy.
+Austin: It is being filmed and stuff, but for internal use, right?
+Sylvi: Yeah.
+Ali: Right.
+Austin: Constantly being filmed. Probably mostly filmed by robot drones, you know?
+Ali: Ooh. Get them on our side.
+Austin: Little floaty orbs are all over the place here today recording this stuff. This is a big amount of space also by the way. Like, the—if we dropped in—once we start dropping in tokens and stuff for y’all, a mech will take up one of these tiny little grid spaces, you know? So this is like, more to scale than what we normally do, I think. It’s like meaningful distance between some of these places, you know?
+Ali: Oh, I think part of why I was going maintenance too was because I felt like with Eclectic’s security connections…
+Sylvi: Oh, true.
+Ali: …that would be an easier thing to be like, oh, we’re on the list. You know what I mean? [chuckles]
+[Dre hums]
+Janine: Mhm.
+Austin: Mhm.
+Keith: But I gotta get myself into Gur’s house.
+Ali: Sure.
+Keith: I do have with the new stuff, the new—the rewrite of the moves here, mostly deals with changing how my, like, load out works, so instead of getting two Investigator gear, I get three, and there’s now six different gear to choose from instead of four, and then there’s, like, it changes my—the pistol that I get, too, I get to pick between three different self-defense implements, and two of my gear are Network of contract—Contacts: “Each downtime, ask the Director about a division or actor’s movements.”
+Austin: Oh, that’s fun.
+Keith: Yeah. And then, what’s—“False IDs and Disguises: A face for every occasion,” changed from before, it was just fake ID.
+Austin: Love it. Love that you get to be a disguise guy now.
+Keith: Yeah.
+Austin: What of these are you taking? Which of these three are you taking?
+Keith: Uh—oh, and then, I ran out of room, so the other ones are down in my notes.
+Austin: Oh, I see. I see, I see.
+Keith: Lockpicks is a new one, “for when you need to get in somewhere you really shouldn’t be,” Recording Device, “small, easy to conceal,” and then Extensive Case Files was changed from “take advantage to Dispel Uncertainties about underworld practices” to “take advantage to Dispel Uncertainties about Authority practices and law.”
+Austin: Yeah, that makes sense.
+Keith: Yeah.
+Austin: Cool.
+Keith: So, I think of these three, I’m gonna take Enchanted Lens.
+Austin: We’ve seen you use that, so that makes sense.
+Keith: Yeah, that is plus 1 Hold on successful Read the Room rolls. That’s really good.
+Austin: Mhm.
+Keith: I’m going to take False IDs and Disguises.
+Austin: Okay. Disguise guy.
+Keith: And then… let’s see. I could take Network of Contacts and use this as an opportunity to ask you about the Divine Crusade or, you know, specifically about Gur, fake Gur.
+Austin: Yeah, totally.
+Keith: And that would be useful.
+Austin: Yeah, I would count this, still, as being—let’s say we’re still in that downtime, [Keith: Yeah.] and it’s kind of a fun move for future downtimes, where it’s like I can give you a little insight into something that’s going on, you know?
+Keith: Yeah. But I could see something fun happening with recording, like, a secret confession from fake Gur Sevraq or something like that and broadcasting it. That sounds fun.
+Austin: That’s also true.
+Keith: I could see us—you know, obviously Lockpicks is useful. Yeah, I don’t know. That’s tough. It’s a tough third one. My new weapons are—so I have the Nova Pistol, which is Ranged, Versatile, Impact, Dangerous; Hexed Baton, Melee, Concealable, Blitz, Intimate—
+Ali: You have a Hex Baton?
+Keith: Yeah.
+Sylvi: That’s sick.
+Austin: Hexed. It’s been hexed already.
+Keith: Hexed. It’s been—it’s already hexed.
+Janine: Oh, it’s not like a big Ikea wrench. Okay.
+Austin: You’re picking one of these right?
+Keith: Yes, yeah. And then Bramble Charges, Ranged, Restraining, Elemental, Limited.
+Austin: Love that. You like, throw a grenade, and then it like, lines—
+Keith: Yeah, it’s like a boomerang handcuff.
+Austin: Yeah. Uh-huh. I was going way more magic-y than that, but.
+Keith: Oh, okay.
+Austin: ’Cause Bramble. It’s like a little bramble appears. But yeah, boomerang handcuff is true.
+Keith: That’s the function of it.
+Austin: Yeah, yeah.
+Keith: So… Ah, god, I don’t know. Anybody have an immediate—Dre, do you have an immediate gut reaction of which of these—the contacts—
+[Dre groans]
+Austin: I mean, is Eclectic a—like a blaster guy, a baton guy, or a throwable grenade handcuff guy?
+Keith: I think it’s—
+Janine: Blaster’s more noir.
+Dre: That’s a great question.
+Austin: Uh-huh.
+Keith: I think—yeah, it’s tough, I think that all of these are good. I think least likely—I think Eclectic is a fisticuffs [Austin: Sure.] kind of guy, so least likely to take the Hexed Baton. The Nova Pistol and the Bramble Charges—I really could see me throwing a Bramble Charge at fake Gur and trying to kidnap—[laughs] we do a lot of kidnapping on Friends at the Table.
+Austin: I would say let’s go broader, because it’s not like we get to change this every session. Do you know what I mean?
+Keith: What’s that?
+Austin: It’s not like we get to change these every session. You know what I mean?
+Keith: Yeah.
+Austin: So I’d say go broader and think about what would—what did you have before?
+Keith: I had a pistol.
+Austin: You just had a pistol, okay. So that would be the Nova Pistol, right.
+Keith: Yeah, yeah. Um… But then I’m like, you know, getting three options like this, pistol’s so boring compared to Bramble Charges.
+Austin: Mhm.
+Keith: But it’s also potentially more useful. I did get the shit beat out of me the last time we were on a mission.
+Dre: Oh.
+Austin: Yeah, yeah.
+Keith: So, it would be nice to have a pistol. Did I have a pistol back then? I’m sure I did. Yeah, I did. I remember deleting the old thing and it was a pistol.
+Austin: I’m pretty sure you had a pistol, yeah.
+Keith: Yeah.
+Austin: It’s a cool pistol. These are all cool things, they all have really great—they all have really great tags. The pistol is Versatile, which means it’s both defensive and decisive, [Dre: Ooh.] but it is Dangerous, also, which is dangerous.
+Keith: Yeah. Remind me what Dan—is Dangerous that it can, like, hit people?
+Austin: “Once per Sortie, the Director may upgrade a Risk you acquire while using something Dangerous to a Peril.” So you—it could blow up in your hand, or it could, you know, overcharge or something, [Keith: Right.] or, you know, you could misfire with it, and it, like, goes boom near you. You know?
+Keith: Yeah. Yeah, let’s take the Nova Pistol, I think that I should stop worrying about it.
+Austin: Okay, great. Yep. Uh-huh.
+Keith: Yeah.
+Austin: The other one it has is Impact, which is the thing that’s like, just narrative, but it can like—it has heavy physical punch. It can like, knock people down or break through walls and surfaces, and dent metal, and stuff like that, so.
+Keith: Yeah. Yeah.
+Austin: Cool. So you’re gonna not take—so this conversation was good, useful to have it, but it has not impacted either Sortie directly in terms of information.
+Keith: Right. Oh, yeah, sorry, the—we did focus on the gear. The thing I was specifically asking if Dre had input on was my third Investigator gear.
+Austin: Right, sorry.
+Keith: Which is—Extensive Case Files, take advantage to Dispel Uncertainties. I should take that because that is really synergistic with Lurking Conspiracy. Take advantage to Dispel Uncertainties about Authority law and practices, and then Lurking Conspiracy is the thing that lets me downgrade Dispel Uncertainties or Read the Room in order to get clock points in my investigation clock, so I’m gonna take that.
+Austin: Okay, so that is cool. Okay, I see. Great.
+[50:34]
+Austin: So let me wrap back around to the overall mission thing. You’re being dropped off somewhere else, presumably, or getting transport—Figure and Eclectic are somehow going to, I’m guessing, to—I’m gonna go to the big map really quick.
+Dre: Please.
+Austin: The Temp—so, things are not super super far away, but they’re pretty far away, when you think about this as a planet. You can see the Temple of the Threshold, that is where Gur Sevraq does Gur Sevraq shit. Here, right? In kind of the middle of the planet, the threshold between the north and southern continents, right in the kind of middle of the major mega-continent left and right, east and west. And then over to the east in Greenfield up near the Diadem is the Lone Marble HQ. You can see that there. Those are where you’re—the two missions are happening. I’m guessing you’re dropping the folks off for the Temple of the Threshold, Brnine? Are you dropping them off nearby, are you putting them on a bus to the Temple? What are you doing?
+Dre: Wow.
+Austin: I don’t know. Y’all don’t have like, a—
+Ali: Um… Maybe this is like a goodbye at a public train station sort of situation.
+Austin: Sure. Yeah.
+Keith (as Eclectic): Goodbye!
+Ali (as Brnine): Good luck, you two. Uh… Keep in touch.
+Dre (as Figure): You got it, captain.
+Keith: I do a two-finger tap on my radio. I’m like, yeah, radio. I don’t say “Yeah, radio,” I just tap on the radio.
+[Sylvi laughs]
+Ali (as Brnine): Yeah, yeah, radio. Uh-huh. Uh, yeah, I, you know. See you when I see you.
+Austin: Alright. Alright, then, the rest of you, Blue Channel parking nearby in Greenfield, hiding in the Diadem again, what’s the—what’s your way directly into this place? And then we’ll make this roll, because it sounds like we’ve—maybe I’m not—maybe I’m wrong. Maybe that little Eclectic aside actually still leaves us with are we going in as a fake battle team, are we pretending to win the Wonka ticket, are we buying something on the black market, are we repair folks? I actually don’t know that we ID’d that, exactly.
+Sylvi: Yeah. It felt like we were leaning repair folks, but maybe I’m wrong?
+Ali: Yeah, Janine, did you have strong feelings? Because I feel like you’re the person who had a preference…
+Janine: I’ll be a vacuum or whatever.
+Ali: [laughs] Let’s fucking go!
+Keith: [laughs] A dust reel.
+Ali: Then sure. I think it’s, um, the Blue Channel is staying nearby, cloaked, [Austin: Mhm.] I think Midnite will probably be on standby in the rabbit that she has.
+Austin: Mhm.
+Ali: And then we’re just driving up to a maintenance gate [Austin: Uh-huh.] with our fake IDs and Brnine with [laughing] big sunglasses on.
+Dre: Mhm.
+Austin: Mhm.
+Ali: And Cori and Thisbe in the back seat. Well, Cori’s shotgun. Thisbe’s in the back seat. [laughs]
+Sylvi: Aw.
+Dre: Wow.
+Ali: Yeah, here we are.
+Sylvi: It seems like a space thing, right? Thisbe needs the multiple seats.
+Ali: Uh-huh. Yeah.
+Austin: Uh-huh. Yeah, alright, I’ll draw them on the map.
+Ali: We got our work suits on.
+Austin: Mhm.
+Ali: We got our equipment.
+Sylvi: Got a little cap covering my head wings.
+Ali: Yeah.
+Austin: And so you’re going into the main campus, not near the stadium and expo center. You’re going all—you’re going to the—
+Ali: Yeah, I feel like it’s—
+Austin: Ping where you want to enter here.
+Ali: I feel like it’s—
+Austin: So, I guess to describe for the—let me just describe for the listener really quick.
+Ali: Yeah.
+Austin: The very northern end of this is the Diadem, which is like, you know, the big city pit thing that it runs around the equator of the world. Then there’s a building there right up on the Diadem. You can assume that that’s some sort of depot, transit depot or something. Then there’s a little road that goes from there to a big walled structure that sort of circles a kind of oblong campus, tech campus, that has one, two, three, four, five, six, seven buildings. There’s kind of a five-building center in the kind of top half of the campus, five buildings, it kind of looks like two, then one in the middle, and then two on the right, and then there’s a kind of long walkway park type vibe between two round buildings, buildings F and G, and that whole thing I’ve just described takes up I’d say half of this map, maybe two thirds of this map.
+The walls are like, thick walls. They’re not just—like, that’s a big building around the building in a sense, right? Around the campus in a sense. And the northwest and northeastern walls are especially big. And then—and there’s routes in and out of there on the east, north, south, and west—and then there is the Cardiff Reach Stadium and Exposition Center, which is just outside of the walls of the campus, and that’s its own big structure that is huge, it’s a giant arena, and that has a road going southeast from here. So that is the—that is what people are looking at on this map.
+Ali: Um, yeah, so I think we maybe take in this road from building G. I feel like this is sort of a “while the engineers are away, the mice will play” [laughs] mission.
+[Sylvi laughs]
+Austin: Oh, okay.
+Ali: And just—I want to have a quick hangar scene, by the way. I just want to have a scene in the hangar with Cori and Thisbe and Midnite and Brnine.
+Austin: Is Palisade here? What are you doing with Partial Palisade? Because Palisade joined the crew last time.
+Ali: Oh, I think Palisade’s chilling on the Blue Channel with, um…
+Austin: With Hunting and…
+Ali: Hunting, yeah, yeah, yeah.
+Austin: Okay.
+Ali: Yep.
+Austin: And—Hunting and Septet, the infirmary doctor.
+Ali: Yeah, yeah, yeah. Yeah. I feel like Palisade has mostly been vibing and also sort of—
+Austin: I think that’s true, too. Palisade has basically been vibing.
+Ali: [laughs] And is sort of in these, like, sort of—everybody hands on deck, is like, Hunting’s number two.
+Austin: Right, right. Yeah. I feel like Partial Palisade has done, like, if y’all have been like, what’s up with Palisade around the ship, it’s a lot of, like, showing up with a bucket, with a mop, or a bucket with a wrench, doing lots of maintenance work. Big maintenance and repairs…
+Janine: And we shouldn’t bring them?
+Sylvi: Yeah, wait. Hold up.
+[Ali laughs]
+Austin: Is learning how to do those things, is not an expert, but like, takes to it. Like, likes doing—that’s the thing that he likes, is like, “Oh, yeah, I noticed that there was a squeak on this door hinge and I fixed it.” Or like, you know.
+Keith: Suburban dad.
+Ali: Sure.
+Austin: Suburban dad, always trying to do repair and maintenance. Real “we can build that at home” energy. Doesn’t know how to build it at home, but is confident in your collective ability.
+Janine: “Why would you buy a shelf? It’s just wood. Just make it.”
+Austin: “It’s just wood. Just make it. Just—I know where there’s trees.”
+Keith: Just nail it straight to the drywall.
+Austin: [chuckles] Yeah.
+Ali: [laughs] Um…
+Austin: So, yeah. So you’re gonna come in here, this kind of east entrance to the campus.
+Ali: Yeah.
+Austin: Okay. But you want to do a scene first in the hangar.
+Ali: Yeah. Alright.
+Austin: Yep.
+Hangar
+[58:12]
+Ali (as Brnine): Hello, everybody. We’re about to head out to the Marble HQ, and I just want to check in before we’re in the mission, and we have this time to talk. I know that I’ve been a little bit absent. I think that we can all say that the crew has been pulled sort of thin. But I just want to say in looking at some of the old mission reports, there is some opportunity for better communication. We’ve had some issues with friendly fire. I think that there have been places where we have maybe not all been on the same page. And I just want to say when we go out there today, especially in a mission of this nature, communication is key. Uh… And—
+Sylvi (as Cori): Aye aye, Captain!
+Ali (as Brnine): Yeah. Uh-huh.
+Austin (as Midnite): Wait a second. When was there friendly fire? Did I miss something?
+Austin: Says Midnite.
+Ali (as Brnine): Midnite…
+Austin (as Midnite): I didn’t shoot anybody.
+Ali (as Brnine): Well, there’s just been, um—I don’t want to point any fingers, but there’s certainly been aggression that has not been communicated to the rest of the team, and I just think that we should all know—we should all be aware of the movements that we’re about to take so we can anticipate them.
+Sylvi: [chuckles] Cori’s like looking around, like, who is she—who are they talking about?
+[Austin and Ali laugh]
+Austin (as Midnite): Alright.
+Janine: Friendly fire is, of course, when a friend is mad. [chuckles]
+[Dre hums] [Austin chuckles dryly]
+Janine: And has fire eyes.
+Austin: All fired up. Yeah, uh-huh.
+Janine: Anime fire eyes.
+[Dre laughs]
+Ali (as Brnine): I do think—to name names. Just to let it all—we’re all friends here, we all work together.
+[Janine scoffs, laughs]
+Ali (as Brnine): I just think Thisbe and Midnite, when you consider how long we’ve maybe worked together, it puts Cori in a position that’s difficult, and I just think that if we all sort of keep this in mind and just listen to orders…
+[Sylvi laughs] [Ali laughs]
+Sylvi: Nodding.
+Ali (as Brnine): Keep our comms open—
+Janine: What happened? What am I missing? What happened?
+Sylvi: I think this is about me killing civilians and being too violent, but Brnine’s trying to be really nice about it.
+Ali: [laughing] Uh-huh.
+Dre: Oh, okay.
+Sylvi: And it’s really funny.
+Janine: Ah, okay. I thought you were blaming Thisbe for something. I was like, what? I didn’t fuckin’ do anything.
+Ali: No, this is Brnine being like “Cori fucked up, but I just want everybody to [laughing] create a situation where Cori can be supported.”
+[Sylvi laughs]
+Janine: Nurtured in response to fucking up.
+Ali: Yeah, uh-huh.
+Janine: Uh-huh. [chuckling] That’ll set a good example.
+Ali: Yep.
+Austin: Mhm.
+[Ali laughs]
+Austin: Sounds great, I think, personally.
+Janine: Kill civilians, get a lot of personal attention. What could go wrong for someone with daddy issues?
+[Ali laughs]
+Austin: Damn.
+Sylvi: [muffled] Oh my god. [chuckles]
+[Ali laughs]
+Ali (as Brnine): Well, if nobody has any questions, I’m really looking forward to this one today.
+Sylvi: I salute.
+Ali (as Brnine): You want to bring hands in? Can we get a “go team”?
+Sylvi (as Cori): Yeah!
+[Ali laughs]
+Austin (as Midnite): Hands in.
+Ali (as Brnine): Alright. Three, two, one, Blue Channel!
+Sylvi (as Cori): Go, team! Oh—
+Austin (as Midnite): Blue Channel.
+[Ali and Sylvi laugh]
+Janine: I don’t think Thisbe participated in that. I think Thisbe was looking at plants.
+Austin: Aw.
+Ali: Wow.
+Dre: Aw.
+Janine: It’s—look, she’s higher than everyone else, like, it’s just—it’s weird.
+Austin: Yeah. Mhm. No, you’re not wrong.
+Janine: It’s weird to do stuff like that. You’ve got to like, bend over an entire person to get your hand in? Come on.
+Austin: Yeah.
+Janine: You know where she’s at. It’s already—it’s unspoken.
+Austin: Yeah.
+Ali (as Brnine): We were just talking about team synergy, Thisbe.
+Sylvi: Wow.
+Keith: Wow.
+Janine: [chuckling] That’s not really what we were talking about, was it?
+[Ali laughs]
+A-Plot: Lone Marble HQ
+[1:02:24]
+Austin: Alright. I think it’s time for this roll.
+Ali: Sure.
+Austin: Let’s make the roll, and then I’m gonna take five to try to get my head around this plan you’ve given me.
+Ali: Yeah, yeah, yeah.
+Janine: And make some ghosts.
+Ali: So this is—[laughs]
+Austin: And make—gotta investigate the ghosts.
+Keith: Is that a comment on the quality of the plan?
+Austin: No. “When it’s time for action, you Lead a Sortie; decide who planned the mission and roll.” Is this plus Know or plus Defy, is really what my question is. Is this you’re leading with wits or following a clever plan, or are you heading into danger blind?
+Ali: I want to advocate for myself and say that it’s plus Know, but let me look at my—’cause I think I have a better Defy than I do Know.
+[Sylvi laughs]
+Ali: No, they’re both exactly the same.
+Sylvi: Okay.
+Austin: So, really, up to you.
+[Ali laughs]
+Sylvi: Let’s do Know.
+Austin: Do Know, alright. Clever plan.
+Ali: [laughing] I’m just gonna put a plus 1 there and then you can decide.
+Austin: And make sure that it’s 3d6. 3d6 because you have advantage, right? You have the move that gives you advantage, so.
+Ali: Yeah.
+Sylvi: [chuckling] It’s Know if we succeed, it’s Defy if we don’t.
+Ali: [laughs] 3d6 plus 1.
+Austin: That’s a 13. Take highest.
+Sylvi: Yo.
+Ali: Let me tell you.
+Austin: 6, 6, 1. Yeah.
+Janine: Hell yeah.
+Austin: Your other—the third die, for the record, was a 1, but we’re gonna discard that and take highest, so.
+Janine: It doesn’t matter, it doesn’t matter.
+Ali: This is a plus 1.
+Austin: Uh-huh.
+Ali: This is a Know. This is a clever plan.
+Austin: This is a clever plan. When you get a 10+ on a Lead a Sortie, you make it to the action unscathed. So, I’ll give you a little color before we take this 5 minutes. Do you drive up—you drive up. What do you, actually—how are you approaching?
+Ali: I think that this is a drive-up. I think that I have, like—I think that this is like, a van.
+Austin: Uh-huh.
+Ali: Like a, like… [chuckles]
+Austin: Yeah, we’ll do the kind of Blades in the Dark style, like, we don’t need to get every detail of the prep for this mission. You got a van at some point.
+Ali: Mhm.
+Austin: What do you—you drive up in the van?
+Ali (as Brnine): Uh… Hello.
+Austin: Sorry, I’m asking the question. Is that what the—
+Ali: [chuckles] Yes, yes, I am. Yes, I am. Yes, I am.
+Austin: Yeah. The thing that—there’s two things you notice here as you approach. One is like, you can hear the sound from the stadium to the southwest as you drive up, and maybe, you know, just off the map to the southeast, you are on the same highway that you kind of like turned off of to go to the western—or the eastern entrance of the building. And you can see that there is like, a huge line of cars going there, and you are like, stuck in traffic. It’s one of those moments where you’re like, “Okay, I’m gonna get to the exit and then the traffic’s gonna clear up because everyone’s going to the stadium, and I’m gonna turn off, and then the traffic’s gonna clear up.”
+It doesn’t. There are so many people coming to the campus directly, not just to the stadium itself. Not as many, but you end up in like, a long line of other sort of cars and van—mostly trucks and vans, right, delivering supplies, delivering other support staff, and eventually you get to the front of the line, and we don’t even need to play it out, because you got a 10. You, you know, present, produce your whatever kind of fake ID is that you’re doing for this plan that you got here, you know, they do a quick check of your supplies that—or the whatever, they scan the truck really quick, in a way that you are prepared for. Maybe you told them exactly what you had, and it’s like—yeah, I mean, it’s—this is a military facility, you said we’re bringing—I’m gonna look at your sheets and see what you have with you. A shield brooch, a sacred weapon, you know what I mean? Like, you have the stuff that you have. You have a gun. Like yeah, no shit, everybody here has guns. But you’ve declared that stuff—
+Ali: Palisade’s crazy these days.
+Austin: Palisade’s crazy these days.
+Ali: You gotta travel with a weapon.
+Austin: Yep, and your—
+Ali: This is my smalltalk. [chuckles]
+Austin: Great. Fantastic.
+Austin (as Guard): Yeah, it’s—I don’t think anybody would—
+Austin: And this is where you get a little intel.
+Austin (as Guard): I don’t think anybody would try to do anything untoward during the tournament, you know. We have all this extra security throughout the campus just in case, so.
+Ali (as Brnine): Oh… [scoffs] Please.
+Austin (as Guard): Anyway, go ahead and park in—
+Janine: [cross] But also, this is a crowd that’s gonna want to keep that thing on them. Sorry, that thang on them.
+[Ali chuckles]
+Austin: That’s true. That’s right.
+Austin (as Guard): Anyway, go ahead and park in C-22, and you’ll—you’re just in time for morning initiation, so make sure that you’re there for the orientation for contract workers, and then, we’ll, uh—
+Ali (as Brnine): Appreciate that.
+Austin (as Guard): Hope you have a great one.
+Ali (as Brnine): Yeah, you too, buddy.
+Austin: And you head in. And any question that you had that this would be lighter because everyone would be at the stadium is instantly dispelled. It turns out when you invite tens of thousands of people near your secret tech campus, you actually double down on security because there’s a greater risk of infiltration, so. Alright. So, you have checked in. What—are you gonna go to the—are you gonna go to the—I said initiation, but I said a better word seconds later. What was it? What is it called when you like, go to the—
+Ali: Orientation?
+Austin: Orientation, yeah. Are you gonna go to the—is the whole crew going to the orientation? The whole van crew?
+Ali: I would love to stick together. If other people have better ideas, I will…
+Sylvi: Yeah.
+Austin: Okay.
+Ali: You know, this—again, open and honest communication. Keep your comms open.
+Austin: Mhm. Mhm.
+[Sylvi laughs]
+Ali: Declare your intentions.
+Austin: Ah, I see. Yeah.
+[Ali chuckles]
+Austin: Did you get this from a book? Is Brnine reading a CEO leadership guide?
+[Ali laughs]
+Sylvi: [cross] Yeah, do you have a—
+Keith: [cross] [laughs] I was just gonna say it sounds like something from a leadership workshop.
+Sylvi: [cross] —I was gonna ask if you took a course.
+Dre: [cross] Yeah, you reading fuckin’ Covey in your spare time?
+Austin: Sorry, one at a time now, please.
+Sylvi: Sorry.
+Austin: Let’s all drag Brnine once and then let someone else do it after.
+[Ali continues laughing]
+Sylvi: It just seems like you just took a leadership course is my thing, you know?
+Austin: Uh-huh.
+Keith: Oh, yeah. Sylvi and I said that at the exact same time. We both said leadership workshop.
+Sylvi: Okay, cool.
+Dre: Yeah, you’re reading—I forget his first name, but Covey. That’s the guy who’s like, how to make friends and influence people.
+Ali: Wow.
+Janine: I was gonna make a—I was gonna say, like, how to make friends and influence Divines.
+Austin: Yeah. Yeah.
+Ali: [laughing] I think Brnine might be a big self-improvement audio book person in this phase of their life.
+Austin: Yeah.
+Keith: Oh my god. This is now—you’re “The Increasingly”—
+Janine: Very, oh my god—
+Keith: —“Increasingly Poor Decisions of Todd Margaret” vibe.
+Janine: This is—
+Austin: Someone literally just, in another Discord I’m in, linked “radicalcandor.com: Kick ass at work without losing your humanity”.
+Sylvi: Fuck off.
+[Ali chuckles]
+Austin: I hear it’s good. They were—I think it was genuinely—“Be a kickass boss without losing your humanity.”
+Sylvi: Okay.
+Keith: No.
+Austin: So, I’m dragging it, but you know.
+Sylvi: Yeah.
+Austin: There’s a world where—there are some people I know who could be better at being bosses, so.
+Sylvi: True.
+Keith: Yeah.
+Austin: But then Brnine—
+Janine: I was gonna say, the thing I’m getting here is Brené Brown.
+Austin: Oh, sure. Yeah, yeah, yeah. That makes sense.
+[Dre and Sylvi hum]
+Janine: Brnine Brown.
+Austin: Brnine Brown, yeah.
+Janine: Brené Brnine.
+Dre: Jesus.
+Sylvi: [chuckling] Brené Brnine.
+Ali: Who?
+Keith: I do—I really do now feel like I have to unlink Brnine in my head from David Cross as Todd Margaret.
+Austin: Uh-huh. Yeah.
+Keith: The hardest to watch show of all time.
+Dre: If we start going in on Brené Brown on this podcast, I’m gonna have to quit. That’s like the closest thing to Swifties that we have in the therapy world.
+Janine: Oh, yeah. It’s truly…
+Keith: Wait, who’s Brené Brown?
+Dre: Is Brené Brown stans, yeah. I, like, I haven’t read her stuff.
+Janine: [cross] Brené Brown’s all about, like, being vulnerable in the same way that Taylor Swift is.
+Dre: Yeah.
+Janine: She’s fine. I’ve watched some of her talks. My therapist recommended her to me.
+[Austin hums]
+Dre: See? [chuckles] This is what I’m sayin’. [laughs]
+Janine: At one point, I like—she—yeah, I—she… If you have trouble being vulnerable, she’s a useful listen.
+Austin: Sure. That makes sense.
+Dre: Yeah.
+Janine: That’s all I’ll say, really. But also, calm down. Everyone needs to calm down all the time. Just calm down.
+[Ali laughs]
+Dre: Mhm.
+Sylvi: So true.
+Austin: That’s simply true.
+Keith: Calm down about Brené Brown, or calm down about—
+Janine: [cross] Anything. Calm down about—
+Dre: [cross] In general. Just in general.
+Janine: [cross] Calm down about people.
+Ali: Yeah.
+Dre: Yeah.
+Austin: Mhm.
+Keith: Right, sure.
+Dre: Don’t calm down about Friends at the Table, five stars. Thank you.
+Austin: Five stars, put it there.
+Dre: Yeah.
+[Ali and Dre chuckle]
+Austin: Alright, you have been brought to the—to the group—oh my god, what is wrong with my brain today? I cannot remember a word.
+Sylvi: Orientation.
+Austin: Orientation. I keep wanting to say initiation. This is not a cult, it’s just a business.
+Dre: Yet.
+Austin: Yeah, uh-huh. You go to the morning orientation—
+Sylvi: My time to shine.
+[Dre laughs]
+Austin: And you are very quickly organized into groups of, you know, kind of like different tasks, and you quickly find out that you are being tasked to go basically do maintenance on the various parts of the stadium and the sort of, you know, if you think about what’s happening there as a tournament, I need you to think about it less as like, two jousters doing a joust, and more like a MOBA or like—you know how Fortnite has bots, also?
+Sylvi: Oh, yeah.
+Austin: There’s like bots, too, you know what I mean?
+[Ali hums]
+Austin: And so like, you’re there to—you’re being sent down there as part of a group to make sure that the, like, the—I guess, like, Titanfall does this, right? Where like, it’s PVP, but also, there’s just like, randos running around in that main mode, to like, repair the randos, right? To keep the kind of drones up and running, to repair any damage done to the battlefield, to do support work for the various teams, they’re only allowed a certain number of hours of support, like, outside support mechanics, each team is supposed to provide their own mechanics. I’s a whole thing, right?
+So that’s where they’re gonna send you is down south, southwest of here, you know, alongside this or through this big outer wall facility, and to the Cardiff Reach stadium. Obviously, your suspicions are whatever you’re looking for is somewhere in the buildings A-G core campus of the Lone Marble Group. The map that you have been given is this one, which does not give you any more clarity on what any of these buildings are, or where you might find whatever it is you’re looking for, which, by the way, what exactly do you think you’re looking for?
+[Ali chuckles]
+Janine: I don’t like that. I don’t like “what do you think you’re looking for”.
+Austin: What do you think you’re looking for? All I know is you’re looking for a way to stop the Motion revival project, but that’s not, like—are you looking for a big switch that says “stop this project”? Or are you looking for something else?
+Sylvi: That would be super convenient.
+Keith: This would have been a great question to ask, like, December 8th.
+Austin: Mhm. I did, and it did come up, and what I said then was, your intuition is they probably have a way to keep Motion under control. I said something like, you know, you don’t build a bomb without also building a diffuser, or something like that.
+Ali: Yeah.
+Austin: Alright.
+Ali: Um—
+Janine: I have a question that is fully out of character, is a very non-Integrity question, is very much not in Thisbe’s mind, but is in my mind, personally. What are the reasons we wouldn’t just want to blow this entire place up? Other than, like, some civilians.
+[Dre stifles laughter]
+Keith: Handwave. Quickly handwave.
+Ali: There’s that. [laughs]
+Janine: Yeah.
+Sylvi: Wow, I can’t believe you’d say that.
+[Ali laughs]
+Dre: That’s so fucked up.
+Ali: I know, but I mean—
+Dre: Cori finds your implication disgusting.
+Keith: What is this—no, no, nevermind.
+Ali: Alright. Um…
+Janine: Just like, you know, worst case scenario.
+Sylvi: I feel like if—
+Janine: If we really need to…
+Sylvi: I feel like it’s gonna be hard to get in and out, like, this place is swarming with mechs, right?
+Austin: Yes, this is—
+Sylvi: Like, we will become the target the second that…
+Austin: Yeah, what I will say is, and this is supported mechanically, it would be really hard to do that. You would probably lose that fight.
+Janine: Mhm.
+Austin: You would die here if you tried to open fight destroy everything here.
+Janine: Okay.
+Austin: So that’s one. Notably, the Lone Marble Group facility is one of the three facilities—sorry, one of the three—what are they actually called? Why am I blanking on this?
+Ali: Major factions?
+Austin: No, they’re not the faction, they are one of the—
+Ali: Oh, pillar?
+Keith: Pillars?
+Austin: —pillars of the Frontier Syndicate and of the Bilateral Intercession. So, you could get some Grip on them here, right? But the chances are that you make it fall is unlikely, which is to say, there are some tricks up its sleeves here in terms of how sustain—or how resilient, maybe, it is. It’s also just very hard to knock down in both literal and physical terms. And then, beyond that, it’s like—it’s an institution. It’s not just buildings. Right?
+Janine: Yeah.
+Austin: The Lone Marble Group is a collection of people, it’s a collection of practices and hierarchies, and backed up data in satellites, and all that other stuff, right? So, that’s part of it. And then, finally, it’s like, you don’t know that that would make the Motion project stop.
+Janine: Right. Okay.
+Austin: And maybe that’s the most important one, right?
+Janine: So this would be like—it would be like trying to blow up the loop to deal with… boring company or whatever.
+Austin: Elon Musk? Oh, yeah, uh-huh. Yes, exactly.
+Janine: Okay. Alright.
+Austin: Yeah. Destroying one place—and this is their headquarters, right?
+[1:15:00]
+Janine: Yeah.
+Austin: But like, it’s not as simple as that, unfortunately.
+Janine: Okay. I just wanted to check. I just wanted to—
+Austin: Nope, totally, totally. You know, if—I’d say if you razed this place to the ground and got nothing but critical hits and somehow survived overwhelming odds, you still would only add a bunch of Grip to this, you wouldn’t make it fall, right? But.
+Janine: Eh, yeah, it’s… Mhm. Okay.
+Austin: So yeah, that’s where they’re gonna send you. Whether you go somewhere else, that’s up to you. And that’s why I was asking, what is it you’re looking for? And maybe, how do you start to go about trying to piece together where you might find something useful to you?
+Ali: Um, do I—maybe this is like a Read the Room situation, but do I get the sense that like, the other groups are being split in some way? Do I get a vibe of like—you said that I was given this map. Would I be able to like, speak to somebody, or look at a database or something to see what the focus of each building is?
+Austin: [cross] Sure, you could speak to somebody. You—
+Ali: Is there someone here who’s like, really—
+Austin: Clearly, like, in charge?
+Ali: Not even just in charge—well, part of being in charge, but also just being the person who, like, wants to talk about this shit, you know? Is there like—
+Austin: No one wants to talk about this shit.
+Ali: Okay.
+Austin: No one—anybody here has been briefed about what they’re doing here, they signed the contracts, they want to go get paid. And the people who are running the game want you to go do that without them doing any extra work.
+Ali: Oh, sure.
+Austin: So you’re gonna have to initiate if you want to talk to somebody.
+Ali: Right. But I’m looking for someone who’s like, peppy, who’s a little overshare-y, a little bit of a gossip.
+Sylvi: You’re looking for a mark.
+Austin: You’re looking for a mark here.
+Ali: I’m looking for a mark, yeah.
+Austin: Yeah, uh-huh.
+Ali: Someone I can be like, oh, the architecture’s beautiful here, who would be like, oh, building A is so nice, and we—
+Austin: That is not the vibe inside of this—
+Ali: [laughs] Okay.
+Austin: And I want to make—no, no, no, I want to make this clear. You do not have trouble finding people like that, generally.
+Ali: Sure.
+Austin: But here, the way that people are moving feels odd. Not brainwash odd, but inculturation odd, feels—it’s not the way that people who are—I mean, I guess, the thing that it’s closest to that you’ve seen is, in personal life, was when you were on the stellar combustor, and there were the people who were inside of the stellar combustor that had been cybernetically changed so that their, like, thermal, you know, maintenance—their—there’s a word for this, too. I don’t have any of my words today. But their, like, heat maintenance in their bodies was adjusted, right? Their equilibrium in terms of heat. Where like, oh, this is their life. They have made—they have made or been forced to make decisions in their life to where they take this part—this is it for them. And so the people in this part of the kind of campus have—there is no room for the little smalltalk. That has been beaten out of them, right? Culturally. They might have a smalltalk allowance that they are saving for later when they can use it during lunch. That is the vibe you get from the people here.
+Ali: Okay.
+Austin: Right? Doesn’t mean you can’t initiate something, but you’re not gonna just, you know. You’re not gonna luck out and find the, like, the bubbly receptionist.
+Ali: Right, right, right. Okay, yeah.
+Austin: This is not that space.
+Ali: Um… Maybe I can go about that information in a similar way in terms of me being the annoying one.
+Austin: Uh-huh.
+[Sylvi laughs]
+Ali: Of being like, well, I want to do this right, and if I gotta do this right, I gotta know what’s going on. My team needs extra wattage, or some shit. [laughing] I don’t know. I don’t know what Brnine knows.
+Austin: Uh-huh.
+Sylvi: Yeah, yeah, yeah.
+Ali: So, yeah.
+Austin: So, yeah. You go up to—who is—what type of person are you going up to in terms of their role? Is it the person who briefed you during the orientation? Is it another worker? Is it someone who looks like they’re—what type of person are you looking to try to get some intel from?
+Ali: Probably somebody who’s like, running one of these—if there’s like a team breakout, I’m probably going for…
+Austin: Yeah, you’ve been put on a team, you’ve been put on, you know, [Ali: Right.] team seven, and so there’s a team seven lead. Or a team seven, like…
+Ali: Yeah, it would be the team seven lead.
+Austin: Yeah, totally. So you go up to them, they are Columnar, his name is Telford Stare, Telford, Tel, and—are you using your real names? What are you using? What did you—
+Ali: Ooh, fake names.
+Sylvi: Oh, god.
+Austin: Fake names. What’s your fake name?
+Keith: Sorry, his name is Telford Stare, goes by Tel, or his name is Telford Staretel?
+Austin: Telford Stare, goes by Tel.
+Keith: Got it.
+Austin: There’s like a nametag that rotates between Telford Stare and then “Tel” in quotes. It has—it’s like a digital nametag that flips between the two. It’s e-ink. Actually, it’s just like a flat white name tag, but it’s e-ink, and it just rewrites itself every—like, doesn’t rewrite itself in a fun, clever way, it just kind of flips between the two, but if you just saw it in a photo you would think it’s just a flat plastic piece of material, right? But it goes between Telford Stare and, in quotes, “Tel”. Kind of severe-looking Columnar, dark metal with some yellow paint for—around like, their head. He’s got a kind of bulkier body, clearly had some modifications done to—for not just like maintenance work, but for hauling things. Do you have a fake name?
+Ali (as Brnine): Hi, J. Jordans here?
+Austin (as Tel): Jordan. What can I help you with?
+Ali (as Brnine): Um, yeah, I, um, had some questions about the particulars of the work here? Um… My—
+Austin (as Tel): Did you read your brief?
+Ali (as Brnine): I did, I did. But, uh, the brief was lacking where we might be able to acquire some generators.
+Austin (as Tel): The generators are at the stadium, at the stadium supply depot. Everything you need will be at the supply depot. It’s on the western side of the stadium. If we run out, then make a note and we’ll have more shipped down.
+Ali (as Brnine): Make a note to you?
+Austin (as Tel): That’s right. Send me a message.
+Ali (as Brnine): And if I can’t contact you?
+Austin (as Tel): Then you will wait until you can contact me.
+Ali (as Brnine): Alright. Um, well—
+Austin (as Tel): Have you not found—you haven’t, ’cause you didn’t know where they were, so I’m gonna save you some time. Go there, there will be the generators you need.
+[Ali and Dre chuckle]
+Austin (as Tel): Is there anything else, Jordan?
+Ali (as Brnine): It’s Jordans. J. Jordans, thank you.
+Austin (as Tel): I apologize, J. Jordans. [sternly] Is there anything else, Jordans?
+[Dre stifles laughter]
+Ali: [chuckles] Fuck.
+[Sylvi chuckles]
+Ali: Um… Little help here. [laughs]
+Sylvi: I’m trying—I’m think—I’m trying, Ali. I’m racking my brain.
+Keith: I’m—I have a question just to give everyone time to think, to rack.
+Austin: Oh, are you spending one of your B-Plot?
+[Ali laughs]
+Keith: Oh, hey, I forgot that that is—
+[Janine chuckles]
+Keith: I can’t do this unless I spend my B-Plot, so.
+Austin: You—I mean, yeah, what you’re—I’m just laughing a little bit, which is “cut away from the Sortie during a moment where time is precious, giving everyone room to think” is literally the thing you’re doing.
+[Ali laughs]
+Dre: Oh, huh, yeah.
+Keith: It is true. It is true. If I hadn’t said that, I don’t think it would have come up, [chuckles] but I did say that.
+Austin: No, no. Yeah.
+Keith: So, no, sorry. Sorry, everyone.
+Austin: So you’re not doing—sorry, you can say what you want to say, Keith. What we would normally do is pull the camera over to your side of the game when you do that, to be clear.
+Keith: Yeah, yeah. I just want to ask, ’cause I’m just trying to remember what we landed on last time we recorded, is this mission that they’re on, the A-Plot, [Austin: Uh-huh.] is this happening simultaneous with the other factions of the Cause going and blowing up a bunch of Motion things, like…
+Austin: I believe that that has already happened for sure.
+Keith: That’s already happened.
+Austin: Yes.
+Keith: So we’re now, like—
+Austin: In the shadow of that.
+Keith: They’ve—right, okay. So this is like right after.
+Austin: Correct, yeah.
+Keith: Okay.
+Austin: Because that was gonna happen no matter what. You succeeded at your clock, and so that triggers, right?
+Keith: Right.
+Austin: And so that has already happened.
+Keith: Okay. I sort of remember last time that the conceit was that it sort of all had to happen at the same time.
+Austin: I’ll double check just to make sure that I’m not misremembering that.
+Ali: I think it was—what we ended up discovering is that the clock that you had was—convinced them to already do it, and not that—
+Austin: Right.
+Keith: Right.
+Ali: —it was something that we had to present to them, so because they did that…
+Keith: Yeah, my memory was that mechanically, it succeeds because my clock filled, but narratively, it was all gonna happen at the same time. Like, their side is done for sure, but our side of like—
+Austin: We had floated a—
+Keith: —finishing the job is…
+Austin: Yeah, we had floated a bunch of stuff around. Like, oh, maybe we can time it out to da-da-da-da-da—
+Keith: Sure, sure.
+Austin: But that was, I think, before we realized that your move worked a different way than it did.
+Keith: Okay. Alright.
+Austin: I’m pretty sure. I’m double checking. Shoutouts to robotchangeling and the entire translation—or, translation. Transcription team.
+Keith: Translating it from audio to words.
+Austin: Yeah, exactly. Exactly. I’m skimming it, I’m skimming it. “What this kind of looks like is…” Da-da-da, “We’re gonna take care of it, we’re gonna move our units, we’re gonna knock out the five things. You can do whatever you want while we do that. We’d love to get more intel on Gur and the other stuff…”
+Ali: I think what ended up happening is that the clock-ticking took a thing away from the Motion clock…
+Austin: Yeah.
+Keith: That’s definitely true.
+Ali: And then we were—yeah.
+Austin: Yeah. Do you want to explain why you were asking this, maybe, Keith? And lay out what your hope was. Because if it was happening at the same time, it sounds like you have a plan.
+Keith: Oh, um… No, well, I was just kind of thinking of the general stage-setting of this—
+Austin: Right, right.
+Keith: —and this being the sort of Motion headquarters, or like, where the button is, or where the diffuse box is, or where the thing that says “Hey, regenerate the Motion stuff,” you know, whatever that is, to unplug, that’s here. And so, I was just thinking of that against the backdrop of either—thinking that while this is happening, there’s like, a bunch of people bombing Motion towers. Or whatever the rest of the Cause did or is doing. And, like, what that means for the headquarters of the place where that, like, where they’re presumably in charge of the Motion project. And it wasn’t exactly to help them other than—no one seemed to know what to do and I had this question sort of in the back of my head.
+Austin: Gotcha, yeah. It is not—having reread this now, I could say it would break—it could break either way. In my mind, the Motion knockback has already happened because the clocks have already gotten set back. Right?
+Keith: Okay.
+Austin: And now we’re playing. But if somebody was like, no, it’d be cool if it was happening right this second, that would be fine. I would play as if it was happening that way, right?
+Keith: Yeah.
+Austin: But you’re right that we should have a good sense of that, because the difference between this person who’s talking to you, talking to you now—in my mind, I’ve been playing them as buttoned up partially because the Motion stuff has already happened, [Ali: Mhm.] but partially because it is just riskier to have—you know, when the Superbowl is happening, everything around it is actually extra secure, because there’s all these new people. There’s tourists coming to town. You know what I mean? It’s not less security, it’s more security when that happens, you know? When the president comes to town, it’s not like, “Woo, all these people are here so none of us have to care about our jobs!” [chuckles] You know?
+Keith: What if the Superbowl was done, like, at Raytheon, but only for Raytheon executives?
+Austin: [cross] Right, yes. Yeah.
+Keith: For some reason they had to do, and they pretended it wasn’t a game show.
+Austin: Uh-huh. Yes. We’re getting there. We’re getting there closer and closer. Anyway.
+Keith: Okay, okay.
+Ali: Um…
+Austin: You were asking for help, I believe, Brnine. You were asking for anyone to help you in this moment.
+[Ali chuckles]
+Sylvi: I have like, kind of an idea that would both, like, have us moving toward what we’re looking for, but also might complicate things.
+Ali: Sure.
+Sylvi: Um—well, I feel like Cori speaks up and is like,
+Sylvi (as Cori): Boss, didn’t you need to—we were supposed to ask about someone with the proper clearance escorting us to the job site? Something about supervision and making sure we knew where the proper things were? Like, real highly classified stuff, right?
+Sylvi: With my intent being they have to send someone to supervise us while we do grunt work on the top secret thing and make sure we don’t see too much.
+Austin: You’re asking for homework?
+Sylvi: I’m asking for—no, I’m asking for you to show us where the thing is and then have us have a bodyguard we’ve got to get rid of.
+Austin: They are not sending you to where the thing is. They are sending you to the—
+Ali: Right, yeah, the thing is—they’re sending us to the stadium.
+Sylvi: Okay.
+Austin: Yeah. They’re sending you further from the—
+Sylvi: Oh, okay, nevermind them.
+Austin: I mean, the Motion stuff isn’t in the stadium. Presumably.
+Janine: Okay. Okay, I have an idea. Is it something like—[chuckling] this is like, a bad idea. But could there be a thing where, like, you—Brnine says, like, something about like, the robot we have is drawn to big sources of power, so she wanders off, I need to know where to get her, like—’cause she’s about like, finding—
+[Ali chuckles]
+Sylvi: There’s like a magnetic pull?
+[1:30:00]
+Janine: She’s about finding power leaks or some shit. And then it’s like, so you have to be like, okay, you know, if there’s anything—can you just tell me the vague area where anything that might draw her away is, and that way if she gets lost we know where to look?
+Sylvi: This is way better than mine.
+Janine: [chuckling] That’s a thought. I don’t know… I don’t know how believable that is, but…
+[Ali laughs] [Dre laughs]
+Ali: Um… Yeah, I… this is great.
+Austin: Uh-huh.
+[Sylvi chuckles]
+Ali (as Brnine): Can I—what’s your name?
+Austin (as Tel): My name is—
+Austin: What’s the name I said a moment ago?
+Austin (as Tel): Telford. Tel.
+Ali (as Brnine): Telford, Tel, Tel, hi. Hi. Can I ask you something in confidence?
+Austin (as Tel): No.
+[Dre laughs]
+Ali (as Brnine): Well, that’s too bad. Um, ’cause I have two concerns, and it feels—
+Austin (as Tel): You understand everything you’re asking is being recorded right now.
+Ali (as Brnine): Yeah.
+Austin (as Tel): You’ve worked with the Lone Marble Group before, right?
+Ali (as Brnine): Yes, yes, yes. I just feel like times being they are, I have my team here, and I just want to make sure that we’re safe. You know? I’m not trying to be—
+Austin: His facial actuators are open in like a “are you fucking kidding me?” face.
+Ali: [laughing] Good.
+Austin: Okay.
+Ali: Brnine is willing to be this person.
+Austin: Uh-huh.
+Ali (as Brnine): It’s not me. Look at the news.
+Austin (as Tel): [sternly] What is your question, Jordans?
+[Ali, Dre, and Sylvi laugh]
+Ali (as Brnine): My question is, uh—this Millennium Break stuff. Is there, uh… Like a…
+Keith: “Who we’re not, by the way.”
+Ali: [laughing] A security…
+Janine: Are they still—what—no, it’s fine…
+[Dre laughs]
+Ali (as Brnine): What is the protocol if we do encounter any aggressions? Is there a security plan?
+Austin (as Tel): You’re not on security. Your job is to main—
+Ali (as Brnine): No—
+[Keith laughs] [Ali laughs]
+Austin (as Tel): Wh—that’s like asking me what happens if someone runs out of a sandwich to eat. You’re not on food duty.
+Ali (as Brnine): No, no—
+Austin (as Tel): Security will handle security.
+Ali (as Brnine): Because if guns are blazing, I would wanna know if there’s a lockdown situation, I wanna know if there’s a safe room.
+Austin (as Tel): I’m demoting you to team eight. Your team has been demoted to team eight. Please report to the team eight leader.
+Ali (as Brnine): That seems petty. [sighs] Oh, by the way—
+[Ali and Keith laugh] [someone claps]
+Dre: “We are Millennium Break.”
+Austin (as Tel): I am not—I can’t talk to you anymore. I’m sorry. You’re not on my team.
+Sylvi: [groaning] Oh my god.
+Keith: This is, um—this is, I think Brnine is trying to Clash Decisively, give this person an aneurysm.
+[Dre laughs]
+Austin: Yeah, uh-huh.
+Ali: I think I should have gotten a roll there.
+Sylvi: Yeah.
+Austin: For what? What move were you doing?
+[Ali laughs]
+Austin: Look at the moves. You tell me which move you were doing.
+[Keith laughs]
+Dre: Man. We did need to worry about friendly fire this mission, huh?
+Austin: Uh-huh.
+Ali: I was trying to Dispel Uncertainties, I think, [laughing] is what I was trying to do.
+Austin: I don’t think that that’s true. You were not clarifying the unknown or answering a question.
+Ali: Sure. Who’s the team eight leader?
+Austin: That would be Godstone Spell, who is back at the morning orientation place. Because team eight helps unload things from the trucks that park at the entryway and put them in, like, little places that then get moved from there elsewhere. You know? It’s like, alright, this is going north around, this is going south to the bottom. Did you ever play—you ever play Wilmot’s Warehouse?
+Keith: Yeah.
+Austin: Wilmot’s Warehouse is fun and good and it’s—
+Keith: It is.
+Austin: —it’s pure in my mind. It makes my head feel good. They do Wilmot Warehouse work, is what they do. Wilmot Warehouse is a game about moving little cubes around and putting them in order and, yeah.
+Sylvi: Oh, okay, sure.
+Keith: They should have a better system than that warehouse. That warehouse does not have…
+Austin: [chuckles] Yeah, that warehouse—it doesn’t.
+Keith: They gave Wilmot too hard of a job to do.
+Austin: [laughing] They did.
+[Dre chuckles]
+Austin: I actually think Thisbe would be really good at this job.
+Janine: That’s funny, because I was about to say I’m requesting reassignment.
+[Ali chuckles]
+Austin: Uh-huh. [chuckles]
+Janine: I’m trying to—what’s the—what’s the language for, like…
+Austin: You were assigned as a team.
+Janine: No, I’m talking about what’s the language for, like, when a team gets a special drill that’s for their—you know?
+Austin: Oh, a special drill, like a—when you say that, you mean—you don’t—
+Keith: Like a scrimmage?
+Austin: No, no, you don’t mean a practice, you mean like a special piece of equipment, like a requisition.
+Janine: No, yeah, like a—yeah. Yeah.
+Keith: Oh.
+Austin: Yeah. Like someone who’s like, “Oh, you need a requisition of—”
+Janine: I want her to make the case of like, I was requisitioned for this specific task, putting me on this other team doesn’t make sense because they don’t need a drill, they need a hammer, or whatever. You know?
+Austin: Uh-huh. Right. Yeah, you could try to convince this guy. Do you want to—do you want to start Exchanging Blows with Talk?
+Janine: Um… Not really, but I’ll try. [chuckles]
+Austin: Okay. What do you—is that the case you’re making, is “actually, this team doesn’t—don’t demote us to team eight, we are built for this”? Is that—are you—
+Janine: I wasn’t aiming for “we”, but… [chuckles]
+Austin: Oh, you’re just talking about Thisbe.
+Janine: Yeah, this is a thing where it’s like, Thisbe is seeing like, a team problem, and is like, you know, maybe I can get us somewhere more useful here if I find a plausible way to separate myself from the team.
+Austin: Right. Alright, give me a Talk. 2d6 plus…
+Janine: No. [chuckles]
+Austin: What is your Talk? Minus 1?
+Janine: Minus 1.
+Austin: Well, you never know.
+Janine: Eh, I feel like I know.
+Ali: Uh, I am not the person to assist here.
+Keith: Did I close the Roll20 page?
+Austin: Hey, 8! So that is a mixed success.
+Janine: Is that 8? Okay. Listen.
+Austin: Which means that you both, as always, you either overreach—you succeed, so you put a—you put a Risk on him, or he takes a Risk, but also, “you overreach or underestimate; you take a Risk; you waste ammo or words, losing a weapon until you can rearm, or losing the weight of some bargaining chip or piece of leverage; or you strike carelessly, causing collateral damage beyond your expectations.” You get to choose one of those.
+[Sylvi chuckles]
+Janine: [laughing] I, um—this is—oh… There’s a thing I really want to do narratively, but I’m worried that it’s, like, I’ll look back on it as, like, the choice that ruined this mission.
+Austin: Oh, boy.
+Janine: Which is—
+Austin: I think he is taking the Risk “Delayed” by continuing to talk to you. He is off his schedule now. He has taken that Risk. What is the—what are you doing?
+Janine: So I’m weighing between whether or not I want, like, I want this to be a thing where Thisbe is, like, flagged in a way where she can’t request any other reassignments or something, like she’s kind of going to—the control is out of her hands, or it decreases the value of the rest of the team without her. Like, they get put on team nine or some shit.
+Austin: They do get put on team eight, right. And you stay on team seven.
+Janine: Yeah.
+Austin: Basically, yeah.
+Janine: Um…
+Austin: Up to you.
+Janine: [strained] Eh…
+Austin: It sounds like the first version of that would be like, Tracked or something. You would take a Risk around that, maybe?
+Janine: Oh, yeah, I don’t want that. Um… But also, the idea of splitting this story three ways is not super appealing either.
+Austin: Uh-huh.
+Janine: Uh…
+Austin: And I just want to be clear. Right now what you’re doing is you’ve put a Risk on this guy. This is not the end of that conversation.
+Janine: Yeah.
+Austin: So this will not end with you—he is not—he will not give you what you want just from this one thing, you know?
+Janine: Mhm.
+Austin: He is not Defenseless yet. I can’t believe the first fight of this arc is arguing with the foreman, effectively, of your work team.
+Sylvi: I can believe it. [chuckles]
+Austin: Yeah.
+Janine: Okay, let’s go with the one where, like, I’m on thin ice.
+Austin: Yeah, that’s kind of fun, you know. What’s a good way of saying “you’re on thin ice” as an adjective?
+Keith: Precarious?
+Austin: Yeah, “Precarious” is fun.
+Janine: Oh, yeah.
+Austin: Yeah, yeah. And I think that—you don’t even—what’s—do you have a fake name, or no, because you’re just a robot in this guy’s mind?
+Janine: I have a—yeah, I came up with one. It’s RU-236.
+Austin: Alright, then he says, like,
+Austin (as Tel): RU-236.
+Janine (as Thisbe): Yes.
+Austin (as Tel): I would love to deploy you for the uses that you are best designed for. However, your team leader has decided to waste my fucking time.
+Ali (as Brnine): Personal safety is not a waste of time.
+Austin: Are you gonna roll here?
+Janine: That is kind of a weird thing to say at the gun-testing battle royale fight.
+Ali: Uh-huh. I have a roll here.
+Janine: Because here, it kind of is. [chuckles] They’re not super concerned, I guess.
+Austin: Uh-huh. No, they’re just confident in their security—you’re just not here to do that work. You know?
+Ali: Mhm.
+Austin: And they’re bad. They’re bad people. So you’re Exchanging Blows with Talk too, Brnine?
+Ali: Sure. I would love to.
+Austin: By trying to dig down on this, like, security is—we all have to do our part on security?
+Ali: Yeah, we sure do.
+Austin: Alright, 2d6 plus your Talk, which is zero.
+Ali: [cross] Zero.
+Austin: 2d6 plus zero.
+Ali: Um, you know, we’re all… This is one Principality, linked arms—linked arm in arm.
+Austin: [hums] Mhm.
+Ali: [chuckling] Jesus christ.
+Austin: That’s a 3.
+[Keith laughs]
+Ali: [laughing] Jesus christ. Jesus christ.
+Sylvi: Oh my god.
+Janine: Okay…
+Sylvi: 1 plus 2.
+Austin: 1 plus 2 is 3. Is this even fixable with an aid or interfere, because what you would get would be advantage… You could theoret—someone could theoretically aid here, could Help or Hinder, right? And then that would give you advantage, and then you could roll a—[laughing] you could roll a 6, I guess. And that would be a 6 plus—yeah, you could roll a 6. If you rolled a 5 or a 6 on the advantage die, you would succeed, theoretically.
+Janine: I’ll help.
+Austin: But first, someone would have to—you can’t—you’re part of this.
+Janine: Oh, right, I can’t. Okay. Fuck.
+Austin: You just did it, right?
+Janine: Right, yeah.
+Sylvi: Okay…
+Austin: So I think this is a Cori roll.
+Sylvi: How…
+Ali: Yeah, Cori seems especially vulnerable, [laughing] or something.
+Sylvi: [laughs] Oh, I’m great at that. Um…
+Janine: My doctor says I can’t pick things up. I can’t do that right now.
+Sylvi: Well, I was gonna—I was gonna, like—
+Janine: I just got shoulder surgery, I can’t do it.
+[Dre chuckles]
+Sylvi: —namedrop something like, oh, the boss has been really stressed ever since we got caught up in this attack or whatever.
+Austin: Oh, that’s fun.
+Janine: Ohhh.
+Sylvi: And like, I’m trying to think of one to name check.
+Austin: Yeah, yeah, yeah. Well, there was—there’s been enough. You could—you would know one off the top of your head, right?
+Sylvi: Okay, cool, yeah.
+Austin: There was like that whole shutdown at the city—
+Janine: That’s good. That’s so good.
+Austin: —the city that—yeah, I love this—at Baseline C, where Eclectic was a couple weeks ago, remember? And like, the whole city went on lockdown ’cause Eclectic [Sylvi: Yeah.] met with Connadine, or you could talk about being in the Bontive Valley during all that fighting. You know, easy to come up with something like that, you know? In character, you would find it.
+Sylvi: Yeah, I think, like, Cori’s like,
+Sylvi (as Cori): I’m sorry about the boss. Ever since all that business went down in the Bontive Valley and we were stuck there for a few days, they’ve been really jumpy.
+Austin: Mhm.
+Sylvi (as Cori): And it just helps to know this sort of stuff so they can focus on the job.
+Austin: Yeah, so, 2d6 plus 1.
+Sylvi: Plus zero. Oh, for—oh, oh.
+Austin: No, no, no, ’cause it’s plus 1 ’cause you’ve known each other for a while, [Sylvi: Okay.] you’ve spent time before this Sortie. Plus 1 if they’ve Helped or Hindered you, no. Plus 1 if they’re part of one of your hooks—I don’t believe they’re part of one your hooks, right?
+Sylvi: Uh…
+Austin: No, because—
+Sylvi: No, we have a plus 2 Gravity clock.
+Austin: Unless you want to count “You are a shield; leave none undefended while you stand” in this…
+[Ali chuckles]
+Sylvi: You know?
+Keith: We have counted broad things like that, but—
+Sylvi: I think—
+Austin: We have—
+Keith: —this is maybe a little broader?
+Janine: Yeah.
+Austin: If even Keith is saying it’s a little broad!
+[Ali laughs]
+Dre: Yeah.
+Sylvi: Wait, hold up, hey!
+Keith: I feel like I’m very fair.
+Dre: Hey, let Sylvi cook.
+Austin: [laughs] I think it’s a little too broad. I don’t think it’s explicit enough. And it’s a tenet and not a hook.
+[Janine hums]
+Keith: I don’t like this “even Keith is”.
+Sylvi: I don’t like this anti-broad agenda.
+[Austin and Janine chuckle]
+Dre: [laughing] Jesus christ.
+Austin: I think it’s 2d6 plus 1. And you should make a note.
+Sylvi: Okay. That’s better than what I had, which was I thought I was gonna have to roll Talk.
+Austin: Right, no, this is Help or Hinder.
+Sylvi: Okay.
+Austin: You’re Helping or Hindering to try to prevent Brnine’s failure. You’re not trying to Help or Hinder to try to—
+[Sylvi exclaims]
+Austin: Okay, well that’s a 6, so.
+Ali: Alright, so I roll one more?
+[Janine hums]
+Austin: No, you don’t. This is a failure. Sylvi failed.
+Ali: Oh. [laughs]
+Sylvi: Yeah, I fucked that.
+Austin: Uh-huh.
+Janine: It’s going great, honestly.
+Austin: So yeah, you’ve both failed here on Exchange Blows.
+[Sylvi laughs]
+Austin: I think he just looks at you, and you say that, and he goes,
+Austin (as Tel): You were at the Bontive Valley during the fighting?
+Sylvi (as Cori): [stammers] In the neighborhood.
+Austin (as Tel): Stay right there.
+Janine: Okay, we gotta kill him.
+Sylvi: We need to leave right now.
+Janine: We need to kill this man.
+[Ali laughs]
+Austin: Both of you—all three of you—everybody here take—I guess, actually, not all three of you, but the both of you, Cori and Brnine, take the—I guess these are Risks, even though it’s a fuckin’ hard fail. No—yeah, in this one moment, in this one moment, take the Risk “Suspected”.
+Ali: Sure.
+[Sylvi chuckles]
+Austin: Actually, you decide what Risks you take.
+Janine: What’s the reason for us to not kill this person? Real quick. Real quick.
+Austin: You both take—sorry. You take—let me—I have to go over—sorry.
+Janine: Okay.
+Austin: You decide what Risk you take, and always, the thing to remember, or not always, the thing that we started talking about recently—and I promise you, Janine, we’ll wrap back around to “why not just kill this guy”—
+Janine: Mhm.
+Austin: —but the idea is that you’re taking—you’re kind of, in doing this action, you’ve put yourself out on a risk. You know? In a real way. Though, I’m wondering, maybe this is just a Peril, because the thing that you’ve done is said that you were in a place where you shouldn’t have been, basically, during a time where that should have been accounted for. No one who was that close to Millennium Break action during that time should be part of this operation here now, because it should be all people who were working with Frontier Syndicate assets during that time, right? That’s part of what is—this is what’s being—this is what he’s, like—this is why he just got suspicious of you, basically.
+He was like, wait a second, you shouldn’t have fuckin’ been there if you’re on this job. We are very careful about that, you know? He doesn’t say that part out loud, but I’m saying that to the, you know, we get a close-up of his texts to his boss being like, “Hey, I thought we were not supposed to have anyone near the Millennium Break action in the Bontive Valley on this op.” You know? So I am actually going to say that this is a—I think that this is a Peril. You should take the Peril—what’s it called in Hitman when your disguise is busted?
+Janine: Compromised, I think?
+Austin: Compromised. Take the Peril “Compromised”.
+[Sylvi groans]
+Austin: Your disguise has been compromised.
+Keith: You know…
+Dre: That seems fine.
+Austin: Uh-huh.
+Keith: I don’t want to backseat drive.
+Dre: But.
+Keith: But—
+Sylvi: But.
+[Dre chuckles]
+Keith: We do have a recurring segment on this show which is three people with a combined Talk of minus 1 [Sylvi laughs] trying to talk and failing to talk.
+Austin: Mhm.
+Sylvi: [chuckling] Yeah. It makes for a good show.
+Dre: Yeah.
+Janine: So, the reason we can’t kill him is…
+Sylvi: Now I don’t know anymore.
+Janine: Austin?
+Austin: Why are you looking at me?
+Janine: ’Cause you said you were gonna answer it!
+Austin: No, I said we were gonna wrap back around to the question.
+[Janine groans]
+Austin: It’s not my decision to make whether you should or shouldn’t kill a guy. It’s just one guy.
+Dre: It’s just one guy.
+Austin: [chuckling] It’s just one guy. This is a Janine Hawkins classic, by the way.
+Janine: Yeah.
+Austin: Janine has been saying—Janine and I have been watching things for years and she will say “I don’t know why they don’t just kill this guy. [laughing] It’s just one guy.”
+[Ali and Dre chuckle]
+Austin: And I don’t mean even watching like, Marvel movies. I mean we will be watching anything you can think of, and if someone is being annoying—
+Janine: If it’s just—if it is one person who is like, being the problem, it is just one guy.
+Austin: It’s just one guy.
+Dre: It’s just a guy.
+Sylvi: God damn.
+Janine: It’s just one guy. Okay, I am going to set a one-minute timer, and if we don’t have a solution by then, I am going to kill this guy.
+[Dre laughs]
+Sylvi: Fuck, okay!
+Austin: Damn, people setting clocks out here.
+Janine: It’s going.
+Ali: Can you at least go around a corner or something?
+Janine: Yeah, I mean, I’ll do it in a sensible way.
+Ali: [chuckles] I mean, I clearly shouldn’t take the lead here anymore because I fucked this up, so.
+Sylvi: I think “kill the guy, but sneaky”.
+Dre: Mhm.
+Ali: I mean if he has a security card on him, I would love to kill him.
+[Sylvi laughs]
+Ali: Take his cell phone…
+Austin: Damn.
+Sylvi: [laughing] Me and the Blue Channel, we beat Tel to death with hammers.
+[Ali laughs]
+Janine: I’m at 30 seconds.
+Sylvi: I—
+Keith: Is this maybe a good time to use my cut away from the story during a moment where time is precious?
+[group laughter]
+Austin: Let’s do—you want to do that, Keith? You want to spend one of your—
+Keith: Yeah, I would love to do that.
+Austin: Alright.
+Sylvi: Janine, pause the timer.
+Austin: Janine, pause the timer exactly where it is.
+Ali: No, I think we’re all—wait.
+Janine: I’m paused at 16 seconds.
+Ali: I think that we should do a non-spend cut to the B-Plot [Austin: No!] because [laughing] I think that we’re all in agreement that we’re killing this guy.
+Austin: No. Uh-uh. We’re spending the B-Plot thing for the first time ever, Keith—we did it. We spent the B-Plot the way it’s meant to be spent.
+[Ali laughs]
+Keith: Yeah.
+Austin: There was even a timer clicking down.
+Ali: I—yeah. But Keith, save on to that Hold—
+Austin: No! No, Keith spent it. Keith spent it.
+Keith: I have 4 Hold. I’m going down from 4 to 3.
+Ali: I—
+Sylvi: It’s also useful to use, like…
+Austin: [cross] This is one of the uses of the B-Plot. Yeah, let’s use it. Let’s use the move.
+Ali: But we’re all in agreement.
+Austin: It doesn’t matter. He’s giving you more time to think.
+Ali: Okay, sure.
+Sylvi: It can make it easier to kill the guy.
+Austin: Uh-huh. Alright.
+Dre: Mhm.
+Keith: Yeah.
+Sylvi: There’s other benefits.
+Keith: Yeah, yeah, you can—if you’re definitely set on killing him, you can now use this time to think about how to do that without making things worse.
+Dre: Yeah, how to kill.
+Austin: Yes. Yes, exactly.
+B-Plot: Temple of the Threshold
+[1:48:24]
+Austin: Figure and Eclectic. I almost said aquatic. The life eclectic.
+[Dre laughs]
+Austin: You roll up to—you know, you get off the bus at the foot of the Temple of the Threshold. One of—if you look at the big map, which I think I’ve just moved us back to—yeah, I have. It’s there in the middle, and it is this, like, big white temple with a glass dome top that is being held by—like, over the Diadem. It’s gigantic. You can see the building on the map. Like, that’s how big it is. And it’s being held by what look like giant bridges of cloth, of like, colorful, tie-dye—it’s almost like Twilight Mirage tie-dye cloth is holding this giant structure up across the Temple of the Threshold in a way that’s kind of cool-looking, frankly. Shoutouts to Annie who drew this.
+And it’s big. The temple—you’re expected, basically, to walk this bridge. This is the way that this works, is that like, you do a little pilgrimage up this thing. However you want to get, you know—whether you’re a—whether you’re walking up it or taking, you know, some sort of vehicle up it, you’re supposed to travel up this bridge to kind of see the temple in all its glory on this little mini, you know, pilgrimage to the Temple of the Threshold. And as you get to see it closer and closer, it is—it’s effectively a big city, you know? Or a little city, I guess, right? Like it’s maybe not as big as some of the giant cities we’ve seen, but it’s big enough that you can see the whole thing on the map, and so it’s like a big temple that is itself houses, you know, tens of thousands of people. And yeah, you’re making the walk up the colored bridge. What’s the vibe between the two of you? This is the first time y’all have like, worked together together, right?
+Dre: Oh gosh, yeah, I guess so.
+Austin: I guess you’ve talked, but you’ve never been—
+Keith: Yeah, ’cause this is only my second mission, I think.
+Austin: Yeah.
+Keith: Yeah. And I was solo.
+Austin: What have you been talking about?
+Dre: That’s a great question.
+Keith: I would love to be talking about what we know about Gur Sevraq.
+Dre: Sure.
+Austin: And let me check something right now. Figure, you don’t have Gur Sevraq on you right now, right?
+Dre: I do not, no.
+Austin: Gur is not hanging via Cold Company. Okay. So what type of questions are you asking? Let’s just get into it.
+Keith: Oh, this is a great question. Does Eclectic know about your Gur ghost?
+Dre: Uh, yes. I—yes.
+Keith: Okay.
+Dre: I would have told you all about that.
+Keith: Okay, so, and I think that that came up, actually—
+Dre: As—and that would be like why I would want to come up. Why I wanted to go on this instead of…
+Keith: Yeah.
+Dre: Doing normal mech stuff.
+Keith: I think that that came up at the end of the last downtime when we were—when—where, uh, Eclectic seemed to know for sure that there was a fake Gur Sevraq. Or maybe that was just me out of character, I can’t remember. Anyway. So we know that there’s a fake Gur Sevraq here who’s broadcasting out, like, Authority propaganda and specifically, like, telling people to come to the Bontive Valley to like, become, like, farmers or whatever? Is that the case?
+Austin: Mhm. The kind of message that Gur has had, you know, you can kind of think about the colonization and settlement efforts [Keith: Yeah.] by the Bilateral Intercession here as having three arms in the same way that the Intercession has three arms here. The one from Nideo, the one that Gur has been at the head of, is a hundred percent a sort of vocational moral framing.
+Keith: Yeah.
+Austin: And it’s been about the Bontive Valley, but it’s also just been about the whole process, right? It’s like, “Come be settlers”—
+Keith: Yeah.
+[Dre hums]
+Austin: —“this is a sort of holy mission of return, that we’re trying to take Palisade, we’re trying to fix Palisade, we’re trying to”—again, the language that Gur uses a lot here is a sort of reuse of language we used a lot in Twilight Mirage. You know, you might recall at the end of Twilight Mirage, I had that big speech about how the world with all of its kind of wildflowers that other people might see as a field of weeds, when you put work into it, it’s not a field, it’s a garden, right?
+Keith: Yeah.
+Austin: And that’s the language that Gur is using. “Hey, look at the wilderness all around us. Palisade has been abandoned.” Right?
+Keith: Yeah.
+Austin: “The people who are supposed to maintain it for us as our gateway back to our true home, our kind of Eden in the Twilight Mirage, failed to do that.” And they are unable to do that. They were betrayed by people on the planet, is the way that they tell this story, and it was just too big of a project for them.
+Keith: Yeah.
+Austin: “And we are now here to garden the world, to take the wilderness, the dangerous jungle of Palisade, and make it hospitable to people again, to make it useful, to make it, you know, beautiful, to do right by it, and that this is our duty as people who came from the Twilight Mirage, and we owe it to this place,” and blah blah blah. Right?
+Keith: Yeah, I’ve got here from episode 10, you know, “the best way to embody Divine Virtue is by coming here to Palisade.”
+Austin: Yes.
+Keith: “I don’t care if you’re Stel Orion or Stel Columnar, I don’t care what side you’re on, drop what you’re doing, come here to the Bontive Valley, come here to join the Divine Resonance, come here to the Temple of the Threshold, pick up a spade, join us in changing the world and making the world a reflection of divine values through yourself.”
+Austin: Exactly. And so that’s the version of it that Nideo has been at the forefront of. The Kesh side of it is like, really caught up in “Hey, this has been a”—you know, “this has been our—this is our lineage, or this is our birthright,” Kesh type shit, right?
+Keith: Yeah.
+Austin: And the Frontier Syndicate is like, there is profit to be made, right?
+[Dre chuckles]
+Austin: Like, hey look, this is—the future is—the wind is blowing this way.
+Keith: Yeah.
+Austin: You want to get in on the ground floor. This is the next Silicon Valley, right? Like, this is the next “Hey, do you remember when we figured out”—I almost said materia outright. What was our fake materia called from PARTIZAN? Memoria. The memoria.
+Keith: Yeah.
+Austin: Like, memoria revolutionized things five years ago, and then the Kalmeria Particle in, you know, at the end of that conflict, and that pushed us to the next thing. The Twilight Mirage itself will be the next big leap in technology, come get in on the ground floor. Right? Come invest in Greenfield. Come invest in City city.
+Keith: Blech.
+Austin: Come invest in Baseline. You know?
+Keith: Um, so I think that Eclectic is like, to Figure, is like, you know—you know, Leap told me about Gur Sevraq, you know, this is definitely not a Gur Sevraq thing, and the big problem is that he’s telling people to come to Palisade, you know, for the other side. It’s just active—it’s just a big active recruitment message, and, you know. We gotta shut that off.
+Dre (as Figure): Yeah, agreed. That’s why we’re here.
+Keith (as Eclectic): Do you think you could get—why do you have this ghost? What is going on with that?
+[Sylvi laughs]
+Dre (as Figure): [sighs] Um… So, here’s the problem. Whenever I try to talk with… Gur—it feels weird saying that as we’re walking up to meet a fake one. So he served Perennial in the past, and that’s the source of my power now, is the short answer. The long answer is I don’t know, because he just seems lost, and so whenever I try to ask him, it is impossible to get a straight answer.
+Keith (as Eclectic): Maybe when the ghost Gur meets the real Gur, it’ll get sucked out of your body like a magnet.
+Dre (as Figure): [pause] M–maybe. That’s—
+Keith (as Eclectic): Or like, maybe it’ll open up like a—what’s it called in time travel movies? A paradox.
+Dre (as Figure): A worm—a wormhole? Oh.
+Keith (as Eclectic): Or like a wormhole.
+Dre (as Figure): Um, maybe. None of—I don’t—none of these ideas are comforting to me, if that’s what you’re going for.
+[Austin laughs]
+Keith (as Eclectic): No, I was just spitballing.
+Dre (as Figure): Oh, okay. Which is fine.
+Keith (as Eclectic): Yeah. Whole place could blow.
+Dre (as Figure): Also—wait, do you mean like, just in general, or because of a wormhole?
+Keith (as Eclectic): Uh—
+Dre (as Figure): Don’t answer that.
+Keith (as Eclectic): Worm—oh. I’m just saying, like, is—the fake Gur Sevraq isn’t just some guy. Or is it an evil reflection of the real Gur? Is it like a void Gur that exists in the negative space of where Gur used to be? I don’t know.
+Dre: [hums] Sylvi, hurry up and give me an Organization XIII name of Gur, please? [laughs]
+Sylvi: Oh, uh…
+Austin: Grux.
+Sylvi: Yeah, Grux is kind of all you got there.
+Dre: Grux! That’s great. Oh, okay, yeah.
+Keith: Grux Sevrux.
+Austin: There’s only one “X”.
+Dre: Yeah.
+Keith: Oh. Grux Sevruk.
+Sylvi: Yeah.
+Austin: If you have all the letters, we could get a good one, I’m sure.
+Sylvi: Hold on, I’ll get in the lab…
+Dre: [laughing] Get in the lab.
+Austin: Yeah, you go look into this, Sylvi, thank you. You do your research, I’m gonna stay focused on playing the game and not fall down this rabbit hole.
+Sylvi: Yeah, yeah, yeah.
+Keith: What’s Organization XIII?
+Dre: Oh, no, no, no, no, no.
+Keith: Is that Kingdom Hearts?
+Dre: No, no, no, no, no.
+Sylvi: We don’t have time.
+[Austin laughs]
+Sylvi: We don’t have time.
+Austin: Let me just introduce you to a little podcast called Lore Reasons. The—as you continue to do this walk, you know, you are—there are other people making this trip, basically, today, And unlike the Lone Marble HQ, the people here are open-hearted and friendly, [Dre: Aw.] even to people who don’t look the same as them, because they think that anybody—it’s all part of the New Asterism. It’s about closing old schisms, you know?
+Keith: Aw.
+[1:58:51]
+Austin: And a human who is wearing kind of Nidean fashions, the kind of like, long robes and kind of jewel-toned colors, and you know, has like some cool inlaid gold or something, is taking this walk with you. I’d say probably older woman, traveling alone, and looks to both of you and says,
+Austin (as Pilgrim): Are you coming for the service tonight?
+Dre (as Figure): Y–yes.
+Austin (as Pilgrim): You must be excited. Are you from Palisade or have you made the journey to see the other visiting preachers?
+Keith (as Eclectic): I’ve made the journey.
+Austin (as Pilgrim): The whole time I was on the transport, I mean, it was—it was a rocky trip, I will say, but I could feel this sense of purpose and unity, and it felt…
+Dre (as Figure): [hums]
+Austin (as Pilgrim): Things have been so hard with the war, and it is simply good to know that there will be a place where people from all sides of the Principality can come to worship and celebrate.
+Keith (as Eclectic): Where did your journey start?
+Austin (as Pilgrim): I’m originally from Nideo, but I have been on work in Orion space for quite some time now, and it was a long journey. We have been traveling for four months, but I am going to try to spend the rest of the year here in Palisade.
+Keith: Her robes…
+Austin: She kind of has the vibe of like, retirement age, has decided the church is the space that she wants to spend the rest of her life working with. You know, like?
+Keith: Okay.
+[Dre hums]
+Austin: Spaghetti dinner, you know what I mean? Like, fundraisers.
+Dre: Yeah.
+Keith: Sure.
+Austin: And, you know, stays after for—to, you know, do the after mass for whatever the after mass activity is every week or whatever, or—does lots of, like, independent reading groups, you know?
+Dre: Yeah.
+Keith: Sure, yeah.
+Dre: A true believer.
+Austin: Oh yeah. Completely.
+Keith: I know church people.
+Austin: Mhm.
+Keith: The, uh—so, you know, I’m not getting any, like, weird vibes?
+Austin: No, she seems fine.
+Keith: She seems like she just got here?
+Austin: Yeah, she seems—she looks like she’s looking for, like—[chuckles] I mean, two things. One, she’s been on a transport for four months with the same people, and y’all are different, you—
+Keith: Right.
+Dre: Sure. [chuckles]
+Austin: Literally the thing that I’m imagining here is, like, I am thinking about my grandmothers who are both very devout religious people, different types of religion for them both, and very, like, “Oh, I see a new person.” You know?
+Dre: [hums] Mhm.
+Keith: Right.
+Austin: “I’m gonna try to engage with them.” And in this particular case, it’s like, “I see a new—two new people who don’t look”—especially you, Figure, you really don’t look like anyone else here, and so this is not skepticism, this is sort of like, “Oh, I should go make sure that person feels welcome here in my colonial church.” You know?
+Dre: Mhm. Yeah.
+Austin: So. And for someone this age, this is kind of wild, right? Because this is—we’ve talked about it broadly, but the New Asterism that Gur Sevraq is preaching is about healing the ancient schism between Received Asterism and—what did we call the—reformed Asterism. Is that right? No, it wasn’t—it was Received and—oof. God. Uh…
+Keith: I thought it was reformed.
+Austin: Maybe it—Progressive. Right? Because Progression is in that, right?
+Keith: Progressive.
+Dre: [hums] Yeah, yeah, yeah.
+Keith: Right, right.
+Austin: And that the kind of reunion between these two is about going back to the heart of Asterism because the first Asterist texts were written here on Palisade by Aram Nideo. Right? And in fact, you know, echoing through the air are excerpts of the original, you know, Asterist texts that Nideo wrote thousands of years ago, basically, to—about the history of the world, and the galaxy, and like, the value of this—the way the Principality is structured as this thing that is like, multi-parts, has multiple parts, and so is extra, you know, stable, because one part can break and the rest of it can continue. The many stars thesis and all that other shit that he was talking that was like, the basis for the structure of the Principality. And it’s like, echoing from speakers as you walk, the way that like, you know, verses from a holy text might, you know? So.
+[Dre hums]
+Keith: Yeah. Um, I want to ask her where her first stop is and try to see if I can get some information from that.
+Austin: Great question.
+Dre: Good question. Great question.
+Keith: So I’m Discerning Realities.
+Austin: Okay, yeah. Give me that Discern Realities. What is your—what are you rolling for that? 2d6 plus—or do you take advantage on Discern?
+Keith: I do take advantage—no, I take advantage on Read the Room.
+Austin: On Read the Room, okay. Yeah, yeah, yeah.
+Keith: On, uh—
+Austin: Uh, no, it’s—
+Keith: Oh, wait, no, it’s not Discern Realities. Read the Room is Discern Realities.
+Austin: Yeah, you’re doing Dispel Uncertainties—
+Keith: Oh, no, Dispel Uncertainties is what I was saying.
+Austin: —which is “take advantage to Dispel Uncertainties about Authority practices and law.” I think this is Authority practices for sure.
+Keith: Yeah. This is an Authority practice, yeah, for sure.
+Austin: So go ahead and give me Dispel—
+Keith: Sorry, new stuff. That’s one of the new things.
+Austin: So 3d6 plus—this is Know, right?
+Keith: Yeah.
+Austin: Plus your minus 1 Know. Not great, but advantage is good.
+Keith: No, not great. Yeah. 3d6 minus 1. No, that’s equals 1. Minus 1.
+[pause]
+Keith: That’s a 9—uh, no, that’s not a 9.
+Austin: That’s an 8.
+Keith: That is a… 8.
+Austin: 6 plus 3 minus 1 will be 8. You rolled either—your third die there was a 1, unfortunately. But hey, on Dispel Uncertainties, you still—“the Director will tell you something potentially useful, but it’s up to you to discern how. The Director might ask you to explain how you know that information or where you learned it.”
+Keith: Yeah.
+Austin: I mean, this is—through this conversation, this ongoing conversation, plus your Extensive Case Files, right?
+Keith: Mhm.
+Austin: You must just have some files on New Asterism and on the Temple of the Threshold, which maybe you’re—you also have done some time studying.
+Keith: Yeah, that is the move, is the Extensive Case Files.
+Austin: Yes, totally.
+Keith: That gives me advantage here.
+Austin: Advantage, yeah. You get the rundown from her about what her night looks like, you know, and it’s like, she’s gonna go check in at a—kind of like inside of the temple, like, hotel. There’s a number of hotel facilities here that are probably, you learn, probably overbooked already, because tonight, there is like a big, you know, the New Asterism has been positioned as this healing, you know, this third era of reform, or the second era of reform, bringing together the Received and Progressive Asterism, the idea that like—as a quick reminder, Received Asterism’s whole thing is like, oh, the Principality kind of—the Divines are emanations of qualities of the Principality, so that Integrity, the Divine Integrity is about the Principality’s own integrity, it reflects the Principality’s own integrity, and Progressive Asterism—as it was taught, maybe not how it was conceived—thinks that Integrity reflects the true value of integrity and that we should look at Integrity the Divine and say that’s where—that’s the type of integrity the Principality should have. It’s about what’s more important, the Divines or the state, basically.
+And this is the first—so those have been at odds for thousands of years. In the New Asterism, those are being brought together, theoretically, by saying they both come from the same thing, which is this place, this kind of Eden-like point of origin, and we should go—and that’s where these things flow from, into the state and into the Divines, and so we have to return to our homes. But that’s all been theoretical. Tonight, there is like a meeting of the minds as leaders from each of these groups are coming to give sermons and to have an open conversation. So one of them will be Gur Sevraq, and there will also be leaders from Received Asterism and Progressive Asterism here, basically. So that is what is happening broadly. How you can use that is up to you.
+[Dre hums]
+Keith: I wonder how those leaders feel about Gur Sevraq.
+Austin: They’re here, right? And so they took—they decided to—
+Keith: They are here.
+Austin: Even being here is like—and standing on stage is giving Gur and this movement some sort of validity, you know? They’re not the leaders of these groups, but they are important members of those groups, you know?
+Keith: Yeah.
+Austin: There is something ecclesiastical happening here.
+Keith: But there’s a way where—okay, I recognize your thing, I acknowledge that it’s a new thing, and I’m going to graciously [Austin: Totally.] sort of give you legitimacy, but there’s also the thing where it’s like, this fucking guy is winning, our organizations are bleeding out—
+Austin: Right, yep.
+Dre: Mhm.
+Keith: —and in order to stay afloat, we’ve gotta now lash ourselves to this new asshole.
+Austin: [chuckles] Well, and—
+Keith: Just to stay relevant.
+Austin: There’s two things worth thinking about here. One is, part of the reason that Gur Sevraq has been able to do this is exactly the strange position that he’s in, which is—that fake Gur Sevraq is in. Which is, one, Gur Sevraq is Columnar, and used to be part of the Progressive Asterism movement at one point, right?
+Keith: Right.
+Austin: The Prophet’s Path and all that shit, right? That—and, I think, was maybe more true to the Logos Kantel version of that. As a reminder, Gur Sevraq was not just a contemporary Progressive Asterism guy, understood the difference between those two things, and explicitly was part of the Church of the Resin Heart, you might recall, with—remember we pulled that big weird heart out from the sea back then?
+Keith: Yeah, yeah.
+Dre: Hmm.
+Austin: So that’s where Gur was, but Gur had connections to Progressive Asterism there. And then also, is now part of Stel Nideo, which is where Received Asterism is the norm. And so it’s like, Gur is in this—and the fuckin’—Dahlia just died, right?
+Keith: Right.
+Austin: And so, the Pact—
+Keith: Sort of the religious Dahlia.
+Austin: Right, yes.
+Keith: Who gets to be part of both things by sort of having roots in both places.
+Austin: [cross] Who gets to be on—exactly, yes. And so now in this moment, where Dahlia has died, the Pact has lost a lot of its—the Pact is in chaos a little bit right now, we haven’t really checked in with them since that one day where Brnine did some work, but it—today is a moment where if you are like a Progressive Asterist, you’re looking at your nation and being like, oh my god, is our church going to fade away because the Pact fucked up, you know? The Progressive Asterists tend to be on the Pact’s side because they tend to be Apostolos and Columnar, right? So Gur is just like, luckily right in the middle of it all in this moment, and perfectly positioned. Whether you think that’s an active or passive positioning is up to you to do this. And so it does seem like it’s gaining ground, right? In some ways, you could imagine this being the tipping point for the entire civil war to find closure, right? Because if you start to heal people, heal that division here, it might not matter what the leaders of the Pact want if their people have decided we all go to church together again. You know? Look at the history of any religious schism for the way that religious—the way that religious schisms shake out affecting national borders and national statehood and loyalties and stuff, right? So. High stakes in some ways.
+Keith: Yeah.
+Austin: Yeah. And you get close enough here where, you know, it—
+Keith: Porterhouse.
+Austin: Did you say porterhouse?
+Keith: Yeah, it’s a high—[stifles laughter] that’s a really high steak.
+[Dre snickers]
+Austin: Oh my god.
+Keith: [laughs] Like, three, four inches.
+Austin: Mhm. Yeah. Great.
+Dre: It is. It’s big steak.
+Austin (as Pilgrim): My name is Bonna. I’d love to see you again. I hope that your visit to the temple goes well.
+Austin: And, you know, moves ahead from you to find some new people to talk to. And it’s there in front of you, you’ve made it to the temple, which, again, is so—it’s like the Coliseum times ten, you know what I mean? It’s a whole city in there, so. Let’s hop—
+Keith: Is it also like the Coliseum in that it’s got, like, an arena? Or that it’s made of concrete?
+Austin: [cross] No arena. No, but there are columns. There are columns. It is not made of concrete. I think it’s made of, like, white stone.
+Keith: Okay.
+Austin: I am now, like, beheld—it’s funny, because like, I am not letting myself be beheld by what the Lone Marble Group icon looks like on this map, but I am being—letting myself be beheld by the Temple of the Threshold that Annie drew, which is like, white stone with blue glasswork—or, I guess, maybe it could be tilework is on the dome, on the roof, but, you know.
+Keith: Yeah.
+Austin: Big archways. Lots of space inside. It’s airy inside, it kind of has huge entryway, you know, arches, around all sides, and there are smaller buildings inside of the temple, you know? It’s like a little city there.
+Keith: So it’s sort of—it’s like the coliseum in that it’s got this sort of circular outside facade.
+Austin: Correct. Correct.
+Keith: And then inside of that is a city.
+Austin: Yeah. And that’s not like the coliseum. The coliseum doesn’t have that part. You know?
+Dre: No.
+Keith: Right.
+Austin: It’s like a big, open air rotunda [Keith: Yeah.] that then has a little city built inside of it.
+Keith: Now that I see the little thing, I wasn’t really paying attention to it.
+Austin: Yeah, no worries.
+Keith: It’s like, oh yeah, colosseum, I get it.
+Austin: Yep. Anyway. Have y’all decided how you want to kill the guy?
+Keith: [cross] Cool roof, it’s got a cool roof.
+Closing
+[2:13:10]
+Sylvi: I got distracted writing the name… I got it, though.
+[Keith laughs]
+Janine: I have an idea, but also, I have to go in like, nine minutes.
+Austin: Yeah, I know. I didn’t know if we want to do this as a single roll or not, but—I mean, it’s not a single roll. He’s almost Defenseless, he’s not Defenseless yet. So do we want to come back on “do you want to kill this guy” next time?
+Ali: Um…
+Janine: I mean, I know how I’m gonna do it. I have an idea.
+Ali: Yeah, I mean—
+Sylvi: If you know how you want to do it, we could do one more roll.
+Austin: It would be two more rolls because he’s not Defenseless yet.
+Sylvi: Okay, right.
+Austin: He’s at—he still needs one more, one more Risk or Peril.
+Ali: I feel like this is a fine break point, because ten minutes is not…
+Austin: That’s not a lot of time. And if it goes bad, then it will go bad, and then we’ll be in the middle of a whole thing.
+Janine: Yeah.
+Sylvi: Yeah.
+Austin: Can you tease for me how you want to kill him?
+[Dre laughs]
+Janine: So you know how I have the can trip “Deny: When you use magic to temporarily restrict the actions of another, roll Channel”?
+Austin: I do know this.
+Janine: “On a 10 plus, you prevent them from taking a single action or move. On a 7 to 9, as above, but you or someone else rushes to act against them in desperation.”
+Austin: Yeah.
+Janine: That.
+Austin: That. Okay. Well, on that note, actually—
+Janine: That maybe potentially coupled with something else, but we’ll see how it goes.
+Austin: Sure. Well, on that note, as Thisbe’s eyes begin to flare, I have one final important question before we wrap. [chuckling] Sylvi, what is Gur Sevraq’s Organization XIII name?
+Sylvi: So, there’s a—you gave me a lot of consonants and not a lot of vowels, so I did my best work here.
+[Dre chuckles]
+Austin: I have.
+Janine: Mhm.
+Austin: And we added an X, which is another consonant.
+Sylvi: Yeah. It’s Grex Quravs.
+[Austin laughs]
+Dre: Okay, alright. Yeah, yeah, yeah.
+Sylvi: It’s in the Palisade chat if anyone wants to see how it’s spelled.
+[Ali laughs]
+Austin: Grex Quravs, yeah.
+Sylvi: Yeah.
+Janine: That’s some shit that an AI image generator puts on someone’s shirt.
+Austin: Yeah. [laughs]
+Sylvi: Yeah, no, it’s—I mean, you know.
+Janine: In like, an Adidas font.
+Austin: Uh-huh. I was thinking—
+Janine: “Oh, Grex Quravs, okay.”
+Keith: Oh, so it has to be one name. You can’t do a first name last name.
+Austin: Correct.
+Dre: Correct.
+Keith: Okay.
+Sylvi: Yeah. The thing with all the Kingdom Hearts Organization XIII names is that the original names of those characters were definitely reverse engineered from the names that had the Xs in them to begin with, you know?
+Austin: That is correct. Like, Vexen came before—
+Sylvi: Even.
+Janine: Except, there’s an exception to this, isn’t there? Which is Roxas.
+Sylvi: Well, Roxas is the exception.
+Austin: Yes, yeah.
+Dre: Yeah.
+Janine: Yeah, yeah, yeah.
+Austin: Roxas is the exception. But Roxas, you got—
+Dre: The most important exception.
+Austin: Yeah, it’s true. Also, some of them—Xion doesn’t have a non-organization name.
+Sylvi: Well, no, because—that’s because Xion’s name is like—it’s a whole other thing that we don’t have time for.
+Austin: Okay.
+Keith: Alright, I did one—
+Sylvi: It’s “no”—it’s “number one”, but it’s like—it’s a whole thing.
+Austin: Right, “No I”, yeah.
+Sylvi: Or number “I”, yeah.
+[Dre hums]
+Austin: Or “no self”, right? No “I”. There’s no “I” in there, in a way.
+Sylvi: Nomura was cooking.
+Austin: Nomura was cooking a little bit.
+Sylvi: A little bit. A little bit of flambé there.
+Austin: I don’t like Kingdom Hearts, but I do kind of love Kingdom hearts? Anyway, we should wrap this up.
+Sylvi: I love it.
+Keith: I got—I did one. Gerx Savruq.
+Austin: You gotta get rid of the—
+Sylvi: That’s pretty good.
+Austin: The thing is—
+Janine: It’s too close to the original, but…
+Austin: You want—I mean, this is my—my big no for both of these is I would love to get rid of the G at the front.
+[Janine hums]
+Sylvi: It’s so hard. I tried.
+[Dre hums]
+Austin: You don’t have a Q-U name in there somewhere? It’s so rare you get a Q-U name.
+Sylvi: I could do—I mean, it could be, uh—
+Janine: Qurex Gravs, yeah.
+Sylvi: Qurex Gravs.
+Austin: Qurex Gravs.
+Sylvi: [chuckling] I don’t know how you feel about that one.
+Austin: Qurex Gravs is—
+Dre: Ooh, I like that.
+Keith: Qerrx Savug.
+[Austin and Sylvi laugh]
+Austin: That’s a Lord of the Rings demon.
+Sylvi: Keith, you’re great at this.
+Dre: Yeah, you’re really good at this, actually.
+Austin: Yeah, Keith, are you secretly way into Kingdom Hearts?
+Sylvi: Are you Tetsuya Nomura?
+Keith: [laughs] No, I’m not.
+Sylvi: Okay.
+Austin: Well, much to consider.
+Dre: I feel like Keith could get into Kingdom Hearts, though.
+Keith: I couldn’t. I don’t—I haven’t gotten into Kingdom Hearts because I really dislike it.
+Sylvi: Fair enough.
+Austin: Okay. Fair enough, yeah.
+Dre: Okay, there goes that idea. [laughs]
+Austin: On that note, everybody. That’s it, bye. That’s all I got.
+[Dre laughs]
+Austin: We’ll come back on whether or not Thisbe manages to kill this guy.
+[music outro - “Nothing is Stationary” by Jack de Quidt]

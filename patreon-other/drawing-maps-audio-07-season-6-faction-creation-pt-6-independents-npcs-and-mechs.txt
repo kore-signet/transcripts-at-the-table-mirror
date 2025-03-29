@@ -1,0 +1,447 @@
+﻿Drawing Maps - Season 6 Faction Creation Pt. 6 - Independents, NPCs, and MECHS
+Transcribed by Ril (@kaorukeihi)
+
+
+AUSTIN: Hey, everybody! Welcome to the sixth entry in this pre-PARTIZAN series of Drawing Maps episodes. I’m Austin, thank you for joining me again. If you have just jumped on board this one, then I would say maybe go back and join un on an entire journey, because it has been a journey. [He laughs.] And this is part 6 of what I think is gonna end up being a seven-part kind of worldbuilding series. You know, it says “Faction Creation”, and it’s true that that’s what it started as, but at this point it is probably worth thinking about everything we’ve done here as being much broader than just faction creation. 
+
+
+I’ll say that that is part of GM prep in general, especially when you’re doing something like this, when you’re building a setting for Forged in the Dark, you’re going to end up going into new places. It’s very rare that you’re gonna sit down and go “Okay, I’m going to develop one faction,” and then nothing else happens. The creative process is as always, kind of open-ended. In a real way, every little bit of a thing that you’re working on is going to collaborate with every other little bit of a thing.—If you hear me turning, it’s because I’m moving a fan… One second… There we go. Okay. Everything you do is gonna have kind of a knock-on effect, and introduce some new ideas, and lead you to develop into new directions. 
+
+
+And as always, I’ll say that, you know, barring a serious time constraint, for me the most productive way I can make stuff is to follow where my excitement leads, and so if I wanna pause when working on a faction, and pause to figure out the way mechs are named—which is something that we’re going to get into today—or the way the map works, it’s to pull on that line, because I don’t wanna lose the sort of excitement about worldbuilding. And that is the way that I get to the best stuff. It doesn’t always mean that the stuff that I come up with in those kind of like rushes of excitement is the best stuff, or is even final, but it’s good to get that stuff down, because it’ll be fuel for when you do need to return to the main stuff. 
+
+
+You know, sometimes you’re working on the corner of a puzzle, and something in the middle strikes you, and you’re like “Oh shit! I could put this together from the middle in this one little way!” and doing that will eventually pay off when you reach the middle. It’s like you’ve built a corner you haven’t arrived to yet. 
+
+
+So, there are three things on… Or I guess I’ll say preview up top for the next time—I don’t know if it’ll be next week or the week after—you know, there’s a holiday week in the States next week, and so that could cut into some of this time, unfortunately. But one of the things that I do want to hit soon is the map. The map of Partizan, a sort of vaguely updated map of the Galaxy, I wanna talk through a little bit about like what is the Didine Principality, what does it mean to live in a place that’s controlled by the Didine Principality if you’re not at Partizan. 
+
+
+Because the moon of Partizan is very unique, it’s one of the only places in the Galaxy where all five Stels exist as kind of fully cohesive operating governments. There are places all throughout the Galaxy where all you might find, you know, a Nidean priest in the middle of Stel Orion territory, maybe even a church, but you wouldn’t necessarily find, like, a civil center, like a governmental building representative of the body of Stel Nideo, where someone high-ranking would be. Partizan is one of the few places—and there’s kind of... systems all around Partizan are the places where that happens, and none is as like populous as Partizan. So it’s kind of why we’re here this season. 
+
+
+So, next time I want to talk about that, I want to talk about the Galactic calendar, the Divine Calendar, why it is the year and millennium it is, what the different millennia are, and what the different months are… I figured out an entire… Again, like I said a moment ago, sometimes you follow a thread, and you’re like: “Oh, you know what, I’m gonna knock this out, I’m just gonna do this right now.” And so, there are ten months, and I can tell you what the names of all those months are, and tell you how many days are in those months. And so we’ll get to that, and what that means next time. Just a little teaser. 
+
+
+This time, though, we’re going to talk about three things. First, I wanna wrap up squads and faction stuff, faction descriptions, because I finished that, and the final kind of piece for that was independent factions. You know, before we’ve done all the independent squads, we’ve done all of the factions and the squads tied to them. But independent squads are like a different thing in a real way, and it’s worth talking about what that means, both fictionally and mechanically. 
+
+
+Next I’m gonna talk about something really exciting, which is a handful of NPCs, that I’ve kind of premade. I think it’s 18, and that number… and kind of how they’re laid out here in the document will start to make a lot of sense if you’ve listened to past Friends at the Table seasons. 
+
+
+And then, finally, I want to talk about mechs. I want to talk about what they are, how they’re represented mechanically, the way mechs work mechanically in Beam Saber, some of the kind of starting designs I have for NPC mechs and mechs that are important in the world. And then also I want to address the topic that kind of came up in both the Friends at the Table and the Beam Saber Discords, which is: how do you represent manufacturers in interesting ways? And there are a bunch of ways in which you can hack it in, and I’m gonna talk maybe a little bit about that. But there’s also just like: you can just do it with the Beam Saber rules as they stand, and I don’t think that you’re losing too much by doing that. 
+[00:05:30 - Independent Squads]
+
+
+So, we’ll get there in a bit, but I wanna start. Let’s just talk through… I kind of like a high-level go-over of what the independent squads are, and then I’ll talk a little about what makes them independent vs being part of a bigger faction, and what that means. 
+
+
+So. I think there are 9 here… I think in general I went for 9, I think certain have 8 squads, let me see. One, two, three, four, five, six, seven, eight, nine, ten… Ten! So it’s between 8 and 10, I think, most factions will end up having. And I’ll note here, I went over all of the past squads over the past few weeks, over the past month or so… At this point we’ve run two full arcs, two full sessions that were each an arc each, for kind of everybody involved at this point… Everyone involved has been in an entire arc. And that’s been really helpful. I actually went back after that recording, and tinkered a little bit with some squads that’s been off screen, but like “Hey, this Tier makes more sense!” based on the way that we’ve positioned them narratively, and blah-blah-blah, stuff like that. 
+
+
+And so, one of this big changes actually, that won’t be a change for you at all is just that the top-level squad has swapped in under the independent squads. Now the top-level squad, Tier V, The Isles of Logos, an independent nation built by the followers of the prophet Logos Kantel around their very first church. Though only a small handful of islands in the Prophet’s Sea, the Isles keep a standing defense force that rivals any individual unit of the Major Stels. And their goal is to maintain their independence. 
+
+
+They’re a Tier V squad, which means that they’re as strong as any other Tier V squad, and that is the highest level squad on Partizan. They can hold their own against a military, you know, force… any single military force here. Being Tier V means that they can bring to bear hundreds of units in a single fire team, hundreds of people, or hundreds of Hollows, which are kind of the unblessed mechs. They are strong enough to defend their city from normal attackers. But they’re an independent faction. And one of the reasons I’ve made them a Tier V is because a lot of players were interested in kind of having a loose connection to the Isles of Logos. It’s a cool place, right? Like it is a religious center, there’s a big city, you’ll see it later when we get to some of the NPCs, that some NPCs are kind of centered there. But it’s also a place of just like culture and independence, it’s one of the rare places inside of the Divine space, inside of Divinity, that has this degree… 
+
+
+Again, it’s kind of a double bind. Most places inside of Divinity have independence and autonomy because of the nature of the Divine Principality, that like autonomy kind of cascades along the hierarchical structure, so you can have a small autonomous, you know, city-state somewhere. It’s just that it does report up, it’s just that it has as much autonomy as the people above it give it. 
+
+
+This is a case where not only does it have that style of autonomy, where the Divine Principality lets it do its thing, basically, but also it is truly not part of any other Stel. Like, the taxes don’t go up into Stel Columnar or Stel Nideo. You know, I suspect that they are still taxed, and that goes into some more general tax fund, but the Isles are able to be a place where everyone can come. There’s a lot of nightlife, there’s a lot of religious culture around this being the place where Logos Kan’tel—a character who you may not have met yet, if you’re only up to date on the current Road to PARTIZAN games in the main feed, but you’ll meet next week, almost immediately—it’s where Logos Kan’tel kind of built their very first church, where they first started doing the religious work that they were doing, and in fact where the Prophet’s Sea began. 
+
+
+I bring that up as being… as the situation having changed, because they used to be Tier IV, and the following Tier IV squad, The Divine Providence was Tier V. But again, it was one of those things where it kind of makes more sense for this whole nation to be Tier V—even if it’s a very small nation—that this Divine, the Divine Providence. “They called me Providence. But I am only a servant.” When Progressive Asterism was officially recognized, each of the stels celebrated by collaboratively building this Divine. Yet 1000 years later, it has never—it is coming up on the 1000th year anniversary of the founding of Progressive Asterism, so expect to see that beat happen sometime this year—yet 1000 years later, it has never taken an Elect, nor accepted the name that was given to it. It’s goal is to prepare the world.
+
+
+There is also the Church of the Resin Heart, which is a Tier III—this is fun, I get to talk about something I didn't know I’ll get to talk about today, I forgot that I was gonna talk about it. It is led by the enigmatic Gur Sevraq—who you may remember as the narrator of one of the Road to PARTIZAN games. ...Which one was that? Let me check my notes really quick… I wanna say that it was… God, which one was it? It wasn’t the last one, it wasn’t the one before that, it was like three ago?.. It was the Ech0 game, so it was before the Beam Saber games, the Ech0 and Dusk to midnight… Dusk till midnight? Riley’s game. Dusk to midnight. Dusk to midnight had an intro by a character named Gur Sevraq. 
+
+
+The Church of the Resin Heart is led by the enigmatic Gur Sevraq, and Gur’s Disciples of Logos (aka The Church of the Resin Heart, aka “The Friends of Gur Sevraq”). And the Disciples of Logos are gaining followers as quickly as their leader (and their stolen Divine) can perform miracles. They claim the True God is coming, and seek to spread the word as far as they possibly can. And their goal, which I’ve written here, and is like publicly available to all of my players, is to create a vast, galactic comms network. They preach a sort of like… a gospel of connectivity, a gospel of unity, a gospel of like “Hey, we need to build a way to talk to people in other worlds, we don’t have the full picture of the world.” If God exists… “God exists,” says Gur Sevraq, “and God can see everything. And it is through seeing everything that God can judge us, and God can direct things. We aspire to God’s strength, we aspire to God’s, you know, diligence, but we rarely aspire to God’s perspective.” And so, Gur Sevraq wants to build perspective, wants to build a galactic comms network that would allow us all to be in contact with each other and to build a better image of what the Divine Principality actually is. 
+
+
+I should note something else, which is that Gur Sevraq has stolen the Divine Future. And the Divine Future is—this came up, again, in the intro from the Ech0 and Dusk to midnight game, in which Gur Sevraq show up and says “Hey, we are friends, just don’t know it yet, and I have stolen the Future from Stel Columnar” (which is where Future is supposed to be). Gur Sevraq stole it from Stel Columnar, and also it has done something for the Church of the Resin Heart. It is, and I’ll just say this outright, the Divine Future is a Divine that lets you see—I mean we’ve talked about perspective already—but it gives you something, that is really hard to develop inside of the Divine Principality, which is a revolutionary or oppositional ideological perspective. It gives you the ability to see not outside of ideology, but in opposition to ideology. It helps you… it can’t just give you… I guess maybe more broadly, it’s worth… I mean, it’s gonna show up on screen, right? 
+
+
+The Divine Future is a little golden orb, and it gives you something that you didn’t have before. It gives you an energy, a zeal, a sort of force of belief. It gives you a motivation, if gives you… There’s a lot of words you might wanna apply to this Divine. In the case of Gur Sevraq... And in the case of Columnar who are so focused on “progress” and development, it has always been Future, it has always been a vision towards like “Oh, how could we develop things in a different direction?” For Gur Sevraq specifically, that is not about technology like it is in general for Columnar, it is not even about like, you know, cultural technologies, it is specifically about this like revolutionary political ideology. And in the hands of Gur Sevraq it is something that takes all the last little... the lingering little bits of “Oh, I just can’t finish that sentence!” 
+[00:15:00] 
+
+
+“I have enough... I can start to say, you know, the beginning of the sentence that would help bring people together, or help unify people towards another vision of the Galaxy. I can start… I know something is wrong, but I don’t have the words to explain why it’s wrong, or how to fix it. Or maybe I know how to fix it, but I don’t know how to convince people to fix it. Or I know how to convince people, but I don’t know what to convince them of.” As Future, for Gur Sevraq, it is able to give them that last step. I’ll note also, Gur Sevraq is Columnar, is a synthetic person, they use they/them pronouns, and they hav, they’ve stolen the Future. The Future is now helping them in this way, in this kind of like… this way where it guides them, and it provides that extra little bit of information and knowledge that you might need to build a revolutionary religious movement. This is very unique for them. 
+
+
+I’ll say, they aren’t the only revolutionary in the broad world of Partizan, but every time there’s been a revolution before, it’s been stomped or it’s been assimilated. That hasn’t happened yet with the Church of the Resin Heart. Maybe it will on screen, we’ll see. 
+
+
+Next up, the Tier III Fireblight. This is a Stel that is kind of an assassination Stel, or, sorry, not a Stel, a faction, s squad. The Stels might dress it up with pretty words, but this guild of assassins accept the truth readily: In a world with immortal mechs, the weak point truly is the pilot. And their goal is to eliminate Elects for a price. If they’re paid well, they will kill an Elect. Because that will kind of destabilize the truly immortal Divines while they need to get another Elect. They’re really powerful, right? They can do that as a thing that they can do just by being a Tier III. The thing about these independent squads—and I kind of gestured a little bit even with a Tier V one—is: if one of the Stels wants to bring their entire might against them, they’re fucked! In some ways this is like, being an independent squad in the game of Beam Saber is a lot like being a character in the Sprawl. 
+
+
+You might recall in the game of Sprawl, which we used for two thirds of COUNTER/Weight, there was a feeling that you were deeply replaceable. That if a corporation brought it’s full might against you, the best thing you could do was get out of its way or try to redirect that force. You could never stand up to a toe-to-toe fight at the end of the day, by yourself anyway. Maybe you could get another corporation to protect you, etc. That is what it means to be an independent squad in Beam Saber too. That like, if any of the Stels decided to wipe the independent Isles of Logos off the map, they could do it. You know, the Isles of Logos might be able to win in a Tier V vs Tier V fight, but not against every squad on the planet under one of these Stels. And even if they were able to somehow do that, a Stel could bring in additional forces from another world. These are only the squads that these factions have on planet. You know, their mass and their might is so much bigger than what we’re gonna see on screen this year. You know, Beam Saber just isn’t build to track conflict at that wider level. Or I guess you could theoretically do that, but because you’re following individual pilots… You know, The War can’t end just because some pilots did some stuff. 
+
+
+I’ll not also that if you’re playing as an independent faction, if you’re playing as a faction that does not directly tie into one of the major factions—or an independent squad, I keep confusing squad and faction, apologies—if you’re playing as an independent squad, that means that you don’t have a patron faction, and that means everything is a little bit harder for you. When you finish a mission in Beam Saber, in the same way that you do in any Forged in the Dark game, or maybe not any… in both Scum&Villainy and Blades in the Dark which we’ve played, you get paid. And you get paid a little extra if you have a patron faction, right? The patron faction will say: “Hey, on top of normal amount of supplies you get paid for this, maybe we’ll give you an extra couple materiel so that you could fix your stuff back up, your vehicles back up.” Stuff like that. And you just don’t get that if you’re an independent faction. You know, maybe you’re able to do certain set up things ahead of taking the mission, or you can invest in some way, or try to get that, or something like that. 
+
+
+The other thing is, independent squads don’t have the ability to pursue patron goals, or faction goals. And faction goals are really, really powerful. I’ll just give you an example, I’m just gonna search for faction goals, and I’m just gonna read the first one. 
+
+
+“Faction goals are the strategic objective that a faction is trying to fulfill. The player character squads can help their patron pursue those goals.” And when they get them, when they succeed whether through the player character success or through downtime stuff that I as the GM will do, where I’m like tracking how off-camera stuff is doing—kind of like the Faction game stuff from COUNTER/Weight—they get something. 
+
+
+So, for instance, the first one here on the list is Assault the Foe. “Soften up a specific enemy-held region in preparation for capture. This can be done by brazenly attacking the region, cutting the area off from reinforcements, gaining intel about the district’s weak points, etc.” And if they manage to do that, they get a benefit, and that benefit for Assault the Foe is Vengeful. “Your squad’s righteous anger empowers their actions. When making an action roll against the squad that employs any player’s rival, take improved effect.” That is so good! 
+
+
+Rivals are really, really cool in Beam Saber, there’s all sorts of stuff that they can do. If you have Beam Saber, I really recommend hitting that Ctrl+F and searching for “Rival”, and reading the section. Or, if you’ve listened to our Beam Saber game in the Road to PARTIZAN you might remember like, a rival can just show up and make everyone’s day hell by kind of introducing consequences whenever they want to. They have a really difficult 8-step clock to defeat… They’re really powerful. And so, there is a degree to which this specific ability of like “Hey, I’m going to get improved effect against any squad that has my rival in it!” is really strong. And I’ll say, we already have one rival. 
+
+
+So, that’s like elements of being independent faction, or an independent squad. So, Fireblight as an independent squad is strong enough to hurt other squads, and because of their fictional positioning, and the fact that I’ve written them as these really powerful assassins, they’re able to like move like a scalpel, and hit hard, and hit fast. But if any one Stel decided: “You know what? Fuck y’all.” they’d be done. 
+
+
+And that’s worth keeping in mind when going to the next squad, the Oxblood Clan. Because the Oxblood Clan, one, is really dope, and two, immediately became a player favorite squad, and we’ll see some of them right out the gate. They’re another Tier III squad. Once, under Orion’s massive bridge that gives the city of Oxbridge its name, there was an orphanage. The children there were so unruly, the story goes, that they were left to raise themselves. Instead, they raised each other. Now, a hundred years later, they raise up any farmer, factory worker, or family member who falls. And their goal is to get paid better.
+
+
+Again, it is not widely… Revolutionary thought isn’t spread far and wide, but to sound like the Marxist that I am, the kind of conditions necessary to spark revolutionary action certainly are. And so, the Oxblood Clan is this sort of like… At this point, you know, I think Stel Orion would call them organized criminals. They are a sort of mafia family, but they’re also a sort of labor guild, a kind of a labor union that is kind of cross types of work. It’s possible that you could be working next to an Oxblood member without knowing it at all, or you could be working next to… you and all your friends could be in the Oxblood Clan, and all would be working on the same arms factory that’s owned by Stel Orion. There is a degree to which there is like: it’s a secret society, but it’s also (especially deep in Oxbridge, the town that it, you know, is centered in) a powerful political player. They are potentially a group worth paying attention to. 
+
+
+And they do everything that every other squad does, right? They’re listed here, which means they’re not just a labor guild, they’re also people who take on missions, they’re also people who probably have… who definitely have, you know, a hangar filled with a handful of Hollows that they can use to get some extra money by doing a combat mission here and there. They certainly have had to fight against strikebreakers, they’ve certainly had to fight against, you know, the police who have come to try to like force them away from a sit-in, stuff like that. 
+
+
+But all of that at the end of the day for them right now is just like “We wanna get paid better.” And that’s not bad, right? But they can’t imagine another world, they can’t imagine a world where they are equal owners in Stel Orion, or something like that. All they can… Or maybe they can imagine a world in which they are a big corporation, but they’re not in revolutionary politics, they don’t have a view in which they could like destroy the Stel system. 
+
+
+The next group here is the Cult of Perennial. [He sniffs.] Excuse me. They are a Tier II. They are guided by their belief… Sorry. Guided by their belief in religious freedom, the Isles of Logos offers this faith of the Adversary perhaps the only safe ground in the entire galaxy. And their goal is simply to understand Her mysteries. You might remember Perennial from the Armour Astir game, and this is a group that worships Perennial. Perennial is thought of, very much so, as like the Devil across all of the Stels, across all of Divinity. This sort of like mythological creature, whose betrayal is what brings about all terrible things. You might curse Perennial’s name. Like, you might get a headache or a hangover, and curse Perennial for it. You know, your car radio might break, and you might curse Perennial for it, you might get a bad test and be like, “Fuck! In the name of Perennial, this fucking sucks!” Or like, that style of “by the devil” type shit. 
+
+
+Another Tier II, another kind of cult, another kind of an occult group: the Sable Court. Some say that on dark nights, they have seen these Ashen witches on the eastern edge of Lake Timea, horns and antlers glittering in the light of Girandole. Some even say that a former elect walks among them. Heresy, all of it. And their goal is to hex those who intrude. They just want to be left alone, they just want to do their fucking shit. We’ll talk more about the Sable Court in little bit when we get to NPCs. But this is very clearly the kind of like… This only exists because of both the Armour Astir and the Dialect game. 
+
+
+If you recall from one of the episode introductions for the Road, there’s a moment… I think it’s the end of the first… Not episode introductions, sorry, episode descriptions! I think the episode 01 or 02 episode description—I wanna say 02—includes this sequence where… Let me find it. ...Yeah, here we go. Road to Season 6 Dialect Pt. 2 is this like memory stored into the Divine Past that is “The sound of an excavator’s claw striking clay ground. Voices with Stel Kesh dialects discuss early findings at an archaeological site”, etc. And then it ends with like the sounds of the communications channel closing, and… kind of, something coming through and fucking their shit up, basically. That was happening here, at the edge of Lake Timea, you know, thousands of years ago, at the end of the Miraculous Millennium. 
+
+
+And that was the sound of Janine’s character from Armour Astir, whose name I’m gonna get wrong… Teasel! Teasel Mode showing up here, because she learned about a Stel Kesh dig here, and here, the planet Partizan—again, I’ve developed this in these episode descriptions—is the place where Timea Asche from the Dialect game, my character from the Dialect game, landed when she tested out the new Ash system that let the Hypha kind of flee in far direction, kind of scatter, lose their culture but keep their lives. This, this moon is Ash, or was called Ash, and now it is called Partizan. You know, when she landed here, she died soon after, she was not here long enough to like build a culture or community here. But over time there was one built here, and I think it was probably started by Janine’s character, Teasel Mode, and the Sable Court is also very much named for Janine’s character in Dialect, Sabil. But, you know, we kept saying Sable instead, so it was like I think over time, that sort of linguistic drift would definitely have happened. Assuming that they’re speaking something like English. [He laughs a bit.] 
+
+
+Another Tier II squad here is Panorama. Once, before they were a Stel, the Columnar would collect and join together the thoughts of hundreds, thousands, or even millions, to arrive at policy decisions. This “Perspective Blending” was the heart of a democratic system that has been eradicated, but you can get a taste of that experience for just a few credits. And their goal is to move product. This is like a low-level like criminal squad, that basically sells a kind of narcotic version of this thing that the Columnar used to have as the cornerstone of their democracy, where they would blend their perspectives. You know, they wouldn’t even do it in a personal sense, it would just happen in the halls of government, basically. They would contribute all of their thoughts, and there were particular machines, and I guess, people, that could do this, that would then arrive at a kind of synthetic and… Not synthetic, there’s another word that I actually meant that was not “synthetic”... Synthesis! I guess it is what I meant. Yeah. Okay. I meant “synthesis” but said “synthetic”. …of all of those different perspectives, of what people would want even if they couldn’t say that’s what they wanted. So it’s not like a direct democracy voting, it was really like “What if we could combine our minds, and then arrive at a “Eh, this is what will make the most people happy” type thing?” And so now you can spend a couple of bucks to feel like what that might feel like. 
+[00:30:00]
+
+
+And then there’s a few Tier I, a couple Tier I squads. 
+
+
+To Witness, a Tier I. And their description is: Even the Branched have heard of Gur Sevraq’s claims of the True God. These operatives arrived, undercover, to determine the truth of that claim. And their goal is to determine if God has chosen the Principality. Not even “is there a God?” At this point they’re like, “Hey, is there a God, isn’t there a God, who cares?” What’s important for the Branched—and if you don’t know much about the Branched, I would say listen to the For the Queen game that came out this week, and then check in again on the Microscope game which will start next week, or this coming week. The Branched are like “Listen, if there is a God, if isn’t there a God, who cares? But if there is one, and also that God has chosen the Principality, then we have to take a pause, and decide like what do we do in the face of that.” And so they’re like spies, they’re spies here undercover. I hope they come up at some point. We’ll see. 
+
+
+Finally, something that happens in Forged in the Dark is that sometimes you can have a character who is their own independent squadm or even a squad inside of a major faction (I think Nideo may have had a single squad that was a person. I think like one kind of church leader was that.) And in this case we have Key : No Key, aka Kinoki. Once, a programmer dreamed of becoming a thief, so she built a device that could brute force its way into any computer in the galaxy. “Kinoki” is what happened when she attached it to a robotics factory and forgot to turn it off. And her goal—I’ve decided Kinoki is also she/her, I think like she like inherited part of the memory or identity of her creator… And her goal is to find something even she can’t steal. Which is fun. 
+
+
+And so that’s it, those are our independent squads. The big stuff here is like: they’re all pretty cool, also they’re all pretty weak by nature of not having an entire infrastructure behind them, right? The Isles of Logos are the only people here who for instance know how to build roads. They’re the only people here who can like, you know, enter into trade agreements or put together… Everyone here could probably put together a base somehow, right, or build stuff. But in terms of like, finding housing for a great deal of people or providing food, like… Being a small independent squad means that you’re either a target or you’re compromised, because you have to work with people that you aren’t actually a part of. And so it’s like, yeah, even the Sable Court probably trades with their neighbours, whatever Stels are close them. (I know what Stels are close to them, you’ll find out next week, when I update this map, or when I put this map out there.) 
+
+
+So, that’s independent squads. And again, like the big thing on the player side: if you decide to be independent—either at the top, of if you decide to go independent—you’re really… Like, people… We’ve talked about it in the Beam Saber Discord, I think in general Beam Saber fans… maybe even the book, does this even say “hard mode”? I’m gonna check. It doesn’t. 
+
+
+But, you know, playing as an independent squad is like playing on a harder difficulty. Because you just don’t get all of the benefits that you would get from having a patron. So we’ll see. 
+
+
+I will say up top, and it’ll be clear in a second why I’m willing to say this, that neither of our squads are starting as independent squads. But I totally would believe that one of them would go independent in the long run. I totally believe that that could happen. 
+
+
+[00:33:42 - Starting NPCs]
+
+
+So, let’s talk about NPCs. If you’re looking at the NPC sheet that’s in this update, you might immediately recognize the way that NPCs are described here. Because the way it is is a name with pronouns, and then it is a set of three adjectives, and then a short description. And if that setup sounds familiar, it is because we’ve used it before twice. We’ve used it at the very beginning of COUNTER/Weight, when we were playing Jeremy Keller’s Technoir, which had this great system called Transmissions, that this is lifted from, and then we used it again in Messy Business, where in both cases we used—Messy Business was Bluff City Season 1 finale—in both cases we used this system to generate a sort of like a quick map of NPC/Player character relationships.
+
+
+And so, you know, without going over each of this people ‘cause there’s 18 of them, and I really think that you should just read through it, I will say that like, this was a really fun way for me to enter into the main campaign here, where players had some connections already.
+
+
+You know, Blades in the Dark is written such that every player can list allies… I mean in general, in both Beam Saber, Blades in the Dark, Scum&Villainy—you know, all of the Forged in the Dark games that we’ve played—players have the ability to kind of call on an ally once per session anyway. And so we could invent them in that way, and be like “Hey, I wanna invent up…” Kind of the way that Lazer Ted got made back in COUNTER/Weight, or the tea witches came up in Marielda, where you just go “Oh wait, I think I know someone who can help me with that. Let me roll some dice to see what our relationship is like.” And so you can do that. 
+
+
+And in fact, I think Beam Saber removed some of the mandatory connection stuff from character creation to smoothline it… or not smoothline it, that’s to streamline it, or smooth it out. And I think it’s probably better for it, but for this sort of show we do, it was really useful for me to write out a bunch of characters. 
+
+
+And so I’ve written them out in this really interesting way where there are three sets. There’s a set of 6 tied to Stel Kesh, a set of 6 tied to Stel Orion, and a set of 6 that are tied to the other Stels or independent groups. 
+
+
+So, for instance, in the independent groups there is Mourningbride who is Mysterious, Regretful, and Resolute. Once the elect of an unknown Divine, Mourningbride journeyed to the Sable Court after learning about her people’s history. Now, she is a witch of the Ashen. So there you go: yes, an Elect does walk with the Sable Court. 
+
+
+And so like, this was just a way for me like put this in front of people or my players, and have them go “Oh, this is interesting!” In the same way I put the list of all the squads and faction stuff in front of them to have them go through that and make comments and notes to be like “Oh hey, here is a thing I’m interested in!” Again, it’s all about for me like, getting those flags from players. And this also super helped, both of these things: showing them the squads, having them comment on them, and them showing them those NPCs, and having them choose relationship adjectives, which is again, what happens in Technoir, where you go like “Okay, hey! I know Mourningbride, and I feel like I owe her a favor.” Right? And so you’re like, in debt or something, you could describe your relationship to her. 
+
+
+That let us do some of the squad creation stuff even more smoothly, because we already knew who the players were interested in. If that makes sense. Like, “Oh, hey,” for instance, I know that you have—I’m gonna find, I’m gonna see here if there’s another example I want to read out loud. Uh… Yeah. So I think… I don’t know that anyone took this character as… took Jesset City (he/him), Technical, Ingenious, Distractible… I don’t think anyone took Jesset as a kind of NPC ally from the jump, but they did… A llt of people like marked Jesset as like “Oh, that’s interesting! This character seems cool.” And from that I was like “Okay, cool, that’s Oxblood person, and so let’s lean on the Oxblood stuff, because people also marked the Oxblood stuff in the squad listing.”
+
+
+I’ll read Jesset’s thing. “A young tinkerer working in the experimental division of Adamant Arms and Artifice, but loyal to his Oxblood kin, whom he serves as a sawbone and occasional pilot. Bled for the factory, willing to bleed more if that’s what it takes to help the Ox.” 
+
+
+I’ll note, Jesset City, and another NPC here, Agon Ortlights, are both disabled characters. I kind of sketched out their basic idea for who they were. Jesset is someone who has lost a limb, and has a replacement, a simple prosthetic—simple by the setting of PARTIZAN standards, by our standards it’s still a… It’s sort of like a simple myolectric prosthetic where he can operate it, it has like kind of a grasping claw… I have a particular model that I have written here somewhere—that he has access to. It’s not like the best model on the lot, but it’s better than a lot of other ones, it lets him continue to do his work as a designer and as a pilot. And that character, and also Agon Ortlights…
+
+
+And I’ll read Agon. She/her; Powerful, Determined, Intrepid. Aided by her servicebot companions, Agon worked hard to attain the rank of lieutenant in the Company of the Spade, where she’s become a veteran mercenary, a skilled miner, and a hell of a drinking buddy. 
+
+
+Both she and Jesset… So, Agon has chronic fatigue syndrome, and is actually kind of inspired by this interesting like letter written be a member of the UK military, which, like everything else, is a deeply compromised thing, right? Because this is a piece online which is written by someone who is in the UK military, which—not a thing I’m particularly down with. But it’s about the ways in which she operates with chronic fatigue, the ways in which she paces herself… There’s a lot of techniques used for people who have chronic fatigue syndrome, and who are able to kind of utilize those things to still achieve what they want to do day-to-day. And what they want to day-to-day can be “work for imperial military”. 
+
+
+In this case I also really wanted this aspect of like “Hey, Stel Orion is all about cybernetics, and all about like kind of industrial design, and what if there were service animals that were also like robots or droids?” We don’t talk a lot about droids in the Star Wars universe as service animals, or service like machines, but they often are exactly that. And so this is like an explicit example of a character who has these like little service robots that like bound around the room with her, and help her make sure that she doesn’t have to overwork certain muscle groups and stuff like that. And that’s not a cure, but it is something that she’s able to rely upon, it is a kind of a disability aid. 
+
+
+I also want to take this moment to shoutout Kevin Snow who has been a consultant I’ve been working with over the few months, making sure that PARTIZAN hits some of the stuff around disability, and chronic illness, and physical trauma a little bit sharper than some past seasons. Kevin is a fantastic narrative designer in their own right; they are also a great resource, they’ve been a fantastic resource for talking about characters like these, for talking about how to make sure that we both put this stuff on screen, but not in a way that is like… That is neither pandering, but also is eager about being representation, so it doesn’t fall into the background. It’s kind of this weird middleground, where you don’t necessarily want a character to like, wink at the screen and be like “Get it? I’m disabled!” Because, from talking to Kevin, but also from talking to lots of disabled people, that sort of representation kind of like grates. But instead to think about people as people, and think about what their position in the world would be. 
+
+
+We’ve established that Stel Orion supports the people that are, you know, disabled, or who have non-normative bodies in various ways, that there is kind of infrastructural support in that way. And so like, for someone like Agon Ortlights, who is a high-ranking member of the Company of the Spade, this like fairly powerful (on Partizan, at least) mercenary group, she has available for her these really interesting and cool service bots. But even for someone like Jesset City who is like, you know, from this orphan guild turned into a kind of designer, mechanist and engineer, but also a pilot… you know, multidisciplinary… He doesn’t necessarily have what a rich person in this society could attain, but still has, for our society, publicly-funded, governmentally available prosthetic that allows him to continue doing his work. And that’s true about that world, but it’s also true about this character, and it’s not just about trying to make a point about the world, or what Stel Orion is like. 
+
+
+It’s really just about “Okay, like… What would this character… If this character had a life, what would they want?” And in this case, you know, Jesset City would love to have a even more elaborate prosthetic. Jesset City would love to have something that… I mean, one, he would love to not have to fucking work for Adamant Arms and Artifice, an arms manufacturer, would love to work more directly and permanently just for the Oxblood Clan. And on top of that is basically saying like “Yo! This device helps me do my job, I would love to have a better one. I would love to make myself a better one,” and maybe that is something we’ll see on screen. I will say Jesset has already shown up on screen, and Agon is someone that a player took as an ally. 
+
+
+I’ll also note that the other great thing about this list of NPCs is that we have already picked… There is at least one person here who is a rival in this list. I’m not gonna go over each of them one by one. But the fact that we were able to read this and go “Ooh! Ooh! Ooh! This is extremely good! Let’s do this!” was so helpful out the gate, because it meant that we’ve already had a couple of encounters that have that sort of charged energy that you don’t normally have out the gate in a tabletop game. 
+
+
+And I just really want to shoutout Jeremy Keller and Technoir one more time. It’s a game that I think I would love to return to in some capacity, maybe as a Live, maybe as a Bluff City down the road, because I just love that game so much. And even though we didn’t necessarily do it justice on COUNTER/Weight, and we ended up changing it, it’s been easily one of the most influential games for me as a storyteller. Even down to the fact that it cares about narrative pacing. It thinks about pacing in terms of both mechanical and genre rules. It’s really fantastic. 
+[00:45:00]
+
+
+Also, before I forget, shoutouts to Kevin Snow, you can follow Kevin on Twitter @bravemule. Kevin’s worked on games like Pathologic 2, Southern Monsters, Where the Water Tastes Like Wine, which, disclosure, I also worked on. They are fantastic. You can follow their work on bravemule.com. They also wrote for Waypoint a couple of times, they wrote a really great piece actually, about disability representation inside of Frostpunk, the kind of city-building survival game that came out last year for Waypoint. Go read that, it’s really good. 
+
+
+So, that’s NPC’s. I’m trying to think if there’s any things here on this NPC list stuff that we’re talking about… I guess the big one that I haven’t said is: why is there a Kesh, why is there an Orion, why is there an independent list?.. Or the other list—the other list is not just independents, it’s a bunch of other things. Because we have two squads this season. These squads are tied to Stel Kesh and Stel Orion at the start. Who knows if it will last. Go listen to the Cenotaph, Austin Ramsay’s own Beam Saber actual play, to hear about the ways in which a squad can very quickly lose… hurt its relationship with its patron faction. Like, that’s part of Forged in the Dark games, is those relationships can be tenuous, and the GM can kind of put them under threat. So, who knows i it stays like that, but there is a Stel Kesh squad, and a Stel Orion squad. And you’ll learn more about those when we get to our episode 00 of PARTIZAN. 
+
+
+But what I will say is: one of the things that was raised pretty early and often, and I think in Twilight Mirage was like “I don’t understand how these two factions, or these two groups kind of exist in the same world together.”  I think almost immediately how that is handled in Partizan. It is… Again, having just recorded two sessions, one with one squad, one with the other, I can immediately tell you the ways in which those two squads overlap, the ways in which what actions one side takes had knock-on effects for the world at large, but also for the other player characters. I’m really excited to see this two groups on the same screen at some point, so we’ll get there. Hasn’t happened yet, but it is like… I promise you, by episode three, like, episode 03, not the third episode, because that’ll be episode 02, because we’re gonna do an episode 00. But by the third full episode, the third full, like, narrative episode of the game—I think it’ll be a third one—you will see like “Oh, okay. Here are the ways in which what Group One did has affected what Group Two’s situation is.” It’s super good, I’m so excited to see the two groups continue. 
+
+
+I did basically ask folks to take one NPC as the connection from their own list, and then one from the other list, but I also allowed some crossover between the Kesh and Orion lists. There is like an Orion… Stel Orion-aligned player who has a Stel Kesh relationship, there’s a couple of those. And that stuff will all be very, I think, good ground to grow s story out of, if that makes sense. 
+
+
+[00:48:15 - Mechs]
+
+
+Okay. It is time to talk about mechs, finally. To talk about what in this setting we’re calling Hollows, unless they are blessed by a Divine in which case they are called Hallows. 
+
+
+And there’s a lot of kind of subtopics here, and I’m gonna try to work through them in a way that I’m happy with, and I say that because I just threw out like 30 minutes of me talking about this ‘cause I didn’t like it. When I say that this stuff is time-intensive, that is partly what I mean. [He laughs a bit.]
+
+
+So, I wanna start by just setting the ground for what is the situation with these machines, with these mechs. Why are they used? Who builds them? Who uses them? 
+
+
+They’re used for the same reason that they get used in mecha anime like Gundam or like Battletech, which is that… Actually, I don’t know if this is 100% true in Battletech, though I think the basics kind of do set it up this way. Which is that long-range combat has become unreliable, right? In Gundam, especially in the Universal Century, there’s a thing called Minovsky particles, which the Perennial Wave is definitely related to in theme, or in inspiration—they’re a definite inspiration for the Perennial Wave—that basically prevents things from like, you know, cruise missiles from being launched in the long-range, or makes them deeply unreliable. And requires a person’s hand on the trigger and on the reticle. 
+
+
+And thematically we could go on forever about what it means to put someone inside of a big machine body, that then shoots a big gun. And I’ll get to some of that in a little bit, when I start describing the kind of basic, most popular mech unit here. But the gist of it for me is like… It is fascinating to see a world in which internalities are externalized, right? Where you’ll have a culture that says “This is what an ideal body looks like,” or “I don’t care what it looks like, I care what it does.” And seeing those things kind of brought to life, in our case, in audio, but in anime, on screen, in comics, or whatever, there’s a lot of thematic work that gets kind of condensed into these like… big walking metaphors. And that’s part of what appeals to me about mechs. 
+
+
+And in this case it was important for me to start with thinking about who builds them and who uses them. The answer, one, is like, everybody uses them. Until five years ago, the Divine Principality had never had a big, massive… a massive internal conflict. Lots of little internal conflict, lots of skirmish battles, even between Stels, there were some skirmish battles that were like “Hey, we want this! We want..” There’s been wars, even. And there’s been one super long war against the Branched… I was gonna say to the north, which isn’t really accurate based on the way the map works, and also based on the fact that we’re in a Galaxy, but you know what I mean. There’s, you know… on the map, north of Partizan, above, you know, upward on the map is where the Branched fight against the five Stels. And that fight is fought by everybody. 
+
+
+And so, everyone wields them. There are definitely more militaristic Stels—Apostolos the most militaristic, Columnar the least, even though they are a major arms manufacturer—but everyone wields them. 
+
+
+It’s not the case that everyone builds them to the same degree. So, we talked about what the five Stels have in terms of aesthetics, right? So, for instance, we’ve talked about how Columnar machines are often these elaborate prototypes, with like very toy-etic, very build to be sold on the toy shelf, right? Very like memorable design, but also with some interesting weird shit lingering under the surface, or we’ve talked about something biological. We’ve talked about Nideo mechs have very idealized, or more than idealized human figures, almost angelic in nature, statuesque, things that go beyond just like the humanoid body. Or start with the humanoid body at its most normative, and then develop on top of that. We’ve talked about, you know, Stel Apostolos stuff having all those moving parts, and focusing on dynamism, and speed, and stuff like that. 
+
+
+But that doesn’t necessarily mean that Stel Nideo or Stel Apostolos makes those machines that they use. They might modify them—they definitely modify them, they might make a few. They certainly have certain designs that are totally, 100% unique to them. But it is much more like the real world where there are major arms manufacturers that happen to be part of certain countries, and that deal with people from other Stels, in the case of Partizan. 
+
+
+Again, civil war of this nature has only just started five years ago in this world. You know, the civil war that is like “Hey, two different Stels are claiming to be the home of the Princept, the leader of this whole fucking thing.” That’s a much, much bigger fight than there’s ever been before inside of the Divine Principality. And so, you know, you have Stel Orion stuff everywhere. You have Stel Columnar stuff everywhere. 
+
+
+And those are the two major factions that produce arms, and they do it according to the desires of their partners. I think for Stel Columnar it’s a lot of like working close… Okay, let me actually slow down a little bit. Because it’s not exactly that the governments of these two Stels are doing it. One of the conversations that came up today, actually, in both the Friends at the Table and the Beam Saber Discord was how do you show a manufacturer in Beam Saber? How do you differentiate between one company that makes something and another company that makes something? And there’s lots of ways to do that, I think—sorry, I just bumped my microphone—even inside just the basic mechanics, even before you start hacking stuff in. 
+
+
+And I’ll say, the reason I wanna say this about manufacturers is because it isn’t that Stel Orion is producing mechs for everybody. Adamant Arms and Artifice though absolutely is. You might remember Adamant Arms and Artifice—a group I’m gonna just call AdArm going forward—AdArm from Stel Orion squad update. They are a kind of mid-Tier military power, they don’t have like a big army, or anything like that. They have their own mechs to defend their own bases and stuff like that, and they certainly have government contracts and relationships inside of the Stel Orion government, and I’m sure there are nobles, and CEOs who are related, blah-blah-blah-blah-blah, all that shit. Probably deeply nepotistic. But they are not Stel Orion as a government, they’re an independent company that has contracts with basically every other Stel except probably Columnar, because the Columnar companies and kind of projects are in competition with Stel Orion. There’s kind of an economic war between Stel Orion and Stel Columnar as we go into PARTIZAN. 
+
+
+The AdArm, the Adamant Arms and Artifice company, is the biggest arms dealer in the Galaxy. They are by far the people who make the most war machines, the most missiles, the most Hollows, that sell them to every single Stel except for Columnar. And even that, I bet Columnar, bits of Columnar... You know, Columnar is a democracy, I bet you someone out there is like “I cannot wait to import the base Troop model!” The basic model that AdArm sells the most is called the Troop, and I’ll get to why it’s called that in a bit. It is not only the “respect the troops” joke. ...But that also has come up already. 
+
+
+Stel Columnar, on the other hand, you know, certainly, again, has independent companies that will design stuff, and have their own kind of like interesting ticks, their own interesting like trademarks. The company that does the most, or the group that does the most of exporting mechs is the Zenith Fund, which, again, if you go back to the Columnar update, the Zenith Fund is a sort of a scientific and engineering fund that pays independent companies and designers to work on military project, to work on engineering projects, most of which fold up into, you know, some sort of a military contract. And that means that you could be an independent designer who’s working on like a hover mechanism, and then your research gets combined with someone who’s been working on a railgun, and the two of you end up collaborating on a mech that you didn’t even know you were working on, that gets shipped out to Stel Apostolos. 
+
+
+The kind of aesthetics we’ve talked about back in each of the Stel updates are true even though those Stels aren’t hand-making each of these mechs. These mechs are made either on order, especially for the Zenith Fund, so you might find a mech in the list that is something like… In fact I think in this list you have something called the—let me find it here...—the Zenith-A Project. The Zenith-A Project produces stuff for Apostolos. Zenith-A is Apostolos, Zenith-K is Kesh, Zenith-N is Nideo, right? I guess there could theoretically be a Zenith-C, but I guess it would just be called the Zenith Fund if it was Stel Columnar stuff. And so, even though… 
+
+
+The way this would work is like: there’s the Ataraxia. The Ataraxia is an Apostolosian kind of prototype mech made by the Zenith Fund in conjunction with Apostolos. Apostolos would’ve sent, you know, a general, or their own kind of designers, their own mech specialists to a Columnar research base, they would’ve worked together for months or years on this design, maybe the pilot would even have been considered, because Zenith Fund stuff, Columnar stuff in particular is always very specialized, every new release is a hot big deal thing. These are on trading cards, these get action figures made out of them, these are like, you know, very toyetic. Again, this is like the gunpla, is definitely... the fancy Gundam Wing stuff is Columnar stuff. Even if it’s being made for another faction. 
+
+
+And so, they would make something with the Ataraxia, which would live up to the Apostolosian aesthetic design, but it will be made by Zenith, right? And so, as a narrator, or as the GM, one of the way that you want to emphasize manufacturer stuff but also kind of faction stuff is to blend those two things together. 
+
+
+And so, the Ataraxia, for instance… I’ll just read it for you. I’ll read the appearance, and I’ll get into what all of these different kind of sub-things are when we get there.  
+
+
+“Appearance: A white, purple, and yellow mantid-shaped machine, with thick, curved limbs, each of which can light up with edged, energy blades. It moves in such a way that any two limbs can be its feet, and in the sky it needs none at all. It is only a whirlwind of violence. And inside, Cas’alear, blessed by Commitment, is at perfect ease.”
+
+
+Cas’alear is an NPC that was mentioned back in the Apostolos update. That is the Ataraxia. It’s named that because Stel Columnar bases… Sorry, not Stel Columnar, but the Zenith Fund names all of their stuff after… They’re like all categorized, so when the Zenith Fund makes for Apostolos, all of their things are based off of Ancient Greek cultural and philosophical concepts. 
+[01:00:00] 
+
+
+So like, Ataraxia, Ethos, Aporia, Arete, stuff like that, right? Pathos, etc. 
+
+
+This is just for this like moment in history of the Divine Principality, I’m sure that if you went back a hundred, or two hundred years, or five hundred years, you would find other different mechs with different naming schemes, but in this moment we’ve got these naming schemes and that is it. And you’ll find a list of those at the bottom for both the Zenith Fund, and also for Adamant Arms and Artifice, which is the biggest Stel Orion design company, you know, arms company. 
+
+
+And I actually want to go back to them really quick, because I want to talk about what I’ve written down for each of them, and why I’ve written these things down. Let me take a sip of coffee though. 
+
+
+So, Adamant Arms and Artifice… This is actually where to start it. Before I made a cool mantis mech with laser arms which I just described, I made the Troop. 
+
+
+The Troop is this season’s Zaku II or Graze, or from COUNTERWeight, the Rook. The is like the basic model robot. This is the Hollow of all Hollows, this is the mech. When someone in this world thinks “Hollow”, or thinks “mech”, they think of the Troop. And let me just describe it for you. This is basically what I wrote down before we played our first session. 
+
+
+The Troop is the standard frontline fighter of the entire Divine Principality. At 55 feet tall, these hollows are medium sized for the Principality, but bulky in aesthetic. While it can (and often is) modified to match the aesthetics of whoever uses it (with both paint and armoring changing to match), this is a fundamentally blocky machine, with exposed cabling and limited mobility. The Troop has a distinctive, rectangular head with a long, flat sensor suite that features hundreds of tiny LED-like lights to form a single “eye.” Attached to this head, above the left shoulder, is heavy cannon used for direct-fire attacks. While the troop’s right arm always ends in a simple manipulator unit with underarm bayonet, its left arm is often modified ahead of deployment to include whatever the mission requires, whether that is additional protection in the form of a shield, tools for destroying or repairing emplacements, or even anti-infantry weapons like machine guns and flamethrowers. 
+
+
+I knew that like… Part of the goal for me as a storyteller is to show you when I go “This is what a mech looks like,” is to immediately communicate everything about this setting in that default kind of image, right? In that one design. And so, the Rook in COUNTER/Weight was fairly simple. Lots of angles, lots of like… a traditional humanoid shape. It had, for instance, fully humanoid hands that could grip things, and move things around, and could pick like a big gun up off the back of a train and shoot with it if it found one. The Troop cannot do that. That Troop is not build like that, the Troop is a walking gun, right? Like, the Troop has a manipulator to pick stuff up with, but it’s using the weapons built into it. It has a big cannon attached to its head and its shoulder because you cannot… It cannot look at you without pointing a gun at you. It’s a very simple metaphor, but it’s like… It is the opposite of the “War is bad!” Gundam meme. This thing cannot shoot parabolically, it cannot do artillery strikes except by bending at the waist a little bit, but it’s not built for that, it’s build for direct fire. If it’s looking at you it’s pointing a gun at you. 
+
+
+To borrow a Foucauldian term, this is not a pharmacological being. The Ancient Greek work “pharmacon” is both the word for “cure” and also the word for “poison”, because you can apply the same thing in certain amounts to produce either dealdy or curative effects. This is not that. There is no version of this thing, without changing it fundamentally, that is not a machine of war. If it is looking at you if is pointing a gun at you. You might dream of fighting for a better world inside of it where you don’t need to fight with it, but as long as it exists is is a walking gun. And you would have to literally take it apart to change its nature. You’d have to do material work on it. I couldn’t get more… The metaphor couldn’t be simpler, but it’s super important to come out the gate with it. Because… Contrast that with “We could have made them look like anything, but we made them look like us,” a world where each mech has the breadth of expression of every individual person. No. Here, The Mech is built to kill people. The Mech is a gun. With apologies to Tyler, The Creator. 
+
+
+From there I was able to think about how I would deploy that narratively and mechanically in combat situations, right? So, for instance if there is a group fighting them… In other words, I didn’t need more than this, right? In terms of GMing, I had to write this down, I had to have a good idea in my head, but I didn’t need to know where its action points were, you know, I kind of knew what its equipment was already, stuff like that. 
+Because the way Beam Saber and Forged in the Dark games work I’m never gonna roll for one of these things, I’m never gonna like sit down and be like “I’m gonna roll dice to see if it shoots well.” You know, maybe a fortune roll to find out if two different sides are fighting each other, but when a player’s attacking them, I’m never rolling for damage, I’m never rolling to hit, that’s not how Forged in the Dark games work, it’s not how Beam Saber works. 
+
+
+But I did need to know that like “Hey, if someone puts a building between a Troop and themselves, they won’t… The Troop won’t be able to shoot over the building at them.” It’s just not what they’re designed to do, right? I needed to know that like “Hey, in close combat situation The Troop kind of like doesn’t have anything but a bayonet. Kind of like an underarm like military knife is really what it has, I’ve linked out here pictures of the Shadowhawk which is MechWarrior/Battletech design,and also design this particular image by Jakub Rozalski called 17IX, where there is two mechs. The one on the left, the kind of foreground one is the one I’m talking about here. The other MechWarrior designs are also very similar here in terms of like the head. I think the… I wanna say The Panther is maybe similar, or the… God, there’s another one that has like a very similar head unit that I thought was like: “Yeah, it’s like that!” And I’ve now forgotten the name of it. Let me scroll up and just take a peak. What is this one called? This is called… This is the Highlander. The Battletech… Let me see if this is true [typing] The Highlander… Yeah, the Battletech Highlander has a very similar head unit also, except imagine there’s a giant cannon on its shoulder next to it. 
+
+
+So, that is like the Troop. And so that’s enough for me as a GM to start playing. 
+
+
+Also, it’s called the Troop because the Adamant Arms and Artifice designs are not named by Stel, they’re named by use and design. And all medium or bigger bipedal humanoid designs are named after primate collective nouns, so Troop, or Shrewdness, or Band. For that matter, medium or bigger  quad-legged mobility based designs are named after kind of collective nouns of ungulates, so Herd, Yoke, Dazzle, which is a collective noun for zebras, stuff like that. Flight-based stuff is like birds, so Flock, you know, Cast, Convocation, of course Murder… At some point we’ll have the Murder. 
+
+
+I’ve not designed the Murder yet, please do not send me your own designs ‘cause that will just insure I can’t use them, it’s like the Magic: The Gathering rule—the easiest way to make sure that something is not the thing that you’re imagining is to send it me, because of terrible copyright law, and it gets really tricky the second I would ever want to use something a fan send in, so please just don’t put those in front of me. Uh, etc. 
+
+
+So there’s like, you know… They use insect collective nouns for other stuff. You’ll see a list of all of the ones I’ve written down so far at the bottom of the post for both the Zenith Fund and Adamant Arms and Artifice. And I’ll note here while I’m looking at the stuff: they are not the only companies, right? Like, there’s a player character who has a converted construction model, a ConCon, that is made by Singh Sisters Wheel Service & Heavy Industry. And that is like straight up a construction mech that has been, you know, modified into being a military machine. And it’s dope. 
+
+
+So, they’re not the only ones making it, but they’re like the two big manufacturers. And so, again, in both the Beam Saber and Friends at the Table Discord today one of the things that came up was “Well, how do you communicate something true about a manufacturer in this system that is interesting mechanically, not just narratively?” And, one, for me it’s like, well, narratively is already pretty solid, right? I do think that in Beam Saber as in most Forged in the Dark games narrative positioning is a real thing. And so like, it’s already one thing to be like “Hey, this is a mech made by AdArm, made by Adamant Arms and Artifice company”—that’s enough to start opening certain doors, right? Oh, okay, this is a pretty common machine, which means when you roll to acquire assets to get one or to get repair parts, or whatever, maybe you get greater effect, etc.  
+
+
+But there also are other ways to communicate that inside of the framework of this game. So, for instance, one major vector is quirks. Now, I went back after the first game to develop these quirks for the Troop, but a lot of them are kind of pre-written inside the design. 
+
+
+So, quirks in Beam Saber are the way in which you do… you push yourself or resist consequences inside of a mech, inside of a vehicle. If you’ve listened to us play Marielda or Scum&Villainy before, you know that the kind of basic economy an, like, cycle of those games is that characters come up tp a problem, they decide whether or not that problem is worth pushing themselves to do, and if they push themselves, they take a little bit of stress. Then if they roll well, they get what they want; if they roll middling, they get what they want but there’s a complication; and if they fail, there are multiple complications often. And these complications can be avoided if they try to resist. And if they try to resist, they get some stress. 
+
+
+Well, one of the ways in which Austin Ramsay introduces vehicles into Beam Saber is to say: vehicles are almost like a second skin that let you resist things in place of your stress. When the game was first made there was a whole system of fuel, it was kind of fuel instead of stress, but that wasn’t as flavorful, I think, as maybe Austin wanted, and so instead he eventually designed this idea of quirks. And quirks are fantastic! Quirks are… let me just read from the book here… [typing and singing to himself] Hitting Enter a bunch… Oh, nope, this is still not it, that’s a table of quirks, which is one. I’m at the bottom of this document, I should be at the top of this document. Quirks! Here we go. I should’ve just used the thing in the sidebar called the table of contents. 
+
+
+“Quirks are the unique qualities a vehicle possessed, that a pilot familiar with it can use to their advantage. However, these quirks aren’t fully positive, and if all of them are applied without maintenance, the vehicle will suffer a breakdown. Every vehicle starts with four quirks that the pilot is already familiar with. These four quirks are likely common to that model of vehicle. Up to four additional quirks to a total of eight can be gained by filling the Enhance track with the Enhance downtime activity, and these ones are unique for that specific vehicle.” 
+
+
+You know, the way quirks work is basically you have something that is both a positive but could also be a negative if you read it in a different way, and when you push yourself inside a vehicle, instead of spending stress you spend a quirk. You say: “Hey, I’m gonna burn this quirk to get a better effect, a better die, or to do something from a better position.” 
+
+
+So,  for instance, if you were piloting a Troop, the Troop’s quirks are Bulky torso, Steady acceleration, Shoots straight, and Common Parts. So, let’s say “Shoots straight”. You could burn “Shoots straight” to get a +die on your Battle roll to do combat, right? To blast an enemy across the battlefield from you. And you could say “I’m gonna push myself so I’m gonna expend Shoots straight to get a bonus die, or to get better effect.” But because of the way quirks work, you could also—If you failed that roll, right? I could say “Oh, the thing that happened here was…” Or maybe you could produce this, because when you produce it, when a quirk gets in your way, it generates xp for you. Because you can only shoot straight, this vehicle started moving up on like a hill you couldn’t aim up at, because this thing doesn’t have vertical articulation, it doesn’t… You can’t aim the cannon up more than you can bend at your waist, and you can’t bend at your waist very far, because that’s just not the type of machine you are… or you’re in. 
+
+
+So, that’s what a quirk is. And that vector for quirks for me is a great place where we could start to communicate something about the different manufacturers, right? So, for instance, I have… one that we talked about was “Common parts”, right? 
+
+
+Well, there’s another design that AdArm has that I developed ahead of the first game, called the Herd. And if the Troop is a general mechanized combat role, than the Herd is a skirmisher, it’s meant to sweep in and out of combat, delivering damage while a main force advances or engages directly. It is developed from the basic Troops design, it is often used by Apostolos in both hit-and-run attacks and in more prolonged conflicts as a kind of a flanking unit. The Troop’s bipedal legs have been replaced with piston-driven, heavy quad legs that are able to shift between two modes: Movement (with legs paired parallel like an ungulate, allowing for high speed traversal or charges) or a combat mode (spread in a wide cross shape for stability in firing or traversal, where it moves like a spider). The single heavy shoulder cannon has been replaced by a lighter underarm cannon on left arm for more rapid fire harrying, and its right arm now ends in a right hand, which wields a spear that can be used in both charges and in extended melee, or which can be turned into a thrown weapon which explodes on impact, kind of like an impact javelin. Each Herd comes standard with two such spears, which are carried vertically on each side of its back: This silhouette is famous to any who have fought against Apostolos.
+
+
+And it’s like: so, how do I communicate that this is from the same crew? Here’s a big one, the same basic manufacturer—Common parts. Common parts is a thing that could show… that I could put in every single design from AdArm, right? AdArm is the biggest arms manufacturer in the Galaxy. 
+[01:15:00]
+
+
+It’s always going to be possible for you to find those parts so long as you’re basically using an AdArm design. Once you start going beyond that it gets a little trickier. 
+
+
+There’s other ways, too. So, without showing so much of my hand (or of a player’s hand), there’s a model that I’ve listed here called KMB Service Custom Troop aka the “Three Cheers!”
+This is a player character mech, it is from the Orion/Independent… I’ve written /Independent, because this mech belongs to the person more than it belongs to Orion, right? It’s just that they’re currently aligned with Orion. 
+
+
+“Appearance: Take a Troop, and slowly, over time, replace just about every piece of its design with a patchwork quilt of new parts and materials until even the fundamentals have shifted. Now: Pointed shoulder containers, a pointed chest. Silhouette is like the ARX-7 Arbalest/ or Gundam F91 silhouette with ATM-09-GC Brutish Dog design aesthetic.” All of those are links, by the way, in the description, if you wanna scroll down you can see those. “Easily removable/replaceable plates with non-standard rivets. It can fold in its limbs in and lower itself to the ground, using newly exposed treads/wheels so that it can move through tunnels/small openings very quickly.”
+
+
+And, again, this is fundamentally a Troop, right? It’s based of the Troop design, it’s just been modified a lot. And so I’ve kept… or I can reflect that here: it also has Bulky torso, just like the Troop does. And maybe you could burn that to get a better Battle roll, or to resist a consequence, because the quirks are also what you use to resist consequences. You take you total score, you take your attribute rating in a related vehicle attribute, and 4-[that number] is how many quirks you have to burn to resist a consequence inside of a mech. And so you could say: “Okay, I’m gonna resist this damage by expending my Bulky torso quirk…” 
+
+
+And so, this thing, the “Three Cheers!”, because it’s in the same basic line, still has Bulky torso. And then even the ways in which it’s different: instead of Steady Acceleration it has Fast Acceleration. So it’s almost as if you’re gesturing towards this relationship as a “starting as one design from the same manufacturer”. 
+
+
+I’ve also included the Yoke model, which is like a modified AdArm Herd, and that does not have any of the kind of throughline from the other AdArm designs, because this is an Oxblood Clan design. It has been so radically change, that it doesn’t look like the basic Troop anymore, it looks like its own basic thing. And I wanted to communicate that with its own set of quirks, right? 
+
+So, that’s like one place where you can immediately start to communicate the ways in which these manufacturers are distinct. You know, shared quirks. You can also share things like action points. This is something I’ve written down because it’s useful for me just in terms of worldbuilding to have, even though it won’t ever come up in play. But like the Troop has 2 in Battle, and 1 in Maneuver… No, sorry, that’s the Herd. 1 in Battle, 1 in Maneuver, 1 in Scan, right? It’s just the basic Troop design has those action points. If you started a new character tomorrow set in the PARTIZAN world, and you were like “I want them to start with the Troop”—those are where you’d put your starting points probably, you know. 
+
+
+Likewise, I’ve listed out here, if you take a look... I’ve kind of just copied from the Vehicles section of the book. Not the Vehicle Creation, ‘cause the Vehicle Creation section is kind of… I mean, I guess it’s pretty similar, you could work your way through NPC mechs the same way here, but if you just take a look at the Vehicles in the War, I wanna say, section in the book… No, that’s wrong. Is it the War? The Izyan Conflict? Yes. If you look at the page 244-246, somewhere in there, Austin Ramsay starts listing the different vehicles in the game, and each of these have a Manufacturer, a Faction, a Role, an Intended Load, a Standard Loadout with different gear, and then Action Points, Appearance, and Suggested Quirks.
+
+
+And so I started doing that for each of these too, just because it’s useful for me to have this stuff written down, but really what you just need is: what does it do? How difficult would they be to fight against? Is this a 4-step clock? Is this a 6-step clock? How does faction Tier work into that? Because even this very basic Troop model would be better if it was a Tier V Troop vs a Tier I Troop. A Tier I Troop is gonna be like rusty and old parts, a Tier V Troop is gonna be pristine, it’s gonna have new parts, it’s gonna be well-polished, everything is gonna be functioning at the best possible way. But it’s still not gonna be as good as a Tier V version of just a better vehicle. 
+
+
+So, you know, the fun stuff here for me is thinking about the ways in which, despite being made by the same couple of design companies, the… Those companies can still build something to adhere to or that is modifiable into the aesthetic of each of the different Stels. And some of the things I’m having fun with is like “Okay, how do I emphasize that this is hitting both… That this is made by what is an Orion company, AdAm, but also is, in this case, for instance, a Nideo mech?” 
+
+
+Nideo, again, has this sort of like very normative humanoid design, but from there becomes kind of high art. And so if you take a look at something like the Cast, which is a mirror-coated, humanoid, four-winged angel, with a body that constricts down towards a single point at the “feet” (the egs that can detach or stay joined and super aerodynamic and triangular) and it also has loud jet engines hidden inside of the metallic wings. So like, there’s a point at which “Oh wow, look! There’s this this angelic figure!” And it’s very Nideo. But also it’s an AdArm machine, which means it has loud jet engines, right? Because that is still kind of what their design is. 
+
+Also, just above its mouth, its head becomes an AWACS-style flat sensor disc. Do a search for AWACS to see what I’m talking about. It is built for reconnaissance, and is often deployed by the Palace—the Palace is kind of news organization/Wikipedia/… like it is kind of like your... You kind of have a Kindle-sized device that is connected… It’s not connected to, but it gets updated when you put in your like… You put it in its dock, and it kind of downloads the latest updated version of everything, it’s just like a reference device that gives you your daily news but also is like a dictionary, and an encyclopedia, and all of that. 
+
+
+It is built for reconnaissance, and deployed by the Palace to gather information and recordings. It tends to avoids conflict, though it can defend or stabilize itself with a system of chains and hooks.
+
+
+It’s like: Okay, cool. That is right at the kind of intersection between something like what AdArm would make for Stel Orion and what now they’re making for Stel Nideo. You know, the Zenith Fund version of that maybe has wings that flap and are actually biological, and kind of creepy in that way. But fundamentally the person inside would still be in a season 6 mech, a PARTIZAN mech, which is to say, really basic UI, or fundamentally still not doing things that are more science fantasy than science fiction. And we love… I love playing in that world. 
+
+
+Again, like, you compare the Rook… The Rook, a very sci-fi design, very angular. The Saint from Twilight Mirage, or the Angler from Twilight Mirage, but especially the Saint, which were kind of the first mechs we really saw on screen, with these big crystalline hearts that people were inside of. How much more, again, on-the-nose can you get for Twilight Mirage and what Twilight Mirage was trying to do? That is… That style of thing is like what we are… What I am emphasizing here is like “Hey, even the most powerful…” [He claps.]
+
+
+So yeah, mech design for me is a vector for storytelling, it’s a vector for theme, it’s a way to address and introduce thematic questions, and to communicate in shorthand, and to communicate in a way that’s like quick. Like, “Okay, hey, the Ataraxia takes the field. Uh-oh! This thing is not like the Troop that has already been introduced. This thing is like fast, and, you know, kind of has this insectoid design, and all this other stuff.” 
+
+
+My hope is that I can use that stuff in a way that communicates action in a really compelling way this season that encourages players to break out and do different stuff. I’ll note that like when it came to letting players design stuff I did not say to them “Here are the aesthetics of the five Stels, you need to work within these!” I’m way more interested in letting them have an open canvas, and then me going like “Oh, interesting, that sounds like it’s a Zenith-A project. I’m gonna give you the model number, the model name. I mean, you’re gonna tell me what you call it, like here your name for the thing, but I’m gonna tell you what model name it is, because it fits in here.” 
+
+
+I did not wanna go to them and be like “Yo, everyone has to abide by my aesthetics.” We’re all on the same page when it comes to like general season aesthetics, no one had anything that was like beyond or outside of that, but I didn’t want to them to come to me and be like “Well, tell me what you can shop for,” ‘cause it’s fundamentally not that style of game. 
+
+
+That said, there are some ways that if you did want something more, you know, more around shopping, or more around developing stuff where like the manufacturers “matter” more. One is just like, don’t underestimate the power of fictional positioning, which I’ve said before. Don’t underestimate the power of long-time clocks, or of just adapting stuff towards what you want it to be. 
+
+
+So for instance, I’ll note… I think it’s the Herd has something pretty unique. Yes, the Herd: a pair of spears with explosive mode is me just taking “A melee weapon or two” and “a rack of missiles or rockets”, and saying like “Yeah, it has those, but we’re calling it something different.” 
+
+
+Likewise, it has the Stability Suite which lets it switch between a mobility mode and a more stable weapons platform mode. That is just “Grapnel Anchor Tool”. I don’t need to come up with like a special move to communicate that this is something it has, and we could say like “Oh wow, every Herd-derivative mech has that stability suite installed in it.” And that would communicate that being true about that line of machine. 
+
+
+That said, some people did suggest—in the… I think it was in the Friends at the Table Discord, I’m gonna double-check very quick, but I think it was there… yes, more than in the Beam Saber conversation…—I think it was a combination of people here, Catsplosion and Jay noted that you could do something where like “manufacturers have special moves”, where you could have a move the way that you would have from a playbook, right? So like, this game has a playbook that is the Ace playbook, and the Ace playbook has a move that is basically like a transforming mech, where you can change, it can switch between two modes, and the kind of scores, the stats that the mech has, or that your character in the mech has changes depending on what mode it has. You can easily extricate that from that, and say “This is now a thing that all mechs from such-and-such manufacturer have access to, or anyone who pilots a mech from that manufacturer has access to.” That’s one way of doing it. 
+
+
+Giving every mech a fifth quirk out the gate that is just like “This is the manufacturer” quirk could do that. But what I really want to emphasize it that I just really don’t know that Beam Saber is build for what is… I think some people want from mech games—it reminds me a lot of like cyberpunk games also here. Cyberpunk 2020, for instance, is a great shopping game, because they released, over and over and over again, they released tons of these little books that were basically like shopping guides to the cyberpunk future. You know, in this we’re gonna get into biotech, in this we’re gonna get into vehicles, in this we’re gonna get into guns. And just like, dozens of different things with slight stat variations. And that’s a totally okay way to play a mech game, or to design a mech game. Lancer is very much built like that. In the world of video games, something like Armored Core is very much built like that. I played Daemon X Machina this year, I really liked that game, and it’s built like that. It’s like “Ooh, look at all these toys!” and they let me put my mech together from this list of toys. 
+
+
+But the kind of way that Beam Saber is built is just not about that. There are ways to upgrade your mech, and change your mech, and develop your mech, but it is much more interested in the kind of thematic pacing of a show like 08th MS Team, or any of the Gundam series, or Macross, or Battletech, for that instance, where change is about… Your machine is hurt, and you’re repairing it, you’re changing its functionality by investing in changing something in it, more than a shopping spree, where like “Ooh, the energy rifles from this company are different than the energy rifles from this company!” 
+
+
+And you can still play that fantasy out in terms of narrative, but it’s just not built like that in terms of gameplay, and I don’t just mean in terms of what’s available to you, because every, you know, every fine assault cannon is going to be equal to every other fine assault cannon unless you have some sort of fictional positioning reason for it not to be. Which totally, again, a valid way of doing it, right? You can just say straight up… I could say “All of the guns made by the Zenith Fund shred through physical armor, so you get extra effect against mechs that have physical armor.” That’s a thing I could do, and that is a very simple way of doing it. But I think more important to the game is giving players the ability to look at what’s available to them, and mechanize a sort of narrative loop of going out into the field, having their machines get hit and broken down…
+[01:30:00]
+
+
+...paying through resources to repair those machines, acquiring new assets in the field and through long-term projects, and doing all of that in this much more abstract sense where the players can invent their own shit. And I don’t just mean “the characters can invent stuff,” but the players can say “Ooh, it’d be really cool if I could find X-Y-Z thing,” and developing it with them, you know, on the spot or over weeks of play, instead of being like “Here’s a shopping guide.” 
+
+
+Mostly because, again, the loop of the game just doesn’t…. It isn’t like Armored Core where you’re getting enough money to go shopping to get cool upgrades. It is so much more the thing of like, over… It’s so much more the ship of Theseus thing, of like you’re rebuilding this thing as it takes damage, as it comes home, as you happen to get an upgrade for your base that give you, you know, the opportunity to afford to change out the heavy cannon for a machine gun, or something like that. 
+
+
+So yeah, I think those are the ways in which, if you’re interested in this game and playing out the mech side of it, it is a lot less like that style of like… pick over a parts list, and it’s much more like narrativizing the sort of arcs that heroes in mech stories kind of go through. 
+
+
+Alright. We’ve talked about mechs, we’ve talked about independent squads, we’ve talked about NPCs, I’ve gone way longer than I wanted to. This has now taken me, I’d say, two hours longer than I wanted to record, and you can hear it in my voice. 
+
+
+Hopefully, I’ll be back if not this coming week, the week after with some kind of final… not final, because none of Drawing Maps is final, but some pre-season maps, that can literally be maps I’ve drawn to help communicate for you what is happening in Partizan. Some, not session prep, but pre-session prep, or kind of like “Hey, here are the steps I go though” and then some fun stuff about calendars and timelines and everything else.
+
+
+I hope you check in for that, and I hope everyone has a great week. If you have a holiday week this week and you’re traveling, be safe. I hope everyone has a great time, and is as looking forward to PARTIZAN as I am. Talk to y’all soon. Peace!

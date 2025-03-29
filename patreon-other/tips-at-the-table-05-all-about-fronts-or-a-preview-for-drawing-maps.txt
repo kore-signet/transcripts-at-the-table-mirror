@@ -1,0 +1,3548 @@
+﻿Tips at the Table 05: All About Fronts!, Or: A Preview for Drawing Maps
+
+
+Transcriber: Serj (0:00:00-1:30:16); mo#3373 (1:30:16-1:58:46)
+
+
+AUSTIN: Welcome to Tips at the Table, a Q&A podcast about critical questions, hopefully smart answers, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Alicia Acampora.
+
+
+ALI: Um, hi. My name is Alicia Acampora, you can find me @ali_west on Twitter.
+
+
+AUSTIN: Jack de Quidt.
+
+
+JACK: Hi. I'm Jack de Quidt. You can find me on Twitter @notquitereal and you can buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+
+AUSTIN: Including a new track from the most recent Twilight Mirage.
+
+
+JACK (crosstalk): It's a new Twilight Mirage track that has a synthesizer that is literally called 'aggressor', and-
+
+
+[ALI laughs]
+
+
+JACK: I had a ear experience- 
+
+
+AUSTIN (crosstalk): Ooh, good name. 
+
+
+JACK: I didn't name that.
+
+
+AUSTIN: Okay, well-
+
+
+JACK: It's still a good name.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Still, whoever named it, good name.
+
+
+JACK: Yeah, well done. Logic's synths all have fantastic names.
+
+
+AUSTIN: Uh, what else.  Uh... Art Tebble is also joining us.
+
+
+ART: Hey, hi. You can find me on Twitter @atebbel, and uh, if you're not in the Patreon tier that lets you listen to these live, you missed out on basically all the fun interaction [???] (00:1:00)
+
+
+[ALI laughs]
+
+
+AUSTIN: They will show up-
+
+
+ART: It's gonna be very straight-laced from here.
+
+
+ALI (crosstalk): They might not, don't promise that.
+
+
+AUSTIN: Wow, true. That's true! Maybe they won't.
+
+
+ALI: Clapcast doesn't get all of the good live stuff.
+
+
+AUSTIN: That's true, it doesn't!
+
+
+ALI: Y'all pay 15 dollars for a reason, I'm letting- I'm making sure that you guys get your money's worth.
+
+
+AUSTIN (crosstalk): Damn! Ali underscore West out here protecting the fans! 
+
+
+[ALI and JACK laugh]
+
+
+AUSTIN: Unless you're not-
+
+
+ART: And I refuse to interact in a fun manner from here out.
+
+
+[ALI laughs]
+
+
+AUSTIN: Okay. God. Jesus. Uhh, you can follow me on Twitter @austin_walker, and you can support the show over at friendsatthetable.cash, C-A-S-H, over on Patreon. Which, as always, we appreciate. We wouldn’t be able to do this without you. 
+
+
+AUSTIN: So today, we have a very special topic. Um [laughs] close to my heart, and close to the hearts of at least some people. Because I have received a single question over and over again since we’ve been taking questions. Here’s one in from David, who says, ‘Austin, we talked briefly on Twitter about the mechanic of fronts in Dungeon World. Could you show how fronts changed Hieron? Could you talk about what a front is?’ Here’s one from Quinn, who says, ‘Austin, the last Tips cast, you said you would field some questions about Dungeon World fronts. At this point I’m building my own system, and I’m trying to figure out how fronts work.’ This one came in from Angelina, who said, ‘I can’t wrap my mind around fronts in Dungeon World. In Friends at the Table, they seem to develop naturally. When I try creating them, they feel strange. Tips on how to develop fronts?’ [laughs] Uh, this person came in on Twitter and said, ‘Are you comfortable talking about specific grim portents and pending dooms, or maybe failed or changed fronts?’ 
+
+
+[laughter]
+
+
+AUSTIN: This person said, ‘Hey, this is kind of out of nowhere, but you mentioned in regard to someone’s question at the last Tips at the Table that they should DM you for tips on building DW fronts. I was wondering if you could pass that on here as well?’ This person says, ‘So, in the last Tips at the Table, you say, “DM me and we’ll talk about fronts.” Fronts are the only part of Dungeon World that I have issues with. I’d love to hear your thoughts.’ This person says, ‘Please talk to me about fronts.’ This person says, ‘Starting my first Dungeon World game, confused by fronts? Mind sharing what you used so I get an idea of how it affects the narrative?’ And this person says, ‘You said on Tips there was stuff to say about fronts, but not in a lightning round. That’d be super interesting to hear.’ [Sighs] Okay.
+
+
+ART: Quick, will you pause for a minute?
+
+
+AUSTIN: What’s up?
+
+
+ART: You don’t have to go back over them, but like-
+
+
+AUSTIN: Yeah.
+
+
+ART: That was an amazing array of what Twitter avatars look like.
+
+
+[laughter]
+
+
+AUSTIN: It’s pretty good.
+
+
+JACK: So good.
+
+
+AUSTIN: Mhm. Mm. So, I want to get into what fronts are, and what fronts have done for the show. Um, I’ll say up top that we’re gonna talk about Dungeon World fronts today, and then we’re gonna build a front. Uh, which is exciting, as I’ve never done that with other people. And then- the other thing I’ll say here- I’m gonna say a couple of things. [Amused voice] A couple of things happen. Two things happen at once. Check the bingo line. 
+
+
+AUSTIN: This is in some sense a little bit of a preview of what the next level of the Patreon would be if we hit it. Which is that at- 15,000? Is that the number?
+
+
+ART: That’s correct.
+
+
+AUSTIN: You’ll get to see a little behind the scenes GM prep session from me once a month. I’ll do a GM prep stream. Um- what did we call it? Did we pick a good name for it, or is it just-
+
+
+JACK: Making- Drawing Maps?
+
+
+AUSTIN: Oh, it’s called Drawing Maps, right. ‘Cause you draw maps, you leave blank spaces.
+
+
+ART: Oh, not Preps at the Table?
+
+
+AUSTIN: Not Preps at the Table.
+
+
+JACK: No.
+
+
+AUSTIN: No. ‘Once a month, Austin’- that’s me- will steam- ‘will livestream part of his pregame preparation. He’ll develop new NPCs, build locations, and talk through his goals and plans for upcoming sessions live for Patrons like you.’ So this is sort of- think about this as sort of like, a teaser of what that might look like. Um, but for now let’s talk about fronts. I guess the third thing I’ll say here is just… not every system has fronts, but a lot of the systems that we’ve used have had things like fronts, and so some of this is generalizable. Other parts are not, but… I think that there’s a lot of lessons to take from this separate from just what you could do in Dungeon World. You know, obviously, corporations in the Sprawl are kind of similar to fronts in some ways, not in every way. Factions in Blades in the Dark, what we did with the Stars Without Number faction system and faction game in Counter/Weight, also kind of similar. There’s all sorts of things here. Like the Veil has a similar system of antagonists and threats and stuff like that. So… we are gonna- we are gonna go ahead and start talking through this. 
+
+
+AUSTIN: According to the Dungeon World book, fronts are ‘secret tomes of GM knowledge.’ That’s like the big picture thing. Like, in a serious way, if you could see all the fronts I designed for Hieron at the top of a season, you would have a pretty good idea of what was up to- up for grabs. Um, that’s because fronts include major NPCs, they include dangers, they include some other key things that have great words like- great phrases like, ‘grim portents’ and ‘impending doom’. But here’s what they really are at the end of the day. ‘Fronts are designed to help you as the GM organize your thoughts on what opposes the players. Fronts represent factions or special beings that have goals and the power to pursue them.’ These aren’t just like, people in a city who are like, ‘I wish the city would be different.’ It’s people in the city who want the city to be different and are working towards that goal. Or- or in another way of thinking about it, actually- it’s not just like, the front is the faction. The front is the place where factions are contending over what they want to do. Fronts are made up of dangers and those dangers are those factions, and the front is sort of the thing at stake. The thing that’s being changed. Fronts help GMs like me think about what is happening offscreen. Anytime that I’m like, ‘Hey, y’know, remember, the rest of the world is moving, too’, ‘Hey, whatever you’re gonna decide, remember I’m the rest of the- y’know, there are other people and places and factions that are doing things.’ That is helped because I can look at the page that has all the fronts on it. Um, and that is a huge, huge, huge part of how our show works? Is that after an episode, I can look at my notes and go like, ‘Okay, what’s this do.’ And we’ll get into that as we continue. If- if- by the way, if any of you on the call have questions, please interrupt and ask me as we continue on. Because I’m sure some of this is like, weird? Because it’s kind of a peek behind the curtain? So- and also because you’re gonna have homework at the end of this. We’re gonna build a front together, so I wanna make sure you get it. So, basically-
+
+
+ART: We’re gonna like, go and do it separately?
+
+
+AUSTIN: No. No, it’s like a group- it’s not homework, it’s like a group assignment.
+
+
+ART: A group project, got it.
+
+
+AUSTIN: Yeah, group project. 
+
+
+JACK: Agh, great.
+
+
+AUSTIN: Uh, so basically, fronts are a group of enemies, obstacles and problems- those are called dangers- ominous events like grim portents- grim portents- and really bad endings, which are impending dooms. Um, important. Fronts aren’t just factions. Front includes- fronts include factions that in turn have goals that all kind of circle a shared place, object or resource. So for instance, in the… Uh, I wrote ‘Fall of Hieron’, I meant ‘Autumn in Hieron’ here? [laughs] I’m clearly off my own fucking shit. Um, the Empire of Pearls was originally what’s called an adventure front. We’ll get into what the different types of fronts are in a second, but, um. Adelaide’s court was a danger. Brandish’s fleet was a danger. The Ordennan navy was a danger. I drew that up after that first encounter with Brandish’s fleet, where Calhoun gets- where the stuff happens. I just realized- I’m gonna just right now say, spoiler warning for Hieron here. I’m gonna do my best to talk around some big picture things, but in trying to explain how fronts work there will be some things from the first and third seasons of the show- Hieron season 1, Hieron season 2- that I have to get into. So, heads up there. If that’s- if that’s worrying to you, we’re gonna- some part deep into the game, we’re gonna start building a new faction, and that won’t have any spoilers in it for any of the past seasons of the show. 
+
+
+AUSTIN: So there are two types of fronts in Dungeon World. The first one is an adventure front, and that is for session to session play. That’s the sort of like, ‘today on Friends at the Table what’s gonna happen is, you’re gonna go into a dungeon. You’re gonna go walk through the icy woods on the way to the Mark of the Erasure. So that was an adventure front. I made the Mark of the Erasure as an adventure front in the first season for Ice Party to deal with. Um, adventure fronts are short term. They are like- they are not the biggest picture thing that the whole world’s contending with, but there’s always a chance that they could grow in that way. There are goals that the dangers have inside of adventure fronts that if left alone they will achieve. And then also, multiple adventure fronts can combine to become one big campaign front, where they can kind of work to illustrate a major campaign front. So… you know, the Ordennan- the stuff that was in Nacre was not a campaign front, that was an adventure front in the first season. But one, like, the Ordenna stuff obviously turns into a much bigger deal in the second season of Hieron. And then two, the part of- part of the stuff that was happening in the Nacre adventure front contributed to this bigger picture campaign front that I was building about what was happening with the gods of Hieron. Um, and what like, supernatural power was looking like. The second type of front is a campaign front, and that’s the big picture. It’s so big that I put a capital ‘I’ in your picture. [laughs] And that is like, this season on Friends at the Table. The campaign front is like, so what was the season about. So you might think about Spring in Hieron, or- not Spring, you might think about- I mean, you might think about Spring in Hieron as being like, going up against what seems currently to be [laughs] a very powerful foe, right? Like, everything is going to wrap around what the party is doing in the face of that. And all the smaller adventure fronts are going to be also in orbit of that larger antagonistic force. The story of a campaign front unfolds over a longer period of time, and if a danger from inside of that front achieves its goal, then the setting should be rewritten in a major way. Um, here’s how you build fronts, and we’re gonna dig through all this, and it’s gonna be fun.
+
+
+AUSTIN: The first and most important thing is to play the game. You do not start building fronts until after you’ve started to play the game. Uh, the book I think advises your first session, I’m even keener on it being your first full adventure, y’know? Build out a little dungeon, build out a tower, put people on a boat and see how quickly they get off of it.
+[laughter]
+
+
+JACK: Slowly. (11:11)
+
+
+AUSTIN: Have some like, loose ideas, and then after it’s over, then you can start building your campaign and adventure fronts. And the reason to do that is, you need to know what your players care about. And also because there is something ritualistic in admitting that players come first. That what the players are interested in is more important than your story. And if you try to build the campaign front first, or the adventure front first, you will get your head, like- or I will in my experience have gotten my own focus on what I want to tell the story of, and not what my players are interested in. And like, I- it shows. Like, it absolutely shows. The difference between season 1 which was like, okay, what do they respond to in that tower? How do I build stuff out from that? Versus like, the beginning of Twilight Mirage, in which I was like, okay, here are the core ideas I want to pursue. And I think we still told good stories with that stuff, but I think there’s a clear difference in the openness of the two- or, I think even inside of Twilight Mirage you can see the ground game as being super open, like maybe even too open to some degree? And the space game as being like- not on rails, but very much like, ‘here are the adventures that I have planned out’, y’know? 
+So then you choose- you decide, okay, I’m gonna build a campaign front, or I’m gonna build an adventure front. It’s totally okay in Dungeon World or a lot of games to be like, “I don’t know where we’re going yet in the big picture. I’m just gonna keep building smaller things for them to deal with.” Because eventually you will find the thing that people are excited about. I definitely think that happened in Counter/Weight. I kind of knew what one of the big bads was gonna be at the start of that season, obviously. I did not know what many of the other little ones would be, and a lot of that is, y’know, one of the nice things about having a show like ours is you can hear us stumble into characters like Ibex. 
+Then after you figure out like, “Am I gonna do a big campaign front or an adventure front or both”, you then come up with general concepts for what those are. All of this is gonna be very flexible, but you want to start with something that’s like, okay, this is gonna be, you know, this is gonna be a thing that is- is, uh, being fought over in some regard, right? So like, something like September in Counter/Weight is a really great adventure front, because it has a number of different forces fighting over what it is, right? You have the stuff that’s happening in the September Institute, you have the stuff with the [laughs] major divine that arrives there that kind of shakes everything up, you have the stuff with Ibex’s forces who are there, and everybody- you have the stuff with Paisley that’s there, right? And each of those are dangers inside of that space that have goals they’re trying to pursue. And so it isn’t just like the whole thing has a goal, it’s that if Twelfth gets what he wants, if the leader of the September Institute gets what he wants, that’s different than if the antagonistic divine of that season gets what it wants. 
+I’m doing my best to be like, spoiler free when it gets to specifics.
+
+
+[ALI laughs]
+
+
+AUSTIN: Um, then you create a couple dangers. You have your general idea, you’re like, okay, I’m gonna have this like, university town where they’re like, investigating scifi psychics. And then you go from that to okay, what are the dangers like? It’s like okay, well, the administration at the school’s kinda shitty. That’s one danger. 
+
+
+[ALI laughs]
+
+
+AUSTIN: Okay, okay, there’s this big robot, that’s another danger. 
+
+
+[ALI and JACK laugh]
+
+
+AUSTIN: Um, like seriously, that’s as easy as it is. You start really really broad and like- and you zero in, bit by bit. And that’s what makes the front system so useful, is that you just have an idea and you put that down and then from there it develops into something a little more impactful. Um, you then create an impending doom- and I’ll get into what all this means- impending dooms are like, this is what happens if it goes bad. You add grim portents, which are like, the steps between them winning and where they start. You write stake questions, you write like, “Hey, what’s your favorite cut of meat? Is it like, a ribbot?” [laughs] No, you say, what is- [laughs] oh, fuck that was bad. 
+
+
+[ALI laughs]
+
+
+AUSTIN: You say like, okay, what is this arc about? What are the questions about these characters I’m interested in exploring? What are the questions about these worlds I'm interested in exploring? And then you come up with a handful of characters who represent the front. Um, alright, so. Dangers. Dangers are sort of the lifeblood of a front. And dangers have a couple of things. They have an impulse, and a type. In Dungeon World those types are like, ambitious organizations, planar forces, arcane enemies, hordes, cursed places. Which I already like, because I like the fact that places can be a danger. The forest of Ice Party was definitely a cursed place, right? It’s like, okay there are- there’s a big owlbear in there. That’s a danger inside of the cursed place of the forest, right? Or, not a danger, but a- it’s a specific enemy that’s inside of that danger. Or like, oh, there are the- there’s the Word Eaters, stuff like that. But also, an ambitious organization is like, the Disciples of, uh, whatever, right? Like those- that sort of group can also be a major danger. Ma- hm. Hm.
+
+
+[ALI laughs]
+
+
+AUSTIN: LIke an off-rhyme. And then like, once you know what type it is, you should think about what its goal is? And thinking about what its goal is, or what its motivation is, is how you end up… You kind of- I always go back to that, wherever I’m like, okay, what would this faction do when this thing happens? I think about what its impulse is. And in Dungeon World, everything already has an impulse, right? Like if you look at the Dungeon World enemy codex or whatever the thing is on- online, the Dungeon World codex- you can just hit like, a random monster thing. And so like, I just did that, and here’s a- here’s a monster someone built called, um, ‘The Thing in the Well’. And its instinct is to devour, right? And in Dungeon World, dangers are the same thing. And so like, you might have a danger that has the goal, or the impetus, to gain political strength. Or to- to overturn the religious order. Or to corrupt the mind. Or to- to- y’know, display the strength of its- of its fleet or something like that. And so it’s like, it’s a really quick way to go back to like, okay, how would Ordenna work? What would Ordenna do here? Um, to some degree it boils things down, because it’s certainly true that in Friends at the Table’s experience, a lot of factions are much more- a lot of dangers are much more complicated than ‘this is the one thing it does’, but it’s as always just a nice strategic tactical thing to be able to quickly go like, “shit, what would they do? Uh, this. Basically this.” Or you go like, “Ooh, I think they would do this,” Or, “Wait a second, it’s more interesting if they do this other thing because of the person who’s already there, blah blah blah.” 
+Grim portents are the second part of dangers, or the third part of dangers, that you build. A grim portent is like, the biggest version of what The Sprawl calls “showing the barrel of a gun” that the GM can do. The GM in Powered by the Apocalypse games has a collection of moves. One of those- one of the rules, like “don’t ever speak the name of your move.” And I do my best not to do that except for in key moments where I need to reassure the players that like, I’m playing by my rules, like, promise.
+
+
+[ALI laughs]
+
+
+AUSTIN: And like, I’m not here to fuck you over. One of those rules in most PBTA games is something like, “let the players know that something bad is coming.” Whether that something bad is happening- y’know, is gonna come in the future, or is happening currently offscreen. My favorite phrasing of it is “show the barrel of the gun”. Which just like, gives you the- gives me the image of like, a 1970s or 80s TV show of like, a gun reaching at somebody’s hand with a gun reaching through the door, or like, it cutting to the front of a gun. It’s like, “Oh shit, someone has a gun. This is gonna go bad.” Grim portents are like that but for the world. You don’t need to build them as like, a sequence of connected events that lead from one to the other. You could be like, here are five things that just show that such-and-such danger is getting more powerful. And I'm trying to think if there’s anything that I’ve done that’s similar to that. Where they’re not directly connected. But nothing really comes to mind. Uh, I guess with the New Archives, something like the Corsica Neue scene was listed as a grim portent, and isn’t directly connected to the next step in what they were working towards? Like it isn’t- that was just like, oh, look, they’ve mastered illusion magic. But in some ways like, that’s still part of it, right? Cause like, the whole notion of like, look, they have someone who understands illusion magic and how that fits in with, uh, the- building patterns. And so that was sort of like, a step towards whatever their grand goal was. 
+I really think that when you’re starting building, the one to one to one is super useful. The thing that you end up- the thing that you end up seeing a lot as an example is like, alright, well first the orcs who are raiding this town destroy the walls. Then they, y’know, they set the grain house on fire. Then you see that they overrun the barracks, and then you see that the flag at the king’s castle gets taken down and replaces with the orcish skull and crossbones or some bullshit, right? And that’s like, okay, look, they’re advancing down the road. Grim portents can and should change to reflect other changes in the world. That also just goes with everything else we’re gonna talk about here. Which is like, all of this is flexible. I didn’t have room to fit it on this page, but all of the sorts of games that we play tend to be both descriptive and prescriptive at the same time. Which is to say, the action, the play and the fiction need to work very closely together. The rules should follow the things that happen in the fiction. Like, whatever move you use should reflect the thing you describe your character as doing, and then the result of that move needs to be true in the fiction after you roll those dice. You have to follow the rule there. But despite that- or maybe it’s actually part of that- that means that when the world changes, if, y’know, if that castle the orcs are trying to raid becomes, y’know, protected by an angelic, y’know, forcefield- well, maybe you should add another grim portent. Which is like, “the orcs take down the angelic forcefield.” Um, I don’t know what this fantasy world is I’m talking about, because-
+
+
+[Laughter]
+
+
+AUSTIN: But it sure as hell ain’t Hieron. 
+
+
+[Laughter]
+
+
+JACK: It’s Hie-
+
+
+AUSTIN: So here is an example. This is uh, these are- these are the ones that I’ve written for Ordenna during season 1, towards the middle of season 1, that then turn into what happens in season 2 of Hieron. So again, don’t look at the screen right now, and maybe skip ahead five minutes if you’re listening to the podcast version of this, but. “Portent 1: Nacre is sacked by Ordenna, including recently recovered Pala-din.” No one saw that, no one saw the Pala-din, but they had the Pala-din when the attacked Nacre. Because they got that from the northern tower- from the-
+
+
+JACK: No, we were out of there.
+
+
+AUSTIN: You were like, “Nope! I gotta go!”
+
+
+[ALI laughs]
+
+
+AUSTIN: Which is fair. Portent 2: “The Justasheer burn villages in search of evil magic.” You see a little bit of that at the top of season- Winter in Hieron, right? You see the Justasheer moving into Old Man’s Chin, and the village that I can’t- Twinbrook, and then you see a little bit of it with the party that then goes from Rosemerrow towards the New Archives, where you walk the place where all the undead people are just stuck like that, and everything is like, fucked up. Um, you get the Anchor arriving in Rosemerrow and Velas, and- and like, at that point it’s just, the Anchor are there, and I- you’ll note that I don’t- first of all, you’ll note that I’ve written Portent 3, Portent 3 back to back. Whoops.
+
+
+[JACK laughs]
+
+
+AUSTIN: You get like- the Anchor arrives in Rosemerrow and Velas, and like, I don’t know what happens from there. Like, I’m gonna leave it up to play as to what happens once they’re there. Uh, the Last University’s utterly destroyed? Like, I dunno, that’s another thing that would show that the Ordennan fleet is continuing to- or the Ordennan Impetus is continuing to grow in power. The Archives are occupied, the second that that happens you fuckin’ know that they’ve gotten powerful cause they’ve beaten the Archives. And then Portent number 5: “Undead” Samot is executed and usurped. Who knows if he’s actually undead, but they definitely would say he was undead. And that would be like, that’s it, they’ve gotten all of their grim portents, and then they would get what they are working towards, which is an impending doom.
+
+
+JACK: Sure is.
+
+
+[ALI laughs]
+
+
+ART: Yeah.
+
+
+JACK: Holy hell. 
+
+
+ART: You’ve really got chat going on that one. 
+
+
+AUSTIN (crosstalk): Yeah, there’s-
+[laughter]
+
+
+AUSTIN: Yeah, I bet! Like-
+
+
+ART: You can see when chat got to five.
+
+
+AUSTIN (crosstalk): Yeah, uh-huh.
+
+
+[laughter]
+
+
+ART: You can see them like, reading along.
+
+
+AUSTIN: Well like, and here’s the thing, is like, all of this is fucked now, right? Like, I wrote this before the heat and the dark. I wrote this before the heat and the dark was where it is at the end of this past season, certainly. Before the arrival of the stars-
+
+
+JACK: Oh, lord.
+
+
+AUSTIN: And like, all this is off track at this point, right? To some degree, because-
+
+
+JACK (crosstalk): Yeah!
+
+
+AUSTIN: Ordenna has become less of a threat, and they were once part of the campaign front. I think if they’re in S- if they’re- to the degree that they will be in Spring, they’re not gonna be anywhere near as big of a threat, because there are bigger threats on the way. 
+
+
+ART: You can just say it’s cause I scared them off.
+
+
+[ALI laughs]
+
+
+AUSTIN: You scared them off. Your big arms- Hadrian’s big big arms scared them away. 
+
+
+ALI: Arms! [laughs]
+
+
+JACK: ...Arms?
+
+
+AUSTIN: What?
+
+
+ART: The way- [laughs] 
+
+
+AUSTIN: What? Wait- 
+
+
+ART: I’m not telling you-
+
+
+AUSTIN (crosstalk): Hands? 
+
+
+ART: Nope, I’m not doing it. I’m going here. Next line.
+
+
+[laughter]
+
+
+ALI: I’m trying to think of like, a really quintessential Hadrian arms scene and I can’t. [laughs]
+
+
+AUSTIN: I guess he has big hands. I guess all of my Hadrian scenes are hand scenes. 
+
+
+JACK: Hadrian nearly broke Hella’s hand.
+
+
+AUSTIN: Oh, it’s- you know what it is, is-
+
+
+ART (crosstalk): So his feet?
+
+
+AUSTIN: I’m picturing him as like- we did this whole description of Hadrian as being like, 1950s movie buff. 
+
+
+ALI: Oh, right.
+
+
+AUSTIN: Where he has like, big chest, but still kinda chubby, and he got big arms. 
+
+
+ALI: Okay. Mhm.
+
+
+AUSTIN: So-
+
+
+JACK: And the Ordennans hate that.
+
+
+[ALI laughs]
+
+
+AUSTIN: Uh, each grim portent that is achieved by danger brings the doom not only closer, but already more into existence. So there are- in Dungeon World, there are a collection of possible types of danger, and it’s like, ‘tyranny, pestilence, destruction, usurpation, impoverishment, rampant chaos’. And again, the thing to know here- I think this is a tricky thing- is I think a lot of people think about the doom as being a thing that only ticks into place when they’ve gotten all of the portents successfully? But it should already start happening, right? It should happen as soon as it starts to advance- like, as soon as it gets its first portent. So think about the orcs storming that town, right? Or that castle. If they’re impending doom is like, ‘the establishment of a new orcish home base’, right, or tyranny, or something like that, it shouldn’t just be, “okay, they’ve taken over the grain stores and now there’s no more food”. We should see pictures of the orcs eating bread, right? We should see the orcs setting up camp and now they don’t just have the front line that’s charging, from the top of the castle you should look out and see that in the distance they have a commander tent set up. They’re moving in. You should immediately start to see some of that stuff, of like, what the doom would look like if it was fully brought into existence. 
+If each grim portent is achieved, the world should shift meaningfully forever. You never get to go back to a time when the orcs didn’t take over that castle and it wasn’t run by them. Even if you spend the next year of your season, y’know, putting together a resistance army that drives the orcs away and re-establishes the weird angelic barrier, and maybe sometime during that period you should think through what some of the connotations of all that is-
+
+
+[laughter]
+
+
+AUSTIN: Even then, it will never be the case that the orcs didn’t already do this. Maybe they’ve salted the earth so you can never grow grain there before. Maybe no one trusts the new kindgom because like, fucking lost once. Maybe it’s just that another place has become the core cultural center in the time between your- the fall of that kingdom and the rise- you know, the resurrection of it. 
+
+
+JACK: This is-
+
+
+AUSTIN (crosstalk): The world should never feel like it has been untouched.
+
+
+JACK: This is interesting, right? Because it means that you have to have faith in the moves you’re making, right, Austin? 
+
+
+AUSTIN: In what way? I mean, yes, but-
+
+
+JACK: Well, it’s like, we’ve been pretty open in the past about how we do pickups, but we don’t really do pickups ever for stuff like-
+
+
+AUSTIN: No.
+
+
+JACK: You don’t pick up someone getting stabbed.
+
+
+AUSTIN: Yeah-
+
+
+JACK: Or at least, you don’t pick them up in a way that they don’t get stabbed.
+
+
+AUSTIN (crosstalk): Yeah, I don’t think we ever have. We’ve never done- we’ve never done like, um, “I don’t think that was the right decision, let’s do it the other way”, right?
+
+
+JACK: We don’t get gimmes, basically. I mean, we sometimes do like, “oh, we’d like to frame this differently”, but like-
+
+
+ALI: Yeah.
+
+
+JACK: In the case of the orcs taking the town, which, there-
+
+
+AUSTIN: Right. I would never undo that.
+
+
+JACK: Yeah. Which means that like, we have to- and you especially, I guess- have to have the courage of our convictions in making these things feel permanent-
+
+
+AUSTIN: Right.
+
+
+JACK: And making these things legitimately feel forever.
+
+
+AUSTIN: Right, like, Nacre is under Ordennan control. That’s not going away. And it is- it had to mean something. If I don’t- if I’m not able to commit to it, then it doesn’t mean anything, and the struggle is meaningless, too, right? Um, I’m just gonna for a second talk about the- or you know what, I guess I’ll get around to moves in a second. So I’m gonna keep moving here. Cause I do want to talk a little bit more about impending dooms. Which is that impending dooms need to be flexible, but you should- this is what you were just saying, Jack. You should commit to them so that you can tease them, effectively. So for instance, in Ordenna, I could’ve chosen a lot of different dooms, right? I could’ve chosen tyranny, I could’ve chosen destruction. You know, the tyranny could’ve been that they like, take over Rosemerrow. I mean, they do, obviously, take over Velas- we talk about them invading Velas, right? But we don’t ever see that onscreen, and so that’s one of the ways you know that it wasn’t the focus for me. 
+It could be pestilence, it could just be the spread of this disease. It could be destruction, it could be that like, Rosemerrow’s wiped off the map because Ordenna invaded and destroyed it. Nacre’s wiped off the map because they invaded. It could be that, y’know- the doom could be, “Hey, Ordenna kills Samot and then becomes the single most powerful political force in all of Hieron.” But- and this is why I like this system- that’s not what the impending doom for Ordenna ever was. It was always rampant chaos, which is Adelaide’s ascendant, the fate of every dying creature in Hieron is left to her will. The fact is that an impending doom does not need to mean that that faction gets what it wants? [laughs] It’s worked toward what it wants, but an impending doom can be, “this is the effect of them pursuing their goals without being stopped”. And so when you think about September again in Counter/Weight, think about what happens if Twelfth gets his goals with regards to Voice, the Divine voice. Think about what Ibex gets, if Ibex gets his goals. These are the things that are like, sometimes, the impending doom is not just that they win, it’s “the world shifts in this major way.” And so I think what would have happened if we’d seen Ordenna continue unchecked, if Hella doesn’t stand up to them, right? If the shit that goes completely off the rails in Rosemerrow doesn’t go completely off the rails, you end up with a situation where maybe Ordenna takes over all of Hieron. And everyone is part of this curse, this “curse” that means that Adelaide decides who lives and who dies. Um, and also, everything’s under Ordennan control, right? Ordenna- you know, Ordenna takes control, but the thing that you can’t undo is this epistemological change to what death is in this setting. That’s why I like this system so much. It’s one of the reasons why I like fronts, because you can make these really massive changes to things. Especially when you’re dealing with a campaign front and not just an adventure front. 
+So! Right now we have dangers, we kind of get those, we get grim portents, we get impending dooms… But backing out from dangers, you go over to another thing that fronts are about, and that is stake questions. So sometimes, but not always, I will write those first. I will go like, “I want a front that is about this thing. I want a front that is about whether or not Hadrian remains faithful.” These should be really direct and clear, these shouldn’t just be like, “I wonder what Hella will do.” 
+
+
+[ALI laughs]
+
+
+AUSTIN: For me it was like- my Ordennan one was like, “Will Hella fight against Ordenna?” “Will Rosemerrow sell out Velas?” Uh, here’s one. “Will the fourth house rise?”
+
+
+JACK: Uhhhh-
+
+
+AUSTIN: And I read that and I was like, huh! Yeah, I guess we never really… huh. Um, “Can the Archives halt their advance?”
+
+
+[ALI laughs]
+
+
+ALI (crosstalk): Okay?
+
+
+JACK (crosstalk): Okay? 
+
+
+AUSTIN: And like, that didn’t-
+
+
+JACK (crosstalk): Okay? 
+
+
+AUSTIN: Come up cause they never-
+
+
+ALI (crosstalk): Sure- 
+
+
+JACK: Just gonna… alright.
+
+
+AUSTIN: What’s up? Yeah, you don’t wanna-
+
+
+ALI (crosstalk): You wanna just-
+
+
+JACK (crosstalk): We’re just- we’re just… okay. We’re just gonna take it off-
+
+
+AUSTIN (crosstalk): The answer is no, the fourth house did not rise. 
+
+
+[laughter]
+
+
+JACK: Well, sure. Okay.
+
+
+AUSTIN: You should, mmm. Okay.
+
+
+JACK: I have a suspicion here.
+
+
+AUSTIN: The pieces are out there to know what the fourth house is.
+
+
+ALI: Mmm…
+
+
+AUSTIN: They’re out there.
+
+
+[ALI laughs]
+
+
+AUSTIN: Um. Hanging on a line. Uh, and so after you’ve built your stakes questions- and again, these should be- depends on the system, really. I think The Veil’s version of stakes questions are interesting because they’re way more philosophical. So like, the equivalent of this in The Veil is that you kind of set up thematic questions that you want to explore in a given adventure. And so things like, “what does rehabilitation and imprisonment look like in the Divine Fleet?” was one of my questions going into the Contrition’s Figure arc. 
+Um. [laughs] Someone in the chat says, “I thought ‘will Hadrian be faithful’ meant to Rosana for two seconds”. Woof.
+
+
+ALI: Mmm…
+
+
+AUSTIN: The second bit here- so if you leave stakes behind, if you go, okay, you have your stakes down- the last thing you need is a cast. You need to know what your characters are. And those- the cast when you’re building a front should be the handful of major characters. Not every little person that you meet. Not every enemy. It’s the people who you should think about when something big happens somewhere else in the world. So… I always knew what Ibex thought about some shit that happened. I always knew what Rigour would want to do in relation to some shit that happened in Counter/Weight. I have a pretty good idea of what Samothes and Samot and Samol think about what the party does all the time, but also what they think about Ordenna, about what they think about Velas, about they think about the Archives. I don’t know what Snitch Knightly thinks about anything [laughs] until he’s in a scene.
+
+
+[ALI laughs]
+
+
+AUSTIN: I have a good idea about who Snitch Knightly is cause I’ve done that prep, but I don’t know what he fuckin’ thinks about like, what happened in Memorius, you know what I mean? Or Memoriam? Memoriam. Memorious… [laughs] I definitely don’t know what he thinks-
+
+
+[laughter]
+
+
+AUSTIN: About a spaceship in a completely different universe. But like, he’s not one of these major front cast characters. He is- he is a bit character who’s interesting. But as a GM you have to make priorities, you have to decide who it is that is going to act first. And who it is that can act in this big picture kind of- “can they change the map” way. And, y’know, I’m not trying to ditch Snitch Knightly here. Except a little bit. He can’t fucking change shit, right? Like, he can change stuff in a neighborhood. And if we were playing a neighborhood-scale game in Marielda, then that would be something that he could be a major character in a thing that was just focused on a neighborhood, right? In fact, we did that in our Live at the Table game to some degree recently. With- what was that guy’s name, Jack? 
+
+
+JACK: Oh, the, uh- the shithead? 
+
+
+AUSTIN: The shithead.
+
+
+JACK: Quick-as-your-blade?
+
+
+AUSTIN: Yeah, something Quick-as-your-blade. I forget what his first name is. But yeah, Quick-as-your-blade is a Snitch Knightly level character to some degree. But he- if I was rebuilding that part of the Marielda setting as a Dungeon World front, he would definitely one hundred percent be a major cast member, y’know? So again, like, the goal there is like, think about those characters when big stuff happens. When stuff in the front shifts, they should be the people that you think about. It totally, totally will help.
+So the next thing with fronts is to think about the moves that fronts make. Everything- again, I mentioned this before- GMs have move. GMs have- in Powered by the Apocalypse games, they have agenda, they have principles, and they have moves. The agenda is the thing that I often try to say at the top of a game, which is like, “portray a fantastic world, fill the characters’ lives with adventure, play to find out what happens”. Principles are like, “draw maps but leave blank spaces, address the characters not the players, make a move that follows, name every person, be a fan of the characters, think dangerously”, stuff like that. And then moves are the things that I do. So in Dungeon World, my general moves are, “reveal an unwelcome truth, deal damage, show signs of an approaching threat (AKA show them the barrel of a gun), use up their resources, turn their move back on them (a personal favorite), separate them, give them an opportunity that fits a class’s abilities”. Like for instance, “hey, could somebody lift this- this heavy stone door?” [laughs] “Show a downside to their class, race or equipment, offer an opportunity with or without cost, put somebody in a spot, tell them the requirements or consequences and ask”, and “use a monster, danger or location move”. So, dangers all have moves separate from the moves I just listed. So for instance, if we take a danger, like Ordenna- let me pull up some notes over here on the side here- Here we go.
+
+
+JACK: Notes on notes.
+
+
+AUSTIN: Notes on notes on notes. Um. So, danger- dangers are broken down by type, again, “ambitious organizations, planar forces, arcane enemies, hoards, cursed places”. I think I built them out as an ambitious organization. And ambitious organizations have their own set of moves. That’s like, “attack someone by stealthy means (kidnapping, etc), attack someone directly with a gang or single assailant, absorb or buy out someone important (an ally, perhaps)”- so think about the times when- think about Sid Halfoff being bought off, right? Um, “influence a powerful institution (as in change a law or manipulate doctrine), establish a new rule within the organization, claim territory or resources, negotiate a deal, observe potential foe in great detail”. And so like, sometimes I will frame a scene as if to show off one of those moves, right? I will have a sequence where it’s like, “okay, Tavira Shal shows up just to like, talk shit.” I don’t know, maybe she was the other one. I think Shal was the other Justisheer. Who was the first really shitty Justisheer who tried to confront you at Old Man’s Chin? It got all dark-
+
+
+ALI: Uhh-
+
+
+AUSTIN: It got all dark, that’s what happened. 
+
+
+[ALI laughs]
+
+
+AUSTIN: I forget what her name was. It’s bad that I forget this, but, y’know. Seems like that or like, attack someone directly, right? And so I look at those sorts of things fairly often when there is a moment of downtime and it’s like, “Okay, where is this going? Do my players not have something to do? Do my players not have a goal for themselves? How can I show them that this organization- that this danger is doing a thing?” 
+     Now on top of danger moves, there’s also custom moves that you can and should build for your front. A front should have something in it that is like, memorable and mechanically represented as a way of showing you and helping the player remember it and bring it to life. I think my best examples are first season of Hieron, which was like, the court sequence in Nacre, and the forge at the fallen tower. Both of those had custom move sets built that helped you think about that part of the front and really understand how it worked. But I use this pretty often in games. I will often set up a like, “Hey, for the next whatever you get a plus one forward for XYZ”, right? Some of that comes from front design. Some of it just comes from like, off the dome when you’re in the middle of it, but a lot of the times I’m like, “Okay, how do I represent that the Mirage is not available at this place?” And so it’s things like, “You can’t access the Mesh when you’re on Quire to look things up.” That’s part of Quire as a front. I didn’t design Friar as a- uh, Friar- Quire as a front because I was using The Veil and not Dungeon World, but if I did use Dungeon World, that would definitely be a custom move. It would either be like, you take a negative, or you just can’t do it. And so again, I’m definitely of the mindset that your rules and your fiction really need to intertwine, really need to entangle themselves in order to communicate a feel of what the different places and stuff are. 
+     I’m just about done, and then we’re gonna take a break, and then we’re gonna build a front together. So, quick note to people, which is: when you are GMing and you are resolving fronts, one. Let yourself resolve a front. Let your players win. There’s a rule in Dungeon World which is look through a crosshair, or it might be just like, “live dangerously” or something? [laughs] Play dangerously? And it means basically, let the bad guy that you’ve spent a lot of time writing up die. Let them lose. Let the players who come up with a clever idea- let them win. Because if you don’t, then you’ve broken this core degree of trust about what’s the most important thing. And you’re saying “my character or my dungeon is more important than your cool idea.” So one, let them do that. And then- but also, make sure that you’re distinguishing between adventure sized fronts and campaign sized fronts. So, it’s pretty easy to go into a dungeon and kill all the giant spiders and take down the Spider Queen who rules them. Adventure front resolved. You’re good. 
+     It’s a little bit harder when the Spider Queen isn’t just the Spider Queen, she’s like, the Dutchess of the, y’know, the Black Carapace or whatever, right? And then like, she’s part of a larger collection of a Spider Queendom, and no, you don’t just get to roll in and kill everybody and then you’re good. Like, that’s actually a much bigger thing and you should show that in resolving this danger or overcoming this specific minor threat, you end up affecting the larger one. But don’t- y’know, that’s the place where you get to play a little bit of back and forth. Which is like, “Alright, you’ve won this one, but that doesn’t mean that you’ve won the day.” 
+     More importantly, when you finish an adventure front or campaign front, you don’t just get to ball up the paper and throw it away. I spend time between sessions going back over what happened and trying to remember okay, what happened, where were different characters left off, what are they gonna go do now? So I do sort of a fictional accounting, and it’s like, how does the world change, how do involved NPCs change, how do they change and grow? I think a lot about like, Devar here, going from Rosemerrow into the Archives section. I think about- y’know, obviously Ibex is a really good character for this also. But also like, Orth is maybe the best [laughs] version of this? That over the course of Counter/Weight seeing Orth change who he was- which is partially him as a PC, too, but like, he moved from NPC to PC to NPC back to PC, so like, we got him growing and changing as the party did things. Like save his life, or save other people’s lives, or fail to save lives!
+
+
+[ALI laughs]
+
+
+AUSTIN: All of the- the four things that can happen in Counter/Weight.
+
+
+[ALI laughs]
+
+
+JACK: Orth’s favorite things. (42:44)
+
+
+AUSTIN: Yep. And then the last thing- and this is not in Dungeon World’s book, but when you resolve an adventure front, and especially if you resolve a campaign front, let there be downtime for players to breathe. There was a talk at Theorizing the Web earlier this year that I was a part of, and Michael Thompson, who’s a game critic- who’s a video game critic- and this quote is about video games, but I think it’s appropriate here. He says, “There’s so much rhetoric about tutorials and gaming people’s brains through onboarding rituals. But there isn’t any sort of obvious way in game design where video games kick players out or begin a sort of deceleration of the brain. Or begin a sort of preparatory ritual for returning to your life once you’re done playing.” And he spoke a lot about like, locker rooms in gyms, and lobbies in, you know, in waiting rooms and stuff like that, where you have a moment to gather yourself after you’ve gone and done something that’s been intense. And obviously this is a thing I’ve thought about a lot this year because I think it’s key to Twilight Mirage. It’s only going to get more key as [laughs] as we go forward. These like, liminal spaces. But there are both physical liminal spaces in games, where you go like, “Okay, you’re on the-” think about something like the first part of the descent into the Buoy. Or into the lower lamina and strata of Hieron, where there’s- you’re walking through the forest and the forest is weird. That is like, a liminal space where you can gather your thoughts before you go into the deep spot. But there’s also that in a narrative way, which is like- and also that worked as one after the high drama of Rosemerrow, it’s like, okay, everybody breathe. [laughs] We’re just walking through the woods now. I know some shit went down with Mother’s Glory- Mother Glory. I just did Mother’s Glory, which is the first time I’ve done that one.
+
+
+[laughter]
+
+
+JACK: It’s a venn diagram. 
+
+
+ART (crosstalk): That would be two of them, yeah.
+
+
+AUSTIN: That would be two of them. Yeah. Thank you. Good. Uh, I know all this shit happened with Arrell, okay, now take a deep breath, we’re in the woods, you’re walking through the woods, banter a little bit. That’s super useful. The one I think we did the best with was the end of Contrition’s Figure, the first full arc of the space side Twilight Mirage game. Where we had a sequence with Blueberry Gin and Signet, I think- is that the first Tender doing the temple scene? 
+
+
+ALI: Um, I think so. 
+
+
+AUSTIN: Yeah, I’m pretty sure. Or is that- no, that’s Tender and Worth of Grace meeting, I think for the first time?
+
+
+ALI: Oh, yeah at the end of that arc-
+
+
+AUSTIN (crosstalk): At the bar.
+
+
+JACK: Oh, yeah yeah yeah-
+
+
+AUSTIN: Maybe they both happened. Maybe they actually both do happen there. And then Worth of Grace obviously happening, and that kind of like, opens up the space, and is like okay, we just had high drama, now we can have this- almost this moment of aftercare. Of emotional like, [big sigh] hoo. Let’s work through the fact that we just did some wild shit. And then like, while we’re doing that stuff, my mind as the GM is thinking about how to take the stuff that worked and didn’t work and go forward with it. And that’s part of closing off any sort of front in Dungeon World or anything similar to that in another game, right? Like when the Six and the Fontmen go to war in Marielda, there is a beat after that where you can breathe a little bit before you’re thrown completely back into it. And it just wouldn’t work without that beat. So make sure you give your players that little space.
+
+
+JACK: Yeah! Like internally, we talk about War and Azaleas a lot-
+
+
+AUSTIN: Yep.
+
+
+JACK: As like a specific use case of this.
+
+
+AUSTIN: Yes. A hundred percent. Well like, isn’t War- I’m trying to remember, actually- is War and Azaleas before or after that? I think War and Azaleas comes before- no, you’re totally- does it happen during War and Azaleas?
+
+
+JACK: War and Azaleas is like, mechanically downtime? 
+
+
+AUSTIN: Right.
+
+
+JACK: And it contains the war and then all the stuff around the war.
+
+
+AUSTIN: Right.
+
+
+JACK: Which is just like this character space, this space we carved out to talk about character and have scenes like that. 
+
+
+AUSTIN: Totally. Well then after the Valentine Affair, there’s also another bit of that, right? Which ends up being Four Conversations. But I think even after-
+
+
+JACK: [laughs] A very chill scene.
+
+
+AUSTIN: A very chill episode [laughs] where nothing wild happens. Uh, y’know, but like, going from what happens at the end of the Valentine Affair to “we’re going out for brunch” is like, me hitting the brakes a little bit before I know we have to ramp it back up for the finale of Marielda. So really as GMs, think about pacing, think about giving your players room. Think about not giving them room when it’s time to not give them room. The end of Counter/Weight is just like, go go go go go. You come back from that Kingdom Game, and there is no breaking. And that is super intentional. Where it’s like, “No, you don’t have room to stop. We’re done going to meet Benny Babs.” [laughs] Sure, we go and meet Lazer Ted, still, but you’re fucking in it, right? And to some degree it was intentional on your parts, too, ‘cause I’ve said this before, but September I thought would go slower, and then no. [laughs] Not so much. 
+Um, alright. We should create a front. And we’re gonna do that for real, and we’re gonna do that in a game that isn’t using [laughs] fronts currently. Which is- I’m gonna just bring it over here, one second, let’s grab that thing- where’d it go? Where did I put it? Where did I put the front. Here it is. Boop. Over here. Let me make sure that this looks good in stream, yeah, it looks- that’s good enough. Okay. I put this link into our Friends at the Table personal internal discord in the Patreon thing, you all should all click it.
+
+
+ALI: Oh, right next to my coat. Okay. [laughs]
+
+
+AUSTIN: Right under your big coat. Ali’s thinking about buying this big coat.
+
+
+JACK: Oh, is this the coat you’re thinking of buying?
+
+
+ALI: Yeah!
+
+
+AUSTIN: This is the coat that Ali’s thinking of buying. 
+
+
+JACK: Oh, it looks-
+
+
+AUSTIN: Uh, can you pin a reward picture for the listeners, Jack? 
+
+
+JACK: Looks good as hell! It’s like, it’s-
+
+
+AUSTIN: There’s a video.
+
+
+ALI: Oh.
+
+
+JACK: It’s- there’s a video? 
+
+
+ART: There’s a video of this coat?
+
+
+ALI: It’s-
+
+
+JACK: It’s kind of salmon pink-y?
+
+
+ALI: It’s a joke of a coat. I’m in love with it. [laughs]
+
+
+JACK: Um, uh- oh, in the video it’s like, open and it has just these huge- ah, it’s great.
+
+
+AUSTIN: Friends at the Table season six-
+
+
+ALI (crosstalk): It’s like a blanket you’re allowed to wear.
+
+
+AUSTIN: Yeah.
+
+
+JACK (excitedly): It’s like a blanket you’re allowed to wear! It has like- I’m gonna be real, for the scale of the rest of the coat, its hood is tiny. 
+
+
+[ALI laughs]
+
+
+AUSTIN: Oh, there’s a hood?
+
+
+ALI: Well the-
+
+
+JACK (crosstalk): It’s so small that you-
+
+
+ART (crosstalk): Well the lapels are so big.
+
+
+AUSTIN: I’m pretty sure this is just Thyrsus fashion.
+
+
+[ALI laughs]
+
+
+AUSTIN: Janine said big over- big coats-
+
+
+ALI: Oh.
+
+
+AUSTIN: Janine if you’re in the chat, please let us know if this is truly the fashion. This is what Signet wears during-
+
+
+JACK: Ah, it’s great. Look at those pockets.
+
+
+AUSTIN (crosstalk): They’re good pockets.
+
+
+ALI: I can’t get a Signet coat… well, I guess I could.
+
+
+AUSTIN: You could. Um, so let’s build a faction here. Not a faction, a front, actually. As the chat continues to debate what a dip versus a fondue is.
+
+
+[laughter]
+
+
+AUSTIN: So, the thing that I thought we would do is make the Rogue Wave a front in Twilight Mirage. An important thing I’m gonna say very briefly, and this is for all of us on the call, is please be aware of what the audience has not heard yet. And make sure to talk completely around spoilers. If you don’t know if the thing you’re about to say is a little too spoiler-y, it’s too spoiler-y. So let me set up the Rogue Wave based only on what they’ve already heard about them, which is, there’s a group of pirates to the southern hemisphere of Quire. They have boats, they have more boats, they were described, I believe, to the Quire party- to the crew of Myriad- as being a sort of like, loose collection of independent captains who all have their own like, microstates that are all vaguely loyal to this big thing, to the central leadership, but that is kind of all y’all know. And we’re gonna be getting a little bit spoiler-y here in terms of what the Rogue Wave as a bigger picture thing, so that we can define what the stakes and the dangers and the grim portents and the impending dooms all are. Because otherwise, it just wouldn’t be fun. There’s an area at the bottom here for scratch notes if y’all want to jump in and start making, if you have little ideas or things you want to type out, but that you’re not sure yet if you need- if they fit, or whatever. And then, um-
+
+
+ART: Is this document on screen?
+
+
+AUSTIN: Yes.
+
+
+JACK: Yeah, we can’t- don’t put the spoiler in Art- Art, stop putting the spoiler in, Art.
+
+
+AUSTIN: Did Art put the spoiler in?
+
+
+JACK: No. No. [laughs]
+
+
+AUSTIN: Okay, good. Phew.
+
+
+[ALI laughs]
+
+
+JACK: I didn’t type it in caps.
+
+
+AUSTIN: Okay. Uh, I lost the chat and I need to find that again. One second. Art, is-
+
+
+JACK: Oh, also we should say that, like-
+
+
+AUSTIN: Go ahead.
+
+
+JACK: No guarantees that this is final, right?
+
+
+AUSTIN: Yep! I mean, that’s part of what I said before to some degree, about the- about fronts, right? Like-
+
+
+JACK: Yeah. Yeah, true.
+
+
+AUSTIN: Fronts are always not final, right? Fronts are always living things, I still cannot find where the fuck I put the chat, one second. Was it here? Where did I put this chat at? 
+
+
+ALI: It would be like, a window…
+
+
+AUSTIN: I have no idea how many windows I have right now.
+
+
+[laughter]
+
+
+AUSTIN: You have no idea how many windows I have right now.
+
+
+ART: I think Austin has a lot of windows.
+
+
+ALI: Oh? Maybe he only has like two-
+
+
+AUSTIN (crosstalk): Oh, there it is, I found it-
+
+
+JACK (crosstalk): What if it’s the other way? Yeah.
+
+
+AUSTIN: There’s the chat. There we go. Okay. Alright. Oh, fuck, I pulled the wrong thing over. There we go. We’re good. I pulled away everything on their screen by mistake.
+
+
+[laughter]
+
+
+AUSTIN: We’re good now. Thank you. I followed your voice, IceCreamJones. I followed it and now we’re here. Alright. So, um, like Jack just said, who knows? This is a fun exercise, based on stuff we just recorded my suspicion is we’ll see more from the Rogue Wave in the near future, and I wanna build them out like this cause it’ll be fun. Obviously the system we’re using is not Dungeon World, and so [laughs] it won’t go one to one, like whatever our grim portents are aren’t things I”ll be necessarily looking back on, but I’ll do my best to bring them over in interesting ways into Twilight Mirage proper. So I’m gonna just set up this description. This is the thing that I’m gonna just copy over from my real notes as is. “The Rogue Wave is a ship-based league of five hundred independent captains, there’s like fifteen thousand people not that many, pretty small. Each ship has twenty to thirty people on them, which is a mix of human, robot, other, etc.” That’s what I’ve written here. And the thing that I- the reason that they’re a front for me is that I think that the overall notion of these different dangers inside of the front are people who want to have more power inside of the Rogue Wave. Does that make sense? Like, whoever- wherever we think about what these impending dooms are, it should be, “what would this person do if they had full control over the Rogue Wave? Over these five hundred captains? If they had the loyalty of the majority of those five hundred captains and their ships, what would they do? 
+The second thing is, I think that at least for one of these dangers, it should be that they leave Quire, and go into space and become space pirates. Because we have not any space pirates yet, and space pirates are cool.
+
+
+[laughter]
+
+
+AUSTIN: Um.
+
+
+JACK: These are no longer literally water-based pirates.
+
+
+AUSTIN: Exactly. Uh, so I have two dangers that I want to just plop in, and one that I have no idea about. Because these are kind of subfactions inside of the Rogue Wave that are- they’re not even subfactions, they are major different captains in the space, or different groups, and I think that those are worth putting here because they are already established on recording, but not necessarily focused on yet. One of them is the Brighton Lineage, which no one has seen yet, and I’m not gonna get too spoiler-y here, but what I will say is, they were- on top of having these independent captains, there are kind of noble families. I think a lot about the Rogue Wave as being- and I’ll add this here, too- as being sort of holy Roman empire-y. Which is to say, there is a great deal of independence per family, per lineage, but there is also this sort of like, “you do not want the wrath of all of them to come down on you at once.” Like, they’re fractured, and they are in agreement insofar as they are aligned in this one important way, but it’s hard for all of them to move with their might all at once, and if they could, it would be devastating. So part of the breakdown is about lineage, and not even just familial- I think there’s shades of Rosemerrow here, in that a lineage can be- you can enter a lineage by swearing allegiance, and not just through blood, right? That’s just not the show we’re doing. But also it’s just not in line with a pirate republic, [laughs] y’know?
+
+
+[ALI laughs]
+
+
+JACK: Yeah.
+
+
+AUSTIN: So the Brighton Lineage, the big thing that I know about them already is that they were kind of- in the recent years, they were recently embarrassed, and lost- um, I misspelled embarrassed, we all misspell embarrassed sometimes, and then we get embarrassed. [laughs] And lost face, y’know, after a devastating defeat- I misspelled devastating really poorly, this is gonna be me misspelling things on stream. That’s “devisting”. That’s just way wrong. I’m sweating. Uh- [laughs]. 
+
+
+ART: It’s gonna be okay. Just-
+
+
+AUSTIN: Okay, phew.
+
+
+ART: Take a deep breath-
+
+
+AUSTIN: Okay. [inhales] Thank you. “And lost face after a devastating defeat”- um, actually maybe not recently, because it’s actually like, “in the recent past, they were embarrassed and lost face after a devastating defeat, but over the last year or so, they’ve begun to regain strength and popular support.” That’s what we know about the Brighton Lineage at this point. I think that they are- because we have to decide what type they are- they’re probably a powerful organization. If people wanna follow along, there’s a cool thing, which is that the Dungeon World SRD- I’m trying to figure out what SRD stands for, does anyone know what that means? Systems Reference Document, is what an SRD is.
+
+
+ALI (crosstalk): Oooh.
+
+
+AUSTIN: Exists, this thing called the Dungeon World SRD, which is like a sort of pared down version of the main book? And you can just search for that online, and it’s totally legit and free. I’m gonna just link that in the real chat really quick, and also in the Friends at the Table internal chat, so that you can look at things like the different types of fronts that there are. So again, it’s ambitious organizations, planar forces, arcane enemies, hordes, and cursed places. I think they’re probably an ambitious organization-
+
+
+JACK: Yeah.
+
+
+AUSTIN: And not a planar force, or-
+
+
+JACK: Or a cursed place.
+
+
+ALI: They could be…
+
+
+AUSTIN (crosstalk): Or a cursed place.
+
+
+JACK: They could be.
+
+
+ART: Yeah.
+
+
+AUSTIN (crosstalk): They could be.
+
+
+ALI (crosstalk): They could be, y’know, curse of the pirates-
+
+
+AUSTIN (crosstalk): Oh, y’know, they could be hordes. They could be hordes, to some degree, right? But I think that they are, of the ones that are here, I think these are the ones who are an ambitious organization. And then there’s like, a subgroup that you could pick from, right? You could say alright, are they a corrupt government, are they a caball, are they a misguided good? I think that here they’re a caball, in this kind of Dungeon World-y sense. Which means that their impulse is to absorb those in power and to grow. But I’m interested if someone has another take on the Brighton Lineage.
+
+
+ALI: Um-
+
+
+ART: No, I mean that seems…
+
+
+ALI: Yeah, that seems to add up.
+
+
+AUSTIN: Art has met someone from the Brighton Lineage. I mean, I guess Art hasn’t, but Art has seen someone from the Brighton Lineage at least in play at this point. Sometimes I’m like, “Okay, that’s all I know about them so far. Let’s go on to the next one and come back for grim portents and impending doom. Because the second type- and I think maybe this is a horde-  is the group of- the kind of- I guess the leader is probably strong? But there is a port. There is a place, actually. And the place is called the Port of Will, that is run by High Captain Will. Who was the person who founded the Rogue Wave years ago. And the reason his name is Will is because his real name is Mighty Though the Force of the Tides Be, The Swimmers Will Extends Further Yet. 
+
+
+JACK: Oh, shit.
+
+
+AUSTIN: Yeah. He is the last of the major excerpts of Harmony. Previously of the Tides of Harmony. He I think is the sort of big cult of personality in the Rogue Wave, and has kind of a different desire than the Brighton Lineage. The Brighton Lineage kind of wants to become part of this global state. I think High Captain Will’s whole vibe is like, no? We’re independent pirate captains, actually?
+
+
+[laughter]
+
+
+AUSTIN: And I don’t want to go to dinner parties? I’m having a little bit of trouble with how to represent the piracy side of the Rogue Wave as like a- what would we call his factions? I’m definitely gonna write horde down, because in my mind it’s just like, of the five hundred captains, four hundred of them belong to this- are completely loyal to this guy. And just roll in on the waves, and just fuck things up. 
+
+
+JACK: I wonder if there’s something here with- if we’re thinking of names, with like, flags?
+
+
+AUSTIN: Mmm. Mhm. I like that a lot.
+
+
+JACK: I was thinking ‘the something banner’, but Destiny did that. But like, pennants and flags, and… I’m gonna Google the Thesaurus, and then I’m gonna Google flags in the Thesaurus.
+
+
+AUSTIN: Yeah. Me too. I just do ‘flag synonym’, and you got it.
+
+
+ALI: Wwwait, is there like, a spaceship version of ship points…? Where there’s like, a lady there? You know what I’m talking about. [laughs]
+
+
+JACK: Oh, like a, what are they called-
+
+
+ART: Um-
+
+
+AUSTIN: Like a figurehead? 
+
+
+ALI: Yeah.
+
+
+JACK: A figurehead.
+
+
+AUSTIN: My Google search-
+
+
+ART: That’s not it, is it?
+
+
+JACK: Yeah.
+
+
+AUSTIN: Yeah.
+
+
+ART: That’s it?
+
+
+JACK: It’s a figurehead.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Yeah. It’s on the prow, were you thinking of the prow?
+
+ALI: Yeah, yeah yeah yeah.
+
+
+ART: No, I’m just- I must just be wrong. 
+
+
+[laughter]
+
+
+ART: I have like, a really strong idea that it’s something else.
+
+
+AUSTIN: It’s figurehead.
+
+
+ALI: Yeah. That’s what I’m thinking of.
+
+
+ART: There’s no way to know.
+
+
+[laughter]
+
+
+JACK: Um, “words related to flag”. I love these. 
+
+
+AUSTIN: Uh huh? I like-
+
+
+JACK: Accost, allert. [laughs]
+
+
+AUSTIN: I like words- I like it’s when, okay, what I mean is a pendant, but I could mean to flag, like to fall off, or to climb. Y’know?
+
+
+[ALI laughs]
+
+
+AUSTIN: Um, these are alright. Colors, streamer, emblem. Those are-
+
+
+JACK: Colors is interesting. 
+
+
+AUSTIN: Yeah.
+
+
+JACK: I always like the word for colors to mean like-
+
+
+AUSTIN: Flags. 
+
+
+JACK: My weird identifying symbol?
+
+
+AUSTIN: Yeah. Yeah.
+
+
+JACK: I feel like this is probably the danger where we should lean into pirates, right? 
+
+
+AUSTIN: Right. So like, actually, that’s a good- that’s a good thing, is like- let’s look into the history of the Jolly Roger and shit. What was that… did they call that a flag, or did they call that a-
+
+
+JACK: Oh. Pirate flags. I don’t think the Jolly Roger was like, real. Let’s see.
+
+
+AUSTIN: Yeah it was.
+
+
+[ALI laughs]
+
+
+ART: Of course it was. 
+
+
+AUSTIN: We didn’t just invent that.
+
+
+ART: Everything’s real. 
+
+
+JACK: Oh, so “the flag most commonly identified as the Jolly Roger was used during the 1710s by a number of pirate captains including”- here come some real pirate names-
+
+
+AUSTIN: Uh-huh.
+
+
+JACK: “Black Sam Bellamy, Edward England, and John Taylor.”
+
+
+AUSTIN: John Taylor.
+
+
+ART: John Taylor’s the worst one of those.
+
+
+ALI: Yeah.
+
+
+ART: Is that who Jonathan Taylor Thomas is named after?
+
+
+AUSTIN: Yeah. Mm-hm. That’s him.
+
+
+ART: Oh. Cool.
+
+
+JACK: “Richard Hawkins, who was captured by pirates in 1724”- he doesn’t have his own Wikipedia page, so I feel sorry for him here.
+
+
+AUSTIN: Hey-
+
+
+JACK: Oh, yeah? Did you-
+
+
+AUSTIN: I just- no, you just finish the thing you’re saying and then scroll the fuck down.
+
+
+JACK: Oh. Yeah, so, uh-
+[ALI laughs]
+
+
+JACK: He reported that the pirates had a black flag bearing this figure of a skeleton stabbing a heart with a spear!
+
+
+AUSTIN: Look at it! It’s so good!
+
+
+JACK: Okay, let’s- alright, let’s rank these real quick. Gotta say-
+
+
+ALI: Wait, hold up-
+
+
+JACK: Gotta say-
+
+
+AUSTIN: So let’s describe for the listener. For the listener, there are one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen-
+
+
+JACK (crosstalk): Oh, we must do them all? We must?
+
+
+AUSTIN: Seventeen different historical designs of different supposed Jolly Rogers. 
+
+
+JACK: Alright, so-
+
+
+ART: Why isn’t this linked somewhere? What are you guys even-
+
+
+ALI: Oh, sorry, sorry-
+
+
+JACK (crosstalk): We’re just on the Wikipedia page. Go to the Wikipedia page for Jolly Roger.
+
+
+AUSTIN (crosstalk): Go to Wikipedia.
+
+
+ART (crosstalk): Alright, this is Wikipedia? Okay. 
+
+
+AUSTIN: For Jolly Roger. Alright.
+
+
+JACK (crosstalk): Let us know when you’re there, Art. Okay. Right off the bat, A-
+
+
+AUSTIN: Uh, let’s scroll down here to scratch notes, where someone has written “everyone is a duck now”, alright, scratch notes-
+
+
+JACK: Who- okay-
+
+
+AUSTIN: Seventeen Jolly Rogers.
+
+
+ART: We’ll never know who did that.
+
+
+JACK: So I reckon all their flags are different, firstly.
+
+
+AUSTIN: What do you mean?
+
+
+JACK: I reckon- I reckon that people- well, okay, I guess we don’t have- I guess we do have flags, because they do have boats. 
+
+
+AUSTIN: Yes. Or wait-
+
+
+JACK: But I guess the easiest-
+
+
+AUSTIN: Are we not gonna rate these skeletons, or what?
+
+
+JACK: Oh, oh, yeah, no, no let’s do it-
+
+
+[ALI laughs] 
+
+
+ALI: Or what?
+
+
+JACK: Sorry, I was getting sidetracked. I was getting sidetracked-
+
+
+AUSTIN: You were! This is what we’re here for.
+
+
+JACK: I was getting sidetracked by the actual job. 
+
+
+ART: Yeah, number one-
+
+
+JACK (crosstalk): Okay, right off- 
+
+
+AUSTIN (crosstalk): No, we’re-
+
+
+JACK: Right off the bat-
+
+
+AUSTIN (crosstalk): Okay, your number one?
+
+
+JACK (crosstalk): Big fan of this one. Big, big fan of this one.
+
+
+ALI: Yeah. Love it.
+
+
+AUSTIN: Wait, which one?
+
+
+ALI: The first one!
+
+
+JACK: Oh no, we’re just starting at number one.
+
+
+AUSTIN: Oh, yes.
+
+
+JACK: I mean, number one is the title.
+
+
+ART: Yeah. Uh-huh.
+
+
+AUSTIN: Uh-
+
+
+JACK: Number one, I love it. It takes the classic pirate theming-
+AUSTIN (crosstalk): Of a skeleton.
+
+
+[ALI laughs]
+
+
+JACK (crosstalk): And it gives it a little twist. Give it a little twist.
+
+
+AUSTIN (crosstalk): A [???] twist. (1:04:56)
+
+
+ALI: Yeah, it’s a full body now.
+
+
+AUSTIN: And also a full body. Yes, exactly.
+
+
+ART: Yeah.
+
+
+ALI: Instead of just the face. I love it.
+
+
+AUSTIN: It’s a prequel to the skull and crossbones. The bones aren’t just crossed, they’re connected.
+
+
+JACK: Right.
+
+
+ALI: [laughing] And then do you see the flag that’s just like- they’re just one guy, but they’re-
+
+
+AUSTIN: There’s just one guy. That’s Red Skull.
+
+
+ART: Yeah, it’s just Eddie Low over there by himself.
+
+
+[laughter]
+
+
+AUSTIN: Again, yeah. Edward Low aka Captain America’s nemesis Red Skull.
+
+
+JACK: Right, yes, exactly. Flag number two. 
+
+
+AUSTIN (crosstalk): Alright, number two.
+
+
+JACK: Got some issues with this one. Got some real issues with this one.
+
+
+AUSTIN: Do you?
+
+
+JACK: Yep.
+
+
+AUSTIN: Cause I don’t.
+
+
+JACK: Okay, here’s my main issue, Austin. What’s the deal with the dots?
+
+
+[ALI laughs]
+
+
+AUSTIN: That’s blood.
+
+
+ART: It’s blood.
+
+
+AUSTIN: Those are blood driplets.
+
+
+ART: Yeah. 
+
+
+AUSTIN: Going off the heart.
+
+
+JACK: They’re perfectly circular.
+
+
+ALI: Mmm...hip bones, I don’t know. 
+
+
+AUSTIN: It’s very- it’s very good blood. [laughs]
+
+
+JACK: The hip bones, yeah. Good point, Ali.
+
+
+ART: What if he’s got big pointy hips?
+
+
+AUSTIN: He got big pointy hips.
+
+
+ALI: I just like- I don’t know that- I don’t like that somebody drew that devil then just used like, clip art for everything else. 
+
+
+[laughter] (1:05:48)
+
+
+JACK: Agreed.
+
+
+AUSTIN: I don’t think- is that what they did? I think this is-
+
+
+ALI: Come on. Look at that heart-
+
+
+AUSTIN: This is real.
+
+
+ALI: That’s a neat heart.
+
+
+AUSTIN: That’s a- okay. That’s a clip art heart.
+
+
+JACK: What’s he holding?
+
+
+AUSTIN: That’s a clip heart.
+
+
+JACK: In his left hand.
+
+
+AUSTIN: That’s like, a goblet? Or a coin purse? 
+
+
+ALI: I think it’s one of those sand things.
+
+
+AUSTIN: Oh, it’s an hourglass.
+
+
+JACK: Ohhh. Yeah.
+
+
+AUSTIN: Like, [bad pirate imitation] “You got two seconds to live, heart!”
+
+
+[ALI laughs]
+
+
+ART: No, just remember- just remember the goblet, because it’s gonna- there’s gonna be a really strong goblet callback when we get to my favorite one.
+
+
+ALI: Okay…
+
+
+AUSTIN: Okay.
+
+
+JACK: Okay.
+
+
+AUSTIN: Next up… Oh, boy, that face! 
+
+
+ALI: Wooooow.
+
+
+JACK: [laughs] Oh my god.
+
+
+ALI: Very calm.
+
+
+JACK: Alright, so let’s contrast this with the previous one, Austin. While like, the previous one, no expression, hollow face, very-
+
+
+AUSTIN: Deep, like-
+
+
+JACK: Very spiky, spiky hair.
+
+
+AUSTIN: This is a jockular expression. This guy’s having a good time.
+
+
+JACK: You won.
+
+
+AUSTIN: There’s eyes. There’s a big wide mouth. 
+
+
+ALI: Uh-huh.
+
+
+AUSTIN: There’s a spear going through a heart, and it says, “Although referred to as the John Quelch flag, it in fact is closer to the description of the pirate flag from John Philips.” John Quelch is a bad name.
+
+
+[ALI laughs]
+
+
+JACK: It’s like, the fucking- [laughing] pirate flag came back from the client with notes.
+
+
+[AUSTIN laughs]
+
+
+ART: There’s a lot here. One, this one’s definitely clip art. Two, check out this guy’s crotch. 
+
+
+[laughter]
+
+
+AUSTIN: No, I’m good! I’m good.
+
+
+ALI: I really wanna go to that restaurant. They have such like, a peaceful expression. 
+
+
+[laughter]
+
+
+ART: I think this restaurant’s in Midtown.
+
+
+[laughter]
+
+
+AUSTIN: Yeah. Almost certainly. Alright, next up, let’s see.
+
+
+JACK: Disconcertingly Roman.
+
+
+AUSTIN: Oh. This one has- this one’s classy.
+
+
+ALI: Ohhh.
+
+
+ART: Oh, this guy’s like-
+
+
+AUSTIN: Oh, Walter Kennedy’s. This is a Kennedy flag.
+
+
+ART: This guy’s like, “Cheers, we pirates.”
+
+
+[laughter]
+
+
+AUSTIN: Yep!
+
+
+JACK: Right, that’s exactly what he’s doing. He’s pointing in one direction with this sword, and then he’s also holding up the thing. 
+
+
+ALI: Yeah.
+
+
+AUSTIN: Do you think that the-
+
+
+JACK: And in case you weren’t sure about what he’d do with the sword, there’s a little diagram beside it.
+
+
+AUSTIN: Oh, is that what that is? I didn’t know if that was like, his friend, or… 
+
+
+ART: Yeah, I thought that was-
+
+
+AUSTIN: “And this is my uncle’s!”
+
+
+JACK: [laughing] No, I think it’s-
+
+
+AUSTIN: “I drink to my uncle Roger!” And that’s where they got the Jolly Roger as a name.
+
+
+JACK: Ohh, maybe. This is Walter Kennedy’s. Bad pirate name. Bad pirate name.
+
+
+AUSTIN: Bad pirate name. 
+
+
+JACK: Oh my god, the next one is very good.
+
+
+ALI: Oh, this one is fantastic.
+
+
+AUSTIN: [laughs] Oh my god.
+
+
+ART: Oh, and this one has an explanation, too. Yeah, um. Yeah.
+
+
+ALI: [laughing] What- okay.
+
+
+AUSTIN: What’s the explanation?
+
+
+ART: Oh, this is him and Death holding an hourglass. So it’s-
+
+
+AUSTIN: I still think it’s a goblet. I’m now back around. Like, they’re toasting with a single goblet.
+
+
+ALI: Uh-huh.
+
+
+ART: You can’t toast with one thing.
+
+
+ALI: Well, one goblet is behind the other.
+
+
+AUSTIN: Oooh. Good, good, good. Thank you, Ali.
+
+
+[ALI laughs]
+
+
+AUSTIN: Alright, next up.
+
+
+JACK: Next up.
+
+
+AUSTIN: [struggling] Abba ammam. Aba- aba am. 
+
+
+ALI: This is fantastic. 
+
+
+AUSTIN: This is a meme. This is a meme and also, that’s a dog who is a pirate.
+
+
+[laughter]
+
+
+ALI: [laughing] That is a dog.
+
+
+JACK: [laughing] Yes.
+
+
+AUSTIN: That’s just that dog from Achewood. I’m pretty sure this is an Achewood comic?
+
+
+ALI: Folded his ears up, and y’know, now he’s got a pirate hat.
+
+
+AUSTIN: Yep! “Now I’m a pirate.”
+
+
+ART: And he’s just standing on two skulls?
+
+
+ALI: I love it.
+
+
+AUSTIN: Oh-
+
+
+JACK: That have been labeled. 
+
+
+AUSTIN: Yes.
+
+
+JACK: The skulls have been labeled.
+
+
+AUSTIN: Cause they’re two different types- they’re two different islands. This guy’s just like, I fucking hate Barbedos, and I fucking hate- uh, whatever the M one is. Martinique.
+
+
+ART: Saint Martens, yeah.
+
+
+AUSTIN: Yeah. 
+
+
+JACK: Jesus.
+
+
+AUSTIN: Good. Into it. Oh My God.
+
+
+ALI: Oh, wow.
+
+
+JACK: Great. This is the top one. This one wins.
+
+
+AUSTIN: Ali, you so good here!
+
+
+ALI: [laughing] I do. I do. I do. Me and Art look great.
+
+
+[laughter]
+
+
+AUSTIN: Oh, it’s true. It’s true. It’s true, it’s perfect.
+
+
+JACK: The little dots are back? The little circles.
+
+
+ALI: Oh, and now they’re-
+
+
+AUSTIN: Now they’re above the heart.
+
+
+ALI: Yeah, they’re like a fun decoration.
+
+
+ART: Yeah.
+
+
+JACK: Yeah.
+
+
+AUSTIN: It’s back from the dead.
+
+
+JACK: Yeah, I’m way into this. Cause like, previously it was like, a captain and death holding an hourglass, now they’re dancing. This is by the way, Jacquotte Delahaye, who was alongside Anne Dieu-le-Veut, she was one of the few female buccaneers. I’m reading about them now.
+
+
+AUSTIN: Awesome! Rad.
+
+
+ALI: I would love to see that flag coming towards me. Like yeah, your boat is allowed to come over here. Let’s have a party!
+
+
+AUSTIN (crosstalk): Yeah. Yeah.
+
+
+JACK (crosstalk): Holy shit, Austin!
+
+
+AUSTIN: What’s up?
+
+
+JACK: This is Captain Will. “She led a gang of hundreds of pirates-”
+
+
+AUSTIN: Uh-huh.
+
+
+JACK: “-and with their help took over a small Carribean island in the year of 1656 which was called a Freebooter Republic.
+
+
+AUSTIN: Yeah. Okay.
+
+
+JACK: She’s a pirate queen.
+
+
+AUSTIN: Listen, just because this captain’s name is Will doesn’t mean that Will has to use he/him pronouns. 
+
+
+JACK: That’s true.
+
+
+AUSTIN: This could be Captain Will. She could be dope. She could have this lineup of hundreds of pirates. 
+
+
+ART: Alright, now we have a run of boring ones.
+
+
+AUSTIN: Okay, we can just click through. 
+
+
+ALI: Yeah.
+
+
+AUSTIN: What is this? 
+
+
+JACK: Skull, skull-
+
+
+AUSTIN (crosstalk): Skull and crossbones, skull-
+
+
+ART (crosstalk): Skull and sword-
+
+
+JACK (crosstalk): Skull, oh, I like this one. I like this one with the little arrowhead thing.
+
+
+AUSTIN: Yes! Stede Bonnet’s flag. I’m into it.
+
+
+JACK (crosstalk): Yeah. BIg fan. 
+
+
+ALI: I like the three skulls.
+
+
+JACK (crosstalk): [laughing] Oh, it’s got three skulls-
+
+
+AUSTIN: I like the three skulls, too. It’s like a slot machine type situation. 
+
+
+ALI: Why- wait. Why did Christopher Moody invent Wolverine? [laughs]
+
+
+AUSTIN: Where’s that one?
+
+
+ART: What?
+
+
+ALI: [laughs] Cause- 
+
+
+AUSTIN: Wait. 
+
+
+ART: No, we’re not there yet. 
+
+
+ALI (crosstalk): [laughing] Oh, right. I’m sorry. 
+
+
+ART (crosstalk): You’re getting too far ahead. We haven’t talked about profile skulls yet.
+
+
+AUSTIN (crosstalk): I’m at the red one. Yeah. “Profile skull popular Henry Edger’s Jolly Roger.” Also-
+
+
+JACK: I’m a big fan of this one.
+
+
+AUSTIN: Me, too! Is it like a-
+
+
+JACK: I like this one. It’s simple, it’s effective-
+
+
+AUSTIN: I do have a question.
+
+
+JACK: Yeah?
+
+
+AUSTIN: What’s happening with the ear? Big? The big ear?
+
+
+JACK: I think it’s like a- it’s Beats by Dre.
+
+
+ALI: Mmm.
+
+
+ART: Hmm.
+
+
+AUSTIN: Beats by Dre? Beats by Dre. Classic.
+
+
+JACK: No, I- I think it’s like, a hat. A little pirate hat (ALI: Yeah.) that the skull is wearing to keep its head warm. 
+
+
+AUSTIN (crosstalk): Ohhhhh. Okay. 
+
+
+ART: Do you think there’s like, a Beats by Dre joke in one of the later Pirates of the Carribean sequels?
+
+
+AUSTIN: A hundred percent.
+
+
+ALI: Gotta be. 
+
+
+JACK: Except the Beats is Beatings, ‘cause it’s pirates.
+
+
+ALI: Aha!
+
+
+ART: Yeah.
+
+
+AUSTIN: Oh my god, it’s Wolverine.
+
+
+ALI: It’s Wolverine!
+
+
+ART: No, it isn’t. It’s a cup with an arm.
+
+
+[laughter]
+
+
+ART: And that arm has a dagger. This is the best one.
+
+
+AUSTIN: We have to be careful. We are free to share and remix, but we need to attribute, and this has to be sharealike, which is not gonna be what we’re doing, so we have to be very careful with this Christopher Moody flag. I’m gonna leave it up for another three seconds- one, two, three- and now we’re off. We’re good now.
+
+
+JACK: Who is Christopher Moody?
+
+
+AUSTIN: I don’t know. Another pirate?
+
+
+JACK: Oh my god.
+
+
+AUSTIN: This is just an arm.
+
+
+JACK: Wait, hang on.
+
+
+AUSTIN: We have to go back to Christopher Moody?
+
+
+JACK: Oh, no, you don’t have to go back ‘cause that’s illegal now.
+
+
+AUSTIN: Right. Okay.
+
+
+JACK: It says- “His flag has an hourglass with wings to express to his victims that their time to live was flying away”!
+
+
+[laughter]
+
+
+AUSTIN: [laughing] You corny motherfucker, Christopher Moody?
+
+
+ALI: That’s fantastic, what?
+
+
+AUSTIN: It’s so good.
+
+
+ART: Yeah, that is what it says.
+
+
+AUSTIN: [laughing] I like- here’s what I like about Christopher Moody. Christopher Moody was like, skull and crossbones, what are you saying? You’re not saying enough. You’re just saying you’re gonna get killed. Who cares? Boring. (ALI: Everyone dies.) We can do so- everyone dies. We can do so much more with the flag. We can do so much more. Let me draw Wolverine so that people know that they're gonna die soon.
+
+
+[ALI laughs]
+
+
+JACK: Alright, um- [???] (1:12:12)
+
+
+ART: Well and then Thomas, too, was like, okay, I hear you, but what if I just did the arm part?
+
+
+AUSTIN: [laughing] Just did the arm part. Uh, and then it’s just a smaller one- 
+
+
+JACK: Whoa. I gotta say, if we keep scrolling here folks, we’re gonna get some different images.
+
+
+ALI: Yeah, we should stop.
+
+
+AUSTIN: Yeah?
+
+
+ALI: I think the marine is the end.
+
+
+AUSTIN: Okay.
+
+
+JACK: They’re not bad images, but there’s just kind of a twist that starts emerging. [ALI laughs] I’ll say some submarines show up, Austin.
+
+
+AUSTIN: AH. Aha. Aha. Right. Because- because there’s somebody else who used lots of skulls in their shit, and they were Nazis! (ALI: Uh-huh!) That’s who they were.
+
+
+ALI: Whoops.
+
+AUSTIN: I didn’t go that far, so we’re good.
+
+
+ART: Wait no, that- that one is someone who beat- those aren’t- those are captured Nazi flags.
+
+
+JACK: Oh, yeah, they stole two Nazi flags.
+
+
+AUSTIN: Wait, what?
+
+
+ALI: [laughing] Wait-
+
+
+JACK: Yeah, “Polish submarine in ORP-”
+
+
+ART (crosstalk): This Polish pirate submarine (AUSTIN: YO.) flies a Jolly Roger, killed two Nazi boats, took their flags, put em on their boat.
+
+
+AUSTIN: What’s good.
+
+
+JACK: This is- this is- it beats- [???] (1:13:14)
+
+
+ALI (crosstalk): I mean, [???] the Nazi flag-
+
+
+AUSTIN (crosstalk): Look at how happy they are!
+
+
+JACK: Yeah, probably they’ll put it on your-
+
+
+AUSTIN (crosstalk): Wait, that’s not them. No? Okay, yeah.
+
+
+ALI: I mean, y’know-
+
+
+AUSTIN: What’s the story there, though? 
+
+
+JACK: I’m reading about it. Oh, they’re basically just really good at submarines.
+
+
+AUSTIN: Okay.
+
+
+ALI: [laughs] Okay.
+
+
+AUSTIN: Are they pirates?
+
+
+JACK: No, no, no, they’re soldiers in the Polish army.
+
+
+AUSTIN: Oh, that’s not as good. That’s not as good. 
+
+
+JACK: They’re in the- oh, so basically it was-
+
+
+ALI: Kind of had the pirate spirit though, let’s be honest.
+
+
+AUSTIN: Mhm. True.
+
+
+JACK: Yeah. Oh, yeah, definitely. Where is it now? What happened to it?
+
+
+ART: I also think they’re happy because being in a 1944 submarine sounds very close to the worst thing you could do.
+
+
+AUSTIN: Oh, that must be the worst.
+
+
+JACK: Oh, it’s gotta be really bad.
+
+
+AUSTIN: “flotilla” is a fantastic word. (ALI: Oh, yeah…) That we should think about using.
+
+
+JACK: Yeah!
+
+
+AUSTIN: Also, a second Blendo Games reference for Twilight Mirage.
+
+
+JACK: Right, yes. Oh wait, what’s the first?
+
+
+AUSTIN: Acre. Acre Seven, Acre Six. 
+
+
+JACK: Oh, yeah! Yeah, yeah, yeah. (AUSTIN: Remember?) The procedural game.
+
+
+AUSTIN: Yeah. Acre Seven is unintentionally named after a game by one of my favorite game developers. Blendo Games, Brendon Chung.
+
+
+ART: Wait, there’s a great sentence here. “At least twice in 2017, the USS Jimmy Carter, an American attack submarine which has been modified to support Special Forces operations, has returned to its home port flying a Jolly Roger. The reason for the flag in both cases is not known.” 
+
+
+AUSTIN: Jesus Christ.
+
+
+JACK: Whoa. 
+
+
+JACK: They just show up with a pirate flag.
+
+
+ART: Yeah.
+
+
+AUSTIN: We didn’t get any of what we wanted here.
+
+
+[ALI laughs]
+
+
+ART: No. No, we didn’t.
+
+
+ALI: What were we looking for? [laughs]
+
+
+AUSTIN: What- other names for flags.
+
+
+ALI: Oh.
+
+
+JACK: Wow. All of the British U-boats- all their names begin with U. Like, the British U-class submarines have names like, “Ultimatum, Ulta, Umbra, Unbending, Unbroken, Unisen, United, Universal, Unrivaled, Unruffled, Unruly”...
+
+
+AUSTIN: This is a good impersonation of the iconoclasts.
+
+
+JACK: Oh, right.
+
+
+ART: Man, if you were like, “I’m gonna be on Unruly”, and then they were like, “You’re gonna be on Unruffled”, you would be mad. 
+
+
+[laughter] 
+
+
+JACK: Oh, yeah. Ask- what is ask? 
+
+
+AUSTIN: Alright.
+
+
+JACK: Alright, sorry, we should get back to-
+
+
+AUSTIN: Let’s get back, let’s get back, let’s get back. Because we’re running late at this point. Um, this is what happens, though. This is part of figuring out fronts, honestly, is like, ‘What the fuck is going on? What are- what is- how do pirates use flags? Et cetera. You know, that’s one of the reasons why I’m now on the pirate utopia page, right? Of Wikipedia. In which, you know, they’re digging into the various pirate, kind of, free states that popped up. 
+
+
+JACK: And- or, also the plot of Uncharted 4.
+
+
+AUSTIN: And also the plot of Assassin's Creed: Black Flag. 
+
+
+JACK: Right. [laughs]
+
+
+AUSTIN: And also the plot of part of the Rogue Wave, I think. So, I’m just gonna write down the word ‘flotilla’ here, but I’m not gonna finish- like, I don’t think that’s the whole thing. I often do this thing where I put down brackets around it, that just says ‘flotilla’, and that’s enough for me to know that I need to come up with a better name for it down the road, and that it’s not finished. I always do a search for brackets after I’m done building a document to make sure that like, ‘Hey, everything in here is actually done’, right? 
+
+
+Alright, so, again, I think that’s like, a hoard. I do think that’s not just like an organization.
+
+
+JACK: Oh, yeah.
+
+
+AUSTIN: Hoards… what do hoards want? Let’s see. So their list of hoards is ‘wandering barbarians’, ‘a humanoid vermin’, ‘underground dwellers’, ‘plague of the undead’. Obviously we can create our own here, and our type of hoard is definitely like, a massive flotilla. 
+
+
+JACK: Oh, yeah, yeah, yeah. With like, flagships, and-
+
+
+AUSTIN: Yeah, yeah. And I think… I think that their impulse is to 'defend the complex from outsiders’, basically. That’s what the underground dwellers is. It is actually that their whole thing is… maybe it isn’t, because I do want this to be one of the groups that is like, ‘We’re gonna go to space’. Maybe it isn’t just… Like when I first thought about the Rogue Wave, it was like, they were the people who when you went to them and were like, ‘Hey, can we put the internet here?’ They’d be like, ‘Yeah, but you can’t put you here! Fuck off!’ 
+
+
+[laughter]
+
+
+AUSTIN: And I kind of still like that, but, you know, after the events of the last couple of months in the game, I think maybe I want them to have shifted into being a little bit different, right? Maybe these are the ones who do want to reach out. So maybe in fact the Brighton Lineage is more like that. Maybe the Brighton Lineage is the one that is a little bit more defensive and protective. 
+
+
+ALI: Oh, yeah, ‘cause the lineage would be the one to close ranks, but-
+
+
+AUSTIN: Yeah. Mm, or we could go the opposite way, which is we could have this notion of like- I actually- okay, how about this. I actually do want to keep ‘to defend… the sea from outsiders’? But the way that they do that is just super active. It doesn’t mean that they build walls. It means that they go, you know, that they strike before you’re even in the sea, right? It’s like, ‘Oh no, the way to prevent people from colonizing here is to make sure that their supplies never land’. Which is like, this other version of isolationists that you don’t normally see, and I like that a lot. So I think that’s how I’m gonna play it with them. 
+Alright, so then we need- I have no idea of this third one. Does anyone have a danger type for this third one? Part of me wants it to be the sea itself-
+
+
+JACK: Oh, yeah, yeah! I like that a lot. Especially because like, we are on an alien planet. 
+
+
+AUSTIN: Yep. Exactly. It’s also-
+
+
+ART: So that makes it a cursed place?
+
+
+AUSTIN: Definitely. A hundred percent.
+
+
+JACK: Oh, yeah.
+
+
+ALI: Hell yeah. 
+
+
+JACK: Ali, you were right! You called this one!
+
+
+ALI (crosstalk): Told ya. 
+
+
+AUSTIN: You did. You did.
+
+
+ALI: I told ya. 
+
+
+AUSTIN: Um, and their examples of cursed places are like, ‘abandoned tower’, ‘unholy ground’, ‘elemental vortex’, um, ‘dark portal’-
+JACK: [laughs] We’ve picked ‘the ocean’.
+
+
+AUSTIN: (amused) We’ve picked the ocean. But we’ve picked the ocean of an alien world that could have like, weird animals and stuff in it, y’know?
+
+JACK: Or just the water is weird as- I was watching the Blue Planet earlier today, and like, let me tell you, there is some stuff in the sea, Austin. Very bad.
+
+
+ALI: Oh, yeah.
+
+
+[ART laughs]
+
+
+AUSTIN: Yeah, I bet. Lemme tell you what the GM moves are for cursed places. ‘Vomit forth a lesser monster’-
+
+
+ALI: Mmm.
+
+
+JACK: Yep, that tracks.
+
+
+AUSTIN: ‘Spread to an adjacent place’, ‘lure someone in’, ‘grow in intensity or depth’, ‘leave a lingering effect on an inhibitor, inhabitant, or visitor’, ‘hide something from sight’, ‘offer power’, ‘dampen magic or increase its effects’, ‘confuse or obfuscate truth or direction’, and ‘corrupt a natural law’. I love all of those. 
+
+
+ART: What is-
+
+
+JACK: This is like, the literal, actual sea on Earth you’ve just described.
+
+
+AUSTIN (crosstalk): Yes. Yes. 
+
+
+JACK (crosstalk): That is the sea!
+
+
+AUSTIN (crosstalk): That is one hundred percent what it is. Yes. So what is the impulse of the sea?
+
+
+JACK: Motion, right? Like-
+
+
+AUSTIN: Yeah.
+
+
+JACK: Like- (sighs)
+
+
+AUSTIN: That’s a good one. I like that, actually. Like, to shake apart? Or to… to like, flow unstopped or something? You know what I mean? 
+
+
+JACK: Yeah.
+
+
+AUSTIN: To, um-
+
+
+JACK: It’s like the tides, like something reflecting the tides, right?
+
+
+AUSTIN: Yeah.
+
+
+ALI: Well then, maybe it would be something about like, a pattern?
+
+
+JACK: Oh, like a wave pattern?
+
+
+AUSTIN: Hmm. Do you think that it actually is like, pattern… pattern driven?
+
+
+ALI: (laughs) Yeah, I mean, like, in the sense that it’s locked into a, like a rhythm. 
+
+
+AUSTIN: Right.
+
+
+ALI: Or like a movement structure. But I don’t know. 
+
+
+JACK: I like the idea of that in the sense that like, you know sometimes when you start listening to a song and you can’t work out what time signature it’s in?
+
+
+AUSTIN: Mhm.
+
+
+JACK: And you have to listen to a bit to realize where measures begin and end? Or, you know, the scope of the rhythm is such that just listening to it for a while, you don’t get any sense that it’s operating in a rhythm at all? A bit like waiting to see a gif loop. You don’t know if it’s going to loop.
+
+
+[laughter]
+
+
+AUSTIN (crosstalk): Right, right. Yeah, yeah, yeah. 
+
+
+JACK: Or like, when the loop is gonna happen. And I wonder if there’s something here about a rhythm, but the rhythm- and the rhythm is predictable, or limitedly predictable, but it’s also so fast that it’s hard to know where you are in the rhythm?
+
+
+ALI: Right.
+
+
+AUSTIN: Yeah, my only fear with it is that this has to be something that I can look to and then it immediately helps me define an action. And so the fact that I’m struggling to be like, “Okay, how do I talk about there being this unresist- this irresistible rhythm without dipping into the past palette of Friends at the Table, is tricky. Because I don’t want it to sound like Rigour, I don’t want it to sound like pattern magic.
+
+
+ALI: Yeah.
+
+
+AUSTIN: Those are my- those are problems the average GM doesn’t have? In that there isn’t an audience of thousands of people who are waiting to say, “Aw, this is the same thing as before!” Or like, “Oh, is this connected?” And it’s like, no, I don’t- that’s not what I’m trying to do, I’m sorry, I didn’t wanna mislead you. What’s the uh, unstoppable force and immovable object? I want a word that’s like, about being an unstoppable force. 
+
+
+JACK: I’m gonna go to the Thesaurus and then search “unstoppable force”-
+
+
+ART (crosstalk): It’s just like, um, that’s not right, but y’know, “to erode”? Like-
+
+
+ALI: Ohhhhhhhhhhhh.
+
+
+AUSTIN: Oh, that’s kind of great, actually.
+
+
+JACK: Oh, yeah, yeah yeah. 
+
+
+AUSTIN (crosstalk): “To erode” is actually super good.
+
+
+JACK (crosstalk): Like, make sand, or like- yeah-
+
+
+ALI (crosstalk): Yeah.
+
+AUSTIN: Yeah.
+
+
+ART: Yeah. 
+
+
+AUSTIN: “To erode” is it.
+
+
+ART: Just like- to turn things into sand, yeah.
+
+
+AUSTIN: Yeah. Boom. Swish. Arthur Tebbel, everybody. Arthur Martinez-Tebbel, sorry.
+
+
+ART: Alright.
+
+
+AUSTIN: So that’s a good one. Okay, so now we have what these three things are. We don’t have any grim portents yet, we don’t have any stakes quite yet. That’s fine. And we don’t have any impending dooms. So let’s go back up to- which of these do we feel strongest about, that we feel like we definitely have? I feel like I have the best understanding of what the flotilla wants, which, again, I’m just gonna put as “Will’s flotilla” for now [laughs].  Because I think I know what the impending doom is, but let’s work through these portents. I think the first portent is that they like, launch a ship into space. That they launch their initial ships from the sea up into space and set up a blockade. So I think that’s just like, “the establishment”... (laughs) the “establishbent”... “Of the blockade”. I’m typing so poorly today. There we go. You got it? Thank you. Boom. “The blockade in space”. 
+Then the second one would be like, some sort of devastating hit, right? On the fleet, or something. Or it would stop- it wouldn’t just be a blockade, it would be that they reached out and broke a supply line or something, right?
+
+
+JACK: Oh, yeah, like-
+
+
+ART (crosstalk): Sure, like hit a flagship, capture a flagship?
+
+
+AUSTIN: Oh, “capture a flagship” is great.
+
+
+ALI: Ooh, yeah. 
+
+
+JACK: That’s like, a classic pirate move.
+
+
+AUSTIN: That’s a class- yeah. Uh-huh. “A flagship of the Divine Fleet”. And that’s just a portent, so we don’t even know what the third thing is, right? Or maybe- is that so strong that it should be the third one? 
+
+
+JACK: I think that it should be the third one, and the middle one should be something to evoke that sensation of like-
+
+
+ALI: Being under attack, I guess-
+
+
+JACK: Yeah, or unsafe waters, like-
+
+
+AUSTIN: Right.
+
+
+ALI: Oh, yeah.
+
+
+AUSTIN: Which is just-
+
+
+ART (crosstalk): Like travel is disrupted, y’know, transport is fucked.
+
+
+AUSTIN: Right. Yes. I’d like to have that be a little bit more specific, ‘cause I’m gonna put that in brackets, and then in front of it, I’m gonna write, uh, “The destruction of a major cargo ship”, which is to say that’s how I show the gun, right? It’s not enough for me to be like, “Oh, by the way everyone, travel and transport is disrupted. It should be the thing of like, Mass Effect, where you’re walking down the hallway and you overhear that a cargo ship was ransacked by a  group of pirates, y’know? That’s one of the things that- that helps sell it, is like, it isn’t just, “Oh this is a fact of the world”, it’s “this thing happened”. And also, it helps me as the GM be like, “Okay, I can talk about there being a major cargo ship that’s under attack”. Or that is afraid of being under attack, and you can intervene and protect it. And so yeah, they capture a flagship of the Divine Fleet. 
+What do you think about dooms? I’m curious if anyone else has a good doom idea. I’ll go through the list that they give in the book again. “Tyranny: of the strong over the weak, of the few over the many”, “pestilence: the spread of sickness and disease, the end of wellness”, I love “the end of wellness”. That’s a good fuckin’ phrase. “Destruction: apocalypse, ruin, and woe”, “usurpation: the change of order comes apart, someone rightful is displaced”, “impoverishment: enslavement, the abandonment of goodness and right”, “rampant chaos: laws of reality, of society, of any order is dissolved”. 
+
+
+JACK: Woof.
+
+
+AUSTIN: Uh-huh.
+
+
+ART: This is tricky because classically pirates don’t really have an endgame, right? They just like, make a bunch of money, spend that bunch of money, go out and get some more money. We need a more like-
+
+
+AUSTIN: Right.
+
+
+ALI (laughs): I-
+
+
+AUSTIN: But like- go ahead, Ali.
+
+
+ALI: I was just gonna say, I feel like there was something here in that their impulse is to defend the sea from outsiders, but like, if they grow up so big, what is an outsider at that point?
+
+
+AUSTIN: Oh, that’s interesting. Yeah. That’s an interesting thing, because then they’re like, the thing is they’ve reached this point where their goal is- it’s almost like micro-Earth in some ways, where it’s like, “Oh no, this is our home, fuck off everybody else”, and the way we’re saying “fuck off” is “you’re all part of us now”.
+
+
+ALI: Right.
+
+
+AUSTIN: Right.
+
+
+ALI: Or if your only impulse is to pull down structures, when you win, what do you do? [laughs]
+
+
+AUSTIN: So maybe that’s it. The one that sticks out for me is actually “pestilence: the spread of sickness and disease, the end of wellness”. Where it’s like, they’ve so badly disrupted the fleet that medical supplies can’t transfer anymore. Communication is pulled down. And so, yeah, the sea is safe from outsiders, ‘cause all the outsiders are barely able to get by. 
+
+
+ART: Can I give a- can I give another thought? 
+
+
+AUSTIN: Totally.
+
+
+ART: What about the Sir Francis Drake solution?
+
+
+AUSTIN: Which is…?
+
+
+ART: He was a pirate-
+
+
+AUSTIN: Privateer, yeah.
+
+
+ART: Yeah, he was a privateer, and like, he was really good at doing what he did so they just made him the Navy.
+
+
+AUSTIN: Ohhhh. That’s interesting. Right.
+
+
+ALI: Ohhh.
+
+
+AUSTIN: So it’s a situation there-
+
+
+ART: Like go fuck up- like, “Okay, yeah, you win. Here’s a bunch of money, go fuck up the Spanish.”
+
+
+AUSTIN: So then that’s like tyranny, right? Where it becomes a part of the fleet, right? Like, becomes a major part of the Divine Fleet through force.
+
+
+ART: Yeah.
+
+
+AUSTIN: Or usurpation, right? It’s either one, right. But I could see them being installed as a sort of- or their authority is recognized over the kind of space lanes. 
+
+
+ART: Yeah, they’re just- it’s like, okay, yeah, they’ll drop a treaty, and-
+
+
+AUSTIN: Pay your taxes, don’t go to the sea planet, and they get the money. Yeah.
+
+
+ALI: Isn’t that kind of a good end, though? [laughs]
+
+
+AUSTIN: I don’t think so. 
+
+
+ALI: Ookay.
+
+
+AUSTIN: Not if like, everyone is listening to the fucking space pirates now. 
+
+
+ALI: Alright…
+
+
+AUSTIN: Right? I don’t know.
+
+
+ART: Look at Ali over here on the side of the space pirates.
+
+
+[ALI laughs]
+
+
+AUSTIN: Though maybe that’s- here’s the actual question. Is that-
+
+
+ALI: Cause just being like, “Oh, they’re pirates and I’m gonna pay them to keep being pirates to keep being good at this” is one thing, but like-
+
+
+AUSTIN: I mean, that’s the mafia. The thing they’re actually describing is they become the space mafia. Which is like, you’re paying protection money to them.
+
+
+ALI: Okay.
+
+
+ART: Yeah. Like, the “state” has given up.
+
+
+AUSTIN: Yeah.
+
+
+ALI: Right. Sometimes you play so much Yakuza that you’re like, “Yeah, okay”.
+
+
+[laughter]
+
+
+JACK: Maybe they carry letters of marque? But like, space letters of marque? Which were- “it was a government license authorizing”- I’m reading Wikipedia here- “authorizing a person to attack and capture enemy vessels and bring them before admiralty cause for condemnation and sale”. 
+
+
+AUSTIN: Right, right. Yeah.
+
+
+JACK (amused): “Cruising for prizes with a letter of marque was considered an honorable calling combining patriotism and profits.” 
+(1:30:16)
+
+
+AUSTIN: So all of this to me actually sounds more like Brighton Lineage stuff. 
+
+
+ART: Mm.
+
+
+JACK: Ohh. Sure.
+
+
+ALI: Yes.
+
+
+AUSTIN: Like they are the people who want to grow in power, right? And like, become a legitimate center of military and commercial strength and so, I like them as the people who are trying to like–that can be a portent for–that can maybe be the second one. Could be–What was it? A, what of marque? A um…
+
+
+JACK: A letter of marque. Like M-A-R-Q-U-E.
+
+
+AUSTIN: Q-U-E? Yeah. Um.
+
+
+JACK: And they’re like actual physical objects that they carry.
+
+
+AUSTIN: Right. Um, so I’m gonna, letters of marque. Awarded letters of marque. Uh…(typing) Making their actions as pirates legal. Um, I like that a lot for them. So yeah, I’m gonna say let’s do pestilence for the flotilla and then let’s do the thing Art just suggested for the Brighton Lineage. Um and then…How did we describe that? It was like, tyranny basically?
+
+
+ALI: Um, which one?
+
+
+AUSTIN: The…The tier–like making them the official like, official space mafia. Space Mafia protect–you know, pay them protection. Becomes like official arm of space navy basically.
+
+
+ALI: Mm, yeah yeah yeah.
+
+
+AUSTIN: Um, and (typing) this is like space travel, communication and transport so disrupted as to lead to sickness and unhealth across fleet. Um…Yeah, Jesse Abariano said in the chat says, “I keep having to remind myself that Brighton Lineage is not just a person’s name.” Yeah. [JACK laughs] There’s a Brighton. Brighton is a last name. Kent Brighton is one of the NPCs who you will meet in the next few weeks. Um…so we still need grim portents for the Brighton Lineage, a first one and a third one. (pauses) Sometimes I like doing this, which is like uh, the flotilla will capture a flagship. The Brighton Lineage will be given one.
+
+
+ALI: Oh.
+
+
+AUSTIN: Or it can be something even grander than that, right? Which is like, we know as people who’ve already played this that the Brighton lineage has access to some very powerful weapons. Um, I’m not gonna get into what those are. Um, so I actually know what this is. I’m not gonna tell you about exactly what it is. Art, I need you to be with me here. (ALI laughs) I need you to think about what happened in that game. 
+
+ART: Mm.
+
+
+AUSTIN: And they are going to uh, rebuild a broken–not just rebuild it. Um. Relaunch a once broken but very powerful weapon.
+
+
+ART: [inhales deeply] Ah, that would be bad.
+
+
+[ALI giggles] 
+
+
+AUSTIN: Yeah! It wouldn’t be good! It would not be good.
+
+
+ALI: [overlapping] Well, listen.
+
+
+ART: That would be a grim portent indeed. 
+
+
+AUSTIN: Oh thank you, thanks for getting me that extra broken, anonymous duck. (AUSTIN and JACK laugh)
+
+
+JACK: What am I?
+
+
+AUSTIN: We have anonymous duck. We have anonymous hedgehog and an anonymous dingo.
+
+
+ALI: I fucking–Oh, I’m the hedgehog. The hog! Yes!
+
+
+JACK: Oh, I’m anonymous dingo.
+
+
+ALI:  [deep and close to microphone] Yes!
+
+
+AUSTIN: [laughs] Ali, you’re very excited about this hedgehog.
+
+
+ALI: I fucking love hedgehogs!
+
+
+AUSTIN: They’re good!
+
+
+JACK: Oh, Ali! I saw one the other day in my garden! [ALI gasps]
+
+
+ALI: A real live one? A loose hedgehog? [laughs] What?
+
+
+JACK: Yeah! A loose hedgehog. 
+
+
+AUSTIN: A loose hedgehog?
+
+
+ART: [overlapping] A loose hedgehog?
+
+
+JACK: I forgot to tell you this. There was like the noise of like a hedgehog going around and doing their stuff.
+
+
+ALI: They just exist in the wild?
+
+
+JACK: I went out with a torch and there they were like a little potato! And they were just sitting in the dark in the grass and they were a bit scared ‘cause I was there.
+
+
+ALI: Right.
+
+
+JACK: So I took a couple of pictures and then left him alone and heard them go snuffling off into the distance. 
+
+
+ALI: (laughs) That’s incredible.
+
+
+JACK: Like a little potato. I’m gonna send a picture to you on Discord now.
+
+
+ALI: Oh, please. Please!
+
+
+AUSTIN: Should I wait? [ALI laughs] I wanna see this hedgehog?
+
+
+JACK: No, no no. We can–Well, I mean, do you want to see this hedgehog too, Austin?
+
+
+AUSTIN: I do, I would like to see the hedgehog.
+
+
+ART: Yeah, You gotta put that–That has to go in, uh–
+
+
+JACK: I’ll put it in the Patreon chat. (ALI giggles)
+
+
+AUSTIN: I would like to see this hedgehog. Wait, which chat did you put–?
+
+
+ALI: What do you have in your garden that attracts hedgehogs? Oh my god.
+
+
+AUSTIN: Why is this spotlit?! (ALI giggles)
+
+
+JACK: Well, because it was dark! I had a torch!
+
+
+AUSTIN: Why is a theatrical–people listening, Jack has constructed like a staged diorama of like. (ART laughs and ALI laughs harder) There is like a forest and a single beautiful light has caught this hedgehog. This beautiful hog. 
+
+
+JACK: Ah, fair Titania! 
+
+
+(everyone laughs)
+
+
+AUSTIN: It’s very good.
+
+
+JACK: I–I sent you a close-up as well, Austin. If you wanna show the Discord.
+
+
+AUSTIN: Oh thank you, I need this. Boom!
+
+
+ALI: I can’t believe a hog’s just out there.
+
+
+AUSTIN: There’s that hog.
+
+
+ALI: Do hedgehogs just walk around?
+
+
+AUSTIN: Wait, what?
+
+
+ART: [overlapping] What?
+
+
+JACK: I’ve only seen one–no. I’ve only seen one in the wild like once before in my life. Maybe like 4 or 5 years ago.
+
+
+ALI: That’s wild!
+
+
+AUSTIN: It’s so good.
+
+
+ART: Ali, you know that most animals exist in the wild, right? [ALI and JACK laugh]
+
+
+ALI: No but like–[giggles]
+
+
+AUSTIN: Zack Morrison in the chat says, “Cursed place.” [ALI and JACK laugh again]
+
+
+ALI: I just like–You don’t usually see animals that are domesticated outside in that way. 
+
+
+AUSTIN: (softly) Ohh my god.
+
+
+ALI: Like you see stray cats but you don’t see a stray hedgehog.
+
+
+ART: I don’t think this is–I think it’s just a full on wild hedgehog.
+
+
+ALI: Yeah, he’s just out there! I didn’t know that hedgehogs were still just, you know.
+
+
+JACK: Yeah, this hedgehog has not escaped. Just little potatoes out there, going around the garden.
+
+
+ALI: Yeah, I did not know that they had their own communities out there.
+
+
+AUSTIN: (amused) God. (sighs)
+
+
+JACK: Okay, moving on. (ALI giggles)
+
+
+AUSTIN: What’s the first grim portent of the Brighton lineage?
+
+
+ALI: Um…
+
+
+JACK: Okay, so…[softly] Oh lord.
+
+
+ALI: I–This is like…Like establish relationship is probably not the…the like, tough thing.
+
+
+AUSTIN: Oh, but you know it could be? That’s actually good is like the establishment of a divine fleet like embassy or something, right? Because that’s them growing in power. That’s them being recognized as being the true representatives of the rogue wave.
+
+
+ALI: Right, yeah yeah.
+
+
+AUSTIN: (typing) Of embassies in their terrority and in the fleet. Like, grand opening.
+
+
+JACK: These embassies are definitely ships, right? They’re like war ships.
+
+
+AUSTIN: Oh definitely. That’s good. I’m going to write embassy ships instead. [ALI giggles, AUSTIN typing] There we go. Cool cool cool. Then we have the sea. [JACK sighs] Always a difficulty, the sea. What’s the sea want to–or what’s the doom of the sea?
+
+
+JACK: Oh, that it’s fucking everywhere, right?
+
+
+ALI: Yeah, that it would just be.
+
+
+JACK: It’s like flooding. It’s like…
+
+
+ALI: Yeah.
+
+
+AUSTIN: Is that like too–But like what causes that to happen? Because then we’re not just talking about–We’re not then just talking about a sea as a sea that like does the same thing over and over again. Like where’s the new water coming from?
+
+
+JACK: Ohh, I kind of have a bad one.
+
+
+AUSTIN: Oh yeah? Tell me.
+
+
+JACK: Yeah. What if–I don’t know how to like translate this into something that’s actionable but like what if the way that we have always assumed water behaves stops. You know, we assume that if we put something in front of water, it won’t go over it.
+
+
+AUSTIN: Right.
+
+
+JACK: Like you know. Like if i pour tea into my cup, it is not coming out of the cup unless I spill it. 
+
+
+AUSTIN: Right.
+
+
+JACK: What if that starts–Like what if the water–It’s not as if the water’s alive. It’s just like the rules aren’t working. Maybe the water’s alive.
+
+
+AUSTIN: Okay. Well, I mean the water could become alive, right? Like we’re on Quire, we established–there was that whole sequence with Gig and the academic. 
+
+
+JACK: Oh true, yeah.
+
+
+AUSTIN: Um, and like maybe right now the water is the water is the water but like, what if the water becomes more and more alive? Until it does start ignoring the basic rules of what water does. Like what if water is like, stops being held down by gravity or whatever, you know.
+
+
+JACK: (interested) Yeah.
+
+
+AUSTIN: Um, what if–okay, how about this? What if the water can change form–What if the impending doom is that water stops retaining form according to temperature? So like–
+
+
+ART: Oh, Jesus.
+
+
+AUSTIN: –Water can become ice if it wants or it can become steam or it can become, you know what I mean? Like, it can just become a storm.
+
+
+JACK: Oh I like that a lot. The two things that water can be. (ALI laughs)
+
+
+AUSTIN: Yeah–It’s three. 
+
+
+JACK: (overlapping) It’s three.
+
+
+AUSTIN: It’s ice, it’s water, and it’s hot steam. Right?
+
+
+JACK: Yeah.
+
+
+ALI: Uh-huh. There’s slush. There’s snow.
+
+
+AUSTIN: There is slush and snow.
+
+
+JACK: Slush and snow, that’s true. 
+
+
+AUSTIN: Um…[typing] “The form of water, no longer tied to temperature but ???” 
+
+
+JACK: This is good.
+
+
+AUSTIN: I like it. That’s great because like the first portent is just a snowstorm on a hot day, right? That’s very simple.
+
+
+JACK: Yeah yeah yeah. It also lets us sidestep like the Moana thing of just like, “Oh the water can move.”
+
+
+AUSTIN: Oh, I haven’t seen Moana but is that what happens?
+
+
+JACK: Moana, Moana’s all right. Like the water in Moana can like, I don’t know how to describe it. It likes moves as though it’s an entity. It can lift itself up and make tendrils and like…
+
+
+ART: Yeah, it does a lot of comic relief bits with the Rock. [ALI laughs]
+
+
+JACK: Yeah, it’s like a comic relief. You know.
+
+
+AUSTIN: Gotcha, right. It becomes a comic relief. Alright, so then portent 2. 
+
+
+JACK: The ocean!
+
+
+AUSTIN: The ocean, exactly. Portent #2, how else does this start to look really bad?
+
+
+ALI: I like…When I think about water, it’s always like–you know like how you can make certain drinks and layer them because of the density of the liquid or like…
+
+
+AUSTIN: Yes. 
+
+
+JACK: Oh yeah.
+
+
+ALI: Stuff like that where like stuff isn’t able to float the way that it should or it’s able to change that really rapidly. [AUSTIN agreeing] So like, It’s like there’s sinkholes in the water almost like…
+
+
+AUSTIN: Oh wow.
+
+
+JACK: Oh yeah yeah. That’s brilliant.
+
+
+AUSTIN: Ship like–A hundred ships just sink into the sea.
+
+
+ALI: Yep.
+
+
+ART: Yeah, ‘cause they don’t float anymore.
+
+
+AUSTIN: Yeah exactly.
+
+
+JACK: Oh, that’s so grim. (ALI laughs) I love that as well because like if you have been sailing the water all your life you’re like “Ohh, that’s not supposed to happen.”
+
+
+ALI: “Now wait a minute!”
+
+
+JACK: I have potentially a bad one for 3, Austin.
+
+
+AUSTIN: Oh let me know please.
+
+
+JACK: I don’t know if it relates to the impending doom. (pauses) Um, yeah what if…Um. I keep thinking of like the “full fathom five” sonnet.
+
+
+AUSTIN: What, whawhawhatwhat?
+
+
+JACK: Full fathom five, from The Tempest. Where it’s like–
+
+
+AUSTIN: I have not read this since high school, Jack.
+
+
+JACK: “Of his bones are coral made” and like, “pearls are his eyes” but like better? Shakespeare said it better. Um, but like I love the idea of like if portent #2 is ships sinking but if portent 3 is stuff coming back up?
+
+
+AUSTIN: Ohhh, that’s good.
+
+
+ALI: Ohhh.
+
+
+ART: Mm.
+
+
+JACK: Like stuff that has been down there for a long time.
+
+
+AUSTIN: For way longer? That’s really good and also can be almost a sort of draining like, oh the thing that you thought was the ocean just isn’t anymore. It’s gone somewhere else and it’s brought up all this old–like it’s brought up a sand bar. It’s brought up islands that were destroyed. You know?
+
+
+JACK: Ohh, yeah, it’s brought up islands! It’s brought up like a fleet that was sunk like 400 years ago.
+
+
+AUSTIN: Yes yes. (typing) Old ships, islands, other things lost to the sea.
+
+
+JACK: There’s that thing called. Oh I know what it is! There’s this thing called whale fall when a whale dies.
+
+
+AUSTIN: Whale fall.
+
+
+JACK: Yeah, whales don’t die very often.
+
+
+AUSTIN: I’m not gonna search this, I’m gonna look it up on a separate page.
+
+
+ART: My favorite Bond movie.
+
+
+JACK: And it like, the whale basically like sinks and when it hits the ground, it basically creates this ecosystem. This like brand new ecosystem because a whale fall has taken place. 
+
+
+ART: (sadly) Ohh.
+
+
+JACK: They’re really rare and hard to track and this is the opposite. This is a reverse whale fall. This is stuff coming up.
+
+
+ART: Yeah, if dead whales started just flying out of the ocean, I would steer clear of the ocean. (ALI laughs) I would…
+
+
+JACK: Oh yeah no no no.
+
+
+AUSTIN: But even if they just started slowly popping up to the top or not even like all the way to the top but most of the way to the top, you would just have like all new ecologies forming around their corpses right?
+
+
+JACK: Oh yeah yeah yeah yeah.
+
+
+ALI: It would be like a beached whale fall.
+
+
+JACK: (laughs) It would be like a beached–
+
+
+ALI: (laughing) Like…
+
+
+AUSTIN: I love it. Um, alright. So now we have basically have an impending doom. I like it–or basically have most of this front. So now, we need a few more things for this front. What we need is…We still need a name for this flotilla which we might not get tonight. That’s fine. We need a cast. Um, right now I know that we have High Captain Will. Um…(typing) Who is the leader of the flotilla. Flotilla…former excerpt of Harmony. Um…we have Kent Brighton.
+
+
+ART: The really sad thing is that I have to cross reverse whale fall off of my list of Bluff City names.
+
+
+ALI: (laughing) Aww….
+
+
+JACK: (laughs) Oh sorry Art.
+
+
+AUSTIN: Um…
+
+
+JACK: Kent Brighton is like two UK places.
+
+
+AUSTIN: That was 100% what it was Jack. (JACK laughs) That’s exactly what that name was. And uh, that he’s like a youngish representative of the Brighton Lineage and theeen…Um, anybody else who sticks out here? The sea doesn’t have any like–The sea is the sea, right?
+
+
+ART: Yeah I don’t think you can really make some characters out of the sea, I think. (ALI laughs)
+
+
+ALI: But was there like…
+
+
+ART: You’re going to end up in a bad Saturday morning cartoon that way.
+
+
+ALI: There was that like magician guy that Fero talked to who informed him about the stars. Is that like part of a front or is that just like an NPC?
+
+
+AUSTIN: Yeah, the sage. No, that was just a character who I’d written out.
+
+
+ALI: Okay.
+
+
+AUSTIN: But he’s not going to show up. He’s not doing stuff, you know?
+
+
+ALI: Right.
+
+
+AUSTIN: You know, there could be a creature here or a place could be a cast, right? Um.
+
+
+ALI: Oh yeah, if it’s like a…like a…
+
+
+AUSTIN: Like I actually kind of like the notion of the reverse whale fall island being an almost a member of this and in fact, here’s what i’m gonna do. This–this is way better. Ready? This is what you do. This is how you know I’ve been doing this for a long time. That’s first. That’s not last, Jack. 
+
+
+JACK: Ohh, yeah true.
+
+
+AUSTIN: It starts with one of these islands showing up. One of these carcasses of an ancient gigantic megafauna shows up and like now, there’s this weird new island that’s just like filled with like, scavengers and it's like bioorganic and weird. And that’s first.
+
+
+JACK: This is almost like a kraken as well, right?
+
+
+AUSTIN: Yeah yeah yeah, definitely. Um. And I think that place, whatever I end up naming that, is like one of the first things that shows up there. Um. Cool. Um, I was going to say this impending doom isn’t enough. And so uh, the form of water is no longer tied to temperature…(typing) In like on all of Quire to be clear. Not just the sea.
+
+
+ALI: Mm. Yeah yeah yeha. 
+
+
+ART: Sure.
+
+
+(1:45:55)
+
+
+
+
+JACK: Ohh yeah.
+
+
+AUSTIN: like lakes, swamps, glasses of water. You can’t trust water anymore.  You can probably treat it or lock it down somehow but like, you need to figure out a way to do that. Alright. So those are–That’s some characters basically. I would add more to this cast normally is the thing I would do, but I would uh–We don’t have the time. It's late. I’m hungry. (ALI laughs) So last but not least, we do need some stakes. And again, you can start with stakes instead. For me, one of my big questions is like how does Echo Reverie react to–or actually it’s “does Echo recognize the authority of excerpt Will?” I’m very curious about that. Any other stakes questions here?
+
+
+JACK: Hmm..
+
+
+AUSTIN: Im curious who the Skein, Crown of Glass, and Mandati side with in this civil conflict.
+
+
+ALI: Oh yeah.
+
+
+JACK: Oh, maybe like um–Maybe the inverse of that. Maybe, who does the Brighton Lineage– Who do these people choose as their targets? 
+
+
+AUSTIN: oh yeah yeah
+
+
+JACK: Who are the people that the Brighton Lineage are like, “Oh, we want to talk to you”?
+
+
+AUSTIN: Yes. (typing) Who does the Brighton Lineage choose?
+
+
+JACK: Like a value as a representative.
+
+
+AUSTIN; Right right right. (typing) Value as a representative of their civilization or of their…Just as a representative…Boom. Yep. Boom. Done. And so like, this is it. I now have this front. This is now enough for me to be like, “Okay, I can start building something from this.” We can go to the reverse whale fall. You can deal with what happens when you know there’s a–Each of these portents can be an adventure that pops up. Trying to stop it, trying to break it, trying to keep it from happening. So something like hearing rumors that the flotilla is gonna establish a blockade around Quire, right? Uh oh, that’s a big deal! Like, we have to get to Quire sometimes! The destruction of a major cargo ship would be a big deal, right? Or there’s a mission there which is like, “Oh we’re gonna go try to save those people.” Um. And those are the sort of things that you then let guide you as you continue doing the campaign that you're in, and again! All of this I could throw away tomorrow, and I bet we’d still be able to come up with cool stuff. I like a lot of this stuff going forward. Um, it helps fill in some blank spaces for me and I enjoyed filling them in here. But as always like, they don’t exist until they come up in a game in some way, right? I could sleep on this tonight and then tomorrow, wake up and be like, “Oh wait. Oh no, cause we’re already doing this other thing with the Brighton Lineage. I’d forgotten about that. Let’s do that instead.” And…Or the other thing is that we start down the path and I realize like, “Ugh. No one–Everybody loves the Brighton Lineage. [JACK laughs] Everybody loves them and wants to be part of them and like isn’t–They’re not–No one’s gonna get in their way and so I need to come up with other obstacles for them to get in the way of, right? Like maybe I still treat the front and that part of the front as being important but like the um, the–What I’ve written down here isn’t necessarily going to be like the thing that happens. So. I think that that’s it. I think that’s like what building a front looks like. It kinda gives you an insight on what we go–what I go through in terms of trying to put together what a faction looks like. I'm excited to see how this all shakes out in actual play. 
+
+
+JACK: Yeah.
+
+
+AUSTIN: Because there’s a lot of good ideas here. Um, so that’s going to do it for us. I’m Austin Walker. You can find me on Twitter @austin_walker. Where can people find you, Ali?
+
+
+ALI: Um yeah, I am over at Twitter @ali_west.
+
+
+AUSTIN: What about you Art?
+
+
+ART: Hey I’m on twitter @atebbel, and if you like this and you wanna like this like every month and you have $1400 burning a hole in your pocket, you can just make it happen right now. Just think about it. (JACK laughs)
+
+
+AUSTIN: That’s true. That’s true. Uh, and Jack?
+
+
+JACK: You can find me on Twitter @notquitereal or buy any of the music featured on the show at notquitereal.bandcamp.com. 
+
+
+AUSTIN: As always, you can send in your questions to tipsatthetable@gmail.com. We’ll see those, we’ll put them in a file, we’ll talk about them. We’ll put together a crew to answer them and it’ll be great! And as always, you can support the show over at friendsatthetable.cash. We seriously like could not do this without your support. We thrive on it. We pay our bills on it at this point and really appreciate that. It’s very…
+
+
+ALI: I now do this full-time.
+
+
+JACK: It’s the best!
+
+
+AUSTIN: Yes, Ali does it full-time now. So it is one of those things that has let us do this at a higher level than I think we’ve done in the past, and it’s really great to be able to talk to you about stuff like this where like normally, what happens is there is a post-mortem and I go, “Okay, uh, everybody else chill for 5 minutes so I try to talk about fronts.” So I try to answer these 17 questions about fronts in 5 minutes and that’s not fun. Like you need 2 hours, 2 and a half hours, however long this fucking thing, is to talk about fronts. And so, thank you for letting us do that and let your friends know if you enjoy this and that’s kind of like the only way that we get to spread the word. So thank you so much. We will be back with an episode this week.
+
+
+ALI: Mmhm!
+
+
+AUSTIN: Um, what else is coming up, Ali? New postcards should be on their way shortly–The October postcards should be on their way in the next weeeek or so?
+
+
+ALI: Yeah those have officially been ordered. They should be arriving this week and should be mailed out by this Friday?
+
+
+AUSTIN: They might be my favorite postcard yet. (ALI laughs)
+
+
+ART: Oh.
+
+
+JACK: Oh, it's a pretty good one. I’m looking forward to seeing it.
+
+
+ALI: It’s pretty good.
+
+
+AUSTIN: It’s really gorgeous.
+
+
+ALI: Yeah, it’s pretty good.
+
+
+AUSTIN: Yeah, I’m really excited.
+
+
+ALI: I sprung on some good stamps for the people in the US.
+
+
+AUSTIN: Oooh!
+
+
+JACK: Oh nice.
+
+
+ALI: Yeah. 
+
+
+AUSTIN: Nice.
+
+
+JACK: Can you give us a tease on what they are?
+
+
+ALI: Uhh no, I’ll tell you guys. I want everyone else to be surprised. (laughs)
+
+
+JACK: Oh ok.
+
+
+AUSTIN: Ooh.
+
+
+ALI: People know. I’ve tweeted about how excited I am about these stamps.
+
+
+AUSTIN: Okay. What else do we have coming up? Anything else in the near future? I just sent out a new Mapmaker update. There will be–I’ve already started putting together the next one. I need to get a Pusher update together for those of you who are at that level. I have all the component parts. I just haven't had the time to sit down and knock that out. So that’ll come soon too.
+
+
+ALI: Uh, there’s a brand new Bluff this month that’s going to be starting in the last week of November.
+
+
+AUSTIN: There is. Perfect.
+
+
+ART: Oh, is that not even started yet?
+
+
+ALI: No.
+
+
+AUSTIN: No.
+
+
+ALI: We just finished Inspectres.
+
+
+ART: Oh. I knew that, yeah.
+
+
+ALI: We have to do a Live at some point but we haven’t really…It’s probably going to be good.
+
+
+AUSTIN: That will probably also be towards the end of the month. This month is weird because I have PAX and then I have Thanksgiving.
+
+
+ALI: Oh my god, PAX exists. 
+
+
+AUSTIN: PAX Unplugged, yeah.
+
+
+JACK: Oh lord.
+
+
+ALI: Oh, PAX Unplugged?
+
+
+ART: Oh, you’re going to that PAX?
+
+
+AUSTIN: Ahh! I, yeah, I am. I agreed to go do a panel and the thing is the panel is at 9 PM on a Sunday and I’m truly thinking about just going in for that.
+
+
+ALI: Yeah. 
+
+
+JACK: Just arriving and then…
+
+
+ALI: Why aren’t we doing a panel, what?
+
+
+AUSTIN: It’s like a comedy panel with Pat Baer. It’s 404ing it? It’s like that fun little…
+
+
+ALI: Oh okay. Yeah.
+
+
+ART: No, but why isn’t PAX unplugged like just doing…A Friends at the Table thing?
+
+
+AUSTIN: A Friends at the Table thing?
+
+
+ALI: Yeah. 
+
+
+JACK: Okay, here’s my pitch–
+
+
+AUSTIN: Honestly ‘cause we didn’t submit one. If we had submitted one, they were looking for panels. We could’ve done a panel.
+
+
+ALI: Yeah..
+
+
+ART: Oh fuck!
+
+
+JACK: Wait, here’s my pitch. We–
+
+
+AUSTIN: If you wanna come in and you wanna do a meet-up or something, you just fly in and I’ll meet you in Philly.
+
+
+JACK: Should just–
+
+
+ART: No I don’t think…I can do that. I’m sorry Jack.
+
+
+JACK: Just rank pirate flags! (ALI gasps) In front of people!
+
+
+AUSTIN: That’s good. That’s good. That’s a good–Like go on Wikipedia is a pretty good panel idea for us actually. 
+
+
+JACK: Yeah it is, that’s true.
+
+
+AUSTIN: One of my favorite panels that I saw…Here’s a thing that happened. This is a fun little story. I, um, I was invited to go do a panel with Dave Lang. Iron Galaxy’s Dave Lang. He’s like, “Oh, you should come do this panel. It’s called Let’s Rank It. We rank everything.” (ALI laughs) And I’m like, “I don’t wanna…no. That doesn’t sound like fun to me. Like, that sounds like–I don’t wanna tell people they’re wrong about ranking games or whatever.” That is not–That is not what that panel is. That is like so dramatically not what that panel is. [JACK laughs] It’s ranking things like um…I need to see the current list because the list is so good. It’s like things like uh–Ok, here we go. This is–I found the list. So currently, the rules of the list are that once you give a thing a list–a point in the list, a place in the list, it can never move from that point and everything else has to either be above it or before it. [JACK laughs] So that leads to situations like, rank number–this is the list of everything in the universe. Rank #9 is the Gameboy sound on start-up. Rank number 9.0011 is you get stuck on a “It's a Small World” for 20 mins with no music by the Polynesian section of the ride. (JACK laughs) No music is a huge factor in this as being as high as it is. Uh, number 19 is default iPhone alarm noise AKA wake up you’re late. Number 19.09 is Darth Vader with 2 cats. It’s–I really…A very good one. A very good one is rank number 3 is Uber blazing Nasty Boys after a pretty 100 day. (ALI laughs, JACK chuckles) 3.1 is, you’re dreading going to this thing with a friend and at the last minute they cancel on you and 3.11 is Pusha T’s “Yeugh!” And like, yep! That’s all–all that is good 100%.
+
+
+JACK: So good.
+
+
+AUSTIN: And I’m so mad I didn’t go do that panel because I thought it was a different thing. Anyway.
+
+
+ALI: He should’ve told you. He should’ve been like “No. This is–”
+
+
+AUSTIN: He should’ve told me! This is a fun comedy bit.
+
+
+ALI: Mm. Man.
+
+
+AUSTIN: Yeah I’ll link it in the–I’m linking it in the chat. you can find it. It’s at Team GFB Radio Episode 149. I guarantee you will hear me laughing in the audience.
+
+
+ALI: (laughing) Ohh.
+
+
+AUSTIN: So go listen to that. Uhh…Alright. I’m gonna–
+
+
+JACK: Should we clap?
+
+
+AUSTIN: We should clap.
+
+
+ART: Let’s clap.
+
+
+AUSTIN: I’m gonna go get food. I’m gonna call my dad. It’s my dad’s birthday. Happy birthday to my dad.
+
+
+JACK: Oh! Happy birthday Austin’s dad!
+
+
+ALI: Happy birthday!
+
+
+AUSTIN: Wouldn’t be here without him, so you know.
+
+
+ALI: Yeah.
+
+
+JACK: That’s…That’s true.
+
+
+ART: Yeah, we all know how dads work. 
+
+
+(ALI laughs)
+
+
+AUSTIN: Okay, I just wanted to make it clear. So I represent.
+
+
+ALI: Shout outs to…Papa Walker.
+
+
+AUSTIN: Yeah. Let’s clap at 30?
+
+
+ART: I think we could’ve done 25.
+
+
+(pause)
+
+
+ART: Fuck, I hit my pop filter.
+
+
+(FOUR CLAPS)
+
+
+AUSTIN: That sounded good.
+
+
+ALI: I would like to thank everyone from the bottom of my heart for not doing a comedy 25 clap. Thank you. 
+
+
+AUSTIN: Oh yeah. Yes. That’s us being on–Listen, we’re linked. We’re synced up.
+
+
+ALI: Thank you. I’m with the right team here but I’m just saying. [laughs]
+
+
+ART: That’s like the unofficial designator of this group, is these are the people who officially have extra duties in our organization documents?
+
+
+AUSTIN: I guess so. I guess that is the actual collection of people. This is Team production and Team business right here.
+
+
+ART: Yeah. This is Team mention by name in the documents.
+
+
+AUSTIN: (laughs) It’s true. Art opened up the last–We did a recording the other day and Art opened it by saying that he believed he was one of the best clappers.
+
+
+ALI: Oh!
+
+
+JACK: Ohh!
+
+
+ALI: Well!
+
+
+AUSTIN: And then we crushed it. To be clear, we then crushed it on the clap, but we also revealed something else which is, we sat down to record for like 20 minutes and we recorded for an hour and 40 minutes. So I think it’s clear that Art and I are also why we go so long on recordings.
+
+
+JACK: Ohh, okay.
+
+
+ALI: Mmhm!
+
+
+ART: Yeah that’s…You’re welcome for the January clapcast everyone. (ALI laughs) You’re welcome. Happy Martin Luther King day everyone. (AUSTIN laughs)
+
+
+AUSTIN: There’s a big dog. There’s a whole - 
+
+
+ALI: Oh I saw the pictures of the big dog! (laughing) I was like - 
+
+
+AUSTIN: Uh huh, you must’ve been like “Why are they linking big dog pictures?” There’s a big dog. There’s another Wikipedia diversion. 
+
+
+ART: There’s such a weird bit about Western European feelings about life. (AUSTIN and ALI laugh)
+
+
+AUSTIN: There’s a lot. 
+
+
+ALI: I believe that you all got there. Alright.
+
+
+AUSTIN: Okay, I’m going to hang up now. It’s good. It’s good. Alright everybody. We love you. Bye. That seems like a little intimate maybe.
+
+
+ALI: Aw, you can be like the Youtube planner girl that I really like.
+
+
+AUSTIN: Wait, is that what she says?
+
+
+ALI: She’s always like, “I love you! Thanks!”
+
+
+AUSTIN: Aw.
+
+
+ALI: “Come watch me on Instagram so we can hang out!” And then I’m like, “I can’t have this relationship with you.” (laughs)
+
+
+AUSTIN: That’s a little much, Youtube planner lady.
+
+
+ALI: I get it but…
+
+
+ART: Have you seen Ingrid Goes West?
+
+
+ALI: No?
+
+
+AUSTIN: No.
+
+
+ART: Oh it’s this dark comedy about someone who gets too into someone’s Instagram. 
+
+
+ALI: Mm.
+
+
+ART: It’s really uncomfortable. I was wildly uncomfortable watching that movie but I’ve recommended it now twice, so.
+
+
+ALI: (laughing) Alright.
+
+
+AUSTIN: Okay! Aubrey Plaza, so. Alright, that’s going to do it for us folks. We love you. Follow us on Instagram. (ALI laughs) Bye.
+
+
+ART: Bye.
+
+
+JACK: Bye.
+
+
+[END OF EPISODE 1:58:46]

@@ -1,0 +1,3545 @@
+﻿COUNTER/Weight 05: A Ship of Seeds
+
+
+Transcriber: Tamora [0-41:07] / Jake (thescarp#3050) [41:00-45] / Alexis (@alexiorsays) [00:45:00-01:38:50] / Gio [01:38:50-2:06:51]
+
+
+
+
+DRE: Oh, oh no.
+
+AUSTIN: What’s up?
+
+
+DRE: I just took a drink of my drink and it went in my eye.
+
+
+AUSTIN: Uh oh, that’s no good.
+
+SYLVIA: Did you just get mountain dew in your eye?
+
+
+DRE: I just got Mountain Dew Kickstart Orange Citrus in my eye.
+
+
+AUSTIN: It’s called Kickstart?
+
+
+DRE: Yeah.
+
+
+SYLVIA: [overlapping] It’s crowd funded.
+
+
+AUSTIN: Oh god damn it, I hate everything.
+
+DRE: It’s basically Mountain Dew with some juice in it.
+
+
+SYLVIA: Is it just extra caffeinated Mountain Dew?
+
+
+AUSTIN: Probably.
+
+
+DRE: Here’s the terrible secret about Mountain Dew Kickstart: it’s better than it should be.
+
+
+AUSTIN: That’s terrible. Don’t tell anybody about that, you have to keep that secret to yourself.
+
+
+DRE [laughing]: Keep it secret keep it safe.
+
+
+SYLVIA: Good thing this isn’t being recorded at all.
+
+
+AUSTIN [laughing]: Nope, no one is going to hear this ever. Ever ever.
+
+
+[Sylvia laughs]
+
+
+DRE: Look, there’s a reason it’s the official beverage of the WWE.
+
+
+AUSTIN: Is it?
+
+
+DRE: They’re sponsored by them a lot.
+
+
+AUSTIN: Ah, lord.
+
+
+DRE: I don’t know if it’s the official beverage of the wwe but sponsored by them a lot.
+
+
+AUSTIN: Okay, [0:01:03 - 🎵The Long Way Around🎵 starts] now that i’ve had all of the joy sucked out of me, let’s play a game.
+
+
+[0:02:46 - 🎵The Long Way Around🎵 ends]
+
+
+AUSTIN: Hey everybody, welcome to Friends At The Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. We are as always presented by streamfriends.tv and runbutton.net.  I am Austin Walker, I am your host this evening, but I’m not quite your GM. I’m still going to take kind of a leadership role here, but this is the first entry into a project that is part of our ongoing Mech Noir game, and that I’ve teased in previous episodes, but it’s shaking things up a little bit. I’ve mentioned before that we’re going to have the “ground level film noir, the space cold cold war is happening, we have people on the ground trying to keep things from exploding” game. That’s the main mech noir game, and now we’re also going to have a game that’s focused on what’s happening in the broader reaches of the Golden Branch star sector, which is where the planet Counterweight is, it’s right in the middle of that, and to help me figure out what’s happening in the rest of this  region, I have two people, one of them you’re familiar with, one of them is going to be brand new. Andrew Lee Swan is joining me,
+
+
+DRE: Hi! Hello!
+
+
+AUSTIN: And Sylvia[1] Clare.
+
+
+SYLVIA: Hey, I’m the new one!
+
+
+[Dre laughs]
+
+
+AUSTIN: That’s the new one; Sylvia’s the new one.
+
+
+SYLVIA: Hey.
+
+
+AUSTIN: Thanks for joining us, Sylvia.
+
+
+SYLVIA: No problem. It’s a pleasure to be here, I’m really excited to be a part of this.
+
+
+AUSTIN:  Awesome, so-
+
+
+SYLVIA: [overlapping]  I’m a big fan.
+
+
+AUSTIN: I appreciate it. We’re big fans of yours too, Sylvia.
+
+
+DRE: That’s true.
+
+
+SYLVIA: [overlapping] Of course.
+
+
+AUSTIN: So the way that this game is going to work is that we’re kind of mashing together two things. For people who are like super Friends at the Table diehards who suck out.. Sucked out? That’s not the word.
+
+
+DRE: [overlapping] That’s not the word.
+
+
+AUSTIN: Nope. Seeked out!
+
+
+DRE: Is that...?
+
+
+SYLVIA: Sought. Sought is the word you were looking for.
+
+
+AUSTIN: Sought out. There it is. It’s late; it’s been a long week. I do words. That’s me, I’m Austin Walker, I do words. People who sought out- You see where I got sucked, right? 
+
+
+DRE: Kind of?
+
+
+[AUSTIN STUTTERS, EMBARRASSED]
+[4:48]
+
+
+AUSTIN: For people who sought out the world building episode for this second season of Friends at the Table, you know that we built this star sector using the tools that come in the game Stars Without Number*, which is a sci-fi adventure game, but we’re not using any of the adventure-y components for that. But, we are using the faction rules for that game. Now, in Stars Without Number the faction turn is something that the GM does after the players do their big adventure. You finish off an arc, and then the GM takes a couple of hours to figure out what the major factions in the region are up to. ‘Is this corporation trying to throw a coup on this planet; is this regional hegemon barely holding on to the planets they control,’ right? It’s supposed to be a single player thing. It’s supposed to be a thing I do in the background. But I’m not doing it that way. Because I’m combining that Stars Without Number faction turn with some of the rules outlined in Microscope*, which is a game that is actually about figuring out the periods and events and scenes between two bookends of history. So in Microscope, you might start a game on one end of history is ‘Humans Develop Starflight’, and the other end of history is ‘the establishment of an intergalactic galactic Empire’ or something like that, and then you fill in the gap. So we’re throwing out parts of Microscope too, because we’re not going to jump back and forth throughout history and fill in the gaps; instead we’re going to use the rules that Microscope has for telling little stories and doing narration and collaborative roleplaying to figure out what and why and how the factions in the Golden Branch star sector that we’ve built- how and why they’re doing the things that they’re doing. To that degree there’s a special thing I’m doing which is that Sylvia and Dre are both going to get a faction that’s theirs and they get to completely decide what to do with those factions. 
+And let’s start there before we get into the rules of how we’re going to do this. I just want to start with the- who have you both chosen as your pet faction? [pause] 
+Dre, let’s go with you first.
+
+
+DRE: So I’ve chosen Snowtrak Synergies; they’re part of Oricon; they’re basically a mining / Rigger company on a snow planet and they’re currently digging deep into the ice underneath the water to find something buried underneath the surface.
+
+
+AUSTIN: Yeah, yeah, so they’re on the planet Ionias, which is, as you see on the map, 0707 is the spot on the map on the hex grid, which is removed from the rest of the star sector in an interesting way. It’s two or three spots away from every other planet. People who have listened to the previous episodes also should recognize Snowtrak as the group who had kidnapped Cene Sixheart, the brilliant scientist, and Dre, I’ll get to why they did that in a bit. [Dre laughs] We’ll get to why they were doing that. I can give you a little more background on where Snowtrak is. Sylvia, what about you? Who have you chosen to be?
+
+
+SYLVIA: So, my group is a little different from a lot of these core groups. My group is the Odamas Fleet, which are a group of space pirates,
+
+
+AUSTIN: Mhm.
+
+
+SYLVIA: that, because of a typo have become space pi-rats. 
+
+
+AUSTIN: Yep!
+[AUSTIN LAUGHS, SYLVIA STUTTERS]
+
+
+SYLVIA: Well, not entirely. Basically, the idea we came up with together was that they were rat people, and then I fleshed it out with they were a rag-tag group of, some of them are rat people, some of them are humans, some of them are robots, and the rat people are the indigenous species of Kalliope, which became this Space LA, is the way it’s been described?
+
+
+AUSTIN: Yeah, so that planet was, that whole planet is all about gene modification and looking dope, and pushing the limits of personal fashion, and by personal fashion they literally mean the fashion of the self. And so that’s where there’s another pretty prominent character in the previous few sessions. There’s, uh.. What is her name?
+
+
+SYLVIA: She was the reporter, right?
+
+
+AUSTIN: Yeah, yeah, was it Jamil? Was Jamil? No, Paisley. Paisley. No, Jamil. Jamil Quartznoble; Paisley hasn’t come in yet. Yeah, it’s Jamil. Jamil Quartznoble was the super fashionable friend of Aria’s who was the journalist who was poking her nose into things. 
+
+
+SYLVIA: She had dope hair. 
+
+
+AUSTIN: She had dope hair. She had cool glowy hair. She’s from Kalliope, and that whole region is, that whole planet is all about people pushing the limits of body modification. So I think there was probably a big group of people who developed rat faces?
+
+
+SYLVIA: Basically, the way I’m seeing it is: when this early thing happened--
+
+
+AUSTIN: (overlapping) Mhm.
+[10:14]
+
+
+SYLVIA: -- when they were early doing body modification--
+
+
+AUSTIN: (overlapping) Yeah.
+
+
+SYLVIA: these people- I’ve just been calling them Calliopians in my head, just because--
+
+
+AUSTIN: (overlapping) Sure.
+
+
+SYLVIA: --that’s like the easiest thing to call them I might come up with a different name for them--
+
+
+AUSTIN: (overlapping) Mhm.
+
+
+SYLVIA: --they were early subjects of that? in a way that they were literally lab rats, was the way I took it.
+
+
+AUSTIN: Oh, I kind of love that--
+
+
+SYLVIA: (overlapping)Yeah, I know, right?
+
+
+AUSTIN: -- so do you think this happened where, that first set of things was not for fashion and over time it became about fashion?
+
+
+SYLVIA: Yeah, a lot of their modifications I’m seeing as being more maybe not practical, but could be seen as being, they’re trying to make better soldiers or something like that.
+
+
+AUSTIN: (overlapping) Yeah, well one of the things we know about Kalliope is that it has lots of earthquakes, so maybe it was like, ‘oh well we need people who can do rat-type stuff to get in and out of little spaces…
+
+
+SYLVIA: Yeah!
+
+
+AUSTIN: -- they’re really survivable, and stuff like that. So maybe they also developed eyes that could see in the dark, and really enhanced--
+
+
+SYLVIA: (overlapping) That’s what I was thinking, low light vision sort of thing--
+
+
+AUSTIN: Yeah, yeah, enhanced senses stuff like that.
+
+
+SYLVIA: And they’re very, I like the dichotomy I that I have in my head between them where they look like the complete opposite of what Kalliope citizens want now; they’re very--
+
+
+AUSTIN: Right.
+
+
+SYLVIA: -- ugly I guess is the easiest way to put it, they’re--
+
+
+AUSTIN: Right.
+
+
+SYLVIA: -- not aesthetically pleasing, but they are basically humanized sewer rats, is what I’m envisioning--
+
+
+AUSTIN: Right, I--
+
+
+SYLVIA: -- at least a lot of the more, the ones who have been around a while-
+
+
+AUSTIN: Right, the starters, the people who kicked it off.
+
+
+SYLVIA: - like the Captain specifically, who we’ll get into later, is this really fucked up grizzled old rat man.
+
+
+AUSTIN: Nice. The other thing we described them as is like gutter punks or crust punks.
+
+
+SYLVIA: Yeah, [Dre laughs] they’re kind of, the way I see them is this like, everything is riveted together-
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: - everything is stuck together, they’re trying to keep everything- they’re very, what’s the word I’m looking for… jury-rigged--
+
+
+AUSTIN: (overlapping) Utilitarian? Oh, yeah, totally, totally.
+
+
+SYLVIA: -- stuff together. It’s very- because they are pirates. They’ve been forced off of this planet for years now, so they’ve been doing what they can to get by.
+
+
+AUSTIN: And we should note for you in fact they are- there’s some special stuff with them, how they work in this game. So, so, every faction- let’s zoom out and give a broader view- every faction has a collection of assets, and those assets can be everything from a base of influence, which is like ‘oh yeah we have a presence on this planet’ to a fleet of ships, to a bank or venture capitalism, you can have factories or cyber-ninjas, --
+
+
+SYLVIA: (overlapping) I got cyber-ninjas!
+
+
+AUSTIN: -- or, you do have some cyber-ninjas.
+[Sylvia laughs]
+
+
+SYLVIA: I got cyber-ninjas!
+
+
+DRE: You do have cyber-ninjas.
+
+
+AUSTIN: There’s a ton of different stuff the factions can have, and the factions also like I said they have bases of influence. For the most part those bases of influences are on their home planet and maybe a planet or two nearby; a planet where they have a reasonable reason to have a base of influence. So for instance, the- Oricon Expeditionary Group, which is the true, head of Oricon in the region, their corporations are still autonomous agents, but the OEG is the force of the rest of Oricon here; they have their main base on a planet called Arkonic, but they also have a little bit of people down in Kalliope, and they have people on Weight and Counterweight, they have a base of influence, which means that they can do stuff there. The thing that makes your pirate group really interesting- the Odamas fleet- is that they have a special thing called Pirate, which means that whenever anybody does anything where you have a base of influence, or they move an asset, you end up getting money from that. So that’s- you also happen to have a bunch of bases of influence on all the planets; I just kind of imagine you have little coves on those planets--
+
+
+SYLVIA: (overlapping) They got like, ports, bases of operations that they have--
+
+
+AUSTIN: (overlapping) Exactly, exactly.
+
+
+SYLVIA: Like, they know all the seedy docks to go into, like Star Docks to go into.
+
+
+AUSTIN:  Yeah. I should actually go over who all the other factions are, and then how this is going to work. So there are 17 factions total. We will not be zooming in on each faction every week, because that would take forever. In other words, we’re not going to play out a scene or do any narration for each one each week. Instead what I think we’re gonna do is we’re always gonna hit your two factions- those are going to be the stars of this zoomed out show, but we’re also always going to be able to- we’re going to decide what any given faction is going to do- it’s kind of a board game aspect here- and then if we’re interested I think we each get to decide an additional one thing to zoom in on and take a look at, and say ‘ohh, that’s a cool feature, that’s a cool thing, let me describe for you what the factories on Slate look like’ or ‘ ohh I’m not sure what the Lux Vox Data Research Center is going to do this turn, let’s do a scene where we ask the question ‘will they ferret out the spies in their midst’ and then we can play out a scene and based on how the scene goes we can determine what they do.’ So it’s gonna be kind of freeform, and it’s gonna be, I’m kind of imagining it as being a game that’s about these vignette scenes, which is a new and different thing for us, so we’ll see how it goes, it’s a complete experiment, it could crash into the ground.
+[Sylvia laughs]
+
+
+DRE: (overlapping)Thanks for the vote of confidence.
+[Sylvia, Dre laugh]
+[15:35]
+
+
+AUSTIN: So. It could crash into the ground because I haven’t done the prep work, do you know what I mean? It could totally be- we’ll see, but I suspect it’ll be really cool. Let’s go over the actual other factions. There’s the Hands of Grace, which, they are the heart of the Autonomous Diaspora, their capital is on this planet called Garden, which is- some features of Garden are that it has 20th century technology and has millions of people and it’s interesting because the Diaspora is super high tech, but I love that their capital is on this planet that’s set up 20th century style, I think it’s choice- It’s kind of like, because it’s our capital, we can’t-
+
+
+SYLVIA: Back in simpler times.
+
+
+AUSTIN: Yeah, exactly. Let’s not- let’s keep things simple here. 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: They’re not off the grid but things are a little slower here. They also have bases of operation- oops I just moved my asset tracker all around- they also have bases of operation on a number of other planets, including some planets where other factions have people. They have someone on the planet Sigilia, and the only note we have down here on Sigilia is that there’s a real alien there. There’s- not like a species of aliens with blue skin- there’s something truly strange and alien there. Maybe we’ll figure out what that is in the play.
+
+
+SYLVIA: (overlapping) Oh, we are- I’m already thinking on that.
+[Dre laughs]
+
+
+AUSTIN: I suspect we’ll get there. There is- they also have people on the planet Gemm, which is down at the south end of this region. Space south, you know? And Gemm is in a bad place; Gemm is a radioactive badland that was recently devastated, and they- it’s not a good place to be there. It’s bad.
+
+
+SYLVIA: But there’s still millions of people there.
+
+
+AUSTIN: And they still have an industry center there. They have a thing called a post tech industry asset, which means they can make just make money. Their people work in the factories there, and it’s not good. They also have people in Weight and Counterweight, which again Counterweight is the kind of Space Berlin where the game takes place; where the Mech Noir game takes place that is, and the Weight is the beautiful earth-like planet that’s in synchronous orbit with Counterweight. The second thing is- I’m not going to get into what All their assets are until we need to do that, I just want to give an overview of where they are and who they are, but they have a bunch of stuff- they’re one of the only groups- I think they might be the only group- with a capital fleet. The second big group is the Oricon Expedition Force, which I mentioned before; they have people at Archonic, which is real fancy- I’m kind of imagining this as- fancy is the wrong word. I’m imagining this as- did any of you play Killzone 2?
+
+
+DRE: Yes, actually.
+
+
+SYLVIA: I know a little bit about it?
+
+
+AUSTIN: That’s fine. It’s okay. So in Killzone 2 you go to the planet of the Helghast.
+
+
+DRE:  Mhm.
+
+
+AUSTIN: -- There’s areas in that game that are kind of Soviet-esque, but a little less brutalist? Like there’s a little more flourish. There’s a little bit more- a little less hard of an edge, where it’s lots of greys and beiges, but occasionally there’s some nice color also. I’m kind of picturing Archonic as that it’s a very businessy word. The special thing about Archonic is that it has this diplomacy center, basically. It’s like a trade hub that people can come to to get stuff they couldn’t get anywhere else, and where there’s a team of mediators- there’s a whole culture of mediation there where people can go there to work out their problems. I feel like that- despite that it’s deep in Oricon space- that’s where Oricon and the Diaspora people meet. In the same way that Berlin itself was not at the dead center of Germany, Archonic has a higher status than Counterweight does, even though that’s actually the shared space.
+[20:00]
+
+
+SYLVIA: Yeah, or it’s like, that’s where they send out their transmissions to the Diaspora.
+
+
+AUSTIN: (overlapping) Totally. Yes.
+
+
+SYLVIA: Maybe they don’t go there in person, but that’s where they handle all of that stuff.
+
+
+AUSTIN: Absolutely, yeah. The third group is the Consolidated Counterweight Technocracy. They are a tiny little group. There’s kind of three tiers of groups in this game: there’s hegemons, like regional hegemons, people who are- groups that are incredibly tough and strong and have huge influence, and then there’s major groups, which are like, ‘oh yeah, they’re a major corporation,’ and then there’s minor groups, and the Consolidated Counterweight Technocracy is that. That is who, if you’ve listened to the previous episodes, Orth Godlove works for. That’s the group inside of Counterweight that is trying to manage things and make things work. I’ve had some good questions already about, ‘what sort of technocracy is this, and what do they do here?’ and those are good questions, and we might answer that at some point. I think it’s--
+
+
+SYLVIA: (overlapping) So are they- I actually already have a question about them- are they independent from the larger Oricon groups?
+
+
+AUSTIN: Yes.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: Yes, they are in fact- Keith and I figured this out during the world creation I think, or it might have been during the character creation actually. We described Orth as being like an alderman, like Chris Rock’s character in Head of State, where it’s just like, struggling to keep the shit together, and dipping their toes into the bigger politics, because if they don’t, then no one will help the local people. I don’t think there are many straight-up good guys in this world; I think I’m thinking of the Consolidated Counterweight Technocracy as being that. 
+
+
+SYLVIA: (overlapping) They’re the OK guys.
+
+
+AUSTIN: Even though we use the word technocracy here. Yes, exactly. I think that their motivations are pretty legit, which is like ‘hey, there were people living here before y’all turned it into a battleground; someone has to represent those people.’
+
+
+SYLVIA: It’s basically like, it’s just they have such a small thing to govern over, they wanna take care of them.
+
+
+AUSTIN: Exactly.
+
+
+DRE: Yeah, that makes sense. [21:41]
+
+
+AUSTIN: Exactly.
+
+
+SYLVIA: They’re kind of like a city state kind of thing.
+
+
+AUSTIN: Yes, exactly. Except that also that city is inhabited- 
+
+
+SYLVIA: (overlapping) is a planet.
+
+
+AUSTIN: is a planet- and is being occupied by other military forces. It’s a bad situation.
+
+
+SYLVIA: (overlapping) It’s not good.
+
+
+AUSTIN: Yeah. There’s also the Ethnologistical Committee for a More Prosperous Golden Branch. They are with the Autonomous Diaspora; they are based out of Slighter, is that right? Yes. Slighter was an abandoned colony. A lot of these features for the planets, again for people who haven’t listened to the world generation episode, were randomly rolled; SWN has a procedural generation system for planets, and Slighter is hundreds of thousands of people, it has a thing called a perceptor archive, and we’re not calling it that, that’s just what SWN calls it. I’ve just written down archive here, it’s like, ‘oh, there’s lots of ancient technology here, who knows where it’s from,’ It could be from the Apostolosian Empire, which is another group we’ll get to in a bit, but it was abandoned. The Auto Dias left it behind. The Ethnologistical Committee is- they’re kind of all about “bringing knowledge to the rest of society?” Which, we’ll see…
+
+
+SYLVIA: With a name like Ethnologistical…
+
+
+AUSTIN: You know… it’s-
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: -that’s a word. I don’t think it’s a real word. I think it’s-
+
+
+SYLVIA: No, it’s definitely not.
+
+
+AUSTIN: It’s kind of a combination of Ethnography and Logistical? I kind of feel like it’s the extension of like administrative sociology, or like administrative academia, where it’s all about, like, ‘oh yeah we can make the world a better place by just reducing everything to a clear number, and putting it in its right place. That’s all we need to do. We can study anything and quantify it and just work it out!’ Like, again-
+
+
+SYLVIA: (overlapping) Yeah, a very mechanical way of thinking.
+
+
+AUSTIN: Exactly. Something to note also is that each of the Diasporan planets- each of the Diasporan factions has a Divine with them. So this is also we get to know what those are. Grace is the leader here, for the Hands of Grace. And then this, being the second Diasporan group, it’s Integrity is the Divine associated with the Ethnologistical Committee. I’ve also- just so you can see for Dre and Sylvia you can see where it says additional info on this page- on the faction page- whichever thing I’ve marked with the name of the Divine is the Divine. So like, the Hands of Grace have a capital fleet- that is Grace. That is- and the ships that fly around Grace. For the Ethnologistical Committee there is a thing called a Demagogue. That is Integrity. I don’t know what that looks like but it has the effect- the mechanical effect that Demagogues do in this game.
+
+
+SYLVIA: That’s really cool.
+[25:10]
+
+
+AUSTIN: The next group is the September Institute, which we know about based on Keith’s character. Keith has a character named Mako Trig who studied at the September Institute. They’re out of the planet September, and they also have a connection to the planet Vox, which is an Autonomous Diaspora state; we’ll explain more of that in a second, but another big thing to note with them is- so they’re whole thing is when they were going to war against the Diaspora they needed a way to hack into the Divine, mechs basically? Because the Divines were so much more powerful than Riggers? September was a place that trained hackers, or I forget what Keith called them. I need to return to my notes and make sure I get their names right. I’ll message him at some point-
+
+
+DRE: (overlapping) Oh god… Fog Machines.
+
+
+AUSTIN: Right, Fog Machines.
+
+
+SYLVIA: Yeah, misting or something?
+
+
+AUSTIN: Yeah, it was, they did misting, but the names of the group was asters or something like that.
+
+
+SYLVIA: Vapers.
+
+
+AUSTIN: Vapers, right, vapers who do misting. Yes, got it. Vapers.
+[TRANSCRIBER’S NOTE: They’re Strati who do fogging.]
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Hehhh. So the September Institute has a line on Vox, which is a planet we’ll get to in I think just a second here, soon. What else? There’s also the Diasporatic Department of Material Resources: Slate Division, which is kind of like Diaspora’s version of one of the big material- like the Snowtrak of Diaspora; they’re an industrial group. They are nationalized compared to- they’re not a fully independent corporation, they’re a nationalized corporation. And they’re all about making money and also having a police state. [Austin laughs] They run a planet called Slate where there’s millions of people and there’s smoking stacks, and I think the planet might also be volcanic or something? I can’t completely remember.
+
+
+SYLVIA:  I have the planet list. I can check.
+
+
+AUSTIN: Yeah, it’s not actually a big deal. The planet list is a good reference for like, ‘oh, what’s some good color for this,’ but I don’t want to stick too too too close to it if we don’t have to.
+
+
+SYLVIA: Yeah, totally.
+
+
+AUSTIN: Yeah, the temperature there is burning. That’s what the thing is there, so yeah, I think it’s kind of a volcanic place.
+
+
+SYLVIA: (overlapping) Fire.
+
+
+AUSTIN: The next group is the Lux Vox Data Research Center, which- they run the planet Vox, and they have a special thing, the planet Vox does, where it is- they have a thing that says ‘loves psionics’ and I have decided what that means is that they have been secretly infiltrated by the psionics of the September Institute, and there’s a special reason for that, which is that they have- by the way, Slate, the Department of Material Resources, their divine is Service, is the divine of the Slate Division of, Department of Material Resources. Lux Vox’s divine is Loyalty. And the September Institute figured out how to get into that, and how to use that against them somehow. Again, we might find more of that later. The next group is the Liberty and Discovery Automatic Corps. Their divine is Righteousness. They’re working out of a planet called Glimmer, which is yet another abandoned colony. It turns out that the Diaspora doesn’t like to stick around sometimes. [Dre laughing] Again this is-
+
+
+SYLVIA: Really*
+
+
+AUSTIN:  this was a thing that just happened out of the procedural generation which I love, is, I’m looking at a list of the Autonomous Diaspora planets, and three of them have either been abandoned or have- well it used to be like this, it fell off the grid, it this or that. And I really like that notion of like ‘yeah we’re just gonna send out colony ships to all these places and if they don’t make it they don’t make it who cares.’ So they have the- that’s the place that Cene used to actually work out of, was the Automatic Corps, and they work under the Divine Righteousness, and their whole thing is ‘it’s all about drones, babey.’ They’re just; they’re makin’ them drones. [Dre laughs]
+
+
+SYLVIA: It’s all about drones, babeyyy~
+
+
+AUSTIN: Yes, exactly. And again, they’re working out of a place called Glimmer. And the thing there is that Righteousness has complete control; Righteousness the Divine. Again, I dunno if you remember this from the world gen episode, but the Divines traditionally don’t act by themselves, they need to- they embody a sort of, an ideal, and then they have a pilot called a Candidate who moves them towards that ideal. Righteousness moves itself, and that’s not good. [laughter] Then, there’s Minerva Mining and Mechanics Corporation, who is from Oricon. They work out of Minerva Twelve (XII). They also have a smaller moon connected to Minerva XII, and they’re just the industrial corporation. They make the majority of the mechs, they make the majority of the riggers for Oricon, they are the biggest industry on the block. EarthHome Entertainment is Space Disney; they run Joypark, or out of Joypark, which is the place that Aria Joy, Ali’s character, how did she describe her character, “what if Han Solo used to be Beyonce?” used to work for-
+
+
+SYLVIA: Which is the best.
+[30:15]
+
+
+AUSTIN: Yeah, used to work for EarthHome Entertainment. The next place is the only other Hegemon besides the two big forces here, and that’s a group called the Rapid Evening, which- there’s a section of the map- I should kind of paint a picture for the listeners- the map is divided into three or four spaces, depending on how you look at it. There’s the bottom left, which is the Autonomous Diaspora’s region; there’s the bottom right, which is the People’s Conglomerate of Orion, Oricon’s region; there’s the dead middle, which is Weight and Counterweight, and then there’s this whole northern chunk, that used to be where the Apostolosian Empire had all of its base. The Apostolosian Empire used to own this whole thing, but they kind of got pushed all the way up to here, into the corner, and then in the northeastern side of this northern chunk, there is a planet called Ziishe, and on Ziishe, there is a- we rolled and discovered there was a cold planet of “primitive aliens,” but there’s also incredible technology there. We decided that there’s this group called the Rapid Evening, which is a group of- I’ve described them as Space Men In Black, in a weird way? [laughter] The Men in Black are all about stopping, space, stuff from interfering? But these are people who go to planets when they see that someone has gone too far, and cut them down, and monitor them. They have most recently removed technology from the planet Kesh, which is next to them. The planet Kesh only has 19th century technology, and Ziishe is watching them to make sure that they don’t ever do anything again. The Rapid Evening also has other forces on some of the other northern planets. It feels like based on where I’ve spread their stuff that they’re defending north from the Apostolosian on the west, the Diaspora on the southwest, and Oricon on the southeast. It’s like, in that direction is the galactic center, and this is the front of the galactic center, like don’t come any closer. Snowtrak, which we mentioned is on Ionias, and that is what Dre is playing. They’re tiny right now? They only have a couple of bases of operation- one on Counterweight and one on Ionias. They have post-tech infantry and post-tech industry. They’re the main line basic infantry basic industry and they’re digging. And we’ll find out what they dig up soon.
+[Austin sighs]
+Almost done. 
+[laughter]
+Fairchild Research and Development are the super science and technology people. They are the people who designed the rigger that the hero of Oricon, this guy named Jace Rethol piloted in the conclusion of the last war. It’s like, they’re my equivalent to Anaheim Electronics from Gundam. They’re the people who make the most cutting-edge shit. And they’re kind of in a bad place; they’re in the south of the map surrounded by other planets that are on fire, basically. [laughter] They’ve kind of retreated into their hole. They also, we figured out, may have had some stuff to do with the way the gene splicing on Kalliope started. Maybe they were involved with that first rat program, and treated people very poorly. They also are the people who developed the space ship that Sylvia’s pirates stole, which we’ll get to again in half a second. The Apostolos Empire has been beat down into one little corner planet. That’s the faction that Art’s character, Cassander, is from. Kind of vaguely Greek space people. They claim to- they claim to have built the Atlantean Empire on Earth, before it was destroyed by the cruelty of earthlings who didn’t understand the gift they were given. But who knows, all that could be bullshit. They might not be Atlanteans at all, that could all be rhetoric, and propaganda. Then there’s the Odamas Fleet, which is what Sylvia controls. Again they have bases of operation all over the sector, and for the most part, people pay them. They pay the taxes to move stuff around, because it’s just not worth it. I’ll pay you the stupid credit, let me through. And you have a special star ship called a strike fleet unit that is- what was the name of the ship again?
+
+
+SYLVIA: The Flagship Yersinia.
+
+
+AUSTIN: Yersinia. What was Yersinia, you said it was the name of the plague?
+
+
+SYLVIA: Yersinia is the first half of the name of the parasite that would carry the black plague.
+
+
+AUSTIN: I love it. Because they’re rat people.
+
+
+SYLVIA: Yeah.
+[35:32]
+
+
+AUSTIN: And finally, Horizon Tactical Solutions, which is just a mercenary outfit, and they are also kind of spread all over the place in an interesting way.
+
+
+SYLVIA: Did you describe them as Blackwater as fuck?
+
+
+DRE: Yes. Uh huh.
+
+
+AUSTIN: I did describe them as Blackwater as fuck. The mechnoir game has also run into them. They were working with Snowtrak- Snowtrak had paid them to secure Cene Sixheart, who was the scientist that the mechnoir campaign went to rescue in the first two games. Okay, so that’s the basic setup for the planets. I will put this image that give you the overview of what is where on the website at friendsatthetable.net. So. What does this game actually look like now that we’re in thirty something minutes? [Sylvia laughs] There’s an order of operations for us to follow here. One second, let me pull it up. So, for people following along at home, in your copy of Stars Without Number, you can go to… page 114, where it says The Faction Turn.
+[pause]
+
+
+SYLVIA: This is a good opportunity for foley work, if I remember to get a book or something.
+
+
+AUSTIN: Yes. Yes.
+
+
+SYLVIA: Flip through some pages.
+[book foley]
+
+
+AUSTIN: There you go! 
+
+
+DRE: Yeah!
+
+
+AUSTIN: That’s a book. That’s a good book sound.
+[pause]
+Okay, faction actions are divided up by turns. As a rule of thumb a faction turn happens once per month or once after each adventure. Turns might happen more or less often depending on the GM’s preferred pace of events. Each faction can usually take one action per turn. 
+I thought about playing with that a little bit, like if there’s a time that we think ‘oh no, we wanna stick with this one faction’ but for now let’s stick to that, one action per faction per turn. 
+At the beginning of each turn, roll a die that’s no smaller than the number of factions you have. Thus, if you got six factions in the sector, roll a d6; if you got nine, roll a d10 and so forth.
+So for us we’re gonna roll a d20.
+At the beginning of a turn, a faction gains FacCreds equal to half their wealth rating, rounded up, plus one quarter their total force and cunning ratings rounded down. 
+I should explain what those are- we’ll get there. 
+[Sylvia and Dre laugh] 
+Any maintenance costs must be paid at the beginning of each turn… and then if a faction doesn’t have a goal, they can set a goal, but all of the factions have goals right now. 
+And then, that’s around when we shift into the Microscope rules, if we think what the faction is going to do is interesting. So let’s start by rolling a d20!
+[pause, typing]
+Gonna… roll it here… number ten. So number ten on the list, which is just the faction tracker. Number ten is Minerva Mining and Mechanics! I’ll go over that faction really quick- their factions in this game have a bunch of different stats- they have force, cunning, wealth- those are the big three ones, those determine stats you can roll against other factions when you do a thing. They also determine what their HP is and what their income is. Minerva has 27 HP, their income every turn is 4. I don’t think you start with Faction Credits, let me see here…
+
+
+SYLVIA: I don’t see anything about you starting with Faction Credits.
+
+
+AUSTIN: Yeah, so maybe you just get them at the first turn, like this?
+[Siri beeping]
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: That seems right. A thing I like about this spreadsheet that we’re using is, it just tells you how many faction credits you get at the beginning of each turn. I don’t have to do any math to figure that out. There are-
+
+
+SYLVIA: (overlapping)Yeah! They’re rounding up and down.
+
+
+AUSTIN: Exactly. There are a lot of things a faction can do. It can attack, it can buy a new asset, it can change its homeworld, it can expand its influence by gaining a base of influence on another planet where they already have an asset, -
+[beep] I’m recording all of this into Siri. Siri is still listening to me right now. I’m gonna hit this button so it stops happening. [laughter] Okay.
+-it can refit an asset, where it’s like, ‘I have these grav-tanks, I wanna turn those into space marines.’ And it can repair an asset or its own- it can recover hp, it can sell an asset to get some money back, it can seize a planet, or it can use an ability that one of its assets has. So, let’s look at Minerva Mining Corporation- what their goal is- their goal is commercial expansion, which means they need to destroy a number of wealth assets of a rival faction equal to their faction’s wealth rating. Difficulty is half the number of assets destroyed rounded up, which, difficulty is a thing you need to determine how much XP a faction gets. So they need to destroy, thr… what’s their…
+
+
+SYLVIA: Their wealth is six.
+
+
+AUSTIN: Right, so that means they need to destroy six wealth assets and they need to, when they do that, the difficulty will have been three, so that’s how many experience points they get basically. So we could have them just do something straight up with their wealth, or we could have them try to generate more money, what do you think that they should do?
+
+
+[pause]
+
+
+So again for me the picture of Minerva is just- the Tyrell Corporation, right, that opening shot of the Tyrell Corporation of just like, the fields are on fire, there is...there are, you know, really fancy meeting rooms. And there is just like a complete disconnect from the common people. That’s my image of them anyway. The assets they have are: a base of influence on Minerva-12; they have a base of influence on Counterweight; they have venture capitalists on Minerva; they have a commodities broker on Counterweight; they have a blockade fleet; and they have lobbyists. 
+
+
+Lobbyists I think prevent...this is like the best, I’m pretty sure this is, let me double check...I think lobbyists prevent , uhm pause] o-other factions from buying an asset or transporting an asset into the system. So if anybody wants to land something on Minerva-12, they have to deal with the lobbyists first.
+DRE: Gotcha
+
+
+SYLVIA: That’s pretty great.
+
+
+AUSTIN: It’s pretty good. [DRE laughs]. Uh, so, they need to destroy a wealth asset, and the way they do that is that certain factions, certain assets can do different types of damage basically, and I’m pretty sure that means they need to use an action that’s versus wealth-
+
+
+SYLVIA: Yeah
+
+
+AUSTIN: -I believe? Uhm
+
+
+SYLVIA: It looks like it.
+
+
+AUSTIN: I’m double checking [pause, indiscernible] that might not be true though. They might just be able to do it against whatever, like, like a space marine group could just, might be able to just kill some venture capitalists.
+
+
+DRE: Yeah or like, blow up a factory or something.
+
+AUSTIN:  Right, exactly, exactly, even though it’s a wealth thing, yeah. So that might, that might…
+
+
+DRE: I guess at that point it’s kind of like a flavor thing, like is this, is this company -
+
+
+AUSTIN: Right
+
+
+DRE: -more about blowing up rivals or are they more about like, like
+
+
+DRE AND AUSTIN: buying them out.
+
+
+AUSTIN: Yes, yeah, exactly.
+
+
+SYLVIA: I think they’d be more the latter.
+
+
+AUSTIN: This group would be the buying out stuff?
+
+
+SYLVIA [interrupting]: I think they’d...maybe.
+
+
+AUSTIN: Yeah, I think they, I feel like they probably do a little column A, a little column B. For Netrunner, Netrunner players, I’m also kind of seeing them as Weyland a little bit, which is the...I think that’s what I’m thinking of, is Weyland the one I’m?...Yeah, Weyland Consortium is like the, just like super industry group, where it’s just like they build stuff, they buy out companies, that like... a neat thing about, about Netrunner is that there’re a bunch of different factions or a bunch of different corporations. And for most of the corporations, they, they have kind of like main cards that you kind of play as like your home base, right? And each of the home bases in Netrunner is, is, uh, like, oh this is a subdivision of this cloning, like I’m a cloning company so like this is my genetics division, i’m playing as the genetic division today, or like oh well now I’m playing as the AI division. In Weyland, all of their, the subdivisions are just companies they bought the fuck out, which is the best. 
+
+
+But they’re also a group that will like blow you up if, if they need to. Like when push comes to shove, they’ll blow you up. And I feel like that’s how Minerva works, like, yeah, they want to keep their hands clean, but if you’re just like a little too dug in, like, they’ll pay the people. They’ll pay the people they need to ruin your life. [pause] Uhm -- sorry, I just want to make sure...
+
+
+Ok. To launch an attack, the attacker selects one or more of their own assets and targets a rival faction with assets on the same world. One at a time, each attacking asset is matched against a defending asset chosen by the defender. Each attacking asset can only attack once per turn, though a defending asset can defend as many times as the defender wishes, assuming it can survive multiple conflicts. So yeah, i think its just, the defender decides how they want to block-
+
+
+SYLVIA: Ok.
+
+
+AUSTIN: -actually, which is interesting. Uhm, so if Minerva wants to attack, they can only attack  people who are on Counterweight, right?
+
+
+SYLVIA: Yeah
+
+
+DRE: Yeah
+
+
+AUSTIN: Let’s see can I just do...
+
+
+SYLVIA: Looks like that’s the only thing, it could only use the commodities thing.
+
+
+AUSTIN: Right.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Boom, look at that. This is a neat thing, I just made it so we can see everybody who has stuff on Counterweight right now. Uhm, so the only people they can, who has wealth stuff on Counterweight?
+
+
+SYLVIA: Uhm, Oricon is basically...
+
+
+AUSTIN: Oricon. Minerva which we already knew, uh, Earth Home...So  I think those are the only two they can attack straight up.
+
+
+DRE: That’s, hmm…
+
+
+AUSTIN: Which is interesting, like they, again-
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: -like this is, this is part of the situation is, they can only, that, that Oricon Expeditionary Group is there as like the de facto leaders, uh, but they're not, they're not like- this isn’t like, they’re not the army and then, and then, uh, you know, Minerva is the, is, is actually 3M, you know? They’re not like the US army and Minerva is an American company. It’s like, what if the American government was just another American company?
+
+
+SYLVIA: Yeah
+
+
+AUSTIN: So they could-
+
+
+DRE [interrupting]: I’m seeing this all as like, like car companies, almost, like-
+
+
+AUSTIN: Yeah, totally
+
+
+DRE: -yeah like Oricon is like you know like Ford, and like GM, but like...so they’re kind of like, yeah we’re American cars, but they also want to, you know, beat each other out.
+
+
+[00:45:00]
+
+
+AUSTIN: Right. Right, totally, that’s exactly it. I know-- yeah, sort of like that, exactly. And like, the OriCon Expeditionary Group is like, the sort of group that is supposed to be there to manage everything, but I could totally see Minerva attacking them in a financial way. In an attempt to, uh… Like, this could be a simple thing of just like, listen, if we can throw our elbows around a little bit better, then we get to make regulations better for us. You know? So what do you think, do you think that they swing…. First of all, do you guys think that they attack here? Or do you think that they do something else? 
+
+
+SYLVIA: I’m trying to just look at the other actions that they can do. 
+
+AUSTIN: Okay. I’m gonna-- I’ll move it back to… I’ll reorganize this according to--
+
+
+SYLVIA: And just kinda see what they can do? 
+
+
+AUSTIN: Yeah totally. Um… So, a nice thing here is, if you go over to the “Asset” table, you can mouse over anything, and it’ll-- the name of a thing, where the little black icon, the little black corner mark is, and that will give you a mouse-over description of anything special about the unit. So, for instance, OriCon has… On Counterweight, what else do they have… They have… transit probably won’t come up… what’s one of the ones that they have that definitely has a special… Oh, I’m looking at the wrong thing. I’m looking at OriCon, I should be looking at Minerva. Right, right, right. Um…. tch-tch-tch… So they have a… they have venture capital. They could use the venture capital asset to… do something like… roll, “as an action, venture capital can be tapped. 1d8 is rolled. On a 1, the asset is destroyed. On a 2-4, one faction credit is gained. 5-7 yields two faction credits, and 8 grants three. So like, the could just, for that turn, use their venture capitalists to make more money. 
+
+
+DRE: Mm-hm.
+
+
+SYLVIA: That seems like a move they would do. 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Because they can’t really make a big move right now. 
+
+AUSTIN: Right. You think this is like, gaining that money, so that they can eventually buy something and make a bigger move.
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: Okay! I can totally agree with that. So uh, someone wanna roll… that 1d8?
+
+SYLVIA: I’ll do it. 
+
+
+AUSTIN: So in Roll20, you just-- yeah, you know. You know how Roll20 works? 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: I don’t know what your Roll20--
+
+
+SYLVIA: I rolled a 6.
+
+
+AUSTIN: Okay! So on a 6… what did I say, they gain two faction credits. 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: That’s what I think I said…
+
+SYLVIA: Yeah, I, it…
+
+
+AUSTIN: Yes.
+
+DRE: Yeah, 5-7 yields two faction credits. 
+
+
+Notes, find replace american AMERICAN
+[0:45:38]
+
+
+AUSTIN: Alright, so let’s… On the faction tracker, that means they go up to… to six faction credits. They’re saving up. Okay. Something special to note about Minerva is that they have the tag “plutocratic,” which means that whenever they make a “wealth” attack, once per turn, they can add an additional 1d10 on that attack, so…
+
+
+SYLVIA: Oh, that is really good. 
+
+AUSTIN: So, they’re gonna be really good at that.
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Alright, next up: Space Disney. Uh, just to be clear, no one wants to do a scene with Minerva for this, right? No one…
+
+
+SYLVIA: Minerva… I can’t really think of anything to do right now…
+
+
+AUSTIN: Okay.
+
+SYLVIA: Because in my head, I’m seeing them as kind of playing the slow game, a little bit?
+
+DRE: Mm-hm. 
+
+
+AUSTIN: Yes. Totally, totally.
+
+SYLVIA: Like, they’re very, they’re stuck on Minerva right now. So they need to amass supplies before they can expand more. 
+
+
+AUSTIN: Totally. 
+
+
+SYLVIA: So that’s why I suggested that they just roll to get one wealth.
+
+
+AUSTIN: Yeah. So, the next up is EarthHome, EarthHome entertainment, which again, is kind of our big media corporation here. Their tag is “fanatical,” which says, “this faction always rerolls any dice that come up as a 1. This zealousness leaves them open at times, however; they always lose ties during attacks.” For me, the reason for that is, like, I like this… I’ve had friends who have gone to work at Walt Disney World, and they make it sound like it’s just brutal. Like, it’s just like…
+
+
+SYLVIA: Oh, it is. 
+
+
+AUSTIN: You’re up at the crack of dawn, and you do whatever you’re told, and so they’re fanatical in the sense that like, “no, we will not take a 1 for an answer. No one’s allowed to roll a 1.” You know? But, the second that there’s a tie, and they can, like… “Ahh, just give it to them. Give it to our enemies. I don’t care… I don’t actually care about this place.” They let that slide. The other thing that’s interesting with them, or, the other thing that’s up with them is that they have the goal “wealth of worlds,” which is a goal that says that they need to “spend faction credits equal to four times their factions wealth rating on bribes and influence. This money is effectively lost, but the goal is then considered accomplished. The faction’s wealth rating must increase before this goal can be selected again.” 
+        So, they just want to make money to spend it, on bribes and influence. You know, so that way, they keep getting their… I don’t know, when they spend that bribe, we can zoom in and figure out what that bribe is for. 
+
+DRE: [laughs] That’s also a lot of money, ‘cause they would have to make 20 faction creds. 
+
+
+AUSTIN: Yep! So, they should maybe get working on that, huh? They ways that they can do that, they have… “monopoly,” which they can roll to make more money, I believe…
+
+SYLVIA: They have “marketers,” as well, they can get actually another faction to pay them.
+
+
+AUSTIN: Really. How’s that work? 
+
+
+[crosstalk, inaudible]
+
+
+SYLVIA: “Marketers can confuse enemy factions into untimely investments and paralyze them with incompatible hardware and software. As an action, the marketers may test cunning versus wealth, against a rival faction’s asset. If successful, the target faction must immediately pay half the asset’s purchase cost, rounded down, or have it become disabled and useless until they do pay.” I don’t know if its paying to them, but it…
+
+
+AUSTIN: I think it is. 
+
+SYLVIA: But it’s something to make people bankrupt.
+
+
+AUSTIN: Oh, I see what you’re saying.
+
+SYLVIA: Yeah.
+
+
+AUSTIN: I… I don’t know that it is… I don’t know that it is? I’m going to rule that it is. Because it’s neat. 
+
+
+SYLVIA: Yeah. Yeah. 
+
+
+AUSTIN: If you’re a big Stars Without Number fan, and this is wrong, I’m sorry, but it’s neat, so we’re gonna keep it. 
+
+
+SYLVIA: Yeah. I just really like the idea of them using, like, marketing as a weapon. 
+
+
+AUSTIN: So they can do that… Me t-- yeah, I love it so much. Where are those marketers? Those marketers are on Counterweight. So, again, they can do anything to any other faction on Counterweight, so, again, let me sort this real quick. By Counterweight… So they can use that, and they could also just use the other thing that they have, is just monopoly. Which is just another “roll X to”... “owners of a monopoly may”... oh, no! Monopoly is the same thing. “Owners of the monopoly may force one other faction with un-stealthed assets on that world to pay them one faction credit. If the target faction hasn’t got the money, they lose one asset of their choice on the world.” Wow. That’s really good, too. Jeez. Okay. 
+        I made, to be clear, I started putting together these factions weeks ago, and I’ve been slowly working on it, week by week. And so, I’ve definitely forgotten why I’ve given some of these assets to some of these factions. Um, but I really like this marketers idea. 
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Let’s…
+
+SYLVIA: I can… I have a suggestion. 
+
+
+AUSTIN: Sure!
+
+SYLVIA: I can kind of see them, like, leaning in on the technocracy, a little bit?
+
+AUSTIN: Okay. Yeah.
+
+SYLVIA: Trying to be, like, “hey, it’s better for you if you let us, like, do more… have more sway around here.” 
+
+
+AUSTIN: Right. What do you think they’re using the marketing… What do you think the target is, here? 
+
+
+SYLVIA: I think that EarthHome is a media company, right?
+
+AUSTIN: Yeah.
+
+SYLVIA: I think they wanna have more control over what’s broadcast on Counterweight. 
+
+AUSTIN: Okay. 
+
+DRE: Yeah.
+
+SYLVIA: So, I don’t know what they would specifically be targeting as a move? But I think that would just be their motivation for doing it, you know. 
+
+
+AUSTIN: Yeah, totally. I also think that this might be one that we can zoom in on a little bit. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Depending on what the roll is. So, we agree that that’s what they should do. They should go after Counterweight Consolidated with their marketers to make them pay. 
+
+
+SYLIVA: I’m… yeah!
+
+
+AUSTIN: Ah… Okay! Um… Let’s look at what their faction, what the assets are, that they can go after here. They could go after… They could go after the base of influence. Which would be a big bad one.
+
+
+SYLVIA: That would be really…
+
+
+DRE: Mm-hm.
+
+
+AUSTIN: That’d be brutal. Um… They could go after the party machine.
+
+
+SYLVIA: [simultaneously] Party machine. 
+
+
+AUSTIN: And they can go after the vanguard cadres.
+
+
+SYLVIA: [excitedly] What is the party machine? 
+
+
+AUSTIN: You know! Get a party machine! Party machine is… “Political blocs that control particular scenes or regions…”
+
+[Dre laughs quietly]
+
+
+SYLVIA: Okay, I misread it.
+
+
+AUSTIN: Uh-huh!
+
+SYLVIA: But I think that is a good fit. I was like, ooh, what are they doing! Who’s the party machine! [Austin laughs] Orth, you’re getting up to some funky business!
+
+[Austin and Dre laugh loudly]
+
+
+AUSTIN: Um, it’s the best. It’s so good. It’s so good. 
+
+
+SYLVIA: But I think party machine actually is the right fit, right? Like, they’re basically trying to go after the people… in the government, right?
+
+AUSTIN: Like, they’re… Yeah, totally. 
+
+
+SYLVIA: ...On the senate, or something. 
+
+
+AUSTIN: They’re kind of like… yeah, that’s exactly it. We’ll figure out what it is. Let’s make that roll. So it is a… 
+
+
+DRE: Are we just gonna make, like, EarthHome be like, leaning on them to re-up copyright law? Are we just gonna make them super-hardcore space Disney?
+
+SYLVIA: Basically, I think!
+
+AUSTIN: Aw, that’s pretty good. Yes! [Dre laughs] Or actually, you know, “Counterweight Consolidated Technocracy, CCT, that’s one of our registered trademarks. You don’t get to use the CCT.” So…
+
+
+DRE: Yeah. 
+
+
+AUSTIN: But let’s make the roll, and see if they succeed at it. So, to make an attack… “For a culture attack, the attacker selects one or more…” Actually, it’s special ability, right? So, marketers? Marketer is just…. You choose one? So it’s not actually an attack, you just straight up roll. 
+
+SYLVIA: [Mumbled, inaudible, brief pause] It’s cunning versus wealth. 
+
+
+AUSTIN: [Crosstalk, inaudible] …Yeah. “As an action, the marketers may test cunning versus wealth, against a rival faction asset.” So to make that test, what you’re doing is, both sides are rolling 1d10. 
+
+
+SYLVIA: Okay. 
+
+
+AUSTIN: So, how about… and then adding the relevant things. So that is, you’re adding the cunning of EarthHome, and the wealth of the Consolidated Technocracy. 
+
+
+SYLVIA: Yeah. So that’s 6 for EarthHome and then 3 for the Technocracy. 
+
+
+AUSTIN: Yep! I will roll…. EarthHome.
+
+
+SYLVIA: Okay.
+
+
+AUSTIN: So, 1d10 plus 6. 
+
+
+DRE: I’ll roll the Technocracy. 
+
+
+AUSTIN: Yep!
+
+DRE: Come on, little guy!
+
+AUSTIN: That was a bad roll! 
+
+DRE: Come on, Orth!
+
+
+AUSTIN: That was a--
+
+
+SYLVIA: Ooohh!
+
+DRE: Boom.
+
+
+AUSTIN: Hey! Orth makes the win!
+
+[Dre laughs]
+
+
+SYLVIA: Yeah!
+
+AUSTIN: That’s good!
+
+SYLVIA: Got a 10!
+
+
+AUSTIN: Because let me tell you, they did, they did not have the money to pay that! That would have been really bad!
+
+SYLVIA: Yeah.
+
+
+[Dre laughs]
+
+
+AUSTIN: Um… So, I do want to zoom in here…
+
+
+SYLVIA: Yeah, okay, I think that’s a good…
+
+
+AUSTIN: Where do we want to zoom in here? So I should actually, so here’s the… here’s the second half of all of this. When we zoom in, we can zoom in at a couple of different points. We can look at the results of an action, we can look at the causes of an action, we can zoom in before we roll, if there’s a disagreement about why something might happen. Or, not even a disagreement, just like, if we don’t know what a faction might do. We can say, “well, let’s answer the question, would the Consolidated Technocracy attack, you know, EarthHome.”
+
+
+SYLVIA: Mm-hm. 
+
+
+AUSTIN: And we can zoom in on that question, and answer it, and then decide what to roll. But for this case, we’ve decided what the action was, we rolled, and now, we’re going to follow the rules for Microscope a little bit. The first thing there is, we declare tone. Is this a light scene, or a dark scene? And that’s very subjective.
+
+
+SYLVIA: ...Yeah.
+
+
+AUSTIN: A lot of that will help us to decide what side of this conflict we’re going to be on, even. 
+
+
+SYLVIA: Mm-hm. 
+
+
+AUSTIN: The second thing is, we make history. We decide if we’re making an event, or a scene. If it’s an event, we just kind of like, narrate what happens, right? This could be one of you, or me, or all of us together, describing the events that happened. We could also zoom in even closer and make it a scene, with specific actors, like, specific characters, at work. We could zoom in at this point to that conversation between the senator and the representative from, from EarthHome. You know? That would be a scene. 
+
+
+SYLVIA: I feel like this is more of a scene? 
+
+AUSTIN: Okay. 
+
+SYLVIA: An event feels like it’s got more weight to it; this just feels kind of like… and insight into how these two factions do business. To me.
+
+
+AUSTIN: I like that a lot. Totally. The last thing that we can do, and you can think about this as we’re playing this little scene out, is, we’re gonna choose a legacy. In Microscope, that legacy is like, saying “ooh, this is an interesting character we want to come back to.” And we’re kind of doing the same thing here. I mean, in Microscope, you can pull that character out and be like, “ooh, I wanna zoom into this character when they were younger.” We’re not doing that. We’re not doing time travel here. We’re not gonna go like, back and look at what the youth of this senator looks like. But we can still say, “ooh, this senator’s interesting, I’m gonna write down that senator here, and that way I know that that’s a character we can come back to, down the road with this faction.” 
+And there’s a few other tips. These are the tips that, going forward, I will read at the top of every session with you, is: “Don’t contradict what’s already been said. Make sure what we add relates to the current focus,” so, the specific of, the kind of focus of this faction movement. “State the tone. We try to paint a clear picture. We declare and reflect the outcome.” So in this case, we know what the outcome is. We know that the outcome is that this attempt of the marketers fails. “We should build on each other. We should pose questions. And we should be willing to nuke Atlantis.” Which is Microscope’s version of saying, like, “nothing is sacred.” You know?
+
+SYLVIA: Fuck you, Apostolos! 
+
+
+DRE: Yeah, I was about to say, so that’s what happened to Apostolos!
+
+
+AUSTIN: Exactly. Yeah! They got nuked. That’s it. So, Sylvi, it feels like you kind of took the lead on this one, which means that, I’m gonna say that you get to determine what the scene is, and then Dre and I can pick characters for that scene. 
+
+
+SYLVIA: Okay. Well, the way I sort of…
+
+
+AUSTIN: And you also, you also get to pick a character, Sylvi. 
+
+
+SYLVIA: Of course. Um, the way I’m sort of seeing this, I don’t know, like… I’m trying to think of light or dark, the tone?
+
+AUSTIN: Mm, sure, sure. 
+
+
+SYLVIA: But maybe I’ll just describe the event first, and then we can kinda come up with that together?
+
+AUSTIN: Yeah, totally. Yeah.
+
+
+SYLVIA: Um, the way I see it is like, maybe… I don’t know how many… a representative from EarthHome is coming to see… I don’t know if it would be Orth, but see someone involved.
+
+AUSTIN: Sure. 
+
+SYLVIA: Maybe it’s someone lower on the rung, than him, I don’t know where his positioning is?
+
+
+AUSTIN: Eh… Orth is kind of… He’s like mid-low.
+
+
+SYLVIA: Yeah. Okay.
+
+
+AUSTIN: He’s like a go-between… If we…
+
+
+SYLVIA: Maybe someone that’s around the same ranking as him? 
+
+
+AUSTIN: Sure, sure. I could do Orth; that way we get a picture of Orth here, too, and that’s kind of neat.
+
+
+SYLVIA: Sure! If you’d like to, then that’d be a good character… that pretty much gives you a character to immediately play. 
+
+
+AUSTIN: Yes. Exactly, exactly. 
+
+
+SYLVIA: So… basically, I can see either one or two representatives, because there’s gonna be three characters in this, right? 
+
+AUSTIN: Right, right. Ah, the third player could always play something else, in Microscope, which is neat, too, which is like, a player could be “time.” Like, I could step back, let Dre play Orth or whoever else, and I could just, like, describe the sound of the city moving. Or, like, the clock ticking down as the deal needs to get done. 
+
+
+SYLVIA: Umm… But I know that, I’m seeing at least one representative coming, like, very… sorta slick, coming in, trying to be, like…
+
+
+AUSTIN: Okay!
+
+SYLVIA: Very confident. And… I’m thinking…
+
+
+AUSTIN: Is that who you wanna play as? 
+
+
+SYLVIA: I kinda wanna be this real, like, shitty… slicked-back hair, like, very typical, like he’s from, you’d see him in some… he’s part of some rich family that is originally from Calliope, but he got a job with EarthHome…
+
+AUSTIN: Mm-hm. 
+
+
+SYLVIA: And he’s like real full of himself, and he’s ready, he thinks that he’s got this no problem. 
+
+
+[Dre laughs quietly]
+
+
+AUSTIN: Awesome. 
+
+SYLVIA: And then, if it is Orth, that he’s talking to, just completely shuts him down. Like just…
+
+
+AUSTIN: Okay. I’ve decided-- yeah.
+
+
+SYLVIA: Like, he just… finds a way to completely shut him down.
+
+
+AUSTIN: Yeah. We’ll-- yeah. Awesome. Alright. So you want to be… slimeball. 
+
+
+SYLVIA: Yeah. I’m trying to think of a name for slimeball. 
+
+AUSTIN: I linked, I just linked a really good name generator. 
+
+
+SYLVIA: Oh, the first one. Leonard Bircham. Perfect. 
+
+
+AUSTIN: Perfect. 
+
+
+[Dre laughs]
+
+
+AUSTIN: Dre, do you have a character in mind for this scene? 
+
+
+DRE: Ahh… Um, I’m almost wondering, like, does the slimeball have, like, a personal attendant or someone with him? 
+
+AUSTIN: Haha! Yes, of course!
+
+DRE: Like, shuffling the papers, and like, what’d you say your character’s name was? 
+
+
+SYLVIA: Leonard Bircham. 
+
+
+DRE: As Leonard, like, makes points, the assistant shuffles through papers, and then like, puts the appropriate, overwhelmingly ridiculously large stack of paper, to like support their argument, like all the paper, just fwoof! Fluffs it down on the desk. 
+
+
+AUSTIN: Awesome. Yeah. Alright. Do you have a name for this assistant? 
+
+
+DRE: Umm, let’s see… Um, Darius Flannigan. 
+
+
+AUSTIN: Good name.
+
+SYLVIA: That’s very good. Uh, I’m not entirely sure, like, what do you think they’re trying, like… you kind of brought up like a copyright claim type thing that they’re doing, right?
+
+DRE: I have an idea that I wanna pitch. 
+
+
+SYLVIA: You have an idea? Okay, go for it. 
+
+
+DRE: So, I remember in one of the, uh, I forget what episode it is, but there’s that broadcast on the starport TV, the “Angels of Counterweight” thing, where they show like--
+
+
+AUSTIN: Yes.
+
+
+DRE: --clips of like, them fighting off the riggers? 
+
+
+AUSTIN: Mm! Yes. 
+
+
+DRE: And there’s a clip of Aria’s mech, and so, EarthHome is like…
+
+
+AUSTIN: Aah, I love it!
+
+DRE: “That’s a unauthorized reproductive broadcast of our property!”
+
+
+[Austin laughs loudly]
+
+
+SYLVIA: Perfect. 
+
+
+DRE: “And so, you need to let us have more control over your airwaves, because obviously you can’t protect our IP.” 
+
+
+AUSTIN: Okay! 
+
+SYLVIA: That’s really good. 
+
+
+AUSTIN: So, this also explains why you’re coming to Orth, right?
+
+SYLVIA: Yeah, and also…
+
+
+AUSTIN: Orth is the contact with that group, and probably has some spaceport contacts where that stuff aired there…
+
+
+SYLVIA: It also gives Orth, like, a really good way to just be like, this was clearly an interfered broadcast. Like, we have no control, like, this would have happened to any of your broadcasts as well. We’re looking into it. This has nothing to do with us, you have no… Like, you have nothing you can do to us about this. 
+
+
+AUSTIN: Yeah. I feel like, I actually feel like maybe we don’t need to go deeper on this scene. Like, we’ve kind of given, given what this is. Right?
+
+SYLVIA: Do you just wanna leave it at this? 
+
+
+AUSTIN: I think so, if only for time sake. Because we know what the outcome here is, right?
+
+SYLVIA: I’m gonna write down Leonard Bircham, though. 
+
+
+AUSTIN: Oh, yeah, Leonard Bircham is definitely a legacy character. Give me just a little bit about Leonard Bircham and how he carries himself. 
+
+
+SYLVIA: So, I see him as, like… God, there’s like a really specific idea in my head of like, okay, so he’s sort of a take on just the sort of like… this is a really weird description, but basically, think Gaston, from Beauty and the Beast…
+
+[Dre laughs]
+
+
+AUSTIN: Okay!
+
+SYLVIA: ...Meets Saul Goodman, from Breaking Bad.
+
+
+AUSTIN: Yep! Perfect.
+
+
+SYLVIA: Where he’s got, like, he’s really full of himself and his appearance, and he’s a really smooth talker, but he gets himself in trouble because of all that smooth talking. 
+
+
+AUSTIN: Okay.
+
+SYLVIA: And like, he’s very… Like, he’s always, like, grinning, like he’s always, he’s very excited to show off his winning smile, I think, because he’s from Calliope, he’s even got a…
+
+
+AUSTIN: Uh-huh. And Orth just does not give him, he doesn’t give him an inch. 
+
+
+SYLVIA: He doesn’t give him anything. But I was thinking--
+
+
+AUSTIN: Just like--
+
+
+SYLVIA: I was thinking, like, because he’s from Calliope, where they do all this body modification, when he smiles, an actual twinkle comes comes off his teeth?
+
+AUSTIN: Aw, I love it. So much.
+
+
+DRE: [laughing] Yes!
+
+SYLVIA: Like, he’s such a shitheel. 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: Like he is a total scumbag. 
+
+
+AUSTIN: And then he winks, and a “ding” happens?
+
+SYLVIA: Yeah. He is cartoonishly… cartoonishly like a corporate lawyer. Yeah.
+
+
+AUSTIN: Love it. And his, the case that we laid out there, as Dre laid it out earlier, is just like, “hey, that’s our property, you can’t show that,” and like you said, Sylvi, I think Orth just shuts it down by saying, like, “No, we didn’t broadcast that, here are the records, this is not an issue. We already... “ You know, “On top of that, they were contractors, and we went through all of the appropriate, you know, licensing fees, everything is in order here, have a good day. I have business to take care of.” And just like, hand motion away. 
+
+
+SYLVIA: Yeah. Just like calls a secretary to escort them out. 
+
+
+AUSTIN: Love it. 
+
+
+SYLVIA: Like, stuttering, trying to get another word in, and then he’s just ushered out and Darius just looks like, really embarrassed for him. 
+
+
+[Austin and Dre laugh]
+
+
+DRE: Just kind of maybe, like, looks at him, like, “sorry!” and and like shrugs as he walks away. 
+
+
+SYLVIA: Like, Darius just, I’m thinking, he’s just like, he gets so much shit from Leonard that he’s not super sympathetic for him, but he’s sorry for wasting Orth’s time, because Orth seems really busy.
+
+
+AUSTIN: Yes. Love it. 
+
+DRE: This is Darius’s shitty college internship.
+
+
+SYLVIA: Oh, perfect! 
+
+
+AUSTIN: Yeah. 
+
+
+SYLVIA: Oh, my god. 
+
+
+AUSTIN: Yes. Yes. Changes the word “intern”... I’m making notes of this. I’ll share this document with you in a second, here.
+
+SYLVIA: Oh, okay!
+
+AUSTIN: With both of you. That way we have, just like legacy…
+
+
+SYLVIA: The same notes?
+
+AUSTIN: Yeah, the same notes, exactly. 
+
+
+SYLVIA: Okay. I’m way into this guy already.
+
+
+[Dre laughs]
+
+
+AUSTIN: Me too. What a shitball. 
+
+
+DRE: A perfect shitball. 
+
+
+AUSTIN: Just a perfect shitball! 
+
+
+SYLVIA: Like, I’m just like, you know how there’s those people that their hair, their hair’s so greased back it almost looks like it’s plastic? 
+
+AUSTIN: Mm-hm. 
+
+
+SYLVIA: That type of thing. 
+
+
+AUSTIN: Yup! I love it. Okay, I’ve linked you. Alright, next on the list… Ch-ch-ch-ch-chu… Where are we at? EarthHome. Also, EarthHome made five bucks that turn. 
+
+SYLVIA: Okay. 
+
+
+AUSTIN: Rapid Evening… oh, I think, I’m gonna go through afterwards and make sure all the upkeep costs are paid, but for now…
+
+SYLVIA: Let’s just get through this… 
+
+AUSTIN: Let’s not worry too much about it, let’s just get through it. The Rapid Evening, again, is that group that’s like, monitoring other factions and making sure that they don’t spend their money. Or they don’t, sorry--
+
+
+SYLVIA: Use their technology. 
+
+
+AUSTIN: They don’t advance technology too far. In the Stars Without Number group, they’re what’s called a “perimeter agency.” Which, they can do extra, they like, have a way higher chance of hitting assets that require a high level of technology to purchase. And they can detect stealthed assets really good. They want an intelligence coup, which says they want to destroy cunning assets of rival factions, equal to their cunning rating. The thing is, I don’t think that they have anything on a planet where there is, there are cunning assets. All their stuff is like, deep in their own territory, basically.
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: So they could start to move towards another faction’s area, or they could just, like, make money. 
+
+SYLVIA: Yeah, um… I’m looking for like, an expansion related move, so they could do…
+
+
+DRE: Yeah. 
+
+SYLVIA: Because I feel like… with so much happening, they kinda wanna get eyes on other stuff. 
+
+
+AUSTIN: Totally. Totally. So they have a base of influence on Kesh, on Zalhaut, on Ziishe, and on Torru. To go over those really quick, Torru is the place where there’s a bunch of zebras? 
+
+
+SYLVIA: Oh, yeah!
+
+
+AUSTIN: “Xebras” with an “x?” I don’t… there’s no technology there, and there had been a civil war. And we don’t really know too much about why, what that civil war was, or what happened. Again, Ziishe is their home planet, where they have super-technology and they are, I have ‘millions of’,” quote-unquote, ‘“primitive aliens,”’ because I think they’re actually not primitive, I think that these are like, so awakened or enlightened that they’re living their lives in a way that seems primitive to outsiders, but is like, completely a choice, and also, underground, there is just this super-technology, where the Rapid Evening functions. Like, maybe in fact, the Rapid Evening protects those quote-unquote “primitive aliens,” specifically so that they can continue living their life in this, like, utopic peace.
+        The other places that they have people are Zal-- Zalhaut, which is their tens of thousands of people, who are radioactive, and they’re xenophiles. They love aliens! And I think the aliens that they love are the Rapid Evening. They like that they, are rad, they’re into, maybe they’re courting the Rapid Evening so that they, too, can become like Ziishe. They’re like, such not an issue that they don’t even have a faction separately. So, yeah, the things that I think needs to, would need to happen here is, Rapid Evening would need to get some way of getting towards another planet, so they can do this intelligence coup. Which would mean buying some sort of transport. So maybe they should just make money this turn? 
+
+SYLVIA: I think so, I’m trying to, like.. Yeah.
+
+
+AUSTIN: That’s what I think they kind of have to do. 
+
+
+SYLVIA: Okay… well it’s probably gonna be a little calmer on this first turn… 
+
+
+AUSTIN: Oh, yeah, definitely. Which is fine by me! Okay, so let’s use… I think, just, they might have to just pass this turn…? Yeah… ‘Cause they’re not on any other planet. And they don’t have any other ability that I think works here. Or, I guess they could buy an asset that would help them do this. Let’s see what assets would help them continue…
+
+
+SYLVIA: I think it’d probably be something under the cunning branch, is what they’d go for, for sure. 
+
+AUSTIN: Probably, yeah. Yeah. They have 8 in cunning-- I should have gone over the stats-- they have 8 in cunning, 7 in force, and 4 in wealth. EarthHome had 6 in cunning, 2 in force, and 5 in wealth. So the thing in cunning that would let them move… is… I think, I don’t know if there is something that would let them move things in cunning. Cunning might just not have that. 
+
+
+DRE: They have, uh, covert shipping. I think that could let them do it are too expensive. 
+
+
+AUSTIN: Ah, okay. Okay. 
+
+
+DRE: So covert shipping… But the problem is, they can only move three hexes. So they’d have to do that multiple times. 
+
+AUSTIN: Yeah, hey, but that’s a step. That’s a step forward.
+
+
+DRE: Uh-huh. 
+
+
+AUSTIN: How much is covert shipping? Let’s see. 
+
+DRE: I think it’s eight? 
+
+AUSTIN: It’s eight. So they don’t have it yet, so next turn, they will be buying covert shipping. In fact, I’m gonna make a note of that. 
+
+DRE: Uh… How high is their cunning? 
+
+AUSTIN: 8. 
+
+
+DRE: The other thing they could do, is treachery. Which attacks an enemy asset, and on a successful attack, the treachery asset is lost, but they gain five faction credits, and the targeted asset switches sides to join their faction. 
+
+AUSTIN: That’s really good, but they don’t have… I think you need to have a base of influence, or an asset. You have to have an asset wherever… 
+
+
+SYLVIA: To act somewhere. 
+
+
+AUSTIN: You’re doing an attack. Yeah.
+
+
+DRE: Oh, so they have to do covert shipping to like, move something to a planet…
+
+
+AUSTIN: Yes. 
+
+
+DRE: And then do the treachery action…
+
+
+AUSTIN: Exactly. Exactly.
+
+
+DRE: Okay. I gotcha. 
+
+
+AUSTIN: Yeah. So, yeah, I think this turn they’re just gonna pass and collect their money, and next turn they’ll do something else. Um, Snowtrak…
+
+DRE: Hey! 
+
+
+AUSTIN: That’s you.
+
+
+DRE: That’s me! 
+
+
+AUSTIN: So, Snowtrak is a minor power. 4 force, 3 cunning, 1 wealth. Um, a little bit strong, a little bit tougher than rich, right now. You can see that because your income is [laughs] pretty low. 
+
+
+DRE: Well… we’re gonna get there!
+
+AUSTIN: Yeah! Bad news, the goal that you have is “wealth of worlds.” [Dre laughs] Which is, uh, you need to spend faction credits equal to four times your wealth rating on bribes and influences. I guess that’s not bad! How close-- what’s your wealth rating? 1? Is that what I said? 
+
+DRE: Yeah, so I only have to spend four credits!
+
+AUSTIN: So you just need-- you only need four credits. Exactly. 
+
+DRE: Hey! We’re on easy street right now!
+
+AUSTIN: You’re on easy street, this is easy! So let me tell you a little about Snowtrak, Dre, and then you can tell me what type of scene you want to do here. 
+
+DRE: Sure. 
+
+
+AUSTIN: Um, okay. So. In the main Mech Noir game, Snowtrak had hired a group of former… OriCon merc--, or, former OriCon soldiers…
+
+DRE: Mm-hm.
+
+
+AUSTIN: Rigger pilots. Called “the Weightless.” To Cene-- to kidnap Cene Sixheart, the AI scientist. Snowtrak was doing that because they had, on Ionias, located something that was talking to them. And they couldn’t quite figure out what was happening there. They were digging to free it, they were digging deeper and deeper to try and get this thing out, and the people who were digging were losing sleep and acting erratically. 
+
+
+DRE: That’s not good. 
+
+
+AUSTIN: And they were hoping that Cene Sixheart could break the code that the, of the strange like, it was like a river of language. It was just like, words, words, words, words, coming up from the ice. And they needed a codebreaker to see if there was a pattern, or something, in there. And there’s kind of a strange thing, which is that the people who were working for Snowtrak, when they began acting erratically, that didn’t mean that they were like, they weren’t skipping meals or hurting anybody. They were just working more. And, like, that was hurting them, because there’s a point at which you need to sleep. But these people were just working more. Digging deeper. And just like, devoting their entire being, to the point where people were passing out inside of their riggers, built to dig. And you couldn’t get them out. They would fight you if you tried to get them out. 
+
+DRE: Yeah. 
+
+AUSTIN: So Cene was kidnapped because they needed to stop that from happening, and they couldn’t afford, because you’re broke, they couldn’t afford an AI expert! It’s way cheaper to pay a mercenary unit to steal you an AI expert, than to pay an AI expert’s, like, retainer fee. So, they didn’t, the heroes stopped Cene from doing that. 
+
+DRE: Mm-hm. 
+
+
+AUSTIN: So now, uh… there’s something that you’re digging up. 
+
+
+DRE: Yeah.
+
+AUSTIN: And the goal is, at this point, to keep digging it up. And I think that’s the goal, specifically because that thing’s control did not break. So I kind of imagine this place a little bit as Zhu’s Landing, from Mass Effect 1. Do you remember… did you play Mass Effect 1? 
+
+
+DRE: I did! And that like, is like… ugh, I can’t remember what it is. But…
+
+
+AUSTIN: That’s the place where it’s like, there’s an ancient alien that is controlling people’s minds. 
+
+
+SYLVIA: [excitedly] Oh yeah!
+
+DRE: Yeah! Like the plant creature, right? Like, using spores or whatever? 
+
+AUSTIN: Yes, yes. This is not using spores. This is using something else. 
+
+
+DRE: Like something psionic, it sounds like. 
+
+
+AUSTIN: Yes. Yes. Or a thing like psionic. 
+
+DRE: Mm-hm. 
+
+
+AUSTIN: I… So, once you get, once you pay wealth of the worlds, you can know what that is, and you’ll be upgraded from a minor power to a major power. 
+
+
+DRE: Yeah. 
+
+AUSTIN: But, you’ll also get a new character to play as, which will be interesting. 
+
+DRE: Oh, man. 
+
+
+AUSTIN: You’ll see that you also have the… the tag “eugenics cult.”
+
+SYLVIA: Oh…
+
+DRE: Yay! Good times! 
+
+SYLVIA: Dre, you picked the good guys. 
+
+
+DRE: Yeah! Absolutely!
+
+AUSTIN: Which, it says, “eugenics cultists can buy the ‘gen-gineered slaves’ asset.” 
+
+DRE: Oh, no!
+
+
+AUSTIN: It’s an asset requiring “force 1, with the statistics of 6 HP, 2 faction credit cost, tech level 4 required, with an attack force vs. force of 1d6 damage, and a counterattack of 1d4 damage. Once per turn, eugenics cult can roll an extra d10 on an attack or defense by a gen-gineered slave asset.” They’re not, they’re not slaves. They’re not. They’re not gene-engineered slaves, in your case. That’s just like, the name of the unit. 
+
+
+DRE: Yeah. 
+
+AUSTIN: What they are is these workers who have been kind of brain-controlled by whatever’s in the ice. So you can buy those for two faction credits. They’re pretty good. Or, you could do something else. What do you wanna do? 
+
+DRE: Well, here’s… I’m trying to, like, figure out, like, how far up this kind of… I don’t wanna call it “corruption,” per se, but maybe that’s the right word for it.
+
+AUSTIN: Yes. Yeah. 
+
+
+DRE: In my head, I don’t think that, like, the people who run Snowtrak have like, fallen prey to this thing, because they’re far enough removed from like, where the actual work happens. 
+
+
+AUSTIN: Mm, mm-hm. 
+
+
+DRE: But, on the flip side, they don’t care that it’s happening. In fact, they probably think that it’s awesome, because, in their mind, it’s like, “oh, I don’t have to pay these people anymore! They work just ‘cause they wanna work!” 
+
+AUSTIN: Okay. 
+
+
+DRE: Their problem, though, is that they have to keep bringing people in. So, I--
+
+AUSTIN: To do that work. Right. 
+
+DRE: To do that work. ‘Cause they’re, now they’re losing people, because they’re working themselves to death. 
+
+
+AUSTIN: ‘Cause they’re dying. 
+
+DRE: Yeah. Right. So I’m almost wondering, and I’m looking at, like what planets are kinda close to me, and I’m not sure, again, if there’s any moves I can make per se, this might be more just thinking long term?
+
+AUSTIN: Yeah, I don’t think so. Yes, yeah.
+
+DRE: But man, what better place to recruit people than if you can get like an ad set up on Joypark. 
+
+
+SYLVIA: Oh, man. 
+
+
+AUSTIN: Yeah. That’d be pretty good! That’d be pretty good.
+
+
+DRE: So, I wanna figure out a way that we can build, like, either like buy some advertising, or build a recruiting, like, booth. At the Joypark. 
+
+
+AUSTIN: Mm-hm. 
+
+
+DRE: Like I’m imagining they have a couple Snowtrak riggers painted in really bright colors…
+
+
+AUSTIN: Let’s, okay, let’s stop here, and zoom in, I kind of want you to play the executive who’s pitching this idea… to someone above him, or her, or them, and below them.
+
+
+DRE: Okay. 
+
+AUSTIN: Sylvi, do you wanna be this executive’s boss, or this executive’s underling? Or, you know, someone else in the… a peer, or something? Dre, I just rolled the name “Diego Rose,” by the way.
+
+
+SYLVIA: Fuck. That’s a good name.
+
+
+DRE: Okay, yeah. Yep. We’re doing that. [laughs]
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: Um… I think I’ll go, like, a peer.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: Like someone who’s a little… I think I’m gonna play a character who’s a little more worried about what’s going on, I think.
+
+
+AUSTIN: Okay. That’s good. That’s a good idea. 
+
+
+DRE: I almost feel like “Diego Rose” sounds more like somebody who’d be concerned about people’s welfare. 
+
+
+AUSTIN: Okay, yeah. Then you don’t have to-- I just loved that name. Someone needs to be Diego Rose. 
+
+
+SYLVIA: I could play Diego Rose. 
+
+
+DRE: Yeah.
+
+
+AUSTIN: Okay. 
+
+DRE: That sounds like a protagonist name.
+
+
+SYLVIA: I was actually gonna roll a lady character. 
+
+AUSTIN: Okay! Uh…
+
+
+DRE: I was actually thinking that, too, and I was looking at female Russian names.
+
+
+SYLVIA: Okay, then, you go ahead. I’ll be Diego Rose.
+
+
+AUSTIN: No no no no! I’m, let’s just save Diego Rose for a different character, plenty of--
+
+
+SYLVIA: Sure. Diego Rose is a good name. I wanna hold onto that. 
+
+
+AUSTIN: We have a million factions. We’re not getting rid of Diego Rose. 
+
+DRE: Mm-hm. 
+
+
+AUSTIN: How about, how do you feel about “Natalya Greaves,” Sylvi? 
+
+SYLVIA: That’s pretty good. 
+
+
+DRE: That’s a good name. 
+
+
+SYLVIA: That’s a pretty dope name. 
+
+
+DRE: I also have “Lena Shashkova.” 
+
+
+AUSTIN: Ooh. I like-- okay, how about, I like Shashkova as the… as whatever character you’re playing’s boss, Dre. 
+
+
+DRE: Okay. 
+
+
+AUSTIN: So I’ll be Lena, Lena Shashkova… What’s your character’s name, Dre? Have you… did she get one, yet?
+
+DRE: I need to pick one. Let’s see, let’s see, let’s see. I like the first name “Oren,” now I’m trying to find…
+
+
+AUSTIN: Ooh, Oren’s a good name. 
+
+
+DRE: Let’s call him… Oren Maroba. 
+
+
+AUSTIN: Okay. Alright! So, Oren is an executive at… Snowtrak. Proposing… Joypark stuff. Lena is a higher executive… 
+
+
+SYLVIA: I feel like Natalya is more probably involved in like the R&D, and like…
+
+AUSTIN: Sure.
+
+SYLVIA: Person, side of it? Like, she’s more involved in what’s actually going on there. 
+
+
+DRE: Yeah.
+
+
+AUSTIN: Yeah, do you think, like, do you think R&D and H&R? 
+
+SYLVIA: Yeah, they’re kind of going hand in hand with this whole thing on…
+
+
+AUSTIN: Yeah, yeah, totally. 
+
+
+SYLVIA: Is it Ionias? Is the one?
+
+AUSTIN: Yeah, Ionias is the name of the planet. 
+
+
+SYLVIA: I think, like, she’s originally was joined because she was really good with, like, the technical side of things? 
+
+AUSTIN: Sure.
+
+SYLVIA: And then, as she was brought up, and then also as this stuff started happening, she had to be involved with more HR type stuff. 
+
+
+AUSTIN: Okay. Cool. And the tone of this scene, Dre? 
+
+DRE: [laughing slightly] Oh, it’s dark. 
+
+
+AUSTIN: Okay! I had a feeling! 
+
+DRE: Yeah, it’s not good!
+
+AUSTIN: Alright, what’s the office look like? What’s the office where this is happening look like? 
+
+DRE: Um… So this planet is like, super cold, and it’s just… It’s “Lost Planet” type of ice planet. 
+
+
+AUSTIN: Mm-hm. Mm-hm. 
+
+
+DRE: So this office totally has fake screens that have, like, fake beaches on them. 
+
+
+AUSTIN: Mmm. Okay. 
+
+DRE: And like, there’s probably some super-tech that like, radiates the kind of warmth that you would get at the beach. So it’s like you’re stepping into like a giant tanning room, almost. 
+
+AUSTIN: I love it. I love it. 
+
+SYLVIA: Yeah, I’m way into that. 
+
+
+AUSTIN: Are we in, like, are we in business clothes? Or are we in, like, shorts? Or like, skirts, like, how beach-ready are we? Are we like… are we like business people who would be on the beach, for like a beach meeting? 
+
+
+DRE: So, Shashkova is totally in beach clothes. 
+
+
+SYLVIA: That’s really great. 
+
+
+AUSTIN: I love it. 
+
+
+DRE: I don’t know if Sylvia’s character is. 
+
+
+SYLVIA: No, she wouldn’t be. She’d be in like… a lab, almost like a labcoat type thing? 
+
+AUSTIN: Mm-hm.
+
+
+DRE: Yeah. Lena probably…
+
+
+SYLVIA: Like, she’s a scientist, first. And is like, always working in the lab. And then, when this stuff comes up, she is like, oh, okay, I’ll be… I’ll be at Lena Buffet’s office in a little bit. 
+
+
+AUSTIN: Mm-hm. [laughs]
+
+
+DRE: Like, she probably has like a labcoat that she has like tied around her waist when she came in, and she’s like, “it’s fuckin’ hot in here!”
+
+SYLVIA: It’s like, aw, yeah. 
+
+
+AUSTIN: Love it. 
+
+
+DRE: Uhh… I think Lena probably wears, like, something close to Oren, but then also has like a huge parka that she takes off when she comes in. 
+
+AUSTIN: Ah… Okay.
+
+
+DRE: Because she like, she goes around other places. 
+
+
+AUSTIN: Oh, you mean, like, right right right. Right.
+
+
+SYLVIA: And she’s got a Hawaiian shirt underneath. 
+
+
+DRE: Or, he, I should say. He. 
+
+AUSTIN: Oren, Oren is the… you’re Oren, right? Dre? 
+
+DRE: Yeah, yeah yeah. 
+
+
+AUSTIN: Yeah. Dre, or, Lena is definitely in like, beach casual. 
+
+
+DRE: Mm-hm! 
+
+SYLVIA: She’s at a Margaritaville. 
+
+
+[Dre laughs]
+
+
+AUSTIN: Yes! Absolutely. 
+
+DRE: Absolutely. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Just like, like a real nice sundress, and just like…
+
+
+SYLVIA: Panama hat. 
+
+
+AUSTIN: Just… yep! Yeah! She has all of it. 
+
+DRE: We’ve just made the shittiest people in this episode. [laughs]
+
+
+[Sylvia laughs]
+
+
+AUSTIN: [laughing] Yep! We’re the best! Okay. 
+
+
+SYLVIA: She’s real good friends with the Bircham family. 
+
+
+DRE: Oh, yeah. Absolutely. 
+
+
+AUSTIN: Alright…
+
+
+SYLVIA: Actually, I totally see him being the contact they have with EarthHome, like that’s the guy they’re going through.
+
+AUSTIN: With- with EarthHome. Oh, yes...
+
+
+SYLVIA: Like, if they were gonna do this. 
+
+
+AUSTIN: Totally! Okay, okay. 
+
+
+DRE: Oren played space polo with Bircham at some point. 
+
+
+AUSTIN: Uh-huh. 
+
+SYLVIA: Ugh. 
+
+
+AUSTIN: I think there’s like, the… Lena is sitting on, like, a tall stool, at like… it’s like a long executive desk, right? But it’s tall, like a bar, like barstool sized? 
+
+
+SYLVIA: God!
+
+AUSTIN: And it’s all, it’s all like, tiki, like bamboo…
+
+
+[Sylvia and Dre laugh and groan]
+
+
+AUSTIN: And she’s absolutely drinking some sort of amazing drink. 
+
+
+SYLVIA: She’s the worst, like, Silicon Valley, like, tech CEO…
+
+AUSTIN: Yes. 
+
+
+        AUSTIN (as Lena): Oren! Natalya. So good to see you today. What can I do for you? 
+
+
+AUSTIN: Sip, sip, sip. 
+
+
+SYLVIA: I feel like Natalya is standing like a few feet behind where Oren is, because she just does not want to, she hates dealing with Lena. 
+
+
+DRE (as Oren): Well, ma’am, I’ve got a… I’ve got some excellent news, but I think we might have a little bit of a problem that we need to address, as far as some workforce numbers. 
+
+
+        AUSTIN (as Lena): I don’t like to hear about problems! I like to hear about solutions. 
+
+
+SYLVIA: [laughs, startled] Dammit, Austin! 
+
+AUSTIN: [casually] What? I don’t, what’s wrong? 
+
+
+DRE: [laughing] You’re too good at this… That’s what’s wrong. 
+
+SYLVIA: Nothing, nothing, nothing. 
+
+
+AUSTIN: It would be so easy to be a bad person! It would be so easy. 
+
+
+DRE: So easy. 
+
+
+        DRE (as Oren): Well, ma’am, you’re lucky, because I have a solution.
+
+
+        AUSTIN (as Lena): Hmm!
+
+
+DRE (as Oren): We need more people, and where do people go more than any other place, than the JoyPark! 
+
+
+AUSTIN (as Lena): I don’t understand.
+
+
+DRE (as Oren): I think that if we could partner with a friend of mine at the JoyPark, to maybe open a, start an ad campaign, or maybe even a recruiting booth, we could get more people to come here to work for us, and then we wouldn’t have these, these problems that we have with our, let’s say our… diminishing workforce. 
+
+
+SYLVIA (as Natalya): That’s putting it lightly. 
+
+
+AUSTIN (as Lena): I’m not sure I understand. Are people… quitting on the job? Are they… there’s no strike, is there? 
+
+
+DRE (as Oren): Oh, absolutely not! People love to work here! The problem is they might like it a little too much? 
+
+
+AUSTIN: I think Lena looks at Natalya with a raised eyebrow. 
+
+
+SYLVIA: Natalya’s, I feel like Natalya’s like, one hand is like rubbing her temple, and the other she’s got, like, one of those hand-held fans. 
+
+AUSTIN: Oh, boy. 
+
+
+SYLVIA: Like the little spinning fans, ‘cause she, like, she’s used to coming in here now that she bought one of those to bring in. And she’s just like got it like trained on herself. I feel like the ridiculousness of Lena might have made this shift in to light. [laughs] Anyway.
+
+
+AUSTIN: Well, we’re gonna-- yeah. We’ll, it might--
+
+
+SYLVIA: We’ll get it dark. 
+
+
+AUSTIN: Don’t worry! 
+
+SYLVIA: Natalya’s just, just gonna sigh a little, and be like:
+
+
+SYLVIA (as Natalya): There’s been a problem with the behavior of the workers suddenly changing. And I feel like Oren may be trying to spin it in a more positive light than it is… We’re still trying to discover what even the cause of this is.
+
+
+DRE (as Oren): Oh, oh there’s no spin! Productivity is up by like 15%! These numbers, the rate at which we’re digging, are unprecedented! 
+
+AUSTIN (as Lena): This sounds great! I don’t-- why change anything? 
+
+SYLVIA (as Natalya): Because--
+
+
+DRE (as Oren): Well--
+
+
+SYLVIA (as Natalya): The last time I tried to talk to the project head, he didn’t respond to me the entire time, and just kept working. We need… There’s something wrong with these people. There’s something going on here that just doesn’t make sense. 
+
+
+AUSTIN (as Lena): Communication is important. So, yeah, maybe we should get more people. Uh… who’s your friend, Oren? Tell me about your friend. 
+
+
+DRE (as Oren): Well, we, we went to college together. His name’s Leonard. Ah, comes from--
+
+
+AUSTIN (as Lena): Ah. Good name. [talking over Oren] Leonard. Le-onard. 
+
+
+DRE (as Oren): --great stock, real go-getter. Works in their legal department, and I think that I could maybe work that connection and get us an in. 
+
+
+AUSTIN (as Lena): Okay. What sorta numbers are we talkin’ about, here? 
+
+DRE (as Oren): Um…
+
+
+AUSTIN (as Lena): Ah-- you know what? Don’t tell me in numbers. You know, my guru has told me no more numbers. Tell me in, um, tell me in plants. How, what sort of plant are we talking about in terms of numbers? If you follow me? 
+
+
+        DRE (as Oren): Yeah!
+
+SYLVIA: Natalya’s face is in her hands. 
+
+
+DRE (as Oren): No, I love, I love… this metaphor is so good. It’s… I’m imagining, realistically, this is a small seed, maybe borne by the winds. 
+
+
+AUSTIN (as Lena): Mmm.
+
+
+DRE (as Oren): But it’s one that gets planted firmly in the ground…
+
+
+AUSTIN (as Lena): Mm-hm!
+
+
+DRE (as Oren): And slowly, slowly but surely…
+
+
+AUSTIN: Sip sip sip.
+
+
+DRE (as Oren): Grows into a strong, mighty tree, which then blossoms and continues to         spread its seeds even farther. 
+
+
+AUSTIN (as Lena): [struggling for words] This… I-- It sounds good! Sign off on it, Oren. Get to work. Contact your friend Mr. Leonard… he sounds like a great fella. Get all this working… hopefully by, um, this time next week, I would love to have a whole new ship of seeds. Like you said, a ship of seeds! I like that. I like that. 
+
+
+DRE (as Oren): Perfect.
+
+AUSTIN (as Lena): I’ll get-- ah, uh, Natalya, could you get marketing on the phone, and see if they could do something with this “ship of seeds?”
+
+
+SYLVIA (as Natalya): [sighs deeply]
+
+
+AUSTIN (as Lena): Just say it with-- Natalya. Say it with me. Ship of seeds! 
+
+SYLVIA (as Natalya): The… ship of seeds. 
+
+
+AUSTIN (as Lena): The ship of seeds…
+
+
+DRE (as Oren): [in unison with Lena] The ship of seeds…
+
+
+AUSTIN: And then I think the scene ends there, and it pulls back, of just like, or it like, it goes through the screen behind them, and it’s just like, terrible winter blizzard. 
+
+
+SYLVIA: Yeah. Mm-hm. 
+
+
+AUSTIN: Like, ahhh. And it’s like, the riggers are just like, digging and digging and digging and digging. 
+
+
+SYLVIA: Like there’s just like a loud, like, drilling noise. Yeah. 
+
+
+AUSTIN: Yeah. Yeah. Exactly. In fact, it’s like, you know what? It’s… she says that and then it goes towards the wall, and there’s like an air-conditioning like, noise, there’s like an air-conditioning white noise behind them. And then like, that is transposed by the sound of the digging. 
+
+
+[Faint white noise begins playing in the background] 
+
+
+SYLVIA: Yeah. Yeah.
+
+
+AUSTIN: Love it. Love it!
+
+
+SYLVIA: I feel like Natalya’s getting her resume ready. 
+
+
+[Dre laughs]
+
+
+AUSTIN: Yup! Good. Good. Um…
+
+
+SYLVIA: I really love how much of a yes-man Oren is. That was really good.
+
+
+[White noise fades away]
+
+
+AUSTIN: Me too. I love it so much. So I think that maybe just on this turn, it sounds like you maybe want to roll the industry thing? Or do you want to… are we like trying to buy something to get to the JoyPark, or are we… 
+
+
+DRE: Um…
+
+
+AUSTIN: Because, again, the other thing is that we can just say there’s a, there’s a relationship between the two now, do you know what I mean? 
+
+SYLVIA: Yeah.
+
+
+DRE: Mm-hm. 
+
+AUSTIN: The next time we come around on this, that could have blossomed into a new… heh, blossomed-- 
+
+
+SYLVIA: [muttered] God dammit. 
+
+
+AUSTIN: Into a new relationship. 
+
+
+[Dre and Austin laugh]
+
+
+AUSTIN: Um, or, that could be a way of getting a base of influence on the Joy Park. 
+
+
+DRE: Yeah, how-- I’m trying to find the way that you, that you acquire a base of influence. 
+
+
+AUSTIN: You can, uh, the way you get a base of influence is that you, there’s a thing called “expand influence.” “The faction buys a base of influence asset on a planet on which they have at least one other asset.”
+
+DRE: Okay.
+
+AUSTIN: “The faction then rolls 1d10 plus cunning rating,” blah blah blah. Um, so… And the cost of that is… do-do-do… um… Yeah, I think what we can do is just say, I like that scene a lot, um… there’s two ways to do this. Do you think JoyPark would go for this? Both of you.
+
+
+SYLVIA: I think they would if it was mutually beneficial. 
+
+DRE: Yeah. 
+
+AUSTIN: So you think they could, do you think this is a situation where you could like use credits to buy this… this…
+
+
+SYLVIA: I think so. I mean, you’re paying for advertising, right? 
+
+
+DRE: Yeah.
+
+
+AUSTIN: Right. Right. Basically.
+
+
+DRE: When it really comes down to it. 
+
+
+AUSTIN: Yeah.
+
+SYLVIA: Oh, wait, how much does, um… I dunno, I don’t think buying marketers would be the right way to… No, there’s a different type of thing?
+
+AUSTIN: Yeah, it’s like a big, expensive, yeah, yeah.
+
+
+SYLVIA: I can try to think of like, a way to mark that they have this thing there? Or we could just a note of it being just a…
+
+
+AUSTIN: I mean we can just add a base of influence. Like, that’s one hundred percent a thing we can just do. 
+
+
+SYLVIA: Totally.
+
+DRE: Mm-hm.
+
+
+AUSTIN: Because I don’t think, so, the way influence works is--
+
+
+SYLVIA: Franchise would work for it.
+
+
+AUSTIN: That, that could work.
+
+DRE: Maybe…
+
+
+AUSTIN: What’s the cost of a franchise?
+
+SYLVIA: Franchise is like the cheapest one of, or, almost cheapest. Two. 
+
+AUSTIN: Oh, okay. Yeah. It costs two…
+
+DRE: Is that under “wealth?”
+
+SYLVIA: It is under wealth.
+
+AUSTIN: Yeah. 
+
+
+SYLVIA: It’s like the very first thing under wealth. 
+
+
+DRE: Okay. 
+
+
+SYLVIA: Hmm.
+
+
+AUSTIN: “Franchise assets reflect a deniable connection with a local license for the faction’s goods and services. When the franchise successfully attacks an enemy asset, the enemy faction loses one faction of cred, which is gained by the franchise’s owner.” That’s pretty good. Yeah, I think that might make sense. You would, yeah. So let’s put a franchise… if you buy a franchise, you can put it on… I’m gonna say you can put it on JoyPark. 
+
+DRE: Yeah. 
+
+
+AUSTIN: So let’s do that. I like it a lot.
+
+DRE: And that would spend the two fac creds I have but also get me half way to…
+
+AUSTIN: Oh, no, so that’s the thing, is…
+
+
+DRE: Oh.
+
+AUSTIN: The way that works is, you need to get four faction credits, and then, like, toss them into the wind. 
+
+
+DRE: Ohhh! Okay.
+
+AUSTIN: Basically. You see what I mean? 
+
+DRE: So you don’t spend them, you just…
+
+
+AUSTIN: Which is a weird way to-- yes. 
+
+
+SYLVIA: I mean, you spend them, just, you spend them on getting your thing done. Yeah.
+
+AUSTIN: On getting the thing. Exactly. 
+
+DRE: Okay, I see what you’re saying. 
+
+
+AUSTIN: So… I should have been more clear about that to begin with.
+
+DRE: No, it’s fine. 
+
+
+AUSTIN: But this was a good scene, so we’re keeping the scene.
+
+SYLVIA: Oh, no, that was great.
+
+DRE: Absolutely. 
+
+
+AUSTIN: Let’s add… Let’s insert one bullet in this. Let’s add, what is it, franchise? 
+
+DRE: Yeah.
+
+AUSTIN: Oh, not “Frank,” franchise.
+
+
+DRE: Frank-eyes!
+
+
+AUSTIN: Frank eyes, right. Oh, just a sec, let me grab this. 
+
+
+SYLVIA: It’s managed by Frank Ise. He’s the guy who runs their local advertising brand.
+
+
+AUSTIN: Exactly. [laughs] And that’s oh-seven-oh-five, Joypark. Boom. Okay. Recruitment Center. God, you’re the worst. We’re the worst people!asset
+
+SYLVIA: You’re the one who made Jimmy, like, the Jimmy Buffet lady. 
+
+
+DRE: With your “guru talk!”
+
+
+SYLVIA: She’s great! I love her!
+
+
+DRE: She is great!
+
+AUSTIN: I love her. She’s fantastic! I don’t know what the problem is! 
+
+SYLVIA: I, oh my god, I love her.
+
+
+AUSTIN: Okay. Yes. But, she’s the worst. Yes. Um, Fairchild’s thing is that they wanna expand influence… Where are we at here. So they want to plant a base of influence on a new planet. They are currently on the planet Kaf. I think they want to plant one on Jemm, I think? Um… But I don’t think they have a way of getting there yet. So I think they’re just gonna spend their money, like we’ve been talking about, and do post-tech industry. Which is like, standard, kind of standard industry. Uh… oop oop, didn't mean that. Industry… there it is. Sylvi is one D six. uh... they get two credits! 
+
+
+SYLVIA: Oh, nice. 
+
+
+AUSTIN: Excellent. Um, that's five total for them. There's no tracks down to zero, right? [Sighs] Apostolos wants to seize a planet. And I think that they want to seize Torru, uh, which is very far away. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Um, 
+
+
+SYLVIA: I feel like Apostolos really wants to like, get come back to their former glory and kind of get them north again? 
+
+
+AUSTIN: That's e- that's totally it. Um, but it's gotta be really hard for them because they were left with like, nothing. They have uh, four 4’s, three wealth and one Cunning. They're not a very Cunning, uh, faction.
+
+
+SYLVIA: No
+
+
+AUSTIN: All they have is a base of influence on the planet Apostolos. They have a strike fleet, uh, ready to go on Apostolos and they have- they have, uh, a base of influence on Torru and post-tech industry on Torru. Um, so they have just kind of like- alright so Torru again, is the planet with the- the Xebras. Xebras with an X. Uh, like weird space, No Man's Sky animals. And I think that they are like- the industry that's there is like, basically factory farming, you know? [Chuckles]
+
+
+DRE: Yeah
+
+
+AUSTIN: Um, so... but they have something there already and what they could do, if their thing is they want to seize the planet, um, the goal there is take control of a planet becoming a legitimate planetary government. Difficulty equals half the average, current rulings, uh, factions force Cunning and wealth ratings. Um, to do a planetary seizure, you need to- uh... faction seizure become the ruling body of a world. The faction must destroy all unstealth assets on the planet, belonging to factions whose- who opposed their attempt before they can successfully take control. If all the assets can not be destroyed in one turn, the factions ontinue the attempt next turn until either successful or all of their own assets on that planet have been destroyed or have left the planet. No other actions can be taken in the meanwhile. Once all the resistance has been crushed, the attacker must maintain at least one unstealth asset on the world for at least three turns. If successful the game, the planetary government tie on the world. Um, so right now, uh, the Ziishe- the Rapid Evening has controlled Torru. 
+
+
+DRE: And then have to kill some space Marines.
+
+
+AUSTIN: Is that what Torru- is that what Zii has there? The Rapid Evening has there?  
+
+
+DRE: Uh, Rapid evening has a base of influence and space Marines. 
+
+
+AUSTIN: Okay. That's- that's  a lot to kill. 
+
+
+DRE: Yeah [Chuckles]
+
+
+AUSTIN: Um, let's see. Uh, so that would be- they would need to do 16 damage to the space Marines and they would need to do, uh, [Chuckling] 30 damage to the base of influence. 
+
+
+SYLVIA: Yep. 
+
+
+AUSTIN: That's a big one. That's a big- that's a big one. So what do you think they do? Do you think they just make money and spend it here or like make money and save it for the future? 
+
+
+[Long silence]
+
+
+AUSTIN: Okay. Um, yeah, they have- they- let's- I think also are just going to use their- their first turn here to make more money so they can buy some better stuff.
+
+
+SYLVIA: Yeah, I can like, imagine them just trying to like, amass a force.
+
+
+AUSTIN: Yeah, yeah.
+
+
+SYLVIA: Because they were taken down too, so well- [Interrupted]  
+
+
+AUSTIN: That's another- I wrote another six there for them. So they're going to also go up to five credits.
+
+
+SYLVIA: Didn't y'all roll a ton of sixes in the first Mech Noir game? 
+
+
+AUSTIN: I did. That's- I don't know what's happening [Overlapping] and I think is this Roll 20. 
+
+
+DRE: [Overlapping] The high role is this keeping going through.
+
+
+AUSTIN: She's going to keep coming. Alright, [Overlapping] with the Odamas Fleet-
+
+
+DRE: Art rolled all the ones out [AUSTIN: oh, okay] in the last episode of Friends at the Table, [Austin laughs] Dungeon World, so… [chuckles] 
+
+
+AUSTIN: [Chuckling] That’s true. 
+
+
+DRE: [Chuckling] Nonetheless.
+
+
+SYLVIA: So I've actually been trying to think what the Odamas Fleet could do.
+
+
+AUSTIN: Mm-hmm.
+
+
+SYLVIA: So we're based on, um, Tetrakal right now, because sort of a oceanic planet?
+
+
+AUSTIN: yeah!
+
+
+SYLVIA: Um, and it says like run by raiders on contract like corp. 
+
+
+DRE: I'm assuming that's the Odamas for the most part. 
+
+
+AUSTIN: Yeah, it's the Odamas- that is the- sorry, the Odamas is- is- you are the pirates who are running that planet. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Um, I think Minerva Mining has you running that planet for them?
+
+
+SYLVIA: Okay. Um, and the- the relationship with Minerva Mining is very much just a business one. 
+
+
+AUSTIN: Yeah, I think so, um-
+
+
+SYLVIA: Cause, uh, the Odamas's end goal is to take back Kalliope. 
+
+
+AUSTIN: Right. Exactly. Exactly. Uh, in fact part of the deal I think is that like, Minerva gets money from the fishing on Tetrakal. And it's not like you don't get a cut of that. What they let you do is they let you run one of your bases' influence on Minerva so that you get a cut of anyone who's going to and from Minerva 12. Anytime an asset shows up. In fact,  do you... is there a... No. Okay. Nothing's happened yet, uh, on any of these places. Not yet, but soon you might get some more. So what do you think? 
+
+
+DRE: I just wanted to really see the cyber ninjas. 
+
+
+SYLVIA: I was actually looking to see what I could do with that.
+
+
+AUSTIN: [Overlapping] I think they're just killers.
+
+
+SYLVIA: [Overlapping] How do you see how much something can move? 
+
+
+AUSTIN: Um, most stuff-  most stuff can- can't even move one hex a turn. Most stuff, needs a carrier to carry it, uh, one way. 
+
+
+SYLVIA: Where is that listed? 
+
+
+AUSTIN: Uh, it would just be in the description of the thing.
+
+
+SYLVIA: Okay. 
+
+
+AUSTIN: It doesn't happen yet. Like, so far instance- 
+
+
+SYLVIA: So I- my strike force. My strikes fleet. My-
+
+
+AUSTIN: Yes. Also, you can move that wherever you want right now on any of your base of operations, planets. Um, I just- when I wrote this, when I designed them before I knew you were playing as them, they were on Tetrakal, but now that they're a player character faction, I want you to- can put them on any of the planets that you have a base on.
+
+
+SYLVIA: I don't think that the ship is on Kaliope yet. 
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: I think that they kind of want to keep it a secret but they even have this.
+
+
+AUSTIN: Yes
+
+
+SYLVIA: Um, because they took it from Fairchild
+
+
+AUSTIN: Right. [Overlapping] Who is still ???, yeah. 
+
+
+SYLVIA: [Overlapping] If Fairchild is still ???. They're kind of the big power there. [AUSTIN: yeah] Um, I'm tryna... actually our cyber ninjas are in Kaliope. 
+
+
+DRE: mm-hmm
+
+
+AUSTIN: They are. I left them there- I, again, you can move them if you want to. If you'd rather them somewhere else. 
+
+
+SYLVIA: No, I think that's a really good place to put them as sort of a surveillance sort of, so- 
+
+
+AUSTIN: Yeah, totally. 
+
+
+DRE: I mean, they could also attack something that's on Kaliope. Like, Fairchild has stuff on Kaliope they could go after. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Yeah.
+
+
+SYLVIA: And, um, cause my thing is Bloody the enemy, right? [AUSTIN: Yes] So let's just attack him basically. I don't know. 
+
+
+AUSTIN: Yeah, Bloody the enemy says, uh...  which is your goal currently, is... where'd it go? Inflicting number of hit points of damage on an enemy faction equal to your- your factions, total force cunning and wealth ratings. 
+
+
+SYLVIA: So all of my ratings [AUSTIN: yes, together] together. So that would be a... 
+
+
+AUSTIN: Eight.
+
+
+SYLVIA: Eight.
+
+
+AUSTIN: Yeah. So you have four in force, three in cunning and one in wealth. Again, you are a minor asset. A minor faction currently.
+
+
+SYLVIA: they are very- they are very small.
+
+
+AUSTIN: But the thing I said was that if you succeeded at Bloody the enemy, you will get something special, uh,  the same way that when- when Snowtrak does something, uh, succeeds at wealth of the world, something special will happen for them to.
+
+
+SYLVIA: Yeah. 
+
+
+SYLVIA: Um, I'm just gonna look at the cunnings really quick. 
+
+
+AUSTIN: Sure
+
+
+SYLVIA: Because it doesn't really describe what [AUSTIN: right] you can do with cyber ninjas, [Inaudible] 
+
+
+AUSTIN: Oh, they're just-
+
+
+SYLVIA: They're really sneaky.
+
+
+AUSTIN: They're just- And they- [Overlapping] so you could attack with them. Yes.
+
+
+SYLVIA: [Overlapping] So you can attack.
+
+
+DRE: Yeah, “used to damage”. 
+
+
+AUSTIN: Yep. That's totally it. 
+
+
+DRE: They're cyber ninjas, Sylvia,  what do you- what else do you need them to do? [Austin laughs]
+
+
+SYLVIA: I don't know, I was like, surveillance. I was thinking smart, but then again, these are pirates. 
+
+
+AUSTIN: They are pirates. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Tell me about the ship, too, a little bit. What do you think it looks like? 
+
+
+SYLVIA: So the ship. Um, gotta go check out the name I wrote down again… the Yersinia, uh, I'm seeing it as this sort of, it's a big ship. Like, it is a flagship. Like, it is a sa- it is a battleship. Like, it is able to handle it. I think that it's- it's listed as a strike fleet, so I think they have smaller ships as well. 
+
+
+AUSTIN: Yes. Yes, definitely.
+
+
+SYLVIA: But most of the crew lives- that most of the crew that comes with them lives on this ship and it's piloted by, I love the name I came up with this for the captain, Captain Hudson Thorne.
+
+
+AUSTIN: Captain Hudson Thorne is a good name.
+
+
+DRE: That's real good. 
+
+
+SYLVIA: And he calls himself the first son of Kalliope. 
+
+
+AUSTIN: First son. Okay, perfect. 
+
+
+SYLVIA: Yeah. And he was sort of like this like, old guy- older guy who like, was one of the first people who went through the like, bioengineering.
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: And sort of helped like, get these people off Kelliope and start this group and, um, sort of- he's very much like, patriotic about his home. Like, he wants his home back. 
+
+
+AUSTIN: Okay. 
+
+
+SYLVIA: Um, and he's like really like, roughed up and scarred. 
+
+
+AUSTIN: I just- I hope you understand now that Diego Rose has to work with Hudson Thorne. 
+
+
+SYLVIA: Oh, of course. 
+
+
+DRE: Yep
+
+
+AUSTIN: I don't know how we didn't see this before. 
+
+
+SYLVIA: He's his first mate.
+
+
+AUSTIN: Yeah. [Dre laughs] Diego Rose is obviously the Yersinia's first mate. 
+
+
+SYLVIA: Yeah, no, totally. Um, and actually I can see Diego as being like, a human that they brought on later.
+
+
+AUSTIN: Sure, sure. 
+
+
+SYLVIA: Yeah. Um, but, yeah, the Yersinia it's- it's- they stole it from Fairchild bef- I want to say like, before it was completed?
+
+
+AUSTIN: Yes. 
+
+
+SYLVIA: For the most part, like- so they had to do a lot of work on it themselves, and so like- 
+
+
+AUSTIN: Is it like this pristine ship that then also has just [Overlapping] ship bolt just like-
+
+
+SYLVIA: [Overlapping] also has like different, like, stuff from other ships that they've blasted out of the sky, like bolted onto it and like, that canon doesn't look quite right, but it works. Like, it doesn't- it doesn't look like it's fro- like, "oh, that Cannon's it's a Minerva canon".
+
+
+AUSTIN: Right.
+
+
+SYLVIA: But it's- or maybe not Minerva, cause they have like an alliance with them, but that Canon's like, maybe it's like a Snowtrak canon or something. 
+
+
+AUSTIN: Right, right. Hey, maybe- maybe I was part of the- the alliance with Minerva was. 
+
+
+SYLVIA: Yeah.
+
+
+AUSTIN: [Overlapping] Take this canon, sure.
+
+
+SYLVIA: [Overlapping] I actually really like the idea that they just have, uh, like, you know how ships have like the masthead on the front?
+
+
+AUSTIN: mm-hmm.
+
+
+SYLVIA: They tuck a rig that they like, pretty much destroyed almost. 
+
+
+AUSTIN: Nice 
+
+
+SYLVIA: And fashioned it into like, [Dre laughs] the thing that they have at the front of the ship.
+
+
+AUSTIN: Nice. 
+
+
+SYLVIA: I like, painted like, like painted it as like, a warning thing. [AUSTIN: yeah, totally] Like they are very much  trying to inti- like, be intimidating with it. Um, and like, it says like, the Ursi- Ur- um, Ur- [Sighs] Yersinia is like painted on the side and like, like… I don't want to say like spray painted. It's more, it looks nicer than that. Like, they are very like-
+
+
+AUSTINl Is it like, stencilled? 
+
+
+SYLVIA: It stenciled on. Yeah. 
+
+
+AUSTIN: Like that way it's still like, it's still kind of D.I.-, uh, D.I.Y.- 
+
+
+SYLVIA: It's- it's D.I.- Like, it's done themselves, but it's- it's not like [Overlapping] someone's tagged it. Yeah. 
+
+
+AUSTIN: They take some pride there. Yeah, yeah. Sure. 
+
+
+SYLVIA: Yeah, they're- they are incredibly proud of this. They, like, this is- I'm sort of taking some influence from a book I've been reading called "the uncanceled".
+
+
+AUSTIN: Okay
+
+
+SYLVIA: They sort of ??? the uncanceled's home that they make. And I've kind of have that idea with the flagship where that this is before they even found Tetrakal. This was their home. Like they, like, they were a small group of people at first [AUSTIN: gotcha] and then they settled on Tetrakal and expanded more. 
+
+
+AUSTIN: Gotcha. 
+
+
+SYLVIA: But like, this is basically the capital of their entire thing. 
+
+
+AUSTIN: Right.
+
+
+SYLVIA: Like um, Thorn never leaves these things, unless he has to.
+
+
+AUSTIN: Right. 
+
+
+SYLVIA: Like he never stays behind while at somewhere else. He's always right near his ship. Like this ship is part of him basically. 
+
+
+AUSTIN: Awesome. 
+
+
+SYLVIA: Yeah. Um... [Short silence] what I think- [AUSTIN: Yes, so what they're doing?] I haven't thinking of my move. I think I actually am gonna have them do an attack with their cyber ninjas. Um, because just the explaining what the cyber ninjas are- I don't think they're like actual ninjas...
+
+
+AUSTIN: No no no, yes.
+
+
+SYLVIA: But they are like a robotic, like they- they found, I want to say like semi-sentient robots or something. Um, because they- their whole thing I like to think of is like [chuckles] in a weird way, like the big island of misfit toys.
+
+
+AUSTIN: Okay. 
+
+
+SYLVIA: They'll pick up anyone that's been casted away. And sort of like, find a place for them.
+
+
+AUSTIN: mm-hmm.
+
+
+SYLVIA: Like they're not good people, but they will take, like, they still do bad things. They're still pirates. 
+
+
+AUSTIN: But- [interrupted] 
+
+
+SYLVIA: But they- they have a- they have this like, affinity for peop- for outcasts, someway. 
+
+
+AUSTIN: okay.
+
+
+SYLVIA: Like, their morals are very gray still and they have a very- but they- they treat each other like a family in a way almost.
+
+
+AUSTIN: Right, totally.
+
+
+SYLVIA: So they found these like, maybe they were like, maybe they weren't even military robots, but they found them and they like- cause I imagine at this point, like, because [Chuckling] they've been able to put together this ship that wasn't complete and make it run and work really well. So they have some pretty capable- capable mechanics?
+
+
+AUSTIN: mm-hmm.
+
+
+SYLVIA: And so they fashioned them into this stealth unit and they're not pr- like, they don't have like Katana's or anything, [Austin laughs] but they have really good stealth and they have like, [Dre laughs] um...
+
+
+AUSTIN: How much of that stealth is because they're just like work robots. 
+
+
+SYLVIA:I think part of it is because of that, like um...
+
+
+AUSTIN: It's just like, oh yeah, it's just one of those bots, like, they just walk into places. Of course.
+
+
+SYLVIA: Yeah. Like, I even think- like, like, yeah. It's just like, they're like service robots or anything, but then they've got like concealed hand cannons.
+
+
+AUSTIN: Right. Like, again, Jack's character is maybe even playing someone just like this. 
+
+
+SYLVIA: Totally. Totally, actually. 
+
+
+AUSTIN: And- Which is- which is interesting, which is interesting.
+
+
+SYLVIA: If AuDy hadn't joined up with the Chime he[2] might've ended up in the Odamas.
+
+
+AUSTIN: Exactly. [Dre laughs]
+
+
+SYLVIA: Um, because they like- like, I think like, tell me if I'm wrong here, like sentience among AI is still sort of a weird, scary thing to our people. 
+
+
+AUSTIN: Yes, it is. It totally is. That's exactly right. 
+
+
+SYLVIA: So when anything gets a, like, they will go to like- I want to say actually Minervas send us som cast off robots. 
+
+
+AUSTIN: Perfect. Yeah.  
+
+
+SYLVIA: Um, and so this unit, I don't- I don't think we need to do a scene with this unit specifically.
+
+
+AUSTIN: Okay. 
+
+
+SYLVIA: Um, I was actually thinking maybe, I don't know, maybe. I- I’m- [Overlapping] we’ll see.
+
+
+AUSTIN: [Overlapping] Let me know when- yup, yup.
+
+
+SYLVIA: I'm just thinking what I want them to like, specifically attack... ??? 
+
+
+AUSTIN: So the only stuff there- 
+
+
+SYLVIA: Fairchild, Fairchild. 
+
+
+AUSTIN: Fairchild, yeah. It’s they have, so they have a base of influence there.
+
+
+SYLVIA: yeah
+
+
+AUSTIN: And they have Vanguard Cadres there. 
+
+
+SYLVIA: Okay. 
+
+
+AUSTIN: Cadre? Am I pronouncing that right?
+
+
+SYLVIA: Yes.
+
+
+AUSTIN: Yeah, I think so. 
+
+
+SYLVIA: Um... hold on, let me take my C- let me just check my cyber ninjas stats real quick. 
+
+
+AUSTIN: Uh-huh [Chuckles] 
+
+
+SYLVIA: God, I love it. Um, yeah, I actually think that...
+
+
+AUSTIN: So remember, you just pick the faction you want to hit. 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: And then- [interrupted]
+
+
+SYLVIA: And just pick the faction. I don't pick the specific ???
+
+
+AUSTIN: You don't pick the asset. Yeah, exactly. Cause then the defender ar-[interrupted] 
+
+
+SYLVIA: Then they're- they are attacking Fairchild.
+
+
+AUSTIN: Okay, yeah.
+
+
+That is much like whenever they have a chance to attack Fairchild, they are going to attack Fairchild unless they're hired to attack someone else. 
+
+
+AUSTIN: Okay, yeah. So then the defender chooses uh, and asset to match them against. Each attacking asset can only attack once per turn. Once matched, which was now done, the attacker rolls one D10 and adds their relevant attribute for the asset. So with cyber attack or cyber ninja say, is cunning versus cunning? 
+
+
+SYLVIA: Is cunning versus cunning. And it's...
+
+
+AUSTIN: okay, so that, you're-
+
+
+SYLVIA: uh, but um, I roll two D6 for Congress ? 
+
+
+AUSTIN: No no, that's- that is what your damage will be if you hit-
+
+
+SYLVIA: Oh, my damage. Okay. 
+
+
+AUSTIN: Yeah. So, so to hit you roll one D10 plus the Odamas fleet cunning, and- and then the, uh, fairchild will be defending with [SYLVIA: Oh] their... their... uh...
+
+
+SYLVIA: This could get bad.
+
+
+AUSTIN: This could. Well, that's- that's still interesting. [SYLVIA: yeah, no. Totally] The Vanguard cadres. So the Fairchild has this thing on this planet called, uh, Vanguard cadres, which says... so we have a- I can start thinking of what that is; that the followers of the movement inspired sufficiently to take up arms and fight on behalf of their leadership. So here, I think it's just like, it's people who like the gene, um, maybe- we'll decide based on like what the success or- or failure is, but it could be a place that- it could be people who work at a gene modding facility. It could be play people who work at a fair child factory. Um, well, let's see what the role turned out to be and then we can kind of color it, light or dark.
+
+
+SYLVIA: Actually, I've been already thinking like, ??? where we should do a scene with this. 
+
+
+AUSTIN: Yeah, totally. 
+
+
+SYLVIA: I- [AUSTIN: Um...] Yeah, yeah?
+
+
+AUSTIN: So let's… [unintelligible] I think it's a fairchild- [interrupted] 
+
+
+SYLVIA: It’s one D10 plus cunning, right?
+
+
+AUSTIN: Yes. Exactly. For both- both sides. Yup.
+
+
+SYLVIA: Okay, I rolled 7, [DRE: it’s pretty good] so it’s 10.
+
+
+AUSTIN: 10 total.
+
+
+SYLVIA: 10 total.
+
+
+AUSTIN: And D10 plus 4. [SYLVIA: oh man] Ooh, it’s a tie. Uh, it's a tie. Let's see if there's anything we're missing here for... let's think, uh, one second, let me- 
+
+
+SYLVIA: Does- does Kalliope have the- no, [Overlapping] Fairchild doesn't have the-
+
+
+AUSTIN: Kelli- no. Fairchild has- okay, yeah. So let’s actually make sure about this; pirates- 
+
+
+SYLVIA: Technical expertise…
+
+
+AUSTIN: Yeah, 10 was technical expertise. [Overlapping] So I think it's just like-
+
+
+SYLVIA: So plan- um…
+
+
+AUSTIN: I think it’s just like [Overlapping] a technology thing.
+
+
+SYLVIA: Okay, now they can ??? assets on any rolls. 
+AUSTIN: Right. Which is great! That's awesome. But- seeing nothing- nothing there, and then pirates doesn't do anything yet. Pirates' about making- making money.
+
+
+SYLVIA: It's a tie.
+
+
+AUSTIN: So I think a ti- I think a tie... let me double check. 
+
+
+DRE: I've got it pulled up here for a tie.
+
+
+SYLVIA: This gotten real interesting real fast. 
+
+
+AUSTIN: Uh-huh.
+
+
+DRE: It says here a tie on the roll results in both attack and counter-attack succeeding.
+
+
+AUSTIN AND SYLVIA: Ooh, okay. 
+
+
+DRE: Both attacks [Overlapping] so the defenders take damage. 
+
+
+SYLVIA: [Overlapping] so then both would take damage. Okay.
+
+
+AUSTIN: Okay. So that means you roll your 2D six, I think. 
+
+
+SYLVIA: Yes. two D6.
+
+
+AUSTIN: Right? And then they get to roll one D6 counter attack.
+
+
+SYLVIA: [Keyboard typing] So six. 
+
+
+AUSTIN: And...
+
+
+SYLVIA: [Lower voice] Got another six. 
+
+
+AUSTIN: Two. 
+
+
+SYLVIA: Okay. 
+
+
+AUSTIN: Uh, so that means you can lower the, uh, that means the- the Vanguard Cadre goes down to six and then the, uh, six HP, and then the same thing with your- your cyber ninjas go down by two. 
+
+
+SYLVIA: Oh man. That's actually- they do not have a HP. 
+
+
+AUSTIN: Yeah. Well, Yeah. 
+
+
+SYLVIA: Uh, I-
+
+
+DRE: They are ninjas. 
+
+
+SYLVIA: Kind of like goes with what my- I can kind of describe what like, my idea [Overlapping] of how this is going.
+
+
+AUSTIN: Yeah. Tell me- tell me what are your ideas. Definitely. 
+
+
+SYLVIA: So I think that um, I think what this is is like, they are attacking a like, an engineering facility on Kalliope as sort of a statement that they wanna- 
+
+
+AUSTIN: Okay. 
+
+
+SYLVIA: Like they want to make Fairchild know that there are people coming for them, because like I said, they have- they have to put a lot of ??? and intimidation. Um... 
+
+
+AUSTIN: Sure, sure.
+
+
+SYLVIA: So they want Fairchild to know like, once- like, they want- what- like, ideally they want it to just do an attack and leave like a small calling card, but they- they got caught, basically. This group of- 
+
+
+AUSTIN: Ooh, interesting.
+
+
+SYLVIA: There's a group of, um, robots. And I think there are some like, organic beings there too. Like, I think that there's a couple of humans there as well.
+
+
+AUSTIN: What if it's- what if it's a situation where it was like, the robots had been working there for months. And then like, there was an attack out front of humans and, and gene mod people who were like, you know, [Overlapping] causing ??? 
+
+
+SYLVIA: Oh, It’s perfect! Oh my god.
+
+
+AUSTIN: And then like the security forces, all ran to- to stop the gene people outside and the humans. And then the service robots all like, clicked into like, road.
+
+
+SYLVIA: They just like, came on and like, [AUSTIN: yeah] they were like a sleeper cell almost. 
+
+
+AUSTIN: Exactly. And so like [DRE: oh, that's very-] maybe those are the two- so you take, you took half losses, right? 
+
+
+SYLVIA: Yeah
+
+
+AUSTIN: You took like almost half of it. So do they, so maybe those inside bots are the ones that you lost, um
+
+
+SYLVIA: Becau- maybe the like, facility exploded or something.
+
+
+AUSTIN: Yeah. That'd be awesome. They like- did they? What's that facility like, look like inside? 
+
+
+SYLVIA: I'm thinking it's a very, like, I'm- I'm not thin- I'm thinking that this is a place where they make like- this isn't the place where the ??? get done. This is where they make like, the where they engineer, like, um, the like medical things  used in them. They engineer like the actual, like genetic material themselves. Like this is where like they're splicing genes and stuff to be put into some of them. 
+
+
+AUSTIN: I got you. Cool.
+
+
+SYLVIA: Um, so there's a lot of like labs there. There's like-
+
+
+AUSTIN: lots of chemicals too. 
+
+
+SYLVIA: But there are also like assembly lines, cause they're also making the medical equipment. So I can see that these robots were working on the assembly lines and then, when they were ready to go, they- they go for more for the labs because it- like, they want to take out this- like the assembly lines is a problem, yeah.
+
+
+AUSTIN: Totally. 
+
+
+SYLVIA: But they want to stop the actual modification. 
+
+
+AUSTIN: Okay. 
+
+
+SYLVIA: Because they want to just like, they want to really want to take it to these people who are doing this thing that was done to them, but for like really vain reasons. 
+
+
+AUSTIN: Right.
+
+
+SYLVIA: It's sort of very-
+
+
+AUSTIN: very like- like- it's like this place, they're doing it now. People who are doing this now are doing cause they think it's cute. But like, this shit happened to us, was done to us, which is a really interesting sort of appropriation story. Right? Like-
+
+
+SYLVIA: That's kind of what I was hopefully- hopefully aiming for. 
+
+
+AUSTIN: I like that a whole bunch.
+
+
+SYLVIA: Yeah. They- they didn't experience the early days of this when it was incredibly painful and incredibly arduous and they weren't doing it to make you have nice hair and shiny teeth. They were doing it to make it so you killed things better. And so you could burrow into the ground so you could survive the earthquakes.
+
+
+AUSTIN: Totally. 
+
+
+SYLVIA: [Overlapping] Um, they like- 
+
+
+AUSTIN: [Overlapping] Um- 
+
+
+SYLVIA: Yeah. 
+
+
+AUSTIN: Yeah. I like it a whole bunch. Okay. Um, so that's- that's that. I think it's a good scene. I don't think we have to zoom in anymore. 
+
+
+SYLVIA: No, I think that's like a pretty, like, I don't think we're going to, like, do an action scene.
+
+
+AUSTIN: Is there anything there that you want to turn into a legacy? So, so far our legacies that we've taken are- are, uh, Leonard Bircham, Darius Flannigan, uh, Orin Marova, the Snowtrak. [DRE: yeah] business jerk. uh, Lena Sha- uh, Shashkova, Natalya Greaves. Um, and then, who el- Hudson and Diego. 
+
+
+SYLVIA: Yeah, like I don't think they were- I don't think either of them were there directly. I think maybe Hudson had like [AUSTIN: no] the video feed that he was watching. [AUSTIN: Yeah] Like you can see him in his captain's chair back on. Maybe they weren't too far. Like-
+
+
+AUSTIN: What's Hudson looked like? [Overlapping] You said rat, is rat person-
+
+
+SYLVIA: [Overlapping] Hudson- so Hudson, I see him as like, so when- he has rat features, like he is mo- like he use- when you see him, you see a rat person, but I don't want it to be like, I don't- I don't think it's too cartoonish. I think like he does have the avant-garde game face and it's covered in fur, but like, like he's not- he's not like an Arthur character. He's more of like- 
+
+
+AUSTIN: Right. He's not like-
+
+
+DRE: He's not master splinter. 
+
+
+SYLVIA: He's master splinter if master splinter got put through the ringer a ton. 
+
+
+DRE: Okay. 
+
+
+AUSTIN: Okay.
+
+
+SYLVIA: And like, but like he doesn't have the big like, rat ears or anything, like he's got like-  he still has some recognizable human features. Like he has human eyes and he has human like, ears. And like, um, I think he walks with a slight limp because of what's been done to him.
+
+
+AUSTIN: Okay
+
+
+SYLVIA: He's got a lot of scarring, especially around his face. Um, and along like, I think, I actually think he might- actually, I think the reason he walks with a limp is he's missing a leg. Like I think he has a proste-  like a ill fitting prosthetic that they used, um, just cause they had it and like, because he's had it so long, he just hasn't gotten rid of it. He almost is proud of it. Um, because like it shows that he has survived through the early days of this.
+
+
+AUSTIN: Got it.
+
+
+SYLVIA: Um, and like he wears, like... I see him as being like, he kind of wears like, like kind of like an old- like, like he's kind of wearing a military uniform, but it's more like stitch together, like it's made of like whatever material they could find. And I like to think that it was made for him by someone and he wears it because it was given to him by someone he protected- he's protected. 
+
+
+AUSTIN: Gotcha. 
+
+
+SYLVIA: Cause he like, he is very much like a man of like, who wants to protect the people that he like- he's kind of torn because like, what he just did was send a lot of people- like, I like to think like, what he did was just send a lot of people to die in this attack that went wrong. 
+
+
+AUSTIN: Right. 
+
+
+SYLVIA: But at the same time he knows that they're doing it for the greater good of the people that they have. Um, so he is very much like protective of his followers, but at the same time he does what he needs to.
+
+
+AUSTIN: Gotcha
+
+
+SYLVIA: Um, but yeah, no. So he's got this like admirals jacket that sort of like, almost patchwork? i think? Um, like there's like some- like, it was just like they got what they could from people that they had like, rated. [AUSTIN: rated or- right. sure] So there's like some leather in there. Like some flannels...
+
+
+AUSTIN: Just a mess. 
+
+
+SYLVIA: It's a mess. It's a total mess, but it's got like, um, I think, I- I'm trying to think of like what their, like, insignia would be, but [AUSTIN: we'll figure that out] I definitely think that there is an insignia of the Odamas Fleet of some sort. I'll think of it later. 
+
+
+AUSTIN: Awesome
+
+
+SYLVIA: But there's that like proudly displayed on the back of it. And then he's got like those shoulder, like castle things. I don't know what to call.
+
+
+DRE: [Overlapping] Nice
+
+
+AUSTIN: [Overlapping] Right. Totally.
+
+
+SYLVIA: didn’t ??? has. Like, it's a very official like, Navy looking jacket. 
+
+
+AUSTIN: Right, totally. 
+
+
+SYLVIA: Um, and it's on just this grizzled as fuck rat man. [Austin laughs] Like he is just a mess. And like he always has, um... I think he always has a sort of like, I don't know if like, it kind of looks like a sawed-off shotgun on his- with him. Um, actually I think maybe it like, comes out of his fake leg. 
+
+
+AUSTIN: Oh, awesome. 
+
+
+DRE: Yes. [Laughs]
+
+
+AUSTIN: That's the best. 
+
+
+SYLVIA: And so he always- he's always armed. Like he's never not ready to go. Cause he is just as ready to die for this as anybody who follows him. 
+
+
+AUSTIN: Totally. Awesome. 
+
+
+SYLVIA: Yeah. And that's sort of like, [Overlapping] his whole thing. 
+
+
+AUSTIN: [Overlapping] Speaking of that. Good news. 
+
+
+SYLVIA: Yeah? 
+
+
+AUSTIN: Uh,  Horizon Tactical Solutions turn. 
+
+
+SYLVIA: Oh boy.
+
+
+AUSTIN: Uh, they have a- they have a contract. 
+
+
+SYLVIA: [Sighing] Oh boy. [Dre laughs]
+
+
+AUSTIN: Um, someone doesn't like- someone doesn't like the situation between  Minerva and uh, and the Odamas Fleet and thinks maybe Tetrakal  would be better in- in someone else's hands. 
+
+
+SYLVIA: Oh that's fun.
+
+
+AUSTIN: So they are attacking Tetrakal with their strike fleet. 
+
+
+SYLVIA: Oh!
+
+
+AUSTIN: Which is a force v force attack. Who are you defending with? 
+
+
+SYLVIA: Um, I think we're going to defend with our own strike fleet. 
+
+
+AUSTIN: Oh boy. 
+
+
+SYLVIA: I think, [DRE: man!] you know, they've got a ship. We've got a bigger ship, hopefully. [Almost chuckling] hopefully our ship is bigger. 
+
+
+AUSTIN: Hopefully. All right, one D4 plus or one D10 plus four.
+
+
+SYLVIA: As- as- we both one D10 plus four? 
+
+
+AUSTIN: yup.
+
+
+SYLVIA: Oh man.
+
+
+AUSTIN: Uh-huh.
+
+
+DRE: I'm so nervous with this. Oh, no, I'm not.
+
+
+SYLVIA: [Overlapping] I don't know. I could roll one. 
+
+
+AUSTIN: [Overlapping] We'll see. [Chuckles]
+
+
+SYLVIA: Oh, wait, I messed up. 
+
+
+AUSTIN: I did the same thing before. 
+
+
+SYLVIA: [indistinct] okay... [Groans] I rolled a seven.
+
+
+AUSTIN: There's a good roll. That's a good roll. All right. So I'm going to- the- the picture of the Horizon Fleet is like, I'm picturing these as like boxy rectangle ships. Like the- the Horizon Strike Fleet is- is like, [Sighs] I'm almost like I'm trying to think of like the proper thing to compare it to, but like it- it's long and- and squared off with like a little fins on the back and like a kind of a raised bridge. That's their- their kind of- their main capital ship of this fleet. Um, and it- it is kind of, uh, flanked by maybe three other little frigates and then like a bunch of, um, a bunch of Minerva Rooks, that's like, their go-to, um- wait, this is Horizon. So actually Horizon has- has ??? or has us, uh, Snow- Snowtrak, um, Riggers. Um, and- and that's probably part of the reason why they loose here is. Snowtrak Riggers are not super good for- for space combat. They're really good for ground combat. Like they're built for, uh, hazardous, uh, areas like, blizzard lands and radioactive fields. Um, not as good for like sitting- they basically like have- have Rigers that sit on top of like the launch decks of their spaceships and like- [Interrupted]
+
+
+SYLVIA: Like they're almost done like, um, naval carrier type thing.
+
+
+AUSTIN: Yeah, exactly, exactly. And they can go out for like short like fights, [Overlapping] but they-
+
+
+SYLVIA: [Overlapping] But they don't have an extended flight.
+
+
+AUSTIN: Don't have extended flight. Exactly. And also I think that they use exclusively, uh, physical, like,  weapons. There's no beam weapons here. Like, they're using like slug throwers [Dre laughs] and like drilled gauntlets and like, that's cool, but like, there's not a match for that. 
+
+
+SYLVIA: I wanna say that one of those max is the max that's on the front of-
+
+
+AUSTIN: Awesome. Totally, totally. Uh, I love it. So, so yeah, they- they- they fail here. You get to roll your counterattack [SYLVIA: one D8] here, which is one D8. 
+
+
+SYLVIA: Okay, only a two. So I feel like, maybe they pulled out early when they realized, cause I feel like, like you described that these guys have Riggers, I'd almost have nothing, like none of- no mechs, they are all pirates, like they lived in space for a very long time. Like they were nomadic for a very long time before settling  Tetrakal or even still sort of nomadic. Um-
+
+
+AUSTIN: Right. Even on Tetrakal they're nomadic, [Overlapping] right? Like, they don't have cities on Tetrakal.
+
+
+SYLVIA: [Overlapping] Yeah, like Tetrakal is where they come back to and where they like, some people for them live. Like that's- that's probably got the most concentration of them, but they still don't have- they do not consider anywhere at home other than the ship or Kaliope. 
+
+
+AUSTIN: Okay, cool. 
+
+
+SYLVIA: But I just got to borrow a term from Infinite Space, which is a really good game. Um, [AUSTIN: it's pretty good, yeah] there are a bunch of Zero-G Dogs, is the way I described them [Dre laughs] where they're all pilots, pretty much, um, pilots or like, like soldiers, like, but they know mech pilots here.
+
+
+AUSTIN: Okay, cool. 
+
+
+SYLVIA: Like they- [interrupted]
+
+
+AUSTIN: All right. 
+
+
+SYLVIA: So that's why they had the advantage basically. 
+
+
+AUSTIN: Yeah. They didn't need- they don't- they- they were ready for- for whatever that, uh, horizon could throw to them.. This has been a bad- this has been a bad one, too, for horizon tactical solutions. They- they failed to keep seeing captured for Snowtrak. They've now failed to take Tetrakal away from you or even- even bloody your nose. So-
+
+
+SYLVIA: Just stop messing with these ragtag groups of underdogs. 
+
+
+AUSTIN: [Crosstalking] Oh! I wonder if... one second. Let me think. Um... okay, so wait, how many points have you now inflicted? Eight. So let's keep track of that.
+
+
+SYLVIA: Um...
+
+
+AUSTIN: You've- now- you've now done eight damage so far. 
+
+
+SYLVIA: That's the number I need to reach. 
+
+
+AUSTIN: That is the number. Okay. So let's not- let's open the next game with [SYLVIA: okay, I'm really excited to] Ursinia. Uh, let me make a note here. Okay. 
+
+
+SYLVIA: [Chuckles] All caps. 
+
+
+AUSTIN: All caps. I kind of feel like we should call it [SYLVIA: Yeah] at that point. 
+
+
+DRE: Yeah.
+
+
+AUSTIN: Um, there's still- there's still much stuff to go, but we've gotten some good scenes here and I don't want to drag too long [SYLVIA: yeah, it's been a couple] for the first thing. I'm going to figure out what the rest of these corporations do. But until we move forward on your stuff, I don't want to- I don't want to shake things up too much. [Overlapping] I think most of these-
+
+
+SYLVIA: [Overlapping] And if you have any ideas for scenes for this, we can do that next time for the ones that were not [AUSTIN: exactly] on air. 
+
+
+AUSTIN: Exactly. Maybe we'll even start next time at the Hands of Grace, uh, with their turn. I- I, you know, I've been thinking about each of these things actually, and most of them were just going to be making funny this turn. 
+
+
+SYLVIA: It's like, the first turn, so yeah.
+
+
+AUSTIN: Exactly. 
+
+
+DRE: Yeah.
+
+
+AUSTIN: So, start here, I'll make a note there. All right. I'm Austin Walker. You can find me on the internet at Austin _ Walker. You can find me also at [Music - “The long Way Around” starts] giantbomb.com, where I write about video games. I'm still laughing about that, cause like, it seems so ridiculous now that I'm saying that out loud. [Sylvia giggles] Um, life is weird. Uh, [Overlapping] what about you?
+
+
+SYLVIA: [Overlapping] Sometimes it's worth it. 
+
+
+AUSTIN: It is. It's pretty cool. Where can they find you, uh, Dre? 
+
+
+DRE: Hey, you can find me on Twitter at AndrewLeeSwan. And I'm also part of the streamfriends. You can find us at twitch.tv/streamfriends or at streamfriends.tv for a YouTube archives.
+
+
+AUSTIN: Awesome, and Sylvia, what about you?
+
+
+SYLVIA: You could find me on Twitter at sylvibullet and I sometimes do streams at TwitchTV/[Name]Clare[3]; that's [Name] with an I. Uh, Clare with no I. Some people spell it with an I. [Austin laughs] And uh, yeah, that's where you can find my stuff pretty much. 
+
+
+AUSTIN: Awesome. 
+
+
+DRE: Sylvia has a good, uh, Let's Play: Contradiction.
+
+
+SYLVIA: Oh, yeah. Um, and my YouTube is youtube.com/captaintrash, [AUSTIN: awesome] I play all of contradictions as well, we should talk about this. 
+
+
+AUSTIN: That's a fucking- that's a fucking game, isn't it? [Dre and Sylvia laughs] God damn. All right. Thanks everybody for joining us. Uh, I think that we're going to release this as a single episode, and then we'll be back to Mechnoir next week, and then back to this a couple of weeks after that. So that's kind of uh, the rhythm for the- for the foreseeable future anyway. I think that's it. Oh, if you could, if you haven't, please go to iTunes and give us a rating, it helps a whole bunch, so I appreciate it. See everybody next week.
+________________
+[1] The name in the audio recording is no longer in use, hence the audio/transcript discrepancy.
+[2] AuDy has been established as being genderless and using they/them pronouns.
+[3] This name (and Twitch account) is no longer in use and has been removed from the transcript, hence the discrepancy.
